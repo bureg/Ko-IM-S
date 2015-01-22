@@ -1,0 +1,591 @@
+com2c 0 119
+com2d 0 83
+com2e 0 111
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「真、３次予選も突破だなっ！　よくやった！」
+display
+com11 0 0
+sound 10000
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「へへ〜、ドキドキでしたよ。響にあんなこと
+line2 <shift> # 言っておいて落ちたらかっこ悪いですもんね！」
+display
+com11 0 0
+sound 10001
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「真、やるな！　今日もダンスがキレてたぞ！」
+display
+com11 0 0
+sound 10002
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あ、うん。ありがとう！　見ててくれた？
+line2 <shift> # これでまた一歩、響に近付いたよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「確実に、２人の差は縮まってるな。真のダンス
+line2 <shift> # は、これからまだ、さらに伸びるだろうし」
+display
+com11 0 0
+sound 10003
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「え、そうですか？　へへっ、やーりぃ！」
+display
+com11 0 0
+sound 10004
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「だったら自分は、真以上の速さで、
+line2 <shift> # 成長するもんね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お、対抗意識を燃やし始めたな。
+line2 <shift> # ライバルとして、真を認めたっていうことだな」
+display
+com11 0 0
+sound 10005
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「うん、真のこと、少しは認めてるぞ。
+line2 <shift> # ……だけど７６５プロは、まだダメだぞ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （何だか、俺って、いつもこういう扱いだなあ。
+line2 <shift> # 響とのコミュニケーション、足りてないのかな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （でも、俺は真のプロデューサーなんだしな。
+line2 <shift> # さてと、この後、どうしよう……）
+com03 0 3
+choice1 <shift> # 真に話しかけよう
+line2
+com09 0 10
+com08
+choice2 <shift> # 響に話しかけよう
+line2
+com09 0 11
+com08
+choice3 <shift> # 黙っていよう……
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それじゃ、真。そろそろ、事務所に戻るか」
+display
+com11 0 0
+sound 10006
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「え？　もうですか？」
+display
+com11 0 0
+sound 10007
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「何だ？　帰っちゃうの？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「響は、７６５プロの人間とは、
+line2 <shift> # 話したくないらしいからな」
+display
+com11 0 0
+sound 10008
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「ま、まあな。それじゃ、早く帰っちゃえ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ちなみに、真は、もうちょっと響と、
+line2 <shift> # 話していたいか？」
+display
+com11 0 0
+sound 10009
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「へへっ、そうですね。
+line2 <shift> # もう少しだけ、休けいしたいです」
+display
+com11 0 0
+sound 10010
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「そっか！　だったら、真の相手は、
+line2 <shift> # 自分がしてやるぞ！」
+display
+com11 0 0
+sound 10011
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「それと、しょうがないから、そっちの君も、
+line2 <shift> # 少しは、しゃべっていいよ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ははは、気づかってくれるなんて、
+line2 <shift> # 響は、いいヤツだな」
+display
+com11 0 0
+sound 10012
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「もちろんだよ！　自分、カンペキだって、
+line2 <shift> # いつも、言ってるよね？」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ところで、響は、やっぱり、
+line2 <shift> # 真には負けたくないか？」
+display
+com11 0 0
+sound 10013
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「トーゼンだよっ！　まあ、負けたくないって
+line2 <shift> # いうか、ゼッタイ負けないんだけどねっ！」
+display
+com11 0 0
+sound 10014
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「あーっ！　ぎゃー！　普通に、答えちゃった！
+line2 <shift> # ずるいぞ、７６５プロ！」
+display
+com11 0 0
+sound 10015
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「響って、素直で、いい子だな〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「普段は、黒井社長の教えを守ってるから素っ気
+line2 <shift> # ないけど、話してると、素の響が出てくるよな」
+display
+com11 0 0
+sound 10016
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「むぅ〜！　何だか、バカにされてる気分だぞ。
+line2 <shift> # だから、君とは話したくなかったんだっ！」
+display
+com11 0 0
+sound 10017
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「でもさ、今の響の方が、
+line2 <shift> # ずっと魅力的だと思うんだけど」
+display
+com11 0 0
+sound 10018
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「『今の』じゃなくて『いつでも』、
+line2 <shift> # 自分は魅力的で、カンペキなんだぞ！」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃあ、俺は黙るから、２人で、
+line2 <shift> # 心置きなく話していてくれ……」
+display
+com11 0 0
+sound 10019
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「うわあ！　プロデューサーが、
+line2 <shift> # イジけちゃった！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （別に、イジけたわけじゃないんだけどな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （響は、お忍びで来ているらしいから、あまり騒
+line2 <shift> # ぎすぎないように、俺は発言を控えたんだけど）
+display
+com11 0 0
+sound 10020
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「響、ボクのプロデューサーに、
+line2 <shift> # そういう言い方は、あんまりじゃないか」
+display
+com11 0 0
+sound 10021
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「だって、変態７６５プロと話すと、
+line2 <shift> # セクハラされるって、黒井社長が言ってたぞ」
+display
+com11 0 0
+sound 10022
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「もう、わからずやなんだから！
+line2 <shift> # プロデューサーも、何とか言って下さいよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「確かに……。変態呼ばわりは、もうカンベンだ。
+line2 <shift> # 響、黒井社長の言葉を、どうして信じるんだ？」
+display
+com11 0 0
+sound 10023
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「そんなの決まってる！
+line2 <shift> # トップにするって、約束してくれたからだ」
+com09 0 19
+display
+location 19
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「自信満々だな。でも、９６１プロのやり方じゃ、
+line2 <shift> # トップをとっても、誰も祝福してくれないぞ」
+display
+com11 0 0
+sound 10024
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「トップになれなくて祝福もされないより、祝福
+line2 <shift> # されなくてもトップになれる方が、全然いい！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「その割には、真との勝負を、
+line2 <shift> # 楽しみにしているじゃないか」
+display
+com11 0 0
+sound 10025
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「そ、それは、単純におもしろそうだって、
+line2 <shift> # 思っただけだぞ！」
+display
+com11 0 0
+sound 10026
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「そもそも、真のダンスは、自分と比べると、
+line2 <shift> # まだまだだからな！　自分が負けるわけない！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まだまだって、具体的に、どの辺が？」
+display
+com11 0 0
+sound 10027
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「え？　うーん、えっと……。
+line2 <shift> # そうだ！　か、髪の長さとか」
+display
+com11 0 0
+sound 10028
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「髪……？」
+display
+com11 0 0
+sound 10029
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「自分、髪が長いからさ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まさか、髪が長いから勝ち、
+line2 <shift> # とか言うつもりか？」
+display
+com11 0 0
+sound 10030
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「違うよっ！　自分、いい意味でバカとは、
+line2 <shift> # 言われたことあるけど、バカじゃないし！」
+display
+com11 0 0
+sound 10031
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「つまり、髪が長いから、ダンスが激しければ
+line2 <shift> # 激しいほど、髪も大きく揺れて……」
+display
+com11 0 0
+sound 10032
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「メチャメチャ、ダイナマイトに見えるっ！
+line2 <shift> # フフン、だから自分の勝ち！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それは、髪が長いから勝ち、っていうこと
+line2 <shift> # だろう……。どこからつっこんでいいのやら」
+display
+com11 0 0
+sound 10033
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「とりあえず、ダイナマイトじゃなくて、
+line2 <shift> # ダイナミックじゃない？」
+display
+com11 0 0
+sound 10034
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「そうそう、それ！　わざと間違えたんだぞ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それと、髪が、うんぬんとかじゃなくて、
+line2 <shift> # もっと技術的な問題について話して欲しいな」
+display
+com11 0 0
+sound 10035
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「技術的なことは、よくわかんないなー……」
+display
+com11 0 0
+sound 10036
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「いや、わかってるけど、口では、
+line2 <shift> # 説明できないっていうことだぞ！」
+display
+com11 0 0
+sound 10037
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「詳しいことは、
+line2 <shift> # 黒井社長にきいてよ。あはは！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「言葉では説明できないけど、
+line2 <shift> # 感性でわかっている、ということか」
+display
+com11 0 0
+sound 10038
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「おっ！　７６５プロが、珍しく良いこと言っ
+line2 <shift> # た！　ま、とにかく自分はカンペキってこと！」
+display
+com11 0 0
+sound 10039
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「響は、天才肌なんだね。響の感性だと、ボクの
+line2 <shift> # ダンスは、何となくいまいちに見えるのか……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「響の感性よりも、自分の感性を信じることが、
+line2 <shift> # 大切だぞ。響のマネをする必要は、ないんだ」
+display
+com11 0 0
+sound 10040
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「はい、そうですね！　それにボク、
+line2 <shift> # 響には絶対に負けたくない！」
+display
+com11 0 0
+sound 10041
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「自分だって負けないぞ！　自分、トップアイド
+line2 <shift> # ルに、どうしてもならなくちゃいけないんだ！」
+display
+com11 0 0
+sound 10042
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「沖縄から出てくる時、
+line2 <shift> # 兄貴とケンカして出てきたんだからな！」
+display
+com11 0 0
+sound 10043
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「え、ケンカしたの？
+line2 <shift> # 仲直りした方が、いいんじゃない？」
+display
+com11 0 0
+sound 10044
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「ダメ！　トップアイドルになるまで、
+line2 <shift> # 沖縄には帰らないって決めてるんだ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それが響の……」
+com03 0 3
+choice1 <shift> # 覚悟か
+com09 0 20
+com08
+choice2 <shift> # 角煮か
+com09 0 21
+com08
+choice3 <shift> # 家出か
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「覚悟か」
+display
+com11 0 0
+sound 10045
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「そういうこと！　その覚悟を上回る気持ちで
+line2 <shift> # 来ないなら、すぐに打ち負かしちゃうぞ！」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「角煮か」
+display
+com11 0 0
+sound 10046
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「……？　角煮って、食べ物の、角煮ですか？」
+display
+com11 0 0
+sound 10047
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「沖縄の角煮と言えば、ラフテーだね！
+line2 <shift> # すごくジューシーで、おいしいんだぞ！」
+display
+com11 0 0
+sound 10048
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「で、角煮と今の話と、どんな関係が？　もしか
+line2 <shift> # して、すごく深いことを言おうとしてます？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「つ、つまり、故郷のおいしい角煮を食べたいけ
+line2 <shift> # ど、それをガマンしてがんばり続けている……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それは、かなりの覚悟なんだなって、
+line2 <shift> # 言いたかったんだ」
+display
+com11 0 0
+sound 10049
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「なるほど。さすがプロデューサー！　でも、そ
+line2 <shift> # れなら角煮って限定する必要はないような……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うぅっ、実は言い間違えた、というのは、
+line2 <shift> # 黙っておこう……）
+display
+com11 0 0
+sound 10050
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「自分、ラフテーは、それほど大好物って
+line2 <shift> # わけでもないけど、覚悟は、すごくあるぞ！」
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「家出のやり方なんだな」
+display
+com11 0 0
+sound 10051
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「家出は、よくないよ」
+display
+com11 0 0
+sound 10052
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「家出じゃないぞー！　母さんには、ちゃんと
+line2 <shift> # 話してあるし、黒井社長も説明してくれたし！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうか。すまない……。つまり、家族に
+line2 <shift> # 甘えないくらいがんばる、っていうことだな？」
+display
+com11 0 0
+sound 10053
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「そうだ！　それだけの覚悟があるんだ！」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 10054
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ボクも覚悟はできてるよ。この前、響や皆の
+line2 <shift> # 前で、本選に行くって宣言した時からね！」
+display
+com11 0 0
+sound 10055
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「そっか、楽しみだ！　あ、そろそろ帰らなきゃ！
+line2 <shift> # 黒井社長にナイショで来てたんだった！」
+display
+com11 0 0
+sound 10056
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「もし社長に見つかったら、怒られるーっ！
+line2 <shift> # じゃ、バイバイッ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （響のやつ、すごくコソコソしながら、
+line2 <shift> # 控え室から出て行ってしまった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今さらコソコソしても、あれだけ大声で、
+line2 <shift> # しゃべってたら、意味ないんじゃ……」
+display
+com11 0 0
+sound 10057
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「頭隠して尻隠さず、っていうことですね！
+line2 <shift> # へへへっ、おもしろいヤツだなあ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「真、嬉しそうだな」
+display
+com11 0 0
+sound 10058
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「響は、わざわざボクと話をするために来て
+line2 <shift> # くれたんですよね。そりゃ嬉しいですよ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （確かに、一本気な性格っぽいからな。けど、
+line2 <shift> # だからこそ、恐ろしい相手なのかもな……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さて、俺達も事務所に帰ろう。
+line2 <shift> # 次の４次予選に備えるぞ」
+display
+com11 0 0
+sound 10059
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「はいっ！」
+com09 0 99
+display
+location 99
+unk02

@@ -1,0 +1,464 @@
+com2c 0 69
+com2d 0 51
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今日は、新曲のヒット祈願のために、
+line2 <shift> # あずささんと、神社にやってきた……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今度の新曲が大ヒットして、
+line2 <shift> # ファンがたくさん増えますように……！！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さて、行きましょうか。あずささん……。
+line2 <shift> # あれ、まだお祈りしてますね……」
+display
+com11 0 0
+sound 0
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「…………………………………
+line2 <shift> # ……………………」
+display
+com11 0 0
+sound 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「お待たせしました。プロデューサーさん。
+line2 <shift> # ふう〜、やっと終わりました」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「随分、熱心にお祈りしてたんですね。
+line2 <shift> # あずささんって、結構……」
+com03 0 3
+choice1 <shift> # 信心深いんですね
+line2
+com09 0 10
+com08
+choice2 <shift> # 神社が似合います
+line2
+com09 0 11
+com08
+choice3 <shift> # 欲張りなんですね
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「信心深いんですね」
+display
+com11 0 0
+sound 2
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あ、いえ〜。そんなことないです。だけど、
+line2 <shift> # このお願いだけは、どうしてもと思って……」
+display
+com11 0 0
+sound 3
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「こんなときだけ、熱心に神頼みなんて、
+line2 <shift> # 神さまに叱られてしまうかしら。うふふ〜」
+com09 0 13
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「神社が似合います」
+display
+com11 0 0
+sound 4
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「えっ、そうですか〜……？
+line2 <shift> # 確かに神社って、静かだし、落ち着きますけど」
+display
+com11 0 0
+sound 5
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「そういえば昔、友達と一緒に、巫女さんの
+line2 <shift> # アルバイトを、したことがあります〜」
+display
+com11 0 0
+sound 6
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「お守りを渡したり、ご祈祷を手伝ったり
+line2 <shift> # すごく楽しかったですね〜」
+com09 0 13
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「欲張りなんですね」
+display
+com11 0 0
+sound 7
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「え、そうですか〜……？　どうしましょう。
+line2 <shift> # たくさんお願い事しすぎたかしら〜？」
+display
+com11 0 0
+sound 8
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「今からもう一度行って、お願い事減らすように
+line2 <shift> # 神様に言ってこようかしら〜……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いえ、いいですよ！
+line2 <shift> # そこまでしなくても、大丈夫です。多分！」
+com09 0 13
+display
+location 13
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さてと……。せっかく来たんだから
+line2 <shift> # お守りのひとつでも、買って帰りましょうか」
+display
+com11 0 0
+sound 9
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ええ、そうですね〜。どれにしようかしら？
+line2 <shift> # たくさんあって、困ってしまいますけれど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あずささんの分は、俺が選びましょう。
+line2 <shift> # そうだなあ……。このお守りはどうですか？」
+com03 0 3
+choice1 <shift> # 合格祈願
+com09 0 20
+com08
+choice2 <shift> # 交通安全
+com09 0 21
+com08
+choice3 <shift> # 恋愛成就
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「合格祈願、のお守りです」
+display
+com11 0 0
+sound 10
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「合格……？　えっと、私、もう受験勉強を
+line2 <shift> # するつもりは、ありませんけど〜……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いえ、オーディションの合格祈願ですよ」
+display
+com11 0 0
+sound 11
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ああ、なるほど〜。そういう合格っていう意味
+line2 <shift> # なんですね。ありがとうございますー！」
+com09 0 23
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「交通安全、のお守りです」
+display
+com11 0 0
+sound 12
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あ、ありがとうございます〜。
+line2 <shift> # でもどうして、このお守りを……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あずささん、いつ交通事故にあっても
+line2 <shift> # おかしくなさそうなので、気をつけてください」
+display
+com11 0 0
+sound 13
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「は、はい〜。すみません。お母さんにも昔から
+line2 <shift> # 同じことを言われていました〜」
+display
+com11 0 0
+sound 14
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「私ったら、小学生のときから成長して
+line2 <shift> # いないのかしら……。ダメですねー」
+com09 0 23
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「恋愛成就、のお守りです」
+display
+com11 0 0
+sound 15
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あの〜、プロデューサーさん……。
+line2 <shift> # うれしいですけど、どうしてこのお守りを？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あずささんくらいの女の人なら、みんな
+line2 <shift> # 一番欲しがるのは、そのお守りでしょう」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「アイドルとして、今は恋愛はご法度ですけど、
+line2 <shift> # いつか、いい恋愛はしてほしいですから」
+display
+com11 0 0
+sound 16
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「はい、ありがとうございます……。だけど、
+line2 <shift> # いつかっていつかしら〜？　複雑な気持ちです」
+com09 0 23
+display
+location 23
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さあ、それじゃ、お守りも買ったことだし、
+line2 <shift> # そろそろ、事務所に戻りましょうか」
+display
+com11 0 0
+sound 17
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あっ、プロデューサーさん。最後に、
+line2 <shift> # ひとつだけ、お願いが……」
+display
+com11 0 0
+sound 18
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「実は、ここのおみくじが
+line2 <shift> # とってもよく当たるって、評判なんです」
+display
+com11 0 0
+sound 19
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「私も一度引いてみたいんですけど、もしも
+line2 <shift> # 悪い結果だったらと思うと、怖くて……」
+display
+com11 0 0
+sound 20
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「プロデューサーさん。私のおみくじを、
+line2 <shift> # 代わりに引いてくれませんか〜？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ！！」
+display
+com11 0 0
+sound 21
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「お願いします。私、緊張してしまって、
+line2 <shift> # 全然、自信がないんです……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あずささんの顔は、真剣そのものだ。
+line2 <shift> # いいおみくじを、引いてあげたいな……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （目の前にあるおみくじは、３つ……。
+line2 <shift> # 慎重に行かないと。どれを選ぼう？）
+com03 0 3
+choice1 <shift> # 右のおみくじ
+line2
+com09 0 30
+com08
+choice2 <shift> # 左のおみくじ
+line2
+com09 0 31
+com08
+choice3 <shift> # 真ん中のおみくじ
+line2
+com09 0 32
+com08
+com07
+com09 0 33
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「右のおみくじ、にしましょう」
+com37 0 1
+com1e 0 0
+com09 0 34
+com3b
+com37 0 0
+com1e 0 0
+com09 0 35
+com3b
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「左のおみくじ、にしましょう」
+com37 0 1
+com1e 0 0
+com09 0 34
+com3b
+com37 0 0
+com1e 0 0
+com09 0 35
+com3b
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「真ん中のおみくじ、にしましょう」
+com37 0 1
+com1e 0 0
+com09 0 34
+com3b
+com37 0 0
+com1e 0 0
+com09 0 35
+com3b
+display
+location 33
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うーん、どれだろう？
+line2 <shift> # まあ、適当に選んでおけばいいかな？）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「これにしましょう」
+com09 0 35
+display
+location 34
+com11 0 0
+sound 22
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ありがとうございます〜。
+line2 <shift> # それでは……、開けてみますね」
+display
+com11 0 0
+sound 23
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あっ……！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうでした？」
+display
+com11 0 0
+sound 24
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「大吉です……！　うれしいです〜……。
+line2 <shift> # ああ、よかった〜」
+display
+com11 0 0
+sound 25
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「恋愛も仕事も、うまくいくそうです。
+line2 <shift> # 迷わずに、今の道を進めばいいって……」
+display
+com11 0 0
+sound 26
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ホッとしました。このままがんばっていれば、
+line2 <shift> # きっと、夢は叶うんですね……」
+display
+com11 0 0
+sound 27
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「このおみくじ、大切に持っておきます。
+line2 <shift> # プロデューサーさん、ありがとうございます」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あずささん、よかったですね。俺も、
+line2 <shift> # ついでに、自分の分を引いてみようかな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あれっ！？　凶だって……ええーっ！」
+display
+com11 0 0
+sound 28
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「えっ、そんな……。プロデューサーさん、
+line2 <shift> # そのおみくじ、私のと交換してください」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ、いいですよ。せっかくあずささん、
+line2 <shift> # 大吉だったのに……」
+display
+com11 0 0
+sound 29
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「だって、これはプロデューサーさんが
+line2 <shift> # 引いてくれたものですもの……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いいんですよ。俺はあずささんが
+line2 <shift> # 喜んでくれるなら、それだけで大吉です」
+display
+com11 0 0
+sound 30
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「プロデューサーさん……。
+line2 <shift> # ありがとうございます、優しいんですね」
+display
+com11 0 0
+sound 31
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「これは、ふたりの大吉にしますね……。
+line2 <shift> # 悪いおみくじは、一緒に枝に結びましょう」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （それから、ふたりでおみくじを結んだ。
+line2 <shift> # あずささんは、ずっとうれしそうだった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （大吉にふさわしく、この先全てのことが
+line2 <shift> # うまく行ってくれるといいな……）
+com4b 0 0
+com09 0 69
+display
+location 35
+com11 0 0
+sound 32
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ありがとうございます〜。
+line2 <shift> # それでは……、開けてみますね」
+display
+com11 0 0
+sound 33
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あっ……！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうでした？」
+display
+com11 0 0
+sound 34
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「……………」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ま、まさか、あずささん……！？」
+display
+com11 0 0
+sound 35
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ええ。凶、ですって……。
+line2 <shift> # 良縁、来たらず、仕事、災いあり……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「す、すいませんっ！　そのおみくじは
+line2 <shift> # 俺がもらって……もう一度！」
+display
+com11 0 0
+sound 36
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「いいんです〜。気にしてませんから。
+line2 <shift> # まさか、凶だなんて……。ふふ、ふふっ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「と、とにかく、そのおみくじは、
+line2 <shift> # 木に結んで帰りましょう。いいですね？」
+display
+com11 0 0
+sound 37
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「大丈夫ですよ。プロデューサーさん。
+line2 <shift> # 私……本当に、気にしていませんから〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あずささん、相当ショックだったようだ。
+line2 <shift> # かわいそうなことを、してしまったな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （これは仕事にも、支障がありそうだ。
+line2 <shift> # 早く立ち直ってくれると、いいんだけど……）
+com4b 0 2
+com09 0 69
+display
+location 69
+unk02

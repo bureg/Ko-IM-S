@@ -1,0 +1,295 @@
+com2c 0 75
+com2d 0 81
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ここが、真の通ってる高校か。先生と話し合い
+line2 <shift> # って、真、なにか問題でも、起こしたのか？」
+display
+com11 0 1
+sound 100
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「忙しくて休みが多いから、担任の先生、カリ
+line2 <shift> # カリきてて。うまく説得してもらえますか？」
+display
+com11 0 1
+sound 101
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「そのかわり、校内、案内しますから！
+line2 <shift> # ほら、女子校ですよ、女子校！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「真、女子校生だったのか！？」
+com03 0 3
+choice1 <shift> # もてて、困りそうだな
+line2
+com09 0 10
+com08
+choice2 <shift> # よく、入学できたな
+line2
+com09 0 11
+com08
+choice3 <shift> # 知らなかったよ……
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もてて、困りそうだな」
+display
+com11 0 1
+sound 102
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「とくに有名になってからは、アプローチ、
+line2 <shift> # すごいです。かわすのも、慣れましたけど」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よく、入学できたな」
+display
+com11 0 1
+sound 103
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「また、すぐそういうイジワル……。女の子が、
+line2 <shift> # 女子校に入れるのは、当たり前ですー！」
+display
+com11 0 1
+sound 104
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「まあ、いいや。今さら、プロデューサーに、
+line2 <shift> # なに言われても、たいして気になりませんし」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「知らなかったよ……」
+display
+com11 0 1
+sound 105
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ええええ、事務所に出した履歴書に、ちゃんと
+line2 <shift> # 書いてありますよ？　見てないんですか？」
+display
+com11 0 1
+sound 106
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「はあ〜、けっこう、いい加減なんですね。
+line2 <shift> # ボクのことは、全部知っておいてほしいな」
+com09 0 29
+display
+location 29
+com11 0 1
+sound 107
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あ！　せっかくきたんですから、ついでに〜、
+line2 <shift> # ナンパしていきます？　ボク、紹介しますよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え？　い、いいよ。
+line2 <shift> # 真の学校で、問題とか、起こしたくないし」
+display
+com11 0 1
+sound 108
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「そんなこと、言わずに！　超かわいい子、
+line2 <shift> # たくさんいますから、ひとりぐらい！」
+com03 0 3
+choice1 <shift> # 間に合ってるよ
+line2
+com09 0 30
+com08
+choice2 <shift> # 子どもは、相手にしないんだ
+line2
+com09 0 31
+com08
+choice3 <shift> # じゃあ、ちょっとだけ……
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「間に合ってるよ。
+line2 <shift> # 今だって、手いっぱいだって」
+display
+com11 0 1
+sound 109
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あはっ、そっか！
+line2 <shift> # そんなにアチコチ、面倒、見られないですよね」
+display
+com11 0 1
+sound 110
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「でも、ボクだったら、いつでもナンパされます
+line2 <shift> # よ。引っかけても、今以上に手間かからないし」
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「子どもは、相手にしないんだ」
+display
+com11 0 1
+sound 111
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「女子高生は、子どもじゃないですよ〜！
+line2 <shift> # じゃあ、ボクも子どもだっていうんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「う、そうは言わないけど……。
+line2 <shift> # とにかく、他の女の子まで、手はまわらないよ」
+com09 0 91
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃあ、ちょっとだけ……」
+display
+com11 0 1
+sound 112
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「え？　ホントにやる気ですか？　ボク、冗談で
+line2 <shift> # 言ったのに。プロデューサー、かるいよな……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「な、なんてな……。もちろん、こっちも冗談
+line2 <shift> # だよ。他の女の子まで、手なんてまわらないし」
+com09 0 91
+display
+location 91
+com11 0 1
+sound 113
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ってことは、ボクなら、手、まわるんですか？
+line2 <shift> # だったら、いつでもナンパされちゃいますけど」
+com09 0 49
+display
+location 49
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なに言うんだよ。突然……」
+display
+com11 0 1
+sound 114
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「いいじゃないですか〜。さ、プロデューサー、
+line2 <shift> # ボクのこと、その気にさせてみてください！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「しかたないなあ。じゃあ、遊びで……。
+line2 <shift> # えーと、真、その……」
+com03 0 3
+choice1 <shift> # 結婚しよう
+com09 0 50
+com08
+choice2 <shift> # 今晩、あいてる？
+line2
+com09 0 51
+com08
+choice3 <shift> # お茶でも、飲まない？
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「結婚しよう」
+display
+com11 0 1
+sound 115
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「えっ！？　は、はい……。じゃなくてっ、
+line2 <shift> # うわわっ、なんです、それ〜？？？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、これぐらい、ぶっ飛んでた方が、
+line2 <shift> # 真剣にくどかれた気になるだろ？」
+display
+com11 0 1
+sound 116
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「たしかに……。ボク、すごいドキッ！　って。
+line2 <shift> # 新鮮な体験でした。あはっ、へへへへ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よろこんでもらえたようだ。さ、ごきげん
+line2 <shift> # 取ったところで、話し合いに行くか）
+com09 0 69
+display
+location 51
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今晩、あいてる？」
+display
+com11 0 1
+sound 117
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「え？　あいてないですよ。ボクのスケジュール、
+line2 <shift> # ビッシリなの、知ってますよね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうじゃないよ。これは、くどき文句で、
+line2 <shift> # 一晩中、いっしょにいてくれっていう……」
+display
+com11 0 1
+sound 118
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「一晩中って……、ええええええええっ！？
+line2 <shift> # そん、ボ、な、だっ！」
+display
+com11 0 1
+sound 119
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「そ、そ、そんなの、行きすぎですよ〜！
+line2 <shift> # プロデューサー、オトナ過ぎ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ちょっと、驚かせてしまったようだ。
+line2 <shift> # まあ、いいか。さっさと用事を済ませよう）
+com09 0 69
+display
+location 52
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お茶でも、飲まない？」
+display
+com11 0 1
+sound 120
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「そんなの、仕事の合間に、いつだって、
+line2 <shift> # いっしょに飲んでるじゃないですか〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃあ、き、喫茶店、行かないか？」
+display
+com11 0 1
+sound 121
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「喫茶店だって、仕事の合間に、もうくさるほど、
+line2 <shift> # 行ってますよ〜！」
+display
+com11 0 1
+sound 122
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「なんか、つまらないな……。もっと、
+line2 <shift> # マジメに、ナンパしてほしかったのに〜」
+display
+com11 0 1
+sound 123
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「そんな言葉じゃ、ボク、全然ときめかないです。
+line2 <shift> # あ〜あ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ブツブツ、文句を言っている。しかたない。
+line2 <shift> # なだめながら、なんとか用事、済ませよう……）
+com09 0 69
+display
+location 69
+unk02

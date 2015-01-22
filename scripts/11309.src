@@ -1,0 +1,240 @@
+com2c 0 47
+com2c 0 57
+com2d 0 21
+com32 0 0
+com11 0 5
+sound 700
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「地方へ遠征なんてっ、夢みたーい♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そうか？」
+display
+com11 0 5
+sound 701
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「悪夢よっ！　なんでアイドルが、日帰りで
+line2 <shift> # ドタバタ、イナカ行かなきゃいけないわけっ！」
+display
+com11 0 5
+sound 702
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「スタッフが、そろってこっちへ足を運ぶのが、
+line2 <shift> # 当然でしょーっ！？」
+com03 0 3
+choice1 <shift> # そんなこと、ありえないよ
+line2
+com09 0 10
+com08
+choice2 <shift> # 現実は、こんなもんだよ
+line2
+com09 0 11
+com08
+choice3 <shift> # まったくだよな
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなこと、ありえないよ。俺達が行く方が、
+line2 <shift> # ずっと安上がりだし」
+display
+com11 0 5
+sound 703
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ふん、せこいスタッフなのねっ。ケチケチ
+line2 <shift> # してると、顔までケチくさくなるんだから……」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「現実は、こんなもんだよ」
+display
+com11 0 5
+sound 704
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「まったく、誰がこんなゆがんだ世の中に、
+line2 <shift> # したのかしら……。信じられないわっ」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まったくだよな」
+display
+com11 0 5
+sound 705
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なら、どうして、そういう風に、
+line2 <shift> # 手配してくれなかったのよ〜」
+display
+com11 0 5
+sound 706
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「いくら、やさしい私でも、
+line2 <shift> # あんまりひどい扱いすると、怒るわよ……」
+com09 0 19
+display
+location 19
+com11 0 5
+sound 707
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「しかも、こんなオンボロバスで移動だなんて。
+line2 <shift> # 私、いっつも移動はリムジンかタクシーなのに」
+display
+com11 0 5
+sound 708
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ね！　まだ出発前なんだし、こんな仕事蹴って、
+line2 <shift> # 遊びにいっちゃわない？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなことしたら、大変だよ……」
+display
+com11 0 5
+sound 721
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「こんな時だけマジメなんだからー。あーあ、
+line2 <shift> # 時間とられて、したくない仕事させられて……」
+display
+com11 0 5
+sound 710
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「アイドルって……、ほんとは、
+line2 <shift> # 夢も希望もない仕事なんじゃない？」
+com03 0 2
+choice1 <shift> # そう決めるのは、早計だよ
+line2
+com09 0 20
+com08
+choice2 <shift> # 得る物も多いと思うけど？
+line2
+com09 0 21
+com08
+com07
+com09 0 21
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そう決めるのは、早計だよ。
+line2 <shift> # まだ、はじめたばかりだろ？」
+display
+com11 0 5
+sound 711
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「それはそうだけど……。
+line2 <shift> # ここまでは、つらいことばっかりじゃない……」
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「得る物も多いと思うけど？」
+display
+com11 0 5
+sound 712
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「これまでのところ、ゼロよっ！　やりたかった
+line2 <shift> # こと、ほとんどできてないもん……」
+com09 0 29
+display
+location 29
+com11 0 5
+sound 713
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……出発まで、まだ１０分もあるのね。
+line2 <shift> # はあーあ、退屈〜」
+display
+com11 0 5
+sound 714
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あ、なんか、チンドン屋みたいのが、歩いて
+line2 <shift> # る！　ヒマつぶしに、ちょっと見てきていい？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……そのまま、ついていったりしないよな？
+line2 <shift> # 到着が遅れたら、大問題に……」
+display
+com11 0 5
+sound 715
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そんなこと、しないわよー！　信じて！
+line2 <shift> # ちゃんと帰ってくるから」
+com03 0 2
+choice1 <shift> # あんな幼稚なの、見たいのか？
+line2
+com09 0 30
+com08
+choice2 <shift> # じゃ、行っておいで
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……あんな幼稚なの、見たいのか？」
+display
+com11 0 5
+sound 716
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「み、見たくないわよ……。ただちょっと、
+line2 <shift> # めずらしいなって思っただけ！」
+display
+com11 0 5
+sound 717
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「いいわ。ここからながめるだけにする。庶民の
+line2 <shift> # 娯楽なんて、私にはふさわしくないんだから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （万が一ってこともあるからな。
+line2 <shift> # これで、無事に出発できそうだ）
+com4b 0 0
+com09 0 39
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃ、行っておいで」
+display
+com11 0 5
+sound 718
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ありがと〜！　３分ぐらいで、
+line2 <shift> # ぜーったいに戻ってくるわ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「…………」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「………………………………………………………
+line2 <shift> # ……………………………………………しまった」
+display
+com22 0 30
+com32 0 1
+com21 0 30
+com11 0 5
+sound 719
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あ、プロデューサー！
+line2 <shift> # 今っ、１０曲目が終わったとこ！」
+display
+com11 0 5
+sound 720
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……そ、そろそろ、３分ぐらいたったかしら？
+line2 <shift> # ……こ、こわい顔しないでよね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （……大遅刻だ。
+line2 <shift> # 向こうに着いたら、平謝りだな）
+com4b 0 2
+com09 0 39
+display
+location 39
+unk02

@@ -1,0 +1,224 @@
+com2c 0 25
+com2d 0 11
+com32 0 0
+com11 0 0
+sound 10000
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「い、いきなりミーティングって言われても、
+line2 <shift> # なにから話せばいいのか、迷っちゃいますね」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あはは、は……。こ、こんにちは……、じゃ
+line2 <shift> # なくて。今日は、お天気も……、じゃなくて」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「とりあえずは、お互いをなんて呼ぶか、
+line2 <shift> # 決めようか」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あ、はい！　えーと、私は、『プロデューサー
+line2 <shift> # さん』って、呼べばいいですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、それでいいよ」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「それじゃあ、早速。……プロデューサーさん！
+line2 <shift> # わ、呼んじゃいましたぁ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「はは。君のことは……、とりあえず芸名はつけ
+line2 <shift> # たけど呼ぶなら本名の方がわかりやすいよね？」
+com03 0 2
+choice1 <shift> # 『春香』で、いいかな？
+line2
+com09 0 10
+com08
+choice2 <shift> # 『天海さん』で、いいかな？
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「『春香』で、いいかな？」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「『天海さん』で、いいかな？」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「うーん、それって他人行儀っぽすぎませんか？
+line2 <shift> # これから一緒にお仕事するのに……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか？　じゃ、『春香』の方がいい？」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 10005
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「はい。呼び捨てが、一番わかりやすくて、
+line2 <shift> # いいですよね。それで、お願いします！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ＯＫ、春香。で、春香は今いくつなんだ？」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「１６歳の、高校１年生です。趣味は……、あ、
+line2 <shift> # それよりも、将来の夢とかから、話した方が？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「な、なんでもいいけど……、まあ、
+line2 <shift> # あわてずに、ひとつひとつ話してくれよ」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あ、お話も大切ですけど、それより、ダンスの
+line2 <shift> # 実力とか、ここで見てもらった方が、いいかも」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え！？　こんな、せまい部屋でか？
+line2 <shift> # やめろって、危ないぞ！」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「大丈夫ですよぉ。それじゃ、すこしだけ！
+line2 <shift> # よっ、あ、わ、わああっ！」
+display <shift> # どんがらがっしゃーん！
+display
+com11 0 0
+sound 10009
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ううっ、あいたたたぁ……」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「すみませんー。私、そそっかしくて。普通に
+line2 <shift> # 踊れると思ったのに、いきなり、こんな……」
+com03 0 3
+choice1 <shift> # ま、徐々にうまくなろうよ
+line2
+com09 0 30
+com08
+choice2 <shift> # まったく、ドジだなあ
+line2
+com09 0 31
+com08
+choice3 <shift> # 気をつけなきゃダメだろ！
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ま、徐々にうまくなろうよ。はじめから、
+line2 <shift> # ちゃんと踊れるアイドルなんて、いないんだし」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そっか、そうですよね！　今はまだまだです
+line2 <shift> # けど、練習すれば、そのうち……！」
+display
+com11 0 0
+sound 10012
+com4b 0 0
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ありがとうございます、プロデューサーさん。
+line2 <shift> # とんだ自己紹介になりましたけど、えへへ♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （俺のはげましで、元気を取り戻したようだ。
+line2 <shift> # かなりの好印象を与えることが、できた！）
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まったく、ドジだなあ」
+display
+com11 0 0
+sound 10013
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「うううっ、言わないで下さいよー。
+line2 <shift> # 私だって、こんなつもりじゃ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あああ、ごめん。でも、いいじゃないか。
+line2 <shift> # ドジでも、かわいげがあって」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「よくないです〜。初対面だから、すこしは
+line2 <shift> # いいところ見せようと思ったのに……」
+display
+com11 0 0
+sound 10015
+com4b 0 2
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「とんだ自己紹介になっちゃいましたね。
+line2 <shift> # うううっ……」
+com09 0 91
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「気をつけなきゃ、ダメだろ！？
+line2 <shift> # だから、やめろって言ったのに！」
+display
+com11 0 0
+sound 10016
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「す、すみません……。でも、私だって、
+line2 <shift> # わざとやったわけじゃ、ないんですよ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そりゃ、そうかもしれないけど……」
+display
+com11 0 0
+sound 10017
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「プロデューサーさんに、すこしでも、私のこと、
+line2 <shift> # 知ってもらおうと思って。それなのに……」
+display
+com11 0 0
+sound 10018
+com4b 0 2
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そんなきつい口調で、怒ること、
+line2 <shift> # ないじゃないですかぁ。うううっ……」
+com09 0 91
+display
+location 91
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （落ち込んでしまった……。ここは素直に
+line2 <shift> # 励ましておいた方がよかったようだ）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （……その後、ミーティングの時間いっぱい
+line2 <shift> # かけて、なんとか春香に、元気を取り戻させた）
+com09 0 49
+display
+location 49
+unk02

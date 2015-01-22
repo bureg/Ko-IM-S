@@ -1,0 +1,231 @@
+com2c 0 24
+com2d 0 61
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「聞け雪歩！　こないだのアイドル誌の
+line2 <shift> # 人気投票、かなりいい結果が出たみたいだぞ」
+display
+com11 0 4
+sound 1400
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「は、はい！　やった！
+line2 <shift> # 頑張った甲斐がありましたっ」
+display
+com11 0 4
+sound 1401
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「これも、ランクＥにあがって、名前が知られた
+line2 <shift> # からですね。うううっ、で、でもぉ……ぐすっ」
+com03 0 2
+choice1 <shift> # どうして泣くんだ？
+line2
+com09 0 10
+com08
+choice2 <shift> # そんなに嬉しかった？
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おいおい、どうして泣くんだ？」
+display
+com11 0 4
+sound 1402
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「だ、だって、人気が出ちゃったから、
+line2 <shift> # 私、私……ううっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「人気が出て、なにか
+line2 <shift> # 悲しいことでもあるの？」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんな、泣くほど嬉しかったのか。
+line2 <shift> # でもよく頑張ったもんなぁ」
+display
+com11 0 4
+sound 1403
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あっ、い、いえ、違うんです。嬉しいけど、
+line2 <shift> # 違うんですよぉ……ううぅ」
+display
+com11 0 4
+sound 1404
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「こんなに人気が出て、目立って、ＴＶにも
+line2 <shift> # 出たりするようになって、だから……ぐすっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ？　どういうこと？」
+com09 0 29
+display
+location 29
+com11 0 4
+sound 1405
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「実はこないだのＴＶ放送を偶然見て、
+line2 <shift> # お父さんが怒ってしまって」
+display
+com11 0 4
+sound 1406
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あんな格好して歌って踊って
+line2 <shift> # 見せびらかして！　って……」
+display
+com11 0 4
+sound 1407
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「それを見た男どもがどう思ってるのか、
+line2 <shift> # 考えたことはあるのか！　って……」
+display
+com11 0 4
+sound 1408
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「お前をそんな娘に育てた覚えはないって、
+line2 <shift> # もうカンカンで……」
+display
+com11 0 4
+sound 1409
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「お父さん、事務所に抗議するって、
+line2 <shift> # 言ってます。私それで、困ってしまって」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「むむむ、そうなのか」
+com03 0 2
+choice1 <shift> # 硬派なお父さんだな
+line2
+com09 0 30
+com08
+choice2 <shift> # 怖そうなお父さんだな
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「しかし硬派な、昔気質のお父さんだな」
+display
+com11 0 4
+sound 1410
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そ、そうなんです。ちょっと
+line2 <shift> # 考えが古臭くて、頑固で……」
+display
+com11 0 4
+sound 1411
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「だから今のアイドルはこのくらい普通だって
+line2 <shift> # 私が言っても、全然聞いてくれなくて」
+display
+com11 0 4
+sound 1412
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「もし、お父さんが事務所に来て変なことを
+line2 <shift> # 言ったらすみません……。先に謝っておきます」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なーに、謝ることないさ。それにしても、
+line2 <shift> # きっと娘想いの、いいお父さんなんだろうなぁ」
+display
+com11 0 4
+sound 1413
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ、えっ！？　そ、そうです、か？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だからこそ、怒ったりするんじゃないかな。
+line2 <shift> # なんか、気持ちはわかる」
+display
+com11 0 4
+sound 1414
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「は、はい。でも、私が仕事することに、
+line2 <shift> # わりと反対みたいなので……お父さん」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんなら、俺からもお父さんを説得して
+line2 <shift> # みようか。雪歩が仕事を続ける上では大事だ」
+display
+com11 0 4
+sound 1415
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい！　お、おねがいしますっ。なんとか、
+line2 <shift> # お父さんにも仕事のこと、わかってほしいです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （仕事をする上で、親御さんの理解を得ることは
+line2 <shift> # 必要だな。時間がかかっても、なんとかしよう）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「しかしなんだか、怖そうな親父さんだな。
+line2 <shift> # 雪歩の話しぶりからすると」
+display
+com11 0 4
+sound 1416
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「は、はい……ちょこっと、乱暴者なんです。
+line2 <shift> # お弟子さんがよく張り飛ばされてるし」
+display
+com11 0 4
+sound 1417
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「もし事務所に来て暴れたら、
+line2 <shift> # いろいろ壊れちゃうかも……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうなのかっ」
+display
+com11 0 4
+sound 1418
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「だから、もし、お父さんが事務所に来たら、
+line2 <shift> # すみません……。私、先に謝っておきます」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、謝る必要はないが……今のところは」
+display
+com11 0 4
+sound 1419
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「お父さんは、私が仕事することに、
+line2 <shift> # どうしても、反対みたいです……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか、なんとかなだめたいところだなぁ。ＴＶ
+line2 <shift> # 見て怒るのも、娘想ってのことなんだろうけど」
+display
+com11 0 4
+sound 1420
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「でも私……ああ、お父さんが本気で
+line2 <shift> # 怒りだしたら、とめる自信が……」
+display
+com11 0 4
+sound 1421
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「うちの食卓もひっくり返りそうで、その、
+line2 <shift> # ああっ、もう、どうしたらいいのかっ……ぐすっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「し、心配しすぎだって！　ひとまず俺も
+line2 <shift> # 何事も起こらないよう、祈っておくよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （仕事に親御さんの了解を得られるよう、
+line2 <shift> # 話をしたいけど……先は長そうだなぁ）
+com09 0 49
+display
+location 49
+unk02

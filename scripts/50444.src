@@ -1,0 +1,567 @@
+com2c 0 18
+com2d 0 91
+com2e 0 101
+com32 0 0
+com11 0 1
+sound 200
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「亜美が、お料理番組の、お客さんなんだねっ？
+line2 <shift> # やったー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「がんばってくれよな。歌やダンス以外にも、
+line2 <shift> # できるところ、見せてやろう」
+display
+com11 0 1
+sound 201
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うんっ、まっかせてー！　亜美、こういうの
+line2 <shift> # 超得意〜。パクパクモリモリ、食べちゃおっ！」
+com03 0 3
+choice1 <shift> # 皿まで、食べるなよ？
+line2
+com09 0 10
+com08
+choice2 <shift> # よくかんで、食べろよ？
+line2
+com09 0 11
+com08
+choice3 <shift> # おなか、こわすなよ？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「皿まで、食べるなよ？」
+display
+com11 0 1
+sound 202
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「そこまではしないけど、それぐらいの勢いで、
+line2 <shift> # 食べちゃうかもっ！　おなかペコペコだし〜」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よくかんで、食べろよ？」
+display
+com11 0 1
+sound 203
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「わかってるよ〜。でも、そんなことより、おい
+line2 <shift> # しそうに食べることの方が、大事でしょ〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ま、まあ、番組だからな……。
+line2 <shift> # 丸飲みとかしない限りは、いいけど……」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おなか、こわすなよ？」
+display
+com11 0 1
+sound 204
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「兄ちゃん、亜美がいっつも元気なの、知ってる
+line2 <shift> # よね？　おなかなんて、絶対こわさないよ〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「言われてみれば……、それも、そうか。
+line2 <shift> # じゃ、存分に楽しんでくるんだぞ」
+com09 0 29
+display
+location 29
+com11 0 1
+sound 205
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「いいなあ、亜美〜。あまったら、真美にも、
+line2 <shift> # ちょっと持ってきてねっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「えーと、今日のテーマは、マーボー豆腐か。
+line2 <shift> # 簡単な料理だし、これなら亜美でもつくれるな」
+display
+com11 0 1
+sound 206
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「つくる？？？　……ええええっ！　亜美、
+line2 <shift> # 食べるだけじゃないの〜。そんな〜〜〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「当たり前だろ。お客さんっていっても、
+line2 <shift> # 協力しないと」
+display
+com11 0 1
+sound 207
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ううっ、お料理なんて、ほとんど、
+line2 <shift> # やったことないのに〜」
+display
+com11 0 1
+sound 208
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「そういえば、前に、ふざけてつくった混ぜご飯、
+line2 <shift> # ネコに食べさせたら、気絶しちゃったよね……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ふ、不吉なこと、言うなよ。
+line2 <shift> # そのネコは、多分……」
+com03 0 3
+choice1 <shift> # 眠くなったんだ
+line2
+com09 0 30
+com08
+choice2 <shift> # お芝居をしたんだ
+line2
+com09 0 31
+com08
+choice3 <shift> # 年、とってたんだ
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「眠くなったんだ。おなかいっぱいに、
+line2 <shift> # なったから、昼寝しちゃったんだよ」
+display
+com11 0 1
+sound 209
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「じゃあ、あの混ぜご飯、そこそこ、
+line2 <shift> # おいしかったのかなあ。だったら、いいけど！」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お芝居をしたんだ。気絶したフリして、
+line2 <shift> # 真美達を、驚かせたんだよ」
+display
+com11 0 1
+sound 210
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「そうなのかなあ。でも〜、その後も、ずっと、
+line2 <shift> # ピクリとも、しなかったよ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「きっと、ガマン強いネコだったんだ。気絶する
+line2 <shift> # ほど、マズい物なんて、そうは、つくれないよ」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「年、とってたんだ。若いネコなら、そんな、
+line2 <shift> # 悲しいことにはならずに、すんだかも……」
+display
+com11 0 1
+sound 211
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「悲しいって……、あのネコ、もしかして、
+line2 <shift> # ポックリさんだったの〜！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あああっ、いや、誤解だ！
+line2 <shift> # 気絶だって、じゅうぶんに悲しいことだろ？」
+display
+com11 0 1
+sound 212
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「それも、そっか〜。いつか、あのネコに
+line2 <shift> # 会ったら、あやまらないと、いけないね……」
+com09 0 49
+display
+location 49
+com11 0 1
+sound 213
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「今はネコより、亜美の心配してよ〜。おいしい
+line2 <shift> # マーボー豆腐つくるコツなんて、わからない〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……知識がないなら、感覚でやるしかないか。
+line2 <shift> # 亜美、ここを頼りに、つくってみるんだ！」
+com0e 3 57
+com44
+com09 0 50
+com45
+com44
+com09 0 51
+com45
+com44
+com09 0 52
+com45
+com44
+com09 0 53
+com45
+com44
+com09 0 54
+com45
+com44
+com09 0 55
+com45
+com44
+com09 0 56
+com45
+com44
+com09 0 57
+com45
+com44
+com09 0 58
+com45
+display
+location 50
+com11 0 1
+sound 214
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「鼻？　あ、とにかく、いいにおいになるように、
+line2 <shift> # やればいいんだね？　わかったー！」
+display
+com22 0 30
+com21 0 30
+com11 0 1
+sound 215
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「兄ちゃ〜ん、うまくいったよ！　クンクンかぎ
+line2 <shift> # ながら、つくったら、おいしくできちゃった！」
+display
+com11 0 1
+sound 216
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「亜美、すっごーい！　ね、真美にも、
+line2 <shift> # 食べさせて、食べさせて〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （思った通り、においには、敏感だったようだ！
+line2 <shift> # 特製のマーボー豆腐、俺も食べさせてもらおう）
+com09 0 69
+display
+location 51
+com11 0 1
+sound 217
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「頭で、考えるの？　でも、亜美、マーボーに
+line2 <shift> # ついてなんて、これっぽちも知らないんだよ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「たとえ知らなくても、一流アイドルなら、
+line2 <shift> # なにか、ひらめくはずだ。ほら、行っておいで」
+display
+com22 0 30
+com21 0 30
+com11 0 1
+sound 218
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「兄ちゃ〜ん、イマイチだったよ〜。アレコレ
+line2 <shift> # 考えてたら、お豆腐、にぎりつぶしちゃった〜」
+display
+com11 0 1
+sound 219
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「えええ、ほんと〜？　でも、それぐらいなら、
+line2 <shift> # 食べられないことは、ないかも……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （最悪ではないけど、上出来には、ほど遠かった
+line2 <shift> # ようだ。もっといい指示、できたかもしれない）
+com09 0 69
+display
+location 52
+com11 0 1
+sound 220
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「見た目がキレイなら、それでいいかな〜？
+line2 <shift> # お料理って、そういうもの？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。味はイマイチでも、目を楽しませれば、
+line2 <shift> # おいしく感じるものだよ。行っておいで」
+display
+com22 0 30
+com21 0 30
+com11 0 1
+sound 221
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「兄ちゃ〜ん、亜美のマーボー豆腐、
+line2 <shift> # なんか超カラフルで、気持ち悪いよ〜」
+display
+com11 0 1
+sound 222
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「亜美、なに、入れたの？」
+display
+com11 0 1
+sound 223
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「マヨネーズと〜、レモンと〜、
+line2 <shift> # ゴマ塩ふりかけと、ん〜と、それから〜……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （鍋の中をのぞいたら、そこには、原色の物質が、
+line2 <shift> # グツグツと煮えていた。こりゃ、大失敗だな）
+com09 0 69
+display
+location 53
+com11 0 1
+sound 224
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「音をきくの？　そっか〜！　食べごろになると、
+line2 <shift> # オナベの中の音が、変わるんだね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだ。ここぞと思うところで、
+line2 <shift> # お皿に移してみよう。ほら、行っておいで！」
+display
+com22 0 30
+com21 0 30
+com11 0 1
+sound 225
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「兄ちゃ〜ん、言われた通りにやったのに、
+line2 <shift> # マーボー豆腐、おいしくないよ〜〜〜」
+display
+com11 0 1
+sound 226
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「亜美、どんな味がしたの？」
+display
+com11 0 1
+sound 227
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「んっとね、なんか苦いの〜！　オナベが
+line2 <shift> # ジリジリいってから、ちゃんと移したのに〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （それは……、もしかして、焦げてるんじゃ？
+line2 <shift> # プロじゃあるまいし、音で判断するのは無理か）
+com09 0 69
+display
+location 54
+com11 0 1
+sound 228
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「あ、味見しながら、つくるんだね？
+line2 <shift> # そうすれば、絶対、失敗しない？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。まずかったら、その場で、味を、
+line2 <shift> # 調整すればいいんだ。ほら、行っておいで」
+display
+com22 0 30
+com21 0 30
+com11 0 1
+sound 229
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「兄ちゃ〜ん！　マーボー豆腐、完成する前に、
+line2 <shift> # なくなっちゃった。味見しすぎちゃったみたい」
+display
+com11 0 1
+sound 230
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「亜美、もう１回つくり直して、また食べる気
+line2 <shift> # でしょ〜？　なんか、ずるいなあ〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、亜美はたくさん食べて、満足そう
+line2 <shift> # だったけど、収録には時間がかかってしまった）
+com09 0 69
+display
+location 55
+com11 0 1
+sound 231
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「手？　あ、オナベをフリフリしながら、
+line2 <shift> # よくかきまぜれば、おいしくなる？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。こまめに振って、熱をまんべんなく、
+line2 <shift> # いき渡らせよう。じゃ、行っておいで」
+display
+com22 0 30
+com21 0 30
+com11 0 1
+sound 232
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「兄ちゃ〜ん！　マーボー豆腐、
+line2 <shift> # オナベから飛び出して、落ちちゃった〜〜〜」
+display
+com11 0 1
+sound 233
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ええええ！？　超もったいないかも〜。
+line2 <shift> # 真美、楽しみにしてたのに……」
+display
+com11 0 1
+sound 234
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「亜美、これでも、一生懸命やったんだよっ！
+line2 <shift> # うっ、ううっ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （今にも、泣き出しそうな顔……。高度な技を、
+line2 <shift> # 要求したら、すべてが台無しになってしまった）
+com09 0 69
+display
+location 56
+com11 0 1
+sound 235
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「おなか？　うまくできそうになったら、
+line2 <shift> # グ〜とかって、鳴るの？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。おいしいものには、腹時計が自然に、
+line2 <shift> # 反応するはずだ。じゃ、行っておいで！」
+display
+com22 0 30
+com21 0 30
+com11 0 1
+sound 236
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「兄ちゃ〜ん。言われた通りにやったら、
+line2 <shift> # マーボー豆腐、まだ、冷たかったよ〜」
+display
+com11 0 1
+sound 237
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「亜美、どれくらいの時間で、火、止めたの？」
+display
+com11 0 1
+sound 238
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「んとね、１分ぐらい……。だって、そこで、
+line2 <shift> # おなかグ〜って、なったんだもん……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （食べ盛りの亜美の腹時計は、せっかちだった
+line2 <shift> # ようだ。完全に、指示まちがえたな……）
+com09 0 69
+display
+location 57
+com11 0 1
+sound 239
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「そんなところ……、どうやって、頼るの？
+line2 <shift> # 兄ちゃん、ウソ言ってるでしょ〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「い、いや、ウワサできいたことがあるんだ。
+line2 <shift> # 一流の料理人は、そこの感覚で勝負するって」
+display
+com11 0 1
+sound 240
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ほんと〜？　じゃあ、試してみる……。うまく
+line2 <shift> # できたら、亜美も、スーパーコックさんだねっ」
+display
+com22 0 30
+com21 0 30
+com11 0 1
+sound 241
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「兄ちゃ〜ん。全然、ダメだったよ〜。マーボー
+line2 <shift> # 豆腐、グジュグジュの、デロデロに……」
+display
+com11 0 1
+sound 242
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ええええ、それじゃあ、食べられないの？
+line2 <shift> # ううっ、真美、楽しみにしてたのに〜……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （どうやら、俺がきいたウワサ話は、デマだった
+line2 <shift> # ようだ。とんだアドバイス、してしまったな）
+com09 0 69
+display
+location 58
+com11 0 1
+sound 243
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「兄ちゃ〜ん、黙ってないで、教えてよ〜。
+line2 <shift> # どこを、頼りにすれば、いいの〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや……、その、自分だよ。
+line2 <shift> # そうやって、人に頼るのが、一番よくない」
+display
+com11 0 1
+sound 244
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「亜美が、やりたいようにやれば、いいの？
+line2 <shift> # わかったっ。んじゃ、そうしてみるっ！」
+display
+com22 0 30
+com21 0 30
+com11 0 1
+sound 245
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ううっ、全然、ダメだったよ〜！
+line2 <shift> # ソース入れれば、おいしくなると思ったのに〜」
+display
+com11 0 1
+sound 246
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「なんか、それ、すごいね……。
+line2 <shift> # あ、味見の隊長は、兄ちゃんだからねっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （生命の危機……。冷たい態度、とらないで、
+line2 <shift> # なにか、言ってやるべきだった……）
+com09 0 69
+display
+location 69
+unk02

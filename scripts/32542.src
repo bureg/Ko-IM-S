@@ -1,0 +1,243 @@
+com2c 0 24
+com2d 0 61
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「雪歩、突然だが表彰式のお誘いが来てるぞ。
+line2 <shift> # なにか受賞したみたいだな、おめでとう！」
+display
+com11 0 1
+sound 700
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ええっ！？　あ、ありがとうございます！
+line2 <shift> # でも、いったい……、なんの賞ですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええと、『お茶の似合うアイドルＮｏ．１』
+line2 <shift> # ……だそうだ」
+display
+com11 0 1
+sound 701
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「お、お茶が似合う、ですか。
+line2 <shift> # なんだか、その……、嬉しいですねぇ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「雪歩にふさわしい賞だなぁ。
+line2 <shift> # なんといっても雪歩は……」
+com03 0 2
+choice1 <shift> # お茶が好きだからなぁ
+line2
+com09 0 10
+com08
+choice2 <shift> # 雰囲気がお茶っぽい
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お茶が好きだからなぁ」
+display
+com11 0 1
+sound 702
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい。お茶好き度なら、
+line2 <shift> # ちょっと自信ありますよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「希代のお茶好きアイドルと言えるだろう」
+display
+com11 0 1
+sound 703
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そ、そんな大げさな……、
+line2 <shift> # でも、光栄ですっ」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「雰囲気がお茶っぽいからな」
+display
+com11 0 1
+sound 704
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「お、お茶っぽい？　緑色……？　あつあつ？
+line2 <shift> # いれたて？　よ、よくわからないですよぉ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、よいお茶のように香り高いというか……、
+line2 <shift> # いや違うか、癒されるというか……」
+display
+com11 0 1
+sound 705
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「うーん、なんとなくわかったような、
+line2 <shift> # わからないような」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さて、しかし表彰式か。取材もあるだろうな。
+line2 <shift> # 受賞のコメントとか、求められるわけだが」
+display
+com11 0 1
+sound 706
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そ、そうですね！　コメント、コメント……、
+line2 <shift> # なにを話したらいいかな……、そうだっ！」
+display
+com11 0 1
+sound 707
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「せっかくお茶関係の賞をいただくんだから、
+line2 <shift> # おすすめのお茶の話なんて、どうでしょう？」
+display
+com11 0 1
+sound 708
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「私、好きなお茶の話、してみたいですっ。
+line2 <shift> # あ、プロデューサーも、お茶好きですか？」
+com03 0 3
+choice1 <shift> # やっぱり緑茶だな
+line2
+com09 0 30
+com08
+choice2 <shift> # やっぱり煎茶だな
+line2
+com09 0 31
+com08
+choice3 <shift> # もっと無難なコメントを
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やっぱり熱い緑茶だな」
+display
+com11 0 1
+sound 709
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そうですよね！　私も好きなんです」
+display
+com11 0 1
+sound 710
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ああ、おいしいお茶のこと、
+line2 <shift> # みんなにもっと知って欲しいなぁ」
+display
+com11 0 1
+sound 711
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「よし！　表彰でも、しっかり
+line2 <shift> # アピールしちゃいますっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後雪歩は張り切って表彰に臨み、お茶への
+line2 <shift> # 熱い思いを、見事なコメントで披露した）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （好きな気持ちが、みんなに伝わったみたいだ。
+line2 <shift> # さすが賞を取るだけのことはあるな……）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺はやっぱり、渋めの煎茶だな。
+line2 <shift> # 少しぬるくてもうまいし」
+display
+com11 0 1
+sound 712
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「なるほどぉ、プロデューサーは渋めの
+line2 <shift> # ほうが好きなんですね。大人ですねっ」
+display
+com11 0 1
+sound 713
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「でも私は、もう少し甘いお茶が
+line2 <shift> # 好きかなぁ……、熱いほうが好みだし」
+display
+com11 0 1
+sound 714
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「うーん……。お茶の好みも人それぞれ、
+line2 <shift> # いろいろあるのかな？」
+display
+com11 0 1
+sound 715
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「自分の好きなお茶の話を、受賞コメントに
+line2 <shift> # しようと思ったんですけど……、困ったなぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （雪歩は少し悩んでしまったみたいだ……）
+display
+com11 0 1
+sound 716
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「でも私、もうちょっと考えてみます。どんな
+line2 <shift> # お茶が好きな人にも、納得して欲しいですから」
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えと、そうじゃなくて……、もう少し、
+line2 <shift> # 無難なコメントを言ったらどうだろう」
+display
+com11 0 1
+sound 717
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「無難って？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「受賞の喜びっていうか、感想っていうか」
+display
+com11 0 1
+sound 718
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そ、そう言われても、唐突に賞もらって、
+line2 <shift> # どんな賞やら、実感もなくって、その」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わからなければ、『受賞して嬉しいです！』
+line2 <shift> # ……で、いいんじゃないかなぁ」
+display
+com11 0 1
+sound 719
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「で、でも、なにかやっぱり私、
+line2 <shift> # 賞にあわせたコメントがしたいし……」
+display
+com11 0 1
+sound 720
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「なので、少し考えてみてもいいですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「構わないけど……、自分の気持ちもだけど、賞を
+line2 <shift> # くれる立場のことも考えてコメントしたほうが」
+display
+com11 0 1
+sound 721
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ううっ、そ、そうですね……。結構難しいな。
+line2 <shift> # でもなんとか、努力しますぅ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （雪歩はうんうんうなりながら、頑張って
+line2 <shift> # コメントをまとめて、表彰に挑んだ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しかし悩みすぎて、なんだかはっきりしない
+line2 <shift> # コメントになってしまったようだ……）
+com09 0 49
+display
+location 49
+unk02

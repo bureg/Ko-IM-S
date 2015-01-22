@@ -1,0 +1,292 @@
+com2c 0 17
+com2c 0 32
+com2d 0 63
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おつかれ！　ＣＤショップ店頭でのライブなん
+line2 <shift> # て、どうなるかと思ったけど、大好評だったね」
+display
+com11 0 4
+sound 1000
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい、おつかれさまですっ。でもその、
+line2 <shift> # 失敗ばっかりでしたけど、わ、私……」
+com03 0 2
+choice1 <shift> # なぁに、結果オーライさ
+line2
+com09 0 10
+com08
+choice2 <shift> # 失敗は次に生かせばいい
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なぁに、結果オーライさ」
+display
+com11 0 4
+sound 1001
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「で、でも、ステージプランが
+line2 <shift> # めちゃくちゃになってしまって」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「気にしない気にしない。
+line2 <shift> # お客さんは喜んでるじゃないか」
+display
+com11 0 4
+sound 1002
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そ、そうです、か？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ほら、今も拍手が鳴り止まない」
+display
+com11 0 4
+sound 1003
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「は、はい、それなら……いいんですけど」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「多少の失敗はいいよ。気にすることない。
+line2 <shift> # 失敗は、次の成功のバネに生かせばいい」
+display
+com11 0 4
+sound 1004
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「は、はい、そういってもらえると……、
+line2 <shift> # ちょっと、ほっとしますね……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それにお客さんは、失敗とは思ってないし。
+line2 <shift> # むしろ、喜んでるみたいだよ」
+display
+com11 0 4
+sound 1005
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ええっ？　そ、そうです、か？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ほら、拍手が今でも聞こえるじゃないか」
+display
+com11 0 4
+sound 1006
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あっ、ほんと、そうですねぇ……。
+line2 <shift> # そうだと、嬉しいですっ」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そしてまだまだ、拍手と声援は、
+line2 <shift> # 一定のリズムで続いている……）
+display
+com11 0 4
+sound 1007
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「アンコール呼ばれてます、
+line2 <shift> # ど、どうしましょう！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もちろん、コールに応えて１曲……、いや待て。
+line2 <shift> # しまった、歌う時間がもうないかも」
+display
+com11 0 4
+sound 1008
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そ、そんなぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「残念だけど、お店の都合もあるし。
+line2 <shift> # ステージはこれからすぐに片付ける予定だ」
+display
+com11 0 4
+sound 1009
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そ、そうですか。でも……コールになにも
+line2 <shift> # 応えないのは、お客さんに失礼かも……」
+display
+com11 0 4
+sound 1010
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ううっ、だ、だんだん客席からのコール、
+line2 <shift> # ブーイングに変わってきてませんか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「むぅ、いかんな。終了アナウンスも
+line2 <shift> # ないので、客が騒ぎはじめたか」
+display
+com11 0 4
+sound 1011
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「時間はもうないけど、でも……カーテンコール
+line2 <shift> # だけでも、出なくちゃ……いけない気がします」
+com03 0 3
+choice1 <shift> # 思い切って１曲だけ歌う
+line2
+com09 0 30
+com08
+choice2 <shift> # 挨拶だけでもしようか
+line2
+com09 0 31
+com08
+choice3 <shift> # このまま撤収しよう
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええい、わかった！　ステージスタッフには
+line2 <shift> # 俺からなんとか言う、あと１曲だけ歌おう！」
+display
+com11 0 4
+sound 1012
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「は、はい！　そうですね、
+line2 <shift> # それが一番、いいですね！」
+display
+com22 0 30
+com32 0 1
+com21 0 30
+com11 0 4
+sound 1013
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「私、歌います！　……客席のみんなーっ、
+line2 <shift> # 呼んでくれてありがとーっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おおっ！　雪歩元気だな」
+display
+com11 0 4
+sound 1014
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ここは期待に応えなくちゃですよっ。
+line2 <shift> # いっちょう、いきますよっ！」
+display
+com20 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （雪歩のやる気を尊重して、店側に無理を通して
+line2 <shift> # アンコールに応えることにした）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （客席と渾然一体の、素晴らしいステージの
+line2 <shift> # 締めくくりになったみたいだぞ！）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだな、時間はないけど、
+line2 <shift> # ここは挨拶だけでもしようか」
+display
+com11 0 4
+sound 1015
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい！　出ましょう。
+line2 <shift> # やっぱりシメはきちんと、ですよ」
+display
+com22 0 30
+com32 0 1
+com21 0 30
+com11 0 4
+sound 1016
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「みなさん、ありがとうございましたっ」
+display
+com11 0 4
+sound 1017
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ステージ進行など遅くなって、
+line2 <shift> # みなさん、すみませんでした……」
+display
+com11 0 4
+sound 1018
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「でも、最後までつきあってくれて、
+line2 <shift> # ほんとにありがとうございましたぁ！」
+display
+com22 0 30
+com32 0 0
+com21 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ふぅ、客席も落ち着いて、笑顔で帰って
+line2 <shift> # くれたね。少しこっちの撤収は遅れたけど」
+display
+com11 0 4
+sound 1019
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「お手間取らせちゃいました。スタッフさんにも、
+line2 <shift> # ずっと笑顔でいてほしかったです……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いやいや、いい舞台だったから、
+line2 <shift> # 多少は疲れても、誰もきっと不満はないさ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺がそう言うと、
+line2 <shift> # 雪歩は少し寂しそうに笑った）
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、パニックにならないうちに、
+line2 <shift> # このままこっそり撤収しよう」
+display
+com11 0 4
+sound 1020
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そんな！　お客さんの期待を裏切ったら……、
+line2 <shift> # いけないと、思います」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「気持ちはわかるけど、ない袖は振れないよ。
+line2 <shift> # もうステージを続ける時間はないんだ」
+display
+com11 0 4
+sound 1021
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「は、はい。確かに、
+line2 <shift> # 時間はもう……、わかりました」
+display
+com11 0 4
+sound 1022
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ううっ、元はと言えば、私がスムーズに
+line2 <shift> # 予定を運べなかったから、こんなことに……」
+display
+com11 0 4
+sound 1023
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「私が、失敗しなければ、アンコールに応える
+line2 <shift> # 時間だってきっとまだ、あったんですよね……」
+display
+com11 0 4
+sound 1024
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「やっぱり、やっぱり私……、
+line2 <shift> # ぐずでだめだめアイドルなのかも……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「べ、別に雪歩のせいじゃないってば、
+line2 <shift> # アンコールができないのは」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺のなぐさめもむなしく、
+line2 <shift> # 雪歩は暗く落ち込んでしまった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今回のステージは、少し後味の
+line2 <shift> # よくないものになったな……）
+com09 0 49
+display
+location 49
+unk02

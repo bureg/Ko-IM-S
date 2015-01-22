@@ -1,0 +1,342 @@
+com2c 0 17
+com2d 0 53
+com32 0 0
+com11 0 0
+sound 0
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はあー、大丈夫かしら……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうしたんですか？　あずささん。
+line2 <shift> # ため息なんか、ついちゃって」
+com03 0 3
+choice1 <shift> # 仕事がつらいんですか？
+line2
+com09 0 10
+com08
+choice2 <shift> # 恋の悩みですか？
+line2
+com09 0 11
+com08
+choice3 <shift> # ため息、似合いませんよ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「仕事がつらいんですか？」
+display
+com11 0 0
+sound 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「いえ、そんなんじゃないんです〜……。
+line2 <shift> # ご心配をおかけしてしまって、すみません」
+com09 0 13
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「恋の悩みですか？」
+display
+com11 0 0
+sound 2
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ええっ？　や、やめてください。そんなこと
+line2 <shift> # 聞くの……。全然、違いますから〜」
+com09 0 13
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ため息、似合いませんよ」
+display
+com11 0 0
+sound 3
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そうですか？　私にも、悩みごとくらい
+line2 <shift> # あるんですけれどー」
+com09 0 13
+display
+location 13
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ、一体、何を考え込んでるんです？
+line2 <shift> # もうすぐステージが始まりますよ」
+display
+com11 0 0
+sound 4
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「……話しても、笑わないって、
+line2 <shift> # 約束してくれますか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もちろんですよ。約束します」
+display
+com11 0 0
+sound 5
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あの、実は……、今朝見た占いの
+line2 <shift> # 結果がよくなくって」
+display
+com11 0 0
+sound 6
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「大事な仕事に、ジャマが入るかもって
+line2 <shift> # 書いてあったんです〜」
+display
+com11 0 0
+sound 7
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「これからステージだっていうのに、
+line2 <shift> # なんだか、心配になってきてしまって〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なんだ、そんなことですか。それなら……」
+com03 0 3
+choice1 <shift> # そういう日もありますね
+line2
+com09 0 20
+com08
+choice2 <shift> # 俺が守ってあげますよ
+line2
+com09 0 21
+com08
+choice3 <shift> # 占いなんて忘れましょう
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そういう日もありますね」
+display
+com11 0 0
+sound 8
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ええ、そうですよね〜。毎日占いを見て
+line2 <shift> # いると、本当にそう思います〜」
+display
+com11 0 0
+sound 9
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ふふっ。私も、プロデューサーさんみたいに、
+line2 <shift> # どっしりと構えていれば、いいのかしら？」
+com09 0 23
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺が守ってあげますよ」
+display
+com11 0 0
+sound 10
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ……、ありがとうございます。
+line2 <shift> # そのお言葉は、うれしいんですけれど」
+display
+com11 0 0
+sound 11
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ステージに立っている間は、やはり私が
+line2 <shift> # 何とかしないと、いけませんし」
+com09 0 23
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「占いなんて忘れましょう」
+display
+com11 0 0
+sound 12
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そんなに、簡単に忘れてしまえれば、
+line2 <shift> # いいのですけど……そうはいかなくて」
+com09 0 23
+display
+location 23
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「分かりました。そんなに気になってるなら、
+line2 <shift> # 俺が、なんとかしましょう！」
+display
+com11 0 0
+sound 13
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「プロデューサーさんが、ですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ええ。おまじないを、してあげます。
+line2 <shift> # さあ、目を閉じてください」
+display
+com11 0 0
+sound 14
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、はい……。これで、いいですか〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ん？　あずささんの足元に、ゴキブリが！
+line2 <shift> # あずささんに見つかったら、大変だぞ！）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （まずいな、今のうちになんとかしなければ。
+line2 <shift> # ゴキブリを一撃で、退治してやる！）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （右に動くか、左に動くか、予想して叩こう。
+line2 <shift> # チャンスは一度だけだ。どっちにする？）
+com03 0 2
+choice1 <shift> # 右だ！
+com09 0 30
+com08
+choice2 <shift> # 左だ！
+com09 0 31
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （右だ！　えーい、やっつけてやる！）
+display <shift> # ばしっ！
+com37 0 1
+com1e 0 0
+com09 0 33
+com3b
+com37 0 0
+com1e 0 0
+com09 0 34
+com3b
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （左だ！　えーい、やっつけてやる！）
+display <shift> # ばしっ！
+com37 0 1
+com1e 0 0
+com09 0 33
+com3b
+com37 0 0
+com1e 0 0
+com09 0 34
+com3b
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （時間がない！
+line2 <shift> # えーい、こうなったらカンでやっつけてやる！）
+display <shift> # ばしっ！
+com09 0 34
+display
+location 33
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （よしっ、退治したぞ……！
+line2 <shift> # うまくやっつけた。これで安心だ）
+display
+com11 0 0
+sound 15
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あの……、どうかしましたか？
+line2 <shift> # プロデューサーさん」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いえ、もう大丈夫ですよ。
+line2 <shift> # あずささんを悩ませる、ジャマ者は……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺がたった今、やっつけてやりました。
+line2 <shift> # さあ、目を開けて……」
+display
+com11 0 0
+sound 16
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「おまじないは、おしまいですか〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ええ。これでもう、心配いりませんよ。
+line2 <shift> # きっと今日のステージは、うまくいきます」
+display
+com11 0 0
+sound 17
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「プロデューサーさんにそう言われると、
+line2 <shift> # そんな気持ちになってきました〜」
+display
+com11 0 0
+sound 18
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「不思議ですね。さっきまでの不安な気持ちが、
+line2 <shift> # ウソみたいに、すーっと消えて」
+display
+com11 0 0
+sound 19
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「きっとうまくいく、っていう安心感に
+line2 <shift> # 変わったみたいです〜……」
+display
+com11 0 0
+sound 20
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「一体、どんな魔法をかけたんですか？
+line2 <shift> # プロデューサーさん」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ふふ、それは秘密ですよ。
+line2 <shift> # うまくいったみたいで、よかったです」
+display
+com11 0 0
+sound 21
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ふふっ。プロデューサーさんがこんなこと
+line2 <shift> # できるなんて、知らなかったです〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （あずささんに、笑顔が戻った。
+line2 <shift> # これで、ステージもうまく行くだろう）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （一か八かだったけど、うまく行ったな。
+line2 <shift> # ゴキブリがいたことは、永遠に秘密だ）
+com4b 0 0
+com09 0 69
+display
+location 34
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うわっ、失敗した……！
+line2 <shift> # 逃げられたぞ。待てっ、こら！）
+display <shift> # ばしっ、ばしっ！
+display
+com11 0 0
+sound 22
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「えっ、な、なに？　どうしたんですか……？
+line2 <shift> # 何があったんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わっ、あずささん、目を開けちゃダメです！」
+display
+com11 0 0
+sound 23
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「えっ、どうしてです……？
+line2 <shift> # ああっ！　プロデューサーさんの足元に」
+display
+com11 0 0
+sound 24
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「く、くろ……。ご、ごき……。
+line2 <shift> # ああっ、ダメ。こないで……こないで〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （あずささんは、すっかりおびえてしまった。
+line2 <shift> # その後のステージも、散々な結果に……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （俺があのとき、うまく対処していれば、
+line2 <shift> # すべては、うまく行ったはずなのに……！）
+com4b 0 2
+com09 0 69
+display
+location 69
+unk02

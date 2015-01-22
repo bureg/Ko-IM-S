@@ -1,0 +1,256 @@
+com2c 0 24
+com2d 0 51
+com32 0 0
+com11 0 4
+sound 1400
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「プロデューサーさん、昨日の夜、高校時代の
+line2 <shift> # 同級生から、電話があったんです！」
+display
+com11 0 4
+sound 1401
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「私の顔、地元の新聞で見たって。ランクＥに
+line2 <shift> # あがって、注目されはじめたのでしょうか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「多分、そうだと思いますよ。新人から、一歩
+line2 <shift> # 前進ですね。それにしても……」
+com03 0 2
+choice1 <shift> # 変わった新聞ですね
+line2
+com09 0 10
+com08
+choice2 <shift> # ヒマな友達ですね
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「変わった新聞ですね。マイナーアイドルの
+line2 <shift> # 記事が載るなんて」
+display
+com11 0 4
+sound 1402
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「地元では、その新聞、有名なんですよ。
+line2 <shift> # ヘンなニュースばかり扱うので、よく話題に」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ヒマな友達ですね」
+display
+com11 0 4
+sound 1403
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「その子、けっこう電話魔なんです。私はいつも、
+line2 <shift> # 一方的に聞き役にされてしまって」
+display
+com11 0 4
+sound 1404
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「と、友達の悪口を、言ってはいけませんね。
+line2 <shift> # すみません。アイドルらしくしなくては……」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あずささんって、どこの出身なんです？
+line2 <shift> # ここから、遠いんですか？」
+display
+com11 0 4
+sound 1405
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「んー、電車で４時間くらいの、小さな町です。
+line2 <shift> # 短大生の時に、こっちでひとり暮らしを始めて」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだったんですか。じゃあ成功して、故郷
+line2 <shift> # に……。ん？　故郷に……なんだったかな？」
+com03 0 3
+choice1 <shift> # ニシキを、飾らないと
+line2
+com09 0 30
+com08
+choice2 <shift> # ニシンを、飾らないと
+line2
+com09 0 31
+com08
+choice3 <shift> # パンチを、かまさないと
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ニシキを、飾らないと」
+display
+com11 0 4
+sound 1406
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ふふっ、そうできたらいいなあ、と思います。
+line2 <shift> # 道は、まだまだ遠いですけれど」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ニシンを、飾らないと」
+display
+com11 0 4
+sound 1407
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ニシンって、魚のですか？
+line2 <shift> # それは……お祝いの風習かなにかでしょうか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あああ、すみません。ニシキ！　錦を飾るの
+line2 <shift> # まちがいでした」
+display
+com11 0 4
+sound 1408
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、そうですね。そうできたらって、思います。
+line2 <shift> # 道は、まだまだ遠いですけれど」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「パンチを、かまさないと」
+display
+com11 0 4
+sound 1409
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「えっ。故郷にパンチって、ど、どうしてそんな
+line2 <shift> # ことを？　というか、いったい、どうやって？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、まあ、それぐらいインパクトのある
+line2 <shift> # 活躍をするというか、思い知らせるというか」
+display
+com11 0 4
+sound 1410
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「お、穏やかに、がんばりたいですね……。
+line2 <shift> # 乱暴なのは、よくないですから」
+com09 0 49
+display
+location 49
+com11 0 4
+sound 1411
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「じつは実家の両親は、私がアイドルやることに、
+line2 <shift> # 反対なんです。たまに、口げんかしてしまって」
+display
+com11 0 4
+sound 1412
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「とくにお母さんは『そんなことやめて、早く
+line2 <shift> # 片づいちゃいなさい』なんて、言うんですよ」
+com03 0 3
+choice1 <shift> # 結婚を、バカにしてますね
+line2
+com09 0 50
+com08
+choice2 <shift> # 俺が、話をつけましょうか？
+line2
+com09 0 51
+com08
+choice3 <shift> # 逆に、片づけてやりましょう
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 2
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「結婚を、バカにしてますね。片づくなんて
+line2 <shift> # 言い方は、してほしくないです」
+display
+com11 0 4
+sound 1413
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「私も、そう思うんですっ。一生で一度の
+line2 <shift> # かけがえのない事なのに、そんな風に……」
+display
+com11 0 4
+sound 1414
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「プロデューサーさん、もしかして、私と考え方、
+line2 <shift> # 似てます？　だとしたら、うれしい発見ですね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （あずささん、わりと古風なとこ、あるんだな。
+line2 <shift> # 俺の意見を聞いて、ニコニコしている）
+com09 0 69
+display
+location 51
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺が、話をつけましょうか？」
+display
+com11 0 4
+sound 1415
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「えっ、説得する気ですか？　お母さん、人を
+line2 <shift> # 味方につけるのがうまいので、話さない方が」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、俺は、あずささんのプロデューサー
+line2 <shift> # ですから、丸め込まれたりしないですよ？」
+display
+com11 0 4
+sound 1416
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「お父さんもいつもそう言って、最後には……。
+line2 <shift> # こ、これくらい私ひとりで、なんとかします」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （まあ、家庭の事まで、首を突っ込まなくていい
+line2 <shift> # か。手助けしたいけど、ここは本人に任せよう）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「逆に、片づけてやりましょう」
+display
+com11 0 4
+sound 1417
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そ、それ、どういうことでしょう？　当たり前
+line2 <shift> # ですけれど、お母さんは、もう結婚して……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いえ、こう、俺とあずささんで、次々
+line2 <shift> # 意見を叩きつけて、やり込めてやるんです」
+display
+com11 0 4
+sound 1418
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そんなことをしたら、もっと雰囲気悪くなって
+line2 <shift> # しまいますっ。それにお母さん、かわいそう」
+display
+com11 0 4
+sound 1419
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「進路のこと以外では、お母さんとは、仲いいん
+line2 <shift> # です。あまり、事を荒立てたくは……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （犬猿の仲、というわけではないんだな。
+line2 <shift> # ……これはさすがに、言い過ぎだったか）
+com09 0 69
+display
+location 69
+unk02

@@ -1,0 +1,344 @@
+com2c 0 24
+com2d 0 71
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「『ステージで声が弱い、特訓せよ！』
+line2 <shift> # ……と、社長からの指令が来たぞ」
+display
+com11 0 4
+sound 100
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「え〜っ、特訓するんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、ボイストレーニングだ。具体的には、
+line2 <shift> # 発声についての見直しと弱点の強化だな」
+display
+com11 0 4
+sound 101
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「きょ、強化ねぇ……。私なんか、
+line2 <shift> # 普通のレッスンでも、手いっぱい……」
+display
+com11 0 4
+sound 102
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あ〜、いやいや、そんなことないですよ？
+line2 <shift> # 特訓ねぇ……、特訓かぁ……」
+com03 0 2
+choice1 <shift> # やるしかないさ
+line2
+com09 0 10
+com08
+choice2 <shift> # なんだ、イヤなのか？
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やるしかないさ。社長から指摘されるだけの、
+line2 <shift> # 問題があるなら、なんとかしないと」
+display
+com11 0 4
+sound 103
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ま、そうですね。問題があるなら、改善
+line2 <shift> # しなくちゃ。う〜ん、でも何が問題なのか……」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんだ、特訓、イヤなのか？」
+display
+com11 0 4
+sound 104
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「別に、イヤじゃないですけどぉ……。問題があ
+line2 <shift> # るなら、原因を把握して、改善したいですけど」
+display
+com11 0 4
+sound 105
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「でもスパルタとか根性論になっちゃうようだと、
+line2 <shift> # ちょっとなぁ、と」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、そうだなぁ。
+line2 <shift> # 闇雲に鍛えるんじゃ、いけないってことだな」
+display
+com11 0 4
+sound 106
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そうそう、発声の何が問題なのか、
+line2 <shift> # きちんと理解して、で、考えて、対策しないと」
+com09 0 29
+display
+location 29
+com11 0 4
+sound 107
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あ、そういえば……、思い出した」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんだ、律子？」
+display
+com11 0 4
+sound 108
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「レッスンのときに、トレーナーさんに、
+line2 <shift> # 言われたんですけど……」
+display
+com11 0 4
+sound 109
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「声のマイクのりが、よくないことがあるって。
+line2 <shift> # でも、ちょっと姿勢を工夫すればよくなるって」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ふぅむ、姿勢ねぇ。姿勢に気を配れば、
+line2 <shift> # 声がよくなる……、ってことか？」
+display
+com11 0 4
+sound 110
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「なんかコツがあるんですよ、たぶん。
+line2 <shift> # ああ、教わった気がするんだけど思い出せない」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まぁ待て、俺も考えてみよう。身体のどこかの、
+line2 <shift> # 姿勢を正せば、声も、よくなるんだな？」
+display
+com11 0 4
+sound 111
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ええ、そのはず……、です」
+com0e 2 91
+com44 129 117 147 170 129 118
+com09 0 30
+com45
+com44 129 117 140 251 129 118
+com09 0 31
+com45
+com44 129 117 139 185 129 118
+com09 0 32
+com45
+com44
+com09 0 33
+com45
+com07
+com09 0 33
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「頭のてっぺんから、
+line2 <shift> # 声を出すつもりでやるとか」
+display
+com11 0 4
+sound 112
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あ〜、裏声は頭から出せとか言いますよね。
+line2 <shift> # でも、この場合は、関係ないんじゃ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、わかった、そうじゃないな。
+line2 <shift> # 頭の向きとか角度だ！　頭を、まっすぐにっ」
+display
+com11 0 4
+sound 113
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「え？　あっ……！　歌うときに、
+line2 <shift> # 頭がさがってるかも、私」
+display
+com11 0 4
+sound 114
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「これじゃ、いくら声出しても、
+line2 <shift> # マイクには、のらないですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「マイク吹かないように、
+line2 <shift> # 気をつけすぎたのかな？」
+display
+com11 0 4
+sound 115
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そうかも。クセにならないうちに直さなきゃ。
+line2 <shift> # ちょっと、意識してみますね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （どうやら律子は、自分でも問題点に、
+line2 <shift> # 気づけたみたいだ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （次のステージまでには、きっと、
+line2 <shift> # うまく改善できていることだろう……）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「口のあけ方を、工夫してみるとか」
+display
+com11 0 4
+sound 116
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「口のことは、姿勢とは、
+line2 <shift> # 言わないんじゃないかなぁ……」
+display
+com11 0 4
+sound 117
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「もっとも、はっきりくっきり、
+line2 <shift> # 発声するのは、大事だけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだな、声にメリハリ、だな」
+display
+com11 0 4
+sound 118
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「工夫次第で、音の聞こえは結構、変わりますね。
+line2 <shift> # 口を、はっきりあけて、前に声を飛ばさないと」
+display
+com11 0 4
+sound 119
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「う〜ん……。でも他に、何か原因が……。
+line2 <shift> # 姿勢、姿勢とは、うむむむ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あっ、律子それだ！　その、モノ考えるときに、
+line2 <shift> # うつむくの、歌うときもやっちゃってないか？」
+display
+com11 0 4
+sound 120
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ええっ！　そ、そう言われると……、確かに。
+line2 <shift> # 時々、うつむいて歌ってたかも、私」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なるほど、道理で、マイクのりが、
+line2 <shift> # いまいちと言われるわけだな……」
+display
+com11 0 4
+sound 121
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「下向かないように……、今度から、
+line2 <shift> # ちょっと意識して、姿勢変えてみますね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （どうやら律子は、自分でも問題点に、
+line2 <shift> # 気づけたみたいだ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （次のステージまでには、きっと、
+line2 <shift> # うまく改善できていることだろう……）
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「胸を張って堂々と！　とか」
+display
+com11 0 4
+sound 122
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「胸を張れば自然と、背筋も伸びますね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「姿勢を正す、って言葉からすると、
+line2 <shift> # つまりそういうことだろう」
+display
+com11 0 4
+sound 123
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「つまりそういう……って、あれ？
+line2 <shift> # なんかテキトーに憶測で言ってません？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「い、いや、そんなことはないぞ！」
+display
+com11 0 4
+sound 124
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「じゃ、具体的には……、
+line2 <shift> # そういうことってのは、どういうこと？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「『気をつけ』の姿勢で、歌えばいいんだ」
+display
+com11 0 4
+sound 125
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そ、それはどうかな。直立不動で
+line2 <shift> # 歌うってことは、ないと思うんだけどなぁ……」
+display
+com11 0 4
+sound 126
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ああ、トレーナーさんの言ってたコツ。
+line2 <shift> # もうちょっとで思い出せるんだけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、だから、とりあえず、
+line2 <shift> # 俺の言うとおりに、やってみないか？」
+display
+com11 0 4
+sound 127
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「う〜ん、遠慮しておきます。ともかく私、
+line2 <shift> # もうちょっと自分で考えてみますから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （どうやら、俺の指摘は少々、的外れだったか。
+line2 <shift> # 思い出すきっかけにもならなかったみたいだな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （律子はトレーナーに直にコツを聞きに行ったが、
+line2 <shift> # 身につけるには、時間がかかるようだ……）
+com09 0 49
+display
+location 33
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うむむ……」
+display
+com11 0 4
+sound 128
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「え？　あ、あれ？　どうしたんですか、
+line2 <shift> # プロデューサー……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、ちょっと俺も自信なくなってきたな。
+line2 <shift> # トレーナーと、直接相談したほうがいいかも」
+display
+com11 0 4
+sound 129
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「う〜ん、そうですか……。
+line2 <shift> # ま、そうですね。私も、そう思います」
+display
+com11 0 4
+sound 130
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「やっぱり、トレーナーさんに聞いてきます。
+line2 <shift> # プロデューサー様はあてにならないみたいだし」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「むっ！？」
+display
+com11 0 4
+sound 131
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「やれやれ……。それじゃ、失礼しま〜す」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うまいアドバイスを、してやれなかったな。
+line2 <shift> # 律子は呆れながら、行ってしまった……）
+com09 0 49
+display
+location 49
+unk02

@@ -1,0 +1,301 @@
+com2c 0 59
+com2d 0 41
+com32 0 0
+com11 0 4
+sound 900
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「お買い上げ、ありがとうございましたー。
+line2 <shift> # プロデューサー、今ので、なんとか完売です」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おつかれさま。キャンペーン販売、まあ、
+line2 <shift> # 成功かな」
+display
+com11 0 4
+sound 901
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「オマケでつけた携帯用ストラップ見て、
+line2 <shift> # 買ってくれる人、多かったですね」
+display
+com11 0 4
+sound 902
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「完売したのは……オマケの力？」
+com03 0 3
+choice1 <shift> # そうだろうな
+line2
+com09 0 10
+com08
+choice2 <shift> # 売り手の努力もあるよ
+line2
+com09 0 11
+com08
+choice3 <shift> # そう、ふさぐなよ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだろうな」
+display
+com11 0 4
+sound 903
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「悲しいけど、事実ですよね。こういうのでも
+line2 <shift> # ないと、売り上げが伸びないのは……」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「売り手の努力もあるよ」
+display
+com11 0 4
+sound 904
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「それは、がんばりましたけど……
+line2 <shift> # 最後の一押しは、オマケの力ですよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、たしかに……」
+display
+com11 0 4
+sound 905
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「悲しいです。こういうのをつけないと、
+line2 <shift> # なかなか売り上げが伸びないのは……」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そう、ふさぐなよ」
+display
+com11 0 4
+sound 906
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そんな言葉、かけてほしくは……。
+line2 <shift> # ただ、事実を確認したいだけで」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……まあ、オマケの力は大きいんだろうな。
+line2 <shift> # あの、客の反応見ていると」
+display
+com11 0 4
+sound 907
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「私も、そう感じました。それがキャンペーンの
+line2 <shift> # ねらいなのはわかります。でも……」
+com09 0 29
+display
+location 29
+com11 0 4
+sound 908
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「歌を売っているのに、歌だけでは売れない。
+line2 <shift> # 皮肉なものですね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「売るっていうことは、トータル力の勝負だから
+line2 <shift> # な。絵に描いたようには、いかないよ」
+display
+com11 0 4
+sound 909
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「けど、いい歌を収録することが、なにより
+line2 <shift> # 売り上げアップに、つながるのでは？」
+com03 0 3
+choice1 <shift> # それが、理想だね
+line2
+com09 0 30
+com08
+choice2 <shift> # それは、多少はね
+line2
+com09 0 31
+com08
+choice3 <shift> # それは、幻想だね
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それが、理想だね。爆発的に売れるためには、
+line2 <shift> # 相当、高い質が要求されるけど」
+display
+com11 0 4
+sound 910
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はい、わかっています。実際、それが、
+line2 <shift> # どんなにむずかしいかも……」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それは、多少はね」
+display
+com11 0 4
+sound 911
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「大幅増とまでは、いきませんか？　歌のよさ
+line2 <shift> # だけでは、壁はなかなか越えられない？」
+display
+com11 0 4
+sound 912
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「信じたくないです、そんなものがあるなんて。
+line2 <shift> # ただ、私はセールスの事は、よく知らないから」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それは、幻想だね。必ずしも、そうなるとは
+line2 <shift> # 限らないんじゃないか？」
+display
+com11 0 4
+sound 913
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そんな……。セールスのことはよく知りません
+line2 <shift> # けど、全然、伸びないなんて……」
+display
+com11 0 4
+sound 914
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「だとしたら、想像以上に、厳しい道ですね。
+line2 <shift> # 学ばなければならないこと、多そうです……」
+com09 0 49
+display
+location 49
+com11 0 4
+sound 915
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサー、プロの条件って、なんで
+line2 <shift> # しょう？」
+display
+com11 0 4
+sound 916
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「売れなくても、いい歌を歌い続ける人がいて。
+line2 <shift> # 売れていても、そんなにいい歌を歌えない人も」
+display
+com11 0 4
+sound 917
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「真のプロシンガーとして認められるって、
+line2 <shift> # いったい、どういうことです？」
+com03 0 3
+choice1 <shift> # そんなの、わからないよ
+line2
+com09 0 50
+com08
+choice2 <shift> # とにかく、いい歌を歌うことだ
+line2
+com09 0 51
+com08
+choice3 <shift> # とにかく、売れることだよ
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなの、わからないよ。真のプロも、
+line2 <shift> # ニセのプロもないと思う」
+display
+com11 0 4
+sound 918
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサーの基準とか、考えとか、
+line2 <shift> # あるのでは？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「千早自身に、完成形が見えてればいいんだよ。
+line2 <shift> # 千早自身がめざす、プロシンガーの形がね」
+display
+com11 0 4
+sound 919
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「私自身の形……。そうですね。きっと
+line2 <shift> # 心の中では、描けていると思います」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （自分の中に意識を向けて、うなづいている。
+line2 <shift> # めざす姿さえ見えているなら、それでいい）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「とにかく、いい歌を歌うことだ」
+display
+com11 0 4
+sound 920
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「やはり、それのみ、ですか？
+line2 <shift> # たとえ売れなくても……」
+display
+com11 0 4
+sound 921
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「それが、プロデューサーの描く真のプロなら、
+line2 <shift> # 稼ぎは関係ないということ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う……。そこまで切り離されて考えられると、
+line2 <shift> # 困るけど……」
+display
+com11 0 4
+sound 922
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「私も、歌が第一とは思っています。けど、それ
+line2 <shift> # だと、うまいアマチュアとなにが違うのか……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （考え込んでいる。技量が大事なのは、たしか
+line2 <shift> # だけど、認められるとなると、微妙なトコだ）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「とにかく、売れることだよ」
+display
+com11 0 4
+sound 923
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「それだけが、認められている証明？
+line2 <shift> # お金さえ入ってくれば、あとはどうでも？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そこまでは言わないけど、すごい売れてるアイ
+line2 <shift> # ドルに、あまりひどいのは、いないだろ？」
+display
+com11 0 4
+sound 924
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ハッキリ言って……いると思います。とうてい
+line2 <shift> # 認められないような人達」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか？　それでも彼女達は、真のプロなん
+line2 <shift> # だよ。世間的にはな」
+display
+com11 0 4
+sound 925
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「納得いかない線引きです。たとえ他の全員が
+line2 <shift> # 認めても、私は認めたくは……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （言葉が、ささくれだっている。売り上げ至上
+line2 <shift> # 主義は、千早の価値観には合わないようだ）
+com09 0 69
+display
+location 69
+unk02

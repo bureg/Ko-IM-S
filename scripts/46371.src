@@ -1,0 +1,497 @@
+com2c 0 57
+com2c 0 35
+com2c 0 9
+com2d 0 81
+com32 0 0
+com11 0 0
+sound 0
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「歩いて移動するのって、珍しいですよね。
+line2 <shift> # 次の仕事までの時間、大丈夫ですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「時間は余裕あるから大丈夫。気分を変えるため
+line2 <shift> # に歩きにしたんだが、車のほうが良かったか？」
+display
+com11 0 0
+sound 1
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「いえ、ボクは歩きのほうがいいです！
+line2 <shift> # たまには外の空気も吸いたいし！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「最近、スタジオやＴＶ局での
+line2 <shift> # 仕事が多いもんな」
+display
+com11 0 0
+sound 2
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「室内ばかりだと息がつまりますから、
+line2 <shift> # 久しぶりに外を歩けてよかったですよ」
+display
+com11 0 0
+sound 3
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「気分転換完了！　パワー充電満タン！
+line2 <shift> # って感じです！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よーし。
+line2 <shift> # それじゃ、次の仕事はバッチリだな？」
+display
+com11 0 0
+sound 4
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はい！　頑張ります。
+line2 <shift> # ボクはまだまだ、これからですから！」
+display
+com11 0 0
+sound 5
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「もっともっと頑張って、
+line2 <shift> # 絶対にトップアイドルになってみせます！」
+com03 0 3
+choice1 <shift> # その意気だ！
+line2
+com09 0 10
+com08
+choice2 <shift> # じゅうぶん立派だぞ
+line2
+com09 0 11
+com08
+choice3 <shift> # 新人同様だもんな
+line2
+com09 0 12
+com08
+com07 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64
+com09 0 12
+com08
+display
+location 10
+com34 0 2
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「その意気だ！　でも、無理はするなよ。
+line2 <shift> # じっくり確実に、頂点を目指そうな」
+display
+com11 0 0
+sound 6
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はい！　プロデューサーが一緒にいてくれる
+line2 <shift> # 限り、ボクは大丈夫ですっ！」
+display
+com11 0 0
+sound 7
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ボク、プロデューサーに支えられて、
+line2 <shift> # ここまで来たんですから！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか？　そこまでほめられると、
+line2 <shift> # ヘンな気分だけど……」
+display
+com11 0 0
+sound 8
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサーの手腕は、やっぱスゴイです
+line2 <shift> # よ。自信、持っていいと思いますよ！」
+display
+com11 0 0
+sound 9
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「なーんて、ボクが言うのも、ヘンかもしれませ
+line2 <shift> # んけど。へへっ！」
+com09 0 19
+display
+location 11
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「真は、今でもじゅうぶん、立派だぞ。
+line2 <shift> # 少し力を抜いていこう」
+display
+com11 0 0
+sound 10
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「は、はい。わかりました。
+line2 <shift> # でも……それでいいんでしょうか？」
+display
+com11 0 0
+sound 11
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ボク、自分で立派だって思えないし……。
+line2 <shift> # 今、力を抜いて、失敗したりしませんか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、少しならいいんじゃないかな？
+line2 <shift> # ……ダメかな？　やっぱり」
+display
+com11 0 0
+sound 12
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「んー、ボクはダメだと思うけど……、
+line2 <shift> # でも、プロデューサーが言うなら……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （なんだか真面目に考え始めてしまった。
+line2 <shift> # 余計なことを言ってしまったようだな）
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだな、真はまだ、新人同様だからなぁ」
+display
+com11 0 0
+sound 13
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「え？　は、はぁ……そうですよね。
+line2 <shift> # まだまだ新人同様です……か……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わあっ、急に落ち込むなよ」
+display
+com11 0 0
+sound 14
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「すみません。ボク、ちょっと疲れてるのかな？
+line2 <shift> # こんなことで落ち込むなんて……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうじゃなくて、新人同様って言ったのは、
+line2 <shift> # ただの冗談だよ。だから、落ち込まないでくれ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ほんの冗談のつもりだったけど、落ち込ませて
+line2 <shift> # しまった。少しはほめてやればよかったかな）
+com09 0 19
+display
+location 19
+com11 0 0
+sound 15
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「……あれ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ん？　どうした？」
+display
+com11 0 0
+sound 16
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「なんだか、ビシビシ視線を感じるんです……。
+line2 <shift> # ファンの人に見つかったかもしれませんね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「困ったな。さすがにファンサービスしてる
+line2 <shift> # 時間はないぞ」
+display
+com11 0 0
+sound 17
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そうですね。声援をもらうのは、とっても
+line2 <shift> # 嬉しいですけど、今は次の仕事があるし……」
+display
+com11 0 0
+sound 18
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あっ、完全に気づかれちゃったみたいです！
+line2 <shift> # こ、こっちに向かってきそうですよ？」
+display
+com11 0 0
+sound 19
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「どこかに移動した方が、よくないですか？」
+com03 0 3
+choice1 <shift> # 俺が引きつけよう
+line2
+com09 0 20
+com08
+choice2 <shift> # しらばっくれよう
+line2
+com09 0 21
+com08
+choice3 <shift> # 逃げずに堂々と
+line2
+com09 0 22
+com08
+com07 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、ここは俺が引きつける。
+line2 <shift> # 真は逃げるんだ！」
+display
+com11 0 0
+sound 20
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ええっ！？
+line2 <shift> # 引きつけるって……どうやって？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「えっと、それは……俺が真のフリを
+line2 <shift> # してだな……」
+display
+com11 0 0
+sound 21
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ムリです。やっぱり、二人で逃げましょう！
+line2 <shift> # 走って、プロデューサー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、わ、わかった。俺も言ってて
+line2 <shift> # ムリがあるなとは、思ったんだ……」
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ここは、しらばっくれよう！」
+display
+com11 0 0
+sound 22
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ええっ！？
+line2 <shift> # しらばっくれるって……どうやって？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「えっと、それは……『ボク、菊地真じゃありま
+line2 <shift> # せんから！』とか言ってだな……」
+display
+com11 0 0
+sound 23
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「変装グッズとか、何も持ってないし、
+line2 <shift> # ムリですよ。バレバレすぎます！」
+display
+com11 0 0
+sound 24
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「やっぱり二人で逃げましょう！
+line2 <shift> # 走って、プロデューサー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、わ、わかった。俺も言ってて
+line2 <shift> # 相当ムリがあるなとは、思ったんだ……」
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やっぱり、逃げずに堂々としよう。
+line2 <shift> # 別に、悪いことをしてるわけじゃないんだ！」
+display
+com11 0 0
+sound 25
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「でも……、そんなことしたら、
+line2 <shift> # あっという間に囲まれちゃいますよ」
+display
+com11 0 0
+sound 26
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「囲まれちゃったら、どうするんです？
+line2 <shift> # 次の仕事に間に合いません！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、そ、そうだな。真の言う通りだよ」
+display
+com11 0 0
+sound 27
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「やっぱり二人で逃げましょう！
+line2 <shift> # 走って、プロデューサー！」
+com09 0 29
+display
+location 29
+com22 0 30
+com32 0 1
+com21 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ふぅ……。とりあえず、引き離すことには
+line2 <shift> # 成功したみたいだな」
+display
+com11 0 0
+sound 28
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「でも、まだカンペキじゃないですね。
+line2 <shift> # 今にも追いつかれそうで、ドキドキですよ……」
+display
+com11 0 0
+sound 29
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「この先の道、右と左にわかれてるみたいです。
+line2 <shift> # ……どっちに行きますか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ここが運命のわかれ道ってわけか。
+line2 <shift> # この選択は重要だな……。よしっ！」
+com03 0 2
+choice1 <shift> # 右の道
+com09 0 30
+com08
+choice2 <shift> # 左の道
+com09 0 31
+com08
+com07 129 64 129 64 129 64 129 64 129 64
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、右へ行こう！」
+display
+com11 0 0
+sound 30
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「右ですね。わかりました！」
+com37 0 1
+com1e 0 0
+com09 0 38
+com3b
+com37 0 0
+com1e 0 0
+com09 0 39
+com3b
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、左へ行こう！」
+display
+com11 0 0
+sound 31
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「左ですね。わかりました！」
+com37 0 1
+com1e 0 0
+com09 0 38
+com3b
+com37 0 0
+com1e 0 0
+com09 0 39
+com3b
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、こっちへ行こう！」
+display
+com11 0 0
+sound 32
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「こっちですね。わかりました！」
+com09 0 39
+display
+location 38
+com22 0 30
+com32 0 2
+com21 0 30
+com11 0 0
+sound 33
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ここまで来れば大丈夫！
+line2 <shift> # バッチリ、逃げ切れたみたいですね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。けっこう走ったからな」
+display
+com11 0 0
+sound 34
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ふぅ……、これで次の仕事も一安心かな。
+line2 <shift> # はあ〜、思い切り走っちゃった……。うあっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「な、なんだよ？　急に大きな声出して……」
+display
+com11 0 0
+sound 35
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「いえ。あ、あのっ、ボク、知らないうちに
+line2 <shift> # プロデューサーの手を……握ってたみたいで」
+display
+com11 0 0
+sound 36
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「は、はなしますね。なんか、すみません……。
+line2 <shift> # あ、あはっ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「別に謝る必要はないさ。なんならこのまま
+line2 <shift> # 手をつないで、次の仕事場に行こうか？」
+display
+com11 0 0
+sound 37
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「なっ！　冗談言わないで下さい！
+line2 <shift> # そういう冗談……誰にでも言ってるんですか？」
+display
+com11 0 0
+sound 38
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そういうの、困るなあ。ボクとしては……。
+line2 <shift> # ボクに言うぶんにはいいけど……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「一人で、何をブツブツ言ってるんだ？」
+display
+com11 0 0
+sound 39
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「べ、別に何でもないですっ！　もお……！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ふくれてはいるものの、
+line2 <shift> # 本気で怒っているわけではなさそうだ）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ちょっとしたハプニングだったが、真には
+line2 <shift> # いい気分転換になったみたいだな）
+com4b 0 0
+com09 0 49
+display
+location 39
+com22 0 30
+com32 0 2
+com21 0 30
+com11 0 0
+sound 40
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はぁ、はぁ、ここまで来れば、大丈夫かな？
+line2 <shift> # うあっ、前からファンの人達が……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「しまった、先回りされたか！？　どうやら、
+line2 <shift> # 向こうのほうがこの辺の地理に詳しいらしいぞ」
+display
+com11 0 0
+sound 41
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ〜あ。息抜きはここまでですね。
+line2 <shift> # 少しくらい二人で……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ん？　二人がどうかした？」
+display
+com11 0 0
+sound 42
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「いえ、なんでもないです。それじゃ、
+line2 <shift> # ファンサービスしてきますね」
+display
+com11 0 0
+sound 43
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「次の仕事には遅刻しちゃうけど、これ以上
+line2 <shift> # 逃げるわけにもいかないですから……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （走り回った末、結局、遅刻か……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （こんなアクシデントはトップアイドルの宿命
+line2 <shift> # かもしれないが、真には悪いことをしたな）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （それに、真が最後に言いかけた言葉……
+line2 <shift> # それが妙に気になった……）
+com4b 0 2
+com09 0 49
+display
+location 49
+unk02

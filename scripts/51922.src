@@ -1,0 +1,389 @@
+com2c 0 42
+com2d 0 93
+com2e 0 103
+com32 0 0
+com11 0 5
+sound 200
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「兄ちゃん……。アイドルなのに、ライブって、
+line2 <shift> # こんなばっちいところで、するの？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「キレイなホールは、借りるの、
+line2 <shift> # お金かかるからな。今は、ここで精一杯だよ」
+display
+com11 0 5
+sound 201
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ねえ、亜美ー。いつもはこういうところで、
+line2 <shift> # 大学生とかが、怪しいパーティしてるんだよ！」
+display
+com11 0 5
+sound 202
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「あ、亜美も聞いたこと、あるっ！　そういうの、
+line2 <shift> # ちょっと、のぞいてみたいよね、兄ちゃん？」
+com03 0 3
+choice1 <shift> # ぜひ、見てみたいな！
+line2
+com09 0 10
+com08
+choice2 <shift> # そんなの、やってないよ
+line2
+com09 0 11
+com08
+choice3 <shift> # ふたりには、まだ早いよ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ぜひ、見てみたいな！」
+display
+com11 0 5
+sound 203
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「兄ちゃんも、興味モリモリだね！
+line2 <shift> # 亜美達と同じだー！」
+display
+com11 0 5
+sound 204
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「今度は、お仕事じゃない時に、見にこよーね。
+line2 <shift> # きっと、すっごいの、やってるよ！」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなの、やってないよ。大学生がライブ
+line2 <shift> # やってることは、あるかもしれないけど」
+display
+com11 0 5
+sound 205
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「なーんだ、つまんなーい。この間、
+line2 <shift> # 学校のパソコンで見たの、ウソだったのかなあ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おいおい。ヘンなこと調べるのに、
+line2 <shift> # 学校の機材、使うなよ」
+display
+com11 0 5
+sound 206
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「そんなの、みんな、やってるよ？　おもしろい
+line2 <shift> # もの見たいのは、誰でも同じなんだからっ！」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ふたりには、まだ早いよ。そういう、
+line2 <shift> # いかがわしいのは、見るもんじゃない」
+display
+com11 0 5
+sound 207
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「兄ちゃん、頭カチコチすぎー！　見たい
+line2 <shift> # 見たい〜。見たいったら、見たいの〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「さ、さわぐなって。
+line2 <shift> # 外の客が、ビックリするだろ？」
+display
+com11 0 5
+sound 208
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「亜美、今度、こっそり見にこよーよ。
+line2 <shift> # 兄ちゃんは、あんまり興味ないみたいだから」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「で、今日はどっちがステージに上がるんだ？
+line2 <shift> # 亜美？　それとも、真美？」
+display
+com11 0 5
+sound 209
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「あー、今日は亜美が歌うー！」
+display
+com11 0 5
+sound 210
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「えー、真美も歌いたいー！
+line2 <shift> # 先に言っちゃうなんて、亜美、ずるいよ〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「こらこら、ケンカするなって！
+line2 <shift> # 二人は、えっと……」
+com03 0 3
+choice1 <shift> # アイドルだろ？
+line2
+com09 0 30
+com08
+choice2 <shift> # 双子だろ？
+com09 0 31
+com08
+choice3 <shift> # 姉妹だろ？
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「アイドルだろ？」
+display
+com11 0 5
+sound 211
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「あ、そっかー。アイドルは、見た目は、
+line2 <shift> # 清く正しくなくちゃ、いけないんだよねっ」
+display
+com11 0 5
+sound 212
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「じゃあ、兄ちゃんが、決めてよ！　亜美、
+line2 <shift> # 今日は真美より、ずーっとうまく歌えそう！」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「双子だろ？」
+display
+com11 0 5
+sound 213
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「そうだけど、だから、余計にケンカになること
+line2 <shift> # も、多いの……。欲しがるもの、同じだし」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そうか。でも、おたがいの気持ちが、
+line2 <shift> # わかるなら、ゆずり合わなきゃ」
+com09 0 91
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「姉妹だろ？」
+display
+com11 0 5
+sound 214
+com4c 0 3
+name 0 0 <names:4>  # Ami and Mami
+line1 <shift> # 「姉妹じゃないよーっ！　双子だもーん！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うわっ！　ハモって、文句言うなよ。とにかく、
+line2 <shift> # 姉妹でも、双子でも、ケンカはダメだって」
+com09 0 91
+display
+location 91
+com11 0 5
+sound 215
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「じゃあ、どっちが出るか、兄ちゃんが決めてよ。
+line2 <shift> # 亜美ね〜、今日は真美より、うまく歌えそう！」
+com09 0 49
+display
+location 49
+com11 0 5
+sound 216
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「そんな言い方、ひどいよ〜。
+line2 <shift> # 決めるのは、兄ちゃんでしょ〜。で、どっち？」
+com0e 3 35
+com44
+com09 0 50
+com45
+com44
+com09 0 51
+com45
+com44
+com09 0 52
+com45
+com44
+com09 0 53
+com45
+display
+location 50
+com11 0 5
+sound 217
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「わーい、真美が歌っていいんだね？
+line2 <shift> # じゃ、準備してくるー！」
+display
+com11 0 5
+sound 218
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「どうして、真美なの？　兄ちゃん！　亜美、
+line2 <shift> # ホントに真美より、うまく歌えるのに〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そういう、出し抜くようなこと、言うからだよ。
+line2 <shift> # 競争相手は真美じゃなくて、他のアイドルだろ」
+display
+com11 0 5
+sound 219
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「そーだね。わかった！
+line2 <shift> # じゃあ、亜美、今日は応援するー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うまく、納得させることができた。仲間内で
+line2 <shift> # ケンカしてたら、競争なんて勝ち抜けないよな）
+com09 0 69
+display
+location 51
+com11 0 5
+sound 220
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「わーい、亜美が歌っていいんだね？
+line2 <shift> # じゃ、準備してくるー！」
+display
+com11 0 5
+sound 221
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「どうして、亜美なの？　兄ちゃん！
+line2 <shift> # 歌のうまさなんて、真美も同じなのに〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、ほら、亜美の方が、先に歌いたいって、
+line2 <shift> # 言ったし……」
+display
+com11 0 5
+sound 222
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「早い者勝ちなんて、あんまりだよ〜。
+line2 <shift> # 真美も歌う歌う歌う〜〜〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わ、わかったよ。じゃあ、俺が、
+line2 <shift> # ここできいててあげるから……」
+display
+com11 0 5
+sound 223
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「そんなのじゃ、や〜だ〜。
+line2 <shift> # ステージで、ちゃんと歌うの〜〜〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （積極性で選んだら、ゴネられてしまった。
+line2 <shift> # うーん、なだめるのに、骨が折れそうだ）
+com09 0 69
+display
+location 52
+com11 0 5
+sound 224
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「兄ちゃん？　どこ、指差してるの？
+line2 <shift> # そんなとこ、誰も……」
+display
+com11 0 5
+sound 225
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「あ、亜美……。誰かいるのかもっ！　こういう
+line2 <shift> # 古ぼけたところって、よく出るっていうし！」
+display
+com11 0 5
+sound 226
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「それって、幽霊！？　うわっ、兄ちゃん、
+line2 <shift> # 見えるんだね！　亜美も見てみたーい！」
+display
+com11 0 5
+sound 227
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「この小屋、地下室とかないのかなあ。そこには、
+line2 <shift> # 恨みのこもった血染めのギターが！　ふふふふ」
+display
+com11 0 5
+sound 228
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「よーし、探検してみよー！　真美、いこ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、おい、こら！　ライブの準備……！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （テキトーなところを指差したら、勝手に話を
+line2 <shift> # 広げられてしまった……。連れ戻さないと！）
+com09 0 69
+display
+location 53
+com11 0 5
+sound 229
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ねえ。どうして、ボーッと立ってるの？」
+display
+com11 0 5
+sound 230
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「あ、今、口が動いた！
+line2 <shift> # 『真美』って言った気がする〜！」
+display
+com11 0 5
+sound 231
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「う、動いてないよ〜！
+line2 <shift> # そんなこと、言ってないもーん！」
+display
+com11 0 5
+sound 232
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「言ったよー。真美には、わかったもんっ。
+line2 <shift> # 亜美が、きき逃しただけだよっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「い、いや、まだ、考え中なんだけど……」
+display
+com11 0 5
+sound 233
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「言ってないー！　言ってない言ってない言って
+line2 <shift> # ないったら、言ってないのー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （俺の言葉には耳もくれず、言い合いをはじめて
+line2 <shift> # しまった。……さっさと決めれば、よかったな）
+com09 0 69
+display
+location 69
+unk02

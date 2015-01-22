@@ -1,0 +1,383 @@
+com2c 0 39
+com2d 0 41
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「千早、プロフィール用の写真撮影、うまく
+line2 <shift> # いってないみたいだな」
+display
+com11 0 5
+sound 900
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。『君の顔、なんかこわい』って言われて。
+line2 <shift> # なかなか、ＯＫが……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「スナップ撮るような感じで、いいんだよ？
+line2 <shift> # そんなに、むずかしいかな」
+display
+com11 0 5
+sound 901
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ここのところ、そういうの全然、撮ってません。
+line2 <shift> # 急には、感覚が……」
+display
+com11 0 5
+sound 902
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「プロデューサー、私の顔、そんなにこわい
+line2 <shift> # ですか？　そう見えるとしたら、なにが原因？」
+com03 0 3
+choice1 <shift> # 気の持ちよう、かもな
+line2
+com09 0 10
+com08
+choice2 <shift> # 顔のつくり、かもな
+line2
+com09 0 11
+com08
+choice3 <shift> # 光の加減、かもな
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「気の持ちよう、かもな」
+display
+com11 0 5
+sound 903
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「それ、あるかもしれないですね。正直、
+line2 <shift> # 歌を歌う時ほど、乗り気にはなれなくて」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「顔のつくり、かもな」
+display
+com11 0 5
+sound 904
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「もし、そうなら、どうにもならないですね。
+line2 <shift> # 望んで、こういう顔に生まれたわけじゃ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ごめん。言ってもしょうがないこと、
+line2 <shift> # 言っちゃったな」
+display
+com11 0 5
+sound 905
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「いえ、気にしないで。聞いたのは、私ですし」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「光の加減、かもな」
+display
+com11 0 5
+sound 906
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ライトは、いろいろ試してもらいました。でも、
+line2 <shift> # どの角度から当てても、ダメで……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうか。じゃあ、原因は別のなにかか」
+display
+com11 0 5
+sound 907
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「だと思います。それが、なにかつかめればと、
+line2 <shift> # 思ったんですけど」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ほ、ほら、気休めかもしれないけど、顔出して。
+line2 <shift> # マッサージぐらい、しておこう」
+display
+com11 0 5
+sound 908
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「え？　あ、はい……。お、お願いします」
+com0e 1 145
+com44
+com09 0 30
+com45
+com44
+com09 0 31
+com45
+com44
+com09 0 32
+com45
+com44
+com09 0 33
+com45
+com44
+com09 0 34
+com45
+com44
+com09 0 35
+com45
+com44
+com09 0 36
+com45
+com44
+com09 0 37
+com45
+com44
+com09 0 38
+com45
+display
+location 30
+com34 0 1
+com11 0 5
+sound 909
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あ……ありがとうございます。ほぐして
+line2 <shift> # もらうと、かたくなってるの、わかります」
+com09 0 49
+display
+location 31
+com11 0 5
+sound 910
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「プロデューサー、いまの……マッサージ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ちょっと短かったか。ごめん、今度は
+line2 <shift> # ちゃんと……」
+com09 0 91
+display
+location 32
+com11 0 5
+sound 911
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「プロデューサー、髪さわっても、
+line2 <shift> # マッサージには……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あああ、ごめん。こういうのも効果があるかと
+line2 <shift> # 思ったんだけどな。……今度こそ、ちゃんと」
+com09 0 91
+display
+location 33
+com11 0 5
+sound 912
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「う…………プロデューサー、いたい……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うわっ、ごめん！　とんでもないとこに、指が。
+line2 <shift> # 今度は、ちゃんとやるからっ」
+com09 0 91
+display
+location 34
+com11 0 5
+sound 913
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「プロデューサー、鼻は、誰でもかたいのが、
+line2 <shift> # 普通のような……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……それも、そうだな。もう１回、やり直すよ。
+line2 <shift> # 今度はちゃんと……」
+com09 0 91
+display
+location 35
+com11 0 5
+sound 914
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あ、プロデューサー？　くちびるは……
+line2 <shift> # あ、あの……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あああ、ごめんごめん。これは、やりすぎか。
+line2 <shift> # 今度こそ、ちゃんとやるよ」
+com09 0 91
+display
+location 36
+com11 0 5
+sound 915
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「プロデューサー？　マッサージにしては、
+line2 <shift> # ずいぶん、変わったところを……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それもそうだな。ホッペタとかのが、
+line2 <shift> # よかったか。じゃあ、あらためて……」
+com09 0 91
+display
+location 37
+com11 0 5
+sound 916
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「プロデューサー？　服はマッサージしても、
+line2 <shift> # どうにもならない気が」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうだな。なにやってんだか。
+line2 <shift> # じゃ、あらためて、顔を……」
+com09 0 91
+display
+location 38
+com11 0 5
+sound 917
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「プロデューサー、マッサージというのは？
+line2 <shift> # その……私、いつまで」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あああ、ごめん。ついボーッとして。
+line2 <shift> # それじゃ、あらためて……」
+com09 0 91
+display
+location 91
+com11 0 5
+sound 918
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「いえ、いいです。ほぐしてもらっても、あまり
+line2 <shift> # 効果ない気がしますし」
+com09 0 49
+display
+location 49
+com11 0 5
+sound 919
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「では、私、カメラ前に、戻ります。
+line2 <shift> # そろそろ決めないと、よくないですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まあな。スタッフも待ちくたびれてるし」
+display
+com11 0 5
+sound 920
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ヘンに顔をつくると、不自然って言われて。
+line2 <shift> # なにもしなくても、ダメで……」
+display
+com11 0 5
+sound 921
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「またこわいって言われたら、私、もう手がない
+line2 <shift> # です。どんな顔なら、いいのか……」
+com03 0 3
+choice1 <shift> # 無表情で、押してみるか
+line2
+com09 0 50
+com08
+choice2 <shift> # 口、軽く開けてみるか
+line2
+com09 0 51
+com08
+choice3 <shift> # いっそ、にらみつけてみるか
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 2
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「無表情で、押してみるか。徹底すれば、
+line2 <shift> # かえって味になるかも」
+display
+com11 0 5
+sound 922
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「余計に、こわがられる気が……。けど、
+line2 <shift> # わかりました。アドバイス通りに……」
+display
+com22 0 30
+com21 0 30
+com11 0 5
+sound 923
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「プロデューサー、信じられません。
+line2 <shift> # 『カッコいい』って言われて、一発ＯＫでした」
+display
+com11 0 5
+sound 924
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はあ……、ようやく、解放ですね……。
+line2 <shift> # あの、ありがとうございました」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （お、うまく千早の魅力を引き出せたようだ。
+line2 <shift> # 逆転の発想の勝利かな）
+com09 0 69
+display
+location 51
+com34 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「口、軽く開けてみるか。すこしあどけなく
+line2 <shift> # すれば、印象も変わるかも」
+display
+com11 0 5
+sound 925
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「口を？　あ、そうですね。うまくいきそうな
+line2 <shift> # 気がします。では、それで」
+display
+com22 0 30
+com21 0 30
+com11 0 5
+sound 926
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「お、終わりました、やっと。すみません、
+line2 <shift> # こんなに時間……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「口開けても、ＮＧだったか？」
+display
+com11 0 5
+sound 927
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。くちびるが震えてしまって、おかしいっ
+line2 <shift> # て。うまくこなせれば、よかったんですけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （疲れ切った表情をしている。まあ、でも、
+line2 <shift> # なんとか終わったんだから、いいか）
+com09 0 69
+display
+location 52
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いっそ、にらみつけてみるか。少なくとも、
+line2 <shift> # 表情は豊かになるだろうし」
+display
+com11 0 5
+sound 928
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「カメラマンを、ですか？　……わかりました。
+line2 <shift> # それくらい思い切れば、きっと変化が……」
+display
+com22 0 30
+com21 0 30
+com11 0 5
+sound 929
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「プロデューサー……、カメラマン、逃げて
+line2 <shift> # しまいました。『俺が悪かった』って」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えええっ？　ホントか？」
+display
+com11 0 5
+sound 930
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「私、なんとか終わらせなければと、本気で
+line2 <shift> # にらんだから。すみません……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （最悪だ！　急いで、代わりを探さなきゃ。
+line2 <shift> # ……千早、どんな形相で、にらんだんだ？）
+com09 0 69
+display
+location 69
+unk02

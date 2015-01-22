@@ -1,0 +1,447 @@
+com2c 0 119
+com2c 0 206
+com2d 0 41
+com2e 0 131
+com32 0 0
+com11 0 0
+sound 10000
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「予選、最終日……。今日の勝敗で、ＩＵ本選に
+line2 <shift> # 出場できるかどうか、決まるんですね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。……なんだか、晴れ晴れとした顔を、
+line2 <shift> # してるな、千早。余裕ありそうに見えるぞ」
+display
+com11 0 0
+sound 10001
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「余裕とは違うかもしれませんが、
+line2 <shift> # 達成感は、少し、あります」
+display
+com11 0 0
+sound 10002
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ここまで来ることを、当面の目標にしていまし
+line2 <shift> # たから。もちろん、最終的な目標は優勝ですが」
+display
+com11 0 0
+sound 10003
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「まずは予選突破を、と、思っていたので、今日
+line2 <shift> # の戦いに臨めることが、うれしくはあります」
+display
+com11 0 0
+sound 10004
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……あ。まだ、突破したわけでは、ありません
+line2 <shift> # ね。今日、勝たなければ、目標不達成です」
+display
+com11 0 0
+sound 10005
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「油断大敵。気を引き締めないと……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （気合いがはいりつつも、落ち着いている。
+line2 <shift> # 今日の千早は、なんだかいけそうな気がするな）
+display
+com11 0 0
+sound 10006
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「それと、実は……。今日、
+line2 <shift> # もう１つ、達成したいことがあるんです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ。もしかして、それって……」
+com03 0 3
+choice1 <shift> # 美希との関係改善か？
+line2
+com09 0 10
+com08
+choice2 <shift> # 連続腹筋運動記録の更新か？
+line2
+com09 0 11
+com08
+choice3 <shift> # 俺との恋を進めるのか？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「美希との関係改善か？　ＩＵ四次予選の後、
+line2 <shift> # 美希のために何かしたいって、言ってたもんな」
+display
+com11 0 0
+sound 10007
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「さすがプロデューサー、なんでもお見通し
+line2 <shift> # ですね。ふふっ。ご明察の通りです」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「連続腹筋運動記録の更新か？」
+display
+com11 0 0
+sound 10008
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「腹筋運動……？　どうしてですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え。だって千早、腹筋運動をたくさんするって、
+line2 <shift> # 前に言っていなかったっけ？　思い違いかな？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だから、その連続記録を、今日、更新する
+line2 <shift> # つもりなのかなーと、ふと思ったんだが」
+display
+com11 0 0
+sound 10009
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「腹筋運動は、トレーニングのためにやっている
+line2 <shift> # だけで、別に記録とかは、考えていません」
+com09 0 18
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺との恋を進めるのか？　次の段階へ！
+line2 <shift> # 俺は、いつでも準備ＯＫだぞ！」
+display
+com11 0 0
+sound 10010
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「全然、違います」
+display
+com11 0 0
+sound 10011
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「付け加えるなら、進めるも何も、恋を語るよう
+line2 <shift> # な段階に私達は居ません。妄想は止めて下さい」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うう……。キツイなあ、千早。
+line2 <shift> # ただの冗談じゃないか……」
+com09 0 18
+display
+location 18
+com11 0 0
+sound 10012
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そうではなくて、私が達成したいのは、
+line2 <shift> # 美希との関係改善です」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ。そういえば、ＩＵ四次予選の後、美希のた
+line2 <shift> # めに何かしたいって、言ってよな。それか！」
+display
+com11 0 0
+sound 10013
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はい、それです！」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10014
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あれから色々考えて、やっと、今の美希のため
+line2 <shift> # にできること、１つ思いついたんです！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか。良かったな！」
+display
+com11 0 0
+sound 10015
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「……」
+display
+com11 0 0
+sound 10016
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あ、美希！　待って！
+line2 <shift> # ……きこえないの！？　待ちなさいっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おい、千早！　そんなケンカごしで声かけたら、
+line2 <shift> # またケンカに……、あいつら、大丈夫か？」
+display
+com22 0 30
+com21 0 30
+com32 0 1
+com11 0 0
+sound 10017
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「美希！　美希ったら！　そんなに走らなくても、
+line2 <shift> # いいでしょう？　全く、逃げ足が速いんだから」
+display
+com11 0 0
+sound 10018
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「むー。お説教なら、もうききたくないの。
+line2 <shift> # またケンカになったら、ミキだって悲しいもん」
+display
+com11 0 0
+sound 10019
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ケンカになんてならないわ。お説教も、しない。
+line2 <shift> # 細かいことは、もう、どうでもいいのよ」
+display
+com11 0 0
+sound 10020
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「７６５プロを裏切ったとか、裏切られたとか、
+line2 <shift> # 美希が事務所に帰るとか帰らないとか……」
+display
+com11 0 0
+sound 10021
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「美希と私が仲間なのか、ライバルなのか、とか、
+line2 <shift> # そういうことも、もう全部、どうでもいい」
+display
+com11 0 0
+sound 10022
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「大切なことは１つだって、気がついたから」
+display
+com11 0 0
+sound 10023
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「大切なこと？　どういう意味？
+line2 <shift> # いつもみたいに難しい話なら、ミキ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「美希。最後まで、きいてやってくれないか？
+line2 <shift> # 千早は易しく話すと思うから。そうだろ、千早」
+display
+com11 0 0
+sound 10024
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はい。ありがとうございます、プロデューサー。
+line2 <shift> # ……ねえ、美希。私達はまだ……、友達よね？」
+display
+com11 0 0
+sound 10025
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「え……」
+display
+com11 0 0
+sound 10026
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ううん。たとえ、美希がそう思っていなくても、
+line2 <shift> # 片思いだとしても、別にいいの」
+display
+com11 0 0
+sound 10027
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「私にとっては、美希は大切な友達よ。
+line2 <shift> # これからも、ずっと……」
+display
+com11 0 0
+sound 10028
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「だから、友達として、あなたを応援したい。
+line2 <shift> # 事務所は別だけど、そんなこと関係ない」
+display
+com11 0 0
+sound 10029
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ＩＵ本選まで、あと少しね、美希。ここまで
+line2 <shift> # １人で頑張って、辛かったでしょう？　偉いわ」
+display
+com11 0 0
+sound 10030
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あなたの努力と苦しみは、同じ戦いをしている
+line2 <shift> # 私が、一番よく知っているわよ」
+display
+com11 0 0
+sound 10031
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「だから、大変だろうけど、
+line2 <shift> # あと少し、頑張りなさい、美希。私も頑張るわ」
+display
+com11 0 0
+sound 10032
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「千早さん……。千早さん！　千早さんっ！
+line2 <shift> # ううっ。ミキも、千早さんのこと、ずっと……」
+display
+com11 0 0
+sound 10033
+com4c 0 0
+name 0 3 <names:4>  # President Kuroi
+line1 <shift> # 「美希ちゃん！　何をしているんだ、こんな所で。
+line2 <shift> # また仕事を、すっぽかす気かい？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「黒井社長……」
+display
+com11 0 0
+sound 10034
+com4c 0 0
+name 0 3 <names:4>  # President Kuroi
+line1 <shift> # 「……おや、不愉快な面々がおそろいのようだ。
+line2 <shift> # 行こう、美希ちゃん。これ以上トラブルは困る」
+display
+com11 0 0
+sound 10035
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「う、うん……。あの、千早さん！　ミキ、
+line2 <shift> # 千早さんのこと、ほんとはやっぱ尊敬してるの」
+display
+com11 0 0
+sound 10036
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「千早さんにケーベツされたくないから、
+line2 <shift> # ここまで頑張れたって思ってる」
+display
+com11 0 0
+sound 10037
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「だから、この先も、負けたくないって思うな。
+line2 <shift> # ミキ、頑張る。ありがとう、千早さんっ！」
+display
+com11 0 0
+sound 10038
+com4c 0 0
+name 0 3 <names:4>  # President Kuroi
+line1 <shift> # 「美希ちゃん！　急ぎたまえ！」
+display
+com11 0 0
+sound 10039
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「い、今、行きますなのっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……行っちゃったな」
+display
+com11 0 0
+sound 10040
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ふう……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あっ。おい、千早！　大丈夫か！？」
+display
+com11 0 0
+sound 10041
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「大丈夫です。美希に話す間、必死だったので、
+line2 <shift> # 気がゆるんだら、つい……」
+display
+com11 0 0
+sound 10042
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサーの支えがなければ、最後まで
+line2 <shift> # キチンと話すこと、できなかったと思います」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、俺は何もしてないけど」
+display
+com11 0 0
+sound 10043
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ずっとそばに、居て下さったじゃないですか。
+line2 <shift> # 何よりの支えでした」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「千早……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おまえの『美希のためにできること』って、
+line2 <shift> # 美希を認めて、励ましてやることだったんだな」
+display
+com11 0 0
+sound 10044
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はい。９６１プロに移ってからの美希は、
+line2 <shift> # どこか孤独に見えましたから……」
+display
+com11 0 0
+sound 10045
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あなたは１人じゃないと、友達が……、
+line2 <shift> # 私がいると、どうしても伝えたかったんです」
+display
+com11 0 0
+sound 10046
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「私が昔、孤独だった頃、一番ほしかったものは、
+line2 <shift> # 私の理解者……、友達でしたから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだったのか……」
+display
+com11 0 0
+sound 10047
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「これで、目標の１つは、
+line2 <shift> # 達成できたような気がします。残るは……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もう１つの目標。ＩＵ予選突破だな。
+line2 <shift> # こっちも、しっかり頼むぞ！」
+display
+com11 0 0
+sound 10048
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「もちろんです。全力で、戦ってきます！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ＩＵ本選は目の前。千早に迷いはない。
+line2 <shift> # 俺も、全力でバックアップしなければ！）
+com09 0 99
+display
+location 99
+unk02

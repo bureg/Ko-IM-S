@@ -1,0 +1,280 @@
+com2c 0 24
+com2d 0 51
+com32 0 0
+com11 0 2
+sound 600
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「プロデューサーさん、雑誌のインタビュー、
+line2 <shift> # 受けにいく時間です。みんな外で待っています」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、すぐ行きます。
+line2 <shift> # えっと、今日は近場ですから……」
+com03 0 3
+choice1 <shift> # 散歩しながら、行きますか？
+line2
+com09 0 10
+com08
+choice2 <shift> # 自転車二人乗りで、行きますか
+line2
+com09 0 11
+com08
+choice3 <shift> # ……やっぱりタクシーですね
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「散歩しながら、行きますか？」
+display
+com11 0 2
+sound 601
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ふふっ、そうですね。川沿いの景色とか、
+line2 <shift> # この時間はキレイかもしれません」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「自転車二人乗りで、行きますか」
+display
+com11 0 2
+sound 602
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「え。そんな、プロデューサーさんに
+line2 <shift> # 自転車をこがせるわけには行きませんし……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうですか？　じゃあ、いつも通り
+line2 <shift> # タクシーで行きましょう」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……やっぱりタクシーですね。それが
+line2 <shift> # アイドルのステータスですし」
+display
+com11 0 2
+sound 603
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「え、わざわざですか？　別に歩いても、
+line2 <shift> # 問題ない気が……」
+display
+com11 0 2
+sound 604
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あの、そういう気づかいは、あまりしてもらわ
+line2 <shift> # なくても。私、ステータスとか気にしませんし」
+com09 0 29
+display
+location 29
+com11 0 2
+sound 605
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、プロデューサーさん。私、さっき、今日の
+line2 <shift> # インタビュー内容に、目を通したのですけれど」
+display
+com11 0 2
+sound 606
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「返事に困るものが、いくつか。『仕事とプライ
+line2 <shift> # ベート、両立のコツを教えてください』って」
+display
+com11 0 2
+sound 607
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「私、これ、できている自信ないです。ウソを
+line2 <shift> # つくのは、気がひけるのですけれど……？」
+com03 0 3
+choice1 <shift> # 本音を話せばいいですよ
+line2
+com09 0 30
+com08
+choice2 <shift> # 気にせずに、つくりで
+line2
+com09 0 31
+com08
+choice3 <shift> # ギャグで、かわしてみるとか
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「本音を話せばいいですよ」
+display
+com11 0 2
+sound 608
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「それでいいですか？　やはり、できるフリする
+line2 <shift> # のは、よくないですよね。では、正直にっ」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「気にせずに、つくりでいきましょう。
+line2 <shift> # それっぽく語れば、ＯＫですから」
+display
+com11 0 2
+sound 609
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「んー、その方が、読む人はよろこぶでしょうか。
+line2 <shift> # では、そうしますけれど……」
+display
+com11 0 2
+sound 610
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「私、ウソ、下手なんですよね。昔から『どうし
+line2 <shift> # てお前は、そうバレバレなんだ？』って、よく」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ギャグで、かわしてみるとか」
+display
+com11 0 2
+sound 611
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そういうのもアリでしょうか？　でしたら、
+line2 <shift> # んーと、なにか考えて……」
+display
+com11 0 2
+sound 612
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「両立はー、両立はー、で、できま千円！
+line2 <shift> # ……これで、大ウケ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……やっぱり、ギャグはやめときましょう。
+line2 <shift> # 俺が悪かったです」
+com09 0 49
+display
+location 49
+com11 0 2
+sound 613
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「それにしても、こういう取材、最近、増えて
+line2 <shift> # きましたよね」
+display
+com11 0 2
+sound 614
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「読んだ感想とかもらうと『カン違いされてる
+line2 <shift> # なあ』って思うこと、けっこう多くて……」
+display
+com11 0 2
+sound 615
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「これは、しかたないことなのかしら。憧れを、
+line2 <shift> # 無理に、重ねられている気がするのですけれど」
+com03 0 3
+choice1 <shift> # 正体、バラしちゃおうかな
+line2
+com09 0 50
+com08
+choice2 <shift> # それで、いい気もします
+line2
+com09 0 51
+com08
+choice3 <shift> # ファンも、バカじゃないですよ
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 2
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「正体、バラしちゃおうかな。この間、衣装の
+line2 <shift> # スカート、前後、逆にはいてましたよね？」
+display
+com11 0 2
+sound 616
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あっ！　あれは言ってはダメです〜。絶対
+line2 <shift> # ナイショにしてって。だ、ダメですからね」
+display
+com11 0 2
+sound 617
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「もししゃべったら、私だって、プロデューサー
+line2 <shift> # さんのこと、バラしてしまいますよ。ふふっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （イメージなんて、ひとり歩きするもんだしな。
+line2 <shift> # 気にせず、今のように、笑っていてほしい）
+com09 0 69
+display
+location 51
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それで、いい気もします。アイドルなら、
+line2 <shift> # そういう見られ方するの、当たり前ですし」
+display
+com11 0 2
+sound 618
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「私も、そうだろうなあ、とは思っていたんです。
+line2 <shift> # けれど……」
+display
+com11 0 2
+sound 619
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「たまに、わからなくなってしまって。
+line2 <shift> # あれ、私って、こんな人だったかしらって」
+display
+com11 0 2
+sound 620
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「き、きっと疲れてるんですね。すみません、
+line2 <shift> # わけのわからないこと、言ってしまって……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （すこしだけ、困った顔をしている。まちがった
+line2 <shift> # ことは、言わなかったつもりなんだけどな）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ファンも、バカじゃないですよ。ちゃんと
+line2 <shift> # わかってますって」
+display
+com11 0 2
+sound 621
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「だと、いいのですけれど。『あなたみたいに
+line2 <shift> # カンペキな女性になりたい』とかって、たまに」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う。そ、その人、本当にわかってるのかなあ？
+line2 <shift> # なんか、不安に……」
+display
+com11 0 2
+sound 622
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「思っていた以上に、前のめりなんです。とくに
+line2 <shift> # ここのところ、どんどん数が増えてきて」
+display
+com11 0 2
+sound 623
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「誰も、ほんとの私になんて、興味ないのかも
+line2 <shift> # しれませんね。だとしたら……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （肩を、すこし震わせている。うーん、こんな
+line2 <shift> # 状態じゃ、明るい顔で取材なんて、とても……）
+com09 0 69
+display
+location 69
+unk02

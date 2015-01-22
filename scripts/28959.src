@@ -1,0 +1,264 @@
+com2c 0 112
+com32 0 0
+com2d 0 41
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （仕事の合間のオフタイムを利用して、
+line2 <shift> # 海辺へ散策に出た）
+display
+com11 0 0
+sound 100
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「海はいいですね。今日は天気もいいし、
+line2 <shift> # ずっと遠くまで見えるみたいです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか。来たかいが、あったかな？」
+display
+com11 0 0
+sound 101
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。私、海は好きです……。
+line2 <shift> # いつ見ても、違う表情を見せてくれますから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「しかし、今日は暑いな。
+line2 <shift> # 吹き出す汗が止まらない」
+display
+com11 0 0
+sound 102
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そうですか？　それほどでは、
+line2 <shift> # ないと思いますが」
+com03 0 2
+choice1 <shift> # いや、やっぱり暑いよ
+line2
+com09 0 10
+com08
+choice2 <shift> # 千早、無理してる？
+line2
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、やっぱり暑いよ」
+display
+com11 0 0
+sound 103
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「暑がりなんですね、プロデューサー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「千早だって、まったく暑くないわけじゃ、
+line2 <shift> # ないだろう」
+display
+com11 0 0
+sound 104
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「それは……、そうですね」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「千早、無理してる？」
+display
+com11 0 0
+sound 105
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「していませんよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「千早だって、全然暑くないわけじゃ、
+line2 <shift> # ないだろう？」
+display
+com11 0 0
+sound 106
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「平気です。もし暑かったら、
+line2 <shift> # 暑いと言います」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 107
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ただ、私は……、普段から、なるべく無駄な
+line2 <shift> # 汗を、かかないようにしているものですから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「慣れてるってことか。でも、それはステージ
+line2 <shift> # での話だろう。今日はオフだし、楽にしよう」
+display
+com11 0 0
+sound 108
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そうですね……。あまり我慢するのも、
+line2 <shift> # 不健康ですよね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうそう。涼しい顔をしてみせる必要は、
+line2 <shift> # ないんだ。さて、暑いからアイスでも食うか」
+display
+com11 0 0
+sound 109
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「アイスクリーム、ですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「アイスの屋台が、ちょうどそこに出てるんだ。
+line2 <shift> # 買ってくるよ。すみませーん……」
+display
+com11 0 0
+sound 110
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あ、プロデューサー……」
+display
+com22 0 30
+com21 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……っと、もう買ったぞ。アイスキャンデー。
+line2 <shift> # ほら、千早のぶん」
+display
+com11 0 0
+sound 111
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「えっ、私の分、ですか。
+line2 <shift> # そんな……、いいのに」
+com03 0 2
+choice1 <shift> # 溶けるぞ、早く食べよう
+line2
+com09 0 20
+com08
+choice2 <shift> # アイスは苦手かな？
+line2
+com09 0 21
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「溶けるぞ。早く食べないと」
+display
+com11 0 0
+sound 112
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「わ、わかりました。
+line2 <shift> # それでは……、いただきます」
+display
+com22 0 30
+com11 0 0
+sound 113
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あ……、ほどよく甘くて、おいしいですね。
+line2 <shift> # それに、フルーツの香りがします」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「果汁たっぷりだ。暑い中で食べるから、
+line2 <shift> # 一層おいしいな」
+display
+com21 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ふぅ、おいしかったな」
+display
+com11 0 0
+sound 114
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。でもこういうのって、食べ慣れなくて。
+line2 <shift> # どんどん、溶けてしまって……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「溶ける前に、どんどん食べればいいんだよ」
+display
+com11 0 0
+sound 115
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あ、そうですね。ふふっ……。
+line2 <shift> # 次は頑張ります」
+display
+com11 0 0
+sound 116
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ただ海を見るだけじゃなくて、
+line2 <shift> # こういうのも、たまには、いいですね……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （溶けかけのアイスを、千早は、
+line2 <shift> # ちょっぴり悪戦苦闘しながら食べていた）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （でも、その横顔は、どこか楽しげだった）
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「アイスは苦手なのかな？　千早」
+display
+com11 0 0
+sound 117
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「え、苦手、って？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、たとえば歯にしみるとか、
+line2 <shift> # 氷を食べると、頭がキーンとなるとか」
+display
+com11 0 0
+sound 118
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「いえ、それは大丈夫ですが……。
+line2 <shift> # 今、食べる必要はないかな、と」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お腹いっぱいか？　ああっと、
+line2 <shift> # それともダイエット中とか」
+display
+com11 0 0
+sound 119
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「違います、けど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なら遠慮することないよ、おごりだ。
+line2 <shift> # ほら、早く受けとってくれないと、溶ける」
+display
+com11 0 0
+sound 120
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あの、もう半分くらい溶けてますよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃあ、全部なくなる前に食べてくれ。
+line2 <shift> # でないと、俺の立場がない……」
+display
+com11 0 0
+sound 121
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そうですか、そうまで言われると……。
+line2 <shift> # では、遠慮なくいただきま……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「すまん！　溶けかけのまで、
+line2 <shift> # 地面に、こぼしてしまった……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「大丈夫か、千早。服とか汚れてないよな？
+line2 <shift> # よかった」
+display
+com11 0 0
+sound 122
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「大丈夫です。でも、すみません。
+line2 <shift> # もう少し早く、アイス、受けとっていれば……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後の千早は困ったように笑って、
+line2 <shift> # 地面のアイスと、海とを交互に見ていた）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （それはどこか戸惑ったような、笑顔だった）
+com09 0 29
+display
+location 29
+unk02

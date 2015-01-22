@@ -1,0 +1,194 @@
+com2d 0 13
+location 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今日から、本格的に活動開始だ！
+line2 <shift> # あいさつは、バッチリ決めるぞ！）
+display
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、おはようございます、プロデューサーさん。
+line2 <shift> # あのー、私の名前、おぼえてますよね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「当たり前だよ。自分の担当アイドルの名前、
+line2 <shift> # 忘れるわけは……」
+com03 0 3
+choice1 <shift> # 天海春香だよな？
+line2
+com09 0 10
+com08
+choice2 <shift> # 天城春香だよな？
+line2
+com09 0 11
+com08
+choice3 <shift> # 天海夏美だよな？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「天海春香だよな？」
+display
+com11 0 0
+sound 10001
+com4b 0 0
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「わ、よかったー♪　ちゃんと、おぼえてて
+line2 <shift> # くれたんですねっ」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「それじゃ、今日も１日、がんばりましょうね。
+line2 <shift> # よろしくお願いしまーす」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「天城春香だよな？」
+display
+com11 0 0
+sound 10003
+com4b 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あまぎ……？　ちがいますよぉ。私、天海です。
+line2 <shift> # あ・ま・み・春香っ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……っと、そうだったな！　ごめんごめん」
+com09 0 91
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「天海夏美だよな？」
+display
+com11 0 0
+sound 10004
+com4b 0 2
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「なつみ……、って、誰です？　私、春香ですっ！
+line2 <shift> # 名前も、おぼえてくれてないなんて……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あああ、ごめんごめん。そうだったな、
+line2 <shift> # 春香春香……」
+com09 0 91
+display
+location 91
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「もう、まちがえないで下さいね？　それじゃ、
+line2 <shift> # 今日も１日、よろしくお願いしまーす」
+com09 0 29
+display
+location 29
+location 30
+com11 0 0
+sound 10006
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「おはよう！　すっかり打ち解けたようだね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おはようございます、社長！」
+display
+com11 0 0
+sound 10011
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「今日は、ステージ衣装を決めてほしい。
+line2 <shift> # その後、営業を行なうといいだろう」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「はい、わかりました！」
+display
+com11 0 0
+sound 10013
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「うむ。ステージ衣装の決定は、大切だよ。
+line2 <shift> # 衣装により、イメージは左右されるのだ」
+display
+com11 0 0
+sound 10014
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「流行を意識した衣装を選ぶことも重要だが、
+line2 <shift> # まあ、最初は、君の好きなように選びなさい」
+display
+com11 0 0
+sound 10015
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「では、参考までに、今日の流行情報だ。
+line2 <shift> # 確認した後、スケジュールを確定させたまえ」
+com4a 0 0
+com09 0 200
+display
+location 200
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （衣装を新しくするを選ぼう）
+display
+location 201
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あー、もう決めないと……）
+display
+location 202
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （いや、今日は衣装を選ばないと……）
+display
+location 203
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ステージ衣装を考えるから
+line2 <shift> # 少しの間待っておいてくれ」
+display
+com4a 0 0
+location 208
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「喜んでくれて俺もうれしいよ！
+line2 <shift> # じゃあ、今日も１日がんばろう！」
+display
+location 209
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今日のスケジュールは……、と）
+display
+location 210
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「オーディションは次回チャレンジしよう！
+line2 <shift> # 今日も基礎レッスンだ！」
+display
+location 220
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今日のスケジュールを決めよう）
+display
+location 221
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今日のオススメは、衣装変更と営業か……）
+display
+location 222
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （社長から指示のあったスケジュールを、
+line2 <shift> # 選ばないと……）
+display
+location 223
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、これで今日のスケジュールは
+line2 <shift> # 決定だ！」
+display
+location 224
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今日は、作曲家の先生に、あいさつに行くぞ」
+display
+location 230
+com11 0 0
+sound 10010
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい」
+display
+unk02

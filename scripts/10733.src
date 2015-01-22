@@ -1,0 +1,268 @@
+com2c 0 19
+com2d 0 21
+com32 0 0
+com11 0 3
+sound 1400
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「プロデューサー。仕事、
+line2 <shift> # ダブルブッキングしたって、ほんとっ！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ごめん。ランクＤともなると、スケジュール
+line2 <shift> # 管理も大変で。ん？　やけにうれしそうだな」
+display
+com11 0 3
+sound 1401
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「それはそうよっ！　これって、売れてきた
+line2 <shift> # 証拠だし。私も、やっと一人前のアイドルね！」
+display
+com11 0 3
+sound 1402
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……予定じゃ、これぐらいの位置からスタート
+line2 <shift> # するつもりだったのに、大誤算だったわー」
+com03 0 2
+choice1 <shift> # それでも、軌道には乗ったんだし
+line2
+com09 0 10
+com08
+choice2 <shift> # 下積みも楽しかっただろ？
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それでも、軌道には乗ったんだし」
+display
+com11 0 3
+sound 1403
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そうね……。まずは、よしとしなくちゃ」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「下積みも楽しかっただろ？」
+display
+com11 0 3
+sound 1404
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「…………微妙〜。振り返れば笑えるけど、
+line2 <shift> # やってる最中は、苦しいことばっかりだったし」
+com09 0 19
+display
+location 19
+com11 0 3
+sound 1405
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「デビュー直後は後悔したわ。パパに『事務所に
+line2 <shift> # 押し込んで』なんて、頼むんじゃなかったって」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え！？　伊織、親のコネで、
+line2 <shift> # 芸能界に入ったのか？」
+display
+com11 0 3
+sound 1406
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「う…………。そ、そうよ！　いいでしょ、別に。
+line2 <shift> # 入り口でノロノロするの、イヤだったんだもん」
+display
+com11 0 3
+sound 1407
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「でも、パパ説得するのも、大変だったのよ。
+line2 <shift> # なにがアイドルだーって、怒鳴られたんだから」
+com03 0 3
+choice1 <shift> # 厳しいお父さんだな
+line2
+com09 0 20
+com08
+choice2 <shift> # いいお父さんだな
+line2
+com09 0 21
+com08
+choice3 <shift> # 伊織と似てるな……
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「厳しいお父さんだな」
+display
+com11 0 3
+sound 1408
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「厳しいどころじゃないわ。パパ、お金は、たく
+line2 <shift> # さんくれるけど、それ以外は、もう鬼って感じ」
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いいお父さんだな」
+display
+com11 0 3
+sound 1409
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「どこがよ〜。家のパパがいいお父さんだったら、
+line2 <shift> # 他のパパは、みんな聖人だわ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、怒鳴ったのは、
+line2 <shift> # 伊織のことを心配してるからだろ？」
+display
+com11 0 3
+sound 1410
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そんなわけないじゃない。パパ、お金は、
+line2 <shift> # たくさんくれるけど、人をすぐしばりたがるの」
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「伊織と似てるな……」
+display
+com11 0 3
+sound 1411
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ど、どこがよ〜。私、アイドルのこと、
+line2 <shift> # 見下したりなんかしてないもんっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、そうじゃなくて……、
+line2 <shift> # 一方的にモノを決めつけるところ」
+display
+com11 0 3
+sound 1412
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……やめてよね。ママと同じこと言うの」
+com09 0 29
+display
+location 29
+com11 0 3
+sound 1413
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あ、そうだっ。にひひっ♪　ねえ、プロデュー
+line2 <shift> # サー。パパに、そのうち会ってみない？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、俺が？　どうして……？」
+display
+com11 0 3
+sound 1414
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「たまには、恐怖体験もいいかなって♪
+line2 <shift> # どーお？　じーっくり、話してみる？」
+com03 0 3
+choice1 <shift> # そうだね。ぜひ一度
+line2
+com09 0 30
+com08
+choice2 <shift> # 伊織と３人でなら
+line2
+com09 0 31
+com08
+choice3 <shift> # き、機会があったらね……
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだね。ぜひ一度」
+display
+com11 0 3
+sound 1415
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「や、やけに涼しい顔してるわね……。
+line2 <shift> # すっごい、こわいわよ？　それでもいいの？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。伊織の健闘ぶりを話せば、
+line2 <shift> # すこしは、考え方も変わるかもしれないし」
+display
+com11 0 3
+sound 1416
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そうかしら……。
+line2 <shift> # 簡単にいくとは思えないけど、でも……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （応援してくれる人は、多い方がいいしな。
+line2 <shift> # これからのためにも、筋は通しておきたい）
+com09 0 39
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「伊織と３人でなら」
+display
+com11 0 3
+sound 1417
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ええええ、イヤよー。私、頼みごとする時
+line2 <shift> # 以外は、パパと話したくないもん」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ドライなこと言うなよ。実の父親だろ」
+display
+com11 0 3
+sound 1418
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「実だろうが、なんだろーが、
+line2 <shift> # イヤなものはイヤなの！」
+display
+com11 0 3
+sound 1419
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「会う時は、あんたとパパと水入らずね♪
+line2 <shift> # せいぜい、勇気あるとこ、見せてちょーだい」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うーん、あっさり拒否されてしまった。
+line2 <shift> # 頑固な父親とタイマンか。正直、気が重い……）
+com09 0 39
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「き、機会があったらね……」
+display
+com11 0 3
+sound 1420
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あら〜、なーに？
+line2 <shift> # 私の親とは、会いたくないっていうわけ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うん」
+display
+com11 0 3
+sound 1421
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ぐ……、急に正直にならないでよね。
+line2 <shift> # 遊びがいが、ないじゃないの」
+display
+com11 0 3
+sound 1422
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「露骨にいやがられると、かえって引き合わせた
+line2 <shift> # くなるわー。……覚悟、決めておきなさいよね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （物騒なことをつぶやいている……。伊織の
+line2 <shift> # 反逆心を、イタズラに刺激してしまったか？）
+com09 0 39
+display
+location 39
+unk02

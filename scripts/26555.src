@@ -1,0 +1,438 @@
+com2c 0 24
+com2d 0 41
+com32 0 0
+com11 0 0
+sound 10000
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……ふふっ。かわいいイラスト」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おーい、千早」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あっ、プロデューサー！
+line2 <shift> # ふふっ。お疲れ様です」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ごきげんだな。何か良いことがあったのか？」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あ……、わかりますか？　実は、ファンレター
+line2 <shift> # を読んでいたんです。少し時間があったので」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか。どんなものでも、嬉しいよな。
+line2 <shift> # ファンからのプレゼントは」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ええ、そうですね。
+line2 <shift> # 時々は、困った物もありますけど……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「困った物？　それって、もしかして……」
+com03 0 3
+choice1 <shift> # ＣＤとか？
+com09 0 10
+com08
+choice2 <shift> # クマのぬいぐるみとか？
+line2
+com09 0 11
+com08
+choice3 <shift> # 金とか？
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ＣＤとか？　『僕のオススメです、きいて
+line2 <shift> # 下さい！』って送られてくること、あるよな」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ええ。近いですけど……、ちょっと違います」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ＣＤは困りはしません。逆にうれしいくらい
+line2 <shift> # です。知らない名曲に出会えたりしますから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ、どんなプレゼントが困るんだ？」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ＣＤではなくて、曲は困ります。今、
+line2 <shift> # 一番、扱いに悩んでいるプレゼントなんです」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「クマのぬいぐるみとか？　クマだけに、
+line2 <shift> # こりゃクマった！　……なーんてな」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「クマだけに、クマった？
+line2 <shift> # それは、いったい……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、『困った』と『クマった』を、かけたんだ
+line2 <shift> # けど、面白くなかったな。ごめん。あはは……」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ああ、なるほど！　それで『クマだけに、
+line2 <shift> # クマった』ですか。ふふ、ふふふふ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ウケたのはうれしいけど、軽い気持ちで言った
+line2 <shift> # ギャグを説明するのって、恥ずかしいな……）
+display
+com11 0 0
+sound 10009
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ふふふ……。いえ、あの、そうではなくて、
+line2 <shift> # 今、困っているプレゼントは、歌なんです」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「金とか？」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「いえ、さすがに、そういったものは、
+line2 <shift> # 送られてきたことありません」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「それに、もしもらったとしても、
+line2 <shift> # すぐに送り返します」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「えっ、そうなのか！？　返すぐらいなら
+line2 <shift> # 俺に……！　いや、なんでもない」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （いかん。あやうく千早に、金の亡者と誤解され
+line2 <shift> # るところだった。ふぅ〜、危ない、危ない！）
+display
+com11 0 0
+sound 10012
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……プロデューサーともあろう人が、
+line2 <shift> # お金の亡者みたいなこと、言わないで下さい」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ああっ！
+line2 <shift> # やっぱり誤解されてしまったか……）
+display
+com11 0 0
+sound 10013
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そうではなくて、
+line2 <shift> # 今、困っているプレゼントは、歌なんです」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「歌！？　自作の歌をくれたファンが、
+line2 <shift> # いるのか？」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はい。しかも、その方、有名な作曲家の先生な
+line2 <shift> # んです。個人的に作った歌をぜひ私に、と」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なんと、まあ……。売り込みじゃないよな？」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「人気作曲家ですから、売り込む必要はないと思
+line2 <shift> # います。本当に好意で作って下さったようです」
+display
+com11 0 0
+sound 10016
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「もちろん、とてもうれしくはあるのですが、
+line2 <shift> # どうしたらいいのか……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだなあ。……それにしても、難しいもん
+line2 <shift> # だな、アイドルに贈るプレゼントっていうのも」
+display
+com11 0 0
+sound 10017
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ええ。どんなものでも、うれしいですが、
+line2 <shift> # 豪華すぎると、とまどってしまいますね」
+display
+com11 0 0
+sound 10018
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……あの、もしプロデューサーなら、
+line2 <shift> # 好きなアイドルに、どんな贈り物をしますか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん。俺が、一ファンとして、
+line2 <shift> # アイドル如月千早にプレゼントするなら……」
+com03 0 3
+choice1 <shift> # 声援かな
+com09 0 30
+com08
+choice2 <shift> # マイクかな
+com09 0 31
+com08
+choice3 <shift> # レッスンかな
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「声援かな。これが一番だろう」
+display
+com11 0 0
+sound 10019
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そうですね。心のこもった声援こそ、
+line2 <shift> # もらって一番うれしい贈り物です」
+display
+com11 0 0
+sound 10020
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「さすが、プロデューサーですね。私のこと、
+line2 <shift> # よく理解して下さってて……、うれしいです」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「マイクかな。ものすごく高級な、
+line2 <shift> # こだわりの品を贈りたいよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだ！　さっそく今から、マイクのカタログ
+line2 <shift> # を取り寄せて、本当にプレゼントしようか？」
+display
+com11 0 0
+sound 10021
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「高級マイクですか。それも、豪華すぎて気が
+line2 <shift> # ひけます。それに、安いマイクでも……」
+display
+com11 0 0
+sound 10022
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサーが、そばで見ていて下されば、
+line2 <shift> # それだけで良い歌が歌えそうな気がします」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （やんわり、断られちゃったな。
+line2 <shift> # でも、気持ちは伝わったような気がする……）
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「レッスンかな。これが一番だろう」
+display
+com11 0 0
+sound 10023
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「うれしいですが、それは、
+line2 <shift> # プロデューサーとしての意見ですよね？」
+display
+com11 0 0
+sound 10024
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ファンに、レッスンしてもらうことは、
+line2 <shift> # できないと思いますけど」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、それもそうか。すまない。
+line2 <shift> # ちょっとカン違いしちゃってたな」
+com09 0 49
+display
+location 49
+com11 0 0
+sound 10025
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あ、そういえば、プロデューサーは、どうして
+line2 <shift> # ここへ？　何か私に用事があったんじゃ……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。次のオーディションについて、
+line2 <shift> # 軽く打ち合わせしておきたいと思ってな」
+display
+com11 0 0
+sound 10026
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「わかりました。ファンレターをしまうので、
+line2 <shift> # ちょっと待っていて下さい」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「手伝うよ。あ、それと、さっき話してた、
+line2 <shift> # プレゼントの歌についてなんだけど……」
+display
+com11 0 0
+sound 10027
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はい。どうしたらいいでしょうか？」
+com03 0 3
+choice1 <shift> # 放っておこう
+line2
+com09 0 50
+com08
+choice2 <shift> # お礼の手紙を書こう
+line2
+com09 0 51
+com08
+choice3 <shift> # お礼に行こう
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「放っておこう。向こうが、一ファンとしてふる
+line2 <shift> # まってるんだから、そう扱うべきだと思うし」
+display
+com11 0 0
+sound 10028
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「えっ！？　いいんですか？　有名な先生です
+line2 <shift> # から、失礼があると良くないと思いますが」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、特別扱いしてほしいなら、わざわざ千早
+line2 <shift> # 個人宛てに、歌を送ってきたりはしないだろ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「普通のファンとして扱ってほしいと望んでる
+line2 <shift> # 相手を特別扱いしたら、逆に失礼だから」
+display
+com11 0 0
+sound 10029
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「確かに……。特別扱いされて、
+line2 <shift> # 居心地の悪い思いをしたことは、私もあります」
+display
+com11 0 0
+sound 10030
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「今回は、あくまでファンの方からの、普通の
+line2 <shift> # 贈り物として、曲を受け取るべきですよね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うん。俺は、そう思うよ」
+display
+com11 0 0
+sound 10031
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「心の霧がはれた気分です。プロデューサーに相
+line2 <shift> # 談して、良かった……。ありがとうございます」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （千早は、晴れ晴れした表情で、
+line2 <shift> # 残りの仕事を、テキパキとこなしてくれた）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、とくにトラブルもなく、先生からの
+line2 <shift> # ファンレターは、ときおり届いているようだ）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お礼の手紙を書こう。有名な先生だからな」
+display
+com11 0 0
+sound 10032
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「個人的なプレゼントなので、特別扱い
+line2 <shift> # すべきではないような気もしますが……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、相手が相手だし、失礼のないようにしな
+line2 <shift> # いと。念のため、お礼状ぐらい書いておこうよ」
+display
+com11 0 0
+sound 10033
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「それもそうですね。わかりました。
+line2 <shift> # 時間のある時に、書いておきます」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （千早は、俺の指示に従ってくれたが、
+line2 <shift> # 完全には納得していないようだった）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、丁重な手紙を送った千早に、先生は、
+line2 <shift> # 二度と返事を送ってくることはなかった）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （特別扱いしたせいで、先生を、
+line2 <shift> # 恐縮させちゃったのかな……）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お礼に行こう。なんせ、有名な作曲家の
+line2 <shift> # 先生だからな。礼を、つくさないと」
+display
+com11 0 0
+sound 10034
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「えっ！？　ご自宅まで行くんですか？　ファン
+line2 <shift> # の家を歌い手が訪ねるって、変だと思いますよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、ただのファンじゃないから。うまくいけ
+line2 <shift> # ば、もっと曲を書いてくれるかもしれないし」
+display
+com11 0 0
+sound 10035
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサー、あの曲を仕事に使うつもりな
+line2 <shift> # んですか？　なんとなく、申し訳ないですね」
+display
+com11 0 0
+sound 10036
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「個人的好意で、して下さったことを、
+line2 <shift> # 仕事に利用してしまうなんて……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （千早は、気が重そうな様子で、
+line2 <shift> # 残りの仕事を、なんとかこなした）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （後日、先生の家を訪ねたが、千早も先生も、
+line2 <shift> # なぜか、とても悲しそうだった……）
+com09 0 69
+display
+location 69
+unk02

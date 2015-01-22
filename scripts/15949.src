@@ -1,0 +1,268 @@
+com2c 0 44
+com2d 0 31
+com32 0 0
+com11 0 2
+sound 400
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うーん……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やよい、なに考え込んでるんだ？」
+display
+com11 0 2
+sound 401
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「さっきテストしたパートなんですけどー。
+line2 <shift> # もっと、明るい感じの方が、いいかなあって」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「サウンドディレクターは、なんて？」
+display
+com11 0 2
+sound 402
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「『あのままでいい』って。ここは、
+line2 <shift> # おとなしくしてた方が、いいでしょうか？」
+com03 0 3
+choice1 <shift> # もう一度、相談したら？
+line2
+com09 0 10
+com08
+choice2 <shift> # 和は大事だしね
+line2
+com09 0 11
+com08
+choice3 <shift> # やよいは欲張りだな
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もう一度、相談したら？」
+display
+com11 0 2
+sound 403
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「……う〜ん、そうですね。
+line2 <shift> # じゃ、もう１回だけ、話してみますっ」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「和は大事だしね」
+display
+com11 0 2
+sound 404
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「やっぱり、言い合いはよくないですよねっ！
+line2 <shift> # ……ん〜、でも〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なんだ、納得いかないのか？」
+display
+com11 0 2
+sound 405
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「絶対、明るい方がいいと思うんですー。
+line2 <shift> # はあ〜……」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やよいは欲張りだな」
+display
+com11 0 2
+sound 406
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「そうですかー？
+line2 <shift> # いろいろ望みすぎでしょうか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いい物を目指してるのは、わかるけど……」
+display
+com11 0 2
+sound 407
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「これまで通りじゃ、ダメだと思うんです。
+line2 <shift> # もっともっと、スゴイＣＤ、つくらなきゃって」
+com09 0 19
+display
+location 19
+com11 0 2
+sound 409
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「……プロデューサー。
+line2 <shift> # 最近、私、ヘンなんです」
+display
+com11 0 2
+sound 411
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「前だったら、誰かに『こうしなさい！』って
+line2 <shift> # 言われたら、その通りにしてたのに、今は……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なかなか、納得いかない？」
+display
+com11 0 2
+sound 413
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はい……。できれば、口ごたえとか、
+line2 <shift> # したくないって思ってるのに、なんでだろ〜？」
+com03 0 3
+choice1 <shift> # 成長の証だよ
+line2
+com09 0 20
+com08
+choice2 <shift> # 個性が出てきたんだ
+line2
+com09 0 21
+com08
+choice3 <shift> # ワガママになったんだ
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「成長の証だよ」
+display
+com11 0 2
+sound 414
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「え、それって……、
+line2 <shift> # 『アイドルとして』ってことですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。やよいが成長して、専門的な知識が
+line2 <shift> # 身についたから、色々なことが気になるんだ」
+display
+com11 0 2
+sound 416
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ、そうですよねっ！　だって、お仕事以外の
+line2 <shift> # ことじゃ、こんなに色々言ったりしないしっ！」
+display
+com11 0 2
+sound 418
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ちょっとずつ、大きくなれてるのかな。
+line2 <shift> # 私……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だと思うよ」
+display
+com11 0 2
+sound 419
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「なんか……、不思議な感じですね。えへへ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （成長の痛みってやつかな。
+line2 <shift> # こういう経験も、いい糧にしていってほしい）
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「個性が出てきたんだ」
+display
+com11 0 2
+sound 420
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「え、それって……、
+line2 <shift> # 前とは変わっちゃったってことですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「というより、こだわるポイントが、
+line2 <shift> # ハッキリしてきたってことかな」
+display
+com11 0 2
+sound 422
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「えっ。私、どうでもいいことに、
+line2 <shift> # こだわっちゃってるんでしょうか！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、そういうわけじゃ……」
+display
+com11 0 2
+sound 424
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「プロの方が色々考えて言ってくれてることに、
+line2 <shift> # 変に口出ししないほうが、いいのかなあ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん。場合によっては、そうかもしれない」
+display
+com11 0 2
+sound 426
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はあ〜。なんでもかんでも意見言えばいいって
+line2 <shift> # ものじゃないんですね。むずかしいかも……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （個性が出るって、悪いことばかりじゃないんだ
+line2 <shift> # けど。もう少し、うまく説明してやれたかな？）
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ワガママになったんだよ」
+display
+com11 0 2
+sound 427
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「……えっ？　あ、いい気になってますか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「売れてきたから、我が出てきたのかもな」
+display
+com11 0 2
+sound 429
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ど、どうしよ〜。このままじゃ、私、
+line2 <shift> # イヤな人になっちゃいますよねっ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「エスカレートすればね」
+display
+com11 0 2
+sound 431
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「『こんな仕事やってらんなーい』とかって、
+line2 <shift> # 言い出すようになるかもですよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……そ、それは避けてほしい。
+line2 <shift> # プロデュースが大変になるから」
+display
+com11 0 2
+sound 432
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「そしたら、お父さんみたく……」
+display
+com11 0 2
+sound 434
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ありがとうございましたっ！
+line2 <shift> # 反省して、これからは気をつけなきゃっ！」
+display
+com11 0 2
+sound 436
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「なかよく……、なかよく……。
+line2 <shift> # とにかく、口ごたえはしないようにっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （行ってしまった……。うーん、あまり小さく
+line2 <shift> # まとまると、おもしろみがなくなる気もするな）
+com09 0 29
+display
+location 29
+unk02

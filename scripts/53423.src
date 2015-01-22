@@ -1,0 +1,191 @@
+com2c 0 118
+com2d 0 91
+com2e 0 101
+com32 0 0
+location 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さあ、亜美、真美。そろそろ、ふたりの家に
+line2 <shift> # 着くぞ。俺と別れる心の準備、できてるか？」
+display
+com11 0 0
+sound 10000
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「亜美の下手っぴ、下手っぴ、下手ぴっぴー」
+display
+com11 0 0
+sound 10001
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「真美のイジワル、イジワル、イジワルー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ぐ、あのなあ……。ケンカしたまま、
+line2 <shift> # 俺と、さよならするつもりか？」
+display
+com11 0 0
+sound 10002
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「しかたないでしょ〜！　だって、真美が
+line2 <shift> # しつこいんだもん」
+display
+com11 0 0
+sound 10003
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「悪いのは、亜美の方でしょ〜。元はと言えば、
+line2 <shift> # 亜美が大事なライブ、失敗させたから……」
+display
+com11 0 0
+sound 10004
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「ふーんだ。そんなこと言うなら、もう、
+line2 <shift> # 真美と一緒にアイドルなんて、やらなーい」
+display
+com11 0 0
+sound 10005
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「真美だって、亜美と一緒なんて、やー！」
+display
+com1c 0 3
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え？　じゃあ、今日で、ふたりのコンビも
+line2 <shift> # 解散するつもりなのか！？」
+display
+com11 0 0
+sound 10006
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「……決まってるよ。プチプチプチプチ、
+line2 <shift> # 文句言われたくないし」
+display
+com11 0 0
+sound 10007
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「もうアイドル活動も、やめちゃった方がいいか
+line2 <shift> # もね。これなら、友達と遊んでる方が楽しいよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「アイドルを辞める！？　それは、よくないよ。
+line2 <shift> # しかも理由が、こんな下らないケンカだなんて」
+display
+com11 0 0
+sound 10008
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「でもでも〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「頼むから、仲直りして、考え直してくれ。
+line2 <shift> # ふたりは――」
+com03 0 2
+choice1 <shift> # いい子だろ？
+line2
+com09 0 10
+com08
+choice2 <shift> # 双子だろ？
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いい子だろ？」
+display
+com11 0 0
+sound 10009
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「そうだけど〜、でも今回のことは、やっぱり
+line2 <shift> # 許せないもん……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そう言わずに、すこし冷静になろう。時間が
+line2 <shift> # 経てば、気持ちもおさまるよ」
+display
+com11 0 0
+sound 10010
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「だといいけど……」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「双子だろ？　お互いの気持ちがわかるんだから、
+line2 <shift> # 理解し合えるはずだよな？」
+display
+com11 0 0
+sound 10011
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「そーだけど双子だから許せないの。亜美、わか
+line2 <shift> # ってる？　亜美のミスは真美のミスなんだよ？」
+display
+com11 0 0
+sound 10012
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「だーかーらー、真美が歌ったって、
+line2 <shift> # 今日は、うまくいかなかったよー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あああ、わかった。わかったから、
+line2 <shift> # ケンカはやめてくれ」
+com09 0 19
+display
+location 19
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それじゃ、ここでお別れだ。亜美、真美、
+line2 <shift> # 元気でな」
+display
+com11 0 0
+sound 10013
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「亜美の、下手っぴ〜」
+display
+com11 0 0
+sound 10014
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「真美の、イジワル〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ぐぐぐ……、あのなあ」
+display
+com11 0 0
+sound 10015
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「んじゃね、兄ちゃん！　
+line2 <shift> # ……亜美の下手っぴ、下手っぴ〜！」
+display
+com11 0 0
+sound 10016
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「真美のイジワル、イジワル、イジワラー！」
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「こ、こら。最後のアイサツぐらい、
+line2 <shift> # ちゃんと……。あ〜あ、行っちゃったか」
+display
+location 100 129 92 129 92 130 177 130 164 130 181 130 196 129 65 137 180 130 170 136 231 130 196 130 189 145 111 142 113 130 205 129 65
+line2 <shift> # 仲たがいしたまま、去っていってしまった
+display
+location 101 131 137 131 88 131 103 131 137 131 67 131 117 142 184 148 115 130 170 129 65 130 211 130 189 130 232 130 204 143 171 151 136 130 201 130 220 130 197 129 65
+line2 <shift> # 暗い影を落としてしまったようだ。でも――
+display
+location 102 130 162 130 194 130 169 146 135 146 188 130 232 130 181 130 196 129 65 141 196 139 78 130 181 130 196 130 217 130 181 130 162 129 66 130 187 130 164
+line2 <shift> # 願いながら、ひとり、大きなため息をついた
+display
+unk02

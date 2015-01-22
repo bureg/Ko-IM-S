@@ -1,0 +1,669 @@
+location 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お待たせしました。
+line2 <shift> # 本日は、よろしくお願いします！」
+display
+name 0 5 <names:2>  # Reporter
+line1 <shift> # 「こちらこそ、お忙しいところ、お時間を、
+line2 <shift> # とらせてしまって申し訳ありません」
+display
+com4a 0 0
+name 0 5 <names:2>  # Reporter
+line1 <shift> # 「今度、ウチの雑誌で、こちらの
+line2 <shift> # アイドルの記事を書かせていただきます」
+display
+location 10
+com4a 0 0
+name 0 5 <names:2>  # Reporter
+line1 <shift> # 「αのβです。
+line2 <shift> # 本日は、よろしくお願いします」
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （えっと、確か、取材の約束をした、
+line2 <shift> # 雑誌名は……）
+com03 0 3
+choice1 <shift> # α
+com09 0 21
+com08
+choice2 <shift> # γ
+com09 0 22
+com08
+choice3 <shift> # δ
+com09 0 23
+com08
+com07
+com09 0 23
+com08
+display
+location 21
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「確か、αの方でしたよね？」
+display
+location 22
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「確か、γの方でしたよね？」
+display
+location 23
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「確か、δの方でしたよね？」
+display
+location 24
+name 0 5 <names:2>  # Reporter
+line1 <shift> # 「はい、そうです。αの、
+line2 <shift> # βです。本日はよろしくお願いします」
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よしっ！　記者の機嫌もいいみたいだし、
+line2 <shift> # 良い記事が期待できそうだな！）
+display
+location 25
+name 0 5 <names:2>  # Reporter
+line1 <shift> # 「え？　違いますよ！　αですよ！
+line2 <shift> # あんな雑誌と一緒にされちゃ、困るなぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「す、すみません！　私のミスです！　なんだか、
+line2 <shift> # 毎回、皆さんの話し方がそっくりで、それで！」
+display
+name 0 5 <names:2>  # Reporter
+line1 <shift> # 「もう、いいです！　今日は、これで、
+line2 <shift> # 帰らせていただきますから。失礼」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、あの、待って下さい！
+line2 <shift> # 今日のことは、しっかりと謝罪を……！」
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （くっ、帰られてしまった。完全に、
+line2 <shift> # 時間がムダになっただけだったな……）
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （えっと、確か取材の約束をした、
+line2 <shift> # 記者の名前は……）
+com03 0 3
+choice1 <shift> # β
+com09 0 31
+com08
+choice2 <shift> # γ
+com09 0 32
+com08
+choice3 <shift> # δ
+com09 0 33
+com08
+com07
+com09 0 33
+com08
+display
+location 31
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「確か、βさんですよね？」
+display
+location 32
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「確か、γさんですよね？」
+display
+location 33
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「確か、δさんですよね？」
+display
+location 34
+name 0 5 <names:2>  # Reporter
+line1 <shift> # 「はい、そうです。αの、
+line2 <shift> # βです。本日は、よろしくお願いします」
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よしっ！　記者の機嫌もいいみたいだし、
+line2 <shift> # 良い記事が期待できそうだな！）
+display
+location 35
+name 0 5 <names:2>  # Reporter
+line1 <shift> # 「え？　違いますよ！　βですよ！
+line2 <shift> # あんな三流記者と一緒にされちゃ困るなぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「す、すみません！　私のミスです！　なんだか、
+line2 <shift> # 毎回、皆さんの話し方がそっくりで、それで！」
+display
+name 0 5 <names:2>  # Reporter
+line1 <shift> # 「もう、いいです！　今日は、これで、
+line2 <shift> # 帰らせていただきますから。失礼」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、あの、待って下さい！
+line2 <shift> # 今日のことは、しっかりと謝罪を……！」
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （くっ、帰られてしまった。完全に、
+line2 <shift> # 時間がムダになっただけだったな……）
+display
+location 40
+name 0 5 <names:2>  # Reporter
+line1 <shift> # 「良い取材が、できました。
+line2 <shift> # 世間の反響、期待していて下さい！」
+display
+name 0 5 <names:2>  # Reporter
+line1 <shift> # 「善永さんにも連絡をして、応援記事、書いて
+line2 <shift> # もらいますね！　私も影ながら応援します！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よし！
+line2 <shift> # これで、イメージアップ間違いなしだ！）
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しかし、オーディションで無様に負ければ、
+line2 <shift> # 記者の興味も消えるだろう。がんばらないと！）
+display
+location 41
+name 0 5 <names:2>  # Reporter
+line1 <shift> # 「う〜ん、ちょっと期待ハズレだったな……。あ、
+line2 <shift> # 次の取材の時間なんで、また今度よろしく！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あっ！　ちょ、ちょっと……！
+line2 <shift> # うう、行ってしまった」
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （いまひとつの結果だったな。まあ、
+line2 <shift> # 悪い影響はないようだし、仕方ないか……）
+display
+location 42
+name 0 5 <names:2>  # Reporter
+line1 <shift> # 「……くっくっく。くっく……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ど、どうしたんですか？」
+display
+name 0 6 <names:3>  # Reporter
+line1 <shift> # 「いや〜、変装してきた甲斐はありやしたね！
+line2 <shift> # アイドルのスキャンダル、ごちそうさまですな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええっ！？　あ、あんたは悪徳！？」
+display
+name 0 6 <names:3>  # Reporter
+line1 <shift> # 「これだけ聞けたら、あることないこと、何でも
+line2 <shift> # 書けそうですぜ。では、またお世話になりやす」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ。ちょっ……！？　くっ、まさか悪徳が、
+line2 <shift> # 変装していたなんて……！？」
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （これはしばらくの間、イメージダウン、
+line2 <shift> # してしまいそうだ……）
+display
+location 100
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お待たせしました！」
+display
+name 0 5 <names:4>  # Stylist
+line1 <shift> # 「こちらこそ、急に呼び出しちゃって、
+line2 <shift> # ごめんなさい」
+display
+com4a 0 0
+name 0 5 <names:4>  # Stylist
+line1 <shift> # 「超ナイスなアイテム見つけちゃったから、
+line2 <shift> # 早く、見せてあげたいなって思って！」
+display
+location 110
+com4a 0 0
+name 0 5 <names:4>  # Stylist
+line1 <shift> # 「αのβよ。
+line2 <shift> # 今日は、よろしくね」
+display
+location 120
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （えっと、確か衣装合わせの約束をした、
+line2 <shift> # 会社名は……）
+com03 0 3
+choice1 <shift> # α
+com09 0 121
+com08
+choice2 <shift> # γ
+com09 0 122
+com08
+choice3 <shift> # δ
+com09 0 123
+com08
+com07
+com09 0 123
+com08
+display
+location 121
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「確か、αの方でしたよね？」
+display
+location 122
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「確か、γの方でしたよね？」
+display
+location 123
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「確か、δの方でしたよね？」
+display
+location 124
+name 0 5 <names:4>  # Stylist
+line1 <shift> # 「そうよ。αのβよ。
+line2 <shift> # 今日は、よろしくね」
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今日は、どんなモノが用意されてるのか、
+line2 <shift> # 楽しみだな！）
+display
+location 125
+name 0 5 <names:4>  # Stylist
+line1 <shift> # 「なに言ってるのよ！　αよ！
+line2 <shift> # もう、失礼しちゃうわ！」
+display
+name 0 5 <names:4>  # Stylist
+line1 <shift> # 「なんだか、傷ついちゃったわ。
+line2 <shift> # 今日は、もう帰ります！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しまった、俺のせいで、
+line2 <shift> # スタイリストの機嫌を損ねてしまった！）
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今度は、間違えないようにしよう）
+display
+location 130
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （えっと、確か衣装合わせの約束をした、
+line2 <shift> # スタイリストの名前は……）
+com03 0 3
+choice1 <shift> # β
+com09 0 131
+com08
+choice2 <shift> # γ
+com09 0 132
+com08
+choice3 <shift> # δ
+com09 0 133
+com08
+com07
+com09 0 133
+com08
+display
+location 131
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「確か、βさんですよね？」
+display
+location 132
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「確か、γさんですよね？」
+display
+location 133
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「確か、δさんですよね？」
+display
+location 134
+name 0 5 <names:4>  # Stylist
+line1 <shift> # 「そうよ。αのβよ。
+line2 <shift> # 今日は、よろしくね」
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今日は、どんなモノが用意されてるのか、
+line2 <shift> # 楽しみだな！）
+display
+location 135
+location 125
+name 0 5 <names:4>  # Stylist
+line1 <shift> # 「なにいってるのよ！　βよ！
+line2 <shift> # もう、失礼しちゃうわ！」
+display
+name 0 5 <names:4>  # Stylist
+line1 <shift> # 「なんだか、傷ついちゃったわ。
+line2 <shift> # 今日は、もう帰ります！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しまった、俺のせいで、
+line2 <shift> # スタイリストの機嫌を損ねてしまった！）
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今度は、間違えないようにしよう）
+display
+location 140
+com4a 0 0
+name 0 5 <names:4>  # Stylist
+line1 <shift> # 「やっぱり似合うわ〜。ほれぼれしちゃう。
+line2 <shift> # あなたのこと気に入ったから、それあげるわ！」
+display
+location 141
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （とにかく、これでまた、
+line2 <shift> # イメージの幅が、ひろがったな！）
+display
+location 142
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （まあ、イメージの幅は、ひろがったんだから、
+line2 <shift> # ここは、あきらめてもらうか……）
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （とにかく、これで、
+line2 <shift> # 次のオーディションも、バッチリだな！）
+display
+location 50
+com11 0 0
+sound 0
+name 0 0 <names:5>  # Makoto
+line1 <shift> # 「菊地真です、今日は、よろしくお願いします！
+line2 <shift> # なんでも、遠慮なくきいて下さい！」
+display
+location 51
+com11 0 0
+sound 1
+name 0 0 <names:5>  # Makoto
+line1 <shift> # 「よろしくお願いします！　へへっ、
+line2 <shift> # ボクの魅力、いっぱい引き出して下さいね！」
+display
+location 52
+com11 0 0
+sound 2
+name 0 0 <names:5>  # Makoto
+line1 <shift> # 「今日は、よろしくお願いします」
+display
+location 53
+com11 0 0
+sound 3
+name 0 0 <names:5>  # Makoto
+line1 <shift> # 「あ、あの、今日は、
+line2 <shift> # お手柔らかに、お願いしますね？」
+display
+location 60
+com11 0 0
+sound 4
+name 0 0 <names:5>  # Makoto
+line1 <shift> # 「キャッチフレーズですか。えっと、じゃあ、
+line2 <shift> # パワフルオトメチックで！　……」
+display
+location 61
+com11 0 0
+sound 5
+name 0 0 <names:5>  # Makoto
+line1 <shift> # 「え？　ダンスにキレがある、ですか？
+line2 <shift> # えへへ、今やってみましょうか！　……」
+display
+location 62
+com11 0 0
+sound 6
+name 0 0 <names:5>  # Makoto
+line1 <shift> # 「好きなスイーツですか？
+line2 <shift> # えっと、その、全部大好きです！　……」
+display
+location 63
+com11 0 0
+sound 7
+name 0 0 <names:5>  # Makoto
+line1 <shift> # 「はい、少年誌のグラビアを飾るのは、
+line2 <shift> # 目標の１つですね！　……」
+display
+location 64
+com11 0 0
+sound 8
+name 0 0 <names:5>  # Makoto
+line1 <shift> # 「ゲームは、そんなに得意ってほどじゃないです。
+line2 <shift> # あの、今度教えて下さい！　……」
+display
+location 65
+com11 0 0
+sound 9
+name 0 0 <names:5>  # Makoto
+line1 <shift> # 「あ、その服も着てみたいです！　えーと……、
+line2 <shift> # ゴロスリ？　それとも、ゴリスロ？　……」
+display
+location 66
+com11 0 0
+sound 10
+name 0 0 <names:5>  # Makoto
+line1 <shift> # 「好きな男性のタイプですか？
+line2 <shift> # え〜と、心も体も強い人ですね！　……」
+display
+location 67
+com11 0 0
+sound 11
+name 0 0 <names:5>  # Makoto
+line1 <shift> # 「え？　意外と乙女っぽい？　……それ、
+line2 <shift> # 喜んでいいところですよね？　……」
+display
+location 68
+com11 0 0
+sound 12
+name 0 0 <names:5>  # Makoto
+line1 <shift> # 「良く見るＴＶ番組ですか？　え〜と、格闘技と
+line2 <shift> # レース、あ、いえ、料理番組とか……」
+display
+location 69
+com11 0 0
+sound 13
+name 0 0 <names:5>  # Makoto
+line1 <shift> # 「じっとしてるのって落ち着かないですね。あ、
+line2 <shift> # ランニングインタビューとかいいかも！　……」
+display
+location 70
+com11 0 0
+sound 14
+name 0 0 <names:5>  # Makoto
+line1 <shift> # 「はい、本はよく読みます。来月号は香織の恋の
+line2 <shift> # 行方が……、え、マンガじゃなくて？　……」
+display
+location 71
+com11 0 0
+sound 15
+name 0 0 <names:5>  # Makoto
+line1 <shift> # 「好きな四字熟語？　え、え〜と、
+line2 <shift> # ……日本征服とか？　……」
+display
+location 72
+com11 0 0
+sound 16
+name 0 0 <names:5>  # Makoto
+line1 <shift> # 「好きな女性のタイプ、ですか？
+line2 <shift> # あの、何か、カン違いを……」
+display
+location 73
+com11 0 0
+sound 17
+name 0 0 <names:5>  # Makoto
+line1 <shift> # 「いいんです、どうせ、ボクなんて、
+line2 <shift> # その程度ですから……」
+display
+location 74
+com11 0 0
+sound 18
+name 0 0 <names:5>  # Makoto
+line1 <shift> # 「え？　映像の方がカッコ良く見える？
+line2 <shift> # うう、そんなこと言われても……」
+display
+location 75
+com11 0 0
+sound 19
+name 0 0 <names:5>  # Makoto
+line1 <shift> # 「え？　意外とネガティブ、ですか？　あ、あの、
+line2 <shift> # どの辺が、ネガティブなんですかね……」
+display
+location 76
+com11 0 0
+sound 20
+name 0 0 <names:5>  # Makoto
+line1 <shift> # 「どうせ、ボクは、ダンサブルというより、
+line2 <shift> # ブルドーザーですよ……」
+display
+location 77
+com11 0 0
+sound 21
+name 0 0 <names:5>  # Makoto
+line1 <shift> # 「いつも目立ってるって、でも、それは、
+line2 <shift> # 浮いているということなんじゃ……」
+display
+location 80
+com11 0 0
+sound 22
+name 0 0 <names:5>  # Makoto
+line1 <shift> # 「今日は、ありがとうございました！
+line2 <shift> # またよろしくお願いします！」
+display
+location 81
+com11 0 0
+sound 23
+name 0 0 <names:5>  # Makoto
+line1 <shift> # 「ありがとうございました！　お疲れ様です〜」
+display
+location 82
+com11 0 0
+sound 24
+name 0 0 <names:5>  # Makoto
+line1 <shift> # 「あの、なんだか、
+line2 <shift> # あまり盛り上がらなくて、すみません……」
+display
+location 150
+com11 0 0
+sound 25
+name 0 0 <names:5>  # Makoto
+line1 <shift> # 「おはようございます！　今日もバリバリ
+line2 <shift> # かわいいの、お願いしますね！」
+display
+location 151
+com11 0 0
+sound 26
+name 0 0 <names:5>  # Makoto
+line1 <shift> # 「今日も、よろしくお願いしますね。
+line2 <shift> # 楽しみだな〜」
+display
+location 152
+com11 0 0
+sound 27
+name 0 0 <names:5>  # Makoto
+line1 <shift> # 「できれば、かわいいヤツも……、あ、いえ、
+line2 <shift> # 着られたら、なんでもいいです……」
+display
+location 160
+com11 0 0
+sound 28
+name 0 0 <names:5>  # Makoto
+line1 <shift> # 「うわ〜っ、すごいですよ、これ！
+line2 <shift> # ファンの人、喜んでくれるかなあ。へへ」
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （真が気に入ってるものなら、
+line2 <shift> # きっと、ファンも喜んでくれるさ）
+display
+location 161
+com11 0 0
+sound 29
+name 0 0 <names:5>  # Makoto
+line1 <shift> # 「へぇー、さすがはプロって感じですよね。
+line2 <shift> # フェロモン漂ってますか？」
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （フェロモンはともかく……。
+line2 <shift> # 真は、なかなか気に入ってるみたいだな）
+display
+location 162
+com11 0 0
+sound 30
+name 0 0 <names:5>  # Makoto
+line1 <shift> # 「うーん、かわいいといえば、かわいいけど、
+line2 <shift> # そうでないと言えば、そうでもないような……」
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （気に入ってるのか、そうでないのか……。
+line2 <shift> # でも、嫌がるほどでもないようだな）
+display
+location 170
+com11 0 0
+sound 31
+name 0 0 <names:5>  # Makoto
+line1 <shift> # 「こ、これ似合ってますかね？
+line2 <shift> # なんだか、微妙な気も……」
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……う〜ん、真はあまり、
+line2 <shift> # 納得していないようだ……）
+display
+location 171
+com11 0 0
+sound 32
+name 0 0 <names:5>  # Makoto
+line1 <shift> # 「……こ、こういうのもアリなんですかね？」
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （どうも、真はあまり、
+line2 <shift> # 気に入ってないみたいだなぁ）
+display
+location 172
+com11 0 0
+sound 33
+name 0 0 <names:5>  # Makoto
+line1 <shift> # 「ふ〜ん、これが流行か……。
+line2 <shift> # ……ボクのセンスが悪いのかなぁ」
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （どうも、真は納得してないみたいだな……）
+display
+location 180
+com11 0 0
+sound 34
+name 0 0 <names:5>  # Makoto
+line1 <shift> # 「こういうコーディネートもあるんですね。
+line2 <shift> # 勉強になります！」
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （真は、なかなか気に入ってるみたいだな）
+display
+location 181
+com11 0 0
+sound 35
+name 0 0 <names:5>  # Makoto
+line1 <shift> # 「面白いですね、これ！　アイドルって、
+line2 <shift> # 色々な格好できるから、最高です！」
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （真は、なかなか気に入ってるみたいだな）
+display
+location 182
+com11 0 0
+sound 36
+name 0 0 <names:5>  # Makoto
+line1 <shift> # 「プロデューサー、どうですか？
+line2 <shift> # えへへ、あの、似合います？」
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （真は、なかなか気に入ってるみたいだな）
+display
+unk02

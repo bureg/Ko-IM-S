@@ -1,0 +1,392 @@
+com2c 0 49
+com2d 0 71
+com32 0 0
+com11 0 3
+sound 100
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「一日署長かぁ。抜擢されたのは嬉しいけど……、
+line2 <shift> # う〜ん、なにか地味だなぁ、一日署長」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうかな、じゅうぶん目立てると思うぞ？
+line2 <shift> # マスコミも注目するだろう」
+display
+com11 0 3
+sound 101
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そうですかぁ？　制服着てセレモニーに出たり、
+line2 <shift> # キャンペーンの手伝いしたりするんですよね？」
+display
+com11 0 3
+sound 102
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「でもセレモニーイベント短いし、
+line2 <shift> # 内容カタいし、あまりぱっとしないような」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、キャンペーンのポスターも作るし。
+line2 <shift> # ポスターは、みんなの目に留まるさ」
+display
+com11 0 3
+sound 103
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「でも、やっぱ地味でしょ？　格好が。
+line2 <shift> # 制服が……、やぼったいっていうか」
+display
+com11 0 3
+sound 104
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「人目をひくなら、もっとなにか派手な！
+line2 <shift> # ハッタリが必要ですよ！」
+com03 0 3
+choice1 <shift> # そうかなぁ
+com09 0 10
+com08
+choice2 <shift> # そうだなぁ
+com09 0 11
+com08
+choice3 <shift> # 何か策があるのか？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうかなぁ。制服ならではの、シンプルで、
+line2 <shift> # きちんとした良さってのがあると思うけどな」
+display
+com11 0 3
+sound 105
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「それは、そうかもしれないけど」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そして服装が一見地味で機能的だからこそ、
+line2 <shift> # 着ている本人の素材の良さも、また伝わる」
+display
+com11 0 3
+sound 106
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「む、そうか、なるほど……。
+line2 <shift> # うまいこと言いますね」
+display
+com11 0 3
+sound 107
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「でも、それならなおさら、カメラ写りには、
+line2 <shift> # 気をつかったほうが、いいかな」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだなぁ、制服の機能美はいいと思うけど、
+line2 <shift> # 絵的には、ちょっと地味になるかな」
+display
+com11 0 3
+sound 108
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「でしょ？　せっかくポスターやイベントで披露
+line2 <shift> # するなら、カッコよくドレスアップしなきゃ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、警察のキャンペーンで制服着ることは、
+line2 <shift> # 決まってるんだ、ドレスアップはないだろ……」
+display
+com11 0 3
+sound 109
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ん、そっか……。
+line2 <shift> # 正規の制服でないと、ダメなのかな、やっぱ」
+display
+com11 0 3
+sound 110
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ま、まあ、多少、カメラの写りかたは、
+line2 <shift> # 工夫したいなってことですよ！」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「何か策があるのか？　ハッタリって？」
+display
+com11 0 3
+sound 111
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「せっかく制服姿を披露するんだから！
+line2 <shift> # ちょっとしたコーディネイトでドレスアップ！」
+display
+com11 0 3
+sound 112
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そうねぇ、チェーンを巻いて、ベルトを変えて。
+line2 <shift> # そして手には、やっぱり拳銃！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「待て、ちょっと待て。交通安全のキャンペーン
+line2 <shift> # だぞ。拳銃はないだろう、拳銃は」
+display
+com11 0 3
+sound 113
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「むぅ、ダメかな……」
+display
+com11 0 3
+sound 114
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「仕方ない、服装をいじるのはやめて、
+line2 <shift> # カメラへの写りかたを工夫するか」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「交通安全キャンペーン、
+line2 <shift> # ポスターの定番のポーズといえば、敬礼だな」
+display
+com11 0 3
+sound 115
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「確かに定番ね。ありきたりかもしれないけど、
+line2 <shift> # それが一番ぶなんかつ目的に合ってていいかな」
+display
+com11 0 3
+sound 116
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ところで、敬礼ってどうやるの？　なんか
+line2 <shift> # うまくきまらない……。我ながら、カッコ悪い」
+display
+com11 0 3
+sound 117
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ううっ、なんかコツがあるような、
+line2 <shift> # 気がするんだけど」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ポーズ決めるのに、
+line2 <shift> # どこか重要なポイントがあるよな、たぶん……」
+com0e 2 92
+com44
+com09 0 30
+com45
+com44
+com09 0 31
+com45
+com44
+com09 0 32
+com45
+com44
+com09 0 33
+com45
+com44
+com09 0 34
+com45
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「手の角度だろう」
+display
+com11 0 3
+sound 118
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「手？　手のひらの角度かな？　なるほど。
+line2 <shift> # 手を、ぴんとまっすぐにしないとね」
+display
+com11 0 3
+sound 119
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「きちんと角度がついてないと、情けない敬礼に、
+line2 <shift> # なっちゃうから。ここは、びしっと！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そう、びしっとだ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （律子はコツをつかんだようだ。本番でも
+line2 <shift> # ばっちり、りりしい署長姿を披露してくれた！）
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「腕とか、肘の角度で決まるんじゃないか？」
+display
+com11 0 3
+sound 120
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「あ、そっか。腕をきちんと張って、
+line2 <shift> # まっすぐ曲げるのね」
+display
+com11 0 3
+sound 121
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「力が入ってない腕だと、へろへろの敬礼に
+line2 <shift> # なってカッコ悪いから。ここは、びしっと！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そう、びしっと！　気迫を見せろ。
+line2 <shift> # 弱々しくしないことだぞ」
+display
+com11 0 3
+sound 122
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「言われなくたってっ。
+line2 <shift> # よ〜し、カッコよく決めてみせますよ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （いいアドバイスをしてやれたな。本番で、
+line2 <shift> # 律子はカッコいい署長姿で敬礼してみせた）
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「肩の力を適度に……」
+display
+com11 0 3
+sound 123
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「適度に抜くの？　う〜ん、なんか気が抜けて、
+line2 <shift> # 弱っちい敬礼にならないかなぁ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、いや、適度に力を入れて」
+display
+com11 0 3
+sound 124
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「肩いからせて、いかめしく、ってことかな？
+line2 <shift> # う〜ん、なんか堅苦しい感じだなぁ……」
+display
+com11 0 3
+sound 125
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「それよりプロデューサー、
+line2 <shift> # なんかテキトーなアドバイスしてません？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなことはないぞ、適度なアドバイスだ！」
+display
+com11 0 3
+sound 126
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「やれやれ、きいた私がバカだったかな」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「正直言うと、俺だって、よくわからないよ、
+line2 <shift> # 敬礼のコツなんて」
+display
+com11 0 3
+sound 127
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「まぁ、残り時間いっぱい、
+line2 <shift> # もうちょっと自分で考えてみるか……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （律子は自分なりに工夫して、
+line2 <shift> # 独自の敬礼を編み出し、セレモニーに挑んだ）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その斬新さにマスコミの注目は集まったが、
+line2 <shift> # 警察関係者からは不評だったかも……）
+com09 0 49
+display
+location 33
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだ、胸を張ってみれば！　その胸をっ」
+display
+com11 0 3
+sound 137
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「むっ、胸を指差すなっ！　触る気かっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ち、違うって。
+line2 <shift> # きちんと姿勢を正せば、ってことだよ」
+display
+com11 0 3
+sound 129
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そりゃ、わかってますよ。まがりなりにも
+line2 <shift> # 敬礼なんだから、背筋を伸ばすのは当然」
+display
+com11 0 3
+sound 130
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「それより決まらないのは、腕ですよ、
+line2 <shift> # 腕の位置。なんかへろっとしてカッコ悪くて」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「気合いが足りないんじゃないのか？
+line2 <shift> # あるいは、肩にばっかり力が入ってるとか」
+display
+com11 0 3
+sound 131
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「力が入ってるのか抜けてるのか、どっちなんで
+line2 <shift> # すか……。あ〜、もう、どうすりゃいいの？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうやって悩むと、背筋が丸まるぞ。
+line2 <shift> # ほらほら、もっと胸を張って」
+display
+com11 0 3
+sound 138
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「だから、そうやって、胸を指差すなっ！
+line2 <shift> # うっとおしいっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、律子は、律子なりに考えて、
+line2 <shift> # 敬礼のポーズをなんとか決めたようだけど……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （自信がなかったらしく、セレモニーでは、
+line2 <shift> # 失敗してしまった。悔しそうだったな……）
+com09 0 49
+display
+location 34
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「むぅ……、どうしたものか」
+display
+com11 0 3
+sound 133
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「な、なんですか。
+line2 <shift> # アドバイスしてくれないんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺だって、普段、敬礼なんてしないし、
+line2 <shift> # コツは、よくわからないんだよ」
+display
+com11 0 3
+sound 134
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そうですか。ま、そんなにプロデューサーを、
+line2 <shift> # あてにするつもりもなかったけど……」
+display
+com11 0 3
+sound 135
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「でも、わからないなりに何か考えて、
+line2 <shift> # 助言は欲しかったかなぁ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「力になれなくて、すまないな」
+display
+com11 0 3
+sound 136
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ま、いいです。残り時間いっぱい、
+line2 <shift> # もうちょっと自分で考えてみるから……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （しかし結局、律子は、ポーズをうまく
+line2 <shift> # 決められないまま、本番を迎えてしまい……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （セレモニーでは、何かぐにゃぐにゃした変な
+line2 <shift> # ポーズをとっていた。失敗だったな……）
+com09 0 49
+display
+location 49
+unk02

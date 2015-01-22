@@ -1,0 +1,512 @@
+com2c 0 17
+com2c 0 208
+com2c 0 9
+com2c 0 207
+com2d 0 41
+com32 0 0
+com11 0 0
+sound 0
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「お待たせしました。
+line2 <shift> # 着替え終わりました」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、それじゃ事務所に戻ろうか」
+display
+com11 0 0
+sound 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はい、戻りましょう。一刻も早く」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「今日はもう仕事はないから、
+line2 <shift> # そんなにあわてて帰らなくても大丈夫だよ」
+display
+com11 0 0
+sound 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「いえ。その……。実は、以前お会いした
+line2 <shift> # ことのある、局の方を見かけたので……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、そうなのか。
+line2 <shift> # じゃあ、あいさつでも、していこう」
+display
+com11 0 0
+sound 3
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「だ、ダメですっ！」
+display
+com11 0 0
+sound 4
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あ、あの。実はちょっと……
+line2 <shift> # いえ、かなり苦手な人で」
+com03 0 3
+choice1 <shift> # それなら仕方がないな
+line2
+com09 0 11
+com08
+choice2 <shift> # 人間関係は大事だぞ
+line2
+com09 0 12
+com08
+choice3 <shift> # 苦手は克服すべきだ
+line2
+com09 0 13
+com08
+com07
+com09 0 13
+com08
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そういうことなら仕方がないな。
+line2 <shift> # あいさつは、やめておくか」
+display
+com11 0 0
+sound 5
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はい……ありがとうございます」
+display
+com11 0 0
+sound 6
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「たぶん、また無茶な要求をされると思うので、
+line2 <shift> # できれば顔を合わせずに帰りたいです」
+com09 0 20
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「人間関係は大事だぞ。
+line2 <shift> # それが仕事の相手ならなおさらだ」
+display
+com11 0 0
+sound 7
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「それは、わかっています。
+line2 <shift> # ですが、苦手なものは苦手なんです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「千早のそういうところ、よくないぞ。
+line2 <shift> # 少しずつでも直していかないと」
+display
+com11 0 0
+sound 46
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ですが、あの人の要求は無茶というか、
+line2 <shift> # 困ってしまうようなことばかりなんです」
+display
+com11 0 0
+sound 9
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「それでも耐えろと言うんですか？
+line2 <shift> # そんなの……理不尽です」
+com09 0 20
+display
+location 13
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「苦手は克服すべきだぞ。苦手と思うなら、
+line2 <shift> # むしろ積極的に、ぶつかっていかないと！」
+display
+com11 0 0
+sound 47
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「イヤです！　あの人だけは……！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そんなにイヤなのか？　いったいどうして、
+line2 <shift> # そんなに苦手になっちゃったんだ？」
+display
+com11 0 0
+sound 48
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「それは……、あの人に、すごく無茶な要求をさ
+line2 <shift> # れたことがあって。それ以来、どうも苦手です」
+com09 0 20
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「無茶な要求？　も、もしかして、セクハラとか
+line2 <shift> # か！？　けしからん！　断じて許さんっ！！」
+display
+com11 0 0
+sound 49
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「いえ、そういうのではありません。
+line2 <shift> # 落ち着いて下さい、プロデューサー」
+display
+com11 0 0
+sound 50
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ただ、最初に、あいさつした時から、様子がお
+line2 <shift> # かしくて。かわいそうだとは思いましたが……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「かわいそう？　どういう意味だ？
+line2 <shift> # なあ、千早、正直に言ってくれ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「その人の対応が、あまりにひどいようなら、
+line2 <shift> # 事務所を通じて、正式に抗議するから」
+display
+com11 0 0
+sound 51
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「抗議するほどのことでは、ないんです。ただ、
+line2 <shift> # その人、私に会うと、いつも泣き出すので……」
+display
+com11 0 0
+sound 52
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「対応に困ってしまって。私の声が、その人の、
+line2 <shift> # 大好きなお母様に、似ているそうです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「はあ！？　それで、何を要求されたんだ？」
+display
+com11 0 0
+sound 53
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「お母様とは、なかなか会えないので、代わりに、
+line2 <shift> # ふがいない自分をしかってくれ、と……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なんだ、それは！
+line2 <shift> # 職権乱用も、いいところじゃないか！」
+display
+com11 0 0
+sound 54
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「私も、そう思います。でも、涙声で真剣に
+line2 <shift> # 頼まれると、キッパリ断るのも悪い気がして」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それで苦手なわけか。なるほどなあ。本人に
+line2 <shift> # 悪気はないんだろうけど、迷惑な話だな……」
+display
+com11 0 0
+sound 55
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ええ。結局は、お断りしましたけど、
+line2 <shift> # とても悲しそうな目をしていました」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「しかし……」
+com03 0 3
+choice1 <shift> # 災難だったな
+line2
+com09 0 21
+com08
+choice2 <shift> # 面白い体験をしたな
+line2
+com09 0 22
+com08
+choice3 <shift> # しかってやれば良かったのに
+line2
+com09 0 23
+com08
+com07
+com09 0 23
+com08
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「災難だったな。そういう変わった人に、
+line2 <shift> # なつかれるなんて……」
+display
+com11 0 0
+sound 22
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はい……。本当に、どう対処していいのか、
+line2 <shift> # わからなくて、とまどいました」
+display
+com11 0 0
+sound 23
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「とはいえ、局の偉い方でもあるので、
+line2 <shift> # あまり、むげにするのも失礼かと……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、そういうのは、
+line2 <shift> # 顔を合わせないのが、一番だな」
+com09 0 30
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「面白い体験をしたな」
+display
+com11 0 0
+sound 56
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ちっとも面白くなんか、ありません！　局の
+line2 <shift> # 偉い方が、私に会うたび、号泣するんですよ？」
+display
+com11 0 0
+sound 57
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「周りの人に、変な目で見られますし、
+line2 <shift> # 私にとっては、針のむしろです……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか。相手は本気だもんな。とても、
+line2 <shift> # 状況を楽しむ余裕なんて、ないか。ごめんよ」
+display
+com11 0 0
+sound 26
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……とにかく、さっきの人には
+line2 <shift> # 出来るだけ会わずにすませたいんです」
+com09 0 30
+display
+location 23
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「しかってやれば良かったのに。
+line2 <shift> # 一言ぐらい、ケチケチしなくていいじゃないか」
+display
+com11 0 0
+sound 58
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「別にケチケチなんて、していません！　すでに
+line2 <shift> # 泣いている人をしかるなんて、そんなこと……」
+display
+com11 0 0
+sound 59
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「まるで、いじめているみたいになるじゃない
+line2 <shift> # ですか。そんなヒドイこと、できません」
+display
+com11 0 0
+sound 28
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「それとも、プロデューサーには、私が人をいじ
+line2 <shift> # めて喜ぶような人間に見えるのでしょうか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じょ、冗談だって」
+display
+com11 0 0
+sound 29
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そういう冗談は、好きではありません。人を
+line2 <shift> # 傷つけるような人間には、なりたくないです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「すまない。ちょっとデリカシーに
+line2 <shift> # 欠けたことを言ってしまったな……」
+display
+com11 0 0
+sound 30
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「いえ。……ですが、とにかく、さっきの人には
+line2 <shift> # 出来るだけ会わずにすませたいんです」
+com09 0 30
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、それじゃ行こうか。
+line2 <shift> # 見つからないように、手早く撤収だ！」
+display
+com11 0 0
+sound 31
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はい」
+display
+com22 0 30
+com32 0 1
+com21 0 30
+com11 0 0
+sound 32
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あ……！　プロデューサー。います！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え？　いますって……、その人が！？」
+display
+com11 0 0
+sound 33
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「こ、こっちに来ます！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、とにかく逃げるぞ！」
+display
+com11 0 0
+sound 34
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ですが……右と左、どっちに行けば？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う〜、この局、廊下が迷路みたいなことで、
+line2 <shift> # 有名なんだよな。ええと、地図は……」
+display
+com11 0 0
+sound 35
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサー、早くしないと……。
+line2 <shift> # このままでは、見つかってしまいます」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「仕方がない。こうなったら、一か八かだ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （千早は、相当あせっている。
+line2 <shift> # ここは何とか、カンで逃げのびなくては！）
+com03 0 2
+choice1 <shift> # 右だ！
+com09 0 31
+com08
+choice2 <shift> # 左だ！
+com09 0 32
+com08
+com07
+com09 0 33
+com08
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「右だ！」
+display
+com11 0 0
+sound 36
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「わかりました！」
+com37 0 1
+com1e 0 0
+com09 0 34
+com3b
+com37 0 0
+com1e 0 0
+com09 0 35
+com3b
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「左だ！」
+display
+com11 0 0
+sound 37
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「わかりました！」
+com37 0 1
+com1e 0 0
+com09 0 34
+com3b
+com37 0 0
+com1e 0 0
+com09 0 35
+com3b
+display
+location 33
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ど、どうしよう……。
+line2 <shift> # とりあえず、こっちだ！」
+display
+com11 0 0
+sound 38
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「は、はいっ！」
+com09 0 35
+display
+location 34
+com22 0 30
+com32 0 2
+com21 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「はぁ、はぁ……。無事に、まいたな」
+display
+com11 0 0
+sound 39
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はい……。ふぅ、よかった。
+line2 <shift> # でも……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ん？」
+display
+com11 0 0
+sound 40
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「不謹慎かもしれませんが、なんだか少し
+line2 <shift> # ドキドキしてしまいました。鬼ごっこみたいで」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「鬼ごっこか。泣き虫の鬼ってのは、
+line2 <shift> # ちょっと変わってるけどな」
+display
+com11 0 0
+sound 41
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ふふっ！　そうですね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （今回の件は、日常のちょっとしたサスペンス
+line2 <shift> # として、結果的には楽しんでくれたみたいだ）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ふとした時の、千早の笑顔……、
+line2 <shift> # これからも守っていってやりたいな）
+com4b 0 0
+com09 0 69
+display
+location 35
+com22 0 30
+com21 0 30
+com11 0 0
+sound 42
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサー、行き止まりです！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「な、なんだって！？」
+display
+com11 0 0
+sound 43
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あっ！　……ど、どうも。
+line2 <shift> # お世話になっております……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （しまった！　見つかってしまった……）
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 60
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「いえ、そんなに泣かないで下さい。
+line2 <shift> # 私は、あなたのお母様じゃありませんから……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、あの……。千早も困ってますし、事務所に
+line2 <shift> # 戻る時間なので、そろそろ失礼します！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「しかられたいなら、本物のお母様に、会いに
+line2 <shift> # 行って下さい！　……よし、行こう、千早！」
+display
+com22 0 30
+com32 0 2
+com21 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……ごめんな、千早。
+line2 <shift> # うまく逃がしてやれなくて」
+display
+com11 0 0
+sound 61
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はあ……。なんだか、どっと疲れが……。
+line2 <shift> # あの人にだけは、会いたくなかったです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （千早はすっかりまいってしまって、
+line2 <shift> # 帰り道も言葉少なだった……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （俺がうまく逃げていれば、千早を余計なことで、
+line2 <shift> # 悩ませずにすんだのに……。失敗したな）
+com4b 0 2
+com09 0 69
+display
+location 69
+unk02

@@ -1,0 +1,339 @@
+com2c 0 119
+com2d 0 13
+com2e 0 113
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「春香！　三次予選も突破だなっ！
+line2 <shift> # スゴイじゃないか！」
+display
+com11 0 0
+sound 0
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「プロデューサーさん、そんなことより、
+line2 <shift> # 今日の私、どうでしたか！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え？　いつも通りの、
+line2 <shift> # 良い調子だったと思うけど……」
+display
+com11 0 0
+sound 1
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そう、ですよね……。やっぱり、別に、
+line2 <shift> # 私の調子が悪かったわけじゃないんだ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうしたんだ、春香。せっかく勝ったって
+line2 <shift> # いうのに、あんまり嬉しくなさそうだな？」
+display
+com11 0 0
+sound 2
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あっ。いえ……。ただ、ちゃんと出来てたか
+line2 <shift> # どうか、気になっただけですっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「大丈夫。春香は、よく頑張ってた！
+line2 <shift> # エライぞ！」
+display
+com11 0 0
+sound 3
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい、ありがとうございます」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おっ、響じゃないか。お疲れ様！
+line2 <shift> # 春香、今回も合格したんだぞ」
+display
+com11 0 0
+sound 4
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「…………おめでと」
+display
+com11 0 0
+sound 5
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「えっ？　響ちゃん、今、なんて……？
+line2 <shift> # ぷ、プロデューサーさん！」
+com03 0 3
+choice1 <shift> # 響もおめでとう
+line2
+com09 0 10
+com08
+choice2 <shift> # ありがとう
+com09 0 11
+com08
+choice3 <shift> # 次も勝ってみせるよ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「響も、おめでとう。
+line2 <shift> # 先週、通ったんだろ？　予選」
+display
+com11 0 0
+sound 6
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「まあね！　自分、カンペキだからっ！
+line2 <shift> # 自分が予選に勝つのは、当然だぞっ！」
+display
+com11 0 0
+sound 7
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「だから勝った時、誰にもほめてもらえなくても、
+line2 <shift> # 別に気にしないし、普通っ！　普通、だよ……」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ありがとう。
+line2 <shift> # 素直な響の気持ちをきけて、うれしいよ」
+display
+com11 0 0
+sound 8
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「いや、別に、素直とか、素直じゃないとか、
+line2 <shift> # そういうんじゃないけどねっ！」
+display
+com11 0 0
+sound 9
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「自分は、これからも、９６１プロのやり方で、
+line2 <shift> # やっていくし。それがトップへの近道だから！」
+display
+com11 0 0
+sound 10
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「勝った時、誰も自分をほめないのも、
+line2 <shift> # ９６１プロのやり方だから、平気だしっ！」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「次も勝ってみせるよ。そして７６５プロの
+line2 <shift> # やり方で、トップになってみせる！」
+display
+com11 0 0
+sound 11
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「あー、それはムリ！　トップになるのは自分だ
+line2 <shift> # し、７６５プロのやり方じゃ、もう限界だぞ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ぐ……。なんで、そんなこと、
+line2 <shift> # 言い切れるんだよ！？」
+display
+com11 0 0
+sound 12
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「そんなの、７６５プロなんかに、自分が負ける
+line2 <shift> # わけないからに、決まってるさー！」
+display
+com11 0 0
+sound 13
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「勝った時、誰にもほめてもらえなくたって、
+line2 <shift> # 自分は、頑張ってきたんだからなっ！」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 14
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「響ちゃん……。どうして、そこまでして……」
+display
+com11 0 0
+sound 15
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「いや、そんなたいしたことじゃないんだけどね。
+line2 <shift> # 沖縄を出る時、兄貴とケンカしちゃって！」
+display
+com11 0 0
+sound 16
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「その時、『トップアイドルになるまで帰って
+line2 <shift> # こないぞ！』って、タンカきっちゃったんだ！」
+display
+com11 0 0
+sound 17
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「だから、ゼッタイにトップアイドルにならない
+line2 <shift> # と、故郷に帰れないんだよーっ！　あっははは」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか。それで、トップになることに、
+line2 <shift> # そこまで、こだわっているわけか」
+display
+com11 0 0
+sound 18
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「まあね！　あっははは！　……あ。また７６５
+line2 <shift> # プロに、余計なことしゃべっちゃったっ！？」
+display
+com11 0 0
+sound 19
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「うう〜！　ひきょうだぞ、７６５プロっ！
+line2 <shift> # 自分に、ムリヤリ話をさせるなんてーっ！」
+display
+com11 0 0
+sound 20
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「か、勝手に響ちゃんが、
+line2 <shift> # しゃべっただけだと思うけど……」
+display
+com11 0 0
+sound 21
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「う、うるさいっ！　とにかく自分は、７６５プ
+line2 <shift> # ロとは覚悟が違うんだ！　だから負けないぞっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……行っちゃったか。
+line2 <shift> # いつ会っても、騒々しいヤツだな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、アイツも本当は寂しいのかもしれない。
+line2 <shift> # できれば、もっと力になってやりたいけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そのためには、もっと力をつけなきゃな……」
+com03 0 3
+choice1 <shift> # 俺が
+com09 0 20
+com08
+choice2 <shift> # 響が
+com09 0 21
+com08
+choice3 <shift> # 春香が
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺が。プロデューサーとして力をつければ、
+line2 <shift> # きっと色々できることも増えるだろうから」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「響が。……ん？　なんか変だな。響が力をつけ
+line2 <shift> # たら、俺が力になってやる必要は無くなるか」
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「春香が。……って、どさくさまぎれに、
+line2 <shift> # プレッシャーかけたりしてな！　はははっ！」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 22
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「……今日の響ちゃんの歌、絶対、前より上手く
+line2 <shift> # なってた。どんどん上手になっていくなあ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……春香？」
+display
+com11 0 0
+sound 23
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「響ちゃんってスゴい！　あんなに急に上手く
+line2 <shift> # なられたら、私、置いていかれちゃうかも……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おーい、春香ってばー！」
+display
+com11 0 0
+sound 24
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「うわはははいっ！　す、すみませんっ。
+line2 <shift> # きいてませんでした！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今日の春香はヘンだぞ？　何かあったのか？」
+display
+com11 0 0
+sound 25
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「実は予選が終わった後、隣のスタジオへ行って、
+line2 <shift> # 響ちゃんの歌、じっくり、きいてみたんです」
+display
+com11 0 0
+sound 26
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「今日の予選の時の私の歌と、くらべてみようと
+line2 <shift> # 思って。そしたら、全然違ってて……」
+display
+com11 0 0
+sound 27
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「響ちゃん、スゴいスピードで上達してると思い
+line2 <shift> # ませんか？　私も、もっと頑張らないと……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「響の成長がわかるのは、春香自身も成長してる
+line2 <shift> # からだよ。見る目が養われてきたってことだ」
+display
+com11 0 0
+sound 28
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「良く考えれば、そうかもしれません。
+line2 <shift> # だけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「良く考えても悪く考えても、そうなんだよ！
+line2 <shift> # なんだなんだ、春香らしくないぞ？」
+display
+com11 0 0
+sound 29
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そうですね……。すみません、色々言っちゃっ
+line2 <shift> # て。私なら平気ですから、気にしないで下さい」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、それじゃあ、事務所へ戻るぞ」
+com09 0 99
+display
+location 99
+unk02

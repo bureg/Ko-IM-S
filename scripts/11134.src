@@ -1,0 +1,280 @@
+com2c 0 75
+com2d 0 21
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「伊織の担任の先生と、ミーティングなんて……
+line2 <shift> # おかしくないか？」
+display
+com11 0 5
+sound 100
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「細かい事気にしないで♪　プロデューサーには
+line2 <shift> # 私のプライベート、ぜーんぶ知ってほしいのっ」
+com03 0 3
+choice1 <shift> # ……本音かなあ
+line2
+com09 0 10
+com08
+choice2 <shift> # 裏があるだろ！！
+line2
+com09 0 11
+com08
+choice3 <shift> # じゃあ、スリーサイズは？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……本音かなあ」
+display
+com11 0 5
+sound 101
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「決まってるじゃないっ！　やだぁ、そんな
+line2 <shift> # むずかしい顔、しちゃってー」
+com09 0 18
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「裏があるだろ！！」
+display
+com11 0 5
+sound 102
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「な、ないわよ、そんなの。やーだぁ……。
+line2 <shift> # うたがうと、泣いちゃうんだから〜」
+com09 0 18
+display
+location 18
+com11 0 5
+sound 103
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「伊織のこと、信じて♪　プロデューサー、
+line2 <shift> # 大好きー！　……くぅ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……なんか、くやしそうだな」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃあ、スリーサイズは？」
+display
+com11 0 5
+sound 104
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そ、そんなの教えるわけっ……
+line2 <shift> # ふんふふん、ふん♪　えっとー」
+display
+com11 0 5
+sound 105
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「上から順にー、１００、５０、１００
+line2 <shift> # かしら」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ずいぶん、切りがいいな……」
+display
+com11 0 5
+sound 106
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「せ、成長期だからよね、きっと」
+com09 0 19
+display
+location 19
+com11 0 5
+sound 107
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ところでー、私がアイドルやっても、学校の
+line2 <shift> # 成績とかには、響かないわよね？」
+display
+com11 0 5
+sound 108
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……返事は、この中から。はい！」
+com03 0 3
+choice1 <shift> # 絶対に響きません
+line2
+com09 0 20
+com08
+choice2 <shift> # １００％、響きません
+line2
+com09 0 21
+com08
+choice3 <shift> # 完全無欠に響きません
+line2
+com09 0 22
+com08
+com07
+com09 0 23
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「絶対に響きません……」
+com09 0 28
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「１００％、響きません……」
+com09 0 28
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「完全無欠に響きません……」
+com09 0 28
+display
+location 28
+com11 0 5
+sound 109
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「やっぱり、そう思う？
+line2 <shift> # 気が合うわねっ、私達！」
+com09 0 29
+display
+location 23
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「…………く」
+display
+com11 0 5
+sound 110
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「なに、汗流して、耐えてるのよ〜。え？
+line2 <shift> # 俺も響かないと思う？　やっぱりー」
+com09 0 29
+display
+location 29
+com11 0 5
+sound 111
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「なら、先生にそう言ってくれる？　『アイドル
+line2 <shift> # なんて、やめとけ』って、毎日うるさいの」
+display
+com11 0 5
+sound 112
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「おねがーい。私がやめたら、あんた……
+line2 <shift> # じゃなくて、あなたも困るわよね？」
+com03 0 3
+choice1 <shift> # 死ぬほど、困る！
+line2
+com09 0 30
+com08
+choice2 <shift> # そこそこ、困る
+line2
+com09 0 31
+com08
+choice3 <shift> # すっきり引退も、悪くないか
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「死ぬほど、困る！」
+display
+com11 0 5
+sound 113
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そ、そう？　じゃあ、先生に死ぬほど、
+line2 <shift> # 言い聞かせてやって！」
+display
+com11 0 5
+sound 114
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「頼りになるプロデューサーに恵まれて、私、
+line2 <shift> # 幸せ！　……なんとかとハサミは使いようね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ん、なにか言ったか？」
+display
+com11 0 5
+sound 115
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「な、なんでも。ふぅ〜、これであのガンコな
+line2 <shift> # 担任、封じ込められるわ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （だまされてる気もするけど、まあいいか。
+line2 <shift> # ここは気持ちよく、引き受けてやろう）
+com4b 0 0
+com09 0 39
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そこそこ、困る」
+display
+com11 0 5
+sound 116
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「その程度のノリじゃ、迫力が足りないわー。
+line2 <shift> # もっと切実になってくれないとっ」
+display
+com11 0 5
+sound 117
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「私がどんなに必要な存在か、熱ーく語って！
+line2 <shift> # ついでに、いかに将来有望かも！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わかったよ……」
+display
+com11 0 5
+sound 118
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ありがと〜。さっすが私のプロデューサーね！
+line2 <shift> # ……くぅ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （また、くやしそうな顔をしている。もうすこし、
+line2 <shift> # 気持ちよく引き受けても、よかったかな）
+com4b 0 1
+com09 0 39
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「すっきり引退も、悪くないか」
+display
+com11 0 5
+sound 119
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ちょ、ちょっとー！　なんてこというのよー、
+line2 <shift> # 鬼、悪魔〜」
+display
+com11 0 5
+sound 120
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……じゃなくて、そんなの、伊織、さびしい〜。
+line2 <shift> # 見捨てないで、プロデューサー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……冗談だよ。そう簡単に、伊織を
+line2 <shift> # やめさせる気なんてないし」
+display
+com11 0 5
+sound 121
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「くぅ〜、なら、はじめっから、そう
+line2 <shift> # 言いなさいよーっ」
+display
+com11 0 5
+sound 122
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「はあ〜、ほんと、頼んだわよ……。私の担任、
+line2 <shift> # けっこうガンコなんだから……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （やや、疲れた顔をしている。軽い冗談が、
+line2 <shift> # 思ったより、ダメージを与えたみたいだな……）
+com4b 0 2
+com09 0 39
+display
+location 39
+unk02

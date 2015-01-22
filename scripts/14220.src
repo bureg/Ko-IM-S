@@ -1,0 +1,423 @@
+com2c 0 43
+com2d 0 33
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （作曲家へのあいさつも兼ね、スタジオへ歌の仮
+line2 <shift> # 収録にやってきた。アイドルとしての初仕事だ）
+display
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ううう、また、歌い直し……。
+line2 <shift> # これで、もう５回目です〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ダメだろ、やよい。どうして、マイク前で、
+line2 <shift> # あんなバカみたいな声で、怒鳴るんだ？」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ごめんなさい〜。一生懸命、歌おうとすると、
+line2 <shift> # どうしても、ああなっちゃうんです〜」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「なにが原因で、あんな風に、
+line2 <shift> # カーッと、なっちゃうんでしょう？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それは、きっと……」
+com03 0 3
+choice1 <shift> # 衣装のせいだよ　
+line2
+com09 0 10
+com08
+choice2 <shift> # 慣れてないせいだよ　
+line2
+com09 0 11
+com08
+choice3 <shift> # 才能がないからだよ　
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「衣装のせいだよ。着慣れないもの、着てるから、
+line2 <shift> # 舞い上がっちゃってるんだ」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あ、そうですねっ！　いつもは、こんな
+line2 <shift> # かわいい服着たことないから、それで……！」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「慣れてないせいだよ。緊張してるから、
+line2 <shift> # コントロールが効かないんだ」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あ、そうですねっ！　こういう場所も、衣装
+line2 <shift> # 着て歌うのも、はじめてだから、それで……」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「才能がないからだよ。能力と自信があれば、
+line2 <shift> # こんなの、屁でもないハズだ」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「自信なんて、全然ないですーっ。だって、
+line2 <shift> # 私、アイドルの経験なんて、ないし〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あああ、ごめんごめん。ちょっときびしい
+line2 <shift> # 言い方、しちゃったかな……」
+com09 0 19
+display
+location 19
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さ、めげずに、がんばろう。もう１回、
+line2 <shift> # 挑戦だ」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「は、はい……。でも、またダメだったら」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんな顔、するなよ。ほら、よく言うだろ。
+line2 <shift> # 『笑う門（かど）には……』」
+com03 0 3
+choice1 <shift> # 『福、きたる』って　
+line2
+com09 0 20
+com08
+choice2 <shift> # 『幅、きたる』って　
+line2
+com09 0 21
+com08
+choice3 <shift> # 『鬼、ばかり』って　
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「『福、きたる』って」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あ、その言葉、この間、学校の先生も言って
+line2 <shift> # ました。うっう〜、精一杯の笑顔つくらないと」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「『幅、きたる』って」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はば、きたる？　『はば』って、
+line2 <shift> # なんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、まちがえた！　福だ、フク！
+line2 <shift> # 笑ってれば、幸せがくるって意味だよ」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「なら、どんな時も、がんばって笑わないと
+line2 <shift> # いけないんですね。じゃ、精一杯の笑顔を……」
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「『鬼、ばかり』って」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「鬼がいるんですか？　笑う門って、こわいとこ
+line2 <shift> # なんですね。どこにあるのか、知りませんけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ん、なんか違う気が……。
+line2 <shift> # ま、まあ、とにかく、笑顔でがんばろうよ」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はい……。アイドルは、いっつも笑ってないと
+line2 <shift> # ダメですもんね」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 10012
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あ、そうだ！　いつも、学校でやってる
+line2 <shift> # アレやってから歌えば、うまくいくかもっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「アレって、なんだ？」
+display
+com11 0 0
+sound 10013
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「プロデューサー。私と、手をポーンって、合わ
+line2 <shift> # せてくれますか？　それやると調子出るんです」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「それじゃ、いきますよ〜っ。
+line2 <shift> # うっう〜、ハイ、ターッチ！」
+com0e 0 224
+com44
+com09 0 30
+com45
+com44
+com09 0 31
+com45
+com44
+com09 0 32
+com45
+com44
+com09 0 33
+com45
+com44
+com09 0 34
+com45
+display
+location 30
+com11 0 0
+sound 10015
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「いぇい！　あ、今度こそ、怒鳴らないで歌え
+line2 <shift> # そうな気が……。それじゃ、行ってきまーす」
+display
+com32 0 0
+com22 0 30
+com21 0 30
+com11 0 0
+sound 10016
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「プロデューサー、うまくいきました！
+line2 <shift> # 聴いてて、もらえましたかっ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。おめでとう、これで、ついに
+line2 <shift> # アイドルとしての第一歩、踏み出せたな」
+display
+com11 0 0
+sound 10017
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はいっ！　これもプロデューサーが、パシッて
+line2 <shift> # タッチしてくれたおかげですっ。いぇい！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （勝利のおまじないが、効いたみたいだな！
+line2 <shift> # やよいは見事、ハードルを乗り越えてくれた）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……その後、うれしそうに、ピョンピョン
+line2 <shift> # 飛び跳ねるやよいを連れて、事務所に戻った）
+com09 0 39
+display
+location 31
+com11 0 0
+sound 10018
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あの〜、ちょっと長くさわりすぎな気が……。
+line2 <shift> # もっと、こう、短く、パシッて……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「う、そうか？　案外、むずかしいもんだな」
+display
+com11 0 0
+sound 10019
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「いきなり、こんなお願いされても、急にうまく
+line2 <shift> # なんて、できませんよね……」
+display
+com11 0 0
+sound 10020
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あああっ、そろそろ、収録に戻らないとっ。
+line2 <shift> # それじゃ、行ってきまーす……」
+display
+com32 0 0
+com22 0 30
+com21 0 30
+com11 0 0
+sound 10021
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「また失敗〜……。次で、１３回目です。
+line2 <shift> # ううう……」
+display
+com11 0 0
+sound 10022
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「プロデューサー、ごめんなさい〜。もう
+line2 <shift> # ちょっと、もうちょっとだけ、待って〜〜〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （タッチをミスったら、やよいはミスを連発。
+line2 <shift> # 結局、ＯＫが出た時は、テイク２０だった）
+com09 0 38
+display
+location 32
+com11 0 0
+sound 10023
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うううっ、プロデューサ〜、どうして、
+line2 <shift> # そんなところに、タッチするんですかー？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「い、いや、ごめんっ。タッチという言葉を
+line2 <shift> # 聞いたら、つい反射的に……」
+display
+com11 0 0
+sound 10024
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そんな〜。私、ちゃんと、手にして
+line2 <shift> # ほしかったのに……」
+display
+com11 0 0
+sound 10025
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あああっ、そろそろ、収録に戻らないとっ。
+line2 <shift> # ううう、行ってきま〜す……」
+display
+com32 0 0
+com22 0 30
+com21 0 30
+com11 0 0
+sound 10026
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「また失敗〜……。次で、２１回目です。
+line2 <shift> # ううう……」
+display
+com11 0 0
+sound 10027
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「プロデューサ〜、ごめんなさい〜。
+line2 <shift> # なんか、さっき以上に、調子が出ませーん」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （とんでもない所にタッチしたら、ボロボロ状態
+line2 <shift> # に。結局、ＯＫが出た時は、テイク３０だった）
+com09 0 38
+display
+location 33
+com11 0 0
+sound 10028
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ううう、プロデューサ〜。どうして、
+line2 <shift> # 手じゃないところに、タッチするんですー？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ご、ごめん。素直に、言われたことに
+line2 <shift> # 従うんじゃ、おもしろくないと思って……」
+display
+com11 0 0
+sound 10029
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そんな〜。手以外のところじゃ、私、
+line2 <shift> # 調子なんて、出ないです〜」
+display
+com11 0 0
+sound 10030
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あああっ、そろそろ、収録に戻らないとっ。
+line2 <shift> # それじゃ、行ってきまーす……」
+display
+com32 0 0
+com22 0 30
+com21 0 30
+com11 0 0
+sound 10031
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「また失敗〜……。次で、１３回目です。
+line2 <shift> # ううう……」
+display
+com11 0 0
+sound 10032
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「プロデューサー、ごめんなさい〜。もう
+line2 <shift> # ちょっと、もうちょっとだけ、待って〜〜〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ヘンな場所にタッチしたら、やよいはミスを
+line2 <shift> # 連発。結局、ＯＫが出た時はテイク２０だった）
+com09 0 38
+display
+location 34
+com11 0 0
+sound 10033
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ううう、プロデューサ〜。どうして、なにも
+line2 <shift> # しないで、黙って見てるんですー？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや……、いきなり言われたもんで、
+line2 <shift> # とまどってしまって」
+display
+com11 0 0
+sound 10034
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「……それは、そうですよね。
+line2 <shift> # 私、ムリなお願い、しちゃったかもー」
+display
+com11 0 0
+sound 10035
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あああっ、そろそろ、収録に戻らないとっ。
+line2 <shift> # それじゃ、行ってきまーす……」
+display
+com32 0 0
+com22 0 30
+com21 0 30
+com11 0 0
+sound 10036
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「また失敗〜……。次で、１３回目です。
+line2 <shift> # ううう……」
+display
+com11 0 0
+sound 10037
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「プロデューサー、ごめんなさい〜。もう
+line2 <shift> # ちょっと、もうちょっとだけ、待って〜〜〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （タッチしないでスルーしたら、やよいはミスを
+line2 <shift> # 連発。結局、ＯＫが出た時はテイク２０だった）
+com09 0 38
+display
+location 38
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……その後、落ち込んだやよいをはげまし、
+line2 <shift> # なんとか立ち直らせてから、事務所に戻った）
+com09 0 39
+display
+location 39
+unk02

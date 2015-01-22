@@ -1,0 +1,286 @@
+com2c 0 49
+com2d 0 21
+com32 0 0
+com11 0 3
+sound 1200
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「う〜ん、しなやか……。しなやか……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なに、意味不明なこと、つぶやいてるんだ？
+line2 <shift> # １日署長さん？」
+display
+com11 0 3
+sound 1201
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「んー。昨日ね、上の兄さんに言われたこと、
+line2 <shift> # 考えてたの」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「伊織、兄弟いるのか？」
+display
+com11 0 3
+sound 1202
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そ、ふたりね！　上の兄さんはコンサルタント
+line2 <shift> # 会社の社長で、下の兄さんはアメリカへ留学中」
+com03 0 2
+choice1 <shift> # 立派な兄さん達だな
+line2
+com09 0 10
+com08
+choice2 <shift> # ……負けてるな、伊織
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「立派な兄さん達だな」
+display
+com11 0 3
+sound 1203
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「正直、困るのよねー。
+line2 <shift> # なにかっていうと、すぐ比べられちゃうし……」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……負けてるな、伊織」
+display
+com11 0 3
+sound 1204
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そんなこと、ないわよーっ！　……って、
+line2 <shift> # いいたいとこだけど、認めるわ〜」
+display
+com11 0 3
+sound 1205
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「兄さん達、親戚からも『一族の最高傑作』
+line2 <shift> # って、言われるぐらいの切れ者だし……」
+com09 0 19
+display
+location 19
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「で、その兄さんに、なにを言われたんだ？」
+display
+com11 0 3
+sound 1206
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「私みたいな、強引な性格の人間は、新時代の
+line2 <shift> # マスメディアには向かないって……」
+display
+com11 0 3
+sound 1207
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「もっとしなやかになれって言われたんだけど
+line2 <shift> # ……しなやかって、どういうこと？」
+com03 0 3
+choice1 <shift> # 柔軟にってことかな？
+line2
+com09 0 20
+com08
+choice2 <shift> # 女性らしくってことかな？
+line2
+com09 0 21
+com08
+choice3 <shift> # ヤナギのようにってことかな？
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「柔軟にってことかな？」
+display
+com11 0 3
+sound 1208
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「まあ、そういう意味よね〜。でも、具体的に
+line2 <shift> # なにをどうすればいいのか、さっぱり……」
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「女性らしくってことかな？」
+display
+com11 0 3
+sound 1209
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……なによ〜。私は女の子っぽくないって
+line2 <shift> # いいたいわけっ！？」
+display
+com11 0 3
+sound 1210
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「しおらしくしたって、人気は出ないわ。
+line2 <shift> # 兄さんが言いたかったのは、きっと別の意味よ」
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ヤナギのようにってことかな？」
+display
+com11 0 3
+sound 1211
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「余計にワケわかんないわよ〜。人は逆立ち
+line2 <shift> # したって、木になんかなれないわっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、だから、ヤナギのようにしなやかに
+line2 <shift> # だな……」
+display
+com11 0 3
+sound 1212
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……結局、また、しなやかに逆戻りじゃない。
+line2 <shift> # それじゃ、ヒントにもならないわよ……」
+com09 0 29
+display
+location 29
+com11 0 3
+sound 1213
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「私、アイドルって向かないのかも。ねえ、
+line2 <shift> # あんた、私のどこに目をつけて選んだわけ？」
+com03 0 3
+choice1 <shift> # 型破りなところだよ
+line2
+com09 0 30
+com08
+choice2 <shift> # ルックスのよさだよ
+line2
+com09 0 31
+com08
+choice3 <shift> # なんとなく、だよ
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「型破りなところだよ」
+display
+com11 0 3
+sound 1214
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そう……。たしかに決められたこと、決め
+line2 <shift> # られたようにやるのは、大キライだけど……」
+display
+com11 0 3
+sound 1215
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あ……でも、形にとらわれないっていうのも、
+line2 <shift> # しなやかって気がしない？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「言われてみれば、そうだな……。
+line2 <shift> # まあ、自由にやってみろってことか」
+display
+com11 0 3
+sound 1216
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「考えすぎてたかもね！　いつか立派なアイドル
+line2 <shift> # になったなって、兄さんに言わせてみせるわっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （兄貴越えか……。えらい高い目標みたいだけど、
+line2 <shift> # この調子でいけば、いつの日か……！）
+com09 0 39
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ルックスのよさだよ」
+display
+com11 0 3
+sound 1217
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そう、ありがとー♪　って、それはわかってた
+line2 <shift> # けど……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だろ？　やっぱり、アイドルは、
+line2 <shift> # ルックス命だし」
+display
+com11 0 3
+sound 1218
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「でもルックスだけじゃ、上手く行かない事も
+line2 <shift> # 有るわよねー」
+display
+com11 0 3
+sound 1219
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「かわいくても、反発されると陰口とか
+line2 <shift> # 言われちゃうから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、まあ、かわいくてしかも評判が
+line2 <shift> # 良ければ、それがベストな訳だし……」
+display
+com11 0 3
+sound 1220
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「私にそんなの望むのは、ムリーっ。ふぅ、やっ
+line2 <shift> # ぱり兄さんの言う通り、向いてないのかしら」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ため息をついている……。ウソでもいいから、
+line2 <shift> # 別の理由にしてやった方がよかったか）
+com09 0 39
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なんとなく、だよ」
+display
+com11 0 3
+sound 1221
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「…………………………え？
+line2 <shift> # なんか今、とんでもないこと、言わなかった？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ふ、深い考えはなかったんだ。何となく
+line2 <shift> # 良いかなって……」
+display
+com11 0 3
+sound 1222
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「く、く、く〜っ！　じゃあ、適性もなにも
+line2 <shift> # 考えないで選んだの？　ひどいわよーっ！」
+display
+com11 0 3
+sound 1223
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「私、人とうまくやる方法とか、昨日、
+line2 <shift> # 兄さんにいろいろ聞いて……。ふん、やーめた」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、おい、ヘソ曲げないでくれって。
+line2 <shift> # しなやかになるんじゃ無かったのか？」
+display
+com11 0 3
+sound 1224
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「もうやーめた！　今日から思いっきり
+line2 <shift> # わがまま言いまくるんだからっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （まずい、何とか説得しないと。予期しなかった
+line2 <shift> # 質問に、つい本音で答えてしまった……）
+com09 0 39
+display
+location 39
+unk02

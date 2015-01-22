@@ -1,0 +1,285 @@
+com2c 0 40
+com2d 0 63
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今回は、お茶のＣＭかあ。
+line2 <shift> # 雪歩、お茶好きだろう？」
+display
+com11 0 1
+sound 527
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい！　とくに熱い緑茶が……」
+display
+com11 0 1
+sound 501
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「おいしいお茶の宣伝に、
+line2 <shift> # 私を呼んでもらえるなんて、嬉しいですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「メーカーさん、雪歩のお茶好きを知って、
+line2 <shift> # ぜひＣＭにって、選んでくれたみたいだ」
+display
+com11 0 1
+sound 502
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ありがとうございます。あ……、あれ？
+line2 <shift> # このお茶、缶に入ってるんですねぇ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、新発売の缶緑茶だぞ、今回のＣＭの。
+line2 <shift> # どうかしたかな？」
+display
+com11 0 1
+sound 503
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「うーん、そ、そうですか。
+line2 <shift> # お茶、缶入りなんですかぁ……」
+com03 0 2
+choice1 <shift> # 見慣れないのかな？
+line2
+com09 0 10
+com08
+choice2 <shift> # 好きじゃないのかな？
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「缶入りお茶なんて、見慣れないのかな？」
+display
+com11 0 1
+sound 504
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ええ、見慣れないというか、
+line2 <shift> # 飲み慣れないというか……」
+display
+com11 0 1
+sound 505
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「私、学校にも、仕事にも、
+line2 <shift> # 家からいれていったお茶を持っていくので……」
+display
+com11 0 1
+sound 506
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「だから、缶のお茶は、
+line2 <shift> # あまり飲んだことがなくて」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もしかして、あんまり好きじゃないのかな？」
+display
+com11 0 1
+sound 507
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ええ……、友達が缶のお茶を買って飲むのを、
+line2 <shift> # 少しもらったことがあるけど、なにか苦手で」
+display
+com11 0 1
+sound 508
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「その、せっかくのお仕事で、こんなこと
+line2 <shift> # 言っては、いけないかもしれないですけど……」
+display
+com11 0 1
+sound 509
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「缶のお茶は、あまり飲まないんです。家でいれ
+line2 <shift> # たお茶を、普段ポットで持ち歩いてるし……」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ふーむ、そうなのか。しかし今回のお茶は、
+line2 <shift> # メーカーの社運を賭けた自信作らしいぞ！」
+display
+com11 0 1
+sound 510
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そうなんですか？
+line2 <shift> # な、なんだか、すごそうですね……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そこにある、温めて湯のみにいれたやつを、
+line2 <shift> # 飲んでみるといい。きっとびっくりするぞ」
+display
+com11 0 1
+sound 511
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「は、はい。では失礼して……
+line2 <shift> # 一杯、いただきます」
+display
+com11 0 1
+sound 512
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ああっ！　こ、これは……、おいしいかも！
+line2 <shift> # これは、この味はっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「待った！　メーカーからの要望だ。『お茶を
+line2 <shift> # 飲んだ感想を、そのままキャッチフレーズに』」
+display
+com11 0 1
+sound 513
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「え、ええっ！？　私の、このお茶への感想を、
+line2 <shift> # ですかっ、えと、えっと……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なにか、いいコメントを頼むよ」
+display
+com11 0 1
+sound 514
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「で、でも、私、なんて言ったらいいのか……、
+line2 <shift> # 意外にもおいしくて、びっくりしてしまって」
+display
+com11 0 1
+sound 515
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「その、つまり、うまく言葉にできなくて……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わかった。では、俺が代弁しよう。
+line2 <shift> # つまり、このお茶は……」
+com03 0 3
+choice1 <shift> # とんでもない
+line2
+com09 0 30
+com08
+choice2 <shift> # もったいない
+line2
+com09 0 31
+com08
+choice3 <shift> # しあわせ
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「雪歩にとって、とんでもないお茶だ！」
+display
+com11 0 1
+sound 516
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「えっと……、そうですね、こんないいお茶を、
+line2 <shift> # 缶で飲めるようになるなんて、びっくりです」
+display
+com11 0 1
+sound 517
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「とんでもないですねぇ。私、これからは、
+line2 <shift> # 缶のお茶も、時々飲んでみようかな？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （かくして、缶入りお茶に『とんでもない』
+line2 <shift> # というキャッチコピーがついた）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （意表をついたコピーのおかげで、お茶も、
+line2 <shift> # 雪歩のＣＭも、評判は上々だ！）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「つまり、もったいないのだ！」
+display
+com11 0 1
+sound 518
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そ、そうです！　こんな、いいお茶を、
+line2 <shift> # 缶に入れちゃうなんて、もったいない！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「しかし、缶でも変わらない、
+line2 <shift> # この味だと言ったら？」
+display
+com11 0 1
+sound 519
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「す、すごいです。
+line2 <shift> # ちょっと信じられないかもっ」
+display
+com11 0 1
+sound 520
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「で、でも、やっぱり、もったいないかも……。
+line2 <shift> # おいしいお茶こそ、いれたてが一番ですから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （かくして、お茶に『もったいない』という、
+line2 <shift> # キャッチコピーがついた）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （売れ行きはともかくとして、商品の高級感の
+line2 <shift> # アピールには、成功したみたいだ……）
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ずばり！　しあわせ、だ」
+display
+com11 0 1
+sound 521
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あっ、はい！　こんなお茶を飲めるなんて、
+line2 <shift> # 私、しあわせです！」
+display
+com11 0 1
+sound 522
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「もう一杯下さい。
+line2 <shift> # ああ、おいしい……、なごみますねぇ」
+display
+com11 0 1
+sound 523
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「えっと、それから……、そうそう、
+line2 <shift> # ＣＭのキャッチを考えるんですけど……」
+display
+com11 0 1
+sound 524
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ごめんなさい、その前に、
+line2 <shift> # もう一杯だけ、いただきます」
+display
+com11 0 1
+sound 525
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ああ、なんだか、お茶菓子も、
+line2 <shift> # 欲しくなっちゃいますねぇ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「夢中で飲んでるな、雪歩。ところで、
+line2 <shift> # そろそろ撮影だけど……、大丈夫か？」
+display
+com11 0 1
+sound 526
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「だ、大丈夫です！
+line2 <shift> # あっ、それから、もう一杯！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よほど気に入ったのか、雪歩はお茶を飲み続け
+line2 <shift> # た。飽きて、ぐったりと飲み疲れるまで……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （おかげで、本番のＣＭ撮影の、
+line2 <shift> # お茶を飲むシーンに差し障りが出て……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （完成したＣＭは、『しあわせ』とは、
+line2 <shift> # 程遠い絵面になってしまったようだ……）
+com09 0 49
+display
+location 49
+unk02

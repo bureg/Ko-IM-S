@@ -1,0 +1,444 @@
+com2c 0 17
+com2d 0 53
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あずささん、歌番組、はじまりますよ！
+line2 <shift> # 早くスタジオへ。全国のファンが待って……」
+display
+com11 0 2
+sound 200
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「はい、わかっています……。
+line2 <shift> # けど、私、こ、こわくて」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうしたんですっ？　さっきまで『今日はメイ
+line2 <shift> # ンゲストだ』って、あんなによろこんで……」
+display
+com11 0 2
+sound 201
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「いま、ディレクターさんがきて『今回の
+line2 <shift> # デキで、今後の運命が決まるね』って」
+display
+com11 0 2
+sound 202
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「そんなこと、全然考えていなかったので、
+line2 <shift> # 急にぞくぞくっと、背が……」
+com03 0 3
+choice1 <shift> # そんな言葉、忘れちゃいましょう
+line2
+com09 0 10
+com08
+choice2 <shift> # く、余計なことを……
+line2
+com09 0 11
+com08
+choice3 <shift> # そいつ、きっとニセモノです
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+com34 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんな言葉、忘れちゃいましょう」
+display
+com11 0 2
+sound 203
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「……ありがとうございます。そうしようと
+line2 <shift> # 思ったのですけれど、それでもダメで」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「く、余計なことを……」
+display
+com11 0 2
+sound 204
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「でも、悪気があったのではないと思います。
+line2 <shift> # きっと、ぽろりと口から」
+display
+com11 0 2
+sound 205
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ディレクターさんを、責めないで下さい。
+line2 <shift> # 悪いのは、私なんですから」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そいつ、きっとニセモノです。本物なら、
+line2 <shift> # そんなイジワルなこと、言うわけ……」
+display
+com11 0 2
+sound 206
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「けれど、本物でしたよ？　私、なんどもあった
+line2 <shift> # ことありますし」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「た、他人の空似です。いま、別のスタジオで、
+line2 <shift> # そっくりさん大賞とか……」
+display
+com11 0 2
+sound 207
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「はげましてくれるのは、うれしいですけれど、
+line2 <shift> # そんなわけ、ないです」
+com09 0 29
+display
+location 29
+com11 0 2
+sound 208
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あの、プロデューサーさんは、平気ですか？
+line2 <shift> # 本当は、私みたいに緊張しているんじゃ……？」
+com03 0 2
+choice1 <shift> # 大丈夫ですから、集中して
+line2
+com09 0 30
+com08
+choice2 <shift> # 人の心配、してる場合じゃ
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「大丈夫ですから、集中して」
+display
+com11 0 2
+sound 209
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「そうですか。私だけですね、こんな風になって
+line2 <shift> # いるの。迷惑をかけたくは、ないのに」
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「人の心配、してる場合じゃ」
+display
+com11 0 2
+sound 210
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「すみません。気になってしまって。もしそう
+line2 <shift> # なら、プロデューサーさんに、申し訳ないって」
+display
+com11 0 2
+sound 211
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「こんな風になってるの、私だけですね。
+line2 <shift> # 情けないです。これでは、迷惑を……」
+com09 0 49
+display
+location 49
+com11 0 2
+sound 212
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ほんとに、ちゃんと歌えるのかしら。
+line2 <shift> # こ、こんな大事な時に、私……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （これは、重傷だな。
+line2 <shift> # く、こんな時は言葉だけじゃ……）
+com0e 1 56
+com44
+com09 0 50
+com45
+com44
+com09 0 51
+com45
+com44
+com09 0 52
+com45
+com44
+com09 0 53
+com45
+com44
+com09 0 54
+com45
+com44
+com09 0 55
+com45
+com44
+com09 0 56
+com45
+com44
+com09 0 57
+com45
+com44
+com09 0 58
+com45
+display
+location 50
+com34 0 2
+com11 0 2
+sound 213
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「は！　プロデューサーさん。あ……。
+line2 <shift> # あのー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「すみません。でも、こうでもしないと……。
+line2 <shift> # 頭にきたら、ひっぱたいてくれてもいいです」
+display
+com11 0 2
+sound 214
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「そんな……。あ、ありがとうございます。
+line2 <shift> # 不思議です。こう、すーっと熱が」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よし、一発でいい顔になったな！
+line2 <shift> # 本当にひっぱたかれなくて、よかった……）
+com09 0 69
+display
+location 51
+com34 0 1
+com11 0 2
+sound 215
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「痛っ！　ぷ、プロデューサーさん……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「すみません、ぶったりして。でも、ちょっとは
+line2 <shift> # 気持ちの切り替え、できましたか？」
+display
+com11 0 2
+sound 216
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「は、はい。ありがとうございます。
+line2 <shift> # おどろいたら、だいぶスッキリ……」
+display
+com11 0 2
+sound 217
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「でもー、すこしヒリヒリします。
+line2 <shift> # あ、赤くなっては、いないですよね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ＴＶ出演の前に、ほほを叩くのは、危険だった
+line2 <shift> # か？　でも、思いつく方法では、これしか……）
+com09 0 69
+display
+location 52
+com34 0 2
+com11 0 2
+sound 218
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ぷ、プロデューサーさん……？
+line2 <shift> # あ、手、あたたかいです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ほら、自信を持って。そんな表情してたら、
+line2 <shift> # せっかくのキレイな顔が台無しです」
+display
+com11 0 2
+sound 219
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「もう一度、手、当ててもらえますか。
+line2 <shift> # そうすれば、私、きっと」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （こわばった顔が、すこしずつ、ゆるんでいく。
+line2 <shift> # こんなぬくもりでも、支えになるなら……）
+com09 0 69
+display
+location 53
+com11 0 2
+sound 220
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「痛っ！　ぷ、プロデューサーさん……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なに、弱気な顔してるんです？　そんなんじゃ、
+line2 <shift> # とてもメジャーアイドルとは……」
+display
+com11 0 2
+sound 221
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ううう、わかっています。でも、きっと、
+line2 <shift> # こんなところまで来れたのが、おかしくて」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「い、いや、そんなことないですって。
+line2 <shift> # 実力は、折り紙付きじゃないですか」
+display
+com11 0 2
+sound 222
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「そう思ってくれているのは、プロデューサー
+line2 <shift> # さんだけです。まだ、全国なんて器では……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （余計に、ふさぎこんでしまった。もっと
+line2 <shift> # うまいやり方が、他にあった気がする……）
+com09 0 69
+display
+location 54
+com11 0 2
+sound 223
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ぷ、プロデューサーさん、どうして頭に、
+line2 <shift> # 手を……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ほらほら、なでてあげますから、
+line2 <shift> # 早く元気になって下さい」
+display
+com11 0 2
+sound 224
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「そ、そんなことをされても……。ほめられる
+line2 <shift> # ようなことは、なにもしていませんし」
+display
+com11 0 2
+sound 225
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「それに、私、子どもでは……。でも、子ども
+line2 <shift> # かもしれませんね。これぐらいで、うう……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あああ、悪かったですっ、あずささん。
+line2 <shift> # 俺、なんとかしなくちゃって……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よかれと思ってやったけど、全然はげましに
+line2 <shift> # ならなかった。なにか、別のやり方が……）
+com09 0 69
+display
+location 55
+com11 0 2
+sound 226
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「痛っ！　ぷ、プロデューサーさん？　突然、
+line2 <shift> # なにを。ううう……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あああ、すみません！　軽くはたこうと
+line2 <shift> # 思ったら、目に……」
+display
+com11 0 2
+sound 227
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あ、まだすこし、痛……。私、ちょっと
+line2 <shift> # 洗面台に行ってきます」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうですね。ついでに顔も洗ってきた方が」
+display
+com11 0 2
+sound 228
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「それは、メイクが落ちてしまうので……。
+line2 <shift> # すみませんが、み、みなさんにおわびを」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （マズいな。開始時間、遅れてしまうか？
+line2 <shift> # 叩くにしても、もっと慎重にやるべきだった）
+com09 0 69
+display
+location 56
+com11 0 2
+sound 229
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あっ！　ぷ、プロデューサーさん……。
+line2 <shift> # なにを？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、どこか叩けば、気分も変わるかもって」
+display
+com11 0 2
+sound 230
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「すみません、気を使わせてしまって。でも、
+line2 <shift> # 足が動かなくて……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、これぐらいじゃ、意識、変わらないか。
+line2 <shift> # その……なんとかなりませんか？」
+display
+com11 0 2
+sound 231
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「すこしだけ、時間を下さい。私だって、
+line2 <shift> # このままではいたくないんです。けど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ここは、待つしかないか。く、もっと
+line2 <shift> # うまく、手助けしてあげたかった……）
+com09 0 69
+display
+location 57
+com11 0 2
+sound 232
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ぷ、プロデューサーさん。手なんか当てて、
+line2 <shift> # なにを？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「こう、気力を注ぎ込むというか。
+line2 <shift> # それぐらいしか、思いつかなくて」
+display
+com11 0 2
+sound 233
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「すみません。迷惑をかけてしまって。
+line2 <shift> # でも、いいです。自分でなんとか……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「できそうですか？」
+display
+com11 0 2
+sound 234
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「はい、時間さえあれば。もうすこし、もう
+line2 <shift> # すこしだけ、気持ちを整理させて下さい」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ここは、待つしかないか。オカルトめいた
+line2 <shift> # やり方じゃ、なんの助けにもならなかったな）
+com09 0 69
+display
+location 58
+com11 0 2
+sound 235
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「時間……、時間さえあれば、なんとか」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え、なんです？　あずささん」
+display
+com11 0 2
+sound 236
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「無理は承知の上なのですが、開始時間、
+line2 <shift> # 遅らせることは、できないでしょうか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「う……ややこしいことになりそうですけど、
+line2 <shift> # 手は、それしか？」
+display
+com11 0 2
+sound 237
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「お願いします……。あ、足の震えが
+line2 <shift> # 止まらなくて。このままでは、とても」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （苦しんでいるのに、ながめるだけしかでき
+line2 <shift> # なかった。行動しなきゃ、なんの意味も……）
+com09 0 69
+display
+location 69
+unk02

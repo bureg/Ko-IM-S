@@ -1,0 +1,279 @@
+com2c 0 49
+com2d 0 31
+com32 0 0
+com11 0 3
+sound 100
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「私……、おまわりさんになるんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「しかも、署長さんだ。
+line2 <shift> # ……１カ月ぐらいは、続けてもらおうかな」
+display
+com11 0 3
+sound 101
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ええ、そんなにっ！？　じゃあ、その間……、
+line2 <shift> # 歌のお仕事、できないってことですかっ？」
+com03 0 3
+choice1 <shift> # いやか？
+com09 0 10
+com08
+choice2 <shift> # 本気にするなって
+line2
+com09 0 11
+com08
+choice3 <shift> # 公務員の方が稼げるよ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いやか？」
+display
+com11 0 3
+sound 102
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「やっぱり、歌えないのは、さびしいしー……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なら……、２時間ぐらいで、終わりにしよう。
+line2 <shift> # 時間中は、一生懸命やろうな」
+display
+com11 0 3
+sound 103
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「は、はい。わかりましたっ。
+line2 <shift> # 私、がんばりまーす！」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「本気にするなって……」
+display
+com11 0 3
+sound 104
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「え。あ、あの〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やよいに１カ月も、
+line2 <shift> # こんな仕事、させるわけないだろ？」
+display
+com11 0 3
+sound 105
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ、じゃあ、署長さんは、
+line2 <shift> # やらなくてもいいんですね！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや……。
+line2 <shift> # ２時間ぐらいは、やってもらうけど」
+display
+com11 0 3
+sound 106
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「それぐらいなら、がんばれます！
+line2 <shift> # ふぅ〜。ちょっとビックリしました」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「公務員の方が稼げるよ」
+display
+com11 0 3
+sound 107
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「え……？　署長さんって、
+line2 <shift> # アイドルより、お給料いいんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「今のやよいよりは、はるかにな」
+display
+com11 0 3
+sound 108
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「知らなかったです……。そうかー、う〜ん……。
+line2 <shift> # しばらく、歌うのガマンしようかなあ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「い、いや、１カ月なんてウソだよ、ウソ。これ
+line2 <shift> # は１日署長。２時間ぐらいやったら、おしまい」
+display
+com11 0 3
+sound 109
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「そ、そうなんですかー。ああ、よかったー」
+com09 0 19
+display
+location 19
+com11 0 3
+sound 110
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「なんか、署長さんっぽいこと言わないと……。
+line2 <shift> # ううー。めざせ、交通事故ゼロー！」
+display
+com11 0 3
+sound 111
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「凶悪犯を逮捕しよーっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、いい感じだな」
+display
+com11 0 3
+sound 112
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「早速、犯人見つけに、街へＧＯ！
+line2 <shift> # それじゃ、プロデューサー、また後でっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ま、待てって、やよい！
+line2 <shift> # そんなことしたら……」
+com03 0 3
+choice1 <shift> # ファンに囲まれるぞ
+line2
+com09 0 20
+com08
+choice2 <shift> # 時間オーバーするぞ
+line2
+com09 0 21
+com08
+choice3 <shift> # 返り討ちにあうぞ
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ファンに囲まれるぞ」
+display
+com11 0 3
+sound 113
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ファンの人に？　私が？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだよ。やよいは……、
+line2 <shift> # 一応、有名人なんだから」
+display
+com11 0 3
+sound 114
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「有名人……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。だから、勝手に、
+line2 <shift> # 署内から出ないようにしよう」
+display
+com11 0 3
+sound 115
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「は、はいっ！　えへへ……。
+line2 <shift> # な、なんか、くすぐったいかも」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （小さな一日署長さんは、とまどいながらも、
+line2 <shift> # うれしそうだった……）
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「時間オーバーするぞ」
+display
+com11 0 3
+sound 116
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ、次の用事とかに、
+line2 <shift> # 間に合わなくなりますか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだ。だから、がんばるのは適度にな」
+display
+com11 0 3
+sound 117
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「適度って……。えっと……。
+line2 <shift> # めざせ、交通事故３！　ぐらい？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、ああ……」
+display
+com11 0 3
+sound 118
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ちゅ、中途半端かも〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「と、とにかく、壇上で、
+line2 <shift> # 適当にアイサツとかしてくれればいいから」
+display
+com11 0 3
+sound 119
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ううう……。
+line2 <shift> # 思いっきり、活躍したかったです……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （納得いかないって顔をしてるけど、まあいいか。
+line2 <shift> # 放っておくと、どこまでも突っ走りそうだし）
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「返り討ちにあうぞ」
+display
+com11 0 3
+sound 120
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「わ、私、負けませんっ！
+line2 <shift> # だって、署長さんだし！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「向こうは、拳銃とか凶器とか持ってる。
+line2 <shift> # それでもか？」
+display
+com11 0 3
+sound 121
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「け、拳銃？
+line2 <shift> # そんなの持ってちゃいけないんじゃ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いけないもの持ってるから、
+line2 <shift> # 犯罪者なんじゃないか……」
+display
+com11 0 3
+sound 122
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ……。う……、そうですね……。
+line2 <shift> # 返り討ち……、ううう……」
+display
+com11 0 3
+sound 123
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「プロデューサ〜、いっしょに出動しましょ〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ええ？」
+display
+com11 0 3
+sound 124
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「お、男の人がいないと、勝てないかも〜。
+line2 <shift> # プロデューサ〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （おびえたやよいにゴネられて……、なんだか、
+line2 <shift> # バタバタしたイベントになってしまった……）
+com09 0 29
+display
+location 29
+unk02

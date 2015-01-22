@@ -1,0 +1,306 @@
+com2c 0 26
+com2c 0 57
+com2c 0 48
+com2c 0 69
+com2d 0 21
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「伊織、そろそろ、ライブ……。
+line2 <shift> # あ、あれ？　いない！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もうすぐ、開演時間なのに……！
+line2 <shift> # くっ、どこへ行ったんだ！？」
+com03 0 3
+choice1 <shift> # デパートの中か！？
+line2
+com09 0 19
+com08
+choice2 <shift> # 屋上のどこかにいるのか！？
+line2
+com09 0 11
+com08
+choice3 <shift> # デパートの外に出たのか！？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 11
+com22 0 30
+com21 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「く……これだけ探したのに、どこにもいない。
+line2 <shift> # 別のとこへ！」
+com09 0 19
+display
+location 12
+com22 0 30
+com32 0 1
+com21 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「伊織ーっ！　……く、いないみたいだ。
+line2 <shift> # やっぱり、デパートのどこかに……」
+com09 0 19
+display
+location 19
+com22 0 30
+com32 0 2
+com21 0 30
+com11 0 5
+sound 300
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ふっふふ〜ん……。あら？　プロデューサー
+line2 <shift> # どうしたの？　そんな汗かいて」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「な、なんで、こんなところで、買い物してるん
+line2 <shift> # だよ？　ライブ、もうはじまるぞ！？」
+display
+com11 0 5
+sound 301
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「え……あ、忘れてた……。
+line2 <shift> # ……す、すこしぐらい問題ないわよね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなワケないだろっ！　まだデビューして
+line2 <shift> # 間もないのに、こんな……！」
+display
+com11 0 5
+sound 302
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「う……怒らなくたっていいじゃないの〜。
+line2 <shift> # ちょっと、忘れてただけでしょっ」
+display
+com11 0 5
+sound 303
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……いーわよ。遅刻するような人の歌、誰も
+line2 <shift> # 聴きたくないわよね。私、帰るっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、それは、困るよ。デパート関係者に
+line2 <shift> # 大目玉……」
+display
+com11 0 5
+sound 304
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「知らないわよー、そんなのっ」
+display
+com11 0 5
+sound 305
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「いいじゃない。どうせデパートの屋上に見に
+line2 <shift> # 来てるのなんて、みんな冷やかしでしょ！？」
+com03 0 3
+choice1 <shift> # 中には、ファンもいるよ
+line2
+com09 0 20
+com08
+choice2 <shift> # 未来のファン候補だよ？
+line2
+com09 0 21
+com08
+choice3 <shift> # 冷やかしなんて、いないよ
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「中には、ファンもいるよ」
+display
+com11 0 5
+sound 306
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「もし、いたとしても……そんなの、数える
+line2 <shift> # ほどだわ……」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「未来のファン候補だよ？」
+display
+com11 0 5
+sound 307
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「わからないじゃない。１曲だけ聴いて、
+line2 <shift> # すぐ帰っちゃうかもしれないし……」
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「冷やかしなんて、いないよ」
+display
+com11 0 5
+sound 308
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「うそつき！　私、さっき聞いたんだから。歩い
+line2 <shift> # てる人が、ヒマつぶしに見てみるかって……」
+display
+com11 0 5
+sound 309
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「怒られた上に、どうでもいいような目で見られ
+line2 <shift> # るなんて、イヤっ。私はアイドルなのよ〜！」
+display
+com11 0 5
+sound 310
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「決めた……。私、やっぱり、行かない。今日は
+line2 <shift> # このまま帰る〜。じゃ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、こらっ……！」
+display
+com22 0 30
+com32 0 3
+com21 0 30
+com11 0 5
+sound 311
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ぜぇ、ぜぇ、し、しつこいわね。あんた……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「た、頼むから……戻ろう」
+display
+com11 0 5
+sound 312
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「も、もう、ライブ終わる時間じゃないの……。
+line2 <shift> # いまさら、遅いわよ〜……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うわ！　本当だ！」
+display
+com11 0 5
+sound 313
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「い、いい気味だわ……。私を追っかけ回したり
+line2 <shift> # するから、バチが当たったのよ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （連れ戻すどころか、結局、無断でキャンセル
+line2 <shift> # してしまうなんて。最悪中の最悪だ……）
+com4b 0 2
+com09 0 39
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ほら、戻ろう。スタッフも、デパートの人も
+line2 <shift> # 待ってるよ」
+display
+com11 0 5
+sound 314
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……いやよ。スタッフも、デパートの人も、
+line2 <shift> # きっとプロデューサーみたいに怒るわ……」
+display
+com11 0 5
+sound 315
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「私、怒鳴られるの、やだもん。やっぱり帰る」
+com03 0 3
+choice1 <shift> # 俺が、うまくごまかすから
+line2
+com09 0 30
+com08
+choice2 <shift> # いっしょに、謝ろう
+line2
+com09 0 31
+com08
+choice3 <shift> # 素直に謝れば、済む話だろ？
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺が、うまくごまかすから。急にお腹こわした
+line2 <shift> # とかなんとか、理由つくって……」
+display
+com11 0 5
+sound 316
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……ほんと？」
+display
+com11 0 5
+sound 317
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「わ、わかったわよ。なら、行く……。
+line2 <shift> # バレないよう、うまい言い訳、考えてよね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よし、説得成功だ！
+line2 <shift> # ……まったく、手間がかかるな）
+com4b 0 0
+com09 0 39
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いっしょに、謝ろう」
+display
+com11 0 5
+sound 318
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「私とあんたで？　い、いやよ。私、わざと
+line2 <shift> # 遅刻したわけじゃないもん……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それでも、遅刻は遅刻だろ？　しかられそうに
+line2 <shift> # なったら、俺がフォローするから」
+display
+com11 0 5
+sound 319
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「う〜ん……、う〜ん……、うううう〜っ。
+line2 <shift> # ……………………わかったわよ、行く」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （なんとか、説得できたようだ。できれば、もう
+line2 <shift> # すこし、すんなり説き伏せたかったかな？）
+com4b 0 1
+com09 0 39
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「素直に謝れば、済む話だろ？」
+display
+com11 0 5
+sound 320
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「どうして、謝らなきゃいけないのよ。じ、時間
+line2 <shift> # 見逃すぐらい、誰だってあるじゃない……」
+display
+com11 0 5
+sound 321
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……か、考えれば考えるほど、私は悪くない
+line2 <shift> # 気がしてきたわ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お、おい、伊織……」
+display
+com11 0 5
+sound 322
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「やっぱり、私、行かなーい。悪いことしてない
+line2 <shift> # のに怒られるなんて、ソンだもんっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後、なんとか説き伏せたけど……
+line2 <shift> # 結局、ライブには大遅刻してしまった……）
+com4b 0 2
+com09 0 39
+display
+location 39
+unk02

@@ -1,0 +1,321 @@
+com2c 0 105
+com2d 0 81
+com32 0 0
+com11 0 5
+sound 400
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「さんざんでしたね、あいさつまわり。
+line2 <shift> # ＴＶ局のえらい人に、ネチネチいびられて……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、新人のうちなんて、こんなもんだよ。
+line2 <shift> # それでも、なんとか顔をつなげていこう」
+display
+com11 0 5
+sound 401
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「とくに真ん中の人、ボクを最後まで男扱いして。
+line2 <shift> # どうして、あんなイジワル言うんです？」
+com03 0 3
+choice1 <shift> # 根性を、試してるんだよ
+line2
+com09 0 10
+com08
+choice2 <shift> # 子どもなんだよ
+line2
+com09 0 11
+com08
+choice3 <shift> # 真が、気に入ったんだよ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「根性を、試してるんだよ。……と、
+line2 <shift> # 強引に考えれば、怒りもおさまらないか？」
+display
+com11 0 5
+sound 402
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そうですね。そう取ることにします。
+line2 <shift> # 逆境も、力に変えていきたいですから」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「子どもなんだよ。自分の力を見せつける
+line2 <shift> # ことでしか、満足できないんだ」
+display
+com11 0 5
+sound 403
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そんな人がえらくなれるなんて、おかしい
+line2 <shift> # です！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おかしいって言われても、それが現実だしな」
+display
+com11 0 5
+sound 404
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「……許せません。ボクだったら、あんな人、
+line2 <shift> # 絶対、出世なんかさせないのに」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「真が、気に入ったんだよ。愛のムチってやつ
+line2 <shift> # かな」
+display
+com11 0 5
+sound 405
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あの人の表情、そんな顔じゃなかったです！
+line2 <shift> # ボクがイライラしてるのを見て、楽しんで……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そうかもな。でも、気に入ったからこそ、
+line2 <shift> # いびるというか……」
+display
+com11 0 5
+sound 406
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ゆがんでますよ、そんなの。
+line2 <shift> # なら、気に入られない方が、ずっといいです」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、男扱いされた原因は、真にもあるぞ。
+line2 <shift> # 自分のこと、ずっと『ボク』って言ってたから」
+display
+com11 0 5
+sound 407
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「す、すみません……。ボク、子どもの頃に、
+line2 <shift> # 親にしつけられて、ずっとこうなんです」
+display
+com11 0 5
+sound 408
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「今さら『私』とか、すごい照れくさくて……。
+line2 <shift> # 自分の事、ボクっていうの、ヘンですか？」
+com03 0 3
+choice1 <shift> # おもしろいと思うよ
+line2
+com09 0 30
+com08
+choice2 <shift> # 一部には、受けるよ
+line2
+com09 0 31
+com08
+choice3 <shift> # 世間的にはな
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おもしろいと思うよ。
+line2 <shift> # それはそれで、いいんじゃないか？」
+display
+com11 0 5
+sound 409
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はあー、よかったー。クラスでも、こういう
+line2 <shift> # 言い方する人、誰もいないから」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「一部には、受けるよ。そういうのが、
+line2 <shift> # たまらないって人もいるから」
+display
+com11 0 5
+sound 410
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「な、なにが、たまらないんです？
+line2 <shift> # よく、わかりません〜」
+display
+com11 0 5
+sound 411
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ヘンに思われるのはイヤですけど……その逆も、
+line2 <shift> # なんかこわいですね」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「世間的にはな」
+display
+com11 0 5
+sound 412
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「……そうですよね。ボクも、ボク以外の
+line2 <shift> # 女の子が、こう言ってるの、聞いたことないし」
+display
+com11 0 5
+sound 413
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「それもこれも、父さんがっ……。って、こんな
+line2 <shift> # こと、ここで言ってもしかたないですね」
+com09 0 49
+display
+location 49
+com11 0 5
+sound 414
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、プロデューサー。ボク、さっき、キレ
+line2 <shift> # かけて、あの人に言いそうになっちゃいました」
+display
+com11 0 5
+sound 415
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そんなに男、男っていうなら、
+line2 <shift> # 『胸、さわってみろ』って」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ははは。本当にさわられて、それでも、
+line2 <shift> # 『やっぱり男だ』って、言われたりしてな」
+display
+com11 0 5
+sound 416
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そんなことありませんよ！　絶対わかります！
+line2 <shift> # ウソだと思うんなら、さわってみてください！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、おいおい……」
+display
+com11 0 5
+sound 417
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサーにまで、疑われたくは……！
+line2 <shift> # しょ、証明してみせますっ。……ほら」
+com0e 2 191
+com44
+com09 0 50
+com45
+com44
+com09 0 51
+com45
+com44
+com09 0 52
+com45
+com44
+com09 0 53
+com45
+display
+location 50
+com11 0 5
+sound 418
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「いてッ！　プロデューサー、な、なにを……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ほーら、アイドルなんだから、うかつなこと、
+line2 <shift> # 言うなって。女の子は、そんなこと言わないぞ」
+display
+com11 0 5
+sound 419
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そ、それもそうですね。ボク、ついカッと……。
+line2 <shift> # へへ、帰りましょう、プロデューサー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （冷静さを取り戻してくれた。本人に、言われた
+line2 <shift> # からって、胸なんかさわっちゃ、いけないよな）
+com09 0 69
+display
+location 51
+com11 0 5
+sound 420
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「う、ああ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ホントだ。女の子だな……。
+line2 <shift> # ん？　なに赤くなってるんだ？」
+display
+com11 0 5
+sound 421
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「い、いえ、あの……び、びっくりしたって
+line2 <shift> # いうか、あ、う、あ……」
+display
+com11 0 5
+sound 422
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「が、学校で女の子に触られるのと、男の人に
+line2 <shift> # 触られるんじゃ、こんなに。ボク、バカでした」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （顔には、ショックがありありと……。
+line2 <shift> # しまった。こんな事すべきじゃなかったな）
+com09 0 69
+display
+location 52
+com11 0 5
+sound 423
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサー、どこさわってるんです？
+line2 <shift> # そんなところ、男も女も……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、微妙にちがうから、わかるよ。
+line2 <shift> # 真は……た、たしかに女の子だ」
+display
+com11 0 5
+sound 424
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「……なんか、納得いかないな。
+line2 <shift> # どうも、その目、半信半疑のような……」
+display
+com11 0 5
+sound 425
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサー、ボク、本当に女の子なんです
+line2 <shift> # からね！　わ、忘れないでくださいよ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、真は不安そうに、何度も念を押して
+line2 <shift> # きた。別にいいけど……すこし、うるさいな）
+com09 0 69
+display
+location 53
+com11 0 5
+sound 426
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサー、なに、じっと見てるんです？
+line2 <shift> # 見てるだけじゃ、わかりっこ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、わ、わかるよ……。よくよく見ると、
+line2 <shift> # カーブしてるっていうか」
+display
+com11 0 5
+sound 427
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「よくよくって、どういう意味ですっ！？
+line2 <shift> # パッと見たって、ちゃんとカーブしてます！」
+display
+com11 0 5
+sound 428
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「それは、たしかにグラマーじゃないですけど、
+line2 <shift> # そんな言い方しなくたって……。ううっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （照れ隠しにいった言葉に、傷ついてしまった
+line2 <shift> # ようだ。ごめん、真……）
+com09 0 69
+display
+location 69
+unk02

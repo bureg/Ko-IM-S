@@ -1,0 +1,205 @@
+com2c 0 118
+com2d 0 131
+com2e 0 61
+location 100
+com11 0 0
+sound 10000
+com4c 0 1
+name 0 0 <names:1>  # ???
+line1 <shift> # 「ああっ！？　ぷ、プロデューサー？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「えっ？　その声は……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「雪歩！」
+display
+com11 0 0
+sound 10001
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「あ、雪歩。おはようなの」
+display
+com11 0 0
+sound 10002
+com4c 0 1
+name 0 0 <names:4>  # Yukiho
+line1 <shift> # 「そんな……、プロデューサー、
+line2 <shift> # 私を、見捨てて美希ちゃんを選ぶなんて……」
+display
+com11 0 0
+sound 10003
+com4c 0 1
+name 0 0 <names:4>  # Yukiho
+line1 <shift> # 「ううっ、ひどいですぅ。……うう」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、おい、泣くなって！
+line2 <shift> # 何か誤解してるぞ、雪歩」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺は社長に頼まれて、
+line2 <shift> # 美希を駅まで送っているだけで……」
+display
+com11 0 0
+sound 10004
+com4c 0 1
+name 0 0 <names:4>  # Yukiho
+line1 <shift> # 「でも……、美希ちゃんを、
+line2 <shift> # プロデュースするって……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ええっ？　そんなところまで、
+line2 <shift> # きいてたのか？」
+com03 0 3
+choice1 <shift> # 約束はしてないぞ
+line2
+com09 0 10
+com08
+choice2 <shift> # きき間違いだよ
+line2
+com09 0 11
+com08
+choice3 <shift> # 美希からも言ってくれ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、別に約束はしてないぞ！」
+display
+com11 0 0
+sound 10005
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「えー？　さっき決めたよね！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、それは美希が、
+line2 <shift> # 一方的に決めただけで、俺は……」
+display
+com11 0 0
+sound 10006
+com4c 0 1
+name 0 0 <names:4>  # Yukiho
+line1 <shift> # 「ううっ、やっぱりもう、
+line2 <shift> # 決まっちゃったことなんですね……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だから、雪歩もちゃんと、
+line2 <shift> # 話をきいてくれよ……」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それは、雪歩のきき間違いだよ！　俺達が、
+line2 <shift> # 話してたのは、プロデュースじゃなくて……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「えーと……、そう、風呂ジュース！　美希が、
+line2 <shift> # ジュースのお風呂に入ってたって話を……」
+display
+com11 0 0
+sound 10007
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「えー？　なんかベトベトしてそう……。
+line2 <shift> # ミキ、そんなお風呂には入らないよ？」
+display
+com11 0 0
+sound 10008
+com4c 0 1
+name 0 0 <names:4>  # Yukiho
+line1 <shift> # 「プロデューサー……。そんなウソまでついて、
+line2 <shift> # 隠そうとするなんて……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うう……。さすがに今のは、
+line2 <shift> # 無理矢理すぎたか……」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、違うんだ！
+line2 <shift> # ほら、美希からも言ってくれよ」
+display
+com11 0 0
+sound 10009
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「えっと、ミキとプロデューサーは、
+line2 <shift> # なんと、将来を誓い合った仲なんだよ」
+display
+com11 0 0
+sound 10010
+com4c 0 1
+name 0 0 <names:4>  # Yukiho
+line1 <shift> # 「ええええっ！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ちょ、ちょっと待て、美希！
+line2 <shift> # なんだそれはっ！」
+display
+com11 0 0
+sound 10011
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「だって、将来、ミキがデビューしたら、
+line2 <shift> # プロデュースしてねって……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ま、まぎらわしい言い方しないでくれよ……。
+line2 <shift> # 大体、誓い合ってないし」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10012
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「……う〜ん、それにしても、
+line2 <shift> # 雪歩もプロデューサーがいいんだね」
+display
+com11 0 0
+sound 10013
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「んーと、それじゃあ……」
+display
+com11 0 0
+sound 10014
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「そうだ！　半分こすればいいんだよね！？
+line2 <shift> # 昼間は雪歩で、夜はミキが使えばいいでしょ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……細かく突っ込むのもなんだが、
+line2 <shift> # その分け方は問題がないか？　特に夜とか」
+display
+com11 0 0
+sound 10015
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「そうかなー。じゃあ、プロデューサーの
+line2 <shift> # 上半分が雪歩で、下半分はミキ。これでどう？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なおさら問題あるだろ！
+line2 <shift> # わざとやってるんじゃないだろうな……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （結局、泣きじゃくる雪歩をなだめ、美希の
+line2 <shift> # お守りをしつつ、なんとか駅まで送り届けた）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （まったくもって、
+line2 <shift> # さんざんな一日の終わりだった……）
+com09 0 99
+display
+location 99
+unk02

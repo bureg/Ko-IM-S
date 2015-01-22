@@ -1,0 +1,712 @@
+com2c 0 21
+com2c 0 90
+com2d 0 71
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （はあ……。つ、疲れた……。
+line2 <shift> # 初日ってこともあって、緊張しちゃったな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （これから、律子をトップアイドルに育てるのか。
+line2 <shift> # 律子は、理論派な女の子みたいだけど……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （理論で負けないよう、しっかり先々を考えて、
+line2 <shift> # 話すようにしないとな。戦略を練らなきゃ）
+display <shift> # カタカタカタ……
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ん？　パソコンを使っているような音がするな
+line2 <shift> # ……。でも、ここは外だし、そんなわけないか）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「空耳か！　疲れてるなあ、俺！」
+display
+com11 0 0
+sound 10000
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「うわわっ！　ぷ、プロデューサー！？　んもう、
+line2 <shift> # 急に大声出して、驚かせないで下さいよっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「す、すみません！　……って、律子！？
+line2 <shift> # こんなところで座り込んで、何やってるんだ？」
+display
+com11 0 0
+sound 10001
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ノートＰＣで、作業してたんです。今日、締め
+line2 <shift> # 切りの作業、帰り道で、急に思い出しちゃって」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今日、締め切りの作業？
+line2 <shift> # あ、もしかして……」
+com03 0 3
+choice1 <shift> # 残業か？
+com09 0 10
+com08
+choice2 <shift> # 宿題か？
+com09 0 11
+com08
+choice3 <shift> # 業務上横領か？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「残業か？　７６５プロの事務仕事で、
+line2 <shift> # 何かやらなきゃならないことが、あったとか？」
+display
+com11 0 0
+sound 10002
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ええ、これからアイドル業が本格的になってき
+line2 <shift> # たら、帳簿をつけてる時間がなくなりますから」
+display
+com11 0 0
+sound 10003
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「できるだけ書類を処理しておかないと。気にな
+line2 <shift> # ったらすぐやらないと、ダメな性分なんですよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか、今朝も、事務仕事、
+line2 <shift> # 律子が、手伝っていたもんな……」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「宿題か？　律子は高校生だもんな。大変だな」
+display
+com11 0 0
+sound 10004
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「違います！　宿題なら、もうとっくに終わって
+line2 <shift> # るし、第一、わざわざ、こんな所でやりません」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうか……。
+line2 <shift> # じゃあ、こんな所で、いったい何を？」
+display
+com11 0 0
+sound 10005
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「これからアイドル業が本格的になってきたら、
+line2 <shift> # 帳簿をつけてる時間が、なくなりますから……」
+display
+com11 0 0
+sound 10006
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「できるだけ、書類を処理しておこうと思って。
+line2 <shift> # 気になったら、すぐやらないと、イヤなんです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか。今朝も、律子は、７６５プロの
+line2 <shift> # 事務仕事、手伝っていたよな。大変だな……」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「業務上横領か？」
+display
+com11 0 0
+sound 10007
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あのねぇ……。どうして私が、そんなこと、
+line2 <shift> # しなきゃいけないんですか！」
+display
+com11 0 0
+sound 10008
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「だいたい、それは、れっきとした犯罪です！
+line2 <shift> # 私のこと、何だと思ってるの！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「い、いや、軽い冗談だよ。ははは……」
+display
+com11 0 0
+sound 10009
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「何より、７６５プロには、
+line2 <shift> # 横領するほどのお金は、ありませんしね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うう、そうなのか？　そうは言っても、
+line2 <shift> # ちょっとぐらいは、あるんじゃないのか？」
+display
+com11 0 0
+sound 10010
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ないです。お金があれば、ちゃんと、
+line2 <shift> # 経理担当のスタッフを雇ってますよ」
+display
+com11 0 0
+sound 10011
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そしたら、私が、ここに座り込んで、帳簿の
+line2 <shift> # 残りを細々つける、なんてこともないわけです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そういえば、今朝も、律子は、７６５プロの事
+line2 <shift> # 務仕事、手伝ってたよな。大変そうだなあ……」
+com09 0 19
+display
+location 19
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、なにも、こんな所で座り込んで仕事しな
+line2 <shift> # くても……。事務所に戻って、やればいいのに」
+display
+com11 0 0
+sound 10012
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そうなんですけど、さっと片付けてメールで
+line2 <shift> # 送れば、戻る時間を節約できるじゃないですか」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん。それもそうだけど、
+line2 <shift> # こんな所にいちゃ、身体を冷やすぞ」
+display
+com11 0 0
+sound 10013
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「大丈夫ですってば。すぐ終わりますから。
+line2 <shift> # これだけやったら、帰ります」
+display
+com11 0 0
+sound 10014
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「プロデューサーは、どうぞ気にせず、
+line2 <shift> # 先に帰っちゃって下さい。お疲れ様です！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （律子は、こう言ってるけど、こんなところに、
+line2 <shift> # 女の子を１人で残して、帰れないよな……）
+com03 0 3
+choice1 <shift> # 俺も手伝うよ！
+line2
+com09 0 20
+com08
+choice2 <shift> # ここで見ていようか？
+line2
+com09 0 21
+com08
+choice3 <shift> # じゃあ、お疲れ！
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、俺も手伝うよ！」
+display
+com11 0 0
+sound 10015
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「……プロデューサーは、事務の経験は？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「初めてだけど？」
+display
+com11 0 0
+sound 10016
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「帳簿をつけたことは？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いえ、ないです……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （つい、迫力に負けて、
+line2 <shift> # 敬語を使ってしまった……）
+display
+com11 0 0
+sound 10017
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ないなら、足手まといにしかならないので、
+line2 <shift> # 手を出さないで下さい」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でもな、律子のプロデューサーとしては、
+line2 <shift> # アイドル業のことだけ、考えて欲しいんだよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今日だって、早く帰って、
+line2 <shift> # 明日からの仕事に、備えて欲しいし」
+display
+com11 0 0
+sound 10018
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「なるほど、それもそうですね」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ここで見ていようか？」
+display
+com11 0 0
+sound 10019
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「どうしてです？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「１人だと心細いかなあ、と……」
+display
+com11 0 0
+sound 10020
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「いえ、結構です。心細くありませんから。
+line2 <shift> # むしろ、じっと見られてると、気が散ります」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （けんもほろろって感じだな……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃあ、手伝おうか？　明日からに備えて、
+line2 <shift> # 早めに帰って、休んで欲しいし」
+display
+com11 0 0
+sound 10021
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「なるほど。それもそうですね……」
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃあ、お疲れ！」
+display
+com11 0 0
+sound 10022
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「うわー、ほんとに帰る気なんですか？
+line2 <shift> # なんだか、ビックリですよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え、帰れって言われたから……」
+display
+com11 0 0
+sound 10023
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「担当しているアイドルが、１人で事務を残業。
+line2 <shift> # 一方、プロデューサーは、さっさと帰る、と」
+display
+com11 0 0
+sound 10024
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「プロデューサーって、部下の忠誠心を、
+line2 <shift> # 刺激しないタイプの上司の、典型ですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そんな言い方しなくても……。
+line2 <shift> # 律子は、別に、俺の部下じゃないだろ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それに、今から、
+line2 <shift> # 手伝おうかなって、思ってたところだ！」
+display
+com11 0 0
+sound 10025
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「調子いいなぁ……。ほんとですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ホントだって！　信じてくれ！
+line2 <shift> # なんでも手伝うぞ。ほら、言ってくれ！」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 10026
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「じゃあ、お言葉に甘えて、お願いします」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、そうこなくっちゃ！
+line2 <shift> # で、俺は、何をすればいい！？」
+display
+com11 0 0
+sound 10027
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「書類を見やすい位置で、持っててもらえます？
+line2 <shift> # そう、その位置。そのままキープしてて下さい」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……俺は書類立ての、かわりかっ！）
+display
+com22 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そして、１０分後……）
+display
+com21 0 30
+com11 0 0
+sound 10028
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「よし、完了！　じゃ、これをメールで、
+line2 <shift> # 小鳥さんに送って……、と」
+display
+com11 0 0
+sound 10029
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あ。でも、一応プリントアウトしておいた方が、
+line2 <shift> # いい気がしてきた。やっぱり、戻ろうかな……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お、おいおい！　結局、事務所に戻るのか？
+line2 <shift> # 今から戻ってちゃ、さらに帰りが遅くなるだろ」
+display
+com11 0 0
+sound 10030
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「プロデューサーは、帰ってていいですってば。
+line2 <shift> # １部、印刷するだけですから、すぐですよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「むう……。じゃあ、俺が印刷してくる。
+line2 <shift> # 律子は、先に帰ってくれ。いいな？」
+display
+com11 0 0
+sound 10031
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あ、ちょっと、プロデューサー！」
+display
+com22 0 30
+com21 0 30
+com32 0 1
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （さてと、まずは、
+line2 <shift> # パソコンの電源をいれて、と……）
+com09 0 100
+display
+location 100
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ふぅ。とんだ道草を、くってしまった……。
+line2 <shift> # 早く書類を印刷して、俺も帰らないと！）
+display
+com22 0 30
+com21 0 30
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「はあ。一仕事終えた後に、ながめる夜空は、
+line2 <shift> # なんだか、さっきよりキレイに見えるなあ〜」
+display
+com11 0 0
+sound 10032
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「お・そ・い！　印刷に、何分かかってるんです
+line2 <shift> # か！？　ノンキに空なんか、ながめちゃって！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、あれっ！　律子！
+line2 <shift> # 先に帰れって、言ったのに……」
+display
+com11 0 0
+sound 10033
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「仕事を手伝ってもらったのに、お礼も言わずに、
+line2 <shift> # 帰るわけに、いかないじゃないですか」
+display
+com11 0 0
+sound 10034
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「一応、待ってました。でも、こんなに
+line2 <shift> # 遅くなるのなら、先に帰るのが正解だったかも」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだったのか。すまん……。実は、事務所で
+line2 <shift> # 眠り込んでた子がいて、その子と話してたんだ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうやら、アイドル候補生の１人みたいだった
+line2 <shift> # けど、ずいぶん魅力のある子だったな……」
+display
+com11 0 0
+sound 10035
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「眠り込んでた、魅力のある、アイドル候補生、
+line2 <shift> # ですか……。ふーん、それはきっと、美希ね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そう、その通り！　よくわかったな」
+display
+com11 0 0
+sound 10036
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「７６５プロは小さな事務所ですから。事務も担
+line2 <shift> # 当している私が、知らないはずないでしょう？」
+display
+com11 0 0
+sound 10037
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「それにあの子、いつも事務所で寝てるから、
+line2 <shift> # 私が、よく世話をさせられてたんです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「へえ、そうなのか」
+display
+com11 0 0
+sound 10038
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ま、美希は、まだ正式なアイドル候補生じゃ
+line2 <shift> # ないんですけどね。見習い、ってところ」
+display
+com11 0 0
+sound 10039
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「才能だけなら、７６５プロのアイドル候補生の
+line2 <shift> # 中でも、トップクラスなんでしょうけど……」
+display
+com11 0 0
+sound 10040
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「性格に難あり、ね。常識がないというか、
+line2 <shift> # やる気がないというか……」
+display
+com11 0 0
+sound 10041
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「アイドルとしての自覚に欠ける部分があるんで、
+line2 <shift> # まだ見習い扱いってわけ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「へえ〜。そんなにすごい才能の、
+line2 <shift> # 持ち主なのか？」
+display
+com11 0 0
+sound 10042
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「秘めたポテンシャルはすごい、はず。
+line2 <shift> # 社長は、そう言ってました」
+display
+com11 0 0
+sound 10043
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「もっとも、本気を出した美希を、
+line2 <shift> # 誰も見たことないから……」
+display
+com11 0 0
+sound 10044
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「実際のところはどうなのか、
+line2 <shift> # 私には、わからないですけど」
+display
+com11 0 0
+sound 10045
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「でも、少なくとも私よりは、アイドルの素質は、
+line2 <shift> # あるわ。がんばって欲しいって、思ってます」
+com03 0 3
+choice1 <shift> # 冷静だな
+com09 0 40
+com08
+choice2 <shift> # 弱気だな
+com09 0 41
+com08
+choice3 <shift> # 俺もそう思う
+line2
+com09 0 42
+com08
+com07
+com09 0 42
+com08
+display
+location 40
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ずいぶん、冷静なんだな。
+line2 <shift> # 自分を卑下してるのか？」
+display
+com11 0 0
+sound 10046
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「違います。分析の結果を話してるだけですよ。
+line2 <shift> # 敵を知り己を知れば、百戦危うからず」
+display
+com11 0 0
+sound 10047
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「自分自身の実力を、客観的かつ冷静に把握
+line2 <shift> # することは、大切でしょ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さすが律子……」
+com09 0 49
+display
+location 41
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「何だか弱気だなあ。これからアイドル業を、
+line2 <shift> # 始めようって人の、言葉じゃないと思うぞ？」
+display
+com11 0 0
+sound 10048
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「はあ〜あ。わかってないわねえ。
+line2 <shift> # 今のは、弱気から出た言葉じゃないんですよ」
+display
+com11 0 0
+sound 10049
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「自分自身の実力を、客観的かつ冷静に把握
+line2 <shift> # することは、勝負をする上で最も大切なんです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「な、なるほど……」
+com09 0 49
+display
+location 42
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺も、そう思う。美希みたいなセクシーダイナ
+line2 <shift> # マイトな子を、プロデュースしたかったなあ」
+display
+com11 0 0
+sound 10050
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「……すみませんね、ダイナマイトでなくて。
+line2 <shift> # どうせ私は、せいぜい火打ち石ってとこですよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、いや、そんなこと言ってないじゃないか。
+line2 <shift> # ははは……」
+display
+com11 0 0
+sound 10051
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「フォローは、結構です。自分のことは、
+line2 <shift> # 自分が、一番、よくわかってますから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうか……」
+display
+com11 0 0
+sound 10052
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「でも……」
+com09 0 49
+display
+location 49
+com11 0 0
+sound 10053
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「美希がスゴイからって勝算が全くないわけじゃ
+line2 <shift> # ないし。デビューする以上、勝ちにいかないと」
+display
+com11 0 0
+sound 10054
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そのために必要な努力なら、惜しみません。
+line2 <shift> # ムダな努力は、まっぴらゴメンですけど！」
+display
+com11 0 0
+sound 10055
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「私は私なりに、やっていきます。だから、
+line2 <shift> # プロデューサー、足を引っ張らないで下さいね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「手厳しいな。ただ、律子にアイドルとしての
+line2 <shift> # 自覚があることは、よくわかった。心強いよ」
+display
+com11 0 0
+sound 10056
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ふふっ。この程度の挑発には乗らない……、か。
+line2 <shift> # プロデューサー、なかなか大人ですねえ」
+display
+com11 0 0
+sound 10057
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「見所あり、ってところね。これから、
+line2 <shift> # よろしくお願いしますよ、プロデューサー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おお！　大人な俺に、ドーンと任せとけ！」
+display
+com11 0 0
+sound 10058
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「う……。そうやって、すぐ調子にのるところは、
+line2 <shift> # 子どもっぽい感じがしますけどね……」
+display
+com11 0 0
+sound 10059
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「それじゃ、今日は失礼します。仕事、
+line2 <shift> # 手伝ってくれて、ありがとうございました！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （事務仕事もこなし、俺よりも疲れているはずの
+line2 <shift> # 律子は、さわやかに笑って帰っていった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……疲れたなんて言ってる場合じゃない。律子
+line2 <shift> # の手助けができるようやるだけやらないとな！）
+com09 0 99
+display
+location 99
+unk02

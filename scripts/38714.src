@@ -1,0 +1,343 @@
+com2c 0 17
+com2d 0 73
+com32 0 0
+com11 0 2
+sound 800
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「あの〜……、リハーサル、
+line2 <shift> # まだ始められないんですかぁ？」
+display
+com11 0 2
+sound 801
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「もう待機に入ってから、随分
+line2 <shift> # 経ちますけど？　待ち疲れましたよ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「呼び出しがかからないな。さっきスタッフに
+line2 <shift> # 問い合わせたんだけど、どうも連絡が遅い」
+display
+com11 0 2
+sound 802
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「現場で長々と待たされるのってイヤだなぁ。
+line2 <shift> # あっ、プロデューサー、携帯鳴ってますよ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おっと、やっと来たか。はい、もしもし……。
+line2 <shift> # 状況は……、む、そうですか……」
+display
+com11 0 2
+sound 803
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「スタジオスタッフからの連絡ですね。
+line2 <shift> # 向こうはなんて言ってます？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、こりゃまいったね」
+display
+com11 0 2
+sound 804
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ん？　なにか問題でもあったんですか？
+line2 <shift> # はっきり教えてくださいよぉ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （まずいな、他グループのリハ時間がずれ込んで
+line2 <shift> # こっちの持ち時間が減らされたらしいぞ……）
+com03 0 2
+choice1 <shift> # 事実を正直に伝える
+line2
+com09 0 10
+com08
+choice2 <shift> # やんわりとごまかす
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「すまない、実は……」
+display
+com11 0 2
+sound 805
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「え〜っ！　な、なんで、
+line2 <shift> # 他のグループの遅れのフォローなんかっ！」
+display
+com11 0 2
+sound 806
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「……と言いたいところだけど、やるしかないか。
+line2 <shift> # 持ち時間は厳しいけど、なんとかやってみます」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「頼むぞ、律子。頼りにしてるぞ」
+display
+com11 0 2
+sound 807
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「失敗しても大目に見てくださいよ？」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああっと、もうこんな時間か！
+line2 <shift> # ささ、律子、いそいでスタンバイしよう」
+display
+com11 0 2
+sound 808
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「あのう、さっきからとっくに
+line2 <shift> # スタンバってるんですけどぉ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そうだったな、とにかく残り時間がない、
+line2 <shift> # さくっと終わらせよう」
+display
+com11 0 2
+sound 809
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「やっと出番ですか。はいはい。
+line2 <shift> # まかせなさいって」
+display
+com11 0 2
+sound 810
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「でも、なんでこんなに遅い開始に？
+line2 <shift> # トラブルでもあったんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「気にするな、問題ない。
+line2 <shift> # それより、短時間で集中しよう、な？」
+com09 0 29
+display
+location 29
+com22 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、なんとかリハーサルは終えたが、
+line2 <shift> # 時間不足により駆け足の進行だった……）
+display
+com21 0 30
+com11 0 2
+sound 811
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「なんかスタジオの段取りが雑だったなぁ、
+line2 <shift> # カメラチェックもいい加減な気がするし」
+display
+com11 0 2
+sound 812
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「できるだけきちんとやったつもりですけど……、
+line2 <shift> # あんなテキトーなリハでよかったんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「しょうがないよ、タイムアップだ。
+line2 <shift> # 念入りにリハする時間はなかったし」
+display
+com11 0 2
+sound 813
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「きちんとリハーサルしてくれなきゃ、
+line2 <shift> # 本番に影響でるじゃないですか！」
+display
+com11 0 2
+sound 814
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「スタジオ側に手を抜かれたら、こっちが
+line2 <shift> # 本番で恥かくかもしれないんですよ！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それはそうだが……」
+display
+com11 0 2
+sound 815
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「もう、文句言ってやるっ！
+line2 <shift> # いい加減な仕事されてたまるかって！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、落ちつけ律子っ」
+com03 0 3
+choice1 <shift> # 文句あるなら俺を責めろ
+line2
+com09 0 30
+com08
+choice2 <shift> # 誰に文句を言うつもり？
+line2
+com09 0 31
+com08
+choice3 <shift> # 現場では現場に従え
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「文句あるなら俺を責めろ。
+line2 <shift> # 八つ当たりは俺にしろ」
+display
+com11 0 2
+sound 816
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「八つ当たりじゃないですよ、
+line2 <shift> # ただ私は当然の主張をしたいだけでっ」
+display
+com11 0 2
+sound 817
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「プロデューサーは、他のしわ寄せをこっちに
+line2 <shift> # 回されて、悔しくないんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、シャクだね。でもいちいちむかっ腹を
+line2 <shift> # 立てていられないだろう？　これも仕事だ」
+display
+com11 0 2
+sound 818
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「仕事だって言われても！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「腹を立てるよりも、笑顔ですっきり仕事を
+line2 <shift> # すませるのが先だ。さぁ、本番に備えよう」
+display
+com11 0 2
+sound 819
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「む、むぅ……、わかりましたよぉ。
+line2 <shift> # でも、泣き寝入りなんてイヤですよ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （俺は、本番終了後に、スタジオ側代表と
+line2 <shift> # 協議することを、律子に約束した）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （律子は冷静さを取り戻して、
+line2 <shift> # 現場に戻ってくれたようだ……）
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「誰に文句を言うつもりなんだ？」
+display
+com11 0 2
+sound 820
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そりゃもちろんスタジオにっ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「遅れはスタジオのせいなのか？」
+display
+com11 0 2
+sound 821
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「元はといえばうちらの前のグループが進行が
+line2 <shift> # 遅かったからで、じゃあそっちに文句をっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そのグループの遅れの原因はなんだ？」
+display
+com11 0 2
+sound 822
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そ、そんなの知りませんよ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「知らないところへいきなり文句を
+line2 <shift> # 言うのは、筋が通らないだろう」
+display
+com11 0 2
+sound 823
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「むっ、そ、そうかもしれないけど……って、
+line2 <shift> # それこそへりくつじゃないですかぁ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、つまりな、深い事情があるかも
+line2 <shift> # しれないから、少しは察しようってことだよ」
+display
+com11 0 2
+sound 824
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そんなに察しがよければ、
+line2 <shift> # いちいち腹立てたりしませんよぉ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （律子はしばらくやるせない様子だったが、
+line2 <shift> # なんとか冷静さを取り戻し、本番へ向かった）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （理不尽かもしれないが、自分達の仕事を
+line2 <shift> # 進めなければならないんだ、耐えてくれ律子）
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「現場では現場の指示に従うものだぞ？
+line2 <shift> # 多少のグチは自分で飲み込むんだ」
+display
+com11 0 2
+sound 825
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「でも理不尽ですよ！　納得いかないことを
+line2 <shift> # 黙っていられるほどお人よしじゃない、私はっ」
+display
+com11 0 2
+sound 826
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「プロデューサーは、他のしわ寄せを
+line2 <shift> # こっちに回されて、悔しくないんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「悔しくないといえば嘘になるけど」
+display
+com11 0 2
+sound 827
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「でしょ？　だったら、
+line2 <shift> # 言わなきゃ損ですよ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「リハは無事終わったんだ、波風立てる
+line2 <shift> # 必要はないよ。まだ本番控えてるんだし」
+display
+com11 0 2
+sound 828
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「波風じゃなくてっ……！　不平不満は
+line2 <shift> # 主張しなきゃ、いつか足元見られますよ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「しかしもう時間がないし、
+line2 <shift> # 今回はさらっと流してくれないか」
+display
+com11 0 2
+sound 829
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「むぅ、プロデューサーがそんな態度だと
+line2 <shift> # 余計に許せない感じになってきたっ……！」
+display
+com11 0 2
+sound 830
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「よし決めた。断固、抗議しよう！
+line2 <shift> # スタジオ側のチーフに直接抗議しますっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、おい待て律子っ！　……ダメだ、行って
+line2 <shift> # しまった。ほんとに文句言いに行ったのか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ああ、気持ちはわかるがカンベンしてくれ律子。
+line2 <shift> # 事態の収拾は困難を極めそうだな……）
+com09 0 49
+display
+location 49
+unk02

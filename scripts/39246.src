@@ -1,0 +1,273 @@
+com2c 0 53
+com2d 0 71
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「律子、ここにいたのか。ちょっと軽い
+line2 <shift> # 打ち合わせを……、あれ？　何してるんだ？」
+display
+com11 0 3
+sound 1100
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ああっと、別に！
+line2 <shift> # な、なんでもないですよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんな、隠さなくても。なにか
+line2 <shift> # 帳簿みたいなの書いて、計算してたろ？」
+display
+com11 0 3
+sound 1101
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「むぅ、見つかったか……仕方ない。
+line2 <shift> # これはね、未来の芸能事務所の採算予測です」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「採算予測ぅ？　事務所の？」
+display
+com11 0 3
+sound 1102
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ええ、将来の経営のことを考えて、ね。
+line2 <shift> # シミュレートしてるんです」
+com03 0 2
+choice1 <shift> # 何故そんなことを？
+line2
+com09 0 10
+com08
+choice2 <shift> # ありがとう、助かるよ
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「何故そんなことを？」
+display
+com11 0 3
+sound 1103
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あれ？　プロデューサーには
+line2 <shift> # 言いませんでしたっけ？」
+display
+com11 0 3
+sound 1104
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「私、将来的には独立して、
+line2 <shift> # 自分で芸能事務所を起こしたいんです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「な、なるほどぉ。
+line2 <shift> # そのための試算だったのか」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ありがとう、助かるよ。うちの事務所の
+line2 <shift> # 経営を心配してくれてるんだな」
+display
+com11 0 3
+sound 1105
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「え？　違いますよぉ。
+line2 <shift> # これはあくまで、私の将来の予測」
+display
+com11 0 3
+sound 1106
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「言いませんでしたっけ？
+line2 <shift> # 私、独立して事務所作るって」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええっ！　ウチから独立するのか？」
+display
+com11 0 3
+sound 1107
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あ〜、今すぐにってわけじゃなくて、
+line2 <shift> # 遠い将来の話だけど……」
+display
+com11 0 3
+sound 1108
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「自分で芸能事務所起こしたくて。
+line2 <shift> # だからこれは、その経営の試算」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ふぅむ、なるほどね」
+com09 0 29
+display
+location 29
+com11 0 3
+sound 1109
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「まぁ、まだ先の話。とりあえず今は、アイドル
+line2 <shift> # 続けるの。今の事務所で、もうしばらくはね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「律子、アイドルタレントとしての自分も
+line2 <shift> # 楽しんでるんじゃないか？　最近は」
+display
+com11 0 3
+sound 1110
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「うん、ステージ立ってアイドルするのも、
+line2 <shift> # けっこう面白いね……」
+display
+com11 0 3
+sound 1111
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ああ、それと、近頃はプロデューサーにも
+line2 <shift> # 興味が出てきたかな？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ！　俺に興味が！？」
+display
+com11 0 3
+sound 1112
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「へ、変な意味じゃないですよっ！
+line2 <shift> # あくまで職業的に、興味がある、それだけ」
+display
+com11 0 3
+sound 1113
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「考え方、方法、手腕……将来の参考にと。
+line2 <shift> # つまり、観察させてもらってるわけよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「か、観察、ねぇ……」
+com03 0 2
+choice1 <shift> # 光栄だな
+com09 0 30
+com08
+choice2 <shift> # 俺、参考になってるか？
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そりゃ光栄だな」
+display
+com11 0 3
+sound 1114
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「でしょ？　プロデューサーどのの仕事の仕方も
+line2 <shift> # 以前に比べると、マシになってきたから……」
+display
+com11 0 3
+sound 1115
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「少しは見るべきところがあるかな？　なんて、
+line2 <shift> # 私も思い始めてね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おお、やっと気づいたか、俺の実力に」
+display
+com11 0 3
+sound 1116
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「こら、調子に乗るな駆け出しプロデューサー。
+line2 <shift> # 社長に比べたらまだまだですよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そういや社長は、今後の活動方針、どう考えて
+line2 <shift> # いるんだろうな？」
+display
+com11 0 3
+sound 1117
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「社長なりの考えもあると思うけど、
+line2 <shift> # 当分は、プロデューサーに任せるつもりでしょ」
+display
+com11 0 3
+sound 1118
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「だから……、これからもしっかり
+line2 <shift> # 頼みますよ、プロデューサー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ま、まかせとけ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （なんだかんだ言いつつも、プロデューサーである
+line2 <shift> # 俺のことを、律子は認めてくれつつあるようだ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今後とも、しっかり足並み揃えて、
+line2 <shift> # 頑張っていきたいな……）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺って、参考になってるか？」
+display
+com11 0 3
+sound 1119
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「う〜ん、正直いまいち頼りないからなぁ。
+line2 <shift> # あまり将来の参考にはならないんだけど」
+display
+com11 0 3
+sound 1120
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ま、それでも一番身近にいるプロデューサー
+line2 <shift> # どのだから。失敗例も含めて見ておきたいし」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「むむむっ、はっきり
+line2 <shift> # キツいこと言うねぇ……」
+display
+com11 0 3
+sound 1121
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「やっぱり社長に比べたら半人前ですよ、
+line2 <shift> # 新参プロデューサーどの？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「社長かぁ……そういえばあの人のことを
+line2 <shift> # よく知らないままだな、俺」
+display
+com11 0 3
+sound 1122
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ああ、それなら、社長の人となりについては、
+line2 <shift> # よければ今度、私が教えますよ」
+display
+com11 0 3
+sound 1123
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「私が学んだ、社長流の
+line2 <shift> # 仕事の仕方も一緒にね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか、頼む律子。あてにするぞ」
+display
+com11 0 3
+sound 1124
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あっはは……な〜に言ってるんだか。もっと
+line2 <shift> # 自分のやり方にも自信持ってくださいよぉ？」
+display
+com11 0 3
+sound 1125
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「プロデューサーどのの仕事ぶりも、
+line2 <shift> # 多少は板についてきてるんだから。ね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （律子は品定めするみたいに俺を見て笑った）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺って結局おちょくられてるのか、
+line2 <shift> # それとも期待されてるのかな……？）
+com09 0 49
+display
+location 49
+unk02

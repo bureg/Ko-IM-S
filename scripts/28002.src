@@ -1,0 +1,371 @@
+com2c 0 39
+com2d 0 41
+com2e 0 44
+com32 0 0
+com11 0 4
+sound 700
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「写真集の、水着カット撮影？
+line2 <shift> # 歌手の仕事とは、まるで無縁では……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんな顔、しないでくれよ。ほら、アイドルと
+line2 <shift> # 水着は、切っても切り離せないだろ？」
+display
+com11 0 4
+sound 701
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……切り離せます」
+com03 0 3
+choice1 <shift> # 社長が、泣くよ？
+line2
+com09 0 10
+com08
+choice2 <shift> # 出版社が、泣くよ？
+line2
+com09 0 11
+com08
+choice3 <shift> # ファンが、泣くよ？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「社長が、泣くよ？　水着ナシに変更なんて、
+line2 <shift> # とても押し切れる話じゃないし」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「出版社が、泣くよ？　水着ナシの写真集なんて、
+line2 <shift> # 今の人気じゃ、売れるはずないんだから」
+display
+com11 0 4
+sound 702
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ＣＤとはちがいます。たとえ売れても、
+line2 <shift> # 手放しでは、よろこべません」
+com09 0 91
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ファンが、泣くよ？　水着ナシの写真集なんて、
+line2 <shift> # 開いた途端、ガッカリだ」
+display
+com11 0 4
+sound 703
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そんな期待しかしないのは、本当のファンじゃ
+line2 <shift> # ない証拠です」
+com09 0 91
+display
+location 91
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「頼むよ、千早。
+line2 <shift> # 頭下げるから、この通り！」
+com09 0 29
+display
+location 29
+com11 0 4
+sound 704
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はぁ……わかりました。
+line2 <shift> # 困らせるのが、本意ではないですから」
+display
+com22 0 30
+com21 0 30
+com11 0 4
+sound 705
+com4c 0 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「どうして、ジロジロ見るんです？
+line2 <shift> # ……いやらしい」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「チェックしただけだよ。そうケンカ腰に
+line2 <shift> # なるなって。……うん、似合ってる」
+display
+com11 0 4
+sound 706
+com4c 0 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ほめられても……。本当に私の水着なんて見て、
+line2 <shift> # よろこぶ人、いるんですか？」
+com03 0 3
+choice1 <shift> # 多分、いると思うよ
+line2
+com09 0 30
+com08
+choice2 <shift> # くさるほど、いるって
+line2
+com09 0 31
+com08
+choice3 <shift> # ここに、いるじゃないか
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「多分、いると思うよ」
+display
+com11 0 4
+sound 707
+com4c 0 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そう多くないことを、祈ります。
+line2 <shift> # まあ、いるなら、これくらいのガマンは……」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「くさるほど、いると思うよ」
+display
+com11 0 4
+sound 708
+com4c 0 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「く、くさるほど？　そんなの、ゆがんでます」
+display
+com11 0 4
+sound 709
+com4c 0 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「私、負けません。いつか、歌の方がずっと
+line2 <shift> # 価値があるって、わからせてみせます」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ここに、いるじゃないか」
+display
+com11 0 4
+sound 710
+com4c 0 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「…………お世話になりました」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「な、ナーバスになるなよっ。こんなジョーク
+line2 <shift> # ぐらい、笑って受け流せるだろ」
+display
+com11 0 4
+sound 711
+com4c 0 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「やめてください、そういうの。パートナーと
+line2 <shift> # しての信頼に、関わります」
+com09 0 49
+display
+location 49
+com11 0 4
+sound 712
+com4c 0 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はあ……それにしても、理解できません。こう
+line2 <shift> # いう格好、もっと似合う人、大勢いますよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、そうだな。水着になるために、
+line2 <shift> # 生まれてきたようなアイドルも、いるし」
+display
+com11 0 4
+sound 713
+com4c 0 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「だったら、その人を見ればいいじゃないですか。
+line2 <shift> # 私なんかが、こんなことする必要……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……いや、千早の、ここだけは圧巻だから」
+com0e 1 149
+com44
+com09 0 50
+com45
+com44
+com09 0 51
+com45
+com44
+com09 0 52
+com45
+com44
+com09 0 53
+com45
+com44
+com09 0 54
+com45
+display
+location 50
+com11 0 4
+sound 714
+com4c 0 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ウエストラインですか？　とくに自分では、
+line2 <shift> # すごいとは……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「これだけ、ウエストが引き締まってるアイドル
+line2 <shift> # は、いないからな。純粋に、感動するよ」
+display
+com11 0 4
+sound 715
+com4c 0 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「たしかに、きたえてはいますけど……意外な
+line2 <shift> # 副産物ですね」
+display
+com11 0 4
+sound 716
+com4c 0 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「うれしくはないですよ？
+line2 <shift> # ただ……悪い気はしないです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （素直に、よろこべばいいのに。千早の体の
+line2 <shift> # すごいところ、的確に指摘してあげられたかな）
+com09 0 69
+display
+location 51
+com11 0 4
+sound 717
+com4c 0 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そこ……？　プロデューサー、もしかして、
+line2 <shift> # からかってません？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなこと、ないよ。控え目で、魅力的と
+line2 <shift> # いうか」
+display
+com11 0 4
+sound 718
+com4c 0 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……さっき、圧巻とか言いませんでしたか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だからっ、その……控え目さが、圧巻なんだよ。
+line2 <shift> # そこまで控えるのは、普通の人にはとても……」
+display
+com11 0 4
+sound 719
+com4c 0 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……よく、わかりました。やはり、からかって
+line2 <shift> # るんですね。私、帰ります」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （しまった、完全に怒らせてしまった。もっと
+line2 <shift> # よく見て、いいところ、探すべきだった）
+com09 0 69
+display
+location 52
+com11 0 4
+sound 720
+com4c 0 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「腕なんて、たいしてすごいとは、思いません
+line2 <shift> # けど？　どう、よく見えるんです？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「細いけど、こう、ムチのようというか。
+line2 <shift> # 筋肉のつき方が、いいと思う」
+display
+com11 0 4
+sound 721
+com4c 0 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ありがとうございます……。自分では、そんな
+line2 <shift> # 意識、全然なかったです」
+display
+com11 0 4
+sound 722
+com4c 0 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「けど、腕なんて、舞台衣装でも、見えてます
+line2 <shift> # よね？　水着だから、どうこうというのは……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （う、言われてみれば、そうか。まあ、でも、
+line2 <shift> # 水着だと、いっそう目立つことも確かだ）
+com09 0 69
+display
+location 53
+com11 0 4
+sound 723
+com4c 0 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そんなところ、水着だから、とくに
+line2 <shift> # どうこうってことは、ないですよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうかな。俺は、そここそが最大の魅力だと
+line2 <shift> # 思ったんだけど」
+display
+com11 0 4
+sound 724
+com4c 0 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「本当ですか？　圧巻なんて、適当に言った
+line2 <shift> # だけという気も……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そんなこと、ないよ。なんなら、もっと
+line2 <shift> # じっくり探しても……」
+display
+com11 0 4
+sound 725
+com4c 0 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「い、いいです。あまり、しげしげ見られるの、
+line2 <shift> # 気持ちよくないですから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （申し出は、あっさり断られてしまった。もっと
+line2 <shift> # すごいところが、別にあった気もするな）
+com09 0 69
+display
+location 54
+com11 0 4
+sound 726
+com4c 0 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサー、なにをじっと見て。
+line2 <shift> # 圧巻なところなんて、ありますか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あるよっ、あるに決まって……るだろ」
+display
+com11 0 4
+sound 727
+com4c 0 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「どうして、言いよどんだり……。
+line2 <shift> # まさか、適当なことを？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そういう視線は、向けてほしくないな。
+line2 <shift> # いま、一生懸命、探してるんだから」
+display
+com11 0 4
+sound 728
+com4c 0 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「やはり、そういうこと……。いいです。無理に、
+line2 <shift> # なにか、言ってもらいたくはないです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ピシャリと言われてしまった。よく考えると、
+line2 <shift> # 千早なりに、すごいとこ、ある気がするな）
+com09 0 69
+display
+location 69
+unk02

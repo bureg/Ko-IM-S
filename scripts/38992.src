@@ -1,0 +1,279 @@
+com2c 0 44
+com2d 0 71
+com32 0 0
+com11 0 3
+sound 300
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ああもう！　全然コーラスが決まらないっ！
+line2 <shift> # なんでつまんない失敗繰り返すかなぁ、私っ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「律子、そうカンシャク起こすなよ……。
+line2 <shift> # もうスタジオの残り時間も少ないぞ」
+display
+com11 0 3
+sound 301
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「わかってますよ、そんなことくらい！」
+display
+com11 0 3
+sound 302
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「もう時間がないから、うまくできない自分に、
+line2 <shift> # イラついてるんじゃないですかぁ……」
+com03 0 2
+choice1 <shift> # スパートかけよう
+line2
+com09 0 10
+com08
+choice2 <shift> # 辛いのはわかるけど
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「さ、気を取り直して、スパートかけよう！
+line2 <shift> # いつまでも失敗を引きずるんじゃないぞ？」
+display
+com11 0 3
+sound 303
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「べ、別に引きずってるわけじゃないっ。
+line2 <shift> # それに、機材もなんか変な調子でやりにくくて」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なら、機材は取り替えるか」
+display
+com11 0 3
+sound 304
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「あ、あと、オケが、よくきこえなくて……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ならオケは調整しよう。さ、続けるぞ」
+display
+com11 0 3
+sound 305
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「は、はい」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「詰まってきて、辛いのはわかるけど。
+line2 <shift> # まぁ、マイペースでかまわないよ」
+display
+com11 0 3
+sound 306
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「か、かまわないって？　私は、まだまだ全力で
+line2 <shift> # やれます。のんびりするつもりはないですよっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「のんびりやれとは言ってないが……」
+display
+com11 0 3
+sound 307
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「別に辛くないし、それに、私の不調なんじゃ
+line2 <shift> # なくて、機材が悪くて……、だから、それで」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「無理しなくていいぞ？
+line2 <shift> # 機材は問題ないって、エンジニアからきいた」
+display
+com11 0 3
+sound 308
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「む、むぅ……」
+com09 0 29
+display
+location 29
+com22 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後も、しばらくリテイクを続けた。
+line2 <shift> # しかし……）
+display
+com21 0 30
+com11 0 3
+sound 309
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ああ、煮詰まった。よくない意味で。
+line2 <shift> # 詰まった。はぁ、困ったもんだ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「律子ののども疲れてきてるな。身体的にも、
+line2 <shift> # スタジオ時間的にも、もう限界に近いか？」
+display
+com11 0 3
+sound 323
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「う〜ん、確かに。我ながらこれは、
+line2 <shift> # ちょっとマズそうね……、続けられるか」
+display
+com11 0 3
+sound 311
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「でも、もうちょいで、ばっちり決まりそうな、
+line2 <shift> # 気もしてるからなぁ……。どうするかな」
+com03 0 3
+choice1 <shift> # 落ち着くまで小休止しよう
+line2
+com09 0 30
+com08
+choice2 <shift> # 強引に録音を続ける
+line2
+com09 0 31
+com08
+choice3 <shift> # 今回はあきらめるか
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、一旦中断して、
+line2 <shift> # 落ち着くまで小休止しようか」
+display
+com11 0 3
+sound 312
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そんな悠長な！　もう時間ないって、
+line2 <shift> # 言ったじゃないですかっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「確かにないが、慌てても失敗が増えるだけだ。
+line2 <shift> # とりあえず、腹減ってないか？」
+display
+com11 0 3
+sound 313
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「えっ？　あ……、なにかもらえますか？
+line2 <shift> # 実は、お腹減って力が出なくて……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうりで声が弱ってるはずだ、よし、
+line2 <shift> # 外へ出よう。軽く食べようか」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （気分転換を兼ね食事をとった。律子の気力体力
+line2 <shift> # はばっちり回復できたみたいだ。そして……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （残り少ないスタジオの持ち時間で、見違える
+line2 <shift> # ようなベストテイクを決めることができた！）
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もうタイムアップが、近いからな……。
+line2 <shift> # 強引かもしれないけど、録音は続けるぞ」
+display
+com11 0 3
+sound 314
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ええ！　私も、もうちょっと頑張ってみます
+line2 <shift> # ぎりぎりまで……、やれるだけやっとかないと」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「しかし、だんだん声に、パワーがなくなって
+line2 <shift> # きてるな……。なあ律子、ほんとに大丈夫か？」
+display
+com11 0 3
+sound 315
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「残り時間わずかなんだから、
+line2 <shift> # ここで勝負かけてみせますよ！」
+display
+com11 0 3
+sound 316
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「知ってるでしょ？　私、ここ一番には、
+line2 <shift> # 強いんです、まかせて下さい！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「焦るなよ、焦ればミスが多くなる」
+display
+com11 0 3
+sound 317
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「わ、わかってますってばぁ！
+line2 <shift> # 言われなくたってぇ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （そして律子は、今回最後の録音に挑んだ。
+line2 <shift> # どうやらリラックスは、できたようだ……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （声の張りは今ひとつだったものの、無駄な力を
+line2 <shift> # 抜いた柔らかい歌を録音することができたぞ！）
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「仕方ない、今回はあきらめるか」
+display
+com11 0 3
+sound 318
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「あきらめるなんて！　そんな、できませんよ！
+line2 <shift> # 私、這ってでもやります！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「む、無茶言うなよ。声が、だんだん元気、
+line2 <shift> # なくなってきてるぞ？　無理は、よくないって」
+display
+com11 0 3
+sound 319
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「無理じゃないっ！　やればやる、
+line2 <shift> # やってみせる、気合いと根性でっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「気合いと根性、って……。
+line2 <shift> # そういうの嫌いじゃなかったっけ、律子？」
+display
+com11 0 3
+sound 320
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「あ、いや、その……、そうでもしないと、
+line2 <shift> # 時間内に収録終わんないっていうか」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だ、だから無理やりやるなって、
+line2 <shift> # 次の機会に賭けよう」
+display
+com11 0 3
+sound 321
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そんな、賭けのつもりなら、
+line2 <shift> # 今でも後でも、変わらないですよ」
+display
+com11 0 3
+sound 322
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「だったらなんとか、今、
+line2 <shift> # しないと……、げほごほっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ほ、ほら言わんこっちゃない！
+line2 <shift> # と、とにかく休けいだ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （律子は無理に強気でしゃべりすぎたせいか、
+line2 <shift> # のどを痛めてしまったようだ）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （これでは録音再開は無理だな。あきらめるしか
+line2 <shift> # ない。律子は、残念そうに、うなだれた……）
+com09 0 49
+display
+location 49
+unk02

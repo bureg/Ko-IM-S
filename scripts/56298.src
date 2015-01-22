@@ -1,0 +1,551 @@
+com2c 0 21
+com2c 0 118
+com2d 0 121
+com2e 0 111
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そうだ！　今日は、いつもと違う道に、
+line2 <shift> # 寄り道して、帰ってみようかな？）
+com03 0 2
+choice1 <shift> # どこかに寄り道する
+line2
+com09 0 10
+com08
+choice2 <shift> # まっすぐ帰る
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （たまには、どこかに寄り道しよう。
+line2 <shift> # 気分も変わるだろうし！）
+display
+com22 0 30
+com21 0 30
+com32 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「静かな夜だなあ……。
+line2 <shift> # でも、静かすぎて、何か出てきそうな気もする」
+display
+com11 0 0
+sound 10000
+com4c 0 1
+name 0 0 <names:2>  # ???
+line1 <shift> # 「……出てきなさい」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……ん？　なんだ、今の声は？）
+display
+com11 0 0
+sound 10001
+com4c 0 1
+name 0 0 <names:2>  # ???
+line1 <shift> # 「…………早く、出てきなさい。
+line2 <shift> # でも……、出てこないで……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （なんだ……？　もしかして、本当に、
+line2 <shift> # お化けとか……？）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （くっ、正体はわからないが、このままでは、
+line2 <shift> # らちがあかない！　何か反応しないと！）
+com03 0 3
+choice1 <shift> # はぁ〜い！
+com09 0 20
+com08
+choice2 <shift> # 誰だ、貴様は！
+line2
+com09 0 21
+com08
+choice3 <shift> # よ、妖怪か！？
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （いや、やっぱり、いつも通りまっすぐ帰ろう。
+line2 <shift> # 遠回りになると、いけないしな）
+com09 0 99
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「はぁ〜い！」
+display
+com11 0 0
+sound 10002
+com4c 0 1
+name 0 0 <names:2>  # ???
+line1 <shift> # 「ひうっ！？　へ、返事が……！？
+line2 <shift> # しかし、そんなことが……！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うん？　今の声は……？」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「誰だ、貴様は！」
+display
+com11 0 0
+sound 10003
+com4c 0 1
+name 0 0 <names:2>  # ???
+line1 <shift> # 「ひっ！　わ、私は、怪しいものでは、
+line2 <shift> # ありません！　ただ、探しているものが……」
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よ、妖怪か！？」
+display
+com11 0 0
+sound 10004
+com4c 0 1
+name 0 0 <names:2>  # ???
+line1 <shift> # 「よ、妖怪！？　まさか、そんな！
+line2 <shift> # いや〜〜〜っ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うわっ！　ビックリしたぁ！」
+display
+com11 0 0
+sound 10005
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「うう、よ、妖怪は嫌いです……」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 10006
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「……はっ！　あ、あなた様は！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「な、なんだ、貴音だったのか。
+line2 <shift> # 驚かさないでくれよ……」
+display
+com11 0 0
+sound 10007
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「はあ〜、あなた様で良かったです。
+line2 <shift> # あんな、悲鳴をあげるところなど……」
+display
+com11 0 0
+sound 10008
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「人には、きかせられませんから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いったい、どうしたんだ？
+line2 <shift> # こんなところで」
+display
+com11 0 0
+sound 10009
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「あ、あの、それは……。
+line2 <shift> # とにかく、一刻を争うのです！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「一刻を争う？　……何だか、ぶっそうだな」
+display
+com11 0 0
+sound 10010
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「あなた様は、お逃げになった方が……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ？　だって、さっきの様子だと、
+line2 <shift> # 何かを探していたんじゃないのか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺は、困っている女の子を、
+line2 <shift> # 放ってはおけないよ！」
+display
+com11 0 0
+sound 10011
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「し、しかし……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……何だか様子が変だな。
+line2 <shift> # 一体、何を探しているんだ？」
+display <shift> # がさがさっ
+display
+com11 0 0
+sound 10012
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「ひっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「な、なんだ！？」
+display <shift> # がさがさがさっ！
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うわあっ！　ヘ、ヘビが飛び出してきた！」
+display <shift> # シャーーッ！
+display
+com11 0 0
+sound 10013
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「きゃあああああ！　やっぱり、
+line2 <shift> # 出てこないで下さいませ〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「貴音、大丈夫か！？」
+display
+com11 0 0
+sound 10014
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「あっ、そこにいたのかーっ、ヘビ香！」
+display
+com11 0 0
+sound 10015
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「ダメじゃないか、ヘビ香！　勝手に、
+line2 <shift> # オリを抜け出しちゃ！　心配したんだぞっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （えっ？　あの娘は……？）
+display <shift> # シャーーッ！
+display
+com11 0 0
+sound 10016
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「うっ！　そんな怖い顔で、ニラまないでよ〜！
+line2 <shift> # 最近、遊んでやらなかったのは悪かったけどさ」
+display
+com11 0 0
+sound 10017
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「自分だって、そこそこ忙しいんだぞ！　おまえ
+line2 <shift> # 達のエサとか、買ってこなきゃなんないし！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「へ、ヘビと会話してるのか？
+line2 <shift> # 貴音、この子は、一体？」
+display
+com11 0 0
+sound 10018
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「はい。我那覇響と言って、私と同じ、
+line2 <shift> # ９６１プロのアイドルです」
+display
+com11 0 0
+sound 10019
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「自分、我那覇響！　よろしく！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、ああ、よろしく」
+display
+com11 0 0
+sound 10020
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「彼女は、動物を飼うのが、
+line2 <shift> # たいそう、好きなのですが……」
+display
+com11 0 0
+sound 10021
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「よく、動物を逃がしてしまい、
+line2 <shift> # このような、騒ぎになるのです」
+display
+com11 0 0
+sound 10022
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「よくは逃がさないぞ、貴音！
+line2 <shift> # １日１回ぐらいだし！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あの、それは、毎日ってことじゃ……？」
+display
+com11 0 0
+sound 10023
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「うっ！　こ、細かいことは気にしない方が、
+line2 <shift> # いいぞ！」
+display
+com11 0 0
+sound 10024
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「とにかく、助かったよ、貴音！
+line2 <shift> # ヘビ香を見つけてくれて、ありがとうっ！」
+display
+com11 0 0
+sound 10025
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「まったく……。二度と、このようなことが、
+line2 <shift> # ないように、お願いしますよ？」
+display
+com11 0 0
+sound 10026
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「貴音は、ヘビが苦手なのに、
+line2 <shift> # いっしょに探してくれたんだぞ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか……。貴音、優しいんだな」
+display
+com11 0 0
+sound 10027
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「先に何を探すかを、きいていれば、
+line2 <shift> # 決して、手伝いませんでした……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、きいた後でも、嫌がらずに探したんだろ。
+line2 <shift> # 貴音は……」
+com03 0 3
+choice1 <shift> # エライな
+com09 0 30
+com08
+choice2 <shift> # バカだな
+com09 0 31
+com08
+choice3 <shift> # ヘンタイだな
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「エライな」
+display
+com11 0 0
+sound 10028
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「エラくなどはありません。
+line2 <shift> # 約束を守っただけです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、嫌だったんだろう？
+line2 <shift> # やっぱりやめた、って言ってもよかったのに」
+display
+com11 0 0
+sound 10029
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「一度かわした約束は、なにがあっても守る。
+line2 <shift> # 私の誇りにかけて、誓いは守ります」
+display
+com11 0 0
+sound 10030
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「うわ〜！　かっこいいなー、貴音は！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも探している時は、
+line2 <shift> # だいぶ、へっぴり腰だったけどな」
+display
+com11 0 0
+sound 10031
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「も、もう！　あなた様は、いけずです……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「い、いけずって……」
+com09 0 39
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「バカだな」
+display
+com11 0 0
+sound 10032
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「わ、私は、約束を違えることが、
+line2 <shift> # なにより嫌なのですっ」
+display
+com11 0 0
+sound 10033
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「そーだそーだ！　貴音は、いいやつだぞ。
+line2 <shift> # バカにするな！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わ、悪かったよ。言い過ぎたって」
+com09 0 39
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ヘンタイだな」
+display
+com11 0 0
+sound 10034
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「えっ、なんで！？」
+display
+com11 0 0
+sound 10035
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「あの……、ひとつ、よろしいでしょうか」
+display
+com11 0 0
+sound 10036
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「ヘンタイとは……、なんでしょうか？」
+display
+com11 0 0
+sound 10037
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「あまり、耳なじみのない単語なので、
+line2 <shift> # 意味が、わからないのです」
+display
+com11 0 0
+sound 10038
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「貴音！　貴音は今、バカにされたんだぞ！
+line2 <shift> # もっと怒った方がいいぞ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うわあ、ごめん！　今のは、冗談！
+line2 <shift> # 冗談だから、ヘビをこっちに向けないでくれ！」
+com09 0 39
+display
+location 39
+com11 0 0
+sound 10039
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「……まあ、そんなわけで、無事解決！
+line2 <shift> # めでたしめでたしだねっ！　あっははは！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あ、この子も魅力的ないい顔するなあ！　黒井
+line2 <shift> # 社長は、アイドルを見る目が、確かなようだ）
+display
+com11 0 0
+sound 10040
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「えーと、君も、少しはありがと。
+line2 <shift> # 貴音の知り合い……、なのかな？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、ええと、俺は７６５プロの、
+line2 <shift> # プロデューサーで、名前は……」
+display
+com11 0 0
+sound 10041
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「ええっ！？　な、７６５プロだって！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ど、どうしたんだよ？」
+display
+com11 0 0
+sound 10042
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「貴音、逃げるぞっ！」
+display
+com11 0 0
+sound 10043
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「え？　あの……」
+display
+com11 0 0
+sound 10044
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「黒井社長が言ってたこと、
+line2 <shift> # 忘れちゃったのか！？」
+display
+com11 0 0
+sound 10045
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「７６５プロにいる男は、ヘンタイで、
+line2 <shift> # 話しただけで、キケンがピンチだって！」
+display
+com11 0 0
+sound 10046
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「キケンがピンチってことは、つまり……、
+line2 <shift> # キケンが危ないってことだよ！　逃げよう！」
+display
+com11 0 0
+sound 10047
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「ちょ、ちょっと、響。そんなに急ぐと、
+line2 <shift> # また、ヘビを逃がしてしまいますよ！？」
+display
+com11 0 0
+sound 10048
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「あ、あの。そ、それではごきげんよう……、
+line2 <shift> # こら、響！　慌ててはダメですよ！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、気をつけて……。
+line2 <shift> # って、なんだか嵐みたいな時間だったな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ヘンタイって言われたことは、少し、
+line2 <shift> # ショックではあるが……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （貴音、いつもとは少し、雰囲気が、
+line2 <shift> # 違っていた。多分、あの響という子が……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （貴音を自分のペースに巻き込んでいるん
+line2 <shift> # だろう。さすがは、９６１プロ、人材豊富だな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （これは７６５プロも、相当頑張らないと……。
+line2 <shift> # よーし、早く寝て、明日の準備をするか！！）
+com09 0 99
+display
+location 99
+unk02

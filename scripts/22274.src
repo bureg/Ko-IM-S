@@ -1,0 +1,268 @@
+com2c 0 32
+com2d 0 51
+com32 0 0
+com11 0 4
+sound 400
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「このレコードショップで、サイン会ですね。
+line2 <shift> # 近くで見つめられると、気押されてしまいます」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「見る限り……あずささんのファンは、男子
+line2 <shift> # 学生が多いみたいですね」
+display
+com11 0 4
+sound 401
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「どうしてでしょう？　私、学生の人に好かれる
+line2 <shift> # 理由でもあるのでしょうか？」
+com03 0 3
+choice1 <shift> # お姉さんっぽいから、かな
+line2
+com09 0 10
+com08
+choice2 <shift> # ＯＬっぽいから、かな
+line2
+com09 0 11
+com08
+choice3 <shift> # スタイルがいいから、かな
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お姉さんっぽいから、かな」
+display
+com11 0 4
+sound 402
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、そういう風に見られているのですね。こん
+line2 <shift> # なに弟さんがいたら、ビックリですー。ふふっ」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ＯＬっぽいから、かな」
+display
+com11 0 4
+sound 403
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「最近は、ＯＬが憧れの対象なのでしょうか？
+line2 <shift> # 大人っぽく見えるからかしら」
+display
+com11 0 4
+sound 404
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「……考えてみたら、私、昔はＯＬ志望でしたし、
+line2 <shift> # それっぽいのは当然かもしれませんね」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「スタイルがいいから、かな」
+display
+com11 0 4
+sound 405
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そ、そんな……。ひ、人並みですよ？
+line2 <shift> # それに、そういうの、あまりー」
+display
+com11 0 4
+sound 406
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「プロデューサーさんは、そういう見方してない
+line2 <shift> # ですよね。私、し、信じていますから」
+com09 0 29
+display
+location 29
+com11 0 4
+sound 407
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、そろそろ開始ですね！　サインの練習とか
+line2 <shift> # してこなかったのですけれど、大丈夫かしら」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「好きに書けば、平気だと思いますよ。ファンは
+line2 <shift> # それでも、うれしいでしょうし」
+display
+com11 0 4
+sound 408
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「んー、ひらがなー、カタカナー、それとも……。
+line2 <shift> # どんな風に書きましょう？」
+com03 0 3
+choice1 <shift> # ひらがな、で
+line2
+com09 0 30
+com08
+choice2 <shift> # 英字、で
+com09 0 32
+com08
+choice3 <shift> # カタカナ、で
+line2
+com09 0 31
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ひらがな、で」
+display
+com11 0 4
+sound 409
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「やはり、それが読みやすくて、一番でしょう
+line2 <shift> # か？　では、ひらがなにします」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「カタカナ、で」
+display
+com11 0 4
+sound 410
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「それが、いいですか？　でもー、カタカナだと、
+line2 <shift> # すこしイメージが、かたすぎるような気も……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う、言われてみれば……。なら、まあ、無難に
+line2 <shift> # ひらがなに、しておきますか」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「英字、で」
+display
+com11 0 4
+sound 411
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「え！？　でも、それだと小学生とかは、
+line2 <shift> # 読めないのでは？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う、言われてみれば……。なら、まあ、無難に
+line2 <shift> # ひらがなに、しておきますか」
+com09 0 49
+display
+location 49
+com11 0 4
+sound 412
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「後は、わざわざ足を運んでくれたみなさんに、
+line2 <shift> # ごあいさつですね」
+display
+com11 0 4
+sound 413
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「心のこもったメッセージ……。どんなのに
+line2 <shift> # しましょう？」
+com03 0 3
+choice1 <shift> # 『せんきゅ〜♪』にしましょう
+line2
+com09 0 50
+com08
+choice2 <shift> # 『くじけないでくださいね』かな
+line2
+com09 0 51
+com08
+choice3 <shift> # ズバリ『……好きです』
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「『せんきゅ〜♪』にしましょう」
+display
+com11 0 4
+sound 414
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「か、かるいですねー。でも、そういうのも
+line2 <shift> # 明るくて、楽しいかも。試しに言ってみます！」
+display
+com11 0 4
+sound 415
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「せんきゅ〜、プロデューサーさん♪
+line2 <shift> # これでどうです？　ふふっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （う……ミスマッチが、かなりいい。
+line2 <shift> # よし、このサイン会、もらった！）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「『くじけないでくださいね』かな」
+display
+com11 0 4
+sound 416
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ファンの人への、逆エールですね。わかり
+line2 <shift> # ました。それにしてみます」
+display
+com22 0 30
+com21 0 30
+com11 0 4
+sound 417
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ありがとうございます。くじけないでください
+line2 <shift> # ね。ありがとうございます。くじけないで……」
+display
+com11 0 4
+sound 418
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「え？　お前こそくじけるなって？　は、はい、
+line2 <shift> # がんばります……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （反応はマチマチだな。異常によろこんでる人と、
+line2 <shift> # けむたがってる人……。まあ、悪くはないか）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ズバリ『……好きです』」
+display
+com11 0 4
+sound 419
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、え？　そ、それを全員に言うのですか？
+line2 <shift> # どうしましょう」
+display
+com11 0 4
+sound 420
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「私、うまく言える自信が……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ためしに、練習してみますか？」
+display
+com11 0 4
+sound 421
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「は、はい。ぷ、プロデューサーさん、あのー。
+line2 <shift> # す、す、すっ……！」
+display
+com11 0 4
+sound 422
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「…………すきやき」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （いくらなんでも、これはムリか。万が一、
+line2 <shift> # ファンが本気にしたら、それも大問題だし……）
+com09 0 69
+display
+location 69
+unk02

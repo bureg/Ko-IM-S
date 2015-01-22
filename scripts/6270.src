@@ -1,0 +1,352 @@
+com2c 0 193
+com32 0 0
+com2d 0 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ロケの合間のオフ時間を利用して、
+line2 <shift> # ウィンターリゾートにやってきた）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ここは一年中、雪がある山だそうだぞ」
+display
+com11 0 0
+sound 400
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「わぁ、ほんとですかっ。
+line2 <shift> # 今日は思いっきり、雪で遊びましょうっ」
+display
+com11 0 0
+sound 401
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「それにしても、この一面の雪景色、
+line2 <shift> # すごいですね！」
+com03 0 3
+choice1 <shift> # ああ、なんか新鮮だな
+line2
+com09 0 10
+com08
+choice2 <shift> # すごいけど、山じゃ普通だ
+line2
+com09 0 11
+com08
+choice3 <shift> # 雪かき、大変そうだな
+line2
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、なんか新鮮な光景だな」
+display
+com11 0 0
+sound 402
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「でしょう？　事務所のある街だと、普段、
+line2 <shift> # こんな雪、見られないですから！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「雪自体、なかなか降らないからなぁ」
+display
+com11 0 0
+sound 403
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「今日はもう、一日で一年分、雪を見て、
+line2 <shift> # 触っておくつもりです！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ははは……。
+line2 <shift> # 春香、よっぽど、雪が見たかったんだな」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「すごいけど、山の中では、
+line2 <shift> # これくらい普通じゃないか？」
+display
+com11 0 0
+sound 404
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そ、そうですか？
+line2 <shift> # そうかもしれないけど……」
+display
+com11 0 0
+sound 405
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「でっ、でも、こんな雪を目の前にするなんて、
+line2 <shift> # めったにないことですよ？」
+display
+com11 0 0
+sound 406
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ほら、私の住んでるところも、
+line2 <shift> # 事務所のある街も、そんなに雪、降らないから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ま、それはそうだな。
+line2 <shift> # そう思うとスゴイかもな」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「雪かき、大変そうだなぁ」
+display
+com11 0 0
+sound 407
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、そっか。
+line2 <shift> # 一年中、雪がある、ってことは……」
+display
+com11 0 0
+sound 408
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「一年中、雪かきしなくちゃならないんだ……。
+line2 <shift> # ロマンチックなだけじゃ、ないんですね……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あはは。冗談だよ、街なかならともかく、ここ
+line2 <shift> # はスキー場なんだから、そんな心配はないよ」
+display
+com11 0 0
+sound 409
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、そっか！　そうですよね。えへへ」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 410
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「さあ、それじゃ、雪山に来たんだから、
+line2 <shift> # 雪山らしい遊びをしましょうか」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「向こうのゲレンデに行こうか、滑り放題だ」
+display
+com11 0 0
+sound 411
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい！　スキーにスノボ！　楽しそう♪
+line2 <shift> # わくわくしてきます」
+display
+com11 0 0
+sound 412
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「何からやろうかな……？　うーん、
+line2 <shift> # いろいろしたくて、迷っちゃいますね」
+display
+com11 0 0
+sound 413
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、そうだ！　かまくら作りましょう！
+line2 <shift> # かまくら！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええっ、ゲレンデに来て、
+line2 <shift> # かまくらなのか……？」
+display
+com11 0 0
+sound 414
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「だって、こんなたくさんの雪があるから、私、
+line2 <shift> # かまくら作りに挑戦してみたくなっちゃって！」
+display
+com11 0 0
+sound 415
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あっ……。もちろん、滑ってる人の、
+line2 <shift> # ジャマにならないようにしますよ？」
+com03 0 3
+choice1 <shift> # よーし、やってみるか
+line2
+com09 0 20
+com08
+choice2 <shift> # 作り方、知ってるの？
+line2
+com09 0 21
+com08
+choice3 <shift> # 疲れるからパス
+line2
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よーし、それじゃ、やってみるか！」
+display
+com11 0 0
+sound 416
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい！　やってみましょう！　一緒にっ」
+display
+com11 0 0
+sound 417
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、ところで……、かまくらって、
+line2 <shift> # どうやって作るんでしょう？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ん、春香、作り方は知らないのか……」
+display
+com11 0 0
+sound 418
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「まず、雪をきれいに盛ってから、
+line2 <shift> # 掘っていくんですよね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ははは……。まあいい。
+line2 <shift> # とにかく、やってみよう！」
+display
+com11 0 0
+sound 419
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そうですね、何事も、実践ですね！
+line2 <shift> # 私、雪、集めてきますっ」
+display
+com22 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そして……）
+display
+com21 0 30
+com11 0 0
+sound 420
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「えへへ……。
+line2 <shift> # かまくら、なかなか完成しませんね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「頑張ったんだけどなぁ。もう帰る時間だ。
+line2 <shift> # そう簡単には作れなかったか」
+display
+com11 0 0
+sound 421
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「でも、作るの楽しかったです！　またいつか、
+line2 <shift> # 一緒に挑戦しましょう、プロデューサーさん♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （結果は出なかったけど、春香は満足そうだった。
+line2 <shift> # なにより、いい経験になったみたいだ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （たとえ下手でも、やってみるもんだな。さあ、
+line2 <shift> # オフ明けも春香と頑張っていこう……！）
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「春香、かまくらの作り方知ってるの？」
+display
+com11 0 0
+sound 422
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、実は全然。わからないです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そりゃ困ったね。ちゃんとやらないと」
+display
+com11 0 0
+sound 423
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「えっ、いろいろ試しながら、
+line2 <shift> # 作ってみたいんですけど……、ダメですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「試すのはいいけど、かまくらが、いきなり、
+line2 <shift> # べしゃっとつぶれたりしたら、危ないぞ？」
+display
+com11 0 0
+sound 424
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「うーん、そうですね。どうしよう」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ここは、かまくら作りの名人を呼んで、
+line2 <shift> # まかせてみるのもいいかも」
+display
+com11 0 0
+sound 425
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「えーっ、自分で作ってみたいなぁ。
+line2 <shift> # せっかく雪が、こんなにあるんだから……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後は、名人にかまくらを作ってもらい、
+line2 <shift> # 春香と俺は、完成したかまくらの中で過ごした）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しかし春香は少し不満げだった。たとえ下手で
+line2 <shift> # も自分達で作ってみたほうがよかったかな……）
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「疲れるからパス。
+line2 <shift> # たまのオフだし、のんびり過ごそうよ」
+display
+com11 0 0
+sound 426
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「それじゃ、つまんないですよぉ」
+display
+com11 0 0
+sound 427
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「たまのオフだから、普段できないことも、
+line2 <shift> # やってみたいじゃないですか」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうかもしれないが……。でも、ゲレンデで、
+line2 <shift> # かまくら作り、ってのも何か違うだろう」
+display
+com11 0 0
+sound 428
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「うーん、そうなんですけどぉ……。
+line2 <shift> # でも、こんな機会、めったにないし」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やっぱり、スキーとかをしようよ」
+display
+com11 0 0
+sound 429
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「スキーもしたいけど、かまくらも、
+line2 <shift> # したいんですよ！」
+display
+com11 0 0
+sound 430
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「もういいです、私一人でも、作りますからっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうムキになるな……。
+line2 <shift> # 作り方は、大丈夫なのか？」
+display
+com11 0 0
+sound 431
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「大丈夫ですよ！　かまくらなんて、
+line2 <shift> # こうやって……、って、うわああああ！」
+display <shift> # すってーん！
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「は、春香！　大丈夫か！？
+line2 <shift> # いきなり深みにはまって、こけるとは……」
+display
+com11 0 0
+sound 432
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「大丈夫ですー……。でも、うまってますー……。
+line2 <shift> # ううーっ、さむーい……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （春香は、軽くカゼをひいてしまったみたいだ。
+line2 <shift> # まったく、無茶するからだ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しかし無茶をしないように、俺がちゃんと面倒
+line2 <shift> # 見ればよかったんだよな。ちょっと反省……）
+com09 0 29
+display
+location 29
+unk02

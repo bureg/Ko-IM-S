@@ -1,0 +1,295 @@
+com2d 0 11
+com2c 0 24
+com32 0 0
+com11 0 2
+sound 1100
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「みなさんおはようございます……、ああっ！
+line2 <shift> # し、しまったああ！」
+display
+com11 0 2
+sound 1101
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ううっ、くうーっ……。
+line2 <shift> # ああ、私ったら、もう最低……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ど、どうしたんだ春香！？　そんなに
+line2 <shift> # 急にヘコんじゃって」
+display
+com11 0 2
+sound 1102
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あの……、作ったお菓子を、
+line2 <shift> # 持ってきたんですけど……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか、ありがとう。
+line2 <shift> # それじゃ、みんなで食べようか？」
+display
+com11 0 2
+sound 1103
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ああっ！　ダメです、食べないで下さいっ！
+line2 <shift> # 絶対食べないで！」
+com03 0 2
+choice1 <shift> # わ、わかった
+line2
+com09 0 10
+com08
+choice2 <shift> # どうして！？
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わ、わかった　そんなに言うなら
+line2 <shift> # やめるけど……？」
+display
+com11 0 2
+sound 1104
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「はぁ……。なんでこんな失敗……。
+line2 <shift> # 私ってば！　どじすぎる！」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ど、どうして！？
+line2 <shift> # せっかく作ったんだから……」
+display
+com11 0 2
+sound 1105
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「どうしてもこうしてもないんです！」
+display
+com11 0 2
+sound 1106
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ああ、どうしたらいいんだろう……。
+line2 <shift> # バカバカ、私のバカ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ま、まあ待て。落ち着け。とりあえず、
+line2 <shift> # ひとくち食べてみていいかな……？」
+display
+com11 0 2
+sound 1107
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あーっ！　だめーっ！！
+line2 <shift> # だめですだめです！　絶対に！」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わかった、わかったから、
+line2 <shift> # 落ち着こう春香。な？」
+display
+com11 0 2
+sound 1108
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ううっ……。間違えて、こんな大失敗の、
+line2 <shift> # 黒こげクッキー持ってきちゃうなんてぇ」
+display
+com11 0 2
+sound 1109
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「すみません、すみません……。あうあうっ、
+line2 <shift> # もう、恥ずかしくて……」
+com03 0 3
+choice1 <shift> # 失敗は　成功の元
+line2
+com09 0 30
+com08
+choice2 <shift> # 二度ある事は　三度ある
+line2
+com09 0 31
+com08
+choice3 <shift> # 気にしすぎ　じゃないか？
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「失敗は成功の元って言うじゃないか！」
+display
+com11 0 2
+sound 1110
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「は、はい！　で、でも間違えて失敗のほうを
+line2 <shift> # 持ってきて、うまくいったの置いてきて……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「多少間違えたっていい！　一度でも
+line2 <shift> # うまくできたんなら、ＯＫじゃないか！」
+display
+com11 0 2
+sound 1111
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「お、ＯＫですかっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もちろん俺も、成功作を、できれば
+line2 <shift> # 今ここで食べたかったけどさ」
+display
+com11 0 2
+sound 1112
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そ、そうです……よね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「今度うまくいったやつを持ってきてくれれば
+line2 <shift> # 俺は嬉しいよ。みんなもきっと喜ぶ」
+display
+com11 0 2
+sound 1113
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「は、はい！　ありがとうございますっ！」
+display
+com11 0 2
+sound 1114
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「きっとまた上手に出来たらそのときは……
+line2 <shift> # ううん、もっとすごいの、持ってきますね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （春香は、がぜん、やる気になってきたみたいだ。
+line2 <shift> # 趣味も仕事も、ばっちり頑張ってくれるだろう）
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「二度あることは三度あるという……」
+display
+com11 0 2
+sound 1115
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ううっ、プロデューサーさん、
+line2 <shift> # さらっと残酷なことを言いますね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「い、いや、もとい！　めげるな春香！
+line2 <shift> # 二度三度の失敗がなんだっていうんだ！」
+display
+com11 0 2
+sound 1116
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「は、はいっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「多少間違えたって、そのあとでばっちり
+line2 <shift> # うまくいけばいいんだ！」
+display
+com11 0 2
+sound 1117
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そうですね！　１０回や２０回間違えたって、
+line2 <shift> # いつかうまくいけばいいんです！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、だからたったひとつの失敗をくよくよ
+line2 <shift> # 気にしたり、恥じたりすることなんかないさ」
+display
+com11 0 2
+sound 1118
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「はい……ふふふ、なんか変だけど、
+line2 <shift> # なんか納得です♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも次はきっと、間違えずに。
+line2 <shift> # 楽しみに待ってるよ」
+display
+com11 0 2
+sound 1119
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「はい、今度こそ、会心の作品を
+line2 <shift> # 持ってきます。期待しててくださいね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （春香は無事立ち直ってくれたみたいだ。
+line2 <shift> # 今後も趣味に仕事にと、頑張ってくれそうかな）
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「気にしすぎじゃないか？
+line2 <shift> # たかがお菓子の失敗で……」
+display
+com11 0 2
+sound 1120
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「たかがって言わないでくださいよぉ。
+line2 <shift> # 私にとっては、一大事なんです！」
+display
+com11 0 2
+sound 1121
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「今回、かなり自信あったのになぁ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ま、まぁまぁ！　二度や三度の失敗くらい
+line2 <shift> # 気にするなってことさ！」
+display
+com11 0 2
+sound 1122
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「１０回くらい失敗して、やっとうまく
+line2 <shift> # できたのを持ってきたつもりだったのにぃ」
+display
+com11 0 2
+sound 1123
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「うううう、なんで間違えるの私っ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「持ってくるのを間違えたんなら、また今度
+line2 <shift> # ちゃんと持ってくれば……な？」
+display
+com11 0 2
+sound 1124
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「それが……うまくいったやつ、間違えて
+line2 <shift> # 捨てちゃったかもしれないんですよ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ええっ！？　そ、そうか。それは残念だ。
+line2 <shift> # 是非、食べてみたかったなぁ」
+display
+com11 0 2
+sound 1125
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「このうえ、レシピをどっかなくしちゃってたら
+line2 <shift> # どうしよう……ああ、どうしようっ」
+display
+com11 0 2
+sound 1126
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「それが気になって、気になって……。
+line2 <shift> # ああ、でも、このままじゃいけないんです」
+display
+com11 0 2
+sound 1127
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「とりあえず外行って、ちょっと頭を
+line2 <shift> # 冷やしてきますぅ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああっ。春香、ちょっと待てって……。
+line2 <shift> # 行ってしまったか」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （春香は余計へこんでしまった。結局、
+line2 <shift> # 俺が追い討ちかけてしまったんだろうか……）
+com09 0 49
+display
+location 49
+unk02

@@ -1,0 +1,172 @@
+com2c 0 118
+com2d 0 51
+com32 0 0
+location 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ふぅー、やっと追いついた。なにもそこまで、
+line2 <shift> # 自分を責めること、ないじゃないですか？」
+display
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「……心づかいは、感謝します。けれど、
+line2 <shift> # やさしい言葉なんて、かけないでください」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「今日のことは、どう考えても、私が悪いんです。
+line2 <shift> # 真っ直ぐな気持ちで、歌うことができなくて」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「過ぎたことは、もう忘れましょう。それより、
+line2 <shift> # これから先のことに、目を向けないと」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「これから、先……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうです。言ってましたよね？　このライブを
+line2 <shift> # 終えたら、身の振り方を決めるって」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あ、そういえば、そうでしたね。
+line2 <shift> # えっと、私、明日から……」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「明日から……どうしましょう。まだアイドルを
+line2 <shift> # 続けたいのか、やめたいのか……わかりません」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あずささん……」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「わかりませんけど……ファンの人を裏切って
+line2 <shift> # しまった責任は、取りたいです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え、それって、つまり……」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「……はい。引退しようと思います」
+display
+com1c 0 3
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「本当に、いいんですか？」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「今は、ファンの人の怒りを静めることしか、
+line2 <shift> # 考えられません。ですから……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、これは急いで答えを出さない方がいい
+line2 <shift> # か。とりあえず長期休暇って事で、どうです？」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「その間に、頭を冷やせ――ということ
+line2 <shift> # でしょうか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうです。今はとても、冷静に物事を
+line2 <shift> # 考えられる状態じゃないと思いますから」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「そうですね。わかりました。もし、万が一、
+line2 <shift> # 復帰する日がくるとしても……」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「私、プロデューサーさんの前には二度と現れま
+line2 <shift> # せん。それで今日のこと、許してもらえますか」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だ、だから、そこまで気にすること、
+line2 <shift> # ありませんって……」
+com03 0 3
+choice1 <shift> # 失敗は、誰にでもあります
+line2
+com09 0 30
+com08
+choice2 <shift> # 一晩寝れば、ラクになります
+line2
+com09 0 31
+com08
+choice3 <shift> # 俺、怒ってませんから
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「失敗は、誰にでもあります」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「そうかもしれません。けれど、このライブは、
+line2 <shift> # 絶対に失敗してはいけないライブだったんです」
+com09 0 39
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「一晩寝れば、ラクになります」
+display
+com11 0 0
+sound 10012
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「気分的には、そうかもしれません。でも今日
+line2 <shift> # やってしまった事が、消えるわけでは……」
+com09 0 39
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺、怒ってませんから」
+display
+com11 0 0
+sound 10013
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「プロデューサーさん、やさしすぎです。今日の
+line2 <shift> # 失敗は、笑って済ませられるものでは……」
+com09 0 39
+display
+location 39
+com11 0 0
+sound 10014
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「私なんかに、プロデューサーさんと話す資格は、
+line2 <shift> # ありません。――さようなら！」
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あっ、あずささん！　あずささーーーんっ！」
+display
+location 100 129 92 129 92 137 180 130 204 140 196 130 209 144 186 130 201 129 65 142 168 130 240 145 221 130 179 130 184 129 99 129 99 130 160 130 184 130 179 130 179 130 241 130 205 129 65
+line2 <shift> # 涙を散らしながら、駆け去っていってしまった
+display
+location 101 137 94 150 189 130 240 140 136 130 223 130 233 129 65 131 137 131 67 131 117 130 197 130 204 142 184 148 115 129 66 130 187 130 204 131 95 131 129 129 91 131 87 130 205
+line2 <shift> # 想像以上に、大きかったようだ
+display
+location 102 130 160 130 220 130 232 130 201 130 224 136 171 130 162 129 65 149 202 130 234 130 204 140 227 150 161 129 99 129 99 129 66 130 185 130 223 130 196 129 65 130 177 130 204
+line2 <shift> # 苦い経験は、つぎの挑戦に生かしていきたい
+display
+unk02

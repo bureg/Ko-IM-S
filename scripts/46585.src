@@ -1,0 +1,421 @@
+com2c 0 40
+com2d 0 81
+com32 0 0 130 201 130 225 130 160 130 160 129 91
+display
+com11 0 0
+sound 0
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うわ、こらっ！　いててっ。
+line2 <shift> # もー、ボクと仲良くしてよ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、そのネコ……今日のＣＭ撮影の共演相手
+line2 <shift> # か？　苦戦してるみたいだな」
+display
+com11 0 0
+sound 1
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はい。全然なついてくれなくて。
+line2 <shift> # ヒザに抱えて撮影するはずなんですけど……」
+display
+com11 0 0
+sound 2
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「抱っこもさせてくれないし、呼んだって
+line2 <shift> # 思いっきり無視ですから……ツライです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、ネコも困ってるんだろうな。
+line2 <shift> # 慣れないヒザに乗れって指示が出てさ」
+display
+com11 0 0
+sound 3
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ネコとはいえ、こいつもプロなんですよ。
+line2 <shift> # ペットモデル事務所のネコですから」
+display
+com11 0 0
+sound 4
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「それなのに、全然協力的じゃなくて……。
+line2 <shift> # はあ〜。ボク、嫌われてるんでしょうか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「動物は難しいよなあ。うーん、
+line2 <shift> # ネコをなつかせる方法といえば……」
+com03 0 3
+choice1 <shift> # エサで釣れ
+com09 0 10
+com08
+choice2 <shift> # のどをなでろ
+line2
+com09 0 11
+com08
+choice3 <shift> # 無理に抱け
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「エサで釣ればいいんだ。
+line2 <shift> # 気位が高くても、エサには弱いだろう」
+display
+com11 0 0
+sound 5
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そんなものですか？　じゃあ、やってみます」
+display
+com11 0 0
+sound 6
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そういえばさっき、トレーナーの人にネコ用
+line2 <shift> # おやつをもらったんで、これで……うわっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうした、真！」
+display
+com11 0 0
+sound 7
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あはは。おやつを見せただけで、急にネコが
+line2 <shift> # 近寄ってきたんで、ちょっと驚いちゃいました」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「のどをなでればいいんだ。たしか、ネコは
+line2 <shift> # のどをなでられるのが、好きなんだぞ」
+display
+com11 0 0
+sound 8
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「へえー、そうなんですか？
+line2 <shift> # じゃあ、やってみます」
+display
+com11 0 0
+sound 9
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「……あっ、小さい声でゴロゴロ言ってる！
+line2 <shift> # これって、どういう意味ですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「機嫌がいいっていう意味だよ」
+display
+com11 0 0
+sound 10
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、本当だ。なんかリラックスしてるみたい
+line2 <shift> # ですよ。これならヒザに乗ってくれるかも！」
+display
+com11 0 0
+sound 11
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサーって、やっぱすごいですね！
+line2 <shift> # ネコの言葉がわかるみたいですよ！」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「無理に抱くってのはどうだ？
+line2 <shift> # ガマンさせて、慣れさせる方が手っ取り早い」
+display
+com11 0 0
+sound 12
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ええっ？　それじゃかわいそうですよ。
+line2 <shift> # それに、もっと嫌われちゃいそうです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、そうか。それも困るな」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 13
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うーん。まあ、撮影までには、なんとか慣れて
+line2 <shift> # もらえそうかな……」
+display
+com11 0 0
+sound 14
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あっ。今日のＣＭ撮影について
+line2 <shift> # 詳しいこと、教えてもらえませんか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだな。先に打ち合わせしておくか。撮影
+line2 <shift> # するのは、朝食用のコーンフレークのＣＭだ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まず、イメージ的には……」
+com03 0 3
+choice1 <shift> # ネコと仲良し、さわやかな朝
+line2
+com09 0 30
+com08
+choice2 <shift> # デリシャス気分のネコフード
+line2
+com09 0 31
+com08
+choice3 <shift> # いや、やめておこう
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ネコと仲良し、さわやかに朝ごはんを
+line2 <shift> # 食べましょう、だ」
+display
+com11 0 0
+sound 15
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ネコと朝ごはん……。いいですね、それ！
+line2 <shift> # 朝のさわやかなイメージ、伝わりますよ」
+display
+com11 0 0
+sound 16
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「後は、どれだけ仲良しになれるかが、
+line2 <shift> # 問題ですけどね。ボク、頑張ります！」
+com09 0 39
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「デリシャス気分のネコフード。
+line2 <shift> # にゃーにゃゴキゲン、お腹いっぱい！」
+display
+com11 0 0
+sound 17
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「……それだと、キャットフードのＣＭみたいに
+line2 <shift> # なりませんか？　なんか違う気がしますけど」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、資料を間違えた！　本当は、ネコと朝ごは
+line2 <shift> # ん、とかなんとか……そういうのだったと思う」
+display
+com11 0 0
+sound 18
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うわ。メチャメチャいいかげんだなあ〜。
+line2 <shift> # しっかりして下さいよ、プロデューサー」
+com09 0 39
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、今はやめておこう」
+display
+com11 0 0
+sound 19
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「えっ！　どうしてですか？　打ち合わせした
+line2 <shift> # ほうが、いいと思うんですけど」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ネコと仲良くなる方が先だと思う。
+line2 <shift> # だから打ち合わせは、後にしよう」
+display
+com11 0 0
+sound 20
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はい、わかりました。……なんか不安だなあ」
+com09 0 39
+display
+location 39
+com11 0 0
+sound 21
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ。そろそろ、ネコのお昼寝の時間だ」
+display
+com11 0 0
+sound 22
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「この時間になったらネコを休ませるように、
+line2 <shift> # トレーナーさんに言われてたんですよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうなのか。じゃ、寝かせてやろう。
+line2 <shift> # バスケットにいれればいいんだな？」
+display
+com11 0 0
+sound 23
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ほら、おいで。……あっ、こら！」
+display
+com11 0 0
+sound 24
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うわあああっ！　大変だ！
+line2 <shift> # ネコがスタジオの外に逃げ出しました！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「な、なんだって！？　早く捕まえないと！」
+display
+com11 0 0
+sound 25
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「で、でも……スタジオを出て
+line2 <shift> # どっちへ行ったか、全然わかりませんよ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まずいな。本番までに見つけないと、撮影もで
+line2 <shift> # きないし、ペットモデル事務所にも怒られるぞ」
+display
+com11 0 0
+sound 26
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ど、どうしましょう、プロデューサー！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （こうなったら、カンで探し出すしかない！
+line2 <shift> # 絶対見つけないと、大変だ……！）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よーし、真……」
+com03 0 2
+choice1 <shift> # 右だ！
+com09 0 40
+com08
+choice2 <shift> # 左だ！
+com09 0 41
+com08
+com07
+com09 0 42
+com08
+display
+location 40
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「右だ！
+line2 <shift> # スタジオを出て、右のほうを探すんだ」
+com09 0 49
+display
+location 41
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「左だ！
+line2 <shift> # スタジオを出て、左のほうを探すんだ」
+com09 0 49
+display
+location 42
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「このあたり一帯を、適当に探すんだ！」
+com1c 0 1
+com09 0 49
+display
+location 49
+com11 0 0
+sound 27
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はいっ！　ちょっとボク、
+line2 <shift> # ひとっ走り、その辺をみてきます！」
+display
+com11 0 0
+sound 28
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサーは、この近くを
+line2 <shift> # 探してて下さい！」
+com37 0 1
+com1e 0 0
+com09 0 50
+com3b
+com37 0 0
+com1e 0 0
+com09 0 51
+com3b
+com37 0 1
+com1e 0 1
+com09 0 51
+com3b
+display
+location 50
+com22 0 30
+com21 0 30
+com11 0 0
+sound 29
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサー、ただいま帰りました！
+line2 <shift> # 捕まえましたよ！　すぐそこにいました」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、えらいぞ真！
+line2 <shift> # 一時はどうなることかと……」
+display
+com11 0 0
+sound 30
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサーの指示がバッチリでしたから。
+line2 <shift> # ……よしよし、お昼寝の時間だよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あれ、ずいぶんおとなしくなったな。
+line2 <shift> # 今までの騒ぎは、何だったんだ」
+display
+com11 0 0
+sound 31
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「慣れない環境で、緊張してたみたいですね。
+line2 <shift> # 外を走り回って、少し落ち着いたのかな」
+display
+com11 0 0
+sound 32
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「その気持ち、よくわかるなあ。
+line2 <shift> # ボクも前はそうだったし……」
+display
+com11 0 0
+sound 33
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「でも、もう大丈夫だよ。ボクはキミの味方だか
+line2 <shift> # らね……。さあ、ゆっくりおやすみ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （この一件で、ネコはすっかり真になついて
+line2 <shift> # しまった。これならＣＭ撮影もバッチリだな！）
+com4b 0 0
+com09 0 59
+display
+location 51
+com22 0 30
+com21 0 30
+com11 0 0
+sound 34
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はぁ、はぁ、いましたか、プロデューサー？
+line2 <shift> # ボクが見たほうには、いませんでした……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、こっちにもいなかったけど……」
+display <shift> # にゃああー
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、あれ？　ネコ、勝手に戻ってきたぞ！
+line2 <shift> # バスケットの中に入りたいみたいだな……」
+display
+com11 0 0
+sound 35
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「お昼寝したくて、戻ってきたのかな。無理して
+line2 <shift> # 探す必要、なかったですね。はぁ、はぁ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「すごい息切れだな、真。
+line2 <shift> # 走り回らせて、悪かったよ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後の本番、ネコはプロらしく撮影をそつな
+line2 <shift> # くこなしたが、肝心の真の出来はボロボロ……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （本番前にムリさせたのが、ひびいたな。
+line2 <shift> # すまない、真。俺の責任だ……）
+com4b 0 2
+com09 0 59
+display
+location 59
+unk02

@@ -1,0 +1,438 @@
+com2c 0 32
+com2d 0 73
+com32 0 0
+com11 0 4
+sound 1000
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「あのう、外で待ってるお客が、
+line2 <shift> # 騒ぎ始めてるんですけどぉ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でもまだ、イベント会場に入場させられる状態
+line2 <shift> # じゃないな。スタッフもちょっと混乱してるよ」
+display
+com11 0 4
+sound 1001
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「あ〜あ。せっかく、こんなにお客が集まってる
+line2 <shift> # ってのに、肝心の座席数が、足りないなんて」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「当日券、少しの立ち見分しか、
+line2 <shift> # 確保してなかったからなぁ」
+display
+com11 0 4
+sound 1002
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「プロデューサー、ちょっと客数の見込みが、
+line2 <shift> # 甘かったんじゃないですか？」
+display
+com11 0 4
+sound 1003
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「面倒見てるアイドルの人気のほど、
+line2 <shift> # ちゃんと、わかってるのかなぁ？」
+com03 0 3
+choice1 <shift> # わかってるさ
+line2
+com09 0 10
+com08
+choice2 <shift> # すまん、読み違えた
+line2
+com09 0 11
+com08
+choice3 <shift> # 不可抗力だよ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もちろん、わかってるさ」
+display
+com11 0 4
+sound 1004
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「だったら、なんでこんな……、
+line2 <shift> # お客が入りきれないような場所を、会場に？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「話題性のため、かな？　とにかく、
+line2 <shift> # あえて、だよ。小さめの場所にしたのは」
+display
+com11 0 4
+sound 1005
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「なるほどね。騒ぎになればなるほど、
+line2 <shift> # 芸能レポートの話題は盛り上がる、か」
+display
+com11 0 4
+sound 1006
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「けっこう考えましたね……。
+line2 <shift> # でも、不評になったら、逆効果ですよ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「平気さ。ちゃんと、フォローも考えてある」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「すまん、正直、読み違えた。
+line2 <shift> # こんなに人が来るとは思わなかった」
+display
+com11 0 4
+sound 1007
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「……ったく、相変わらず甘いなあ、
+line2 <shift> # 新米プロデューサーくんは」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「むっ……」
+display
+com11 0 4
+sound 1008
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ま、いいけど……。こういう不測の事態に、
+line2 <shift> # 備えてこそのプロデューサー、ですよ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「さ、策はあるさ！　大丈夫だ！」
+display
+com11 0 4
+sound 1009
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ほんとに大丈夫かなぁ？　ここでお客に、
+line2 <shift> # 不評を買うようだと、困るんですけどぉ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ちゃんとフォローはできる、まかしとけ」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「不可抗力だよ」
+display
+com11 0 4
+sound 1010
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「なにが不可抗力なんです？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、その、たとえば、
+line2 <shift> # 時期的に、ここしか会場が取れなかったり……」
+display
+com11 0 4
+sound 1011
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ふ〜ん、他には？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「事前に聞いてたのに比べて、
+line2 <shift> # 思いのほか場所が狭かったり……」
+display
+com11 0 4
+sound 1012
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「それからそれから？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「客席にゆとりを、と思って、配置してみたら、
+line2 <shift> # 席数が、随分、少なくなってたり……」
+display
+com11 0 4
+sound 1013
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ふむふむ。で、言い訳は以上ですか？
+line2 <shift> # 新米プロデューサーくん？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「い、言い訳じゃないぞ！」
+display
+com11 0 4
+sound 1014
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「はいはい。でも、まぁとにかく、
+line2 <shift> # この場を、なんとかしてもらわないと」
+display
+com11 0 4
+sound 1015
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ここで不評のレッテル貼られちゃ、
+line2 <shift> # オシマイですから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わ、わかった。よし……、大丈夫だ。
+line2 <shift> # フォローする方法は、ある」
+display
+com11 0 4
+sound 1016
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ほんとに大丈夫かなぁ？
+line2 <shift> # ま、お手並み拝見とするかなぁ」
+com09 0 29
+display
+location 29
+com22 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （そして、しばらくの後……）
+display
+com21 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「臨時席のチケットを出してみようと思ってる。
+line2 <shift> # 今、スタッフが準備を進めてるよ」
+display
+com11 0 4
+sound 1017
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「えっ？　席、増やせるんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「立ち見の位置を少し広げて、それから、
+line2 <shift> # パイプイスも並べようかと思ってるけど……」
+display
+com11 0 4
+sound 1018
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ないよりマシってとこね。で、キャパは？
+line2 <shift> # 何人ぐらいなら追加、はいれそうですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「臨時席の追加分か？　そうだな……」
+display
+com11 0 4
+sound 1019
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ざっと見た感じだと、パイプイス増やしても、
+line2 <shift> # 待ってるお客さんの半分ぐらいしか入れないかも」
+display
+com11 0 4
+sound 1020
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「つめたら、入れるかもわからないけど……。
+line2 <shift> # ムリに入れるのも、なんかちょっとね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだな……。どのくらいまで、
+line2 <shift> # お客を入れるか、考えどころだな」
+com03 0 3
+choice1 <shift> # やっぱり半分かな
+line2
+com09 0 30
+com08
+choice2 <shift> # 全員入れるぞ！
+line2
+com09 0 31
+com08
+choice3 <shift> # 臨時席はやめるか……
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やっぱり、待機列の半分かな」
+display
+com11 0 4
+sound 1021
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ジャスト半分入場ね、いい選択だと思います。
+line2 <shift> # 残り半分のお客さんには、申し訳ないけど……」
+display
+com11 0 4
+sound 1022
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ムリヤリ、立ち見で、つめ込むよりはいいかな。
+line2 <shift> # パイプイスでも……、辛くは、ないだろうし」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「チケット料金は、相当安めで、出しておくよ」
+display
+com11 0 4
+sound 1023
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そりゃ当然！　あ、会場に入れなかった人も、
+line2 <shift> # 追い返したりは、しないでくださいね？」
+display
+com11 0 4
+sound 1024
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「たとえ外でもいいから、聞きたいってのは、
+line2 <shift> # あると思うから、ね……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、それなら会場外に、
+line2 <shift> # ライブ中継モニターも出すか」
+display
+com11 0 4
+sound 1025
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「あ、それいい！　お願いします！
+line2 <shift> # さぁ、いいライブにしなくちゃっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （当日券待ちのお客の半分を、臨時席に入れた。
+line2 <shift> # どうやら、ストレスなく聞いてもらえそうだ）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （律子も意気込んでいる。集まった大勢のお客
+line2 <shift> # のためにも、しっかりしたライブを届けるぞ！）
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし決めた！　全員入れるぞ！」
+display
+com11 0 4
+sound 1026
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そんな、入りきらないですよ。
+line2 <shift> # 無謀です！　私は反対だな……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、待たせたお客に、申し訳ないよ。
+line2 <shift> # 帰ってもらうわけにもいかないだろ」
+display
+com11 0 4
+sound 1027
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「でも、つめ込みギュウギュウの苦しい状態で、
+line2 <shift> # ライブ見てもらっても、申し訳ないですよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だけど、つめれば入れるんだ。ムリしてでも、
+line2 <shift> # 見たいって人が、いっぱい来てるんだぞ？」
+display
+com11 0 4
+sound 1028
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そ、そうかもしれないですけどぉ……」
+display
+com11 0 4
+sound 1029
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「なら一応、お客に説明して、
+line2 <shift> # 納得してもらえるなら、それでもいいですけど」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、まかせろ。俺が言ってくる」
+display
+com11 0 4
+sound 1030
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「はい……。
+line2 <shift> # ああっと、やっぱり私も行きます！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、まず俺がお客の前で事情を説明し、
+line2 <shift> # 当日券座席の不足を謝った）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （それから、律子が先導して、順番に全員、
+line2 <shift> # 臨時座席に入ってもらった。しかし……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （窮屈な座席に、不満が残った。さめた空気の
+line2 <shift> # 中でのライブは、辛いものになりそうだな……）
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やっぱり、臨時席はやめるか……」
+display
+com11 0 4
+sound 1031
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「な、なんですかぁ、いきなり撤回して。
+line2 <shift> # 準備進めてたんじゃなかったんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、俺も考え直してみたんだ……。観客を、
+line2 <shift> # ムリに会場につめるのは、いけないと思う」
+display
+com11 0 4
+sound 1032
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「だったら、それはもっと、
+line2 <shift> # 事前に、気づかないと……」
+display
+com11 0 4
+sound 1033
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「当日券目当てで集まってもらった人に、
+line2 <shift> # 悪いじゃないですかぁ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「す、すまん。そうだよな……」
+display
+com11 0 4
+sound 1034
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「私なんかに謝るより先、
+line2 <shift> # お客のところで謝ってきてくださいよ」
+display
+com11 0 4
+sound 1035
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「いえ、なんなら私も行って、
+line2 <shift> # 一緒に頭下げますから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それはちょっと……。ああ、やっぱり、
+line2 <shift> # 立ち見、少しだけ入れるかな……」
+display
+com11 0 4
+sound 1036
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「な、なに、突然また、
+line2 <shift> # 考え変わってるんですかっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だ、だって、集まった人たちを、
+line2 <shift> # 追い返すわけにもいかないだろ？」
+display
+com11 0 4
+sound 1037
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ちょっとだけお客入れるって言っても、
+line2 <shift> # どうやって？」
+display
+com11 0 4
+sound 1038
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「先着？　抽選？　またパニックになりそうな
+line2 <shift> # 気が……。ああ、でも、全員は入れられないし」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ほら、律子だって、悩むだろ？」
+display
+com11 0 4
+sound 1039
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そりゃそうですよぉ……。う〜ん……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う〜ん……。やっぱり当日用の席は、
+line2 <shift> # あきらめるかな……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （結局、立見席もナシとなったため、当日券目当
+line2 <shift> # てで待っていたお客は、皆、帰ってしまった）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （このことで、事前の整理券組のお客も、
+line2 <shift> # 盛り下がってしまい……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （残念ながら、今回は、
+line2 <shift> # 不満の多いライブとなってしまった……）
+com09 0 49
+display
+location 49
+unk02

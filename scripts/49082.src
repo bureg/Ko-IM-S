@@ -1,0 +1,369 @@
+com2d 0 91
+com2e 0 101
+location 0
+com2c 0 53
+com2c 0 25
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「公園って、ココだよな。俺の選んだ双子は……、
+line2 <shift> # あ、いたっ！」
+display
+com11 0 0
+sound 10000
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ねえ、真美ー。ほら、あそこにいる子ネコ、
+line2 <shift> # メッチャかわいいよっ！」
+display
+com11 0 0
+sound 10001
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ホントだー！　ねえ、亜美。あの子、
+line2 <shift> # オスかな？　メスかなあ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ネコを見て、無邪気によろこんでる。
+line2 <shift> # なんだ、普通のかわいい子どもじゃないか）
+display
+com11 0 0
+sound 10002
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「せーべつを調べるにはー、ひっくり返して、
+line2 <shift> # 足の間、見てみないとね！」
+display
+com11 0 0
+sound 10003
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「そーだね！　やろーやろー。んっふっふ〜♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……前言撤回。なるほど、社長の言う通り、
+line2 <shift> # ただの純真な子どもじゃ、ないみたいだな）
+display
+com11 0 0
+sound 10004
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「あれ？　兄ちゃん、誰？　どーして、
+line2 <shift> # 亜美達のこと、じーっと見てるの？」
+display
+com11 0 0
+sound 10005
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「あ、わかった！　真美達のこと、ゆーかい
+line2 <shift> # して、売り飛ばそうとしてるんでしょー？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ぐ……。売ろうとしてることは、確かだけどな。
+line2 <shift> # 俺は……、君達のプロデューサーだから」
+display
+com11 0 0
+sound 10006
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ぷろでゅーさー？　んじゃ、亜美達、
+line2 <shift> # アイドルデビューすることに、なったの！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだ。これからは、芸能界が、
+line2 <shift> # 君達ふたりの……」
+com03 0 3
+choice1 <shift> # 遊び場だ！　
+com09 0 10
+com08
+choice2 <shift> # 戦場だ！　
+com09 0 11
+com08
+choice3 <shift> # 学校だ！　
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「遊び場だ！」
+display
+com11 0 0
+sound 10007
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「わーい！　遊び場、遊び場ー！　んじゃ、
+line2 <shift> # 亜美とふたりで、たくさん遊んじゃおー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、そうするといい。じゃあ、まずは全国
+line2 <shift> # デビューするための、君達の名前を決めよう」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「戦場だ！」
+display
+com11 0 0
+sound 10008
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ええええ、戦争は、よくないんだよー？
+line2 <shift> # ほーりつ違反だって、センセーが言ってたもん」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、これはあくまで、ただのたとえで……。
+line2 <shift> # ……悪かったよ、まぎらわしい言い方して」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それじゃ、まずは全国デビューするための、
+line2 <shift> # 君達の名前を決めよう」
+display
+com11 0 0
+sound 10009
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「うん！　そーしよー、そーしよー！」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「学校だ！」
+display
+com11 0 0
+sound 10010
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「え？　んじゃ、今日から、もうホントの
+line2 <shift> # 学校には、行かなくても、いーのっ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そんなワケあるか！　これは、あくまで
+line2 <shift> # たとえだ。もうひとつの学び場って、いう……」
+display
+com11 0 0
+sound 10011
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「なーんだ、もう勉強しなくてもいいかと
+line2 <shift> # 思ったのに、ちょっとガッカリ〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「誤解させて、悪かったよ。さて、まずは全国
+line2 <shift> # デビューするための、君達の名前を決めよう」
+display
+location 19
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「亜美と真美は、それぞれ、ソロでデビュー
+line2 <shift> # するのか？　それとも、デュオで？」
+display
+com11 0 0
+sound 10012
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「んっとね、亜美達は、ふたりで入れ替わり
+line2 <shift> # ながら、一役をやるの！」
+com37 0 0
+com1e 0 0
+com09 0 25
+com3b
+com38 0 1
+com1e 0 0
+com09 0 26
+com3b
+display
+location 25
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか。なら、芸名は、ひとつでいいな。
+line2 <shift> # えーと……」
+display
+location 26
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか。なら、ユニット名を決めよう。
+line2 <shift> # えーと……」
+display
+location 30
+com11 0 0
+sound 10013
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「わーい、それで決まりだね！
+line2 <shift> # 芸名なんて、メチャイケで、（Ｅ）→→→！」
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よろしく頼むぞ！
+line2 <shift> # さあ、いよいよ活動開始だ！」
+display
+location 40
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今日のスケジュールは……、と）
+display
+location 50
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やっぱり最初はレッスンだ！
+line2 <shift> # 初レッスン行くぞ！」
+display
+com4a 0 0
+com11 0 0
+sound 10014
+com4c 0 3
+name 0 0 <names:4>  # Ami and Mami
+line1 <shift> # 「はーい。んじゃ、アイドルしに、
+line2 <shift> # しゅっぱーつ！」
+display
+location 60
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （トップアイドルになるため、今後は流行を
+line2 <shift> # 意識していこう！　まずは育成方針として）
+display
+location 61
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （流行１位イメージであるボーカルの
+line2 <shift> # イメージをＵＰさせていこう！）
+display
+location 62
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （流行１位イメージであるダンスの
+line2 <shift> # イメージをＵＰさせていこう！）
+display
+location 63
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （流行１位イメージであるビジュアルの
+line2 <shift> # イメージをＵＰさせていこう！）
+display
+location 64
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （流行１位のイメージはオーディションでの
+line2 <shift> # ウケが良く、合格しやすい！　絶対に有利だ！）
+display
+location 65
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しかし流行は変化しやすい。常に先の先を
+line2 <shift> # 考えながらイメージ作りをしていくぞ！！）
+display
+location 66
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （明日の流行１位ではない！
+line2 <shift> # 最終的には、人数の増加傾向を考慮して……）
+display
+location 67
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （無駄のないレッスンができるように
+line2 <shift> # なろう！！）
+display
+display
+location 100
+com32 0 1
+com11 0 0
+sound 10015
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「社長さん、用事って何〜？」
+display
+com11 0 0
+sound 10020
+name 0 2 <names:5>  # President
+line1 <shift> # 「来たな……、彼女達が、双海亜美君・真美君だ。
+line2 <shift> # うちで一番のイタズラ……、まあ、君に任せる」
+display
+com11 0 0
+sound 10016
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「真美達これから公園で遊ぶ予定なんだ。
+line2 <shift> # あれ？　この人、だれ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「初めまして。今日から俺が君の担当
+line2 <shift> # プロデューサーだ」
+display
+com11 0 0
+sound 10017
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ぷろでゅーさー？　んじゃ、亜美達、
+line2 <shift> # アイドルデビューすることに、なったの！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだ。公園で遊ぶのは今日で終りだ。
+line2 <shift> # これからは、芸能界が、君達の遊び場だ！」
+display
+com11 0 0
+sound 10018
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「わーい！　遊び場、遊び場ー！　んじゃ、
+line2 <shift> # 亜美とふたりで、たくさん遊んじゃおー！」
+display
+com11 0 0
+sound 10021
+name 0 2 <names:5>  # President
+line1 <shift> # 「そうそう、午前中はどちらかが学校へ行かなく
+line2 <shift> # てはならないので注意してくれたまえ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わかりました。二人ともこれからよろしくな」
+display
+com4a 0 0
+com11 0 0
+sound 10019
+com4c 0 3
+name 0 0 <names:4>  # Ami and Mami
+line1 <shift> # 「はーい。んじゃ、アイドルしに、
+line2 <shift> # しゅっぱーつ！」
+display
+location 200
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （大事なスケジュールには、オススメマークを、
+line2 <shift> # 事務員の音無さんが、つけてくれている）
+display
+location 201
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今は、レッスンと営業が重要らしい。ステップ
+line2 <shift> # アップのため必要なスケジュールってことだな）
+display
+location 202
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （いきなり、オススメを無視するのは、怖いな。
+line2 <shift> # ここは素直に、したがったほうがいい気がする）
+display
+location 210
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「初めての営業に出発だ！
+line2 <shift> # 気合いいれていこう！」
+display
+com4a 0 0
+com11 0 0
+sound 10014
+com4c 0 3
+name 0 0 <names:4>  # Ami and Mami
+line1 <shift> # 「はーい。んじゃ、アイドルしに、
+line2 <shift> # しゅっぱーつ！」
+display
+location 300
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「続いて、衣装を決めよう」
+display
+location 301
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「続いてデビュー曲を決めよう」
+display
+location 302
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「喜んでくれて俺もうれしいよ！」
+display
+unk02

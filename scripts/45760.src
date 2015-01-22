@@ -1,0 +1,317 @@
+com2c 0 38
+com2d 0 83
+com32 0 0
+com11 0 4
+sound 600
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ふぅ、なかなか新鮮でしたね。
+line2 <shift> # 老人ホームで、慰問（いもん）ライブなんて！」
+display
+com11 0 4
+sound 601
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「みんなやさしいし、たくさん拍手してくれるし。
+line2 <shift> # 居心地よすぎるよなー、ここ」
+com03 0 3
+choice1 <shift> # 将来、入りたい？
+line2
+com09 0 10
+com08
+choice2 <shift> # 今すぐ、入所したい？
+line2
+com09 0 11
+com08
+choice3 <shift> # 専属になるか？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「将来、入りたい？」
+display
+com11 0 4
+sound 602
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「もし世話になるとしたら、こういうところが
+line2 <shift> # いいですね。……ずーっと先の話ですけど」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「今すぐ、入所したい？」
+display
+com11 0 4
+sound 603
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はい！　って、そんなわけ、ないじゃない
+line2 <shift> # ですかっ。ボク、まだ、女子高生ですよ〜！」
+display
+com11 0 4
+sound 604
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「隠居する前に、やること、たくさんあります。
+line2 <shift> # トップアイドルになって、その他にもいろいろ」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「専属になるか？」
+display
+com11 0 4
+sound 605
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ここだけで活躍するユニットに、ですか。
+line2 <shift> # それは、ちょっと……」
+display
+com11 0 4
+sound 606
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「できれば、もうすこし若い男の人にも、
+line2 <shift> # 歌、きいてほしいかなーなんて。あはは……」
+com09 0 29
+display
+location 29
+com11 0 4
+sound 607
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ところで、さっき、ご老人のひとりに、
+line2 <shift> # 『ダンス教えて』って、頼まれたんですけど」
+display
+com11 0 4
+sound 608
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そういうのって、勝手にやっちゃっていいん
+line2 <shift> # ですか？　ボク、まだ駆け出しなのに……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「かまわないよ。体を動かすのは、
+line2 <shift> # 健康のためにも、いいことだしね」
+display
+com11 0 4
+sound 609
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「よーし、それじゃあ、すこしだけ！　あ、今日
+line2 <shift> # からボクのこと、先生って呼んでくれます？」
+com03 0 3
+choice1 <shift> # 調子に乗るなって
+line2
+com09 0 30
+com08
+choice2 <shift> # わかりました、菊地先生
+line2
+com09 0 31
+com08
+choice3 <shift> # 誰が、呼ぶかー！
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「調子に乗るなって」
+display
+com11 0 4
+sound 610
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「やっぱりー、ダメですよね？
+line2 <shift> # へへへ、冗談です、冗談」
+display
+com11 0 4
+sound 611
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ホントに、プロデューサーから、先生なんて
+line2 <shift> # 呼ばれたら、逆に困っちゃいますから」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わかりました、菊地先生」
+display
+com11 0 4
+sound 612
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「真顔で、言わないで下さいよ〜。
+line2 <shift> # 冗談ですって、冗談……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なんだ、冗談か。お人が悪いですね、先生」
+display
+com11 0 4
+sound 613
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「や、やめて下さいって〜。プロデューサーに、
+line2 <shift> # そう呼ばれると、なんか落ち着きません……」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「誰が、呼ぶかー！」
+display
+com11 0 4
+sound 614
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うわっ、怒らないで下さいよっ！
+line2 <shift> # 冗談！　冗談に決まってるじゃないですか〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なんだ、冗談か。つい……」
+display
+com11 0 4
+sound 615
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ああ〜、ビックリした。ホントに先生なんて
+line2 <shift> # 呼ばれたら、恥ずかしくて、たまりません」
+com09 0 49
+display
+location 49
+com11 0 4
+sound 616
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「さてと、じゃあ、教えに……。
+line2 <shift> # けど、どこまで、本格的にやればいいのかなあ」
+display
+com11 0 4
+sound 617
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ご老人、ハードでも、ついてこられますか？
+line2 <shift> # なるべく、出し惜しみはしたくないんですけど」
+com03 0 3
+choice1 <shift> # さわりだけ、教えればいいよ
+line2
+com09 0 50
+com08
+choice2 <shift> # ご老人を、甘く見るなよ
+line2
+com09 0 51
+com08
+choice3 <shift> # テクだけ、教えればいいよ
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「さわりだけ、教えればいいよ」
+display
+com11 0 4
+sound 618
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そんな小手先で、満足してもらえるでしょう
+line2 <shift> # か？　せっかく、興味持ってくれてるのに」
+display
+com11 0 4
+sound 619
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「でも、わかりました！　あまりムリさせると、
+line2 <shift> # 疲れさせちゃいますもんね！」
+display
+com22 0 30
+com21 0 30
+com11 0 4
+sound 620
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサー、すっごい、よろこんでもらえ
+line2 <shift> # ました！　たくさんの人が参加してくれて！」
+display
+com11 0 4
+sound 621
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ほらほら、あそこ！　ダンスの輪！　へへへ、
+line2 <shift> # ボクもいっしょに、踊ってこようかな！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うれしそうに、人の輪に戻っていった。これで、
+line2 <shift> # ご老人達、真のファンになってくれるかな）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ご老人を、甘く見るなよ。体力を持て余してる
+line2 <shift> # 人なんて、ごまんといるんだ」
+display
+com11 0 4
+sound 622
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そっか、そうですよね！　せっかく申し出て
+line2 <shift> # くれたんだし、手を抜いちゃ、失礼に……」
+display
+com11 0 4
+sound 623
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「わかりました！　ビシビシいきます！
+line2 <shift> # う〜、燃えてきたぞ〜！」
+display
+com22 0 30
+com21 0 30
+com11 0 4
+sound 624
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うう、ちっとも盛り上がりませんでした……。
+line2 <shift> # みんな、最初は踊っててくれたんですけど……」
+display
+com11 0 4
+sound 625
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「途中から『疲れた〜』って言って、見てるばっ
+line2 <shift> # かりになっちゃって。せっかく教えたのになあ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （真は残念そうだ。ご老人に真と同じダンスを踊
+line2 <shift> # らせようなんて、さすがにムチャだったか……）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「テクだけ、教えればいいよ」
+display
+com11 0 4
+sound 626
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「でも、それじゃ、飽きられちゃうんじゃない
+line2 <shift> # でしょうか？　あまりダンスの楽しさは……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やり方さえ伝えておけば、楽しむことは、
+line2 <shift> # あとでいくらだって、できるだろ？」
+display
+com11 0 4
+sound 627
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「それも、そうですね！　わかりました。
+line2 <shift> # じゃあ、ボクが教わったことを、全部！」
+display
+com22 0 30
+com21 0 30
+com11 0 4
+sound 628
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ううう、プロデューサ〜、ボク、ダメな先生
+line2 <shift> # です。説明が、説明になってなくて……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え？　でも、これまで、そんなむずかしい
+line2 <shift> # テク、学んできたわけじゃないよな？」
+display
+com11 0 4
+sound 629
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「それでも、うまく向こうに、伝えられないん
+line2 <shift> # です。教える資格なんて、なかったのかも……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （無力さを、かみしめている……。技術的な事を
+line2 <shift> # かみくだく力は、今のところ、ないみたいだな）
+com09 0 69
+display
+location 69
+unk02

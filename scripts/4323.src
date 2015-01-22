@@ -1,0 +1,310 @@
+com2c 0 24
+com2d 0 11
+com11 0 1
+sound 1100
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「おつかれさまでしたー♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おつかれさま、春香。ところで
+line2 <shift> # 学校のほうは大丈夫なのか？」
+display
+com11 0 1
+sound 1101
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「心配ないですよっ。友達にもよく
+line2 <shift> # フォローしてもらってるし……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか、いい友達がいるんだな」
+display
+com11 0 1
+sound 1102
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「えへへ、そうですね。頼ってばかりです」
+display
+com11 0 1
+sound 1103
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「でも、頼ってばかりでいいのかなぁ、私。
+line2 <shift> # ちょっと、迷惑かけてるかなぁ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうした？　もしかして、
+line2 <shift> # なにか悩みがあるのか、春香？」
+display
+com11 0 1
+sound 1104
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「うーん、時々、友達の視線が
+line2 <shift> # 気になることがあるんです」
+display
+com11 0 1
+sound 1105
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ほんとに時々だけど、少しよそよそしい
+line2 <shift> # というか、そっけないというか……」
+display
+com11 0 1
+sound 1106
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「仕事で学校続けて休んじゃったときなんかは、
+line2 <shift> # 特に。少し顔を合わせづらいかも」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なるほど、なんとなく事情は
+line2 <shift> # わかる気はするな」
+display
+com11 0 1
+sound 1107
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「『春香はＴＶにばんばん出てるからいいよね』
+line2 <shift> # って言われると、私、ちょっと複雑な気分で」
+display
+com11 0 1
+sound 1108
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「前みたく、普通に接して欲しいなぁ。
+line2 <shift> # でも、もう無理なのかなぁ……」
+com03 0 3
+choice1 <shift> # 気にすることないさ
+line2
+com09 0 10
+com08
+choice2 <shift> # お互い気遣いが必要だ
+line2
+com09 0 11
+com08
+choice3 <shift> # もう以前とは違うんだ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「気にすることないさ！　春香、その友達とは、
+line2 <shift> # いまもちゃんと『友達』なんだろう？」
+display
+com11 0 1
+sound 1109
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「は、はい！　もちろんです！
+line2 <shift> # 親友って言ってもいいかもっ」
+display
+com11 0 1
+sound 1110
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ただ、最近、あんまり一緒に遊んだり
+line2 <shift> # できないから、彼女、不機嫌で……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「その不満をぶつけてくる？」
+display
+com11 0 1
+sound 1111
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そうです。なんか私、悪い気がして。
+line2 <shift> # 仕事のことは、わかってくれてるんですけど」
+display
+com11 0 1
+sound 1112
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「それから、私がＴＶで大失敗すると、
+line2 <shift> # 結構本気で怒ったり……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「親友だからこそ、遠慮なく不満言ったり、
+line2 <shift> # はっきり怒ってくれてるんじゃないかな」
+display
+com11 0 1
+sound 1113
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そうなんだけど……。それがちょっときつくて、
+line2 <shift> # ヘコまされることもあって」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「口調はきつくても、ちゃんと本音で言って
+line2 <shift> # くれてるなら、俺はいいと思うよ。いい友達だ」
+display
+com11 0 1
+sound 1114
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そうですね。わかってるんですけど……。
+line2 <shift> # ううん、それよりもっ！」
+display
+com11 0 1
+sound 1115
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「私のほうが、あんまり彼女のためになって
+line2 <shift> # あげられなくって、それがなんかイヤで」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それもさ、親友同士だったら、変な気遣い無用
+line2 <shift> # だよ。どっちのためとかってのはナシだよ」
+display
+com11 0 1
+sound 1116
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そっかぁ……私が変に気にしすぎなのかな。
+line2 <shift> # 彼女がきつかったり、遠慮して見えるのは……」
+display
+com11 0 1
+sound 1117
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「わかりました、気楽に気軽に！　前と同じに
+line2 <shift> # 付き合えるように、私、話してみます！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。友達、大事にしような」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （春香に笑顔が戻った。うまく友達と話して、
+line2 <shift> # 仲良くやっていけるといいな……）
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もう少し気遣いが必要なのかな……。
+line2 <shift> # 春香、何か思い当たる節は？」
+display
+com11 0 1
+sound 1118
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「私が最近、仕事とか、ＴＶとかの話ばっかり
+line2 <shift> # してるのがいけないのかなぁ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「確かにそれは友達としては気になるところ
+line2 <shift> # だね。自分の知らないところでの話……」
+display
+com11 0 1
+sound 1119
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そうですね。知らない話……、だから、
+line2 <shift> # 距離が、なんかできちゃうのかな」
+display
+com11 0 1
+sound 1120
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「でも、彼女から聞く学校での話題は、
+line2 <shift> # 逆に、私がたまにわからなかったりして」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、お互い様だね。話のすれ違いか。
+line2 <shift> # ある意味、仕方ないけど……」
+display
+com11 0 1
+sound 1121
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ケンカとかしてるわけじゃないのに……。
+line2 <shift> # このまま疎遠になっちゃうの、イヤだなぁ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「友達同士なんだから、不満に思うなら、
+line2 <shift> # 遠慮なく言ったほうがいいんじゃないか」
+display
+com11 0 1
+sound 1122
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「うーん、でも……、どうしよう」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「話してみなけりゃはじまらないよ。
+line2 <shift> # ひとり無闇に悩むより、当たって砕けろだ」
+display
+com11 0 1
+sound 1123
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そうですね……。なんとか、うまく話せるよう
+line2 <shift> # に、私、考えてみますね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ちょっと難しい状況みたいだけど……。
+line2 <shift> # 友達とのこと、うまく解決してくれるといいな）
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「春香、そうは言っても、もう以前とは
+line2 <shift> # お互いの立場が違うんだから……」
+display
+com11 0 1
+sound 1124
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「立場が、違う？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「春香もアイドルとして売れてきちゃったから、
+line2 <shift> # 以前どおり学校の友達と付き合うのは難しいな」
+display
+com11 0 1
+sound 1125
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そんな、どうして？　私、そんなに前と、
+line2 <shift> # 自分が変わったと思わないんだけど……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「春香が思わなくても、
+line2 <shift> # 友達は思ってるかもしれないよ」
+display
+com11 0 1
+sound 1126
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そうなのかなぁ……。それでやっぱり、
+line2 <shift> # 距離ができちゃうのかなぁ」
+display
+com11 0 1
+sound 1127
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「なんか、そういうの、つまんないなぁ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうは言っても仕方ないよ。時間が経てば皆、
+line2 <shift> # 住む世界が変わっていくもんだ」
+display
+com11 0 1
+sound 1128
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「仕方なくないですよぉ！
+line2 <shift> # 私……、納得できないです！」
+display
+com11 0 1
+sound 1129
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ケンカしたわけでもないのに、だんだん、
+line2 <shift> # 友達との距離が遠くなっちゃうなんて！」
+display
+com11 0 1
+sound 1130
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あーあ……。このままだったら、もう……、
+line2 <shift> # アイドルなんて……、私、やめちゃおうかなぁ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「えっ！？」
+display
+com11 0 1
+sound 1131
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あっ……。い、いえ、仕事はやめないですよ！
+line2 <shift> # でも、友達の友達だって、やめたくないんです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どっちもやめる必要、ないだろう？」
+display
+com11 0 1
+sound 1132
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「うーん、でもこのままじゃ……。仕事も友達も、
+line2 <shift> # どっちも大事。どうしたらいいんだろう」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （春香はうつむいて、考えこんでしまった。
+line2 <shift> # うまくアドバイスをしてやれなかったな……）
+com09 0 29
+display
+location 29
+unk02

@@ -1,0 +1,233 @@
+com2c 0 1
+com2c 0 24
+com2d 0 31
+com32 0 0
+com11 0 5
+sound 400
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ディレクターと顔合わせ、ですか！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。いいＴＶ番組に出るためには、
+line2 <shift> # そういうのも大切だから」
+display
+com11 0 5
+sound 401
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「わ、わかりましたー……」
+com03 0 2
+choice1 <shift> # ドキドキするか？
+line2
+com09 0 10
+com08
+choice2 <shift> # 楽しみだろ？
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ドキドキするか？」
+display
+com11 0 5
+sound 402
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「は、はい！　がんばらなきゃ！
+line2 <shift> # 私、あいさつしまくりまーすっ！」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「楽しみだろ？」
+display
+com11 0 5
+sound 403
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「は、はい！　どんな人かなー？
+line2 <shift> # 私、あいさつしまくりまーすっ！」
+com09 0 19
+display
+location 19
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「い、１回でいいけどな」
+display
+com11 0 5
+sound 419
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あの……、プロデューサー！　会う前に、
+line2 <shift> # プロデューサーの元気パワー、わけて下さい！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え、元気パワーって……？　俺の元気なんかも
+line2 <shift> # らわなくても、やよいはじゅうぶん元気だろ？」
+display
+com11 0 5
+sound 420
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「でも、ニコニコ笑顔で、シャキーンと、
+line2 <shift> # あいさつしたいから……、お願いしまーす！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、わかった。それじゃ、気合い注入だ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ニコニコ笑顔をつくるには、ここが重要だから、
+line2 <shift> # 俺の元気パワー、ここから、やよいに渡すぞ」
+com0e 0 201
+com44
+com09 0 20
+com45
+com44
+com09 0 21
+com45
+com44
+com09 0 22
+com45
+com44
+com09 0 23
+com45
+display
+location 20
+com11 0 5
+sound 421
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「えへへ。ありがとうございまーっす！
+line2 <shift> # ほっぺた、ニコニコって、元気になりました！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おっ！　ほっぺたが、きゅっとあがって、
+line2 <shift> # いい笑顔になったな！」
+display
+com11 0 5
+sound 422
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はいっ！　元気にあいさつできそうです。
+line2 <shift> # うっうー、いい感じかも！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （よし！　緊張もとれて、
+line2 <shift> # 生き生きした表情になったな）
+com4b 0 0
+com09 0 29
+display
+location 21
+com11 0 5
+sound 423
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ、えーと……。なんか、長い気が……。
+line2 <shift> # そんなにいっぱいは、パワーいらないです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか？　なんなら、俺のパワー全部、
+line2 <shift> # やよいに渡してもいいけど」
+display
+com11 0 5
+sound 424
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「そんなことしたら、プロデューサーが、
+line2 <shift> # 倒れちゃいますよ！　も、もういいです！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （こういうのって、気分的なもので、当然、
+line2 <shift> # 本当にパワーを渡せるわけじゃないんだが……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （やよいは、本気で心配してしまったようだな。
+line2 <shift> # ちょっと、やりすぎたか……）
+com4b 0 1
+com09 0 29
+display
+location 22
+com11 0 5
+sound 425
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「わっ！　ぷ、プロデューサー。
+line2 <shift> # 今、目、さわろうとしませんでしたか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うん。笑顔をつくるには目が大事だろ？
+line2 <shift> # 目が笑ってないと、怖い笑顔になるからな」
+display
+com11 0 5
+sound 426
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「でも、目をさわったら、痛いかなーって」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やよいが、目をつぶってくれれば、
+line2 <shift> # いいじゃないか」
+display
+com11 0 5
+sound 427
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ、そっか……。でも、それならそうと、
+line2 <shift> # 先に言ってほしかったですー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そうだな。間違って、目をさわったら、
+line2 <shift> # 大変だもんな。ごめんよ……」
+display
+com11 0 5
+sound 428
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「いえ、いいんですー……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （なんとなく、雰囲気が暗くなってしまった……。
+line2 <shift> # 目なんか、さわろうとするんじゃなかったな）
+com4b 0 2
+com09 0 29
+display
+location 23
+com11 0 5
+sound 429
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「えーと、プロデューサー。さっき、
+line2 <shift> # 『笑顔をつくるには、ここが重要』って……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う、悪い。
+line2 <shift> # いざとなると、ちょっと混乱しちゃって……」
+display
+com11 0 5
+sound 430
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「そ、そうですかー……。あの、いいですっ。
+line2 <shift> # なんでも人に頼るの、よくないし」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うーん、力になってやれなかったな）
+com4b 0 2
+com09 0 29
+display
+location 29
+com22 0 30
+com32 0 1
+com21 0 30
+com11 0 5
+sound 416
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「わ、私……、どうでした？
+line2 <shift> # ちゃんと、できたかなあ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「けっこう、好印象だったんじゃないかな」
+display
+com11 0 5
+sound 417
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うう〜。ふ、不安かも……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、焦らずにいこう。
+line2 <shift> # 結果は、すこしずつ出るはずだから」
+display
+com11 0 5
+sound 418
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「そうですねっ、がんばろーっと！」
+display
+unk02

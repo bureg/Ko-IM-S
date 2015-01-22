@@ -1,0 +1,652 @@
+com2d 0 91
+com2e 0 101
+com2c 0 25
+com32 0 0
+com11 0 0
+sound 0
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ねえ、兄ちゃん。
+line2 <shift> # 今日、お仕事ないのー？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ごめんな。まだ駆け出しの新人だから、
+line2 <shift> # そんなに仕事取れなくて……」
+display
+com11 0 0
+sound 1
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「じゃあさ、アレやろうよ。
+line2 <shift> # アレ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「アレ？
+line2 <shift> # アレってもしかして……」
+com03 0 3
+choice1 <shift> # 勉強か？
+com09 0 10
+com08
+choice2 <shift> # レッスンか？
+line2
+com09 0 11
+com08
+choice3 <shift> # 昼寝か？
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「勉強か？」
+display
+com11 0 0
+sound 2
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うぇ〜っ！　なんでガッコ終わったのに、
+line2 <shift> # こんなとこで、また勉強すんのー！？」
+display
+com11 0 0
+sound 3
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「そうだよ〜！　真美たちは、
+line2 <shift> # 今、勉強ダイエットしてんのにー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「勉強ダイエット？
+line2 <shift> # 勉強して、やせるのか？」
+display
+com11 0 0
+sound 4
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ちがうよー！　勉強しすぎないように、
+line2 <shift> # 勉強の量を減らしてんのー」
+display
+com11 0 0
+sound 5
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「詰めこみキョーイクは、
+line2 <shift> # よくないからねー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （また余計な言葉を覚えてきたな……）
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「レッスンか？」
+display
+com11 0 0
+sound 6
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「レッスンはもう終わったっしょ！
+line2 <shift> # 兄ちゃんのレッスンやらせたがり星人ー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ちょっと、言ってみただけだろ」
+display
+com11 0 0
+sound 7
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「兄ちゃんって、ＭかＬかで言ったら、
+line2 <shift> # Ｌでしょ〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……なんだよ、Ｌって？」
+display
+com11 0 0
+sound 8
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「知らない。この間、テレビで言ってた。
+line2 <shift> # いじめるのが好きな人。ＬだっけＨだっけ？」
+display
+com11 0 0
+sound 9
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「Ｈだ！
+line2 <shift> # 兄ちゃんのエッチぃ〜♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「こら、そんな大声で
+line2 <shift> # 人聞きの悪いこと言うんじゃない！」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「昼寝か？」
+display
+com11 0 0
+sound 10
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ううん。
+line2 <shift> # 昼寝は好きだけど、今は眠くないよー」
+display
+com11 0 0
+sound 11
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「うんうん。
+line2 <shift> # ガッコでちゃんと寝てきたもんねー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「授業中にかっ！？」
+display
+com11 0 0
+sound 12
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「寝たくて、寝るんじゃないんだよ！
+line2 <shift> # どうしても眠たくなっちゃうの〜」
+display
+com11 0 0
+sound 13
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「スイミンガクシュウしてるんだよ〜。
+line2 <shift> # なにも覚えてないけど、たぶん……」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ、いったい
+line2 <shift> # なにをやるつもりなんだ？」
+display
+com11 0 0
+sound 14
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「お仕事ないのは、ほかのアイドルが
+line2 <shift> # お仕事やってるからでしょ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、そうだな……」
+display
+com11 0 0
+sound 15
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「だから、アイドル狩りすんの！
+line2 <shift> # アイドル狩り！」
+display
+com11 0 0
+sound 16
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「そっか〜。他のアイドルをヤミウチすれば、
+line2 <shift> # お仕事ガッポガッポだね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなことしたら、ガッポガッポどころか、
+line2 <shift> # 芸能界から追放されるぞ……」
+display
+com11 0 0
+sound 17
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「じゃあ、やめる〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「心配しなくても、頑張れば、
+line2 <shift> # 実力で仕事が取れるようになるから」
+display
+com11 0 0
+sound 18
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「じゃあ、まだお仕事ない今は
+line2 <shift> # なにやろっか〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺に、いい考えがあるぞ」
+display
+com11 0 0
+sound 19
+com4c 0 3
+name 0 0 <names:4>  # Ami and Mami
+line1 <shift> # 「なに？　なに？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「事務所の掃除だ」
+display
+com11 0 0
+sound 20
+com4c 0 3
+name 0 0 <names:4>  # Ami and Mami
+line1 <shift> # 「ええ〜っ！！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「自分達で掃除すれば、人件費も浮くし
+line2 <shift> # 運動にもなるしだな……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おい！　ふたりとも
+line2 <shift> # なんだ、そのテンションの低さは……」
+display
+com11 0 0
+sound 21
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「亜美たち、散らかすのは得意だけど……」
+display
+com11 0 0
+sound 22
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「お掃除は、
+line2 <shift> # あんまり得意な方じゃないんだよ〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （なんとかして、ふたりに
+line2 <shift> # やる気を出させないと……）
+com03 0 3
+choice1 <shift> # 終わったらご褒美だ
+line2
+com09 0 30
+com08
+choice2 <shift> # 終わったら遊ぼう
+line2
+com09 0 31
+com08
+choice3 <shift> # お掃除競争しよう
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「終わったら、ご褒美だぞ」
+display
+com11 0 0
+sound 23
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「兄ちゃんがお掃除、全部やってくれたら、
+line2 <shift> # 亜美たちがご褒美あげるよ〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （さすがに、こんな単純な手には、
+line2 <shift> # 引っかかってくれないか……）
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「終わったら、遊んでやるぞ」
+display
+com11 0 0
+sound 24
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「じゃあ、先に遊んでから
+line2 <shift> # 掃除しようよっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （そんなことしたら、遊び疲れたとか言って、
+line2 <shift> # そのまま、うやむやにされそうだ……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （やっぱり一筋縄ではいかないか……）
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お掃除競争しよう。
+line2 <shift> # 誰が一番多く片づけられるかを……」
+display
+com11 0 0
+sound 25
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「そんなの、お片づけが苦手な
+line2 <shift> # 亜美たちが不利だよ〜」
+display
+com11 0 0
+sound 26
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「じゃあ、真美たちが散らかすチームで、
+line2 <shift> # 兄ちゃんがお掃除チームで勝負しようよっ！」
+display
+com11 0 0
+sound 27
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うんうん。
+line2 <shift> # それなら負けないよ〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （そんな不毛な戦いに、
+line2 <shift> # 参戦してたまるか……）
+com09 0 49
+display
+location 49
+com11 0 0
+sound 28
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「亜美たちは遊びたいざかりなんだよ〜」
+display
+com11 0 0
+sound 29
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「掃除は、掃除やりたいざかりの
+line2 <shift> # 兄ちゃんがやればいいでしょ〜」
+display
+com11 0 0
+sound 30
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ねえ、真美ー、かくれんぼしようよ。
+line2 <shift> # 散らかってる方がおもしろいし！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （何とかうまく
+line2 <shift> # ふたりを乗せないと……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わかった。
+line2 <shift> # じゃあ、こういうルールはどうだ？」
+display
+com11 0 0
+sound 31
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「なに？　なに？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「かくれんぼで俺がふたりを見つけたら、
+line2 <shift> # 残りの時間は、ちゃんと掃除につきあうこと」
+display
+com11 0 0
+sound 32
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「見つけられなかったら？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「その時は、俺だけ残って、
+line2 <shift> # 残業で掃除するよ」
+display
+com11 0 0
+sound 33
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ふっふ〜、かくれんぼで亜美たちに挑むとは、
+line2 <shift> # 勇気ある兄ちゃんだね〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ、勝負を受けるんだな？」
+display
+com11 0 0
+sound 34
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「かくれんぼ勝負を挑まれたら、
+line2 <shift> # 逃げるわけにはいかないよ〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （よし、乗ってきたぞ！）
+display
+com11 0 0
+sound 35
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「んじゃ、１００数えてから探すんだよ。
+line2 <shift> # 行くよ、真美ー！」
+display
+com11 0 0
+sound 36
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「じゃあね、兄ちゃん！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （これでふたりを見つけることができれば、
+line2 <shift> # 俺の勝ちだ！）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （見つけられるかどうかは完全に運だが……
+line2 <shift> # ここは絶対、見つけなくては！　……よし！）
+com03 0 3
+choice1 <shift> # この辺を探すぞ
+line2
+com09 0 50
+com08
+choice2 <shift> # その辺を探すぞ
+line2
+com09 0 51
+com08
+choice3 <shift> # あの辺を探すぞ
+line2
+com09 0 52
+com08
+com07
+com09 0 53
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「この辺を探すぞ」
+com37 0 1
+com1e 0 0
+com09 0 60
+com3b
+com37 0 0
+com1e 0 0
+com09 0 61
+com3b
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「その辺を探すぞ」
+com37 0 1
+com1e 0 0
+com09 0 60
+com3b
+com37 0 0
+com1e 0 0
+com09 0 61
+com3b
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あの辺を探すぞ」
+com37 0 1
+com1e 0 0
+com09 0 60
+com3b
+com37 0 0
+com1e 0 0
+com09 0 61
+com3b
+display
+location 53
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あの辺を探すぞ」
+com09 0 61
+display
+location 60
+com11 0 0
+sound 37
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うわわ〜っ！
+line2 <shift> # 見つかっちったよ〜！！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、亜美は見つけた。
+line2 <shift> # あとは真美だけだな」
+display
+com11 0 0
+sound 38
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「真美は見つかんないもんね〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか……、じゃあしょうがないな。
+line2 <shift> # 亜美だけに特別に……ゴニョゴニョ」
+display
+com11 0 0
+sound 39
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「えっ……？　なになに？
+line2 <shift> # よく聞こえないよー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だから……ゴニョゴニョ……で、
+line2 <shift> # アレが……ゴニョゴニョ……」
+display
+com11 0 0
+sound 40
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「なに、ふたりでナイショ話してんの〜？
+line2 <shift> # 仲間はずれにしないでよーっ！」
+display
+com11 0 0
+sound 41
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「真美ー！
+line2 <shift> # なんで出てきたのー！？」
+display
+com11 0 0
+sound 42
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「あっ、そっか……！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「真美、見〜つけた！」
+display
+com11 0 0
+sound 43
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「なにやってんの、真美〜！」
+display
+com11 0 0
+sound 44
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「だって〜！
+line2 <shift> # ふたりで楽しそうだったから……」
+display
+com11 0 0
+sound 45
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「もう〜っ、兄ちゃん
+line2 <shift> # ゴニョゴニョ言ってるだけだったのに〜！」
+display
+com11 0 0
+sound 46
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「そうだったんだ……。
+line2 <shift> # 兄ちゃん、ズル〜い！！」
+display
+com11 0 0
+sound 47
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ね、もう１回やろ！
+line2 <shift> # 次は絶対、引っかかんないからー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、いいぞ。
+line2 <shift> # 約束通り、ちゃんと掃除が終わったらな」
+display
+com11 0 0
+sound 48
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「真美ー！　急いでお掃除するよー！」
+display
+com11 0 0
+sound 49
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「うんっ！
+line2 <shift> # 次はぜったい負けないもんねー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （そのあと、ふたりは約束通り、
+line2 <shift> # 真面目に掃除をしてくれた）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ムリヤリ強制するんじゃなくて、
+line2 <shift> # どうやってやる気を出させるかが重要なんだ）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （仕事はなかったけど、
+line2 <shift> # 今日、得た物は大きかったな！）
+com4b 0 0
+com09 0 69
+display
+location 61
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ダメだ……。
+line2 <shift> # 全然見つけられない……」
+display
+com11 0 0
+sound 50
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「んっふっふ〜。お仕事、終わりの時間に
+line2 <shift> # なっちゃったね〜」
+display
+com11 0 0
+sound 51
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「かくれんぼ勝負で真美たちに勝とうなんて、
+line2 <shift> # 兄ちゃんも、まだまだ甘いって感じ〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「か、返す言葉もない……」
+display
+com11 0 0
+sound 52
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「これからも、なにかあったら
+line2 <shift> # 全部かくれんぼで決めようよ〜」
+display
+com11 0 0
+sound 53
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「うんうん、賛成〜っ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （結局、今日は、
+line2 <shift> # ふたりを調子に乗せてしまっただけか……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （俺は一人事務所に残って、
+line2 <shift> # 約束通り、残業して掃除をした）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うぅ……、なんてみじめなんだ……）
+com4b 0 2
+com09 0 69
+display
+location 69
+unk02

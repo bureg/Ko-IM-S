@@ -1,0 +1,544 @@
+com2c 0 24
+com2d 0 61
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「雑誌社が読者に、雪歩に、どんなイメージを
+line2 <shift> # 持ってるか、アンケートを取ったそうだ」
+display
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「私のイメージ……、ですかぁ？
+line2 <shift> # あの、どんな物が、あるんでしょうか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「色々あるが、『かわいい』とか『優しそう』
+line2 <shift> # とか、そういうのが多いかな」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ。結構、いいイメージなんですね。
+line2 <shift> # 良かった……。ふ、ふふっ」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あの、プロデューサーは、どんな感じですか？
+line2 <shift> # 私のイメージ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え？　俺が雪歩に対して持ってるイメージか？
+line2 <shift> # そうだなあ……」
+com03 0 3
+choice1 <shift> # おとなしい
+com09 0 10
+com08
+choice2 <shift> # スレンダー
+com09 0 11
+com08
+choice3 <shift> # 穴掘り
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おとなしい、かな。おしとやかというか、優し
+line2 <shift> # げなイメージだ。アンケート結果と似てるけど」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そうですかぁ。やっぱり私って、
+line2 <shift> # おとなしいイメージなんですねぇ」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「でも、歌ってる時なんかは、そんなに、
+line2 <shift> # おとなしくもないと思うんですけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ま、普段の印象が強いんだろうな」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「スレンダー、かな。
+line2 <shift> # ほっそりすらっとしてる、イメージだよ」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「……で、でも、スレンダーって、
+line2 <shift> # 凹凸の少ない体って、ことですよね」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「やっぱり……、プロデューサーも、ひんそーな
+line2 <shift> # 体型だって思ってるんですね。ううっ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そんなことはないぞ！
+line2 <shift> # スレンダーは、ホメ言葉だ。本当だぞ！」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ううっ……、ぐすっ……。
+line2 <shift> # ほ、ホントですかぁ……？」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「穴掘り、かな。
+line2 <shift> # インパクトあるからな、あれは……」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「う……。そんなに印象づけられてるって……、
+line2 <shift> # 私が、穴を掘りまくってるからですよね……」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「いつも、たくさん失敗しちゃってるから……。
+line2 <shift> # ああ、私って、どうしてこうダメなんだろ……」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「もう、こんなダメな私は、
+line2 <shift> # 穴掘って埋まっておきますぅー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あっ、おい！
+line2 <shift> # 言ってるそばから、穴を掘るなーっ！」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あうっ。すみません。……つ、つい」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お！　アンケートに、こんな項目もあるぞ。
+line2 <shift> # 『雪歩に似合うと思う職業は？』だってさ」
+display
+com11 0 0
+sound 10012
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「へえ……。面白いですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「保母さん、獣医さん、お花屋さん……、
+line2 <shift> # 色々あるな」
+display
+com11 0 0
+sound 10013
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「保母さん……。とっても楽しそうですけど、
+line2 <shift> # 私の場合、子ども達に、いじめられそうですぅ」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「獣医さんは、患者さんで来た犬に、
+line2 <shift> # いじめられそうだし……」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「お花屋さんは、お花を買いに来た人が、もし、
+line2 <shift> # 男の人だったら、怖いからダメだし……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……全部、ダメなんだな。結局」
+display
+com11 0 0
+sound 10016
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「す、すみません……。あの、プロデューサーは、
+line2 <shift> # 私に、どんな職業が似合うと思いますか？」
+com03 0 3
+choice1 <shift> # やっぱりアイドル
+line2
+com09 0 30
+com08
+choice2 <shift> # 作詞家
+com09 0 31
+com08
+choice3 <shift> # メイドさん
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そりゃ、やっぱりアイドルかな。
+line2 <shift> # 似合うというより、天職だよ」
+display
+com11 0 0
+sound 10017
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そ、そうですか？　天職まで言っちゃうと、
+line2 <shift> # ちょっと大げさかもしれないですけど……」
+display
+com11 0 0
+sound 10018
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「で、でも、プロデューサーから、そう言って
+line2 <shift> # もらえると、とってもうれしいです……」
+display
+com11 0 0
+sound 10019
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ふ、ふふっ。これからも、がんばりまぁす。
+line2 <shift> # ……な、なーんて。えへへ……」
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「作詞家かな。雪歩って、ポエムが趣味だろ？」
+display
+com11 0 0
+sound 10020
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「作詞家……。自分で書いた詞を歌って、
+line2 <shift> # 毎日暮らせたら、ステキかもですね」
+display
+com11 0 0
+sound 10021
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ、でも、曲に合わせて詞を書くのは、
+line2 <shift> # 難しそうです。曲のイメージもあるし……」
+display
+com11 0 0
+sound 10022
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「私が思ってるよりずっと、それを
+line2 <shift> # お仕事にするのは、難しいんでしょうねぇ……」
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「メイドさんかな。『お帰りなさいませ、
+line2 <shift> # ご主人様』って、言ってみてくれよ」
+display
+com11 0 0
+sound 10023
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「お、お帰りなさいませ、ご主人様……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いいじゃないか！　じゃあ次は『べ、別に寂し
+line2 <shift> # くなんかなかったんだからね！』だ。はいっ！」
+display
+com11 0 0
+sound 10024
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「プロデューサー、それって、
+line2 <shift> # なんか職業とは、違う気がしますぅ……」
+display
+com11 0 0
+sound 10025
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「メイドさんとも、ちょっと違うし……。プロ
+line2 <shift> # デューサーの趣味には、付き合えないですよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （くっ！　雪歩の視線に、ちょっとケーベツの色
+line2 <shift> # が混じっている気がする……。なぜだっ！？）
+com09 0 49
+display
+location 49
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……しかし、このアンケート、
+line2 <shift> # なかなか考えさせられるものがあるな」
+display
+com11 0 0
+sound 10026
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そ、そうですか。考えさせられますかぁ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うん。雪歩の、こうしたイメージが、
+line2 <shift> # ファンをひきつけてきたと言えるのだけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「はたして、これからもこのままでいいのか？
+line2 <shift> # と、考えずには、いられないね」
+display
+com11 0 0
+sound 10027
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「……えっ？　そ、それって、
+line2 <shift> # どういう意味ですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「このまま変わらなければ、安定はするけど、さ
+line2 <shift> # らに新しいファンを増やすのは、難しいだろう」
+display
+com11 0 0
+sound 10028
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「……つまり、新しいファンを増やすためには、
+line2 <shift> # イメージチェンジも必要ってことですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。守りに入ったら、もう先はない。
+line2 <shift> # けど、俺達は、もっと輝く未来を目指すんだ！」
+display
+com11 0 0
+sound 10029
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「は、はいっ！
+line2 <shift> # 私、プロデューサーに、ついていきます！」
+display
+com11 0 0
+sound 10030
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「イメチェンで、輝く未来を、
+line2 <shift> # 一緒に目指しましょう！」
+display
+com11 0 0
+sound 10031
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「……あ。で、でも……、イメチェンって、
+line2 <shift> # 何を、どうすれば……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん。そうだなあ。ここは、やはり……」
+com03 0 3
+choice1 <shift> # 妹系でいこう
+line2
+com09 0 50
+com08
+choice2 <shift> # グラビアアイドル系でいこう
+line2
+com09 0 51
+com08
+choice3 <shift> # 不思議ちゃん系でいこう
+line2
+com09 0 52
+com08
+com07
+com09 0 32
+com08
+display
+location 50
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「妹系でいこう！　雪歩ならきっと、
+line2 <shift> # みんなが憧れる、かわいい妹になれる！」
+display
+com11 0 0
+sound 10032
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「妹系……。あの、それって、どんな感じなん
+line2 <shift> # ですか？　私には、お兄さんがいないから……」
+display
+com11 0 0
+sound 10033
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あんまり、よくわからないかも……。ファンの
+line2 <shift> # みなさんを『お兄さん』って、呼ぶんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「『お兄ちゃん』の方がいいな。あと自分のこと
+line2 <shift> # は『雪歩』でいこう。ちょっとやってみてくれ」
+display
+com11 0 0
+sound 10034
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「は、はい……。では、いきますぅ」
+display
+com11 0 0
+sound 10035
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「……あの、こんにちは、お兄ちゃん。
+line2 <shift> # 雪歩です」
+display
+com11 0 0
+sound 10036
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「今日は、お兄ちゃん達に会えて、
+line2 <shift> # 雪歩は、とっても嬉しいです……」
+display
+com11 0 0
+sound 10037
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「雪歩、お兄ちゃんのために、一生懸命歌います。
+line2 <shift> # ……だから応援してね、お兄ちゃん」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おおおおっ！　すごくいい感じだぞ、雪歩！」
+display
+com11 0 0
+sound 10038
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「え……。そ、そうですか？　なんだか
+line2 <shift> # 新鮮な感じですね。ちょっと楽しいかも……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （お、雪歩本人の反応も悪くないぞ！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （もう少し検討する必要はあるが、こういう
+line2 <shift> # 路線も、時には、いいのかもしれないな）
+com09 0 69
+display
+location 51
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「グラビアアイドル系でいこう。今後は、
+line2 <shift> # 青少年の層を、さらに積極的に狙っていくんだ」
+display
+com11 0 0
+sound 10039
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ええっ！？　……む、ムリですぅ。
+line2 <shift> # すみません、すみません……、ううっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お、おい、いきなりムリって……。
+line2 <shift> # やってみなけりゃ、わからないだろう？」
+display
+com11 0 0
+sound 10040
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「やらなくても、一目見れば、わかるじゃないで
+line2 <shift> # すか。私なんかが、どんなに頑張っても……」
+display
+com11 0 0
+sound 10041
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ぼん、きゅっ、ぼん！　の、ないすばでぃには、
+line2 <shift> # なれません。プロデューサーは、意地悪ですぅ」
+display
+com11 0 0
+sound 10042
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ。で、でも、まだ成長期だから、可能性が、
+line2 <shift> # 全くゼロってわけじゃないのかな……？」
+display
+com11 0 0
+sound 10043
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「うう……。だけど、今日明日、すぐに育つわけ
+line2 <shift> # じゃないし。やっぱりムリかも。ぐすっ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、あの、雪歩には雪歩なりの魅力がだな、
+line2 <shift> # ……って、おーい、俺の話をきいてるかー？」
+display
+com11 0 0
+sound 10044
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ううっ……、ぐすっ、ひっく……。ムリです。
+line2 <shift> # グラビアアイドルは、ムリですぅ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （雪歩は、俺の話が全く耳に入らないようだ。
+line2 <shift> # よっぽど自信が、ないんだな……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （かんじんの本人が、この反応じゃ、
+line2 <shift> # イメチェンは当分、諦めるしかないか）
+com09 0 69
+display
+location 52
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「不思議ちゃん系でいこう。そういうアイドル
+line2 <shift> # には、濃いファンが、つくものだからな」
+display
+com11 0 0
+sound 10045
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「え……。不思議ちゃんって、なんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「むう……。説明が難しいんだが、
+line2 <shift> # 不思議な反応をするキャラ、ってとこかな」
+display
+com11 0 0
+sound 10046
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「それって、どうすれば、
+line2 <shift> # なれるんでしょうか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ま、とりあえずは形から入るのが、
+line2 <shift> # いいだろうな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「雪歩、これからしゃべる時は、
+line2 <shift> # 語尾に『ありんす』をつけてくれ」
+display
+com11 0 0
+sound 10047
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「えええーっ！？　い、意味がわかりません。普
+line2 <shift> # 通のアイドルは、そんな話し方しませんよー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「違う！　『意味がわからないでありんす』
+line2 <shift> # だ！　京都の舞妓さんっぽく言ってくれ」
+display
+com11 0 0
+sound 10048
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「うう……。い、意味がわからないで……、
+line2 <shift> # ありんす。こ、これでいいですか……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし！　その調子で、色々話してみてくれ」
+display
+com11 0 0
+sound 10049
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ、あの……、こ、こんにちは、雪歩でありん
+line2 <shift> # す。私の大好きな歌、きいて下さいでありんす」
+display
+com11 0 0
+sound 10050
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「では、さよならでありんす。また会えるのを
+line2 <shift> # 楽しみにしてます、でありんす……」
+display
+com11 0 0
+sound 10051
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「……うう。私、見た目が全然、舞妓さんっぽく
+line2 <shift> # ないのに、話し方だけマネても、ヘンですよぉ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それが不思議ちゃんぽくて、いいんだよ！　ど
+line2 <shift> # うだ、今度のステージで、少し試してみるか？」
+display
+com11 0 0
+sound 10052
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ええっ！？　ステージで、こ、これをっ？
+line2 <shift> # ムリでありんす！　ほな、さいなら〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あっ！　こら、雪歩っ！　逃げるなーっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後、なんとか雪歩をつかまえたが、
+line2 <shift> # イメチェンだけは絶対イヤだと泣くので……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （この話は、なかったことになった。
+line2 <shift> # 無理強いして、可哀相なことしちゃったな）
+com09 0 69
+display
+location 69
+unk02

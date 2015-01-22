@@ -1,0 +1,365 @@
+com2c 0 119
+com2d 0 51
+com2e 0 131
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「五次予選か……。ついに、ＩＵ本選が、
+line2 <shift> # 見えるところまで来ましたね」
+display
+com11 0 0
+sound 10000
+com4c 0 2
+name 0 0 <names:2>  # Miki
+line1 <shift> # 「……」
+display
+com11 0 0
+sound 10001
+com4c 0 1
+name 0 0 <names:3>  # Azusa
+line1 <shift> # 「まあ、美希ちゃん」
+display
+com11 0 0
+sound 10002
+com4c 0 1
+name 0 0 <names:3>  # Azusa
+line1 <shift> # 「あっ！　待って、お願い。
+line2 <shift> # ちょっと、私の話を……」
+display
+com11 0 0
+sound 10003
+com4c 0 1
+name 0 0 <names:3>  # Azusa
+line1 <shift> # 「ああ……。行ってしまいました。
+line2 <shift> # 本当に、嫌われてしまったんですね……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「たとえ、そうでも、あずささんが、
+line2 <shift> # 気にすることはありません」
+display
+com11 0 0
+sound 10004
+com4c 0 1
+name 0 0 <names:3>  # Azusa
+line1 <shift> # 「ぷ、プロデューサーさん？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「美希が黒井社長と何を約束したか知りませんが、
+line2 <shift> # 今の美希は、意固地になっています」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「美希を７６５プロに連れ戻したい気持ちに、
+line2 <shift> # 変わりはありませんが……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今は少し、時間をおいた方がいいのかもしれな
+line2 <shift> # い。あずささんは、美希を気にしすぎですよ」
+display
+com11 0 0
+sound 10005
+com4c 0 1
+name 0 0 <names:3>  # Azusa
+line1 <shift> # 「もし、そうだとしたら、どうして私は、
+line2 <shift> # 美希ちゃんばかり気になるのかしら……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いいですか、あずささん。すでに美希は、本選
+line2 <shift> # に駒を進めたと、スタッフから聞いています」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺達も、負けないように、頑張らないと
+line2 <shift> # いけませんよ！　そのことに集中して下さい」
+display
+com11 0 0
+sound 10006
+com4c 0 1
+name 0 0 <names:3>  # Azusa
+line1 <shift> # 「……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あずささん？」
+display
+com11 0 0
+sound 10007
+com4c 0 1
+name 0 0 <names:3>  # Azusa
+line1 <shift> # 「あっ、ごめんなさい！
+line2 <shift> # お話、聞いていませんでした……」
+display
+com11 0 0
+sound 10008
+com4c 0 1
+name 0 0 <names:3>  # Azusa
+line1 <shift> # 「ええと、そのー……、何のお話でしたっけ？」
+com03 0 3
+choice1 <shift> # ＩＵ本選のことです
+line2
+com09 0 10
+com08
+choice2 <shift> # 次の仕事についてです
+line2
+com09 0 11
+com08
+choice3 <shift> # 晩ご飯についてです
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ＩＵ本選のことですよ。今日の五次予選に
+line2 <shift> # 合格すれば、いよいよ出場できるんです」
+display
+com11 0 0
+sound 10009
+com4c 0 1
+name 0 0 <names:3>  # Azusa
+line1 <shift> # 「あ、そ、そうですね〜。
+line2 <shift> # すみません、ちょっと考え事、していました」
+display
+com11 0 0
+sound 10010
+com4c 0 1
+name 0 0 <names:3>  # Azusa
+line1 <shift> # 「今は、オーディションに集中しないと
+line2 <shift> # いけないのは、わかっているのですが」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「次の仕事についてです。営業がいいか、
+line2 <shift> # それともレッスンがいいか……」
+display
+com11 0 0
+sound 10011
+com4c 0 1
+name 0 0 <names:3>  # Azusa
+line1 <shift> # 「ん〜。そうですね。
+line2 <shift> # 迷ってしまいますけれど、とりあえず今は……」
+display
+com11 0 0
+sound 10012
+com4c 0 1
+name 0 0 <names:3>  # Azusa
+line1 <shift> # 「このオーディションのことを考えた方が、
+line2 <shift> # いいかもしれませんね〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……良かった。オーディションのこと、
+line2 <shift> # 忘れてるわけじゃないんですね？」
+display
+com11 0 0
+sound 10013
+com4c 0 1
+name 0 0 <names:3>  # Azusa
+line1 <shift> # 「え……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「オーディションの話をしても、あずささん、
+line2 <shift> # 上の空だったから、少し心配になりました」
+display
+com11 0 0
+sound 10014
+com4c 0 1
+name 0 0 <names:3>  # Azusa
+line1 <shift> # 「あ……、すみません。プロデューサーさんのお
+line2 <shift> # 話、聞いていなかった私がいけないんですよね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いえ、これから聞くようにしてくれれば、
+line2 <shift> # それで大丈夫ですよ。でも……」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今日の、晩ご飯についてです」
+display
+com11 0 0
+sound 10015
+com4c 0 1
+name 0 0 <names:3>  # Azusa
+line1 <shift> # 「晩ご飯、ですか？　そうですね……。今日は、
+line2 <shift> # なにか、さっぱりしたものがいいですね」
+display
+com11 0 0
+sound 10016
+com4c 0 1
+name 0 0 <names:3>  # Azusa
+line1 <shift> # 「……あの、本当に、
+line2 <shift> # そんなお話を、していたんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いえ、あずささんが、晩ご飯のこと考えて、上
+line2 <shift> # の空なのかなーと思ったので、言ってみました」
+display
+com11 0 0
+sound 10017
+com4c 0 1
+name 0 0 <names:3>  # Azusa
+line1 <shift> # 「い、いえ。決して、そんなことを考えていた
+line2 <shift> # わけでは……。すみません〜」
+com09 0 19
+display
+location 19
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「『心ここにあらず』って感じですね、
+line2 <shift> # あずささん」
+display
+com11 0 0
+sound 10018
+com4c 0 1
+name 0 0 <names:3>  # Azusa
+line1 <shift> # 「……そんな風に、見えましたか〜？
+line2 <shift> # すみません、大事なオーディションの前なのに」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あずささんは、真面目な人ですから、
+line2 <shift> # よほどのことがない限り……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「この大事な場面で、そんな風になったりしない
+line2 <shift> # と思います。悩み事なら、俺に相談して下さい」
+display
+com11 0 0
+sound 10019
+com4c 0 1
+name 0 0 <names:3>  # Azusa
+line1 <shift> # 「やっぱり、隠せませんね、プロデューサーさん
+line2 <shift> # には……。こうなったら、正直に言います」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「はい、なんでしょう？」
+display
+com11 0 0
+sound 10020
+com4c 0 1
+name 0 0 <names:3>  # Azusa
+line1 <shift> # 「そろそろ、私も自立しなければいけないかな、
+line2 <shift> # と思うんですー。美希ちゃんのように」
+display
+com11 0 0
+sound 10021
+com4c 0 1
+name 0 0 <names:3>  # Azusa
+line1 <shift> # 「一人で、ＩＵ本選を勝ち抜くのは、
+line2 <shift> # 難しいと思いますけれど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「自立？　一人で勝ち抜く？
+line2 <shift> # あずささん、何を言っているんですか？」
+display
+com11 0 0
+sound 10022
+com4c 0 1
+name 0 0 <names:3>  # Azusa
+line1 <shift> # 「私は、もう、一人で大丈夫です。
+line2 <shift> # じゅうぶんに、やっていけると思います」
+display
+com11 0 0
+sound 10023
+com4c 0 1
+name 0 0 <names:3>  # Azusa
+line1 <shift> # 「私は大人ですから。一人前の、一人で、
+line2 <shift> # 何でもできる、強い大人の女性です、から……」
+display
+com11 0 0
+sound 10024
+com4c 0 1
+name 0 0 <names:3>  # Azusa
+line1 <shift> # 「だから……、プロデューサーさんは、
+line2 <shift> # 美希ちゃんの所に、行ってあげて下さい」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええっ！？　そ、それって、あずささんの
+line2 <shift> # プロデューサーを、辞めろってことですか！？」
+display
+com11 0 0
+sound 10025
+com4c 0 1
+name 0 0 <names:3>  # Azusa
+line1 <shift> # 「はい。私だけの意思では、プロデューサーさん
+line2 <shift> # とのコンビを解消することはできませんが……」
+display
+com11 0 0
+sound 10026
+com4c 0 1
+name 0 0 <names:3>  # Azusa
+line1 <shift> # 「もし、プロデューサーさん自身が、
+line2 <shift> # それを望むなら、可能だと思うんです〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、前にも言ったでしょう？　今の俺は、
+line2 <shift> # あずささん以外プロデュースする気はないって」
+display
+com11 0 0
+sound 10027
+com4c 0 1
+name 0 0 <names:3>  # Azusa
+line1 <shift> # 「お気持ちは嬉しいです。けど、どうしても、
+line2 <shift> # 美希ちゃんの所へ、行ってあげて欲しいんです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、あの、俺なにか、あずささんを、
+line2 <shift> # 怒らせるようなこと、してしまいましたか！？」
+display
+com11 0 0
+sound 10028
+com4c 0 1
+name 0 0 <names:3>  # Azusa
+line1 <shift> # 「誤解しないで下さい。プロデューサーさんは、
+line2 <shift> # いつだって最高のお仕事を、して下さいました」
+display
+com11 0 0
+sound 10029
+com4c 0 1
+name 0 0 <names:3>  # Azusa
+line1 <shift> # 「私には、もったいないぐらいの方です〜」
+display
+com11 0 0
+sound 10030
+com4c 0 1
+name 0 0 <names:3>  # Azusa
+line1 <shift> # 「だからこそ、いつまでも、甘えるわけには、
+line2 <shift> # いかない……、そう思ったんです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「で、ですが、あずささん……」
+display
+com11 0 0
+sound 10031
+com4c 0 1
+name 0 0 <names:3>  # Azusa
+line1 <shift> # 「あっ、そろそろ時間ですね。
+line2 <shift> # それじゃ、私、行ってきます」
+display
+com11 0 0
+sound 10032
+com4c 0 1
+name 0 0 <names:3>  # Azusa
+line1 <shift> # 「一人でも立派にやれるってところ、プロデュー
+line2 <shift> # サーさんに、お見せしないといけないですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あっ、ちょっと、あずささん！
+line2 <shift> # まだ、話は……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （くっ、オーディション前に、そんなこと言って
+line2 <shift> # 逃げるなんて、ずるいですよ、あずささん！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （一人でやれるだなんて、冗談じゃない！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今回も、いつもと変わらず、
+line2 <shift> # 俺は、あずささんに指示を出すぞ！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そして……、勝ったあとで、
+line2 <shift> # ちゃんと話を聞かなきゃ！）
+com09 0 99
+display
+location 99
+unk02

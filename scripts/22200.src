@@ -1,0 +1,266 @@
+com2c 0 24
+com2d 0 51
+com32 0 0
+com11 0 4
+sound 100
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あのー、プロデューサーさん。大切な相談が
+line2 <shift> # あるのですけれど」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「な、なんです、あらたまって？」
+com03 0 3
+choice1 <shift> # 生活上の問題ですか？
+line2
+com09 0 10
+com08
+choice2 <shift> # まさか、アイドルやめたいとか？
+line2
+com09 0 11
+com08
+choice3 <shift> # 恋愛相談ですか？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「生活上の問題ですか？」
+display
+com11 0 4
+sound 101
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はい。私、いつも朝はトーストとコーヒーなん
+line2 <shift> # ですけれど、それでは体力が持たないんです」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まさか、アイドルやめたいとか？」
+display
+com11 0 4
+sound 102
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「い、いえ、そんなことはすこしも思っていない
+line2 <shift> # です。もっと、前向きな話で……」
+com09 0 91
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「恋愛相談ですか？」
+display
+com11 0 4
+sound 103
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「え……！？　ち、ちがいます。そういうのは、
+line2 <shift> # プロデューサーさんにたずねることでは」
+com09 0 91
+display
+location 91
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ、なんの相談です？」
+display
+com11 0 4
+sound 104
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「朝食のことなんです。私、朝はトーストとコー
+line2 <shift> # ヒーなんですけど、それでは体力が持たなくて」
+com09 0 29
+display
+location 29
+com11 0 4
+sound 105
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「トップをめざすためには、このままではダメだ
+line2 <shift> # と思うんです。それで、ご相談を……」
+display
+com11 0 4
+sound 106
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「バテてしまうからといって、量を増やしては
+line2 <shift> # いけませんよね？　その、太ってしまいますし」
+com03 0 2
+choice1 <shift> # バランスが、むずかしいですね
+line2
+com09 0 30
+com08
+choice2 <shift> # 気にしすぎじゃ、ないですか？
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「バランスが、むずかしいですね」
+display
+com11 0 4
+sound 107
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そうなんです。それで私、いろいろ思い悩んで
+line2 <shift> # しまって」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「気にしすぎじゃ、ないですか？」
+display
+com11 0 4
+sound 108
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そ、そうでしょうか？　それに私、食べ
+line2 <shift> # すぎると、すぐ眠たくなってしまうんです」
+display
+com11 0 4
+sound 109
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「下手をすると、お昼過ぎまで、そのまま……。
+line2 <shift> # 仕事の日に二度寝をしたら、大変ですし」
+com09 0 49
+display
+location 49
+com11 0 4
+sound 110
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「もし、朝食のメニューを変えるとしたら、
+line2 <shift> # どういう風にしたらいいと思いますか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、そうだなあ……」
+com03 0 3
+choice1 <shift> # 牛乳でも、たしてみては？
+line2
+com09 0 50
+com08
+choice2 <shift> # 和食に、変えてみては？
+line2
+com09 0 51
+com08
+choice3 <shift> # ピザトーストに、してみては？
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 2
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「牛乳でも、たしてみては？」
+display
+com11 0 4
+sound 111
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、それ、いいかもしれないですね！　毎朝、
+line2 <shift> # １本飲むだけで、かなり、ちがうはずですし」
+display
+com11 0 4
+sound 112
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「んー、いつも宅配のおじさんが通っているので、
+line2 <shift> # その人にお願いしてみようかしら」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「野菜ジュースとかも、いいですよね。
+line2 <shift> # カロリー、そんなにないはずですし」
+display
+com11 0 4
+sound 113
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、はい！　しばらく、牛乳と交替で試して
+line2 <shift> # みようと思います。ふふっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （役に立つ提案ができたようだ。やっぱり
+line2 <shift> # 健康じゃなきゃ、美しさも維持できないよな）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「和食に、変えてみては？」
+display
+com11 0 4
+sound 114
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「やはり、それが一番でしょうか？　そうです
+line2 <shift> # よね。それでは、手を抜かずに……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「や、やけに暗いですね？　料理、
+line2 <shift> # 苦手なんですか？」
+display
+com11 0 4
+sound 115
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「いえ、ただ、私、つくるの、すごく時間が
+line2 <shift> # かかってしまうんです」
+display
+com11 0 4
+sound 116
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ほうれん草なんかも、おひたしにするか、ソ
+line2 <shift> # テーにするかだけで、考え込んでしまって……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いいじゃないですか。別にどっちだって」
+display
+com11 0 4
+sound 117
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「わかってはいるのですけど、なかなか
+line2 <shift> # 割り切れないんですよね。ん〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （考え込んでいる。和食はトーストより、選択の
+line2 <shift> # 幅が広いからな。あずささんの朝には不向きか）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ピザトーストに、してみては？」
+display
+com11 0 4
+sound 118
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「え、あ……そ、それはダメですー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうしてです？　のせて焼くだけだから
+line2 <shift> # 簡単だし、栄養も……。キライなんですか？」
+display
+com11 0 4
+sound 119
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ぎゃ、逆です。大好きで、いつも食べすぎて
+line2 <shift> # しまうので、家に置かないように……」
+display
+com11 0 4
+sound 120
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あの香り、クセになってしまうんですよね。
+line2 <shift> # そ、それにカロリー、すごく高いらしくて」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、そっか。チーズはかなり高カロリーだし、
+line2 <shift> # その上、具までのってたら……」
+display
+com11 0 4
+sound 121
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「は、話しているだけで、こう……。い、いえ！
+line2 <shift> # 食べませんよ、食べませんから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （目をぽーっとさせている。助言のつもりが、
+line2 <shift> # いけない誘惑になってしまった）
+com09 0 69
+display
+location 69
+unk02

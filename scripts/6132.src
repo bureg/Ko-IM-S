@@ -1,0 +1,459 @@
+com2c 0 25
+com2d 0 11
+com32 0 0
+com11 0 0
+sound 0
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「はあ。プロデューサーさ〜ん……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうしたんだ、春香。元気ないな？」
+display
+com11 0 0
+sound 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「私……、今のままで、アイドルとして
+line2 <shift> # やっていけるんでしょうか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ど、どうしたんだ、いきなり！？」
+display
+com11 0 0
+sound 2
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「私って、ハッキリ言って
+line2 <shift> # どんくさい……ですよね？」
+com03 0 3
+choice1 <shift> # そんなことないぞ
+line2
+com09 0 10
+com08
+choice2 <shift> # 世界に通用するレベルだ
+line2
+com09 0 11
+com08
+choice3 <shift> # さあ、よく分からないな
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなことないぞ」
+display
+com11 0 0
+sound 3
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あはは……。いいんですよ〜？
+line2 <shift> # 無理してフォロー、してくれなくても」
+com09 0 13
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「世界に通用するレベルだ」
+display
+com11 0 0
+sound 4
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「プロデューサーさん……。
+line2 <shift> # それって、あんまりうれしくないです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「はは……冗談だよ、冗談！」
+com09 0 13
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「さあ、よく分からないな」
+display
+com11 0 0
+sound 5
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「むぅ……。一番そばにいるのに、
+line2 <shift> # 分からないんですか？」
+display
+com11 0 0
+sound 6
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「それって、私に興味ないって意味ですか……？
+line2 <shift> # ちょっと悲しいですよぉ」
+display
+location 13
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だけど、春香。どうしてそんなこと
+line2 <shift> # 突然、言い出したんだ？」
+display
+com11 0 0
+sound 7
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「私って、おっちょこちょいだし、
+line2 <shift> # すぐに転んじゃったり、しますよね……」
+display
+com11 0 0
+sound 8
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「アイドルとして、このままじゃいけない！
+line2 <shift> # って思って……」
+display
+com11 0 0
+sound 9
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「友達と作戦を立ててみたんです。題して、
+line2 <shift> # 『春香１６歳〜ドジからの卒業』！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ふむ……。興味深いな」
+display
+com11 0 0
+sound 10
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「まずは、反射神経を鍛えるために、何か
+line2 <shift> # いいトレーニングはないかと思って」
+display
+com11 0 0
+sound 11
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あっち向いてホイ、を猛特訓する
+line2 <shift> # ことにしたんです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「はぁ？　あっち向いてホイ……！？」
+display
+com11 0 0
+sound 12
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「はい。あっち向いてホイ、です。
+line2 <shift> # それで、友達と１００戦してみたら……」
+display
+com11 0 0
+sound 13
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「わ、私っ……、なんと、１勝もできなくて。
+line2 <shift> # １００連敗しちゃったんです！」
+display
+com11 0 0
+sound 14
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「私ってこんなに、鈍かったんですね〜。
+line2 <shift> # 自分でも情けないです。……うう」
+com03 0 3
+choice1 <shift> # 春香が素直な証拠だよ
+line2
+com09 0 20
+com08
+choice2 <shift> # 逆にスゴイよ
+line2
+com09 0 21
+com08
+choice3 <shift> # このドジドルめ！
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「春香が素直な証拠だよ。きっと素直だから、
+line2 <shift> # 人の指差す方向を、見てしまうんだろう」
+display
+com11 0 0
+sound 15
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そうなんでしょうか……。それにしても
+line2 <shift> # １００連敗って、行きすぎですよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う〜ん。まあ、確かにな……」
+com09 0 23
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「１００連敗は逆にスゴイよ。普通の鈍い人なら
+line2 <shift> # 偶然でも、何回かは勝ってしまうものだろう？」
+display
+com11 0 0
+sound 16
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そ、それはつまり……、私が異常に鈍い、
+line2 <shift> # ってことなんでしょうかぁ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「い、いや。
+line2 <shift> # そういうつもりじゃなかったんだけど……」
+display
+com11 0 0
+sound 17
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「いいんです……。
+line2 <shift> # 自分でもよくわかってますから。でも……」
+com09 0 23
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「このドジドルめ！　いつも転んでばかりで
+line2 <shift> # どれだけ心配してると思ってるんだ？」
+display
+com11 0 0
+sound 18
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あうう……す、すみません〜っ！
+line2 <shift> # やっぱり、このままじゃいけないですよね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ははは、なんてな。ドジも個性のうちだし、
+line2 <shift> # いいんじゃないか？　今のままで」
+display
+com11 0 0
+sound 19
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「だけど、私……せめて、普通くらいの
+line2 <shift> # ドジになりたいんです！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「普通くらいのドジ？　難しいこと言うなあ」
+com09 0 23
+display
+location 23
+com11 0 0
+sound 20
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「プロデューサーさんっ！　私、こんな自分を
+line2 <shift> # どうにかして、変えたいんです！」
+display
+com11 0 0
+sound 21
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「お願いします。私と勝負してくれませんか？
+line2 <shift> # あっち向いてホイ、で！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「な、なんだって！？」
+display
+com11 0 0
+sound 22
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「プロデューサーさんに勝てれば、きっと
+line2 <shift> # 私、自信が持てると思うんですっ！」
+display
+com11 0 0
+sound 23
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「だから……１回だけ。真剣勝負してください」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （春香の目は、真剣だ……。
+line2 <shift> # ここは、勝負しないわけにいかないだろう）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （しかも、春香のために負けてやらなくては。
+line2 <shift> # こうなったら、運を天に任せるしかない！）
+display
+com11 0 0
+sound 24
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「じゃ、行きますよ〜。プロデューサーさんは
+line2 <shift> # 指差す方向を、決めてくださいね？」
+display
+com11 0 0
+sound 25
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「せーのっ……あっち向いて、ホイッ！」
+com03 0 3
+choice1 <shift> # 上！
+com09 0 30
+com08
+choice2 <shift> # 下！
+com09 0 31
+com08
+choice3 <shift> # 右！
+com09 0 32
+com08
+com07
+com09 0 34
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「上！」
+com37 0 1
+com1e 0 0
+com09 0 35
+com3b
+com37 0 0
+com1e 0 0
+com09 0 36
+com3b
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「下！」
+com37 0 1
+com1e 0 0
+com09 0 35
+com3b
+com37 0 0
+com1e 0 0
+com09 0 36
+com3b
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「右！」
+com37 0 1
+com1e 0 0
+com09 0 35
+com3b
+com37 0 0
+com1e 0 0
+com09 0 36
+com3b
+display
+location 33
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「左！」
+com37 0 1
+com1e 0 0
+com09 0 35
+com3b
+com37 0 0
+com1e 0 0
+com09 0 36
+com3b
+display
+location 34
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん……こっちだ！」
+com09 0 36
+display
+location 35
+com11 0 0
+sound 26
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ああっ、勝ちましたよ？
+line2 <shift> # ウソみたい……。勝っちゃいました！！」
+display
+com11 0 0
+sound 27
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「う、うれしいですっ……！
+line2 <shift> # 今日のことは、一生忘れないかも」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんな大げさな……」
+display
+com11 0 0
+sound 28
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ちっとも、大げさじゃありません！
+line2 <shift> # １００回負けたら、どんなにショックか……」
+display
+com11 0 0
+sound 29
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ああ〜、でも、よかったぁ。
+line2 <shift> # これでやっと、人並みになれた気がします」
+display
+com11 0 0
+sound 30
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「私でも、勝てることあるんだ……。きっと、
+line2 <shift> # １００連敗の時は、運が悪かったんですね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よかったな、春香。これでもう、
+line2 <shift> # つまらないことで、悩むんじゃないぞ？」
+display
+com11 0 0
+sound 31
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「はい。ご心配かけて、すみませんでした。
+line2 <shift> # これでまた、いつもの私に戻れそうです」
+display
+com11 0 0
+sound 32
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「えへへ……。ありがとうございました。
+line2 <shift> # プロデューサーさんっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （春香は、元気を取り戻したようだ。
+line2 <shift> # しかし、危ない橋を渡ったな……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （つまらない悩みなど、忘れてほしい。
+line2 <shift> # ドジなところも、春香の魅力なんだから）
+com4b 0 0
+com09 0 69
+display
+location 36
+com11 0 0
+sound 33
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ま、また、負けちゃいました……。
+line2 <shift> # これで、１０１連敗です……」
+display
+com11 0 0
+sound 34
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「もう、ギネスブックに載れるかも。
+line2 <shift> # こうなったら、ドジドルとして新しく……」
+display
+com11 0 0
+sound 35
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「新曲は『太陽のドジェラシー』とか『ＴＨＥ
+line2 <shift> # ｄＯＪＩ　Ｍ＠ＳＴＥＲ』とかにするしか……」
+display
+com11 0 0
+sound 36
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あはは、はは……」　
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おい、春香っ！　大丈夫か？
+line2 <shift> # しっかりしろ！」
+display
+com11 0 0
+sound 37
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「だ、大丈夫ですよっ……。
+line2 <shift> # 人よりちょっと、どんくさいだけです」
+display
+com11 0 0
+sound 38
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あはは、ちょっとだけ、ですよ。
+line2 <shift> # まだ、大丈夫。きっと、大丈夫……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おい、春香。どこに行くんだ！」
+display
+com11 0 0
+sound 39
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ちょっと、外の空気吸ってきま……」
+display <shift> # ごんっ！
+display
+com11 0 0
+sound 40
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あたっ！　い、痛いっ……。
+line2 <shift> # ドアに頭、ぶつけちゃいました。うう……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ダメだ、春香はすっかり動揺している。
+line2 <shift> # 俺があの時、負けてやれていたら……！）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （これは、今後の仕事にも支障が出そうだ。
+line2 <shift> # 失敗してしまったな……）
+com4b 0 2
+com09 0 69
+display
+location 69
+unk02

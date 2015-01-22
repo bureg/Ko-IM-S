@@ -1,0 +1,395 @@
+com2c 0 42
+com2d 0 93
+com2e 0 103
+com32 0 0
+com11 0 4
+sound 200
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「見て見て〜、真美〜！　今日のライブ、
+line2 <shift> # 前よりお客さん、たくさんきてるよっ！」
+display
+com11 0 4
+sound 201
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ほんとだー！　すごいね！　なんでだろー？」
+display
+com11 0 4
+sound 202
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「多分〜、今日は、亜美が歌う日だって、
+line2 <shift> # みんな、知ってるからだよ！」
+com03 0 2
+choice1 <shift> # だったら、すごいな
+line2
+com09 0 10
+com08
+choice2 <shift> # そんなワケ、ないだろ
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「だったら、すごいな」
+display
+com11 0 4
+sound 203
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「絶対、そうだよっ！　よーし、
+line2 <shift> # 亜美ファンのために、がんばらなきゃ！」
+com09 0 29
+display
+location 11
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「そんなワケ、ないだろ。ふたりが
+line2 <shift> # 入れ替わってることは、明かしてないんだから」
+display
+com11 0 4
+sound 204
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「わ、わからないよ……。ケータイの、
+line2 <shift> # ナイショのサイトとかで、情報流れてるかも〜」
+display
+com11 0 4
+sound 205
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「きっと、そうなんだから……。
+line2 <shift> # 人が増えたのは、亜美の力だもん」
+com09 0 29
+display
+location 29
+com11 0 4
+sound 206
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「じゃあ、もし今日が、真美の歌う番だったら、
+line2 <shift> # お客さん、すくなかったのかな……」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「それはないよ。お客さんが増えた最大の理由は、
+line2 <shift> # 人気が、上がったからで……」
+display
+com11 0 4
+sound 207
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「……ほんとに？　ほんとのほんとに？　でも、
+line2 <shift> # やっぱり真美だったら、ガラガラだったかも」
+display
+com11 0 4
+sound 208
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「みんな、真美より亜美の方が好きなのかなあ。
+line2 <shift> # う、ううっ、えっぐ……」
+display
+com11 0 4
+sound 209
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「あー、兄ちゃんが、真美のこと泣かした〜！
+line2 <shift> # ひど〜い！」
+com03 0 3
+choice1 <shift> # わ、悪気はなかったんだ！
+line2
+com09 0 30
+com08
+choice2 <shift> # 俺のせいじゃないよ
+line2
+com09 0 31
+com08
+choice3 <shift> # 原因は、亜美だろ？
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「わ、悪気はなかったんだ！」
+com09 0 91
+display
+location 31
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「俺のせいじゃないよ」
+display
+com11 0 4
+sound 231
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「言い訳するなんて、カッコわるーい。
+line2 <shift> # 真美にあやまらなきゃ、ダメなんだよ〜」
+com09 0 91
+display
+location 91
+com11 0 4
+sound 211
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ちがうよ、亜美。悪いのは、真美だもん。
+line2 <shift> # なにもかも、ぜんぶ真美が悪いんだもん……」
+com09 0 49
+display
+location 32
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「原因は、亜美だろ？」
+display
+com11 0 4
+sound 212
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ちがうも〜ん。兄ちゃんのせいだもーん。
+line2 <shift> # どうして、亜美のせいにするの〜？」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「亜美が『自分の力でお客さんがきた』なんて
+line2 <shift> # 言うから……」
+display
+com11 0 4
+sound 213
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「兄ちゃんも、亜美も、悪くないよ。悪いのは、
+line2 <shift> # 真美だもん。なにもかも、真美が、ぜんぶ……」
+com09 0 49
+display
+location 49
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「ほら、元気出そう！　真美には……、えーと、
+line2 <shift> # 亜美よりすごいところも、たくさんあるだろ？」
+display
+com11 0 4
+sound 214
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「双子なのに、そんなとこ、あるの？
+line2 <shift> # ……どこ？」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「そ、それは……、ここだよ、ここ！」
+com0e 3 40
+com44
+com09 0 50
+com45
+com44
+com09 0 51
+com45
+com44
+com09 0 52
+com45
+com44
+com09 0 53
+com45
+com44
+com09 0 54
+com45
+com44
+com09 0 55
+com45
+com44
+com09 0 56
+com45
+com44
+com09 0 57
+com45
+com44
+com09 0 58
+com45
+display
+location 50
+com11 0 4
+sound 215
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「頭？　でも真美、ガッコの成績、
+line2 <shift> # 亜美と同じぐらいだよ？」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「いや、真美の方が、ほんのすこしだけ、
+line2 <shift> # 回転が早いよ。まちがいない！」
+com09 0 92
+display
+location 51
+com11 0 4
+sound 216
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「目？　でも真美、目のよさ、
+line2 <shift> # だいたい亜美といっしょだよ？」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「いや、視力はそうでも、細かいところに気づく
+line2 <shift> # のは、真美の方が早いよ。まちがいない！」
+com09 0 92
+display
+location 52
+com11 0 4
+sound 217
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「耳？　でも真美、耳のよさ、
+line2 <shift> # だいたい亜美といっしょだよ？」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「いや、ほんのわずかだけど、真美の方が、
+line2 <shift> # 音感はすぐれてる。まちがいない！」
+com09 0 92
+display
+location 53
+com11 0 4
+sound 218
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「口？　それって、真美の方が、おしゃべりが
+line2 <shift> # うまいってこと？　亜美と同じだと思うけど」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「そんなこと、ないよ。ほんのわずかだけど、
+line2 <shift> # 真美の方が、言うことは、おもしろい！」
+com09 0 92
+display
+location 54
+com11 0 4
+sound 219
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「顔？　う、ううっ、兄ちゃんのうそつきー！
+line2 <shift> # 双子だから、顔は、いっしょだもーん！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「そ、そんなことはないよ。
+line2 <shift> # 真美の方が、ほんのすこしだけ……」
+display
+com11 0 4
+sound 220
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ウソだ、ウソだ、ウソだ〜！　見分けが
+line2 <shift> # つかないって、みんなに言われるもーん」
+display
+com11 0 4
+sound 221
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ただ、人気だけが、亜美の方が上なんだね……。
+line2 <shift> # う、うっ、うわ〜〜ん！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （泣き出してしまった……。い、いったい、
+line2 <shift> # どこだって言えば、よかったんだ？）
+com09 0 69
+display
+location 55
+com11 0 4
+sound 222
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ノド？　真美、亜美と歌のうまさ、同じくらい
+line2 <shift> # だよ？　ノドの強さだって、変わらないし〜」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「いや、真美の方が、ほんのわずかだけ、強いよ。
+line2 <shift> # いつもきいてる俺が言うんだから、絶対だ！」
+com09 0 92
+display
+location 56
+com11 0 4
+sound 232
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ここ？　でも真美、亜美と、
+line2 <shift> # そんなに変わらないよ？　双子だもん」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「いや、ほんのわずかだけど、真美の方が、
+line2 <shift> # 心が素直だよ。いつも、ききわけがいい！」
+com09 0 92
+display
+location 92
+com11 0 4
+sound 224
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「そうなんだ〜。真美、知らなかった……。
+line2 <shift> # でも、兄ちゃんが、そう言うなら、信じるね！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （元気を取り戻してくれた。
+line2 <shift> # こういう、親切なウソなら、言ってもいいよな）
+com09 0 69
+display
+location 57
+com11 0 4
+sound 225
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「そんなところ、亜美と変わらないもんっ。
+line2 <shift> # 兄ちゃんのうそつき〜！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「う、ウソじゃないよっ。
+line2 <shift> # そこはほんのすこしだけ、真美の方が……」
+display
+com11 0 4
+sound 226
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「だとしても、うれしくないもんっ。
+line2 <shift> # そんなの、誰にも自慢できないし……」
+display
+com11 0 4
+sound 227
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ヘンなとこ、ほめられるより、人気がある方が、
+line2 <shift> # 絶対にいいよ……。う、うっ、うわ〜〜ん！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （泣き出してしまった。たとえ、デマカセでも、
+line2 <shift> # もっと普通のところ、ほめるべきだったな……）
+com09 0 69
+display
+location 58
+com11 0 4
+sound 228
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「あ〜、考えてる〜！　やっぱり、兄ちゃん、
+line2 <shift> # 真美にウソついたんだね〜？」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「ま、まだちょっとしか、時間たってない
+line2 <shift> # じゃないか！　いま、言おうと……」
+display
+com11 0 4
+sound 229
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ウソだ、ウソだ、ウソだ〜！　もし、いい
+line2 <shift> # ところ、あるんなら、すぐ言えるはずだもん！」
+display
+com11 0 4
+sound 230
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ただ、人気だけが、亜美の方が上なんだね……。
+line2 <shift> # う、うっ、うわ〜〜ん！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （泣き出してしまった……。どこでもいいから、
+line2 <shift> # 超特急で、ほめてやればよかった）
+com09 0 69
+display
+location 69
+unk02

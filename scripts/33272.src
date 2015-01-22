@@ -1,0 +1,421 @@
+com2c 0 88
+com2d 0 61
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さあ、美容と健康のため、
+line2 <shift> # エステでスペシャルマッサージだ！」
+display
+com11 0 3
+sound 800
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ふぅ……。すっきりしました。さすがは、
+line2 <shift> # 社長おすすめのエステ、いい感じでしたね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……って、おおっ！
+line2 <shift> # もう行ってきたのか、雪歩」
+display
+com11 0 3
+sound 801
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はいっ、基本コースを受けてきました」
+display
+com11 0 3
+sound 802
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「でも、基本だけでも、とっても気持ちよくて、
+line2 <shift> # その、未知の気持ちよさで……」
+com03 0 2
+choice1 <shift> # そうか、よかったな
+line2
+com09 0 10
+com08
+choice2 <shift> # 俺もエステ受けようかな
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか、よかったな」
+display
+com11 0 3
+sound 803
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい。気持ちよくて、それにちょっと、
+line2 <shift> # 興奮してしまって……、やみつきになりそう」
+display
+com11 0 3
+sound 804
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「来てよかったです。このところちょっと忙し
+line2 <shift> # かったし、疲れもあったんですけど、でも……」
+display
+com11 0 3
+sound 805
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「マッサージ受けて、すっきりさっぱりですっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なるほど。うーむ、こころなしか、
+line2 <shift> # 雪歩の肌のつやも、アップだな……」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いいなあ、俺もエステ受けようかな？」
+display
+com11 0 3
+sound 806
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ええっ、ど、どうなんでしょう？
+line2 <shift> # 男性も受けられるのかな……？」
+display
+com11 0 3
+sound 842
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「でも、受けられたら、きっと、
+line2 <shift> # とっても気分が良くなると思いますっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「相当いいエステだったみたいだね、
+line2 <shift> # 気に入った？」
+display
+com11 0 3
+sound 843
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「は、はい。すごく気持ちよくて、
+line2 <shift> # くせになりそうなくらい……」
+display
+com11 0 3
+sound 809
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ああ、友達にも紹介したいなぁ、ここ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか。うーん、しかし、
+line2 <shift> # ちょっと高いぞ、ここのエステコースは」
+com09 0 29
+display
+location 29
+com11 0 3
+sound 810
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ああっ、そうだ！　私、ぜひとも、
+line2 <shift> # 強化エステコースを受けてみたいんですっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「い、１番高いスペシャルなコースか。
+line2 <shift> # うむむ……、よし、この際だ！　許可する」
+display
+com11 0 3
+sound 811
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「や、やった！　ありがとうございます、
+line2 <shift> # プロデューサー……。感激です！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、どこを？　強化コースっていうと、
+line2 <shift> # お好みの場所をケアしてくれるらしいけど」
+display
+com11 0 3
+sound 844
+com11 0 3
+sound 812
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「それはその、もちろん、私のひんそーなところ
+line2 <shift> # を、どどーんと変えてもらうんですよぉ……」
+display
+com11 0 3
+sound 845
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「エステで少しでも、ボンキュッボーン！　って
+line2 <shift> # ならないと、あまりに切なくて……、ううっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「雪歩、ひとりで何をぶつぶつ言ってるんだ？」
+display
+com11 0 3
+sound 846
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「い、いえっ、なんでも！
+line2 <shift> # そ、それじゃ、行ってきますね！」
+display
+com22 0 30
+com21 0 30
+com11 0 3
+sound 847
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「プロデューサー、終わりました」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お疲れさま、雪歩。どうだった？」
+display
+com11 0 3
+sound 848
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい、とっても効果あったと思います。
+line2 <shift> # プロデューサーの目から見て、どうですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （正直なところ、１回エステを受けたぐらいじゃ、
+line2 <shift> # たいして変化は、ないかもしれないけど……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （雪歩の気にしている箇所が、
+line2 <shift> # 前より良くなったって、言ってやりたいな）
+com0e 1 248
+com44
+com09 0 30
+com45
+com44
+com09 0 31
+com45
+com44
+com09 0 32
+com45
+com44
+com09 0 33
+com45
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「胸のあたりが、変わった気がするよ」
+display
+com11 0 3
+sound 849
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あうっ……。せ、正解ですっ」
+display
+com11 0 3
+sound 850
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そうなんですよね、ううっ。ほんとに私って、
+line2 <shift> # ひんそーで……。見ごたえがなくてすみません」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「い、いや、そんな謝らなくても。しかし、
+line2 <shift> # エステで変われたなら、良かったじゃないか」
+display
+com11 0 3
+sound 851
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はいっ。この調子で頑張れば、いつかは、
+line2 <shift> # もっともっと……。どうぞ、ご期待下さい！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お、おう、わかった。期待するぞ！」
+display
+com11 0 3
+sound 823
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「私、見違えるようなグラマーになって、
+line2 <shift> # そのあかつきには……」
+display
+com11 0 3
+sound 824
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「きっと、大きな胸から、
+line2 <shift> # パワフルな歌声が生まれるんですっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （少々カン違いしているような気がするけど、
+line2 <shift> # 雪歩から気迫が感じられる……。頑張れよ）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「顔が、見違えるように変わったぞ！　雪歩の
+line2 <shift> # 言っていた通り、どどーんと変わったな！」
+display
+com11 0 3
+sound 852
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「うう、顔は何もしてません。私の顔、ひんそー
+line2 <shift> # で問題がありますか？　ひ、ひどいです……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええっ！　し、しまった。
+line2 <shift> # そんなつもりじゃ……」
+display
+com11 0 3
+sound 853
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「私って、確かに地味でぱっとしなくって、
+line2 <shift> # 時々、表情も暗いかもしれないですけどぉ」
+display
+com11 0 3
+sound 815
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「でも、だからって、そんな……。
+line2 <shift> # うううっ、ぐすっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ま、待て。泣くな、落ち着け、誤解だ」
+display
+com11 0 3
+sound 816
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ううっ。で、でも……、こうして、すぐ泣いた
+line2 <shift> # りするのが、きっと、いけないんですね、私」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうだとも。泣くのは、やめにしよう。
+line2 <shift> # 顔が、くしゃくしゃになってしまうぞ」
+display
+com11 0 3
+sound 817
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そうですね……。泣くのは、
+line2 <shift> # やめにしたいです。そう簡単に泣くのは……」
+display
+com11 0 3
+sound 818
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「私、もっと、びしっとしまりのある顔に、
+line2 <shift> # からっとした笑顔の顔に、なりたいんですっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「雪歩なら、きっとなれるさ。
+line2 <shift> # 俺は信じてるよ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺の言葉に、雪歩は笑ってうなずいてくれた。
+line2 <shift> # よし、その笑顔だ！）
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お腹のあたりが、かなり違う気がする」
+display
+com11 0 3
+sound 825
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ううっ。す、するどいですね。
+line2 <shift> # 確かにお腹……、最近、出てきてるかも」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうなのか？」
+display
+com11 0 3
+sound 854
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「でも、今回、エステでケアしてもらったのは、
+line2 <shift> # 別の場所で……。お腹にすれば良かったですぅ」
+display
+com11 0 3
+sound 855
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「それにしても、なんで気づいたんですか、プロ
+line2 <shift> # デューサー。私が、お腹のこと、気にしてるの」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それは、深い洞察というか、
+line2 <shift> # 単なるカンというか……、ははは……」
+display
+com11 0 3
+sound 827
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「その……、実は私、ちょっと胃下垂気味で」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええっ！？」
+display
+com11 0 3
+sound 828
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「だから、うっかり食べ過ぎたりすると、
+line2 <shift> # もたれて疲れて、お腹、出やすくて……」
+display
+com11 0 3
+sound 829
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ああっ、なんか恥ずかしいなぁ。
+line2 <shift> # この体質、治したい！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「し、しかしそれはエステで、
+line2 <shift> # どうにかできるのかな……？」
+display
+com11 0 3
+sound 830
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「どうなんでしょうねぇ……、はぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （偶然、雪歩の意外な悩みを知ってしまった。
+line2 <shift> # 俺がなんとかしてやれればいいんだけどな……）
+com09 0 49
+display
+location 33
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「雪歩が言っていた通り、どどーんと変わった
+line2 <shift> # ところか。うーん……、えーと……」
+display
+com11 0 3
+sound 831
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「な、なぜ、きちんと、
+line2 <shift> # 指摘してくれないんですかっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、正直なところ、１回受けたぐらいじゃ、
+line2 <shift> # たいして変化ないだろ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今後も継続的にエステに通って、効果がハッキ
+line2 <shift> # リしてから、指摘したいな。できれば……」
+display
+com11 0 3
+sound 832
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「いえ、それなら、だからこそ言って下さいよ」
+display
+com11 0 3
+sound 856
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そうじゃないと、今後のエステで、スペシャル
+line2 <shift> # コースを受ける決意が、鈍りますから……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いやしかし、こういう問題について、俺がいち
+line2 <shift> # いち色々言ったりするのも、どうかと思うしな」
+display
+com11 0 3
+sound 834
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ええっ！？　それって遠回しだけど、つまり、
+line2 <shift> # 私の全部が……、ひんそーだってことですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ま、まさか、そんなつもりじゃないよ！」
+display
+com11 0 3
+sound 857
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「だ、だけど、色々言う価値もない、ってことは、
+line2 <shift> # つまり結局、そうじゃないですか……」
+display
+com11 0 3
+sound 836
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ううっ、ひどいです。プロデューサーからも、
+line2 <shift> # そんなにダメダメと思われてたなんて……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ご、誤解だ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （雪歩の誤解は、なかなか解けず、
+line2 <shift> # 不満げな表情のまま……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （事務所へ帰ることになってしまった。
+line2 <shift> # 失敗だったな……）
+com09 0 49
+display
+location 49
+unk02

@@ -1,0 +1,542 @@
+com2c 0 57
+com2d 0 81
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （仕事の空き時間を利用して、買い出しを
+line2 <shift> # しようとしたら、真がついてきてしまった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「真、やっぱりおまえは、
+line2 <shift> # スタジオで、待ってた方が……」
+display
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「たまには、いいじゃないですか。
+line2 <shift> # このところ全然、外を出歩けてなかったし」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今の真の人気はスゴイからな。
+line2 <shift> # 危なくて、ひとりでは歩かせられないよ」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「へへっ。でも、うれしいです。
+line2 <shift> # こうして、プロデューサーと買い物できて」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ファンに見つかったら、どうしよーって、
+line2 <shift> # スリルもあるし」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ボク達を見たら、世間の人は、なんて思うで
+line2 <shift> # しょうね？　くう〜、ワクワクするなあ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「真は肝がすわってるな。俺は今……」
+com03 0 3
+choice1 <shift> # ワクワクしてる
+line2
+com09 0 10
+com08
+choice2 <shift> # ドキドキしてる
+line2
+com09 0 11
+com08
+choice3 <shift> # ムラムラしてる
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ワクワクしてる」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「なんだ、ボクと同じじゃないですか！」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「プロデューサーも同じ気持ちでいてくれた
+line2 <shift> # なんて、嬉しいな。……へへっ」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「さあ、せっかく外に出たことですし、
+line2 <shift> # 思いっきり楽しみましょうね！」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ドキドキしてる」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「えっ！？　それって……、
+line2 <shift> # ボクと一緒にいるからとか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。真がファンに見つからないかと、
+line2 <shift> # 今もドキドキだよ」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あ、そういうことですか。
+line2 <shift> # ……はぁ、期待して損した」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……？　どうしたんだ、真？」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「どうもしませんよ！
+line2 <shift> # ……ふぅ。それじゃ気をとりなおして、と」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ムラムラしてる」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「えっ！？　プ、プロデューサーって、
+line2 <shift> # もしかして……、ボクのことをそんな目で？」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「これはもしかして、ボクの女性としての
+line2 <shift> # 魅力が、強くなってきてるのかなあ」
+display
+com11 0 0
+sound 10012
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「それはそれで、嬉しいことなんだけど、
+line2 <shift> # でも、単純に喜んでていいのかな……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あの、真？　深く考えすぎだぞ？」
+display
+com11 0 0
+sound 10013
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「なんだかボク、プロデューサーと一緒にいて
+line2 <shift> # いいのか、不安になってきました……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「冗談だよ、冗談。
+line2 <shift> # あまり深く考えすぎないでくれ、な？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……くっ。軽い気持ちで言ったことが、
+line2 <shift> # とんだ事故に）
+com09 0 29
+display
+location 29
+com11 0 0
+sound 10014
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「……それにしても、結構な人出ですよね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。正直、真がここにいることが、
+line2 <shift> # バレてないのが不思議だよ」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「それだけ、二人が街に、自然に溶け込んでるっ
+line2 <shift> # てことですかね？　えへへ、なんかうれしいな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……そうだな。
+line2 <shift> # たまにはこういうのも、いいかもしれない」
+display
+com11 0 0
+sound 10016
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「プロデューサー。もし、ですよ？
+line2 <shift> # もし今、ボクが菊地真だってバレちゃって……」
+display
+com11 0 0
+sound 10017
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「大勢のファンの人が、どどどーって、
+line2 <shift> # 一気に追いかけてきたら、どうします？」
+com03 0 3
+choice1 <shift> # 俺が真を守るよ
+line2
+com09 0 30
+com08
+choice2 <shift> # 俺達なら逃げ切れるよ
+line2
+com09 0 31
+com08
+choice3 <shift> # 真が俺を守るよ
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺が真を守るよ」
+display
+com11 0 0
+sound 10018
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「プ、プロデューサー！」
+display
+com11 0 0
+sound 10019
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ありがとうございます！　うれしい……！
+line2 <shift> # あの、本当にうれしいですっ！！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ま、真。うれしいのはわかったけど、
+line2 <shift> # 声が大きいって！」
+display
+com11 0 0
+sound 10020
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あ……。す、すみません。
+line2 <shift> # つい、興奮しちゃって。えへへ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さあ、そろそろ、ちゃんと買い出ししないとな。
+line2 <shift> # 目当ての店にいくぞ」
+display
+com11 0 0
+sound 10021
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「はいっ！」
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺達なら逃げ切れるよ」
+display
+com11 0 0
+sound 10022
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「へへっ。ですよね。今までも結構、
+line2 <shift> # 大変だった時とか、ありましたからね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「真のプロデューサーをやってから、
+line2 <shift> # 脚力にだけは、自信がついたよ」
+display
+com11 0 0
+sound 10023
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あ、でも、プロデューサー。最近は少し、
+line2 <shift> # 身体、なまってるんじゃないですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなことは……、あるかもな」
+display
+com11 0 0
+sound 10024
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「忙しくて運動不足ですよね。それにしても……、
+line2 <shift> # プロデューサーって素直ですね。あはははっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「くっ、笑いすぎじゃないか？　そんな大声出し
+line2 <shift> # てたら、本当にファンに見つかってしまうぞ？」
+display
+com11 0 0
+sound 10025
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あ、いけない！　へへっ。じゃあ、
+line2 <shift> # プロデューサー、お店に行きましょうか！」
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「真が俺を守るよ」
+display
+com11 0 0
+sound 10026
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「本当ですか？　プロデューサーに
+line2 <shift> # 守ってもらえるなんて……、って、ええっ！？」
+display
+com11 0 0
+sound 10027
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「真が俺を？　それって、
+line2 <shift> # ボクがプロデューサーを守るってこと！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ！　頼んだぞ、真！」
+display
+com11 0 0
+sound 10028
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「うう、そんな自信満々に言われても……。確か
+line2 <shift> # に王子様って呼ばれることはありますけど……」
+display
+com11 0 0
+sound 10029
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「それでもボク、女の子なんですよ？
+line2 <shift> # やっぱり守るより、守られる方がいいなあ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「真、何か言ったか？　店は、まだ先だぞ」
+display
+com11 0 0
+sound 10030
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あ、はい。行きましょう」
+com09 0 49
+display
+location 49
+com22 0 30
+com21 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……よし、これで買い物は終了っと。
+line2 <shift> # 真、そろそろスタジオに戻るぞ」
+display
+com11 0 0
+sound 10031
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「……やっぱ、いいなあ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「真？　どうかしたのか？」
+display
+com11 0 0
+sound 10032
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あっ！？　えっと……、なんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そろそろ戻るぞ」
+display
+com11 0 0
+sound 10033
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あ。はい、そうですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もしかして真、向こうの店が気になるのか？
+line2 <shift> # かわいらしい服が、いっぱい並んでるところ」
+display
+com11 0 0
+sound 10034
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「はい！　あそこのブランド、いつも雑誌で見て、
+line2 <shift> # いいなーって思ってたんですよ！」
+display
+com11 0 0
+sound 10035
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あの、ちょっとだけ見てきてもいいですか？」
+com03 0 3
+choice1 <shift> # 俺も一緒に行こう
+line2
+com09 0 50
+com08
+choice2 <shift> # １０分間だけだぞ
+line2
+com09 0 51
+com08
+choice3 <shift> # じっくり見てくるといい
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺も一緒に行こう」
+display
+com11 0 0
+sound 10036
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「えっ！？　プロデューサーも一緒に？　男の人
+line2 <shift> # は入りにくい雰囲気ですけど、大丈夫ですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「真が入れるなら問題ないだろう」
+display
+com11 0 0
+sound 10037
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「うう。プ、プロデューサー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「冗談だってば。恥ずかしいのは確かだけど、
+line2 <shift> # 真を、ひとりにはできないからな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それに……、たまには、いいんじゃないか？
+line2 <shift> # こういうのも」
+display
+com11 0 0
+sound 10038
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「プロデューサー……」
+display
+com11 0 0
+sound 10039
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「それじゃ、一緒に入りましょう！
+line2 <shift> # そうだ、どれが似合うか見立ててもらおうかな」
+display
+com11 0 0
+sound 10040
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「それで……、その服をプレゼントして
+line2 <shift> # もらっちゃったりして！　へへっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後、短い時間だったが真はショッピングを
+line2 <shift> # 思いっきり楽しんだ。……買ったのは俺だけど）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （高い買い物となってしまったが、
+line2 <shift> # 真の笑顔が見られたから、良しとするかな！）
+com09 0 69
+display
+location 51
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「１０分間だけだぞ。店の中で、ファンに見つ
+line2 <shift> # かったりしたら、店内がパニックになるからな」
+display
+com11 0 0
+sound 10041
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「はいっ、わかりました！」
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 10042
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「プロデューサー、お待たせしました！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あれ？　もういいのか？
+line2 <shift> # まだ５分ぐらいしか経ってないけど」
+display
+com11 0 0
+sound 10043
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「見たかったものは、見られましたから。それに、
+line2 <shift> # お店にボクのファンっぽい子がいて……」
+display
+com11 0 0
+sound 10044
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「こっちをチラチラ見てたんで、落ち着かなくて。
+line2 <shift> # やっぱり、ボク一人だと目立ちますね」
+display
+com11 0 0
+sound 10045
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「危険だと思ったから、すぐ出てきま
+line2 <shift> # した。プロデューサー、早く行きましょう！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （幸い、ファンに見つかることもなく、
+line2 <shift> # そのあと、無事にスタジオに戻ることができた）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （でも、もう少しじっくりショッピングを楽しま
+line2 <shift> # せてやれれば、本当は良かったんだが……）
+com09 0 69
+display
+location 52
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じっくり見てくるといい」
+display
+com11 0 0
+sound 10046
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「えっ、いいんですか！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「たまには、息抜きも必要だしな」
+display
+com11 0 0
+sound 10047
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あ、ありがとうございます！
+line2 <shift> # それじゃ、さっそく行ってきます！」
+display
+com11 0 0
+sound 10048
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ふっふふっふふ〜ん♪」
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 10049
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「はあっ、はあっ。……プ、プロデューサー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おかえり真。……って、どうしたんだ！？
+line2 <shift> # そんなにあわてて！」
+display
+com11 0 0
+sound 10050
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「す、すみません！　じっくり服見てたら、
+line2 <shift> # ファンに見つかっちゃいました！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんだって！？」
+display
+com11 0 0
+sound 10051
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ああっ。ほら、すぐそこまで追ってきてます！
+line2 <shift> # 早く逃げましょう！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うわっ！　一体、何人いるんだ！？
+line2 <shift> # 真ファンクラブの情報網、恐るべしだ！」
+display
+com11 0 0
+sound 10052
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「何を、のんきなことを！
+line2 <shift> # ほら、早く逃げましょう！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （結局、映画並みのスリリングな脱出劇の末、
+line2 <shift> # なんとかスタジオに戻ることができたが……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺も真も、あまりにも疲れ果ててしまい、
+line2 <shift> # その後は、仕事にならなかった）
+com09 0 69
+display
+location 69
+unk02

@@ -1,0 +1,422 @@
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ＴＶの大型特番ドラマのゲストとして、
+line2 <shift> # 律子が呼ばれた。今日はカメラリハーサルだ）
+display
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「プロデューサー、このドラマ、設定しか聞かさ
+line2 <shift> # れてないんですけど、台本は、まだですか？」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「新鮮な気持ちで演じてもらうために、詳しい内
+line2 <shift> # 容は、直前まで秘密だって言われたんですよね」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「配役も、まだちゃんとは聞かされてないし。
+line2 <shift> # そろそろ、ちょっと心配なんですけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、台本なら、ついさっき上がったみたい
+line2 <shift> # だぞ。律子の分、渡しておくよ」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「えっ？　今、できたんですか？
+line2 <shift> # とにかく、見てみます。どれどれ……」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ええぇーっ！　戦国スペクタクル！？
+line2 <shift> # 現代劇だって、聞いてたのに！！」
+com03 0 3
+choice1 <shift> # そんなに嬉しいのか
+line2
+com09 0 10
+com08
+choice2 <shift> # なぜそんなに驚く？
+line2
+com09 0 11
+com08
+choice3 <shift> # なにいーっ！？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなに嬉しいのか、叫んじゃうほど」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ち、違います！　だって……」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なぜそんなに驚く？
+line2 <shift> # 確かに、意外性は、あったかもしれないけど」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そりゃ、驚きますよ！　だって……」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なにいーっ！？」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「わっ、どうしていきなり叫ぶんですか！
+line2 <shift> # びっくりするじゃないですか！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「律子が叫ぶから、つられたんだよ。
+line2 <shift> # ところで、戦国スペクタクルって何？」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「知りませんよ、私にきかないで下さい。
+line2 <shift> # ああ、でもなあ……」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 10009
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「つまり、このドラマって途中から、
+line2 <shift> # 現代劇から時代劇に変わるみたいですよ？」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「普段通りに、歌と踊りをやってくれ、って
+line2 <shift> # 言われたから、出演する気になったのに……」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「時代劇に合った演技なんて、
+line2 <shift> # 私、できないかも……」
+com03 0 3
+choice1 <shift> # 大丈夫！　できる！
+line2
+com09 0 30
+com08
+choice2 <shift> # 自信ないのか？
+line2
+com09 0 31
+com08
+choice3 <shift> # 怖いのか？
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「大丈夫！　できる！」
+display
+com11 0 0
+sound 10012
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そんな、何を根拠に！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「たとえどんな舞台に立とうが、『普段通りに』
+line2 <shift> # 歌と踊りを、やればいいんじゃないか？」
+display
+com11 0 0
+sound 10013
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あ、そうか……。それが、アイドルの私を、
+line2 <shift> # ドラマに出演させる狙いってことなのね」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「よーし……。それなら、なんとかなりそう！
+line2 <shift> # で、役柄としては、どんな感じなんです？」
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんだ、自信ないのか？」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そりゃ、まあ……。
+line2 <shift> # 正直、どうしていいかわからないから、不安で」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「アイドルとして、大舞台に立つ度胸は、
+line2 <shift> # あるくせに」
+display
+com11 0 0
+sound 10016
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「むぅ……。それを言わないで下さいよぉ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わからないなら、監督の言う通りに演じれば
+line2 <shift> # いいさ。別に難しいことじゃないと思うけど」
+display
+com11 0 0
+sound 10017
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「うーん、まあ、なんとかやってみるか……。
+line2 <shift> # 問題は、どんな役柄なのか、ってことだけど」
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「律子、怖いのか？」
+display
+com11 0 0
+sound 10018
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「怖いって、何がですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「時代劇が怖いのかな、と思って。
+line2 <shift> # ほら、人を斬ったりするから」
+display
+com11 0 0
+sound 10019
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「別にそんなのは、怖くないですよ。
+line2 <shift> # お芝居なんだし」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃあ、律子が怖がっているのは、
+line2 <shift> # 自分が演技で失敗すること、かな？」
+display
+com11 0 0
+sound 10020
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「うっ……。べ、別に、そういうわけじゃ！　失
+line2 <shift> # 敗を恐れてちゃ、新しいことはできませんから」
+display
+com11 0 0
+sound 10021
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「と、とにかくやるしかないっ！　うん、そうよ
+line2 <shift> # ね。問題はどんな役を演じるかってことで……」
+com09 0 49
+display
+location 49
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今回はゲストということで、
+line2 <shift> # 律子は、役柄を選ばせてもらえるみたいだぞ」
+display
+com11 0 0
+sound 10022
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「へえ〜、そうなんですか？　変わった手法を
+line2 <shift> # とるのね。あ、ほんとだ。台本にも書いてある」
+display
+com11 0 0
+sound 10023
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「いくつかの中から、好きなのを選べるみたいね。
+line2 <shift> # ……うーん。どれがいいかなあ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ちなみに、俺のオススメは、これだ。
+line2 <shift> # この役がきっと、律子に似合う！」
+com03 0 3
+choice1 <shift> # 武将だ
+com09 0 50
+com08
+choice2 <shift> # 忍者だ
+com09 0 51
+com08
+choice3 <shift> # 町娘だ
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「武将だ。歌って踊る戦国武将、
+line2 <shift> # これはユニークだぞ！」
+display
+com11 0 0
+sound 10024
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「武将！？　ヒゲをつけて、男役を演じるん
+line2 <shift> # ですか？　めちゃくちゃ難易度高そうですけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、男装の麗人みたいになって美しいと思う
+line2 <shift> # けどな。何より、一国一城の主に憧れないか？」
+display
+com11 0 0
+sound 10025
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そうね……。戦人の一生なんて短いものだけど、
+line2 <shift> # それでも天下を目指す姿には、共感できるかも」
+display
+com11 0 0
+sound 10026
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「アイドルだって、似たようなものですからね。
+line2 <shift> # 毎日が、これ、戦い、ですし」
+display
+com11 0 0
+sound 10027
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「……うん、案外いいかも！
+line2 <shift> # 難しそうではあるけど、精一杯やってみます！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （この選択が功を奏し、律子の堂々とした演技は、
+line2 <shift> # 大好評となった。新境地が開けそうだぞ！）
+com09 0 69
+display
+location 51
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「忍者だ。戦国の隠れた主役だよ」
+display
+com11 0 0
+sound 10028
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「忍者、ねえ……。影に生きる、
+line2 <shift> # 強くて孤独な、くのいち、ってところかしら？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうそう。カッコイイじゃないか！」
+display
+com11 0 0
+sound 10029
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「うーん。でも、微妙に私のキャラクターと
+line2 <shift> # 合わない役柄だと思うんですよねえ」
+display
+com11 0 0
+sound 10030
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「忍者といえば、今でいうスパイですから。
+line2 <shift> # 暗くて静かで寂しげなイメージじゃないですか」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか……。律子は、明るくてうるさくて、
+line2 <shift> # おせっかいなイメージだもんなあ」
+display
+com11 0 0
+sound 10031
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「む……。おせっかいは余計ですよ、
+line2 <shift> # おせっかいは！」
+display
+com11 0 0
+sound 10032
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「でも、裏で暗躍するよりは、見えるところで
+line2 <shift> # 仕切ってるほうが、自分の性に合ってるかな」
+display
+com11 0 0
+sound 10033
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「それにそもそも、ひとくちに忍者といっても、
+line2 <shift> # 色々な流派があるんですよ。研究しないと！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……その後、律子は、頑張って、
+line2 <shift> # 忍者役に挑んではみたのだが）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （細かいことにこだわりすぎて、
+line2 <shift> # どうもうまくいかなかったみたいだ……）
+com09 0 69
+display
+location 52
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「町娘だ。着物姿が、
+line2 <shift> # それはもう可愛らしくて……」
+display
+com11 0 0
+sound 10034
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「……それって、単に、
+line2 <shift> # プロデューサーの好みで言ってませんか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そんなことないぞ！
+line2 <shift> # きっと注目されること、うけあいだ！」
+display
+com11 0 0
+sound 10035
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そうかなぁ？　普通すぎて地味な気がする。
+line2 <shift> # せっかくだから、少しは目立ちたいんですよね」
+display
+com11 0 0
+sound 10036
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「目立つためには……、そうねえ、いっそ、
+line2 <shift> # 悪役をやろうかしら。たとえば、盗賊とか」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ！　アイドルが盗賊役なんて、
+line2 <shift> # ファンの夢を壊すんじゃないか？」
+display
+com11 0 0
+sound 10037
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「じゃあ、盗賊だけど町の人達の味方で、義賊っ
+line2 <shift> # ていう設定にすればいいじゃないですか！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、それなら、面白いかもしれないな」
+display
+com11 0 0
+sound 10038
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「でしょう？　ああっと、でも……、
+line2 <shift> # 台本にない役を、私が勝手に作っちゃダメか」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、やる気があるなら、姫でも殿でも、
+line2 <shift> # なんでも好きな役をやれるように交渉するけど」
+display
+com11 0 0
+sound 10039
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ううん、あんまり勝手なことすると、共演者と
+line2 <shift> # かスタッフの反感かっちゃいますからね」
+display
+com11 0 0
+sound 10040
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ここは、地味な町娘でも、仕方ないか……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後、律子は素朴な町娘を、
+line2 <shift> # 演じてはみたものの……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （地味にやろうと意識しすぎて、演技もパッと
+line2 <shift> # せず、まったく話題にならなかった……）
+com09 0 69
+display
+location 69
+unk02

@@ -1,0 +1,453 @@
+com2c 0 24
+com32 0 0
+com2d 0 91
+com2e 0 101
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （仕事の合間のオフ時間、事務所で、
+line2 <shift> # 休けいすることになった……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「しかし、それにしても今日は、
+line2 <shift> # ちょっと冷えるな……」
+display
+com11 0 0
+sound 400
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「なんだか急に、寒くなってきたね〜」
+display
+com11 0 0
+sound 401
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「兄ちゃん、ストーブ出そうよ、ストーブ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ストーブなんか事務所にあったかな？
+line2 <shift> # それより、もっと手軽にあったまりたいぞ」
+display
+com11 0 0
+sound 402
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「手軽に……？　そうだ！　あったかいものを、
+line2 <shift> # 食べれば、きっとあったまるよ〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おっ、そうだな。食べたら、
+line2 <shift> # 身体のシンから温まれそうだな」
+display
+com11 0 0
+sound 403
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「それじゃあ、あったかい食べ物、
+line2 <shift> # これから、作ろうか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええっ、作る！？　今、この事務所でか？
+line2 <shift> # それはちょっと……。いいのかな？」
+display
+com11 0 0
+sound 404
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「うん、お料理しよう、そうしよう〜♪」
+display
+com11 0 0
+sound 405
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「真美達、すっごい簡単なお料理なら、
+line2 <shift> # できるんだ〜♪」
+com03 0 3
+choice1 <shift> # じゃあ俺も手伝おうか
+line2
+com09 0 10
+com08
+choice2 <shift> # ほんとにできるのか？
+line2
+com09 0 11
+com08
+choice3 <shift> # それより出前取ろうよ
+line2
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、じゃあ俺も、なにか作ろうか。
+line2 <shift> # 手伝ってやろう」
+display
+com11 0 0
+sound 406
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「えっ！　兄ちゃん、ごちそうしてくれるの！
+line2 <shift> # わ、なに作ってくれるのかなぁ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「といっても、事務所のキッチンじゃ、
+line2 <shift> # 本格的な料理は無理だけどな……」
+display
+com11 0 0
+sound 407
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「それでも、お湯は、わかせるし、
+line2 <shift> # 簡単なものなら、作れるでしょ？」
+display
+com11 0 0
+sound 408
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「兄ちゃん、一緒に作ろう、そうしよう〜♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （やれやれ……。どんなものができるやら。
+line2 <shift> # ひとまず、やってみるか）
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ほんとにできるのか、料理なんて？」
+display
+com11 0 0
+sound 409
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「でっきるよー。難しいのは無理だけど、
+line2 <shift> # おやつくらいなら」
+display
+com11 0 0
+sound 410
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「すごいの、つくっちゃうよ！
+line2 <shift> # きっと、兄ちゃん、びっくりするんだから」
+display
+com11 0 0
+sound 411
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「亜美も、腕にノリをかけるよ！
+line2 <shift> # ん、ゴリだっけ……？　違ったかも」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ヨリだろ。しかし、事務所のキッチンで、
+line2 <shift> # まともな料理なんて作れるのか？」
+display
+com11 0 0
+sound 412
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ヨリってどんな食べ物？　ま、いっか〜。
+line2 <shift> # お湯が、わかせれば、おだんごくらいできるよ」
+display
+com11 0 0
+sound 413
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「真美、おだんごこねるの、好きなんだ〜♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （う〜ん……。本当に食べられるものが、
+line2 <shift> # できあがるんだろうか？）
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「料理ねぇ……。それより、出前でも、
+line2 <shift> # とろうよ。そのほうが楽だよ」
+display
+com11 0 0
+sound 414
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「えーっ、つまんなーい！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「つまんなーいと言われても……。それに、
+line2 <shift> # 事務所のキッチンで料理なんてできないぞ」
+display
+com11 0 0
+sound 415
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「だいじょうぶ、お湯が、わかせれば、
+line2 <shift> # おやつは作れるのでーす♪」
+display
+com11 0 0
+sound 416
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「そうそう、亜美達にまかせなさーい！
+line2 <shift> # えいっ♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああっ、コラ、俺の電話を返せ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （これでは、出前は、とれそうもないな。
+line2 <shift> # 止むを得ない、まかせよう……）
+display
+com11 0 0
+sound 417
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「この黒い粒、こしょうだっけ？」
+display
+com11 0 0
+sound 418
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「真美、それお腹の薬だよ、
+line2 <shift> # お料理に入れるものじゃないよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ほ、ほんとに大丈夫かな？）
+com09 0 19
+display
+location 19
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そして……）
+display
+com11 0 0
+sound 419
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ごっちそうさまでした〜♪」
+display
+com11 0 0
+sound 420
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「おだんごとふかしたおイモ、
+line2 <shift> # おいしかったね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「食った食った……。どっちも見てくれは、
+line2 <shift> # 悪かったが、意外と食べられるものだったな」
+display
+com11 0 0
+sound 421
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ね？　うまかったでしょ！　亜美達の料理！」
+display
+com11 0 0
+sound 422
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ほっかほかで、身体もポカポカになったね♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ははは……。さて、しかし食べっぱなしじゃ、
+line2 <shift> # いけないな。きれいに食べ終わったから……」
+com03 0 3
+choice1 <shift> # 一緒に後片付けだ
+line2
+com09 0 20
+com08
+choice2 <shift> # 後片付け、しようか
+line2
+com09 0 21
+com08
+choice3 <shift> # あとは俺が片付けるか
+line2
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃ、真美に亜美、一緒に片付けようか。
+line2 <shift> # 俺もお皿、さげて洗うよ」
+display
+com11 0 0
+sound 423
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「はーい、りょうかーい！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さ、どんどん片付けて、
+line2 <shift> # どんどんしまっちゃうよ」
+display
+com11 0 0
+sound 424
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「わ、兄ちゃん、お皿洗うの、うまい！
+line2 <shift> # さっすがドクシンキゾクだね！」
+display
+com11 0 0
+sound 425
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「すっごー！　ピカピカだ！
+line2 <shift> # 顔が、お皿に映りそう〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いやぁ、俺、普通に洗ってるだけだぞ？」
+display
+com11 0 0
+sound 426
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「真美達、きれいに洗えないんだ。
+line2 <shift> # 片付けは、あんまり上手じゃなくって〜」
+display
+com11 0 0
+sound 427
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「兄ちゃん、お皿の洗い方、教えて教えて！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （なんだかソンケーされてしまった。
+line2 <shift> # その後は楽しく皿を洗い、片付けをした）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （３人並んで流しに立って……、たまには、
+line2 <shift> # こんな時間も、いいもんだな）
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「後片付け、しようか」
+display
+com11 0 0
+sound 428
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ん？　かたづけるの〜？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「みんな、自分で食べた分は、
+line2 <shift> # 自分で片付けよう、な？」
+display
+com11 0 0
+sound 429
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「はーい、そうしまーす！」
+display
+com11 0 0
+sound 430
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「あ、亜美達が、兄ちゃんのお皿も、
+line2 <shift> # やっとくよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、俺のは俺が。自分で、さげるから」
+display
+com11 0 0
+sound 431
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「だいじょうぶだよー、割らないよー。
+line2 <shift> # ほら、かしてかして」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ん、そうか……。わかった。まかせようかな。
+line2 <shift> # じゃ、頼んだぞ」
+display
+com11 0 0
+sound 432
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「たのまれました〜！　あわあわで洗うよ〜♪」
+display
+com11 0 0
+sound 433
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ちょっと水冷たいね。でも、がんばる！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （真美に亜美、二人とも、お皿を洗う手つきは、
+line2 <shift> # 危なっかしいけど、なんだか、けなげだな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （二人が仲良く流しに立つのを、俺は、
+line2 <shift> # 楽しく見守った）
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あとは俺が片付けるか。ほら、皿貸して」
+display
+com11 0 0
+sound 434
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「兄ちゃん、一緒に片付けようよ〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、俺一人でやるよ。二人とも、
+line2 <shift> # 料理の手つき、危なっかしい感じだったし」
+display
+com11 0 0
+sound 435
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「お料理は、いまいちでも、片付けくらいは、
+line2 <shift> # 亜美達、ちゃんとできるよ？」
+display
+com11 0 0
+sound 436
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「できるってば〜。だいじょうぶだよ、
+line2 <shift> # 危なくないよ〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「し、しかし……。ほら、水冷たいしさ」
+display
+com11 0 0
+sound 437
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「あー、兄ちゃん、真美達のこと、
+line2 <shift> # 信用してないでしょ！」
+display
+com11 0 0
+sound 438
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「信用してよー、平気だってば！！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うわっ。こ、こら、引っ張るな……」
+display <shift> # がっちゃーーん！
+display
+com11 0 0
+sound 439
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「あ、あう……。お、お皿割れちゃって……、
+line2 <shift> # うう、えっぐ」
+display
+com11 0 0
+sound 440
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ううう、うわ〜〜〜〜〜ん、
+line2 <shift> # ご、ごめんなさ〜い」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「な、泣くなっ、二人とも！
+line2 <shift> # 今のは、不可抗力だっ……！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後は、亜美達をなだめるのに、時間が
+line2 <shift> # かかった。俺が素直に、まかせていれば……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ああ、せっかく楽しく食べたのに、
+line2 <shift> # ちょっと後味が、悪くなってしまったな……）
+com09 0 29
+display
+location 29
+unk02

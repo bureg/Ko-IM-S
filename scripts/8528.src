@@ -1,0 +1,212 @@
+com2d 0 21
+location 0
+com11 0 0
+sound 10000
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あら、おはよう♪　ふふふん、またきたのね。
+line2 <shift> # 今日も、こき使ってあげるわ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おはよう、伊織」
+com03 0 3
+choice1 <shift> # お手柔らかにな
+line2
+com09 0 10
+com08
+choice2 <shift> # すこしはアイドルらしく、な
+line2
+com09 0 11
+com08
+choice3 <shift> # 逆に、こき使ってやるよ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お手柔らかにな」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「さーて、どうしようかしら？　後で
+line2 <shift> # 考えておくわ。ふふふっ♪」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「すこしはアイドルらしく、な」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「私には、私なりのアイドルらしさがあるの！
+line2 <shift> # だから、これで、いーの！」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「逆に、こき使ってやるよ」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なんてこと、言うのよ〜！　アンタ、自分の
+line2 <shift> # 立場、忘れてるんじゃないでしょうね！？」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10004
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「さーて、今日はどんなことをやるのか、
+line2 <shift> # すこし楽しみねー♪　ふふっ」
+display
+com11 0 0
+sound 10010
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「おはよう、諸君！　今日はついに、
+line2 <shift> # オーディション初体験の日だな！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「はい、社長！」
+display
+com11 0 0
+sound 10011
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「オーディションは、数あるアイドル活動の
+line2 <shift> # 中でも、最重要な活動だ！」
+display
+com11 0 0
+sound 10012
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「心してかかるようにな！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「はい！」
+display
+com11 0 0
+sound 10013
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「ああ、それと、オーディションを選んだ後に、
+line2 <shift> # 楽曲と衣装を選ぶことができるのだが……」
+display
+com11 0 0
+sound 10014
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「楽曲は、プロデュース終了までに、最大
+line2 <shift> # ５曲までしかリリースできない。注意したまえ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （なるほど……。オーディション毎に、曲を
+line2 <shift> # 変えてると、後が大変そうだな。注意しよう）
+display
+com11 0 0
+sound 10008
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「どんな曲で活動するかで、イメージは変化
+line2 <shift> # するが、最初は君の思うように選びなさい」
+display
+com11 0 0
+sound 10015
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「では、初陣での勝利を期待しているぞ！」
+com4a 0 0
+com09 0 200
+display
+location 200
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （曲を新しくするを選ぼう）
+display
+location 201
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （あーもう決めないと……）
+display
+location 202
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （いや、今日はデビュー曲を決めないと……）
+display
+location 203
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「デビュー曲を決めるから
+line2 <shift> # 少しの間待っておいてくれ」
+display
+location 208
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「喜んでくれて俺もうれしいよ！
+line2 <shift> # この曲でファンを増やしていこう！」
+display
+location 209
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （今日のスケジュールは……と）
+display
+location 210
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ＴＶ出演をかけてオーディションに
+line2 <shift> # チャレンジだ、行くぞ伊織！」
+display
+location 220
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （今日のスケジュールを決めよう）
+display
+location 221
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （今日のオススメはオーディションか……。
+line2 <shift> # 社長からも、そのように、指示されている）
+display
+location 222
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （社長から指示のあったスケジュールを、
+line2 <shift> # 選ばないと……）
+display
+location 223
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、これで今日のスケジュールは
+line2 <shift> # 決定だ！」
+display
+location 224
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いやいや、今日はデビュー曲を決めないと。
+line2 <shift> # 少しの間待っていてくれ」
+display
+location 230
+com11 0 0
+sound 10009
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「はーい！」
+display
+location 240
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「今日は、デビュー曲を決めて、
+line2 <shift> # オーディションに出るぞ」
+com03 0 3
+choice1 <shift> # 衣装を変更する
+line2
+com09 0 241
+com08
+choice2 <shift> # 会場に行く
+com09 0 241
+com08
+choice3 <shift> # 曲を変更する
+line2
+com09 0 241
+com08
+com07
+com09 0 241
+com08
+display
+location 241
+com4a 0 0
+name 0 1 <names:2>  # Protagonist
+line1
+unk02

@@ -1,0 +1,322 @@
+com2c 0 28
+com2d 0 91
+com2e 0 101
+com32 0 0
+com11 0 3
+sound 200
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「あはははっ、今の、どびゅーって、
+line2 <shift> # 下に落ちるヤツ、おもしろかったね〜」
+display
+com11 0 3
+sound 201
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「亜美、亜美〜。次は、あの、全然こわそう
+line2 <shift> # じゃないお化け屋敷、行ってみようよっ！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「ほら、そろそろ、ライブやるステージに、
+line2 <shift> # 移動しよう。もうすぐ開演時間だよ」
+display
+com11 0 3
+sound 202
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「え〜、もう、ちょっとだけ〜。
+line2 <shift> # おねがい、おねがい、おねが〜い！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「ダメダメ、調子に乗って、遊んでると……」
+com03 0 3
+choice1 <shift> # 体力、なくなっちゃうぞ？
+line2
+com09 0 10
+com08
+choice2 <shift> # ファンに、見つかっちゃうぞ？
+line2
+com09 0 11
+com08
+choice3 <shift> # サルに、なっちゃうぞ？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「体力、なくなっちゃうぞ？」
+display
+com11 0 3
+sound 203
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ん〜、まだまだ、元気なんだけどなあ。
+line2 <shift> # 真美〜、これぐらいにしておく？」
+display
+com11 0 3
+sound 204
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「そーだねっ。じゃあ、ライブが終わったら、
+line2 <shift> # みんなで遊ぼっ！」
+com09 0 29
+display
+location 11
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「ファンに、見つかっちゃうぞ？」
+display
+com11 0 3
+sound 205
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「亜美、そんなの気にしないよ？
+line2 <shift> # ファンの人も、いっしょに遊べばいーんだよ！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「そ、そういうわけにはいかないよ。
+line2 <shift> # もう、無名の頃とは、ちがうんだから……」
+display
+com11 0 3
+sound 206
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ん〜。売れるって、けっこう、
+line2 <shift> # メンドっちいことも、増えるんだね……」
+com09 0 29
+display
+location 12
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「サルに、なっちゃうぞ？」
+display
+com11 0 3
+sound 207
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「……うきゃ？　うきゃっきゃっきゃっきゃ！
+line2 <shift> # うっきゃきゃーっ！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「ぐ……。わ、わざわざ芝居しなくって、
+line2 <shift> # いいって」
+display
+com11 0 3
+sound 208
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「うきゃう〜……」
+com09 0 29
+display
+location 29
+com11 0 3
+sound 209
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「あ、兄ちゃん、あそこ！　亜美達の、
+line2 <shift> # 人気を奪おうとする、ライバル発見っ！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「ん？　ああ、このテーマパークの、
+line2 <shift> # マスコット・キャラか」
+display
+com11 0 3
+sound 210
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「あのヌイグルミの中って、どんな人が、
+line2 <shift> # 入ってるんだろうね。兄ちゃん、わかる？」
+com03 0 3
+choice1 <shift> # むさいオッサンだと、思うよ
+line2
+com09 0 30
+com08
+choice2 <shift> # 若いお兄さんだと、思うよ
+line2
+com09 0 31
+com08
+choice3 <shift> # 若いお姉さんだと、思うよ
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「むさいオッサンだと、思うよ」
+display
+com11 0 3
+sound 211
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「あははっ、だったら、おもしろいよねっ！　頭
+line2 <shift> # とったら、ヒゲモジャの顔が出てきたりしてっ」
+com09 0 49
+display
+location 31
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「若いお兄さんだと、思うよ」
+display
+com11 0 3
+sound 212
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「やっぱり、そうなのかなあ……。
+line2 <shift> # なんか、普通すぎて、つまらないかも〜」
+display
+com11 0 3
+sound 213
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「一度でいいから、たしかめてみたいよね。
+line2 <shift> # 兄ちゃんの言うこと、ホントなのか、どうか」
+com09 0 49
+display
+location 32
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「若いお姉さんだと、思うよ。下積みをしながら、
+line2 <shift> # いつかはアイドルにって、夢見てるのかも」
+display
+com11 0 3
+sound 214
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「だったら、あんなの着てないで、
+line2 <shift> # ちゃんと顔出して、踊ればいいのに〜」
+display
+com11 0 3
+sound 215
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「一度でいいから、中身、見てみたいよね。
+line2 <shift> # そしたら、アイドルできそうか、わかるのに」
+com09 0 49
+display
+location 49
+com11 0 3
+sound 216
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「んっふっふ〜、ねえ、真美。横から、こそっと
+line2 <shift> # 近づけば、あのかぶってるの、とれるかもよ？」
+display
+com11 0 3
+sound 217
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「あ……。それ、すっごく、やってみたい！
+line2 <shift> # よーし、二人で左右から、はさみうちねっ」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「こ、こらっ、ダメだ！
+line2 <shift> # 頼むから、やめてくれって！！」
+com03 0 3
+choice1 <shift> # 二度と、こられなくなるよ！
+line2
+com09 0 50
+com08
+choice2 <shift> # 子どもの夢、こわす気か！？
+line2
+com09 0 51
+com08
+choice3 <shift> # 見ちゃいけないものも、あるんだ！
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「二度と、こられなくなるよ！　そんなことを
+line2 <shift> # したら、まちがいなく出入り禁止だっ」
+display
+com11 0 3
+sound 218
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「あ、それは、いやだな〜。
+line2 <shift> # 真美、ここ、けっこう好きだし〜」
+display
+com11 0 3
+sound 219
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「亜美も〜。じゃあ、ガマンしよっか。
+line2 <shift> # 兄ちゃん、そろそろ準備しに、戻ろ！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （ほっ、なんとか、好奇心を引っ込めてくれた。
+line2 <shift> # さ、余計なことしてないで、ライブライブ！）
+com09 0 69
+display
+location 51
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「子どもの夢、こわす気か！？」
+display
+com11 0 3
+sound 220
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「逆だよ〜。子どもの夢を、かなえるんだよ？
+line2 <shift> # だって、真美達、子どもでー、中、見たいもん」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「真美はそうでも、他の子は見たくない
+line2 <shift> # かもしれないだろ？　とくに、小さい子は」
+display
+com11 0 3
+sound 221
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「そうかなあ……。みんな、絶対見たいと思う
+line2 <shift> # けど……。わかった、じゃあ、やめる〜」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （思いとどまってはくれたけど、残念そうな顔。
+line2 <shift> # くすぶる好奇心、完全には断ち切れなかったか）
+com09 0 69
+display
+location 52
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「見ちゃいけないものも、あるんだ！」
+display
+com11 0 3
+sound 222
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「……って、言われると〜、
+line2 <shift> # よけいに見たくなっちゃうよねっ、亜美？」
+display
+com11 0 3
+sound 223
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「そうだよね〜。ここであきらめたら、夜、
+line2 <shift> # 寝られなくなっちゃうかもっ！　それっ！」
+display
+com22 0 30
+com21 0 30
+com11 0 3
+sound 224
+com4c 0 3
+com4c 0 3
+name 0 0 <names:4>  # Ami and Mami
+line1 <shift> # 「うわ〜〜〜んっ。中身に、怒鳴られた〜！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「だから、言わんこっちゃ……。あっ、
+line2 <shift> # あれは……、テーマパークの責任者か！？」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （その後、俺も含めて、長時間しかられた。その
+line2 <shift> # ショックで、ライブのデキは、ボロボロだった）
+com09 0 69
+display
+location 69
+unk02

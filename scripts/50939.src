@@ -1,0 +1,313 @@
+com2c 0 24
+com2d 0 91
+com2e 0 101
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さ、それじゃ、雑誌の取材、受けにいこうか。
+line2 <shift> # タクシー呼んだから、ちょっと待っててくれ」
+display
+com11 0 2
+sound 600
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「はーい！　ここんとこ取材、増えてきたよね〜。
+line2 <shift> # 亜美、だんだん話すこと、減ってきちゃった〜」
+display
+com11 0 2
+sound 601
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「真美も〜。同じこと言うのも、つまんないし〜。
+line2 <shift> # 兄ちゃん、ネタ切れの時は、どうしたらいいの」
+com03 0 3
+choice1 <shift> # ケータイとか、使えないか？
+line2
+com09 0 10
+com08
+choice2 <shift> # 黙ってれば、いいよ
+line2
+com09 0 11
+com08
+choice3 <shift> # オヤジギャグでも、かまそう
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ケータイとか、使えないか？
+line2 <shift> # 友達から、なにかネタ、仕入れるとか」
+display
+com11 0 2
+sound 602
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「あ、そっか！　あちこちのサイト、
+line2 <shift> # 見てまわって、ネタゲットって、手もあるねっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そういうのなら、仕事の合間にも、できるかな。
+line2 <shift> # 手間も、かからなそうだし……」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「黙ってれば、いいよ。無理に、しゃべらなく
+line2 <shift> # ても、向こうからきいてくるだろ？」
+display
+com11 0 2
+sound 603
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「それだと、質問に答えるだけになっちゃうよ〜。
+line2 <shift> # さびしくないかな〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ま、まあ、そうかもしれないけど……。
+line2 <shift> # 余計なこと、言っちゃうよりは、いいよ」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「オヤジギャグでも、かまそう」
+display
+com11 0 2
+sound 604
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「できないよ〜。真美達、オヤジじゃないもん。
+line2 <shift> # なに言っても、アイドルギャグになっちゃう〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、オヤジギャグは、誰が言っても、オヤジ
+line2 <shift> # ギャグなんだ。つまらなければ、いいんだよ」
+display
+com11 0 2
+sound 605
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「楽しくおしゃべりしたいのに、つまらなくて
+line2 <shift> # いいの？　ん〜、なんか、よくわかんない……」
+com09 0 29
+display
+location 29
+com11 0 2
+sound 606
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「あ、真美！　たまには、こっちから逆取材し
+line2 <shift> # ちゃうとか、どーお？　おもしろいかもっ」
+display
+com11 0 2
+sound 607
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「わ、それ、いいね〜！　んっふっふ〜、雑誌
+line2 <shift> # 記者のむふふな日常を、真美達が、あばく！」
+display
+com11 0 2
+sound 608
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「そんで、亜美達で、雑誌とか出して、
+line2 <shift> # 載せちゃうの！　雑誌の名前は〜、ん〜と……」
+com03 0 3
+choice1 <shift> # 月刊『やられた〜！』とか？
+line2
+com09 0 30
+com08
+choice2 <shift> # 月刊『芸能ピンク』とか？
+line2
+com09 0 31
+com08
+choice3 <shift> # 月刊『プチ・ティーン』とか？
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「月刊『やられた〜！』とか？」
+display
+com11 0 2
+sound 609
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「あははっ、それ、ピッタリ〜！　秘密バラされ
+line2 <shift> # ちゃった人は、記事見て、きっとそう叫ぶよね」
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「月刊『芸能ピンク』とか？」
+display
+com11 0 2
+sound 610
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「な、なんか……、電車で、おじちゃん達が、
+line2 <shift> # 読んでる雑誌みたいだね、それ」
+display
+com11 0 2
+sound 611
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「もっと、普通の人も読んでくれそうな名前、
+line2 <shift> # ないかなあ。真美は、そっちのが、いいな……」
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「月刊『プチ・ティーン』とか？」
+display
+com11 0 2
+sound 612
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「え？　そんな名前じゃ、あんまり秘密をバラす
+line2 <shift> # 雑誌っぽくないよ〜。別の名前にしよーよ〜」
+display
+com11 0 2
+sound 613
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ん〜、他に、どんな候補があるかなあ。ピッタ
+line2 <shift> # リの名前考えるのも、けっこう、むずかしいね」
+com09 0 49
+display
+location 49
+com11 0 2
+sound 614
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ねえ、兄ちゃん。やろーと思えば、ホントに
+line2 <shift> # 亜美達で、雑誌とかって、出せる？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、微妙なところだな。もし実現しても、
+line2 <shift> # 時間を、そっちにとられるのは、痛いし」
+display
+com11 0 2
+sound 615
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「そっか……。でも、記者ごっこ、やりたいな〜。
+line2 <shift> # そんで、つかんだ特ダネ、発表した〜い」
+display
+com11 0 2
+sound 616
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「あ、そうだ！　亜美達のホームページとか、
+line2 <shift> # つくろ！　そこで、日記とか、のせてい〜い？」
+com03 0 3
+choice1 <shift> # よし、事務所でやろう
+line2
+com09 0 50
+com08
+choice2 <shift> # ライブで話す方が、よくないか？
+line2
+com09 0 51
+com08
+choice3 <shift> # 好きにやっていいよ
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、事務所でやろう。社長に、そういう
+line2 <shift> # コーナー、つくるよう、相談してみるよ」
+display
+com11 0 2
+sound 617
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「わーい、やった〜♪　それだったら、
+line2 <shift> # 真美と交替で書けるね！」
+display
+com11 0 2
+sound 618
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「んじゃ、取材に出発〜っ！　楽しいネタ、
+line2 <shift> # ジャコジャコ見つけて、全部のせちゃお〜っ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （このやり方なら、内容も事前チェックできる。
+line2 <shift> # マズイこと、書かれる心配もないし、最高だな）
+com09 0 69
+display
+location 51
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ライブで話す方が、よくないか？
+line2 <shift> # 特別なこと、なにもしなくて、いいし」
+display
+com11 0 2
+sound 619
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ん〜、そっかな〜。でも、それじゃ、
+line2 <shift> # いつもと同じで、なんかワクワクしないね……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そう言うなよ。これだって、
+line2 <shift> # アイドルじゃなきゃ、できないことなんだから」
+display
+com11 0 2
+sound 620
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「言われてみると、そうだね……。んじゃ、亜美、
+line2 <shift> # ライブ用の特ダネつかみに、取材いこっか」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あんまりアレコレやらせる、時間はないしな。
+line2 <shift> # まあ、これぐらいで、許してもらうしかない）
+com09 0 69
+display
+location 52
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「好きにやっていいよ。任せるから」
+display
+com11 0 2
+sound 621
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ほんと〜！？　真美、どうしよ〜？
+line2 <shift> # しゃちょーさんに頼む？　それとも〜……」
+display
+com11 0 2
+sound 622
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「自分達で、つくっちゃわない？　それなら、
+line2 <shift> # 好きにカキコできるし。んっふっふ〜♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お、おい、行きすぎはダメだぞ！？
+line2 <shift> # や、やっぱり、好きにやるのはナシ！」
+display
+com11 0 2
+sound 623
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ええええ、ひどいよ〜。言い出したのは、
+line2 <shift> # 兄ちゃんなのに〜。ぶ〜ぶ〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ブーイングを、食らってしまった……。結果を
+line2 <shift> # 考えずに、うかつなこと、言うもんじゃないな）
+com09 0 69
+display
+location 69
+unk02

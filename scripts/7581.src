@@ -1,0 +1,448 @@
+com2c 0 113
+com2c 0 61
+com2d 0 111
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （いつもより早く、目が覚めてしまった。
+line2 <shift> # 寄り道して、早朝の散歩を楽しもうかな？）
+com03 0 2
+choice1 <shift> # どこかに寄り道する
+line2
+com09 0 10
+com08
+choice2 <shift> # まっすぐ事務所に行く
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （どこかに寄り道しよう。
+line2 <shift> # 早朝の空気は、気持ちがいいからな！）
+display
+com22 0 30
+com21 0 30
+com32 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いやー、結構、遠くまで歩いてきたけど、
+line2 <shift> # すがすがしい気分だなあ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （おや？　あれは……！？）
+display
+com11 0 0
+sound 0
+com4c 0 0
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「響ちゃん！　私の言いつけを守って、いつも
+line2 <shift> # 朝早くから自主トレしているようだねえ！」
+display
+com11 0 0
+sound 1
+com4c 0 0
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「君の才能を開花させられるのは、この私だけ。
+line2 <shift> # これからも、私の教えを守って努力するんだよ」
+display
+com11 0 0
+sound 2
+com4c 0 1
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「うんっ！　７６５プロなんかに負けてられない
+line2 <shift> # から、自分、精一杯努力してるつもりだぞ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （黒井社長と、響……！　いつも、あんな風に
+line2 <shift> # して、響に自分の考えを、叩き込んでいたのか）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （少しこのまま、様子を見てみよう……）
+display
+com11 0 0
+sound 3
+com4c 0 0
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「……そうそう。その７６５プロだけど。近頃、
+line2 <shift> # 急成長しているようだね。どういうことかな？」
+display
+com11 0 0
+sound 4
+com4c 0 1
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「それはっ！　７６５プロも、
+line2 <shift> # がんばってるから、仕方ないんだよ……」
+display
+com11 0 0
+sound 5
+com4c 0 0
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「ノン！　違うね。７６５プロに力などない。な
+line2 <shift> # のに、まだＩＵ予選に勝ち残っているのは……」
+display
+com11 0 0
+sound 6
+com4c 0 0
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「響ちゃん、君の頑張りが足りないのではないか
+line2 <shift> # な？　……７６５プロは、潰せと命じたはずだ」
+display
+com11 0 0
+sound 7
+com4c 0 1
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「ご、ごめんなさいっ！
+line2 <shift> # 自分、もっとがんばるよっ！」
+display
+com11 0 0
+sound 8
+com4c 0 0
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「そうだね。ヤツらを叩き潰して、君は上に
+line2 <shift> # 行きたまえ。そのためには、何をしてもいい」
+display
+com11 0 0
+sound 9
+com4c 0 0
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「いつも教えていることだろう？　君なら、
+line2 <shift> # きっと出来る。……それでは、失礼するよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （響が、一人になったぞ）
+com03 0 3
+choice1 <shift> # 様子をみよう
+line2
+com09 0 20
+com08
+choice2 <shift> # 声をかけよう
+line2
+com09 0 21
+com08
+choice3 <shift> # さりげなく通りかかろう
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （やめよう。もう一眠りしてから、まっすぐ
+line2 <shift> # 事務所に行けば、いいよな……。ＺＺＺ……）
+com09 0 99
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （いや、でも、もう少し様子をみよう）
+display
+com11 0 0
+sound 10
+com4c 0 1
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「はあ〜。もっともっと、かあ。
+line2 <shift> # くぅ、まだまだ先は長そうだぞ！」
+display <shift> # にゃ〜ん
+display
+com11 0 0
+sound 11
+com4c 0 1
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「あれっ！？　ニャンコだっ！
+line2 <shift> # おまえ、ノラニャンコ？　こっち、おいで！」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （声をかけようか）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おーい、ひび……」
+display <shift> # にゃ〜ん
+display
+com11 0 0
+sound 12
+com4c 0 1
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「あれっ！？　今、どこかでニャンコの声が
+line2 <shift> # したぞ？　おーい、ニャンコー！　どこー？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （むう、ネコに、先を越されてしまった。
+line2 <shift> # 仕方ない。しばらく、このまま見守るか）
+display <shift> # にゃ〜ん
+display
+com11 0 0
+sound 13
+com4c 0 1
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「そこにいたのか、ノラニャンコ！
+line2 <shift> # かわいいなあ、おまえっ！」
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （さりげなく通りかかろうかな。よいしょっと！
+line2 <shift> # ……ん？　今、何か柔らかいものを踏んだな？）
+display <shift> # フギャー！　シャーッ！
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うわっ！　ネコのしっぽだったのか！
+line2 <shift> # イテテテ……。思いっきりひっかかれたぞ）
+display
+com11 0 0
+sound 14
+com4c 0 1
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「あれっ、ノラニャンコだ！　どうした、ニャン
+line2 <shift> # コ！？　誰かにひどい目にあわされたのかっ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （いや、ヒドイ目にあわされたのは、
+line2 <shift> # どっちかというと俺なんだけど……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （声をかけるタイミングを逸してしまったな。
+line2 <shift> # 仕方ない。しばらく、このまま見守るか）
+com09 0 29
+display
+location 29
+com11 0 0
+sound 15
+com4c 0 1
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「ニャンコー、ちょっと自分の話、きいてよ！
+line2 <shift> # アイドルってさ、思ったより大変なんだぞ？」
+display
+com11 0 0
+sound 16
+com4c 0 1
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「こんなにカンペキな自分でも、簡単には、
+line2 <shift> # トップアイドルになれないし……」
+display
+com11 0 0
+sound 17
+com4c 0 1
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「ＩＵに優勝するまで、沖縄にも帰れないし。
+line2 <shift> # ここまで大変とは、思わなかったぞっ！」
+display
+com11 0 0
+sound 18
+com4c 0 1
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「でも、黒井社長が教えてくれる通り、
+line2 <shift> # できるようにならないとねー……。はあーあ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （響も、響なりに苦労してるんだなあ……、ん？
+line2 <shift> # さっきから足に固いものが当たってるぞ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ジャマだなあ。
+line2 <shift> # 足で押しのけて、どかしちゃうか！）
+display
+com11 0 0
+sound 19
+com4c 0 1
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「あ！　ところでニャンコ、この辺で自分のワニ、
+line2 <shift> # 見なかった？　さっき逃がしちゃったんだー！」
+display
+com11 0 0
+sound 20
+com4c 0 1
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「ワニって、普段、あんまり鳴かないんだよね。
+line2 <shift> # だから、見つけづらくって困るさー！」
+display <shift> # がさがさ……
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うわーっ！
+line2 <shift> # 俺の足元に、わ、わ、ワニがっ！」
+com03 0 3
+choice1 <shift> # 助けてくれー！
+line2
+com09 0 30
+com08
+choice2 <shift> # 捕まえてやる！
+line2
+com09 0 31
+com08
+choice3 <shift> # 退治してやる！
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「た、助けてくれーっ！！」
+display
+com11 0 0
+sound 21
+com4c 0 1
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「ワニ子っ！？　それに、７６５プロっ！？
+line2 <shift> # ……動くな。ワニ子は、動くものをおそうぞ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お、おそう！？
+line2 <shift> # なんて物騒な生き物を、飼っているんだっ！」
+com09 0 39
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「捕まえてやる！」
+display
+com11 0 0
+sound 22
+com4c 0 1
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「ああっ！　そんな急に動いたら……」
+display <shift> # がぶっ！
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「イテテテッ！　かまれたっ！
+line2 <shift> # くわれる！　ワニにくわれるーっ！」
+display
+com11 0 0
+sound 23
+com4c 0 1
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「平気だ！　じゃれてるだけだから、すぐ放すぞ。
+line2 <shift> # このぐらいで大声出すなよ、情けないなあ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だって、このワニ、体長が腕の長さくらいある
+line2 <shift> # ぞ。本気でかまれたら、大変じゃないか……」
+com09 0 39
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「退治してやる！　ええーい！」
+display
+com11 0 0
+sound 24
+com4c 0 1
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「あっ、何するんだよっ！　やめろ！
+line2 <shift> # ワニ子、『かかれっ』！」
+display <shift> # がぶがぶっ！
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うあああ！　かまれたっ！
+line2 <shift> # イテテテッ！　ワニにおそわれるー！！」
+display
+com11 0 0
+sound 25
+com4c 0 1
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「ワニ子、『やめっ！』」
+display <shift> # ……
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「はぁ、はぁ……。ヒドイ目にあった……」
+display
+com11 0 0
+sound 26
+com4c 0 1
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「動物を、いじめようとするからだぞ！
+line2 <shift> # 今のは完全に、７６５プロが悪いっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「すまない。身の危険を感じたもんだからさ」
+com09 0 39
+display
+location 39
+com11 0 0
+sound 27
+com4c 0 1
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「大丈夫だよ。普段はおとなしいんだぞ。今日は、
+line2 <shift> # しばらく野放しにしたから、気がたってるんだ」
+display
+com11 0 0
+sound 28
+com4c 0 1
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「散歩させてたら、ばったり、黒井社長に会って、
+line2 <shift> # うっかり逃がしちゃってさ！　あっははは！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （笑い事じゃ、ないと思うが……）
+display
+com11 0 0
+sound 29
+com4c 0 1
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「……あ。もしかして７６５プロ、黒井社長と
+line2 <shift> # 自分の会話、盗み聞きしてたのかっ！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、まあ……。
+line2 <shift> # そりゃ、ちょっとは聞こえてきたけど」
+display
+com11 0 0
+sound 30
+com4c 0 1
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「くぅ……。
+line2 <shift> # 会話を聞いて、スパイしてたんだなっ！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そういうわけじゃないよ。会話を聞いて、
+line2 <shift> # 響も努力してるんだなあ、と思ってただけだ」
+display
+com11 0 0
+sound 31
+com4c 0 1
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「え……。べ、別に努力っていうほどの努力でも
+line2 <shift> # ないぞ！　ほら。自分、カンペキだから！」
+display
+com11 0 0
+sound 32
+com4c 0 1
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「そ、そんなことより、７６５プロって、動物に
+line2 <shift> # 好かれる体質なんだね！　うらやましいよ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「前は、そんなこと無かったんだぞ。でも何故か、
+line2 <shift> # 響の飼ってる動物には、好かれやすいんだよな」
+display
+com11 0 0
+sound 33
+com4c 0 1
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「へえ〜、そっか！　じゃあいつか、自分が
+line2 <shift> # 飼ってる、他の動物にも会ってみてほしいな」
+display
+com11 0 0
+sound 34
+com4c 0 1
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「逃げた時に会う分には、かまわないから！
+line2 <shift> # じゃ、自分、仕事あるんで。バイバイっ！」
+display <shift> # ……
+display <shift> # にゃ〜ん
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （響の後を、ワニとネコがついていく。
+line2 <shift> # あのネコも飼う気なのか！？）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （いったい響は、どのくらいの数と種類、動物を
+line2 <shift> # 飼っているんだろう？　見当もつかないな……）
+com09 0 99
+display
+location 99
+unk02

@@ -1,0 +1,367 @@
+com2c 0 82
+com2d 0 21
+com32 0 0
+com11 0 1
+sound 100
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「お姉さーん、ジュースおかわりー♪
+line2 <shift> # あれ、プロデューサー？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……どうして、レストランにいるんだ。
+line2 <shift> # ミーティングの予定だったよな？」
+display
+com11 0 1
+sound 101
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ふふっ、スケジュールすっぽかせるのは、
+line2 <shift> # 一流の特権よね？」
+com03 0 3
+choice1 <shift> # ……まあ、いいけど
+line2
+com09 0 10
+com08
+choice2 <shift> # 話し合いは大切なのに……
+line2
+com09 0 11
+com08
+choice3 <shift> # なにー！？
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……まあ、いいけど」
+display
+com11 0 1
+sound 102
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「う。あ、案外、オトナね……。私の扱いにも、
+line2 <shift> # すっかり慣れたってとこかしら」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「話し合いは、大切なのに……」
+display
+com11 0 1
+sound 103
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「フフフッ、そんなの、これまで腐るほど
+line2 <shift> # してきたじゃない」
+display
+com11 0 1
+sound 104
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「だから、私がここにいるって、
+line2 <shift> # わかったのよねっ？」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なにー！？」
+display
+com11 0 1
+sound 105
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なによ！　大きな声あげて、みっともなーい」
+display
+com11 0 1
+sound 106
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「スーパーアイドルが、人前で怒鳴られてちゃ、
+line2 <shift> # カッコ悪いでしょ。も〜」
+com09 0 29
+display
+location 29
+com11 0 1
+sound 107
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ねえ。私が、どうしてもミーティング出たく
+line2 <shift> # ないーって言ったら、どうする？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうするって……」
+com03 0 3
+choice1 <shift> # 頭を下げる
+com09 0 30
+com08
+choice2 <shift> # 頭をはたく
+com09 0 31
+com08
+choice3 <shift> # 頭をこづく
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「頭を下げるよ」
+display
+com11 0 1
+sound 108
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ほんと！？　じゃ、お願いしますって
+line2 <shift> # 言ってみて！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、お願いします」
+display
+com11 0 1
+sound 109
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あはははっ、もう１回、もう１回！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お願いします」
+display
+com11 0 1
+sound 110
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「気持ちいーい！　ん〜、ここまでがんばって
+line2 <shift> # きて、よかったわー……」
+display
+com11 0 1
+sound 111
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ごめんね♪　こんなことさせちゃって。
+line2 <shift> # でも、たまにはいいわよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （……ずっと、こんなだった気もするけど。
+line2 <shift> # まあ、よろこんでるから、いいか）
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「頭をはたく」
+com09 0 91
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「頭をこづく」
+com09 0 91
+display
+location 91
+com11 0 1
+sound 112
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「いい度胸ね〜。フン、やれるもんなら、
+line2 <shift> # やってごらんなさいよー！」
+com0e 0 117
+com44
+com09 0 50
+com45
+com44
+com09 0 51
+com45
+com44
+com09 0 52
+com45
+com44
+com09 0 53
+com45
+com44
+com09 0 54
+com45
+com44
+com09 0 55
+com45
+display
+location 50
+com11 0 1
+sound 113
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ほ、ほんとにやったわねっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だって、やってみろって……」
+display
+com11 0 1
+sound 114
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なによ〜。変なとこ、素直なんだから〜」
+display
+com11 0 1
+sound 115
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「まあ、いいわ。その勇気に免じて、
+line2 <shift> # ミーティング、出てあげる」
+display
+com11 0 1
+sound 116
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「いまじゃ、私を怒れるのも、あんたぐらいに
+line2 <shift> # なっちゃったしね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （意外にうまく、丸め込めたな。もしかして、
+line2 <shift> # 怒られるのも、すこし、うれしかったのか？）
+com09 0 49
+display
+location 51
+com11 0 1
+sound 117
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ど、どうして、なでるの？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、なんとなく……」
+display
+com11 0 1
+sound 118
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「むっか〜！　あんた、私のこと、
+line2 <shift> # まだ子どもだと思ってるでしょ！」
+display
+com11 0 1
+sound 119
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「もうイヤ！　絶対ミーティングなんか、
+line2 <shift> # 出てやらないんだからっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、次のライブのプラン、話し合い
+line2 <shift> # たいんだけど……」
+display
+com11 0 1
+sound 120
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そんなのしらないもーん。フンっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （完全にへそを曲げてしまった。参ったな）
+com09 0 49
+display
+location 52
+com11 0 1
+sound 121
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「痛っ！　な、なんで顔ぶつのよ〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、すこし手が……」
+display
+com11 0 1
+sound 122
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「信じられないっ！　もうイヤ。ミーティング
+line2 <shift> # なんて、絶対出てあげなーい」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そういうなよ。あやまるからさ」
+display
+com11 0 1
+sound 123
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「いくらつきあい長いからって、許されない
+line2 <shift> # ことも、あるんだからねー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （これはなだめるのに、すこし手間が
+line2 <shift> # かかりそうだな）
+com09 0 49
+display
+location 53
+com11 0 1
+sound 124
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「きゃっ！　な、な、なに！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おしおき、かな」
+display
+com11 0 1
+sound 125
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「信じられない〜っ！　なんの前振りもなく、
+line2 <shift> # こんなことしないでよ〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、落ち着けって」
+display
+com11 0 1
+sound 126
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「これが落ち着いていられるわけ、ないでしょ！
+line2 <shift> # 変態っ！　ド変態っ！　ｄｅ変態っ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （フランス語で、ののしられてしまった。
+line2 <shift> # まわりの視線が痛い……）
+com09 0 49
+display
+location 54
+com11 0 1
+sound 127
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ああっ！　ちょっと、なんてことするのよ！」
+display
+com11 0 1
+sound 128
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「私に手出せないからって、この子に
+line2 <shift> # やつあたりすること、ないでしょ！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、コイツなら、痛くないかなって……」
+display
+com11 0 1
+sound 129
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「痛いわよっ。あんた、この子のこと、まだ
+line2 <shift> # ただのぬいぐるみだと思ってるの！？」
+display
+com11 0 1
+sound 130
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ごめんねっ。後でメッ、しとくからね……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （直接、手出したくなかったから、
+line2 <shift> # 逃げたんだけど……。それでもダメだったか）
+com09 0 49
+display
+location 55
+com11 0 1
+sound 131
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「フン、どうしたの？　やっぱり頭には、
+line2 <shift> # 手、出せない？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……さすがにな」
+display
+com11 0 1
+sound 132
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「いくじがないのねー。言ったこと
+line2 <shift> # できなかったんだから、罰ゲーム！」
+display
+com11 0 1
+sound 133
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ここのお勘定、ぜーんぶ払って
+line2 <shift> # もらおうかしら？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ぜ、ぜんぶ？」
+display
+com11 0 1
+sound 134
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ふふん、事務所のお金じゃなくて、あんたの
+line2 <shift> # おこづかいから、払ってね〜♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （くっ、経費で落とそうと思ったのに……。
+line2 <shift> # 軽くでも、頭たたいときゃよかったかな）
+com09 0 49
+display
+location 49
+unk02

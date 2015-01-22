@@ -1,0 +1,277 @@
+com2c 0 31
+com2d 0 61
+com32 0 0
+com11 0 5
+sound 600
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ああ、ＣＤ売るのってけっこう大変……。
+line2 <shift> # お客さんの相手はいろいろ、気を遣いますよね」
+display
+com11 0 5
+sound 601
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「あっでも、目の前で一枚一枚、
+line2 <shift> # 売れていくのは、ちょっと楽しいかな？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「店頭ワゴンで自分たちで売るのもいいもん
+line2 <shift> # だろう。さぁ、もっと声出していこうか！」
+display
+com11 0 5
+sound 602
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「は、はい！　ううっ……。
+line2 <shift> # ま、まだ続けるんですか」
+com03 0 2
+choice1 <shift> # 少し休んだほうがいい？
+line2
+com09 0 10
+com08
+choice2 <shift> # もちろん！まだまだ
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あっ、少し休んだほうがいいかな？　外で、
+line2 <shift> # ずっと立ちっぱなしの営業だし、疲れてる？」
+display
+com11 0 5
+sound 603
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「まだもうちょっとだけ、
+line2 <shift> # 平気です……、けど」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うむ、ならもうちょっと頑張ろう。でも無理は、
+line2 <shift> # いけないぞ、つらくなったら言ってくれ」
+display
+com11 0 5
+sound 604
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「はい！　言います！　でも、今は、
+line2 <shift> # 平気ですっ、はりきっていきましょう」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もちろん！
+line2 <shift> # まだまだ、これからが営業本番だ」
+display
+com11 0 5
+sound 605
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「は、はい。気合い入れてっ、
+line2 <shift> # は、はりきって、いきましょうっ」
+display
+com11 0 5
+sound 606
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「はりきって、そして、もっと、
+line2 <shift> # 声出して、いきましょうー……」
+display
+com11 0 5
+sound 607
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ううっ、その前にお水を一杯」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「むぅ、大丈夫かな。もしかして、
+line2 <shift> # 少し疲れてる？　休みいれようか」
+display
+com11 0 5
+sound 608
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「へ、平気です」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （それから数十分後……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「少々売れ行きが鈍ってきたな。客足も途絶え
+line2 <shift> # 気味で……。ワゴンを全部捌くのは無理かなぁ」
+display
+com11 0 5
+sound 609
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「そ、そんな……。もっと売らなきゃ、
+line2 <shift> # もっと、がんばらなくっちゃ、私！」
+display
+com11 0 5
+sound 610
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「このままじゃいけないっ……。みなさん、ＣＤ
+line2 <shift> # 買って下さい、買わないと帰しませんよぉ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、落ち着け！　そんなに、
+line2 <shift> # ムキになって叫ばなくても」
+display
+com11 0 5
+sound 611
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「だ、だって、やらなくっちゃ、営業もきちんと
+line2 <shift> # できなくっちゃ……、アイドル失格です！」
+com03 0 3
+choice1 <shift> # 失格なものか！
+line2
+com09 0 30
+com08
+choice2 <shift> # あきらめるな
+line2
+com09 0 31
+com08
+choice3 <shift> # あきらめが肝心だ
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「失格なものか！　誰でも、
+line2 <shift> # 得手不得手はあるものさ」
+display
+com11 0 5
+sound 612
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「そ、そんな、私、うまくできなくって……。
+line2 <shift> # だから、ＣＤ売れ残ったら、困りますっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「歌は得意でも営業アピールは苦手ということは
+line2 <shift> # ある、わかってる、それは気にしなくていい」
+display
+com11 0 5
+sound 613
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「で、でも、ノルマ分が売れないと、
+line2 <shift> # プロデューサーやみんなのお給料がっ」
+display
+com11 0 5
+sound 614
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ですからっ、今はもうちょっとだけ私、
+line2 <shift> # なんとか、売れるようにっ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そっか、ありがとう。そうだな、
+line2 <shift> # もうちょっとワゴン営業、頑張るか」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （せっかく雪歩が前向きなんだ、
+line2 <shift> # そのやる気を大事にしよう）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （幸いお客さんもまた集まってきて、ワゴンの
+line2 <shift> # ＣＤをすべてきれいにさばくことができた）
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あきらめるな！」
+display
+com11 0 5
+sound 615
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ええっ？　で、でも私、営業を続ける
+line2 <shift> # 自信が……。ああ、やっぱり失格ですっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「言い訳無用！
+line2 <shift> # 失格しちゃったら、おしまいなんだぞ」
+display
+com11 0 5
+sound 616
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ええ、だから私、失格なんです、
+line2 <shift> # 私みたいな、だめアイドルなんて……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうじゃない！　自分で失格って言うな、
+line2 <shift> # 誰もそんなことは認めてない、認めない」
+display
+com11 0 5
+sound 617
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ええっ！？　そ、そうですかっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「今はまだ失格じゃない！
+line2 <shift> # まだチャンスはある、まだまだ売れるっ」
+display
+com11 0 5
+sound 618
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ま、まだまだ、いけますかっ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、あきらめるな、やれると信じろ、
+line2 <shift> # ＣＤを売ることもアイドルの道もっ」
+display
+com11 0 5
+sound 619
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「わかりましたっ。な、なんとか信じて、
+line2 <shift> # もうちょっとだけ、やってみますぅ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ふぅ、勢いでなんとか、雪歩も
+line2 <shift> # その気になってくれたようだな……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後もしばらくワゴン営業を続け、
+line2 <shift> # まずまずの結果で終えることができた）
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いざというときには、
+line2 <shift> # あきらめが肝心だな……」
+display
+com11 0 5
+sound 620
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ですよね、そうですよね。私って、
+line2 <shift> # 営業の才能なくって……。ううっ、」
+display
+com11 0 5
+sound 621
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ステージでもいまいち、映えなくって……、
+line2 <shift> # すみません、ぐすっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「な、泣くな、またきっとチャンスはある！」
+display
+com11 0 5
+sound 622
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ああ、私きっと、アイドル失格なんです。
+line2 <shift> # ＣＤも返品山積みで、お仕事も失敗ばかりで」
+display
+com11 0 5
+sound 623
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「いいの、いいの、私、私、もう……。
+line2 <shift> # ここに穴掘ってやるうぅ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「落ち着け！　掘るな、埋まるな、
+line2 <shift> # 早まるなぁ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （雪歩は、営業不振が自分のせいだと思って、
+line2 <shift> # すっかり落ち込んでしまった……）
+com09 0 49
+display
+location 49
+unk02

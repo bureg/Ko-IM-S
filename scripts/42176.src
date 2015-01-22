@@ -1,0 +1,1054 @@
+com2c 0 19
+com2c 0 202
+com2c 0 107
+com2c 0 178
+com2c 0 205
+com2c 0 90
+com2c 0 113
+com2d 0 131
+com2e 0 71
+com32 0 6
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あれ？　まだこんな時間か。ずいぶん早い
+line2 <shift> # な……。でもこのまま、事務所へ行こうかな？）
+com03 0 2
+choice1 <shift> # どこかに寄り道する
+line2
+com09 0 10
+com08
+choice2 <shift> # まっすぐ事務所に行く
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （寄り道しながら、のんびり事務所に行こう！
+line2 <shift> # 気分転換も大切だよな）
+display
+com22 0 30
+com21 0 30
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （早朝の街は、いつもと少し、違って見えるな。
+line2 <shift> # きこえてくる音も、いつもと違う気がする……）
+display
+com11 0 0
+sound 10000
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「くぅ……。すぴぃ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……と思ったけど、今は、ききなれた音が、
+line2 <shift> # きこえてきているような気がする」
+display
+com11 0 0
+sound 10001
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「……あふぅ。あ、プロデューサー！　おはよう
+line2 <shift> # なの。良かった、会えて！　会いたかったの！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「美希！！　何やってるんだ、
+line2 <shift> # こんな時間に、こんな所で？」
+display
+com11 0 0
+sound 10002
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「朝、目が覚めたらプロデューサーにどうしても
+line2 <shift> # 会いたくなって、気がついたら、ここにいたの」
+display
+com11 0 0
+sound 10003
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「猛ダッシュで来て、良かった〜。もうちょっと
+line2 <shift> # 遅かったら、スレ違いになるとこだったね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなに朝早くから、俺に会うために……？」
+display
+com11 0 0
+sound 10004
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「うん！　疲れちゃったから、着いた途端、
+line2 <shift> # 寝ちゃったけど。えへへ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「アイドルの美希が、１人でフラフラ出歩いたり
+line2 <shift> # しちゃ、危ないだろ？　気をつけないと……」
+display
+com11 0 0
+sound 10005
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「大丈夫なの！　……でも、プロデューサーが、
+line2 <shift> # ミキのこと心配してくれるのは、うれしいかも」
+display
+com11 0 0
+sound 10006
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「毎日、そうだったら幸せだろうな。
+line2 <shift> # プロデューサーがミキだけを見てくれたら……」
+display
+com11 0 0
+sound 10007
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「……あのね、プロデューサー。お願いがあるの。
+line2 <shift> # ミキと……、付き合って！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええっ！　で、でも、俺は……」
+display
+com11 0 0
+sound 10008
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「あ、そういう意味じゃないの。困らせるつもり
+line2 <shift> # はないよ。今日１日だけで……、いいの！」
+display
+com11 0 0
+sound 10009
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「この前、ＩＵの会場で、ミキの気持ち、
+line2 <shift> # 知られちゃったから……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「気持ちって……」
+com03 0 3
+choice1 <shift> # ＩＵで勝ちたいってこと？
+line2
+com09 0 20
+com08
+choice2 <shift> # 俺を好きってこと？
+line2
+com09 0 21
+com08
+choice3 <shift> # 何だっけ？
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （早めに事務所に行って、仕事を片付けるか。
+line2 <shift> # 書類をためると、律子にも怒られるし……）
+com09 0 99
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ＩＵに優勝したいっていう、
+line2 <shift> # ミキの決意のことか？」
+display
+com11 0 0
+sound 10010
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「うん、そうなの。ミキ的に、一番大事なのは、
+line2 <shift> # 優勝したあとのことだけどね」
+display
+com11 0 0
+sound 10011
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ＩＵに勝って、黒井社長に夢をかなえてもらう
+line2 <shift> # の。プロデューサーに、ミキだけを……」
+display
+com11 0 0
+sound 10012
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「プロデュースし続けてもらうっていう夢を！
+line2 <shift> # それで、公私共に、パートナーになるの！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「き、気持ちはうれしいけど、プロデューサーは、
+line2 <shift> # あくまでも、公的なパートナーだぞ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺が美希のプロデュースをしたからって、私的
+line2 <shift> # なパートナーにまで、なるとは限らないけど」
+display
+com11 0 0
+sound 10013
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「そう？　そのうち、なるよ。ミキ的には、
+line2 <shift> # それで、ちっともおかしくないって、思うな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうか？」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺を好きってこと、だっけ？」
+display
+com11 0 0
+sound 10014
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「……はうぅ。なんか、
+line2 <shift> # そんなにハッキリ言われると、恥ずかしいの」
+display
+com11 0 0
+sound 10015
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「でも、そうだよ！　ミキはプロデューサーが
+line2 <shift> # 好き！　それって、いけないこと！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （う、うわあ……。なんかよくわからんが、
+line2 <shift> # 開き直られてしまった……）
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……何だっけ？」
+display
+com11 0 0
+sound 10016
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「えっ、忘れちゃったの……！？
+line2 <shift> # ぐすん、ヒドイよ、プロデューサー……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わあっ。な、泣かないでくれ！
+line2 <shift> # 今、思い出すから！　ええと……」
+display
+com11 0 0
+sound 10017
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「もう、いいよ……。ミキって、プロデューサー
+line2 <shift> # にとって、その程度の存在なんだ……」
+display
+com11 0 0
+sound 10018
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「……でもね！　だからこそ、今日はこうして、
+line2 <shift> # 会いに来たの！」
+display
+com11 0 0
+sound 10019
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ミキ、おにぎりよりも大好きなもの、見つけ
+line2 <shift> # たんだよ。それがね、プロデューサーなの！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「き、気持ちはうれしいけど、
+line2 <shift> # そんなこと急に言われてもだな……」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 10020
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「とにかく、もう、なりふり構ってられないの。
+line2 <shift> # ミキの良さ、たくさん知ってもらいたいよ！」
+display
+com11 0 0
+sound 10021
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「これまで、会いたいって気持ち、ずっとガマン
+line2 <shift> # してたんだよ？　だから、お願いっ！」
+display
+com11 0 0
+sound 10022
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「今日１日だけ、ミキに下さいなの！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うーん、美希は、周囲が見えなくなってるな。
+line2 <shift> # かなりの覚悟を決めて、来たみたいだし）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （断ったら、どんな行動に出られることやら。
+line2 <shift> # なんとか、うまくなだめたいけど……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （でも、ここで美希に付き合うと、
+line2 <shift> # 事務所へ出社できなくなってしまう！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （律子との活動週が、本当に１週減るぞ！
+line2 <shift> # 俺は、どうすれば！？）
+com03 0 3
+choice1 <shift> # わかったよ
+com09 0 30
+com08
+choice2 <shift> # 俺には仕事があるんだ
+line2
+com09 0 31
+com08
+choice3 <shift> # どうしたものか……
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、わかったよ。決めた！
+line2 <shift> # 今日は、美希に付き合う」
+display
+com11 0 0
+sound 10023
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「えっ、ホントっ！？　やったやったやったぁ！
+line2 <shift> # じゃあ、今日は２人でデートだねっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「う、うーん。デートではないけど……。
+line2 <shift> # 俺は保護者としてだな……」
+display
+com11 0 0
+sound 10024
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「むー。もう、デートでいいって思うな！
+line2 <shift> # それじゃ、行こ行こっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え？　行くって、どこへ？」
+display
+com11 0 0
+sound 10025
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「デートだもん。プレゼント買ってもらいに、だ
+line2 <shift> # よー。ねえねえいいでしょ？　何でもいいから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ぷ、プレゼントだって……！？」
+display
+com11 0 0
+sound 10026
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「え……、ダメ……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （正直、手持ちがあまりない。でも美希に、こん
+line2 <shift> # な切ない表情で頼まれたら、断りづらいよ……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええと、プレゼントするものは、
+line2 <shift> # 俺が決めていいのか？」
+display
+com11 0 0
+sound 10027
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「うん！　プロデューサーの愛がこもったもの
+line2 <shift> # なら、ミキ的には、何でもうれしいの！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、それじゃ、
+line2 <shift> # プレゼントを買うために……」
+com03 0 3
+choice1 <shift> # コンビニに行こう
+line2
+com09 0 40
+com08
+choice2 <shift> # ブティックに行こう
+line2
+com09 0 41
+com08
+choice3 <shift> # 電気街に行こう
+line2
+com09 0 42
+com08
+com07
+com09 0 42
+com08
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺には仕事があるんだ。美希の気持ちは、ほん
+line2 <shift> # とにうれしいけど……、でもムリだ。ごめんな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺にとって、今、一番大切なのは、
+line2 <shift> # 仕事であり、仕事上のパートナーの律子だから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「美希だって、仕事上のパートナーに、
+line2 <shift> # 約束を急にキャンセルされたら、迷惑だろう？」
+com09 0 98
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうしたものか……。うーん、うーん……」
+display
+com11 0 0
+sound 10028
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ミキの気持ち知ってるのに、ダメなの？
+line2 <shift> # ミキじゃ、どうしてもダメ！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん。
+line2 <shift> # だ、ダメってわけじゃないんだけど……」
+display
+com11 0 0
+sound 10029
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「じゃあ、ＯＫしてほしいってカンジ！
+line2 <shift> # 優柔不断は、ミキだって困るの！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうだろうけど、俺だって、迷う時間
+line2 <shift> # ぐらい欲しいというか、なんというか……」
+display
+com11 0 0
+sound 10030
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「むー。プロデューサー、迷いすぎ！
+line2 <shift> # ちょっとカッコ悪いかも……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （う……。美希に、ちょっとケーベツ
+line2 <shift> # されてしまったみたいだ）
+com09 0 98
+display
+location 40
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「コンビニに行こう！」
+display
+com11 0 0
+sound 10031
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「うんっ！　……って、えっ！？
+line2 <shift> # こ、コンビニ！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。美希が、言ったんだぞ？
+line2 <shift> # 俺が、プレゼントを決めていいって」
+display
+com11 0 0
+sound 10032
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「言ったけど、むー……。
+line2 <shift> # わ、わかったの。コンビニに行こ。ううう……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「何で落ち込んでるんだ？　ほら、早く行こう。
+line2 <shift> # ここからだと電車で数時間かかるからな」
+display
+com11 0 0
+sound 10033
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「えっ！？　それって、どういうこと？
+line2 <shift> # コンビニなら、そこら辺に、たくさんあるよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いいから、ついておいで。
+line2 <shift> # きっと、ミキなら喜ぶと思う」
+display
+com22 0 30
+com21 0 30
+com32 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ふう、やっとついた……。さすがに、遠いな」
+display
+com11 0 0
+sound 10034
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「電車で何時間もかかったのに、このコンビニ、
+line2 <shift> # どこも変わったとこ、ないよ？」
+display
+com11 0 0
+sound 10035
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「わざわざ、こんな遠くまで来るなんて、
+line2 <shift> # すごく時間のムダってカンジ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まあまあ、そう言わずに、お腹が減ったから、
+line2 <shift> # 美希の大好きなおにぎりでも買わないか？」
+display
+com11 0 0
+sound 10036
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「う、うん……。あれっ！？
+line2 <shift> # え、これ、何！？　すごいの！」
+display
+com11 0 0
+sound 10037
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「エビフライおにぎり、ぶりの照り焼きおにぎり、
+line2 <shift> # 牛丼おにぎり、それに、チーズおにぎり！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうだ？　このコンビニは、地域限定の
+line2 <shift> # おにぎりが、たくさん置いてあるんだ」
+display
+com11 0 0
+sound 10038
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ミキ、こんな珍しいおにぎり、初めて見た
+line2 <shift> # かも！　すごーい！　うれしいの！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あはは。やっと、笑顔が戻ったな。やっぱり、
+line2 <shift> # 美希が一番喜ぶのは、おにぎりかと思って」
+display
+com11 0 0
+sound 10039
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「そっか、だからここに、連れてきてくれたんだ
+line2 <shift> # ね！　プロデューサー、ミキのために……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さて、何にする？　どれでも好きなもの、
+line2 <shift> # 買っていいんだぞ？」
+display
+com11 0 0
+sound 10040
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ミキ、全種類欲しい！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おいおい、そんなに食べられるのか？」
+display
+com11 0 0
+sound 10041
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「大丈夫だよ。ミキとプロデューサーで、
+line2 <shift> # はんぶんこすればいいんだから。あはっ☆」
+display
+com11 0 0
+sound 10042
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「こんな珍しいおにぎり、食べられるチャンスは、
+line2 <shift> # 二度とないかもしれないでしょ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あはは、美希は食いしん坊だな。
+line2 <shift> # まあいいや、それじゃ、全部買おう」
+display
+com11 0 0
+sound 10043
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「大好きなおにぎりと、大好きなプロデュー
+line2 <shift> # サー……。ミキ、今、最高に幸せ☆」
+display
+com11 0 0
+sound 10044
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「いつまでも、ここに、こうしていられたら、
+line2 <shift> # とってもうれしいのにな……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （どうやら美希は、大満足してくれたようだ。
+line2 <shift> # おにぎり作戦は成功だな！）
+com09 0 49
+display
+location 41
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ブティックに行こう。美希の好きな服を、
+line2 <shift> # 買ってやるから！」
+display
+com11 0 0
+sound 10045
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ホント！？　今、ミキね、できれば服を
+line2 <shift> # 買って欲しいな〜って、思ってたところなの！」
+display
+com11 0 0
+sound 10046
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「以心伝心、ってカンジ☆
+line2 <shift> # そうと決まれば、早く、行こ行こっ！」
+display
+com22 0 30
+com21 0 30
+com32 0 2
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……なあ、美希。何の迷いもなく、まっすぐ
+line2 <shift> # この店に入ったけど、よく来る店なのか？」
+display
+com11 0 0
+sound 10047
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「うん、そーだよ。
+line2 <shift> # ミキ、このお店のブランドが気に入ってるの」
+display
+com11 0 0
+sound 10048
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「でもね、すっごく高いから、
+line2 <shift> # たまにしか買えないの」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええっ！？　すっごく高い、だって！？
+line2 <shift> # どれどれ、ちょっと値札を確認……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （いち、じゅう、ひゃく、せん、まん、じゅう
+line2 <shift> # まん……！？　お、俺の給料１ヶ月分ー！？）
+display
+com11 0 0
+sound 10049
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「どうしたの、プロデューサー？
+line2 <shift> # 表情が、こおりついてるってカンジ……」
+display
+com11 0 0
+sound 10050
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「もしかして、このお店は、ムリだった？
+line2 <shift> # やっぱり、出よっか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ぐ、ぐぐ……。いや、美希に、
+line2 <shift> # 気をつかわせるのは、俺のプライドが許さない）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （プロデューサーに、二言はないんだ！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「な、何も、問題はないぞ！
+line2 <shift> # だから、美希の好きな服を、選ぶといい！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「た、ただし、１着だけで頼む……。
+line2 <shift> # あと、できるだけ、安いのを……」
+display
+com22 0 30
+com21 0 30
+com32 0 3
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ううう……。お、俺のプレゼントは、
+line2 <shift> # 気に入ってくれたか？」
+display
+com11 0 0
+sound 10051
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「うん！　とってもかわいい服だよ。ミキの、
+line2 <shift> # お気に入りにするね☆　ありがとう！」
+display
+com11 0 0
+sound 10052
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「でも、プロデューサー、お会計の時からずっと、
+line2 <shift> # 涙目っぽいよ？　ゴミ、はいっちゃった？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「い、いや……。夜風が目にしみたのさ……」
+display
+com11 0 0
+sound 10053
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ふーん……。まだ夕方だけど……。でも、ホン
+line2 <shift> # トにありがと！　ミキ、すっごくうれしいな」
+display
+com11 0 0
+sound 10054
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「この服を着るたびに、今日のこと思い出して、
+line2 <shift> # 幸せな気分になれるかも☆」
+display
+com11 0 0
+sound 10055
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「できれば、服を着る時だけじゃなくて、
+line2 <shift> # 毎日、いつでも、幸せ感じたいけど……」
+com09 0 49
+display
+location 42
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「電気街に行こう。何か、最新の家電とか、
+line2 <shift> # おもちゃとか、好きなものを買ってやるよ」
+display
+com11 0 0
+sound 10056
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「え、電気街……？　でもミキ、電化製品には、
+line2 <shift> # あんま興味ないんだけどな……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか……。
+line2 <shift> # じゃあ、フィギュアでも、買うか？」
+display
+com11 0 0
+sound 10057
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ひぎゅあ？　なに、それ？　面白そうかも！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おっ、そうか？　それじゃ、行こう！」
+display
+com22 0 30
+com21 0 30
+com32 0 4
+com11 0 0
+sound 10058
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「……うっわあ。お人形がいっぱいなの。
+line2 <shift> # スゴイよ、プロデューサー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだろ？　美希には、こっちのお店にある、
+line2 <shift> # 動物シリーズがいいと思うけど……」
+display
+com11 0 0
+sound 10059
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「うわー！　このお人形の水着、すっごく布、
+line2 <shift> # 少ないかも！　見て見て、プロデューサー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ぎゃー！　そっちの店は、あんまり、
+line2 <shift> # 女の子向けじゃないんだよ、美希！」
+display
+com11 0 0
+sound 10060
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「こっちのもスゴイのー！　ありえないってカン
+line2 <shift> # ジ！　ねえねえ、プロデューサーってば！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お、大声出すなよ、美希！
+line2 <shift> # 街中の人が、こっちを見てるだろっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後、美希が、今後の参考にすると言うので、
+line2 <shift> # きわどい水着のフィギュアを買ってやった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （何の参考かは知らないが、美希は、まあまあ
+line2 <shift> # 満足してくれたみたいだ。良かった……）
+com09 0 49
+display
+location 49
+com22 0 30
+com21 0 30
+com32 0 3
+com11 0 0
+sound 10061
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「プロデューサー、今日は、付き合ってくれて、
+line2 <shift> # ありがとうなの。ミキ、楽しかったよ☆」
+display
+com11 0 0
+sound 10062
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ミキがムリヤリ誘ったデートなのに、楽しませ
+line2 <shift> # ようとしてくれて、うれしかったな……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ははは……。これで、満足してくれたか？
+line2 <shift> # もう今日みたいに突然の誘いは、ナシだぞ？」
+display
+com11 0 0
+sound 10063
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「うん……。ねえ、プロデューサー。ミキのこと、
+line2 <shift> # 少しはプロデュースしたくなった？」
+display
+com11 0 0
+sound 10064
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「このまま、９６１プロに来て欲しいって
+line2 <shift> # 言ったら……、どうする？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それは……」
+display
+com11 0 0
+sound 10065
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「あ、待って待って！　やっぱ、答えはきかない。
+line2 <shift> # ミキね、ちゃんと、けじめは守るよ」
+display
+com11 0 0
+sound 10066
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ＩＵに優勝して、それからプロデューサーを
+line2 <shift> # 迎えに行くの。それまで、待ってて」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「美希……。だったら美希が、
+line2 <shift> # ７６５プロに戻ってくれば……」
+display
+com11 0 0
+sound 10067
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「じゃあね、プロデューサー。
+line2 <shift> # 今日は、ホントにありがとうなの！」
+display
+com11 0 0
+sound 10068
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ミキ、がんばるから！　きっときっと、
+line2 <shift> # プロデューサーのこと、迎えに行くからね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あっ、美希！　待ってくれ！　俺は、
+line2 <shift> # ９６１プロに行く気は、ないんだぞ……！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ダメだ。行ってしまった……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （美希の気持ちを傷つけたくはないが、
+line2 <shift> # 俺の気持ちも、もっとハッキリ伝えないとな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……結局、今日は、ただ、１日美希と過ごした
+line2 <shift> # だけか。ま、しょうがないな。俺も帰ろう）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あれ？　そういえば、
+line2 <shift> # 何か忘れているような気もするが……？）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ぎょええええっ！　律子を事務所に待たせたま
+line2 <shift> # まだ！　そういえば、連絡をしてないぞっ！？」
+display
+com22 0 30
+com21 0 30
+com32 0 5
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ごめん、律子！　俺に全力でお説教してくれ！
+line2 <shift> # 何時間でも耐えるから！」
+display
+com11 0 0
+sound 10069
+com4c 0 1
+name 0 0 <names:4>  # Ritsuko
+line1 <shift> # 「あら、プロデューサー。お帰りなさい。
+line2 <shift> # ずいぶん、遅かったんですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あれ？　結構、落ち着いてるな……。
+line2 <shift> # 問答無用で、カミナリが落ちると思ったのに」
+display
+com11 0 0
+sound 10070
+com4c 0 1
+name 0 0 <names:4>  # Ritsuko
+line1 <shift> # 「そんなことしませんよ。今日はプロデューサー
+line2 <shift> # がいないおかげで、事務仕事がはかどったし」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え、もうすぐＩＵ本選だっていうのに、
+line2 <shift> # まだ事務の仕事を引き受けてるのか？」
+display
+com11 0 0
+sound 10071
+com4c 0 1
+name 0 0 <names:4>  # Ritsuko
+line1 <shift> # 「ええ。やっぱり小鳥さんだけじゃ限界がある
+line2 <shift> # みたい。かなり大混乱状態になってました」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「できれば、レッスンをしてて欲しかった
+line2 <shift> # んだが……」
+display
+com11 0 0
+sound 10072
+com4c 0 1
+name 0 0 <names:4>  # Ritsuko
+line1 <shift> # 「ほぅ……。プロデューサーが、そういうこと、
+line2 <shift> # 言いますか」
+display
+com11 0 0
+sound 10073
+com4c 0 1
+name 0 0 <names:4>  # Ritsuko
+line1 <shift> # 「誰のせいで、レッスンができなかったと、
+line2 <shift> # 思ってるんです！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああっ、俺のせいです！　ごめんなさい！」
+display
+com11 0 0
+sound 10074
+com4c 0 1
+name 0 0 <names:4>  # Ritsuko
+line1 <shift> # 「まったく。どこで油を売ってたのか知らない
+line2 <shift> # けど、バツとして、今日は帰しませんから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええっ！？　て、徹夜で説教か……？」
+display
+com11 0 0
+sound 10075
+com4c 0 1
+name 0 0 <names:4>  # Ritsuko
+line1 <shift> # 「ち・が・い・ま・す！」
+display
+com11 0 0
+sound 10076
+com4c 0 1
+name 0 0 <names:4>  # Ritsuko
+line1 <shift> # 「ＩＵ本選も含めて、今後のプロデュース案に
+line2 <shift> # ついて、たっぷりきかせてもらうんです！」
+display
+com11 0 0
+sound 10077
+com4c 0 1
+name 0 0 <names:4>  # Ritsuko
+line1 <shift> # 「これからが、一番大事な時期なんですからね！
+line2 <shift> # たるんでたら、承知しませんよ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、ああ、わかった！　がんばるよ！」
+display
+com11 0 0
+sound 10078
+com4c 0 1
+name 0 0 <names:4>  # Ritsuko
+line1 <shift> # 「はぁ。とりあえず、お茶でも飲んで一息ついて
+line2 <shift> # ください。汗、びっしょりじゃないですか」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いやあ、焦って、走ってきたんだ……」
+display
+com11 0 0
+sound 10079
+com4c 0 1
+name 0 0 <names:4>  # Ritsuko
+line1 <shift> # 「焦らなくても、私は、いつでもこの事務所に、
+line2 <shift> # いますよ。急に、いなくなったりしません」
+display
+com11 0 0
+sound 10080
+com4c 0 1
+name 0 0 <names:4>  # Ritsuko
+line1 <shift> # 「……プロデューサーを、信じてますから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「律子……、ありがとう！」
+display
+com11 0 0
+sound 10081
+com4c 0 1
+name 0 0 <names:4>  # Ritsuko
+line1 <shift> # 「でも、プロデューサーっていう人間の
+line2 <shift> # ことを、信じてるわけじゃなくて……」
+display
+com11 0 0
+sound 10082
+com4c 0 1
+name 0 0 <names:4>  # Ritsuko
+line1 <shift> # 「プロデューサーとしての手腕を、信じていると
+line2 <shift> # いうことですので、誤解のないようにね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （律子の信頼を、裏切るようなことは、
+line2 <shift> # 二度としちゃいけないな！）
+display
+com1c 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺の担当するアイドルは、やっぱり律子だ！
+line2 <shift> # 美希には悪いけど、もう迷ったりしないぞ！）
+com09 0 99
+display
+location 98
+com11 0 0
+sound 10083
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「……わかった。もう、いいの。プロデューサー、
+line2 <shift> # ミキのこと、キライなんだね。迷惑なんだ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ。そんなことはないよ！
+line2 <shift> # キライなんてことは……」
+display
+com11 0 0
+sound 10084
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ううん。ゴメンね！　ミキが悪いの。
+line2 <shift> # キラわれても、気持ち変えられないミキが……」
+display
+com11 0 0
+sound 10085
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「今日は、帰るね。急にムリなこと言って、
+line2 <shift> # ほんとにごめんなさいなの。じゃあ、また！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （美希……。笑顔で帰っていったけど、
+line2 <shift> # 少し、傷つけてしまった気がする）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （おまけに、美希と真剣に話す機会も、
+line2 <shift> # これで、逃しちゃったかもしれないが……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （でも、仕方ない。仕事に遅れたら、
+line2 <shift> # 律子に殺されるし……。さ、事務所へ行くか！）
+com09 0 99
+display
+location 99
+unk02

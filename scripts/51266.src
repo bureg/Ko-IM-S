@@ -1,0 +1,454 @@
+com2c 0 33
+com2d 0 91
+com2e 0 101
+com32 0 0
+com11 0 3
+sound 400
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「あ〜、おもしろかった〜！　ラジオで、
+line2 <shift> # おしゃべりするのって、すっごく楽しいね〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あのなあ、亜美。なんで女性ＤＪに、人に言え
+line2 <shift> # ない恥ずかしい話なんて、ききまくったんだ？」
+display
+com11 0 3
+sound 401
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「え？　だって〜、知りたかったんだもん♪
+line2 <shift> # あの人、なんかモテそうだったし〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「深夜枠だから、悪いとは言わないけど、
+line2 <shift> # ほどほどにな。あまり、ズケズケきくのは……」
+com03 0 3
+choice1 <shift> # アイドルらしく、ないぞ
+line2
+com09 0 10
+com08
+choice2 <shift> # 小学生らしく、ないぞ
+line2
+com09 0 11
+com08
+choice3 <shift> # 品性が、ないぞ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「アイドルらしく、ないぞ」
+display
+com11 0 3
+sound 402
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「そっかなー。言われてみると、そうかも〜」
+display
+com11 0 3
+sound 403
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「でも、きっと、大丈夫だよ。あのお姉さんも、
+line2 <shift> # 最後は、おかしそうに笑ってたし！」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「小学生らしく、ないぞ」
+display
+com11 0 3
+sound 404
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「そんなことないよ〜！　亜美達、普段、
+line2 <shift> # 友達と、ああいう話、バンバンしてるよ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そうなのか？」
+display
+com11 0 3
+sound 405
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「やっぱり、男の子ネタが、一番盛り上がる
+line2 <shift> # もんねっ。あれぐらい、普通だよ〜」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「品性が、ないぞ」
+display
+com11 0 3
+sound 406
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ひんせー？　なにそれ？
+line2 <shift> # センセーとか、マンセーとかの仲間？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ち、ちがうよ。品性ってのは、つまり気品だよ。
+line2 <shift> # 上品じゃない、ってこと」
+display
+com11 0 3
+sound 407
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「そういうの、気にしすぎると、つまらないよね。
+line2 <shift> # 真美達、お嬢様じゃないし〜」
+com09 0 29
+display
+location 29
+com11 0 3
+sound 408
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ねえ、兄ちゃん。さっき、亜美、
+line2 <shift> # 一人でペラペラ、しゃべりすぎてた？」
+display
+com11 0 3
+sound 409
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ラジオって、あんま、やったことないから、
+line2 <shift> # もう、押せ押せで、いっちゃった！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「たしかに走りすぎてたかもな。もうちょっと、
+line2 <shift> # ここを働かせながら、しゃべるといいよ、亜美」
+com0e 3 47
+com44
+com09 0 30
+com45
+com44
+com09 0 31
+com45
+com44
+com09 0 32
+com45
+com44
+com09 0 33
+com45
+com44
+com09 0 34
+com45
+com44
+com09 0 35
+com45
+com44
+com09 0 36
+com45
+com44
+com09 0 37
+com45
+display
+location 30
+com11 0 3
+sound 410
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「あ、耳？　人の言うことを、
+line2 <shift> # よくきいてから、お返事するの？」
+display
+com11 0 3
+sound 411
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「そうだねっ！　そうした方が、
+line2 <shift> # もっとワイワイ盛り上がれたかも！」
+com09 0 49
+display
+location 31
+com11 0 3
+sound 412
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「頭？　考えながら、話すってこと？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。微妙な間とか、場の雰囲気とかを、
+line2 <shift> # 読みながら、しゃべろう」
+display
+com11 0 3
+sound 413
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ん〜。そういうの、亜美、ちょっと苦手〜。
+line2 <shift> # どうしても、口が先に動いちゃうし〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「い、いや、まあ、できる範囲で、いいけどな」
+com09 0 49
+display
+location 32
+com11 0 3
+sound 414
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「目？　そんなところ、働かせて、
+line2 <shift> # どうやって、しゃべるの？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ＤＪと、まず視線で会話するんだ。
+line2 <shift> # そうすれば、トークも、かみあって……」
+display
+com11 0 3
+sound 415
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ん〜、なんか、むずかしそ〜。キョロキョロ
+line2 <shift> # しながら、楽しくおしゃべりなんて……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「い、いや、まあ、できる範囲で、いいけどな」
+com09 0 49
+display
+location 33
+com11 0 3
+sound 416
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「え？　口は、今日も、ずっと働かせっぱなし
+line2 <shift> # だったよ？　あれ以上に、動かすの？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いっそ、もっと早口で、まくし立てた方が、
+line2 <shift> # おもしろいかもな。マシンガンみたいに」
+display
+com11 0 3
+sound 417
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ましんがん……。いえいおっはー、よろよろ、
+line2 <shift> # ドドドドド、ババババ、ズキュンズキュン！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……べ、別に、
+line2 <shift> # マシンガンのモノマネする必要は、ないけどな」
+com09 0 49
+display
+location 34
+com11 0 3
+sound 418
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「胸って……、心から、しゃべるってこと？
+line2 <shift> # それ、どうやるの〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「こう、ひとつひとつの言葉に、
+line2 <shift> # 気持ちを込めるって、いうか」
+display
+com11 0 3
+sound 419
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「そんなの、おもしろいかなあ？
+line2 <shift> # ただ、だるいだけに、なっちゃうよ〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、亜美達には、そういうトークは、
+line2 <shift> # 向かないかな。……悪かった、忘れてくれ」
+com09 0 49
+display
+location 35
+com11 0 3
+sound 420
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「手？　ブンブン振り回しながら、
+line2 <shift> # おしゃべりするの？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、そうじゃなくて、手ぶりを交えながら
+line2 <shift> # 話すと、トークに緩急が出るかも」
+display
+com11 0 3
+sound 421
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ん〜、でも、さっきスタッフの人には、『話し
+line2 <shift> # てる最中、机叩きすぎ』って、注意されたよ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そうか……。なら、手使うのは、
+line2 <shift> # やめた方が、いいかもしれないな」
+com09 0 49
+display
+location 36
+com11 0 3
+sound 422
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「そ、そんなところ使って、
+line2 <shift> # お話なんて、できないよ〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうかな？　もう新人じゃないんだし、
+line2 <shift> # がんばれば、できそうな気もするけど……」
+display
+com11 0 3
+sound 423
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「絶対、できない〜っ。亜美、たまに道で見る、
+line2 <shift> # 大道芸人さんじゃ、ないし……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、なにがなんでも、とは言わないけどな。
+line2 <shift> # これは、ひ、ひとつのたとえだから」
+com09 0 49
+display
+location 37
+com11 0 3
+sound 424
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「兄ちゃん……？
+line2 <shift> # どうして、ダンマリしてるの？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、よく考えたら、トークの手法なんて、
+line2 <shift> # 人それぞれだしな。言うの、やめとくよ」
+display
+com11 0 3
+sound 425
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ええええ、そう言われると、気になる〜。
+line2 <shift> # 教えて教えて教えて〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ま、また今度な。それよりも、
+line2 <shift> # 自分なりのやり方、身につけていこう」
+com09 0 49
+display
+location 49
+com11 0 3
+sound 426
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ラジオか〜。兄ちゃん、真美達は、あんまり
+line2 <shift> # きかないけど、ラジオ大好きって人もいるの？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そりゃ、そうだよ。映像主流の、
+line2 <shift> # 今の流れの中でも、生き残ってるんだから」
+display
+com11 0 3
+sound 427
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ラジオが好きな人って……、いっつも、
+line2 <shift> # どんなところで、きいてるんだろ〜？」
+com03 0 3
+choice1 <shift> # ベッドの中とかが、多いかな
+line2
+com09 0 50
+com08
+choice2 <shift> # 車の中とかが、多いかな
+line2
+com09 0 51
+com08
+choice3 <shift> # 電車の中とかが、多いかな
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ベッドの中とかが、多いかな」
+display
+com11 0 3
+sound 428
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「寝る前に、亜美達の声、きくんだね！　じゃ、
+line2 <shift> # 楽しい話しないと、悪い夢、みちゃうかも！」
+display
+com11 0 3
+sound 429
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「よーし、真美、大爆笑のネタ、考えておこ！
+line2 <shift> # どうせなら、おもしろい夢、みてほしいし！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （お、けっこう、前向きになってくれたな。
+line2 <shift> # なかなか、いい例を紹介できたようだ！）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「車の中とかが、多いかな」
+display
+com11 0 3
+sound 430
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「運転しながら、きくの？　なら、きいてる人は、
+line2 <shift> # 亜美より、ずっと年上なんだね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、そうだな。
+line2 <shift> # 当然、免許持ってる人ばかりだから」
+display
+com11 0 3
+sound 431
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「真美達と同じ年くらいの子は、きいてくれ
+line2 <shift> # ないのかな〜。それって、ちょっと悲しいよね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （すこし、さびしそうな表情……。けど、まあ、
+line2 <shift> # リスナー層を知っておくことは、悪くはないか）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「電車の中とかが、多いかな」
+display
+com11 0 3
+sound 432
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「え、そうなの？　じゃあ、電車で、
+line2 <shift> # イヤホンしてる人って……」
+display
+com11 0 3
+sound 433
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「真美達みたいに、ＭＰ３きいてる人ばっか
+line2 <shift> # じゃなかったんだねっ！　ビックリ〜」
+display
+com11 0 3
+sound 434
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「でも亜美。いま録った番組って、深夜放送なん
+line2 <shift> # だよね？　電車、あんまり走ってないんじゃ？」
+display
+com11 0 3
+sound 435
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ああっ！　そ〜だ〜！　やだよ〜、兄ちゃん！
+line2 <shift> # 亜美のため、夜も電車、走らせて〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （不可能なことを、頼まれてしまった……。
+line2 <shift> # 別の例、紹介した方が、よろこばれたかもな）
+com09 0 69
+display
+location 69
+unk02

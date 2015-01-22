@@ -1,0 +1,572 @@
+com2c 0 24
+com2c 0 201
+com2c 0 32
+com2c 0 57
+com2d 0 41
+com2e 0 42
+com32 0 0
+com11 0 0
+sound 10000
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……はぁ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「めずらしいな、千早。ため息なんてついて。
+line2 <shift> # ミーティングで疲れたか？」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あ、すみません。違うんです。最近ＣＤショッ
+line2 <shift> # プに行ってないな、なんて思ってしまって」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「少し悲しいです。でも、行くと、すぐに
+line2 <shift> # 気づかれてしまいそうで、怖くて行けません」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「確かに今の千早が行ったら、『トップアイドル
+line2 <shift> # が来たー！』って、大騒ぎになっちゃうもんな」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「なんとか、私だと気づかれずに、
+line2 <shift> # 堂々と街を歩く方法、ないでしょうか？」
+com03 0 3
+choice1 <shift> # トレーニングウェアを着よう
+line2
+com09 0 10
+com08
+choice2 <shift> # メガネや帽子をしよう
+line2
+com09 0 11
+com08
+choice3 <shift> # 水着を着よう
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「トレーニングウェアを着よう。
+line2 <shift> # そうすれば、きっと、気づかれないよ」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ええっ！？　そんな格好で、街へ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「千早ほどのアイドルが、トレーニングウェアで、
+line2 <shift> # 出歩いてるとは、誰も思わないだろ？」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「たしかに気づかれないかもしれませんが……。
+line2 <shift> # ちょっと……、いえ、かなり恥ずかしいです」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あの、できたら、プロデューサーも、
+line2 <shift> # 一緒に来てもらえないでしょうか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もちろんだ。千早ひとりで行かせるつもりは、
+line2 <shift> # 最初からないよ」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そうですか。良かった。それならトレーニング
+line2 <shift> # ウェアでも、なんとか。よろしくお願いします」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「メガネや帽子をしよう。そうすれば、
+line2 <shift> # 千早だってことが、バレないんじゃないか？」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あ、それは以前、
+line2 <shift> # 試してみたことがあるんです」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「でも、そんな格好をしている人が、
+line2 <shift> # 他にいないので、逆に目立ってしまって」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか……。考えてみたら、そういう格好って、
+line2 <shift> # いかにも芸能人、って感じだもんなあ」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……ということは、いかにも芸能人ではない、
+line2 <shift> # という格好をすれば、いいのかもしれませんね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。芸能人らしくない、地味な格好がいいな。
+line2 <shift> # たとえば……、トレーニングウェアとか？」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あっ。それなら、すぐ用意できる格好ですし、
+line2 <shift> # 試す価値、あるかもしれませんね」
+display
+com11 0 0
+sound 10012
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「でも、その格好で一人で歩くのは、
+line2 <shift> # 恥ずかしすぎて、ムリですけど」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ、俺も一緒に行くよ。ものは試しだ。
+line2 <shift> # 今から、やってみよう。さあ、行くぞ！」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「水着を着よう。そんな格好のアイドルが歩いて
+line2 <shift> # るなんて、誰も思わないから、気づかれないよ」
+display
+com11 0 0
+sound 10013
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「み、水着で外を歩くんですかっ！？
+line2 <shift> # そんなこと、絶対にできません！」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサー、からかっているんですね？
+line2 <shift> # 私は、真面目に相談したのに。……くっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「す、すまん。考えが足りなかった。そうだ！
+line2 <shift> # トレーニングウェアなら、いいんじゃないか？」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「それは……、まあ、水着よりは……。それでも、
+line2 <shift> # 恥ずかしいことに変わりはないですが」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺も一緒に行ってやるからさ。
+line2 <shift> # そうだ！　今から、試してみないか？」
+display
+com11 0 0
+sound 10016
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あ、プロデューサーも一緒なら、
+line2 <shift> # なんとか恥ずかしさに耐えられそうです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし。じゃあ、行こう！」
+com09 0 29
+display
+location 29
+com22 0 30
+com32 0 2
+com21 0 30
+com11 0 0
+sound 10017
+com4c 0 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「夢のようです。格好は、こんな風でも、また
+line2 <shift> # ここを、ゆっくり歩ける喜びにくらべたら……」
+display
+com11 0 0
+sound 10018
+com4c 0 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「私、音楽に包まれているような、
+line2 <shift> # この場所が、とても好きなんです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （お客さんは、それなりにいるけれど、
+line2 <shift> # どうやら、本当に気づかれていないようだな）
+display
+com11 0 0
+sound 10019
+com4c 0 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あ、見て下さい、プロデューサー。
+line2 <shift> # クラシックのコーナー、新譜が出ていますよ」
+display
+com11 0 0
+sound 10020
+com4c 0 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ポップスのコーナーも広くなってる！
+line2 <shift> # しばらく来ない間に、色々、変わったのね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「こらこら、千早。あんまり、はしゃぐと、
+line2 <shift> # 見つかっちゃうぞ。声は変装できないんだから」
+display
+com11 0 0
+sound 10021
+com4c 0 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あ。……すみません。プロデューサーと一緒に
+line2 <shift> # 買い物だなんて、うれしくて、つい」
+display
+com11 0 0
+sound 10022
+com4c 0 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「声、大きかったでしょうか？　どういう風に
+line2 <shift> # 話せば、目立たないでいられますか？」
+com03 0 3
+choice1 <shift> # 大声じゃなければＯＫ
+line2
+com09 0 30
+com08
+choice2 <shift> # 声を変えればＯＫ
+line2
+com09 0 31
+com08
+choice3 <shift> # 声を出さなければＯＫ
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「大声じゃなければＯＫだよ。千早の声は、澄ん
+line2 <shift> # でいて、よく通るから、大声だと目立つんだ」
+display
+com11 0 0
+sound 10023
+com4c 0 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「わかりました。大きな声を出さないように、
+line2 <shift> # 気をつけます。失礼しました」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……それだけか？　今、さりげなく
+line2 <shift> # ほめたんだけど。千早の声はキレイだって」
+display
+com11 0 0
+sound 10024
+com4c 0 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「えっ！　そ、そうだったんですか。すみません、
+line2 <shift> # 気づかなくて。ありがとうございます」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あはは。ま、今さらほめるまでもないか。俺が
+line2 <shift> # 千早の声にほれてるのは、千早も知ってるよな」
+display
+com11 0 0
+sound 10025
+com4c 0 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサー……！　プロデューサーの言葉、
+line2 <shift> # とても力になります。他の誰の言葉より」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「声を変えればＯＫだよ。千早の声は個性的で
+line2 <shift> # 目立つから、変えた方が目立たないと思う」
+display
+com11 0 0
+sound 10026
+com4c 0 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「声を、ですか？　……プロデューサー、
+line2 <shift> # ＣＤの試聴をしてきても、いいでしょうか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうそう。うまいじゃないか！
+line2 <shift> # 別人っぽく聞こえるぞ」
+display
+com11 0 0
+sound 10027
+com4c 0 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「本当ですか？　では、しばらくこの声で、
+line2 <shift> # 話すことに……、けほっ！　けほっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あああ、ごめん！　今の声で話すのは、ノドに
+line2 <shift> # 良くないみたいだな。やっぱり、普通にいこう」
+display
+com11 0 0
+sound 10028
+com4c 0 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そうですね……。すみません。
+line2 <shift> # 大声は出さないように、気をつけますから」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「声を出さなければＯＫだよ。
+line2 <shift> # 絶対に千早だとバレない」
+display
+com11 0 0
+sound 10029
+com4c 0 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ええっ！　でも、それだと、
+line2 <shift> # プロデューサーと話せなくなってしまいますが」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「目で語ればいいさ！　俺が、千早の目から、
+line2 <shift> # 考えを読みとってみせる！」
+display
+com11 0 0
+sound 10030
+com4c 0 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「わかりました。
+line2 <shift> # では、読みとってみて下さい……」
+display
+com11 0 0
+sound 10031
+com4c 0 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「…………………………」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……えーと、『おなかがすいた！』だな？」
+display
+com11 0 0
+sound 10032
+com4c 0 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ハズレです。『自主トレの時間、増やしても
+line2 <shift> # いいですか？』です。全然違うじゃないですか」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う、ごめん。細かいことを読みとるのは、結構
+line2 <shift> # むずかしいな。やっぱり、普通に話してくれ」
+display
+com11 0 0
+sound 10033
+com4c 0 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「わかりました。
+line2 <shift> # 大声は出さないように、気をつけますから」
+com09 0 49
+display
+location 49
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おっ、このＢＧＭ、いい曲だな！
+line2 <shift> # 外国のポップス曲みたいだけど」
+display
+com11 0 0
+sound 10034
+com4c 0 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ええ。今、話題になっていますよね。
+line2 <shift> # この曲のカバー、いつかやってみたいです」
+display
+com11 0 0
+sound 10035
+com4c 0 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……あっ。今のパートは、表現を変えたほうが、
+line2 <shift> # 後ろとのバランスが、良さそうですね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「カバーに前向きだな、千早！
+line2 <shift> # で、どんな感じに変えたいんだ？」
+display
+com11 0 0
+sound 10036
+com4c 0 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ラ、ララ〜♪　ララララ〜♪」
+display
+com11 0 0
+sound 10037
+com4c 0 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……こんな感じがいいと思います。
+line2 <shift> # どうですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、なるほど！　確かにな……、って、あ、
+line2 <shift> # あれ？　なんだか、周りに人が集まって……」
+display
+com11 0 0
+sound 10038
+com4c 0 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プ、プロデューサー。歌ったことで、
+line2 <shift> # すごく目立ってしまったようです……」
+com03 0 3
+choice1 <shift> # 一緒に逃げよう
+line2
+com09 0 50
+com08
+choice2 <shift> # 先に逃げろ
+com09 0 51
+com08
+choice3 <shift> # 別々に逃げよう
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「一緒に逃げよう、千早！
+line2 <shift> # このままでは、たくさんの人に囲まれちゃうぞ」
+display
+com11 0 0
+sound 10039
+com4c 0 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はいっ！　ついていきます、プロデューサー」
+display
+com22 0 30
+com32 0 3
+com21 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「はぁ、はぁ……」
+display
+com11 0 0
+sound 10040
+com4c 0 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「大丈夫ですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。千早は体力あるな。
+line2 <shift> # 息も全くきれてないし」
+display
+com11 0 0
+sound 10041
+com4c 0 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「いつもトレーニングで走ってますし、
+line2 <shift> # 今日は、動きやすい格好でしたから」
+display
+com11 0 0
+sound 10042
+com4c 0 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「すみません、プロデューサー。
+line2 <shift> # 私が歌い出さなければ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なに、いいさ。ちょうどいい運動になった」
+display
+com11 0 0
+sound 10043
+com4c 0 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサー……。でも、あの程度で、
+line2 <shift> # 息があがるなんて、ちょっと運動不足ですよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、おいおい、千早」
+display
+com11 0 0
+sound 10044
+com4c 0 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ふふっ！　冗談です。……あの」
+display
+com11 0 0
+sound 10045
+com4c 0 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「最後は大変だったけど……、今日は、とっても
+line2 <shift> # 楽しかったです。ありがとうございました」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （千早、いいリフレッシュになったようだな。
+line2 <shift> # 来て良かった！）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「千早、先に逃げろ！」
+display
+com11 0 0
+sound 10046
+com4c 0 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「えっ！？　プロデューサーは、
+line2 <shift> # どうするんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「集まってきた人を引きつけて、適当に逃げる。
+line2 <shift> # いいから、急いで行くんだ！」
+display
+com11 0 0
+sound 10047
+com4c 0 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「わ、わかりました！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、千早は無事に事務所へ戻れたが、
+line2 <shift> # 俺は、次の仕事に遅れてしまった）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （千早を危険にさらさずにすんだのは、良かった
+line2 <shift> # けど、ちょっと判断ミスだったかな……）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「千早、別々に逃げよう。
+line2 <shift> # 事務所で落ち合うんだ！　じゃ、さらば！」
+display
+com11 0 0
+sound 10048
+com4c 0 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そ、そんな！？　置いていかないで下さい、
+line2 <shift> # プロデューサー！　うう、人が押し寄せて……」
+display
+com22 0 30
+com21 0 30
+com32 0 2
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「な、何やってるんだ、千早！
+line2 <shift> # 早く逃げないと……」
+display
+com11 0 0
+sound 10049
+com4c 0 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あ、戻ってきてくれたんですね、プロデュー
+line2 <shift> # サー。でも、く、苦しい。押さないで下さい！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （結局、千早はファンに囲まれてしまい、
+line2 <shift> # 事務所に戻るのに、ものすごく時間がかかった）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （千早を危険な目にあわせちゃったな。
+line2 <shift> # 何をやってるんだ、俺は……）
+com09 0 69
+display
+location 69
+unk02

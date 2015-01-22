@@ -1,0 +1,298 @@
+com2c 0 24
+com2d 0 11
+com32 0 0
+com11 0 3
+sound 500
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「これから、雑誌のインタビューですよね……、
+line2 <shift> # あれ？　プロデューサーさん、この紙は？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、インタビューの内容だって。
+line2 <shift> # さっき雑誌社から、ファックスで送られてきた」
+display
+com11 0 3
+sound 501
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ちょっと見せてください……。ふーん……、
+line2 <shift> # 内容って、先に全部、決まってるんですねぇ」
+com03 0 2
+choice1 <shift> # そうだね……
+line2
+com09 0 10
+com08
+choice2 <shift> # 不満かな？
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだね……。いきなりきかれても、頭ん中
+line2 <shift> # 真っ白で、答えられないこともあるからなぁ」
+display
+com11 0 3
+sound 502
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「なるほどぉ……、って、
+line2 <shift> # あの、私は、大丈夫ですよ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、いや、そういう意味じゃ、
+line2 <shift> # なかったんだけどな」
+display
+com11 0 3
+sound 503
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ふふっ、冗談です。でも、確かに、
+line2 <shift> # 答えにくい質問って、時々ありますよね」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「不満かな？」
+display
+com11 0 3
+sound 504
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あ、いえ、そういうわけじゃ、
+line2 <shift> # ないですけど。ちょっと意外に思って」
+display
+com11 0 3
+sound 505
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「インタビューって、その場で、いろいろ適当に
+line2 <shift> # きかれることを、答えると思ってたので」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いきなり何かきいても、うまい答えが、
+line2 <shift> # 出てこないことがあるからじゃないかな」
+display
+com11 0 3
+sound 506
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「とっさに答えられないこととか？
+line2 <shift> # うーん……、なるほどぉ」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「春香、もしかして……、インタビューで、
+line2 <shift> # きかれたくないことがあるのか？」
+display
+com11 0 3
+sound 507
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「まさかぁ。私、隠すようなことなんて、
+line2 <shift> # 何もないですよ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか、じゃあ早速、質問しちゃうかな……。
+line2 <shift> # 『好きな男性は誰？』」
+display
+com11 0 3
+sound 508
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ええっ！？　いきなりそんなこと、きかないで
+line2 <shift> # くださいよ、プロデューサーさんっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、春香……。今回のインタビューに、
+line2 <shift> # 『好きな男性は誰？』って項目があるんだけど」
+display
+com11 0 3
+sound 509
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ううっ、そうなんですか！？
+line2 <shift> # そういうの、なんだか答えにくいなぁ……」
+display
+com11 0 3
+sound 510
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「でも、真面目に答えないとだめなのかな？」
+com03 0 3
+choice1 <shift> # 答えにくいなら秘密に
+line2
+com09 0 30
+com08
+choice2 <shift> # 正直に答えよう
+line2
+com09 0 31
+com08
+choice3 <shift> # 質問を変えてもらおう
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「答えにくいなら、そういうのは、
+line2 <shift> # 『秘密』でいいんじゃないか？」
+display
+com11 0 3
+sound 511
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「『こんな風な人がタイプなんです♪』
+line2 <shift> # ……って感じでも、いいですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、もちろん。
+line2 <shift> # 春香が答えられる範囲で、かまわないさ」
+display
+com11 0 3
+sound 512
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そ、そうですよね。誰か、なんて、
+line2 <shift> # 答える必要、ないですよね？」
+display
+com11 0 3
+sound 513
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あっ、だ、誰って言っても、別に誰かに、
+line2 <shift> # 決まってるわけじゃないんですけどぉ」
+display
+com11 0 3
+sound 514
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「質問見たとき、なんだか私、
+line2 <shift> # 焦っちゃいました……。え、えへへへへ♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （なんだか照れまくっているけど、緊張は抜けた
+line2 <shift> # ようだ。インタビューは無事受けられそうだな）
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「正直に答えよう！」
+display
+com11 0 3
+sound 515
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そんな！　だ、だめですよ！　私……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ん？　春香、
+line2 <shift> # どうしてそんなに動揺してるんだ？」
+display
+com11 0 3
+sound 516
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「だって、は、恥ずかしいじゃないですか！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「恥ずかしいものか。
+line2 <shift> # 好きなものは好きと言えばいいんだ！」
+display
+com11 0 3
+sound 517
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「言えませんよぉ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「『好きな男性は、私のお父さんです！』
+line2 <shift> # ……で、いいんじゃない？」
+display
+com11 0 3
+sound 518
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「えっ！？　そういう答えでもいいんですか？
+line2 <shift> # あははっ、なんだぁ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ふむ、そうかぁ。
+line2 <shift> # 春香は、お父さんが好きなのかぁ」
+display
+com11 0 3
+sound 519
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ち、違います！　あ、いや、
+line2 <shift> # 違うわけじゃないですけどっ」
+display
+com11 0 3
+sound 520
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「からかわないでくださいよ。もう……。
+line2 <shift> # なんか私、真面目に悩んで損しちゃったかな」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ははは……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うーん、春香の動揺は治まったみたいだけど、
+line2 <shift> # ちょっと困らせてしまったかな？）
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、あまりに答えにくいようなら、
+line2 <shift> # 質問を変えてもらおう」
+display
+com11 0 3
+sound 521
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「えっ、でも……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「他にもないかな？
+line2 <shift> # もしあったら、雑誌社に伝えておくよ」
+display
+com11 0 3
+sound 522
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「いくつか、ありますけど……、だけど……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「遠慮することないぞ」
+display
+com11 0 3
+sound 523
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「うーん……。ノーコメントって答えは、
+line2 <shift> # ありなのかなぁ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おっ、それもありじゃないかな。
+line2 <shift> # その手があったか」
+display
+com11 0 3
+sound 524
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「よーし！　じゃあ、
+line2 <shift> # 全部ノーコメントで、お願いします！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ええっ！　そ、それは困るぞ！」
+display
+com11 0 3
+sound 525
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あはは。いえ……、私、頑張って、
+line2 <shift> # なんでも答えるようにします」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだな。まぁ、無難な答え方ってのも、
+line2 <shift> # あるだろうし……、それを考えてみるか」
+display
+com11 0 3
+sound 526
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「はい。ああ、でも……、どういう風にしたら、
+line2 <shift> # 面白いインタビューになるかなぁ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （春香の緊張は、ほぐれたけど、
+line2 <shift> # 少し考え込んでしまったみたいだ）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （もっと違う提案で、
+line2 <shift> # 助けてやればよかったかな？）
+com09 0 49
+display
+location 49
+unk02

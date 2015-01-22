@@ -1,0 +1,350 @@
+com2c 0 24
+com2c 0 57
+com2d 0 21
+com32 0 0
+com14 0 0
+com29 0 0
+com16 0 1
+com11 0 4
+sound 1100
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ねえ、プロデューサー。ミーティング前に１回、
+line2 <shift> # 家戻ってもいーい？　忘れ物しちゃったぁ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いいけど……」
+com03 0 3
+choice1 <shift> # つき合おうか？
+line2
+com09 0 10
+com08
+choice2 <shift> # 気をつけて、行ってこいよ
+line2
+com09 0 11
+com08
+choice3 <shift> # 寄り道するなよ？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「つき合おうか？」
+display
+com14 0 0
+com29 0 2
+com15 0 31
+com15 0 32
+com11 0 4
+sound 1101
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「大丈夫！　どうせタクシーで、往復するだけ
+line2 <shift> # だから。すぐ帰ってくるわね♪」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「気をつけて、行ってこいよ」
+display
+com14 0 0
+com29 0 2
+com15 0 31
+com15 0 32
+com11 0 4
+sound 1102
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そんなの、タクシーの運転手に言って！
+line2 <shift> # 私は、ただ座ってるだけなんだから〜」
+com09 0 18
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「寄り道するなよ？」
+display
+com14 0 0
+com29 0 2
+com15 0 31
+com15 0 32
+com11 0 4
+sound 1103
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そんなこと、しないわよー。タクシーで
+line2 <shift> # ひとっ飛び、折り返してくるだけ！」
+com09 0 18
+display
+location 18
+com11 0 4
+sound 1104
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「それじゃ、行ってくる。すぐ帰ってくるわ♪」
+com09 0 19
+display
+location 19
+com22 0 30
+com21 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……………………戻ってこないな。
+line2 <shift> # まさか、途中で事故でも！？　くっ！！」
+display
+com22 0 30
+com32 0 1
+com14 0 0
+com29 0 11
+com15 0 120
+com16 0 121
+com21 0 30
+com11 0 4
+sound 1105
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ふぅ……ふぅ……おえ〜。
+line2 <shift> # あ、プロデューサ〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうしたんだよ、伊織！？　心配したぞ。
+line2 <shift> # なんで、こんなとこ、歩いてるんだ？」
+display
+com11 0 4
+sound 1106
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「タクシー料金、自分で払ったの、はじめてで。
+line2 <shift> # 行きだけで、３千円近くかかっちゃって〜……」
+display
+com14 0 0
+com29 0 1
+com15 0 20
+com16 0 21
+com11 0 4
+sound 1107
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「車、転がしてるだけで、私のギャラと
+line2 <shift> # 同じってのが許せなくて。そ、それで……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「帰りは……歩いてきたのか？」
+display
+com11 0 4
+sound 1108
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「家のお抱え運転手も、出かけてたから……。
+line2 <shift> # ふぅ、ふぅ…………お、怒ってる？」
+com03 0 3
+choice1 <shift> # 無事なら、いいって
+line2
+com09 0 20
+com08
+choice2 <shift> # しゃべるなって……
+line2
+com09 0 21
+com08
+choice3 <shift> # 反省してるなら、いいよ
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+com34 0 1
+com14 0 0
+com29 0 0
+com16 0 1
+com14 0 0
+com29 0 15
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「無事なら、いいって。だいぶ疲れてるみたい
+line2 <shift> # だけど、平気か……？」
+display
+com11 0 4
+sound 1109
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「へっちゃらだわ……。こ、これぐらいの距離で、
+line2 <shift> # ３千円なんて、認めないんだから〜……」
+com09 0 29
+display
+location 21
+com14 0 0
+com29 0 0
+com16 0 1
+com14 0 0
+com29 0 15
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「しゃべるなって……」
+display
+com11 0 4
+sound 1110
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「やっぱり、怒ってる〜……。でも、しょうが
+line2 <shift> # ないでしょ〜。悪いのは、タクシーの……ふぅ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「怒ってるわけじゃないよ。
+line2 <shift> # 息、上がってるんだから、無理しないで……」
+com09 0 28
+display
+location 22
+com14 0 0
+com29 0 0
+com16 0 1
+com14 0 0
+com29 0 15
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「反省してるなら、いいよ」
+display
+com11 0 4
+sound 1111
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「は、反省はしてるけど、後悔はしてないんだか
+line2 <shift> # ら〜。これぐらいの距離で、さ、３千円なんて」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わかった。わかったから、無理して、
+line2 <shift> # しゃべらない方が……」
+com09 0 28
+display
+location 28
+com11 0 4
+sound 1112
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あ、そ、そうね……。ふぅ、ふぅ……」
+com09 0 29
+display
+location 29
+com11 0 4
+sound 1113
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「はぁ〜、もう歩けるわ。
+line2 <shift> # それじゃ、事務所へ……。ふぅ、ふぅ……」
+com03 0 3
+choice1 <shift> # おんぶしてやろうか？
+line2
+com09 0 30
+com08
+choice2 <shift> # あわてなくていいって
+line2
+com09 0 31
+com08
+choice3 <shift> # 抱っこしてやろうか？
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+com34 0 2
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おんぶしてやろうか？」
+display
+com14 0 0
+com29 0 10
+com15 0 101
+com15 0 102
+com11 0 4
+sound 1114
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「えっ！？　い、いいわよ、そんなの……。
+line2 <shift> # か、カッコ悪いわ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「遠慮するなって、ほら」
+display
+com32 0 1 129 105 130 230 130 162 130 181 130 229 130 193 130 198 129 73 129 64 129 99 129 99 136 211 138 79 130 201 140 121 130 162 130 200 129 66 150 179 151 191 130 204
+line2 <shift> # 人間タクシーなら、伊織も文句はないだろう）
+display
+com11 0 4
+sound 1115
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ご、強引なんだから〜。……こ、こんな
+line2 <shift> # タクシーも、たまには悪くないけど……」
+com09 0 39
+display
+location 31
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あわてなくていいって。ほら、もうすこし
+line2 <shift> # 休んでからいこう」
+display
+com14 0 0
+com29 0 12
+com15 0 51
+com16 0 52
+com11 0 4
+sound 1116
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「い、言っとくけど、私、たいして疲れてなんか
+line2 <shift> # いないんだからねっ……」
+display
+com11 0 4
+sound 1117
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……あんたが、どうしても休憩したいなら、
+line2 <shift> # つ、つき合ってあげてもいいけど……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ、つき合ってくれ」
+display
+com14 0 0
+com29 0 7
+com15 0 90
+com16 0 91
+com11 0 4
+sound 1118
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……わかったわよ。まったく、ひ弱ね。
+line2 <shift> # か、体きたえた方がいいわよ……」
+display <shift> # （この状況でも、口だけは達者だな。ミーティ
+line2 <shift> # ングの時間が減るのは、ま、しかたないか）
+com09 0 39
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「抱っこしてやろうか？」
+display
+com14 0 0
+com29 0 11
+com15 0 120
+com16 0 121
+com11 0 4
+sound 1119
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「え……！？　い、イヤよ〜、そんなの。
+line2 <shift> # 私は赤ちゃんじゃないのよ〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「遠慮するなって。ラクだぞ？」
+display
+com14 0 0
+com29 0 12
+com15 0 51
+com16 0 52
+com11 0 4
+sound 1120
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「どんなにラクでも、イーヤー！！　そんな恥
+line2 <shift> # さらすなら、タクシー使った方が、まだ……」
+display
+com14 0 0
+com29 0 6
+com15 0 160
+com16 0 161
+com14 0 0
+com29 0 15
+com11 0 4
+sound 1121
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あ、あれ……なんか目の前が……。
+line2 <shift> # あ……あんたが大声出させるから〜。あああ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、おい、伊織！」
+display <shift> # （余計に、疲れさせてしまった……。伊織が、
+line2 <shift> # おとなしく抱っこなんか、されるわけないよな）
+com09 0 39
+display
+location 39
+unk02

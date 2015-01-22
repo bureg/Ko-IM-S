@@ -1,0 +1,498 @@
+com2c 0 43
+com2d 0 21
+com32 0 0
+com11 0 2
+sound 400
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あああああ、も〜。イライラするわ〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なに、怒りくるってるんだ？
+line2 <shift> # スタッフと、トラブルか？」
+display
+com11 0 2
+sound 401
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「レコーディング、みんなが私の指示に、
+line2 <shift> # したがってくれないのよ〜。どうしてーっ！？」
+com03 0 3
+choice1 <shift> # 落ち着けって……
+line2
+com09 0 10
+com08
+choice2 <shift> # 嫌われてるのかもな
+line2
+com09 0 11
+com08
+choice3 <shift> # 指示、まちがってないか？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「落ち着けって……」
+display
+com11 0 2
+sound 402
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「落ち着いてなんか、いられないわよー。
+line2 <shift> # 収録、どんどん押してるのに〜」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「嫌われてるのかもな」
+display
+com11 0 2
+sound 403
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そんなことないもーんっ。最近は、
+line2 <shift> # プライベートでも、仲いいんだからっ！」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「指示、まちがってないか？」
+display
+com11 0 2
+sound 404
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ありえないわよ！　私、ちゃんといろいろ
+line2 <shift> # 調べて、言ってるんだからーっ」
+com09 0 29
+display
+location 29
+com11 0 2
+sound 405
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なんでみんな、素直に言うこと、聞いてくれ
+line2 <shift> # ないの。そうすれば、ずっと早く終わるのに」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「スタッフや、バックバンドのメンバーは、
+line2 <shift> # 伊織の手下じゃないからな」
+display
+com11 0 2
+sound 406
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……あんたはいつも、ハイハイ、
+line2 <shift> # 従うじゃないのよ〜」
+com03 0 3
+choice1 <shift> # 俺は、特別だからな
+line2
+com09 0 30
+com08
+choice2 <shift> # 俺は、手下だからな
+line2
+com09 0 31
+com08
+choice3 <shift> # 俺は、生返事してるだけだし
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺は、特別だからな」
+display
+com11 0 2
+sound 407
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……そうかもね。
+line2 <shift> # あんたは、立場も性格も特殊だし……」
+display
+com11 0 2
+sound 408
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「私以外の、この世の全員が、
+line2 <shift> # あんただったらいいのに……」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺は、手下だからな」
+display
+com11 0 2
+sound 409
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……そうね♪
+line2 <shift> # あんたは、私の手足みたいなもんだし……」
+display
+com11 0 2
+sound 410
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「でも、たまには自分の意志で、行動しなさい
+line2 <shift> # よ！　いつまでもおんぶに抱っこじゃ、困るわ」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺は、生返事してるだけだし」
+display
+com11 0 2
+sound 411
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なんですってーっ！　あんた、私の言うこと、
+line2 <shift> # テキトーに聞き流してたわけ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ま、まあ……、ときどきな」
+display
+com11 0 2
+sound 412
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「どうりで、いつも調子いいと思ったわ。
+line2 <shift> # ……今度から、目を光らせておかなくちゃ」
+com09 0 49
+display
+location 49
+com11 0 2
+sound 413
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ねえ、この後、レコーディング進めるためには、
+line2 <shift> # どうしたらいいと思う……？」
+display
+com11 0 2
+sound 414
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「みんなで、考え方合わせないと、
+line2 <shift> # 曲、メチャクチャになっちゃう……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ま、スタッフを、うまく説得するしかないだろ。
+line2 <shift> # ……ここ、ちゃんと使ってるか？」
+display
+com11 0 2
+sound 415
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ここって、どこよ？」
+com0e 0 114
+com44
+com09 0 50
+com45
+com44
+com09 0 51
+com45
+com44
+com09 0 52
+com45
+com44
+com09 0 53
+com45
+com44
+com09 0 54
+com45
+com44
+com09 0 55
+com45
+com44
+com09 0 56
+com45
+com44
+com09 0 57
+com45
+com44
+com09 0 58
+com45
+com44
+com09 0 59
+com45
+com44
+com09 0 60
+com45
+display
+location 50
+com11 0 2
+sound 416
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「頭？　もうすこし、考えて、
+line2 <shift> # しゃべれってこと？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。言い方ひとつで、同じ意見でも、
+line2 <shift> # かなり通りやすくなるはずだし……」
+display
+com11 0 2
+sound 417
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……わかったわ。作戦練って、話してみる。
+line2 <shift> # あんたにさとされるなんて、私も堕ちたもんね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （元々、回転は早い方だし、これできっと、
+line2 <shift> # うまくいくだろう）
+com09 0 69
+display
+location 51
+com11 0 2
+sound 418
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「耳？　相手の話を、よく聞けってこと？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。スタッフがどう思ってるのか知ることが、
+line2 <shift> # 意見を合わせる早道だろ？」
+display
+com11 0 2
+sound 419
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……言われてみれば、そうね。
+line2 <shift> # その方が、説得もしやすいかもしれないし！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （伊織は、一方的にしゃべることが多いからな。
+line2 <shift> # 緩急をつけた方が、話も通りやすいだろう）
+com09 0 69
+display
+location 52
+com11 0 2
+sound 420
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「目？　視線で合図しろってこと？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。昔から『目は口ほどに物を言う』って、
+line2 <shift> # 言うし……」
+display
+com11 0 2
+sound 421
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そんなの、さんざんやってるわよー！
+line2 <shift> # どれだけ、にらみつけても、ダメなのーっ」
+display
+com11 0 2
+sound 422
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「もー、役に立たないわねーっ！　……って、
+line2 <shift> # あんたをにらんでも、しょうがないけど」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （目線の使い方、まちがってないか？
+line2 <shift> # 別のところ使えって言った方が、よかったかな）
+com09 0 69
+display
+location 53
+com11 0 2
+sound 423
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「鼻？　なによー、相手の気持ちを、
+line2 <shift> # 鼻で、かぎとれとでもいうの？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。まあ、そういうことかな……」
+display
+com11 0 2
+sound 424
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「で、できるわけないでしょー！
+line2 <shift> # 私は、犬じゃないのよー！」
+display
+com11 0 2
+sound 425
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「いい加減なこというと……、鼻つまんで、
+line2 <shift> # 引きずり回してやるんだからーっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （怒らせてしまった……。
+line2 <shift> # 危険を察知する嗅覚が、足りなかったようだ）
+com09 0 69
+display
+location 54
+com11 0 2
+sound 426
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「口？　そんなとこ、
+line2 <shift> # 使ってるに決まってるでしょー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ……、いや、もっとだな……」
+display
+com11 0 2
+sound 427
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なにが、もっとよ！　これ以上、
+line2 <shift> # 使えないくらい、フル回転させてるわ！」
+display
+com11 0 2
+sound 428
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「フンだっ。あんたなんかと、
+line2 <shift> # もう口きいてあげないんだからーっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うまくしゃべれと言いたかったんだけど。
+line2 <shift> # 自分の伝え方の悪さに、閉口だな……）
+com09 0 69
+display
+location 55
+com11 0 2
+sound 429
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「顔？　表情でおどせ、とでもいうわけ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。にらみを、きかせる感じかな」
+display
+com11 0 2
+sound 430
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……ほんとにそんなので、話し合い、
+line2 <shift> # うまくいくんでしょうね！」
+display
+com11 0 2
+sound 431
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なに、おびえてるの……。
+line2 <shift> # ほらっ、答えなさいよー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （俺をにらんで、どうする……。
+line2 <shift> # うーん、信じてもらえなかったようだ）
+com09 0 69
+display
+location 56
+com11 0 2
+sound 432
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「手？　……ええええ、暴力で、
+line2 <shift> # いうこと、きかせろっていうわけ？」
+display
+com11 0 2
+sound 433
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なに、考えてるのよっ。そんなヒドイこと、
+line2 <shift> # できるわけないでしょー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺には、いつもコブシ振り上げてるじゃないか。
+line2 <shift> # バックバンドのメンバーにも、公平にだな……」
+display
+com11 0 2
+sound 434
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「フン、あんたは別！
+line2 <shift> # 他のメンバーを叩いたりなんか、できないわ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うう、なんで俺ばかり……。けど、手を使え、
+line2 <shift> # なんて、いいアドバイスとは言えないな）
+com09 0 69
+display
+location 57
+com11 0 2
+sound 435
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「胸？　なによ、心の底から、
+line2 <shift> # 話しかけろとでもいうわけ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。誠意は、きっと通じるよ」
+display
+com11 0 2
+sound 436
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「はあーあ、おめでたいわねー。気持ちだけで、
+line2 <shift> # うまくいくと思ったら、大間違いなんだから」
+display
+com11 0 2
+sound 437
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「幼稚園児じゃないんだから、
+line2 <shift> # もうちょっとマシなこと、言いなさいよね……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （俺の誠意は、伊織には伝わらなかったようだ。
+line2 <shift> # なんか、悲しいなあ……）
+com09 0 69
+display
+location 58
+com11 0 2
+sound 438
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ちょっとー、どこ使えって言いたいわけ？
+line2 <shift> # わからないんだけどー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、その辺の微妙な筋肉というか……」
+display
+com11 0 2
+sound 439
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「はあーあ。あやふやな考えのまま、
+line2 <shift> # 人に、えらそーなこと、言わないでよね……」
+display
+com11 0 2
+sound 440
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「それでも、私のプロデューサー？
+line2 <shift> # もうすこし、頭、使いなさ〜い！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （そうだ、頭だ！
+line2 <shift> # そこを使えって言えば、よかったな……）
+com09 0 69
+display
+location 59
+com11 0 2
+sound 441
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「この子を使って、どうしろっていうの？
+line2 <shift> # 代わりに説得してもらえって言うわけ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「その……、できないか？　腹話術とかで」
+display
+com11 0 2
+sound 442
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……やってみるわ。『いいかげんなこと言う人、
+line2 <shift> # きらい。やっつけちゃえー』」
+display
+com11 0 2
+sound 443
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ですって♪　さ、覚悟してもらおうかしらー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （なんてこと言うんだ、このウサギは。
+line2 <shift> # かわいい顔して、ひどいヤツだな……）
+com09 0 69
+display
+location 60
+com11 0 2
+sound 444
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ちょっとー、どこ使えって言いたいわけ？
+line2 <shift> # 黙ってちゃ、わからないでしょ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「その、スタッフもバックバンドのメンバーも、
+line2 <shift> # 黙ってても以心伝心というか一心同体というか」
+display
+com11 0 2
+sound 445
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なに寝ぼけてるのよ！　メンバーは別々の人間
+line2 <shift> # なんだから、一心同体なはず、ないでしょ！」
+display
+com11 0 2
+sound 446
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そんな絵空事で、物事が、
+line2 <shift> # うまくいくと思ってるの？　も〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （おかしいなあ。どこかで、アイドルグループは、
+line2 <shift> # 一心同体だって伝説、聞いた気がしたんだけど）
+com09 0 69
+display
+location 69
+unk02

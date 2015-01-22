@@ -1,0 +1,602 @@
+com2c 0 37
+com2d 0 82
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （突然、真がジムに来てくれというので、
+line2 <shift> # ついて来たのだが……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （急に、どうしたんだろう？
+line2 <shift> # 新作ダンスの披露でも、する気かな）
+display
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「それじゃプロデューサー、
+line2 <shift> # さっそく始めましょうか」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え？　何をだ？
+line2 <shift> # 俺も新作ダンスを踊るのか？」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「新作ダンスって何ですか？　違いますよ！
+line2 <shift> # 今日は、トレーニングで汗をかくんです」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「それじゃ、プロデューサー、
+line2 <shift> # 早く着替えてきて下さい」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え？　ちょっと待ってくれ、真。
+line2 <shift> # どうして俺までトレーニングをするんだ？」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「なに言ってるんですか。そうやって運動
+line2 <shift> # しないでいると、アレになっちゃいますよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「アレ？」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「アレです。ほら、最近ニュースとかで、
+line2 <shift> # よくやってる。なんとかシンドローム」
+com03 0 3
+choice1 <shift> # メタボリック？
+line2
+com09 0 10
+com08
+choice2 <shift> # メカボリック？
+line2
+com09 0 11
+com08
+choice3 <shift> # ピーターパン？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「メタボリック・シンドローム？」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「そう、それです！　メタボリック！」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「メカボリック・シンドローム？」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「そう、それです！
+line2 <shift> # ……あれ？　なんか微妙に違うような？」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「プロデューサー、
+line2 <shift> # メカボリックって、いったいなんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「身体のあらゆるところがメカに変わっていく、
+line2 <shift> # とても恐ろしい病気のことだ」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ええっ！？　そ、そうなんですか！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、もしかしたら身近な人の中にも、
+line2 <shift> # すでにメカになっている人間が……」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「うわああ！　なんだか良くわからないけど、
+line2 <shift> # 怖いですね。ボク、軽く考えすぎてました」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「そんな大変な病気なら、ますます
+line2 <shift> # プロデューサーを運動させないと！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （いや、『メカボリック』はウソで、
+line2 <shift> # 本当は『メタボリック』なんだけど……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （もはや『ウソだよ〜ん』なんて言い出せる
+line2 <shift> # 雰囲気じゃないな……）
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ピーターパン・シンドローム？」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ピーターパン？　全然違いますよ。
+line2 <shift> # なんなんですか、それ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えーと……、大人になりたくない、いつまでも
+line2 <shift> # 子どものままでいたいっていう気持ち、かな」
+display
+com11 0 0
+sound 10012
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ふーん、そうなんですか。その気持ちは、
+line2 <shift> # なんとなくわかるような気もしますね」
+display
+com11 0 0
+sound 10013
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ボクも、あと何年かすれば、結婚とか、
+line2 <shift> # そんなことで色々悩むのかなって思うと……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「切実な問題だな」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「そうですよね〜。
+line2 <shift> # ……って、そんな話じゃなくって！」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ボクが言いたかったのは、それじゃないですよ。
+line2 <shift> # ほら、太っちゃダメだっていう……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、メタボリックか」
+display
+com11 0 0
+sound 10016
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「そう、それです！」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 10017
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「プロデューサー、ここのところ忙しくて、
+line2 <shift> # ロクに運動してないでしょう？」
+display
+com11 0 0
+sound 10018
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「だから今日は、ボクが、
+line2 <shift> # 徹底的に、つきあってあげます！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええっ！？」
+display
+com11 0 0
+sound 10019
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「プロデューサー用のトレーニングメニューも、
+line2 <shift> # ちゃんと考えてきましたから！　へへっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、それはうれしいんだけど……、
+line2 <shift> # どうしたんだ、急に？」
+display
+com11 0 0
+sound 10020
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「はい！　実は今日は、
+line2 <shift> # プロデューサー感謝デーなんです！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「プ、プロデューサー感謝デー？」
+display
+com11 0 0
+sound 10021
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「いつも助けてもらっているプロデューサーに、
+line2 <shift> # なにか恩返ししたいなと思ったんです」
+display
+com11 0 0
+sound 10022
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「で、ボクに出来ることっていったら、やっぱり
+line2 <shift> # 身体を動かすことですからね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それで、俺用のトレーニングメニューを、
+line2 <shift> # わざわざ作ってくれたのか。それにしても……」
+com03 0 3
+choice1 <shift> # 真は優しいな
+line2
+com09 0 30
+com08
+choice2 <shift> # 男の友情を感じるよ
+line2
+com09 0 31
+com08
+choice3 <shift> # 余計なことを
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「真は優しいな」
+display
+com11 0 0
+sound 10023
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「そ、そうですか？　へへっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、なんだか悪いな。
+line2 <shift> # 俺ばっかりが、いい目をみちゃって」
+display
+com11 0 0
+sound 10024
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「そんなこと！　ボク、プロデューサーと一緒に
+line2 <shift> # 身体を動かすの、楽しみにしてたんですよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そっか。なら、思いっきり楽しもうな」
+display
+com11 0 0
+sound 10025
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「はいっ！　ガンガン行きましょうっ！」
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「男の友情を感じるよ」
+display
+com11 0 0
+sound 10026
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「そう言うと思いましたよ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……あれ？　『男扱いするなー！』とか、
+line2 <shift> # いつもみたいに怒らないのか？」
+display
+com11 0 0
+sound 10027
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「今日はプロデューサー感謝デーですからね。
+line2 <shift> # そんなことで、いちいち怒ったりしません」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だったら、せっかくだから、『ナイスギャグ
+line2 <shift> # ですね、プロデューサー』ぐらい言ってくれよ」
+display
+com11 0 0
+sound 10028
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ナイスギャグですね、プロデューサー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……なんか調子くるうな。まあ、いいけど」
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「余計なことを……」
+display
+com11 0 0
+sound 10029
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「うわぁ〜、ひどいですよ！　ボク、
+line2 <shift> # プロデューサーのために、がんばってるのに！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、運動、あんまり好きじゃないんだよ。
+line2 <shift> # 疲れるし……」
+display
+com11 0 0
+sound 10030
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「そう言うと思ってましたが、今日は、
+line2 <shift> # 無理矢理にでも運動してもらいます！」
+display
+com11 0 0
+sound 10031
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「これも、プロデューサーの
+line2 <shift> # 健康のためですから！」
+com09 0 49
+display
+location 49
+com11 0 0
+sound 10032
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「じゃあ、さっそく始めましょうか。
+line2 <shift> # まずは軽くランニングマシーンから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし！　走るぐらいなら楽勝かな！」
+display
+com22 0 30
+com21 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「はぁ、はぁ、はぁ……。ま、真、休けい……」
+display
+com11 0 0
+sound 10033
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「えーっ！？　もう、ですか？
+line2 <shift> # まだ、始めたばっかりじゃないですか」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゅ、１０キロも走ったじゃないか……」
+display
+com11 0 0
+sound 10034
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「なに言ってるんですか。この後に、
+line2 <shift> # ダンスとスカッシュと水泳があるんですよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ム、ムリです……」
+display
+com11 0 0
+sound 10035
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「今日は感謝デーだから、おまけにシャドウ
+line2 <shift> # ボクシングもやろうと思ってたのになあ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「真、俺は泣くぞ？」
+display
+com11 0 0
+sound 10036
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ダメですよー。普段、運動してない分、
+line2 <shift> # これぐらいは、こなさないと！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （こ、このままだと、運動不足解消どころの
+line2 <shift> # 話じゃない！　なんとかしないと……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、あのな、真。運動するのはいいことだと
+line2 <shift> # 思うぞ。でも、いっぺんにやったら……」
+com03 0 3
+choice1 <shift> # もったいない
+line2
+com09 0 50
+com08
+choice2 <shift> # 倒れる
+com09 0 51
+com08
+choice3 <shift> # いや、あえて限界に挑戦！
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もったいないじゃないか」
+display
+com11 0 0
+sound 10037
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「もったいない？　どういうことですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ほら、楽しみは、後にとっておくというか、
+line2 <shift> # ゆっくり楽しんだ方が、いいというか……」
+display
+com11 0 0
+sound 10038
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「それってつまり、いっぺんにやらずに、毎週
+line2 <shift> # 来て、ちょっとずつやろうってことですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうそう！　それならいいだろ？」
+display
+com11 0 0
+sound 10039
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「確かに、運動って、
+line2 <shift> # 続けた方が効果ありますよね」
+display
+com11 0 0
+sound 10040
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「……それに、その方がボクも、毎週
+line2 <shift> # プロデューサーと一緒に運動できて、いいかも」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おい、真、どうしたんだ？
+line2 <shift> # 考え込んじゃって」
+display
+com11 0 0
+sound 10041
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「えっ！？　あの、その……！」
+display
+com11 0 0
+sound 10042
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「そ、そういうことなら、仕方ないですね。
+line2 <shift> # 今日は、このぐらいにしときましょうか」
+display
+com11 0 0
+sound 10043
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「その代わり、来週も、また一緒に、
+line2 <shift> # 運動しましょう。約束ですからね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ほっ。真も納得してくれたみたいだ。
+line2 <shift> # それに……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （毎週こうして、真と楽しく過ごす時間を
+line2 <shift> # 作るのも、悪くないかもな！）
+com09 0 69
+display
+location 51
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「倒れる。身体が持たないよ」
+display
+com11 0 0
+sound 10044
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「でも、楽してたら、いつまでたっても
+line2 <shift> # 運動不足を解消できないですよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、こんなペースで、いきなり動いたら、
+line2 <shift> # 運動不足解消の前に死んじゃうって」
+display
+com11 0 0
+sound 10045
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「大げさですよ、プロデューサー。
+line2 <shift> # やれやれ、しょうがないなぁ」
+display
+com11 0 0
+sound 10046
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「じゃあ、あとはランニング５キロ！
+line2 <shift> # それでカンベンしてあげます」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……１キロに、まからないか？」
+display
+com11 0 0
+sound 10047
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「まかりませんよっ！
+line2 <shift> # ほら、プロデューサー、やりましょう！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （なんとか５キロを走って、カンベンしても
+line2 <shift> # らった。疲れた……。真は不満そうだったけど）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （でも、これ以上やったら、本当に死んじゃうよ。
+line2 <shift> # 明日の地獄の筋肉痛が恐ろしい……）
+com09 0 69
+display
+location 52
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……いや、あえて限界に挑戦だ！」
+display
+com11 0 0
+sound 10048
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「おおっ、それでこそプロデューサー！　見上げ
+line2 <shift> # た根性です！　ならボクも、本気を出しますよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「本気って……、真、今までは、
+line2 <shift> # 本気じゃなかったのか！？」
+display
+com11 0 0
+sound 10049
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「もちろん、プロデューサーにあわせて、
+line2 <shift> # 適当に手は抜いてましたよ」
+display
+com11 0 0
+sound 10050
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「でも、プロデューサーが限界に
+line2 <shift> # 挑戦するって言うなら、ボクだって！」
+display
+com11 0 0
+sound 10051
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「次からのメニューは、手足にオモリをつけて
+line2 <shift> # こなしましょう。その方がキツイですから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お、おう！」
+display
+com11 0 0
+sound 10052
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「メニューも、ダンス、スカッシュ、水泳、
+line2 <shift> # シャドウボクシングに卓球をプラスしますね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よ、よし！　バッチこ〜い！」
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 10053
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「はぁっ、はぁっ……。
+line2 <shift> # さ、さすがに、しんどい……、ですね」
+display
+com11 0 0
+sound 10054
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「プロデューサー、大丈夫ですか？
+line2 <shift> # プロデューサー？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……）
+display
+com11 0 0
+sound 10055
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「しっかりして下さい、プロデューサー。
+line2 <shift> # これから、仕事なんですから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （…………）
+display
+com11 0 0
+sound 10056
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「返事がない……。
+line2 <shift> # でも、ただの筋肉痛ですよ！」
+display
+com11 0 0
+sound 10057
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「少し頑張りすぎたかな。でも楽しかった！　ま
+line2 <shift> # たトレーニングしましょうね、プロデューサー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……………………）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……………………………………）
+com09 0 69
+display
+location 69
+unk02

@@ -1,0 +1,307 @@
+com2c 0 39
+com2d 0 71
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さて、営業に使う宣伝用の
+line2 <shift> # 素材写真を撮りたいわけだが……」
+display
+com11 0 5
+sound 900
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「宣材とはいえ、
+line2 <shift> # きれいに撮りたいですよね」
+display
+com11 0 5
+sound 901
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「写真ひとつで、クライアントへの
+line2 <shift> # 印象、けっこう決まっちゃいますからね」
+com03 0 2
+choice1 <shift> # そうだなぁ
+com09 0 10
+com08
+choice2 <shift> # そうでもないさ
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだなぁ、気を遣っておきたいね」
+display
+com11 0 5
+sound 902
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ええ、営業用の写真一枚で、はじめて
+line2 <shift> # 私のことを知る人もいるわけで……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、最近そこそこ名前が知られて
+line2 <shift> # きてるからな」
+display
+com11 0 5
+sound 903
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そっか、それなら、写真だけで仕事の合否が
+line2 <shift> # 決まったりもそうそうないかな？」
+display
+com11 0 5
+sound 904
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「オファーの内容にもよるけど……」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうでもないさ」
+display
+com11 0 5
+sound 905
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ええっ！？　な、なんでですか」
+display
+com11 0 5
+sound 906
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「営業用の写真ひとつで、私のことを
+line2 <shift> # はじめて知る人もいるかもしれないんですよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、最近はＴＶにも出てるし、
+line2 <shift> # そこそこの知名度があるから大丈夫だろう」
+display
+com11 0 5
+sound 907
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「で、でも、写真の出来次第で、仕事の合否も
+line2 <shift> # 変わっちゃうかもしれないじゃないですかっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、気にしすぎじゃないかなぁ」
+display
+com11 0 5
+sound 908
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「気を遣って悪いということもないでしょ？
+line2 <shift> # まぁオファーの内容にもよるかもしれないけど」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「歌の仕事だったら、声で決まるところが
+line2 <shift> # 多いと思うよ。写真は参考程度さ」
+display
+com11 0 5
+sound 909
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そうですねぇ……でもＴＶだったら、
+line2 <shift> # 見た目が優先かもしれないですよね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それはそうだな。多少なりとも見た目の
+line2 <shift> # 印象もよくしないととは思うよ」
+display
+com11 0 5
+sound 910
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「やっぱり写真、しっかり撮らないと。そうだ！
+line2 <shift> # 写真に効果フィルタ、いれましょうっ」
+display
+com11 0 5
+sound 911
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「なにかボカシのフィルタとかかけて、
+line2 <shift> # かっこよさげに見せれば、印象アップですよ！」
+com03 0 3
+choice1 <shift> # 必要ないんじゃないか？
+line2
+com09 0 30
+com08
+choice2 <shift> # ああ、そうしようか
+line2
+com09 0 31
+com08
+choice3 <shift> # 効果よりはメイクを……
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「必要ないんじゃないか？　言いたいことは
+line2 <shift> # わかるけど……飾りや細工はいらないさ」
+display
+com11 0 5
+sound 912
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「え〜っ、ちょっとでも好印象を稼ぎたいじゃ
+line2 <shift> # ないですかぁ。素材そのまんまの写真よりはっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、素材そのまんまの魅力を
+line2 <shift> # 伝えたいんだよ、素材のよさを見て欲しいんだ」
+display
+com11 0 5
+sound 913
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そ、素材って言われてもなぁ」
+display
+com11 0 5
+sound 914
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「もし他と比べて見劣りするようなら、
+line2 <shift> # 何か飾っておかないと……心細い、かも？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いやいや、宣材写真は寿司みたいなもんさ。
+line2 <shift> # 素材のままが一番、相手にうまさが伝わる！」
+display
+com11 0 5
+sound 915
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「な、なるほどぉ。よーし、
+line2 <shift> # そうまで言うなら……わかりましたっ」
+display
+com11 0 5
+sound 916
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「今回の写真に余計な小細工は無用ですね！
+line2 <shift> # なるべくナチュラルで行きましょうっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （律子は納得して撮影に挑んでくれた。
+line2 <shift> # 自然な魅力のある表情が撮れそうだぞ！）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、是非そうしようか……ほんとは、
+line2 <shift> # なるべく素材そのままで勝負したいけど」
+display
+com11 0 5
+sound 917
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「写真加工には抵抗あります？　でも、
+line2 <shift> # 最近の写真技術ってすごいんですよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、しかし……その素材のよさを
+line2 <shift> # クライアントに見て欲しかったんだけどなぁ」
+display
+com11 0 5
+sound 918
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あ〜、えっと、素材の
+line2 <shift> # 見せ方ですよ、つまり」
+display
+com11 0 5
+sound 919
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「別に嘘をつくわけじゃなくて、
+line2 <shift> # 十のものを百に見せるやり方っていうか」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「その……刺身にツマがあったほうが
+line2 <shift> # 映える、みたいな？」
+display
+com11 0 5
+sound 920
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そうです！　絵に額縁があったほうが
+line2 <shift> # かっこいいかもとか、そんな感じですっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「より素材の魅力が伝わる写真の撮り方、
+line2 <shift> # 工夫があるってことだね」
+display
+com11 0 5
+sound 921
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そうそう！　最小限のデコレートで
+line2 <shift> # いいんです。ちょっと方法、考えませんか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （律子とカメラマン、俺とで相談して、あれこれ
+line2 <shift> # 撮影方法を試してみた。おかげで……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （律子も納得のいく出来になったようだ。営業用
+line2 <shift> # にしては、随分大げさな写真になったけど……）
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「写真効果よりは、いっそメイクに気合いを
+line2 <shift> # いれたほうがよくないか？」
+display
+com11 0 5
+sound 922
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「え〜っ、どうしてです？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、どうせならってことさ。
+line2 <shift> # 見た目の印象アップにはなるだろう」
+display
+com11 0 5
+sound 923
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「う〜ん、まぁ、そうかな。宣伝素材は
+line2 <shift> # シンプルなほうがいい、とはいえ……」
+display
+com11 0 5
+sound 924
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「素材の魅力と、寝起きのすっぴんの
+line2 <shift> # かっこ悪さは、別物ですからね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだなぁ。ああ、しかし
+line2 <shift> # 写真向けのメイクか、どうするか……」
+display
+com11 0 5
+sound 925
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あ、私にまかせてください！
+line2 <shift> # 素材の十の魅力を、百にも千にもしてみせます」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おお、なんか自信ありげだな！
+line2 <shift> # ちょっとまかせてみるかな」
+display
+com11 0 5
+sound 926
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ええ、まかせて！　自信がなきゃ、
+line2 <shift> # こんなこと提案しないですよぉ、あはは」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「と言いつつも、ああ、ほんとはどうしよう、
+line2 <shift> # とか思ってたりしてないか……」
+display
+com11 0 5
+sound 927
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ま、ま、まさかっ！　ははは……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後、律子は頑張って、撮影用メイクと
+line2 <shift> # 撮影方針を仕切ってはみた。が……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （自信満々が裏目に出て、つまらない失敗をして
+line2 <shift> # しまい、落ち込んでしまったみたいだ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （まかせきりにしたのはまずかったか。俺が、
+line2 <shift> # もうちょっとクギをさしてやるべきだった……）
+com09 0 49
+display
+location 49
+unk02

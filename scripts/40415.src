@@ -1,0 +1,530 @@
+com2c 0 25
+com2d 0 71
+com32 0 0
+com11 0 0
+sound 0
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「プロデューサー、
+line2 <shift> # 次のファンクラブイベントなんですけど」
+display
+com11 0 0
+sound 1
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「定番の歌とトークはいいとして……」
+display
+com11 0 0
+sound 2
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「お客さんに参加してもらえるゲームとか、
+line2 <shift> # やってみたいんですけど、どうでしょう？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ゲームか。そうだなあ……」
+com03 0 3
+choice1 <shift> # くじ引きとか
+line2
+com09 0 11
+com08
+choice2 <shift> # じゃんけん大会とか
+line2
+com09 0 12
+com08
+choice3 <shift> # 律子とＴＶゲーム対決とか
+line2
+com09 0 13
+com08
+com07
+com09 0 13
+com08
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「くじ引きとか、どうだ？」
+display
+com11 0 0
+sound 3
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「んー……それもいいけど、もうちょっと
+line2 <shift> # 違うやつのほうがいいような気がしますね〜」
+display
+com11 0 0
+sound 4
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「皆が参加できて、わーっと、その場が
+line2 <shift> # 盛り上がるような……。うーん……」
+com09 0 14
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃんけん大会とか、どうだ？」
+display
+com11 0 0
+sound 5
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そうそう、そういうのです。
+line2 <shift> # みんなで楽しめて、会場全体で盛り上がる！」
+display
+com11 0 0
+sound 6
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「でも、じゃんけん大会だと
+line2 <shift> # ちょっとありふれてるかなぁ……」
+com09 0 14
+display
+location 13
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「律子とＴＶゲーム対決、とかは？」
+display
+com11 0 0
+sound 7
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「うーん、楽しそうではあるけど、出場者を
+line2 <shift> # どうやって決めるかでもめそう」
+display
+com11 0 0
+sound 8
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「プロジェクターも用意しないといけない
+line2 <shift> # し……。気軽にやれることじゃないですね」
+com09 0 14
+display
+location 14
+com11 0 0
+sound 9
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「みんなでワイワイ楽しくなれる、
+line2 <shift> # イベント向きのゲーム……うーん、難しい」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、律子が
+line2 <shift> # イベント内容まで考えることないのに」
+display
+com11 0 0
+sound 10
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「それは、そうかもしれませんけど……。
+line2 <shift> # でも、全部、他人任せはつまらないですし」
+display
+com11 0 0
+sound 11
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「それに、こういうことを考えるの、
+line2 <shift> # 私の性に合ってますから」
+com03 0 3
+choice1 <shift> # 歌のレッスンも頼むぞ
+line2
+com09 0 21
+com08
+choice2 <shift> # 俺の仕事を取るなよ
+line2
+com09 0 22
+com08
+choice3 <shift> # 任せた、律子！
+line2
+com09 0 23
+com08
+com07
+com09 0 23
+com08
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「イベントの内容を練るのもいいけど、
+line2 <shift> # 歌のレッスンも頼むぞ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ファンイベントでは、アルバム用の新曲も
+line2 <shift> # お披露目するんだからな」
+display
+com11 0 0
+sound 12
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「はいはい、わかってますって」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「アルバム用の曲だけど、今回のイベントで評判
+line2 <shift> # がよかったら、シングルカットも……」
+display
+com11 0 0
+sound 13
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「検討するんだからな、って言いたいんでしょ？
+line2 <shift> # 大丈夫！　手をぬくつもりはありませんから」
+display
+com11 0 0
+sound 14
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「でも、レッスンの合間に気分転換として
+line2 <shift> # 考えるぐらいは、いいでしょ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。それぐらいなら、な」
+com09 0 24
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おいおい、俺の仕事を取ってくれるなよ」
+display
+com11 0 0
+sound 15
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「取られたくなければ、今以上に奮起したまえ
+line2 <shift> # プロデューサーどの！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まったく……。わかりました、誠心誠意、
+line2 <shift> # がんばらせていただきます」
+display
+com11 0 0
+sound 16
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「うむ、よろしい」
+com09 0 24
+display
+location 23
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いやぁ、頼もしいなぁ。任せたぞ、律子！」
+display
+com11 0 0
+sound 17
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ええ、任せておいてください！」
+display
+com11 0 0
+sound 18
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「……って、丸投げ！？
+line2 <shift> # フォローぐらいしてくださいっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「い、いやぁ、ヘタに口出しするより
+line2 <shift> # いいかなと……」
+display
+com11 0 0
+sound 19
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「んもう、それじゃ職務放棄！
+line2 <shift> # 給料泥棒ですよ」
+com09 0 24
+display
+location 24
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、とにかく、イベント向けのゲームは
+line2 <shift> # 考えておかないとな……」
+display
+com11 0 0
+sound 20
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「……あ！　いいこと思いついた！」
+display
+com11 0 0
+sound 21
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ルーレットって、ありますよね？
+line2 <shift> # あれを２つ用意するんです」
+display
+com11 0 0
+sound 22
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「で、片方に『罰ゲームの内容』を書いて、
+line2 <shift> # もう片方に……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「『律子』か『お客さん』かを書くのか！？
+line2 <shift> # 面白そうだな！」
+display
+com11 0 0
+sound 23
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「でしょう？　罰ゲームがどっちに、ふりかかる
+line2 <shift> # のか！？　これは盛り上がりますよ〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、なんか罰ゲームってところで、
+line2 <shift> # 若干趣旨がずれている気がするが……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「盛り上がりはするけど、それでお客さん、
+line2 <shift> # 楽しいかな……？」
+display
+com11 0 0
+sound 24
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「楽しいですよ！　私のファンクラブイベントは
+line2 <shift> # 面白ければ、何だってありですっ」
+display
+com11 0 0
+sound 25
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「というわけで、さっそく準備しますね！」
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 26
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「とりあえず暫定で作ってみました。
+line2 <shift> # 内容は、もう少し煮詰めないとね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「『炭酸飲料一気飲み』とかも
+line2 <shift> # 相当イヤなんだが……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「『相手を言いなりに出来る』
+line2 <shift> # これ、マズくないか？」
+display
+com11 0 0
+sound 27
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「でも、盛り上がりますよ、きっと」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もしファンが律子相手に理不尽なことを
+line2 <shift> # 要求したら……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「水着になれ！　とか、つきあってください！
+line2 <shift> # とか、あるかもしれないだろ？」
+display
+com11 0 0
+sound 28
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そういうのは他のファンからブーイングが起き
+line2 <shift> # ますよ。ひどいことには、ならないですって」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だがなあ。
+line2 <shift> # やっぱり、この罰ゲームだけは……」
+display
+com11 0 0
+sound 29
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「それより、ちょっとテストしてみません？」
+display
+com11 0 0
+sound 30
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「罰ゲームは私が回しますから、
+line2 <shift> # プロデューサーは誰がやるかの方を」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やれやれ……。わかったよ」
+display
+com11 0 0
+sound 31
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「それっ！」
+display
+com11 0 0
+sound 32
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「んー……？　うわっ、いきなりきましたよ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おおっ！　『相手を言いなりに出来る』か！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （待てよ……ここで俺が勝てば、律子に
+line2 <shift> # この罰ゲームを削らせることができるかも）
+display
+com11 0 0
+sound 33
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「さあ。今度は、プロデューサーがルーレットを
+line2 <shift> # 回して下さい！　誰がやるか、の方を！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし……」
+com03 0 2
+choice1 <shift> # それっ！
+com09 0 31
+com08
+choice2 <shift> # それーっ！
+com09 0 32
+com08
+com07 129 64 129 64 129 64 129 64 129 64
+com09 0 33
+com08
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それっ！」
+display
+com11 0 0
+sound 34
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「はー、思いっきり回しましたね。
+line2 <shift> # よ、と、と、と……！」
+com37 0 1
+com1e 0 0
+com09 0 34
+com3b
+com37 0 0
+com1e 0 0
+com09 0 35
+com3b
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それーっ！」
+display
+com11 0 0
+sound 34
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「はー、思いっきり回しましたね。
+line2 <shift> # よ、と、と、と……！」
+com37 0 1
+com1e 0 0
+com09 0 34
+com3b
+com37 0 0
+com1e 0 0
+com09 0 35
+com3b
+display
+location 33
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それっ！」
+display
+com11 0 0
+sound 34
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「はー、思いっきり回しましたね。
+line2 <shift> # よ、と、と、と……！」
+com09 0 35
+display
+location 34
+com11 0 0
+sound 35
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「『お客さん』に止まりましたよ。つまり……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺の勝ち！」
+display
+com11 0 0
+sound 36
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「……仕方ない。ルールはルールですからね」
+display
+com11 0 0
+sound 37
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「さあ。なにをすればいいんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それじゃ律子、俺にとびっきりスウィートな
+line2 <shift> # 愛の言葉をささやいてくれ」
+display
+com11 0 0
+sound 38
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「は、はあっ！？　スウィート！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうした？　言いなりになるんだろう？」
+display
+com11 0 0
+sound 39
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「わ、わかってますっ。え、えっと……」
+display
+com11 0 0
+sound 40
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そ、その……あ、愛、愛して……
+line2 <shift> # ……愛してますっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「全然スウィートじゃないぞ。
+line2 <shift> # もっと身もだえるような言葉で」
+display
+com11 0 0
+sound 41
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そ、そんなの、わかりませんっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……な？
+line2 <shift> # こういうことだって、起こりうるだろ？」
+display
+com11 0 0
+sound 42
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「むぅ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「というわけで、この罰ゲームは差し替え。
+line2 <shift> # もうちょっと無難なものにしよう」
+display
+com11 0 0
+sound 43
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「……わかったわ。
+line2 <shift> # プロデューサーの言う通りにします」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （渋々ながらも、律子は差し替えてくれた。
+line2 <shift> # ちょっと意地悪だったかもしれないけど……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （これも、律子を守るためだ。
+line2 <shift> # 頭の良い子だから、わかってくれるだろう）
+com4b 0 0
+com09 0 69
+display
+location 35
+com11 0 0
+sound 44
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「やったーっ！　私の勝ち！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「くぅ……！」
+display
+com11 0 0
+sound 45
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「さて、どんなお願いをしちゃおうかなぁ……」
+display
+com11 0 0
+sound 46
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「私の代わりにステージで歌ってもらう、
+line2 <shift> # なんて、ウケそうね……」
+display
+com11 0 0
+sound 47
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「いやいや。ファミレスでひとりっきりで
+line2 <shift> # バースデーケーキを食べる、とかもいいかも！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、こりゃいかん、急用を思い出した！」
+display
+com11 0 0
+sound 48
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「あっ！？　ちょっと、プロデューサー！
+line2 <shift> # 逃げるつもりですねっ！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「すまんな〜、律子！　またな〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （なんとか逃げ出したものの、結局捕まり、
+line2 <shift> # 律子はカンカン……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （結局、食事を１回おごることで、機嫌を直して
+line2 <shift> # もらったが……ものすごく高くついた）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （変な罰ゲームも阻止できなかったし。大丈夫
+line2 <shift> # かな、今度のファンクラブイベント……）
+com4b 0 2
+com09 0 69
+display
+location 69
+unk02

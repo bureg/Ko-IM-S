@@ -1,0 +1,314 @@
+com2c 0 92
+com2d 0 31
+com32 0 0
+com11 0 2
+sound 1000
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「これから……、いよいよ、ここでライブ……。
+line2 <shift> # 伝説の地で大勝負！　ですねっ」
+com03 0 3
+choice1 <shift> # 勝たなきゃな
+line2
+com09 0 10
+com08
+choice2 <shift> # マイペースでね
+line2
+com09 0 11
+com08
+choice3 <shift> # 大げさだって
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「勝たなきゃな」
+display
+com11 0 2
+sound 1001
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はいっ。もちろん、その気ですっ！」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「マイペースでね」
+display
+com11 0 2
+sound 1002
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はいっ。のぼせないよう、気をつけまーす！」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「大げさだって」
+display
+com11 0 2
+sound 1003
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「……そうですか？　でもやっぱり、
+line2 <shift> # ここは特別って気がします！」
+com09 0 19
+display
+location 19
+com11 0 2
+sound 1004
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「……歴史に残るようなライブにしなくっちゃ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ふるい立ってる？」
+display
+com11 0 2
+sound 1005
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はいっ。この場所に立ってるだけで、こう、
+line2 <shift> # 気力がグーって！」
+display
+com11 0 2
+sound 1006
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ダンスも、武道みたく『てやー』『ほりゃー』
+line2 <shift> # って感じで、いきますか？」
+com03 0 3
+choice1 <shift> # ……こらこら
+line2
+com09 0 20
+com08
+choice2 <shift> # それでいくか
+line2
+com09 0 21
+com08
+choice3 <shift> # 本気かっ！？
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……こらこら」
+display
+com11 0 2
+sound 1007
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「えへへー、ダメですよね。わかってまーす」
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それでいくか」
+display
+com11 0 2
+sound 1008
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「え、ほんとにっ？
+line2 <shift> # プロデューサー、マジメに言ってますか？」
+com09 0 28
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「本気かっ！？」
+display
+com11 0 2
+sound 1009
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うあっ……、え？　や、やりませんよっ。
+line2 <shift> # ただ言ってみただけで」
+com09 0 28
+display
+location 28
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、冗談？」
+display
+com11 0 2
+sound 1010
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はい。練習もしないで、いきなりやったって、
+line2 <shift> # カッコよくやるの、ムリですし」
+com09 0 29
+display
+location 29
+com11 0 2
+sound 1032
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「プロデューサー……。
+line2 <shift> # 中に入る前に、気合いっ、もらえますか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え？　……今の感じなら、
+line2 <shift> # そんなのなくても、じゅうぶんだろ？」
+display
+com11 0 2
+sound 1012
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「でも、一応っ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （気合いって……、どうしてやるのが、
+line2 <shift> # 今のやよいにとって、一番いいのかな？）
+com0e 0 215
+com44
+com09 0 30
+com45
+com44
+com09 0 31
+com45
+com44
+com09 0 32
+com45
+com44
+com09 0 33
+com45
+display
+location 30
+com11 0 2
+sound 1033
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ、プロデューサー、
+line2 <shift> # どうして、よしよし、って……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「これも気合いだよ。
+line2 <shift> # こう、力を注ぎ込んだっていうか……」
+display
+com11 0 2
+sound 1014
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ……、ありがとう、ございます……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「がんばれ、やよい」
+display
+com11 0 2
+sound 1015
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はいっ。
+line2 <shift> # もらった力、絶対にムダにしません！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （たまには、こういうのもいいだろう。
+line2 <shift> # 今のやよいに、激しいエールは必要ないしな）
+com09 0 39
+display
+location 31
+com11 0 2
+sound 1034
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ハイ、ターッチ！　いぇいっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうだ？　気合い、入ったか？」
+display
+com11 0 2
+sound 1035
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はいっ！　すっごく気合い入っちゃいました！
+line2 <shift> # もう、コーフンして倒れちゃいそうかもっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ええっ？　それじゃ、
+line2 <shift> # ちょっとまずくないか？」
+display
+com11 0 2
+sound 1036
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「へっちゃらです！　オープニングから、
+line2 <shift> # パワー全開で行っちゃおーっと！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （気合い入りすぎで、浮き足立っちゃってるな。
+line2 <shift> # もうちょっと落ち着かせた方が、良かったか）
+com09 0 39
+display
+location 32
+com11 0 2
+sound 1037
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「むぐっ……？　うう……、ぷはーっ！」
+display
+com11 0 2
+sound 1038
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「プ、プロデューサー、そんなとこ押さえたら、
+line2 <shift> # 息ができないですよ〜！　ヒドイですー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「気合い入れすぎも良くないかと思って、
+line2 <shift> # 息を止めてクールダウンを、と……」
+display
+com11 0 2
+sound 1039
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うう〜、ビックリして、
+line2 <shift> # 心臓が、すっごくドキドキって、なってます」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「えっ！？　それじゃ困るよ。
+line2 <shift> # 落ち着いて、落ち着いて！」
+display
+com11 0 2
+sound 1040
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「は、はい。おちつく、おつちく……。
+line2 <shift> # あ、あれ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （完全に、気合いが空回りしちゃってるな。
+line2 <shift> # このままじゃ、ライブも不完全燃焼かも……）
+com09 0 39
+display
+location 33
+com11 0 2
+sound 1041
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「プロデューサー？
+line2 <shift> # あの……、ハイ、ターッチ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、悪い。
+line2 <shift> # でも、やっぱり必要がない気がするし」
+display
+com11 0 2
+sound 1028
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うーん、そうですか……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「気合い入りすぎは、かえってよくないから。
+line2 <shift> # 今のままでも、ステージに立てるだろ？」
+display
+com11 0 2
+sound 1042
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「それは……、多分、そうなんですけどー……。
+line2 <shift> # でも、今日は特別なライブだし……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「とにかく、やめておこう」
+display
+com11 0 2
+sound 1030
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「……はーい。
+line2 <shift> # プロデューサーが、そう言うなら」
+display
+com11 0 2
+sound 1031
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ただちょっと、合図みたいのが、
+line2 <shift> # 欲しかっただけでー。だから……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うーん、気持ちに応えてやれば、よかったか？
+line2 <shift> # なんか、残念そうな顔をしている……）
+com09 0 39
+display
+location 39
+unk02

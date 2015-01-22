@@ -1,0 +1,347 @@
+com2c 0 40
+com2d 0 61
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ＣＭ撮影といえば、特殊撮影、
+line2 <shift> # ＳＦＸがつきものだな」
+display
+com11 0 2
+sound 500
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ、あの……、空を飛ぶんですか、私っ！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、空飛ぶシーンがあるね」
+display
+com11 0 2
+sound 501
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「わ、私、空中浮遊の経験がありません！
+line2 <shift> # ど、どうすれば……」
+display
+com11 0 2
+sound 502
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「スカイダイビングも、バンジージャンプも、
+line2 <shift> # やったことないし……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、ほんとに飛ぶわけじゃないから
+line2 <shift> # 大丈夫だってば」
+display
+com11 0 2
+sound 503
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そ、そんなこと言われても……
+line2 <shift> # やっぱり、こわいですよぉ」
+com03 0 2
+choice1 <shift> # 気合だ、気合！
+line2
+com09 0 10
+com08
+choice2 <shift> # 不安なのはわかるけど
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「気合だ、気合！　根性で乗り切れっ」
+display
+com11 0 2
+sound 504
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「こ、根性ですかっ、うううっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「『どうってことない、こんなもの』と
+line2 <shift> # 思うことが、不安脱出の第一歩だ」
+display
+com11 0 2
+sound 505
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そ、そうですねっ、わかりました！
+line2 <shift> # プレッシャーに負けちゃだめですねっ」
+display
+com11 0 2
+sound 506
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「根性です！　根性！
+line2 <shift> # どうってことありません、こんなもの！」
+display
+com11 0 2
+sound 507
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ううっ……ぶるぶる、
+line2 <shift> # こんどは武者震いが……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お、落ち着けって」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「不安なのはわかるけど、
+line2 <shift> # 自信持ってやってくれなくちゃ」
+display
+com11 0 2
+sound 508
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そんなぁ……いえ、気持ちの上では
+line2 <shift> # わかってるんですけど……やらなくちゃって」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わかってるならなんとか……いや、そうか。
+line2 <shift> # わかってるからこそ、怖いのか」
+display
+com11 0 2
+sound 509
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そうなんです。うまくやれるかな、って。
+line2 <shift> # もし大失敗しちゃったらって……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「一発でうまくやろうとするから
+line2 <shift> # プレッシャーがあるんじゃないか？」
+display
+com11 0 2
+sound 510
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「たくさん失敗したら、
+line2 <shift> # それはそれでまた……ううっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まぁ、ひとまず落ち着こう、な？」
+com09 0 29
+display
+location 29
+com11 0 2
+sound 511
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい……ところでさっき、撮影の説明、
+line2 <shift> # スタッフさんから聞きましたけど……」
+display
+com11 0 2
+sound 512
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「空飛ぶシーンってことは、やっぱり、その、
+line2 <shift> # スタジオで宙吊りなんですよね？」
+display
+com11 0 2
+sound 513
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「わ、私、高いところはあんまり……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「飛んでる格好だけでいいんだよ、フリだけで
+line2 <shift> # いい。たとえ宙吊りでも、危険はないし」
+display
+com11 0 2
+sound 514
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ほ、ほんとに危険じゃないんですか、
+line2 <shift> # 大丈夫なんでしょうか……そ、それにっ」
+display
+com11 0 2
+sound 515
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「格好だけでいいって、どういうことでしょう？
+line2 <shift> # 飛ばないと、飛んでる姿は撮影できないような」
+com03 0 3
+choice1 <shift> # とにかくやってみよう
+line2
+com09 0 30
+com08
+choice2 <shift> # 説明しよう！
+line2
+com09 0 31
+com08
+choice3 <shift> # 気が進まないならやめるか
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええい！　とにかくやってみようじゃないか。
+line2 <shift> # 命綱はもうつけてるな？　いいな？」
+display
+com11 0 2
+sound 516
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ええっ！？　ま、まだ心の準備がっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「つべこべ言わずに飛んでらっしゃい！」
+display
+com11 0 2
+sound 517
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「きゃああああー！！」
+display
+com11 0 2
+sound 518
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あああ……、あっ、でもなんか面白いですっ！」
+display
+com11 0 2
+sound 519
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「宙吊りでもあんまり怖くないです。
+line2 <shift> # 気持ちいいですね……」
+display
+com11 0 2
+sound 520
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「なるほどぉ、これがあとで合成されて、
+line2 <shift> # 私が空高く飛ぶ映像になるんですね」
+display
+com11 0 2
+sound 521
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「なんだか、できあがりが楽しみですっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （宙吊り体験が新鮮だったのか、
+line2 <shift> # 雪歩は満面の笑みを浮かべた）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （それからあともなごやかな撮影が続いた。
+line2 <shift> # 最高に楽しいＣＭができそうだぞ）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「説明しよう！　つまり、ＳＦＸとは……、
+line2 <shift> # うんぬんかんぬん……」
+display
+com11 0 2
+sound 522
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ああっ、なるほどぉ！　私、
+line2 <shift> # 映画とかで見たことあります」
+display
+com11 0 2
+sound 523
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あれって、ほんとには飛んでなかったん
+line2 <shift> # ですねぇ……、合成なんですね……」
+display
+com11 0 2
+sound 524
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「５センチ浮いただけでも、３００メートル
+line2 <shift> # 上空を飛んでるように見せたりとか……」
+display
+com11 0 2
+sound 525
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「最近の映像って、すごいんですね」
+display
+com11 0 2
+sound 526
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あの……、そしたら、もしかして私も、
+line2 <shift> # 映画みたいに、飛べるんでしょうか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もちろんだ！　さて、命綱はつけたかな？
+line2 <shift> # そしたらさっそくだ、さぁ飛べっ！」
+display
+com11 0 2
+sound 527
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「えっ！　もう飛ぶんですかっ！
+line2 <shift> # 待ってっ、わ、私まだ心の準備がっ……」
+display
+com11 0 2
+sound 528
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「って、きゃあああああー！！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （唐突にワイヤーでスタジオ高く飛ばされた
+line2 <shift> # 雪歩は大慌て……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （結局、
+line2 <shift> # 本人は気乗りしなかったみたいだけど……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （この雪歩の慌て振りを生かしたＣＭフィルムは
+line2 <shift> # 面白いものになるだろう。評判が楽しみだな）
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「気が進まないなら、この撮影は、
+line2 <shift> # ちょっとやめるか？」
+display
+com11 0 2
+sound 529
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「いえ、そんなつもりじゃ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、でも乗り気じゃないみたいだし、
+line2 <shift> # あまり困ってるようなら、無理にとは」
+display
+com11 0 2
+sound 530
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あの、その、ただ私、どうやってやるのか
+line2 <shift> # よくわからなくて、だから、不安で……」
+display
+com11 0 2
+sound 531
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ああ、なにか悲観しすぎなのかな、私。
+line2 <shift> # すみません……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そう謝ることはないさ、不安はわかる。
+line2 <shift> # ただ、撮影の時間には限りもあるし……」
+display
+com11 0 2
+sound 532
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そ、そうですね。ああ、しっかり仕事
+line2 <shift> # しなきゃいけないのに、私……、ううっ」
+display
+com11 0 2
+sound 533
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「い、いまからでも、やります。
+line2 <shift> # 私、頑張ります。やらせてくださいっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よしわかった。では撮影開始だな。
+line2 <shift> # 飛ぶ心の準備はＯＫ？」
+display
+com11 0 2
+sound 534
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「は、はい！　えと、その……、ああっ！
+line2 <shift> # や、やっぱりもうちょっと待ってくださいっ」
+display
+com11 0 2
+sound 535
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ぶ、無事に飛べますように……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ふぅ、まったく世話の焼けることだ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （先が思いやられるが……、時間をかけても、
+line2 <shift> # なんとかいいＣＭになってくれるといいな……）
+com09 0 49
+display
+location 49
+unk02

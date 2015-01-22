@@ -1,0 +1,465 @@
+com2c 0 25
+com2d 0 51
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さて、あずささん。
+line2 <shift> # ミーティングを始めましょうか」
+display
+com11 0 0
+sound 0
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「…………」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうしたんです？　そんなにじっと
+line2 <shift> # 見つめられると、緊張しますよ」
+display
+com11 0 0
+sound 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「プロデューサーさん……うふふ〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ、ど、どうしたんです……？
+line2 <shift> # あずささん……」
+display
+com11 0 0
+sound 2
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「…………………」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わっ……！　な、何なんです！？
+line2 <shift> # そ、そんな、迫ってこられると……」
+display
+com11 0 0
+sound 3
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「……あの〜、分かりますよね……？
+line2 <shift> # 私が今、何を考えているのか……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え、ええっ……！？」
+com03 0 3
+choice1 <shift> # ふざけてるんですか？
+line2
+com09 0 10
+com08
+choice2 <shift> # 寝ぼけてるんですか？
+line2
+com09 0 11
+com08
+choice3 <shift> # 俺に気があるんですか？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+com34 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ふざけてるんですか？」
+display
+com11 0 0
+sound 4
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「いいえ〜……。ごめんなさい。
+line2 <shift> # ちょっと、あることを試していたんです〜」
+display
+com11 0 0
+sound 5
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ふざけていたわけでは、ないんです。
+line2 <shift> # 気を悪くされたなら、謝りますね〜」
+com09 0 13
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「寝ぼけてるんですか？」
+display
+com11 0 0
+sound 6
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「えっ……！　まさか私って、寝ぼけたとき、
+line2 <shift> # こんなことをしているんですか〜？」
+display
+com11 0 0
+sound 7
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「し、知りませんでした〜。
+line2 <shift> # これからは、気をつけたいと思います〜」
+display
+com11 0 0
+sound 8
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あら……？　だけど、寝ている間って、
+line2 <shift> # どうやって、気をつければいいのかしらー？」
+com09 0 13
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺に気があるんですか？」
+display
+com11 0 0
+sound 9
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「えっ……？　い、いえ。
+line2 <shift> # そういうことではないんですけれど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あっさりと否定してくれましたね……」
+display
+com11 0 0
+sound 10
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あっ、ごめんなさい……！　あのっ、
+line2 <shift> # 気があるかもですし、ないかもですし〜……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今さらフォローしても、遅いですよ」
+display
+com11 0 0
+sound 11
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「いえ、あの〜……ご、ごめんなさい」
+com09 0 13
+display
+location 13
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それより、結局、何をやってたんですか？
+line2 <shift> # 俺のことをじーっと見たりして……」
+display
+com11 0 0
+sound 12
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「以心伝心……って、あるのかと思って。
+line2 <shift> # ちょっと、試していたんですー」
+display
+com11 0 0
+sound 13
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「このお仕事って、プロデューサーさんとの
+line2 <shift> # コンビネーションが大切でしょう？」
+display
+com11 0 0
+sound 14
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「言葉にしなくても、私の考えていることが
+line2 <shift> # 通じたらスゴイなぁって、思ったんですよ〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんだ、そうだったんですか……」
+display
+com11 0 0
+sound 15
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「だけど、案外、伝わらないものですね〜……。
+line2 <shift> # もしかして、相性がよくないのかしら？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「相性、ですか？」
+display
+com11 0 0
+sound 16
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「相性って、とても大事だと思いませんか〜？
+line2 <shift> # 私は、すごく気になるんですけれど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「アイドルにとって、プロデューサーとの相性は
+line2 <shift> # もちろん、大事なことですよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それに、実力、ルックス、運……。他にも
+line2 <shift> # 大切なことは、たくさんあります」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうですね。多分、今のあずささんが一番、
+line2 <shift> # 気にするべきなのは……」
+com03 0 3
+choice1 <shift> # 俺との相性のこと
+line2
+com09 0 20
+com08
+choice2 <shift> # 実力をつけること
+line2
+com09 0 21
+com08
+choice3 <shift> # ルックスを磨くこと
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+com34 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺との相性のこと、ですね」
+display
+com11 0 0
+sound 17
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「そうなんです〜！　実は私、こういうことが
+line2 <shift> # 気になり始めると、止まらなくて……」
+display
+com11 0 0
+sound 18
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「プロデューサーさんとの相性がいいかどうか、
+line2 <shift> # ちゃんと、確かめておきたいんです〜」
+com09 0 23
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「実力をつけること、ですね」
+display
+com11 0 0
+sound 19
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「はい……。すみません。実力不足なのは
+line2 <shift> # じゅうぶん、分かっているんですけれど……」
+display
+com11 0 0
+sound 20
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「それよりも、プロデューサーさんとの相性の
+line2 <shift> # ことが、気になってしまって〜……」
+com09 0 23
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ルックスを磨くこと、ですね」
+display
+com11 0 0
+sound 21
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「そ、そんなに、はっきり言わなくても〜……。
+line2 <shift> # プロデューサーさんて、意外と厳しいんですね」
+display
+com11 0 0
+sound 22
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「こういうことがあると、ますます
+line2 <shift> # プロデューサーさんとの相性が、気になります」
+com09 0 23
+display
+location 23
+com11 0 0
+sound 23
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「プロデューサーさん。やっぱりちゃんと一度、
+line2 <shift> # 相性診断をしてみませんか〜？」
+display
+com11 0 0
+sound 24
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「こういうの、すごく気になってしまうんです。
+line2 <shift> # いい結果が出たら、安心できますし」
+display
+com11 0 0
+sound 25
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「もしよかったら今、少しだけ時間を取って
+line2 <shift> # つきあってもらえませんか〜？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん。あずささんがそこまで言うんなら、
+line2 <shift> # やってみるしか、なさそうですね」
+display
+com11 0 0
+sound 26
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ありがとうございます！　じゃあ、今から
+line2 <shift> # ２人の相性を、確かめてみましょう〜」
+display
+com11 0 0
+sound 27
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「カードを使った、相性診断なんです。
+line2 <shift> # 裏返した３枚のカードの中から、一枚選んで」
+display
+com11 0 0
+sound 28
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「そのカードが、相手と同じ図柄だったら、
+line2 <shift> # 相性がいいそうです〜」
+display
+com11 0 0
+sound 29
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「さあ、プロデューサーさん。
+line2 <shift> # どのカードがいいか、選んでください」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あずささん、真剣だな……。こうなったら、
+line2 <shift> # いい結果が出るように、祈るしかない！）
+com03 0 3
+choice1 <shift> # 右のカード！
+line2
+com09 0 30
+com08
+choice2 <shift> # 左のカード！
+line2
+com09 0 31
+com08
+choice3 <shift> # 真ん中のカード！
+line2
+com09 0 32
+com08
+com07
+com09 0 33
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「右のカード！」
+com37 0 1
+com1e 0 0
+com09 0 34
+com3b
+com37 0 0
+com1e 0 0
+com09 0 35
+com3b
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「左のカード！」
+com37 0 1
+com1e 0 0
+com09 0 34
+com3b
+com37 0 0
+com1e 0 0
+com09 0 35
+com3b
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「真ん中のカード！」
+com37 0 1
+com1e 0 0
+com09 0 34
+com3b
+com37 0 0
+com1e 0 0
+com09 0 35
+com3b
+display
+location 33
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん……。よくわからないので、
+line2 <shift> # テキトーに……このカードで！！」
+com09 0 35
+display
+location 34
+com11 0 0
+sound 30
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「これですね〜。分かりました。では、
+line2 <shift> # 私のカードと一緒に、オープンしてみましょう」
+display
+com11 0 0
+sound 31
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「せーのっ……あっ！　すごいです……！
+line2 <shift> # ２枚とも、ハートのカードです」
+display
+com11 0 0
+sound 32
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「これは……、とても相性がいいんですよ！
+line2 <shift> # 仕事上のパートナーというよりも、恋の……」
+display
+com11 0 0
+sound 33
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あっ……！　い、いえ、別に……。
+line2 <shift> # 細かい内容なんて、気にしませんよね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、気になりますよ。そこまで言ったなら
+line2 <shift> # ちゃんと最後まで、教えてください」
+display
+com11 0 0
+sound 34
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あ、はい……。その〜、ふたりの相性は、
+line2 <shift> # 最高なんですって。仕事上ではなくて……」
+display
+com11 0 0
+sound 35
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「恋人として……運命の出会いかも」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ……！？」
+display
+com11 0 0
+sound 36
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あっ、いいえ……！　と、とにかく、
+line2 <shift> # ふたりの相性がよくて、よかったです〜！」
+display
+com11 0 0
+sound 37
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「これからもずっと、ふたりでがんばって
+line2 <shift> # 行きましょうね〜。プロデューサーさん！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あずささんは、とてもうれしそうだ。
+line2 <shift> # 不安を消してやれて、よかったな……）
+com4b 0 0
+com09 0 69
+display
+location 35
+com11 0 0
+sound 38
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「これですね〜。分かりました。では、
+line2 <shift> # 私のカードと一緒に、オープンしてみましょう」
+display
+com11 0 0
+sound 39
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「せーのっ……あっ！　そんな……！
+line2 <shift> # ２枚とも、ばらばらのカードです〜」
+display
+com11 0 0
+sound 40
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「この図柄の組み合わせは……ああっ。
+line2 <shift> # そんな〜、ひどいです……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ひどいって、どう、ひどいんです？」
+display
+com11 0 0
+sound 41
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あ、は、はい……。その〜、つまり
+line2 <shift> # ふたりの相性は、最悪なんですって……」
+display
+com11 0 0
+sound 42
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「こ、こんな結果で、大丈夫なのかしら……。
+line2 <shift> # なんだか、不安になってしまいました〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （たかが占いとは言え、あずささんの心情には
+line2 <shift> # 大きなマイナスを与えてしまった……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （この痛手は大きいけど、地道に仕事で
+line2 <shift> # 結果を出していくしかないな……）
+com4b 0 2
+com09 0 69
+display
+location 69
+unk02

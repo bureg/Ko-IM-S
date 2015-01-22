@@ -1,0 +1,268 @@
+com2c 0 143
+com32 0 0
+com2d 0 71
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （きれいな造木と電飾とで、秋の夕暮れの並木道
+line2 <shift> # をイメージした、アトリウムにやってきた）
+display
+com11 0 0
+sound 200
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「面白い場所ですね。窓から外の光を入れてる
+line2 <shift> # のに、部屋の中は、夕暮れの色になってて……」
+display
+com11 0 0
+sound 201
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「その暮れた景色を、淡い明かりが照らして……。
+line2 <shift> # 街路樹からも、少し色の落ちた葉が散って」
+display
+com11 0 0
+sound 202
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「なんだか、すっかり秋の雰囲気になってる。
+line2 <shift> # ちょっと感心したかな」
+com03 0 2
+choice1 <shift> # 確かに、いい感じだな
+line2
+com09 0 10
+com08
+choice2 <shift> # まぁ、作り物だけどな
+line2
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「確かに、いい感じだな。
+line2 <shift> # つい、本当に夕方なのかと思ってしまうよ」
+display
+com11 0 0
+sound 203
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そうね。それにこの並木……、
+line2 <shift> # ほんとの木じゃなくて、作り物なのよね」
+display
+com11 0 0
+sound 204
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「それなのに、よく、ここまでできるなぁ。
+line2 <shift> # いい雰囲気、出してると思う」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まぁ、作り物だけどな」
+display
+com11 0 0
+sound 205
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「でも、よくできてるんじゃない？
+line2 <shift> # 作り物の木や電飾で、秋の夕暮れを再現してて」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「本物の並木の郷愁みたいなものまでは、
+line2 <shift> # 出せてないんじゃないか？」
+display
+com11 0 0
+sound 206
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そう？　いい雰囲気だし、いい感じだと、
+line2 <shift> # 私は思うなぁ」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 207
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ま、なにしろ作り込みが、
+line2 <shift> # 半端じゃなく、すごいわね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ふーむ……。しかし、律子が何かほめるような
+line2 <shift> # 感想言うなんて、なんか珍しい気がするぞ」
+display
+com11 0 0
+sound 208
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ん？　私、いつも、自分でいいと思うものには、
+line2 <shift> # 『いい』って、素直に言ってるつもりですけど」
+display
+com11 0 0
+sound 209
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「でもまぁ……、あはは、それにしても、
+line2 <shift> # 笑っちゃうな。おかしな話ですよね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ん？　何のことだ」
+display
+com11 0 0
+sound 210
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「普段だと、ほら、うちら仕事してても、
+line2 <shift> # 季節感、あんまりないじゃない？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そりゃ、外の景色も、じっくり見てられない
+line2 <shift> # ようなスケジュールだもんなぁ……」
+display
+com11 0 0
+sound 211
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そうそう。でも、それなのに、この部屋の中は、
+line2 <shift> # こんなに、秋らしくって」
+display
+com11 0 0
+sound 212
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「それで、『ああ、そういえば、
+line2 <shift> # もうそんな季節だったな』って、気づいて……」
+display
+com11 0 0
+sound 213
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「作り物の秋のイメージを見て、本当の季節を
+line2 <shift> # 知るってのも、なんだか妙だなぁ、って思って」
+com03 0 2
+choice1 <shift> # 外、出ようか
+line2
+com09 0 20
+com08
+choice2 <shift> # 作り物でも本物だ
+line2
+com09 0 21
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それじゃ、外、出ようか」
+display
+com11 0 0
+sound 214
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「え、もう帰る時間ですか？
+line2 <shift> # もう少し、歩いてみても……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、外の並木も、見てみようと思ったんだ。
+line2 <shift> # 近くの公園にでも行かないか、律子」
+display
+com11 0 0
+sound 215
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「今から？　いい、ですけど……。
+line2 <shift> # どういう風の吹き回し？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ただの散歩だよ、散歩。外には電飾もないし、
+line2 <shift> # 夕暮れでもないけど、空気は、うまいだろう」
+display
+com11 0 0
+sound 216
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「散歩ねぇ。ふーん……。でも、悪くないかな。
+line2 <shift> # 本物の並木と、ここを見比べるのも」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「秋と言うなら、外には、
+line2 <shift> # もっと秋らしい場所が、あるはずだしな」
+display
+com11 0 0
+sound 217
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「どこか案内してくれるんですか？　あ！　私、
+line2 <shift> # 近くで、いい場所知ってるから、行きたいなぁ」
+display
+com11 0 0
+sound 218
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「古いケヤキとイチョウが続く道で……、撮影に
+line2 <shift> # も、時々使われる穴場です。さ、行きましょ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そして、外に出た俺と律子は、
+line2 <shift> # 一緒に、長い紅葉の並木道を歩いた）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （本物の落ち葉を踏みしめて歩く律子は、なんだ
+line2 <shift> # か、さっきより少し、楽しげな表情に見えた）
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「作り物でも、本物だ。
+line2 <shift> # 少なくとも、律子にとっては、そうだろう？」
+display
+com11 0 0
+sound 219
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「えっ？　どういうこと？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、だからさ。作り物でも、本物の季節を、
+line2 <shift> # 思い出させるんなら、本物だ、ってこと」
+display
+com11 0 0
+sound 220
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そっか……。それだけ、この並木とイルミネー
+line2 <shift> # ションが、よくできて見えるってことか」
+display
+com11 0 0
+sound 221
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「私にとっては、これが本物の秋、か。
+line2 <shift> # なんか、納得しちゃった」
+display
+com11 0 0
+sound 222
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ねぇ、プロデューサー。作り物の並木道と、
+line2 <shift> # うちらの仕事って、どっか似てますよね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうかな？　どこが似てるんだ……？」
+display
+com11 0 0
+sound 223
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ハッタリぶりが、ですよ」
+display
+com11 0 0
+sound 224
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ハッタリでも、本物に見せて、相手を、
+line2 <shift> # 気分よくさせるってところが、似てるんですよ」
+display
+com11 0 0
+sound 225
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「だからかな。私、ここの雰囲気、
+line2 <shift> # 嫌いじゃない気がするのは」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なぁ、それならハッタリじゃなく、正真正銘、
+line2 <shift> # 本物のほうが、もっとよくないか？」
+display
+com11 0 0
+sound 226
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「んー、どうなんだろ……？
+line2 <shift> # あはは。ま、まぁ、いいじゃないですか」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後は、律子は黙って、
+line2 <shift> # アトリウムの向こうにある空を、見上げていた）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （もしかしたら……、律子は、自分自身の
+line2 <shift> # ハッタリぶりに、不満を持ってるのかも）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （オフ明けから、
+line2 <shift> # 気合い入れてやっていかないとな……）
+com09 0 29
+display
+location 29
+unk02

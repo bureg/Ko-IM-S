@@ -1,0 +1,296 @@
+com2c 0 118
+com2d 0 51
+com32 0 0
+location 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あずささん！　あずささんってば。
+line2 <shift> # 思いつめないでくださいよ、そんなに」
+display
+com11 0 6
+sound 1400
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「プロデューサーさん、本当にすみません。
+line2 <shift> # すみません、すみま……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いいんですって。俺にも悪い部分は、
+line2 <shift> # あったんですから、お互いさまです」
+display
+com11 0 6
+sound 1401
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「いえ、プロデューサーさんは悪くありません。
+line2 <shift> # 本当に、すごい人です。それなのに私……」
+display
+com11 0 6
+sound 1402
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「足を引っ張った上に、これまでの恩を、
+line2 <shift> # アダで返すようなマネをしてしまって……」
+display
+com11 0 6
+sound 1403
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「こんな私は、やはり、もうアイドルなんて、
+line2 <shift> # 続けない方が、いいのかも……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええっ、そんな……」
+display
+com11 0 6
+sound 1404
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「これだけ素晴らしい人の下でさえ、大きなミス
+line2 <shift> # をしてしまうのですから、他の人の下では……」
+display
+com11 0 6
+sound 1405
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「うまくいく筈がないです。これは私が続けたい
+line2 <shift> # とか続けたくないとかそれ以前の問題ですよね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなこと、言わないでくださいよ！
+line2 <shift> # いくらあずささんでも、怒りますよ！？」
+display
+com11 0 6
+sound 1406
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「プロデューサー……、さん」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「引退することが、自分の幸せだっていうんなら、
+line2 <shift> # それもいいでしょう。でも……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ただのショックから身を引くなんて、まち
+line2 <shift> # がってます。……アイドル、続けてください！」
+com03 0 3
+choice1 <shift> # 俺の努力を、無にしないために
+line2
+com09 0 10
+com08
+choice2 <shift> # 自分自身の未来のために
+line2
+com09 0 11
+com08
+choice3 <shift> # 今日のリベンジのために
+line2
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺の努力を、無にしないために」
+display
+com11 0 6
+sound 1407
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「プロデューサーさんの、努力……。あ、そう
+line2 <shift> # ですね。教えてもらった、いろいろなこと……」
+display
+com11 0 6
+sound 1408
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「その集大成が、今日の結果では、悲し過ぎます
+line2 <shift> # よね。それこそ、一番失礼なことかも……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうですとも。そこまで俺の事気づかってくれ
+line2 <shift> # るなら、続けるのがなによりのプレゼントです」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「自分自身の未来のために」
+display
+com11 0 6
+sound 1409
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「未来……？　あんな失敗をしてしまった私に、
+line2 <shift> # 未来なんて、あるのでしょうか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ありますよ！　成功の先にも、失敗の先にも、
+line2 <shift> # かならず続く道はあるんです。だから！」
+display
+com11 0 6
+sound 1410
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「失敗の先にも、道……。あ、それ……、
+line2 <shift> # はっとさせられる言葉ですね。すばらしいです」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今日のリベンジのために」
+display
+com11 0 6
+sound 1411
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「りべんじって……、復讐、ですか？
+line2 <shift> # そういう恐ろしいのは、私、ちょっと……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、たしかにぶっそうな言葉ですけど、でも、
+line2 <shift> # このまま終わりじゃくやしいじゃないですか？」
+display
+com11 0 6
+sound 1412
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「それはそうですね。私が辞めるのは、プロデュ
+line2 <shift> # ーサーさんにとっても、くやしいことですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「当たり前じゃないですか。いつか、すごいライ
+line2 <shift> # ブをやって、今日を笑い飛ばしてほしいです！」
+com09 0 19
+display
+location 19
+com11 0 6
+sound 1413
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「わかりましたー。この先、どこまでできるか、
+line2 <shift> # わからないですけど……」
+display
+com11 0 6
+sound 1414
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「私、続けていくことにします。
+line2 <shift> # プロデューサーさんとの思い出を、支えに」
+display
+com1c 0 3
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ほっ、よかった。
+line2 <shift> # それを聞いて、俺も安心しました」
+display
+com11 0 6
+sound 1415
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「プロデューサーさん。これから、一人立ちして
+line2 <shift> # いく私の最後のお願い、きいてもらえますか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いいですよ。なんです？」
+display
+com11 0 6
+sound 1416
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「私のおでこに手を当てて『これからも、
+line2 <shift> # がんばれ』って、言ってもらえますか？」
+display
+com11 0 6
+sound 1417
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「その応援を胸に、私、この先の道を、
+line2 <shift> # 歩いていきたいと思いますので」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わかりました。それじゃあ……」
+com0e 1 67
+com44
+com09 0 20
+com45
+com44
+com09 0 21
+com45
+com44
+com09 0 22
+com45
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「これからも、がんばってください！」
+display
+com11 0 6
+sound 1418
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ありがとう、ございます、こう、手を通じて、
+line2 <shift> # ジーンとプロデューサーさんの温かさが……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺も感じましたよ。あずささんの温かさ」
+com09 0 28
+display
+location 21
+com11 0 6
+sound 1419
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あのー、プロデューサーさん？　今の、
+line2 <shift> # どっちかっていうと叩いたって感じですよね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え、そうでしたか？
+line2 <shift> # すみません、やり直しましょうか？」
+display
+com11 0 6
+sound 1420
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「いえー、いいです。こういう、
+line2 <shift> # しかられる風なのも、悪くないかなって」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃ、かるく気合いってことで。
+line2 <shift> # これをはげみに、がんばってください」
+display
+com11 0 6
+sound 1421
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「はい。さようならは、言いません。私、
+line2 <shift> # いつか、もっとステキなアイドルになって……」
+com09 0 29
+display
+location 22
+com11 0 6
+sound 1422
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あのー、プロデューサーさん？
+line2 <shift> # おでこ……、なんですけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あああ、すみません。こういうの、
+line2 <shift> # 慣れてないから、なんか落ち着かなくて」
+display
+com11 0 6
+sound 1423
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ムリそうなら、いいです。もしかしたら、
+line2 <shift> # やさしい言葉かけてもらうより……」
+display
+com11 0 6
+sound 1424
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「きびしくしてもらう方が、
+line2 <shift> # 私のためになるかもしれませんよね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まあ、そうとらえてくれるなら、
+line2 <shift> # それもアリかな……」
+com09 0 28
+display
+location 28
+com11 0 6
+sound 1425
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「さようならは、言いません。私、いつかもっと、
+line2 <shift> # ステキなアイドルになって……」
+com09 0 29
+display
+location 29
+com4a 0 0
+com11 0 6
+sound 1426
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「プロデューサーさんの目を、
+line2 <shift> # まーるくさせたいと思います。……それでは」
+display
+location 100 129 92 129 92 130 177 130 164 130 181 130 196 129 65 130 160 130 184 130 179 130 179 130 241 130 205 129 65 141 197 140 227 130 204 142 184 148 115 130 169 130 231
+line2 <shift> # 立ち直り、微笑みながら去っていった。
+display
+location 101 130 160 130 184 130 179 130 179 130 241 130 204 150 123 147 150 130 204 141 75 130 185 130 170 129 65 130 199 130 177 130 201 130 160 130 233 130 204 130 169 129 65
+line2 <shift> # 今の俺にはわからない。だけど……、
+display
+location 102 130 162 130 194 130 169 129 65 130 237 130 169 130 233 147 250 130 170 130 173 130 233 130 169 130 224 130 181 130 234 130 200 130 162 129 66
+line2 <shift> # 俺達の夢は――、明日へと続いていく。
+display
+unk02

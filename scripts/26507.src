@@ -1,0 +1,470 @@
+com2c 0 17
+com2d 0 41
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （千早が、２時間のスペシャルドラマに、
+line2 <shift> # メインゲストとして出演することになった）
+display
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「『アタシは、昨日、アナタに……』いえ、違う。
+line2 <shift> # もっと、透明感があったほうが……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「千早、そろそろリハーサルの時間だぞ。
+line2 <shift> # セリフは、もう大丈夫か？」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「セリフは大丈夫です。ただ、自分の演技に、
+line2 <shift> # どうしても自信が持てなくて……」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「本業は歌い手である私に、メインゲストとして
+line2 <shift> # の役目が、こなせるでしょうか？　不安です」
+com03 0 3
+choice1 <shift> # もう、シロウトじゃないだろ
+line2
+com09 0 10
+com08
+choice2 <shift> # シロウトなりに、がんばれ
+line2
+com09 0 11
+com08
+choice3 <shift> # 視聴者は気にしないよ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もう、シロウトじゃないだろ。演技だって、
+line2 <shift> # 初めてじゃないんだし。大丈夫だよ」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「それもそうですね。
+line2 <shift> # 確かに、いろいろな経験は、してきましたから」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「専門外の仕事も、やってみれば案外、
+line2 <shift> # こなせてしまうかもしれませんね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うんうん。昔は、歌のない仕事だとロコツに
+line2 <shift> # イヤな顔して大変だったのに。……成長したな」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「こ、こんな時に、そんなことを、
+line2 <shift> # しみじみ思い出さないで下さい。……もう」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あはは。とにかく、自信をもってやることだ。
+line2 <shift> # 今の千早なら、できる。俺が保証するよ」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい、わかりました。出来る限り、
+line2 <shift> # プロデューサーの期待に沿うよう、努力します」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「シロウトなりに、がんばれ。本職の女優さん
+line2 <shift> # じゃないから、少しのミスは仕方ないしな」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「でも、いくら本職ではないといっても、
+line2 <shift> # 共演者に迷惑は、かけられません」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「それに、シロウトだと言いわけできるほど、
+line2 <shift> # 経験が少ないわけでもありませんし……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、そうだな。俺の言い方が悪かった。
+line2 <shift> # 千早の出来る範囲で、がんばってくれ」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。そういうことであれば、もちろん。
+line2 <shift> # 最善をつくします」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「視聴者は、気にしないよ。演技の良し悪しなん
+line2 <shift> # て。みんな、千早さえ出てればいいんだからさ」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そうでしょうか？　私が完成度の低い仕事をす
+line2 <shift> # れば、ファンはガッカリすると思いますが……」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「それは、私に期待してくれているファンの方
+line2 <shift> # への、裏切り行為にならないでしょうか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まあ、確かに……。でも、あんまり気負いすぎ
+line2 <shift> # るのも、かえって良くないと思うんだよな……」
+display
+com11 0 0
+sound 10012
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「気をぬくよりは、いいように思うのですが。
+line2 <shift> # ……あ。すみません、生意気言ってしまって」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いやいや。千早がそう思うなら、納得がいく
+line2 <shift> # ように、全力でがんばってくれて、構わないぞ」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 10013
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……とは言ったものの、今回の役、難しいです。
+line2 <shift> # まるで、初めてきく、異国の音楽のようで……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「面白い表現だな。千早らしいよ」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「台本を読むことって、
+line2 <shift> # 楽譜を読むのに似てると、思うんです」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「台本も楽譜も、書かれていることから、
+line2 <shift> # 心情を読みとるものですから……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えーと、千早の言う、
+line2 <shift> # 台本に書かれている心情っていうのは……」
+com03 0 3
+choice1 <shift> # 登場人物の心情？
+line2
+com09 0 30
+com08
+choice2 <shift> # 観てる人の心情？
+line2
+com09 0 31
+com08
+choice3 <shift> # 脚本家の心情？
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「登場人物の心情？　自分の演じる役に、
+line2 <shift> # なりきるってことか？」
+display
+com11 0 0
+sound 10016
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。同じセリフでも、心に思っていること
+line2 <shift> # によって、まるで違う印象になりますから……」
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「観てる人の心情？
+line2 <shift> # 受け手の気持ちになって演じるってことか？」
+display
+com11 0 0
+sound 10017
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「いえ。本当は、そこまで考えられれば、
+line2 <shift> # 一番いいのでしょうけど……」
+display
+com11 0 0
+sound 10018
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「私はまだ、自分が演じる役が、
+line2 <shift> # どういう心情かを読みとるだけで、精一杯です」
+display
+com11 0 0
+sound 10019
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「どんな気持ちで言うべきか、正しくくみとらな
+line2 <shift> # いと、セリフの印象が変わってしまいますから」
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「脚本家の心情？　どんな気持ちで書いたか、
+line2 <shift> # 読みとるってことか？」
+display
+com11 0 0
+sound 10020
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ええっ？　そんなことまで必要なんですか？
+line2 <shift> # だったら、私は、まだまだ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、いや、俺は必要だとは思わないけど、千早
+line2 <shift> # のことだから、そこまで考えているかと思って」
+display
+com11 0 0
+sound 10021
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「いえ。私は、一番大切な、
+line2 <shift> # 自分の演じる役の心情しか、考えていません」
+display
+com11 0 0
+sound 10022
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「同じ言葉でも、心に思っていることによって、
+line2 <shift> # まるで別のセリフに聞こえますから……」
+com09 0 49
+display
+location 49
+com11 0 0
+sound 10023
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あの、プロデューサー。実は、もう少しだけ、
+line2 <shift> # 練習しておきたいシーンがあるんですが……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか。俺で良ければ、練習に付き合うぞ。
+line2 <shift> # どんな場面なんだ？」
+display
+com11 0 0
+sound 10024
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ええと、主人公に助けられた、謎の女性が、
+line2 <shift> # 恩返しに現れる、というシーンみたいです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「千早は、謎の女性役か。面白そうな役だな。
+line2 <shift> # よし、それじゃ、やってみてくれ」
+display
+com11 0 0
+sound 10025
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。では、いきます……」
+display
+com11 0 0
+sound 10026
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……アタシは、昨日、
+line2 <shift> # アナタに助けられた者です。覚えてますよね？」
+display
+com11 0 0
+sound 10027
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「お礼に、アナタの願いを、
+line2 <shift> # １つだけかなえてあげようと思って、来ました」
+display
+com11 0 0
+sound 10028
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「さあ、何を願いますか？　何でも言って下さい。
+line2 <shift> # ただし、私にできることを願って下さいね？」
+display
+com11 0 0
+sound 10029
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……こんな感じで、どうでしょう？　謎の女性
+line2 <shift> # ということで神秘的な感じを意識したんですが」
+com03 0 3
+choice1 <shift> # 意外性が足りない
+line2
+com09 0 50
+com08
+choice2 <shift> # かわいさが足りない
+line2
+com09 0 51
+com08
+choice3 <shift> # いいんじゃないか？
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「意外性が足りないな。もっと思い切った演技を
+line2 <shift> # してみても、いいんじゃないか？」
+display
+com11 0 0
+sound 10030
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「思い切った演技ですか。なるほど……。でも、
+line2 <shift> # 具体的には、どういう演技がいいですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだな。たとえば、もっと、
+line2 <shift> # ワイルドにしてみるとか……」
+display
+com11 0 0
+sound 10031
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ワイルドな謎の女性……。確かに、
+line2 <shift> # それは、魅力的な人物になりそうですね！」
+display
+com11 0 0
+sound 10032
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ちょっと、演じてみます」
+display
+com11 0 0
+sound 10033
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……アタシはァ、昨日、
+line2 <shift> # アンタに助けられた者だよ。覚えてるかい？」
+display
+com11 0 0
+sound 10034
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「お礼に、アンタの願いを、１つだけ、
+line2 <shift> # かなえてやりに来たんだ！」
+display
+com11 0 0
+sound 10035
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「さあ、何を願う？　何でも言っていいんだよ。
+line2 <shift> # ただし、アタシにできることだけだ。いいね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おおっ！　千早、そういう演技も出来るのか。
+line2 <shift> # すごく上手いな！　驚いたよ！」
+display
+com11 0 0
+sound 10036
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そ、そんな。ほめすぎです……。でも、
+line2 <shift> # 演じていて、自分でも新鮮な感じがしました」
+display
+com11 0 0
+sound 10037
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「本番も、これでいきますね。……やっぱり、プ
+line2 <shift> # ロデューサーに相談して良かったです。ふふっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後、ドラマでの千早の演技は、意外性が
+line2 <shift> # あって良かったと、ファンから絶賛された）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （これで、もっと色々な仕事が、
+line2 <shift> # 舞い込んできそうだな！）
+com09 0 69
+display
+location 51
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「かわいさが足りないな。せっかくだから、もっ
+line2 <shift> # と、かわいこブリッコしてる千早が見たいよ」
+display
+com11 0 0
+sound 10038
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「か、かわいこブリッコですか？
+line2 <shift> # そんなこと、私にできるとは思えませんが……」
+display
+com11 0 0
+sound 10039
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「でも、プロデューサーの指示を信じて、
+line2 <shift> # 試しに、演じてみます」
+display
+com11 0 0
+sound 10040
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……あ、アタシぃー、昨日、アナタに
+line2 <shift> # 助けられた者でーす。お、覚えてるー？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まだ、たどたどしいな。
+line2 <shift> # 千早、もっとかわいく！　照れは捨てるんだ！」
+display
+com11 0 0
+sound 10041
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「うぅ……。お礼にぃー、アナタの願いを、１つ
+line2 <shift> # だけかなえてあげちゃおっかニャ！　きゃはっ」
+display
+com11 0 0
+sound 10042
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……くっ。さすがにムリです。いくらプロ
+line2 <shift> # デューサーの指示でも、恥ずかしすぎます！」
+display
+com11 0 0
+sound 10043
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「やっぱり、最初の演技でいこうと思います。
+line2 <shift> # すみません、プロデューサー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後、千早は、ごく普通にドラマ出演をこな
+line2 <shift> # したが、可もなく不可もなくという出来だった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺が、もっと違うアドバイスをしていれば、も
+line2 <shift> # う少し、いい仕事になったかもしれないな……）
+com09 0 69
+display
+location 52
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いいんじゃないか？　今の演技で、
+line2 <shift> # 特に何も問題はないと思うけど」
+display
+com11 0 0
+sound 10044
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「え……。でも、私は、なんとなく
+line2 <shift> # 物足りないような気がしているんですが」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか？　神秘的な謎の女性、いいじゃないか。
+line2 <shift> # 今のままで、特に練習は必要ないよ」
+display
+com11 0 0
+sound 10045
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そうですか……。でも、もう少し自分なりに
+line2 <shift> # 練習してきますね。納得がいかないので」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （千早は、スタジオの奥へと行ってしまった。
+line2 <shift> # 力になってやれなかったようだ……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後、放送されたスペシャルドラマの中で、
+line2 <shift> # 千早は、ほとんど目立たなかった……）
+com09 0 69
+display
+location 69
+unk02

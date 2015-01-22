@@ -1,0 +1,301 @@
+com2c 0 24
+com2d 0 131
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、気持ちのいい朝だなあ。
+line2 <shift> # おはようございまー……」
+display
+com11 0 0
+sound 10000
+com4c 0 1
+name 0 0 <names:2>  # Miki
+line1 <shift> # 「ミキだって、ミキなりにがんばってるもん！
+line2 <shift> # いじわるばっか言わないでよ、社長のバカっ！」
+display
+com11 0 0
+sound 10001
+com4c 0 1
+name 0 0 <names:2>  # Miki
+line1 <shift> # 「ミキの大事なものとりあげて、ミキのお願いは
+line2 <shift> # ムシして、社長は性格悪すぎなのっ！」
+display
+com11 0 0
+sound 10002
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「美希君、落ち着きたまえ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ん？　なにやら、社長室の方から、
+line2 <shift> # 怒鳴り声が聞こえる。トラブルか！？）
+com03 0 3
+choice1 <shift> # じっと待とう
+line2
+com09 0 10
+com08
+choice2 <shift> # ドアの前で盗み聞きしよう
+line2
+com09 0 11
+com08
+choice3 <shift> # 社長室に入ろう
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ここは、じっと待とう。状況が、よくわからな
+line2 <shift> # いのに、出しゃばっても仕方ないしな）
+display <shift> # バタン！
+display
+com11 0 0
+sound 10003
+com4c 0 1
+name 0 0 <names:2>  # Miki
+line1 <shift> # 「ううっ。もういいもんっ！　社長なんか……、
+line2 <shift> # こんな事務所なんか、知らないっ！　……あっ」
+display
+com11 0 0
+sound 10004
+com4c 0 1
+name 0 0 <names:2>  # Miki
+line1 <shift> # 「ぷ、プロデューサー……」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ドアの前で、盗み聞きしてみようかな。
+line2 <shift> # そろそろーっと……）
+com09 0 18
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （社長の身に何かあったら大変だ！
+line2 <shift> # 社長室に入ろう！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「社長！　大丈夫ですか、高木社長っ！」
+com09 0 18
+display
+location 18 131 111 131 94 131 147 129 73 129 64 131 104 131 147 131 98 129 73
+display
+com11 0 0
+sound 10005
+com4c 0 1
+name 0 0 <names:2>  # Miki
+line1 <shift> # 「ううう、もういいもんっ！　社長なんか……、
+line2 <shift> # こんな事務所なんか、知らないっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いててっ！　急に誰か飛び出してきて、
+line2 <shift> # 顔面を強打してしまった。……って、美希か？」
+display
+com11 0 0
+sound 10006
+com4c 0 1
+name 0 0 <names:2>  # Miki
+line1 <shift> # 「あれ？　ぷ、プロデューサー」
+com09 0 19
+display
+location 19
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「や、やあ、美希。どうかしたのか？」
+display
+com11 0 0
+sound 10007
+com4c 0 1
+name 0 0 <names:2>  # Miki
+line1 <shift> # 「ううっ。ぐすっ。ミキは、ミキは……。
+line2 <shift> # うわあああーんっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、美希！　ちょっと待っ……」
+display <shift> # バタン！　ドンッ！
+display
+com11 0 0
+sound 10008
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「待ちたまえ、美希君ーっ！！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いてててっ！　急に誰か飛び出してきて、後頭
+line2 <shift> # 部を強打してしまった。今のは……、社長？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「すごい速さで走っていってしまったけど、
+line2 <shift> # 二人して、いったいどうしたんだろう？」
+display
+com11 0 0
+sound 10009
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「……はあ〜。見失ってしまった。
+line2 <shift> # 美希君は、足が速いんだな……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「社長！　どうしたんです？　美希と二人で、
+line2 <shift> # ずいぶん深刻そうな様子でしたけど」
+display
+com11 0 0
+sound 10010
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「おおっ！　君、いたのかね？　そういえば、
+line2 <shift> # さっき、何かにぶつかったかなと思ったんだが」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それは、思いっきり俺です！　でも、俺がいる
+line2 <shift> # のにも気づかない程、夢中になるなんて……」
+com03 0 3
+choice1 <shift> # 大事件ですか？
+line2
+com09 0 20
+com08
+choice2 <shift> # すごい集中力ですね
+line2
+com09 0 21
+com08
+choice3 <shift> # 恋のトラブルですか？
+line2
+com09 0 22
+com08
+com07
+com09 0 12
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もしや、大事件ですか？」
+display
+com11 0 0
+sound 10011
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「ああ、そうなんだ。実は美希君が、君を自分専
+line2 <shift> # 属の担当プロデューサーにしろと言い出してね」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「すごい集中力ですね。さすが、社長！
+line2 <shift> # よっ！　男前っ！」
+display
+com11 0 0
+sound 10012
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「いや〜、お世辞は、やめたまえよ、君ぃ。男前
+line2 <shift> # は、集中力と関係ないだろう？　はっはっはっ」
+display
+com11 0 0
+sound 10013
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「……などと、のんびり話している場合では、
+line2 <shift> # ないのだよ！　ノンキだなあ、君はっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （せっかくホメたのに、怒られてしまった……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「はあ、すみません。
+line2 <shift> # で、何が、あったんですか？」
+display
+com11 0 0
+sound 10014
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「それが……。実は美希君が、君を自分専属の、
+line2 <shift> # 担当プロデューサーにしろと言い出してね」
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もしかして、恋のトラブルですか？」
+display
+com11 0 0
+sound 10015
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「……そんなワケないだろう？　今は、そんな
+line2 <shift> # バカげた冗談を言っている時では、ないのだよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うっ……。ものすごく冷静に、
+line2 <shift> # 怒られてしまった！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「す、すみません！　ちょっとフザけすぎました。
+line2 <shift> # えっと……。それじゃ、何があったんですか？」
+display
+com11 0 0
+sound 10016
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「うむ……。実は、美希君が、君を自分専属の、
+line2 <shift> # 担当プロデューサーにしろと言い出してね」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええっ！　俺を？」
+display
+com11 0 0
+sound 10017
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「もちろん、ダメだと言ったんだが、その他にも、
+line2 <shift> # 色々な、私との考え方の相違があって……」
+display
+com11 0 0
+sound 10018
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「結果的に、ずいぶんと怒らせてしまったよ。
+line2 <shift> # 困ったものだ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それで、美希を、このまま放っておいて、
+line2 <shift> # 大丈夫なんですか！？」
+display
+com11 0 0
+sound 10019
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「いや、追いかけたのだが、逃げられてしまって
+line2 <shift> # ね。電話にも出てくれないし……」
+display
+com11 0 0
+sound 10020
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「だが、そのうち戻ってくるだろう。なんにせよ、
+line2 <shift> # 君が気にするようなことでは、ないよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「は、はい」
+display
+com11 0 0
+sound 10021
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「この機会に美希君が、色々考えて、少しは、
+line2 <shift> # 大人に、成長してくれればいいんだが……」
+display
+com11 0 0
+sound 10022
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「まあ、君は、君の担当アイドルのプロデュース
+line2 <shift> # に全力を尽くしてくれたまえ。では、また後で」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （美希のことも気になるけど、社長の指示通り、
+line2 <shift> # 俺は俺の仕事を、するべきだよな……）
+com09 0 99
+display
+location 99
+unk02

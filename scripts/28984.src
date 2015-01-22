@@ -1,0 +1,333 @@
+com50 0 31
+com2c 0 24
+com32 0 0
+com2d 0 41
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （仕事の合間のオフ時間、自由行動にしたかった
+line2 <shift> # が、外は、あいにくの悪天候だ……）
+display
+com11 0 0
+sound 200
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「雨、だいぶ強くなってきていますね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「せっかくのオフ時間なのに、
+line2 <shift> # これでは動けないな」
+display
+com11 0 0
+sound 201
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「でも、オフなのが、せめてもの幸いでしたね」
+com03 0 2
+choice1 <shift> # そうだな
+com09 0 10
+com08
+choice2 <shift> # そうだが……
+line2
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだな。そうとも言える」
+display
+com11 0 0
+sound 202
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「レッスンも仕事の予定も、
+line2 <shift> # 今は、ありませんし」
+display
+com11 0 0
+sound 203
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「それに、たとえ動けなくても……、
+line2 <shift> # 誰にも、とがめられはしないですから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「落ち着いてるなぁ、千早は」
+display
+com11 0 0
+sound 204
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そうでしょうか？　ああ、でも……」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それもそうなんだけど、晴れてれば、外で鬼
+line2 <shift> # ごっことか、かくれんぼとか出来たじゃないか」
+display
+com11 0 0
+sound 205
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「え……。かくれんぼ？
+line2 <shift> # したかったんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、たとえばだよ。晴れてればもっと何か出
+line2 <shift> # 来ただろうなって。もったいない気がしないか」
+display
+com11 0 0
+sound 206
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「もったいない？　そうですか？
+line2 <shift> # そう言われると、確かに……」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 207
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あまり、この雨と風が長引くと、私も、
+line2 <shift> # したいことができなくて、困りそうです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だろ？　千早だってやっぱり、
+line2 <shift> # オフには出かけたり、したいもんな」
+display
+com11 0 0
+sound 208
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。少し考えてみると、実は、
+line2 <shift> # やりたいことが、たくさんあって」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「何かな。手伝おうか？」
+display
+com11 0 0
+sound 209
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「レッスンの遅れを、とり戻したり、
+line2 <shift> # 次の仕事へ向けての課題を……」
+display
+com11 0 0
+sound 210
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「それにジムで、汗も流したいですし、
+line2 <shift> # ボイストレーニングも」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「待った待った、千早。仕事関連のことばかり
+line2 <shift> # じゃないか？　休みなんだから、休もうよ」
+display
+com11 0 0
+sound 211
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「でも、せっかく自由に使える時間が、
+line2 <shift> # あるんですから……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「オフタイムなんだから。仕事は忘れて、
+line2 <shift> # プライベートに有効に使ったら？」
+display
+com11 0 0
+sound 212
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そんなこと、急に言われても……。
+line2 <shift> # それに、この天気ですよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まぁ、天気は仕方ないな。
+line2 <shift> # 出歩くのは厳しいか。じゃあ……」
+com03 0 3
+choice1 <shift> # 何もするな
+com09 0 20
+com08
+choice2 <shift> # 簡単な課題を
+line2
+com09 0 21
+com08
+choice3 <shift> # 何をするか考えようか
+line2
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「何もするな、休め」
+display
+com11 0 0
+sound 213
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「何もするな、というのは、命令ですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだね。そう受けとってもらっていいよ」
+display
+com11 0 0
+sound 214
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そんな……。落ち着きません。
+line2 <shift> # 時間があるのに、何もしないわけには」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃ、せめて仕事に関係ないことを、
+line2 <shift> # してくれ。ここで、できる範囲で」
+display
+com11 0 0
+sound 215
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「事務所にいるのに、仕事に関係ないことを、
+line2 <shift> # するんですか……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ダメかな？　なら、休けいだ」
+display
+com11 0 0
+sound 216
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「わかりました。つまりこれも、
+line2 <shift> # 必要な時間、ということですね」
+display
+com11 0 0
+sound 217
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「それでは……、外の雨と風がやむまで、
+line2 <shift> # 休みます」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （千早は窓の外を眺めつつ、ソファにもたれて、
+line2 <shift> # そのうち、ゆっくりと目を伏せた）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （何もしない時間も、次につながる。無意味じゃ
+line2 <shift> # ないんだ。って、わかってくれたかな……）
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺が簡単な課題を出そう。
+line2 <shift> # この場でできる、軽い課題をね」
+display
+com11 0 0
+sound 218
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「お願いします。なんだか、このまま時間を
+line2 <shift> # 過ごしていると、持て余してしまって……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃあ、窓の外の、
+line2 <shift> # 雨だれの音を、きいてみてくれ」
+display
+com11 0 0
+sound 219
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「雨だれの音、ですか……、はい。
+line2 <shift> # きこえます。それから？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、きくだけだ。課題は以上」
+display
+com11 0 0
+sound 220
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「きくだけですか？
+line2 <shift> # それじゃ、何の意味も……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いやいや、よーくきいてくれ。
+line2 <shift> # それだけでいい。飽きたら、やめてもいい」
+display
+com11 0 0
+sound 221
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そんないい加減な……、あっ。この雨の音……、
+line2 <shift> # リズムや音程が、変化してる？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「その変化を、つかみとってくれ。それだけなら、
+line2 <shift> # 負担にならないし、歌のカンも鈍らないだろ？」
+display
+com11 0 0
+sound 222
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「わかりました。ありがとうございます。
+line2 <shift> # もう少し身を入れて、きいてみます」
+display
+com11 0 0
+sound 223
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「この雨、まるで音楽みたいですね……。
+line2 <shift> # プロデューサーにも、きこえますか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （千早は落ち着いた様子で、窓の外の雨の音を、
+line2 <shift> # じっとききながら、軽くハミングを始めた）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （本当は、ゆっくり休んで欲しかったが、千早は、
+line2 <shift> # 楽しげにしているから、よしとするか……）
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「これから何をするか、考えようか」
+display
+com11 0 0
+sound 224
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「どういうことです？　私にはもう、
+line2 <shift> # やりたいことが、いろいろと……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「何から何まで、全部は、できないだろう？
+line2 <shift> # だから、どうするか、じっくり考えよう」
+display
+com11 0 0
+sound 225
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「何からはじめるか考える、
+line2 <shift> # ということですか……。一理ありますね」
+display
+com11 0 0
+sound 226
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あの……、ですけど、それを長々と考えては、
+line2 <shift> # 時間のロスが大きいのでは？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「時間は、まだまだあるんだから、いいじゃ
+line2 <shift> # ないか。ま、姿勢を楽にして、考えようよ」
+display
+com11 0 0
+sound 227
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……プロデューサー、もしかして、
+line2 <shift> # 私を無理に休ませようとしていませんか」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そんなことはないぞ。千早こそ、
+line2 <shift> # もっと大らかに余裕持って、考えたらどうだ？」
+display
+com11 0 0
+sound 228
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「余裕無いように見えますか、私……？」
+display
+com11 0 0
+sound 229
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「失礼しました。確かに私、焦っていたかも
+line2 <shift> # しれません。休むことも、必要なのに」
+display
+com11 0 0
+sound 230
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ちょっと隣の部屋で、
+line2 <shift> # 頭を冷やしてきます……。すみません」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ……。ち、千早！　……行ってしまった」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （自由な時間の過ごし方に、千早は、
+line2 <shift> # 慣れていなかったんだろうか）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （休ませようとして、逆に俺が、追いつめて
+line2 <shift> # しまったみたいだな……。すまない、千早）
+com09 0 29
+display
+location 29
+unk02

@@ -1,0 +1,480 @@
+com2c 0 24
+com2d 0 41
+com32 0 0
+com11 0 0
+sound 10000
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサー。さっき、取材を受けている時、
+line2 <shift> # 雑誌の記者が、おもしろいことを……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え？　なにを言ってたんだ？」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「私の、困った顔を見たいっていうファン……。
+line2 <shift> # すごく、多いらしいです」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「おかしな人が、いるんですね。
+line2 <shift> # どうして、そういう気持ちになるんでしょう？」
+com03 0 3
+choice1 <shift> # いつも、冷静そうだから
+line2
+com09 0 10
+com08
+choice2 <shift> # 高飛車に見えるから
+line2
+com09 0 11
+com08
+choice3 <shift> # 感情がなさそうだから
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いつも、冷静そうだからじゃないか？　イタ
+line2 <shift> # ズラして、どんな顔するか、見てみたいんだよ」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あ、そういうこと……。
+line2 <shift> # すこし、わかる気がします」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「高飛車に見えるからじゃないか？　イタズラ
+line2 <shift> # して、はいつくばらせて、やりたいんだよ」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「私……、高飛車でしょうか？
+line2 <shift> # プロデューサーにも、そう見えますか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、俺はそうは思わないよ。これは、
+line2 <shift> # ファンから見た、イメージの話だから……」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「感情がなさそうだからじゃないか？　イタズラ
+line2 <shift> # して、どんな反応するか、見てみたいんだよ」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「私、ちゃんと感情ありますよね？
+line2 <shift> # 笑いもしますし、時には、泣くことも……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「い、いや、これはイメージの話だから。
+line2 <shift> # ファンの印象と、実際は別だよ」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 10006
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あの……。プロデューサーも、私の困った顔、
+line2 <shift> # 見てみたいですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「は？　なに言うんだ、突然……」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「いえ、そういうこと、されたことないもので。
+line2 <shift> # どんな気分なのかなって……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「知りたいなら、俺が困らせてあげようか？」
+display
+com11 0 0
+sound 10041
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「え……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、もちろん、本当に千早を困らせるようなこ
+line2 <shift> # とはできないから、困らせるフリするだけだぞ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「千早も困ってる演技で応えてくれれば、
+line2 <shift> # 雰囲気は、味わえるんじゃないかな？」
+display
+com11 0 0
+sound 10042
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そうですね。
+line2 <shift> # では、演技の練習ということで、少しだけ」
+display
+com11 0 0
+sound 10043
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あ、あの、あくまで演技ですから、
+line2 <shift> # おかしな誤解は、しないで下さいね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わかったわかった。それじゃいくぞ。俺がここ
+line2 <shift> # を触った、という前提で演技してくれ。えい！」
+com0e 1 157
+com44
+com09 0 30
+com45
+com44
+com09 0 31
+com45
+com44
+com09 0 32
+com45
+com44
+com09 0 33
+com45
+com44
+com09 0 34
+com45
+com44
+com09 0 35
+com45
+com44
+com09 0 36
+com45
+com44
+com09 0 37
+com45
+display
+location 30
+com11 0 0
+sound 10009
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「え？　髪をなでられても、
+line2 <shift> # 特に困った気持ちには……」
+com09 0 91
+display
+location 31
+com11 0 0
+sound 10010
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「え？　顔、なでられても、
+line2 <shift> # 特に困った気持ちには……」
+com09 0 91
+display
+location 91
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そうか？　じゃ、今度こそ、
+line2 <shift> # ちゃんと困らせるから、そういう顔してくれよ」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はい……。せっかくですから、雰囲気、
+line2 <shift> # 出したいと思います。ど、どうぞ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それじゃ、俺が、ここを触った、
+line2 <shift> # という前提で演技してくれ。えい！」
+com0e 1 156
+com44
+com09 0 50
+com45
+com44
+com09 0 51
+com45
+com44
+com09 0 52
+com45
+com44
+com09 0 53
+com45
+com44
+com09 0 54
+com45
+com44
+com09 0 55
+com45
+com44
+com09 0 56
+com45
+display
+location 32
+com11 0 0
+sound 10012
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あ……。う……、これが……」
+com09 0 92
+display
+location 33
+com11 0 0
+sound 10013
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あ！　う……」
+com09 0 92
+display
+location 34
+com11 0 0
+sound 10014
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ふ……」
+com09 0 92
+display
+location 35
+com11 0 0
+sound 10015
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「うっ！　う……」
+com09 0 92
+display
+location 36
+com11 0 0
+sound 10016
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ふ……、こ、これが……」
+com09 0 92
+display
+location 92
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （おっ。千早、案外演技も上手いな！
+line2 <shift> # よーし……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もうちょっと、困っているような雰囲気、
+line2 <shift> # 出せるか？　その方が、盛り上がると……」
+display
+com11 0 0
+sound 10017
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「わ、わかりました。では、もう一度……。
+line2 <shift> # どうぞ」
+com0e 1 156
+com44
+com09 0 50
+com45
+com44
+com09 0 51
+com45
+com44
+com09 0 52
+com45
+com44
+com09 0 53
+com45
+com44
+com09 0 54
+com45
+com44
+com09 0 55
+com45
+com44
+com09 0 56
+com45
+display
+location 37
+com11 0 0
+sound 10018
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサー、どうしたんです？
+line2 <shift> # 私を困らせてくれないんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いざとなると、勇気がいるな……」
+display
+com11 0 0
+sound 10019
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「気にせず、思い切り、お願いします。
+line2 <shift> # こういうのも、たまには……」
+display
+com11 0 0
+sound 10044
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あ、でも、決して楽しくなってきたとか、
+line2 <shift> # そういうことじゃなくて、あの……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わかってるって。演技の勉強だよな」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それじゃ次は、俺が、ここを触った、
+line2 <shift> # という前提で演技してくれ。えいっ！」
+com0e 1 156
+com44
+com09 0 50
+com45
+com44
+com09 0 51
+com45
+com44
+com09 0 52
+com45
+com44
+com09 0 53
+com45
+com44
+com09 0 54
+com45
+com44
+com09 0 55
+com45
+com44
+com09 0 56
+com45
+display
+location 50
+com11 0 0
+sound 10020
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「え？　えーと……、プロデューサー、なでても、
+line2 <shift> # 困らせたことには……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、まあ……、これくらいで、やめとこう。
+line2 <shift> # わざと困らせるのって、楽しいもんじゃないし」
+com09 0 93
+display
+location 51
+com11 0 0
+sound 10021
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「や、やめて、下さい……。
+line2 <shift> # そんなところ、いじらないで……」
+com09 0 94
+display
+location 52
+com11 0 0
+sound 10022
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「い……、い、や……、です。
+line2 <shift> # そんなところ、さわらないで……」
+com09 0 94
+display
+location 53
+com11 0 0
+sound 10023
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「い……、い、や……、です。
+line2 <shift> # そんなところ、なでないで……」
+com09 0 94
+display
+location 54
+com11 0 0
+sound 10024
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ああっ！　痛いです！
+line2 <shift> # お、お願いですから、許して下さい……！」
+com09 0 94
+display
+location 55
+com11 0 0
+sound 10025
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「は……。こ、困ります。
+line2 <shift> # そんなところ、なでまわさない……、で」
+com09 0 94
+display
+location 94
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ちょっと、俺は触ってないぞ！？」
+display
+com11 0 0
+sound 10045
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ですから、演技です」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、そうか……。迫真の演技だな、千早！」
+display
+com11 0 0
+sound 10046
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ま、真顔で感想を言わないで下さい！
+line2 <shift> # ご、ごほん！」
+display
+com11 0 0
+sound 10026
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……こ、こんな感じで、
+line2 <shift> # 雰囲気、出ましたか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、困らせてる気分、満喫できた」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それに、何だか素晴らしい演技だったぞ！
+line2 <shift> # 千早は演技も上手いんだな。感動した」
+display
+com11 0 0
+sound 10027
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「私も、たっぷり、困らされた気分に……。
+line2 <shift> # ファンは、こういうこと、したいんですね」
+display
+com11 0 0
+sound 10047
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「でも、不思議と、イヤな気は……」
+display
+com11 0 0
+sound 10048
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ご、ごほん！　いえ、なんでもありません。
+line2 <shift> # レッスンありがとうございました」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （レッスンになったのかどうかはわからないけど、
+line2 <shift> # 千早のためになったに違いない……、多分）
+com09 0 69
+display
+location 56
+com11 0 0
+sound 10029
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あのー、プロデューサー？　どうしたんです？
+line2 <shift> # わ、私……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや……、やめておくよ。
+line2 <shift> # わざと困らせるのって、楽しいもんじゃないし」
+com09 0 93
+display
+location 93
+com11 0 0
+sound 10030
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「肩すかしをくらったような……。
+line2 <shift> # すこし、スッキリしません」
+display
+com11 0 0
+sound 10031
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「でも、そうですね。そんな気分、知らないに
+line2 <shift> # 越したことは、ないのかもしれません」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なんだったら、別の人に、
+line2 <shift> # 頼んでみたらどうだ？　私を困らせてって」
+display
+com11 0 0
+sound 10032
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「それは、さすがに……。プロデューサー以外の
+line2 <shift> # 人は、信用しきれませんから……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （顔をしかめている。うーん、遊びなんだし、
+line2 <shift> # もっとしっかり、つき合うべきだったかな）
+com09 0 69
+display
+location 69
+unk02

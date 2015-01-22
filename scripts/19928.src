@@ -1,0 +1,283 @@
+com2c 0 25
+com2d 0 51
+com32 0 0
+com11 0 0
+sound 10000
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「それではー、親睦（しんぼく）を深めるための
+line2 <shift> # ミーティング、はじめー、ですね。ふふっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まだお互い、知らないことばかりですもんね。
+line2 <shift> # あずささんは、この事務所にくる前、なにを？」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ここにくる前……？　えーとー、
+line2 <shift> # 近所で、お買い物をしていましたー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「い、いえ、そういうことじゃなくて……。
+line2 <shift> # 『どこで』『なにを』していたかってことです」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「え？　あ、つまり、
+line2 <shift> # もっとくわしく、ということですか？」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「買い物に行ったのは、近所の輸入食品屋さんで、
+line2 <shift> # 買ったのは、紅茶の葉っぱですー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あのー、あずささん、もしかして……」
+com03 0 3
+choice1 <shift> # わざと、ボケてます？　
+line2
+com09 0 10
+com08
+choice2 <shift> # 天然ですか？　
+line2
+com09 0 11
+com08
+choice3 <shift> # 俺のこと、バカにしてます？　
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わざと、ボケてます？　俺がききたいのは、
+line2 <shift> # アイドルめざす前に、なにをやっていたかで」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「……あ、そういう意味！　すみませんー。
+line2 <shift> # 事務所に入る前は、短大生をしていましたー」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「天然ですか？」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「さあ、どうなのでしょう？　そもそも、紅茶の
+line2 <shift> # 葉っぱに、天然とか養殖とか、あるのですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そうじゃなくて……。俺が聞きたいのは、
+line2 <shift> # アイドルめざす前に、なにをやっていたかで」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「え……？　あっ、すみませんー！　じ、
+line2 <shift> # 事務所に入る前は、短大生をしていましたー」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺のこと、バカにしてます？」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「え？　そんなこと、ないですー。
+line2 <shift> # どうして、そんなこわい顔を……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「す、すみません、疑って。つまり俺が聞きたい
+line2 <shift> # のは、アイドルめざす前、何をやっていたかで」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「……あ！　そ、そういうことだったんですねっ。
+line2 <shift> # えっと、事務所に入る前は、私、短大生でした」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10009
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「どうにか卒業できたので、つぎはアイドルを
+line2 <shift> # めざそうって」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「歌の経験とか、ないのですけれど……、
+line2 <shift> # ５年くらいかければ、なんとかなりますよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ご、５年っ？　それは、いくらなんでも、時間
+line2 <shift> # かけすぎですよ。そんなにかけたら……」
+com03 0 2
+choice1 <shift> # 商売あがったり、です！　
+line2
+com09 0 20
+com08
+choice2 <shift> # オバサンになってしまいます！　
+line2
+com09 0 21
+com08
+com07
+com09 0 21
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「商売あがったり、です！　プロモだって、
+line2 <shift> # タダじゃないんですから」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、そうですよね。あまりノンビリ
+line2 <shift> # やりすぎると、事務所にご迷惑が……」
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「オバサンになってしまいます！」
+display
+com11 0 0
+sound 10012
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「オバサンまでは、いかないと思いますけど？
+line2 <shift> # ５年たっても、私、２０代ですし……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あああ、すみません。失言でしたっ。
+line2 <shift> # けど、５年はやっぱり、長すぎです」
+display
+com11 0 0
+sound 10013
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「んー、そうでしょうか。たしかに、あまり
+line2 <shift> # ノンビリしていたら、事務所にご迷惑が……」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 10014
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「でも、私、急いでなにかをやるのって、とても
+line2 <shift> # 苦手なんですー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「話口調とか、聞いてると、そんな感じですね。
+line2 <shift> # どっちかっていうと、マイペース型？」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はい、そうなんです。それも、思いっ切り……。
+line2 <shift> # これ、やはり直さないと、ダメでしょうか？」
+com03 0 3
+choice1 <shift> # そのままでも、いいですよ　
+line2
+com09 0 30
+com08
+choice2 <shift> # できる範囲で、直しましょう　
+line2
+com09 0 31
+com08
+choice3 <shift> # 必死に、自己改造を！　
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そのままでも、いいですよ。いやし系アイドル
+line2 <shift> # ってことで、人気が出るかもしれませんし」
+display
+com11 0 0
+sound 10016
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ほ、本当ですか？　そう言ってもらえると、
+line2 <shift> # うれしいですっ。すこし希望が……！」
+display
+com11 0 0
+sound 10017
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「聞いてみて、よかったですー。これからも、
+line2 <shift> # いろいろ相談にのって下さいね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （バッチリ感謝された！　ありのままを認めて
+line2 <shift> # あげたのが、よかったみたいだな）
+com09 0 39
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「できる範囲で、直しましょう。芸能界では、
+line2 <shift> # スピードも、大切ですから」
+display
+com11 0 0
+sound 10018
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「どのくらい、直せるかしら。もしかして私って、
+line2 <shift> # 元々、芸能界に向かない人間だったとか」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、それは、やってみないとわからないですよ。
+line2 <shift> # 前向きに、いきましょう」
+display
+com11 0 0
+sound 10019
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はあ……。場合によっては、プロデューサー
+line2 <shift> # さんに、すごい負担がいってしまうかも……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （軽くいさめただけなのに、沈んでしまった。
+line2 <shift> # ありのままを認めてあげた方が、よかったか）
+com09 0 39
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「必死に、自己改造を！　ノンビリしてたら、
+line2 <shift> # たちまち脱落するのが、芸能界です！」
+display
+com11 0 0
+sound 10020
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「まあ、それでは、私、アイドルなんて、
+line2 <shift> # とてもやっていけないかも……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなこと言わずに、がんばりましょうよ。
+line2 <shift> # ほら、ガッツを出さないと！」
+display
+com11 0 0
+sound 10021
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「は、はい……。でも、不安で……。
+line2 <shift> # 私、根っから、こういう性格なので……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ハッパをかけたら、縮み上がってしまった。
+line2 <shift> # うーん、完全に逆効果だったな）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （……その後、ミーティングの時間いっぱい
+line2 <shift> # かけて、なんとか元気を取り戻させた）
+com09 0 39
+display
+location 39
+unk02

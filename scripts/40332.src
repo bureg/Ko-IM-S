@@ -1,0 +1,472 @@
+com2c 0 17
+com2c 0 210
+com2d 0 71
+com32 0 0
+com11 0 0
+sound 0
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「プロデューサー、聞きました？　あのディレク
+line2 <shift> # ターさん、編成部長に昇進したらしいですよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あのディレクターさんって、誰だ？」
+display
+com11 0 0
+sound 1
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ほら、ずっと前のドラマの時、お世話になった
+line2 <shift> # ディレクターさんですよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、あの人か。律子がまだ駆け出しの頃、
+line2 <shift> # 拝み倒してドラマに出してもらったんだよな」
+display
+com11 0 0
+sound 2
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ええ、セリフもない端役でしたけど。
+line2 <shift> # あ、なんかイヤなこと思い出しちゃった……」
+display
+com11 0 0
+sound 3
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「夏の設定のドラマだけど、撮影は春先。
+line2 <shift> # しかもとびきり寒い日で……」
+display
+com11 0 0
+sound 4
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「鳥肌出しまくりながら撮影したんですよね……
+line2 <shift> # 気温１０度なのにノースリーブで！！」
+com03 0 3
+choice1 <shift> # 輝かしい過去だな
+line2
+com09 0 11
+com08
+choice2 <shift> # 切ない過去だな
+line2
+com09 0 12
+com08
+choice3 <shift> # ただの昔話さ
+line2
+com09 0 13
+com08
+com07
+com09 0 13
+com08
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「輝かしい過去だな」
+display
+com11 0 0
+sound 5
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「どこも輝いてませんって」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「今成功して輝いているアイドルの
+line2 <shift> # 下積み時代だ。輝かしい過去じゃないか」
+display
+com11 0 0
+sound 6
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「なるほど。そういうとらえ方は、アリか……」
+display
+com11 0 0
+sound 7
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「でも、今成功してる……なんて、軽々しく
+line2 <shift> # 口にしないでくださいよぉ」
+display
+com11 0 0
+sound 8
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「これから、もっともっと成功していかないと
+line2 <shift> # いけないんですからね！」
+com09 0 14
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「切ない過去だな」
+display
+com11 0 0
+sound 9
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ええ。こうして思い出すだけで、よみがえって
+line2 <shift> # きます。骨にしみるような、あの時の寒さ……」
+display
+com11 0 0
+sound 10
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「いけない。なんだかどんどん
+line2 <shift> # 滅入ってきたわ……」
+com09 0 14
+display
+location 13
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ただの昔話さ」
+display
+com11 0 0
+sound 11
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「何を気取ってるんです？
+line2 <shift> # 全く似合わないこと、この上なしですよ！」
+display
+com11 0 0
+sound 12
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「それに、プロデューサーは撮影に参加してない
+line2 <shift> # から、そんなことが言えるんですっ」
+display
+com11 0 0
+sound 13
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「あの時の私の気持ちを理解するために、氷点下
+line2 <shift> # の空の下、Ｔシャツ１枚で立ってみますか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「な、なんで氷点下なんだよ？
+line2 <shift> # 気温は１０度だったんだろ？」
+display
+com11 0 0
+sound 14
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そのぐらいのことしないと、プロデューサー
+line2 <shift> # にはわかってもらえない気がするのよね……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ごめん、わかりたくないかも……」
+com09 0 14
+display
+location 14
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「で、あの時のディレクターさんが編成部長だっ
+line2 <shift> # て？　一足飛びの大出世だな。本当か？」
+display
+com11 0 0
+sound 15
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「スタッフさんが話してたの、小耳にはさんだん
+line2 <shift> # です。でも、裏は取りましたよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……なんだか、探偵みたいだな」
+display
+com11 0 0
+sound 16
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「で、これからご挨拶に行こうかなと
+line2 <shift> # 思うんですけど、どうです？」
+com03 0 3
+choice1 <shift> # 手みやげ持ってきてないぞ
+line2
+com09 0 21
+com08
+choice2 <shift> # いいね、行こう
+line2
+com09 0 22
+com08
+choice3 <shift> # ゴマすりは必要ない
+line2
+com09 0 23
+com08
+com07
+com09 0 23
+com08
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う〜ん、手みやげ持ってきてないしなぁ」
+display
+com11 0 0
+sound 17
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「まあ、聞いたのがついさっきですしね。
+line2 <shift> # 今回はご挨拶だけで、いいんじゃないですか？」
+display
+com11 0 0
+sound 18
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「でも、そんなところに気づくなんて、
+line2 <shift> # 意外とマメなんですね、プロデューサー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そりゃ、手みやげひとつで印象も変わるから
+line2 <shift> # な。好印象を与えておいて、損はないだろ？」
+com09 0 24
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いいね、行こう。
+line2 <shift> # 久しぶりに顔を見せておきたいし」
+display
+com11 0 0
+sound 19
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「了解です。本当なら、お祝いの品のひとつも
+line2 <shift> # 持っていきたいところですけど……」
+display
+com11 0 0
+sound 20
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「今日は顔見せだけで、許してもらいましょう」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お祝いの品か……。そんなところに気づく
+line2 <shift> # なんて、律子はマメだな！」
+display
+com11 0 0
+sound 21
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「どこかの誰かさんが、プロデューサーにしては
+line2 <shift> # ズボラなだけじゃないんですか〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うっ……痛いところをつくなあ」
+com09 0 24
+display
+location 23
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ゴマすりなんてする必要ないよ」
+display
+com11 0 0
+sound 22
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「甘い！　甘すぎますっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「な、なんだよ……」
+display
+com11 0 0
+sound 23
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「同じ実力、同じギャラのアイドルが２人。
+line2 <shift> # でも依頼したい仕事は１つだけ……」
+display
+com11 0 0
+sound 24
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そんな時は、顔見知りの人のほうに
+line2 <shift> # 仕事をふると思いませんか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「むぅ……確かにそうだな」
+display
+com11 0 0
+sound 25
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「別にゴマをすらなくてもいいんです。
+line2 <shift> # でも、顔はつないでおいた方がいいでしょ？」
+com09 0 24
+display
+location 24
+com11 0 0
+sound 26
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「というわけで、ご挨拶に向かいましょう。
+line2 <shift> # ついでに編成部の人にも顔を売らないとね」
+display
+com11 0 0
+sound 27
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そうそう。プロデューサー、あのディレクター
+line2 <shift> # の弟さんも、編成部にいること、知ってます？」
+display
+com11 0 0
+sound 28
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「かなりそっくりな兄弟らしいですけど、二人を
+line2 <shift> # 間違えたりは、絶対しないで下さいよ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「弟のほうは別に昇進してないんだもんな。
+line2 <shift> # 間違えたら、失礼すぎるよな」
+display
+com11 0 0
+sound 29
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そういうこと。気をつけて下さいね！
+line2 <shift> # では、行きましょうか」
+display
+com22 0 30
+com21 0 30
+com32 0 1
+com11 0 0
+sound 30
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「おはようございます！
+line2 <shift> # あの、私、以前お世話になった……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （律子……どっちに挨拶してるんだ？　なんか、
+line2 <shift> # そっくりな人が隣同士の机に並んでるけど……）
+display
+com11 0 0
+sound 31
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # （え？　あ、本当だ。そっくり！　……って感心
+line2 <shift> # してる場合じゃないですよ、プロデューサー！）
+display
+com11 0 0
+sound 32
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # （ど、どっちがお兄さんのほうですか？
+line2 <shift> # 早く見分けて下さいっ！）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （そ、そんなこと言われても……ここまで
+line2 <shift> # そっくりだと、どっちがどっちやら……？）
+display
+com11 0 0
+sound 33
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # （コソコソ話してたら、不審に思われちゃい
+line2 <shift> # ますから、早くっ！）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ううっ。こうなれば、一か八かだ！）
+com03 0 2
+choice1 <shift> # 右がお兄さんだ！
+line2
+com09 0 35
+com08
+choice2 <shift> # 左がお兄さんだ！
+line2
+com09 0 36
+com08
+com07 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64
+com09 0 34
+com08
+display
+location 35
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （右がお兄さんだ！）
+com09 0 37
+display
+location 36
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （左がお兄さんだ！）
+com09 0 37
+display
+location 37
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おはようございます、
+line2 <shift> # 以前お世話になりました秋月律子です」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「この度は編成部長就任、本当に
+line2 <shift> # おめでとうございます」
+display
+com11 0 0
+sound 34
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「お、おめでとうございます」
+com37 0 1
+com1e 0 0
+com09 0 32
+com3b
+com37 0 0
+com1e 0 0
+com09 0 33
+com3b
+display
+location 34
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （こっちがお兄さんだ！）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おはようございます、
+line2 <shift> # 以前お世話になりました秋月律子です」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「この度は編成部長就任、本当に
+line2 <shift> # おめでとうございます」
+display
+com11 0 0
+sound 34
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「お、おめでとうございます」
+com09 0 33
+display
+location 32
+name 0 2 <names:3>  # Director
+line1 <shift> # 「ああ、秋月さんか。覚えてますよ。
+line2 <shift> # それにしても、情報早いね〜！」
+display
+com11 0 0
+sound 35
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ええ。先ほど、聞いたんです。それで早速
+line2 <shift> # プロデューサーとご挨拶に……と」
+display
+name 0 2 <names:3>  # Director
+line1 <shift> # 「うれしいこと言ってくれるじゃないの。
+line2 <shift> # おい弟、おまえんところで彼女使ってくれ」
+display
+name 0 2 <names:4>  # Director's brother
+line1 <shift> # 「兄貴、そういうの職権乱用って言うんだよ」
+display
+com11 0 0
+sound 36
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「あはは、まずはご挨拶だけですから……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、ここでの心証がよかったためか、
+line2 <shift> # さっそく律子が新番組のゲストに呼ばれた！）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （偶然とはいえ、お兄さんを当てられて
+line2 <shift> # 本当によかったな……）
+com4b 0 0
+com09 0 69
+display
+location 33
+name 0 2 <names:4>  # Director's brother
+line1 <shift> # 「……え？　違う違う、俺は弟。全然、
+line2 <shift> # 部長じゃないから。平社員だから」
+display
+com11 0 0
+sound 37
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「えっ！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「失礼しました。す、すみません！」
+display
+name 0 2 <names:3>  # Director
+line1 <shift> # 「ひどいな〜、間違えるなんてさぁ。
+line2 <shift> # 仕事、まわしてあげてたのに」
+display
+com11 0 0
+sound 38
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「あの……よく似てらっしゃるので、
+line2 <shift> # つい間違えたんだと思います」
+display
+name 0 2 <names:3>  # Director
+line1 <shift> # 「ちょっとショックだよな〜。
+line2 <shift> # 俺はちゃんと秋月さんのこと、覚えてたよ？」
+display
+name 0 2 <names:4>  # Director's brother
+line1 <shift> # 「ははっ。
+line2 <shift> # 兄貴、嫌われてたんじゃないの？」
+display
+com11 0 0
+sound 39
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そ、そうじゃありませんよぉ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （結局、なんとか必死にフォローしたものの、
+line2 <shift> # その後は音沙汰なし……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ああ。あそこで当てていれば、もしかしたら
+line2 <shift> # 今頃仕事が……？　悔やんでも悔やみきれない）
+com4b 0 2
+com09 0 69
+display
+location 69
+unk02

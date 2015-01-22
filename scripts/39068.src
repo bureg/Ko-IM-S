@@ -1,0 +1,374 @@
+com2c 0 86
+com2d 0 71
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ベテランブルースシンガーのソロライブ、
+line2 <shift> # なかなかいいもんだな」
+display
+com11 0 3
+sound 600
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ええ、ききごたえがあって……。社長の
+line2 <shift> # オススメなだけのことはありましたね、むにゃ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだなぁ、重厚なサウンドで……、って、
+line2 <shift> # なんだ律子、ずいぶん眠そうにしてるなぁ」
+display
+com11 0 3
+sound 633
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ふぁあ……、すみません。ほんと言うと、眠く
+line2 <shift> # て眠くて。だからあんまり歌はきいてなくって」
+display
+com11 0 3
+sound 602
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「どうやらなんとなく、内容は、
+line2 <shift> # 良かったみたいだけど……」
+com03 0 3
+choice1 <shift> # なんで寝ちゃうんだ
+line2
+com09 0 10
+com08
+choice2 <shift> # 疲れてるのか
+line2
+com09 0 11
+com08
+choice3 <shift> # 淡々と感想を伝える
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「こら！　なんで寝ちゃうんだっ！」
+display
+com11 0 3
+sound 603
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「な、なにいきなり大声、
+line2 <shift> # 出してるんですかぁ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「せっかくいいライブだったのに、
+line2 <shift> # ちゃんと見ていないとはっ。もったいない」
+display
+com11 0 3
+sound 604
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「目は、つぶってても、きいてましたよぉ……。
+line2 <shift> # 半分、夢の中でしたけど」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなに眠いなんて、疲れてるのか？」
+display
+com11 0 3
+sound 605
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「べ、別に。平気です。
+line2 <shift> # 単に、寝不足なだけですよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「寝足りないほど忙しかったのか」
+display
+com11 0 3
+sound 606
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「まぁ、いろいろと……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「しかし、もったいない。
+line2 <shift> # せっかく、いいライブだったのに」
+display
+com11 0 3
+sound 607
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「でも、ライブの音は、きいてましたよ？
+line2 <shift> # ちょっと夢の中でしたけど……」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あの歌、本場で相当修業を積んだんだろうな。
+line2 <shift> # 染み渡るような声だった」
+display
+com11 0 3
+sound 608
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そうですねぇ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「バックバンドも優秀だ、みんな、
+line2 <shift> # 自己主張しつつも決して出張らない」
+display
+com11 0 3
+sound 609
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そうみたいですねぇ……。
+line2 <shift> # ふあぁ、むにゃむにゃ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ね、寝るなってば。人の話を聞け」
+display
+com11 0 3
+sound 610
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ね、寝てないですよ、まだ……。
+line2 <shift> # ライブ中も、半分以上、起きてましたよ」
+display
+com11 0 3
+sound 611
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「目はつぶって、きいてましたけど」
+com09 0 29
+display
+location 29
+com11 0 3
+sound 612
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ま、まぁ、要するに、寝るほど歌が、
+line2 <shift> # 心地よかったってことですよ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まったく、仕方のないヤツだな。
+line2 <shift> # さて、ステージも終わったし、引き上げるか」
+display
+com11 0 3
+sound 613
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「むぅ……、くぅくぅ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……って、言ったそばから、また寝てるし。
+line2 <shift> # ほら、律子起きろ、もう帰るぞ？」
+com0e 2 93
+com44
+com09 0 30
+com45
+com44
+com09 0 31
+com45
+com44
+com09 0 32
+com45
+com44
+com09 0 33
+com45
+com44
+com09 0 34
+com45
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ほら、起きろ！」
+display
+com11 0 3
+sound 634
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「はっ！　こ、ここはどこ！　私は誰！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「し、しまった！　軽く起こしたつもりなのに、
+line2 <shift> # 記憶を失わせてしまったのか！？」
+display
+com11 0 3
+sound 635
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ああ、なんだ、夢か……。もうちょっと
+line2 <shift> # 優しく起こして下さいね、むにゃ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「注文つけて、また寝ちゃったぞ……。
+line2 <shift> # 仕方ない、引きずっていくか」
+display
+com11 0 3
+sound 636
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「だ、大丈夫です。自分で歩けますよう。だから、
+line2 <shift> # あと５分、寝かせて下さい。むぅ、むにゃ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （結局、俺は、寝ぼけまなこの律子を、強引に
+line2 <shift> # 引っ張りながら、ライブハウスを後にした）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （でも、ゆっくり休めたみたいだし、
+line2 <shift> # これはこれで良かったかな……）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ほら、起きないと、つっつくぞ」
+display
+com11 0 3
+sound 637
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「むぅ、なに？　ふにふに……、すやすや……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あんまり効果がないな。もう少しつついて
+line2 <shift> # みるか……。じゃあ、ほっぺのこのへんを」
+display
+com11 0 3
+sound 638
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あいたっ！　うう……。そ、そこ、
+line2 <shift> # 口内炎が、できてるんですよ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええっ！？　そ、そりゃ悪かった。
+line2 <shift> # でも、起きてくれたな、律子」
+display
+com11 0 3
+sound 639
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「もう、せっかくいい気分で、ライブの続きを
+line2 <shift> # みてたのに。……夢の中で、ですけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「器用だなぁ……。
+line2 <shift> # でも、夢の続きは、帰ってからみてくれ」
+display
+com11 0 3
+sound 640
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「わかってまーす。
+line2 <shift> # ああ、口内炎が、ちくちくする……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （律子を起こすことには成功したが、
+line2 <shift> # 機嫌を損ねたみたいだな……、やれやれだ）
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ほら、起きろって」
+display
+com11 0 3
+sound 623
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「眠いのですぅ、むにゃむにゃ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「起きろと言うのに！」
+display
+com11 0 3
+sound 624
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「いやですぅ、むにゃむにゃ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なにが『いやですぅ』だ……。
+line2 <shift> # ほんとは起きてるんじゃないのか？」
+display
+com11 0 3
+sound 625
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「寝てますよぅ、熟睡ですよぅ、
+line2 <shift> # むにゃむにゃ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「こ、こいつめ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （結局、俺は、寝たふりを続ける律子を強引に
+line2 <shift> # 引っ張りながら、ライブハウスを後にした）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （まあ、音楽のいやし効果で、律子がリラックス
+line2 <shift> # できたみたいだから、いいけどな……）
+com09 0 49
+display
+location 33
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いやいや、眠っているからといって、
+line2 <shift> # そんなところを選ぶのは、どうかと思うね！」
+display
+com11 0 3
+sound 641
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「むぅ……。何を、ひとりで叫んでるんです、
+line2 <shift> # プロデューサー……。変ですよ。むにゃむにゃ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……叫んでないよ」
+display
+com11 0 3
+sound 642
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そうですか。でも、何か……、
+line2 <shift> # 迷っているようですねぇ……、むにゃむにゃ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なっ、何も迷ってないぞ！」
+display
+com11 0 3
+sound 643
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ぐぅぐぅ……、プロデューサーも……、
+line2 <shift> # 男の子だからねぇ……。ふふふっ」
+display
+com11 0 3
+sound 644
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「でもぉ……、ジェントルマンなんだよね……。
+line2 <shift> # 信じていますよ……、むにゃむにゃ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「な、なんかしらんが、
+line2 <shift> # とても恥ずかしい気分になってきた」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （結局、俺は、寝ぼけまなこの律子を、
+line2 <shift> # 強引に担ぎ出して、ライブハウスを後にした）
+com09 0 49
+display
+location 34
+com11 0 3
+sound 629
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「くぅくぅ……、ぐぅぐぅ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だ、だめだ、うまく起こせない。しかし、
+line2 <shift> # 放っておくわけにもいかない、ああ、困ったぞ」
+display
+com11 0 3
+sound 630
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「プロデューサーのばかぁっ！　……すやすや」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「な、なにっ！」
+display
+com11 0 3
+sound 631
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「なんでもありませぬ……、むにゃむにゃ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんだ寝言か。って、そんなことは、
+line2 <shift> # どうでもいい。ああ、どうすればいいんだ？」
+display
+com11 0 3
+sound 632
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「うふふふ、プロデューサー可愛いね……、
+line2 <shift> # むにゃむにゃ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、時間ばかりが過ぎて行く……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （さんざん迷ったあげく、結局、俺は、眠る
+line2 <shift> # 律子を強引に担ぎ出して、ライブハウスを出た）
+com09 0 49
+display
+location 49
+unk02

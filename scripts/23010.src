@@ -1,0 +1,432 @@
+com2c 0 43
+com2d 0 52
+com32 0 0
+com11 0 0
+sound 0
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「……き」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あずささん、何してるんです？」
+display
+com11 0 0
+sound 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「す……、す……き……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あずささん？」
+display
+com11 0 0
+sound 2
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ああ〜……ぷ、プロデューサーさんっ！
+line2 <shift> # い、いつの間に、そんなところに」
+display
+com11 0 0
+sound 3
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「いるなら、声をかけてください〜……。
+line2 <shift> # び、びっくりします……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「声かけましたよ、何度か。
+line2 <shift> # あずささん、全然気づかなくて……」
+display
+com11 0 0
+sound 4
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「も、もしかして……、私が何か言ってるの、
+line2 <shift> # 聞こえてしまいましたか〜？」
+com03 0 3
+choice1 <shift> # 確か、ススキ……って
+line2
+com09 0 10
+com08
+choice2 <shift> # いえ、何にも
+line2
+com09 0 11
+com08
+choice3 <shift> # 確か、好き……って
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「確か、ススキ……って、聞こえたような……」
+display
+com11 0 0
+sound 5
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ススキ……？　あ、そう言えば、確かに。
+line2 <shift> # ふふ、ふふふっ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「何がおかしいんです？」
+display
+com11 0 0
+sound 6
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「いえ、ススキ……ですね。ええ、そうです。
+line2 <shift> # そう聞こえても、仕方ないかもしれません〜」
+com09 0 13
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いえ、何にも」
+display
+com11 0 0
+sound 7
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「よ、よかった……。危ないところでした〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「何か、聞かれてはまずいことでも、
+line2 <shift> # 言っていたんですか？」
+com09 0 13
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「確か、好き……って」
+display
+com11 0 0
+sound 8
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「…………！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あれっ、違いましたか？」
+display
+com11 0 0
+sound 9
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「もう……。今度からは、ちゃんと……
+line2 <shift> # 聞こえるように、声をかけてくださいね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （何で、こんなに怒ってるんだろう。
+line2 <shift> # 聞かれたくなかったのかな？）
+com09 0 13
+display
+location 13
+com11 0 0
+sound 10
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「実は、レコーディングのときに
+line2 <shift> # どうしても、うまく歌えないところがあって」
+display
+com11 0 0
+sound 11
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「その部分を、ひとりで練習していたんです〜。
+line2 <shift> # 見られてしまって、恥ずかしい……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なんだ、そんなことなら、俺にも相談して
+line2 <shift> # くださいよ。どんな部分なんですか？」
+display
+com11 0 0
+sound 12
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「それが……あの、歌詞の中に『好き』という
+line2 <shift> # 言葉が出てくる箇所があるんです〜」
+display
+com11 0 0
+sound 13
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「この部分を、どんな風に表現していいか、
+line2 <shift> # その〜、よく分からなくて……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ、俺に向かって、言ってみてください。
+line2 <shift> # これは練習ですから、もちろん……」
+com03 0 3
+choice1 <shift> # 軽い気持ちでいいですよ
+line2
+com09 0 20
+com08
+choice2 <shift> # 真剣に言ってください
+line2
+com09 0 21
+com08
+choice3 <shift> # いつも通りに言ってください
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「軽い気持ちでいいですよ」
+display
+com11 0 0
+sound 14
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、はい。分かりました。軽く、ですね。
+line2 <shift> # それなら、できるかもしれません……」
+com09 0 23
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「真剣に言ってください」
+display
+com11 0 0
+sound 15
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そ、そんなの、恥ずかしくて……。
+line2 <shift> # む……無理です！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うまくなるには、練習が必要です。
+line2 <shift> # 出来る範囲で、いいですから」
+display
+com11 0 0
+sound 16
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「は、はい……。じゃあ、少しだけ……」
+com09 0 23
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いつも通りに言ってください」
+display
+com11 0 0
+sound 17
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「いつも通りって……プロデューサーさんに
+line2 <shift> # いつも、こんなこと言わないじゃないですか〜」
+display
+com11 0 0
+sound 18
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ただでさえ恥ずかしいのに……。
+line2 <shift> # か、からかわないで下さい〜……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「すみません。冗談のつもりだったんですけど
+line2 <shift> # ……。それじゃ、軽い気持ちでお願いします」
+display
+com11 0 0
+sound 19
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「は、はい……」
+com09 0 23
+display
+location 23
+com11 0 0
+sound 20
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「す……、すっ……う〜」
+display
+com11 0 0
+sound 21
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はあ〜……、やっぱり、ダメです……。
+line2 <shift> # なんだか、昨日の夢の、続きみたいで……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「夢の続き……？　なんです、それ？」
+display
+com11 0 0
+sound 22
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あっ……、あの〜、ですから……。
+line2 <shift> # 昨日、プロデューサーさんの夢を見たんです〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「へえ、どんな夢ですか？」
+display
+com11 0 0
+sound 23
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「………………」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まさか、話せないような内容なんですか？」
+display
+com11 0 0
+sound 24
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「い、いえっ！　違います〜……。だけど、
+line2 <shift> # ちょっとだけ、恥ずかしくて……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「話してくださいよ。水臭いなあ」
+display
+com11 0 0
+sound 25
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「……で、では、コインで決めませんか？
+line2 <shift> # 私が両手のどちらかに、コインを握ります」
+display
+com11 0 0
+sound 26
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「どちらに入っているか、当ててください。
+line2 <shift> # 当たったら、きちんとお話ししますから〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ふむ……。じゃあ、そうしましょうか」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （当てられるかどうかは完全に運だが、
+line2 <shift> # ここは、ぜひ当てておきたいところだな！）
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 27
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「それでは……はい。どちらにしますか？
+line2 <shift> # プロデューサーさん」
+com03 0 2
+choice1 <shift> # 右だ！
+com09 0 30
+com08
+choice2 <shift> # 左だ！
+com09 0 31
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「右だ！」
+com37 0 1
+com1e 0 0
+com09 0 33
+com3b
+com37 0 0
+com1e 0 0
+com09 0 34
+com3b
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「左だ！」
+com37 0 1
+com1e 0 0
+com09 0 33
+com3b
+com37 0 0
+com1e 0 0
+com09 0 34
+com3b
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よく解らないからテキトーに……こっちだ！」
+com09 0 34
+display
+location 33
+com11 0 0
+sound 28
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、当たりです……。すごいですね、
+line2 <shift> # プロデューサーさん……！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ふふふ……。俺はあずささんのことなら、
+line2 <shift> # なんだって、分かるんですよ」
+display
+com11 0 0
+sound 29
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「えっ……そうなんですか〜！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だって、俺はあずささんのプロデューサー
+line2 <shift> # ですからね。何でも話してください」
+display
+com11 0 0
+sound 30
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、はい……。では、約束どおり
+line2 <shift> # お話ししますね……」
+display
+com11 0 0
+sound 31
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「実は……昨日、夢の中に、私の恋人が現れた
+line2 <shift> # んですけど……。あ！　いえ……」
+display
+com11 0 0
+sound 32
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「今、現実には私に恋人はいませんけど、夢の中
+line2 <shift> # では、そういう設定で。その恋人が、あの……」
+display
+com11 0 0
+sound 33
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ぷ、プロデューサーさんだったんです〜。
+line2 <shift> # 夢の中で、私ったら……あ、あんなこと……」
+display
+com11 0 0
+sound 34
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あなたこそ、私の運命の……とか……」
+display
+com11 0 0
+sound 35
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ああ〜、や、やっぱりダメ……っ！
+line2 <shift> # こ、これ以上は、許してくださいね……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （夢の続き……ということは、あずささん、
+line2 <shift> # 夢の中で、俺にあんなセリフを……？）
+com4b 0 0
+com09 0 69
+display
+location 34
+com11 0 0
+sound 36
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ……残念ですね。はずれてしまいました〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「えっ、本当ですか！？　くぅ〜……！
+line2 <shift> # あずささんの夢、聞きたかったのにな」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「しょうがない。だったら、いろいろと勝手に
+line2 <shift> # こちらで、想像するしかないですね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あずささんが見た俺の夢……。恥ずかしくて
+line2 <shift> # 言えないってことは、もしかして……！？」
+display
+com11 0 0
+sound 37
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「や、やめてください〜！　勝手な想像を
+line2 <shift> # されると……こ、困ります〜」
+display
+com11 0 0
+sound 38
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「も、もうこの話はおしまいです〜……！
+line2 <shift> # ずるいですよ、プロデューサーさん」
+display
+com11 0 0
+sound 39
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はあ〜、やっぱり夢の中と現実とは
+line2 <shift> # 違うのかしら……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （あずささんは、がっかりしてしまったようだ。
+line2 <shift> # 一体、どんな夢を見ていたんだろう？）
+com4b 0 2
+com09 0 69
+display
+location 69
+unk02

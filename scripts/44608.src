@@ -1,0 +1,500 @@
+com2c 0 53
+com2d 0 81
+com32 0 0
+com11 0 1
+sound 900
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「公園かー。今日のビデオクリップ用の撮影、
+line2 <shift> # ずいぶん地味なところで、やるんですね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。なんてことない、
+line2 <shift> # 日常の生活風景を撮りたいんだって」
+display
+com11 0 1
+sound 949
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「なるほど。ボクが普段いるとこじゃ、きらび
+line2 <shift> # やかで、そういう雰囲気、出ないですもんね！」
+display
+com11 0 1
+sound 902
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「オシャレで、ごっつい建物に、まぶしいライト。
+line2 <shift> # ああいう中に、ずっといると……」
+com03 0 3
+choice1 <shift> # ちょっと、疲れる？
+line2
+com09 0 10
+com08
+choice2 <shift> # 絶叫したくなる？
+line2
+com09 0 11
+com08
+choice3 <shift> # 逃げ出したくなる？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ちょっと、疲れる？」
+display
+com11 0 1
+sound 903
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はい。たまに、人目のないところが、
+line2 <shift> # すっごく恋しくなっちゃったりして」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「絶叫したくなる？」
+display
+com11 0 1
+sound 904
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あはは。『やってられるかー！！』って、
+line2 <shift> # ですか？　そこまでは思いませんけど……」
+display
+com11 0 1
+sound 905
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「でも、たまに、人目のないところが、
+line2 <shift> # すっごく恋しくなっちゃいますよね」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「逃げ出したくなる？」
+display
+com11 0 1
+sound 906
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そんなこと、しませんよ〜。せっかく、
+line2 <shift> # がんばって、この位置まできたのに……」
+display
+com11 0 1
+sound 907
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ただ、たまに、人目のないところが、
+line2 <shift> # すっごく恋しくなっちゃったりするんですよね」
+com09 0 29
+display
+location 29
+com11 0 1
+sound 950
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そのうち時間ができたら、プロデューサーと、
+line2 <shift> # 山とか牧場とか行って、ノンビリしたいな〜」
+display
+com11 0 1
+sound 909
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そんで、寝っころがって、アレ、やりましょう
+line2 <shift> # よ。恋人同士とかが、よくやるやつ！」
+display
+com11 0 1
+sound 910
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「なんでしたっけ？　ほら、
+line2 <shift> # 相手に体を貸してあげる、アレです、アレ！」
+com03 0 3
+choice1 <shift> # ひざまくら？
+line2
+com09 0 30
+com08
+choice2 <shift> # カタぐるま？
+line2
+com09 0 31
+com08
+choice3 <shift> # ひざゲリ？
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ひざまくら？」
+display
+com11 0 1
+sound 911
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そうそう！　ボク、ひざ貸しますから、プロ
+line2 <shift> # デューサー、好きなだけ、寝てて下さい！」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「カタぐるま？」
+display
+com11 0 1
+sound 912
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ちがいますよ〜。それは、恋人同士じゃなくて、
+line2 <shift> # 子どもにやってあげるやつじゃないですか！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ、なんだ？
+line2 <shift> # もしかして、ひざまくらとかか？」
+display
+com11 0 1
+sound 913
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、それです！　ボク、ひざ貸しますから、
+line2 <shift> # プロデューサー、好きなだけ、寝てて下さい」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ひざゲリ？」
+display
+com11 0 1
+sound 914
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「え？　ち、ちがいますよ〜！　どうして恋人
+line2 <shift> # 同士が、ひざゲリをかまし合うんです〜！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……ちがったか。じゃあ、なんだ？
+line2 <shift> # もしかして、ひざまくらとかか？」
+display
+com11 0 1
+sound 915
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、そっちです！　ボク、ひざ貸しますから、
+line2 <shift> # プロデューサー、好きなだけ、寝てて下さい」
+com09 0 49
+display
+location 49
+com11 0 1
+sound 916
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「もし、別のところがいいんなら、そこを、
+line2 <shift> # まくらにしてくれても、いいですけど……」
+display
+com11 0 1
+sound 917
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「へへへ〜、自由にしていいとしたら、ボクの
+line2 <shift> # どこに頭のっけて、寝っころがりたいですか？」
+com0e 2 208
+com44
+com09 0 50
+com45
+com44
+com09 0 51
+com45
+com44
+com09 0 52
+com45
+com44
+com09 0 53
+com45
+com44
+com09 0 54
+com45
+com44
+com09 0 55
+com45
+com44
+com09 0 56
+com45
+com44
+com09 0 57
+com45
+display
+location 50
+com11 0 1
+sound 918
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「腕、ですか？　うわ、顔とか至近距離ですね！
+line2 <shift> # ちょっと、ドキドキかも」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「気持ちいいだろうな。おたがい、
+line2 <shift> # 腕まくらしながら、同じ空、見上げるのって」
+display
+com11 0 1
+sound 919
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、きっと、最高ですよね……。お、なんか
+line2 <shift> # やる気出てきたー！　撮影、がんばらなきゃ！」
+display
+com11 0 1
+sound 951
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「じゃ、行ってきます！　どこ行きたいかとか、
+line2 <shift> # また後で、話しましょう！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （元気一杯に、カメラ前へ。多忙な俺達の、
+line2 <shift> # ささやかな夢。いつか、かなうといいな）
+com09 0 69
+display
+location 51
+com11 0 1
+sound 921
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「頭、ですか〜？　そんなとこ、かたいだけで、
+line2 <shift> # 寝心地よくないと思いますけど……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか？　でも、あまり、やわらかいところに
+line2 <shift> # すると、真の方も痛いだろ？」
+display
+com11 0 1
+sound 922
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「平気ですよ〜。別に、でっかい石とか、
+line2 <shift> # バーベルとか、のせるワケじゃないんだし」
+display
+com11 0 1
+sound 923
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「頭まくらか……。うう、かなりゴリゴリしそう。
+line2 <shift> # それじゃ、のんびり気分になんて、とても……」
+display
+com11 0 1
+sound 924
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ま、いいや……。撮影、行ってきます。今の
+line2 <shift> # うちから、備えて、きたえておこうかな……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、おい、真！　そんな顔で撮影……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （……行ってしまった。まあ、普通は、
+line2 <shift> # やらないよな、頭まくらなんて……）
+com09 0 69
+display
+location 52
+com11 0 1
+sound 925
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「顔、ですか〜？　そんなところに、頭のっけて
+line2 <shift> # 寝る人なんて、聞いたことないですけど〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、だからこそ、やってみたいかなって。
+line2 <shift> # 挑戦心、そそられないか？」
+display
+com11 0 1
+sound 926
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「挑戦は、仕事ですればいいじゃないですか〜。
+line2 <shift> # 休みの日まで、そんなムチャ……」
+display
+com11 0 1
+sound 927
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はあ、顔まくらかー。目に髪が入ると、痛そう
+line2 <shift> # だな。下手したら、鼻ふさがれて、呼吸も……」
+display
+com11 0 1
+sound 928
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「それで窒息死したら、ワイドショー、大よろこ
+line2 <shift> # びかな。……あ、そろそろ、撮影、行かないと」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、おい、真！
+line2 <shift> # そんな顔で、カメラ前に……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （……行ってしまった。とっさに考えついた大技、
+line2 <shift> # 顔まくら。気に入ってもらえなかったようだ）
+com09 0 69
+display
+location 53
+com11 0 1
+sound 929
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「肩、ですか？　そんなところに、頭のせて、
+line2 <shift> # 寝心地いいのかな……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「のせるっていうより、
+line2 <shift> # こう、コツンともたせかける感じかな」
+display
+com11 0 1
+sound 930
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、それはそれで、いいですね！
+line2 <shift> # でも〜、普通、逆じゃないですか？」
+display
+com11 0 1
+sound 931
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そういうことやるのって、
+line2 <shift> # 女の子の方だと思うけど……。あっ！」
+display
+com11 0 1
+sound 932
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「なーんだ、じゃあ、ボクが、やればいいんだ！
+line2 <shift> # 決ーまりっと。さ、撮影撮影！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （一方的に決めて、行ってしまった。なんか、
+line2 <shift> # 話がアベコベになったけど……、ま、いいか）
+com09 0 69
+display
+location 54
+com11 0 1
+sound 952
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ええっ！　そ、そんなとこ、
+line2 <shift> # まくらにしたいんですかっ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うん、真のハートを、まくらにして寝たい」
+display
+com11 0 1
+sound 953
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、そういうことか……。って、すみません。
+line2 <shift> # ハートがまくらって、意味がわかりませんよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「んー、つまり、真に、身も心もゆだねて、
+line2 <shift> # 気持ちよく眠りたい、という意味だよ」
+display
+com11 0 1
+sound 954
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ボクに身も心も……、ですか。それはその、
+line2 <shift> # 信頼されてるってことですよね……？　へへっ」
+display
+com11 0 1
+sound 936
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「さ、そろそろ撮影、行かないと。胸まくらかー。
+line2 <shift> # さ、さすがに度胸がいるかな。あはは……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （照れ笑いしながら、行ってしまった。ま、
+line2 <shift> # でも、機嫌をそこねたわけじゃ、なさそうだな）
+com09 0 69
+display
+location 55
+com11 0 1
+sound 937
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「おなか、ですか？　ヘンなところに、頭、
+line2 <shift> # のせたいんですね……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そこなら、別に痛くはないだろ？
+line2 <shift> # それに、いいことだってあるし」
+display
+com11 0 1
+sound 938
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「なんです？　いいことって？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「真の腹筋のトレーニングになるはずだ。頭が
+line2 <shift> # のってれば、完全には脱力できないだろうし」
+display
+com11 0 1
+sound 939
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ええええっ！？　そんなところ行ってまで、
+line2 <shift> # トレーニングですか？　厳しすぎますよ〜」
+display
+com11 0 1
+sound 940
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサー、鬼ですね。ま、いいや。
+line2 <shift> # そろそろ撮影、行ってきます……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ゲンナリした顔で、カメラ前へ。うーん、一石
+line2 <shift> # 二鳥のいいアイディアだと、思ったんだけどな）
+com09 0 69
+display
+location 56
+com11 0 1
+sound 941
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「え？　そんなところに、頭のせるんですか〜。
+line2 <shift> # き、聞いたこともないですけど……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか？　でも、普通の人がやらないような
+line2 <shift> # こと、やらなきゃ。芸能人なんだし」
+display
+com11 0 1
+sound 942
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「休みの日ぐらい、妙なねらい、しなくても……。
+line2 <shift> # どうせ誰も見てないんだし……」
+display
+com11 0 1
+sound 943
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「どうしても、そこ、まくらにしたいですか？
+line2 <shift> # ボクが、普通のところがいいって、言っても？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「弱気なこと、言うなよ。試してみたら、
+line2 <shift> # 意外に、幸せな気分になるかもしれないよ？」
+display
+com11 0 1
+sound 944
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「わっからないな〜。ま、いいや。
+line2 <shift> # そろそろ、撮影、行ってきます……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （首をひねりながら、カメラ前へ。一度やって
+line2 <shift> # みたいんだけど、意見が合わなかったな）
+com09 0 69
+display
+location 57
+com11 0 1
+sound 945
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あの……、のっけたいところ、ないですか？
+line2 <shift> # どうしたんです？　黙っちゃって」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え？　あ、いや、山とか牧場なんて、
+line2 <shift> # 本当に行ける日が、くるのかなって……」
+display
+com11 0 1
+sound 946
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ……、ムリか……。スケジュール、
+line2 <shift> # しばらくギュウギュウですもんね」
+display
+com11 0 1
+sound 947
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「楽しい休暇も、話だけ、か。でも、
+line2 <shift> # 近場の広い公園とかだったら、行ける気も……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「近場なんかで寝ころがってたら、
+line2 <shift> # たちまちファンに囲まれるよ」
+display
+com11 0 1
+sound 948
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うう〜、そうだよな〜。あきらめるしか……。
+line2 <shift> # はあ……、そろそろ撮影、行ってきます」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ため息をひとつついて、カメラ前へ。話ぐらい
+line2 <shift> # は、つき合ってやっても、よかったかな……）
+com09 0 69
+display
+location 69
+unk02

@@ -1,0 +1,279 @@
+com2c 0 75
+com2d 0 51
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あずささんの出身校で、話し合いを
+line2 <shift> # するんですか？　いったい誰と、なんの話を？」
+display
+com11 0 1
+sound 100
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「じつは『講演会をしてくれないか？』って、
+line2 <shift> # 頼まれてしまったんです。そのとりまとめを」
+display
+com11 0 1
+sound 101
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あまり予算がないそうなんです。ですから、
+line2 <shift> # 直接、交渉してもらった方がいいかなあ、と」
+display
+com11 0 1
+sound 102
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「……自分で言うのもヘンですけれど、
+line2 <shift> # その、あまりお安くないですよね？」
+com03 0 3
+choice1 <shift> # お安くしたいですか？
+line2
+com09 0 10
+com08
+choice2 <shift> # たしかに、お安くはないです
+line2
+com09 0 11
+com08
+choice3 <shift> # 目玉が飛び出るほどです
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お安くしたいですか？」
+display
+com11 0 1
+sound 103
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「私には決められません。ここまで、育てて
+line2 <shift> # くれたのは、プロデューサーさんですから」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「たしかに、お安くはないです」
+display
+com11 0 1
+sound 104
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「はあー、ですよね。世の中って不思議です。
+line2 <shift> # この間までは、あんなにお安かったのに」
+display
+com11 0 1
+sound 105
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「どうするかは、プロデューサーさんにおまかせ
+line2 <shift> # します。私はつなぐだけの役目ということで」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「目玉が飛び出るほどです」
+display
+com11 0 1
+sound 106
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「そんなに高いのですか！？　こ、講演会なんて
+line2 <shift> # やったことがないので、私、相場を知らなくて」
+display
+com11 0 1
+sound 107
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ね、値段を教える時には、そっと伝えて
+line2 <shift> # くださいね。ショックを与えたくないので」
+com09 0 29
+display
+location 29
+com11 0 1
+sound 108
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ちなみに話がまとまったとして、私、うまく
+line2 <shift> # 話せるでしょうか？」
+display
+com11 0 1
+sound 109
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「『成功をつかむコツを』って、言われたのです
+line2 <shift> # けど、単に、出会いに恵まれていただけの気が」
+com03 0 3
+choice1 <shift> # そう話せばいいのでは？
+line2
+com09 0 30
+com08
+choice2 <shift> # それも、人徳ですよ
+line2
+com09 0 31
+com08
+choice3 <shift> # 運も、実力のうちですよ
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+com34 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そう話せばいいのでは？」
+display
+com11 0 1
+sound 110
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あ、それが一番正直ですね！　本当のことを
+line2 <shift> # 話さなければ、意味がありませんし」
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それも、人徳ですよ」
+display
+com11 0 1
+sound 111
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「んー、そうかもしれませんけれど、この場合、
+line2 <shift> # まわりの人の人徳ですよね」
+display
+com11 0 1
+sound 112
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あたたかい目で見てくれて、期待をかけて
+line2 <shift> # くれたから、成功できたのだと思います」
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「運も、実力のうちですよ」
+display
+com11 0 1
+sound 113
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「そ、そうでしょうか？　運には感謝します
+line2 <shift> # けれど、それを実力というのは、やはり……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、運抜きの実力だって、相当なものだと
+line2 <shift> # 思いますけどね」
+display
+com11 0 1
+sound 114
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「でもそれも、幸運だったからこそ、身についた
+line2 <shift> # ものです。自分の力とは、やはり違いますよね」
+com09 0 49
+display
+location 49
+com11 0 1
+sound 115
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「私の話を聞くと……それでアイドルを
+line2 <shift> # めざそうっていう人も、出てくるのかしら？」
+display
+com11 0 1
+sound 116
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「……か、考えたら、それって責任重大ですよね。
+line2 <shift> # 人の一生を、左右してしまうかも！」
+com03 0 3
+choice1 <shift> # もう左右してますって
+line2
+com09 0 50
+com08
+choice2 <shift> # じゃあ、帰りますか？
+line2
+com09 0 51
+com08
+choice3 <shift> # 決めるのは、本人の問題です
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 2
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もう左右してますって。全国のどれほどの人が、
+line2 <shift> # あずささんをめざしてると、思ってるんです？」
+display
+com11 0 1
+sound 117
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「手遅れ、ですか？　言われてみれば、ファン
+line2 <shift> # レターにそういう事を書いてくる人、たくさん」
+display
+com11 0 1
+sound 118
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「でしたら、芸能界がどんなところか、正しく
+line2 <shift> # 伝えなくては……。それが、責任ですよね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （一流アイドルの重み、感じてもらえたかな。
+line2 <shift> # ま、交渉がまとまるかどうかは、別の話だな）
+com09 0 69
+display
+location 51
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃあ、帰りますか？」
+display
+com11 0 1
+sound 119
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「はいっ、そうします」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、即答ですね。本当にいいんですか？」
+display
+com11 0 1
+sound 120
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「こ、こわくなってきてしまいました。お話を
+line2 <shift> # もってきてくれた先生には、悪いですけれど」
+display
+com11 0 1
+sound 121
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「やはり、はじめからお断りするべきでしたね。
+line2 <shift> # 私、こんなことにも気づかないなんて……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （自分を責めている。うーん、軽い気持ちで、
+line2 <shift> # テキトーな切り返ししない方が、よかったかな）
+com09 0 69
+display
+location 52
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「決めるのは、本人の問題です」
+display
+com11 0 1
+sound 122
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「それはわかるのですけれど……。だからと
+line2 <shift> # いって、下手にいろいろ話してしまっては」
+display
+com11 0 1
+sound 123
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「おかしな夢物語を聞けば、影響されてしまい
+line2 <shift> # ますよね。それだけでマイナスなのでは？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まあ、たしかに……。成功できる人間は、
+line2 <shift> # ほんのひとにぎりですからね」
+display
+com11 0 1
+sound 124
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「やはり、ここはお断りする方が……。さんざん
+line2 <shift> # 待たせておいて、失礼な話ですけれど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （悲しそうに、立ちつくしている。結局、あずさ
+line2 <shift> # さんを苦しめるだけの結果に終わってしまった）
+com09 0 69
+display
+location 69
+unk02

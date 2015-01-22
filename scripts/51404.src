@@ -1,0 +1,306 @@
+com2c 0 88
+com2d 0 91
+com2e 0 101
+com32 0 0
+com11 0 3
+sound 800
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「兄ちゃん、話し合いで言ってた、おもしろい
+line2 <shift> # ところって……ここ？　えすて？？？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。そろそろ、にぎやかさばかりじゃなくて、
+line2 <shift> # 美しさも、みがいていこう」
+display
+com11 0 3
+sound 801
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「そーだねっ！　わーい、えすて、えすて〜♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……エステが、どんなところか、
+line2 <shift> # わかってるか？」
+display
+com11 0 3
+sound 802
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「もっちろんだよ！　すっごいヘアサロンのこと
+line2 <shift> # でしょ〜？」
+com03 0 2
+choice1 <shift> # まあ、そんなものか
+line2
+com09 0 10
+com08
+choice2 <shift> # ちょっと、ちがうよ
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、そんなものか。キレイになるって
+line2 <shift> # 意味じゃ、同じだし」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ちょっと、ちがうよ。ヘアサロンは、髪を整え
+line2 <shift> # るところだけど、エステは、肌を整えるんだ」
+display
+com11 0 3
+sound 803
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「そうなんだ〜。けっこう細かいんだね。分けて
+line2 <shift> # おぼえるのって、メンドっちいかも〜」
+com09 0 29
+display
+location 29
+com11 0 3
+sound 804
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「ね、兄ちゃん。えすての中には
+line2 <shift> # かりすま美容師さんが、いるのっ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうだろう？　カリスマ的な人は、いるかも
+line2 <shift> # しれないけど、美容師さんとは、呼ばないな」
+display
+com11 0 3
+sound 805
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「んじゃ、なんていうの？」
+com03 0 3
+choice1 <shift> # エステマンかな
+line2
+com09 0 30
+com08
+choice2 <shift> # エステティシャンだよ
+line2
+com09 0 31
+com08
+choice3 <shift> # エスティシャンだよ
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「エステマンかな」
+display
+com11 0 3
+sound 806
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「へー、わかりやすくて、いいね〜！
+line2 <shift> # エステにいる、エステマンっ！」
+display
+com11 0 3
+sound 807
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「ほいじゃ、かりすまエステマンに
+line2 <shift> # 会いにいこー！」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「エステティシャンだよ」
+display
+com11 0 3
+sound 808
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「エステティティシャン？　な、なんか、
+line2 <shift> # 舌かみそう〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ティが、ひとつ多いよ。エステティシャン」
+display
+com11 0 3
+sound 809
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「もっと、カンタンな名前にしてくれれば、いい
+line2 <shift> # のに〜。ほいじゃ、その人に会いにいこー！」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「エスティシャンだよ」
+display
+com11 0 3
+sound 810
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「……エステさん？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ちがうって！　エスティ……。あ、あれ？
+line2 <shift> # エステティシャンだったっけ？」
+display
+com11 0 3
+sound 811
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「兄ちゃんも、よくわからないんだね……。
+line2 <shift> # じゃ、そのエステさんに、会いにいこー！」
+com09 0 49
+display
+location 49
+com22 0 30
+com21 0 30
+com11 0 3
+sound 812
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「兄ちゃん、行ってきたよ〜！　クリームとか、
+line2 <shift> # たくさん塗ってもらった〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか。あ、あれ？　亜美はどうした？」
+display
+com11 0 3
+sound 813
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「んっとね、まだ、中にいるー。これから、
+line2 <shift> # クリーム塗り返し攻撃するんだって！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「な、なに〜っ！？　大変だ、
+line2 <shift> # なんとかしないとっ！」
+com03 0 3
+choice1 <shift> # 真美、止めてきてくれ！
+line2
+com09 0 50
+com08
+choice2 <shift> # 真美、手伝ってくれ！
+line2
+com09 0 51
+com08
+choice3 <shift> # 真美、ここで待っててくれ！
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「真美、止めてきてくれ！」
+display
+com11 0 3
+sound 814
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「え？　クリーム塗り返しちゃ、ダメなの？
+line2 <shift> # わかった〜、じゃ、亜美に言ってくるー」
+display
+com22 0 30
+com21 0 30
+com11 0 3
+sound 815
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「ただいま〜。う〜ん、残念〜。もうちょっとで、
+line2 <shift> # 塗り塗りできたのに〜」
+display
+com11 0 3
+sound 816
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「兄ちゃん、真美、ちゃんとおつかいできたよ！
+line2 <shift> # えらいでしょ〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ほっ、間一髪、間に合ったようだ！
+line2 <shift> # 真美に任せて、よかったな……）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「真美、手伝ってくれ！」
+display
+com11 0 3
+sound 817
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「亜美を？　そーだねっ。ひとりじゃ、
+line2 <shift> # お姉さんの体中に塗るの、時間かかるしっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そうじゃないよ！　いっしょに亜美を
+line2 <shift> # 止めにいこう。ほっといたら、大騒ぎになる！」
+display
+com11 0 3
+sound 818
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「あ、うん、わかった。でも、急がないと
+line2 <shift> # 間に合わないよ、兄ちゃん！」
+display
+com22 0 30
+com21 0 30
+com11 0 3
+sound 819
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「ん〜、残念〜。あと、もう一息だったのに……。
+line2 <shift> # 真美〜、兄ちゃんにしゃべっちゃ、ダメだよ〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （なんとか、ふたりで亜美を店外に連れ出した。
+line2 <shift> # できれば、もうすこし手早く行動したかったな）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「真美、ここで待っててくれ！」
+display
+com11 0 3
+sound 820
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「兄ちゃん、どこ行くの？　真美、
+line2 <shift> # ひとりぼっちは、いやだよ〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「エステの中、行かなきゃ！　亜美を早く
+line2 <shift> # 止めないと、大騒ぎに……」
+display
+com11 0 3
+sound 821
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「亜美なら、すぐに戻ってくるよ。ここで、いっ
+line2 <shift> # しょに待ってようよ〜！　いっちゃ、や〜だ〜」
+display
+com22 0 30
+com21 0 30
+com11 0 3
+sound 822
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「たっだいま〜。あ〜、おもしろかった〜！
+line2 <shift> # あれ、兄ちゃんどうしたの？　青い顔して……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （すでに、時遅し。ごねる真美を説得している
+line2 <shift> # うちに、すべてが終わってしまった。最悪だ）
+com09 0 69
+display
+location 69
+unk02

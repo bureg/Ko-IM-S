@@ -1,0 +1,268 @@
+com2c 0 86
+com2d 0 21
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ジャズなんかを聞くのも、
+line2 <shift> # たまには勉強になるかな？」
+display
+com11 0 3
+sound 600
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そうね♪　こういうアダルトな場所が、
+line2 <shift> # 私にはピッタリ！」
+display
+com11 0 3
+sound 601
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「プロデューサー。開演前に、
+line2 <shift> # なにか飲み物、買ってきてー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ＯＫ。この場にふさわしいドリンクは……」
+com03 0 3
+choice1 <shift> # ……オレンジジュースだな
+line2
+com09 0 10
+com08
+choice2 <shift> # ジンジャーエールかな
+line2
+com09 0 11
+com08
+choice3 <shift> # ミルクかな
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……オレンジジュースだな」
+display
+com11 0 3
+sound 602
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ふふっ。私、オレンジ大好きー！
+line2 <shift> # ノドかわいちゃったから、大きいのねっ」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ジンジャーエールかな」
+display
+com11 0 3
+sound 603
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「え〜っ。私、炭酸きらーい。
+line2 <shift> # 体にもよくないしー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃあ、伊織はなんにする？」
+com09 0 18
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ミルクかな」
+display
+com11 0 3
+sound 604
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「なによっ！　それ、どういう意味っ？
+line2 <shift> # 子ども扱い、しないでほしいわ〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「体にいいんだけどな……。
+line2 <shift> # わかった、やめよう。で、何にするんだ？」
+com09 0 18
+display
+location 18
+com11 0 3
+sound 605
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「オレンジジュースー！
+line2 <shift> # 果汁１００％のやつねっ」
+com09 0 19
+display
+location 19
+com11 0 3
+sound 606
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「あ、もう開演みたい。
+line2 <shift> # ジュースは、おあずけね……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだな。ここはおとなしく、
+line2 <shift> # ステージに集中するか……」
+display
+com22 0 30
+com21 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……ふぅ、すごかったなあ。
+line2 <shift> # 伊織は、どうだった？」
+display
+com11 0 3
+sound 607
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「な、なによっ。こんなの、
+line2 <shift> # ぜんっぜん、たいしたことないわ！」
+com03 0 2
+choice1 <shift> # 俺は感動したけどな
+line2
+com09 0 20
+com08
+choice2 <shift> # で、本音は？
+line2
+com09 0 21
+com08
+com07
+com09 0 21
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺は感動したけどな」
+display
+com11 0 3
+sound 608
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「あ、あんたはシロウトだからよっ。
+line2 <shift> # こんな連中、ＴＶでだって見たことないし……」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「で、本音は？」
+display
+com11 0 3
+sound 609
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「なによー、そのイジワルな聞き方ー……」
+display
+com11 0 3
+sound 610
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ほんと、ムカツクわ……。まるで私が、
+line2 <shift> # ウソついてるみたいじゃないのー……」
+com09 0 29
+display
+location 29
+com11 0 3
+sound 611
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「…………認めるわよ。たしかに、
+line2 <shift> # かなわないトコもあるなーって、思ったわ」
+display
+com11 0 3
+sound 612
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「でもっ、私のが、絶対上よー！
+line2 <shift> # あんたは、比べて、どう思うのよ！？」
+com03 0 3
+choice1 <shift> # 伊織の方が、すこし下かな
+line2
+com09 0 30
+com08
+choice2 <shift> # 伊織の辛勝だな
+line2
+com09 0 31
+com08
+choice3 <shift> # 伊織の圧勝だな
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「伊織の方が、すこし下かな」
+display
+com11 0 3
+sound 613
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「フンっ、正直に言ってくれるじゃない。
+line2 <shift> # ……でも、見てなさいよっ」
+display
+com11 0 3
+sound 614
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「アイドルとジャズ、どっちがえらいか。いつか
+line2 <shift> # ここの連中に、思い知らせてやるんだからっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うまく、プライドをくすぐることができた。
+line2 <shift> # 『どっちがえらいか』なんて、伊織らしいな）
+com09 0 39
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「伊織の辛勝かな」
+display
+com11 0 3
+sound 615
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そうよね……。ほんのすこしだけ、
+line2 <shift> # 私がリードって感じかしら」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、油断はできないな」
+display
+com11 0 3
+sound 616
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「当たり前でしょ！　油断なんかしたら、
+line2 <shift> # 引き離され……、じゃなくて、追いつかれるわ」
+display
+com11 0 3
+sound 617
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「わ、私も、そろそろホンキ出そうかしら。
+line2 <shift> # こんな連中に抜かれるのは、シャクだし……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （本心じゃ、負けてると思ってるみたいだな。
+line2 <shift> # そう告げてやった方が、ベストだったか）
+com09 0 39
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「伊織の圧勝だな」
+display
+com11 0 3
+sound 618
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……ウソつきは、きらいよ。
+line2 <shift> # ほんとは、そんなこと、思ってないくせに」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ウソじゃないって……」
+display
+com11 0 3
+sound 619
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「だったら、もっと問題よ！
+line2 <shift> # あんた、どういう耳してるわけ？」
+display
+com11 0 3
+sound 620
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「これから、もっと上めざそうっていうのに、
+line2 <shift> # そんなんじゃ、ダメじゃないのーっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「頼むから、落ち着けって……」
+display
+com11 0 3
+sound 621
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「うるさーい！　あんたがテキトーなこと、
+line2 <shift> # 言うからでしょー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うわ、最悪だ……。
+line2 <shift> # 軽々しく、持ち上げるんじゃなかった）
+com09 0 39
+display
+location 39
+unk02

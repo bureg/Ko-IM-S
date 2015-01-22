@@ -1,0 +1,583 @@
+com2c 0 90
+com2d 0 31
+com2e 0 113
+location 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ＴＶデビューを果たしたこと、
+line2 <shift> # 早く社長に報告しような、やよい！」
+display
+com11 0 0
+sound 10000
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はい、プロデューサー！
+line2 <shift> # 社長、ただいまでーすっ！」
+display
+com11 0 0
+sound 10001
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「３日間、ご苦労だった。これからも、
+line2 <shift> # わが社のホープとして、励んでくれたまえ」
+display
+com4a 0 0
+com11 0 0
+sound 10002
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「では、君達のアイドルランク報告だ！」
+display
+location 200
+com11 0 0
+sound 10003
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「ランクＦに、ランクＵＰしたようだな！
+line2 <shift> # だが、ここからは、そう甘くないぞ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「はい。……あ、ところで、社長。やよいのＴＶ
+line2 <shift> # 出演シーンは、観ていて下さったんですか？」
+display
+com11 0 0
+sound 10004
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「もちろんだとも。２人ともよくやってくれた！
+line2 <shift> # 今日は、かなりレベルが高かったようだね」
+display
+com11 0 0
+sound 10005
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「今、やよい君の後に出場した子を観ていたんだ
+line2 <shift> # が、素晴らしい才能の持ち主ばかりのようだ」
+display
+com11 0 0
+sound 10006
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「たとえば、思わず録画してしまったのだが、
+line2 <shift> # この娘なんて、素晴らしいじゃないか」
+display
+com4a 0 0 131 115 131 98 129 73
+display
+location 1
+com11 0 0
+sound 10007
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うあ〜。すごくかっこいい歌ですねっ！」
+display
+com11 0 0
+sound 10008
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「なんだか、歌声が力強いっていうか……。
+line2 <shift> # メラメラ〜って気分になります！」
+display
+com11 0 0
+sound 10009
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「誰が歌ってるんですか、社長？」
+display
+com11 0 0
+sound 10010
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「うむ。この子は、我那覇響！　最近、勢いを増
+line2 <shift> # してきた、９６１プロ所属の新人アイドルだよ」
+display
+com11 0 0
+sound 10011
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「皆、ありがとーっ！！　自分、絶対トップ
+line2 <shift> # アイドルになりたいんだ！　応援してねっ！」
+display
+com11 0 0
+sound 10012
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「『絶対トップアイドルになりたい』ですか〜。
+line2 <shift> # 私も言えるようになってみたいなあ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。しかし、この子、どこかで見たよう
+line2 <shift> # な……。あっ！　お、思い出したっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やよいと初めて会った日の帰りに、
+line2 <shift> # 会ったんだ！」
+display
+com11 0 0
+sound 10013
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ええっ！　そうだったんですか！？
+line2 <shift> # すっごい、偶然かも！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。もしかしたら彼女は将来、
+line2 <shift> # やよいの……」
+com03 0 3
+choice1 <shift> # 好敵手になるかもな
+line2
+com09 0 10
+com08
+choice2 <shift> # お姉さんになるかもな
+line2
+com09 0 11
+com08
+choice3 <shift> # ご主人さまになるかもな
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「好敵手になるかもな」
+display
+com11 0 0
+sound 10014
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「こうてき……？　すみません、
+line2 <shift> # それって、なんですかー？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、ゴメン！　ちょっと難しかったか。
+line2 <shift> # つまり、ライバルになるかも、ってことだよ」
+display
+com11 0 0
+sound 10015
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ライバルですか！　……てことは、
+line2 <shift> # エイッ！　ヤー！　って戦うんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、ああ。そんな感じかな」
+display
+com11 0 0
+sound 10016
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あの……。私、戦うのは、ちょっと……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「別に本当に戦うんじゃなくて、
+line2 <shift> # アイドルとして競い合うってことだよ」
+display
+com11 0 0
+sound 10017
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あ、そういう意味ですか。良かったー。バチ
+line2 <shift> # バチーって戦うのかもって、思っちゃいました」
+display
+com11 0 0
+sound 10018
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「でも私も、あれくらいビシビシーって、みんな
+line2 <shift> # にパワーをあげられるようになれたらいいなあ」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お姉さんになるかもな」
+display
+com11 0 0
+sound 10019
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「お姉さん、ですか？
+line2 <shift> # えーと、何でですか？」
+display
+com11 0 0
+sound 10020
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「私、長女だから、今から兄弟が増えたら、
+line2 <shift> # 妹になるんじゃ……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、あの、今のは冗談だ。え〜と、
+line2 <shift> # 彼女は、やよいのライバルになるかもな」
+display
+com11 0 0
+sound 10021
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「私なんかじゃ、とてもライバルになんて、
+line2 <shift> # なれないと思いますけど……」
+display
+com11 0 0
+sound 10022
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「私も、あれくらいビシビシーって、みんなに
+line2 <shift> # パワーを、あげられるようになれたらいいなあ」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ご主人さまになるかもな。
+line2 <shift> # やよいはペットっていうことだ」
+display
+com11 0 0
+sound 10023
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ええ！？　私、飼われちゃうんですか？
+line2 <shift> # 確かに、エサが毎日もらえるんだったら……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「い、いや。本気で検討しないでくれ。冗談だか
+line2 <shift> # ら。……なるとすれば、ライバルだろうな」
+display
+com11 0 0
+sound 10024
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はあ、ビックリしました〜」
+display
+com11 0 0
+sound 10025
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「う〜、私もあれくらいビシビシーって、みんな
+line2 <shift> # にパワーをあげられるようになれたらいいなあ」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10026
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「響さんの歌って、なんだかパワーがあります！
+line2 <shift> # こう、メラメラ〜って、元気がわいてきます！」
+display
+com11 0 0
+sound 10027
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「私も、さっきから、響さんの歌に、元気もらっ
+line2 <shift> # てる気がします！　これってスゴイかも！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「元気をもらうのもいいけど、アイドルとしては、
+line2 <shift> # やよいが元気をあげるぐらいに、ならないとな」
+display
+com11 0 0
+sound 10028
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そうですね！　私もいつか、みんなに『元気に
+line2 <shift> # なったよ』って言ってもらえるアイドルに……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （やよいは、我那覇響の中に、自分の理想の
+line2 <shift> # アイドル像を、見つけたのかもしれないな）
+display
+com11 0 0
+sound 10029
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「確かに、目標にするには申し分ない相手だな。
+line2 <shift> # 我那覇君は、まだデビューしたばかりだが……」
+display
+com11 0 0
+sound 10030
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「新人アイドルの中では、人気ナンバー１。
+line2 <shift> # まさに、新進気鋭だ。それに何と言っても！」
+display
+com11 0 0
+sound 10031
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「９６１プロが打ち出している『Ｐｒｏｊｅｃｔ
+line2 <shift> # Ｆａｉｒｙ』のアイドルだからね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「『Ｐｒｏｊｅｃｔ　Ｆａｉｒｙ』？
+line2 <shift> # それって何ですか？　すみません。不勉強で」
+display
+com11 0 0
+sound 10032
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「うむ。『Ｐｒｏｊｅｃｔ　Ｆａｉｒｙ』とは、
+line2 <shift> # ９６１プロの黒井社長自らが、手がける……」
+display
+com11 0 0
+sound 10033
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「アイドルの一大プロジェクトだ。これに属する
+line2 <shift> # 子は、大々的に売り出されることになるだろう」
+display
+com11 0 0
+sound 10034
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「９６１プロの途方もない財力のバックアップを
+line2 <shift> # 受けてね。それが黒井社長のやり方だからな」
+display
+com11 0 0
+sound 10035
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「わあ〜、すごいですね、響さんは。
+line2 <shift> # もうすぐトップアイドルなんですね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんな他人事みたいに言ってちゃダメだぞ。
+line2 <shift> # 響がトップを狙えるなら、やよいだって！」
+display
+com11 0 0
+sound 10036
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「そうだぞ、やよい君。実力は負けていないよ！
+line2 <shift> # 財力は我が７６５プロの完敗だがね。ははは！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うっ……。それは、全く笑えません、社長！」
+display
+com11 0 0
+sound 10037
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うう、７６５プロも貧乏だったんですね。
+line2 <shift> # 社長、食費のやりくり、大変ですか？」
+display
+com11 0 0
+sound 10038
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「は、ははは。君達へ払う給料のやりくりが、
+line2 <shift> # 大変では、あるかな……」
+display
+com11 0 0
+sound 10039
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「でもでもっ、私も貧乏だけど、気持ちだけは、
+line2 <shift> # いっつも元気で、前向きです！」
+display
+com11 0 0
+sound 10040
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「社長も、前向きに、がんばりましょう！
+line2 <shift> # 貧乏でも、いいこと、いっぱいありますよ！」
+display
+com11 0 0
+sound 10041
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「う、うむ。ありがとう、やよい君。
+line2 <shift> # さて、当面の君達の目標だが……」
+display
+com11 0 0
+sound 10042
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「アイドルランクを上げてゆき、ＩＵ（アイドル
+line2 <shift> # アルティメイト）優勝を目指したまえ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あの、質問ばっかりで、すみません。
+line2 <shift> # 『ＩＵ』っていうのは、歌番組の名前ですか？」
+display
+com11 0 0
+sound 10043
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「そうだ。年に１度だけ開かれ、真のトップアイ
+line2 <shift> # ドルが誰なのかを決める番組。それがＩＵだよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「真のトップアイドル……」
+display
+com11 0 0
+sound 10044
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「そうだ。番組の予選は数回にわけて行われる。
+line2 <shift> # 予選に勝てば、アイドルランクも上昇するぞ」
+display
+com11 0 0
+sound 10045
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「そして、ランクＡまで上りつめた者だけが、
+line2 <shift> # 番組内で行われる本選に参加できるのだ」
+display
+com11 0 0
+sound 10046
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「ＩＵの優勝者は、たった１人。
+line2 <shift> # もし、途中の予選や、本選で敗退すれば……」
+display
+com11 0 0
+sound 10047
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「は、敗退しちゃうと……、
+line2 <shift> # どうなっちゃうんですか？」
+display
+com11 0 0
+sound 10048
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「敗者の汚名だけが残る。たいていは、
+line2 <shift> # そのまま引退、というケースが多いな……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「厳しいですね……。どうする、やよい？
+line2 <shift> # 今ならまだ、普通の子に戻ることもできるぞ？」
+display
+com11 0 0
+sound 10049
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ええっ！　そ、そんなのイヤです！
+line2 <shift> # 私、厳しくっても、がんばりますっ！」
+display
+com11 0 0
+sound 10050
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「みんなに元気を、いっぱいあげたいから……、
+line2 <shift> # ＩＵで優勝して、トップアイドルになります！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、よく言った！　俺も同じ気持ちだよ。
+line2 <shift> # 必ず、夢をかなえような、やよい！」
+display
+com11 0 0
+sound 10051
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はいっ！　一緒に、がんばりましょう、
+line2 <shift> # プロデューサー。約束ですよ、いぇい！」
+display
+com11 0 0
+sound 10052
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「いずれ、９６１プロのアイドルと、
+line2 <shift> # オーディションで会うこともあるだろうが……」
+display
+com11 0 0
+sound 10053
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「君達の勝利を、私は信じている。君達と
+line2 <shift> # ファンとで、伝説を作ってくれたまえ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「はい！　よーし、やよい。
+line2 <shift> # ふたりで、めざすは！」
+display
+com11 0 0
+sound 10054
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「トップアイドルー！」
+display
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （こうして、やよいと俺の、
+line2 <shift> # 熱く厳しい戦いは、幕を開けたのだった……）
+display
+location 100
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ＴＶデビューを果たすことができた。
+line2 <shift> # しかし、ここからが戦いなんだ…………！）
+display
+location 101
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もっと早く色々片付けていれば
+line2 <shift> # もう１レッスンできたかも……」
+display
+location 102
+com11 0 0
+sound 10007
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「３日間、ご苦労だった。これからも
+line2 <shift> # わが社のホープとして、励んでくれたまえ」
+display
+com4a 0 0
+com11 0 0
+sound 10008
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「では、君たちのアイドルランク報告だ！」
+display
+location 200
+com11 0 0
+sound 10009
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「ランクＦに、ランクＵＰしたようだな！
+line2 <shift> # だがここからは、そう甘くないぞ」
+display
+com11 0 0
+sound 10010
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「実は……、ランクＦより上のランクには、
+line2 <shift> # ランクＵＰの『リミット』回数がある」
+display
+com4a 0 0
+com11 0 0
+sound 10011
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「ランクＦならば、ランクＦになってから
+line2 <shift> # 活動１０週以内に、ファンを１万人集めて」
+display
+com11 0 0
+sound 10012
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「次のランクＥになれなければ……、
+line2 <shift> # ユニットは『活動停止』となる！」
+display
+com11 0 0
+sound 10013
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「リミットまでの残り活動週は、毎朝
+line2 <shift> # 表示されるので、確認してくれ！」
+display
+com4a 0 0
+com11 0 0
+sound 10014
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「では次回より、リミット回数も意識して
+line2 <shift> # プロデュースに励んでくれたまえ」
+display
+location 103
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ファンからのプレゼントをチェックして帰るか」
+display
+location 201
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （次の活動では、デビュー曲を決めて
+line2 <shift> # いよいよオーディションだ！）
+display
+unk02

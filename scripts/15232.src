@@ -1,0 +1,457 @@
+com2c 0 17
+com2d 0 31
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （人気時代劇の２時間スペシャルに出演が決まり、
+line2 <shift> # 今日は、その台本読みだ）
+display
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「……うあー。この台本、難しいですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうした、やよい。
+line2 <shift> # 読めない漢字でも、あったか？」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あ、漢字は平気です。
+line2 <shift> # ふりがな、ふってありますから」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「でも、たとえばここの……、『ちゃきちゃきの
+line2 <shift> # 江戸っ子だよ！』ってセリフなんですけど」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あの、『ちゃきちゃき』って、
+line2 <shift> # どういう意味なんですか？」
+com03 0 3
+choice1 <shift> # 意味なんか気にするな
+line2
+com09 0 10
+com08
+choice2 <shift> # 嫡々という意味だ
+line2
+com09 0 11
+com08
+choice3 <shift> # 茶器茶器という意味だ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、これなら、意味なんか気にしなくて
+line2 <shift> # いいぞ。元気っぽい雰囲気で言えば、ＯＫだ」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ええっ！？　そうなんですか？
+line2 <shift> # それでいいなら、楽かもですけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うん、それでいいよ。ほんとの意味なんて、
+line2 <shift> # どうせみんな知らないし。大事なのは勢いだ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ほら、いつもやよいが言ってる『てやーっ』と
+line2 <shift> # か『めらめら〜っ』とか、あんな感じで頼むよ」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はいっ！　えへへ。それなら、
+line2 <shift> # ちょっと出来そうな気が、してきました！」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「さっきまでは、このお仕事、
+line2 <shift> # 全然ムリかもって思ってたけど……」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、それはたしか、
+line2 <shift> # 『嫡々』って言葉が変化した言い方らしいぞ」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あ、あのー、その『ちゃくちゃく』は、
+line2 <shift> # どういう意味なんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え？　『生粋の』とか、
+line2 <shift> # そういう意味だったはずだけど」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「『キッスイノ』？　……うう〜。やっぱり、
+line2 <shift> # 難しすぎかも。もっと勉強しなきゃダメですね」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ？　それは……。き、きっと、『茶器』
+line2 <shift> # のことだよ。茶器茶器。茶の器だな！」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「それって、つまり、湯のみのことですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、きっとそう……、なんじゃないかな？」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「じゃあ、『ちゃきちゃきの江戸っ子』って、
+line2 <shift> # 『湯のみの江戸っ子』ってことですよね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうなるな……。
+line2 <shift> # はて、そりゃどういう意味だ、やよい？」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「え〜っ！？　プロデューサーも、わからないん
+line2 <shift> # ですか？　それじゃ、私にわかるわけないかも」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10012
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「……時代劇、私には、まだムリかなーって」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おいおい、そんな弱気なこと、言うなよ」
+display
+com11 0 0
+sound 10013
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「だって私、歴史の勉強とか、まだあんまり、
+line2 <shift> # いっぱいはしてないし、それに……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それに？」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「小学校の時も、学芸会でしゃべったの、
+line2 <shift> # 『ざわざわ』だけだったし」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ざわざわ……。変わったセリフだな」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「もしかしたら、セリフじゃないかもですけど。
+line2 <shift> # 木の役で、風に揺れて、ざわざわ〜って！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （う……。木の役なんて、あるのか？
+line2 <shift> # ただの背景の一部という気もするが……）
+com03 0 3
+choice1 <shift> # 木だって立派な役だ
+line2
+com09 0 30
+com08
+choice2 <shift> # ……微妙な役だな
+line2
+com09 0 31
+com08
+choice3 <shift> # 見てみたいな
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、でも、木だって立派な役だぞ、やよい」
+display
+com11 0 0
+sound 10016
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えっ、そうなんですか〜？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうとも！　木の１本だって、
+line2 <shift> # その舞台には必要不可欠な存在だったはずだ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やよいは、そんな重要な役をやりとげたんだ
+line2 <shift> # から、もっと自信を持っていいぞ！」
+display
+com11 0 0
+sound 10017
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そっかあ。あの役、大事だったんだ。プロ
+line2 <shift> # デューサーに言われて、初めて気がつきました」
+display
+com11 0 0
+sound 10018
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「代わってもらった時は悲しかったけど、
+line2 <shift> # 今、思うと、それで良かったんですねー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え？　代わってもらった、って、
+line2 <shift> # どういう意味だ？」
+display
+com11 0 0
+sound 10019
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あ、本当は主役のお姫様をやるはずだったんで
+line2 <shift> # すけど、衣装に、お金がかかるってきいて……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （く……。それで木の役と交代したのか。
+line2 <shift> # 苦労したんだな、やよい……）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……微妙な役だな。
+line2 <shift> # いてもいなくても同じっていうか」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「少なくとも、芝居の経験になったとは、
+line2 <shift> # 言えないよな。それは」
+display
+com11 0 0
+sound 10020
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そうですよね。私、木の役は、
+line2 <shift> # がんばってやったんですけど……」
+display
+com11 0 0
+sound 10021
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「でも、今回のお仕事は、やっぱり、
+line2 <shift> # ちょっとラベルが違うって感じで……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ラベル？　……レベルの間違いか？
+line2 <shift> # まあ、いいけど……）
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「見てみたいな。その、やよいの木の演技」
+display
+com11 0 0
+sound 10022
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「……えーっ！？　ぷ、プロデューサー、
+line2 <shift> # 本気ですかっ？」
+display
+com11 0 0
+sound 10023
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あの……、
+line2 <shift> # きっと、見ても面白くないですよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、もしかしたらってこともある。
+line2 <shift> # やよいの演技のレベルを確かめておきたいしな」
+display
+com11 0 0
+sound 10024
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うう〜……。じゃ、じゃあ、
+line2 <shift> # ちょこっとだけ、やってみますね」
+display
+com11 0 0
+sound 10025
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ざ……、ざわざわ〜」
+display
+com11 0 0
+sound 10026
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「……終わりですー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……うーん、実際に見てみると、
+line2 <shift> # 微妙としか言いようがないな」
+display
+com11 0 0
+sound 10027
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うう、やっぱりそうですよね。学芸会の時、
+line2 <shift> # 弟たちにも、色々言われたんです……」
+com09 0 49
+display
+location 49
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ま、まあ、でも、やよいもアイドルデビュー
+line2 <shift> # してからは、他の役も体験してるし」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今回の時代劇も、何とかなるんじゃないか？」
+display
+com11 0 0
+sound 10028
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「でも、今のスケジュールだと、
+line2 <shift> # 練習する時間が、あんまり無いですよね」
+display
+com11 0 0
+sound 10029
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「このままじゃ、変なお芝居しちゃって、
+line2 <shift> # 他のみんなに迷惑かけちゃいそうですー」
+display
+com11 0 0
+sound 10030
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「それは、困るかも。ど、どうしよ〜！」
+com03 0 3
+choice1 <shift> # 演技するのはよそう
+line2
+com09 0 50
+com08
+choice2 <shift> # これから猛特訓だ！
+line2
+com09 0 51
+com08
+choice3 <shift> # セリフを減らしてもらおう
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「演技するのはよそう。演じようと意識するから
+line2 <shift> # いけないんだ。いつものやよいのままでいいよ」
+display
+com11 0 0
+sound 10031
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ええーっ！？　で、でも、それじゃ、
+line2 <shift> # お芝居に、ならないんじゃないですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなことはないさ。セリフは、
+line2 <shift> # ちゃんとあるんだから、芝居は成立するよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ただ、いつものやよいのままで、
+line2 <shift> # セリフを言えばいいだけだ。難しくないだろ？」
+display
+com11 0 0
+sound 10032
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「いつもの私のまま……。
+line2 <shift> # そっか！　それなら、難しくないです！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おっ、元気が出てきたな。
+line2 <shift> # その意気だ、がんばれ！」
+display
+com11 0 0
+sound 10033
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はいっ、がんばります！
+line2 <shift> # うっうー！　元気な時代劇に、しましょーっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後、出来上がったドラマが放送されると、
+line2 <shift> # 元気いっぱいのやよいの姿が、評判になった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （やよいの魅力が、じゅうぶんに発揮された
+line2 <shift> # ドラマになったぞ。良かったな、やよい！）
+com09 0 69
+display
+location 51
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「こうなったら、手は１つしかない。
+line2 <shift> # これから猛特訓するぞ！」
+display
+com11 0 0
+sound 10034
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ええっ！？　で、でも、
+line2 <shift> # スケジュールは大丈夫なんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もちろん、空き時間に、
+line2 <shift> # ムリヤリ詰め込むことになるな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……ハードスケジュールになるが、
+line2 <shift> # ついてこられるか？」
+display
+com11 0 0
+sound 10035
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はい、プロデューサー！
+line2 <shift> # 私、一生懸命がんばりまーすっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……やよいは、その後、本当に一生懸命、
+line2 <shift> # 寝る間も惜しんで、がんばってくれた）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （だが、過密スケジュールで疲れがたまったのか、
+line2 <shift> # かんじんの本番でミスを連発。失敗した……）
+com09 0 69
+display
+location 52
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「セリフを減らしてもらうしかないか。
+line2 <shift> # それなら、ボロも出にくいだろう」
+display
+com11 0 0
+sound 10036
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うう〜、ごめんなさい〜。
+line2 <shift> # 私が、ちゃんと出来ないから……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「気にするなって。本職の役者じゃないし、
+line2 <shift> # 出来なくたって仕方ないさ。誰も怒らないよ」
+display
+com11 0 0
+sound 10037
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「が〜ん……。そう言われると、期待されて
+line2 <shift> # ないみたいで、なんかショックかもです〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （結局、セリフは削ってもらったが、
+line2 <shift> # セリフの数が、あまりにも少なすぎて……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （当初、予定していた問屋の娘から、通行人Ａに
+line2 <shift> # なってしまった。……これじゃ意味ないよな）
+com09 0 69
+display
+location 69
+unk02

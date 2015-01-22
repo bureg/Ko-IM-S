@@ -1,0 +1,457 @@
+com2c 0 28
+com2c 0 110
+com2c 0 201
+com2d 0 61
+com32 0 0
+com11 0 0
+sound 0
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「あうぅ……。今日のお仕事は、
+line2 <shift> # お化け屋敷のレポートなんですよね……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。病院がテーマの、
+line2 <shift> # 今、話題のお化け屋敷らしい」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「派手に怖がってくれて大丈夫だぞ。
+line2 <shift> # それがＰＲにもなるから」
+display
+com11 0 0
+sound 1
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「でも私、怖すぎて気絶しちゃうかも……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん。気絶したら、さすがに
+line2 <shift> # ＰＲにはならないかもしれないな」
+display
+com11 0 0
+sound 2
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「お仕事がちゃんとできないのはイヤですぅ。
+line2 <shift> # プロデューサー、なんとかしてください……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだな、俺からできるアドバイスは……」
+com03 0 3
+choice1 <shift> # お化けなんてウソだ
+line2
+com09 0 10
+com08
+choice2 <shift> # ここには、いないよ
+line2
+com09 0 11
+com08
+choice3 <shift> # 怖がってると集まるぞ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お化けなんてウソだ。
+line2 <shift> # 本気で怖がる必要なんか、ないんだぞ」
+display
+com11 0 0
+sound 3
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「そ、そう言ってもらえると、
+line2 <shift> # 少しだけ気分が楽になります」
+display
+com11 0 0
+sound 4
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「そうですよね。少なくとも、
+line2 <shift> # 遊園地にはいませんよね……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだ。ウソなんだ。
+line2 <shift> # さあ、頑張って、仕事を成功させような！」
+display
+com11 0 0
+sound 5
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「はい、頑張ります。
+line2 <shift> # お化けなんかウソ、お化けなんかウソ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （何度も繰り返している。
+line2 <shift> # 本当に怖いんだな……）
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ここには、いないよ。俺にはわかるんだ」
+display
+com11 0 0
+sound 6
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「わ、わかるって、どうして……？　プロデュー
+line2 <shift> # サー、もしかして、そういう能力が？　あわわ」
+display
+com11 0 0
+sound 7
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「こ、今度は……プロデューサーのことが
+line2 <shift> # 怖くなってきたかも。ううう……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （余計におびえさせてしまった……。
+line2 <shift> # 下手なこと言うもんじゃないな）
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「怖がってると、集まるぞ」
+display
+com11 0 0
+sound 8
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「あ、集まるって……何がですか？
+line2 <shift> # まさか……お、お化け？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そう。昔から言うだろ。
+line2 <shift> # 怪談話をしてると、霊が集まりやすいんだ」
+display
+com11 0 0
+sound 9
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「そ、そんな、困りますぅ。
+line2 <shift> # こんな時に集まられたら、仕事どころじゃ……」
+display
+com11 0 0
+sound 10
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「お、お父さん、お母さん、
+line2 <shift> # どうか雪歩をお守りください……」
+display
+com11 0 0
+sound 11
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「頑張れ、私。負けるな、私。
+line2 <shift> # これは夢、本当の私はお布団の中……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （現実逃避してしまった。怖がるのはよくないと
+line2 <shift> # 言おうとしたんだけど、失敗だったな）
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「さあ、そろそろ行こうか。
+line2 <shift> # いつまでも入り口にいても仕方がないしな」
+display
+com22 0 30
+com21 0 30
+com32 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おっ。真っ暗なわけじゃないのか。話題に
+line2 <shift> # なるだけあって、変わったお化け屋敷だな」
+display
+com11 0 0
+sound 12
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ううう、でも、リアルなつくりだから、
+line2 <shift> # それがまた、怖いです……、きゃっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうした、雪歩！？
+line2 <shift> # まだ１歩しか入ってないぞ？」
+display
+com11 0 0
+sound 13
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「あの……、あのカゲ。頭のところに
+line2 <shift> # ツノが見えたりしませんか？　お、お化けかも」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あれは、雪歩と俺のカゲだよ。
+line2 <shift> # ツノに見えるのは、髪の毛だぞ。ほら」
+display
+com11 0 0
+sound 14
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「あ。なあんだ、びっくりしましたぁ……。
+line2 <shift> # きゃっ……！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「こ、今度はなんだ！？
+line2 <shift> # まだ２歩しか入ってないぞ？」
+display
+com11 0 0
+sound 15
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「奥の方から、不気味な音が
+line2 <shift> # 聞こえてきましたぁ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それは、俺達の足音が響いてるだけだ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （まだ入り口なのに、この騒ぎ……。
+line2 <shift> # このままじゃ、レポートにならないぞ）
+com03 0 3
+choice1 <shift> # 手、つなごうか？
+line2
+com09 0 30
+com08
+choice2 <shift> # 早く終わらせよう
+line2
+com09 0 31
+com08
+choice3 <shift> # みんなカボチャだと思え
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「手、つなごうか？
+line2 <shift> # 少しは怖くなくなるかもしれない」
+display
+com11 0 0
+sound 16
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「い、いいんですか？　すみません……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうだ？　少しは恐怖心が消えたか？」
+display
+com11 0 0
+sound 17
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「はい。まだ怖いですけど……。
+line2 <shift> # 何とか前に進めそうです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （手をつないだおかげで、いくぶん
+line2 <shift> # 落ち着きを取り戻したみたいだ。よかったな）
+com09 0 39
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「早く終わらせよう。いつまでもここにいたら、
+line2 <shift> # いつまでも終わらないぞ？」
+display
+com11 0 0
+sound 18
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「うう……わかってますけど、足がすくんで。
+line2 <shift> # ぐすんっ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああー！　泣かないでくれ。
+line2 <shift> # ゆっくり確実に行こう。な？」
+display
+com11 0 0
+sound 19
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「は、はいぃ……」
+com09 0 39
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「雪歩、お化けは、みんなカボチャだと思え。
+line2 <shift> # ステージに上がる時と、一緒だ」
+display
+com11 0 0
+sound 20
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「はい。お化けはみんな、カボチャ……。
+line2 <shift> # カボチャのお化け……」
+display
+com11 0 0
+sound 21
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「こ、怖いですぅ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （しまった、おいうちをかけてしまった……。
+line2 <shift> # でもカボチャのお化けって……怖いか？）
+com09 0 39
+display
+location 39
+com22 0 30
+com21 0 30
+com11 0 0
+sound 22
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ぷ、プロデューサー。
+line2 <shift> # どこからか、恐ろしい笑い声が……」
+display
+com11 0 0
+sound 23
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「あああっ、あっちの人影、
+line2 <shift> # 足がありませんっ！」
+display
+com11 0 0
+sound 24
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「足がないのに、ゆらゆらとこっちに、
+line2 <shift> # 近づいてきます……。ほ、本物？　あわわ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「待て待て！　ピアノ線で吊ってあるだけだよ」
+display
+com11 0 0
+sound 25
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「そ、そんなのわからないですよ？
+line2 <shift> # も、もうダメですぅ。一歩も歩けません」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （そうとう参っているみたいだな。
+line2 <shift> # これ以上、無理はさせられない……）
+display
+com11 0 0
+sound 26
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「あのう、プロデューサー。道が２つに
+line2 <shift> # わかれてて、何か書いてありますけど……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なになに？　『片方は出口への道、もう片方は
+line2 <shift> # 地獄の診察室ルートへ直結している』だってさ」
+display
+com11 0 0
+sound 27
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ええっ、そんな、困りますぅ。
+line2 <shift> # 地獄ルートなんてムリです……ぐすっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （雪歩はもう限界だ。ここはカンで
+line2 <shift> # 絶対に、出口ルートを選ばなければ……！）
+com03 0 2
+choice1 <shift> # 右の道
+com09 0 40
+com08
+choice2 <shift> # 左の道
+com09 0 41
+com08
+com07
+com09 0 42
+com08
+display
+location 40
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、右へ行くぞ！」
+com37 0 1
+com1e 0 0
+com09 0 48
+com3b
+com37 0 0
+com1e 0 0
+com09 0 49
+com3b
+display
+location 41
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、左へ行くぞ！」
+com37 0 1
+com1e 0 0
+com09 0 48
+com3b
+com37 0 0
+com1e 0 0
+com09 0 49
+com3b
+display
+location 42
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、なんとなく進むぞ！」
+com09 0 49
+display
+location 48
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ん？　どんどん明るくなっていく。
+line2 <shift> # こっちのルートは……」
+display
+com22 0 30
+com32 0 0
+com21 0 30
+com11 0 0
+sound 28
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「やりましたよ、プロデューサー。
+line2 <shift> # こっちが出口だったみたいですねぇ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「雪歩、よく頑張ったな！」
+display
+com11 0 0
+sound 29
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「あ、はい。ちょっと自信になったかもです。
+line2 <shift> # 怖かったけど、怖がってばかりじゃダメですね」
+display
+com11 0 0
+sound 30
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「怖がらずに進むこと……勉強しました。
+line2 <shift> # プロデューサー、ありがとうございます」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （怖がってる雪歩の画もバッチリ撮れたし、
+line2 <shift> # このレポート、いいＰＲになりそうだな）
+com4b 0 0
+com09 0 59
+display
+location 49
+com11 0 0
+sound 31
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ぷ、プロデューサー……。
+line2 <shift> # なんだか、雰囲気が怪しくなってきました」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「大丈夫、こっちが出口だ。たぶん！」
+display
+com22 0 30
+com32 0 2
+com21 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……と思ったが、どうやら
+line2 <shift> # こっちは間違いだったみたいだな」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「鬼は出るし、ゾンビはいるし、
+line2 <shift> # 出口はまだまだ遠い感じだ……」
+display
+com11 0 0
+sound 32
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「あうぅ、そんな。
+line2 <shift> # プロデューサー、私もう動けません……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おいおい。動かないと、いつまでたっても
+line2 <shift> # ここから抜け出せないぞ」
+display
+com11 0 0
+sound 33
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「でも、動けないんです。
+line2 <shift> # ご、ごめんなさい……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （そう言って、雪歩は座り込んでしまった。
+line2 <shift> # どうやら腰を抜かしてしまったらしい）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （レポートは大失敗。怖がりの雪歩には、
+line2 <shift> # まったく向いていない仕事だったな……）
+com4b 0 2
+com09 0 59
+display
+location 59
+unk02

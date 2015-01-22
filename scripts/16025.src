@@ -1,0 +1,285 @@
+com2c 0 24
+com2d 0 31
+com32 0 0
+com11 0 2
+sound 600
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「プロデューサー。
+line2 <shift> # 雑誌の取材、終わりましたー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「今日は、なにを話したんだ？」
+display
+com11 0 2
+sound 601
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「えへへ〜。ライブの時に、
+line2 <shift> # ライトをキックしちゃった話とか！」
+com03 0 3
+choice1 <shift> # それは、ウケただろ？
+line2
+com09 0 10
+com08
+choice2 <shift> # それは、クールだな
+line2
+com09 0 11
+com08
+choice3 <shift> # それは、実話か！？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それは、ウケただろ？」
+display
+com11 0 2
+sound 602
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はいっ！　すっごく楽しそうに、
+line2 <shift> # きいてくれてー」
+display
+com11 0 2
+sound 603
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「他にも、おいしい野菜炒めのつくり方とか、
+line2 <shift> # 安いスーパーの話とか、しましたっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「芸能、料理、買い物か。主婦雑誌みたいだな」
+display
+com11 0 2
+sound 604
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「えへへっ、そんなノリかもっ！」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それは、クールだな」
+display
+com11 0 2
+sound 605
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「えっ、カッコいいですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ロックバンドならともかく、アイドルで、
+line2 <shift> # そんなことやるのは、やよいぐらいだし」
+display
+com11 0 2
+sound 606
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うう〜、ごめんなさい〜。
+line2 <shift> # わざとじゃないんです〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え、あ、つまずいただけなのか……？
+line2 <shift> # ま、まあ、ケガさえしなければ」
+display
+com11 0 2
+sound 607
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「なるべく、気をつけまーす……」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それは、実話か！？」
+display
+com11 0 2
+sound 608
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「え、あの〜、そ、そのー……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ほら、怒らないから、正直に……」
+display
+com11 0 2
+sound 609
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「んーと……、つ、つくり話かもっ！」
+display
+com11 0 2
+sound 610
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「えへへ……。プロデューサー、
+line2 <shift> # お、お茶、飲みますよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ごまかさないの」
+display
+com11 0 2
+sound 611
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「う、ごめんなさい〜。気をつけます……」
+com09 0 19
+display
+location 19
+com11 0 2
+sound 612
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ！　私、インタビューされてて、
+line2 <shift> # 思ったんですけどー」
+display
+com11 0 2
+sound 613
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「雑誌って、ちょっと残念ですよね。
+line2 <shift> # 読む人には、直接、声、伝えられないし……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それは、しょうがないよ。
+line2 <shift> # ＴＶやライブとは、ちがうメディアだし」
+display
+com11 0 2
+sound 614
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「もっとこう、雑誌でも、ストレートに伝える
+line2 <shift> # 手とかって、ないでしょうか？」
+com03 0 3
+choice1 <shift> # ＣＤでもつけてみる？
+line2
+com09 0 20
+com08
+choice2 <shift> # イラストでも描く？
+line2
+com09 0 21
+com08
+choice3 <shift> # 自分で、記事書く？
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ＣＤでもつけてみる？」
+display
+com11 0 2
+sound 615
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「えっ？　できるんですか、そんなこと！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「タイアップすれば。歌は無理だけど、
+line2 <shift> # おしゃべりとか、メッセージなら……」
+display
+com11 0 2
+sound 616
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うっう〜、それ、楽しそう！
+line2 <shift> # プロデューサー、なんとかなりませんかっ！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ、ちょっと企画、持っていってみるよ」
+display
+com11 0 2
+sound 617
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はいっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （おもしろいアイディアが、出てきたな。
+line2 <shift> # やよいも、すっかり乗り気のようだ！）
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「イラストでも、描く？」
+display
+com11 0 2
+sound 618
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「え、私が自分で？
+line2 <shift> # え、え〜っと、どうしよう〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あまり得意じゃない？」
+display
+com11 0 2
+sound 619
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「いえ、得意ですっ！　学校の友達は、
+line2 <shift> # 『すさまじい』って、ほめてくれるし」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「すさまじい……？　うまい、じゃなくて？」
+display
+com11 0 2
+sound 620
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「同じ意味ですよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「一度見てみたいから、描いてみてくれる？」
+display
+com11 0 2
+sound 621
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「わかりました。えへへっ、プロデューサー、
+line2 <shift> # ビックリしないで下さいねっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、やよいが描いた絵は、すさまじかった。
+line2 <shift> # とても雑誌社には、持っていけないほど……）
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「自分で、記事書く？」
+display
+com11 0 2
+sound 622
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「え……。私が、ですかっ！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。やよいの直筆で、日記とか」
+display
+com11 0 2
+sound 623
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うううう、ち、違うことの方が、
+line2 <shift> # うれしいかも〜」
+display
+com11 0 2
+sound 624
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「その〜、そういうのはやっちゃいけないって、
+line2 <shift> # 言われてるんです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「誰に？」
+display
+com11 0 2
+sound 625
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「な、亡くなったおじいちゃん？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なぜ、疑問形なんだ？　……本当の理由は？」
+display
+com11 0 2
+sound 626
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「う……。ほ、ほんとは、字書くの苦手で〜っ」
+display
+com11 0 2
+sound 627
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「先生にも、
+line2 <shift> # 『お前の書く字は、象形文字だ』って……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ふさぎこんでしまった……。そうか。
+line2 <shift> # そんなに字が下手だとは、知らなかった……）
+com09 0 29
+display
+location 29
+unk02

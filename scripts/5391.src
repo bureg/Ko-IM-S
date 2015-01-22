@@ -1,0 +1,300 @@
+com2c 0 32
+com2d 0 11
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ＣＤショップの店内で、ミニライブ
+line2 <shift> # イベントをすることになった）
+display
+com11 0 4
+sound 1000
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「お店のミニステージ、
+line2 <shift> # わざわざ用意してもらいましたし……」
+display
+com11 0 4
+sound 1001
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ここはいつも以上に、
+line2 <shift> # 頑張らなくっちゃですね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、そうだな。
+line2 <shift> # さぁ、いよいよ開場だ」
+display
+com11 0 4
+sound 1002
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「わぁ……！　満席どころか、立ち見の
+line2 <shift> # お客さんもいっぱいいそうですっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ほんとだ。キャパが小さめとはいえ、
+line2 <shift> # 随分人が集まったなぁ」
+display
+com11 0 4
+sound 1003
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はいっ。うーん、でも……
+line2 <shift> # ちょっと、窮屈な感じがしますね」
+com03 0 3
+choice1 <shift> # そうだな、苦しそうだ
+line2
+com09 0 10
+com08
+choice2 <shift> # 満員御礼だ
+com09 0 11
+com08
+choice3 <shift> # 贅沢言うなよ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだな、苦しそうだ。お客さんが
+line2 <shift> # たくさん入ってくれたのは嬉しいけど……」
+display
+com11 0 4
+sound 1004
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「このまますし詰め状態でライブを
+line2 <shift> # はじめたら、倒れちゃう人が出るかも」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「しかし、今から客席を広く作り直すわけにも
+line2 <shift> # いかないよなぁ」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「満員御礼だ。嬉しいね、ステージを見に来て
+line2 <shift> # くれる人が、こんなにいるなんて」
+display
+com11 0 4
+sound 1005
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ええ。でも……」
+display
+com11 0 4
+sound 1006
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「うーん、無事ライブができればいいんだけど
+line2 <shift> # ……このままだと心配です」
+display
+com11 0 4
+sound 1007
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「窮屈なのを我慢して見るライブなんて、
+line2 <shift> # お客さんは楽しくないんじゃないかなぁ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「確かに、それはそうだな。
+line2 <shift> # 無理はしてほしくないもんだね」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「贅沢言うなよ。狭いお店だけどさ……
+line2 <shift> # せっかくステージを用意してもらったんだから」
+display
+com11 0 4
+sound 1008
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ああっ、そういう意味じゃないですよ！」
+display
+com11 0 4
+sound 1009
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「客席に人が入りすぎたら……お客さんが
+line2 <shift> # 苦しくて、大変じゃないですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、そうだね。混みすぎて、
+line2 <shift> # 身動きが取れない感じだ」
+display
+com11 0 4
+sound 1010
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ですよね。もしかしたら、倒れちゃう人が
+line2 <shift> # いるかもしれないと思って」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「満員なのは嬉しいけど、
+line2 <shift> # そこのところは確かに心配だね」
+com09 0 29
+display
+location 29
+com22 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （狭い客席に熱気がこもり、袖に控えている
+line2 <shift> # こちらにも伝わってくる）
+display
+com11 0 4
+sound 1011
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ああっ！」
+display <shift> # どんがらがっしゃーん！！
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うわぁ春香っ！　転んだか？　大丈夫か！
+line2 <shift> # ものすごい大音響がしたけど……」
+display
+com21 0 30
+com11 0 4
+sound 1012
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「わ、私じゃないですよ！　お客さんが
+line2 <shift> # あふれて、客席が壊れてしまって！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんと！　まずいな、大騒ぎになってる」
+display
+com11 0 4
+sound 1013
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ど、どうしよう！　お客さん同士で
+line2 <shift> # ケンカまではじまっちゃいました！」
+display
+com11 0 4
+sound 1014
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「このままだと、店内みんな大パニックに……。
+line2 <shift> # なんとかして、しずめなきゃ！」
+com03 0 2
+choice1 <shift> # わかった、頼むぞ春香！
+line2
+com09 0 30
+com08
+choice2 <shift> # いや、逃げろ春香！
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わかった、頼むぞ春香！」
+display
+com11 0 4
+sound 1015
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はいっ、まかせてください！　……みなさん
+line2 <shift> # 落ち着いて、座席に戻ってくださーい！」
+display
+com11 0 4
+sound 1016
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「きゃああああ〜っ」
+display <shift> # どんがらがっしゃーん！
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うわ、春香が滑って転んで、
+line2 <shift> # ステージがさらに破壊されたぞ）
+display
+com11 0 4
+sound 1017
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ぷ、プロデューサーさーん……。
+line2 <shift> # うううっ、もうお客さんを抑え切れませんっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「な、泣くなぁ！
+line2 <shift> # もうちょっとだけ頑張ってくれ！」
+display
+com11 0 4
+sound 1018
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ううっ……」
+display
+com11 0 4
+sound 1019
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「私……、続きを歌いたいです！
+line2 <shift> # ですから、みなさんどうかお静かに！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お……、暴動が収まった？」
+display
+com11 0 4
+sound 1020
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ちょっと聴き辛いかもですけど、
+line2 <shift> # 聴いてください、私、歌いますっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そして半壊したステージでライブは再開された。
+line2 <shift> # 春香が機転をきかせてくれてよかった……）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、この場は逃げろ春香！
+line2 <shift> # ステージ崩壊は俺が食い止める！」
+display
+com11 0 4
+sound 1021
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ええっ！　でも……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「騒ぎに便乗して楽屋に大勢乗り込まれたり
+line2 <shift> # したら、それこそ収拾がつかなくなるぞ」
+display
+com11 0 4
+sound 1022
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「わっ！　は、はい！　それは危険ですね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「はい、お客さん落ち着いて！　座席に
+line2 <shift> # 戻って……。ぐあっ、とても抑え切れん！」
+display
+com11 0 4
+sound 1023
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「わ、私、救援を呼んできますっ」
+display
+com11 0 4
+sound 1024
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「きゃああああ〜っ」
+display <shift> # どんがらがっしゃーん！
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うわ、春香が滑って転んで、
+line2 <shift> # ステージがさらに破壊されたぞ）
+display
+com22 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後しばらくして暴動は収まったが、
+line2 <shift> # 店内は結局、めちゃくちゃになってしまった）
+display
+com21 0 30
+com11 0 4
+sound 1025
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「すみません、プロデューサーさん、
+line2 <shift> # 怒ったお客さんにボコボコに……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「春香のせいじゃあないさ。ははは……。
+line2 <shift> # しかしお店の人にはちょっと悪いことしたな」
+display
+com11 0 4
+sound 1026
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「お客さんも帰ってしまって……。
+line2 <shift> # 今回のライブは中止ですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まぁ、残念だけど仕方ない。
+line2 <shift> # こんなときもあるさ」
+com09 0 49
+display
+location 49
+unk02

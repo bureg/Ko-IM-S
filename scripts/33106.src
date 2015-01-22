@@ -1,0 +1,253 @@
+com2c 0 28
+com2d 0 61
+com32 0 0
+com11 0 3
+sound 200
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「おつかれさまです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ステージおつかれさま。さて、
+line2 <shift> # まだ少し時間があるかな……」
+display
+com11 0 3
+sound 201
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「あ、あの、これから遊びに行こうって、
+line2 <shift> # 言ってるスタッフさんがいます」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、遊園地で遊ぶのか。
+line2 <shift> # いいよ、雪歩も行ってきたら？」
+display
+com11 0 3
+sound 202
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「うーん、でもぉ」
+com03 0 2
+choice1 <shift> # 遠慮することないよ
+line2
+com09 0 10
+com08
+choice2 <shift> # 疲れたかな？
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんな、遠慮することないよ」
+display
+com11 0 3
+sound 203
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「は、はい。だけど私、その、
+line2 <shift> # どうしたらいいのか……」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ステージで疲れたかな？
+line2 <shift> # まぁ無理に行くことはないかな」
+display
+com11 0 3
+sound 204
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「そ、そうですよねっ……でも、その」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺もちょっとだけ、様子見てこようかな」
+display
+com11 0 3
+sound 205
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「えと、あの、その、でも、
+line2 <shift> # 時間とか……ほんとに大丈夫ですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「他の仕事に差し支えなければ、かまわないぞ。
+line2 <shift> # ほんとは行きたいんじゃないか、雪歩」
+display
+com11 0 3
+sound 206
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「は、はい。すみません。だけど私、
+line2 <shift> # その、どうしたらいいのか……」
+com09 0 29
+display
+location 29
+com11 0 3
+sound 207
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「実は、遊園地って、
+line2 <shift> # あんまり来たことなくて」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうなの？」
+display
+com11 0 3
+sound 208
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「うちのお父さんが遊園地嫌いで、
+line2 <shift> # 私、連れてきてもらったことがなくて」
+display
+com11 0 3
+sound 209
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「友達と出かけたい、って言っても、
+line2 <shift> # いつも反対されてばかりだったから……」
+display
+com11 0 3
+sound 210
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「だからいざ来ても、何をしたらいいのか……
+line2 <shift> # で、でもっ、何かみんな楽しそうな感じです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか、しかしこの際いい機会だ。どれか
+line2 <shift> # アトラクションに行ってみるのもいいんじゃ？」
+display
+com11 0 3
+sound 211
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「お、思い切って、
+line2 <shift> # 何か行ってみようかな？」
+com03 0 3
+choice1 <shift> # 一緒に行こう
+line2
+com09 0 30
+com08
+choice2 <shift> # 行ってきなよ
+line2
+com09 0 31
+com08
+choice3 <shift> # うーん……
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、じゃあ俺と一緒に行こう！
+line2 <shift> # もちろん、おごるよ」
+display
+com11 0 3
+sound 212
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「は、はい！　それなら安心ですっ」
+display
+com11 0 3
+sound 213
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「いろいろ乗ってみたいです。怖いのとか……、
+line2 <shift> # プロデューサー、案内おねがいしますね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、まかせとけ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （それから、短い時間ながら、俺と雪歩とで、
+line2 <shift> # 遊園地のアトラクションを楽しんだ）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （新鮮な体験だったらしく、雪歩はかなり喜んで
+line2 <shift> # くれたみたいだ。誘ってよかったな……）
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「雪歩、行ってきなよ。俺が許可するぞ」
+display
+com11 0 3
+sound 214
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「は、はい、ありがとうございますぅ。
+line2 <shift> # だけど、ど、どこへ行ったら……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「適当にスタッフの後ろについていったら
+line2 <shift> # いいよ」
+display
+com11 0 3
+sound 215
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「そうですね、わかりましたっ。
+line2 <shift> # ついて行って、いろいろ、きいてみます」
+display
+com11 0 3
+sound 216
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「こういうのも、習うより慣れろ、ですよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうとも。さ、時間は長くは取れないけど、
+line2 <shift> # 好きなところには行けるよ、楽しんでおいで」
+display
+com11 0 3
+sound 217
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「はいっ、行ってきます」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、雪歩は、スタッフ達と、
+line2 <shift> # 駆け足で、遊園地巡りにでかけた）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （あまりアトラクションを見て回れなかったみた
+line2 <shift> # いだけど、雰囲気だけでも楽しんでくれたかな）
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん……。しかし、隅々まで、
+line2 <shift> # 満喫するほどの時間はないかなぁ」
+display
+com11 0 3
+sound 218
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「そ、そうですね。仕事で来たわけだし、
+line2 <shift> # そんなにゆっくりしていられないし」
+display
+com11 0 3
+sound 219
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「えと、つまり……遊びに行きたいですけど、
+line2 <shift> # ほんとに遊んでいい雰囲気じゃないのかも」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだな。俺も遊びたいのは山々だけど……
+line2 <shift> # 仕方ない、今回は撤収だな」
+display
+com11 0 3
+sound 220
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「はい……それじゃ、戻りましょうか」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「遊園地は、改めていつかゆっくり来られる
+line2 <shift> # ときに、じっくり楽しむことにしようっ」
+display
+com11 0 3
+sound 221
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「はいっ。そうですね、そのときがきたら……
+line2 <shift> # 案内お願いします、プロデューサー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ははは、お安い御用だ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （というわけで、今回は引き揚げることにした）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （でも雪歩、心なしか寂しそうだったな。本当は、
+line2 <shift> # 時間がわずかでも、遊びたかったのかも……）
+com09 0 49
+display
+location 49
+unk02

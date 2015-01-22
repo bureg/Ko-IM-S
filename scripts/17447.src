@@ -1,0 +1,476 @@
+com2d 0 33
+com2c 0 114
+com32 0 0
+com11 0 0
+sound 0
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うあ〜！　けっこうお客さん、
+line2 <shift> # 入ってますね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「今日のお客はノリも良さそうだし、
+line2 <shift> # この分だと、アンコールがあるかもな」
+display
+com11 0 0
+sound 1
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ、アンコールですか〜！？
+line2 <shift> # うう〜、緊張するかも〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「曲は用意するよう、言ってある。
+line2 <shift> # あとはタイミングだけだな」
+display
+com11 0 0
+sound 2
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「タイミング……ですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あまり早く出過ぎると、盛り上がらない。
+line2 <shift> # 引っ張りすぎると、客が冷めてしまう」
+display
+com11 0 0
+sound 3
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「つまり、ラーメンの麺ってことですね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「麺？」
+display
+com11 0 0
+sound 4
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「２分で食べようとすると、固すぎる。
+line2 <shift> # １０分くらい経ったら、のびちゃってる……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ま、まあ、わかりやすく言えば、
+line2 <shift> # そんなところだ……」
+display
+com11 0 0
+sound 5
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「出ていくタイミングは、
+line2 <shift> # プロデューサーが教えてくれますよね？」
+com03 0 3
+choice1 <shift> # まかせておけ
+line2
+com09 0 10
+com08
+choice2 <shift> # まかせておけん
+line2
+com09 0 11
+com08
+choice3 <shift> # まかせてＯＫ！
+line2
+com09 0 12
+com08
+com07 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、まかせておけ」
+display
+com11 0 0
+sound 6
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「えへへ、心強い言葉ですー。……あれ？
+line2 <shift> # なんかプルプルしてきましたよ〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おっ、武者ぶるいってヤツだな」
+display
+com11 0 0
+sound 7
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「むしゃ……ぷるぷる、ですか？
+line2 <shift> # よくわかんないけど、精一杯やってきまーす！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そうか……。とにかく、
+line2 <shift> # あとは、やよい次第だぞ」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まかせておけん」
+display
+com11 0 0
+sound 8
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「そ、それは……プロデューサーには、
+line2 <shift> # まかせておけないという意味ですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「えっ、いや、今のはまちがいだ……。
+line2 <shift> # 俺にまかせておけ」
+display
+com11 0 0
+sound 9
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うう〜、ちょっぴり
+line2 <shift> # 心配になってきました……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺のことは気にするな。
+line2 <shift> # あとは、やよい次第なんだからな」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まかせてＯＫ！」
+display
+com11 0 0
+sound 10
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ど、どうしたんですか？　急にラップ歌う人
+line2 <shift> # みたいに、なりましたけど……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なんかいい感じだろ？　ＹＥＡＨ！
+line2 <shift> # こういう時は、ノリがかんじんなんだＹＯ！」
+display
+com11 0 0
+sound 11
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うう〜、いつもの方がいいと思います〜。
+line2 <shift> # 英語とか、よくわかんないし……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか？
+line2 <shift> # それじゃ、やよいのノリやすい方向でいこう」
+display
+com11 0 0
+sound 12
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「は、はい！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ、あとは、やよい次第だな」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 13
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「わ、私次第……ですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ノリのいい客でも、ステージが悪ければ、
+line2 <shift> # アンコールしてくれないだろうからな」
+display
+com11 0 0
+sound 14
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ううー、そうですね……。なんか、やる気が
+line2 <shift> # うわーってなってきましたよー！」
+com03 0 3
+choice1 <shift> # やよいに火がついたな
+line2
+com09 0 20
+com08
+choice2 <shift> # 四面楚歌だな
+line2
+com09 0 21
+com08
+choice3 <shift> # 燃えつきてこい！
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やよいに火がついたな」
+display
+com11 0 0
+sound 15
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ええーっ！　私に火が！
+line2 <shift> # うあああっ！　け、消してくださ〜い！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、そういう意味じゃなくて、
+line2 <shift> # やよいのやる気に火がついたという意味で……」
+display
+com11 0 0
+sound 16
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「う〜、カン違いしちゃいました〜……。
+line2 <shift> # お、脅かさないでください〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あはは。ごめんごめん。
+line2 <shift> # でも、今ので緊張もほぐれただろう？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ステージ、頑張ってきてくれよ！」
+display
+com11 0 0
+sound 17
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「は、はい！」
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「四面楚歌だな」
+display
+com11 0 0
+sound 18
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「しめん……そか、って何ですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「昔の中国で、敵に包囲された時に、
+line2 <shift> # 周りから故郷の歌が聞こえてきたっていう……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （これって、悪い意味だった気がする。しかも、
+line2 <shift> # 例えとして適切じゃなかったな……どうしよう）
+display
+com11 0 0
+sound 19
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あっ！　つまり……そのくらい大きな歌で、
+line2 <shift> # みんなを盛り上げろってことですね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おお！　やよいは、とことん前向きだな！
+line2 <shift> # すごいよ！　その調子で、ステージも頑張れ！」
+display
+com11 0 0
+sound 20
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はいっ！」
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「燃えつきてこい！」
+display
+com11 0 0
+sound 21
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「でもでも、アンコール前で
+line2 <shift> # 燃えつきちゃって、いいんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「アンコールに力を残すことを考えてたら、
+line2 <shift> # 完全燃焼は出来ないぞ」
+display
+com11 0 0
+sound 22
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うう〜、そうですね！　わかりました！
+line2 <shift> # 高槻やよい、燃えつきてきます！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだ！　さあ、ステージに向かおう。
+line2 <shift> # ファンが待ってるから！」
+display
+com11 0 0
+sound 23
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はい！」
+com09 0 29
+display
+location 29
+com22 0 30
+com21 0 30
+com11 0 0
+sound 24
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うあ〜！
+line2 <shift> # ものすごいアンコールの声援です！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、ここまでは上出来だぞ」
+display
+com11 0 0
+sound 25
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あとは出ていくタイミングですね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺が指示したら、曲が鳴るから、
+line2 <shift> # それでステージに戻るんだ」
+display
+com11 0 0
+sound 26
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はい！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （あとは俺の指示次第なんだけど……、
+line2 <shift> # 緊張して時間の感覚が麻痺してきたぞ）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （こうなったら、もう
+line2 <shift> # カンでいくしかない……！）
+com03 0 3
+choice1 <shift> # 今だ！
+com09 0 30
+com08
+choice2 <shift> # 今だよな？
+com09 0 31
+com08
+choice3 <shift> # 今かも！
+com09 0 32
+com08
+com07
+com09 0 33
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「今だ！」
+com37 0 1
+com1e 0 0
+com09 0 34
+com3b
+com37 0 0
+com1e 0 0
+com09 0 35
+com3b
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「今だよな？」
+com37 0 1
+com1e 0 0
+com09 0 34
+com3b
+com37 0 0
+com1e 0 0
+com09 0 35
+com3b
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「今かも！」
+com37 0 1
+com1e 0 0
+com09 0 34
+com3b
+com37 0 0
+com1e 0 0
+com09 0 35
+com3b
+display
+location 33
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「今かな……？」
+com09 0 36
+display
+location 34
+com11 0 0
+sound 27
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はい！　行って来ます！」
+display
+com22 0 30
+com21 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （俺が指示したタイミングはバッチリ。
+line2 <shift> # 最高の状態でやよいはステージに戻っていった）
+display
+com11 0 0
+sound 28
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うあ〜！　ここまでお客さんのノリがよかった
+line2 <shift> # ステージは初めてかもです〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺もステージの袖から見て、鳥肌が立ったよ」
+display
+com11 0 0
+sound 29
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「私も、体中のプルプルが止まりません〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もっと上に行けば、
+line2 <shift> # この何倍もの興奮が待ってるんだ」
+display
+com11 0 0
+sound 30
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「この何倍もですか？　す、すごいかもー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「今日のこの感覚を忘れるなよ、やよい」
+display
+com11 0 0
+sound 31
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「は、はい！　私、一生、忘れませーん！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （決して大きいとはいえないステージだけど、
+line2 <shift> # やよいにとっては、とても大きな収穫だな）
+com4b 0 0
+com09 0 69
+display
+location 35
+com11 0 0
+sound 32
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はい！　行って来ます！　……あれ？」
+display
+com22 0 30
+com21 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （俺は焦りすぎて、早すぎるタイミングで
+line2 <shift> # 指示してしまったらしい）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ステージ上に、少し気まずい空気が
+line2 <shift> # 流れてしまった……）
+display
+com11 0 0
+sound 33
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うう〜、プロデューサー、
+line2 <shift> # 最後までは盛り上げられませんでした〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ごめんな、やよい……。
+line2 <shift> # 俺が指示のタイミングを間違えなければ……）
+com4b 0 2
+com09 0 69
+display
+location 36
+com11 0 0
+sound 34
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はい！　行って来ます！　……あわわ」
+display
+com22 0 30
+com21 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （どうやら、俺の指示は遅すぎたらしい……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （帰りかけた客を必死に呼び戻すやよいの声が、
+line2 <shift> # ステージ上に空しく響いた……）
+display
+com11 0 0
+sound 35
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うう〜、出ていったときには、
+line2 <shift> # お客さん、半分くらい帰ってました〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ごめんな、やよい……。
+line2 <shift> # 俺が指示のタイミングを間違えなければ……）
+com4b 0 2
+com09 0 69
+display
+location 69
+unk02

@@ -1,0 +1,475 @@
+com2c 0 119
+com2d 0 51
+com2e 0 131
+com32 0 0
+com11 0 0
+sound 10000
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「まあ、人が大勢います〜。ここにいる人達、
+line2 <shift> # 皆、オーディションを受けるんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ええ。トップアイドルの座を目指す、
+line2 <shift> # ライバル達ですよ」
+display
+com11 0 0
+sound 10001
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ＩＵ優勝を目指す戦いが、
+line2 <shift> # ここから始まるんですね……」
+display
+com11 0 0
+sound 10002
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「こんなにたくさんの人がいて、
+line2 <shift> # トップアイドルになれるのは、ただひとり……」
+display
+com11 0 0
+sound 10003
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ミスは許されませんね。私、歌詞を、
+line2 <shift> # 間違わずに歌えるかしら。それに振り付けも」
+display
+com11 0 0
+sound 10004
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あああ、なんだか頭が、
+line2 <shift> # クラクラしてきました〜……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「大丈夫ですか！？　体調が悪いなら……」
+com03 0 3
+choice1 <shift> # オーディション、休みましょう
+line2
+com09 0 10
+com08
+choice2 <shift> # 横になりますか？
+line2
+com09 0 11
+com08
+choice3 <shift> # 薬を買ってきましょうか？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「オーディション、休みましょう」
+display
+com11 0 0
+sound 10005
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「えっ！？　でも、そういうわけには……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あずささんの体調が最優先です。オーディ
+line2 <shift> # ションは、今日だけではありませんから」
+display
+com11 0 0
+sound 10006
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、ありがとうございます。でも、せっかく
+line2 <shift> # いただいたチャンス、無駄にしたくありません」
+display
+com11 0 0
+sound 10007
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「それに、そこまではしなくても、
+line2 <shift> # 大丈夫だと思います。少し休めば……」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「横になりますか？　ベッドはないですけど、
+line2 <shift> # イスを並べれば、なんとか横になれますから」
+display
+com11 0 0
+sound 10008
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「大丈夫ですー。立っていられないほど、
+line2 <shift> # ヒドいわけでは、ありませんから」
+display
+com11 0 0
+sound 10009
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「それに、ついさっきまで、何ともなかったので、
+line2 <shift> # 体調不良ではないと思います」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうですか？
+line2 <shift> # 大事なければ、いいんですが……」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「薬を買ってきましょうか？　即効性のある、
+line2 <shift> # 薬局で、一番キツイ薬を、買ってきますよ！」
+display
+com11 0 0
+sound 10010
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「い、いえ。お気持ちはうれしいんですけど、
+line2 <shift> # あまり薬を飲むのは、得意ではないので……」
+display
+com11 0 0
+sound 10011
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「それに、このクラクラは、
+line2 <shift> # 病気というよりも……」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10012
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ああっ、わかりました！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ど、どうしたんですか？」
+display
+com11 0 0
+sound 10013
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「たぶん、私、すごく緊張しているのかも
+line2 <shift> # しれません。それで、めまいが……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「き、緊張していることに、今、
+line2 <shift> # 気づいたんですか？」
+display
+com11 0 0
+sound 10014
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ええ。私、ちょっとニブいのかしら。
+line2 <shift> # すみません〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いえ、謝る必要はありませんよ。それに、これ
+line2 <shift> # だけの大舞台ですから、緊張するのは当然です」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺だって、少しは緊張していますから」
+display
+com11 0 0
+sound 10015
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「プロデューサーさんも……。
+line2 <shift> # そうですよね、初めてのＩＵですものね」
+display
+com11 0 0
+sound 10016
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「私も、プロデューサーさんに頼りきりでは、
+line2 <shift> # いけませんね。しっかりしなくっちゃ……」
+display
+com11 0 0
+sound 10017
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「……あら？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうしたんですか？」
+display
+com11 0 0
+sound 10018
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あそこにいるの、もしかして、
+line2 <shift> # 美希ちゃんじゃありませんかー？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「本当だ。おーい、美希！」
+display
+com11 0 0
+sound 10019
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「あ、プロデューサー！
+line2 <shift> # それにあずさも。久しぶりなの」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「『久しぶり』じゃないだろ、美希！
+line2 <shift> # いきなり、事務所を飛び出して……」
+display
+com11 0 0
+sound 10020
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そうよ、美希ちゃん。事務所の皆さんは、
+line2 <shift> # 全員、美希ちゃんのこと、心配していたわよ〜」
+display
+com11 0 0
+sound 10021
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「でも、元気そうで良かったわ。それで、ちゃん
+line2 <shift> # とご飯は、食べているの？　夜は眠れてる？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ちょ、ちょっと、あずささん。なんだか、美希
+line2 <shift> # のお姉さんかお母さんみたいな口ぶりですよ？」
+display
+com11 0 0
+sound 10022
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ。す、すみません。美希ちゃんの顔を見たら、
+line2 <shift> # うれしくなってしまって、つい……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、その気持ちは、わかりますけど。
+line2 <shift> # 俺も美希の顔を見たら、安心しましたし」
+display
+com11 0 0
+sound 10023
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「えっ？　プロデューサーも、あずさも、
+line2 <shift> # ミキの顔見られて、うれしかったの！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もちろんだ。社長から９６１プロに移ったって
+line2 <shift> # きいて、すごく心配したんだぞ」
+display
+com11 0 0
+sound 10024
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「あはっ。ミキのこと、気にしてくれてたんだ。
+line2 <shift> # なんかうれしいな☆」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （どうやら美希は、俺達のことをキライになって、
+line2 <shift> # 飛び出したわけじゃないみたいだな）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （でも、だとしたら、
+line2 <shift> # いったい何が原因で……？）
+display
+com11 0 0
+sound 10025
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ねえ、美希ちゃん。それで、
+line2 <shift> # いつごろ、７６５プロに戻ってくるの〜？」
+display
+com11 0 0
+sound 10026
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「えっ？」
+display
+com11 0 0
+sound 10027
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「いつかは戻ってくるのよね？　皆、
+line2 <shift> # 待っているのよ。ね？　プロデューサーさん」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「はい、そうですよね、あずささん」
+display
+com11 0 0
+sound 10028
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「む〜。なんか、あずさとプロデューサー、仲
+line2 <shift> # いいよね。見つめあったりして、感じ悪いの！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「えっ？　何を言ってるんだ、美希？
+line2 <shift> # 今は、美希の話を、しているんだろ」
+display
+com11 0 0
+sound 10029
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ミキの話は、ひとまず、置いとけば、
+line2 <shift> # いいって思うな」
+display
+com11 0 0
+sound 10030
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「それより問題は、ミキの前で、二人がラブラブ
+line2 <shift> # してるってことなの。ありえないってカンジ！」
+display
+com11 0 0
+sound 10031
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ら、ラブラブだなんて、決してそんなことは、
+line2 <shift> # ないのよ、美希ちゃん」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうですよね、あずささん」
+display
+com11 0 0
+sound 10032
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「むー！　だから、それ！　その『そうですよ
+line2 <shift> # ね』とか、ムカつくってカンジ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ええっ！？　こんなの、ただのあいづちじゃ
+line2 <shift> # ないか。そうですよね、あずささん」
+display
+com11 0 0
+sound 10033
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ほら、また！　……今日は気分が悪いかも。
+line2 <shift> # ミキ、もう行くね。さよならなの！」
+display
+com11 0 0
+sound 10034
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ええっ？　で、でも、美希ちゃん、
+line2 <shift> # オーディション、もうすぐ始まるわよ〜？」
+display
+com11 0 0
+sound 10035
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ミキは、先週、もう合格したの。
+line2 <shift> # 今日は、ただの見学だもん」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なにっ、早いな！　さてはよほど、スゴ腕の
+line2 <shift> # プロデューサーをつけたんだな、９６１プロは」
+display
+com11 0 0
+sound 10036
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「９６１プロには、プロデューサーなんて、
+line2 <shift> # いないよ。合格はミキの実力なの」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ええっ！　１人でオーディションを受けて、
+line2 <shift> # 合格したのか？　やるじゃないか、美希……」
+display
+com11 0 0
+sound 10037
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「エッヘン！　スゴイでしょ？　見直しても
+line2 <shift> # いいよ？　あと、好きになってもいいよ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、好きになってもいい、って言われても」
+display
+com11 0 0
+sound 10038
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「……って、ミキ、今は怒ってるんだった！
+line2 <shift> # それじゃ、ホントに行くね。さよならなの！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あっ！　……行っちゃいましたね。久しぶりに
+line2 <shift> # 会ったのに、まともに話も、できなかったな」
+display
+com11 0 0
+sound 10039
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「私、余計なことを言ってしまって、
+line2 <shift> # 美希ちゃんを怒らせてしまったのでしょうか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなことありませんよ。美希も、あずささん
+line2 <shift> # と話せたことは、うれしそうでしたし」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「きっと、今は、虫の居所が悪いんです」
+display
+com11 0 0
+sound 10040
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そうですよね。美希ちゃん、すぐに、
+line2 <shift> # ７６５プロに、戻ってきてくれますよね〜……」
+display
+com11 0 0
+sound 10041
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「でも……、美希ちゃんはスゴイです。一人で
+line2 <shift> # 活動して、しかもオーディション合格だなんて」
+display
+com11 0 0
+sound 10042
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「私も、合格目指して、がんばらなきゃダメです
+line2 <shift> # ね。頭がクラクラなんて、言ってられません」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そういえば、あずささん。
+line2 <shift> # 頭のクラクラは……？」
+display
+com11 0 0
+sound 10043
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あら？　そういえば……」
+display
+com11 0 0
+sound 10044
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ふふっ、美希ちゃんとお話してたら、
+line2 <shift> # 緊張がぬけて、おさまったみたいですー」
+display
+com11 0 0
+sound 10045
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「これなら、オーディション、
+line2 <shift> # 参加できると思います」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よかった！　それじゃ、
+line2 <shift> # 張りきって行きましょう！」
+display
+com11 0 0
+sound 10046
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はい。では、準備に行ってきますね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うまく、気がまぎれたみたいだな。
+line2 <shift> # 美希と話ができて、よかった）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （さあ、いよいよ予選開始だ！
+line2 <shift> # 気合いを入れて、指示をするぞ！）
+com09 0 99
+display
+location 99
+unk02

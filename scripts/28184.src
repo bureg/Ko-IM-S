@@ -1,0 +1,382 @@
+com2c 0 42
+com2d 0 43
+com32 0 0
+com11 0 5
+sound 200
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そろそろ、ライブ開始ですね。
+line2 <shift> # お客さんが、すくないから、気をつけないと」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「すくないから、気をつけるって……、
+line2 <shift> # どういう意味だ？」
+display
+com11 0 5
+sound 201
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ミスしたら、目立ってしまいますよね？
+line2 <shift> # 客席の盛り上がりで、ごまかせませんから」
+com03 0 2
+choice1 <shift> # それは、言えてるな
+line2
+com09 0 10
+com08
+choice2 <shift> # 新人だし、大目に見てくれるよ
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それは、言えてるな」
+display
+com11 0 5
+sound 202
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「１曲も、気が抜けないです。できる限り、
+line2 <shift> # 神経を、張りめぐらせて、いかないと……」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「新人だし、大目に見てくれるよ」
+display
+com11 0 5
+sound 203
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「かもしれません。けど、お客さんが、
+line2 <shift> # 許してくれても、救いには……」
+display
+com11 0 5
+sound 204
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「失敗したら、自分で自分が許せませんから。
+line2 <shift> # １曲も、気が抜けません」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「気持ちはわかるけど、あまり、
+line2 <shift> # 前のめりになりすぎない方が……」
+display
+com11 0 5
+sound 205
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……そうでしょうか？　これくらいで、
+line2 <shift> # ちょうどいいかと思いますけど」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「序盤からテンション高いと……、
+line2 <shift> # ほら、ここ、もたないんじゃないか？」
+com0e 1 147
+com44
+com09 0 30
+com45
+com44
+com09 0 31
+com45
+com44
+com09 0 32
+com45
+com44
+com09 0 33
+com45
+com44
+com09 0 34
+com45
+com44
+com09 0 35
+com45
+com44
+com09 0 36
+com45
+display
+location 30
+com11 0 5
+sound 206
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ノド……？　そうですね。
+line2 <shift> # でも、曲数が少ないから、なんとかなるかって」
+com09 0 49
+display
+location 31
+com11 0 5
+sound 207
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「頭……？　私、歌う時は、なにも考えないです。
+line2 <shift> # 知恵で、どうなるものでもないので」
+display
+com11 0 5
+sound 208
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「万が一、混乱しても、心配はないです。
+line2 <shift> # 練習でやったことは、体がおぼえてますから」
+com09 0 49
+display
+location 32
+com11 0 5
+sound 209
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「口……？　たとえ、どんなに、
+line2 <shift> # 動かしたとしても、そこは、大丈夫な気が……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う……。まあ、そうか」
+display
+com11 0 5
+sound 210
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「それに、私、口は、あまり開かない方なんです。
+line2 <shift> # そういう発声法が、しみついていて」
+com09 0 49
+display
+location 33
+com11 0 5
+sound 211
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「胸……？　呼吸は大丈夫です。
+line2 <shift> # 気力がしぼむ心配も、まずありません」
+display
+com11 0 5
+sound 212
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「いくら歌ったからって、それで熱が薄れる
+line2 <shift> # ような人は、プロ失格ですから」
+com09 0 49
+display
+location 34
+com11 0 5
+sound 213
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「おなか？　きたえているので、そこは平気です。
+line2 <shift> # ライブ中は、空腹を感じることもありませんし」
+display
+com11 0 5
+sound 214
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「私、歌う前後って、なにも食べたくない方なん
+line2 <shift> # です。集中力が、にぶるから……」
+com09 0 49
+display
+location 35
+com11 0 5
+sound 215
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサー？　そんなところ、
+line2 <shift> # もつも、もたないも、ないのでは？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……考えてみたら、そうだな。
+line2 <shift> # ごめん、妙なこと、きいて」
+display
+com11 0 5
+sound 216
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「いえ。とにかく、どこかがダメになることは、
+line2 <shift> # ないと思います。曲数も少ないですし」
+com09 0 49
+display
+location 36
+com11 0 5
+sound 217
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサー、どうしたんです？
+line2 <shift> # ここがもたないって、どこが？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、まあ、アチコチというか……。
+line2 <shift> # とにかく、マズくないか？」
+display
+com11 0 5
+sound 218
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「きっと、なんとかなると思います。
+line2 <shift> # 曲数も、そんなに多くないですし」
+com09 0 49
+display
+location 49
+com11 0 5
+sound 219
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「許してもらえるなら、今日はオープニングから
+line2 <shift> # アンコールまで、全開でいきたいです」
+display
+com11 0 5
+sound 220
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「それでやっても、いいですか？
+line2 <shift> # もし、指示があるなら、従いますけど」
+com03 0 3
+choice1 <shift> # １曲だけ、様子を見よう
+line2
+com09 0 50
+com08
+choice2 <shift> # 全開で、いっていいよ
+line2
+com09 0 51
+com08
+choice3 <shift> # だんだん、ペースアップで
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 2
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「１曲だけ、様子を見よう。
+line2 <shift> # 客の反応を見ながら、２曲目からは全開で」
+display
+com11 0 5
+sound 221
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「わかりました。では、オープニングは、
+line2 <shift> # ていねいに入ることに。……行ってきます」
+display
+com22 0 30
+com21 0 30
+com11 0 5
+sound 222
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ふぅ、おつかれさまでした。
+line2 <shift> # ……そんなに悪くは、なかったですよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「い、いや、新人で、ここまでできる人は、
+line2 <shift> # いないよ。ノーミスだったじゃないか」
+display
+com11 0 5
+sound 223
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ふふっ、そんなことは……。
+line2 <shift> # 実は、３曲目と５曲目で、すこし」
+display
+com11 0 5
+sound 224
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ミスをなくすのは、当然として……、
+line2 <shift> # 全体のデキも、引き上げたいですね。もっと」
+display
+com11 0 5
+sound 225
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「思った以上に、体力もぎりぎりで。頭から飛ば
+line2 <shift> # していたら、もたなかったかも。助かりました」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ライブを大成功させても、
+line2 <shift> # 千早は、なお上を、見ている。末恐ろしいな）
+com09 0 69
+display
+location 51
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「全開で、いっていいよ」
+display
+com11 0 5
+sound 226
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ありがとうございます。では、ノンストップで。
+line2 <shift> # ……行ってきます」
+display
+com22 0 30
+com21 0 30
+com11 0 5
+sound 227
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ふぅー、お、おつかれさまです。
+line2 <shift> # さすがに消耗して……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「無理もないよ。新人のうちから、
+line2 <shift> # ここまで、やれる人なんて、いないって」
+display
+com11 0 5
+sound 228
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「まだ……、アンコールが残ってます。
+line2 <shift> # 完全に終わったわけじゃ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、そうか！　歌えるか？　もしダメそうなら、
+line2 <shift> # ここで切り上げてもいいけど」
+display
+com11 0 5
+sound 229
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「いえ、いけます。
+line2 <shift> # 全開でやりたいって言ったの、私ですし」
+display
+com11 0 5
+sound 230
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あと１曲……。残ったもの、すべて注ぎ込んで。
+line2 <shift> # くっ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （さすがにアンコールは、かなり声がよれた。
+line2 <shift> # けど、全体として見れば、まあ成功だな）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だんだん、ペースアップでいこう。
+line2 <shift> # 見切り発車は、できれば避けたいから」
+display
+com11 0 5
+sound 231
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「だんだん……？　では、はじめの方は、
+line2 <shift> # 様子見？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。中盤ぐらいから、本腰を入れていこう。
+line2 <shift> # それが一番いいと思う」
+display
+com11 0 5
+sound 232
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……わかりました。プロデューサーが、
+line2 <shift> # そう言うなら、その通りに」
+display
+com22 0 30
+com21 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おつかれさま。
+line2 <shift> # なかなか、いいデキだったじゃないか」
+display
+com11 0 5
+sound 233
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……そうでしょうか。
+line2 <shift> # 私には、とてもそうは……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なんか、大きなミスでもあったか？
+line2 <shift> # ほぼパーフェクトに見えたけど」
+display
+com11 0 5
+sound 234
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「だって私、まだまだ歌えます。
+line2 <shift> # 体力も、かなり残ってますし、声だって……」
+display
+com11 0 5
+sound 235
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「序盤の曲。もうすこし、力を入れていれば、
+line2 <shift> # きっと、もっといいライブに……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （表情は、不完全燃焼……。そつのない仕上がり
+line2 <shift> # だったけど、千早は、全然満足してないようだ）
+com09 0 69
+display
+location 69
+unk02

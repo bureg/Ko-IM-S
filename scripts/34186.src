@@ -1,0 +1,456 @@
+com2c 0 43
+com2d 0 61
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おっ、もう来てたのか。練習熱心だな」
+display
+com11 0 0
+sound 0
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あっ、プロデューサー。おはようございまふ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ど、どうしたんだ？
+line2 <shift> # なんだか、しゃべり方がヘンだぞ」
+display
+com11 0 0
+sound 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「初心にかえって、一人で発声練習をしてたんで
+line2 <shift> # すぅ。でも、何度やっても失敗しちゃって……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「発声練習か。どういうやつだ？」
+display
+com11 0 0
+sound 2
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あえいうえおやよ！」
+display
+com11 0 0
+sound 3
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ダメです。また最初から、失敗……。
+line2 <shift> # もっともっと練習しないと……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなに早口言葉みたいに
+line2 <shift> # 早く言わなくていいんだぞ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もっとゆっくり、確実に発音するようにして
+line2 <shift> # ごらん。でも……」
+com03 0 3
+choice1 <shift> # 向上心があるのはいいことだ
+line2
+com09 0 10
+com08
+choice2 <shift> # 違うのにしたら？
+line2
+com09 0 11
+com08
+choice3 <shift> # 人には　向き不向きがあって……
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「向上心があるのはいいことだ。
+line2 <shift> # その調子でがんばれ！」
+display
+com11 0 0
+sound 4
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい！　もっともっと練習して、
+line2 <shift> # 一日も早く発声練習マスターになりますっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、発声練習は、そこそこでいいから、
+line2 <shift> # トップアイドルを目指そう。なっ？」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「その発声練習は難しいんじゃないか？
+line2 <shift> # もっとカンタンな、違うのにしたらどうだ？」
+display
+com11 0 0
+sound 5
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「違うのですか……？　たとえばどんな？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「んー、『あめんぼ赤いな　あいうえお』
+line2 <shift> # とか？」
+display
+com11 0 0
+sound 6
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ・め・ん・ぼ・赤・い・な！
+line2 <shift> # ……えっと、あめんぼって赤かったですか？」
+display
+com11 0 0
+sound 7
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「私の知ってるあめんぼは、灰色というか、茶色
+line2 <shift> # というか。地方によって違うんでしょうか……」
+display
+com11 0 0
+sound 37
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「……って、ああっ！　いつの間にか発声練習が、
+line2 <shift> # 『あめんぼについて考える会』になってますぅ」
+display
+com11 0 0
+sound 9
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ううう……また失敗です。すみません……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （なんか、一人で勝手に、どんどん
+line2 <shift> # 落ち込んでるみたいだが……）
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「人には、向き不向きというものがあって……」
+display
+com11 0 0
+sound 10
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ、そうですよね……。私なんかが、こんな
+line2 <shift> # 練習したって、何の意味もないですよね……」
+display
+com11 0 0
+sound 38
+name 0 0 <names:2>  # Yukiho
+line1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ううっ……、ぐすっ。ムダなことなんかやめて、
+line2 <shift> # 穴でも掘って埋まっておきますぅ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ああ、落ち込んでしまった。
+line2 <shift> # もう少し言葉を選ぶべきだったか……）
+com09 0 29
+display
+location 29
+com11 0 0
+sound 12
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あの……発声練習って、
+line2 <shift> # アイドル活動に役立つでしょうかぁ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだなあ……」
+com03 0 3
+choice1 <shift> # 努力にムダなんかない
+line2
+com09 0 30
+com08
+choice2 <shift> # そこそこ役立つ
+line2
+com09 0 31
+com08
+choice3 <shift> # 好きなようにしなさい
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「発声は歌の基本だし、努力にムダなんかない。
+line2 <shift> # アイドルは、日々、努力の積み重ねだ！」
+display
+com11 0 0
+sound 13
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「は、はい。努力……それがアイドル
+line2 <shift> # なんですね……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだ。ファンに夢を与えるために、
+line2 <shift> # 日々努力！　それはとても大切なことだぞ」
+display
+com11 0 0
+sound 14
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい。上手になれば、自信がつくかなって、
+line2 <shift> # そう思って、練習してました……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「つまずいても、失敗してもいいんだ。
+line2 <shift> # チャレンジすることが大切なんだから」
+display
+com11 0 0
+sound 15
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「わかりました。私、もっと前向きに頑張れそう
+line2 <shift> # かも……。ありがとうございます！」
+com09 0 39
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、そこそこ役立つと思うよ。歌に発声が
+line2 <shift> # 重要なのは、確かなわけだし」
+display
+com11 0 0
+sound 16
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ、でも……発声だけじゃ、ダメですよね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだな。発声以外に表現力とかも、
+line2 <shift> # 同時にトレーニングしないとな」
+display
+com11 0 0
+sound 17
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そうかも……です。今更、急にこんなこと始め
+line2 <shift> # ても、私のダメさは変わらないですよね。うう」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あ、そういう意味じゃないのに。努力したこと
+line2 <shift> # は、ちゃんと認めてやるべきだったかな……）
+com09 0 39
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「雪歩が思うように、
+line2 <shift> # 好きなようにした方がいいだろう」
+display
+com11 0 0
+sound 18
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そ、そうですか？
+line2 <shift> # はい、わかりました。では続けますね……」
+display
+com11 0 0
+sound 19
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あいたたっ、いたい……。口を開けすぎて
+line2 <shift> # あごが、ピリピリしてますぅ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （え？　そんなになるまでやってたのか？
+line2 <shift> # あんまりやりすぎるのも、良くないよな……）
+com09 0 39
+display
+location 39 131 103 131 68 131 139 131 139 131 139 131 139 129 99 129 99
+display
+com11 0 0
+sound 39
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あれ？　どこかで、電話が鳴ってませんか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、俺じゃないぞ。雪歩の携帯じゃないか？」
+display
+com11 0 0
+sound 21
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「え？　あ、本当です！」
+display
+com11 0 0
+sound 22
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ああっ！
+line2 <shift> # こ、この着信音は、お父さんです！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃあ、早く出た方がいいな。」
+display
+com11 0 0
+sound 40
+name 0 0 <names:2>  # Yukiho
+line1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい。お父さん、とっても厳しくて、こ、怖い
+line2 <shift> # から……。あうっ、どうしよう？　電話が……」
+display
+com11 0 0
+sound 24
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「電話が見当たりませんー！
+line2 <shift> # 音は聞こえるのに、どこにあるのか……」
+display
+com11 0 0
+sound 25
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「すぐに電話に出ないと、すごく怒るんです。
+line2 <shift> # 電話に出んわーって、怒鳴られますぅ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （親御さんに悪印象を与えると、今後の
+line2 <shift> # 雪歩の芸能活動に影響が出るかもしれない！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （雪歩の携帯は、いったいどこに……？
+line2 <shift> # 着信音が切れる前に探さないとっ！）
+com03 0 3
+choice1 <shift> # ここだっ！
+com09 0 40
+com08
+choice2 <shift> # そこだっ！
+com09 0 41
+com08
+choice3 <shift> # あそこだっ！
+line2
+com09 0 42
+com08
+com07
+com09 0 43
+com08
+display
+location 40
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ここだっ！」
+com37 0 1
+com1e 0 0
+com09 0 48
+com3b
+com37 0 0
+com1e 0 0
+com09 0 49
+com3b
+display
+location 41
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そこだっ！」
+com37 0 1
+com1e 0 0
+com09 0 48
+com3b
+com37 0 0
+com1e 0 0
+com09 0 49
+com3b
+display
+location 42
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あそこだっ！」
+com37 0 1
+com1e 0 0
+com09 0 48
+com3b
+com37 0 0
+com1e 0 0
+com09 0 49
+com3b
+display
+location 43
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そのへんだっ！」
+com09 0 49
+display
+location 48
+com11 0 0
+sound 26
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ、あった！　ありました！」
+display
+com11 0 0
+sound 27
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい、もしもし、雪歩ですっ！」
+display
+com11 0 0
+sound 28
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ、はい……ん、大丈夫。……平気ですぅ。
+line2 <shift> # 門限にはちゃんと間に合うから……」
+display
+com11 0 0
+sound 29
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「……ふぅ、電話、無事に終わりました。
+line2 <shift> # 間にあってよかったぁ。ありがとうございます」
+display
+com11 0 0
+sound 30
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ちゃんと話せたから、安心してくれました。
+line2 <shift> # それから、プロデューサーによろしくって……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （特に用事はなかったようだが、やはり、
+line2 <shift> # 娘を気にかけているんだな。父の愛か……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （それにしても、間に合ってよかった……）
+com4b 0 0
+com09 0 59
+display
+location 49
+com11 0 0
+sound 31
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ、あれ？　ないっ、ないですよー！
+line2 <shift> # うああ、どうしよう？　どこにあるのっ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うわ、見当違いだったか）
+display <shift> # トゥルルルル……プッ！
+display
+com11 0 0
+sound 32
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ああっ、電話、切れちゃいました……」
+display
+com11 0 0
+sound 33
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ど、どうしよう。きっと帰ったら、お説教
+line2 <shift> # です。ううっ、ぐすっ。帰りたくないですぅ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……あった。雪歩の携帯、見つかったぞ！」
+display
+com11 0 0
+sound 34
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「もう遅いです……捨ててください……。
+line2 <shift> # あ！　やっぱり捨てたら、ダメです……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「雪歩、留守電ランプが光ってるぞ。
+line2 <shift> # 聞いた方がいいんじゃないか？」
+display
+com11 0 0
+sound 35
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「どうせお説教だから、聞きたくないです。
+line2 <shift> # 今は……なんにも……。ううう……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そういうわけにもいかないだろう。
+line2 <shift> # 時間が経つと、余計に大変じゃないか？」
+display
+com11 0 0
+sound 36
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ぐすん……わかりました。
+line2 <shift> # ちょっと留守電、聞いてみますね……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （留守電の内容は、もちろん説教で、
+line2 <shift> # かけ直しても、やはり長い説教だった……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺がかわってやりたいが、そんなことをしたら
+line2 <shift> # 雪歩が余計に、怒られるかもしれないし……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （すまない、雪歩……）
+com4b 0 2
+com09 0 59
+display
+location 59
+unk02

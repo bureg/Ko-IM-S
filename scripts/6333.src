@@ -1,0 +1,293 @@
+com2d 0 11
+location 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……おはようございます、社長」
+display
+name 0 2 <names:2>  # President
+line1
+com11 0 0
+sound 14 129 117 130 168 130 205 130 230 130 164 129 66 130 162 130 194 130 224 146 202 130 232 130 198 130 205 130 162 130 169 130 200 130 162 130 190 130 235 130 164 130 170 129 65
+line2 <shift> # 残り時間を全力でプロデュースしてくれたまえ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……はい！」
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺の評価は、最後の最後で決まる。
+line2 <shift> # 次へ、つなげるためにも、全力を尽くす！！）
+display
+location 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （さあ、もうすぐ春香が来る……。
+line2 <shift> # どうやって活動停止のことを切り出そうか……）
+com03 0 2
+choice1 <shift> # 正直に切り出す
+line2
+com09 0 10
+com08
+choice2 <shift> # ウソをついてごまかす
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 2
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （さあ、もうすぐ春香達が来る……。
+line2 <shift> # どうやって活動停止のことを切り出そうか……）
+com03 0 2
+choice1 <shift> # 正直に切り出す
+line2
+com09 0 10
+com08
+choice2 <shift> # ウソをついてごまかす
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （やはり、正直に言うのが、１番だ！
+line2 <shift> # 思い切って、言うぞ！）
+com09 0 19
+display
+location 11
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （いや、ここでウソをついても、仕方が無い！
+line2 <shift> # 思い切って、言うぞ！！）
+com09 0 19
+display
+location 19
+com11 0 0
+sound 0
+name 0 0 <names:3>  # Haruka
+line1 <shift> # 「おはようございます」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おはよう。今日は、重要な話があるので、
+line2 <shift> # 黙って聞いていて欲しい」
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……実は、
+line2 <shift> # ＃は……」
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「活動停止が決まった」
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「解散が決まった」
+display
+location 100
+com11 0 0
+sound 1
+name 0 0 <names:3>  # Haruka
+line1 <shift> # 「ええええ！？　活動停止……、ですかっ！？」
+display
+location 101
+com11 0 0
+sound 2
+name 0 0 <names:3>  # Haruka
+line1 <shift> # 「えええええ、解散っ！？」
+display
+location 102
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。社長と話した上で、決めさせてもらった。
+line2 <shift> # いろいろ考えた末に、ね」
+display
+location 103
+com11 0 0
+sound 3
+name 0 0 <names:3>  # Haruka
+line1 <shift> # 「そんな、急な……」
+display
+location 104
+com11 0 0
+sound 4
+name 0 0 <names:3>  # Haruka
+line1 <shift> # 「納得いきませんよぉ！　それは、いつかは、
+line2 <shift> # こういう日もくるって、思ってましたけど……」
+display
+location 105
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わかってほしい。おそらく、今のままでいても、
+line2 <shift> # これ以上の成功は、望めないと思うんだ」
+display
+location 106
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ある種の限界を感じているの、俺だけか？
+line2 <shift> # ……関係が、ぬるくなってきてるっていうか」
+display
+location 107
+com11 0 0
+sound 5
+name 0 0 <names:3>  # Haruka
+line1 <shift> # 「あ、たしかに、そういうの、あるかも。
+line2 <shift> # 慣れてきて、落ち着きすぎちゃったっていうか」
+display
+location 108
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そろそろ俺の手を離れて、これから先のこと、
+line2 <shift> # 真剣に考えなきゃいけない時期だと思うんだ」
+display
+location 109
+com11 0 0
+sound 6
+name 0 0 <names:3>  # Haruka
+line1 <shift> # 「引退をすすめてるわけじゃ、ないですよね？」
+display
+location 110
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ちがうよ。もちろん、引退するのも、
+line2 <shift> # ひとつの道だけど、そこは自分で決めてほしい」
+display
+location 111
+com11 0 0
+sound 7
+name 0 0 <names:3>  # Haruka
+line1 <shift> # 「……」
+display
+location 112
+com11 0 0
+sound 8
+name 0 0 <names:3>  # Haruka
+line1 <shift> # 「でもぉ、ファンは、きっと悲しみますよね。
+line2 <shift> # 突然、サヨウナラだなんて……」
+display
+location 113
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「かもな。けど、当然、最後には、特大の仕掛け
+line2 <shift> # を用意するから、尻すぼみにはならないと思う」
+display
+location 114
+com11 0 0
+sound 9
+name 0 0 <names:3>  # Haruka
+line1 <shift> # 「特大の……、仕掛け？」
+display
+location 115
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだ。アレをやろう。
+line2 <shift> # ……お別れコンサート！！」
+display
+location 116
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ありったけの想いを込めて、最後の記念碑を、
+line2 <shift> # 打ちたてるんだ。俺達と、ファンとで」
+display
+location 117
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだ。アレをやろう。
+line2 <shift> # ……解散コンサート！！」
+display
+location 118
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ありったけの想いを込めて、最後の記念碑を、
+line2 <shift> # 打ちたてるんだ。俺達と、ファンとで」
+display
+location 119
+com11 0 0
+sound 10
+name 0 0 <names:3>  # Haruka
+line1 <shift> # 「もう、そこまで考えてるってことは、
+line2 <shift> # プロデューサーさん、本気なんですね……」
+display
+location 120
+com11 0 0
+sound 11
+name 0 0 <names:3>  # Haruka
+line1 <shift> # 「どうしても、ここで、一区切りなら、
+line2 <shift> # ラストコンサートは、絶対に、やりたいです」
+display
+location 123
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「会場は、これでよし、と。
+line2 <shift> # 次は、衣装の選択だ！」
+display
+location 124
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「衣装は、これで決まりだな。最後は、
+line2 <shift> # コンサートのメインを飾る、楽曲の選択だ！」
+display
+location 150
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、これで、すべて決定だ！
+line2 <shift> # すぐに、手配と準備に、入らないと」
+display
+com11 0 0
+sound 12
+name 0 0 <names:3>  # Haruka
+line1 <shift> # 「…………」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ん？　春香、どうした？　浮かない顔して。
+line2 <shift> # ……やっぱり、イヤか？」
+display
+com4a 0 0
+com11 0 0
+sound 13
+name 0 0 <names:3>  # Haruka
+line1 <shift> # 「そ、そういうわけじゃ、ないです！　その日ま
+line2 <shift> # でに、気持ちの準備しておかないと。はぁ……」
+display
+location 121
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、それじゃ、具体的なプランを、つめよう。
+line2 <shift> # ……まずは、コンサートの会場選択だ」
+display
+location 122
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （会場に集まったファンを、わかせて、
+line2 <shift> # コンサートを成功させることが出来たら……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （アイドルとして、伝説に名を残して、
+line2 <shift> # 春香とも、良い形で別れられるだろうが……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ファンのみんなを、わかせることが、
+line2 <shift> # 出来なければ、コンサートは失敗となり……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （アイドル史に、名前すら残らず、
+line2 <shift> # 春香との別れも、最悪な結果になる！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （より良い結末を迎えるために、
+line2 <shift> # 失敗覚悟で大きな会場を選ぶか……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （失敗を避けるために、
+line2 <shift> # 小さな会場を選ぶか……）
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今こそ、プロデューサーとしての、
+line2 <shift> # 決断力を見せるときだ！！）
+display
+location 200
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ここまで来て、臆して、どうする！
+line2 <shift> # 俺達の、これまでを、信用すべきだ！）
+display
+location 201
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （最後に、賭けをして、どうする！
+line2 <shift> # 次に、つなげるためにも、成功第一だ！）
+display
+location 202
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （やはり、もう少し、良く考えよう。
+line2 <shift> # 最後だしな……）
+display
+unk02

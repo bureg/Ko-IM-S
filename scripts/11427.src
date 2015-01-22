@@ -1,0 +1,289 @@
+com2c 0 53
+com2d 0 21
+com32 0 0
+com11 0 5
+sound 1100
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ねえ、私達、いい身分よね……。こんな
+line2 <shift> # 時間に、公園でひなたぼっこなんて……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「仕事がない時は、これに限るよな」
+display
+com11 0 5
+sound 1101
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「このドン底アイドル生活、いつまで続くわけ？
+line2 <shift> # う……、ううう……」
+com03 0 3
+choice1 <shift> # 泣くなよ
+com09 0 10
+com08
+choice2 <shift> # 思いっきり泣きなよ
+line2
+com09 0 11
+com08
+choice3 <shift> # 俺の胸で、泣けよ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「泣くなよ」
+display
+com11 0 5
+sound 1102
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「な、泣いてなんかないわよっ。
+line2 <shift> # ただ、ホコリが目に入っただけなんだから……」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「思いっきり泣きなよ」
+display
+com11 0 5
+sound 1103
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そ、そんなことしないもんっ」
+com09 0 18
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺の胸で、泣けよ」
+display
+com11 0 5
+sound 1104
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「な、なによー、キザぶっちゃって……。
+line2 <shift> # 誰があんたなんかに、すがったり……」
+com09 0 18
+display
+location 18
+com11 0 5
+sound 1105
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「私は……、やせても枯れても、
+line2 <shift> # 水瀬家の娘なのよ。これぐらいで……。くっ」
+com09 0 19
+display
+location 19
+com11 0 5
+sound 1106
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あ、見て。あそこにハト。砂なんかつっついて、
+line2 <shift> # ……あの子もヒマ人、じゃなくてヒマ鳩なのね」
+display
+com11 0 5
+sound 1107
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「気持ち、わかるわ……。
+line2 <shift> # ポーポー、クルック〜。ポーポー……」
+com03 0 3
+choice1 <shift> # 鳩語、話せるのか？
+line2
+com09 0 20
+com08
+choice2 <shift> # モノマネ、うまいな
+line2
+com09 0 21
+com08
+choice3 <shift> # モノマネ、いまいちだな
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「鳩語、話せるのか？」
+display
+com11 0 5
+sound 1108
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そんなわけないでしょ。ほんとに話せるなら、
+line2 <shift> # あの子がどんな思いしてるか、聞いてみたいわ」
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「モノマネ、うまいな」
+display
+com11 0 5
+sound 1109
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……うれしくなーいー！
+line2 <shift> # こんなの、ほめられたって〜……」
+display
+com11 0 5
+sound 1110
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「いっそ、モノマネ・クイーンに……。
+line2 <shift> # ううんっ！　そんなの、みじめすぎる……」
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「モノマネ、いまいちだな」
+display
+com11 0 5
+sound 1111
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「こんなとこまで、チェック入れないでよ〜。
+line2 <shift> # ちょっとは、息抜かせてよね……」
+display
+com11 0 5
+sound 1112
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「どうせ、私は、歌もダンスもモノマネも、
+line2 <shift> # いまいちよ。自慢できるのは、顔だけだわ……」
+com09 0 29
+display
+location 29
+com11 0 5
+sound 1113
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……ねえ。ここらで、私もあんたも
+line2 <shift> # やめちゃうってのも、ひとつの手かしら？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なに言うんだよ？
+line2 <shift> # まだ、はじめたばかりじゃないか！」
+display
+com11 0 5
+sound 1114
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「だって〜、続けたって、打ちのめされる
+line2 <shift> # ばっかりじゃない……」
+display
+com11 0 5
+sound 1115
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あ！　もしそうしたら、家であんた、雇って
+line2 <shift> # あげる！　好きな仕事、やらせてあげるわ！」
+display
+com11 0 5
+sound 1116
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ね、なにがやりたい？　執事？　運転手？
+line2 <shift> # それとも……」
+com03 0 3
+choice1 <shift> # 世話にはなれないよ
+line2
+com09 0 30
+com08
+choice2 <shift> # 伊織の付き人かな
+line2
+com09 0 31
+com08
+choice3 <shift> # 家庭教師かな
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「世話にはなれないよ」
+display
+com11 0 5
+sound 1117
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……そう。じゃあ、引退したら、あんたとは
+line2 <shift> # ジ・エンドなのね」
+display
+com11 0 5
+sound 1118
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……せっかく組んだのに、結果ゼロっていう
+line2 <shift> # のも。もうすこし、あがいてみようかしら」
+display
+com11 0 5
+sound 1119
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「い、言っとくけど、あんたと離れたくないから、
+line2 <shift> # 続けるんじゃないわよ。カン違いしないでよね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （がんばる理由なんか、なんだっていい。
+line2 <shift> # どうにか気力を取り戻してくれて、よかったな）
+com4b 0 0
+com09 0 39
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「伊織の付き人かな」
+display
+com11 0 5
+sound 1120
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「引退したら、もうプロデュースする必要ない
+line2 <shift> # のよ？　それでも？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いつか、再デビューしたくなった時、すぐ
+line2 <shift> # 動けるだろ？」
+display
+com11 0 5
+sound 1121
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「はあ〜……、あんた、あきらめが悪いのね」
+display
+com11 0 5
+sound 1122
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「いいわ。もうすこし続けてみる。やめても、
+line2 <shift> # そんな状態じゃ、復帰せかされそうだし……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うまく逃げ道はふさげたかな？　できれば、
+line2 <shift> # もうちょっと、前向きになってほしかったけど）
+com4b 0 1
+com09 0 39
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「家庭教師かな」
+display
+com11 0 5
+sound 1123
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……そうね。勉強とか、ノンビリ教えてもらう
+line2 <shift> # のもいいかも……」
+display
+com11 0 5
+sound 1124
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「アイドルのことなんか、すっぱりあきらめて、
+line2 <shift> # 普通の暮らしに……。それも楽しいわよね！？」
+display
+com11 0 5
+sound 1125
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そうよ、楽しいんだから、きっと……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おい、伊織……？」
+display
+com11 0 5
+sound 1126
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……また、あの頃に逆戻りね。
+line2 <shift> # 結局、どっちにいっても、私……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （いやな事でも、思い出したのかな？　俺まで
+line2 <shift> # 伊織といっしょに弱気になって、どうする……）
+com4b 0 2
+com09 0 39
+display
+location 39
+unk02

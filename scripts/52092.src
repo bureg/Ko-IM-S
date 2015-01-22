@@ -1,0 +1,277 @@
+com2c 0 114
+com2d 0 93
+com2e 0 103
+com32 0 0
+com11 0 5
+sound 800
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「前座って……他のアイドルの前に、
+line2 <shift> # 歌うの？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだ。しっかり歌って、会場の雰囲気、
+line2 <shift> # 盛り上げてきてくれよな」
+display
+com11 0 5
+sound 801
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「つまりー、真美は『じゅーりょー』
+line2 <shift> # なんだね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え？　『じゅーりょー』って……」
+com03 0 2
+choice1 <shift> # 『十両』か？
+line2
+com09 0 10
+com08
+choice2 <shift> # 『重量』か？
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「『十両』か？　……もしかして、相撲の話？」
+display
+com11 0 5
+sound 802
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「うんっ！　横綱が出てくる前に、お相撲、
+line2 <shift> # 取るんだよね！」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「『重量』か？　重さと前座に、なんの
+line2 <shift> # つながりが……」
+display
+com11 0 5
+sound 803
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ちがうよ〜。そっちじゃなくて〜、相撲取りの
+line2 <shift> # じゅーりょーだよ〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、『十両』の方か。でも、どうして
+line2 <shift> # 真美が、十両なんだ？」
+display
+com11 0 5
+sound 804
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「だって、横綱が出てくる前に、お相撲取るん
+line2 <shift> # でしょ？　だから！」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、言われてみれば、そんな感じかな。
+line2 <shift> # へー、真美は、相撲なんか見るのか？」
+display
+com11 0 5
+sound 805
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「亜美も、見るよ！　んとね、学校が終わって
+line2 <shift> # から、家に帰って、ふたりでお部屋で見るの！」
+com03 0 3
+choice1 <shift> # 相撲は、おもしろいよな
+line2
+com09 0 30
+com08
+choice2 <shift> # 歌番組も、見るんだぞ？
+line2
+com09 0 31
+com08
+choice3 <shift> # 高尚な趣味だなあ
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「相撲は、おもしろいよな」
+display
+com11 0 5
+sound 806
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「わ、兄ちゃんも好きなんだね！　よかったー！
+line2 <shift> # 亜美達と、気が合うかも！」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「歌番組も、見るんだぞ？　ふたりは、
+line2 <shift> # アイドルなんだから」
+display
+com11 0 5
+sound 807
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「わかってるよ〜。けど、夕方はそういうの、
+line2 <shift> # やってないんだもん。夜は、ちゃんと見てるよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか。なら、いいけどな」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「高尚な趣味だなあ」
+display
+com11 0 5
+sound 808
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「こーしょー？　兄ちゃん、こーしょーって、
+line2 <shift> # どういう意味？　亜美、わからないよ……」
+display
+com11 0 5
+sound 809
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「真美達、ただおもしろいから、見てるだけ
+line2 <shift> # だよ。夕方って、他にいい番組、やってないし」
+com09 0 49
+display
+location 49
+com11 0 5
+sound 810
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「じゃあ、亜美！　今日は、横綱に挑戦だねっ。
+line2 <shift> # よーし、投げ飛ばしてこよー！」
+display
+com11 0 5
+sound 811
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「おー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「って、おい！　どこ行く気だよ？　まさか、
+line2 <shift> # メインのアイドルを……」
+display
+com11 0 5
+sound 812
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「大丈夫！　亜美達、負けないよ。歌じゃ
+line2 <shift> # 勝てないけど、相撲なら、なんとかなるもん！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お遊びにしても、やめろって！
+line2 <shift> # え、えーと……」
+com03 0 3
+choice1 <shift> # 投げたら、向こうは痛がるよ
+line2
+com09 0 50
+com08
+choice2 <shift> # 大問題になっちゃうよ
+line2
+com09 0 51
+com08
+choice3 <shift> # 負かすのは、将来にしよう
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「投げたら、向こうは痛がるよ。ここは土俵じゃ
+line2 <shift> # ないし、相手も、力士じゃないんだから」
+display
+com11 0 5
+sound 813
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「あ、そっかー。アイドルのお姉さん達は、
+line2 <shift> # 相撲取りみたいに、プヨプヨしてないもんね」
+display
+com11 0 5
+sound 814
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「じゃあ、投げるのは、やめとこっか。さ、亜美、
+line2 <shift> # これからどっちが歌うか、決めようよ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ほっ、思いとどまってくれたようだ。その後、
+line2 <shift> # 前座の役目を、無事にこなすことができた）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「大問題になっちゃうよ」
+display
+com11 0 5
+sound 815
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「そうだよね〜。弱い人が横綱を倒すと、
+line2 <shift> # ザブトンが飛んできて、大さわぎになるし！」
+display
+com11 0 5
+sound 816
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「でも、あれはいいことなんだよ？　見てる人、
+line2 <shift> # すっごく楽しそうだもん！　さ、行こー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、おい、こら！　待てって！
+line2 <shift> # 話を、きけー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、あわてて追いかけて、なんとか止め
+line2 <shift> # させた。事なきを得たけど、あせったな……）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「負かすのは、将来にしよう。アイドルなら、
+line2 <shift> # 歌で勝てるようになってから、正々堂々と……」
+display
+com11 0 5
+sound 817
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「兄ちゃん、わかってないね。亜美達が横綱に
+line2 <shift> # なってから倒しても、金星にならないんだよ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「べ、別に金星じゃなくても、いいじゃないか。
+line2 <shift> # 勝ちは勝ちなんだし……」
+display
+com11 0 5
+sound 818
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「え〜、やだよ〜。せっかくなら、金星の方が
+line2 <shift> # いいもーん。そいじゃ、行ってくるね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、おい！　こらー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、メインのアイドルを交えて、大騒ぎに。
+line2 <shift> # ライブの主催者に、こっぴどく怒られた……）
+com09 0 69
+display
+location 69 130 214
+unk02

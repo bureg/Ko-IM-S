@@ -1,0 +1,537 @@
+com2c 0 17
+com2d 0 33
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「本日の収録、終了！　お疲れ様、やよい」
+display
+com11 0 0
+sound 0
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「いえっ、プロデューサーこそ、
+line2 <shift> # おつかれさまでーす！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうしたんだ？　なんだか、うれしそうだな」
+display
+com11 0 0
+sound 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えへへ。わかっちゃいますかー？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「何があったんだ？」
+display
+com11 0 0
+sound 2
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えへへ〜、それはですね……」
+display
+com11 0 0
+sound 3
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あっ、いえ……！　な、ナイショです〜っ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そっか……。じゃあ、当てて見せようか」
+com03 0 3
+choice1 <shift> # 誰かに交際を申し込まれた
+line2
+com09 0 10
+com08
+choice2 <shift> # １００円ひろった
+line2
+com09 0 11
+com08
+choice3 <shift> # 角のスーパーが大安売り
+line2
+com09 0 12
+com08
+com07 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「誰かに交際を申し込まれたんだろ？
+line2 <shift> # 『好きです、付き合って下さい！』とか……」
+display
+com11 0 0
+sound 4
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ええええっ！　ゼンゼンちがいますよー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そろそろ、そういうことがあっても、
+line2 <shift> # おかしくないんじゃないか？」
+display
+com11 0 0
+sound 5
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そ、そんなモテませんよー、私！
+line2 <shift> # 今は、お仕事に全力投球だし……ううう……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか……。でも、いつか
+line2 <shift> # そういう日も来るかもしれないぞ？」
+display
+com11 0 0
+sound 6
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「来なくていいですー！
+line2 <shift> # 来ても、うれしくないですー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ！　うれしくないのか？」
+display
+com11 0 0
+sound 7
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「だって、どんな顔していいかわかんないし、
+line2 <shift> # 困っちゃうだけだし……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか……。今のやよいにスキャンダルは無縁
+line2 <shift> # だな。でも、それじゃ、一体何があったんだ？」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「１００円ひろったんだろ？」
+display
+com11 0 0
+sound 8
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うう〜。私、もうそんなことで
+line2 <shift> # よろこんだりしませんよー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ！　そうなのか？
+line2 <shift> # やよいにも余裕が出てきたのかな？」
+display
+com11 0 0
+sound 9
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はい！　プロデューサーのおかげで、いっぱい
+line2 <shift> # お給料もらえるようになりましたから！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あっ！　足下に１００円が……！」
+display
+com11 0 0
+sound 10
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えっ！？　どこどこ？　どこですかっ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「…………」
+display
+com11 0 0
+sound 11
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「……あっ！　い、今のは、ついクセで……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「…………」
+display
+com11 0 0
+sound 12
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ぷ、プロデューサー、イジワルです〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あはは……。からかって悪かったよ。
+line2 <shift> # で、本当は何があったんだ？」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「角のスーパーが大安売りだから？」
+display
+com11 0 0
+sound 13
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えええ〜っ、そうなんですかー！？
+line2 <shift> # 急いで行かなきゃ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やよいは、トップアイドルになっても、
+line2 <shift> # 相変わらずだな……」
+display
+com11 0 0
+sound 14
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ああ〜っ！　だ、だましたんですか〜！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ごめん、ごめん……。
+line2 <shift> # で、本当は何があったんだ？」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 15
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えっと、それはですねー……」
+display
+com11 0 0
+sound 16
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「……な、ナイショです〜！　ごめんなさい！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （惜しい！　もう少しで
+line2 <shift> # 聞き出せそうだったのになぁ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （それじゃあ、もう少し
+line2 <shift> # 揺さぶりをかけてみるか……）
+com03 0 3
+choice1 <shift> # ５００円やるから教えてくれ
+line2
+com09 0 20
+com08
+choice2 <shift> # 俺のこと信用してないのか？
+line2
+com09 0 21
+com08
+choice3 <shift> # 言わないと給料カットだぞ
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「５００円やるから、教えてくれよ」
+display
+com11 0 0
+sound 17
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ご、５００円ですか……！？
+line2 <shift> # ううう……悩んじゃうかも……」
+display
+com11 0 0
+sound 18
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「でも、ダメですー！
+line2 <shift> # ワイロでしゃべったり、しませーん！」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺のこと信用してくれてないのか？」
+display
+com11 0 0
+sound 19
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そ、そんなことないですー！
+line2 <shift> # でも、これを教えちゃったら……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうなるんだ？」
+display
+com11 0 0
+sound 20
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「な、ナイショですー！」
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「言わないと給料カットするぞ」
+display
+com11 0 0
+sound 21
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えええー、そんな〜っ！　ヒドイかも……。
+line2 <shift> # でも、でも……うううう……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ちょっと、おどしをかけすぎたかな……）
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わかった。しつこく聞いてごめん。もう聞かな
+line2 <shift> # いよ。俺にだって話せないこともあるよな……」
+display
+com11 0 0
+sound 22
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うあー、そうじゃないんですー！
+line2 <shift> # えと……えっと……！」
+display
+com11 0 0
+sound 23
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「わかりましたー。じゃあ、私に
+line2 <shift> # ジャンケンで勝てたら、教えてあげますー！」
+display
+com11 0 0
+sound 24
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えへへ。しょうがないですね〜。
+line2 <shift> # もうちょっとナイショにしたかったのになー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ナイショにしたかったと言うわりに、ニコニコ
+line2 <shift> # うれしそうな笑顔なのは、どうしてかな……？）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （本当は、やよいも話したいのかもしれない）
+display
+com11 0 0
+sound 25
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「じゃあ、いきますよー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ここまで盛り上げてしまったからには、
+line2 <shift> # この勝負、絶対勝って、聞いてやらないと……）
+display
+com11 0 0
+sound 26
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ジャーンケーン……」
+com03 0 3
+choice1 <shift> # グー！
+com09 0 30
+com08
+choice2 <shift> # チョキ！
+com09 0 31
+com08
+choice3 <shift> # パー！
+com09 0 32
+com08
+com07
+com09 0 33
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「グー！」
+com37 0 1
+com1e 0 0
+com09 0 40
+com3b
+com37 0 0
+com1e 0 0
+com09 0 41
+com3b
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「チョキ！」
+com37 0 1
+com1e 0 0
+com09 0 40
+com3b
+com37 0 0
+com1e 0 0
+com09 0 41
+com3b
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「パー！」
+com37 0 1
+com1e 0 0
+com09 0 40
+com3b
+com37 0 0
+com1e 0 0
+com09 0 41
+com3b
+display
+location 33
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ぽん！」
+com09 0 41
+display
+location 40
+com11 0 0
+sound 27
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うあ〜！　負けちゃいました〜！
+line2 <shift> # えへへ……。じゃあ、約束だから話しまーす」
+display
+com11 0 0
+sound 28
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「実は私、プロデューサーに、
+line2 <shift> # カンシャのお手紙を書いたんです〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ……」
+display
+com11 0 0
+sound 29
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ほんとは、そっとカバンに
+line2 <shift> # 入れとこうと思ったんですけどー」
+display
+com11 0 0
+sound 30
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「プロデューサーがゴーインだから、
+line2 <shift> # 話しちゃいましたー。えへへ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだったのか。
+line2 <shift> # そりゃ、悪いことしたなあ……」
+display
+com11 0 0
+sound 31
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「いいんです！　何かあるの、顔に出ちゃって
+line2 <shift> # たみたいだし……」
+display
+com11 0 0
+sound 32
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「せっかくだから、ちょっと恥ずかしいけど、
+line2 <shift> # 今、読んじゃいますねー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。ぜひ、たのむよ……」
+display
+com11 0 0
+sound 33
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えっと……プロデューサーへ。
+line2 <shift> # カンシャの気持ちをこめて……」
+display
+com11 0 0
+sound 34
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「今でも、私がテレビに映ると、家中、大さわぎ
+line2 <shift> # です。妹は私のフリをマネて、一緒に踊ります」
+display
+com11 0 0
+sound 35
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「弟たちはペンライトのかわりに、
+line2 <shift> # 懐中電灯をふりまわします」
+display
+com11 0 0
+sound 36
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「お父さんとお母さんは、それを見て、やさしい
+line2 <shift> # 顔で笑います。……ニコニコ笑ってくれます」
+display
+com11 0 0
+sound 37
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「それが、うれしくて私も笑います。
+line2 <shift> # みんな、ニコニコです」
+display
+com11 0 0
+sound 38
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「こんなに、みんながニコニコできるのは、
+line2 <shift> # プロデューサーのおかげです」
+display
+com11 0 0
+sound 39
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「私が、アイドルとしてここまでこられたのも、
+line2 <shift> # みんなみんなプロデューサーのおかげです」
+display
+com11 0 0
+sound 40
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「だから……いっぱい、いっぱい、
+line2 <shift> # ありがとうって言いたいです！」
+display
+com11 0 0
+sound 41
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ありがとう、ありがとう、ありがとう。
+line2 <shift> # ありがとう、ありがとう、ありがとう……」
+display
+com11 0 0
+sound 42
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あとは、えっと……ずっと『ありがとう』って
+line2 <shift> # 書いてるだけです。えへへ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そう言って、やよいは手紙を手渡してくれた）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （手紙には、最後の行まで
+line2 <shift> # 『ありがとう』という文字が書かれていた）
+display
+com11 0 0
+sound 43
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うあ〜！
+line2 <shift> # なんか、ものすごく照れちゃいますね〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「こっちこそ、ありがとうな。やよい……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （これから、この数え切れないほどの
+line2 <shift> # 感謝の言葉に、応えてあげなくては……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （この健気でやさしい少女に、
+line2 <shift> # ありったけの感謝の気持ちをこめて……）
+com4b 0 0
+com09 0 69
+display
+location 41
+com11 0 0
+sound 44
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あ、えっと……私が勝っちゃったから、
+line2 <shift> # 教えるわけにはいきません……よね……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ガックリ、肩を落とすやよい。やっぱり、
+line2 <shift> # ほんとは話したかったんだろうな……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ん、やよい……？
+line2 <shift> # そこに持ってる紙、なんだ？」
+display
+com11 0 0
+sound 45
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えっ、あっ！　こ、これはダメですー！
+line2 <shift> # プロデューサー、負けちゃったしー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （やよいは、隠すように持っていた紙を、
+line2 <shift> # 手の中でグシャグシャに丸めてしまった）
+display
+com11 0 0
+sound 46
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うあ〜、どうしよう！　せっかく書いたのに
+line2 <shift> # 勢いでグシャグシャにしちゃいましたー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「や、やよい……？」
+display
+com11 0 0
+sound 47
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うう〜、もういいんです。
+line2 <shift> # そっとしておいてください……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （やよいは急に落ちこんでしまい、
+line2 <shift> # その後はずっとうつむいたままだった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （結局、やよいがナイショにしてたことって
+line2 <shift> # なんだったんだろう……）
+com4b 0 2
+com09 0 69
+display
+location 69
+unk02

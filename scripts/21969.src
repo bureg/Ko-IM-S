@@ -1,0 +1,265 @@
+com2c 0 33
+com2d 0 51
+com32 0 0
+com11 0 3
+sound 400
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ラジオ番組で、ファッションのトークですね。
+line2 <shift> # 私なんかで、ついていけるでしょうか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いけますよ。
+line2 <shift> # あずささん、けっこうおしゃれですから」
+display
+com11 0 3
+sound 401
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「お、おせじでも、うれしいです。あ、番組のタ
+line2 <shift> # イトルコール、私もいっしょにするんですよね」
+display
+com11 0 3
+sound 402
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「せっかくですから、目立つようにやりたいの
+line2 <shift> # ですけれどー、どんな感じがいいでしょう？」
+com03 0 3
+choice1 <shift> # 力を抜いて
+com09 0 10
+com08
+choice2 <shift> # セクシーに
+com09 0 11
+com08
+choice3 <shift> # 必殺技みたいに
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「力を抜いて」
+display
+com11 0 3
+sound 403
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、それが私らしいですね。『ふぁっしょー
+line2 <shift> # ん・うぇーぶ』。ではー、こんな感じで！」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「セクシーに」
+display
+com11 0 3
+sound 404
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そ、そんなのできるかしら。まあ、私なりに。
+line2 <shift> # 『ファッショ〜ン・ウェ〜ブン』」
+display
+com11 0 3
+sound 405
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「だ、ダメですね、ぜんぜん……。ふ、普通に、
+line2 <shift> # やってきます。すみません、下手で」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「必殺技みたいに」
+display
+com11 0 3
+sound 406
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そ、そんなのできるかしら。え、えーと……。
+line2 <shift> # 『ファッショォォン・ウェィィッ！』、んんっ」
+display
+com11 0 3
+sound 407
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「の、ノドが……。それに番組にあってない気も。
+line2 <shift> # やはり、普通にやってくることにします」
+com09 0 29
+display
+location 29
+com22 0 30
+com21 0 30
+com11 0 3
+sound 408
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ふぅー、楽しかったですー。あの女性ＤＪさん、
+line2 <shift> # 近くで見ると、すごいおしゃれですね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どんなところで、そう感じましたか？」
+display
+com11 0 3
+sound 409
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「こう、着飾っていないのに、品があるんです。
+line2 <shift> # ああいうのって、どうして出るのでしょう？」
+com03 0 3
+choice1 <shift> # 心から、にじむんですかね
+line2
+com09 0 30
+com08
+choice2 <shift> # 育ちが、ちがうんですかね
+line2
+com09 0 31
+com08
+choice3 <shift> # 鼻から、たれるんですかね
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「心から、にじむんですかね」
+display
+com11 0 3
+sound 410
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、そうかもしれないです。
+line2 <shift> # ふふっ、いいお手本になりますよね、本当に」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「育ちが、ちがうんですかね」
+display
+com11 0 3
+sound 411
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「だ、だとしたら、ショックですよね。
+line2 <shift> # 私では、一生かかっても、追いつけない気が」
+display
+com11 0 3
+sound 412
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「それでも、すこしは近づきたいですよね。
+line2 <shift> # たとえ、完全には無理でも」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「鼻から、たれるんですかね」
+display
+com11 0 3
+sound 413
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「え？　品が、鼻からですか？
+line2 <shift> # それは、もしかして、ちがうものなのでは？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ。そ、そうですね。
+line2 <shift> # メチャクチャなこと、言っちゃいました」
+display
+com11 0 3
+sound 414
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「カゼ、ひいていますか？
+line2 <shift> # だとしたら、気をつけて下さいね」
+com09 0 49
+display
+location 49
+com11 0 3
+sound 415
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「男の人の目から見るとー、プロデューサーさん
+line2 <shift> # も、あの女性、ステキだって思いますか？」
+com03 0 3
+choice1 <shift> # ええ、うちの事務所にほしいです
+line2
+com09 0 50
+com08
+choice2 <shift> # あずささんが、一番です
+line2
+com09 0 51
+com08
+choice3 <shift> # ええ、すごい好みです
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 2
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ええ、うちの事務所にほしいです。
+line2 <shift> # アイドル候補生としてね」
+display
+com11 0 3
+sound 416
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、やはり、そう思いますか。もしうちにきて
+line2 <shift> # くれたら、いろいろと教えてもらってー……」
+display
+com11 0 3
+sound 417
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「私とちがって、プロデューサーさんなしでも、
+line2 <shift> # がんばれそうな人ですよね。ふふっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ってことは、俺の働き、認めてもらえてるの
+line2 <shift> # かな？　これって、やっぱりうれしいよな）
+com09 0 69
+display
+location 51
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あずささんが、一番です」
+display
+com11 0 3
+sound 418
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「う……。あ、ありがとうございます。でも、
+line2 <shift> # いいですよ？　そんなムリしてもらわなくても」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いえ、ムリなんかじゃ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （すこし気兼ねしている。けど、思ったことを、
+line2 <shift> # 言ったわけだし、ま、いいか）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ええ、すごい好みです」
+display
+com11 0 3
+sound 420
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「え……。それは、単に、
+line2 <shift> # 目を引くとかではなくて、そのー……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、もっと高いレベルでひかれるというか」
+display
+com11 0 3
+sound 421
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そうですか。ふ、ふーんなんて……、
+line2 <shift> # お、思ったり、思わなかったり……」
+display
+com11 0 3
+sound 422
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「で、でも、わかります！　きっとそうなん
+line2 <shift> # だろうなって。予想は、なんとなく……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ん？　すこし様子がおかしいな。
+line2 <shift> # どうも、よくないことを言ってしまったようだ）
+com09 0 69
+display
+location 69
+unk02

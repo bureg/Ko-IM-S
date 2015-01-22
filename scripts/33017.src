@@ -1,0 +1,296 @@
+com2c 0 53
+com2d 0 61
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おーい雪歩、ちょっとミーティングを
+line2 <shift> # したいんだが……あれ、なにやってるんだ？」
+display
+com11 0 2
+sound 1100
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ちょっとお茶を飲んでいました。家から
+line2 <shift> # ポットで持ってきたんです。あつあつですよ」
+display
+com11 0 2
+sound 1101
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ、それよりえっと……ミーティング
+line2 <shift> # ですか？　事務所に戻ったほうが……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、とりあえず急ぎじゃないからいいよ」
+display
+com11 0 2
+sound 1102
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そうですか。それにしても最近、
+line2 <shift> # 仕事で忙しい日が続いてますけど……」
+display
+com11 0 2
+sound 1103
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「それでも、時々こうやってのんびりする
+line2 <shift> # 時間があるのは、やっぱり、いいですよね」
+display
+com11 0 2
+sound 1128
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ああ、空の下でのお茶もおいしいし、
+line2 <shift> # なにより、心が休まります……」
+display
+com11 0 2
+sound 1104
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「こういうオフ時間が、
+line2 <shift> # もう少しあると嬉しいですね」
+com03 0 2
+choice1 <shift> # そうだね
+com09 0 10
+com08
+choice2 <shift> # そうかなぁ
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだね、あちこち声がかかるのはいいけど、
+line2 <shift> # 仕事一辺倒じゃあ息が詰まっちゃうからね」
+display
+com11 0 2
+sound 1105
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい、休けい休暇、大事ですよね？」
+display
+com11 0 2
+sound 1106
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ゆっくり英気を養って、次に頑張って
+line2 <shift> # 向かうっていうか、そんな感じで……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ははは……熱いお茶も心の栄養補給に
+line2 <shift> # 一役買ってるかな？」
+display
+com11 0 2
+sound 1107
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「もちろんですっ」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうかなぁ。もっともっと、レッスンなり
+line2 <shift> # 仕事なりに、熱心に打ち込めればと思うけど」
+display
+com11 0 2
+sound 1108
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「うーん、そうですか……でも私、
+line2 <shift> # あまりせかせかした時間は、苦手で」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まぁ無理にとは言わないさ。
+line2 <shift> # 身体壊しちゃあ元も子もないし」
+display
+com11 0 2
+sound 1109
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ですよね？　だからたまの休みこそ、
+line2 <shift> # ゆっくり休まないと……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだなぁ……やっぱり、休みは
+line2 <shift> # しっかり休んだほうがいいかもね」
+display
+com11 0 2
+sound 1110
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい。次をもっと頑張るために、
+line2 <shift> # 休むんです」
+com09 0 29
+display
+location 29
+com11 0 2
+sound 1111
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そうだ、プロデューサーも
+line2 <shift> # お茶を一杯、どうですか？」
+display
+com11 0 2
+sound 1112
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「おいしい熱いお茶を飲むと、
+line2 <shift> # きっとリラックスできますよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだな、それじゃあ
+line2 <shift> # 一杯、いただこうか」
+display
+com11 0 2
+sound 1113
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あっ。それ、私の飲みかけ……」
+com03 0 3
+choice1 <shift> # おいしいお茶だね
+line2
+com09 0 30
+com08
+choice2 <shift> # ご、ごめん
+com09 0 31
+com08
+choice3 <shift> # 気にしない気にしない
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おいしいお茶だね」
+display
+com11 0 2
+sound 1114
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あっ、はい！　ありがとうございます。
+line2 <shift> # 自分でいれた、とっておきなんです！」
+display
+com11 0 2
+sound 1115
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「飲みかけで、すみません……。
+line2 <shift> # いれなおしましょうか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、飲みかけなのは全然構わないよ。
+line2 <shift> # でも、もう一杯もらおう」
+display
+com11 0 2
+sound 1116
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい、どうぞ！　嬉しいです、
+line2 <shift> # プロデューサーに飲んでもらえて……」
+display
+com11 0 2
+sound 1117
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「新しいお茶っ葉が手に入ったら、
+line2 <shift> # そのときは是非、一緒に飲みましょうね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （雪歩、なんだか妙に嬉しそうだな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しかし、いいお茶だった。雪歩も俺も、すっき
+line2 <shift> # り新鮮な気分で、次の仕事に挑めそうだぞ）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ご、ごめん、気がつかなくて。すまない」
+display
+com11 0 2
+sound 1118
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「いえ、あの、えっと……
+line2 <shift> # 気にしませんから、私」
+display
+com11 0 2
+sound 1119
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「それよりその、もう一杯飲みません？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ……しかしこの飲みかけのカップ、
+line2 <shift> # 使っていいのか？」
+display
+com11 0 2
+sound 1120
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「い、いいですよっ。気にしないって
+line2 <shift> # 言ったじゃないですかぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「な、なにかしらんが、
+line2 <shift> # 俺は照れくさくなってきたぞ」
+display
+com11 0 2
+sound 1121
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「私もです。なんだか変な雰囲気ですね……
+line2 <shift> # こ、こんなときはお茶を一気飲みです！」
+display <shift> # がばっ！
+display
+com11 0 2
+sound 1122
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ああっ、あちちちち！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うわ、こぼすな！　あちちちち！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （結局、あまりお茶を味わうことなく、
+line2 <shift> # 妙に、ぎくしゃくした雪歩と俺だった……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （気を取り直して、次の仕事には、
+line2 <shift> # きちんと行かなくちゃな）
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「気にしない気にしない、減るもんじゃなし」
+display
+com11 0 2
+sound 1123
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「お、お茶は減りますよぉ！
+line2 <shift> # あっいえ、ごめんなさい。その……」
+display
+com11 0 2
+sound 1124
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「熱いの、飲んで欲しかったんですけど……
+line2 <shift> # ちょっとぬるくなってたかもしれないから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうかな？　ぬるかったかな？
+line2 <shift> # いや、気がつかなかった」
+display
+com11 0 2
+sound 1125
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「プロデューサー、猫舌ですか？
+line2 <shift> # それとも案外、お茶ににぶいのかな……」
+display
+com11 0 2
+sound 1126
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「プロデューサーなら、このお茶の良さを
+line2 <shift> # わかってくれると思ってたんですけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あっいや待て、改めて熱いのを
+line2 <shift> # 一杯、もらえないか？」
+display
+com11 0 2
+sound 1127
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「いえ、事務所に戻りましょう。
+line2 <shift> # ミーティングをしましょう、ね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （変に気を遣われてしまったのか、
+line2 <shift> # 雪歩はお茶をしまい、行ってしまった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （残念そうな顔を、していたな……）
+com09 0 49
+display
+location 49
+unk02

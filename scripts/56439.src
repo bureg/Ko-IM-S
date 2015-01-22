@@ -1,0 +1,555 @@
+com2c 0 90
+com2c 0 118
+com2d 0 131
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （これで仕事は終わったけど、
+line2 <shift> # どこかに寄り道して帰ろうかな……）
+com03 0 2
+choice1 <shift> # どこかに寄り道する
+line2
+com09 0 10
+com08
+choice2 <shift> # まっすぐ帰る
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よし、寄り道でもして帰ろうかな）
+display
+com11 0 0
+sound 10000
+com4c 0 0
+name 0 2 <names:2>  # President
+line1 <shift> # 「ああ、君。忙しいところ、すまないが、
+line2 <shift> # ちょっと、いいかね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「はい、大丈夫です。寄り道して帰ろうかな、な
+line2 <shift> # んて思ってたとこだったんで。なんでしょう？」
+display
+com11 0 0
+sound 10001
+com4c 0 0
+name 0 2 <names:2>  # President
+line1 <shift> # 「ひとつ、頼まれごとを、してもらえないかね？
+line2 <shift> # 彼女を、駅まで送っていって欲しいんだが」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「彼女……、といいますと？」
+display
+com11 0 0
+sound 10002
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「あふぅ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、君は……」
+display
+com11 0 0
+sound 10003
+com4c 0 0
+name 0 2 <names:2>  # President
+line1 <shift> # 「うむ。君も、顔と名前くらいは、
+line2 <shift> # 知っているとは思うが……」
+display
+com11 0 0
+sound 10004
+com4c 0 0
+name 0 2 <names:2>  # President
+line1 <shift> # 「星井美希君。１４歳だ。
+line2 <shift> # 我がプロダクション、期待の逸材だよ！」
+display
+com11 0 0
+sound 10005
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ねえ、ミキ、みたいＴＶがあるんだけど、誰か、
+line2 <shift> # ＴＶを、ミキの前まで持ってきてほしいな」
+display
+com11 0 0
+sound 10006
+com4c 0 0
+name 0 2 <names:2>  # President
+line1 <shift> # 「だが……。少々、やる気に欠けるところが、
+line2 <shift> # あってね。まだデビューは、させておらんのだ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……なんだか、わからなくもないな）
+display
+com11 0 0
+sound 10007
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「社長、紹介は、すんだんだよね？
+line2 <shift> # もう帰っていい？」
+display
+com11 0 0
+sound 10008
+com4c 0 0
+name 0 2 <names:2>  # President
+line1 <shift> # 「こらこら、夜道を１人で帰るのは、危ないぞ。
+line2 <shift> # かなり遅くなってしまったからね」
+display
+com11 0 0
+sound 10009
+com4c 0 0
+name 0 2 <names:2>  # President
+line1 <shift> # 「彼と一緒に帰りたまえ。……君、そういうわけ
+line2 <shift> # だ。美希君を、駅まで送っていってくれるね？」
+com03 0 3
+choice1 <shift> # 任せて下さい
+line2
+com09 0 20
+com08
+choice2 <shift> # 喜んで送りますよ！
+line2
+com09 0 21
+com08
+choice3 <shift> # 遠慮しておきます
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （やっぱり、明日に備えて、まっすぐ帰ろう！）
+com09 0 99
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「任せて下さい。無事に送っていきますよ」
+display
+com11 0 0
+sound 10010
+com4c 0 0
+name 0 2 <names:2>  # President
+line1 <shift> # 「なかなか頼もしいな。では、よろしく頼むよ。
+line2 <shift> # ほら、美希君。彼に、ついていきなさい」
+display
+com11 0 0
+sound 10011
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「はーい。それじゃ、
+line2 <shift> # よろしくお願いしますなの」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、それじゃあ行こうか」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「喜んで送りますよ！」
+display
+com11 0 0
+sound 10012
+com4c 0 0
+name 0 2 <names:2>  # President
+line1 <shift> # 「ずいぶんと、ノリノリだが……、まさか君、
+line2 <shift> # よからぬことを、考えては、いないだろうね？」
+display
+com11 0 0
+sound 10013
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「えー。よからぬことって、なに？
+line2 <shift> # ミキ、ヘンタイさんと帰るのは、や！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ヘ、ヘンタイって……！
+line2 <shift> # なにもしませんよ。信じて下さいっ！」
+display
+com11 0 0
+sound 10014
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ムキになって、否定するところが、
+line2 <shift> # 怪しいの……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「怪しくないって！」
+display
+com11 0 0
+sound 10015
+com4c 0 0
+name 0 2 <names:2>  # President
+line1 <shift> # 「まあ、君に限って、間違いは起きないと思うが
+line2 <shift> # ……、くれぐれも、気をつけてくれたまえよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「は、はい」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （くっ。どうして、いきなりヘンタイ扱い
+line2 <shift> # されなくちゃ、いけないんだよ！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それじゃ、美希。そろそろ、行こうか」
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「遠慮しておきます。
+line2 <shift> # だって、面倒くさいじゃないですか」
+display
+com11 0 0
+sound 10016
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「むー。それ、ミキのことなんて、
+line2 <shift> # どうでもいいってこと！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、いや、そういうわけじゃ……」
+display
+com11 0 0
+sound 10017
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ミキ、もう、ひとりで帰るの！」
+display
+com11 0 0
+sound 10018
+com4c 0 0
+name 0 2 <names:2>  # President
+line1 <shift> # 「こらこら、ひとりで帰っては、
+line2 <shift> # 危ないと言ったじゃないか」
+display
+com11 0 0
+sound 10019
+com4c 0 0
+name 0 2 <names:2>  # President
+line1 <shift> # 「君も君だ。我がプロダクションの一員なら、ア
+line2 <shift> # イドル候補生を送っていくことぐらいしたまえ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「はい……。ごめんな、美希。
+line2 <shift> # それじゃ行こうか」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 10020
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「はい、なの」
+display
+com22 0 30
+com21 0 30
+com32 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それにしても、社長、わざわざ送っていけって
+line2 <shift> # 言うなんて、よほど、美希が心配なんだろうな」
+display
+com11 0 0
+sound 10021
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「そうかなあ？　社長、美希に、もっと、
+line2 <shift> # しっかりしろーって、結構うるさいの」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それも、美希のことを、
+line2 <shift> # 大切に思ってるからこそだよ」
+display
+com11 0 0
+sound 10022
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「そうなのかなあ。でも、夜道を歩く時は厚着し
+line2 <shift> # ろとか、そんなことまで言ってくるんだよ」
+display
+com11 0 0
+sound 10023
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「服装のことまで注意するなんて、口うるさい、
+line2 <shift> # おじいちゃんみたいってカンジ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「い、いや。おじいちゃんは言いすぎだろ。
+line2 <shift> # せめて、おじちゃんと言ってあげてくれよ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「社長は、美希が夜道で変な人にあったりしたら、
+line2 <shift> # 可哀相だから、そう言ってるんだしさ」
+display
+com11 0 0
+sound 10024
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「でも、ミキ、胸おっきいから、ラインが、
+line2 <shift> # キレイに見える服、選んで着てるんだよ」
+display
+com11 0 0
+sound 10025
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「なのに、厚着しろとか、ありえないの！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうか。美希は胸が大きいのか……」
+display
+com11 0 0
+sound 10026
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「うん。そうだよ。ほらほら！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、あんまり、路上で強調しないでくれよ！」
+display
+com11 0 0
+sound 10027
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ふーん……。
+line2 <shift> # 普通、みんな、ジロジロ見るんだけどな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だって、ジロジロ見られたら、イヤだろう？」
+display
+com11 0 0
+sound 10028
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「うん。知らない人に、ジロジロ見られるのは、
+line2 <shift> # 気分悪いし、すっごくイヤなの」
+display
+com11 0 0
+sound 10029
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「でも……、プロデューサーになら、ちょっと
+line2 <shift> # だったら、ジロジロ見られてもいいかも……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ははは……。いや、遠慮しておくよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （もしも、ジロジロ見てしまったら、
+line2 <shift> # その後、事務所で、何と呼ばれるか……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （か、考えただけで、恐ろしい！）
+display
+com11 0 0
+sound 10030
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「あ……！　見て見て、プロデューサー。
+line2 <shift> # あっちでカップルが、抱き合ってるよ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「な、なにっ！
+line2 <shift> # こらっ、美希、見ちゃいけません！」
+display
+com11 0 0
+sound 10031
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「えー。なんで？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんでって……。カップルの平和を、
+line2 <shift> # 俺達がジャマしちゃ、ダメだろ？」
+display
+com11 0 0
+sound 10032
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ふーん。ねえねえ、ミキ達も、カップル
+line2 <shift> # 同士とかに、見られちゃってたりするのかな？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え？　いや、どちらかといえば……」
+com03 0 3
+choice1 <shift> # やはり、カップルかな
+line2
+com09 0 30
+com08
+choice2 <shift> # 兄妹同士だろう
+line2
+com09 0 31
+com08
+choice3 <shift> # プロデューサーとアイドル
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、やっぱりカップルに見られるかもな」
+display
+com11 0 0
+sound 10033
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「やっぱり！　ミキも、
+line2 <shift> # そうなんじゃないかなって思ったの！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まあ、もちろん、実際は違うけどな。俺には、
+line2 <shift> # 美希みたいなかわいい彼女は……、はぁ〜……」
+display
+com11 0 0
+sound 10034
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「え、そうなの？　ふーん……。
+line2 <shift> # プロデューサー、モテそうだけどな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ははは、お世辞でもうれしいよ」
+display
+com11 0 0
+sound 10035
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「むー。お世辞じゃないのに」
+com09 0 39
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、兄妹同士かな」
+display
+com11 0 0
+sound 10036
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「むー、そんなカンジかぁ。普通だね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「美希は、大人っぽく見えるからな。俺と、
+line2 <shift> # 並んでても、自然に兄妹っぽく見えるよ」
+display
+com11 0 0
+sound 10037
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「そっかー。でも、大人っぽいっていうのは、
+line2 <shift> # ちょっといいかも」
+com09 0 39
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「プロデューサーとアイドルかな」
+display
+com11 0 0
+sound 10038
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「えー？　それって普通は、
+line2 <shift> # 思いつかないって思うな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……まあ、そう言われれば、そうかな」
+display
+com11 0 0
+sound 10039
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「どっちかって言うと、
+line2 <shift> # もっと大人の関係に思われてたりして！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「大人の関係……、って、こら、美希！
+line2 <shift> # お前、１４歳なんだろう？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もう少し、子どもらしいことを言いなさい！」
+display
+com11 0 0
+sound 10040
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「むー、美希、もう子どもじゃないのに……」
+com09 0 39
+display
+location 39
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そういえば、美希は、
+line2 <shift> # どうしてアイドルになろうと思ってるんだ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「何か、欲しいものでも、あるのか？」
+display
+com11 0 0
+sound 10041
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「欲しいもの……。うーん、
+line2 <shift> # 欲しいもの、できそうな気がしてきたかも」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか。やっぱり、目標がある方が、
+line2 <shift> # 長続きするからな。頑張れよ！」
+display
+com11 0 0
+sound 10042
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「…………」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うん？　どうしたんだ、美希。
+line2 <shift> # いきなり、黙り込んで」
+display
+com11 0 0
+sound 10043
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ねえねえ、プロデューサー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ん？　どうした？」
+display
+com11 0 0
+sound 10044
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ミキね、デビューする時は、
+line2 <shift> # プロデューサーに、プロデュースして欲しいな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええっ？　そう言ってくれるのは、
+line2 <shift> # うれしいけど……」
+display
+com11 0 0
+sound 10045
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「あはっ☆　ホント？　やったやったやったぁ！
+line2 <shift> # じゃ、決まり、ね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おいおい、そうはいかないよ。美希の、
+line2 <shift> # デビューの時期を決めるのは、社長だし……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それに、俺はもう、担当アイドルがいるんだ」
+display
+com4a 0 0
+com11 0 0
+sound 10046
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「むー。そんなの、気にしなくていいよ！」
+com09 0 100
+display
+location 100
+location 99
+unk02

@@ -1,0 +1,282 @@
+com2c 0 46
+com2d 0 63
+com32 0 0
+com11 0 5
+sound 800
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「前座とはいえ、こんな大きな舞台に、
+line2 <shift> # いきなり立たせてもらえるなんてっ」
+display
+com11 0 5
+sound 801
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「どうしよう、どうしましょう！　こ、これは
+line2 <shift> # 気合いをいれなくてはっ！　気合い、気合いです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「気負いすぎてないか、雪歩？」
+display
+com11 0 5
+sound 802
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「そそ、そんなことないっ！　やりますよ私、
+line2 <shift> # がんばりますぅっ……、ううぅ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「って、声が震えてるじゃないか」
+com03 0 2
+choice1 <shift> # まずはリラックスだ
+line2
+com09 0 10
+com08
+choice2 <shift> # 意気込みは充分だな
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まずはリラックスだ、ほら」
+display
+com11 0 5
+sound 803
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「で、でも、気合い、気合いですよ。
+line2 <shift> # 気合いで、この正念場を乗り切るんですよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「気合いはよし！　しかしそんなに
+line2 <shift> # ガチガチに緊張して、歌えるかな？」
+display
+com11 0 5
+sound 804
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ううっ、ぐすっ……、ほんとは怖いです。
+line2 <shift> # ステージの大きさに飲み込まれてしまいそうで」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お客はみんなカボチャだと思え。
+line2 <shift> # ほら雪歩、肩の力をよーく抜いて」
+display
+com11 0 5
+sound 805
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「は、はい、くにゃくにゃになりますっ」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「武者震いか、うん、意気込みは充分だな。
+line2 <shift> # やる気があるのはいいことだ」
+display
+com11 0 5
+sound 806
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ももも、もちろん、です。せっかくの大舞台、
+line2 <shift> # プレッシャーに負けず、が、がんばらないと」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「しかし滅茶苦茶あがっているようにも
+line2 <shift> # 見えるんだけど……？」
+display
+com11 0 5
+sound 807
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「あああ、あがってなんか、ない、ですよぉ。
+line2 <shift> # 私、私はっ、ああうう……ぐすっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「鼻声じゃあないか、ほら、深呼吸して。
+line2 <shift> # そんなにかたくならないで」
+display
+com11 0 5
+sound 808
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「そ、そんなこと、いわれてもぉ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「かたくなるな、かしこまるな！
+line2 <shift> # こんにゃくみたいな気分になれ！」
+display
+com11 0 5
+sound 809
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「は、はい！　くにゃくにゃになりますっ」
+com09 0 29
+display
+location 29
+com11 0 5
+sound 810
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「くにゃくにゃ……、くねくね……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、くねくねはしなくていいんだ」
+display
+com11 0 5
+sound 811
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「くにくに……、しょんぼり……、
+line2 <shift> # はぁ、がっくり……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「しょんぼりもがっくりも、
+line2 <shift> # しなくていいんだってば」
+display
+com11 0 5
+sound 812
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ううっ、ち、力抜きすぎて、
+line2 <shift> # 今度は元気が出ませんよぉ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （リラックスしたのはいいが、今度は力が抜け
+line2 <shift> # すぎか。俺の一言に影響受けすぎだなぁ）
+com03 0 3
+choice1 <shift> # もっとしゃきっと
+line2
+com09 0 30
+com08
+choice2 <shift> # もっとパワーを
+line2
+com09 0 31
+com08
+choice3 <shift> # このままでいいか
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もっとしゃきっとせんかい！
+line2 <shift> # 背筋伸ばして！」
+display
+com11 0 5
+sound 813
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「は、はいっ！　しゃきっと、しゃきっと
+line2 <shift> # しなくちゃ！　背筋をぴんとのばしてっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「さぁ、出番だ。わかったか、
+line2 <shift> # わかったらさっさと行けっ」
+display
+com11 0 5
+sound 814
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「わかりました！　右足をまっすぐ出して
+line2 <shift> # 右手をまっすぐ出して……」
+display
+com11 0 5
+sound 815
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「左足と左手をまっすぐ出してっ……。
+line2 <shift> # スキップスキップで、いってきますっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （何かぎくしゃくとメカニカルな歩き方で、
+line2 <shift> # 雪歩はステージに出て行った）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （だが、非常にメリハリの利いたダンスと歌を
+line2 <shift> # 披露してくれた！　上出来だな！）
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もっとパワーを！」
+display
+com11 0 5
+sound 816
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ぱ、ぱわーですか！
+line2 <shift> # ええと、ええと、どうすればっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「腹から力入れて、声出して！　気合いだ気合い！
+line2 <shift> # 武道家の気分になれっ」
+display
+com11 0 5
+sound 817
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ぶ、武道家の、気分っ！　そ、
+line2 <shift> # そうですね、やっぱり気合いですよね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああっ、もう出番だ、
+line2 <shift> # とにかく勢いで行けーっ！」
+display
+com11 0 5
+sound 818
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「わかりましたっ、私、
+line2 <shift> # い、いきまーす！」
+display
+com20 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （そして雪歩は、ずかずかと
+line2 <shift> # ステージ中央に出て行き……）
+display
+com11 0 5
+sound 819
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「みなさん、おいっす！　本日は、
+line2 <shift> # 気合いでいっちょうよろしく！　びしっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （正拳突きのポーズを一発披露した。
+line2 <shift> # やんやの大拍手で客席は大受けだ！）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （……しかし、ステージプランは滅茶苦茶になっ
+line2 <shift> # てしまった。まぁ、好評だったからいいか……）
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「しかしまぁ、このままでいいか……。
+line2 <shift> # 雪歩、余計なことは考えず行こう」
+display
+com11 0 5
+sound 820
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「は、はい〜っ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「さぁ、出番だ行って来い、頑張れ！」
+display
+com11 0 5
+sound 821
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「い、いってきます……。
+line2 <shift> # が、頑張れるかな……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「た、頼むよ！　気合い入れて行け！」
+display
+com11 0 5
+sound 822
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「た、頼まれます。き、気合いは……、
+line2 <shift> # プロデューサーが、入れてくださーい」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、世話の焼ける……。仕方ないなぁ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （雪歩は無駄な力が抜けて、リラックスして
+line2 <shift> # ステージに臨んだみたいだ。だけど……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ちょっと勢いには欠けたかもしれない。
+line2 <shift> # 今後に、まだ課題が残りそうだ）
+com09 0 49
+display
+location 49
+unk02

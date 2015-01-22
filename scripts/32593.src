@@ -1,0 +1,221 @@
+com2c 0 63
+com2d 0 61
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「新しいＰＶでは、ライブ感が欲しいな」
+display
+com11 0 1
+sound 900
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「えっ？　ライブの様子を撮るんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうじゃなくて……、日常の躍動感、かな。
+line2 <shift> # 雪歩の普段着の動きが撮りたいんだ」
+display
+com11 0 1
+sound 901
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「普段着の、動き、ですか？
+line2 <shift> # 私服で歌う、ってことでしょうか」
+display
+com11 0 1
+sound 902
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「親しみやすくていいかも。ああ、でも……、
+line2 <shift> # 私、飛んだり跳ねたりしないから……」
+display
+com11 0 1
+sound 903
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あんまり、動き、って感じにならないかも
+line2 <shift> # しれないですよ？」
+com03 0 2
+choice1 <shift> # 静かな動きを撮るよ……
+line2
+com09 0 10
+com08
+choice2 <shift> # なら飛ぼう、跳ねよう！
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それなら、雪歩らしい静かな動きの様子を
+line2 <shift> # 撮るよ。つまらないなんてことはないさ」
+display
+com11 0 1
+sound 904
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「静かな様子、ですか。は、はい。
+line2 <shift> # そうしてもらえると……嬉しいです」
+display
+com11 0 1
+sound 905
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「でも、あんまり動かないと、
+line2 <shift> # やっぱり絵にならないかな？」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そう思うなら、飛ぼう、跳ねよう！
+line2 <shift> # 躍動しよう、な？」
+display
+com11 0 1
+sound 906
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そ、それだと全然、普段の動きじゃあ
+line2 <shift> # ないじゃないですかぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それはそうなんだが……、雪歩が微動だに
+line2 <shift> # しないようだと、まともな撮影にならないぞ」
+display
+com11 0 1
+sound 907
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そうですね。私があんまり動かなかったら、
+line2 <shift> # 絵にならないですよね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まぁ、激しく動かなくてもいいけど……」
+display
+com11 0 1
+sound 908
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ちょっと考えてみます。なにか
+line2 <shift> # 雰囲気のある絵になればいいのかな？」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「少し撮ってみようか、
+line2 <shift> # 試しにカメラまわしてみる」
+display
+com22 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そしてしばらく経って、テストで
+line2 <shift> # 撮影したものを見ることにした……）
+display
+com21 0 30
+com11 0 1
+sound 909
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「うーん……、地味ですね。ちょっとこれは、
+line2 <shift> # 私、画面が動かなすぎかも、って思います」
+display
+com11 0 1
+sound 910
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「なんとか工夫、したいなぁ。
+line2 <shift> # もっと面白くなるように……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「雪歩が時々ライブで見せるような、大きく
+line2 <shift> # 人目を惹く動き、ここでちょっと欲しいね」
+display
+com11 0 1
+sound 911
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ええっ、ライブみたいな動きですか？　で、
+line2 <shift> # でもステージ以外でそんな、恥ずかしいかも」
+com03 0 2
+choice1 <shift> # 一緒に踊ろう
+line2
+com09 0 30
+com08
+choice2 <shift> # とにかく歌おう
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なら踊ろう！　ステージダンスを。俺も一緒に
+line2 <shift> # 踊るぞ、生き生きとした雰囲気になるかも？」
+display
+com11 0 1
+sound 912
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ええっ！　踊るんですか！　ライブの
+line2 <shift> # 振り付けを、こ、こんな場所でっ？」
+display
+com11 0 1
+sound 913
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そりゃ踊れば派手になりますけど、私その、
+line2 <shift> # 心の準備が……、道行くひとも見てるし……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「気にならん！　さぁ踊るぞ！
+line2 <shift> # ミュージックスタート！」
+display
+com11 0 1
+sound 914
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ま、待ってくださーい！　ああ、
+line2 <shift> # 曲を聴くと私、身体が勝手に……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そのうちだんだんと雪歩の緊張がほぐれて、
+line2 <shift> # 大きなステップで踊って動けるようになった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （微妙なぎこちなさが、何か初々しいような、
+line2 <shift> # 面白い雰囲気の映像になったぞ）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「とにかく歌おう、大きな声で！　そうすれば
+line2 <shift> # ライブの気分が出るかもしれないぞ」
+display
+com11 0 1
+sound 915
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「き、気分、出るかなぁ……。
+line2 <shift> # ああ、道行くひとが見てるし」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「気にしてはいけないっ」
+display
+com11 0 1
+sound 916
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「いけないと言われても、
+line2 <shift> # 気になりますよぉ……」
+display
+com11 0 1
+sound 917
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「でも、そうですね。なにかしなきゃ、私。
+line2 <shift> # 歌わなきゃ、歌わなきゃっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「慌てない、慌てない。さぁ、カメラ回すぞ」
+display
+com11 0 1
+sound 918
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そ、それじゃ、あの……、歌いだしだけ、
+line2 <shift> # 目をつぶっていてもいいですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （それから雪歩はゆっくりと歌い始めた。
+line2 <shift> # じっと静かに、動かずに歌っていた……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しかしその動かない中の微妙な表情の変化が
+line2 <shift> # 生き生きとした、ユニークな映像になったぞ）
+com09 0 49
+display
+location 49
+unk02

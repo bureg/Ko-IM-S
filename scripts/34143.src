@@ -1,0 +1,470 @@
+com2c 0 43
+com2d 0 61
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「雪歩、お疲れさま。
+line2 <shift> # 今日の収録、なかなかよかったぞ」
+display
+com11 0 0
+sound 0
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ、ありがとうございます。実は、私も、
+line2 <shift> # 今日はよくできたかなって……思ってましたぁ」
+display
+com11 0 0
+sound 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「……って、自分で言うのは、
+line2 <shift> # ちょっとはずかしいかもですけど」
+display
+com11 0 0
+sound 2
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「なんていうか、心がゆったりしてて……
+line2 <shift> # キチンと、仕事が出来たような気がします」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、俺もそれは感じた。
+line2 <shift> # 現場のスタッフにも、伝わってたと思うぞ」
+display
+com11 0 0
+sound 3
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ふふっ、そうだったらうれしいです。
+line2 <shift> # また次の仕事も、こんな風にしたいです……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「大丈夫、そうなるよ。
+line2 <shift> # 自分でもそう思うだろう？」
+display
+com11 0 0
+sound 4
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ、わかりますか？　最近、少しですけど、
+line2 <shift> # 自信がついてきた感じなんですぅ」
+display
+com11 0 0
+sound 5
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「プロデューサーのおかげで、ちょびっとだけ
+line2 <shift> # 『しっかり雪歩』になれたんです！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだなぁ。前の雪歩は……」
+com03 0 3
+choice1 <shift> # ふにゃふにゃしてた
+line2
+com09 0 10
+com08
+choice2 <shift> # ふるふるしてた
+line2
+com09 0 11
+com08
+choice3 <shift> # ふらふらしてた
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ふにゃふにゃした女の子、だったよな。
+line2 <shift> # 本当に、芸能界でやっていけるか心配だった」
+display
+com11 0 0
+sound 6
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ、そうですよね……。毎日、慣れないこと
+line2 <shift> # ばかりで、自信がなかったですから……」
+display
+com11 0 0
+sound 7
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「だから、ふにゃふにゃしてたんだと思います。
+line2 <shift> # 今でもそんなに自信満々じゃないですけど……」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ふるふるした女の子、だったよな。よく、
+line2 <shift> # 色んなことにおびえて、震えてたし……」
+display
+com11 0 0
+sound 8
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ、そ、そうかも……。す、すみません。
+line2 <shift> # 色々とご迷惑をおかけしてしまって……」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ふらふらしてる女の子、だったよな。なんだか
+line2 <shift> # 頼りなくて、常にふらついてる感じがしてたよ」
+display
+com11 0 0
+sound 9
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そ、そうだったんですかぁ？　頼りないのは、
+line2 <shift> # そうかもしれませんけど……」
+display
+com11 0 0
+sound 10
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ふらついてたかな……？　じ、自分では、
+line2 <shift> # そんな感じは、なかったんですけど……」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだ。雪歩はどうだったんだ？
+line2 <shift> # 俺の印象は、前とくらべて変わったかな？」
+display
+com11 0 0
+sound 11
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「え？　プロデューサーの印象ですか？
+line2 <shift> # えっと、なんていうか、その……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ん？　気兼ねしなくていいぞ。
+line2 <shift> # そうだな、前の俺の印象は、たぶん……」
+com03 0 3
+choice1 <shift> # 怖い人
+com09 0 30
+com08
+choice2 <shift> # 素敵な人
+com09 0 31
+com08
+choice3 <shift> # ヘンなヤツ
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ずいぶん怖そうな人だなぁって、
+line2 <shift> # そう思ってたんじゃないのか？」
+display
+com11 0 0
+sound 12
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そ、そんなことは……ちょっとだけです。
+line2 <shift> # だって私、男の人、苦手だから……」
+display
+com11 0 0
+sound 13
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「でも、今はもう大丈夫です。プロデューサーの
+line2 <shift> # ことは、怖いなんて思ってないですよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか。それならいいが……」
+display
+com11 0 0
+sound 14
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「プロデューサーは、たくさんのことを、
+line2 <shift> # 私に教えてくれました」
+display
+com11 0 0
+sound 15
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「だから私、ここまで来られたと思うし……。
+line2 <shift> # 今思うと、怖がってたことが信じられないです」
+com09 0 39
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ずいぶん素敵な人だなぁって、
+line2 <shift> # そう思ってたんじゃないのか？」
+display
+com11 0 0
+sound 16
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「え？　あ、そ、そうですね。
+line2 <shift> # す、素敵だと……今なら思います」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あはは、今なら……か。ありがとう。
+line2 <shift> # でも、無理しなくてもいいぞ」
+display
+com11 0 0
+sound 17
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「む、無理じゃありません。本当ですっ！
+line2 <shift> # えっと、最初は怖かったけど、でも今は……」
+display
+com11 0 0
+sound 18
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「プロデューサーのこと、信頼してます。
+line2 <shift> # あったかくて、安心できます……」
+com09 0 39
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ヘンなヤツって、
+line2 <shift> # そう思ってたんじゃないのか？」
+display
+com11 0 0
+sound 19
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ええっ！　そ、そんなことは決して！　そりゃ
+line2 <shift> # ちょっと怖いかなとは……思いましたけど」
+display
+com11 0 0
+sound 20
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「だって私、男の人、苦手だから……。
+line2 <shift> # でも今は怖くないし、すごく信頼してます」
+display
+com11 0 0
+sound 21
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ほ、ほんとですよ？」
+com09 0 39
+display
+location 39
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ありがとう、雪歩。とても嬉しいよ。
+line2 <shift> # これからも一緒に頑張ろうな！」
+display
+com11 0 0
+sound 22
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はいっ、プロデューサー！　……あ、あれ？」
+display <shift> # にゃあ……にゃああ……
+display
+com11 0 0
+sound 23
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「この鳴き声。ネコ？　子ネコ……さん？」
+display
+com11 0 0
+sound 24
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ、やっぱり子ネコです！
+line2 <shift> # どうして、こんなところにいるんですか？」
+display
+com11 0 0
+sound 25
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「もしかして、７６５プロに入った新人子ネコ
+line2 <shift> # タレントですかっ？　今日、初収録とか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、そんな話は聞いてないぞ。
+line2 <shift> # スタジオでもネコなんて飼ってないはずだし」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「首輪してるから、近所のネコだろうけど。
+line2 <shift> # ……どこから入って来たんだろうな」
+display
+com11 0 0
+sound 26
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「スタジオの中に入り込んで、
+line2 <shift> # 迷子になったのかも。かわいそうですぅ……」
+display
+com11 0 0
+sound 27
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「おびえて、走り回ってますよ。
+line2 <shift> # あっ、危ない！　そこはドアですぅ！」
+display
+com11 0 0
+sound 28
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「今、助けてあげるから、待っててね！
+line2 <shift> # ……えいっ！　ああ、捕まえられません」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それじゃダメだ。雪歩、テンポ遅すぎだよ」
+display
+com11 0 0
+sound 29
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あうぅ……。やっぱり、どんくさい私には
+line2 <shift> # 子ネコすら助けられないんですね……」
+display
+com11 0 0
+sound 30
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「お願いです、プロデューサー。あのネコさんを
+line2 <shift> # 外に逃がしてあげてくださいっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （いつになく真剣な表情の雪歩……。
+line2 <shift> # どうしても助けてやりたいらしい）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （とにかく、雪歩たってのお願いだ。
+line2 <shift> # 次に子ネコが動く方向を予測して捕まえるぞ！）
+com03 0 3
+choice1 <shift> # 上！
+com09 0 40
+com08
+choice2 <shift> # 右！
+com09 0 41
+com08
+choice3 <shift> # 左！
+com09 0 42
+com08
+com07
+com09 0 43
+com08
+display
+location 40
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、上だっ！」
+com37 0 1
+com1e 0 0
+com09 0 48
+com3b
+com37 0 0
+com1e 0 0
+com09 0 49
+com3b
+display
+location 41
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、右だっ！」
+com37 0 1
+com1e 0 0
+com09 0 48
+com3b
+com37 0 0
+com1e 0 0
+com09 0 49
+com3b
+display
+location 42
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、左だっ！」
+com37 0 1
+com1e 0 0
+com09 0 48
+com3b
+com37 0 0
+com1e 0 0
+com09 0 49
+com3b
+display
+location 43
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「てやっ！」
+com09 0 49
+display
+location 48
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、捕まえたぞ！」
+display
+com11 0 0
+sound 31
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「さすがプロデューサー、すごいです！
+line2 <shift> # ああ、よかった……ホッとしました」
+display
+com11 0 0
+sound 32
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「本当に……よかった……。
+line2 <shift> # もう大丈夫だよ、子ネコさん……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ど、どうした？　涙ぐんだりして」
+display
+com11 0 0
+sound 33
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「な、なんでもないです。思い出しちゃって、
+line2 <shift> # つい、うるうるしただけなんです……」
+display
+com11 0 0
+sound 34
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「私、今日まで、何度も迷って、
+line2 <shift> # いつもプロデューサーに助けてもらったから」
+display
+com11 0 0
+sound 35
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「だから、その子ネコさんが、私に見えて……
+line2 <shift> # ううっ……ぐすっ……。助かって、よかった」
+display
+com11 0 0
+sound 36
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ、いけない。早く逃がしてあげなきゃ
+line2 <shift> # いけませんね……。お家に帰りたいだろうし」
+display
+com11 0 0
+sound 37
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「……ばいばい、ネコさん。
+line2 <shift> # もう迷子になっちゃダメだよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （スタジオの外に放たれたネコは、ようやく
+line2 <shift> # 落ち着きを取り戻し、駆け出して行った）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （雪歩も、あのネコのように、未知の世界を恐れ
+line2 <shift> # ず切り開いていってほしい……迷子は困るけど）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺は見守るだけだが……それが仕事だ。
+line2 <shift> # 頂点までもう少し、あと少しだぞ、雪歩）
+com4b 0 0
+com09 0 59
+display
+location 49
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「しまった、逃げられた……。パニックになって
+line2 <shift> # ムチャクチャに走り回ってるから、難しいな」
+display
+com11 0 0
+sound 38
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「わ、私もお手伝いします！
+line2 <shift> # 二人でかかれば、きっと……！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、じゃあ雪歩は左を頼む。
+line2 <shift> # 俺は右から……」
+display
+com11 0 0
+sound 39
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい！　……やあっ！
+line2 <shift> # ……うう。また逃げられましたぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……すばしっこいな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （子ネコとの格闘は、それからしばらく続いた。
+line2 <shift> # ふたりとも汗だくになって戦ったが……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （数分後、子ネコはドアのすき間からスタジオの
+line2 <shift> # 廊下へ、猛ダッシュで逃げていった……）
+display
+com11 0 0
+sound 40
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ふう、ふう……疲れましたぁ。うう……
+line2 <shift> # ネコさん、一人でちゃんと外に出られたかな？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ネコのことは心配だが、行方を確かめる術は
+line2 <shift> # ない……。すまん、雪歩。すまん、ネコ）
+com4b 0 2
+com09 0 59
+display
+location 59
+unk02

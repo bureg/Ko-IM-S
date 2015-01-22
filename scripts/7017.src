@@ -1,0 +1,316 @@
+com2c 0 119
+com2d 0 11
+com2e 0 111
+com32 0 0
+com11 0 0
+sound 0
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「はあ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （困ったな。また春香が落ち込んでいるぞ。
+line2 <shift> # 最近、ＩＵ予選になると、いつもこれだ）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （響と会うたびに、自信をなくして
+line2 <shift> # いってるみたいなんだよなあ……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「春香らしくないぞ。ため息なんて」
+display
+com11 0 0
+sound 1
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あっ……。聞こえちゃってましたか？
+line2 <shift> # すみません、プロデューサーさん」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「最近の春香は、ＩＵ予選になると、
+line2 <shift> # 途端に元気がなくなるから、心配だよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「普段のオーディションや営業の時と、
+line2 <shift> # ずいぶん違うじゃないか」
+display
+com11 0 0
+sound 2
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そうですよね。自分でも、わかってはいるん
+line2 <shift> # ですけど、どうしてもＩＵは、気が重くて」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「で、でも、ＩＵの予選は、今日が最後だぞ。
+line2 <shift> # ここは気持ちを切り替えて、だな……」
+display
+com11 0 0
+sound 3
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「黒井社長が、一緒に仕事場に来てくれるなんて、
+line2 <shift> # めずらしいよね！　自分、うれしいよっ！」
+display
+com11 0 0
+sound 4
+com4c 0 0
+name 0 2 <names:4>  # President Kuroi
+line1 <shift> # 「ウィ。響ちゃんは先週、いち早く勝って、
+line2 <shift> # 本選進出を、きめているけれど……」
+display
+com11 0 0
+sound 5
+com4c 0 0
+name 0 2 <names:4>  # President Kuroi
+line1 <shift> # 「今日の予選の勝者も、ＩＵ本選に進むわけ
+line2 <shift> # だから、念のため、偵察をしておかないとね」
+display
+com11 0 0
+sound 6
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あ……」
+display
+com11 0 0
+sound 7
+com4c 0 0
+name 0 2 <names:4>  # President Kuroi
+line1 <shift> # 「おやおや。権威ある場にふさわしくない、
+line2 <shift> # 汚いノラネコが、混じっているようだねえ」
+display
+com11 0 0
+sound 8
+com4c 0 0
+name 0 2 <names:4>  # President Kuroi
+line1 <shift> # 「ま、運だけで勝てるのは、ここまでだろうから、
+line2 <shift> # 気にする必要などないが。はっははは！」
+display
+com11 0 0
+sound 9
+com4c 0 0
+name 0 2 <names:4>  # President Kuroi
+line1 <shift> # 「それにしても、まだ勝ち残っていたとは……。
+line2 <shift> # 驚きだな」
+display
+com11 0 0
+sound 10
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「く、黒井社長。７６５プロをつぶせって、
+line2 <shift> # 前に言われてたんだけど、自分……」
+display
+com11 0 0
+sound 11
+com4c 0 0
+name 0 2 <names:4>  # President Kuroi
+line1 <shift> # 「そうだったね。その点だけは私も、君に、
+line2 <shift> # 失望している。でも、もういいのだよ」
+display
+com11 0 0
+sound 12
+com4c 0 0
+name 0 2 <names:4>  # President Kuroi
+line1 <shift> # 「要は、君が勝ちさえすれば良いのだから。近頃
+line2 <shift> # の君の成長は素晴らしい。もはや敵無しだよ！」
+display
+com11 0 0
+sound 13
+com4c 0 0
+name 0 2 <names:4>  # President Kuroi
+line1 <shift> # 「今の君は、誰よりもトップアイドルに近い。
+line2 <shift> # どこかのノラネコなど、足元にも及ばないよ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「春香！」
+com03 0 3
+choice1 <shift> # 気にするなよ
+line2
+com09 0 10
+com08
+choice2 <shift> # 耳をふさいでおけ
+line2
+com09 0 11
+com08
+choice3 <shift> # 言い返してやれ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「気にするなよ。卑劣なやり方しか知らない、
+line2 <shift> # キザ男の言うことなんて」
+display
+com11 0 0
+sound 14
+com4c 0 0
+name 0 2 <names:4>  # President Kuroi
+line1 <shift> # 「なっ！　君は無能な上に、失礼な男だな！
+line2 <shift> # 誰に向かってキザ男などと言っているんだ！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「別に、あなただとは言っていませんが？」
+display
+com11 0 0
+sound 15
+com4c 0 0
+name 0 2 <names:4>  # President Kuroi
+line1 <shift> # 「むむむむむ……っ！！　腹の立つヤツだ！
+line2 <shift> # 昔の高木と、そっくりだなっ！　フンッ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それはどうも。……とにかく、
+line2 <shift> # この人の言うことは、気にするなよ、春香」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「耳をふさいでおけ。汚い言葉で、
+line2 <shift> # 春香のキレイな心が傷ついたら困る」
+display
+com11 0 0
+sound 16
+com4c 0 0
+name 0 2 <names:4>  # President Kuroi
+line1 <shift> # 「傷つくのは、その言葉が真実だからじゃないの
+line2 <shift> # かね？　痛いところを、つかれたからだろう？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうとは限りません。誰もが、あなたのように、
+line2 <shift> # 図々しい神経を持っているわけじゃない」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「春香のような優しい子は、傷つきやすいんです。
+line2 <shift> # あなたのウソの言葉にも、傷つくかもしれない」
+display
+com11 0 0
+sound 17
+com4c 0 0
+name 0 2 <names:4>  # President Kuroi
+line1 <shift> # 「フフン。言ってくれるじゃないか」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「言い返してやれ！　こんなこと、
+line2 <shift> # 黙って言わせておくのか！？」
+display
+com11 0 0
+sound 18
+com4c 0 0
+name 0 2 <names:4>  # President Kuroi
+line1 <shift> # 「自分で言い返す度胸は、ないわけか。
+line2 <shift> # つくづく小さいヤツだなあ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なんだとっ！？」
+display
+com11 0 0
+sound 19
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「や、やめて下さい、プロデューサーさんっ！
+line2 <shift> # こんな所で、大人同士でケンカなんて！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そうだな。すまない。あまりに、
+line2 <shift> # ヒドイことばかり、言われたもんだから」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 20
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「……でも、くやしいけど、本当に、
+line2 <shift> # 黒井社長の言う通りなのかもしれません」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「春香！？」
+display
+com11 0 0
+sound 21
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「響ちゃんも、他のＩＵ参加者も、
+line2 <shift> # どんどん成長してます。でも、私は……」
+display
+com11 0 0
+sound 22
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「うげっ！　まーだ、うじうじ春香のままなの
+line2 <shift> # かっ！？　よくそんなに、落ちこめるな？」
+display
+com11 0 0
+sound 23
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「私だってイヤだけど、ＩＵに来たら、
+line2 <shift> # こうなっちゃうのっ！　放っといてよっ！」
+display
+com11 0 0
+sound 24
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「あー、放っとくぞ！　暗いヤツのそばにいたら、
+line2 <shift> # こっちまで気分悪くなるからねっ！」
+display
+com11 0 0
+sound 25
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「行こう、黒井社長！　こんな後ろ向きな春香
+line2 <shift> # なんか、社長の言う通り、自分の敵じゃないよ」
+display
+com11 0 0
+sound 26
+com4c 0 0
+name 0 2 <names:4>  # President Kuroi
+line1 <shift> # 「ウィ。今日は、楽しい予選になりそうだね。見
+line2 <shift> # ものだよ。では、行こうか！　はっはははは！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「春香……」
+display
+com11 0 0
+sound 27
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「すみません……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「謝らなくていい。自信がないなら、それも仕方
+line2 <shift> # ないよ。でも、悔いが残るようなことはするな」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ＩＵの予選は、今回で最後だぞ。これに勝てば、
+line2 <shift> # 本選に進めるんだ！　わかるな？」
+display
+com11 0 0
+sound 28
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「はい。私だって、勝ちたくないわけじゃ、
+line2 <shift> # ないんです！　がんばります。精一杯っ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、着替えて準備しておいで」
+display
+com11 0 0
+sound 29
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「はいっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （最終予選……。これに勝てば、春香の迷いも、
+line2 <shift> # 必ず消えるはずだ。絶対に勝たないとな！）
+com09 0 99
+display
+location 99
+unk02

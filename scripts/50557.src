@@ -1,0 +1,321 @@
+com2c 0 57
+com2d 0 91
+com2e 0 101
+com32 0 0
+com11 0 1
+sound 500
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「真美が、子ども服のコマーシャルに出るの？
+line2 <shift> # どーして〜？？？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうしてって、依頼がきたからだけど。
+line2 <shift> # イヤか？　有名ブランドの、看板ＣＭだよ？」
+display
+com11 0 1
+sound 501
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「イヤじゃないけど……、子ども服じゃない方が、
+line2 <shift> # よかったかな〜。ね、亜美？」
+display
+com11 0 1
+sound 502
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「そーだねっ。んっふっふ〜、超Ｈな下着の
+line2 <shift> # ＣＭとかのが、楽しかったかもっ♪」
+com03 0 3
+choice1 <shift> # そんな仕事、受けられないよ
+line2
+com09 0 10
+com08
+choice2 <shift> # そんな仕事、くるわけないよ
+line2
+com09 0 11
+com08
+choice3 <shift> # そんな下着、似合わないよ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんな仕事、受けられないよ。イメージに、
+line2 <shift> # 傷は、絶対つけたくないから」
+display
+com11 0 1
+sound 503
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「兄ちゃん……、亜美達のこと、すっごく
+line2 <shift> # 大切にしてくれてるんだね……。かんど〜〜〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「当たり前だろ。ここまで育ててきた、
+line2 <shift> # 大切な宝なんだから」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんな仕事、くるわけないよ」
+display
+com11 0 1
+sound 504
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「なんで〜？　亜美達、どんなお仕事でも、
+line2 <shift> # ゲットし放題なんじゃないの〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そりゃ、そうだけど……今となっては、
+line2 <shift> # 依頼してくる側も、気を遣うからな」
+display
+com11 0 1
+sound 505
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「ずいぶん、えらくなっちゃったんだね。
+line2 <shift> # うれしーような、さみしーような……」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんな下着、似合わないよ」
+display
+com11 0 1
+sound 506
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「え〜、そんなこと、ないよ〜。亜美達、
+line2 <shift> # どんな服でも、着こなせるんだから〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「服と下着は、ちがうしな。さすがにＨなやつは
+line2 <shift> # きついんじゃないか？」
+display
+com11 0 1
+sound 507
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「ん〜、試してみたら、けっこう、鼻血
+line2 <shift> # どっぴゅ〜モンかもしれないのに……」
+com09 0 29
+display
+location 29
+com11 0 1
+sound 508
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「あ、兄ちゃん！　ところで、勝負下着って、
+line2 <shift> # 知ってる？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「知ってるけど……。突然、すごい言葉、
+line2 <shift> # 持ち出してきたな」
+display
+com11 0 1
+sound 509
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「あれって、普通の下着と、どこがちがうの？
+line2 <shift> # 真美、よく、わからなくて〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、それは、きっと……」
+com03 0 3
+choice1 <shift> # デザインが、おしゃれなんだ
+line2
+com09 0 30
+com08
+choice2 <shift> # 勝負って、書いてあるんだ
+line2
+com09 0 31
+com08
+choice3 <shift> # つけると、運があがるんだ
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「デザインが、おしゃれなんだ」
+display
+com11 0 1
+sound 510
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「そっか〜。ダサダサのパンツじゃ、デートの時、
+line2 <shift> # 勝負にならないんだねっ。わかったー！」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「勝負って、書いてあるんだ」
+display
+com11 0 1
+sound 511
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「それ、おもしろいけど、ウソでしょ〜？
+line2 <shift> # 真美、勝負下着の使い方、知ってるんだから〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え？　そうなのか？　ど、ど、どんな時に
+line2 <shift> # 使うんだ？」
+display
+com11 0 1
+sound 512
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「男の人と、デートする時！　どうせ見えないん
+line2 <shift> # だから、字書いてあっても、わからないよ〜」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「つけると、運があがるんだ」
+display
+com11 0 1
+sound 513
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「それ、ウソでしょ〜？　真美、勝負下着が
+line2 <shift> # お守りとはちがうって、知ってるんだよ〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「も、もしかして、使い道も知ってるのか？」
+display
+com11 0 1
+sound 514
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「もっちろん！　んとね、男の人とデートする
+line2 <shift> # 時に、使うの！」
+com09 0 49
+display
+location 49
+com11 0 1
+sound 515
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「ねえ、真美。勝負下着って名前、げーのー界で
+line2 <shift> # 戦いまくってる亜美達に、ピッタリだよねっ」
+display
+com11 0 1
+sound 516
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「そーだね。兄ちゃん、このお仕事、終わったら、
+line2 <shift> # 勝負下着、買って買って〜！」
+com03 0 3
+choice1 <shift> # やだよ、恥ずかしい……
+line2
+com09 0 50
+com08
+choice2 <shift> # もう勝負には、勝っただろ？
+line2
+com09 0 51
+com08
+choice3 <shift> # はしたないコト、言わないの！
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やだよ、恥ずかしい……」
+display
+com11 0 1
+sound 517
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「あ〜、兄ちゃん、照れちゃった〜！
+line2 <shift> # 下着ぐらいで、すっごい赤くなってる〜」
+display
+com11 0 1
+sound 518
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「んっふっふ〜、どのくらい恥ずかしい？
+line2 <shift> # 亜美達に、こっそり、教えて教えて〜♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ニヤニヤしている。その後、俺のリアクション
+line2 <shift> # をネタに、わいわいと盛り上がった）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もう、勝負には勝っただろ？　これだけの成功、
+line2 <shift> # おさめたんだから」
+display
+com11 0 1
+sound 519
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「まだ、足りないよ〜〜〜。真美達の勝負は、
+line2 <shift> # 中学生になっても、続くんだもん！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だとしても、下着に頼る必要はないだろ？
+line2 <shift> # 自力でも、十分勝てるんだし」
+display
+com11 0 1
+sound 520
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「つまんないな〜。そんじゃ、亜美達が人気
+line2 <shift> # なくなって、ボコボコになったら、買ってね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （縁起でもないことを……。ま、ただの話の
+line2 <shift> # ネタだし、ここは、かるく流しておくか）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「はしたないコト、言わないの！　どこの世界に、
+line2 <shift> # 下着をねだるアイドルが……」
+display
+com11 0 1
+sound 521
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「ここにいるよ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ここにしか、いないだろ？　みんなの
+line2 <shift> # 笑い物になっても、いいのか？」
+display
+com11 0 1
+sound 522
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「うんっ、気にしないよ！　別に笑われたって、
+line2 <shift> # ヘッチャだし！」
+display
+com11 0 1
+sound 523
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「買って、買って〜！　買ってくれないなら、
+line2 <shift> # バツとして、下着買わなきゃいけないの刑！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （かるく注意したら、火に油を注いでしまった。
+line2 <shift> # このふたりに、常識が当てはまるハズがない）
+com09 0 69
+display
+location 69
+unk02

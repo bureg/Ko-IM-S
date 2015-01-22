@@ -1,0 +1,388 @@
+com2c 0 37
+com2d 0 62
+com32 0 0
+com11 0 2
+sound 100
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ああっ、私もうだめですぅ……はぁはぁ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「頑張れ、普段の基礎運動トレーニングの
+line2 <shift> # 延長じゃないか。そんなに辛いかな……」
+display
+com11 0 2
+sound 101
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ううっ、私の鍛え方、
+line2 <shift> # まだまだ足りないんですね」
+display
+com11 0 2
+sound 102
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「でも、いまだに声量に不安があるのは
+line2 <shift> # 事実で……社長にも指摘されちゃいましたし」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「さぁ、トレーニングメニューは
+line2 <shift> # まだ残ってるぞ」
+display
+com11 0 2
+sound 103
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「なんとかしないと……わかってるんですけど、
+line2 <shift> # ああ、でも、体力が、限界近い……かも」
+com03 0 3
+choice1 <shift> # ちょっと休もうか？
+line2
+com09 0 10
+com08
+choice2 <shift> # まだまだ！腹筋５０回！
+line2
+com09 0 11
+com08
+choice3 <shift> # 普段さぼってたのか……
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ちょっと休もうか？　ここで疲れきって
+line2 <shift> # 仕事に悪影響が出たら、本末転倒だ」
+display
+com11 0 2
+sound 104
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「は、はい、そうしてもらえると……ううっ、
+line2 <shift> # なるべく早く再開できるようにはしますぅ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、まあまあ、慌てない慌てない。
+line2 <shift> # のんびりやっていこうか」
+display
+com11 0 2
+sound 105
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「むぅ……努力します」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まだまだ！　腹筋５０回！」
+display
+com11 0 2
+sound 106
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ええっ！　ご、５０回ですか！　そ、それに
+line2 <shift> # 腹筋なら、さっきもやったような……」
+display
+com11 0 2
+sound 107
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「その、続けてはちょっと……
+line2 <shift> # 私、お腹が……あいたた」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、無理にとは言わないけどな」
+display
+com11 0 2
+sound 108
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「む、むぅ……努力します」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「にしてもちょっとへこたれるのが早いぞ。
+line2 <shift> # 普段さぼってたんじゃないのか？」
+display
+com11 0 2
+sound 109
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「そ、そんな！　私、ちゃんとやってます！
+line2 <shift> # もらったトレーニングメニューを……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、鍛え方そのものの量より、
+line2 <shift> # 努力の問題だなぁ」
+display
+com11 0 2
+sound 110
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「そんなこと、言われても……。が、頑張っても、
+line2 <shift> # うまくできないことは……、あります」
+display
+com11 0 2
+sound 111
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「い、いえ……、それって言い訳ですね。
+line2 <shift> # やっぱり私、だめなんです……、ぐすっ」
+display
+com11 0 2
+sound 112
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ううっ……。もう、このへんで、
+line2 <shift> # 穴に埋まっちゃおうかなぁ、私」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「な、泣くなぁ！　穴も掘るなぁ。
+line2 <shift> # 頑張れ。さぁ、続きをやろうか」
+display
+com11 0 2
+sound 113
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「む、むぅ……」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （それからしばらくトレーニングを続けたが、
+line2 <shift> # なかなか効果が上がらない……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「しかしがむしゃらにトレーニングするより、
+line2 <shift> # なにか早道な方法があるような気もするな……」
+display
+com11 0 2
+sound 114
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「えっ！？　ど、どういうことでしょう」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なんというか、コツだよ、発声のコツ。
+line2 <shift> # 雪歩もなにか習ってるはずだ」
+display
+com11 0 2
+sound 115
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「うーん、たとえば、発声の姿勢とか……、
+line2 <shift> # 楽に声を出せる姿勢って、あるんですよね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それだ！　それを思い出せ」
+display
+com11 0 2
+sound 116
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ああっ、確かに……、ステージ上だとそれ、
+line2 <shift> # うっかり忘れがちなのかもしれないですっ」
+display
+com11 0 2
+sound 117
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「姿勢、姿勢……、いい姿勢のコツは……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだな、姿勢を正すにはつまり、
+line2 <shift> # ここに気をつければ……」
+com0e 1 250
+com44
+com09 0 30
+com45
+com44
+com09 0 31
+com45
+com44
+com09 0 32
+com45
+com44
+com09 0 33
+com45
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「肩肘張らずにリラックス、これだっ」
+display
+com11 0 2
+sound 118
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「そうですね、自由に身体を動かせるように、
+line2 <shift> # 肩から無駄な力を抜けば……」
+display
+com11 0 2
+sound 119
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「声を出すときに、うまくりきみやすいですね！
+line2 <shift> # リズムも取りやすいし……」
+display
+com11 0 2
+sound 120
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「私、ちょっと意識して、
+line2 <shift> # やってみることにします」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ではさっそく実践だ！」
+display
+com11 0 2
+sound 121
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「はい！　トレーニングを続けましょうっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （おっ、基礎トレの効果もあがったかも……。
+line2 <shift> # 無駄な力みが取れたのかな？）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （今後の雪歩の声に、期待が持てそうだぞ）
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「背筋をピンと伸ばして！　これだね。
+line2 <shift> # 猫背はいかんよ」
+display
+com11 0 2
+sound 122
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「なるほど、きをつけーの姿勢、
+line2 <shift> # ということですね！　気をつけっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「い、いや、そこまでかしこまらなくても、
+line2 <shift> # いいと思うが……」
+display
+com11 0 2
+sound 123
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「確かに、背筋をピンと伸ばせば、気持ちも
+line2 <shift> # 引き締まりますね。びしっと行きましょう」
+display
+com11 0 2
+sound 125
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「それではさっそく行進です！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （雪歩は楽しそうに行進しながら歌い始めた）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （朗々とした歌い方は堂に入っていたが、およそ
+line2 <shift> # アイドルとは程遠いな……。大丈夫だろうか）
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだ、呼吸のすべては、
+line2 <shift> # この胸にかかっている！」
+display
+com11 0 2
+sound 126
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「うっ……。そ、そんな！」
+display
+com11 0 2
+sound 127
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ううっ、すみません、すみませ……。
+line2 <shift> # そうですね、そうですよね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ま、待て、なにを謝る？」
+display
+com11 0 2
+sound 128
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「だ、だって、私、その……
+line2 <shift> # ひんそーだから」
+display
+com11 0 2
+sound 129
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「こんなひんそーな体型の私、ひんそーな声に
+line2 <shift> # なってしまうのも無理ないですね……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、それは関係ないって！」
+display
+com11 0 2
+sound 130
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「私、声をよくするには、
+line2 <shift> # もっと胸を鍛えなくちゃ……」
+display
+com11 0 2
+sound 131
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「プロデューサー、お願いです！
+line2 <shift> # 協力して下さい！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ええっ！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、俺は、雪歩が提案した謎の胸強化
+line2 <shift> # トレーニングに付き合わされてしまった）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （肺活量という点では、胸を鍛えるって表現も
+line2 <shift> # 間違いじゃあないと思うけど……大丈夫かな？）
+com09 0 49
+display
+location 33
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ええと……、それはつまり……」
+display
+com11 0 2
+sound 132
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ど、どこに気をつければ……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どこだろう。すまん、俺も迷った」
+display
+com11 0 2
+sound 133
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「えっ！　そ、それってつまり……」
+display
+com11 0 2
+sound 134
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「私には問題が多すぎるってことですね……。
+line2 <shift> # ううっ、ぐすっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ち、違う！」
+display
+com11 0 2
+sound 135
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「迷うほどいろいろあるって
+line2 <shift> # ことじゃあないですかぁ……、ううっ」
+display
+com11 0 2
+sound 136
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ああっ。でもっ、な、
+line2 <shift> # 泣いていられないですね。すみません……」
+display
+com11 0 2
+sound 137
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「わかりました。私、基礎の復習、
+line2 <shift> # もう少し自分でやってみます」
+display
+com11 0 2
+sound 138
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「あとは自習しますから……。お手間とらせて、
+line2 <shift> # すみませんでした、プロデューサー……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、いいんだ……、頼んだぞ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （そして雪歩はひとり、
+line2 <shift> # 黙々とトレーニングを再開した）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （やる気はあるみたいだけど、俺が追い詰めた形に
+line2 <shift> # なってしまったかな……。ちょっと今後が心配だ）
+com09 0 49
+display
+location 49
+unk02

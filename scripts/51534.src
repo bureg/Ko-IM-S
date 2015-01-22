@@ -1,0 +1,305 @@
+com2c 0 24
+com2d 0 91
+com2e 0 101
+com32 0 0
+com11 0 4
+sound 100
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「兄ちゃんっ、ひどいよ〜！　亜美だって、
+line2 <shift> # あんなことされたら、怒るんだからねー！」
+display
+com11 0 4
+sound 101
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「真美だってー！　あんまりだよ〜！
+line2 <shift> # もう、プンプンなんだから〜っ」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「い、いきなり、なんの話だよ？　とにかく、
+line2 <shift> # 落ち着けって。あんまり、怒ると……」
+com03 0 3
+choice1 <shift> # 俺、泣いちゃうよ
+line2
+com09 0 10
+com08
+choice2 <shift> # 脳の血管、切れるよ？
+line2
+com09 0 11
+com08
+choice3 <shift> # ファンが離れるよ？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「俺、泣いちゃうよ」
+display
+com11 0 4
+sound 102
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「あ、兄ちゃんに泣かれると、困るね。
+line2 <shift> # んじゃ、怒らないで話すー」
+display
+com11 0 4
+sound 103
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「んっとね、どうして、真美達がお仕事した
+line2 <shift> # お金は、ふつうの人の半分なの？」
+com09 0 29
+display
+location 11
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「脳の血管、切れるよ？」
+display
+com11 0 4
+sound 104
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「大丈夫だもーん。亜美達、この間の健康診断
+line2 <shift> # で、元気すぎですって、言われたんだから〜」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「そ、そうか。それは、なにより……」
+display
+com11 0 4
+sound 105
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「兄ちゃん！　どうして、真美達がお仕事した
+line2 <shift> # お金は、ふつうの人の半分なの！？」
+com09 0 29
+display
+location 12
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「ファンが離れるよ？」
+display
+com11 0 4
+sound 106
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「そんな心配、ないも〜ん！　亜美がここで
+line2 <shift> # 怒ってるのなんて、誰も見てないし〜」
+display
+com11 0 4
+sound 107
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「うまいこと言って、とぼけようとしても、
+line2 <shift> # ダメなんだからー！」
+display
+com11 0 4
+sound 108
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ねえ、兄ちゃん！　どうして、真美達が
+line2 <shift> # お仕事したお金は、ふつうの人の半分なの！？」
+com09 0 29
+display
+location 29
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「あ、なにかと思えば、ギャラの話か。そりゃ
+line2 <shift> # そうだよ。亜美と真美は、ふたりでひとりだろ」
+display
+com11 0 4
+sound 109
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「でもー、いつもいっしょに、お仕事する場所
+line2 <shift> # までは、行ってるよ？　おかしいよ〜」
+display
+com11 0 4
+sound 110
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「じゃあ、真美達が双子じゃなくて、
+line2 <shift> # 百子だったら……お金は百分の１なの？」
+com03 0 2
+choice1 <shift> # まあ、そうなるな
+line2
+com09 0 30
+com08
+choice2 <shift> # おもしろいこと、言うなあ
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「まあ、そうなるな」
+display
+com11 0 4
+sound 111
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「は〜、双子でよかった〜。百子のアイドルは、
+line2 <shift> # もっと大変なんだね……」
+display
+com11 0 4
+sound 112
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「百子よりはいいけど、半分は、ひどいよ。その
+line2 <shift> # せいで、ママ、おこづかい増やしてくれないし」
+com09 0 49
+display
+location 31
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「おもしろいこと、言うなあ」
+display
+com11 0 4
+sound 113
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「はぐらかさないで、教えてよ〜。ね、ね、
+line2 <shift> # やっぱり百分の１なの〜？」
+display
+com11 0 4
+sound 114
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「真美〜、そんな話、どうでもいいよ〜」
+display
+com11 0 4
+sound 115
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「それより、兄ちゃんにお金増やしてもらわない
+line2 <shift> # と、ママ、おこづかい上げてくれないよ？」
+com09 0 49
+display
+location 49
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「あ、ふたりは、ギャラは親あずかりなのか。
+line2 <shift> # ま、それはそうだよな。まだ小学生だし……」
+display
+com11 0 4
+sound 116
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「どーして、小学生だと、お金、直接もらえ
+line2 <shift> # ないの？　それって、誰が決めちゃったの？」
+display
+com11 0 4
+sound 117
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「そーだよね。直接くれれば、丸ごとおこづかい
+line2 <shift> # にできるのに。ねえ兄ちゃん、どうして！？」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「そ、それはだな……」
+com03 0 3
+choice1 <shift> # 将来の楽しみを、増やすためだ
+line2
+com09 0 50
+com08
+choice2 <shift> # お金の使い方、知らないからだ
+line2
+com09 0 51
+com08
+choice3 <shift> # 家庭の方針によるよ
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「将来の楽しみを、増やすためだ。中学生になっ
+line2 <shift> # て、ドバッともらえた方が、うれしいだろ？」
+display
+com11 0 4
+sound 118
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「中学生になったら、そうなるの！？　んじゃ、
+line2 <shift> # 今のうちにトップアイドルになっておけば……」
+display
+com11 0 4
+sound 119
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「好きな服、買い放題で〜、プリントシールも
+line2 <shift> # 撮り放題だね！　よーし、真美、がんばる〜！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （うまく言い逃れできたようだ。子どものうちは、
+line2 <shift> # ヘンなお金の使い方、覚えない方がいいからな）
+com09 0 69
+display
+location 51
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「お金の使い方、知らないからだ」
+display
+com11 0 4
+sound 120
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「そんなこと、ないよ〜！　亜美、ちゃんと
+line2 <shift> # お店で買い物とか、してるもーん！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「そういう意味じゃなくて……。振り返ると、
+line2 <shift> # ムダ使いしてることも、多いんじゃないか？」
+display
+com11 0 4
+sound 121
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「そ、そんなこと……ないよっ。真美達、
+line2 <shift> # 欲しいもの考えて買ってるし、だから……」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （モゴモゴと、口ごもってしまった。黙って
+line2 <shift> # くれたのはいいけど、正論を言いすぎたかもな）
+com09 0 69
+display
+location 52
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「家庭の方針によるよ。家によっては、
+line2 <shift> # ギャラをそのまま、渡す家もあるだろうし」
+display
+com11 0 4
+sound 122
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「じゃあ、真美達がこんな思いしてるのは、
+line2 <shift> # ママが悪いの？」
+display
+com11 0 4
+sound 123
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「そんなこと、ないよ〜。兄ちゃん、ウソ言って、
+line2 <shift> # ママを悪者にしてるでしょ〜」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「いや、悪いなんて言ってないだろ。ただ……」
+display
+com11 0 4
+sound 124
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「兄ちゃんが、直接くれないのが、いけないん
+line2 <shift> # だ〜！　ママは悪くないも〜ん」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （うーん、どうやら説得失敗か。こういうことを、
+line2 <shift> # うまく説明するのって、むずかしいな）
+com09 0 69
+display
+location 69
+unk02

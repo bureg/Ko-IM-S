@@ -1,0 +1,346 @@
+com2c 0 38
+com2d 0 61
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ雪歩、こんなところにいたのか。
+line2 <shift> # もう慰安訪問は、おわりだぞ？」
+display
+com11 0 4
+sound 600
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あっ、はい。でも……、もう少しいても、
+line2 <shift> # いいですか？　なんだかここ、居心地がよくて」
+display
+com11 0 4
+sound 630
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「庭園の中に、東屋なんかもあって、
+line2 <shift> # とってもくつろげる感じで……」
+display
+com11 0 4
+sound 602
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「時間があったら、ちょっと、
+line2 <shift> # ゆっくりしていきたいんです」
+com03 0 3
+choice1 <shift> # そうだね、少し休むか
+line2
+com09 0 10
+com08
+choice2 <shift> # お茶の一杯も欲しいね
+line2
+com09 0 11
+com08
+choice3 <shift> # そんなヒマはないかも……
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだね、少し休むか」
+display
+com11 0 4
+sound 603
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい。プロデューサーも連日のお仕事でお疲れ
+line2 <shift> # じゃないですか？　ここでいやされましょう〜」
+display
+com11 0 4
+sound 604
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「幸い、日和も、とってもいい感じです。
+line2 <shift> # お日様、そよ風、のんびり、ぷかぷか……」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだな、せっかくだ。
+line2 <shift> # 休んでいくなら、お茶の一杯も欲しいね」
+display
+com11 0 4
+sound 631
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「プロデューサー、お疲れだったんですね！
+line2 <shift> # 私、お茶もらってきましょうか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え、いいのか？
+line2 <shift> # でも、雪歩だって、疲れているんじゃ……？」
+display
+com11 0 4
+sound 632
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「大丈夫です。一緒にお茶飲んで、ここでゆっく
+line2 <shift> # り休んで、のんびり、いやされましょう〜」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「い、いや、仕事も、まだあるし、
+line2 <shift> # そんなヒマは、ない気もするが……」
+display
+com11 0 4
+sound 607
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「で、でも、そんなにつまった
+line2 <shift> # スケジュールでも、ないでしょう？」
+display
+com11 0 4
+sound 608
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ほんのちょっとで、いいんです。
+line2 <shift> # 少し座っていきませんかっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「う、うーん……。ま、たまにはいいかな。
+line2 <shift> # 雪歩が、そんなに言うなら」
+display
+com11 0 4
+sound 609
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい。幸い、日差しも日向ぼっこに、いい感じ
+line2 <shift> # です。のんびり休んで、いやされましょう〜」
+com09 0 29
+display
+location 29
+com22 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そして……）
+display
+com21 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ん……、いかん！　つい居眠りしてしまった。
+line2 <shift> # 雪歩、起きろ。もう戻る時間だ！」
+display
+com11 0 4
+sound 633
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「むにゃむにゃ……。まだ朝じゃ、
+line2 <shift> # ありませんよぉ、お母さん……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「完全に寝ぼけてるな……。雪歩！
+line2 <shift> # 起きないと、ここが大変なことになるぞ！」
+com0e 1 246
+com44
+com09 0 30
+com45
+com44
+com09 0 31
+com45
+com44
+com09 0 32
+com45
+com44
+com09 0 33
+com45
+com44
+com09 0 34
+com45
+com44
+com09 0 35
+com45
+display
+location 30
+com11 0 4
+sound 634
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ふわぁ……。そんなところが、
+line2 <shift> # どうして大変なんですか……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「服、しわになっちゃうぞ」
+display
+com11 0 4
+sound 635
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「え……。ああっ！　そ、そうですよね！
+line2 <shift> # いけないっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「大丈夫、まだそれほど、ひどくないよ」
+display
+com11 0 4
+sound 636
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ううっ、あぶなかったです……。この服、
+line2 <shift> # お気に入りだから、しわとか汚れは困りますぅ」
+display
+com11 0 4
+sound 637
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「起こしてもらって、助かりました。
+line2 <shift> # ありがとうございます、プロデューサー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （雪歩は、バッチリ目を覚ましてくれた。
+line2 <shift> # 服もしわにならず、よかったな）
+com09 0 49
+display
+location 31
+com11 0 4
+sound 638
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「くち……？　くちが……、
+line2 <shift> # どうかしましたか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よだれ、たれるぞ」
+display
+com11 0 4
+sound 639
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「え……、ええっ！　私、アイドルなのに、
+line2 <shift> # そんな大失態を！？　す、すみません〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、そこまであわてなくても……。
+line2 <shift> # まだ、たれてないよ」
+display
+com11 0 4
+sound 640
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ、ホントだ。ううっ……
+line2 <shift> # プロデューサー、だましたんですね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だましてないよ。あのまま寝てたら、
+line2 <shift> # たらーっといくところだったぞ」
+display
+com11 0 4
+sound 641
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そ、それは……、ううっ、すみません」
+display
+com11 0 4
+sound 642
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「よだれをたらすアイドルなんて、
+line2 <shift> # アイドルとして、ダメダメすぎですよね……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （目を覚まさせることはできたが、
+line2 <shift> # 落ち込ませてしまった……）
+com09 0 49
+display
+location 32
+com11 0 4
+sound 643
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ん……、はな？
+line2 <shift> # はなが……、なんですかぁ……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「鼻の穴が、こう、すぴーっと広がっちゃうぞ」
+display
+com11 0 4
+sound 644
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「え……。そ、そんな変な顔してましたか、
+line2 <shift> # 私！？　うう、はずかしいですぅ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、まだ、かろうじて大丈夫だったけど、
+line2 <shift> # あのまま熟睡してたら、確実に……」
+display
+com11 0 4
+sound 645
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「いやぁ、その先は言わないで下さいぃ〜！」
+display
+com11 0 4
+sound 646
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「も、もうバッチリ目が覚めました！
+line2 <shift> # 大丈夫です。こんな失態は、二度と……！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （なにやら、必死の形相で、決意を固めている。
+line2 <shift> # 気持ちよく寝てたのに、少し可哀相だったかな）
+com09 0 49
+display
+location 33
+com11 0 4
+sound 647
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「緑茶がおいしいです……、むにゃむにゃ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「雪歩、気分よく寝てるみたいだ。
+line2 <shift> # うーん、なんだか起こしづらいなあ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （仕方ないので、俺は眠ったままの雪歩を、
+line2 <shift> # ロケバスに背負っていくことにした……）
+com09 0 49
+display
+location 34
+com11 0 4
+sound 648
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ふぇ……。あたまが、
+line2 <shift> # どうかしたんですか……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「変な姿勢で寝てると、髪に寝グセがつくぞ？」
+display
+com11 0 4
+sound 649
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「大丈夫です。水でぬらして、ポンポンって
+line2 <shift> # すれば、とれますから……。お休みなさい……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おっ、おい、雪歩！」
+display
+com11 0 4
+sound 650
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「この髪型……、楽でいいんですぅ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （結局、雪歩を背負って、ロケバスまで運んだ。
+line2 <shift> # なにしてるんだ、まったく……）
+com09 0 49
+display
+location 35
+com11 0 4
+sound 651
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ん……。そこが、どうして……、むにゃ……、
+line2 <shift> # たいへん、なんですか……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ほら、こう、たるんだ顔になってる。
+line2 <shift> # みっともないぞ」
+display
+com11 0 4
+sound 652
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「それはたぶん……、元からですぅ。
+line2 <shift> # ……すぅ、すぅ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お、おい、雪歩！　本格的に寝るな！」
+display
+com11 0 4
+sound 653
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「みっともなくても……、
+line2 <shift> # ねられるほうが……、いいんですぅ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （結局、雪歩は起きず、寝ぼけた顔を
+line2 <shift> # さらしたまま、俺が背負って運ぶことに）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （スタッフに目撃され、くすくす笑われてしまっ
+line2 <shift> # た……。雪歩のやつ、後で知ったら落ち込むぞ）
+com09 0 49
+display
+location 49
+unk02

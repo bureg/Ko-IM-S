@@ -1,0 +1,222 @@
+com2c 0 119
+com2d 0 81
+com2e 0 111
+com11 0 0
+sound 10000
+com4c 0 1
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサー、いよいよですね……！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。俺達の約束の舞台……、
+line2 <shift> # ＩＵのステージに、ついに立てるんだ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、ここがゴールじゃないぞ。
+line2 <shift> # 目指すはＩＵ優勝。トップアイドルの座だ！」
+display
+com11 0 0
+sound 10001
+com4c 0 1
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「くーぅ！　興奮してきましたっ！」
+display
+com11 0 0
+sound 10002
+com4c 0 1
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そうそう！　さっき、芸能記者さんから、響の
+line2 <shift> # インタビューがのってる雑誌、見せてもらって」
+display
+com11 0 0
+sound 10003
+com4c 0 1
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そこで響、ＩＵ本選でのライバルは誰かって
+line2 <shift> # いう質問に、何て答えてたと思います！？」
+com03 0 3
+choice1 <shift> # Makoto
+com09 0 10
+com08
+choice2 <shift> # Echo
+com09 0 11
+com08
+choice3 <shift> # 俺
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「真、だな」
+display
+com11 0 0
+sound 10004
+com4c 0 1
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「へへ〜っ、そうなんですよ！　やーりぃ！」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「響、かな？　自分自身がライバル、みたいな」
+display
+com11 0 0
+sound 10005
+com4c 0 1
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「違いますよぉ。それだったら、ボク、
+line2 <shift> # こんなに興奮してません！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ということは、ライバルは、真か！？」
+display
+com11 0 0
+sound 10006
+com4c 0 1
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はい、そうなんです！」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わかったぞ。ズバリ、俺だ！」
+display
+com11 0 0
+sound 10007
+com4c 0 1
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ぷ、プロデューサーですか？
+line2 <shift> # 何で、そう思うんです？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「響には、専属のプロデューサーはいないからな。
+line2 <shift> # 俺という存在に、たじろいているに違いない！」
+display
+com11 0 0
+sound 10008
+com4c 0 1
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「何だかよくわからないけど、すごい自信……。
+line2 <shift> # でも違います！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ、いったい誰なんだ？」
+display
+com11 0 0
+sound 10009
+com4c 0 1
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はぁ〜、しっかりして下さいよ、
+line2 <shift> # プロデューサー。ボクだったんですよ、ボク！」
+com09 0 19
+display
+location 19
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「つまり、公に響も、真をライバルだって、
+line2 <shift> # 認めたわけだ。これで、完全に対等だな」
+display
+com11 0 0
+sound 10010
+com4c 0 1
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はい！　後は真っ向勝負あるのみ！
+line2 <shift> # っていうことですね！」
+display
+com11 0 0
+sound 10011
+com4c 0 1
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「でも、大丈夫かな。黒井社長が、そのことを
+line2 <shift> # 知ったら、響、怒られるんじゃ……？」
+display
+com11 0 0
+sound 10012
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「怒られても、勝てばいいんだぞっ！」
+display
+com11 0 0
+sound 10013
+com4c 0 1
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「響……！　ずっと、この時を待ってたよ。
+line2 <shift> # やっと、響と勝負できる！」
+display
+com11 0 0
+sound 10014
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「足のケガ、ちゃんと治してきたのか？」
+display
+com11 0 0
+sound 10015
+com4c 0 1
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うん、もうバッチリ！　激しい振り付けだって、
+line2 <shift> # バリバリ踊れるよ！」
+display
+com11 0 0
+sound 10016
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「そうでなくちゃな！　ダメな時の真に勝っても、
+line2 <shift> # 嬉しくないもんねっ！」
+display
+com11 0 0
+sound 10017
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「真に、勝負したいって言われた時、自分、
+line2 <shift> # あんまり本気で考えてなかったぞ」
+display
+com11 0 0
+sound 10018
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「せいぜい、次郎に似てる、気の合う子ぐらいに
+line2 <shift> # しか、真のこと、見てなかった」
+display
+com11 0 0
+sound 10019
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「でも、今は違うぞっ。
+line2 <shift> # 真は、自分にとって、一番のライバルだ！」
+display
+com11 0 0
+sound 10020
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「真に勝たなきゃ、トップにはなれない。
+line2 <shift> # だから、これからは自分、本気出すっ！」
+display
+com11 0 0
+sound 10021
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「ライバルと認めた相手には、
+line2 <shift> # ちゃんと、実力、ぜーんぶ出して戦うっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「くっ……。今までは、手加減してたって、
+line2 <shift> # 言いたいのか？」
+display
+com11 0 0
+sound 10022
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「そういうことだぞ。
+line2 <shift> # だから、真も全力で来てねっ！」
+display
+com11 0 0
+sound 10023
+com4c 0 1
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「もちろんだよ……！」
+com09 0 99
+display
+location 99
+unk02

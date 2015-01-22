@@ -1,0 +1,293 @@
+com2c 0 91
+com2d 0 83
+com32 0 0
+com11 0 1
+sound 700
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ボクが『ベスト・美少年アワード』の大賞……。
+line2 <shift> # 他に、カッコいい男の子、たくさんいるのに」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「しかも、２位以下を、ブッちぎりか。
+line2 <shift> # これは……主催者も、ビックリだな」
+display
+com11 0 1
+sound 701
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あはは、そうですよね……。
+line2 <shift> # プロデューサー、ズバリ、受賞の感想は？」
+com03 0 3
+choice1 <shift> # ほどほど、うれしいです
+line2
+com09 0 10
+com08
+choice2 <shift> # 死ぬほど、うれしいです
+line2
+com09 0 11
+com08
+choice3 <shift> # 死ぬほど、おかしいです
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ほどほど、うれしいです」
+display
+com11 0 1
+sound 702
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ボクも、そんな感じです。どんなものでも、
+line2 <shift> # 賞は賞ですしねっ」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「死ぬほど、うれしいです」
+display
+com11 0 1
+sound 703
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そ、そんなにうれしいですか？　ふざけ半分で
+line2 <shift> # 投票した人もいると思うんですけど……」
+display
+com11 0 1
+sound 704
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「まあ、それでも、賞は賞だし……。ボクも
+line2 <shift> # 大よろこびした方が、いいのかなあ」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「死ぬほど、おかしいです」
+display
+com11 0 1
+sound 705
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ひ、ひどいですよ〜。そりゃ、おもしろいかも
+line2 <shift> # しれないですけど、そこまで、言うことは〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ここは、笑っておこうよ。投票してくれた
+line2 <shift> # 人には、ユーモアで応えないと」
+display
+com11 0 1
+sound 706
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「なんか、納得いかないな〜。怒る気はないです
+line2 <shift> # けど、そこまで素直には、笑えません」
+com09 0 29
+display
+location 29
+com11 0 1
+sound 707
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ファンの見方は、別にいいですけど……
+line2 <shift> # 個人的な見られ方は、そうはいきませんね」
+display
+com11 0 1
+sound 708
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「感想、第２弾！　プロデューサーにとって、
+line2 <shift> # ボクは美少年、美少女、どーっちだ？」
+com03 0 3
+choice1 <shift> # どっちでもない
+line2
+com09 0 30
+com08
+choice2 <shift> # 美少女
+com09 0 31
+com08
+choice3 <shift> # 美少年
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どっちでもないよ。俺にとって、真は真だ」
+display
+com11 0 1
+sound 709
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「え〜、美少女じゃないんですか！？　なんか、
+line2 <shift> # ショックー。あ、あれ、でも……」
+display
+com11 0 1
+sound 710
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「へへ、へへへっ、すごくうれしいのは、
+line2 <shift> # なんでだろ。おかしいな、ボク……」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「美少女」
+display
+com11 0 1
+sound 711
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「へへへっ、そうですよね。あ、でも、ただの
+line2 <shift> # 美少女ですか？　もっとなにか……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う、うーん、超ウルトラ、み、ミラクル
+line2 <shift> # 美少女？」
+display
+com11 0 1
+sound 712
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「どうも、ウソくさいな……。
+line2 <shift> # まあ、美少年よりは、いいですけど」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「美少年」
+display
+com11 0 1
+sound 713
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「涼しい顔で、イジワル言わないでくださいよ〜。
+line2 <shift> # そう言うと、いやがるって、知ってるくせに〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、ここはお約束だろ？　こう答えないと、
+line2 <shift> # おもしろくないじゃないか」
+display
+com11 0 1
+sound 714
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「いいですよー。どうせボクは、ダンディなアイ
+line2 <shift> # ドル……。いつか、お返ししてやりたいよな」
+com09 0 49
+display
+location 49
+com11 0 1
+sound 715
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、呼んでる！　じゃ、表彰されてきますね。
+line2 <shift> # ……って、なんか周り、殺気立ってないですか」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ほ、本当だ……。他の男性アイドルは、真に
+line2 <shift> # 賞をさらわれて、気、悪くしてるみたいだな」
+display
+com11 0 1
+sound 716
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あそこの人なんて、すごいガン飛ばして……。
+line2 <shift> # このまんまで、無事、帰れるのかなあ……」
+display
+com11 0 1
+sound 717
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサ〜、なんとか、なりませんかっ？
+line2 <shift> # ぼ、ボク、こわい……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よしっ、おとなしくさせてやる！
+line2 <shift> # えーと……」
+com03 0 3
+choice1 <shift> # 情けないこと、するな！
+line2
+com09 0 50
+com08
+choice2 <shift> # コイツは、本当は男だ！
+line2
+com09 0 51
+com08
+choice3 <shift> # ざまあみろ！
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「情けないこと、するな！　負けた上にひがむ
+line2 <shift> # なんて、それでも男か！？」
+display
+com11 0 1
+sound 718
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、みんな、しり込みして……。
+line2 <shift> # プロデューサー、カッコいい……」
+display
+com11 0 1
+sound 719
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ボク、『いい男・大賞』あげちゃいます！
+line2 <shift> # ほれ……じゃなくて、尊敬してもいいですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うっとりした目で、こっちを見ている。
+line2 <shift> # 男気あふれる言葉で、見事、場を制した！）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「コイツは、本当は男だ！」
+display
+com11 0 1
+sound 720
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「げ！　な、なんてことを……！
+line2 <shift> # あ、みんな、顔、見合わせて……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「思った通り、動揺してるな。どうだ？
+line2 <shift> # これで、こわくはないだろ？」
+display
+com11 0 1
+sound 721
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「たしかに、おとなしくはなりましたけど、もう
+line2 <shift> # ちょっと……。ま、いいや」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （口をとがらせながら、歩いていった。目的は
+line2 <shift> # 果たしたけど、やや乱暴なやり方だったかな）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ざまあみろ！」
+display
+com11 0 1
+sound 722
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「わ、プロデューサー、なんてコトいうんです？
+line2 <shift> # 挑発して、どうするんですか〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「これぐらい言ってやらないと、おとなしく
+line2 <shift> # ならないよ。エゴの強い奴らばかりだからな」
+display
+com11 0 1
+sound 723
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「って、なんか、みんな詰め寄ってきてますよ。
+line2 <shift> # おとなしくなるどころか……。あ、あ……」
+display
+com11 0 1
+sound 724
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うわわっ、待った！　タンマ！　降参！
+line2 <shift> # ぷ、プロデューサー、逃げましょうっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （俺の一言で、会場は大騒ぎに……！
+line2 <shift> # 晴れの舞台が、メチャクチャになってしまった）
+com09 0 69
+display
+location 69
+unk02

@@ -1,0 +1,1087 @@
+com2c 0 113
+com2c 0 35
+com2c 0 64
+com2c 0 90
+com2d 0 111
+com2e 0 81
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （まだ事務所へ行くには早いけど、
+line2 <shift> # 寄り道しながら出社しようかな？）
+com03 0 2
+choice1 <shift> # どこかに寄り道する
+line2
+com09 0 10
+com08
+choice2 <shift> # まっすぐ事務所に行く
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よし！　たまには、寄り道しながら、
+line2 <shift> # のんびり出社しよう！）
+display
+com22 0 30
+com21 0 30
+com32 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （さてと、時間もあるし、どこかで朝食でも
+line2 <shift> # とりながら、優雅な朝のひと時を過ごすかな）
+display <shift> # ドドドドドドド……！
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あれ？　何だ、この地響きは……）
+display
+com11 0 0
+sound 10000
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「うぎゃー！　そこの人、どいてーっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （この声、どこかできいたことがあるような。
+line2 <shift> # それより『そこの人』って……俺のことか！？）
+display <shift> # ドドドドド！　バウッ、ワウッ！！
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うわーっ！　何だ、あの巨大生物は！
+line2 <shift> # こっちにつっこんでくる！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「しかも、女の子を連れ去ろうとしてるぞ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺が止めないと！　……待て、巨大生物！
+line2 <shift> # 女の子を離せ……。って、わあ！　踏まれる！」
+display
+com22 0 30 131 89 131 86 129 91 131 147 129 73 129 64 131 111 131 69 131 98 129 65 131 143 131 69 131 98 129 73 129 73
+display
+com11 0 0
+sound 10001
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「いぬ美、すとーっぷ！　止まれっ！
+line2 <shift> # ふうー。はあー……」
+display
+com21 0 30
+com32 0 1
+com11 0 0
+sound 10002
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「あ、よく見たら、いぬ美が踏んだのは、
+line2 <shift> # ７６５プロだ！　じゃあ、助けなくて、いいか」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よくない！　早く、この巨大生物を、
+line2 <shift> # どかしてくれ！」
+display
+com11 0 0
+sound 10003
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「冗談だよ、あっははは！　いぬ美〜、
+line2 <shift> # じゃれつくのは、もうやめて欲しいってさ」
+display <shift> # バウッ！！
+display
+com11 0 0
+sound 10004
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「よしよしよしっ！
+line2 <shift> # いぬ美は、いい子だなっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ふ〜。とりあえず助かった……。どうなること
+line2 <shift> # かと思ったよ。で、この巨大生物はいったい？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さすがに、ペットだとは言わないよな。響が、
+line2 <shift> # 連れ去られそうになっているのを、見たぞ」
+display
+com11 0 0
+sound 10005
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「連れ去るなんて、そんなわけないさー！　いぬ
+line2 <shift> # 美は、セントバーナードっていう大型犬だぞ！」
+display
+com11 0 0
+sound 10006
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「まあ、その中でも、いぬ美は、特に大きいん
+line2 <shift> # だけどね！　普通の３倍ぐらいあるから」
+display
+com11 0 0
+sound 10007
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「朝早くじゃないと、外を歩かせられないんだ！
+line2 <shift> # いぬ美を見ると、なぜか皆、悲鳴あげるんだよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そりゃ、そうだろうな……。ということは、
+line2 <shift> # まさか、今は散歩中なのか？」
+display
+com11 0 0
+sound 10008
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「そういうこと！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どう見ても、散歩しているようには、
+line2 <shift> # 見えなかったが……」
+display
+com11 0 0
+sound 10009
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「大きいから、力はすごいしけっこうスタミナも
+line2 <shift> # あるぞ！　ほっといたら１日中歩き続けるんだ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、危ないんじゃないか？
+line2 <shift> # 響ひとりで、大丈夫か？」
+display
+com11 0 0
+sound 10010
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「平気だよっ！　いぬ美は、おとなしいし、
+line2 <shift> # しつけもちゃんとしてるし、それに……」
+display
+com11 0 0
+sound 10011
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「自分のカンペキなリードさばきで、
+line2 <shift> # いぬ美の動きは、思うがままだもんねっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さっきの響は、どう見ても、
+line2 <shift> # 振り回されてるようだったが……」
+display
+com11 0 0
+sound 10012
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「むぅ！　そんなことないぞ！　いぬ美の散歩は、
+line2 <shift> # 特訓だからな！　週に一度は、やってるんだ！」
+display
+com11 0 0
+sound 10013
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「今まで、誰にもケガさせたこと、ないもんね！
+line2 <shift> # もちろん、自分もふくめてだぞ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なるほど、それなら安心か……。
+line2 <shift> # ところで、今、特訓って言ったか？」
+display
+com11 0 0
+sound 10014
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「アイドルとしての、特訓だ！　スタミナを
+line2 <shift> # つけるために、ずっと続けてるんだっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「走り込みみたいなものか。意外だな。昔ながら
+line2 <shift> # の根性論で鍛えるのが９６１プロのやり方とは」
+display
+com11 0 0
+sound 10015
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「違うよっ！　いぬ美の散歩は、
+line2 <shift> # 個人的にやってるんだ」
+display
+com11 0 0
+sound 10016
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「黒井社長からは、やっちゃダメだって、
+line2 <shift> # 言われてる……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「この件については、俺も黒井社長と同じ意見だ。
+line2 <shift> # そのうち、大きなケガをしそうで、心配だよ」
+display
+com11 0 0
+sound 10017
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「むぅ！　７６５プロは、いちいちうるさいなっ。
+line2 <shift> # あっ、そうだ！　君もやってみるといいさー！」
+display
+com11 0 0
+sound 10018
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「ねえ、そう思うよね？　やってみたいよな？
+line2 <shift> # そうすれば、この特訓のすごさ、わかるよ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ここは『特訓に付き合ってやるよ！』と、
+line2 <shift> # 言うべきなのかもな……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （でも、そんなことをしたら、
+line2 <shift> # 事務所へ出社できなくなってしまう！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （真との活動週が、１週減ってしまうぞ！
+line2 <shift> # 俺は、どうすれば！？）
+com03 0 3
+choice1 <shift> # 特訓に付き合う
+line2
+com09 0 20
+com08
+choice2 <shift> # 事務所へ行く
+line2
+com09 0 21
+com08
+choice3 <shift> # ど、どうしよう？
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （いいや、まだ出社しないぞ。いつも通りの時間
+line2 <shift> # に、まっすぐ事務所へ行けばじゅうぶんだしな）
+com09 0 99
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わ、わかった。やってみよう。ちなみに、
+line2 <shift> # いぬ美は、本当に暴れたりしないんだよな？」
+display
+com11 0 0
+sound 10019
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「大丈夫だって！　はい、じゃあこれ、
+line2 <shift> # リードね！　出発しんこーうっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お、おい……。いきなり渡されても……」
+display
+com11 0 0
+sound 10020
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「ま、自分以外の人間じゃ、いぬ美は言うこと、
+line2 <shift> # きかないかもしれないけどな！」
+display <shift> # バウバウ！
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「何ぃぃぃぃ！？」
+display
+com22 0 30 131 104 131 104 131 104 131 104 131 104 131 104 131 104 129 99 129 99 129 73
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うわぁぁぁぁぁぁ……！」
+display
+com21 0 30
+com32 0 2
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ぜーはーぜーはー、もう、走れない……。いっ
+line2 <shift> # たいどれぐらいの距離を、走らされたんだ……」
+display
+com11 0 0
+sound 10021
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「２０キロぐらいじゃないか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなに！？　気付けば、海の近くまで来てる
+line2 <shift> # し、もう日が暮れかかってるじゃないか！」
+display
+com11 0 0
+sound 10022
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「いぬ美はタフだからなっ！
+line2 <shift> # たぶん、まだまだ行けるはずだぞっ！」
+display <shift> # バウッ！！
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「響もすごいよ。ほとんど、息を切らしてない」
+display
+com11 0 0
+sound 10023
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「あっははは！　特訓の、成果だよ！
+line2 <shift> # 自分も、まだまだへっちゃらだ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「こんな特訓を、週１回やってるとは……。
+line2 <shift> # 響は、やっぱり、すごいんだな」
+display
+com11 0 0
+sound 10024
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「まあね！　普段は他の動物も一緒に、
+line2 <shift> # 散歩してるから、もっと大変だよ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「とにかく、ここで休けいしよう……。
+line2 <shift> # さすがに疲れたよ」
+display
+com11 0 0
+sound 10025
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「途中で、何度も休けいしたぞ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「自販機でジュースを買って、ひと休みした
+line2 <shift> # ぐらいだろう？　昼飯も食べてない……」
+display
+com11 0 0
+sound 10026
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「あ、それなら自分、サーターアンダーギー
+line2 <shift> # 持ってきてるぞ！　食べるよね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さーたーあんだーぎー？」
+display
+com11 0 0
+sound 10027
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「沖縄のお菓子だ。
+line2 <shift> # 穴のないドーナツみたいなものかなっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「へえ。いただくよ。ありがとう。もぐもぐ……」
+display
+com11 0 0
+sound 10028
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「おいしいかー？　どう？　どうなんだ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おお！　確かにこれは、おいしいな！」
+display
+com11 0 0
+sound 10029
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「あっははは！　そうでしょ！
+line2 <shift> # たくさんあるから、どんどん食べていいぞっ！」
+display
+com11 0 0
+sound 10030
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「それにしても、ちょっとヘンな感じだな。
+line2 <shift> # もうＩＵも本選だっていうのに……」
+display
+com11 0 0
+sound 10031
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「ライバル事務所のプロデューサーと２人で、
+line2 <shift> # 犬を連れて、公園で休けいなんてさ！」
+display
+com11 0 0
+sound 10032
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「ここの公園、海が見えるから、
+line2 <shift> # けっこう好きな場所だぞ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「地元の海を、思い出したりするのか？」
+display
+com11 0 0
+sound 10033
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「まあね！　そんなわけで、いぬ美と特訓する
+line2 <shift> # 時は、いつもここをゴールにしてるんだっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃあ、響の休日は、迷子になったペットを
+line2 <shift> # 探しているか、いぬ美と特訓のどっちかなのか」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「遊びに行ったりは、しないのか？」
+display
+com11 0 0
+sound 10034
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「う、うるさいっ。７６５プロには関係ないこと
+line2 <shift> # だぞ。いいからサーターアンダーギー食べろ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「響、もしかして……」
+com03 0 3
+choice1 <shift> # 動物が友達なのか？
+line2
+com09 0 30
+com08
+choice2 <shift> # 友達いないのか？
+line2
+com09 0 31
+com08
+choice3 <shift> # 友達は黒井社長だけか？
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「残念だけど、付き合うわけにはいかないんだ。
+line2 <shift> # ７６５プロの方の仕事が、あるからな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （でも、自分の担当アイドルの方が大事だし。
+line2 <shift> # 当然の決断だよな、これは）
+display
+com11 0 0
+sound 10035
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「ちぇー。ま、別に断られたって悲しくない
+line2 <shift> # けどね！　もともと１人で行くつもりだったし」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「時間があれば、付き合ってやったんだが。
+line2 <shift> # 悪いな……」
+display
+com11 0 0
+sound 10036
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「別に、謝らなくてもいいさー！」
+display
+com11 0 0
+sound 10037
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「そもそも、一緒に来られたところで、自分の
+line2 <shift> # 特訓に君がついて来られるわけないしな！」
+display
+com11 0 0
+sound 10038
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「じゃ、行くぞーっ、いぬ美！
+line2 <shift> # ７６５プロ、バイバイ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、ああ。じゃあな……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （嫌われたわけでもないみたいだけど、響と真剣
+line2 <shift> # に話す機会を、逃したような気もするな……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （まあ、しょうがないか。特訓に付き合うと、
+line2 <shift> # 遅刻しそうだし。さ、事務所へ急ごう！）
+com09 0 99
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ど、どうしよう？　響に付き合うべきか、
+line2 <shift> # 事務所へ向かうべきか……。むうう、難問だ！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「響に付き合えば、俺の担当アイドルを、
+line2 <shift> # ほったらかしにすることになるし……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「このまま、事務所に行けば、
+line2 <shift> # 響との話が、中途半端で終わるし……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うむむむむ……」
+display
+com11 0 0
+sound 10039
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「７６５プロ、さっきから、何を１人で、
+line2 <shift> # ブツブツ言ってるんだよ？　ブキミだぞ？」
+display
+com11 0 0
+sound 10040
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「いぬ美が、こわがっちゃってるだろ！
+line2 <shift> # やっぱ、君は来ないでいいぞ！」
+display
+com11 0 0
+sound 10041
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「一緒に歩いてると、自分まで、変態だと思われ
+line2 <shift> # そうだしね！　ほら、行こう、いぬ美！」
+display <shift> # バウッ！！
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、響……！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （むう。１日だけ特訓に付き合ってやろうかと
+line2 <shift> # 思ったのに、響の側から、断られてしまったぞ）
+com09 0 99
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「動物が、友達なのか？」
+display
+com11 0 0
+sound 10042
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「まあねっ！　動物は、大好きだし！
+line2 <shift> # 一緒にいるだけで、心がほんわかするよっ！」
+display <shift> # バウッ！！
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それにしても、飼いすぎだと思うが。
+line2 <shift> # 世話は、大変じゃないか？」
+display
+com11 0 0
+sound 10043
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「愛情があれば、ちっとも大変って思わないよっ。
+line2 <shift> # いぬ美達は、家族みたいなものなんだっ！」
+display
+com11 0 0
+sound 10044
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「あと、ハム蔵や、シマ男や、オウ助や、
+line2 <shift> # ねこ吉や、ブタ太や、ワニ子だって、家族だ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「家族か……。本当の家族には、
+line2 <shift> # もうずっと会ってないんだろう？」
+display
+com11 0 0
+sound 10045
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「……会ってないけど、それは、トップアイドル
+line2 <shift> # になって沖縄に戻るまで、ガマンなんだ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、やっぱり寂しいんじゃないか？」
+com09 0 39
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「友達、いないのか？」
+display
+com11 0 0
+sound 10046
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「むぅ……。いるわけないよっ。
+line2 <shift> # 沖縄から出てきて、ずっと１人だし！」
+display
+com11 0 0
+sound 10047
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「事務所と、レッスンスタジオと、仕事場を行き
+line2 <shift> # 来してたら、友達なんて、できるわけないし！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そして休日はペットを探すか、
+line2 <shift> # 特訓か、だもんな」
+display
+com11 0 0
+sound 10048
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「それに、黒井社長から、友達と、
+line2 <shift> # 付き合うなって言われているんだっ」
+display
+com11 0 0
+sound 10049
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「家族や地元の友達に、電話するのも、
+line2 <shift> # ガマンしてるんだからなっ！」
+display
+com11 0 0
+sound 10050
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「というわけで、９６１プロの同期の
+line2 <shift> # 子ぐらいとしか、しゃべらないぞ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか。じゃあ、寂しいんじゃないか？」
+com09 0 39
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「友達は、黒井社長だけか？」
+display
+com11 0 0
+sound 10051
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「うぎゃー！　黒井社長は、友達じゃないぞっ！
+line2 <shift> # 何でそんな、気持ち悪いこと、言うんだ！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だって、仲は、そこそこよさそうじゃないか」
+display
+com11 0 0
+sound 10052
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「仲は、悪くないけど、友達じゃ、ないよっ！
+line2 <shift> # 事務所の、社長だ！　上司だ！　えらい人だ！」
+display
+com11 0 0
+sound 10053
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「たとえば君は、７６５プロの社長のこと、
+line2 <shift> # 友達って思ってるのか！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……俺が、高木社長と、友達だって！？　バカ
+line2 <shift> # 言っちゃ、いけないな！　そんなわけあるか！」
+display
+com11 0 0
+sound 10054
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「それと、おんなじことだぞ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……納得した。ヘンなこと言って、悪かった。
+line2 <shift> # じゃあ、遊びに行くような友達はいないのか？」
+display
+com11 0 0
+sound 10055
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「……い、いない」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか。やっぱり、寂しいだろう？」
+com09 0 39
+display
+location 39
+com11 0 0
+sound 10056
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「さ、寂しくなんか、ないし。トップアイドルに
+line2 <shift> # なるためには、これぐらいへっちゃらだ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なあ、たとえば、真と友達に、
+line2 <shift> # なったらどうだ？」
+display
+com11 0 0
+sound 10057
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「……ま、真は、友達じゃなくて、ライバルだ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ライバルは将来、仲間になるのが、
+line2 <shift> # マンガの王道展開なんだぞ」
+display
+com11 0 0
+sound 10058
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「仲間になんて、なったりしないぞ！　自分は、
+line2 <shift> # ９６１プロをやめたりしないからなっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そこまでしろとは言ってないよ。
+line2 <shift> # ただ、今の響にとっての問題は……」
+com03 0 3
+choice1 <shift> # 黒井社長だ
+com09 0 40
+com08
+choice2 <shift> # 真だ
+com09 0 41
+com08
+choice3 <shift> # 俺だ
+com09 0 42
+com08
+com07
+com09 0 42
+com08
+display
+location 40
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「黒井社長だ。黒井社長のやり方は、
+line2 <shift> # 響には合っていない気がするんだ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「響は、普段、話している時のような、
+line2 <shift> # 素のままの感じが、一番いいと思うから」
+display
+com11 0 0
+sound 10059
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「ふーん。７６５プロでは、そういう方針なのか。
+line2 <shift> # ちっとも、変態事務所じゃないんだなっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だから、それは黒井社長のウソだよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今の俺なら、自信を持って言える。
+line2 <shift> # あの人は、響をいいように利用しているだけだ」
+com09 0 49
+display
+location 41
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「真だ。もし真と、楽しんで勝負しようとしたら、
+line2 <shift> # 黒井社長から怒られるかもしれないぞ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それでも、真との勝負、受けてくれるか？」
+display
+com11 0 0
+sound 10060
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「……実は、黒井社長から、
+line2 <shift> # ７６５プロを潰せって、言われてるんだ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「何だって！？」
+display
+com11 0 0
+sound 10061
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「まあでも、そう言われても、どうすればいいか
+line2 <shift> # なんて、自分、さっぱり思いつかないけどな！」
+display
+com11 0 0
+sound 10062
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「それに、最後に勝つのは自分だし。それなら、
+line2 <shift> # 黒井社長も、そんなに文句言わないはずだよっ」
+display
+com11 0 0
+sound 10063
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「ねえ、７６５プロも、そう思うよね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あの人は、響をいいように利用しているだけだ。
+line2 <shift> # 今の俺なら、自信を持って言える」
+com09 0 49
+display
+location 42
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺だ。俺なら、響をもっとうまくプロデュース
+line2 <shift> # できる！　響を一番理解しているのは、俺だ！」
+display
+com11 0 0
+sound 10064
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （キマった……。プロデューサーとしてのカッコ
+line2 <shift> # よすぎるセリフに、響は酔いしれているぞ！）
+display
+com11 0 0
+sound 10065
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「ぷっ……。あっははは！
+line2 <shift> # 今の言葉、何だか黒井社長そっくりだぞ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （何ぃ！？　黒井社長そっくりとは……。
+line2 <shift> # あの人には失礼だが、すごくヘコむなあ……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まあ、今の言葉は冗談だとしても、
+line2 <shift> # ９６１プロにいたら、響は輝けないと思う」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「響は黒井社長に、いいように、
+line2 <shift> # 利用されているんだ」
+com09 0 49
+display
+location 49
+com11 0 0
+sound 10066
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「……黒井社長が自分を利用してること、何と
+line2 <shift> # なく、そうじゃないかなーって、気付いてたよ」
+display
+com11 0 0
+sound 10067
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「自分、カンは、けっこういい方だからさっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え、そうなのか……？　なのに、どうして、
+line2 <shift> # 黒井社長のやり方に、従ってるんだ？」
+display
+com11 0 0
+sound 10068
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「そうだなぁ。自分が勝って、９６１プロのやり
+line2 <shift> # 方は間違ってないんだって、証明したいのかも」
+display
+com11 0 0
+sound 10069
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「黒井社長のおかげで、自分は、
+line2 <shift> # アイドルとしてデビューできたんだからさ」
+display
+com11 0 0
+sound 10070
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「ここまで９６１プロのやり方でやってきたし、
+line2 <shift> # このまま最後までやってみよう、って！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （響は、義理がたい性格なんだったな……。
+line2 <shift> # いかにも、響らしい考え方のような気がする）
+display
+com11 0 0
+sound 10071
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「……ねえねえ、今日７６５プロと丸１日、一緒
+line2 <shift> # に過ごしてみて思ったこと、言っていいか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「な、何だ、いきなり……」
+display
+com11 0 0
+sound 10072
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「プロデューサーがいるの、
+line2 <shift> # ちょっと、いいな、って思ったぞ」
+display
+com11 0 0
+sound 10073
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「ＩＵの５次予選の後、君が真にいろいろ話して
+line2 <shift> # るのを見た時も、同じこと、思った」
+display
+com11 0 0
+sound 10074
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「今日、１日付き合ってもらって、
+line2 <shift> # 何でそう思ったか、わかったよ」
+display
+com11 0 0
+sound 10075
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「自分のことだけ、考えてくれるからだ。
+line2 <shift> # 一緒にがんばってるって感じが、するぞ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだな。アイドルと、
+line2 <shift> # 担当プロデューサーは、二人三脚だ」
+display
+com11 0 0
+sound 10076
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「だから、さっきの話に戻るけど……」
+display
+com11 0 0
+sound 10077
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「自分、７６５プロの方が正しいって結果に
+line2 <shift> # なってもいいかなって……少しだけ、思ってる」
+display
+com11 0 0
+sound 10078
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「真との勝負、黒井社長にナイショで、
+line2 <shift> # 受けたのだって、ほんとは……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「本音は、負けたい、っていうことか？」
+display
+com11 0 0
+sound 10079
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「そ、そんなわけないさー！　あはは！　今の話、
+line2 <shift> # 忘れろっ！　真に話したら、許さないぞっ！」
+display
+com11 0 0
+sound 10080
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「自分は、ゼッタイＩＵで優勝して、トップを
+line2 <shift> # とる！　真相手でも、手加減は、しないぞ！」
+display
+com11 0 0
+sound 10081
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「じゃ、自分、いぬ美を連れて帰るから！　君は、
+line2 <shift> # 素直に電車かタクシーで帰った方が、いいぞ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ！？　また２０キロ以上、
+line2 <shift> # 走っていくのか！？」
+display
+com11 0 0
+sound 10082
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「うん！　今日は、付き合ってくれて、
+line2 <shift> # ありがと！　楽しかった！」
+display
+com11 0 0
+sound 10083
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「でも次に会う時は、敵同士だから！
+line2 <shift> # じゃあねっ、７６５プロ！　バイバイっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、響……っ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （響の力になりたい、なんて言っておいて、
+line2 <shift> # 結局、俺、何の役にもたてなかったな……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （はあ、俺も帰るか……。ん？　待てよ？
+line2 <shift> # 何か忘れているような……？）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どわああああっ！　事務所に連絡いれるの、
+line2 <shift> # 忘れてた！　ま、真を待たせっぱなしだっ！」
+display
+com22 0 30
+com21 0 30
+com32 0 3
+com11 0 0
+sound 10084
+com4c 0 1
+name 0 0 <names:4>  # Makoto
+line1 <shift> # 「プロデューサー……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ごめん、真！　この通り！
+line2 <shift> # 土下座して、謝るよ。どうか許してくれ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「響のためとはいえ、本業をないがしろにする
+line2 <shift> # なんて、俺が、どうかしてたんだ！」
+display
+com11 0 0
+sound 10085
+com4c 0 1
+name 0 0 <names:4>  # Makoto
+line1 <shift> # 「わあっ！　そんな、とりあえず、
+line2 <shift> # 頭を上げて下さいよ！」
+display
+com11 0 0
+sound 10086
+com4c 0 1
+name 0 0 <names:4>  # Makoto
+line1 <shift> # 「……まあ、しょうがないかなって思います。
+line2 <shift> # 響に、ムリに付き合わされたんですよね」
+display
+com11 0 0
+sound 10087
+com4c 0 1
+name 0 0 <names:4>  # Makoto
+line1 <shift> # 「プロデューサーって、押しに弱いんですか？
+line2 <shift> # 強引に迫られたら、断れないタイプとか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「う〜ん、もしかしたら、そうかもしれない」
+display
+com11 0 0
+sound 10088
+com4c 0 1
+name 0 0 <names:4>  # Makoto
+line1 <shift> # 「だったら、ボクも強引に迫ってみようかなぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「へ？」
+display
+com11 0 0
+sound 10089
+com4c 0 1
+name 0 0 <names:4>  # Makoto
+line1 <shift> # 「トレーニングですよ！　今度、丸１日、
+line2 <shift> # つきっきりでお願いします、プロデューサー！」
+display
+com11 0 0
+sound 10090
+com4c 0 1
+name 0 0 <names:4>  # Makoto
+line1 <shift> # 「いや、絶対付き合ってもらいます！　もちろん、
+line2 <shift> # ムリしすぎない程度に、ですけどね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、もちろん付き合うよ！
+line2 <shift> # 許してくれて、ありがとう！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （一所懸命な女の子を見守るのがプロデューサー
+line2 <shift> # の役目。でも、俺が一番見守るべきなのは……）
+display
+com1c 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （絶対に真だ！　二度と、こんなことがないよう、
+line2 <shift> # 気をつけなくては……）
+com09 0 99
+display
+location 99
+unk02

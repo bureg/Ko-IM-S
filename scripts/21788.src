@@ -1,0 +1,233 @@
+com2c 0 28
+com2d 0 51
+com32 0 0
+com11 0 2
+sound 1400
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「野外ライブ、すごい盛り上がりでしたね。
+line2 <shift> # 立ち見の人も、あんなにたくさん……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「これぐらいの客は、入りますよ。ランクＣの
+line2 <shift> # アイドルは、完全なメジャー級ですから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「にしても、この混みっぷりじゃ……後ろの方の
+line2 <shift> # 人は、ステージ、よく見えなかったかな」
+display
+com11 0 2
+sound 1401
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「えっ、そ、それは困りますー。私のこと、
+line2 <shift> # しっかり確かめてもらわないと」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……た、確かめるって？　ニセモノかと
+line2 <shift> # 疑う人なんて、いないと思いますけど」
+display
+com11 0 2
+sound 1402
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そうではなくて、その……。もしかしたら、
+line2 <shift> # その中に、わ、わ、私の……運命の人がっ」
+com03 0 2
+choice1 <shift> # なにかの冗談ですか？
+line2
+com09 0 10
+com08
+choice2 <shift> # …………は？
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なにかの冗談ですか？」
+display
+com11 0 2
+sound 1403
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「とんでもない、本気です……。きっとどこかに
+line2 <shift> # いる運命の人に、私のこと、見つけてほしくて」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「…………は？」
+display
+com11 0 2
+sound 1404
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そんな顔しないでください。これ、とても
+line2 <shift> # 真剣な話なんです」
+display
+com11 0 2
+sound 1405
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「きっと、どこかにいるはずなんです。私の
+line2 <shift> # 運命の人。その人に、見つけてほしくて」
+com09 0 29
+display
+location 29
+com11 0 2
+sound 1406
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「有名になれば、絶対めぐり会えるって。それも
+line2 <shift> # アイドルをめざした、大きな理由のひとつで」
+com03 0 2
+choice1 <shift> # し、知らなかったです
+line2
+com09 0 30
+com08
+choice2 <shift> # し、信じてるんですか？
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「し、知らなかったです」
+display
+com11 0 2
+sound 1407
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「話す勇気が出なかったんです。私、いつか、
+line2 <shift> # 最高の自分を、その人に見てほしくて」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「し、信じてるんですか？」
+display
+com11 0 2
+sound 1408
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はい、心から……。子どもじみてますよね？
+line2 <shift> # そう思われても、しかたがないです」
+display
+com11 0 2
+sound 1409
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「でも、いつか最高の自分になって、その人に
+line2 <shift> # 愛されたいって。だから、トップアイドルに」
+com09 0 49
+display
+location 49
+com11 0 2
+sound 1410
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「わ、笑ってくれてもいいです。怒ってくれて
+line2 <shift> # も。これ話したのは、親友の友美にだけで……」
+display
+com11 0 2
+sound 1411
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「私、将来は、たったひとりのためのアイドルに
+line2 <shift> # なりたいんです。……けいべつ、しますか？」
+com03 0 3
+choice1 <shift> # 胸、張ってください
+line2
+com09 0 50
+com08
+choice2 <shift> # 尊敬します
+com09 0 51
+com08
+choice3 <shift> # そんなこと、しないですよ
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 2
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「胸、張ってください。それだって、立派な
+line2 <shift> # 目標だと思いますよ」
+display
+com11 0 2
+sound 1412
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「は、よかったです。もしかしたら『アイドル
+line2 <shift> # やる資格なんて、ない』って、言われるかと」
+display
+com11 0 2
+sound 1413
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「プロデューサーさんには、そろそろ話したい
+line2 <shift> # なって。なるべく多くを知っていてほしいので」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ほっとした表情をしている。トップをめざし
+line2 <shift> # ながら、運命の人、見つけられるといいな）
+com09 0 69
+display
+location 51
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「尊敬します。いまどき、そこまで言い切る人、
+line2 <shift> # めったにいないと思うので」
+display
+com11 0 2
+sound 1414
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「尊敬なんて……。これは私の、自分勝手な夢
+line2 <shift> # ですから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「これからは、敬意を持って、接しますね。
+line2 <shift> # 俺、あずささんのことを軽く見て……」
+display
+com11 0 2
+sound 1415
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「お、お願いですから、これまで通りにしてもら
+line2 <shift> # えると。頭をあげてください。私、困って……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （急変した俺の態度に、とまどっている。えらい
+line2 <shift> # と思ったのは本当だけど、少し大げさだったか）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなこと、しないですよ。動機なんて、
+line2 <shift> # 人それぞれですし」
+display
+com11 0 2
+sound 1416
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ほんとに、そう思ってくれますか？
+line2 <shift> # すみません、これまで隠していて……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ただ、他のファンを、ないがしろにしたりは
+line2 <shift> # しないでくださいね」
+display
+com11 0 2
+sound 1417
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「わかっています。そんなことをしたら、
+line2 <shift> # 運命の人に、多分きらわれて……」
+display
+com11 0 2
+sound 1418
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「歌うこと自体も、好きなんです。人に楽しんで
+line2 <shift> # もらうことも。そこは信じてもらえると……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （悲しげに、目を伏せてしまった。もっと
+line2 <shift> # 温かい言葉をかけてあげた方が、よかったか？）
+com09 0 69
+display
+location 69
+unk02

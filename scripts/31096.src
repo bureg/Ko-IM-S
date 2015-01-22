@@ -1,0 +1,316 @@
+com2c 0 25
+com2d 0 61
+com32 0 0
+com11 0 0
+sound 10000
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「……………………ミーティング、ですね。
+line2 <shift> # ……………………よ、よろしくお願い、します」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……どうして、そんな遠くにいるんだ？
+line2 <shift> # こんなに距離があっちゃ、話、できないよ」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「わ、私、男の人と話すの、苦手で……。あと、
+line2 <shift> # どのくらい近づけば、普通に話、できますか？」
+com03 0 3
+choice1 <shift> # 大股で、３歩ぐらい　
+line2
+com09 0 10
+com08
+choice2 <shift> # まあ、適当に　
+line2
+com09 0 11
+com08
+choice3 <shift> # 鼻と鼻が、ふれあうぐらい　
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「大股で、３歩ぐらい」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「わかりました。それじゃあ……」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、適当に。そんなの、感覚でわかる
+line2 <shift> # だろ？」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「大体なら……。こ、このくらいで、
+line2 <shift> # どうでしょう？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんな、微妙に、にじり寄ったって、ダメだよ。
+line2 <shift> # もっとグイっと、前へ」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「うう、わかりました。それじゃあ……」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「鼻と鼻が、ふれあうぐらい」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ううっ、そんなのムリですぅ〜。私、
+line2 <shift> # 緊張で、死んじゃうかも……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「大げさだなあ。まあ、そこまで近づかなくても、
+line2 <shift> # いいよ。とにかく、グイっと、前へ」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「わ、わかりました。それじゃあ……」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10007
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「これぐらいで、いいですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、そこなら問題ない。で、雪歩は、今、
+line2 <shift> # いくつなんだ？　中学生？　高校生？」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「これでも、いちおー、１６歳の高校生です。
+line2 <shift> # ……しっかりしてなくて、すみません」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうして、あやまるんだ？
+line2 <shift> # ……その弱気な性格は、生まれつき？」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「はい。だって私、人に自慢できるようなもの、
+line2 <shift> # ほとんど持ってないし……」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「なのに、アイドルになりたいなんて、
+line2 <shift> # その〜、夢、見すぎですよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなことは、ないよ。ペースはノンビリでも、
+line2 <shift> # 着実に進めば、いつかトップに立てる」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「あ、童話でも、たしか、そういう話ありました
+line2 <shift> # よね。えと、あのお話のタイトルは……」
+com03 0 3
+choice1 <shift> # 『ウサギとカメ』かな？　
+line2
+com09 0 20
+com08
+choice2 <shift> # 『ウナギとカメ』かな？　
+line2
+com09 0 21
+com08
+choice3 <shift> # 『ウサギとカニ』かな？　
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「『ウサギとカメ』かな？」
+display
+com11 0 0
+sound 10012
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「そうです！　あのカメみたいに、すこしずつ
+line2 <shift> # 進んで、前のウサギを追い越すしかないですね」
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「『ウナギとカメ』かな？」
+display
+com11 0 0
+sound 10013
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ウナギでしたっけ？　たしか駆けっこする話だ
+line2 <shift> # ったと思いますけど、ウナギは走れないような」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あああ、まちがえた！　ウナギじゃなくて、
+line2 <shift> # ウサギ！　『ウサギとカメ』だろ？」
+com09 0 28
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「『ウサギとカニ』かな？」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「カニでしたっけ？　たしか競争するお話だった
+line2 <shift> # と思いますけど、カニは、前には歩けない気が」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あああ、まちがえた！　カニじゃなくて、
+line2 <shift> # カメ！　『ウサギとカメ』だろ？」
+com09 0 28
+display
+location 28
+com11 0 0
+sound 10015
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「あ、そうです！　あのカメみたいに、少しずつ
+line2 <shift> # 進んで、前のウサギを追い越すしかないですね」
+display
+location 29
+com11 0 0
+sound 10016
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「でも、私、競争相手に追いつく前にダメになる
+line2 <shift> # かも。大変なこと、たくさん、ありますよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それは、まあな。
+line2 <shift> # 芸能界は、山アリ谷アリだから」
+display
+com11 0 0
+sound 10017
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「不安です……。カベにぶつかったら、
+line2 <shift> # コロンって、転んじゃいそうで」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「今から、そんな悲しそうな顔してちゃ、ダメ
+line2 <shift> # だよ。もし、転びそうになったら、えーと……」
+com03 0 3
+choice1 <shift> # 俺が、助けてあげるから　
+line2
+com09 0 30
+com08
+choice2 <shift> # 俺が、抱きとめてやるから　
+line2
+com09 0 31
+com08
+choice3 <shift> # 必死にふんばれ！　
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺が、助けてあげるから。アイドルを守るのも、
+line2 <shift> # プロデューサーの大事な仕事だし」
+display
+com11 0 0
+sound 10018
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「あ……、守って、もらえますか？
+line2 <shift> # ならっ、すこしは安心できるかも！」
+display
+com11 0 0
+sound 10019
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「あ、あの……、いい人に受け持ってもらえる
+line2 <shift> # ことになって、私、よかったですっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （心から、ほっとした顔をしている。弱気な子だ
+line2 <shift> # から、やさしく支えてあげるのがベストだな！）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （……その後、雰囲気は格段によくなり、
+line2 <shift> # いろいろな話をしながら、楽しい時を過ごした）
+com09 0 39
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺が、抱きとめてやるから。そうすれば、
+line2 <shift> # 転ばずにすむだろ？」
+display
+com11 0 0
+sound 10020
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「え……、抱き、とめる？　わ、私、そんなこと、
+line2 <shift> # これまで、されたこと……。あ、ぁぁぁっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、おいっ、落ち着け。大丈夫か？」
+display
+com11 0 0
+sound 10021
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「こ、こないで下さぁい。私、男の人、苦手
+line2 <shift> # なんです。抱きとめたり、されたら……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うーん、怖がらせてしまった。安心させようと
+line2 <shift> # 思ったのに、これは完全な失敗だな）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （……その後、おびえた雪歩を、普通に話せる
+line2 <shift> # 状態に戻すのに、長い時間がかかってしまった）
+com09 0 39
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「必死にふんばれ。そういう時こそ、
+line2 <shift> # 本人のやる気と、根性が問われるんだ！」
+display
+com11 0 0
+sound 10022
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「問われても、困ります〜。私、本当に、
+line2 <shift> # そういう強さとか、なくて……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「泣き言を言ったって、苦難は乗り越えられ
+line2 <shift> # ないぞ？　気合いだ、気合い！」
+display
+com11 0 0
+sound 10023
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ムリですよぉ。だって私、他の子とちがって、
+line2 <shift> # 才能ないし。ううっ、ぐすっ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （いくら鼓舞しても、顔はゆがむ一方……。
+line2 <shift> # 弱気な子だから、ムチ打っても、逆効果か）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （……その後、打ちひしがれている雪歩を、
+line2 <shift> # 立ち直させるのに、長い時間がかかった）
+com09 0 39
+display
+location 39
+unk02

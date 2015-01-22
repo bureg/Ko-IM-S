@@ -1,0 +1,329 @@
+com2c 0 47
+com2d 0 61
+com32 0 0
+com11 0 3
+sound 900
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ふぅ……。
+line2 <shift> # おつかれさまです、プロデューサー……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おつかれさま。ちょっと収録が長引いたね。
+line2 <shift> # さて、一旦、事務所に戻らないといけないな」
+display
+com11 0 3
+sound 901
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「はぁ……。そ、そうです、ね……、ふぅ。
+line2 <shift> # 事務所まで、まだまだかかりますか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、ちょっとな。道も混んでるし……。
+line2 <shift> # しかし、だいぶ疲れてる様子だなぁ、雪歩」
+com03 0 3
+choice1 <shift> # 無理せず休もうか
+line2
+com09 0 10
+com08
+choice2 <shift> # つらいけど頑張ろう
+line2
+com09 0 11
+com08
+choice3 <shift> # このくらいでへこたれるな
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「無理せず休もうか。
+line2 <shift> # 移動中は、少し休けいできると思う」
+display
+com11 0 3
+sound 902
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ありがとうございます。
+line2 <shift> # そうですね、ちょっと横になろうかな……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「車での移動も、当分かかるからね。
+line2 <shift> # そうするといい」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「つらいけど頑張ろう。
+line2 <shift> # いま休むと、テンション下がっちゃいそうだし」
+display
+com11 0 3
+sound 903
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「はい……、大丈夫ですっ。
+line2 <shift> # そうですね、半端に休むと、余計、疲れるかも」
+display
+com11 0 3
+sound 904
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「私、なるべく、起きていることにします」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わかった。でも移動も長いから、
+line2 <shift> # あまりしんどいようなら横になっていいよ」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「このくらいでへこたれるなよ」
+display
+com11 0 3
+sound 905
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「は、はい、すみません……。でも……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、確かに、つらいのもわかるけど。
+line2 <shift> # 今回の現場は、いろいろ大変だったし」
+display
+com11 0 3
+sound 906
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「私、またうまくできなくって、一度できちんと
+line2 <shift> # できなくて、それで長引いて……。ううっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まぁまぁ。最後は、ちゃんと無事に、
+line2 <shift> # 収録終わったし、いいじゃないか」
+display
+com11 0 3
+sound 907
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「はい、でも……、すみません」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もう少し、こなれてほしいなぁ。
+line2 <shift> # そうすれば、長引いて疲れることもなくなる」
+display
+com11 0 3
+sound 908
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「そうですね、努力します……」
+com09 0 29
+display
+location 29
+com11 0 3
+sound 909
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「それにしても、スケジュールは平気ですか？
+line2 <shift> # あとに影響がでちゃったら困るかも……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「事務所に着くまでわからないけど、
+line2 <shift> # やっぱり押し気味かなぁ」
+display
+com11 0 3
+sound 910
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「きっと予定、ズレちゃいますね……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、スタジオに泊り込みなんかにならなくて、
+line2 <shift> # ほんとよかったよなぁ」
+display
+com11 0 3
+sound 911
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ええっ！　そ、そんなことになることも、
+line2 <shift> # あるんですかっ！」
+display
+com11 0 3
+sound 912
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ううっ、もし、急に予定が変わって、
+line2 <shift> # 現場に泊まるようなことになったら……」
+display
+com11 0 3
+sound 913
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ちゃんと、その日のうちに家に帰らないと、
+line2 <shift> # 私、お父さんから、大目玉……、あうぅ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、だから、そんなことにならなくて、
+line2 <shift> # よかったよなぁ、と」
+display
+com11 0 3
+sound 914
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ううううっ……。どうしよう、どうしようっ！
+line2 <shift> # 私、仕事を続けられなくなっちゃうぅ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、あわてるなっ。落ち着け、雪歩っ」
+com03 0 3
+choice1 <shift> # 誰にも文句は言わせない
+line2
+com09 0 30
+com08
+choice2 <shift> # そのときはそのときだ
+line2
+com09 0 31
+com08
+choice3 <shift> # 仕方ない、今日は帰る？
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「誰にも文句は言わせないっ。だいたい、何を
+line2 <shift> # 理由に、仕事を続けられなくなるというんだ！」
+display
+com11 0 3
+sound 915
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「でも、でもっ……、うちは無闇に厳しくて、
+line2 <shift> # 外泊ルールとか、門限とか、そういうの」
+display
+com11 0 3
+sound 916
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「だからその、お父さんに怒られるし、事務所に
+line2 <shift> # 殴り込みもされて、そんなことになったら私っ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「門限が何だ。仕事で泊りが必要となれば、
+line2 <shift> # 俺が絶対に、お父さんを説得してみせるっ」
+display
+com11 0 3
+sound 917
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ほ、ほんとですかっ！　うわぁ、是非っ」
+display
+com11 0 3
+sound 918
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「お、お願いします！　ほんとに……。
+line2 <shift> # そのときは頼りにします、プロデューサー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ひとまず、今は心配するな。
+line2 <shift> # 泊まりには、ならないから。な？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （俺の説得で、雪歩は、なんとか冷静さを、
+line2 <shift> # 取り戻してくれたみたいだ……。よかった）
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なぁに、そのときはそのときだ！」
+display
+com11 0 3
+sound 919
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「そんな、無責任な！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「先のことはわからんっ。しかし、だいたい、
+line2 <shift> # 何を理由に仕事を続けられなくなるというんだ」
+display
+com11 0 3
+sound 920
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「でも、でもっ……、うちは無闇に厳しくて、
+line2 <shift> # 外泊ルールとか、門限とか、そういうの」
+display
+com11 0 3
+sound 921
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「だからその、お父さんに怒られるし、事務所に
+line2 <shift> # 殴り込みもされて、そんなことになったら私っ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなこと、させるものか。
+line2 <shift> # 俺が、なんとかしてやる」
+display
+com11 0 3
+sound 922
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「な、なんとかって……、あの、その、あぅ……。
+line2 <shift> # うちのお父さん、たぶん、おそろしいですよ」
+display
+com11 0 3
+sound 923
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ああでもっ、仕事で、もしものときは、
+line2 <shift> # プロデューサーが頼りです……。お願いします」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ひとまず今は心配するな、泊まりにならないし、
+line2 <shift> # 殴り込みなんかない。だから落ち着け。な？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ふぅ……。なんとか雪歩を、なだめることがで
+line2 <shift> # きたようだ……。しかし余程心配なんだろうな）
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「仕方ない、それなら今日は、
+line2 <shift> # もうこのまま、まっすぐ家に帰るか？」
+display
+com11 0 3
+sound 924
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「で、でもっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だって、あまり遅くなったら、
+line2 <shift> # 雪歩、気になるだろう？」
+display
+com11 0 3
+sound 925
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「いえ、その、だ、大丈夫です……。な、なんと
+line2 <shift> # か。それよりっ、ま、まだ残ってる仕事が！」
+display
+com11 0 3
+sound 926
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「これから事務所戻って、それから先の準備とか、
+line2 <shift> # まだ、いろいろしなきゃですし……」
+display
+com11 0 3
+sound 927
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「私、やらなきゃです。途中で投げ出して、
+line2 <shift> # 帰ったりなんて……、絶対、できないですっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、わかった。なら、雪歩の家には向かわず、
+line2 <shift> # これから事務所に行くぞ。いいな？」
+display
+com11 0 3
+sound 928
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ううっ……。でも、やっぱり、
+line2 <shift> # お父さんには、なんて言われるか……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなに心配するなって！
+line2 <shift> # いまは何も問題ない。だから、な？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （雪歩は落ち着かず、ふるえているみたいだ。
+line2 <shift> # もしもの時のことが、よっぽど不安なんだな）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （もっと落ち着かせてあげたいけど、今の俺には、
+line2 <shift> # これ以上の説得は、できそうにない……）
+com09 0 49
+display
+location 49
+unk02

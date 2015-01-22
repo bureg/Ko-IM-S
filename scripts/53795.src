@@ -1,0 +1,755 @@
+com2c 0 119
+com2d 0 103
+com2e 0 121
+com32 0 0
+com11 0 0
+sound 10000
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「兄ちゃん、合格したよ〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やったな、真美！　少し嫌な予感もしてたけど、
+line2 <shift> # さすがは真美というか、俺というか」
+display
+com11 0 0
+sound 10001
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「うん、これも、兄ちゃんのおかげだよー！」
+display
+com11 0 0
+sound 10002
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「くせつ３年……。
+line2 <shift> # とにかく、がんばって良かったねー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「３年も経ってないけどな！　まあ、それは、
+line2 <shift> # ともかく、こうした積み重ねが日々の……」
+display
+com11 0 0
+sound 10003
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「あ、そーだ！
+line2 <shift> # お姫ちんにも、報告してあげようっと！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、おい、まだ俺の話が途中だし、
+line2 <shift> # 貴音は打ち合わせに行っちゃっただろう？」
+display
+com11 0 0
+sound 10004
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「こっそり、紙ヒコーキか何かを、お姫ちんに、
+line2 <shift> # ぶつければ、こっちに気づかないかな！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どこの学園ドラマだ、それは。
+line2 <shift> # 貴音のことはあきらめて、帰る準備を……」
+display
+com11 0 0
+sound 10005
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「あ、いた！　お〜い、お姫ちん〜っ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ええっ！？　本当に？」
+display
+com11 0 0
+sound 10006
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「……先ほどの」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「貴音、黒井社長と、
+line2 <shift> # 打ち合わせだったんじゃないのか？」
+display
+com11 0 0
+sound 10007
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「つい先ほど、終了いたしました。
+line2 <shift> # 今は、黒井殿を待っているところです」
+display
+com11 0 0
+sound 10008
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「お姫ちん、久しぶり〜！
+line2 <shift> # ま……、亜美も受かったよー！」
+display
+com11 0 0
+sound 10009
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「そうですか。あなたも合格しましたか」
+display
+com11 0 0
+sound 10010
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「うん！　いつかお姫ちんにも、
+line2 <shift> # 勝ってみせるよー！」
+display
+com11 0 0
+sound 10011
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「そうは、参りません。
+line2 <shift> # 私は負けるわけには、いかないのです」
+display
+com11 0 0
+sound 10012
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「おお！　お姫ちん、それって、
+line2 <shift> # えっと……、『宣戦四国』だね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おいおい、それを言うなら……」
+com03 0 3
+choice1 <shift> # 宣戦布告だ！
+line2
+com09 0 10
+com08
+choice2 <shift> # バナナは、おやつに入りますかだ
+line2
+com09 0 11
+com08
+choice3 <shift> # 戦々恐々だ！
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「宣戦布告だ！」
+display
+com11 0 0
+sound 10013
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「おー！　兄ちゃん、真美……、じゃなくて、
+line2 <shift> # 亜美も、それを言いたかったんだよ！」
+display
+com11 0 0
+sound 10014
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「どうだ！　うちの兄ちゃんは、
+line2 <shift> # 難しい言葉も知ってんだぞー！」
+display
+com11 0 0
+sound 10015
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「そうですか。……それで、その話は、
+line2 <shift> # 私に何か関係しているのですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （つ、冷たい言い方だな……）
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「先生、バナナはおやつに入りますかだ！」
+display
+com11 0 0
+sound 10016
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「……で、バナナは、おやつに入んの？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……入る！」
+display
+com11 0 0
+sound 10017
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「……兄ちゃん、バナナネタが通じるのは、
+line2 <shift> # 昭和の話だよ？　フレッシュさが足りないよ〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「くっ、脱脂粉乳の話じゃないだけ、
+line2 <shift> # マシだろう！？」
+display
+com11 0 0
+sound 10018
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「あの……、その話は、
+line2 <shift> # 私に何か関係あるのでしょうか？」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「戦々恐々だ！」
+display
+com11 0 0
+sound 10019
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「せんせんきょーきょー？」
+display
+com11 0 0
+sound 10020
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「……あなたは、私が双海亜美を恐れていると、
+line2 <shift> # おっしゃりたいのですか！？」
+display
+com11 0 0
+sound 10021
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「ちがうよ！
+line2 <shift> # 真美は、挑戦状っぽい……、えっと……」
+display
+com11 0 0
+sound 10022
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「ああ、なるほど。『宣戦布告』と、
+line2 <shift> # おっしゃりたかったのですね？」
+display
+com11 0 0
+sound 10023
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「そう、それだよ！　お姫ちんは、頭もいいん
+line2 <shift> # だねー！　兄ちゃんも見習わなきゃだねっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うっ……）
+display
+com11 0 0
+sound 10024
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「あの……、それで、その話は、
+line2 <shift> # 私に何か関係あるのでしょうか？」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10025
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「あなたが合格したことは理解しました。
+line2 <shift> # もう、用件はありませんね？」
+display
+com11 0 0
+sound 10026
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「あ！　ちがう、ちがう！
+line2 <shift> # そんなこと、別に、どうでもいいんだよ！」
+display
+com11 0 0
+sound 10027
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「あのね、今度会ったら、こんなこと、
+line2 <shift> # ききたいなあって、質問を考えてきたんだ！」
+display
+com11 0 0
+sound 10028
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「質問……、それは、インタビューですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ま……、亜美。貴音が困ってるだろ？」
+display
+com11 0 0
+sound 10029
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「でも、でも〜」
+display
+com11 0 0
+sound 10030
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「事前の申し込みがない質問には、
+line2 <shift> # 一切答えるなと言われています」
+display
+com11 0 0
+sound 10031
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「え〜っ！　だって、ま……、亜美達、友達で
+line2 <shift> # しょ！　誰が、そんないじわるなこと言うの？」
+display
+com11 0 0
+sound 10032
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「黒井殿です」
+display
+com11 0 0
+sound 10033
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「あっ！　今、質問に答えたよー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （完全に、子どもの理屈だなあ）
+display
+com11 0 0
+sound 10034
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「……今のは失言でした。
+line2 <shift> # 今後は、一切お答えしません」
+display
+com11 0 0
+sound 10035
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「えーっ！　そんなのつまんないよー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （まいったな……。貴音も、いちいち返事を
+line2 <shift> # 返すから、なんだか、騒ぎになってきた……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （騒ぎを静めないと、黒井社長が戻ってくる。
+line2 <shift> # 何とかしないと……！）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あのさ、貴音……」
+com03 0 3
+choice1 <shift> # ここからは仕事抜きで頼む
+line2
+com09 0 20
+com08
+choice2 <shift> # 黒井社長の言ったことはウソだ
+line2
+com09 0 21
+com08
+choice3 <shift> # この俺が許す！
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ここからは仕事抜きで頼む」
+display
+com11 0 0
+sound 10036
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「仕事抜きで……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「君は人に道をきかれた時も、
+line2 <shift> # 答えないのかい？」
+display
+com11 0 0
+sound 10037
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「いえ……、その様なことはありません」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「インタビューと言われて、警戒したんだろうが、
+line2 <shift> # この子は、純粋に君と話したいだけなんだ」
+display
+com11 0 0
+sound 10038
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「うん、そうだよ！」
+display
+com11 0 0
+sound 10039
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「……わかりました。いいでしょう」
+display
+com11 0 0
+sound 10040
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「うわあ！　お姫ちん、話してくれるって！
+line2 <shift> # 兄ちゃん、ありがとう！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （彼女は、多少ズレているけど、
+line2 <shift> # 根は、いい子なんだな……）
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「黒井社長の言ったことはウソだ！」
+display
+com11 0 0
+sound 10041
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「ウソ……？
+line2 <shift> # 何の根拠があって、その様なことを？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、それはだな……、えっと」
+display
+com11 0 0
+sound 10042
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「あなた様の言葉が、虚偽ではないという証拠は、
+line2 <shift> # あるのですか！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、それは……、その……」
+display
+com11 0 0
+sound 10043
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「兄ちゃん、ウソはダメだよ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ま……、亜美……」
+display
+com11 0 0
+sound 10044
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「ごめんね、お姫ちん。怒らないで！
+line2 <shift> # 兄ちゃんの言ったことは、ウソかもだけど……」
+display
+com11 0 0
+sound 10045
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「でもね、お姫ちんと、おしゃべり
+line2 <shift> # したかったのは、ホントだよ！　信じて！」
+display
+com11 0 0
+sound 10046
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「……あなたの優しさに免じて、
+line2 <shift> # 怒りは解きましょう」
+display
+com11 0 0
+sound 10047
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「……それで、私に何の質問があるのですか？」
+display
+com11 0 0
+sound 10048
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「え……、それじゃあ！
+line2 <shift> # お話してくれるんだね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （……俺のフォローは失敗したけど、
+line2 <shift> # 真美の気持ちは通じたようだ）
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「この俺が許す！」
+display
+com11 0 0
+sound 10049
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「あなた様が、何を許すというのですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「インタビューに答えることをだ！」
+display
+com11 0 0
+sound 10050
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「あなた様に、それを許可する権限は、
+line2 <shift> # ないと思うのですが？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それは、その……、つまり……」
+display
+com11 0 0
+sound 10051
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「もしや……、私を、たばかったのですか！？」
+display
+com11 0 0
+sound 10052
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「兄ちゃん、無理矢理はダメだよ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ま……、亜美……」
+display
+com11 0 0
+sound 10053
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「聞かれたくないことを、
+line2 <shift> # 無理に聞かれるのは、やだもん……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、いいのか？
+line2 <shift> # 彼女と、ずっと話したかったんだろう？」
+display
+com11 0 0
+sound 10054
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「楽しくおしゃべりしたかったけど、
+line2 <shift> # 無理矢理は、やだよ……」
+display
+com11 0 0
+sound 10055
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「……それで？　時間はあまりありませんので、
+line2 <shift> # 手短に」
+display
+com11 0 0
+sound 10056
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「え……？　それじゃあ！
+line2 <shift> # お話してくれるんだね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （俺のフォローは失敗したけど、
+line2 <shift> # 真美の気持ちは通じたようだ）
+com09 0 29
+display
+location 29
+com11 0 0
+sound 10057
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「んじゃね！　えっと……、
+line2 <shift> # お姫ちんの好きな食べ物は！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……え？」
+display
+com11 0 0
+sound 10058
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「……あなたは、そのようなことを私に聞いて、
+line2 <shift> # どうしようというのですか？」
+display
+com11 0 0
+sound 10059
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「友達は、そういうどうでもいいことを、
+line2 <shift> # 話したりするもんなんだよ！」
+display
+com11 0 0
+sound 10060
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「……好きな食べ物は『らあめん』です」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「へ〜、なんだか意外だなあ」
+display
+com11 0 0
+sound 10061
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「うんうん！　超意外かも！　ラーメンなら、
+line2 <shift> # 真美達も、メッチャ好きだよー！」
+display
+com11 0 0
+sound 10062
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「真美達は、スープも全部飲みたいんだけど、
+line2 <shift> # ママが飲んじゃダメって言うんだー！」
+display
+com11 0 0
+sound 10063
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「私も、じいやに止められます。
+line2 <shift> # あれが、おいしいと思うのですが……」
+display
+com11 0 0
+sound 10064
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「うわー、じいやだって！　お姫ちん、ホントに
+line2 <shift> # お姫様なんだねー！　メッチャかっこいい！」
+display
+com11 0 0
+sound 10065
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「んじゃ、次！　えっと、次はねー……」
+display
+com11 0 0
+sound 10066
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「その前に、こちらからも、
+line2 <shift> # 質問してよろしいですか？」
+display
+com11 0 0
+sound 10067
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「んー、いいよ！　何、何ー！？」
+display
+com11 0 0
+sound 10068
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「先ほどから、あなたが口にしている、
+line2 <shift> # 『まみ』とは、誰のことでしょうか？」
+display
+com11 0 0
+sound 10069
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「……えっ！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （しまった！　話に夢中になって、
+line2 <shift> # 自分の名前を口走ってしまっていたのか……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （なんてことだ……！
+line2 <shift> # 俺が気づいてやるべきだったのに……！）
+display
+com11 0 0
+sound 10070
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「そ、それはね……、えっと！
+line2 <shift> # ままままま……！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ま、『マミー』のことだ！　イングリッシュで、
+line2 <shift> # お母さんのことだよな、ま……、亜美？」
+display
+com11 0 0
+sound 10071
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「そ、そ、そうだよ！　ねー、兄ちゃん！」
+display
+com11 0 0
+sound 10072
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「そうですか……？　では、次の質問を」
+display
+com11 0 0
+sound 10073
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「えっと……、きょ、今日は、
+line2 <shift> # この辺で、やめとこうかなー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そうだな！　次の予選でも、また会う
+line2 <shift> # かもしれないし、急がなくてもいいよな」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ここは、よけいなボロが出ないうちに、
+line2 <shift> # 引き上げた方が賢明だ……！）
+display
+com11 0 0
+sound 10074
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「そうですか。それでは、私もそろそろ、
+line2 <shift> # おいとまさせていただきます」
+display
+com11 0 0
+sound 10075
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「う、うん……。じゃあね、お姫ちん！」
+display
+com11 0 0
+sound 10076
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「はい。それでは、双海亜美に、
+line2 <shift> # よろしくお伝え下さい」
+display
+com11 0 0
+sound 10077
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「どうやら、あなた様方とは、
+line2 <shift> # 何か縁があるような気がいたします……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……えっ！？」
+display
+com11 0 0
+sound 10078
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「どうしたの、兄ちゃん……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「今、彼女……、亜美によろしくって、
+line2 <shift> # 言ってなかったか？」
+display
+com11 0 0
+sound 10079
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「うん。でも、それって、
+line2 <shift> # 次もよろしくってことじゃないの？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そうか……。
+line2 <shift> # ちょっと神経質になってるのかもな」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （今日は、危うく、亜美と真美のことが、
+line2 <shift> # バレるところだった）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （これからは、もっと
+line2 <shift> # 気をつけることにしよう……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、じゃあ事務所に戻るか。
+line2 <shift> # 亜美に結果を報告しないとな！」
+display
+com11 0 0
+sound 10080
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「うん！」
+com09 0 99
+display
+location 99
+unk02

@@ -1,0 +1,302 @@
+com2c 0 91
+com2d 0 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （春香が『ナチュラルアワード』という賞に、
+line2 <shift> # 選ばれた）
+display
+com11 0 1
+sound 700
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「なんか私、表彰されるそうですけど……、
+line2 <shift> # 突然のことで、なんて言ったらいいのかっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おめでとう、春香！」
+display
+com11 0 1
+sound 701
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あっ、ありがとうございます！
+line2 <shift> # えへへへ……、やっぱり嬉しいですね♪」
+display
+com11 0 1
+sound 702
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「う〜ん……、でも、いったいどんな賞なの
+line2 <shift> # かなぁ？　ナチュラルアワード、って」
+com03 0 3
+choice1 <shift> # 『自然』の賞
+line2
+com09 0 10
+com08
+choice2 <shift> # 『素朴』の賞
+line2
+com09 0 11
+com08
+choice3 <shift> # 『天然』の賞
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そりゃもちろん、『自然』の賞だろう」
+display
+com11 0 1
+sound 703
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「自然の賞……？　言葉の意味は、
+line2 <shift> # 確かに、そうみたいですけどぉ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「飾らないムリしない気取らない、春香の、
+line2 <shift> # そういうところが評価されたんじゃないかな」
+display
+com11 0 1
+sound 704
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そ、そかな？」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「『素朴』の賞じゃないかな」
+display
+com11 0 1
+sound 705
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「素朴、ですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「アイドルなのに、なんだか素朴で親しみやすい
+line2 <shift> # ところが評価されたんじゃないか、春香」
+display
+com11 0 1
+sound 706
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「うーん、そうですか？
+line2 <shift> # 素朴、素朴、うーん……」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「『天然』な賞だと思うよ」
+display
+com11 0 1
+sound 707
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい、天然！　まさにナチュラルですね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「春香が天然ぼけだから……、
+line2 <shift> # という意味かもしれないなぁ」
+display
+com11 0 1
+sound 708
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「えっ！？　そ、そうなんですか？
+line2 <shift> # ううっ、プロデューサーさん、ひどい……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お、俺が悪いわけじゃないぞ！　まぁ、
+line2 <shift> # そういう賞かもって、ちょっと思っただけだよ」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （それから……）
+display
+com11 0 1
+sound 709
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「スタッフさんに、説明聞いてみました。
+line2 <shift> # 自然体な人に、贈られる賞みたいです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「自然体……。なるほど、そうかぁ」
+display
+com11 0 1
+sound 710
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「えっ！　なるほどって……、ううっ、私、
+line2 <shift> # 自分だとピンとこないんですよぉ」
+display
+com11 0 1
+sound 711
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「私のどういうところが、自然体でナチュラルな
+line2 <shift> # んだろ？　プロデューサーさん、わかります？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そりゃあ、もちろん……」
+com0e 0 5
+com44
+com4f 0 2
+com09 0 30
+com45
+com44
+com4f 0 2
+com09 0 31
+com45
+com44
+com4f 0 1
+com09 0 32
+com45
+com44
+com09 0 33
+com45
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「顔、かな？」
+display
+com11 0 1
+sound 716
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「顔、ですか？
+line2 <shift> # うーん、どういうことなんだろ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「春香は濃い化粧で飾ったりしないから、自然で
+line2 <shift> # 好感持てる、いい顔だってことじゃないかなぁ」
+display
+com11 0 1
+sound 717
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「えへへ、そうかなぁ……♪
+line2 <shift> # そう言われると、ちょっと照れますね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「見ている人を良い気分にさせる、つまりそれが、
+line2 <shift> # アイドルとして、いい資質があるってことさ」
+display
+com11 0 1
+sound 718
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「私、派手さはないけど、みんなに喜んで
+line2 <shift> # もらえるなら、嬉しいです！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うん、悪くない感じだ。
+line2 <shift> # 春香は笑顔で、授賞式に臨んでくれそうだな）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ずばり、ここだ！」
+display
+com11 0 1
+sound 719
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「えっ！　む、胸ですかっ！？
+line2 <shift> # わ、私、そんなに胸に自信はっ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「違う違う、ハートだよ。ウソついたりしない、
+line2 <shift> # 素直な春香の気持ちが、ナチュラルだ」
+display
+com11 0 1
+sound 720
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そ、そうですか？　そう言われると、
+line2 <shift> # なんか嬉しいような、恥ずかしいような……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「自信持っていいと思うよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うん、悪くない感じだ。
+line2 <shift> # 春香は笑顔で授賞式に臨んでくれそうだな）
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「髪かな？」
+display
+com11 0 1
+sound 712
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「髪ですか？　特別なことはしてなくて、
+line2 <shift> # ふつうに手入れしてるだけなんだけどなぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、だからいいんじゃないか？　変に髪
+line2 <shift> # いじったり、格好つけたりしてないのが」
+display
+com11 0 1
+sound 713
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「んー、そうかな？　確かに髪は、
+line2 <shift> # ちょっと自信ありますけどぉ……」
+display
+com11 0 1
+sound 714
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「たとえＴＶとかステージに出てても、
+line2 <shift> # 地味だ、って意味だとすると……」
+display
+com11 0 1
+sound 715
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あはは、なんか受賞がちょっぴり、
+line2 <shift> # 複雑な気持ちかもですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （春香は、少し悩んでしまったみたいだ。
+line2 <shift> # 苦笑した顔のまま、表彰に行ってしまった）
+com09 0 49
+display
+location 33
+com11 0 1
+sound 721
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ど、どうしたんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、特に、どことは決めづらいかなぁ。
+line2 <shift> # 春香の全部がナチュラルなんじゃないか？」
+display
+com11 0 1
+sound 722
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「は、はぁ……、そうですかぁ」
+display
+com11 0 1
+sound 723
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「悪い気はしないけど……、でも、受賞の理由が
+line2 <shift> # それだと、なんだかよくわかんないですよぉ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、だから、雰囲気だよ、雰囲気！
+line2 <shift> # 全部の雰囲気が、なんとなく……」
+display
+com11 0 1
+sound 724
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そんな、適当なぁ！」
+display
+com11 0 1
+sound 725
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「『なんとなく』で決まった賞だとすると、
+line2 <shift> # はたして喜んでいいのかどうか……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「むむ、確かになぁ」
+display
+com11 0 1
+sound 726
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「うーん、なんだか困っちゃいますよ？　私」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （春香は困惑顔で首をかしげながら、
+line2 <shift> # 表彰に行ってしまった……）
+com09 0 49
+display
+location 49
+unk02

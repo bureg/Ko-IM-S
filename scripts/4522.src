@@ -1,0 +1,327 @@
+com2c 0 24
+com2d 0 11
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （雑誌社企画でのインタビューを終えて、
+line2 <shift> # 事務所に春香やスタッフ達と帰還した）
+display
+com11 0 2
+sound 600
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「おつかれさまでしたー♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おつかれさま。
+line2 <shift> # どうだったかな、今回の取材は？」
+display
+com11 0 2
+sound 601
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「うーん……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あれ、不満があったのか？　大手の取材だし、
+line2 <shift> # 記者の対応も悪くなかったと思うけど」
+display
+com11 0 2
+sound 602
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、いえ。悪くはなかったし、
+line2 <shift> # 不満というほどのこともないんですけど……」
+display
+com11 0 2
+sound 603
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ほんというと、ちょっとだけ、
+line2 <shift> # つまらなかった……、かも？」
+com03 0 2
+choice1 <shift> # どうして？
+com09 0 10
+com08
+choice2 <shift> # そう言うなよ
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「つまらなかった？　どうして？」
+display
+com11 0 2
+sound 604
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「型通りの取材というか、なんというか」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「決まりきった、お約束の質問が、
+line2 <shift> # 多かったってことかな？」
+display
+com11 0 2
+sound 605
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そうですねぇ。いつも、
+line2 <shift> # 同じような内容の質問、される気がするんです」
+display
+com11 0 2
+sound 606
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「『新曲の意気込みは？』とか、『最近の
+line2 <shift> # 趣味は？』とか、『次の目標は？』とか」
+display
+com11 0 2
+sound 607
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「いつもそうで……。だから記者さん、誰にでも
+line2 <shift> # 毎回、同じことをきいてるんじゃないかって」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん……。いきなり変なことをきかれるより
+line2 <shift> # はいいけど、確かにちょっとつまらないかもね」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そう言うなよ。確かに段取り良すぎて、
+line2 <shift> # 多少、退屈だったかもしれないけどさ」
+display
+com11 0 2
+sound 608
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「うーん、退屈ってわけじゃなくって……、
+line2 <shift> # そうじゃなくって、私、思ったんです」
+display
+com11 0 2
+sound 609
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「取材のときの、『いつもの質問』って感じの
+line2 <shift> # 質問、あるじゃないですか」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「『新曲の意気込みは？』とか、『最近の
+line2 <shift> # 趣味は？』とか、『次の目標は？』とかかな」
+display
+com11 0 2
+sound 610
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そう、それそれ。なんだか、記者さんに、
+line2 <shift> # アンケートを読み上げられてるみたいで」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「しかし、取材って、往々にして、
+line2 <shift> # そういうもんじゃないのかなぁ」
+display
+com11 0 2
+sound 611
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「もちろん、いきなり変な質問されても、
+line2 <shift> # 困るけど……」
+display
+com11 0 2
+sound 612
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「いつも同じような質問されるのも、
+line2 <shift> # つまらないと思いません？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そう言われてみると、確かにね」
+com09 0 29
+display
+location 29
+com11 0 2
+sound 613
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あー、たまにはなんか、
+line2 <shift> # もっと思い切った質問に答えてみたいなぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「思い切った……、質問？」
+display
+com11 0 2
+sound 614
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「質問というか、
+line2 <shift> # そういう話題の取材を受けたいというか……」
+display
+com11 0 2
+sound 615
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「女性週刊誌に、どーんと載っちゃうような、
+line2 <shift> # 爆弾発言しちゃいたいんですよ、私！」
+com03 0 3
+choice1 <shift> # 恋人発覚とか？
+line2
+com09 0 30
+com08
+choice2 <shift> # スタッフとの不仲とか？
+line2
+com09 0 31
+com08
+choice3 <shift> # それは……、やめとこうよ
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「恋人発覚とかかな？　恋人のウワサを、
+line2 <shift> # 根掘り葉掘り追求されたいってことか」
+display
+com11 0 2
+sound 616
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ははは、いいですねー♪
+line2 <shift> # それ、面白そうですっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんか……、意味深だなぁ。
+line2 <shift> # 追求されたがってるように見えるぞ」
+display
+com11 0 2
+sound 617
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「え、そ、そうですか？
+line2 <shift> # 別に深い意味は、ないですよぉ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「しかしまぁ、芸能スキャンダルの、
+line2 <shift> # 花形と言えるからね、恋人ネタは」
+display
+com11 0 2
+sound 618
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「でしょう？　せっかくウワサになるならっ！
+line2 <shift> # どきどきするような話が、いいですよね？」
+display
+com11 0 2
+sound 619
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「私も、ちょっとはウワサになってみたいかなぁ
+line2 <shift> # 〜……、なんて、思ってたりしますっ♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……ってことは誰か、
+line2 <shift> # ウワサになりたい相手がいるのかな、春香？」
+display
+com11 0 2
+sound 620
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ふふふっ、それは秘密です♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （少し気になるけど……、ともあれ、取材への
+line2 <shift> # 春香の不満は、紛れたようで、よかったな）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「事務所スタッフとの不仲説とかかな。
+line2 <shift> # 笑顔の裏に、どろどろした関係が！　みたいな」
+display
+com11 0 2
+sound 621
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あっ、そういうトラブルっぽいのが、たまに
+line2 <shift> # あったほうが、盛り上がるかもしれませんね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「も、盛り上がるって……。おいおい」
+display
+com11 0 2
+sound 622
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、えと……、雑誌で話題になって、
+line2 <shift> # 目立つニュースになるかなぁって、思いますっ」
+display
+com11 0 2
+sound 623
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「でも私達いつも仲いいし、みんなとほんとに
+line2 <shift> # ケンカしたりするのは、私、いやですけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「確かに、目立ったケンカとか、
+line2 <shift> # みんなしないよね」
+display
+com11 0 2
+sound 624
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「仲がいいのが、よいところ♪　そうだ！
+line2 <shift> # このチームワークをもっとアピールすれば……」
+display
+com11 0 2
+sound 625
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「雑誌の記事も、はなやかになるかなぁ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （やれやれ……。ともかく、取材への、
+line2 <shift> # 春香の不満は、少しは紛れたようでよかった）
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、それは……、やめとこうよ！
+line2 <shift> # そもそも、春香らしくないよ」
+display
+com11 0 2
+sound 626
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ええっ、そうですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「春香が『爆弾発言！』とか言っても、
+line2 <shift> # あんまり似合わないって感じだ」
+display
+com11 0 2
+sound 627
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「みんなに笑って流されるかも？」
+display
+com11 0 2
+sound 628
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「それとも、みんな深刻に聞きすぎちゃって、
+line2 <shift> # 暗くなっちゃうかな……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うん、そうそう。俺もそんな気がするんだ。
+line2 <shift> # だから、あまりうかつなことは言わないほうが」
+display
+com11 0 2
+sound 629
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そうかぁ……。うーん、そうかも」
+display
+com11 0 2
+sound 630
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「でも……、私も、たまにはスキャンダルに、
+line2 <shift> # なってみたいですよ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「な、なってみたいって言われてもなぁ。
+line2 <shift> # 変なウワサ立つよりは、今のままのほうが……」
+display
+com11 0 2
+sound 631
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そうだ！　一緒にウワサになりましょうよ、
+line2 <shift> # プロデューサーさんっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ま、待て春香、落ち着け早まるな。
+line2 <shift> # 言葉の意味を考えて言ってくれ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （気持ちは、少しわからないでもないけど……。
+line2 <shift> # しかし、こればかりは仕方ないよなぁ……）
+com09 0 49
+display
+location 49
+unk02

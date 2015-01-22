@@ -1,0 +1,393 @@
+com2c 0 43
+com2d 0 23
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （作曲家へのあいさつも兼ね、スタジオへ歌の仮
+line2 <shift> # 収録にやってきた。アイドルとしての初仕事だ）
+display
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「こ、こ、これで、テストはおしまいね。
+line2 <shift> # いよいよ、本番……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おい、伊織。ボロボロのデキだったぞ。
+line2 <shift> # このままで、ホントに収録する気かっ？」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「しかたないでしょ〜！　こんな衣装着て、
+line2 <shift> # 歌ったことなんて、ないんだから〜〜〜」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「マイクの前に立つとね、身体なんてカチンコチ
+line2 <shift> # ンになるのよ。このツラさ、アンタにわかる？」
+com03 0 3
+choice1 <shift> # わからないよ。けど……
+line2
+com09 0 10
+com08
+choice2 <shift> # わかるよ
+com09 0 11
+com08
+choice3 <shift> # わかりたくもないね
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わからないよ。けど……、やるしかないだろ？
+line2 <shift> # 初仕事をクリアしないと、先には進めないぞ」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わかるよ」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ウソつくんじゃないわよー！　見てるのと、
+line2 <shift> # 実際にやるのじゃ、大違いなんだからーっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「う、わ、悪かったよ。けど、この初仕事を
+line2 <shift> # クリアしないと、先に進めないぞ？」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わかりたくもないね。
+line2 <shift> # 俺の仕事は、あくまでもプロデュースだから」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「なによ〜、その投げやりな態度っ！
+line2 <shift> # カッコつけてると、なぐるわよっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うわ、悪かったよ。けど、伊織自身が、
+line2 <shift> # どうにかするしかないのは、確かだろ？」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「うう、そうよね……。じゃあ、本番、
+line2 <shift> # 行ってくるわ。ううう〜〜〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おいおい、すごい顔色だぞ」
+com03 0 2
+choice1 <shift> # 大丈夫か？
+com09 0 20
+com08
+choice2 <shift> # 吐くなら、トイレへ！
+line2
+com09 0 21
+com08
+com07
+com09 0 21
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「大丈夫か？」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「これが、大丈夫に見えるワケ？
+line2 <shift> # あ、足が震えて。ううう〜〜〜」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「吐くなら、トイレへ！」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「吐かないわよ〜。余計なこと言って、集中
+line2 <shift> # 乱さないでよね。んもーっ！」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 10008
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「アンタ、私のプロデューサーでしょ？　こう
+line2 <shift> # いう時こそ、すこしは役に立ちなさいよ！」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「たとえば……、そうね。肩もんで、緊張を
+line2 <shift> # 解きほぐすぐらい、したら、どーおっ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わかったよ。それじゃ、もんでやるから、動く
+line2 <shift> # なよ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （肩もみか。うまく、できるかな）
+com0e 0 112
+com44
+com09 0 30
+com45
+com44
+com09 0 31
+com45
+com44
+com09 0 32
+com45
+com44
+com09 0 33
+com45
+com44
+com09 0 34
+com45
+com44
+com09 0 35
+com45
+com44
+com09 0 36
+com45
+com44
+com09 0 37
+com45
+com44
+com09 0 38
+com45
+com44
+com09 0 39
+com45
+display
+location 30
+com11 0 0
+sound 10010
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「んー、いい気持ち〜。もう、いいわ♪
+line2 <shift> # アンタ、意外に肩もむの、うまいじゃない」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「こんなもんで、満足したか？　それじゃ、
+line2 <shift> # がんばって、歌っておいで！」
+com09 0 40
+display
+location 40
+com22 0 30
+com21 0 30
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ふー、やったわー！　今度は、ちゃんと
+line2 <shift> # 歌い切ったわよ！　フフン」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おつかれさま。肩もんでやったのが、効いた
+line2 <shift> # かな？」
+display
+com11 0 0
+sound 10012
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そーね。さっきよりは力が抜けて、いい感じで、
+line2 <shift> # 歌えたわ。それじゃ、事務所に帰るわよ♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （絶妙なもみ具合で、見事、伊織の力を
+line2 <shift> # 引き出した！　初仕事、大成功だな！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……その後、ゴキゲンの伊織を連れて、
+line2 <shift> # 事務所へと引き返した）
+com09 0 49
+display
+location 31
+com11 0 0
+sound 10013
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「いったいわねー！　誰が、肩叩けって言った
+line2 <shift> # のよ〜？　私は、もんでって、言ったの！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「う、ごめん。もっと、慎重にやれば、
+line2 <shift> # よかったか。それじゃ、もう１回！」
+com09 0 41
+display
+location 32
+com11 0 0
+sound 10014
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ちょっとー！　どうして、髪なんて、さわる
+line2 <shift> # のよっ。アンタには、そこが肩に見えるワケ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「う、ごめん。つい、さわってみたくなって。
+line2 <shift> # つぎこそ、ちゃんと、やるから……」
+com09 0 41
+display
+location 33
+com11 0 0
+sound 10015
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「イタッ！　ちょっと、どうして、目なんて、
+line2 <shift> # つつくのよ？　私は、肩もんでって言ったの〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「う、ごめん。ちょっと、手がすべって……。
+line2 <shift> # 今度こそ、ちゃんとやるから……」
+com09 0 41
+display
+location 34
+com11 0 0
+sound 10016
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ちょっと〜、どうして鼻なんて、さわるのよ〜。
+line2 <shift> # アンタには、そこが肩に見えるワケ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、ごめん。つい、さわってみたくなって。
+line2 <shift> # つぎこそ、ちゃんとやるよ」
+com09 0 41
+display
+location 35
+com11 0 0
+sound 10017
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ちょ、ちょっと〜！　誰がくちびるなんて、
+line2 <shift> # 触っていいって、言ったのよ〜。肩よ、肩！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「う、ご、ごめん。試しに触ってみたら、どう
+line2 <shift> # なるのかなって。つぎは、ちゃんとやるよ」
+com09 0 41
+display
+location 36
+com11 0 0
+sound 10018
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ちょっと〜！　誰が、顔のマッサージ頼んだ
+line2 <shift> # のよ？　私は、肩もんでって、言ったの！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ご、ごめん。こういうのも、いいかなって
+line2 <shift> # 思ったんだけど。つぎこそ、ちゃんとやるよ」
+com09 0 41
+display
+location 37
+com11 0 0
+sound 10019
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「え……。そ、そこは……肩じゃないでしょ〜。
+line2 <shift> # んも〜、なにすんのよ〜！！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うわ、ごめん！　とんでもないところ、
+line2 <shift> # 触って……。つぎは、ちゃんとやるから！」
+com09 0 41
+display
+location 41
+com11 0 0
+sound 10020
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「もういいわよっ！　アンタに頼むと、なにされ
+line2 <shift> # るかわからないし！　……歌ってくるわ、フン」
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 10021
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「う〜、また失敗……。アンタが、ヘンな事する
+line2 <shift> # から、完全に調子狂っちゃったじゃないの〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「悪かったよ。けど、俺のせいばかりじゃない
+line2 <shift> # だろ？　元から、うまくいかなかったんだし」
+display
+com11 0 0
+sound 10022
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「うるさーい！　全部、アンタのせいよ！
+line2 <shift> # この変態っ、ド変態っ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （肩もみ失敗したら、思い切り、ののしられて
+line2 <shift> # しまった。これは収録、時間がかかりそうだな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （初仕事終了後、完全にヘソを曲げてしまった
+line2 <shift> # 伊織に、何度もわびながら、事務所へと戻った）
+com09 0 49
+display
+location 38
+com11 0 0
+sound 10023
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ちょっと〜！　なに、関係ないとこ、触ってる
+line2 <shift> # のよ〜。私は、肩もんでって、言ったの！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「う、ごめん。つい、寄り道を……。
+line2 <shift> # つぎこそ、ちゃんとやるから」
+com09 0 42
+display
+location 39
+com11 0 0
+sound 10024
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ちょっと〜、いつまで待たせる気？
+line2 <shift> # アンタ、肩のひとつも、もめないワケっ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「う、ごめん。つい、ボーッとしちゃって。
+line2 <shift> # いますぐ、やるよ」
+com09 0 42
+display
+location 42
+com11 0 0
+sound 10025
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「もういいわっ。見てらっしゃい。アンタの
+line2 <shift> # 助けなんかなくても、ちゃんと歌えるんだから」
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 10026
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「また、失敗……。う〜っ、きょ、今日は、この
+line2 <shift> # 辺で許しておいてあげようかしら。私、帰る！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おい、こら、待て！
+line2 <shift> # まだＯＫが出てないだろ」
+display
+com11 0 0
+sound 10027
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「うう〜、うまくいかないのは、アンタがちゃん
+line2 <shift> # と、フォローしないからでしょ〜。も〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （肩もみせず、放っておいたのが原因か、伊織は
+line2 <shift> # ＮＧを連発。収録には、長い時間がかかった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……初仕事終了後、ゲンナリした顔の伊織を、
+line2 <shift> # 元気づけながら、事務所へと戻った」
+com09 0 49
+display
+location 49
+unk02

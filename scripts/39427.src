@@ -1,0 +1,306 @@
+com2c 0 24
+com2d 0 71
+com32 0 0
+com11 0 4
+sound 500
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「プロデューサー、私、スタッフから話、
+line2 <shift> # 聞いたんですけど……」
+display
+com11 0 4
+sound 501
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「新創刊の雑誌に、記事が載るんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、もう雑誌のサンプルが来たよ。
+line2 <shift> # けっこう記者も熱心に取材してくれてた」
+display
+com11 0 4
+sound 502
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「もう記事になったんだ……。
+line2 <shift> # ああ、なんか悔しいな」
+display
+com11 0 4
+sound 503
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ほら、スケジュールが合わなくて、
+line2 <shift> # 記者さんに直接取材してもらえなかったから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そのぶん、俺が代わりに、
+line2 <shift> # いろいろ話しておいたけどね」
+display
+com11 0 4
+sound 504
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「な〜に言ってるんですか。
+line2 <shift> # それが悔しいんですってば！」
+com03 0 2
+choice1 <shift> # 気持ちはわかる
+line2
+com09 0 10
+com08
+choice2 <shift> # なんで悔しがるんだ
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まぁ、悔しいという気持ちは、
+line2 <shift> # 多少わかるけど」
+display
+com11 0 4
+sound 505
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ええ、せっかく記事になる機会なんだし……」
+display
+com11 0 4
+sound 506
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「自分で、いろいろ考えてること話したり、
+line2 <shift> # 質問に答えたり、したかったなぁ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「また、いずれ、機会はあるさ」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なんでそんなに悔しがるんだ？」
+display
+com11 0 4
+sound 507
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「だ、だって、せっかく記事になるんだし、
+line2 <shift> # アピールチャンスだったし……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いやだから、俺が代わりに」
+display
+com11 0 4
+sound 508
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「自分で言いたかったんですよ。
+line2 <shift> # 記者さんに、いろいろと……」
+display
+com11 0 4
+sound 509
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「その、別に、プロデューサーを信用してない
+line2 <shift> # わけではなくて……、自分の言葉で、ってこと」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まぁ、それはそうだろうけど、
+line2 <shift> # 今回は、仕方ないだろう」
+com09 0 29
+display
+location 29
+com11 0 4
+sound 510
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「さて、ところで、肝心のサンプルは？
+line2 <shift> # 見本誌、見せて下さいよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。これだよ」
+display
+com11 0 4
+sound 511
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「どれどれ……。わ、なんだぁ。
+line2 <shift> # 記事、小さいじゃないですか！」
+display
+com11 0 4
+sound 512
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「熱心な取材、なんて言うから、
+line2 <shift> # 私、期待しちゃったのになぁ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それでも、１ページ丸々だぞ。その雑誌の
+line2 <shift> # 記事の中じゃ、随分、大きいと思うけどな」
+display
+com11 0 4
+sound 513
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そうですけどぉ……。あれっ？
+line2 <shift> # 意外と、記者さん、詳しいみたいですね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「けっこう細かい記事だろ？　以前の曲とか、
+line2 <shift> # 昔の小さいライブのことも、ちゃんと載ってる」
+display
+com11 0 4
+sound 514
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「記者さん、マメなんだなぁ……。
+line2 <shift> # ああ、でもっ！」
+display
+com11 0 4
+sound 515
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「どうせこんなにいい記事なら、もっとスペース
+line2 <shift> # 取ってくれればっ！　ああ、余計、悔しいっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おいおい。なんだか律子、さっきから、
+line2 <shift> # ほめたりけなしたりしているなぁ」
+display
+com11 0 4
+sound 516
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「だ、だってぇ……」
+com03 0 3
+choice1 <shift> # 素直に喜ぼうよ
+line2
+com09 0 30
+com08
+choice2 <shift> # もっと上を目指したいね
+line2
+com09 0 31
+com08
+choice3 <shift> # 不満なのか？
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もっと素直に喜ぼうよ」
+display
+com11 0 4
+sound 517
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「う、うるさいなぁ！　う〜ん、でもまぁ、
+line2 <shift> # 今回は、こんなもんでいいか……」
+display
+com11 0 4
+sound 518
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「これはこれでよし！　許すっ！
+line2 <shift> # さらなる記事の充実は、次に期待ってことでっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうとも、これからさ」
+display
+com11 0 4
+sound 519
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「よ〜し、特集ページ取らせる勢いで！
+line2 <shift> # ばっちり頑張っちゃうぞっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （どうやら、律子のやる気に火がついたようだな。
+line2 <shift> # 目標ができて、なによりだ……）
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もっと上を目指したいね」
+display
+com11 0 4
+sound 520
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そうそう！　この記事、これはこれで、
+line2 <shift> # とってもいい内容ですけど……」
+display
+com11 0 4
+sound 521
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「もっとメジャーな雑誌に、堂々載って！
+line2 <shift> # もっと大勢に、注目されたいですよ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わかるぞ……。でも、まずは、
+line2 <shift> # この１ページを、喜ぼうじゃないか」
+display
+com11 0 4
+sound 522
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「べ、別に、いやだなんて、
+line2 <shift> # 言ってないじゃないですかぁ」
+display
+com11 0 4
+sound 523
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「この記事もなぁ、いい記事なんだけどなぁ。
+line2 <shift> # 悔しいなぁ。売れてくれるといいなぁ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （なんだかんだで、律子は記事に見入っている。
+line2 <shift> # 気に入ったみたいだ）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （でも、律子の目標は、さらに高い所にある……。
+line2 <shift> # ムリせず確実に、頑張って欲しいところだ）
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「不満なのか？　そんなに……」
+display
+com11 0 4
+sound 524
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「不満ってほどじゃないですけど、
+line2 <shift> # 微妙に物足りないというか」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なんだ、ぜいたくだなぁ」
+display
+com11 0 4
+sound 529
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「別に、ぜいたくじゃないですよ！
+line2 <shift> # 目標は高く！　アイドルとして当然ですっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いい内容の記事じゃないか。
+line2 <shift> # 律子だって、悪いとは思ってないだろう？」
+display
+com11 0 4
+sound 526
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「で、でも、この程度の雑誌の記事じゃ、満足
+line2 <shift> # しないっていうか、相手にならないっていうか」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そう、邪険にしなくても、いいじゃないか。
+line2 <shift> # 記者さんにも、失礼だぞ？」
+display
+com11 0 4
+sound 527
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そ、そんなつもりじゃないですけど……。
+line2 <shift> # ああ、もう！　うまく言えないなぁ！」
+display
+com11 0 4
+sound 528
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「とにかく、どんなに嬉しくても私、
+line2 <shift> # 不満なんですよ！　じゃ、失礼しますっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああっと、律子？　っと……、行ってしまった。
+line2 <shift> # いろいろ複雑だなぁ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （内心では、記事のことを喜びつつも、律子は、
+line2 <shift> # 心に抱いている理想が高すぎるのかもしれない）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （もっと素直に、ムリなくやって欲しいんだけど
+line2 <shift> # ……。俺が、上手く誘導しないといけないかな）
+com09 0 49
+display
+location 49
+unk02

@@ -1,0 +1,294 @@
+com2c 0 91
+com2d 0 51
+com32 0 0
+com11 0 2
+sound 700
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「アルバムの発表会見、こんな豪華なホールで
+line2 <shift> # やるんですね。どこに座ったら？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「な、長イスの真ん中に、決まってるじゃない
+line2 <shift> # ですか。主役なんですから」
+display
+com11 0 2
+sound 701
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、あそこですか。えらそうで、なんだか、
+line2 <shift> # 気がひけてしまいますね」
+com03 0 3
+choice1 <shift> # 決まりですから
+line2
+com09 0 10
+com08
+choice2 <shift> # 堂々としていてください
+line2
+com09 0 11
+com08
+choice3 <shift> # えらいんです！
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「決まりですから」
+display
+com11 0 2
+sound 702
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「なら、しかたないですね。ワガママ言って、
+line2 <shift> # 困らせては、いけませんし」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「堂々としていてください」
+display
+com11 0 2
+sound 703
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「うまくできるかしら？　私、場に合わせた
+line2 <shift> # お芝居とか、あまり上手では」
+display
+com11 0 2
+sound 704
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「けれど、そうも言っていられませんね。
+line2 <shift> # 精一杯、胸をはらないと」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「えらいんです！」
+display
+com11 0 2
+sound 705
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「え、そんなー。私、えらくないです。力強く
+line2 <shift> # 言われても、ちがうものはちがいますし」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、売れてるアイドルは、社会的に
+line2 <shift> # えらいんですけどね」
+display
+com11 0 2
+sound 706
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そう見えるよう、努力はしてみます。
+line2 <shift> # けれど、どこまで、ごまかせるか……」
+com09 0 29
+display
+location 29
+com11 0 2
+sound 707
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「えーと、会見の進行表は、あれですね。まずは
+line2 <shift> # 司会の人のごあいさつ。それからお祝いの……」
+display
+com11 0 2
+sound 708
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ふふっ、なんか学校の卒業式みたいですね。
+line2 <shift> # これで校歌斉唱とかあれば、カンペキです」
+com03 0 3
+choice1 <shift> # 校歌、おぼえてます？
+line2
+com09 0 30
+com08
+choice2 <shift> # プログラムに、入れます？
+line2
+com09 0 31
+com08
+choice3 <shift> # 遠い日の思い出、ですね
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「校歌、おぼえてます？」
+display
+com11 0 2
+sound 709
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「もちろんです。私、けっこう好きでしたので。
+line2 <shift> # 今度、こっそり歌って、聞かせてあげますね」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「プログラムに、入れます？」
+display
+com11 0 2
+sound 710
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「えっ？　い、いいです。さすがにこんな場所で
+line2 <shift> # 歌うのは、恥ずかしいですし……」
+display
+com11 0 2
+sound 711
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「それに、失敗してしまったら、お世話になった
+line2 <shift> # 先生方に失礼ですよね。や、やめておきます」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「遠い日の思い出、ですね」
+display
+com11 0 2
+sound 712
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そんなに、昔のことでも……。今からまだ、
+line2 <shift> # ３年ぐらい前のことですし」
+display
+com11 0 2
+sound 713
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、でも、そんなにたってしまったんですね。
+line2 <shift> # 最近、高校時代の友達とは、忙しくて、あまり」
+com09 0 49
+display
+location 49
+com11 0 2
+sound 714
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「んー、私のあいさつは、会見の中頃ですね。
+line2 <shift> # 一応、家で何を言うか、考えてきたのですけど」
+display
+com11 0 2
+sound 715
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あまり普通なのもつまりませんよね？　どんな
+line2 <shift> # ことを中心に話せば、よろこばれるでしょう？」
+com03 0 3
+choice1 <shift> # ファンへのメッセージ、中心で
+line2
+com09 0 50
+com08
+choice2 <shift> # 歌の解説、中心で
+line2
+com09 0 51
+com08
+choice3 <shift> # こぼれ話、中心で
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 2
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ファンへのメッセージ、中心で」
+display
+com11 0 2
+sound 716
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、はい、わかりました。派手さはなくても、
+line2 <shift> # それが、一番いいかもしれませんね」
+display
+com20 0 30
+com11 0 2
+sound 717
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「このアルバムは、寝る前とかに、ゆったりした
+line2 <shift> # 気分で聞いてもらえると、うれしいです」
+display
+com11 0 2
+sound 718
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、ね、値段高いなあって思ったら、言って
+line2 <shift> # くださいね。次から、考えますので」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ナチュラルなコメントに、自然と笑いが。
+line2 <shift> # あずささんの魅力、存分に出せたみたいだな）
+com09 0 69
+display
+location 51
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「歌の解説、中心で」
+display
+com11 0 2
+sound 719
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「やはり専門的な方が、いいでしょうか。
+line2 <shift> # 大きな会見ですから、たしかにその方が……」
+display
+com11 0 2
+sound 720
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「どこまで、深く話せるかわかりませんけど、
+line2 <shift> # ちょ、挑戦してきますね」
+display
+com20 0 30
+com11 0 2
+sound 721
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「この３番目の歌は、いい歌です。こうジーンと
+line2 <shift> # くるというか、やる気になるというか」
+display
+com11 0 2
+sound 722
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「え、わかりにくいですか？　すみません。
+line2 <shift> # えーと、４番目の歌も、いい歌でー……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （解説というより、素直な感想が続いている。
+line2 <shift> # まあ、あずささんらしいし、いいか）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「こぼれ話、中心で」
+display
+com11 0 2
+sound 723
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、そういうのは、アルバムをきいても
+line2 <shift> # わからないですよね。いいかもしれません！」
+display
+com11 0 2
+sound 724
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「苦労した分、エピソードもたくさんありますし。
+line2 <shift> # ぜんぶ、話してこようと思います」
+display
+com20 0 30
+com11 0 2
+sound 725
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「その時、別のスタジオから、音がしたんです！
+line2 <shift> # 私、幽霊かと思って、おどろいてしまって……」
+display
+com11 0 2
+sound 726
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「だれが見にいくか、スタジオのみんなでジャン
+line2 <shift> # ケンをしたら、なんと！　アイコが連続３回で」
+display
+com11 0 2
+sound 727
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「次は、２曲目の話ですね。収録中にスパゲッ
+line2 <shift> # ティとパスタは、どこがちがうのかという……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （山場のない話が、だらだらと続く。取材にきた
+line2 <shift> # 記者達は、みんな居眠り中。……失敗だな）
+com09 0 69
+display
+location 69
+unk02

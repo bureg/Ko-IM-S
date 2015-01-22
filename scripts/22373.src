@@ -1,0 +1,335 @@
+com2c 0 59
+com2d 0 51
+com32 0 0
+com11 0 4
+sound 800
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ここで、路上ライブをするんですね。
+line2 <shift> # 考えたのは、プロデューサーさんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「はい。お金にはなりませんけど、アピールには
+line2 <shift> # なるんで。い、イヤですか、やっぱり？」
+display
+com11 0 4
+sound 801
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ふふっ、全然。こういう地道なことが大切なの
+line2 <shift> # は、アイドルも他の仕事もいっしょですよね？」
+com03 0 3
+choice1 <shift> # 大人ですね、あずささんは
+line2
+com09 0 10
+com08
+choice2 <shift> # 出世すれば、変わりますけど
+line2
+com09 0 11
+com08
+choice3 <shift> # 他の仕事の経験、あるんですか？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「大人ですね、あずささんは」
+display
+com11 0 4
+sound 802
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そんなことは。それでは、行ってきますね。
+line2 <shift> # 場所はー、あそこがいいかしら」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「出世すれば、変わりますけど。こんなところで
+line2 <shift> # 歌ったら、パニックになりますし」
+display
+com11 0 4
+sound 803
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「んー、今のところは夢かもしれないですけれど、
+line2 <shift> # そういう日がくるって信じたいですよね」
+display
+com11 0 4
+sound 804
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「それでは、歌ってきます。
+line2 <shift> # 場所はー、あそこがいいかしら」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「他の仕事の経験、あるんですか？」
+display
+com11 0 4
+sound 805
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、あります。学生の時に、アルバイトは
+line2 <shift> # いくつか、やったのですけれど……」
+display
+com11 0 4
+sound 806
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「……く、くわしいことは、いいですね。
+line2 <shift> # それでは、歌ってきます」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ！　風が強いから、気をつけて
+line2 <shift> # くださいね！」
+display
+com22 0 30
+com21 0 30
+com11 0 4
+sound 807
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ふぅー、終わりましたー。本当にすごい風でし
+line2 <shift> # たね。スカート押さえるのが、大変で」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あれ、あずささん。服、なんかついてます。
+line2 <shift> # ちょっと、動かないで」
+com0e 1 50
+com44
+com09 0 30
+com45
+com44
+com09 0 31
+com45
+com44
+com09 0 32
+com45
+com44
+com09 0 33
+com45
+com44
+com09 0 34
+com45
+com44
+com09 0 35
+com45
+com44
+com09 0 36
+com45
+com44
+com09 0 37
+com45
+display
+location 30
+com34 0 1
+com11 0 4
+sound 808
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、そんなところに……。それ、花びらですね。
+line2 <shift> # 近くの花屋さんから、飛ばされてきたのかしら」
+com09 0 49
+display
+location 31
+com11 0 4
+sound 809
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「なにかついているのって、髪だったのですか？
+line2 <shift> # いま、たしか服ってー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あああ、すみません。キレイな髪だと思って、
+line2 <shift> # つい……。すぐ取ります」
+com09 0 91
+display
+location 32
+com11 0 4
+sound 810
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「か、顔についていたんですか？　いま、たしか
+line2 <shift> # 服って……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あああ、すみません。ついてるのは服です。
+line2 <shift> # すぐ取りますから」
+com09 0 91
+display
+location 33
+com11 0 4
+sound 811
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「て、手についていたんですか？　んー、そんな
+line2 <shift> # 感じは全然……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、ぶつかっただけです。じゃ、改めて……」
+com09 0 91
+display
+location 34
+com11 0 4
+sound 812
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「きゃ！　ぷ、ぷ、プロデューサーさん？
+line2 <shift> # どうして。……ぃゃ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うわあ、すみません！　その、手がすべって。
+line2 <shift> # いま、取りますから！」
+display
+com11 0 4
+sound 813
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「お、おどろかせないでください。こんな、
+line2 <shift> # 道の真ん中で。はあ〜」
+com09 0 91
+display
+location 35
+com11 0 4
+sound 814
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「と、取れましたか？　おなかのところに、
+line2 <shift> # ついていたんですね」
+com09 0 92
+display
+location 36
+com11 0 4
+sound 815
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「と、取れましたか？　そんなところに、ついて
+line2 <shift> # いたんですね」
+com09 0 92
+display
+location 92
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いえ、じつは胸に……。照れてる場合じゃない
+line2 <shift> # ですね。いま、取ります」
+com09 0 91
+display
+location 37
+com11 0 4
+sound 816
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あのー、プロデューサーさん？　もしかして、
+line2 <shift> # 自然に落ちてしまったとか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「い、いえ、じつは胸に……。照れてる場合じゃ
+line2 <shift> # ないですね。いま、取ります」
+com09 0 91
+display
+location 91
+com11 0 4
+sound 817
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、それ、花びらですね。近くの花屋さんから、
+line2 <shift> # 飛ばされてきたのかしら」
+com09 0 49
+display
+location 49
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でしょうね」
+display
+com11 0 4
+sound 818
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ふふっ、風がくれたブローチですね。どうしま
+line2 <shift> # しょう？　そのまま、捨ててしまいますか？」
+com03 0 3
+choice1 <shift> # 事務所にでも、飾ります？
+line2
+com09 0 50
+com08
+choice2 <shift> # 風にのせて、飛ばしましょう
+line2
+com09 0 51
+com08
+choice3 <shift> # 俺がもらいますよ
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 2
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「事務所にでも、飾ります？
+line2 <shift> # 路上ライブ記念ってことで」
+display
+com11 0 4
+sound 819
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「いいですね、それ。せっかく、もらったのです
+line2 <shift> # から。あ！　私、写真立て、買ってきます」
+display
+com11 0 4
+sound 820
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「それに入れておけば、乾いても、しぼまずに
+line2 <shift> # 済みますよね。ふふっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （思い出の品が、ひとつできたな。入場料は取れ
+line2 <shift> # ないけど、意外な報酬を手に入れたってとこか）
+com09 0 69
+display
+location 51
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「風にのせて、飛ばしましょう。そーれ！」
+display
+com11 0 4
+sound 821
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ……。飛んで、いってしまいましたね。
+line2 <shift> # すこし、かわいそうな気も」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いいんじゃないですか？　こう、自然に
+line2 <shift> # 返したって感じで」
+display
+com11 0 4
+sound 822
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「……かもしれないですね。んー、汚れた川とか
+line2 <shift> # に、落ちなければいいのですけれど」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （やや、気にかけている様子だな。けど、まあ、
+line2 <shift> # すこしたてば、忘れてしまうだろう）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺がもらいますよ」
+display
+com11 0 4
+sound 823
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「え、持って帰るんですか？　それでー、
+line2 <shift> # どうするんです？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、ほら、あずささんの服についてたやつで
+line2 <shift> # すから。たまにながめて、思い出にひたろうと」
+display
+com11 0 4
+sound 824
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「え、え、ええええ？？？　服の、思い出？
+line2 <shift> # そ、それは……」
+display
+com11 0 4
+sound 825
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、すみません、私ったら。そうですよね。
+line2 <shift> # プロデューサーさんが、そんなこと……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （もしかして……完全に変態と誤解された？　ぐ、
+line2 <shift> # つまらないことで、印象を落としてしまった）
+com09 0 69
+display
+location 69
+unk02

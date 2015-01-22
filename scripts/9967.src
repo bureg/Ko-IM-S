@@ -1,0 +1,293 @@
+com2c 0 24
+com2d 0 21
+com32 0 0
+com11 0 2
+sound 100
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ねえ。ファン向けに、演技の練習するから
+line2 <shift> # 手伝って！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いいけど……手伝うって、どういう風に？」
+display
+com11 0 2
+sound 101
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なるべくヒドイこと言ったり、いろんな命令
+line2 <shift> # してみたりして！　私、笑顔で答えるからっ」
+display
+com11 0 2
+sound 102
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「じゃあ、まずテストね！　はいっ！」
+com03 0 3
+choice1 <shift> # この、わがまま娘っ！
+line2
+com09 0 10
+com08
+choice2 <shift> # きゃー、かっわいいー！
+line2
+com09 0 11
+com08
+choice3 <shift> # ひっこめ、五流アイドル！
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「この、わがまま娘っ！」
+display
+com11 0 2
+sound 103
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そうそう、そんな感じ！」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「きゃー、かっわいいー！」
+display
+com11 0 2
+sound 104
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「うふふっ、ありがと〜♪　……って、
+line2 <shift> # ホメちゃ、練習にならないでしょー！」
+display
+com11 0 2
+sound 105
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「怒ったりしないから、マジメにやるのよ？」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ひっこめ、五流アイドル！」
+display
+com11 0 2
+sound 106
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「むっか〜！　なんですってー！！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「な、なんだよ。ひどいコト言えって……」
+display
+com11 0 2
+sound 107
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「限度があるわよっ！　もうちょっと、品のある
+line2 <shift> # 言葉、選びなさいよね。まったく……」
+com09 0 19
+display
+location 19
+com11 0 2
+sound 108
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「それじゃ、準備いーい？　本番ＧＯ！」
+com03 0 2
+choice1 <shift> # おーい、笑ってー！
+line2
+com09 0 20
+com08
+choice2 <shift> # おーい、怒ってー！
+line2
+com09 0 21
+com08
+com07
+com09 0 21
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おーい、笑ってー！」
+display
+com11 0 2
+sound 109
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「うふふっ。こうかしら？
+line2 <shift> # 私、なんだってやりますー♪」
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おーい、怒ってー！」
+display
+com11 0 2
+sound 110
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「こーらっ、そこの君。メッ！
+line2 <shift> # これでＯＫよね♪」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （さて、次は……）
+com03 0 2
+choice1 <shift> # おーい、逆立ちしてー！
+line2
+com09 0 30
+com08
+choice2 <shift> # おーい、こっち向いてー！
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おーい、逆立ちしてー！」
+display
+com11 0 2
+sound 111
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「さ、さかだ……、できませんー♪　あんまり
+line2 <shift> # いじめると、泣いちゃうんだから〜」
+com09 0 39
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おーい、こっち向いてー！」
+display
+com11 0 2
+sound 112
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ふふっ、さっきから向いてますー♪」
+display
+com11 0 2
+sound 113
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あんまりカンタンなこと言うと、
+line2 <shift> # 足、けっ飛ばしちゃうわよっ」
+com09 0 39
+display
+location 39
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ええと、最後は……）
+com03 0 3
+choice1 <shift> # 伊織、おつかれさま
+line2
+com09 0 40
+com08
+choice2 <shift> # おーい、プロデューサーを大切に！
+line2
+com09 0 41
+com08
+choice3 <shift> # おーい、空中８５回転！
+line2
+com09 0 42
+com08
+com07
+com09 0 42
+com08
+display
+location 40
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「伊織、おつかれさま」
+display
+com11 0 2
+sound 114
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「え……、もう終わり？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。そろそろいいだろ？　それにしても、
+line2 <shift> # だいぶ、うまくなったなあ」
+display
+com11 0 2
+sound 115
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「フフン、もうアイドルはじめて、けっこう
+line2 <shift> # たつし。私も慣れてきたわ」
+display
+com11 0 2
+sound 116
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ありがと！　また練習したくなったら、
+line2 <shift> # 手伝ってね♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （これぐらいなら、おやすいご用だ。実のある
+line2 <shift> # 訓練ができたかな）
+com09 0 49
+display
+location 41
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おーい、プロデューサーを大切に！」
+display
+com11 0 2
+sound 117
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「え？　あ、えーと、それは〜……」
+display
+com11 0 2
+sound 118
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ねえ、君。これ、ファン向けの練習だって、
+line2 <shift> # わかってるわよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ん、ああ……もちろん……」
+display
+com11 0 2
+sound 119
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なんでファンが、そんな要求するのかしら。
+line2 <shift> # 伊織、わからな〜い……」
+display
+com11 0 2
+sound 120
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「もし、理由を知ってるなら、教えてくれる？
+line2 <shift> # ……プロデューサー♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （目が笑ってない……。調子に乗って、余計な
+line2 <shift> # こと言うんじゃなかった）
+com09 0 49
+display
+location 42
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おーい、空中８５回転！」
+display
+com11 0 2
+sound 121
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「く……、そ、そんなの人間には
+line2 <shift> # できませんー♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ、５０回転！」
+display
+com11 0 2
+sound 122
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「できるわけないでしょっ！　いい加減に
+line2 <shift> # しなさーい！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うあ、お、怒るなよ」
+display
+com11 0 2
+sound 123
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あんたがメチャクチャなこと、言うからでしょ。
+line2 <shift> # も〜！」
+display
+com11 0 2
+sound 124
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そんなに回転したいなら、私があんたを
+line2 <shift> # 回してあげるわよーっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ちょっと遊びすぎたか。回される前に、
+line2 <shift> # あやまろう……）
+com09 0 49
+display
+location 49
+unk02

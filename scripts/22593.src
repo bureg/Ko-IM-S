@@ -1,0 +1,254 @@
+com2c 0 26
+com2d 0 53
+com32 0 0
+com11 0 5
+sound 300
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「これから、この屋上でライブですね。
+line2 <shift> # ここは、日差しがあたたかくて、いいです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「今日は、風も、ありませんしね。
+line2 <shift> # 野外ライブ日和かも」
+display
+com11 0 5
+sound 301
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「卒業した短大のキャンパスが、こんな感じでし
+line2 <shift> # た。お昼ご飯食べた後、ベンチでウトウトして」
+display
+com11 0 5
+sound 302
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「たまにそのまま、授業を、
+line2 <shift> # おやすみしてしまったりしてー。ふふっ」
+com03 0 3
+choice1 <shift> # 昼寝、好きなんですか？
+line2
+com09 0 10
+com08
+choice2 <shift> # 成績は、よかったんですか？
+line2
+com09 0 11
+com08
+choice3 <shift> # なまけものだったんですね
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「昼寝、好きなんですか？」
+display
+com11 0 5
+sound 303
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「好きというわけではないですけど、つい……。
+line2 <shift> # 今もよく、電車の中でこくりこくりって」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「成績は、よかったんですか？」
+display
+com11 0 5
+sound 304
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「さあ、どうなんでしょう？　あ、あまり、
+line2 <shift> # 人と比べたこともないので……」
+display
+com11 0 5
+sound 305
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「でも、ちゃんと２年で卒業したんですよ。先生
+line2 <shift> # が、大目に見てくれたからかもしれませんけど」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なまけものだったんですね」
+display
+com11 0 5
+sound 306
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そ、そうかもしれませんね。
+line2 <shift> # あのひなたには、いつも勝てなくて……」
+display
+com11 0 5
+sound 307
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「でも、ちゃんと２年で卒業したんですよ。
+line2 <shift> # 先生方が、大目に見てくれたからでしょうけど」
+com09 0 29
+display
+location 29
+com11 0 5
+sound 308
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、そろそろ、準備しなければいけませんね。
+line2 <shift> # ……はふ」
+display
+com11 0 5
+sound 309
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「いけない、いけない。
+line2 <shift> # なんか、くつろいでしまって、眠気が……」
+com03 0 2
+choice1 <shift> # コーヒーでも、飲みますか？
+line2
+com09 0 30
+com08
+choice2 <shift> # 頬、ひっぱたきましょうか？
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「コーヒーでも、飲みますか？」
+display
+com11 0 5
+sound 310
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、はい……。では、お願い……。
+line2 <shift> # ん…………」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「頬、ひっぱたきましょうか？」
+display
+com11 0 5
+sound 311
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「い、いえ、いいです。痛そうですし」
+display
+com11 0 5
+sound 312
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「でも、その……、できれば、眠気ざましに……。
+line2 <shift> # ん……」
+com09 0 49
+display
+location 49
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、あずささん！？　寝ちゃダメですって。
+line2 <shift> # ……しかたない人だなあ。よ、よし！」
+com03 0 3
+choice1 <shift> # あずささん、よだれ垂れてます！
+line2
+com09 0 50
+com08
+choice2 <shift> # あずささん、授業です！
+line2
+com09 0 51
+com08
+choice3 <shift> # あずささん、ゴキブリの大群が！
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 2
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あずささん、よだれ垂れてます！」
+display
+com11 0 5
+sound 313
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「……え、や！　ほ、ほんとですか？
+line2 <shift> # あ、あら？　プロデューサーさん」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うそですよ。
+line2 <shift> # ほら、ライブ、いけそうですか？」
+display
+com11 0 5
+sound 314
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、はいー。おかげさまで、目がさえました。
+line2 <shift> # それでは、行ってきますね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （一発で、目をさましてくれた。のんびりはして
+line2 <shift> # ても、こういうの気にするあたりは、女性だな）
+com09 0 69
+display
+location 51
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あずささん、授業です！」
+display
+com11 0 5
+sound 315
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「え……。あ、そう。友美、一人で行って。
+line2 <shift> # 私、午後は……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「と、友美って誰です！？
+line2 <shift> # ねぼけてないで、目、さまして下さいよー」
+display
+com11 0 5
+sound 316
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「……ん。ぷ、プロデューサーさん。
+line2 <shift> # 私、なんか、とても……」
+display
+com11 0 5
+sound 317
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ライブー、ライブでしたよね……。
+line2 <shift> # しっかり歌わなくては……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （フラフラした足どりで、歩いていった……。ま、
+line2 <shift> # 歌ってるうちに、テンションは上がるだろう）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あずささん、ゴキブリの大群が！」
+display
+com11 0 5
+sound 318
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「えっ！！　きゃ。ど、どこです！？
+line2 <shift> # ごきぶ……、い、いやっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、起きました？　さあ、ライブ……」
+display
+com11 0 5
+sound 319
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「わ、わ、私、ゴキブリ、ダメなんですっ。
+line2 <shift> # そ、それもたくさんなんて。うううっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「す、すみません。うそですって。
+line2 <shift> # そんなもの、いませんから、安心して……」
+display
+com11 0 5
+sound 320
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ほ、ほ、ほんとですか？
+line2 <shift> # で、でも、どこかに１匹くらいっ。ううう……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （体をふるわせている。スッキリめざめさせる
+line2 <shift> # つもりが、最悪の起こし方になってしまったな）
+com09 0 69
+display
+location 69
+unk02

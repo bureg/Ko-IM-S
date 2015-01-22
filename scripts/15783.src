@@ -1,0 +1,267 @@
+com2c 0 73
+com2d 0 31
+com32 0 0
+com11 0 1
+sound 1400
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「卒業した小学校で、ライブ……。
+line2 <shift> # よくお話、通りましたね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ランクＢともなると、たいていのムチャは通る
+line2 <shift> # よ。なんてったって、スーパーアイドルだしな」
+display
+com11 0 1
+sound 1401
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「先生の反対とか、なかったですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、みんな『ぜひ！』って」
+display
+com11 0 1
+sound 1402
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うあ、すごいですねっ。あ……もしかしたら、
+line2 <shift> # 遠山先生も、プッシュしてくれたのかなあ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……恩師か？」
+display
+com11 0 1
+sound 1403
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はい、とってもお世話になった先生でー」
+com03 0 3
+choice1 <shift> # よく怒られた、とか？
+line2
+com09 0 10
+com08
+choice2 <shift> # よく励まされた、とか？
+line2
+com09 0 11
+com08
+choice3 <shift> # よく補導された、とか？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よく怒られた、とか？」
+display
+com11 0 1
+sound 1404
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「う〜、さすがプロデューサー……。なんでも
+line2 <shift> # バレバレですね」
+display
+com11 0 1
+sound 1405
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「私、いつも騒いでばっかりだったから。
+line2 <shift> # えへへ……」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よく励まされた、とか？」
+display
+com11 0 1
+sound 1406
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「え？　私が、先生にですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。家庭の事情とか、知ってたんだろ。
+line2 <shift> # その先生」
+display
+com11 0 1
+sound 1407
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はい。でも私、家が原因で落ち込んだりは
+line2 <shift> # しなかったから、そういうのは……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……じゃあ、どうお世話になったんだ？」
+display
+com11 0 1
+sound 1408
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「そ、それはその……いろいろ？　えへへ……」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よく補導された、とか？」
+display
+com11 0 1
+sound 1409
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「えっ？　それって、私が問題児だったって
+line2 <shift> # ことですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「指導室の常連とかじゃ、なかったのか？」
+display
+com11 0 1
+sound 1410
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ううう……、私、いい子でしたー。
+line2 <shift> # それにここ、指導室なんてなかったし」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか。……じゃあ、どういう風にお世話に
+line2 <shift> # なったんだ？」
+display
+com11 0 1
+sound 1411
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ちょ、ちょっと訂正！　私、いい子でしたけど、
+line2 <shift> # おとなしくはなかったです。えへへ」
+com09 0 19
+display
+location 19
+com11 0 1
+sound 1412
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「でも……なんか不思議〜」
+display
+com11 0 1
+sound 1413
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ここに通ってた頃は、アイドルになるなんて、
+line2 <shift> # ただの夢だったのに……」
+display
+com11 0 1
+sound 1414
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「こうして、大ブレイクして帰ってきたの、
+line2 <shift> # まさに『でぃすてにー』ですよね？」
+com03 0 3
+choice1 <shift> # ああ、『でぃすてにー』だ
+line2
+com09 0 20
+com08
+choice2 <shift> # ああ、運命かもな
+line2
+com09 0 21
+com08
+choice3 <shift> # ああ、偶然かもな
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、『でぃすてにー』だ」
+display
+com11 0 1
+sound 1415
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うっうー、カッコよすぎて、しびれます！」
+display
+com11 0 1
+sound 1416
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「生徒のみんなにも、学校の『でぃすてにー』
+line2 <shift> # だって、思われるように、がんばらなきゃ！」
+display
+com11 0 1
+sound 1417
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「私、このライブ……ぜーったい
+line2 <shift> # 『でぃすてにー』級にしてみせまーす！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （言葉の意味、わかってるのか？　まあ、燃えて
+line2 <shift> # るし、細かいツッコミはしない方がベストだな）
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、運命かもな」
+display
+com11 0 1
+sound 1418
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「運命……？　『でぃすてにー』って、そういう
+line2 <shift> # 意味じゃないですよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、運命だろ？」
+display
+com11 0 1
+sound 1419
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「もっと、こう……伝説っ！　みたいな感じじゃ
+line2 <shift> # ありませんでしたっけ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……それは、レジェンド」
+display
+com11 0 1
+sound 1420
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「…………あ」
+display
+com11 0 1
+sound 1421
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「えへへへ……。こ、これから、運命級のライブ、
+line2 <shift> # してきまーす！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （なんか日本語、おかしくなってるような
+line2 <shift> # 気が……。まあ、いいか）
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、偶然かもな」
+display
+com11 0 1
+sound 1422
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「……偶然？　『でぃすてにー』って、偶然って
+line2 <shift> # 意味じゃないですよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あれ、そうだったか？」
+display
+com11 0 1
+sound 1423
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「もっとこう……カッコいい感じの意味じゃ
+line2 <shift> # なかったですか？　伝説っ！　みたいな」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「伝説ってのも、すこしちがう気がする
+line2 <shift> # けど……」
+display
+com11 0 1
+sound 1424
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「じゃあ、なんなんでしょう？
+line2 <shift> # そうだ！　ちょっと聞いてこよーっと！」
+display
+com22 0 30
+com11 0 1
+sound 1425
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ねーねー、そこの子！　『でぃすてにー』って、
+line2 <shift> # 知ってる？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （小学生に聞いてどうする？　うーん、なんか
+line2 <shift> # 間の抜けた、凱旋ライブになりそうだなあ）
+com09 0 29
+display
+location 29
+unk02

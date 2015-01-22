@@ -1,0 +1,266 @@
+com2c 0 24
+com2c 0 5
+com2d 0 41
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「千早、そろそろ、ＴＶ局のお偉いさんのとこへ、
+line2 <shift> # あいさつにいくよ」
+display
+com11 0 5
+sound 400
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あ、はい。プロデューサー、ちょっとだけ、
+line2 <shift> # 待ってもらえませんか？」
+display
+com11 0 5
+sound 401
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「今、新しい歌の、
+line2 <shift> # 楽譜を読んでる途中なんです。だから……」
+com03 0 2
+choice1 <shift> # 勉強熱心だな
+line2
+com09 0 10
+com08
+choice2 <shift> # そんなの、時間かかるのか？
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「勉強熱心だな」
+display
+com11 0 5
+sound 402
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そんな……。曲に込められた思いをくむのは、
+line2 <shift> # 歌い手として当然ですから」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなの、時間かかるのか？」
+display
+com11 0 5
+sound 403
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。メロディだけをつかむなら、
+line2 <shift> # ５分も、かからないんですけど……」
+display
+com11 0 5
+sound 404
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「フレーズに込められた細かい意図をくむには、
+line2 <shift> # やはり、ある程度は手間が」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、いい加減、切り上げないと。
+line2 <shift> # 相手が相手だし、待たせるわけには……」
+display
+com11 0 5
+sound 405
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「お願いします、あと少しだけ。譜読みは途中で
+line2 <shift> # 区切ると、どうしても浅くなってしまうんです」
+display
+com11 0 5
+sound 406
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「プロデューサーにとっても、歌の完成度は、
+line2 <shift> # 大切ですよね？　その……、営業よりも」
+com03 0 3
+choice1 <shift> # まあ、歌の方が重要だけど
+line2
+com09 0 30
+com08
+choice2 <shift> # 比較は、できないよ
+line2
+com09 0 31
+com08
+choice3 <shift> # 営業も、大切だよ？
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まあ、歌の方が重要だけど」
+display
+com11 0 5
+sound 407
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ありがとうございます。だったら、２０分だけ。
+line2 <shift> # 事情は、私から相手に話しますからっ」
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「比較は、できないよ。
+line2 <shift> # どっちも大事なことだから」
+display
+com11 0 5
+sound 408
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「私も、営業が意味ないなんて、言いません。け
+line2 <shift> # ど、そのために歌の質、落としたくないんです」
+com09 0 91
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「営業も、大切だよ？」
+display
+com11 0 5
+sound 409
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「それは、わかってます。でも私、そのために、
+line2 <shift> # 一番大事な部分を、ギセイにしたくなくて」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「本当にわかってるか？　どんなすごい歌も、
+line2 <shift> # 世に出なければ、きいてもらえないんだよ？」
+com09 0 91
+display
+location 91
+com11 0 5
+sound 410
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「２０分だけで、いいんですっ。
+line2 <shift> # 遅れた事情は、私から向こうに、話しますから」
+com09 0 49
+display
+location 49
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （千早の気持ちもわかるけど……。
+line2 <shift> # どうするべきかな？）
+com03 0 2
+choice1 <shift> # ダメだ、すぐ行こう
+line2
+com09 0 50
+com08
+choice2 <shift> # わかった、待つよ
+line2
+com09 0 51
+com08
+com07
+com09 0 51
+com08
+display
+location 50
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ダメだ、すぐ行こう」
+display
+com11 0 5
+sound 411
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「プロデューサー……、どうして？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「千早の将来に関わるかもしれない、
+line2 <shift> # 大事な面接だから。リスクは避けたいんだ」
+display
+com11 0 5
+sound 412
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「くっ……、わかりました。
+line2 <shift> # なら……、従います」
+display
+com22 0 30
+com32 0 1
+com21 0 30
+com11 0 5
+sound 413
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「無事、終わりましたね。
+line2 <shift> # これで、顔も、つながりました……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「許してくれるか？　俺は、アイドルとしての
+line2 <shift> # 成功も、考えないといけないから」
+display
+com11 0 5
+sound 414
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「これで、よかったんだと思います。
+line2 <shift> # 私の方こそ、わがままを……」
+display
+com11 0 5
+sound 415
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「譜読みは、一からやり直します。はじめから、
+line2 <shift> # すべてが自由になるはず、ないですから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （納得してくれたようだ。遅刻して、
+line2 <shift> # 怒鳴り散らされるより、この方がいい）
+com09 0 69
+display
+location 51
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わかった、待つよ」
+display
+com11 0 5
+sound 416
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あ……、感謝しますっ。
+line2 <shift> # ほんとに、いいんですね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。ただし、２０分だけだぞ？
+line2 <shift> # 終わったら、すぐ行こう」
+display
+com11 0 5
+sound 417
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「わかってます。カンペキな曲に仕立ててから、
+line2 <shift> # あいさつに！」
+display
+com22 0 30
+com32 0 1
+com21 0 30
+com11 0 5
+sound 418
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「すみません、プロデューサー……。
+line2 <shift> # 私、あんなに怒鳴られるなんて、思わなくて」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「話しても、通じる相手じゃなかったな」
+display
+com11 0 5
+sound 419
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「正直、ショックです。
+line2 <shift> # 『歌よりも、時間の方が大事だ』なんて……」
+display
+com11 0 5
+sound 420
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「認めたくないです。
+line2 <shift> # ああいう人が、歌番組を仕切ってるなんて……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「しょうがないよ。現実は、現実だから。
+line2 <shift> # 認めさせないことには、先へは進めないし」
+display
+com11 0 5
+sound 421
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「わからなくなってきました……。最高の歌を
+line2 <shift> # 歌っても、理解してもらえないんじゃ……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （顔をつなぐどころか、千早を迷わせるだけに、
+line2 <shift> # 終わってしまった。やはり、遅刻はよくないな）
+com09 0 69
+display
+location 69
+unk02

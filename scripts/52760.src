@@ -1,0 +1,705 @@
+com2d 0 91
+com2e 0 101
+com2c 0 25
+com32 0 0
+com11 0 0
+sound 0
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ねえねえ、兄ちゃん。
+line2 <shift> # 今日は、ミーティングするんだよね？」
+display
+com11 0 0
+sound 1
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「何について話し合うの〜？
+line2 <shift> # 真美はゲームの話がいいな〜」
+display
+com11 0 0
+sound 2
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「お仕事とカンケーない話は、ダメなんだよ。
+line2 <shift> # 亜美は、今欲しいアクセの話がいいと思う」
+display
+com11 0 0
+sound 3
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「それだって、お仕事とカンケーないよ〜！」
+display
+com11 0 0
+sound 4
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「なんとなくお仕事っぽいから、いいの〜！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「両方とも、却下だ」
+display
+com11 0 0
+sound 5
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「え〜っ！」
+display
+com11 0 0
+sound 6
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「兄ちゃんのイジワル〜！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「今日は、お互いを高めあうために、
+line2 <shift> # 互いのダメなところを言いあおう」
+display
+com11 0 0
+sound 7
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「亜美のダメなところを言うの？」
+display
+com11 0 0
+sound 8
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「亜美は、真美のダメなところを
+line2 <shift> # 言えばいいの？」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「ああ、そうだ」
+display
+com11 0 0
+sound 9
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「そんなのいっぱいあるよ〜。
+line2 <shift> # 亜美は、算数のテストの点が悪い〜！」
+display
+com11 0 0
+sound 10
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「そんなの、
+line2 <shift> # 真美だって悪いくせに〜！」
+display
+com11 0 0
+sound 11
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「こないだは３点勝ってたもん！」
+display
+com11 0 0
+sound 12
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「国語は、亜美の方が
+line2 <shift> # ４点も勝ってたもん！」
+com03 0 3
+choice1 <shift> # もっとレベルの高い話を……
+line2
+com09 0 5
+com08
+choice2 <shift> # もっと仕事の話を……
+line2
+com09 0 6
+com08
+choice3 <shift> # もっと色気のある話を……
+line2
+com09 0 7
+com08
+com07
+com09 0 7
+com08
+display
+location 5
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「もっとレベルの高い話をだな……」
+display
+com11 0 0
+sound 13
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「レベル？　亜美、『ノラぽんレジェンド』
+line2 <shift> # レベル４８でクリアしたよ」
+display
+com11 0 0
+sound 14
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「真美は５１までかかったけど、
+line2 <shift> # 伝説の武器、３つも持ってたもん！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「いや、ゲームのレベルの
+line2 <shift> # 話じゃなくて……」
+display
+com11 0 0
+sound 15
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「武器は１つあれば、
+line2 <shift> # じゅうぶんなんです〜！」
+display
+com11 0 0
+sound 16
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「伝説の防具も、３つ集めたもん！」
+com09 0 8
+display
+location 6
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「いや、もっと仕事の話をだな……」
+display
+com11 0 0
+sound 17
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「仕事？　亜美はこないだ、
+line2 <shift> # 飼育係のお仕事忘れてたんだよ」
+display
+com11 0 0
+sound 18
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「わ、忘れてたんじゃないよ。
+line2 <shift> # ちょっと、うっかりしてただけだもん」
+display
+com11 0 0
+sound 19
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「そのうっかりで、ウサギがお腹ぺこぺこに
+line2 <shift> # なって、そのあと大変だったんだよ〜」
+display
+com11 0 0
+sound 20
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「あのウサギは、
+line2 <shift> # もともとヨボヨボだったもん！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「いや、学校の仕事の話じゃなくて……」
+display
+com11 0 0
+sound 21
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「真美だって、こないだの日直の時、
+line2 <shift> # 金魚の水、替えるの忘れてたっしょ〜！」
+display
+com11 0 0
+sound 22
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「あ、あれは、金魚が
+line2 <shift> # 替えなくていいって、言ったんだもん！」
+com09 0 8
+display
+location 7
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「もっと色気のある話をだな……」
+display
+com11 0 0
+sound 23
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「色気？　亜美は、ぜったい
+line2 <shift> # 真美よりボインボインになるよ〜」
+display
+com11 0 0
+sound 24
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ええ〜っ、なんで〜！？
+line2 <shift> # 今は同じペタンコなのに〜！」
+display
+com11 0 0
+sound 25
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「んっふっふ〜。亜美、こないだから、
+line2 <shift> # 牛乳いっぱい飲んでるもん」
+display
+com11 0 0
+sound 26
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ま、真美だって、
+line2 <shift> # 隣のお姉ちゃんに習った体操やってるもん」
+display
+com11 0 0
+sound 27
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ええーっ！
+line2 <shift> # ズルいよ、真美ー！」
+display
+com11 0 0
+sound 28
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「亜美だって、ズルんこでしょ〜！」
+com09 0 8
+display
+location 8
+com11 0 0
+sound 29
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「真美のバカバカバカー！」
+display
+com11 0 0
+sound 30
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「バカって言った方がバカだもんねー！
+line2 <shift> # 亜美のアホアホアホー！」
+display
+com11 0 0
+sound 31
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「アホって言った方がアホなんだよー！
+line2 <shift> # 真美むめもー！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （ただのミーティングだったのに、
+line2 <shift> # ケンカになってしまった……）
+com03 0 3
+choice1 <shift> # やめるんだ、ふたりとも
+line2
+com09 0 10
+com08
+choice2 <shift> # やめるんだ、真美
+line2
+com09 0 11
+com08
+choice3 <shift> # やめるんだ、亜美
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「やめるんだ、ふたりとも」
+display
+com11 0 0
+sound 32
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「やだっ！　悪いのは真美だから、
+line2 <shift> # 亜美はやめなくていーんだもん」
+display
+com11 0 0
+sound 33
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ちがうよー！　悪いのは亜美でしょー！
+line2 <shift> # 真美の方が、やめなくてもいーの！」
+com09 0 29
+display
+location 11
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「やめるんだ、真美」
+display
+com11 0 0
+sound 34
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「なんで真美を怒んのー！？
+line2 <shift> # 悪いのは亜美の方なのにー」
+display
+com11 0 0
+sound 35
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「亜美は悪くないもんねー。
+line2 <shift> # 兄ちゃんには、ちゃんとわかってるんだよ」
+display
+com11 0 0
+sound 36
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ちがうよ！　兄ちゃんは
+line2 <shift> # 違いのわかんないヘッポコピーだもん！」
+com09 0 29
+display
+location 12
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「やめるんだ、亜美」
+display
+com11 0 0
+sound 37
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「なんで亜美だけ怒んのー！？
+line2 <shift> # 真美の方が悪いのにー」
+display
+com11 0 0
+sound 38
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「へへ〜っ、兄ちゃんは亜美より
+line2 <shift> # 真美の方が好きなんだって〜」
+display
+com11 0 0
+sound 39
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ちがうもん！　亜美の気をひきたいから、
+line2 <shift> # イジワルしてるんだよ、兄ちゃんは」
+display
+com11 0 0
+sound 40
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「そんなわけないっしょ！
+line2 <shift> # 亜美、カンチガイしすぎーっ！」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 41
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「フンだ！
+line2 <shift> # 真美アホー！」
+display
+com11 0 0
+sound 42
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「フンだ！
+line2 <shift> # 亜美バカー！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「ふたりとも、いいかげんにしろよ」
+display
+com11 0 0
+sound 43
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「んじゃ、兄ちゃんは
+line2 <shift> # どっちの味方なのー？」
+display
+com11 0 0
+sound 44
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「真美に決まってるよねー！」
+display
+com11 0 0
+sound 45
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「亜美に決まってるっしょ！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「俺にとっては、ふたりとも大事だよ」
+display
+com11 0 0
+sound 46
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「そんなのズルんこだよー！」
+display
+com11 0 0
+sound 47
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「フタマタかけんのは、いけないんだよー」
+display
+com11 0 0
+sound 48
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「兄ちゃんは、亜美の味方ー！」
+display
+com11 0 0
+sound 49
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「真美の味方だもーん！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「だから、俺は……」
+display
+com11 0 0
+sound 50
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「じゃあさ、じゃあ……、
+line2 <shift> # トランプで決めようよ！」
+display
+com11 0 0
+sound 51
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「トランプで？
+line2 <shift> # どうやって決めんの？」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （人の話、聞いてないな……）
+display
+com11 0 0
+sound 52
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「兄ちゃんに一枚だけ引いてもらって〜、
+line2 <shift> # 黒だったら亜美派、赤だったら真美派ね」
+display
+com11 0 0
+sound 53
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「いいよ。兄ちゃんは真美派に決まってるもん。
+line2 <shift> # じゃあ兄ちゃん、トランプから１枚引いてー！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「わ、わかったよ。１枚引けば、二人とも
+line2 <shift> # 納得するんだな……？」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （しかし、黒を引いても赤を引いても困ったこと
+line2 <shift> # になりそうだぞ……残る選択肢は……？）
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （黒でも赤でもないカードを引けるかどうかは
+line2 <shift> # 完全に運だが、ここは是非とも引かなくては！）
+com03 0 3
+choice1 <shift> # これだ！
+com09 0 20
+com08
+choice2 <shift> # これだっ！
+com09 0 20
+com08
+choice3 <shift> # これだー！
+com09 0 20
+com08
+com07
+com09 0 21
+com08
+display
+location 20
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「よし……。
+line2 <shift> # じゃあ、これだ！」
+display
+com11 0 0
+sound 54
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「黒でしょー！」
+display
+com11 0 0
+sound 55
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「赤だよねー！」
+com37 0 1
+com1e 0 0
+com09 0 25
+com3b
+com37 0 0
+com1e 0 0
+com09 0 26
+com3b
+display
+location 21
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「よし……。
+line2 <shift> # じゃあ、これだ！」
+display
+com11 0 0
+sound 56
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「黒でしょー！」
+display
+com11 0 0
+sound 57
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「赤だよねー！」
+com09 0 27
+display
+location 25
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「……ジョーカーだよ」
+display
+com11 0 0
+sound 58
+name 0 0 <names:4>  # Ami and Mami
+line1 <shift> # 「ええええええっ！！」
+display
+com11 0 0
+sound 59
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「……っていうことは、
+line2 <shift> # 亜美派でも……」
+display
+com11 0 0
+sound 60
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「真美派でもないってこと……？」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「亜美真美派ってことだよ。
+line2 <shift> # 俺にとっては、ふたりとも大事なんだから」
+display
+com11 0 0
+sound 61
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「でもでも、こんなイッパイの中から
+line2 <shift> # ジョーカーを引くなんてー！」
+display
+com11 0 0
+sound 62
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「兄ちゃん、メチャすごー！
+line2 <shift> # 真美、カンドーしちゃったー！！」
+display
+com11 0 0
+sound 63
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「兄ちゃんのためにも、
+line2 <shift> # 仲直りしよっか、真美ぃー」
+display
+com11 0 0
+sound 64
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「うん。
+line2 <shift> # ごめんね、亜美ぃー」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （あの中からジョーカーを引き当てるとは、
+line2 <shift> # すごい偶然だな……）
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （でも、そのおかげで
+line2 <shift> # ふたりは、あっさり仲直りしてくれた）
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （俺たちには、幸運の女神が
+line2 <shift> # ついてるのかもしれないな！）
+com4b 0 0
+com09 0 69
+display
+location 26
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「黒……だな」
+display
+com11 0 0
+sound 65
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「やたーっ！
+line2 <shift> # 亜美の味方だー！」
+display
+com11 0 0
+sound 66
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「うあうあ〜！
+line2 <shift> # なんで真美だけ仲間はずれなのー！？」
+display
+com11 0 0
+sound 67
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「んっふっふ〜、
+line2 <shift> # もう真美はいらないってさ」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「こら、亜美！
+line2 <shift> # そういうことを言うんじゃない！！」
+display
+com11 0 0
+sound 68
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「だって……真美が……、
+line2 <shift> # うあうあ〜！」
+display
+com11 0 0
+sound 69
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「うあうあ〜！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （結局、ふたりとも号泣してしまい、
+line2 <shift> # 仲直りさせるのに数時間を費やした……）
+com4b 0 2
+com09 0 69
+display
+location 27
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「赤……だな」
+display
+com11 0 0
+sound 70
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「てことは〜、
+line2 <shift> # 兄ちゃん、真美派決定ー！」
+display
+com11 0 0
+sound 71
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ちがうよー！　今のはナシ！
+line2 <shift> # もう一回、やり直しー！」
+display
+com11 0 0
+sound 72
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「あー！　亜美のズルんこー！
+line2 <shift> # 兄ちゃんは亜美のそういうとこ嫌いなんだよ」
+display
+com11 0 0
+sound 73
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うあうあ〜！
+line2 <shift> # だって……だってー！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「こら、真美！
+line2 <shift> # そういうことを言うんじゃない！！」
+display
+com11 0 0
+sound 74
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「だって……亜美が……、
+line2 <shift> # うあうあ〜！」
+display
+com11 0 0
+sound 75
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うあうあ〜！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （結局、ふたりとも号泣してしまい、
+line2 <shift> # 仲直りさせるのに数時間を費やした……）
+com4b 0 2
+com09 0 69
+display
+location 69
+unk02

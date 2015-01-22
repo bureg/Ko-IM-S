@@ -1,0 +1,467 @@
+com2c 0 112
+com2d 0 21
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ＴＶ局の開局５０周年記念ドラマに、
+line2 <shift> # 伊織がゲスト出演することになった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （収録の合間、伊織は共演者に何か熱心に話しか
+line2 <shift> # けられているが……。ん？　こっちに来るぞ）
+display
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ちょっと、ペンか何か持ってない？　あの
+line2 <shift> # おじいちゃん、私のサインが欲しいんですって」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええっ！　あの人、時代劇の大家と呼ばれる大
+line2 <shift> # 御所だぞ。そんな人がなぜ伊織のサインを！？」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「いいから、早く！　もう『サインぐらいお安い
+line2 <shift> # 御用でーす♪』って言ってきちゃったんだから」
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ふぅ……。サインしてきてあげたわ。
+line2 <shift> # 突然で驚いたけど、大御所も喜んでたみたい」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それにしてもビックリだな。あんな大物俳優が、
+line2 <shift> # 伊織のサインを欲しがるなんて……」
+com03 0 3
+choice1 <shift> # お孫さんのためかな
+line2
+com09 0 10
+com08
+choice2 <shift> # 最年長のファンかな
+line2
+com09 0 11
+com08
+choice3 <shift> # 転売するのかな
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お孫さんのためかな」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そうみたい。あんなにこわ〜い顔してるのに、
+line2 <shift> # 孫の話になったらデレデレだったわ」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「意外とカワイイとこあるわよね。にひひっ♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか。それは良いことをしたな、伊織」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「最年長のファンかな」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ん〜、それは違うんじゃない？
+line2 <shift> # 誰かに頼まれたようなこと、言ってたし」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか。ちょっと残念だな……」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「でも、私のこと、けっこう詳しく知ってたわ。
+line2 <shift> # 曲も、きいてくれてたし」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「大御所が私の最年長ファンになるのは、
+line2 <shift> # 時間の問題かもしれないわね♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええっ！　あの大御所が、伊織の曲を聴いてた
+line2 <shift> # のか！？　それは本当に、すごいな……」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「転売するのかな。
+line2 <shift> # 伊織のサインなら、結構高く売れそうだし！」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そうね。私のサインは国宝級だから、転売した
+line2 <shift> # ら数億円単位で、もうかるかもしれないわね〜」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……って、お金持ちの大俳優が、そんなこと
+line2 <shift> # するわけないでしょ！　バッカじゃない？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうか。すまん」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そうよっ！　知り合いに、どうしても私の
+line2 <shift> # サインが欲しいって頼まれたんですって」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「それに、せっかくのサインを転売するような
+line2 <shift> # フトドキ者は、私が絶対ゆるさないわっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そうだよな……。しかし、伊織の知名度は、
+line2 <shift> # 今や大御所俳優以上なのかもしれないな）
+com09 0 29
+display
+location 29
+com11 0 0
+sound 10012
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ねえ、それにしても……、
+line2 <shift> # やっぱりアウェイって感じよね、この現場」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「アウェイ？」
+display
+com11 0 0
+sound 10013
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ディレクターも他のスタッフも、私のこと、
+line2 <shift> # ただのアイドルとしか見てないってこと」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「演技なんて、ぜ〜んぜん期待してないのが、
+line2 <shift> # スタッフの態度から、見え見えなのよ」
+com03 0 3
+choice1 <shift> # 怒らないんだな
+line2
+com09 0 30
+com08
+choice2 <shift> # 何かされたのか？
+line2
+com09 0 31
+com08
+choice3 <shift> # そんなことないよ
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「怒らないんだな」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「怒ったって何も解決しないでしょ。そんなこと
+line2 <shift> # くらいで、いちいち怒ってたら、疲れちゃうし」
+display
+com11 0 0
+sound 10016
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「それに、ゲスト出演の私が、
+line2 <shift> # 現場の雰囲気を悪くしたら最悪じゃない」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……成長したな、伊織」
+display
+com11 0 0
+sound 10017
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「な、なによ。私は前から、心は立派な大人よ！
+line2 <shift> # 見た目は、永遠のウルトラ美少女だけど」
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「何かされたのか？　いやがらせとか……」
+display
+com11 0 0
+sound 10018
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「あ、そういうのは無いわ。もしそんなことが
+line2 <shift> # あったら、すぐさま倍返しするもの！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうか。そうだな」
+display
+com11 0 0
+sound 10019
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そうじゃなくて、なんて言うのかしら……、
+line2 <shift> # 求められてるハードルが、すっごく低いの」
+display
+com11 0 0
+sound 10020
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「さっき監督が私の所に来た時、何て言ったと
+line2 <shift> # 思う？　『君は笑顔だけ作ってて』ですって」
+display
+com11 0 0
+sound 10021
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「バカにしてるわよね。スーパーアイドル
+line2 <shift> # 水瀬伊織を、何だと思ってるのかしら！」
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなことないよ。だから、機嫌直して
+line2 <shift> # 頑張ってくれ。なっ？　はははっ！」
+display
+com11 0 0
+sound 10022
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「フンッ！　そんな口先だけのなぐさめなんて、
+line2 <shift> # いらないわよ。期待されてないのは事実だもの」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうかなあ。考えすぎじゃないか？
+line2 <shift> # 単に伊織が、自意識過剰なだけなんじゃ……」
+display
+com11 0 0
+sound 10023
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「なにか言ったかしら、プロデューサー？
+line2 <shift> # もう一度、言ってくれる〜？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うっ。なんでもありません。
+line2 <shift> # 伊織様の言う通りです。ハイ」
+com09 0 49
+display
+location 49
+com11 0 0
+sound 10024
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……ま、ともかく今回の私は、客寄せパンダっ
+line2 <shift> # てとこね。画面に映ってさえいればＯＫなのよ」
+display
+com11 0 0
+sound 10025
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「でも、そんな飾り物みたいな扱い、
+line2 <shift> # 正直、あんまり気分は良くないわ」
+display
+com11 0 0
+sound 10026
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「せっかくドラマに出るんだから、
+line2 <shift> # ファンも、そうでない人も喜ばせたいじゃない」
+display
+com11 0 0
+sound 10027
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「与えられた役割以上のことをやりたいわ。『さ
+line2 <shift> # すが伊織ちゃん！』って皆に言わせたいのよ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「確かにな。うーん、それじゃあ……」
+com03 0 3
+choice1 <shift> # 歌を歌うのはどうだ？
+line2
+com09 0 50
+com08
+choice2 <shift> # 客寄せを全力でやろう
+line2
+com09 0 51
+com08
+choice3 <shift> # 演技を精一杯やろう
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「歌を歌うのは、どうだ？」
+display
+com11 0 0
+sound 10028
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「えっ、お芝居の中で歌うの！？
+line2 <shift> # そんなの台本にないわよ。大丈夫かしら」
+display
+com11 0 0
+sound 10029
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……でも、それができれば、インパクトは、
+line2 <shift> # じゅうぶんよね。歌ならこっちの得意分野だし」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、問題は、どうやって監督を
+line2 <shift> # 説得するかだよな。台本を変えることになるし」
+display
+com11 0 0
+sound 10030
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ふふん、そういう時こそ、大御所さんに
+line2 <shift> # お願いすればいいんじゃない？」
+display
+com11 0 0
+sound 10031
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「監督も、あのおじいちゃんの言うことなら、
+line2 <shift> # 聞かざるをえないもの」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なるほど。さすが、
+line2 <shift> # 悪知恵がはたらくな、伊織！」
+display
+com11 0 0
+sound 10032
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「悪知恵じゃないわよっ！　これは、つまり……、
+line2 <shift> # ちょっとした世渡りのための知恵でしょ！」
+display
+com11 0 0
+sound 10033
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「見てなさい。ドラマの視聴者全員、
+line2 <shift> # 私の新しいファンにしてみせるわ。にひひっ♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後、監督との交渉の結果、歌うシーンが
+line2 <shift> # 追加され、そのおかげでドラマは大好評！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （存在感を存分にアピールした伊織には、
+line2 <shift> # さらに新しいファンがついた！　やったぞ！）
+com09 0 69
+display
+location 51
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「客寄せを全力でやろう」
+display
+com11 0 0
+sound 10034
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ちょっと！　それじゃ監督の思うツボじゃない。
+line2 <shift> # 私は、もっとスゴイことをやりたいの！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ぶなんに、監督の期待に応えるのも、
+line2 <shift> # すごく大切なことだと思うぞ」
+display
+com11 0 0
+sound 10035
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そうかもしれないけど……。
+line2 <shift> # そんなんじゃ、いつもの仕事と同じでしょ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだ。いつも通りの仕事を、きっちりやって
+line2 <shift> # みせて、伊織の実力を認めてもらうんだよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いきなりスゴイことをやろうとしないで、
+line2 <shift> # 地道に信用を勝ち取るんだ」
+display
+com11 0 0
+sound 10036
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「信用してもらえるように、今回は、
+line2 <shift> # 言われた通り、ただ笑ってろって言うの？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだ。仕事でアピールするのがプロだろ？」
+display
+com11 0 0
+sound 10037
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「む〜……。ま、確かに私は、
+line2 <shift> # このかわいさで売ってきたんだしね……」
+display
+com11 0 0
+sound 10038
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「わかったわ！　トップアイドルらしく、
+line2 <shift> # キレイにかわいく撮られてきてあげる！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （伊織は監督の演出通りの演技を見せ、ドラマで、
+line2 <shift> # じゅうぶんにかわいさをアピールした！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （でも、ちょっとインパクトに欠けていたような
+line2 <shift> # 気はする。難しいな……）
+com09 0 69
+display
+location 52
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「演技を精一杯やろう」
+display
+com11 0 0
+sound 10039
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「もちろん、精一杯やるわよ？　でもね、
+line2 <shift> # やっぱり本職の女優さんや俳優さんには……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「負ける、って言いたいのか？」
+display
+com11 0 0
+sound 10040
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「わ、私が負けるなんて、そんなこと、
+line2 <shift> # あるわけないでしょ！　ただ、ちょっと……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ちょっと？」
+display
+com11 0 0
+sound 10041
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ぐ……。もうっ！　アンタって、ほんっと
+line2 <shift> # 無神経ね！　そういうとこがダメダメなのよっ」
+display
+com11 0 0
+sound 10042
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「もういいわ。あきらめて、客寄せパンダとして、
+line2 <shift> # やってくるわよ。やればいいんでしょ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （伊織は、俺に当り散らしながら、
+line2 <shift> # やけくそになって本番に臨んだ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （もっといいアドバイスを、
+line2 <shift> # してやりたかったな……）
+com09 0 69
+display
+location 69
+unk02

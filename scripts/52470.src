@@ -1,0 +1,799 @@
+com2d 0 91
+com2e 0 101
+com2c 0 17
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ＴＶ番組撮影の合間に、
+line2 <shift> # 長い待ち時間ができてしまった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （亜美と真美は遊びながら待っているが……退屈
+line2 <shift> # してテンションが落ちないようにしないとな）
+display
+com11 0 0
+sound 0
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ヒマなので、かうんせらーゴッコを
+line2 <shift> # しまーすっ！　兄ちゃんも一緒にやろっ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「カウンセラー？」
+display
+com11 0 0
+sound 1
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「うちのガッコにいるんだよ。お話きいて、
+line2 <shift> # せーしんをケヤするんだって」
+display
+com11 0 0
+sound 2
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「兄ちゃんのせーしんは
+line2 <shift> # 亜美たちがケヤしてあげんね」
+display
+com11 0 0
+sound 3
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「今から亜美真美先生の質問に答えるんだよ。
+line2 <shift> # そしたら、ヤんでる部分、よくなるかんね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （別に病んでないと思うけど……。
+line2 <shift> # まあ、付き合ってやるか！）
+display
+com11 0 0
+sound 4
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「あなたが山道をスキップしていたら、
+line2 <shift> # なにかが現れました。さあ、なんでしょー？」
+com03 0 3
+choice1 <shift> # お姫様
+com09 0 10
+com08
+choice2 <shift> # クマ
+com09 0 11
+com08
+choice3 <shift> # オバケ
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お姫様かな……」
+display
+com11 0 0
+sound 5
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「お姫様ー！？
+line2 <shift> # ねえねえ、そのお話の続き、どうなんのー？」
+display
+com11 0 0
+sound 6
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ちがうっしょ、真美！　その次は、兄ちゃんは
+line2 <shift> # ゴニョゴニョ……って言うんだよっ！」
+display
+com11 0 0
+sound 7
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「あっ、そうだった！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ちょっと待て。
+line2 <shift> # 何だ、今の打ち合わせっぽいのは」
+display
+com11 0 0
+sound 8
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「いーの、いーの！　んとね〜、おとぎ話っぽい
+line2 <shift> # こと考えた兄ちゃんはー……」
+display
+com11 0 0
+sound 9
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ゲンジツにタイクツしてまーす！　タイクツ
+line2 <shift> # してる兄ちゃんには、お薬が必要ですねー」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「クマ……とか？」
+display
+com11 0 0
+sound 10
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「あっ、山にはクマさんいるもんねー」
+display
+com11 0 0
+sound 11
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ちがうっしょ、真美！　その次は、兄ちゃんは
+line2 <shift> # ゴニョゴニョ……って言うんだよっ！」
+display
+com11 0 0
+sound 12
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「あっ、そうだった！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ちょっと待て。
+line2 <shift> # 何だ、今の打ち合わせっぽいのは」
+display
+com11 0 0
+sound 13
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「いーの、いーの！　んとね〜、危険なクマさん
+line2 <shift> # を期待した兄ちゃんは……」
+display
+com11 0 0
+sound 14
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ゲンジツにタイクツしてまーす！　タイクツ
+line2 <shift> # してる兄ちゃんには、お薬が必要ですねー」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「オバケ……だったりして」
+display
+com11 0 0
+sound 15
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「オバケー？　兄ちゃん、呪われちゃうのっ！？
+line2 <shift> # メチャ、スリリングな展開って感じー！」
+display
+com11 0 0
+sound 16
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ちがうっしょ、真美！　その次は、兄ちゃんは
+line2 <shift> # ゴニョゴニョ……って言うんだよっ！」
+display
+com11 0 0
+sound 17
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「あっ、そうだった！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ちょっと待て。
+line2 <shift> # 何だ、今の打ち合わせっぽいのは」
+display
+com11 0 0
+sound 18
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「いーの、いーの！　んとね〜オバケは……えっ
+line2 <shift> # と……。とにかく兄ちゃんはタイクツしてます」
+display
+com11 0 0
+sound 19
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「タイクツしてる兄ちゃんには、
+line2 <shift> # お薬が必要ですねー」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お薬だって？　何か変なものを
+line2 <shift> # 飲ませるつもりじゃないだろうなー」
+display
+com11 0 0
+sound 20
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「飲ませたりしないよー。
+line2 <shift> # 食べさせるだけだもん！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「同じことだよ！」
+display
+com11 0 0
+sound 21
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「うっぐ、えっぐ……せっかく、兄ちゃんの
+line2 <shift> # ために、おもしろゲーム考えてきたのにー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、真美……。俺は別に、
+line2 <shift> # やらないって言ってるわけじゃ……」
+display
+com11 0 0
+sound 22
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「んじゃ、ルールの説明ーっ☆」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （冗談じゃない……。
+line2 <shift> # このまま従ったら、どんな目にあうか……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなゲームより、もっと面白い
+line2 <shift> # ゲームがあるのしってるか？」
+display
+com11 0 0
+sound 23
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「えっ、なにそれ？」
+display
+com11 0 0
+sound 24
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「亜美も知りたいー！　教えてー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よし、食いついたぞ！）
+com03 0 3
+choice1 <shift> # へちゃらもちゃらゲーム
+line2
+com09 0 30
+com08
+choice2 <shift> # ドロドロ昼ドラゲーム
+line2
+com09 0 31
+com08
+choice3 <shift> # ぼんやりのんびりゲーム
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「へちゃらもちゃらゲームっていうんだ……」
+display
+com11 0 0
+sound 25
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「なにそれ！　超おもしろそう！」
+display
+com11 0 0
+sound 26
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「どんなルールなの？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ、ルール……？　それは……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しまった！　そこまでは考えてなかった！）
+display
+com11 0 0
+sound 27
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「兄ちゃん、もしかして知らないの？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや……、その……」
+display
+com11 0 0
+sound 28
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ん〜と……だいじょぶだよ。
+line2 <shift> # 亜美が知ってっから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうか！　亜美が知ってたかー。
+line2 <shift> # よかった、よかった」
+display
+com11 0 0
+sound 29
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「えっとねー。
+line2 <shift> # へちゃらもちゃらゲームのルールは……」
+display
+com11 0 0
+sound 30
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ルールは？」
+display
+com11 0 0
+sound 31
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ぐうぜん亜美たちの考えたゲームと、
+line2 <shift> # おんなじルールでしたー！」
+display
+com11 0 0
+sound 32
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「やったー♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （は、はめられた……）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ドロドロ昼ドラゲームっていうんだ。
+line2 <shift> # 昼ドラのマネをする……」
+display
+com11 0 0
+sound 33
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「おもしろそー！　それ、やろ！　それ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よし、これでなんとか……）
+display
+com11 0 0
+sound 34
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「亜美は、主人公の兄ちゃんを
+line2 <shift> # いじめるギリのママ役ー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （な、なに！？）
+display
+com11 0 0
+sound 35
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「じゃあ、じゃあ、真美は……、
+line2 <shift> # 兄ちゃんをいじめるギリの姉ちゃん役！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「い、いじめる設定はやめないか……」
+display
+com11 0 0
+sound 36
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「いいよ。んじゃ……、
+line2 <shift> # 亜美たちの考えたゲームしよっか」
+display
+com11 0 0
+sound 37
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「うんうん。それで決まりだねー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （は、はめられた……）
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ぼんやりのんびりゲームっていうんだ。
+line2 <shift> # 一日中、ぼんやりのんびりするっていう……」
+display
+com11 0 0
+sound 38
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「……兄ちゃん、そんなだから、
+line2 <shift> # タイクツ病にかかっちゃうんだよ」
+display
+com11 0 0
+sound 39
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「これはソーキューに治療が必要ですねー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （やっぱり、これくらいじゃ
+line2 <shift> # ごまかすことはできないか……）
+com09 0 49
+display
+location 49
+com11 0 0
+sound 40
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「えっとねー。亜美たちの考えたゲームは、
+line2 <shift> # 天使と悪魔ゲームでーっす！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「天使と悪魔……？
+line2 <shift> # 天使だけでいいんじゃないかな？　はは……」
+display
+com11 0 0
+sound 41
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ダメだよーっ！
+line2 <shift> # そしたらゲームにならないでしょー」
+display
+com11 0 0
+sound 42
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「今から、亜美と真美のどっちかが天使、
+line2 <shift> # どっちかが悪魔になりまーす！」
+display
+com11 0 0
+sound 43
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「兄ちゃんは、
+line2 <shift> # どっちが天使かを当てるんだよ」
+display
+com11 0 0
+sound 44
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「天使を当てれば、甘くておいしい
+line2 <shift> # ごほうびがありまーっす！」
+display
+com11 0 0
+sound 45
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「わーい！　パチパチパチパチ！」
+display
+com11 0 0
+sound 46
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「んじゃ、始めよっかー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「待て待て！
+line2 <shift> # 悪魔を当ててしまったらどうなるんだ？」
+display
+com11 0 0
+sound 47
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「あっ、忘れてた……」
+display
+com11 0 0
+sound 48
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「それはね〜、んっふっふ〜♪
+line2 <shift> # ナイショだもんねー」
+display
+com11 0 0
+sound 49
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「んっふっふ〜♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その無邪気な笑みが怖い……。悪魔を選ん
+line2 <shift> # だら、きっとヒドイ目に合わされるぞ！）
+display
+com11 0 0
+sound 50
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「んじゃ、いくよー！」
+display
+com11 0 0
+sound 51
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「亜美と真美、どっちが天使でしょーか！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （どっちが天使か全く解らないが……ここは
+line2 <shift> # カンで当てるしかない！）
+com03 0 2
+choice1 <shift> # Ami
+com09 0 50
+com08
+choice2 <shift> # Mami
+com09 0 51
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、亜美……！」
+display
+com11 0 0
+sound 52
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「んっふっふ〜。亜美の方を選んじゃったね」
+display
+com11 0 0
+sound 53
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「じゃあ、目をつむって、
+line2 <shift> # おくち、ア〜ンってして♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ア〜ン……」
+com37 0 1
+com1e 0 0
+com09 0 60
+com3b
+com37 0 0
+com1e 0 0
+com09 0 61
+com3b
+display
+location 51
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ま、真美……！」
+display
+com11 0 0
+sound 54
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「んっふっふ〜。
+line2 <shift> # 真美の方を選んじゃったんだ〜」
+display
+com11 0 0
+sound 55
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「じゃあ、目をつむって、
+line2 <shift> # おくち、ア〜ンってするんだよ♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ア〜ン……」
+com37 0 1
+com1e 0 0
+com09 0 60
+com3b
+com37 0 0
+com1e 0 0
+com09 0 61
+com3b
+display
+location 52
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ま、真美……！」
+display
+com11 0 0
+sound 56
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「んっふっふ〜。
+line2 <shift> # 真美の方を選んじゃったんだ〜」
+display
+com11 0 0
+sound 57
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「じゃあ、目をつむって、
+line2 <shift> # おくち、ア〜ンってするんだよ☆」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ア〜ン……」
+com09 0 61
+display
+location 60
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あ、甘い……）
+display
+com11 0 0
+sound 58
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「だいせいか〜い！」
+display
+com11 0 0
+sound 59
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ごほうびは、おいしいケーキでしたー！」
+display
+com11 0 0
+sound 60
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「いつもがんばってる兄ちゃんのために、さっき
+line2 <shift> # 二人でおこづかい出し合って買ってきたんだ！」
+display
+com11 0 0
+sound 61
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「いっぱい買ったから、おかわりしていいよー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ありがとう……！　亜美、真美……！」
+display
+com11 0 0
+sound 62
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「うんうんっ！
+line2 <shift> # それにしても、いっぱいあんねー……」
+display
+com11 0 0
+sound 63
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ダメだよ、亜美ー。兄ちゃんのなんだからー」
+display
+com11 0 0
+sound 64
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「い、１個だけー！」
+display
+com11 0 0
+sound 65
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「あ、ズル〜い！　真美も食べるー！！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （残りのケーキはあっという間に、
+line2 <shift> # 二人の胃袋におさまった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （でも、別にかまわない。
+line2 <shift> # 二人の気持ちが何よりのプレゼントだから）
+display
+com11 0 0
+sound 66
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「兄ちゃん、めちゃうまだったねー！」
+display
+com11 0 0
+sound 67
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「んっふっふ〜、またやろうね〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （待ち時間も楽しく過ごし、その後の撮影も順調
+line2 <shift> # に進んだ！　万事うまくいったな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ただ一つ気になるのは……もし悪魔を選んでい
+line2 <shift> # たら、どうなっていたのかということだな……）
+com4b 0 0
+com09 0 69
+display
+location 61
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うっ……、これは……）
+display
+com11 0 0
+sound 68
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「んっふっふ〜。
+line2 <shift> # 兄ちゃんが選んだのは悪魔でした〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ぐはぁっ……！！」
+display
+com11 0 0
+sound 69
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「あー！　吐き出しちゃダメー！」
+display
+com11 0 0
+sound 70
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「せっかく亜美たちが作ったのにー！」
+display
+com11 0 0
+sound 71
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「飲みこんでー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ぐぅ……ゴクッ……」
+display
+com11 0 0
+sound 72
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「やったー！　飲みこんだよー！！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ガクッ……」
+display
+com11 0 0
+sound 73
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「……うあうあ〜！
+line2 <shift> # 兄ちゃんが死んじゃったよ〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （い、意識が……）
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 74
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「だいじょぶ〜？　兄ちゃん……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ……。
+line2 <shift> # いったい、何を食わせたんだ？」
+display
+com11 0 0
+sound 75
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ただのおダンゴだよ。
+line2 <shift> # ワサビとカラシでつくった……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ワサビとカラシ！？」
+display
+com11 0 0
+sound 76
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「あとは中にコショウとタバスコ
+line2 <shift> # 入れただけだよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （子どもの無邪気なイタズラは、
+line2 <shift> # 本当に恐ろしい……）
+display
+com11 0 0
+sound 77
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「でも、兄ちゃんが生きててよかったねー」
+display
+com11 0 0
+sound 78
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「うんうん。この若さでサツジンハンに
+line2 <shift> # なっちゃうとこだったよー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （この後、１週間、俺の唇は腫れ上がり、
+line2 <shift> # ふたりにタラコ星人と呼ばれ続けた……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しかも倒れている間に待ち時間が終わっていた
+line2 <shift> # らしく、ＴＶ撮影開始に出遅れてしまった……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （他の出演者やスタッフに迷惑をかけてしまった
+line2 <shift> # な……。待ち時間の過ごし方、大失敗だ……）
+com4b 0 2
+com09 0 69
+display
+location 69
+unk02

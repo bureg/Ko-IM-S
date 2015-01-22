@@ -1,0 +1,238 @@
+location 100 130 170 130 179 130 170 130 179 130 193 129 73
+display
+com11 0 0
+sound 30
+com4c 0 2
+name 0 0 <names:1>  # ???
+line1 <shift> # 「ハム蔵ー！？　どこ行った、ハム蔵ー！！
+line2 <shift> # 自分が悪かった！　帰って来い、ハム蔵ーっ！」
+display
+com11 0 0
+sound 31
+com4c 0 2
+name 0 0 <names:1>  # ???
+line1 <shift> # 「自分が、君のピーナッツを勝手に食べたのは
+line2 <shift> # 謝る！　だから帰ってきてよーっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （な、なんだ、この子……？
+line2 <shift> # 異常にテンションが高いな）
+display
+com11 0 0
+sound 32
+com4c 0 2
+name 0 0 <names:1>  # ???
+line1 <shift> # 「大丈夫！　ピーナッツが無くなっても、君には
+line2 <shift> # ヒマワリのタネがある！　なんくるないさー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なんくる……？」
+display
+com11 0 0
+sound 33
+com4c 0 2
+name 0 0 <names:1>  # ???
+line1 <shift> # 「『なんくるないさー』。
+line2 <shift> # 沖縄の言葉で『なんとかなるよ』って意味！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「へえー！」
+display
+com11 0 0
+sound 34
+com4c 0 2
+name 0 0 <names:1>  # ???
+line1 <shift> # 「あっ！？
+line2 <shift> # そんなことより、そこの青年っ！！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え、俺っ！？　な、なんでしょう？」
+display
+com11 0 0
+sound 35
+com4c 0 2
+name 0 0 <names:1>  # ???
+line1 <shift> # 「うちのハム蔵、見なかった？　うっかりカゴを
+line2 <shift> # 開けっ放しにしといたら、脱走しちゃって……」
+display
+com11 0 0
+sound 36
+com4c 0 2
+name 0 0 <names:1>  # ???
+line1 <shift> # 「もう３時間も探してるんだよ！　アイツ、前に
+line2 <shift> # 自分がエサを横取りしたこと、根に持っててさ」
+display
+com11 0 0
+sound 37
+com4c 0 2
+name 0 0 <names:1>  # ???
+line1 <shift> # 「でも、仕方なかったんだ。ハム蔵が、あんまり
+line2 <shift> # おいしそうに、食べてたから、つい……！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （仕方ないのか、それ……？　でも、この子が
+line2 <shift> # 探してるのは、俺が捕まえたハムスターだよな）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そのハムスターなら……」
+com03 0 3
+choice1 <shift> # 捕まえたよ
+com09 0 30
+com08
+choice2 <shift> # 見たよ
+com09 0 31
+com08
+choice3 <shift> # 見てないよ
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そのハムスターなら、さっき捕まえたよ。
+line2 <shift> # 君が探してるのは、コイツだろ？」
+display <shift> # チュー！
+display
+com11 0 0
+sound 38
+com4c 0 2
+name 0 0 <names:1>  # ???
+line1 <shift> # 「あっ、ハム蔵！　確かに、うちのハム蔵だよ！
+line2 <shift> # うわあ、良かった。見つかって良かったー！！」
+com09 0 39
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そのハムスターなら、さっき見たよ」
+display
+com11 0 0
+sound 39
+com4c 0 2
+name 0 0 <names:1>  # ???
+line1 <shift> # 「ほんとっ？　どっち行った？　あ、きっと、
+line2 <shift> # 向こうだね！？　待て、ハム蔵ーっ！！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おいおい、待て待て！　まだ何も言ってない
+line2 <shift> # だろ？　人の話は、最後まで、きいてくれよ」
+display
+com11 0 0
+sound 40
+com4c 0 2
+name 0 0 <names:1>  # ???
+line1 <shift> # 「ぶー！　何だよー。それじゃ、
+line2 <shift> # きいてあげるから、早く話しなよ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「むう、なんか偉そうだな。まあ、いいけど。
+line2 <shift> # 君が探してたハムスターは……」
+display
+com11 0 0
+sound 41
+com4c 0 2
+name 0 0 <names:1>  # ???
+line1 <shift> # 「向こうだねっ！？
+line2 <shift> # よーし、今行くぞ、ハム蔵ーっ！！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「こらーっ！　待てって言ってるだろ？
+line2 <shift> # ちょっとは落ち着いてくれよ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ほら、君のハムスター、コイツじゃないか？」
+display <shift> # チュー！
+display
+com11 0 0
+sound 42
+com4c 0 2
+name 0 0 <names:1>  # ???
+line1 <shift> # 「あーっ、ハム蔵！？　もーっ！　捕まえたなら、
+line2 <shift> # 捕まえたって、早く言ってくれればいいのに！」
+display
+com11 0 0
+sound 43
+com4c 0 2
+name 0 0 <names:1>  # ???
+line1 <shift> # 「でも、良かった！　一時は、もう二度とハム蔵
+line2 <shift> # に会えないかと……。本当に良かったー！」
+com09 0 39
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「見てないよ、ハムスターなんて」
+display
+com11 0 0
+sound 44
+com4c 0 2
+name 0 0 <names:1>  # ???
+line1 <shift> # 「そっかぁ……。うう、ハム蔵、もう会えないの
+line2 <shift> # かな……。ううう、うぎゃー！　うわーんっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あああ、泣いちゃった。ご、ごめん！
+line2 <shift> # 本当は、さっき捕まえておいたんだ。ほら！」
+display <shift> # チュー！
+display
+com11 0 0
+sound 45
+com4c 0 2
+name 0 0 <names:1>  # ???
+line1 <shift> # 「あっ、ハム蔵！　確かに、うちのハム蔵だよ！
+line2 <shift> # ううっ。なんでウソなんか、つくんだよー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ごめん。なんとなく……」
+display
+com11 0 0
+sound 46
+com4c 0 2
+name 0 0 <names:1>  # ???
+line1 <shift> # 「まあ、いいけどさ。見つかっただけでうれしい
+line2 <shift> # から……。良かったー！　ハム蔵ーっ！！」
+com09 0 39
+display
+location 39
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あはは……。良かったね」
+display
+com11 0 0
+sound 47
+com4c 0 2
+name 0 0 <names:1>  # ???
+line1 <shift> # 「うんっ！　ありがとうっ！！
+line2 <shift> # 一生懸命探して、良かったよ！」
+display
+com11 0 0
+sound 48
+com4c 0 2
+name 0 0 <names:1>  # ???
+line1 <shift> # 「ごめんね、ハム蔵。迷子になって怖かった？
+line2 <shift> # もう、どこにも行っちゃダメだぞ。ぐすっ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （……あれ？　この子、いい表情するなあ。
+line2 <shift> # 人をひきつける、華やかな表情だ）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （トップアイドルの原石、だったりして？）
+display
+com11 0 0
+sound 49
+com4c 0 2
+name 0 0 <names:1>  # ???
+line1 <shift> # 「じゃ、ハム蔵も見つかったし、自分、
+line2 <shift> # 帰りまーっす！　ありがとね！　バイバイっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あっ！　君、名前は！？　……くっ。もう行っ
+line2 <shift> # ちゃったのか。今日は置いてかれてばかりだな」
+display
+com4a 0 0
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （今の子、７６５プロにスカウトすべきだった
+line2 <shift> # かな？　アイドルの素質ありそうだったけど）
+com09 0 100
+display
+unk02

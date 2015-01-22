@@ -1,0 +1,479 @@
+com2c 0 113
+com2c 0 24
+com2d 0 11
+com2e 0 131
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うーん！　気持ちのいい朝だ！　今日は、
+line2 <shift> # いつもより早く出て、寄り道でもするかな？）
+com03 0 2
+choice1 <shift> # どこかに寄り道する
+line2
+com09 0 10
+com08
+choice2 <shift> # まっすぐ事務所に行く
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （早く行こう！
+line2 <shift> # やる気のあるところ、見せないとな！）
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よし、どこかに寄るか。……あ。
+line2 <shift> # でも、せっかく気分がいいのに……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （寄り道なんかで、時間をムダにするのは、
+line2 <shift> # もったいないような気もしてきた……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （むう。やっぱりここは、早く事務所へ行こう
+line2 <shift> # かな。やる気のあるところ、見せないとな！）
+display
+com22 0 30
+com21 0 30
+com32 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おはようございまーっす！　……むう、
+line2 <shift> # 誰もいないのか？　さすがに早く来すぎたか」
+display
+com11 0 0
+sound 10000
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「……あふぅ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あれっ、君は……？　７６５プロのアイドル
+line2 <shift> # 候補生かい？　何で、こんな所で寝てるんだ？」
+display
+com11 0 0
+sound 10001
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「ママ。眠気ざましに、キャラメルマキアート
+line2 <shift> # 作って……。ミキ、眠いの。……あふぅ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、俺は君のママじゃ……」
+display
+com11 0 0
+sound 10002
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「早く作って。おーねーがーいー☆
+line2 <shift> # ねえ、ママってばー……。ＺＺＺ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「こ、こら！　抱きつくな！　寝るなーっ！
+line2 <shift> # 頼むから、放してくれ。誰かーっ！」
+display
+com11 0 0
+sound 10003
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「ム！　君達、そんな所で抱き合うとはハレンチ
+line2 <shift> # な！　これはいったい、どういうことかね！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「しゃ、社長っ！」
+com03 0 3
+choice1 <shift> # 助けて下さい！
+line2
+com09 0 20
+com08
+choice2 <shift> # 不審者です！
+line2
+com09 0 21
+com08
+choice3 <shift> # 二人の仲を許して下さい！
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （やっぱり、まっすぐ事務所に行こう。
+line2 <shift> # それじゃ、ゆっくりと、準備でもするか……）
+com09 0 99
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「助けて下さい！　急に、この子が抱きついて
+line2 <shift> # きて……。どうやら寝ぼけているみたいです」
+display
+com11 0 0
+sound 10004
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「なんだと？　しょうがないな、美希君は。
+line2 <shift> # 起きたまえ、美希君。美希君っ！」
+display
+com11 0 0
+sound 10005
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「むにゃむにゃ……。あふぅ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お、起きませんね」
+display
+com11 0 0
+sound 10006
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「仕方ない。奥の手を使おう。
+line2 <shift> # ……おやっ！　こんな所に、おにぎりがっ！」
+display
+com11 0 0
+sound 10007
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「えっ、おにぎり！？　どこどこっ？
+line2 <shift> # ねえ、社長。ミキのおにぎり、どこっ！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ふう、やっと起きてくれたか……」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「不審者です！　この子が、急に俺をおそって
+line2 <shift> # きて……。うう、怖かったです、社長！」
+display
+com11 0 0
+sound 10008
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「そうか、そうか。かわいそうにな。
+line2 <shift> # さぞ、怖かっただろう……」
+display
+com11 0 0
+sound 10009
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「へえー、社長と、そこの人、
+line2 <shift> # そういう関係なんだー……」
+display
+com11 0 0
+sound 10010
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「み、美希君っ！　何をどう誤解しているのか
+line2 <shift> # 知らないが、君の想像は間違っているぞ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、何はともあれ、起きてくれて、
+line2 <shift> # 良かったです。はあ……」
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「二人の仲を許して下さい！　このまま結婚式を
+line2 <shift> # あげに、海辺の教会へ行かせて下さいっ！」
+display
+com11 0 0
+sound 10011
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「ならんっ！　美希君は、ただ寝ぼけているだけ
+line2 <shift> # だ！　君達の間に、許すような仲などないっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……そこまでわかっているなら、
+line2 <shift> # 早く、この子を起こして下さいよ」
+display
+com11 0 0
+sound 10012
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「それもそうだね……。美希君！　いい加減に起
+line2 <shift> # きないと勝手に結婚式をあげられてしまうぞ？」
+display
+com11 0 0
+sound 10013
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「むー。ウルサイなぁ……。あふぅ……」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ところで、社長。この子は？」
+display
+com11 0 0
+sound 10014
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「おお！　そういえば、紹介が、まだだったね。
+line2 <shift> # こちらは星井美希君。将来有望な新人だよ！」
+display
+com11 0 0
+sound 10015
+com4c 0 2
+name 0 0 <names:4>  # Miki
+line1 <shift> # 「大型新人のミキだよー！
+line2 <shift> # よろしくねっ、そこの人☆」
+display
+com11 0 0
+sound 10016
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「こらっ！　この人は『そこの人』じゃなくて、
+line2 <shift> # れっきとしたプロデューサーだよ、美希君！」
+display
+com11 0 0
+sound 10017
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「目下、彼の担当アイドルと２人３脚で、
+line2 <shift> # 我が７６５プロを支えてくれているホープだぞ」
+display
+com11 0 0
+sound 10018
+com4c 0 2
+name 0 0 <names:4>  # Miki
+line1 <shift> # 「ふーん、そうなんだ。ちょっと残念なの。ミキ
+line2 <shift> # のプロデュース、して欲しかったって思うな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、プロデュース可能なアイドル候補生の
+line2 <shift> # 中に、君の名前は、無かったけど……」
+display
+com11 0 0
+sound 10019
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「美希君は、とにかく世間知らずでね。
+line2 <shift> # まだデビューできるような段階ではないのだよ」
+display
+com11 0 0
+sound 10020
+com4c 0 2
+name 0 0 <names:4>  # Miki
+line1 <shift> # 「むー。社長のケチ！
+line2 <shift> # ミキ、早くデビューしてみたいのにな」
+display
+com11 0 0
+sound 10021
+com4c 0 2
+name 0 0 <names:4>  # Miki
+line1 <shift> # 「ミキが、そこそこ頑張れば、
+line2 <shift> # まあまあ人気出ると思うよ？」
+display
+com11 0 0
+sound 10022
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「『そこそこ』や『まあまあ』では、
+line2 <shift> # ダメなのだよ、美希君……」
+display
+com11 0 0
+sound 10023
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「君は、アイドルになることを軽く考えすぎだ。
+line2 <shift> # 無責任な気持ちでは、仕事は、できないのだよ」
+display
+com11 0 0
+sound 10024
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「今日だって、事務所の掃除を頼んだのに、
+line2 <shift> # 放ったらかして、寝ていたのだろう？」
+display
+com11 0 0
+sound 10025
+com4c 0 2
+name 0 0 <names:4>  # Miki
+line1 <shift> # 「う……。そ、そんなことないの。寝ながら掃除、
+line2 <shift> # してたもん。ねっ？　そうだよね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ。掃除は……」
+com03 0 3
+choice1 <shift> # している夢を見てた
+line2
+com09 0 30
+com08
+choice2 <shift> # していた
+com09 0 31
+com08
+choice3 <shift> # していなかった
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「掃除は……、している夢を見てたみたいでした
+line2 <shift> # よ。寝言で、そんなようなこと、言ってました」
+display
+com11 0 0
+sound 10026
+com4c 0 2
+name 0 0 <names:4>  # Miki
+line1 <shift> # 「ほ、ほらっ！　掃除しようっていう気持ちは、
+line2 <shift> # あったんだよ。ただ、眠すぎただけなの！」
+display
+com11 0 0
+sound 10027
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「本当かねえ……。まあ、いい。
+line2 <shift> # ちゃんと責任は果たしたまえよ、美希君」
+display
+com11 0 0
+sound 10028
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「では、私は社長室にいるから、
+line2 <shift> # 終わったら、声をかけてくれたまえ」
+com09 0 39
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「掃除は……、ああ、そうそう！　していました。
+line2 <shift> # 眠ったまま器用にやってましたよ。ははは……」
+display
+com11 0 0
+sound 10029
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「苦しいウソはやめたまえ。だったら何故、
+line2 <shift> # 私が見つけた時、君に抱きついていたのかね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えーと、それはその……」
+display
+com11 0 0
+sound 10030
+com4c 0 2
+name 0 0 <names:4>  # Miki
+line1 <shift> # 「とにかくミキ、掃除はしたもん！　もう
+line2 <shift> # いいでしょ？　社長は、向こう行っててなの！」
+display
+com11 0 0
+sound 10031
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「こら、美希君！　押すんじゃないっ！
+line2 <shift> # 君！　私は、しばらく社長室にいるからね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「は、はいっ！」
+com09 0 39
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「掃除は……、していなかったです。
+line2 <shift> # どう見ても」
+display
+com11 0 0
+sound 10032
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「やはりな。ウソをついたのだね、美希君っ！」
+display
+com11 0 0
+sound 10033
+com4c 0 2
+name 0 0 <names:4>  # Miki
+line1 <shift> # 「ひゃん！　怒っちゃ……、や！
+line2 <shift> # ううう……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、でも、これからしようとしていたのかも！
+line2 <shift> # なんとなく、そういう気配を感じましたから」
+display
+com11 0 0
+sound 10034
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「君は、気配で、相手が次に、
+line2 <shift> # 何をしようとしているか、わかるのかね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「は、はい。俺って武道家の素質とか、
+line2 <shift> # あるのかもしれませんね。ははは……」
+display
+com11 0 0
+sound 10035
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「まあ、いい。君に免じて、今日は見逃そう。
+line2 <shift> # 美希君、ちゃんと掃除はしていきたまえよ？」
+display
+com11 0 0
+sound 10036
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「では、私は社長室にいるからね」
+com09 0 39
+display
+location 39
+com11 0 0
+sound 10037
+com4c 0 2
+name 0 0 <names:4>  # Miki
+line1 <shift> # 「ふぅ。やっとジャマ者が、いなくなったの」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ジャマ者って……、あの人は一応、
+line2 <shift> # この７６５プロの社長だよ？」
+display
+com11 0 0
+sound 10038
+com4c 0 2
+name 0 0 <names:4>  # Miki
+line1 <shift> # 「ミキには関係ないもん！　……ねえ、さっきは、
+line2 <shift> # ミキのこと、かばってくれて、ありがとうなの」
+display
+com11 0 0
+sound 10039
+com4c 0 2
+name 0 0 <names:4>  # Miki
+line1 <shift> # 「ミキ的には、女の子をかばってくれる、強くて
+line2 <shift> # 優しい男の子は、信用できるってカンジ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「はは……、ありがとう」
+display
+com11 0 0
+sound 10040
+com4c 0 2
+name 0 0 <names:4>  # Miki
+line1 <shift> # 「ねえ、今やってるプロデュースが終わったら、
+line2 <shift> # ミキのこと、プロデュースして欲しいな！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ。いや、それは約束できないけど……」
+display
+com11 0 0
+sound 10041
+com4c 0 2
+name 0 0 <names:4>  # Miki
+line1 <shift> # 「えー、なんで？　ねえ、お願いなの！
+line2 <shift> # いつでもいいから。ね？　ねっ？」
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うわっ！　だから、
+line2 <shift> # 気軽に抱きつこうとするなって！」
+com09 0 100
+display
+location 100
+location 99
+unk02

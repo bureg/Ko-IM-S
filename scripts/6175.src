@@ -1,0 +1,331 @@
+com2c 0 24
+com2d 0 11
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （仕事の合間のオフ時間、事務所で、
+line2 <shift> # 休けいすることになった……）
+display
+com11 0 0
+sound 100
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「今日は、なんだか暑いですね、
+line2 <shift> # プロデューサーさん」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだな、急に蒸し暑くなってきたなぁ」
+display
+com11 0 0
+sound 101
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「こんな日は、何か冷たいものでも……。
+line2 <shift> # そうだ、アイス！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お、いいね！」
+com03 0 2
+choice1 <shift> # じゃ、俺が買ってこよう
+line2
+com09 0 10
+com08
+choice2 <shift> # 春香、買ってきて
+line2
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃ、俺が買ってこようか、アイス」
+display
+com11 0 0
+sound 102
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あっ、ありますよ。冷蔵庫に」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あれ、そうなの？　気がつかなかったな」
+display
+com11 0 0
+sound 103
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「私、とってきますね」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「春香、今から買ってくるか？
+line2 <shift> # 頼んじゃおうかな」
+display
+com11 0 0
+sound 104
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、実はもう、冷蔵庫にあるんですよ。
+line2 <shift> # 持ってきますね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「買ってきてあるのか？　気がつかなかった。
+line2 <shift> # しかし、春香のおごりってのも悪い気が」
+display
+com11 0 0
+sound 105
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、いえ、買ったわけじゃ、
+line2 <shift> # ないんですけど……」
+display
+com11 0 0
+sound 106
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ちょっと待ってて下さいね。
+line2 <shift> # ええと、確か、このへんに……」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 107
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ちゃんとお皿に盛りつけして、フルーツ
+line2 <shift> # ソースをかけて……。よしっ、できたっ♪」
+display
+com11 0 0
+sound 108
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「プロデューサーさん、
+line2 <shift> # お待たせしました……、ああっ！」
+display <shift> # どんがらがっしゃーん！
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だ、大丈夫か春香。いつになく派手に、
+line2 <shift> # 転んじゃったな……。ケガはないか？」
+display
+com11 0 0
+sound 109
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「私は大丈夫……。
+line2 <shift> # でも、アイスが、アイスがっ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「こりゃまた、派手に、こぼしたな。
+line2 <shift> # 床一面、アイスまみれだ」
+display
+com11 0 0
+sound 110
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ううっ、すみません。
+line2 <shift> # せっかく、用意したのに……」
+com03 0 3
+choice1 <shift> # いや、まだ食べられる
+line2
+com09 0 20
+com08
+choice2 <shift> # 泣くな、代わりはある
+line2
+com09 0 21
+com08
+choice3 <shift> # 不注意だな春香
+line2
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、まだ食べられる。多少、
+line2 <shift> # 床に落としても、どうってことない」
+display
+com11 0 0
+sound 111
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ええっ、そんな。ほとんど、
+line2 <shift> # こぼしちゃいましたよぉ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「床に落ちたのは諦めよう……。でも、皿に、
+line2 <shift> # 残ってるところだけでも、もらえないかな」
+display
+com11 0 0
+sound 112
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「いいんですか？　ちゃんと、
+line2 <shift> # 盛りつけしたものじゃなくって」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もしかして、特別なアイスなんじゃないのか？
+line2 <shift> # だとしたら、もったいない」
+display
+com11 0 0
+sound 113
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「特別……。はっ、はい！
+line2 <shift> # 実は、これ、私の手作りなんです！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え！　手作り？　春香、アイスまで作れる
+line2 <shift> # のか！？　それはすごいな！！」
+display
+com11 0 0
+sound 114
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「で、でも、こんなにうまく作れたのは、
+line2 <shift> # 初めてで……。あ、ちょっと待って下さい」
+display
+com11 0 0
+sound 115
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「食べられそうなところ、なるべくきれいに、
+line2 <shift> # とりますから……。はい、どうぞっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どれどれ……。む、うまいな！
+line2 <shift> # 皿ごと食べたいくらいだよ」
+display
+com11 0 0
+sound 116
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「えへへ……。ひとくちだけでも、
+line2 <shift> # おいしいですよね♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （春香は残り少ないアイスを工夫して盛りつけ、
+line2 <shift> # 俺に食べさせてくれた）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （手作りアイスを食べる涼やかな時間……。
+line2 <shift> # 春香と過ごすこんなオフも、いいものだな）
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「泣くな、アイスなんて、代わりは他にもある」
+display
+com11 0 0
+sound 117
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「で、でも！　でも！！　……うううっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「落ち着けって。そんなにアイスが、
+line2 <shift> # 食べたかったのか？」
+display
+com11 0 0
+sound 118
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そうじゃなくて、プロデューサーさんに、
+line2 <shift> # 食べて欲しくて……、せっかく用意したのに」
+display
+com11 0 0
+sound 119
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「このアイス、これだけで終わりなんですよぅ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「何っ！？　限定アイスなのかっ？」
+display
+com11 0 0
+sound 120
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「実は、これ私の手作りで……。
+line2 <shift> # ちゃんと食べて欲しかったんです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うっ、そ、そうだったのか。
+line2 <shift> # それは惜しいな……」
+display
+com11 0 0
+sound 121
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あーあ、こんなにうまく作れることなんて、
+line2 <shift> # なかなか、ないのになぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか、残念だ……。しかし、またうまく、
+line2 <shift> # 作ればいいんだ！　春香ならできる！」
+display
+com11 0 0
+sound 122
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はっ……。そ、そうですね。今回だって、
+line2 <shift> # きっと、まぐれなんかじゃないはず……！」
+display
+com11 0 0
+sound 123
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「私また、がんばってみますっ！　できたら、
+line2 <shift> # 絶対食べて下さいね、プロデューサーさんっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後は、床に、こぼれたアイスを、
+line2 <shift> # 春香と一緒に片付けた）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今回はもったいなかったけど、春香は何事にも
+line2 <shift> # めげずに奮起してくれるはず……。期待しよう）
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「不注意だったな、春香……」
+display
+com11 0 0
+sound 124
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「不注意……。うううっ、そうですよね。
+line2 <shift> # すみません、プロデューサーさん」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、いや、俺も、もうちょっと注意していれば、
+line2 <shift> # こんなことにならなかったんだ、たぶん」
+display
+com11 0 0
+sound 125
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「でも、私が、こんなによく転ぶのは、
+line2 <shift> # やっぱり、私の不注意じゃ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「気にするな。それに、泣くな。
+line2 <shift> # ひとまず、片付けよう、な」
+display
+com11 0 0
+sound 126
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい。ああっ。でも、なんだかほんとに、
+line2 <shift> # すみません、プロデューサーさん……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「過ぎたことは、仕方ないさ。大事には、
+line2 <shift> # 至らなかったんだから、いいじゃないか」
+display
+com11 0 0
+sound 127
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「だってアイスがっ……。
+line2 <shift> # その、やっぱり、食べて欲しかったから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「アイスなら、いつでも食べられるんだし、
+line2 <shift> # そんなに気を落とすな」
+display
+com11 0 0
+sound 128
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「でも、その……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さ、早いとこ掃除しちゃおう。
+line2 <shift> # でないと、床にシミができるぞ」
+display
+com11 0 0
+sound 129
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そうですね……。いろいろ気にしすぎですね、
+line2 <shift> # 私。じゃ、片付けます……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （春香は、しばらく名残惜しそうに、床に溶けた
+line2 <shift> # アイスを見ていたが、やがて片付けをはじめた）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後姿は、少し元気がなかった。もう少し
+line2 <shift> # 優しく言ってやればよかったんだろうか……？）
+com09 0 29
+display
+location 29
+unk02

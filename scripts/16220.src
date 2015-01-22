@@ -1,0 +1,229 @@
+com2c 0 93
+com2d 0 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ここが、やよいの家か……。こんなとこで、
+line2 <shift> # ミーティングってのも、いいな」
+display
+com11 0 2
+sound 1100
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はい。その……。せ、せ、せまくて……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「小さくても、居心地のいい感じがする」
+display
+com11 0 2
+sound 1101
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ほんとに、そう思いますかっ？
+line2 <shift> # ……えへへ、借家なんですけどね」
+display
+com11 0 2
+sound 1102
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「お父さん、職、点々としてるから、
+line2 <shift> # これぐらいのところが、精一杯で……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今日は、家族は、いないのか？」
+display
+com11 0 2
+sound 1103
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はい！　だから、プロデューサー呼んでも、
+line2 <shift> # 平気かなって」
+com03 0 2
+choice1 <shift> # 入れてくれて、ありがとな
+line2
+com09 0 10
+com08
+choice2 <shift> # 俺は、留守番代わりか？
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「入れてくれて、ありがとな」
+display
+com11 0 2
+sound 1104
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「え、なんで、お礼なんて……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「家にまで、あげてくれるってことは、
+line2 <shift> # 信頼してくれてるからだろ？」
+display
+com11 0 2
+sound 1105
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「もちろんですっ。
+line2 <shift> # だって、私のプロデューサーだし！」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺は、留守番代わりか？」
+display
+com11 0 2
+sound 1106
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そ、そんな理由で、
+line2 <shift> # 来てもらったんじゃないです〜」
+display
+com11 0 2
+sound 1107
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ただ、見てもらいたかっただけ。私が、
+line2 <shift> # 小さい頃からずっと住んでる、この家……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか、ごめん……」
+com09 0 19
+display
+location 19
+com11 0 2
+sound 1108
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「それで、ど、どうでしょう？　ここ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え？　どうって、感想は、さっき……」
+display
+com11 0 2
+sound 1109
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そうじゃなくて、たまに寄ってみよーっとか、
+line2 <shift> # 思いませんか……？」
+com03 0 3
+choice1 <shift> # ……思う
+com09 0 20
+com08
+choice2 <shift> # 迷惑じゃないか？
+line2
+com09 0 21
+com08
+choice3 <shift> # とくに思わないな
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……思う」
+display
+com11 0 2
+sound 1110
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「プロデューサー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そのうち、やよいの家族とも、
+line2 <shift> # 会ってみたいしな」
+display
+com11 0 2
+sound 1111
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えへへ、きっと、みんな、大よろこびです！
+line2 <shift> # ぜーったい、来て下さいねっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （公私のない結びつき……。それがアイドルと、
+line2 <shift> # プロデューサーの、理想形なのかもな）
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「迷惑じゃないか？」
+display
+com11 0 2
+sound 1112
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そんなことないですっ。だ、だから……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、５人兄弟だろ？
+line2 <shift> # 俺が来たら、ギュウギュウになるんじゃ……」
+display
+com11 0 2
+sound 1113
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「誰か、外に行かせます！
+line2 <shift> # 私が出ていってもいいし……」
+display
+com11 0 2
+sound 1114
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あああ、それじゃ、意味が〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お、落ち着けって。わかった。
+line2 <shift> # じゃあ、人の少ない時にな」
+display
+com11 0 2
+sound 1115
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「……あ、はい！　また今日みたいな日、
+line2 <shift> # きっとありますから、その時に！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （たまには、家庭訪問もいいか。
+line2 <shift> # まあ、常識の範囲内で、足を運ぶことにしよう）
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「とくに思わないな」
+display
+com11 0 2
+sound 1116
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「………………あ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やよいとは、いつも会ってるんだし、
+line2 <shift> # わざわざ、ここに来ることもないだろ？」
+display
+com11 0 2
+sound 1117
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そう言われてみると……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今日、こうして見せてもらったわけだし、
+line2 <shift> # それだけでも満足だよ」
+display
+com11 0 2
+sound 1118
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「……楽しかったですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ」
+display
+com11 0 2
+sound 1119
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「なら、よかったです……。そうですよね。
+line2 <shift> # 事務所でも、ずっと顔合わせてるんだし！」
+display
+com11 0 2
+sound 1120
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「わ、私、すこしヘンなこと言っちゃいましたね。
+line2 <shift> # は、反省、反省……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （なんだろ？　そんなに家に立ち寄ってほしいの
+line2 <shift> # か？　あまり、意味ないと思うけど……）
+com09 0 29
+display
+location 29
+unk02

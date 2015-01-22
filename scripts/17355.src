@@ -1,0 +1,565 @@
+com2c 0 17
+com2d 0 33
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「この休憩が終わったら、いよいよクイズ
+line2 <shift> # 『ビリオンマニア』の、最終関門だな」
+display
+com11 0 0
+sound 0
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うあ〜！
+line2 <shift> # プロデューサー、もうダメですよー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なに言ってるんだ、やよい。
+line2 <shift> # ここまでのクイズ、全問正解だぞ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やよいって意外と、こういうクイズ
+line2 <shift> # 得意だったんだな」
+display
+com11 0 0
+sound 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そんなわけないですー！
+line2 <shift> # ４択だったから、全部、カンで……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「全部、カン？　……ってことは、
+line2 <shift> # まさか一問もわからずに、ここまで？」
+display
+com11 0 0
+sound 2
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はいー……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、それはそれで、すごいじゃないか！
+line2 <shift> # 運だけでここまで来たんだから」
+display
+com11 0 0
+sound 3
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「で、でも……もうダメですよ〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あとは司会者とのジャンケンだけだ。
+line2 <shift> # あの司会者、すごくジャンケン強いんだよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「毎週、クイズで勝ち上がった挑戦者を、あの
+line2 <shift> # 司会者がジャンケンで蹴落としてるんだよな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、今のやよいなら……
+line2 <shift> # こんなにツイてるんだから、きっと勝てるさ！」
+display
+com11 0 0
+sound 4
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ううう〜、緊張で……
+line2 <shift> # 目の前が真っ白になってきました……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ちょっと待て！
+line2 <shift> # ここまで来て気絶なんかするなよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （プロデューサーとして、
+line2 <shift> # ここはなんとかしてやらないと……！）
+com03 0 3
+choice1 <shift> # 賞品は目の前だぞ
+line2
+com09 0 10
+com08
+choice2 <shift> # 司会者をカボチャと思え
+line2
+com09 0 11
+com08
+choice3 <shift> # これは夢なんだ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「落ち着け！　賞品のハワイ旅行は、
+line2 <shift> # もうすぐそこだぞ！」
+display
+com11 0 0
+sound 5
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「は、はわいー！　そうでしたー！　ハワイが、
+line2 <shift> # 私のジャンケンにかかって……うあ〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （落ち着かせるつもりが、
+line2 <shift> # 逆にプレッシャーを与えてしまったようだ……）
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「司会者をカボチャだと思うんだ」
+display
+com11 0 0
+sound 6
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そ、そうですね……。
+line2 <shift> # 司会者はカボチャ……カボチャ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、いいぞ！」
+display
+com11 0 0
+sound 7
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「私はニンジン……ニンジン……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「や、やよい……？」
+display
+com11 0 0
+sound 8
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あっ！　カボチャが
+line2 <shift> # 目の前の坂を転がり落ちていきますー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やよい！　目の前に坂なんかないぞ！
+line2 <shift> # しっかりするんだ！」
+display
+com11 0 0
+sound 9
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うあ〜！　私のカボチャがー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （アドバイスしたつもりが
+line2 <shift> # よけいに錯乱させてしまうとは……）
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「落ち着け、やよい。
+line2 <shift> # これは夢だ！　夢なんだ！」
+display
+com11 0 0
+sound 10
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えええっ！　今までのこと
+line2 <shift> # ぜんぶ夢だったんですか〜！！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、そうだ……」
+display
+com11 0 0
+sound 11
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うあ〜！　あんなに頑張ったのに、
+line2 <shift> # ぜんぶ夢だったなんて〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「や、やよい……？」
+display
+com11 0 0
+sound 12
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ど、どこからが夢なんですか？
+line2 <shift> # もしかして、アイドルになったのも夢！？」
+display
+com11 0 0
+sound 13
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そ、そんなのイヤかもー！！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「落ち着け、やよい。今のはウソだ！
+line2 <shift> # これは現実だぞ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （落ち着かせるつもりだったのに、
+line2 <shift> # よけいに錯乱させてしまうとは……）
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （こうなったら、話をそらして、
+line2 <shift> # 気を紛らわせるか……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「賞品のハワイ旅行は、
+line2 <shift> # 確かペア１組だったよな？」
+display
+com11 0 0
+sound 14
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「は、はい！　そうです〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし！　誰と行くのか、俺が当ててやろう」
+com03 0 3
+choice1 <shift> # 彼氏だろう
+com09 0 30
+com08
+choice2 <shift> # 俺……？
+com09 0 31
+com08
+choice3 <shift> # まさか……社長と？
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「彼氏だろう？
+line2 <shift> # 同じ学校に、いるんじゃないか？」
+display
+com11 0 0
+sound 15
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ええーっ！　私、まだ中学生だし、
+line2 <shift> # カレシなんかいませんよー！」
+display
+com11 0 0
+sound 16
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「それに、同じ学校の中学生同士で海外旅行だな
+line2 <shift> # んて、危なすぎますー！　先生に怒られます！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃあ、誰と行くんだ？」
+display
+com11 0 0
+sound 17
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そ、それはですね……」
+com09 0 39
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もしかして……俺だったりして……」
+display
+com11 0 0
+sound 18
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ぷ、プロデューサーには
+line2 <shift> # お世話になってるけど……ちがいます……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そっか。そうだよなー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うっ……。ちょっと期待していただけに、
+line2 <shift> # ショックかも……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃあ、誰と行くんだ？」
+display
+com11 0 0
+sound 19
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そ、それはですね……」
+com09 0 39
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まさか……社長と？」
+display
+com11 0 0
+sound 20
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うあー、ちがいますー！
+line2 <shift> # なんで、そこで社長が出てくるんですかー！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうだよなー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （万が一ということも、
+line2 <shift> # あるかもしれないと思ったが……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃあ、誰と行くんだ？」
+display
+com11 0 0
+sound 21
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そ、それはですね……」
+com09 0 39
+display
+location 39
+com11 0 0
+sound 22
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あの、両親にプレゼントしたいんです。
+line2 <shift> # お父さんとお母さんの新婚旅行に……って」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「新婚旅行？」
+display
+com11 0 0
+sound 23
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うち、昔から貧乏だったみたいで、両親、
+line2 <shift> # 新婚旅行も行ってないらしいんです〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだったのか……」
+display
+com11 0 0
+sound 24
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「私の稼いだお金で、一度、国内旅行を
+line2 <shift> # プレゼントしようとしたんですけどー……」
+display
+com11 0 0
+sound 25
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「お母さん、やよいの稼いだお金を、
+line2 <shift> # 自分の楽しみのためには使えないって……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか。あ、でも、賞品だったら気兼ねなく
+line2 <shift> # 行ってもらえるもんな」
+display
+com11 0 0
+sound 26
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はい！　だから、ここまで来たら
+line2 <shift> # 絶対に勝ちたいんですー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「大丈夫。今までの調子でいけば、勝てるさ！」
+display
+com11 0 0
+sound 27
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「今までの調子……ううう〜。思い出したら、
+line2 <shift> # また緊張してきました〜！！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （せっかくリラックスし始めてたのに、
+line2 <shift> # また緊張モードに逆戻りか……）
+display
+com11 0 0
+sound 28
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ぷ、プロデューサー、
+line2 <shift> # た、助けて下さいー！！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「頑張れ、やよい。
+line2 <shift> # 俺にできることなら、何でもするぞ！」
+display
+com11 0 0
+sound 29
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ほ、本当ですかっ！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、ああ……。
+line2 <shift> # 何かして欲しいことがあるのか？」
+display
+com11 0 0
+sound 30
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「は、はい！　ジャンケンで
+line2 <shift> # 何を出せばいいか、決めて下さい！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お、俺が……？」
+display
+com11 0 0
+sound 31
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はい！　プロデューサーが決めてくれたら、
+line2 <shift> # まちがいないです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、しかし……」
+display
+com11 0 0
+sound 32
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「大丈夫です！　今までも、プロデューサーは
+line2 <shift> # いつもちゃんと私を助けてくれたし！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （とても、断れそうな空気じゃない……。
+line2 <shift> # こうなったら、一か八かだ……！）
+com03 0 3
+choice1 <shift> # グーだ！
+com09 0 40
+com08
+choice2 <shift> # チョキだ！
+com09 0 41
+com08
+choice3 <shift> # パーだ！
+com09 0 42
+com08
+com07
+com09 0 43
+com08
+display
+location 40
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「グーだ！」
+com37 0 1
+com1e 0 0
+com09 0 50
+com3b
+com37 0 0
+com1e 0 0
+com09 0 51
+com3b
+display
+location 41
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「チョキだ！」
+com37 0 1
+com1e 0 0
+com09 0 50
+com3b
+com37 0 0
+com1e 0 0
+com09 0 51
+com3b
+display
+location 42
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「パーだ！」
+com37 0 1
+com1e 0 0
+com09 0 50
+com3b
+com37 0 0
+com1e 0 0
+com09 0 51
+com3b
+display
+location 43
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「パーだ！」
+com09 0 51
+display
+location 50
+com11 0 0
+sound 33
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「わかりました！
+line2 <shift> # プロデューサーを信じます！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そう言って、やよいは会場に向かった。
+line2 <shift> # そして……）
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 34
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「やりましたー！
+line2 <shift> # プロデューサー、勝ちましたー！　いぇい！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし！　やったな、やよい！」
+display
+com11 0 0
+sound 35
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はいっ！　これで両親に
+line2 <shift> # 新婚旅行をプレゼントできます〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「きっと、ご両親もよろこぶよ」
+display
+com11 0 0
+sound 36
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「これも、みんなみんな、
+line2 <shift> # プロデューサーのおかげですよー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなことないさ。
+line2 <shift> # みんなやよいの実力だって」
+display
+com11 0 0
+sound 37
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「でもでも、プロデューサーがいたから、
+line2 <shift> # この番組にも出場できたんです！」
+display
+com11 0 0
+sound 38
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「私、もっともっと頑張ります！
+line2 <shift> # プロデューサーに恩返しできるように」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そう言って、やよいはうれしそうに笑った。
+line2 <shift> # でもな、やよい……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （もう、俺が与えたより多くのものを、
+line2 <shift> # 君からもらってる気がするんだ……）
+com4b 0 0
+com09 0 69
+display
+location 51
+com11 0 0
+sound 39
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「わかりました！
+line2 <shift> # プロデューサーを信じます！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そう言って、やよいは会場に向かった。
+line2 <shift> # そして……）
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 40
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ま、真っ白に燃えつきちゃいました……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「す、すまない……。
+line2 <shift> # 俺が考えた手が裏目に出て……」
+display
+com11 0 0
+sound 41
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ち、ちがいますー！
+line2 <shift> # 自分で決められなかった、私が悪いんですー！」
+display
+com11 0 0
+sound 42
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「それに多分、最終関門までに
+line2 <shift> # 運を使い切っちゃってたんだと思います……」
+display
+com11 0 0
+sound 43
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「……だから、みんな私が悪いんですー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （必死になって俺をフォローしようとする、
+line2 <shift> # やよいが痛々しかった……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ごめんな、やよい。俺が、あの時、
+line2 <shift> # ちがう手を選んでいれば……！）
+com4b 0 2
+com09 0 69
+display
+location 69
+unk02

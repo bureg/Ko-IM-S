@@ -1,0 +1,266 @@
+com2c 0 57
+com2c 0 49
+com2d 0 33
+com32 0 0
+com43 0 3
+com11 0 4
+sound 800
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「道で歌うんですかー！？
+line2 <shift> # うっうー、楽しそうっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まだキャリアが浅いから……、
+line2 <shift> # こういうのも仕掛けていかないとな」
+display
+com11 0 4
+sound 801
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「歌、きいたら……、
+line2 <shift> # 何人かはファンになってくれるかなあ」
+com03 0 3
+choice1 <shift> # 欲は出さずにいこう
+line2
+com09 0 10
+com08
+choice2 <shift> # そう期待したいな
+line2
+com09 0 11
+com08
+choice3 <shift> # 期待はしない方が
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「欲は出さずにいこう」
+display
+com11 0 4
+sound 802
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「む、ムリですかっ？　やっぱり〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やよいにできるのは、
+line2 <shift> # 一生懸命歌うことだけだろ？」
+display
+com11 0 4
+sound 803
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ……、そうですねっ！
+line2 <shift> # ヘンなこと気にしても、しょうがないし！」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そう期待したいな」
+display
+com11 0 4
+sound 804
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「気に入ってくれたら、
+line2 <shift> # ライブにも来てほしいですよね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだな」
+display
+com11 0 4
+sound 805
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ファンクラブにも、入ってほしいですよねっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……そんなの、まだないだろ？」
+display
+com11 0 4
+sound 806
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あああ、そうでした〜っ……」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「期待しない方が……」
+display
+com11 0 4
+sound 807
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「えっ！？　む、ムリですか、やっぱり」
+display
+com11 0 4
+sound 808
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ううう……、そうですよね……。
+line2 <shift> # じゃあ、期待しないで、歌います〜……」
+display
+com11 0 4
+sound 809
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「……ううっ。ぷ、プロデューサー！
+line2 <shift> # やる気が、わいてきませんー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「こ、困ったな。じゃあ、ほんのすこしだけ、
+line2 <shift> # 期待してもいいよ」
+display
+com11 0 4
+sound 810
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「そ、それなら歌えそうな気がします……」
+com09 0 19
+display
+location 19
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……にしても、ここら辺の人は早足だな。
+line2 <shift> # せめて、もうすこしゆっくり歩いてくれれば」
+display
+com11 0 4
+sound 811
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「えーとー……。
+line2 <shift> # あ、立ち止まらせる、いい方法がっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なにか、ひらめいたか？」
+display
+com11 0 4
+sound 824
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はいっ！　たった今から、
+line2 <shift> # ここは通行止めっていうのは、どうですかー？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……ええっ！？」
+display
+com11 0 4
+sound 825
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「一歩も動いちゃダメで、車も自転車も、
+line2 <shift> # 止まって下さい〜って、言うんですよっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「や、やよい……！」
+com03 0 3
+choice1 <shift> # 引き止めるなら、歌で
+line2
+com09 0 20
+com08
+choice2 <shift> # よし、俺に任せろ！
+line2
+com09 0 21
+com08
+choice3 <shift> # つ、捕まるって……
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「引き止めるなら、歌でやろう」
+display
+com11 0 4
+sound 814
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「歌で？　で、できますか、そんなこと？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それができてこそ、アイドルだろ？」
+display
+com11 0 4
+sound 815
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「プロデューサー……。
+line2 <shift> # よーし、私、がんばってみます！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （歌声が、街頭に響きわたる。
+line2 <shift> # かなりの人が耳をかたむけてくれた）
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、俺に任せろ！」
+display
+com11 0 4
+sound 816
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「プ、プロデューサー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やよいは歌う方に集中するんだ。
+line2 <shift> # よーし、みんなー、止まってくれー」
+display
+com11 0 4
+sound 826
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「プロデューサー、がんばれーっ！　……あ
+line2 <shift> # れっ？　すごい勢いで、誰か近づいて……」
+display
+com22 0 30
+com32 0 1
+com21 0 30
+com11 0 4
+sound 818
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「怒ってましたねー、おまわりさん」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、ああ……」
+display
+com11 0 4
+sound 819
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「えへへっ、なんかすごい体験したかもっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ほめられた話じゃないけど……。
+line2 <shift> # 忘れられない思い出には、なったな）
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「つ、捕まるって……」
+display
+com11 0 4
+sound 820
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「え、誰がですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺達だ。
+line2 <shift> # 勝手にこんなことしたら、犯罪行為だ」
+display
+com11 0 4
+sound 821
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「え！　このくらいでですかっ！？　わ、私、
+line2 <shift> # なんてことを〜。プロデューサー、助けて〜！」
+display
+com11 0 4
+sound 822
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「家のみんな……、お父さ、学校、あああ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だ、大丈夫だよ、そこまでうろたえなくても。
+line2 <shift> # まだ実行に移してないんだから、問題ないって」
+display
+com11 0 4
+sound 823
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「でも、でも〜、もしかしたら、ううう〜……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （やよいが取り乱したため、路上パフォーマンス
+line2 <shift> # は中止することになった……）
+com09 0 29
+display
+location 29
+unk02

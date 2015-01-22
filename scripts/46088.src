@@ -1,0 +1,277 @@
+com2c 0 26
+com2d 0 83
+com32 0 0
+com11 0 5
+sound 300
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「お集まりの奥様、お嬢さん。これから、応援
+line2 <shift> # ヨロシク！　ボク、あなた方に尽くします！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「真、デパートライブ、新人にしては、
+line2 <shift> # 上出来だったよ。トークも個性的だったし」
+display
+com11 0 5
+sound 301
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサー。
+line2 <shift> # ボク、また、やってしまいました……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なに、しょげてるんだ？」
+display
+com11 0 5
+sound 302
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「もっと、男の人にウケるトークしようと思った
+line2 <shift> # んです。けど、ついクセで、あんなことを……」
+display
+com11 0 5
+sound 303
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ボク、学校で、同級生の女の子とかに、
+line2 <shift> # いつも、ああいうセリフ、言わされてるんです」
+com03 0 2
+choice1 <shift> # 強制的に？
+com09 0 10
+com08
+choice2 <shift> # 特技なのか？
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「強制的に？」
+display
+com11 0 5
+sound 304
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「半分、そんな感じです。『言って、言って』
+line2 <shift> # って、頼まれると、つい拒みきれなくて」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「特技なのか？」
+display
+com11 0 5
+sound 305
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はじめから、うまかったわけじゃありません。
+line2 <shift> # でも、毎日毎日、言わされてるうちに……」
+display
+com11 0 5
+sound 306
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「クラスの女の子、ああいうの聞くと、よろこぶ
+line2 <shift> # んです。頼まれると、つい拒みきれなくて」
+com09 0 29
+display
+location 29
+com11 0 5
+sound 307
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「今日はやらないようにしようって。でも、
+line2 <shift> # 盛り上がりがイマイチだったから、自然に口が」
+com03 0 3
+choice1 <shift> # 悲しい条件反射だな
+line2
+com09 0 30
+com08
+choice2 <shift> # ウケたんだから、ＯＫだよ
+line2
+com09 0 31
+com08
+choice3 <shift> # 見上げたサービス精神だ
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「悲しい条件反射だな」
+display
+com11 0 5
+sound 308
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「悲しすぎます。とっさに、あれが出るなんて、
+line2 <shift> # もう完全に、身にしみついて……」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ウケたんだから、ＯＫだよ」
+display
+com11 0 5
+sound 309
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「女の人は、よろこんでましたけど、
+line2 <shift> # 男の人は、笑ってました」
+display
+com11 0 5
+sound 310
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ステージから、見えたんです。まるでお笑い
+line2 <shift> # 芸人を見るみたいな目で、ボクのこと……」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「見上げたサービス精神だ」
+display
+com11 0 5
+sound 311
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そんな前向きなもんじゃないんです！　ただ、
+line2 <shift> # あのまま、白けて終わったらと思うと……」
+display
+com11 0 5
+sound 312
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「こわかったんです。まだデビューしたばかり
+line2 <shift> # なのに、いきなり、つまずきそうな気がして」
+com09 0 49
+display
+location 49
+com11 0 5
+sound 313
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ボクだって、本当は男の人にキャアキャア
+line2 <shift> # 言われてみたいのに！　ちっきしょうっ！」
+com03 0 3
+choice1 <shift> # 一芸があるのは、強みだよ？
+line2
+com09 0 50
+com08
+choice2 <shift> # 言葉が乱暴だぞ？
+line2
+com09 0 51
+com08
+choice3 <shift> # ……キャアキャア！
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「一芸があるのは、強みだよ？」
+display
+com11 0 5
+sound 314
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「でも、正統派アイドルは、こんなこと、
+line2 <shift> # 絶対しないですよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「かもしれないけど、実際、今日は、
+line2 <shift> # その芸で助かったわけだろ？」
+display
+com11 0 5
+sound 315
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「たしかに。何もなければ、
+line2 <shift> # あのまま立ち往生するしか……」
+display
+com11 0 5
+sound 316
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「……まだ新人ですもんね！　あんな芸でも、
+line2 <shift> # ないよりはマシなのかも。えへへっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （これは、これで、持ち味だしな。うまく生かす
+line2 <shift> # ことが、トップへの近道になるだろう）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「言葉が乱暴だぞ？」
+display
+com11 0 5
+sound 317
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「え！？　ああっ、すみません。『ちきしょう』
+line2 <shift> # なんて言葉、アイドルは使いませんよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、普通、おしとやかな女の人は、あんまり
+line2 <shift> # 使わないだろうな。……アイドルじゃなくても」
+display
+com11 0 5
+sound 318
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ううう、道は遠そうですね。
+line2 <shift> # これは本気で取り組まないと……」
+display
+com11 0 5
+sound 319
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサー、お願いします！
+line2 <shift> # ボクを、女にして下さいっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、おい、大声で、ヘンなこと言うなって！」
+display
+com11 0 5
+sound 320
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「……ぁ、ああああっ、ちがいます！
+line2 <shift> # ちがいますってば。そんな意味じゃ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うっ、まわりの人達、クスクス笑ってる。
+line2 <shift> # 早く真を、影に隠さないと……！）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……キャアキャア！」
+display
+com11 0 5
+sound 321
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「……は？　なに言ってるんです、
+line2 <shift> # プロデューサー？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、男にキャアキャア言われたいって
+line2 <shift> # いうから、とりあえず、俺が」
+display
+com11 0 5
+sound 322
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、なるほど。へへっ、ありがとうございます。
+line2 <shift> # ……って、うれしくないですー！」
+display
+com11 0 5
+sound 323
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ううう、もしかして、楽しんでないですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなこと、ないよ。だって、今のところ、
+line2 <shift> # 望みを聞いてやれるの、俺ぐらいだろ？」
+display
+com11 0 5
+sound 324
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「なんか、傷口に塩をぬられてる気分です。
+line2 <shift> # どうせボクは、女の子だけのアイドル……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （いじけてしまった……。
+line2 <shift> # ギャグで、元気づけようと思ったんだけどな）
+com09 0 69
+display
+location 69
+unk02

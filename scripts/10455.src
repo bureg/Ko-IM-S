@@ -1,0 +1,369 @@
+com2c 0 28
+com2c 0 49
+com2d 0 21
+com32 0 0
+com11 0 3
+sound 200
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ライブ、終わったわー。プロデューサー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし。じゃあ、引き上げるか」
+display
+com11 0 3
+sound 201
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あ、見てっ！　あそこに巨大ネズミ〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ん？　ああ、このテーマパークの、
+line2 <shift> # マスコットキャラだな」
+display
+com11 0 3
+sound 202
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「えーと……、ああいう、中に人が入る
+line2 <shift> # ヌイグルミのこと、なんて言うんだっけ？」
+com03 0 3
+choice1 <shift> # 着ぐるみ？
+com09 0 10
+com08
+choice2 <shift> # 身ぐるみ？
+com09 0 11
+com08
+choice3 <shift> # 町ぐるみ？
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「着ぐるみ？」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「身ぐるみ？」
+com09 0 18
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「町ぐるみ？」
+com09 0 18
+display
+location 18
+com11 0 3
+sound 203
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そうだったかしら。ちがうような気が……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……まちがえた。着ぐるみだ」
+com09 0 19
+display
+location 19
+com11 0 3
+sound 204
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そう、着ぐるみ！　私、あれ、きらーい。
+line2 <shift> # さっき触ったら、毛、ガビガビだったし……」
+display
+com11 0 3
+sound 205
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「やっぱり、この子みたいに、
+line2 <shift> # ふかふかなのが、一番よねっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そのウサギは、やわらかいのか？」
+display
+com11 0 3
+sound 206
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そーよ！　……乱暴にしないなら、
+line2 <shift> # ちょっとだけ、なでさせてあげる」
+com0e 0 108
+com44
+com09 0 20
+com45
+com44
+com09 0 21
+com45
+com44
+com09 0 22
+com45
+com44
+com09 0 23
+com45
+com44
+com09 0 24
+com45
+com44
+com09 0 25
+com45
+com44
+com09 0 26
+com45
+display
+location 20
+com11 0 3
+sound 207
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「どう？　ふわふわでしょー？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、気持ちいいな……」
+display
+com11 0 3
+sound 208
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ほんとは、他人に、さわらせたり
+line2 <shift> # しないんだからね……。感謝しなさいよ♪」
+com09 0 29
+display
+location 21
+com11 0 3
+sound 209
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ちょっとー、なにすんのよ〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なにって、なでたんだけど……？」
+display
+com11 0 3
+sound 210
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「もっとやさしくやらないと、ダメでしょ〜！」
+display
+com11 0 3
+sound 211
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ほら、この子、痛がってるじゃないのっ。
+line2 <shift> # 力加減、考えなさいよね……」
+com09 0 29
+display
+location 22
+com11 0 3
+sound 212
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「な、なによ。どうして、私の頭……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、こっちも、フカフカかなって……」
+com09 0 28
+display
+location 23
+com11 0 3
+sound 213
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「な、なによ。どうして、私の顔……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、こっちも、やわらかいかなって……」
+com09 0 28
+display
+location 28
+com11 0 3
+sound 214
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「私は、この子をなでてあげてって、言ったの！
+line2 <shift> # も〜、ひねくれてるんだからーっ」
+com09 0 29
+display
+location 24
+com11 0 3
+sound 215
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「な、なによ。どうして私の服……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、こっちも、フカフカかなって……」
+display
+com11 0 3
+sound 216
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「はあー、そんなわけないでしょ。コレ、
+line2 <shift> # 毛皮じゃないんだし。ひねくれものね、あんた」
+com09 0 29
+display
+location 25
+com11 0 3
+sound 217
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ど、どこさわってるのよ〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、なでてみようかなって……」
+display
+com11 0 3
+sound 218
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「信じられないっ。あんたなんか……。
+line2 <shift> # あんたなんかねーっ！」
+display
+com11 0 3
+sound 219
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……ちょっと、ついてきなさいよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ど、どこへ？」
+display
+com11 0 3
+sound 220
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「いいから、早く来るのーっ！」
+display
+com22 0 30
+com32 0 1
+com21 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、おい……。なんで警察なんかに」
+display
+com11 0 3
+sound 221
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「にひひっ♪　たっぷり、
+line2 <shift> # しぼりあげてもらうんだからっ」
+display
+com11 0 3
+sound 222
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「突き出されるのがイヤなら、土下座しなさ〜い。
+line2 <shift> # ……変態っ。ド変態っ。変態大人っ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （中国語で、ののしられてしまった……。
+line2 <shift> # ここは、平謝りするしかないな）
+com09 0 39
+display
+location 26
+com11 0 3
+sound 223
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「どうしたの？　……遠慮してるわけ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「汚しちゃったら、悪いしな」
+display
+com11 0 3
+sound 224
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「それがこわいなら、さわらない方がいいかしら。
+line2 <shift> # でも、見るからに、やわらかそうでしょ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。着ぐるみとは、ちがうよな」
+com09 0 29
+display
+location 29
+com11 0 3
+sound 225
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あ……、プロデューサー！　私、着ぐるみは、
+line2 <shift> # キライだけど、メリーゴーランドは好きっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なんだよ、唐突に……。
+line2 <shift> # メリーゴーランドねえ。じゃあ……」
+com03 0 3
+choice1 <shift> # 乗っていくか？
+line2
+com09 0 30
+com08
+choice2 <shift> # 絶叫マシーンは？
+line2
+com09 0 31
+com08
+choice3 <shift> # さっさと帰ろう
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「乗っていくか？」
+display
+com11 0 3
+sound 226
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あらー、そんなに乗りたいわけっ？
+line2 <shift> # も〜、しょうがないわねー」
+display
+com11 0 3
+sound 227
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「じゃあ、つきあってあげるっ！　ふふん♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （まったく、調子いいな……。でも、
+line2 <shift> # せっかくだから、ちょっと息抜きさせるか）
+com09 0 39
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「絶叫マシーンは？」
+display
+com11 0 3
+sound 228
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「え？　そ、そういうのは、あんまり……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか。てっきり、過激な方が好みかと、
+line2 <shift> # 思ったんだけど……」
+display
+com11 0 3
+sound 229
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「よ、余計なこと、推測しないでいいのっ。
+line2 <shift> # 他に、言うことがあるでしょ〜！」
+display
+com11 0 3
+sound 230
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……ほんと、にぶいんだから。
+line2 <shift> # ここで、絶叫してやろうかしら……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （なんか、むくれている。もしかして、
+line2 <shift> # メリーゴーランド、乗りたかったのかな？）
+com09 0 39
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「さっさと帰ろう」
+display
+com11 0 3
+sound 231
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ええええっ。どうして、そうなるのよーっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「このままだと、伊織につきあって、
+line2 <shift> # ズルズル遊ぶことになりそうだから」
+display
+com11 0 3
+sound 232
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ちょっとぐらい、いいじゃないのー。
+line2 <shift> # プロデューサーのケチーっ！」
+display
+com11 0 3
+sound 233
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「いいわよ、いいわよ。事務所に帰ったら、
+line2 <shift> # あんたにまたがって、お尻たたいてやる〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （足を、バタバタと踏みならしている……。
+line2 <shift> # うーん、すこし厳しすぎたかな？）
+com09 0 39
+display
+location 39
+unk02

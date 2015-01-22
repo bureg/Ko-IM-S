@@ -1,0 +1,321 @@
+com2c 0 119
+com2d 0 41
+com2e 0 131
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いよいよ、ＩＵ予選に初参加だな。
+line2 <shift> # 千早、大丈夫か？　かたくなってないか？」
+display
+com11 0 0
+sound 10000
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。心地いい緊張感を感じてはいますが、
+line2 <shift> # 大丈夫です。いつも通り、歌えます」
+display
+com11 0 0
+sound 10001
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「予選とはいえ、ＩＵの参加者は、
+line2 <shift> # 実力のある人達ばかりでしょうから……」
+display
+com11 0 0
+sound 10002
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そういう、才能のあるライバル達と、
+line2 <shift> # 戦えることは、幸せだと思います」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （大舞台を前にしても、千早は、いつも通りだ。
+line2 <shift> # 俺より落ち着いているぐらいだな！）
+display
+com11 0 0
+sound 10003
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「プロデューサー！　千早さーん！
+line2 <shift> # 久しぶりなの！　これからＩＵの予選？」
+display
+com11 0 0
+sound 10004
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「美希……。ええ、そうよ。あなたも？」
+display
+com11 0 0
+sound 10005
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ううん。ミキは、先週の予選で、
+line2 <shift> # もう勝っちゃったから、今日は出ないの」
+display
+com11 0 0
+sound 10006
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「別の仕事で来ただけ。でも、千早さん達と、
+line2 <shift> # 話したいなって思って、のぞきに来たんだよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか。美希が９６１プロに移ってから、
+line2 <shift> # ほとんど話せていないもんな」
+display
+com11 0 0
+sound 10007
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「うん。特に千早さんとは、移るちょっと前
+line2 <shift> # くらいから、あんまり会えてなかったから……」
+display
+com11 0 0
+sound 10008
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「相談もしないで、急に移っちゃって、
+line2 <shift> # ごめんね、千早さん。ビックリしたよね？」
+display
+com11 0 0
+sound 10009
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ええ。確かに、突然のことで、驚きはしたけど、
+line2 <shift> # 別に、謝ることはないわ」
+display
+com11 0 0
+sound 10010
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あなたには、あなたの事情が、あるの
+line2 <shift> # でしょうし。特に、気にはしていないから」
+display
+com11 0 0
+sound 10011
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「むー。ミキは、７６５プロの中では、
+line2 <shift> # 千早さんのこと、一番尊敬してたんだよ？」
+display
+com11 0 0
+sound 10012
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「お姉さんみたいって思ってたし。なのに、
+line2 <shift> # 千早さんは、ミキが移っても、平気なんだね」
+display
+com11 0 0
+sound 10013
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……私に、どういう反応を期待していたのか
+line2 <shift> # 知らないけど、今は歌に集中すべき時よ」
+display
+com11 0 0
+sound 10014
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「お互い、すべきことをしましょう、美希。
+line2 <shift> # それ以外のことを考えるのは、ムダだわ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ち、千早……」
+com03 0 3
+choice1 <shift> # ムダってことはないだろ
+line2
+com09 0 10
+com08
+choice2 <shift> # 話ぐらいきいてやれよ
+line2
+com09 0 11
+com08
+choice3 <shift> # その通りだ
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ムダってことはないだろ。美希のことは、
+line2 <shift> # 高木社長も、すごく気にしてるんだぞ？」
+display
+com11 0 0
+sound 10015
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そうですか。私個人にはムダなことでも、事務
+line2 <shift> # 所にとってはムダではないということですね？」
+display
+com11 0 0
+sound 10016
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「それにしても、今は、大切な予選の前ですから、
+line2 <shift> # 歌のことだけ考えていたいのですが……」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「せめて、話ぐらいきいてやれよ。
+line2 <shift> # せっかく、美希の方から来てくれたんだから」
+display
+com11 0 0
+sound 10017
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「どうしても、今でなくては、いけませんか？
+line2 <shift> # できれば今は予選のことだけ考えたいのですが」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だ、だけど……」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「その通りだ。今はＩＵ予選以上に重要なこと
+line2 <shift> # なんて、何一つないよな！」
+display
+com11 0 0
+sound 10018
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「うう、プロデューサーまで……。
+line2 <shift> # そんなに、ミキがジャマ？　ヒドイの！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「い、いや、ジャマだなんて、そんなことを
+line2 <shift> # 言ったつもりじゃ、なかったんだけど」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10019
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「もう、いいの！　ミキ、千早さんが、
+line2 <shift> # ミキのこと気にしてたら悪いなって思って……」
+display
+com11 0 0
+sound 10020
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「それで話に来ただけだもん。別に、ムリして、
+line2 <shift> # 話きいてほしいわけじゃないもん！」
+display
+com11 0 0
+sound 10021
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「それに、どっちかっていうと、ミキ、
+line2 <shift> # 千早さんよりプロデューサーと話したかったし」
+display
+com11 0 0
+sound 10022
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そう、良かったわ。では、私は着替えて、
+line2 <shift> # もう一度、今日の歌の復習をしてくるから……」
+display
+com11 0 0
+sound 10023
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「美希は、プロデューサーと、
+line2 <shift> # 好きなだけ話をしていってちょうだい」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええっ！　ち、千早！
+line2 <shift> # あいつ、ホントに行っちゃったぞ……」
+display
+com11 0 0
+sound 10024
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「やっと二人きりになれたね、プロデューサー。
+line2 <shift> # ミキ、うれしいの。あはっ☆」
+display
+com11 0 0
+sound 10025
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「……でも、千早さんが、あんなに冷たいなんて、
+line2 <shift> # ちょっとショックだったな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ごめんな、美希。わかってると思うけど、
+line2 <shift> # 千早は、悪気があって言ってるんじゃないぞ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ＩＵ予選の前だから、多少、
+line2 <shift> # ピリピリしてるというか、なんというか……」
+display
+com11 0 0
+sound 10026
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「わかってるの。千早さん、歌のことになると、
+line2 <shift> # バカみたいに一途だもんね」
+display
+com11 0 0
+sound 10027
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「でも、ミキだって、大好きな人のためには、
+line2 <shift> # すっごく一途だよ？　愛が全てってカンジなの」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうなのか。あははは……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ。そんなことより、高木社長が、
+line2 <shift> # 美希と連絡がつかないって、困ってたぞ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「電話にも出ないし、居留守つかわれてるって。
+line2 <shift> # そこまで嫌わなくても、いいだろ？」
+display
+com11 0 0
+sound 10028
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「だって、ミキ、好きな人は大事だけど、
+line2 <shift> # 嫌いな人は、どうでもいーんだもん」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうでもいいって……。高木社長は、美希の
+line2 <shift> # ことを、本当に心配しているみたいだったぞ」
+display
+com11 0 0
+sound 10029
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「本当に心配してたら、あんなこと、
+line2 <shift> # しないって思うな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あんなこと？」
+display
+com11 0 0
+sound 10030
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「あ、そろそろ、ミキも、お仕事始まる時間なの。
+line2 <shift> # それじゃ、また、あとでねー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、美希！　……ったく、千早も美希も、
+line2 <shift> # マイペースで好き勝手動くから、困るよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （千早は、美希のことを、あまり気にしていない
+line2 <shift> # ようだけど、俺は、社長の命令があるから……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （知らんぷりは出来ない。千早をプロデュース
+line2 <shift> # しながら、美希の様子も、みておかないとな）
+com09 0 99
+display
+location 99
+unk02

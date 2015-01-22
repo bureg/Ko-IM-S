@@ -1,0 +1,355 @@
+com2c 0 24
+com2d 0 71
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「律子、今度のフェスティバルライブの、
+line2 <shift> # 選抜投票予想、芸能誌に出てたぞ！」
+display
+com11 0 2
+sound 1400
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「年末恒例のライブですね。票数で歌手の出場が、
+line2 <shift> # 決まるからなぁ。得票予想、どんな感じです？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もちろん、上位に入ってきてるよ。
+line2 <shift> # ランクＣともなると、相当な有力候補だから」
+display
+com11 0 2
+sound 1401
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「なるほどぉ。ランクがあがったことも、
+line2 <shift> # 強力な後押しに、なってるわけですね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。きっと実際の選抜投票でも、
+line2 <shift> # 上位得票、出場決定は確実だぞ！　頑張ろう」
+display
+com11 0 2
+sound 1402
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ええ。ばっちり出場決めましょう。
+line2 <shift> # ああ、でもなぁ……。う〜ん、いまいちなぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ん、なんだ？　いまいちって……」
+com03 0 2
+choice1 <shift> # 記事に不満かな？
+line2
+com09 0 10
+com08
+choice2 <shift> # なにか心配事が？
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「不満かな？　この予想記事」
+display
+com11 0 2
+sound 1403
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「うん、ちょっと甘い予想かもしれない。
+line2 <shift> # 評価が高いのは、ありがたいけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「高評価なら、素直に喜ぼうよ」
+display
+com11 0 2
+sound 1404
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「でも、ライバルの評価が、低く感じるから。
+line2 <shift> # これだと、上位に入っても、張り合いがなくて」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、なるほどね。あまり、ひいきして、
+line2 <shift> # 書かれるのも、問題だなぁ……」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「律子、なにか心配事でもあるのか？」
+display
+com11 0 2
+sound 1405
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「うん、気がかりなことが少し。
+line2 <shift> # この記事の甘さについて……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「甘さ？　なにかな」
+display
+com11 0 2
+sound 1406
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「選ばれてフェスティバルに出れば、周りには、
+line2 <shift> # ベテランやライバルも多くいるわけで……」
+display
+com11 0 2
+sound 1407
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「だから、そういう中で、引けを取らないように、
+line2 <shift> # しっかりやらなきゃな、と思うんだけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「確かに。それは当然の心配だ」
+display
+com11 0 2
+sound 1408
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あっと、そうじゃなくって……。その予想記事
+line2 <shift> # の通りになると、ちょっと張り合いがないのよ」
+display
+com11 0 2
+sound 1409
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ライバルが物足りないと、ライブが、
+line2 <shift> # つまんなくなりそう……。それが、心配」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうか。なるほど。出場ラインナップが、
+line2 <shift> # 甘いと、困るわけか。複雑だな」
+com09 0 19
+display
+location 19
+com11 0 2
+sound 1410
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あ〜あ。最近、人気があがってきたのは、
+line2 <shift> # 嬉しいけど、あんまり持ち上げられるとなぁ」
+display
+com11 0 2
+sound 1411
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「それに、目標は、もっと高いとこにあるから。
+line2 <shift> # 今のレベルで『すごい』とか言われてもね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「相変わらず理想が高くて、現状には、
+line2 <shift> # 満足できないみたいだなぁ。律子は……」
+display
+com11 0 2
+sound 1412
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そりゃ、それなりにメジャーになったとはいえ、
+line2 <shift> # 所詮、国内だけのアイドルだから……」
+display
+com11 0 2
+sound 1413
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「もっと、海外からも注目されるようになったり、
+line2 <shift> # したいじゃないですかぁ」
+com03 0 3
+choice1 <shift> # そうだが、まずは……
+line2
+com09 0 20
+com08
+choice2 <shift> # それはそうだな
+line2
+com09 0 21
+com08
+choice3 <shift> # わがままなやつだな……
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだな、理想は、そうだ。だが、まずは、
+line2 <shift> # 近い目標から順に、制覇していこうよ」
+display
+com11 0 2
+sound 1414
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「近い目標？　でも、フェスティバルライブじゃ、
+line2 <shift> # 物足りなくないですか……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、それなら、さらに、そのもうひとつ先、
+line2 <shift> # アジア音楽祭を目指そうじゃないかっ」
+display
+com11 0 2
+sound 1415
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あっ、それか！　それいい！　全世界進出も、
+line2 <shift> # まずアジアから、ってことですねっ」
+display
+com11 0 2
+sound 1416
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「よ〜し、そうと決まれば……、まずは、
+line2 <shift> # その前のフェスティバルライブを、確実に！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだ。アジア進出狙うなら、フェスティバル
+line2 <shift> # ライブは、ばっちり成功させなきゃな！」
+display
+com11 0 2
+sound 1417
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ちょっと、やる気でてきちゃったな。
+line2 <shift> # さぁ、頑張りましょうっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （律子は、前向きにフェスティバル出場をとらえ
+line2 <shift> # 始めた。この意気込みを大事に、頑張ろう！）
+com09 0 49
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それはそうだな。目標、理想は、そうだ。
+line2 <shift> # だが、まだ遠い話さ」
+display
+com11 0 2
+sound 1418
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「遠い話遠い話っていつまでもそう言ってたらい
+line2 <shift> # つまで経っても近くにならないじゃないですか」
+display
+com11 0 2
+sound 1419
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「もっと、将来のことを見据えて、
+line2 <shift> # 具体的に何かやっていかないと」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「焦っても仕方ないってことだよ。それに、
+line2 <shift> # フェスティバル出るのだって、大変なんだぞ？」
+display
+com11 0 2
+sound 1420
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「フェスティバルライブを、甘く見るなって
+line2 <shift> # こと？　そりゃ、まぁ、もちろん……」
+display
+com11 0 2
+sound 1421
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「フェスティバルだって、国内最高峰のライブの
+line2 <shift> # ひとつなのは、よくわかってますけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だったら、まずはフェスティバルに確実に出て、
+line2 <shift> # それを頑張ってから、先を考えよう。な？」
+display
+com11 0 2
+sound 1422
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「だ、だから、わかってますって。
+line2 <shift> # でも……。ああもう、うまく言えないなぁ」
+display
+com11 0 2
+sound 1423
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「つまりその、もっともっと先のことを、
+line2 <shift> # 考えていたいんですよぉ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「な、なんだ、律子。
+line2 <shift> # なにを急に、困った顔してるんだよ……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （もしかして律子、フェスティバル出場にあまり
+line2 <shift> # 自信がなくて、話題をそらしたかったのかな？）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……まったく、素直じゃないなぁ。しかし、俺
+line2 <shift> # も、余計な不安を、あおってしまったかな……）
+com09 0 49
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わがままなやつだな……。遠い目標ばっかり
+line2 <shift> # 主張して。それより、近い努力は、どうした？」
+display
+com11 0 2
+sound 1424
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そんな言い方しなくてもっ！
+line2 <shift> # 平気ですってばぁ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「待て待て、落ち着け。
+line2 <shift> # 要するに、順序があるってことだよ。物事には」
+display
+com11 0 2
+sound 1425
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「わかってますよ、そんなこと……」
+display
+com11 0 2
+sound 1426
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「まずは、フェスティバルライブを、きちんと
+line2 <shift> # こなして、それから海外、ってことでしょ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いやいや、もっとその前に、律子は、
+line2 <shift> # 日々のレッスンの充実から、しなきゃな」
+display
+com11 0 2
+sound 1427
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「私が基礎を怠ってると？
+line2 <shift> # ううっ、まぁ、少しは、そうだけど……」
+display
+com11 0 2
+sound 1428
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「人気が出てきたからって、油断は禁物よね。
+line2 <shift> # レッスンをサボるわけにはいかない」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「当然だ。だから、先の目標ばかり見ずに、
+line2 <shift> # ていねいにレッスンの復習を……」
+display
+com11 0 2
+sound 1429
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「だけど、今は、好評、好調なわけで。
+line2 <shift> # 立ち止まってるヒマは、ないの！」
+display
+com11 0 2
+sound 1430
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「復習よりも、勢いに乗って、
+line2 <shift> # どんどん高い目標に挑戦しなきゃ……！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「挑戦するにも、地力が必要だろう？
+line2 <shift> # きちんと鍛えてから、挑戦するべきだ」
+display
+com11 0 2
+sound 1431
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「いまここで、挑戦の機会を逃がさないほうが、
+line2 <shift> # 先ですっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「むぅ、しかし……！
+line2 <shift> # ああ、まったく、話は平行線だな」
+display
+com11 0 2
+sound 1432
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そうですね……。でも私、
+line2 <shift> # 今のチャンスだけは、譲れませんからねっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （律子の気持ちがわからない俺ではないけど……、
+line2 <shift> # 律子、相当、ムキになっている気がするなぁ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （もう少し、落ち着いて仕事に取り組んでほしい
+line2 <shift> # んだけど……。ああ、先が思いやられるよ……）
+com09 0 49
+display
+location 49
+unk02

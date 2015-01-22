@@ -1,0 +1,602 @@
+com2c 0 24
+com2d 0 31
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （空き時間を使用して、たまった書類の整理でも、
+line2 <shift> # しようと思ったのだが……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （一人、会議室でドラマ台本を読んでいるはずの
+line2 <shift> # やよいが、なぜか、俺の所に、やってきた）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうしたんだ、やよい？　何か用なのか？」
+display
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「……あ、あのー、プロデューサー。
+line2 <shift> # 何かしてほしいことって、ないですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え？　してほしいこと？
+line2 <shift> # 俺が、やよいに何かするんじゃなくて？」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はい。いつもと逆ですよー。
+line2 <shift> # 私が、プロデューサーに、何かするんです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「突然だなあ。でも、目は真剣だし……。そう
+line2 <shift> # だな。俺が、やよいにして欲しいことは……」
+com03 0 3
+choice1 <shift> # 探し物をして欲しい
+line2
+com09 0 10
+com08
+choice2 <shift> # 仕事を代わってほしい
+line2
+com09 0 11
+com08
+choice3 <shift> # 早く帰ってほしい
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「探し物をして欲しいかな。さっき落とした
+line2 <shift> # ボールペンが、どうしても見つからないんだ」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えっ、ボールペンって……、プロデューサーの
+line2 <shift> # 机の下に落ちてる、あれのことですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あっ！　そうそう、これこれ！
+line2 <shift> # こんな所にあったのか。気付かなかったよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ありがとな、やよい。いやー、助かったよ！」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うう。プロデューサーの役に立てたのは、うれ
+line2 <shift> # しいんですけど、もっと他に何かないですか？」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あえて言えば、事務仕事を、
+line2 <shift> # 代わってほしいかなー、なんてな」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「わかりました！　任せて下さーいっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええっ！？　まさか俺の仕事をやるつもりか？
+line2 <shift> # 気持ちは、ありがたいけど……」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「平気です。どんなに大変でも、
+line2 <shift> # 私、がんばりますから！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、今からパソコンで、
+line2 <shift> # 書類を作成するとこだったんだよ」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「え……。パソコン、ですか？　うう。
+line2 <shift> # 機械は、ちょっと……。でも、やってみます！」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「え〜と、とりあえず、これを動かしたら、
+line2 <shift> # 画面の矢印が動くのかも」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……やよい、キーボードを動かしても、
+line2 <shift> # 矢印は動かないよ」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あうう、あの、その……。じゃ、じゃあ、
+line2 <shift> # このボタンをポチっと押せば……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やよい、ありがとう。気持ちだけで、じゅう
+line2 <shift> # ぶんだから、電源ボタンの近くから離れてくれ」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ううっ、ごめんなさい〜。
+line2 <shift> # これはちょっと、私にはムリかもです」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あの、ほ、他に何かないですか？
+line2 <shift> # してほしいこと……」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「早く帰ってほしいかな。
+line2 <shift> # 仕事が終わったなら、体を休めてほしいから」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うう〜。帰るのは、ちょっと困るかも。
+line2 <shift> # どうしても帰らなきゃ、ダメですかー？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ダメってことはないけど……、
+line2 <shift> # やよい、疲れてるんじゃないかと思って」
+display
+com11 0 0
+sound 10012
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「私、まだ全然元気でーっす！
+line2 <shift> # だから、帰らないで、いいですよね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……？　別に、いたければ、いてもいいけど」
+display
+com11 0 0
+sound 10013
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「よかった〜。帰っちゃったら、
+line2 <shift> # 何も、できなくなるとこでした」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あっ。……それで、プロデューサー、
+line2 <shift> # 他に何かしてほしいことって、ありますか？」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「他に、って言われても……。
+line2 <shift> # やよい、何か様子が変だな？」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あ、あの、その……。そんなことない
+line2 <shift> # かなーって。と、とにかく、何か言って下さい」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、そう言われても、
+line2 <shift> # 急には思いつかないよ。ごめん」
+display
+com11 0 0
+sound 10016
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「それじゃ、何か欲しい物は、ありますか？」
+display
+com11 0 0
+sound 10017
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「遠慮しないで、何でも言っちゃって下さい！
+line2 <shift> # 私、結構、がんばるつもりですから！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今度は、欲しい物か。えーと……」
+com03 0 3
+choice1 <shift> # ウーロン茶
+com09 0 30
+com08
+choice2 <shift> # やよいの次の仕事
+line2
+com09 0 31
+com08
+choice3 <shift> # 愛
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「のどが、かわいたから、
+line2 <shift> # ウーロン茶が欲しいかな！」
+display
+com11 0 0
+sound 10018
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うーんと、ウーロン茶って、カンとかペット
+line2 <shift> # ボトルで売ってる、普通のウーロン茶ですか？」
+display
+com11 0 0
+sound 10019
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「もっとすごい物でも、私、平気ですよ？　あ、
+line2 <shift> # それとも、中国に行って買ってきましょうか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、中国に行く必要はないよ。
+line2 <shift> # 事務所の下の自販機のでいい」
+display
+com11 0 0
+sound 10020
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そうですか……。
+line2 <shift> # じゃあ、とにかく買って来ますね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ？　ちょっと待ってくれよ。
+line2 <shift> # そんなの自分で買いに行くって」
+display
+com11 0 0
+sound 10021
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「遠慮しないで下さい。私がしますからっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、遠慮とか、そういうんじゃなくて……」
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今、１番欲しいのは、やよいの次の仕事かな。
+line2 <shift> # もっともっと大きな仕事を、やりたいよな！」
+display
+com11 0 0
+sound 10022
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「私のお仕事ですかー……。
+line2 <shift> # わかりました。私、がんばりまーっす！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、がんばってくれ」
+display
+com11 0 0
+sound 10023
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「それで、もっともっと大きなお仕事って、
+line2 <shift> # どうやれば取れるものなんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……それがわかれば、俺も苦労しないよ」
+display
+com11 0 0
+sound 10024
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ええ〜！？　そんな〜！　それじゃ、
+line2 <shift> # どうがんばればいいか、わからないかも」
+display
+com11 0 0
+sound 10025
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うう。ほ、他にないですか、欲しい物〜……」
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「燃えるような愛が欲しい、かな」
+display
+com11 0 0
+sound 10026
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はわっ！？　愛、ですか〜っ！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ま、欲しがっても、
+line2 <shift> # そこらに落ちてたりは、しないけどな、あはは」
+display
+com11 0 0
+sound 10027
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「で、でも、あの……、
+line2 <shift> # プロデューサーは、その、大人ですよね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……ん？　そうだな。
+line2 <shift> # やよいから見れば、大人かな」
+display
+com11 0 0
+sound 10028
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「今の私なんかじゃ、大人のプロデューサーには、
+line2 <shift> # まだ、ふさわしくないかもです」
+display
+com11 0 0
+sound 10029
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あと１０年くらい、待って下さい！　それまで
+line2 <shift> # には何とか、こう、バーンとなりますから！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「はあ？　ちょっと待て、やよい。
+line2 <shift> # 何の話をしてるんだ？」
+display
+com11 0 0
+sound 10030
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「だってプロデューサー、愛が欲しいって……。
+line2 <shift> # でも、恋人にならないと、愛はムリかなーって」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それはちょっと違うぞ。愛っていっても、
+line2 <shift> # 家族愛とか兄弟愛とかも、あるんだし」
+display
+com11 0 0
+sound 10031
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うあ〜。私、間違いましたか！？　へ、ヘンな
+line2 <shift> # こと言っちゃったかも。はずかしいですー」
+display
+com11 0 0
+sound 10032
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あの、その、今のは忘れて下さい。
+line2 <shift> # 他に、何か欲しいものとか、ないですかー？」
+com09 0 49
+display
+location 49
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あのさ、さっきからどうしたんだ、やよい？
+line2 <shift> # してほしいこととか、欲しい物とかって……」
+display
+com11 0 0
+sound 10033
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「私、今日は、プロデューサー感謝デーに
+line2 <shift> # しようって、決めたんですよ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ、感謝デー？　……いいよ、そんな。
+line2 <shift> # 感謝されるような、大したことはしてないし」
+display
+com11 0 0
+sound 10034
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そんなことないですっ！　プロデューサーは、
+line2 <shift> # いつも、大したことしてますよー！」
+display
+com11 0 0
+sound 10035
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「私、デビューしてから、ずーっと、
+line2 <shift> # プロデューサーに助けられてきて……」
+display
+com11 0 0
+sound 10036
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「今みたいなアイドルになれたのも、
+line2 <shift> # みんなプロデューサーのおかげかなーって」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やよい……」
+display
+com11 0 0
+sound 10037
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「私、プロデューサーには、いっぱいいっぱい、
+line2 <shift> # いーっぱい感謝してるんですよー！」
+display
+com11 0 0
+sound 10038
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「だから少しでもお返ししたくって……。今日は、
+line2 <shift> # プロデューサーのために、何かしたいんです！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか。そこまで言うなら、思い切って……」
+com03 0 3
+choice1 <shift> # ネクタイが欲しい
+line2
+com09 0 50
+com08
+choice2 <shift> # レアな腕時計が欲しい
+line2
+com09 0 51
+com08
+choice3 <shift> # 肩をたたいてほしい
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そろそろ、新しいネクタイが欲しいなって、
+line2 <shift> # 思ってたんだけど、それ、頼んでもいいかな？」
+display
+com11 0 0
+sound 10039
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はいっ、もちろんですっ！
+line2 <shift> # カッコいいの、選びますよーっ！」
+display
+com11 0 0
+sound 10040
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うっうー！　早速、買いに行ってきまーす！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、でも、やよい。今日は、次のドラマの
+line2 <shift> # 台本に、目を通しておけって言っただろう？」
+display
+com11 0 0
+sound 10041
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あ、はい。そうでしたー。でも、それじゃ、
+line2 <shift> # 出かけられません。どうすれば……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ネットの通販で買えばいいよ。
+line2 <shift> # パソコンは事務所のを使わせてもらおう」
+display
+com11 0 0
+sound 10042
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「通販ですかー。いいかも！　それなら、
+line2 <shift> # プロデューサーも、いっしょに選べます！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃあ、二人とも少し休けいとするか。
+line2 <shift> # やよい、こっちに来て画面を見てくれ」
+display
+com11 0 0
+sound 10043
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はいっ！　うわあ、パソコンで、
+line2 <shift> # 物が買える時代なんですねーっ！」
+display
+com11 0 0
+sound 10044
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あっ、これなんかどうですか！？
+line2 <shift> # 黄色のストライプで、かわいいです！」
+display
+com11 0 0
+sound 10045
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「う〜、でも、こっちの青いのもいいですね。
+line2 <shift> # プロデューサーに似合いそう！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （やよいは、いっぱい悩みながら、
+line2 <shift> # 俺にピッタリのネクタイを買ってくれた）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （注文の時の、やよいの幸せそうな顔を見た時、
+line2 <shift> # 俺は何だか胸がいっぱいになった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （もらったネクタイは、
+line2 <shift> # 一生の宝物にしなくちゃな……）
+com09 0 69
+display
+location 51
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「レアな腕時計なんか、いいかもしれない。
+line2 <shift> # ブランドものの限定版なんだ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「この雑誌に広告が出てる腕時計なんだが。
+line2 <shift> # でも、さすがに高すぎるかな……」
+display
+com11 0 0
+sound 10046
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「プロデューサー！　私、遠慮しないで
+line2 <shift> # 下さいって、言ったじゃないですかーっ！」
+display
+com11 0 0
+sound 10047
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「最近は、お仕事のギャラも、
+line2 <shift> # 結構増えたし、大丈夫ですっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか？
+line2 <shift> # ……それじゃあ、このページの時計なんだが」
+display
+com11 0 0
+sound 10048
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あ、この外国のですね？　いち、じゅう、
+line2 <shift> # ひゃく、せん、まん……、あ、あれ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「限定５０個しか作ってなくて、
+line2 <shift> # すごいプレミア価格ついちゃってるんだよな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「しかも、オークションじゃ数倍の値になってて、
+line2 <shift> # さすがに手が……、って、やよい？」
+display
+com11 0 0
+sound 10049
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ゼ、ゼロが……、ゼロがこんなに……。
+line2 <shift> # う〜ん……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わああっ！　やよい、しっかりしろっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後は、倒れてしまったやよいの介抱で、
+line2 <shift> # 仕事が、できなくなってしまった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （だが結局、あとで別の時計を、通販で、
+line2 <shift> # 買うこととなった。ありがとうな、やよい）
+com09 0 69
+display
+location 52
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「思い切って、肩をたたいてほしいかな。
+line2 <shift> # ちょっとこってるから」
+display
+com11 0 0
+sound 10050
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えっ……。そんなことですか？
+line2 <shift> # そんなの全然、思い切ってないと思いますー」
+display
+com11 0 0
+sound 10051
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「それに、そんなんじゃ、
+line2 <shift> # お世話になったこと、何にも返せないです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「い、いや、本当に、こってるんだって。
+line2 <shift> # だから頼むよ」
+display
+com11 0 0
+sound 10052
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「プロデューサー、本当は、私がなんにも
+line2 <shift> # できないって、思ってるんですね……」
+display
+com11 0 0
+sound 10053
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そうかもしれないけど、私だって、
+line2 <shift> # 自分なりに一生懸命やってるのに……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そんなことはない。俺は、
+line2 <shift> # やよいが一生懸命なことくらい知ってるぞ」
+display
+com11 0 0
+sound 10054
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「もう、いいです。それじゃあ、いきますよー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （やよいは、俺の肩を、たたいてくれたが、
+line2 <shift> # その表情は終始、不満げなままだった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （変な遠慮は、するべきじゃなかったな……）
+com09 0 69
+display
+location 69
+unk02

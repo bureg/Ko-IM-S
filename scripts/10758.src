@@ -1,0 +1,260 @@
+com2c 0 25
+com2d 0 21
+com32 0 0
+com11 0 3
+sound 1100
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ごめんね。最近、遊んであげられなくて。
+line2 <shift> # 次のおやすみまで、ガマンしてね……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ん？　伊織、ひとりでなにをブツブツ
+line2 <shift> # つぶやいてるんだ？）
+com03 0 3
+choice1 <shift> # ひとり言か？
+line2
+com09 0 10
+com08
+choice2 <shift> # ひとりでミーティングか？
+line2
+com09 0 11
+com08
+choice3 <shift> # わっ！！
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ひとり言か？」
+display
+com11 0 3
+sound 1101
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あ、プロデューサー。ちがうわよー。この子と
+line2 <shift> # お話してたのっ」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ひとりでミーティングか？」
+display
+com11 0 3
+sound 1102
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「え？　あ、プロデューサー！　そんなことする
+line2 <shift> # わけないでしょ！　この子とお話してたのっ」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わっ！！」
+display
+com11 0 3
+sound 1103
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ひゃっ！　い、いきなりおどかさないでよ〜！
+line2 <shift> # んも〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ごめんごめん。で、なにやってたんだ？」
+display
+com11 0 3
+sound 1104
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ちょっと、この子とお話してたの。ミーティン
+line2 <shift> # グの時間になっても、あんたがこないからっ！」
+com09 0 19
+display
+location 19
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なあ。そのうさぎ、いつも持ってるけど、
+line2 <shift> # そんなに大切なものなのか？」
+display
+com11 0 3
+sound 1105
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あ……。あんたには、言ってなかったかしら？
+line2 <shift> # この子はー、小さい時からの親友なの！」
+display
+com11 0 3
+sound 1106
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ほら……私の家、お金持ちでしょ？　執事とか
+line2 <shift> # お手伝いとか、いっつもまわりにいて……」
+display
+com11 0 3
+sound 1107
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「その人達、もう年がら年中、おべっかや小言
+line2 <shift> # ばっかり。マトモに話できる人、いなかったの」
+display
+com11 0 3
+sound 1108
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「この子だけは、普通に話を聞いてくれて、
+line2 <shift> # 普通にそばにいてくれたわ……。だから……」
+com03 0 2
+choice1 <shift> # 孤独だったんだな
+line2
+com09 0 20
+com08
+choice2 <shift> # キュウクツだったんだな
+line2
+com09 0 21
+com08
+com07
+com09 0 21
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「孤独だったんだな」
+display
+com11 0 3
+sound 1109
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そうねー。人はたくさんいたけど、私に
+line2 <shift> # とっては、みんな他人だったわ……」
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「キュウクツだったんだな」
+display
+com11 0 3
+sound 1110
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そうでもないわ。私、おとなしく言うこと
+line2 <shift> # なんか、聞かなかったもん」
+display
+com11 0 3
+sound 1111
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「『出てけー』とか『死んじゃえー』とか、好き
+line2 <shift> # 勝手言っても、あんまりスッキリしないのよね」
+com09 0 29
+display
+location 29
+com11 0 3
+sound 1112
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そんなわけでー、この子はずーっといっしょ
+line2 <shift> # なの！　これまでも、これから先もねっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだったのか……。ところで、そのうさぎ、
+line2 <shift> # 名前はないのか？」
+display
+com11 0 3
+sound 1113
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「え！？　……あ、あるわよ。でも、ないしょ。
+line2 <shift> # ……誰にも教えてないんだから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あるんなら、教えてくれよ」
+com03 0 3
+choice1 <shift> # 口外したりしないから
+line2
+com09 0 30
+com08
+choice2 <shift> # すぐ忘れたことにするから
+line2
+com09 0 31
+com08
+choice3 <shift> # 絶対に忘れないから
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「口外したりしないから」
+display
+com11 0 3
+sound 1114
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……ほんとね？　絶対に絶対に、誰にも
+line2 <shift> # 言っちゃ、ダメだからね……」
+display
+com11 0 3
+sound 1115
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「この子の名前は〜……こにょこにょ……。
+line2 <shift> # わ、わかった？　ひ、秘密だからね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （そうか。『うさちゃん』っていうのか。シンプ
+line2 <shift> # ルなのは、子どもの頃つけた名前だからだろう）
+com09 0 39
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「すぐ忘れたことにするから」
+display
+com11 0 3
+sound 1116
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そう？　じゃあ、ほんとに一瞬で忘れるのよ。
+line2 <shift> # いいわね？」
+display
+com11 0 3
+sound 1117
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「この子の名前は〜……こにょこにょ、
+line2 <shift> # はい、一瞬。はい、忘れたー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え？　いま、ほんとに名前言ったか？」
+display
+com11 0 3
+sound 1118
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「い、言ったわよ……。一瞬たったから、
+line2 <shift> # 忘れちゃったのね、きっと……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ごまかされた気がする……。まさか、
+line2 <shift> # 『こにょこにょ』って名前じゃないよな……）
+com09 0 39
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「絶対に忘れないから」
+display
+com11 0 3
+sound 1119
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そ、そんなに真剣に覚えなくていいわよ。
+line2 <shift> # た、たいした名前じゃないんだし……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、伊織がつけた名前なら、きっとしゃれた
+line2 <shift> # やつなんだろ？」
+display
+com11 0 3
+sound 1120
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「う……。あ、当たり前でしょ。この子の名前は
+line2 <shift> # 『シャルル・ドゴール十八世』っていうのっ♪」
+display
+com11 0 3
+sound 1121
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ふふっ、これからも
+line2 <shift> # 『シャルル・ドナテルロ十八世』をよろしくね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （……名前、変わってないか？　うーん、
+line2 <shift> # どうやら、真の名前を聞きそこねたようだ）
+com09 0 39
+display
+location 39
+unk02

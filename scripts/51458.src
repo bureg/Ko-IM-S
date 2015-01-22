@@ -1,0 +1,261 @@
+com2c 0 109
+com2d 0 91
+com2e 0 101
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さあ、亜美。次の仕事にいこう。
+line2 <shift> # 今日は、予定がたくさんだぞ！」
+display
+com11 0 3
+sound 1400
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「う、うれしいな〜。亜美達、
+line2 <shift> # もう一人前のアイドルだもんねっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうとも！　ランクＤともなると、
+line2 <shift> # これまでのように、ノンビリしては……。ん？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なあ、亜美……、なんで病院の前なんかで、
+line2 <shift> # 立ち止まってるんだ？」
+com03 0 2
+choice1 <shift> # 具合でも、悪いのか？
+line2
+com09 0 10
+com08
+choice2 <shift> # なにか、用事でも？
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「具合でも、悪いのか？」
+display
+com11 0 3
+sound 1401
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「亜美は、別に大丈夫なんだけど〜。
+line2 <shift> # 真美が、いま、中で、てーき検診中なの……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「定期検診って……どういうことだ？」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なにか、用事でも？」
+display
+com11 0 3
+sound 1402
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「え？　あ、亜美は、なんにも用ないよ。
+line2 <shift> # ただ、真美が、ちょっと……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そういえば、真美はどこへいったんだ？
+line2 <shift> # もしかして、病院の中？」
+display
+com11 0 3
+sound 1403
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「うん……。今ね、てーき検診中なの」
+com09 0 29
+display
+location 29
+com11 0 3
+sound 1404
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「兄ちゃんだけには、話しておくね……。
+line2 <shift> # じつは……じつは、真美は……。うう……」
+display
+com11 0 3
+sound 1405
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「とっても重い病気、持ってて、あと１年ぐらい
+line2 <shift> # しか……。亜美が話したこと、真美には内緒ね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「な、なんだって！？　ま、まさか……。
+line2 <shift> # だって、これまで、そんな素振り……」
+display
+com11 0 3
+sound 1406
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「たっだいま〜！　あれ？　兄ちゃん、亜美、
+line2 <shift> # なに、どよどよ〜んな顔、してるの？」
+com03 0 2
+choice1 <shift> # だ、黙ってられるか！
+line2
+com09 0 30
+com08
+choice2 <shift> # な、なんでもない……
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だ、黙ってられるか！　真美、病気であと
+line2 <shift> # １年の命って、本当なのか！？」
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「な、なんでもない……」
+display
+com11 0 3
+sound 1407
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「あ〜、なんか、隠してる〜！　ずる〜い。
+line2 <shift> # 真美に、隠し事するなんて〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それは、おたがい様だろ？　……本当なのか？
+line2 <shift> # 病気で、あと１年の命ってのは」
+com09 0 49
+display
+location 49
+com11 0 3
+sound 1408
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「え？　なに、いってんの〜？　真美、病院で
+line2 <shift> # 働いてるパパに、会いにいってきただけだよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……は？」
+display
+com11 0 3
+sound 1409
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「パパは、お医者さんなのっ。ママに頼まれた物、
+line2 <shift> # 届けただけで、真美、病気なんかじゃ……」
+display
+com11 0 3
+sound 1410
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「んっふっふ〜、ウッソぴょ〜〜〜ん♪
+line2 <shift> # わーい、兄ちゃん、引っかかった〜！」
+com03 0 3
+choice1 <shift> # よ、よかった〜……
+line2
+com09 0 50
+com08
+choice2 <shift> # 亜美ーッ！
+com09 0 51
+com08
+choice3 <shift> # これは……おしおきだな
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よ、よかった〜……。じゃあ、別になんとも、
+line2 <shift> # ないんだな？」
+display
+com11 0 3
+sound 1411
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「当たり前だよ〜。真美が元気いっぱいなのは、
+line2 <shift> # 兄ちゃんも、知ってる通りだし！」
+display
+com11 0 3
+sound 1412
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「兄ちゃんのおどろいた顔、おもしろかったー！
+line2 <shift> # んじゃ、元気よく、次のお仕事、いこー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ここは、亜美を、怒らないでおいてやるか。名
+line2 <shift> # の知れたアイドルを、泣かせちゃいけないしな）
+com09 0 69
+display
+location 51
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「亜美ーッ！」
+display
+com11 0 3
+sound 1413
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「うわうわ、お、怒りすぎだよ〜。がんばって、
+line2 <shift> # 一人前アイドルになったんだから、許そうよ〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それとこれとは、話が別だ！　冗談にも、
+line2 <shift> # 程があるだろ！？」
+display
+com11 0 3
+sound 1414
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「兄ちゃん……顔、こわいよ？
+line2 <shift> # パパの１億倍ぐらい、こわいかも〜……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後、亜美には反省させたが、悪くない真美
+line2 <shift> # まで、ビビらせてしまった。ま、しかたないか）
+com09 0 69
+display
+location 52
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「これは……おしおきだな」
+display
+com11 0 3
+sound 1415
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ええええ、そんなの、やだよ〜。一人前の
+line2 <shift> # アイドルをおしおきしたら、ほーりつ違反だよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなわけ、あるか〜！　さ、覚悟しろよっ」
+display
+com22 0 30
+com32 0 0
+com21 0 30
+com11 0 3
+sound 1416
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「はぁ、ふぅ、はぁ……。兄ちゃん、亜美、
+line2 <shift> # もう、逃げまわるの、疲れた〜〜〜」
+display
+com11 0 3
+sound 1417
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ねえ、お仕事いかなくて、いいの？
+line2 <shift> # 時間、あんまりなかったんじゃ……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （し、しまった！　結局、亜美にはおしおき
+line2 <shift> # できず、仕事も遅刻。……最悪だ）
+com09 0 69
+display
+location 69
+unk02

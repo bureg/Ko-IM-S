@@ -1,0 +1,684 @@
+com2c 0 21
+com2c 0 118
+com2d 0 91
+com2e 0 101
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ふう、何だかどっと疲れた……。
+line2 <shift> # 初日ってこともあって、緊張しちゃってたかな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （これから、亜美と真美をトップアイドルに育て
+line2 <shift> # るのか。かわいくて元気な、ふたりだけど……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺なんかが本当に、プロデュースしていけるの
+line2 <shift> # かな。うまくやっていけるといいけど……）
+display
+com11 0 0
+sound 10000
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ねえねえ、兄ちゃん！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そういえば、まだ飯を食べてなかったな。
+line2 <shift> # 今日は奮発して牛丼でも……）
+display
+com11 0 0
+sound 10001
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「兄ちゃんってば〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ？」
+display
+com11 0 0
+sound 10002
+com4c 0 4
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「もう〜！　呼んだらすぐに止まってよ〜」
+display
+com11 0 0
+sound 10003
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「何かエッチなことでも、考えてたの？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あれ？　亜美と真美じゃないか。
+line2 <shift> # 先に帰ったんじゃなかったのか？」
+display
+com11 0 0
+sound 10004
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「あのね、いっしょに帰ろうって思って、
+line2 <shift> # 待っててあげたんだよ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだったのか。それじゃあ、結構、
+line2 <shift> # 待たせちゃったかな」
+display
+com11 0 0
+sound 10005
+com4c 0 4
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「平気平気！　ほんとは寄り道してて、
+line2 <shift> # 遅くなっちゃっただけだし！」
+display
+com11 0 0
+sound 10006
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「真美〜！　ばらしちゃダメじゃん！
+line2 <shift> # まあ、ほんとだからいいけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……俺の疲れの原因は、初日だからという
+line2 <shift> # 理由だけでも、なさそうだな）
+display
+com11 0 0
+sound 10007
+com4c 0 4
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ねえねえ、兄ちゃん、担当アイドルが
+line2 <shift> # 真美達みたいな子どもで、ガッカリした？」
+display
+com11 0 0
+sound 10008
+com4c 0 4
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「もっと、せくし〜で、
+line2 <shift> # アハ〜ンでウフ〜ンな人が良かった？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （う〜ん、そうだな……）
+com03 0 3
+choice1 <shift> # いや、ふたりで良かったよ
+line2
+com09 0 10
+com08
+choice2 <shift> # ……正直に言うとな
+line2
+com09 0 11
+com08
+choice3 <shift> # 俺は年下の方が好きなんだ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、ふたりで良かったと思ってるよ。あまり
+line2 <shift> # セクシーだと、緊張して仕事にならないからな」
+display
+com11 0 0
+sound 10009
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「んっふっふ〜！
+line2 <shift> # 兄ちゃんってウブなんだねー」
+display
+com11 0 0
+sound 10010
+com4c 0 4
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「真美達だって育ち盛りだから、すぐに、
+line2 <shift> # アハ〜ンでウフ〜ンになっちゃうかもよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ははは……、そうかもしれないな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺は２人がセクシーになるまでに、２人を
+line2 <shift> # トップアイドルにしてあげられるかな……）
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……まあ、正直に言うとな。
+line2 <shift> # もっと、ぼよよ〜んな方が好みかも」
+display
+com11 0 0
+sound 10011
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ぼよよ〜ん！？　それ、おもしろいね！
+line2 <shift> # ぼよよ〜ん、ぼよよ〜ん！」
+display
+com11 0 0
+sound 10012
+com4c 0 4
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「真美達、面白い人が来るといいねって、
+line2 <shift> # 話してたから、兄ちゃんで良かったかも！」
+display
+com11 0 0
+sound 10013
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「顔も面白いし、いい人に巡り会えたねえ、
+line2 <shift> # 真美！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええっ、そんなに俺の顔って面白いか！？」
+display
+com11 0 0
+sound 10014
+com4c 0 4
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「んっふっふ〜、ウソだよー！
+line2 <shift> # 今のビックリした顔は面白かったけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （初日から、思いっきり
+line2 <shift> # 手玉に取られてるな、俺……）
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺は年下の方が好きなんだ」
+display
+com11 0 0
+sound 10015
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「……兄ちゃんって、もしかしてアブナイ人？
+line2 <shift> # ガッコで先生が気をつけろって言ってたよ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ちがう、ちがう！
+line2 <shift> # そういう意味じゃないから、安心してくれ！」
+display
+com11 0 0
+sound 10016
+com4c 0 4
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「でも、さっきから通り過ぎる人が、
+line2 <shift> # じろじろ見ていくよ〜？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ！？　ああ、道を通り過ぎる皆さん〜！
+line2 <shift> # 俺は普通です！　普通の人なんですよ！？」
+display
+com11 0 0
+sound 10017
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「きゃははは！　ぺこぺこして、
+line2 <shift> # おもしろいね、兄ちゃん！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ははは……、いや〜、参ったなあ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （くぅ……、完全に、ご近所の笑いものに！
+line2 <shift> # いきなり、ふりまわされてるなあ）
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10018
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「これから、いっしょにお仕事するんだから、
+line2 <shift> # 早く仲良しになんなきゃだね」
+display
+com11 0 0
+sound 10019
+com4c 0 4
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「そーだよ！　早く、一流のアイドルになって、
+line2 <shift> # 倒すぞ、げーのー界！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「芸能界を倒して、どうするんだよ！」
+display
+com11 0 0
+sound 10020
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「まあまあ、細かいことはいいから、
+line2 <shift> # そろそろ帰ろ！　遅くなっちゃうしね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おお、そうだな。それじゃ、送っていくよ」
+display
+com22 0 30
+com21 0 30
+com32 0 1
+com11 0 0
+sound 10021
+com4c 0 4
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ふんふんふん〜。兄ちゃんは〜、とっても、
+line2 <shift> # おもろいな〜♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あの、天下の往来で変な歌を歌うのは、
+line2 <shift> # やめてくれるかな、真美……」
+display
+com11 0 0
+sound 10022
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「あっ！　ネコネコ発見！　ニャー！」
+display
+com11 0 0
+sound 10023
+com4c 0 4
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「本当だ！　今日見た子ネコに似てるね〜！」
+display
+com11 0 0
+sound 10024
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「あの子はオスかな？　メスかなあ？」
+display
+com11 0 0
+sound 10025
+com4c 0 4
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「兄ちゃんは、どっちだと思う？」
+com03 0 3
+choice1 <shift> # メス……かな？
+line2
+com09 0 20
+com08
+choice2 <shift> # 犬じゃないか？
+line2
+com09 0 21
+com08
+choice3 <shift> # 興味ないな
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「メス……かな？」
+display
+com11 0 0
+sound 10026
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「よーし！　メスじゃなかったら、
+line2 <shift> # ジュース、兄ちゃんのおごりー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お、おい待て！　そんな勝手に……！」
+display
+com11 0 0
+sound 10027
+com4c 0 4
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ひっくりかえせー！」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「犬じゃないか？」
+display
+com11 0 0
+sound 10028
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「兄ちゃん、目悪いねー！
+line2 <shift> # あれが犬に見えんの？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ははは……、どう見てもネコだよな」
+display
+com11 0 0
+sound 10029
+com4c 0 4
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「待って、亜美。もしかしたら新種かも！
+line2 <shift> # 犬ネコ……、じゃなくてネコ犬とか！」
+display
+com11 0 0
+sound 10030
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「おおっ！　それは調べてみなきゃ〜！」
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「興味ないな」
+display
+com11 0 0
+sound 10031
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「兄ちゃんって、つまんない人生送ってんだね。
+line2 <shift> # 『人生、楽しんだ者勝ち』なんだよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「『人生、楽しんだ者勝ち』？
+line2 <shift> # そんな言葉、どこで覚えたんだ？」
+display
+com11 0 0
+sound 10032
+com4c 0 4
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「真美は勝ち組になりたいから、
+line2 <shift> # ネコがオスかメスか調べてくる〜！」
+display
+com11 0 0
+sound 10033
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「亜美も〜！」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、おい……、待て！　ふたりとも！」
+display
+com11 0 0
+sound 10034
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「待て〜！」
+display
+com11 0 0
+sound 10035
+com4c 0 4
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「調査に、ご協力下さい〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、ちょっと、調査って何だ！？
+line2 <shift> # 亜美、真美、待てってば〜〜〜っ！」
+display
+com22 0 30
+com21 0 30
+com32 0 1
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （結局、見失ってしまった……。
+line2 <shift> # どこに行ったんだ、２人は……？）
+com09 0 100
+display
+location 30
+location 100
+com11 0 0
+sound 10036
+com4c 0 4
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「兄ちゃん、ただいまー！」
+display
+com11 0 0
+sound 10037
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ネコネコ、ふわふわだった〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「亜美、真美！　よかった、帰ってきたのか」
+display
+com11 0 0
+sound 10038
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「兄ちゃんは、今まで何してたの？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、ふたりを探してたら、
+line2 <shift> # 偶然、この子と会って……」
+display
+com11 0 0
+sound 10039
+com4c 0 4
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「この子って誰？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いやだから、そこにいる……、あれ？」
+display
+com11 0 0
+sound 10040
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「誰もいないよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんな……」
+com03 0 3
+choice1 <shift> # 夢でも見てたのか……？
+line2
+com09 0 40
+com08
+choice2 <shift> # 隠れてないで、出てきてくれー！
+line2
+com09 0 41
+com08
+choice3 <shift> # どこに隠したんだ
+line2
+com09 0 42
+com08
+com07
+com09 0 42
+com08
+display
+location 40
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「夢でも見てたのか……？」
+display
+com11 0 0
+sound 10041
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「兄ちゃん、夢を見るのはいいことなんだよ。
+line2 <shift> # ガッコの先生が大きな夢を持ちなさいって」
+display
+com11 0 0
+sound 10042
+com4c 0 4
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「うんうん！　真美達も、将来の夢、
+line2 <shift> # いーっぱいあるよ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、その夢じゃなくて……」
+com09 0 49
+display
+location 41
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「隠れてないで、出てきてくれー！」
+display
+com11 0 0
+sound 10043
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「亜美達、出てきたよ？」
+display
+com11 0 0
+sound 10044
+com4c 0 4
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「それに、隠れてたんじゃなくて、
+line2 <shift> # ネコネコ追いかけてただけだよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、そうじゃなくて……」
+display
+com11 0 0
+sound 10045
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「んじゃ、亜美達、どうすればいいの？
+line2 <shift> # 超わけわかんないよー！」
+com09 0 49
+display
+location 42
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どこに隠したんだ？」
+display
+com11 0 0
+sound 10046
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ネコ？　ネコなら、もう逃げちゃったよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「女の子だよ！　銀色の髪をした！」
+display
+com11 0 0
+sound 10047
+com4c 0 4
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「兄ちゃん、何言ってんの？　あのネコ、
+line2 <shift> # 銀色じゃなくて、茶色だったよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、そうじゃなくて、ここに女の子が……！
+line2 <shift> # どこだ！？」
+display
+com11 0 0
+sound 10048
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「うあうあ〜！　兄ちゃんがヘンになったー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お、落ち着け亜美！　俺は、大丈夫だから」
+com09 0 49
+display
+location 49
+com11 0 0
+sound 10049
+com4c 0 4
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ねえ、兄ちゃん、もう帰ろうよ。
+line2 <shift> # 真美、ネコ追いかけたら、お腹減った〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、でもあの子は、ものすごい原石……！」
+display
+com11 0 0
+sound 10050
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「岩石？　どうしたの、兄ちゃん……？」
+display
+com11 0 0
+sound 10051
+com4c 0 4
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ひょっとして、具合でも悪いの？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え？　いや、別に、そういうわけじゃ……」
+display
+com11 0 0
+sound 10052
+com4c 0 4
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ど、どうしよう、亜美！？
+line2 <shift> # 兄ちゃんのよーだいがきゅーへんだよ！」
+display
+com11 0 0
+sound 10053
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「お、落ち着いて、真美！　だれかー！
+line2 <shift> # お医者さんはいませんかー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （これは……、心配してくれてるのか？
+line2 <shift> # ずれてはいるけど……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （それなのに、俺は別の女の子のことを、
+line2 <shift> # 考えてしまうなんて……）
+display
+com11 0 0
+sound 10054
+com4c 0 4
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ど、どーしよう、亜美？
+line2 <shift> # 兄ちゃん、黙っちゃった！？」
+display
+com11 0 0
+sound 10055
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「センパイ定時状態ってやつだよ！
+line2 <shift> # うあうあー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それを言うなら『心肺停止』だ。
+line2 <shift> # あと、勝手に心臓を止めないでくれよ」
+display
+com11 0 0
+sound 10056
+com4c 0 4
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「あれ……、兄ちゃん？　平気なの？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。ふたりが心配してくれたから、
+line2 <shift> # すっかり良くなった。もう大丈夫だよ」
+display
+com11 0 0
+sound 10057
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「よかったー！　もう、亜美ビックリしたよ〜」
+display
+com11 0 0
+sound 10058
+com4c 0 4
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「真美も〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺は、この子達を育てるって決めたんだ。
+line2 <shift> # 必ずトップアイドルにしてみせる！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それじゃ帰るか、亜美、真美」
+display
+com11 0 0
+sound 10059
+com4c 0 4
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「うん！　次も、い〜っぱい、遊んであげるね！
+line2 <shift> # これからもよろしくね、兄ちゃん！」
+display
+com11 0 0
+sound 10060
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「とりあえず、家まで鬼ごっこして帰ろ！
+line2 <shift> # 兄ちゃんが鬼ね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え！？」
+display
+com11 0 0
+sound 10061
+com4c 0 5
+name 0 0 <names:4>  # Ami and Mami
+line1 <shift> # 「それ〜〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、おい、また迷子になるじゃないか！？
+line2 <shift> # 夜は危ないんだから……！　お〜い！！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （これは、次、会う時も、からかわれそうだな。
+line2 <shift> # でも……、楽しいプロデュースになりそうだ）
+com09 0 99
+display
+location 99
+unk02

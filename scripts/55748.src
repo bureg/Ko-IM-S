@@ -1,0 +1,671 @@
+com2c 0 113
+com2c 0 19
+com2d 0 131
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うーん、考え事をしてたら、夜が明けてしまっ
+line2 <shift> # た。このまま寝ないで、事務所へ行こうかな？）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （眠気覚ましに、どこか寄り道して行けば、
+line2 <shift> # 気分もシャッキリすると思うんだが）
+com03 0 2
+choice1 <shift> # どこかに寄り道する
+line2
+com09 0 10
+com08
+choice2 <shift> # まっすぐ事務所に行く
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よし、寄り道して行こう。
+line2 <shift> # 気分をきりかえて、仕事に向かわないとな！）
+display
+com22 0 30
+com21 0 30
+com32 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんだかんだで、事務所の前まで、
+line2 <shift> # 歩いてきてしまった。いい運動になったな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うん？　向こうで、誰か話してるみたいだ）
+display
+com11 0 0
+sound 10000
+com4c 0 0
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「美希ちゃんが、こんなに朝早く９６１プロに出
+line2 <shift> # 社するなんて、めずらしいこともあるものだね」
+display
+com11 0 0
+sound 10001
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「う、うん……」
+display
+com11 0 0
+sound 10002
+com4c 0 0
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「どうした？　９６１プロに出社途中で、７６５
+line2 <shift> # プロの前を通りがかっただけなのだろう？」
+display
+com11 0 0
+sound 10003
+com4c 0 0
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「……それとも、まさか、７６５プロを訪れる
+line2 <shift> # つもりだった、とでも言いたいのかな？」
+display
+com11 0 0
+sound 10004
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ち、違うの！　ミキ、たまには、やる気あると
+line2 <shift> # こ見せようかなーって、早く来ただけだもん」
+display
+com11 0 0
+sound 10005
+com4c 0 0
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「……フフン。ま、そうだろうと思ったよ。
+line2 <shift> # 美希ちゃんが私を裏切るわけ、ないからね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あれは、黒井社長と美希じゃないか！
+line2 <shift> # 何を話しているんだろう……？）
+display
+com11 0 0
+sound 10006
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「そんなことより、黒井社長！
+line2 <shift> # いつもの、あの話、またしてほしいの！」
+display
+com11 0 0
+sound 10007
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ほら、高木社長と７６５プロのアイドルの皆が、
+line2 <shift> # こっそり話してたっていう、あの話！」
+display
+com11 0 0
+sound 10008
+com4c 0 0
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「ああ、あの話か。いいとも。……これは私が、
+line2 <shift> # 偶然、耳にしてしまった話なのだが」
+display
+com11 0 0
+sound 10009
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「うんうん！」
+display
+com11 0 0
+sound 10010
+com4c 0 0
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「いつも、私に生意気な口をきいてくる、
+line2 <shift> # ７６５プロのプロデューサー。彼はね……」
+display
+com11 0 0
+sound 10011
+com4c 0 0
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「隠してはいるが、本当は、美希ちゃんのことを、
+line2 <shift> # 心から愛しているらしい。それはもう熱烈にね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ぶっ！」
+display
+com11 0 0
+sound 10012
+com4c 0 0
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「……ん？　何かな？　今、向こうの方で、
+line2 <shift> # 誰かが叫ぶ声が、きこえたような……」
+display
+com11 0 0
+sound 10013
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「そお？　ミキには聞こえなかったってカンジ。
+line2 <shift> # それより、早く続きを話して！　ねっ？」
+display
+com11 0 0
+sound 10014
+com4c 0 0
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「ふむ……。ま、いいだろう。続きを話そう」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あ、危ない、危ない。黒井社長が、変なデタラ
+line2 <shift> # メを言うから、思わず声を出してしまった……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ここは黙って、
+line2 <shift> # 最後まで、きいてみるとしよう）
+display
+com11 0 0
+sound 10015
+com4c 0 0
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「しかし、それを良く思わない、高木と７６５
+line2 <shift> # プロのアイドル達は、彼に、ウソをふきこんだ」
+display
+com11 0 0
+sound 10016
+com4c 0 0
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「美希ちゃんには、金持ちの婚約者がいるとね。
+line2 <shift> # 絶望した彼は、美希ちゃんを諦めることにした」
+display
+com11 0 0
+sound 10017
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「うう。プロデューサー、可哀相なの。ミキの
+line2 <shift> # 気持ちは、いつも伝えてるのに、どうして……」
+display
+com11 0 0
+sound 10018
+com4c 0 0
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「その後、高木達は、美希ちゃんをも裏切り、
+line2 <shift> # アイドルデビューさせないよう、画策した」
+display
+com11 0 0
+sound 10019
+com4c 0 0
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「美希ちゃんのデビューが決まれば、彼が担当し
+line2 <shift> # たいと言い出すのは、わかりきっているからね」
+display
+com11 0 0
+sound 10020
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ミキとプロデューサーのこと、
+line2 <shift> # 高木社長が、引き裂いたんだ……」
+display
+com11 0 0
+sound 10021
+com4c 0 0
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「そうだね。それを悲観した彼は、美希ちゃんを
+line2 <shift> # 想いながら、寒さ厳しい雪山に登った……」
+display
+com11 0 0
+sound 10022
+com4c 0 0
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「その後、彼の行方を知る者は誰もいないという。
+line2 <shift> # 〜プロデューサー愛のオーヴァーチュア・完〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （おいっ！　最後、俺、死んじゃってるじゃない
+line2 <shift> # か！　生きてますけど！　もしもーしっ！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （メチャクチャな作り話だな。ご丁寧に、
+line2 <shift> # 変なタイトルまでつけてくれちゃって……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （さすがに、こんな大ウソ、信じるヤツは、
+line2 <shift> # いないと思うが……）
+display
+com11 0 0
+sound 10023
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ぐすっ。プロデューサー、死なないで。初めて
+line2 <shift> # 会った時から、ミキは、ミキは……、うう……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ぐはっ！　信じてるぞ、美希のやつ！？
+line2 <shift> # 素直というか単純というか……）
+display
+com11 0 0
+sound 10024
+com4c 0 0
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「私は、話をきいてしまっただけだから、
+line2 <shift> # 今は、これ以上のことは、わからない」
+display
+com11 0 0
+sound 10025
+com4c 0 0
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「だが、また何か、新しいことがわかったら、
+line2 <shift> # 真っ先に、美希ちゃんに話すからね」
+display
+com11 0 0
+sound 10026
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「うん。お願いしますなの、黒井社長。
+line2 <shift> # ありがとう……、うう、ぐすっ……」
+display
+com11 0 0
+sound 10027
+com4c 0 0
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「いいさ。卑劣な高木のやり方には、私も頭にき
+line2 <shift> # ているんだ。私と一緒に戦おう、美希ちゃん！」
+display
+com11 0 0
+sound 10028
+com4c 0 0
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「７６５プロをつぶして、高木を再起不能にする
+line2 <shift> # んだ。それが正義というものだよ！」
+display
+com11 0 0
+sound 10029
+com4c 0 0
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「……じゃ、私は先に出社しているから、
+line2 <shift> # 涙をふいてから、事務所にきなさい。いいね？」
+display
+com11 0 0
+sound 10030
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「うん、後でね」
+display
+com11 0 0
+sound 10031
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「……はあ。７６５プロが懐かしいけど、やっぱ、
+line2 <shift> # 今、ミキが帰るわけには、いかないの」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うーん、自分の世界に酔ってるなあ、美希。
+line2 <shift> # 黒井社長はいなくなったけど、どうしよう？）
+com03 0 3
+choice1 <shift> # 声をかけてみるか
+line2
+com09 0 20
+com08
+choice2 <shift> # もう少し様子を見るか
+line2
+com09 0 21
+com08
+choice3 <shift> # さっきのドラマを盛り上げるか
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （やめよう。まっすぐ出社して、
+line2 <shift> # 事務所で仮眠をとる方が、いいよな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （眠くて仕事にならなかったら困るし……）
+com09 0 99
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （声をかけてみるか）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おーい、美希！」
+display
+com11 0 0
+sound 10032
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「あ、プロデューサー！　元気！？
+line2 <shift> # ミキは元気なの。あはっ☆」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うん、元気だけど……、さっきの黒井社長の話
+line2 <shift> # では、死んだことになってなかったか、俺？」
+display
+com11 0 0
+sound 10033
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「え、そうだったっけ？　でも、黒井社長だけは、
+line2 <shift> # ミキ達の味方だから、大丈夫だよ。安心して！」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （もう少し様子を見るか）
+display
+com11 0 0
+sound 10034
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「うう、雪山に行ったプロデューサーのこと、
+line2 <shift> # ホントはミキが助けに行った方がいいのかな？」
+display
+com11 0 0
+sound 10035
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「山小屋に迷い込んで、二人で温めあったりと
+line2 <shift> # か……、ええっ！　そんな急展開ありえないの」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （なんか、どんどん盛り上がっているようだな。
+line2 <shift> # そろそろ、声をかけた方が良さそうだ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おーい、美希。俺、生きてるんだけど……。
+line2 <shift> # あと、雪山にも行ってないんだけど」
+display
+com11 0 0
+sound 10036
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「あ、プロデューサー！？　さっきの話、
+line2 <shift> # きいてたの？　これで、わかったでしょ？」
+display
+com11 0 0
+sound 10037
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「黒井社長だけが、ミキ達の味方なの！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どこをどう理解すれば、そうなるのか、
+line2 <shift> # 全くわからないんだが」
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （さっきの黒井社長が話してたドラマを盛り上げ
+line2 <shift> # るか。ちょっとナレーションでもいれてみよう）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「美希、俺のことは忘れて、幸せになるんだ。
+line2 <shift> # 遠くで見守っているぞ……。ガクッ……」
+display
+com11 0 0
+sound 10038
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ああっ！　どこかから、プロデューサーの声が
+line2 <shift> # きこえるの。プロデューサー！　うううっ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……って、黒井社長のウソ話なんかを、盛り上
+line2 <shift> # げて、どうする。おーい、美希。俺は、ここだ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「死んでないし、雪山にも行ってないぞ？」
+display
+com11 0 0
+sound 10039
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「プロデューサー！　もしかして、さっきの話、
+line2 <shift> # きいてた？　じゃあ、わかってくれたよね？」
+display
+com11 0 0
+sound 10040
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ミキ達のこと、本当に考えてくれてるのは、
+line2 <shift> # 黒井社長だけだ、って！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「な、なんで、そうなるんだよ？
+line2 <shift> # どう考えても、おかしいだろ！」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……あのなあ、美希。さっきの黒井社長が話し
+line2 <shift> # たメロドラマ、まさか本当に信じてるのか？」
+display
+com11 0 0
+sound 10041
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「うん！　黒井社長はいっつも、どこかできいて
+line2 <shift> # きた話、ミキに話してくれるの。だから……」
+display
+com11 0 0
+sound 10042
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「プロデューサーのホントの気持ちとか、高木社
+line2 <shift> # 長が悪い人だとか、ミキ、ちゃんと知ってるよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いつも黒井社長は、美希に、あんな話を、
+line2 <shift> # してるのか……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「美希、気付いてないようだから、ハッキリ
+line2 <shift> # 言うけど、黒井社長の話、全部ウソだぞ？」
+display
+com11 0 0
+sound 10043
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ええっ！？　ほ、ホント？　じゃあ、
+line2 <shift> # 本当は何がホントで、何がウソなの？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうきかれると、なんだかややこしいな。
+line2 <shift> # でもとにかく、黒井社長の話はウソだ」
+display
+com11 0 0
+sound 10044
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「そうなんだ……。
+line2 <shift> # でも、そんなの、つまんないよね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「つまんなくても、ホントなんだから、仕方ない
+line2 <shift> # だろ。あんな手抜きの作り話にダマされるなよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ちょっと考えれば、わかる話だぞ。
+line2 <shift> # 俺が死んだとか、矛盾だらけじゃないか」
+display
+com11 0 0
+sound 10045
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「そうかなあ……。ミキ的には、
+line2 <shift> # そんなにおかしくないって思うけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ダメだ、こりゃ……。
+line2 <shift> # 完全にダマされちゃってるなあ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それより、美希。さっき、美希が言ってたこと、
+line2 <shift> # 俺は、ちゃんときいたぞ」
+display
+com11 0 0
+sound 10046
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「え？　ミキ、何か言ってた？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「言ってたよ……」
+com03 0 3
+choice1 <shift> # ７６５プロが懐かしい、って
+line2
+com09 0 30
+com08
+choice2 <shift> # 死なないで、って
+line2
+com09 0 31
+com08
+choice3 <shift> # 高木社長が引き裂いた、って
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「７６５プロが懐かしい、って。本当は、そろ
+line2 <shift> # そろ帰りたいって、思ってるんじゃないか？」
+com09 0 39
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「死なないで、って。つまり、そろそろ、
+line2 <shift> # ７６５プロに帰りたいって、ことじゃないか？」
+display
+com11 0 0
+sound 10047
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「なんで？　死なないでとは言ったけど、
+line2 <shift> # それは、プロデューサーの話なの」
+display
+com11 0 0
+sound 10048
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「それと、ミキが７６５プロに帰るのと、
+line2 <shift> # 何の関係があるの？　おかしいって思うな！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……その矛盾には気付けるのに、なんで、
+line2 <shift> # 黒井社長の話の矛盾には、気付かないんだよ」
+display
+com11 0 0
+sound 10049
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「むー。そんなの、ミキにもわかんないの」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「とにかく、美希は７６５プロに帰りたいはずだ。
+line2 <shift> # そんなようなこと、言ってたし！」
+com09 0 39
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「高木社長が引き裂いた、って」
+display
+com11 0 0
+sound 10050
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「うん！　ミキとプロデューサーの仲、高木社長
+line2 <shift> # が引き裂いたんだって。黒井社長が言ってたの」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だから、それはウソだって言ってるだろ。
+line2 <shift> # 大体、引き裂かれるような仲でも、元々ないし」
+display
+com11 0 0
+sound 10051
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「それも、高木社長に、そう言わされてるんで
+line2 <shift> # しょ？　ミキ、なんでも知ってるんだよ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ダメだ。悲劇のヒロインの立場に、
+line2 <shift> # 酔いすぎている……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「この件に関しては、話してもムダだな……。
+line2 <shift> # まあ、いい。それはとりあえず置いといて、だ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「美希、本当は、そろそろ、
+line2 <shift> # ７６５プロに帰ってきたいんだろ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなようなこと言ってたのも、きこえたぞ」
+com09 0 39
+display
+location 39
+com11 0 0
+sound 10052
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「そんなこと、ないもん！
+line2 <shift> # そんなの、プロデューサーの聞き間違いなの！」
+display
+com11 0 0
+sound 10053
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ミキは黒井社長の話、信じてるよ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「高木社長より、黒井社長を信じるのか？
+line2 <shift> # ７６５プロのアイドル達よりも？」
+display
+com11 0 0
+sound 10054
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「そ、そうだよ……。だって、ミキをデビュー
+line2 <shift> # させてくれたのは、黒井社長だもん」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺より、黒井社長を信じるのか？　俺が、美希
+line2 <shift> # にウソをついてるって、そう思ってるのか？」
+display
+com11 0 0
+sound 10055
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「そ、それは、プロデューサーは、ウソつくよう
+line2 <shift> # な人じゃないって思うけど……、でも……」
+display
+com11 0 0
+sound 10056
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「とにかく、ミキは９６１プロでやっていくって
+line2 <shift> # 決めたの！　それで、いつか必ず……」
+display
+com11 0 0
+sound 10057
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「プロデューサーを振り向かせるんだもん！
+line2 <shift> # そこだけは口出さないで欲しいってカンジ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「美希！！　……どうしても、素直に忠告を
+line2 <shift> # きこうとは、してくれないんだな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （黒井社長が作り話をして、７６５プロを悪の
+line2 <shift> # 事務所に仕立て上げているのは、わかったけど）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その話を美希が信じ込んでしまっている以上、
+line2 <shift> # 美希を７６５プロに連れ戻すことはできない）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （打つ手なしだな……。いつか、
+line2 <shift> # 全てが解決する日が、本当に来るんだろうか？）
+com09 0 99
+display
+location 99
+unk02

@@ -1,0 +1,291 @@
+com2c 0 24
+com2d 0 61
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「最近、雪歩宛てのファンレターが
+line2 <shift> # ずいぶん増えたなぁ」
+display
+com11 0 1
+sound 1100
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そうですねぇ……実は、
+line2 <shift> # 家にもたくさん届くんです、手紙」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええっ！？　ファンレターが
+line2 <shift> # 直接、家に？」
+display
+com11 0 1
+sound 1101
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あっ、いえ、その……近くの男子校の
+line2 <shift> # 男の子とか、昔のクラスメイトの男の子とか」
+display
+com11 0 1
+sound 1102
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「一度ふたりで会ってくれませんか、
+line2 <shift> # って……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ラブレターじゃないのか、それって」
+com03 0 2
+choice1 <shift> # いいことだ
+com09 0 10
+com08
+choice2 <shift> # 困ったね……
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「雪歩はプライベートでも
+line2 <shift> # もてるんだなぁ、いいことだ！」
+display
+com11 0 1
+sound 1103
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「えっ、あ、その……は、はい。
+line2 <shift> # 好意を持ってもらえるのは、嬉しいですね」
+display
+com11 0 1
+sound 1104
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「でも、ちょっと、困るかも……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「困る？　どうして？」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そりゃ困ったね……もててもてて」
+display
+com11 0 1
+sound 1105
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい……困ってます」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、いや、もてること自体は、いいんじゃ
+line2 <shift> # ないか？　それだけ人気があるってことだし」
+display
+com11 0 1
+sound 1106
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「で、でも、あまり人気があると、私……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「好意はありがたく受け取るものさ……
+line2 <shift> # あまり迷惑に感じてるなら、ほんとに困るが」
+com09 0 29
+display
+location 29
+com11 0 1
+sound 1107
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「いえ、あの、私が困っているのは……」
+display
+com11 0 1
+sound 1108
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「お父さんが、私宛の手紙を片っ端から
+line2 <shift> # 破いて捨ててしまうからなんです」
+display
+com11 0 1
+sound 1109
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「それだけじゃなくて……。もし、
+line2 <shift> # 私の家の近くに男子が近づくと……」
+display
+com11 0 1
+sound 1110
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「すかさず、お父さんがすごい怖い顔になって
+line2 <shift> # 迫っていくので……、みんな、逃げてしまって」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そりぁなんというか……、
+line2 <shift> # いろんな意味で、困ったもんだねぇ」
+display
+com11 0 1
+sound 1111
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい、私も、どうしたらいいのか
+line2 <shift> # わからなくて……、ちょっと、悩みます」
+com03 0 3
+choice1 <shift> # お父さんは心配性？
+line2
+com09 0 30
+com08
+choice2 <shift> # 逃げる男子は軟弱だなぁ
+line2
+com09 0 31
+com08
+choice3 <shift> # 雪歩、実は好きな人が？
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「雪歩のお父さんは心配性なのかな？」
+display
+com11 0 1
+sound 1112
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「えっ？　えと……、どうなんでしょう」
+display
+com11 0 1
+sound 1113
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「確かに、私に男の人が近づかないように、って、
+line2 <shift> # すごく気にしてるのかも……」
+display
+com11 0 1
+sound 1114
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そうだ、プロデューサーのことも、
+line2 <shift> # ぶつぶつ言ってました」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お、俺？」
+display
+com11 0 1
+sound 1115
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「私、プロデューサーのことを家でも
+line2 <shift> # よく話すから……、お父さん、よく怒って」
+display
+com11 0 1
+sound 1116
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あっでも、もしかしたら、ただの、
+line2 <shift> # お父さんのやきもちなのかもしれません」
+display
+com11 0 1
+sound 1117
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「私は大丈夫だから、なにも心配しないでって、
+line2 <shift> # 言うんですけどね……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「や、やきもち、なのか？　それって」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （雪歩はにこにこするばかりで、
+line2 <shift> # 俺の問いには答えてくれなかった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しかし雪歩がこの調子なら、あまり深刻に
+line2 <shift> # 悩んでる感じではなさそうだから、いいか……）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「逃げる男子は軟弱だなぁ、その気が
+line2 <shift> # あるなら、立ち向かわなくっちゃ！」
+display
+com11 0 1
+sound 1118
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ええっ？　えっと……、そ、そうですねっ。
+line2 <shift> # プロデューサーなら、立ち向かいますか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お、俺？　そうだな。必要とあらば、
+line2 <shift> # お父さんと戦うことになってもいいよ」
+display
+com11 0 1
+sound 1119
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「でも、うちのお父さん、
+line2 <shift> # 相当怖いし……、強いですよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうなのか？　ううっ、いやしかし」
+display
+com11 0 1
+sound 1120
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「くまとかひとひねりですよ……。
+line2 <shift> # プロデューサー、覚悟はいいですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ま、待て！　あえてわざわざケンカすることは
+line2 <shift> # ないと思う！　穏便に越したことはない」
+display
+com11 0 1
+sound 1121
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ふふっ、冗談ですよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （なんだかアヤシイ微笑みだな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ともかく、雪歩の悩みのそれほど深刻では
+line2 <shift> # なさそうだから、いいか……）
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「雪歩、実は好きな人がいるのか？
+line2 <shift> # その、周りの男子の中に？」
+display
+com11 0 1
+sound 1122
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ええっ！？　ま、まさか！
+line2 <shift> # いないですよ！　な、なんでそんな？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、だってさ、お父さんが手紙を破いたり、
+line2 <shift> # 男子を追い払うので、困ってる……、だろう？」
+display
+com11 0 1
+sound 1123
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そ、そういうわけじゃないです。ただその、
+line2 <shift> # お父さんが、乱暴なので……、それだけで」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いやいや、隠さなくても、俺が相談に乗るよ。
+line2 <shift> # さぁさぁ、話してごらん」
+display
+com11 0 1
+sound 1124
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そ、そんな、言えませんよぉ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか、俺には言ってくれないのか……、むぅ」
+display
+com11 0 1
+sound 1125
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「言えるわけないじゃないですかぁ……」
+display
+com11 0 1
+sound 1126
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「プロデューサーって、けっこう、いじわる
+line2 <shift> # なんですね。もう、いいです……それじゃ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うーん、膨れっ面で向こうに行ってしまった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （いらんツッコミをしすぎたようだ……。
+line2 <shift> # 雪歩を余計困らせてしまったな）
+com09 0 49
+display
+location 49
+unk02

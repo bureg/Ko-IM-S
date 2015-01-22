@@ -1,0 +1,156 @@
+com2d 0 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あっという間に１日が終ってしまった……」
+display
+location 0
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「今日は、おつかれさまでした〜。
+line2 <shift> # 燃え尽きて、もうクタクタって、感じかも〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おつかれさま。初仕事もやったし、大変だった
+line2 <shift> # もんな。家に帰って、ゆっくり……」
+com03 0 3
+choice1 <shift> # 眠ると、いいよ　
+line2
+com09 0 10
+com08
+choice2 <shift> # フロに入ると、いいよ　
+line2
+com09 0 11
+com08
+choice3 <shift> # 反省すると、いいよ　
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「眠ると、いいよ」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はいっ！　お布団に入ったら、すぐ、
+line2 <shift> # クカーって、寝ちゃうかもっ。えへへ」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「たくさん寝て、つぎは、もっと元気に、
+line2 <shift> # がんばりまーす！　それじゃあ、また！」
+com4a 0 0
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「フロに入ると、いいよ」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あ、はい……。でも、今日はたしか、おフロの
+line2 <shift> # 日じゃ、なかったような気が……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ん？　汗かいた時は、なるべく入るようにした
+line2 <shift> # 方がいいぞ」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そ、そ、そうですよねっ。帰ったら、
+line2 <shift> # 相談してみますっ。それじゃあ、またー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （なんか、すこし様子がヘンだな。なに、
+line2 <shift> # あわててるんだろ？　……ま、いいか）
+com4a 0 0
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「反省すると、いいよ」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ううう、ごめんなさい〜。そうしたいんです
+line2 <shift> # けど、今日は、エネルギー切れで……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうか。じゃあ、まあ、反省は
+line2 <shift> # 明日の朝でも、いいよ」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はい……。いっぱい寝て、起きてから、
+line2 <shift> # たくさん反省しまーす。それじゃあ、また〜」
+com4a 0 0
+com09 0 19
+display
+location 19
+location 100
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あっという間に１日が終ってしまった……」
+display
+location 101
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もっと早く色々片付けていれば
+line2 <shift> # もう１レッスンできたかも……」
+display
+location 102
+com11 0 0
+sound 10007
+name 0 2 <names:3>  # President
+line1 <shift> # 「２日目ご苦労だったね。次はいよいよ……
+line2 <shift> # オーディションをうけてもらうよ！」
+display
+com4a 0 0
+com11 0 0
+sound 10008
+name 0 2 <names:3>  # President
+line1 <shift> # 「ではキミ達のアイドルランク報告だ！」
+display
+location 200
+com11 0 0
+sound 10009
+name 0 2 <names:3>  # President
+line1 <shift> # 「うむ、今後も出会った人達にファンに
+line2 <shift> # なってもらえるよう、活動しなさい」
+display
+com11 0 0
+sound 10010
+name 0 2 <names:3>  # President
+line1 <shift> # 「しかし、レッスンばかりでは、
+line2 <shift> # ファンは、ほとんど増えることはない！」
+display
+com11 0 0
+sound 10011
+name 0 2 <names:3>  # President
+line1 <shift> # 「オーディションに合格することが、ファンを
+line2 <shift> # 一気に増やす唯一の方法だ」
+display
+com4a 0 0
+com11 0 0
+sound 10012
+name 0 2 <names:3>  # President
+line1 <shift> # 「次回のオーディションが楽しみだな！」
+display
+location 103
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ファンからのプレゼントを、
+line2 <shift> # チェックして帰るか」
+display
+location 201
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （次の活動では、デビュー曲を決めて、
+line2 <shift> # いよいよオーディションだ！）
+display
+unk02

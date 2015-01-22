@@ -1,0 +1,364 @@
+com2c 0 28
+com2d 0 81
+com32 0 0
+com11 0 3
+sound 200
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「テーマパークでのライブ、おつかれさまでした。
+line2 <shift> # これから、すぐ事務所へ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「すこしは、時間あるかな。
+line2 <shift> # ファンに見つからないよう、散歩して帰るか？」
+display
+com11 0 3
+sound 201
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「いいですね！　しっかし、ここ、
+line2 <shift> # どこを見てもカップルばかりだよなあ」
+display
+com11 0 3
+sound 202
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ああいうの見ると、どんな気分になります？」
+com03 0 3
+choice1 <shift> # ちょっと、うらやましいな
+line2
+com09 0 10
+com08
+choice2 <shift> # 人は人、だしな
+line2
+com09 0 11
+com08
+choice3 <shift> # 『家に帰れ！』と思うな
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ちょっと、うらやましいな」
+display
+com11 0 3
+sound 203
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ですよねー。なかよく、
+line2 <shift> # 手つないで歩いたりして……。いいなあ」
+display
+com11 0 3
+sound 204
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「最近、少し人気出てきましたけど、実生活でも
+line2 <shift> # モテモテ、ってわけには、いきませんね」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「人は人、だしな」
+display
+com11 0 3
+sound 205
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサーは、大人ですねー。ボクは、
+line2 <shift> # 見てると、正直、うらやましくなります」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああいう関係に、あこがれる？」
+display
+com11 0 3
+sound 206
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そりゃ、そうですよ。アイドルって言ったって、
+line2 <shift> # 中身は、ただの女子高生ですから」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「『家に帰れ！』と思うな」
+display
+com11 0 3
+sound 207
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「か、過激ですね……。ボクは、うらやましい
+line2 <shift> # とは思うけど、そこまでは思いません」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「真が仕事してる間に、イチャついてるんだぞ？
+line2 <shift> # それでもか？」
+display
+com11 0 3
+sound 208
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そう言われると……。で、でも、いいです。
+line2 <shift> # トップアイドルになれれば、ボクだって！」
+com09 0 29
+display
+location 29
+com11 0 3
+sound 209
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、遊園地っていえば、ボク、昔、ヒーロー
+line2 <shift> # ショーとか見に、よく連れてこられました」
+display
+com11 0 3
+sound 210
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「チームで戦うヒーローには、女性も混ざってま
+line2 <shift> # すよね。男性と一緒に戦うのは、大変だろうな」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「体力的には、しんどいよな。筋力がおとる分は、
+line2 <shift> # ここで、カバーするしかないか」
+com0e 2 200
+com44
+com09 0 30
+com45
+com44
+com09 0 31
+com45
+com44
+com09 0 32
+com45
+com44
+com09 0 33
+com45
+com44
+com09 0 34
+com45
+com44
+com09 0 35
+com45
+display
+location 30
+com11 0 3
+sound 211
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そうですね！
+line2 <shift> # 知恵で、どうにかするしかないと思います」
+display
+com11 0 3
+sound 212
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「正義のヒロインは、頭もよくないとダメなの
+line2 <shift> # かも。ハードル、高いですね。あはは……」
+com09 0 49
+display
+location 31
+com11 0 3
+sound 213
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「顔なんかで、どうにかなりますか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いろいろ、有利になると思うよ。かわいければ
+line2 <shift> # 敵も手加減してくれるかもしれないし」
+display
+com11 0 3
+sound 214
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「でも、戦う時は、お面かぶってるから、見えま
+line2 <shift> # せんよね？　それにそんなの……、ずるいです」
+com09 0 49
+display
+location 32
+com11 0 3
+sound 215
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「手なんかで、どうにかなりますか？
+line2 <shift> # 力の強さは、男の人には勝てませんよ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「こう、手先の小技で、勝負するしかないだろ。
+line2 <shift> # 相手をくすぐるとかだな」
+display
+com11 0 3
+sound 233
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そんなんじゃ、敵に勝てるわけないですよ。
+line2 <shift> # もし勝てたとしても、なんかズルイです」
+com09 0 49
+display
+location 33
+com11 0 3
+sound 234
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「む、胸ですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「違う違う、心だよ。
+line2 <shift> # 筋力がおとる分は、正義のハートでカバーだ！」
+display
+com11 0 3
+sound 235
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「なるほど、それなら！　……あ、でも」
+display
+com11 0 3
+sound 236
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「正義の味方になれる人なら、男女関係なく、
+line2 <shift> # 正義のハートを持っているんじゃ……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う……。ま、まあ、そうか」
+com09 0 49
+display
+location 34
+com11 0 3
+sound 219
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そんなところで、カバーできますか？
+line2 <shift> # そこで、どう有利に戦うんです？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……び、ビームとかレーザーとか、出すんだよ。
+line2 <shift> # それぐらいの大技がないと」
+display
+com11 0 3
+sound 220
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「なんか、男性と女性のちがいとは、全然、
+line2 <shift> # 関係ない話に……。まあ、いいですけど」
+com09 0 49
+display
+location 35
+com11 0 3
+sound 221
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あのー、プロデューサー？
+line2 <shift> # どこでカバーするんです？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、思いついたんだけど、言わないでおくよ。
+line2 <shift> # そこを使うと、正義の味方っぽくないし」
+display
+com11 0 3
+sound 222
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「気になるなあ。いったい……、あっ！　やっぱ
+line2 <shift> # り、いいです！　聞くと後悔しそうだから」
+com09 0 49
+display
+location 49
+com11 0 3
+sound 223
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「もし、ボクを将来、トップアイドルにしてくれ
+line2 <shift> # たら、プロデューサーはボクのヒーローかな？」
+display
+com11 0 3
+sound 224
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ボクは、ヒーローに助けられる、
+line2 <shift> # 町の女子高生ってことで。へへへっ」
+com03 0 3
+choice1 <shift> # いや、悪の女幹部だよ
+line2
+com09 0 50
+com08
+choice2 <shift> # いや、仲間のヒロインだよ
+line2
+com09 0 51
+com08
+choice3 <shift> # いや、仲間のヒーローだよ
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、悪の女幹部だよ」
+display
+com11 0 3
+sound 225
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、それでも、いいですよ！　ああいう
+line2 <shift> # セクシーな役どころって、憧れますし！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ、近いうちに、対決しないとな」
+display
+com11 0 3
+sound 226
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「へへへーっ、今すぐだって、ＯＫです！
+line2 <shift> # プロデューサーレンジャー、覚悟〜っ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （仕事の合間に、ヒーローごっこ。
+line2 <shift> # 子どもっぽいけど、楽しい時間を過ごした！）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、仲間のヒロインだよ」
+display
+com11 0 3
+sound 227
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ええええ？　いっしょに戦わないと、
+line2 <shift> # いけないんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だって、そうだろ？　同じ芸能界で、
+line2 <shift> # 力を合わせて、戦ってるんだから」
+display
+com11 0 3
+sound 228
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「う〜ん、まあ、それは……。プロデューサーに、
+line2 <shift> # ぜんぶ頼ろうとは、思ってないですけど」
+display
+com11 0 3
+sound 229
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「でも、やっぱり憧れるんですよね。カッコいい
+line2 <shift> # ヒーローに助けられる、普通の女の子の役……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （言いながら、空を見上げている。このキャス
+line2 <shift> # ティングは、ベストでは、なかったようだ）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、仲間のヒーローだよ」
+display
+com11 0 3
+sound 230
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ええええ？　いっしょに戦うんですか？
+line2 <shift> # それ、なんか違いません？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「別に、違わないだろ。
+line2 <shift> # だって、同じ芸能界で……」
+display
+com11 0 3
+sound 231
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「それは、そうですけど！　ヒーローってなん
+line2 <shift> # です、ヒーローって！？　ボクも男役ですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、まあ、それは……」
+display
+com11 0 3
+sound 232
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「せめて、ヒロインって言ってくれてもいいじゃ
+line2 <shift> # ないですか！　ひどいや、プロデューサー……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （猛抗議されてしまった……。女の子を
+line2 <shift> # 悲しませるなんて、ヒーロー失格だな）
+com09 0 69
+display
+location 69
+unk02

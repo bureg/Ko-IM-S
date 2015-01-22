@@ -1,0 +1,518 @@
+com2d 0 11
+location 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ＴＶデビューを果たしたこと、
+line2 <shift> # 早く社長に報告しような、春香！」
+display
+com11 0 0
+sound 0
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい、そうですね！
+line2 <shift> # 社長、今、戻りましたっ！」
+display
+com11 0 0
+sound 1
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「３日間、ご苦労だった。これからも、
+line2 <shift> # わが社のホープとして、励んでくれたまえ」
+display
+com4a 0 0
+com11 0 0
+sound 2
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「では、君たちのアイドルランク報告だ！」
+display
+location 200
+com11 0 0
+sound 3
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「ランクＦに、ランクＵＰしたようだな！
+line2 <shift> # だが、ここからは、そう甘くないぞ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「はい。……あ、ところで、社長。春香のＴＶ
+line2 <shift> # 出演シーンは、観ていて下さったんですか？」
+display
+com11 0 0
+sound 4
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「もちろんだとも。二人ともよくやってくれた！
+line2 <shift> # 今日は、かなりレベルが高かったようだね」
+display
+com11 0 0
+sound 5
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「今、天海君の後に出場した子を観ていたんだが、
+line2 <shift> # 素晴らしい才能の持ち主ばかりのようだ」
+display
+com11 0 0
+sound 6
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「たとえば、思わず録画してしまったのだが、
+line2 <shift> # この娘なんて、素晴らしいじゃないか」
+display
+com4a 0 0 131 115 131 98 129 73
+display
+location 1
+com11 0 0
+sound 7
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「すごくカッコイイ歌ですね……♪　あの、社長。
+line2 <shift> # この歌を歌っているのは、誰ですか？」
+display
+com11 0 0
+sound 8
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「うむ。この子は、我那覇響！　最近、勢いを増
+line2 <shift> # してきた、９６１プロ所属の新人アイドルだよ」
+display
+com11 0 0
+sound 9
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「皆、ありがとーっ！！　自分、絶対トップ
+line2 <shift> # アイドルになりたいんだ！　応援してねっ！」
+display
+com11 0 0
+sound 10
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「『絶対トップアイドルになりたい』、かぁ。
+line2 <shift> # すごいですよね、ＴＶで、こんなハッキリ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。しかし、この子、どこかで見たよう
+line2 <shift> # な……。あっ！　お、思い出したっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「春香と一緒に帰った日、動物を探してた
+line2 <shift> # 女の子だ！　ほら、春香には、話しただろ？」
+display
+com11 0 0
+sound 11
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ええっ！　そうだったんですか！？
+line2 <shift> # うわぁ〜、なんだか、不思議な縁ですねっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。もしかしたら彼女、春香の……」
+com03 0 3
+choice1 <shift> # 宿命のライバルかもな
+line2
+com09 0 10
+com08
+choice2 <shift> # 赤い糸の相手かもな
+line2
+com09 0 11
+com08
+choice3 <shift> # 宿命のペンパルかもな
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「宿命のライバルかもな」
+display
+com11 0 0
+sound 12
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あははっ。そうだったらいいな。こんなにステ
+line2 <shift> # キな歌を歌う子がライバルなら、光栄です！」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「赤い糸の相手かもな」
+display
+com11 0 0
+sound 13
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「えええっ！　赤い糸ってことは……、いつか私、
+line2 <shift> # 響ちゃんと夫婦になるんですかっ！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、さすがにそれはムリか……。
+line2 <shift> # なるとしたら、ライバルになるぐらいかな」
+display
+com11 0 0
+sound 14
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ああ、ビックリした。でも、ライバルになら、
+line2 <shift> # なれたらうれしいです。響ちゃんって……」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「宿命のペンパルかもな」
+display
+com11 0 0
+sound 15
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ペンパル……、って、なんですか？」
+display
+com11 0 0
+sound 16
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「おや、ペンパルを知らないのかね、天海君。
+line2 <shift> # まったく、最近の若い者は物を知らんなあ」
+display
+com11 0 0
+sound 17
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「ペンパルというのは、ペンフレンド。
+line2 <shift> # つまり、文通相手のことだよ」
+display
+com11 0 0
+sound 18
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そうなんですか。でも『宿命の文通相手』って、
+line2 <shift> # 意味が、わからないですよ？」
+display
+com11 0 0
+sound 19
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「むう、確かに意味不明だな……。
+line2 <shift> # どういうことなのかね、君っ！？」
+display
+com11 0 0
+sound 20
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「どういうことなんですか、
+line2 <shift> # プロデューサーさんっ！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あああ。二人して、そんなに怒らないで下さい
+line2 <shift> # よ。ちょっと言い間違えただけじゃないですか」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺が言いたかったのは、『宿命のライバル』
+line2 <shift> # です。間違えて、すみません！」
+display
+com11 0 0
+sound 21
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「なんだ、そうだったんですか！　ライバルにな
+line2 <shift> # ら、なれたらうれしいです。響ちゃんって……」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 22
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「クールで、カッコ良くて……。なんだか私、
+line2 <shift> # 響ちゃんのファンになっちゃいそうです！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、ファンになっちゃダメだろ。
+line2 <shift> # 敵なんだから、勝たないと」
+display
+com11 0 0
+sound 23
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「それはそうですけど。でも、尊敬できる
+line2 <shift> # ライバルって、カッコイイじゃないですか！」
+display
+com11 0 0
+sound 24
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「私も、響ちゃんみたいな歌を歌いたいです。
+line2 <shift> # 響ちゃんみたいに、なりたいですっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （春香、すっかり我那覇響が、
+line2 <shift> # 気に入っちゃったみたいだな……）
+display
+com11 0 0
+sound 25
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「確かに、目標にするには申し分ない相手だな。
+line2 <shift> # 我那覇君は、まだデビューしたばかりだが……」
+display
+com11 0 0
+sound 26
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「新人アイドルの中では、人気ナンバー１。
+line2 <shift> # まさに、新進気鋭だ。それになんと言っても！」
+display
+com11 0 0
+sound 27
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「９６１プロが打ち出している『Ｐｒｏｊｅｃｔ
+line2 <shift> # Ｆａｉｒｙ』のアイドルだからね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「『Ｐｒｏｊｅｃｔ　Ｆａｉｒｙ』？
+line2 <shift> # それってなんですか？　すみません。不勉強で」
+display
+com11 0 0
+sound 28
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「うむ。『Ｐｒｏｊｅｃｔ　Ｆａｉｒｙ』とは、
+line2 <shift> # ９６１プロの黒井社長自らが、手がける……」
+display
+com11 0 0
+sound 29
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「アイドルの一大プロジェクトだ。これに属する
+line2 <shift> # 子は、大々的に売り出されることになるだろう」
+display
+com11 0 0
+sound 30
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「９６１プロの途方もない財力のバックアップを
+line2 <shift> # 受けてね。それが黒井社長のやり方だからな」
+display
+com11 0 0
+sound 31
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「へえ〜。いいなあ、響ちゃん！　本当に
+line2 <shift> # トップアイドルになっちゃうかもしれませんね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんな他人事みたいに言ってちゃダメだ、春香。
+line2 <shift> # 響がトップを狙えるなら、春香だって！」
+display
+com11 0 0
+sound 32
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「そうだぞ天海君。実力は負けていないよ！　財
+line2 <shift> # 力は、我が７６５プロの完敗だがね。ははは！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うっ……。それは、全く笑えません、社長！」
+display
+com11 0 0
+sound 33
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「７６５プロって貧乏だったんですね……。でも
+line2 <shift> # 私、精一杯、トップ目指してがんばりますっ！」
+display
+com11 0 0
+sound 34
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「うむ。アイドルランクを上げてゆき、ＩＵ（ア
+line2 <shift> # イドルアルティメイト）優勝を目指したまえ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あの、質問ばっかりで、すみません。
+line2 <shift> # 『ＩＵ』っていうのは、歌番組の名前ですか？」
+display
+com11 0 0
+sound 35
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「そうだ。年に１度だけ開かれ、真のトップアイ
+line2 <shift> # ドルが誰なのかを決める番組。それがＩＵだよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「真のトップアイドル……」
+display
+com11 0 0
+sound 36
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「そうだ。番組の予選は数回にわけて行われる。
+line2 <shift> # 予選に勝てば、アイドルランクも上昇するぞ」
+display
+com11 0 0
+sound 37
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「そして、ランクＡまで上り詰めた者だけが、
+line2 <shift> # 番組内で行われる本選に参加できるのだ」
+display
+com11 0 0
+sound 38
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「ＩＵの優勝者は、たった１人。もし、
+line2 <shift> # 途中の予選や、本選で敗退すれば……」
+display
+com11 0 0
+sound 39
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「は、敗退すれば……？」
+display
+com11 0 0
+sound 40
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「敗者の汚名だけが残る。たいていは、
+line2 <shift> # そのまま引退、というケースが多いな……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「厳しいですね……。どうする、春香？　今なら
+line2 <shift> # まだ、普通の女の子に戻ることもできるんだぞ」
+display
+com11 0 0
+sound 41
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「な、何言ってるんですかプロデューサーさん！
+line2 <shift> # どんなに厳しくても、私、負けませんっ」
+display
+com11 0 0
+sound 42
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「大好きな歌で、頂点に立ちたいから……、必ず
+line2 <shift> # ＩＵで優勝してトップアイドルになりますっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、よく言った！　俺も同じ気持ちだよ。
+line2 <shift> # 必ず、夢をかなえような、春香！」
+display
+com11 0 0
+sound 43
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はいっ！　一緒に、がんばりましょう、
+line2 <shift> # プロデューサーさん。約束ですよ、約束！」
+display
+com11 0 0
+sound 44
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「いずれ、９６１プロのアイドルと、
+line2 <shift> # オーディションで会うこともあるだろうが……」
+display
+com11 0 0
+sound 45
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「君たちの勝利を、私は信じている。君たちと
+line2 <shift> # ファンとで、伝説を作ってくれたまえ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「はい！　よーし、春香。
+line2 <shift> # ふたりで、めざすは！」
+display
+com11 0 0
+sound 46
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「トップアイドルー！」
+display
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （こうして、春香と俺の、
+line2 <shift> # 熱く厳しい戦いは、幕を開けたのだった……）
+display
+location 100
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ＴＶデビューを果たすことができた。
+line2 <shift> # しかし、ここからが戦いなんだ…………！）
+display
+location 101
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もっと早く色々片付けていれば
+line2 <shift> # もう１レッスンできたかも……」
+display
+location 102
+com11 0 0
+sound 10007
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「３日間、ご苦労だった。これからも
+line2 <shift> # わが社のホープとして、励んでくれたまえ」
+display
+com4a 0 0
+com11 0 0
+sound 10008
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「では、君たちのアイドルランク報告だ！」
+display
+location 200
+com11 0 0
+sound 10009
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「ランクＦに、ランクＵＰしたようだな！
+line2 <shift> # だがここからは、そう甘くないぞ」
+display
+com11 0 0
+sound 10010
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「実は……、ランクＦより上のランクには、
+line2 <shift> # ランクＵＰの『リミット』回数がある」
+display
+com4a 0 0
+com11 0 0
+sound 10011
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「ランクＦならば、ランクＦになってから
+line2 <shift> # 活動１０週以内に、ファンを１万人集めて」
+display
+com11 0 0
+sound 10012
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「次のランクＥになれなければ……、
+line2 <shift> # ユニットは『活動停止』となる！」
+display
+com11 0 0
+sound 10013
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「リミットまでの残り活動週は、毎朝
+line2 <shift> # 表示されるので、確認してくれ！」
+display
+com4a 0 0
+com11 0 0
+sound 10014
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「では次回より、リミット回数も意識して
+line2 <shift> # プロデュースに励んでくれたまえ」
+display
+location 103
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ファンからのプレゼントをチェックして帰るか」
+display
+location 201
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （次の活動では、デビュー曲を決めて
+line2 <shift> # いよいよオーディションだ！）
+display
+unk02

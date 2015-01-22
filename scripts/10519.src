@@ -1,0 +1,299 @@
+com2c 0 33
+com2c 0 24
+com2d 0 21
+com32 0 0
+com11 0 3
+sound 400
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ぷ、プロデューサー、ラジオのゲストトーク、
+line2 <shift> # 終わったわ。それじゃ、私〜、帰るわね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……どうして、気まずい顔してるんだ？
+line2 <shift> # まさか、なにか失敗でも……」
+display
+com11 0 3
+sound 401
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そ、そんなこと、するわけないじゃない。
+line2 <shift> # 私……、もう行かなきゃ……」
+com03 0 3
+choice1 <shift> # ……すぐ、ばれるよ？
+line2
+com09 0 10
+com08
+choice2 <shift> # ちょっと、待てったら
+line2
+com09 0 11
+com08
+choice3 <shift> # こら、待てっ！！
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……すぐ、ばれるよ？」
+display
+com11 0 3
+sound 402
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「う……。それも、そうね。
+line2 <shift> # ……わかった、言うわよ〜」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ちょっと、待てったら」
+display
+com11 0 3
+sound 403
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ほ、ほんとに、なにもしてないわよっ？
+line2 <shift> # ただ、ちょっと……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ちょっと……、なに？」
+com09 0 18
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「こら、待てっ！！」
+display
+com11 0 3
+sound 404
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「待ちたくないのーっ！　ここにいたら、
+line2 <shift> # また怒鳴られるかも……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「な、なにをやらかしたんだ！？」
+com09 0 18
+display
+location 18
+com11 0 3
+sound 405
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「はあ〜、わかった。言うわよ〜」
+com09 0 19
+display
+location 19
+com11 0 3
+sound 406
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「マズいこと、しゃべりまくっちゃったの。ＮＧ
+line2 <shift> # ワード、暴言、ほかの局の宣伝、それから……」
+display
+com11 0 3
+sound 407
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ディレクター、キレまくっちゃって……。
+line2 <shift> # あ、はは……、は……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……笑いごとじゃないだろ？」
+display
+com11 0 3
+sound 408
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「しょーがないでしょー！
+line2 <shift> # ラジオなんて、まだ慣れてないんだからーっ」
+display
+com11 0 3
+sound 409
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……若さゆえのオチャメって、やつかしら？」
+com03 0 3
+choice1 <shift> # それで、すむと思う？
+line2
+com09 0 20
+com08
+choice2 <shift> # ……豪快なオチャメだな
+line2
+com09 0 21
+com08
+choice3 <shift> # バカさゆえ、だろ？
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それで、すむと思う？」
+display
+com11 0 3
+sound 426
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「思わないから、逃げようとしたんじゃない！
+line2 <shift> # 私も、今回は、さすがにマズイって……」
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……豪快なオチャメだな」
+display
+com11 0 3
+sound 411
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そうね！　この思いっきりのよさが、私の味か
+line2 <shift> # しら？　……相手には激辛だったみたいだけど」
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「バカさゆえ、だろ？」
+display
+com11 0 3
+sound 412
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なによ！　ただのバカに、あんな痛快なトーク、
+line2 <shift> # できるわけないでしょ？」
+display
+com11 0 3
+sound 413
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……ただ、痛快すぎたみたいね。
+line2 <shift> # 言った私まで、相当、痛い感じ……」
+com09 0 29
+display
+location 29
+com11 0 3
+sound 414
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あのディレクター、顔真っ赤にして、
+line2 <shift> # 『出入り禁止にしてやる』って……」
+display
+com11 0 3
+sound 415
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「正直に話したんだから、助けてよねっ！
+line2 <shift> # わ、私、ど、どうしよ〜！？」
+com03 0 3
+choice1 <shift> # ひたすら、甘えてこびろ！
+line2
+com09 0 30
+com08
+choice2 <shift> # 土下座して、謝るしかない
+line2
+com09 0 31
+com08
+choice3 <shift> # 時間を置いて、いっしょに謝ろう
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ひたすら、甘えてこびろ！」
+display
+com11 0 3
+sound 416
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そうすれば、おさまる？　……し、信じるから
+line2 <shift> # ね。じゃ、あのディレクター、探してくる！」
+display
+com22 0 30
+com21 0 30
+com11 0 3
+sound 417
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ふぅ〜、なんとか、出入り禁止だけは、
+line2 <shift> # まぬがれたわ。……ありがと」
+display
+com11 0 3
+sound 418
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「今度の今度は、私も寿命、縮んだわよ……。
+line2 <shift> # プロデューサー、なにか飲み物〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （まったく、いろいろやってくれるな。
+line2 <shift> # まあ、事なきを得て、本当によかった……）
+com09 0 39
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「土下座して、あやまるしかない」
+display
+com11 0 3
+sound 419
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「どげ……、私が土下座？
+line2 <shift> # あのディレクターに？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。床にオデコをつけて、
+line2 <shift> # すみませんでしたって……」
+display
+com11 0 3
+sound 420
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……そんなの、ヤっ！　私、悪気があって、
+line2 <shift> # ヘンなコト、言ったワケじゃないもん！」
+display
+com11 0 3
+sound 421
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「土下座なんかするぐらいなら、
+line2 <shift> # 出入り禁止の方がマシよーっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、伊織。どこ行くんだ、おいっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、伊織を捕まえて、いっしょに謝りに
+line2 <shift> # いった。許してはもらえたけど……、疲れた）
+com09 0 39
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「時間を置いて、いっしょに謝りにいこう。
+line2 <shift> # ほとぼりを冷ましてからの方が、いい」
+display
+com11 0 3
+sound 422
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あ、そうね……。アッタマいーい！
+line2 <shift> # じゃ、事務所、戻りましょ！」
+display
+com22 0 30
+com32 0 1
+com21 0 30
+com11 0 3
+sound 423
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ぷ、プロデューサー、電話っ！
+line2 <shift> # あ、あ、あのディレクターから！」
+display
+com11 0 3
+sound 424
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「『事務所から、一言もオワビがないって
+line2 <shift> # いうのは、どういうことだ！』って……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「く……。後すこししたら、
+line2 <shift> # 行こうと思ってたのに」
+display
+com11 0 3
+sound 425
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ど、どうしよう……。もし、他の仕事にまで、
+line2 <shift> # 圧力とか、かかっちゃったら〜〜〜！！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、菓子折り持参で、あやまりにいった。
+line2 <shift> # 間なんか置かず、即、手を打つべきだったか？）
+com09 0 39
+display
+location 39
+unk02

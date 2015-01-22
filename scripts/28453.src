@@ -1,0 +1,298 @@
+com2c 0 1
+com2d 0 41
+com32 0 0
+com11 0 5
+sound 1100
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「毎日、毎日、アイサツまわり……。
+line2 <shift> # それでも一向に、人気は……。くっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そう、暗い顔するなよ。
+line2 <shift> # ほら、よく言うじゃないか……」
+com03 0 3
+choice1 <shift> # 日々精進、って
+line2
+com09 0 10
+com08
+choice2 <shift> # 大器晩成、って
+line2
+com09 0 11
+com08
+choice3 <shift> # 森羅万象、って
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「日々精進、って」
+display
+com11 0 5
+sound 1101
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「わかってます。そう思ってやっているのに、
+line2 <shift> # まったく芽は……」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「大器晩成、って」
+display
+com11 0 5
+sound 1102
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そんなノンビリ、構えてられません！
+line2 <shift> # 私は、すこしでも早くっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あああ、ごめんごめん。
+line2 <shift> # 謝るから、そう熱くなるなよ」
+display
+com11 0 5
+sound 1103
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……すみません。最低ですね。
+line2 <shift> # プロデューサーに、やつあたりなんて」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「森羅万象、って」
+display
+com11 0 5
+sound 1104
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……それ、『万物』の意味ですよね？
+line2 <shift> # 売れないことと、なにか関係が？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや……これも、自然の啓示というか。
+line2 <shift> # 定めというか……」
+display
+com11 0 5
+sound 1105
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ムリに、大きな話にしなくていいです。
+line2 <shift> # ……別に、救われた気にも、なりませんし」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「はあー、なんとかしないとな。このままじゃ、
+line2 <shift> # 千早も親とかの理解、得られないだろ？」
+display
+com11 0 5
+sound 1106
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……親の話なんて、しないでください」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え？　どうして？」
+display
+com11 0 5
+sound 1107
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そんな話、したくありません。親なんて……
+line2 <shift> # 親なんて……。くっ」
+com03 0 3
+choice1 <shift> # もしかして、キライなのか？
+line2
+com09 0 30
+com08
+choice2 <shift> # もしかして、いないのか？
+line2
+com09 0 31
+com08
+choice3 <shift> # もしかして、片方いないのか？
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もしかして、キライなのか？」
+display
+com11 0 5
+sound 1108
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……大嫌いです。だから、芸能界に飛び込んだ
+line2 <shift> # ことすら、伏せています」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もしかして、いないのか？」
+display
+com11 0 5
+sound 1109
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「います、ちゃんと。たまに、いない方が
+line2 <shift> # いいとは、思いますけど……」
+display
+com11 0 5
+sound 1110
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「最近は、ロクに話もしてません。芸能界に
+line2 <shift> # 飛び込んだことも、伏せたままです」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もしかして、片方いないのか？」
+display
+com11 0 5
+sound 1111
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「います、両方とも。私、どっちも嫌いです
+line2 <shift> # から、ロクに話もしませんけど」
+display
+com11 0 5
+sound 1112
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「芸能界に飛び込んだことも、伏せています。
+line2 <shift> # あえて、知らせる必要もないので」
+com09 0 49
+display
+location 49
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「本当か！？　それぐらい、報告しておいた方が
+line2 <shift> # いいんじゃ……」
+display
+com11 0 5
+sound 1113
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……イヤです。あんな自分勝手な人達に、
+line2 <shift> # 話すことなんて、ありません」
+display
+com11 0 5
+sound 1114
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「家には居場所がなくて……、ようやく入った
+line2 <shift> # 新しい世界にも、私の居場所は……」
+display
+com11 0 5
+sound 1115
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサー、どこにもないんですか？
+line2 <shift> # 私が、私でいられる場所なんて？」
+com03 0 3
+choice1 <shift> # なければ、つくろう
+line2
+com09 0 50
+com08
+choice2 <shift> # 探していくしかないよ
+line2
+com09 0 51
+com08
+choice3 <shift> # あきらめる気か？
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 2
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なければ、つくろう」
+display
+com11 0 5
+sound 1116
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「つくる……？　そ、そういう考え方は、
+line2 <shift> # したこと、なかったです……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「はじめから、約束されてるものなんて、ないと
+line2 <shift> # 思えばいい。それなら、開き直れるだろ？」
+display
+com11 0 5
+sound 1117
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そうですね。できるまで、続ければいいだけの
+line2 <shift> # 話……。まだまだ、これからですね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （負の感情が、顔からすっと抜けていく……。
+line2 <shift> # こんなところで、めげてられないよな、俺達）
+com09 0 69
+display
+location 51
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「探していくしかないよ」
+display
+com11 0 5
+sound 1118
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「いつか、見つかりますか？　その場所……。
+line2 <shift> # どこにもない、ということも……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなの、やってみなければ、わからない
+line2 <shift> # だろ？　気にしたって、どうしようも……」
+display
+com11 0 5
+sound 1119
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そうですね。こんなの、誰も保証なんて、して
+line2 <shift> # くれるはずは……」
+display
+com11 0 5
+sound 1120
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ただ、つらいんです……。なんの、
+line2 <shift> # 道しるべもないまま、歩いていくの……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （表情は、暗いままだ……。けど、ふんばるしか
+line2 <shift> # ないことは、千早だって、わかっていると思う）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あきらめる気か？」
+display
+com11 0 5
+sound 1121
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「もし、このまま、なにも変わらないようなら、
+line2 <shift> # ……考えます」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「弱音なんて、聞きたくないよ。ダメだったら、
+line2 <shift> # どうする気だ？」
+display
+com11 0 5
+sound 1122
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「わかりません。けど、私は歌なしでは、生きて
+line2 <shift> # いけません……」
+display
+com11 0 5
+sound 1123
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「芸能界を離れて、家からも出て……歌いながら、
+line2 <shift> # 渡り歩くか。それとも……」
+display
+com11 0 5
+sound 1124
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「歌を……歌わなくても済む世界に……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （おいおい！　その世界って、まさか……！
+line2 <shift> # 千早の顔は、まるで幽鬼のよう……）
+com09 0 69
+display
+location 69 130 214
+unk02

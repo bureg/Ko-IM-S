@@ -1,0 +1,283 @@
+com2c 0 59
+com2c 0 111
+com2c 0 109
+com2d 0 81
+com32 0 0
+com11 0 2
+sound 700
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサー、早く早くー！
+line2 <shift> # アルバムの発表会見、間に合いませんよー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わ、わかってるよ！　にしても、こんな大切な
+line2 <shift> # 会見の場所、まちがえてた、なんてな」
+display
+com11 0 2
+sound 701
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「すみません。ボクが『少年館』だって、言い
+line2 <shift> # はったから。でも『青年館』だったなんて……」
+display
+com11 0 2
+sound 702
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「に、似てなくもないですよね！　少年と青年。
+line2 <shift> # あはは……」
+com03 0 3
+choice1 <shift> # 似てないって……
+line2
+com09 0 10
+com08
+choice2 <shift> # どこが似てるんだ？
+line2
+com09 0 11
+com08
+choice3 <shift> # そっくりだよなッ！
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「似てないって……」
+display
+com11 0 2
+sound 703
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「う、やっぱり……。メモ、信じるべきでしたね。
+line2 <shift> # ボク、地図見た時、疲れでボーッとしてたから」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どこが似てるんだ？」
+display
+com11 0 2
+sound 704
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ほ、ほら、どっちも男だし、
+line2 <shift> # 少年と青年の『年』は、いっしょ……！」
+display
+com11 0 2
+sound 705
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うう、言い訳してて、むなしくなってきました。
+line2 <shift> # 地図見た時、疲れでボーッとしてたから」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そっくりだよなッ！」
+display
+com11 0 2
+sound 706
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そんな、わざとらしく、強調しないで下さい
+line2 <shift> # よ〜！　ボクも悪かったとは、思って……」
+display
+com11 0 2
+sound 707
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「こんな見まちがい、するなんて……。
+line2 <shift> # 地図見た時、疲れでボーッとしてたから」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、仕方ないよ。
+line2 <shift> # 真も、疲れがたまってるんだから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、こんな大切な日に、遅刻はマズイぞ！
+line2 <shift> # レコード会社の重役とかが機嫌悪くするからな」
+display
+com11 0 2
+sound 709
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、そっか！　そういう人もたくさん！
+line2 <shift> # 最悪、ボク、土下座するしか……」
+com03 0 2
+choice1 <shift> # しゃべってる間に、急ごう！
+line2
+com09 0 30
+com08
+choice2 <shift> # 俺も、いっしょにやるよ
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「しゃべってる間に、急ごう！」
+display
+com11 0 2
+sound 710
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「……っと、そうでした！
+line2 <shift> # 着いてからのことは、後で考えれば……！」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺も、いっしょにやるよ。
+line2 <shift> # アイドルとプロデューサーは、一心同体だしな」
+display
+com11 0 2
+sound 711
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、へへへっ。それなら、すこしは、
+line2 <shift> # 心強いかな。よーし、がんばって、土下座……」
+display
+com11 0 2
+sound 712
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「って、そんなこと、ノンビリ話してる場合
+line2 <shift> # じゃ！　い、急がないと〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あああ、そうだったな。ごめん！」
+com09 0 49
+display
+location 49
+com11 0 2
+sound 713
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、あれ？　青年館って、この道、どっち
+line2 <shift> # でしたっけ？　ボクの記憶だと、たしか右……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだったか？
+line2 <shift> # 左だったような気がするけど」
+display
+com11 0 2
+sound 714
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「え、右ですよ〜。まちがいないです。ボク、
+line2 <shift> # ちゃんと地図で見たし！　右、行きましょう！」
+com03 0 3
+choice1 <shift> # いや、左だ！
+line2
+com09 0 50
+com08
+choice2 <shift> # ここで、タクシー待とう
+line2
+com09 0 51
+com08
+choice3 <shift> # よし、右だ！
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、左だ！　真、地図見た時、
+line2 <shift> # 疲れでボーッとしてたんだろ？」
+display
+com11 0 2
+sound 715
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、それは、まあ……。そう言われると、
+line2 <shift> # 自信が〜。わかりました、じゃあ左へ」
+display
+com22 0 30
+com32 0 1
+com21 0 30
+com11 0 2
+sound 716
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ふぅー、セーフ！　間に合いましたね！
+line2 <shift> # やっぱり左だったんだ。あはは……」
+display
+com11 0 2
+sound 717
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「……相当疲れ、たまってるみたいですね。
+line2 <shift> # ま、いっか。プロデューサーがついてるし！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （晴れの会見に、遅刻せずにすんだ。
+line2 <shift> # 多忙な時こそ、しっかりフォローしないとな）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ここで、タクシー待とう。そうすれば、
+line2 <shift> # すくなくとも、ヘンなところには出ないし」
+display
+com11 0 2
+sound 718
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「まあ、それは……。でも、駅前じゃないから、
+line2 <shift> # そんなに数、通らないですよ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それでも、待とう。
+line2 <shift> # 一か八かは、避けたいからな」
+display
+com22 0 30
+com32 0 1
+com21 0 30
+com11 0 2
+sound 719
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ふぅー、ちょっと遅れたけど、着きましたね。
+line2 <shift> # これぐらいなら、大問題には……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （時間内には着かなかったけど、迷うよりは、
+line2 <shift> # ずっといい。かろうじて、面目は保てたかな）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、右だ！　地図で見たんなら、
+line2 <shift> # まちがいはないだろう」
+display
+com11 0 2
+sound 721
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「へへっ、信じてくれて、ありがとうござい
+line2 <shift> # ます！　よーし、そうと決まれば、ダッシュ！」
+display
+com22 0 30
+com32 0 2
+com21 0 30
+com11 0 2
+sound 722
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「……あれ、ここ、病院？
+line2 <shift> # どう見ても、青年館じゃないですよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……だな。そういえば、真、地図見た時、
+line2 <shift> # ボーッとしてたって、言ってなかったか？」
+display
+com11 0 2
+sound 723
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「は、はい……。なんてこった。
+line2 <shift> # いったい、なに見てたんだか、ボク……」
+display
+com11 0 2
+sound 724
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「このまま、入院して、見てもらおうかな……。
+line2 <shift> # す、すみません〜〜〜っ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （今ごろになって、思い出しても、後の祭り……。
+line2 <shift> # 会場に着いたら、あやまるしかない……）
+com09 0 69
+display
+location 69
+unk02

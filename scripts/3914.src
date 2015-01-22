@@ -1,0 +1,524 @@
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今日は雑誌取材の予定だったのだが、いきなり
+line2 <shift> # その前に少し時間をくれと言われて……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （春香の家まで連れてこられた。
+line2 <shift> # 一体、何の用だろうか……？）
+display
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ようこそ、いらっしゃいました。
+line2 <shift> # プロデューサーさん！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺に何か用でもあるのか？　あ、もしかして、
+line2 <shift> # 部屋の模様替えを手伝え……、とか？」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そんなこと頼みませんよ。えへへ、実は……」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「今日は、プロデューサーさん感謝デー
+line2 <shift> # なんです♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「プロデューサーさん感謝デー？」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はいっ。今までの感謝の気持ちを込めて、
+line2 <shift> # 今日は、お礼をしようと思って……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「何だか突然だな」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「実は前から機会をうかがっていたんですけど、
+line2 <shift> # なかなか実行できなくって……」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「今日は雑誌の占いに、何でもうまくいくって
+line2 <shift> # 載ってたから、思い切っちゃいました！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだったのか。でも、
+line2 <shift> # そう正面きって言われると、何だか照れるな」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「えへへ、プロデューサーさん、
+line2 <shift> # 何かほしいものとか、ないですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺のほしいもの……？　そうだなぁ……」
+com03 0 3
+choice1 <shift> # やっぱり愛だな！
+line2
+com09 0 10
+com08
+choice2 <shift> # やっぱり仕事だな！
+line2
+com09 0 11
+com08
+choice3 <shift> # やっぱり春香だな！
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やっぱり、愛だな！」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ええっ、プロデューサーさん……、
+line2 <shift> # もしかして、愛が足りないんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「こう毎日忙しいと、心もすり減ってくるよ。
+line2 <shift> # 愛情とか、温かいものがほしくなるんだ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「愛は与えるものと言うけど、最近は、
+line2 <shift> # 人に与える余裕もないほどさ」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「わかりました。私がプロデューサーさんに、
+line2 <shift> # 愛情をたっくさん、贈ります！」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「私と手を合わせて下さい、
+line2 <shift> # プロデューサーさん」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ。こ、こうか……？」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「私の気持ち……、届いてますか？
+line2 <shift> # プロデューサーさんを大好きな気持ち……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……ああ、届いたよ。
+line2 <shift> # なんだか、温かい気持ちになれた気がする」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「本当ですか？　うれしいです！」
+display
+com11 0 0
+sound 10012
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「けど、プロデューサーさん？
+line2 <shift> # 顔色は良くないですよ？」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やっぱり、仕事だな！」
+display
+com11 0 0
+sound 10013
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「えっ、仕事……、ですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、そうだ。もっともっと仕事をして、
+line2 <shift> # 春香を世界一のアイドルにしたいんだ！」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「プロデューサーさん……。
+line2 <shift> # ありがとうございます、私、うれしいです！」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「もっともっと、お仕事がもらえるように、
+line2 <shift> # 私、がんばりますね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、頼んだぞ。俺も、もっと頑張るからな」
+display
+com11 0 0
+sound 10016
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ありがとうございます！」
+display
+com11 0 0
+sound 10017
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「だけど、プロデューサーさん、
+line2 <shift> # 顔色があんまり、良くないみたいですよ」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やっぱり、春香だな！」
+display
+com11 0 0
+sound 10018
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ええっ！？　それって、
+line2 <shift> # どういう意味ですか？」
+display
+com11 0 0
+sound 10019
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「……もしかして私の宝物が目当てとか？
+line2 <shift> # ウサギのボールペンは、あげませんよ！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、別にボールペンは、いらない」
+display
+com11 0 0
+sound 10020
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「それじゃあ、何なんですか？
+line2 <shift> # もしかして……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （マズイ。春香の瞳が、
+line2 <shift> # 明らかに疑いの眼差しに……！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「い、いや、俺のことを考えてくれるなんて、
+line2 <shift> # 『やっぱり春香だな！』と思って。……ははは」
+display
+com11 0 0
+sound 10021
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、そういう意味、だったんですか。
+line2 <shift> # 何だか少し怪しいですけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ごまかせたか……？　ふう、冗談でも、
+line2 <shift> # 変なことを言うもんじゃないな……）
+display
+com11 0 0
+sound 10022
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ところで、プロデューサーさん、
+line2 <shift> # 顔色があんまり、良くないみたいですよ」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 10023
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「この頃、すごく忙しいから、
+line2 <shift> # プロデューサーさん、お疲れみたいですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「確かに、最近は仕事もファンも増えたし、
+line2 <shift> # 忙しい日が多いな……」
+display
+com11 0 0
+sound 10024
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「それじゃあ、プロデューサーさんのして
+line2 <shift> # 欲しいことは、多分、アレですよね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え？　ああ、そうだな。
+line2 <shift> # 俺が春香にして欲しいことは……」
+com03 0 3
+choice1 <shift> # 春香にいやされたい
+line2
+com09 0 30
+com08
+choice2 <shift> # 春香にいじめられたい
+line2
+com09 0 31
+com08
+choice3 <shift> # 春香にやさしくされたい
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「春香にいやされたい」
+display
+com11 0 0
+sound 10025
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「やっぱり、そうきましたね！
+line2 <shift> # 予想どおりでした」
+display
+com11 0 0
+sound 10026
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「それじゃあ、今からプロデューサーさんを、
+line2 <shift> # いやしてあげますね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今から、ここでか？」
+display
+com11 0 0
+sound 10027
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい！　あの、今から寝て下さい」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え！？　寝るって……、春香の部屋でか？」
+display
+com11 0 0
+sound 10028
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい！　私のベッド、
+line2 <shift> # 低反発のやつだから、寝心地バツグンです！」
+display
+com11 0 0
+sound 10029
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「イヤなことは、ぜーんぶ忘れて、
+line2 <shift> # このままぐっすりと眠っちゃって下さい！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「い、いや、でも春香の部屋で寝ろと言われても、
+line2 <shift> # いきなりすぎて心の準備が……！」
+display
+com11 0 0
+sound 10030
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そんなこと気にしないで、くつろいで、
+line2 <shift> # ゆったりしちゃって下さいね♪」
+display
+com11 0 0
+sound 10031
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ねんねんおころり〜、ふんふふ〜ん♪
+line2 <shift> # 寝る子は育つよ、ふんふふ〜ん♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ああ……、ダメだ。眠気が襲ってきた。
+line2 <shift> # 最近、あんまり寝てな、かった……、から……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そして、俺の意識は遠ざかっていった。
+line2 <shift> # 春香の子守唄のせいだろうか……）
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 10032
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「おはようございます、プロデューサーさん。
+line2 <shift> # そろそろ、起きる時間ですよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うわっ、俺……、
+line2 <shift> # 本当に寝てしまったのか！？」
+display
+com11 0 0
+sound 10033
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい、ほんの３０分くらいですけど。
+line2 <shift> # どうですか？　少しは疲れ、とれましたか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……ああ、おかげで、すっかりいやされたよ。
+line2 <shift> # ありがとう、春香」
+display
+com11 0 0
+sound 10034
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「フフッ、プロデューサーさんの寝顔って、
+line2 <shift> # 赤ちゃんみたいで、かわいかったです♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お、おい！　……大人をからかうんじゃない」
+display
+com11 0 0
+sound 10035
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「えへへ、お役に立てたみたいでうれしいです！
+line2 <shift> # また感謝デーやりますからね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後も春香は、少し俺に恩返しができたと、
+line2 <shift> # とても喜んでいた）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺も疲れがとれたし、
+line2 <shift> # 本当、春香には感謝しなくちゃだな！）
+com09 0 99
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「春香にいじめられたい」
+display
+com11 0 0
+sound 10036
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「い、いじめられたい……！？　そ、そんな、
+line2 <shift> # 私がプロデューサーさんをいじめるなんて……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「要するに、ちょっと叱られたい気分なんだ。
+line2 <shift> # 気合いを入れなおしたいってことかな」
+display
+com11 0 0
+sound 10037
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「なるほど。確かに気合いを入れないと、
+line2 <shift> # 毎日がんばれませんからね！」
+display
+com11 0 0
+sound 10038
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「わかりました。私がプロデューサーさんを、
+line2 <shift> # ビシッと厳しく叱ってあげます！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なかなかいい目だ！
+line2 <shift> # よし、俺をビシバシ、叱ってくれ！」
+display
+com11 0 0
+sound 10039
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「プロデューサーさんっ、何甘えたこと、
+line2 <shift> # 言ってるんですか！　そういうの最低です」
+display
+com11 0 0
+sound 10040
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「このっ……、弱虫、いくじなし、
+line2 <shift> # 鈍感男のダメダメプロデューサー！！」
+display
+com11 0 0
+sound 10041
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「……ふぅ〜、こんな感じで良かったですか？
+line2 <shift> # やっぱり人を叱るのとか、苦手ですよ〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……春香、苦手なんてウソだろう？
+line2 <shift> # 心の奥底が、わきたつ気分だよ……」
+display
+com11 0 0
+sound 10042
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あの、それって、喜んでもらえたんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。春香に叱ってもらって、
+line2 <shift> # 気合いが入ったよ。ありがとう！」
+display
+com11 0 0
+sound 10043
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「喜んでもらえてよかったです。
+line2 <shift> # 今日はプロデューサーさん感謝デーですしね」
+display
+com11 0 0
+sound 10044
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はあ、でも何だか疲れちゃいました。
+line2 <shift> # 慣れないことするもんじゃないですよね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そう言って、
+line2 <shift> # 春香はベッドに倒れこんでしまった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ちょっと無理を言いすぎたみたいだ。
+line2 <shift> # 違うお願いの方が、良かったかな……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今度、感謝デーがあったら、
+line2 <shift> # いじめてとは言わないようにしよう……）
+com09 0 99
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「春香にやさしくされたい」
+display
+com11 0 0
+sound 10045
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ええっ！？　私、普段からプロデューサーさん
+line2 <shift> # には、優しくしてるつもりですけど……」
+display
+com11 0 0
+sound 10046
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「もしかしたら、いつもやさしくして欲しいって
+line2 <shift> # 思ってたんですか……？　うう、どうして……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、べ、別に、いつもそんなことを思っていた
+line2 <shift> # わけじゃないよ。誤解しないで欲しい」
+display
+com11 0 0
+sound 10047
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「でも、今は、そう思ってるってことですよね？
+line2 <shift> # やっぱり、やさしさが足りなかったんだ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、あの、そうじゃないんだ。
+line2 <shift> # 誤解だよ、誤解」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだ、あの、野菜が欲しいって言ったんだ！
+line2 <shift> # ほら食事の栄養バランスがかたよってるからね」
+display
+com11 0 0
+sound 10048
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「……本当ですか？
+line2 <shift> # 何か、ごまかしてませんか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いやいや、ごまかしてないって！
+line2 <shift> # 野菜ジュースを作ってくれたら元気になるさ」
+display
+com11 0 0
+sound 10049
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「それじゃあ、冷蔵庫に、
+line2 <shift> # どんな野菜が入ってるのか見てきます……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （全然ごまかしきれてないみたいだ……。
+line2 <shift> # ああ、乙女心はむずかしい……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （結局、冷蔵庫には、きゅうりしか入っておらず、
+line2 <shift> # 俺はきゅうりジュースを、もらったのだが……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （次に感謝デーがあるかどうかは、
+line2 <shift> # かなり微妙な空気に、なってしまった……）
+com09 0 99
+display
+location 99
+unk02

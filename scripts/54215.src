@@ -1,0 +1,387 @@
+com2c 0 119
+com2d 0 101
+com2e 0 121
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （いよいよＩＵの本選だ！　ここからの相手は、
+line2 <shift> # 今まで以上に強敵が多い）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そして……、ＩＵの栄えある初戦は、
+line2 <shift> # 真美から、チャレンジすることになった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「貴音とは、ついに直接対決になるな……、
+line2 <shift> # 真美」
+display
+com11 0 0
+sound 10000
+com4c 0 1
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おい、真美？　聞いてるのか？」
+display
+com11 0 0
+sound 10001
+com4c 0 1
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「えっ！？　もう、集合時間なの？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「聞いてなかったな？
+line2 <shift> # もしかして……、真美、緊張してるとか？」
+display
+com11 0 0
+sound 10002
+com4c 0 1
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ううん……！
+line2 <shift> # 真美、全然緊張とかしてないよ！？」
+display
+com11 0 0
+sound 10003
+com4c 0 1
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ただ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ただ？」
+display
+com11 0 0
+sound 10004
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「ごきげんよう、双海真美」
+display
+com11 0 0
+sound 10005
+com4c 0 1
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「あっ、お姫ちん……！　ご、ごきげんだよー」
+display
+com11 0 0
+sound 10006
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「それは重畳。良いことですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……この前のＩＵ予選の帰り道で、俺と亜美は、
+line2 <shift> # ひとりで泣いている貴音を見てしまった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （だが、今の貴音は、その時とは別人のように、
+line2 <shift> # りんとした表情をしている）
+display
+com11 0 0
+sound 10007
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「いよいよ本選ですね。ここまで長い道程
+line2 <shift> # でしたが、残りも、あとわずか……」
+display
+com11 0 0
+sound 10008
+com4c 0 1
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「……」
+display
+com11 0 0
+sound 10009
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「……どうかしたのですか？　双海真美」
+display
+com11 0 0
+sound 10010
+com4c 0 1
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「あ……、えーと、うん。そうだね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （さっきから、真美の様子が、おかしい。
+line2 <shift> # どうしたんだろう？）
+com03 0 3
+choice1 <shift> # 今は目の前のことに集中するんだ
+line2
+com09 0 10
+com08
+choice2 <shift> # トイレにでも行きたいのか？
+line2
+com09 0 11
+com08
+choice3 <shift> # 亜美から何か聞いたのか？
+line2
+com09 0 12
+com08
+com07
+com09 0 22
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「真美、何があったか知らないけど、
+line2 <shift> # 今は目の前のことに集中するんだ」
+display
+com11 0 0
+sound 10011
+com4c 0 1
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「兄ちゃん……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「自分達が、大勢のアイドルの中から
+line2 <shift> # 選ばれたこと、忘れちゃいけないぞ」
+display
+com11 0 0
+sound 10012
+com4c 0 1
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「そ、そうだね……。うん！
+line2 <shift> # わかったよ、兄ちゃん！」
+display
+com11 0 0
+sound 10013
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「……双海真美。あなたは、
+line2 <shift> # 双海亜美から聞いたのですね、全てを」
+display
+com11 0 0
+sound 10014
+com4c 0 1
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「あ、あう、その……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あっ……！　そういうことだったのか！）
+display
+com11 0 0
+sound 10015
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「あなた様方のきずなは、とても深いのです
+line2 <shift> # ね……。それが、強さの理由なのでしょう」
+display
+com11 0 0
+sound 10016
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「ですが、私は決して負けません」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……貴音）
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうした、真美？
+line2 <shift> # トイレにでも行きたいのか？」
+display
+com11 0 0
+sound 10017
+com4c 0 1
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ち、ちがうよー！　お姫ちんの前で、
+line2 <shift> # 恥ずかしいこと言わないでよー！」
+display
+com11 0 0
+sound 10018
+com4c 0 1
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「兄ちゃんは、デリバリーの、
+line2 <shift> # かけらもないんだから！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、それを言うならデリカシー……」
+display
+com11 0 0
+sound 10019
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「あなた様には、双海真美が何を考えているのか、
+line2 <shift> # わからないのですね……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、いや……」
+display
+com11 0 0
+sound 10020
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「これならば、私の勝利が揺らぐことは、
+line2 <shift> # なさそうです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……貴音）
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「真美、もしかして、
+line2 <shift> # 亜美から何か、聞いたのか？」
+display
+com11 0 0
+sound 10021
+com4c 0 1
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「え……。えっと、真美……、
+line2 <shift> # その……、えっと、えとっ……！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （やっぱり真美は、亜美から、
+line2 <shift> # 貴音の話を聞いたんだな……）
+display
+com11 0 0
+sound 10022
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「……あなた様は、舞台の直前に、双海真美を、
+line2 <shift> # 動揺させて、いかがなさるおつもりですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ……！？」
+display
+com11 0 0
+sound 10023
+com4c 0 1
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「兄ちゃん……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そうだ……！　こんな時に真美を動揺させる
+line2 <shift> # なんて、俺は、何てことを……）
+display
+com11 0 0
+sound 10024
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「これならば、私の勝利が揺らぐことは、
+line2 <shift> # なさそうです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……貴音）
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10025
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「双海亜美、双海真美。あなた方は、
+line2 <shift> # 事あるごとに、私を友と呼んで下さいました」
+display
+com11 0 0
+sound 10026
+com4c 0 1
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「お姫ちん……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……」
+display
+com11 0 0
+sound 10027
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「その言葉は、まるで暗がりに灯る炎のように、
+line2 <shift> # あたたかく、私の心を揺らしました」
+display
+com11 0 0
+sound 10028
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「今も、私のことを気にかけてくれている……。
+line2 <shift> # しかし、そのような情愛は……」
+display
+com11 0 0
+sound 10029
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「私には……、必要のないものです」
+display
+com11 0 0
+sound 10030
+com4c 0 1
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「そんな……！」
+display
+com11 0 0
+sound 10031
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「断言しましょう。私が、優勝すると」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、勝つのは俺達だ。
+line2 <shift> # ＩＵ優勝は、間違いなく俺達のものだ！」
+display
+com11 0 0
+sound 10032
+com4c 0 1
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「兄ちゃん……！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今や貴音はもう、かなわない相手じゃない。
+line2 <shift> # ここまで３人で、がんばってきたじゃないか」
+display
+com11 0 0
+sound 10033
+com4c 0 1
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「それは、そうだけど……」
+display
+com11 0 0
+sound 10034
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「……それでは、私はそろそろ、
+line2 <shift> # 準備がありますので、失礼させていただきます」
+display
+com11 0 0
+sound 10035
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「ステージで、お待ちしております。
+line2 <shift> # ……双海真美」
+display
+com11 0 0
+sound 10036
+com4c 0 1
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （真美に、心の迷いがあることは、わかっている。
+line2 <shift> # だが、ここまで来て、退くわけにはいかない）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ん？　もしかして、貴音、それを知って、
+line2 <shift> # わざとあんな態度を……？　いや、考え過ぎか）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「真美、いつもの負けん気は、どうした！
+line2 <shift> # 売られたケンカは買うのが、お前だろう！？」
+display
+com11 0 0
+sound 10037
+com4c 0 1
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「……そうだね。わかったよ、兄ちゃん！」
+display
+com11 0 0
+sound 10038
+com4c 0 1
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「じゃあ、行ってくるね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……真美、がんばれよ。
+line2 <shift> # 俺が、いつも以上に、応援してやるからな！）
+com09 0 99
+display
+location 99
+unk02

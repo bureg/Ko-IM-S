@@ -1,0 +1,354 @@
+com2c 0 31
+com2d 0 73
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「顔見せも兼ねて、自らＣＤを店頭販売だ。
+line2 <shift> # 気合で行こう」
+display
+com11 0 5
+sound 600
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ああ、なんで私が店頭営業なんか……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そう言いつつ結構やる気みたいだな、
+line2 <shift> # 準備からして、頑張ってるじゃないか」
+display
+com11 0 5
+sound 601
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「だってしょうがないでしょ？　事務所ごと
+line2 <shift> # 営業に駆り出されたからには……」
+display
+com11 0 5
+sound 602
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「私もちゃんと仕事しなきゃ。
+line2 <shift> # あ、お客さん！　いらっしゃいませ〜！」
+display
+com11 0 5
+sound 603
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「本日発売のマキシシングル、
+line2 <shift> # おひとついかかがでしょう？」
+display
+com11 0 5
+sound 604
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ご一緒にアルバムもいかがですか〜？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんかファーストフードみたいな文句だな」
+display
+com11 0 5
+sound 605
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「む、何か言いました？」
+com03 0 2
+choice1 <shift> # いいから頑張れ
+line2
+com09 0 10
+com08
+choice2 <shift> # なんでもない
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いいから頑張れ、気にするな。
+line2 <shift> # あてにしてるぞ律子」
+display
+com11 0 5
+sound 606
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「はいはい、あてにされますよっ。
+line2 <shift> # スマイル、スマイル」
+display
+com11 0 5
+sound 607
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ま、私にまかせておけば大丈夫ですよ。
+line2 <shift> # 新米プロデューサーよりはよく働くと思うし」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「むむっ……い、いや、俺も頑張らなきゃな。
+line2 <shift> # スマイル、スマイルだ。笑顔の営業だ」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「な、なんでもないよ。
+line2 <shift> # さて、営業を続けようか」
+display
+com11 0 5
+sound 608
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「な〜んかごまかされたような……
+line2 <shift> # 気になるけど、ま、いいか」
+display
+com11 0 5
+sound 609
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「それより、新米プロデューサー様も、
+line2 <shift> # どんどん声出して、ＣＤ売って下さいね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わ、わかってるさ！　え〜、お客様、
+line2 <shift> # よってらっしゃい、見てらっしゃい！」
+display
+com11 0 5
+sound 610
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ち、ちょっと！　叩き売りじゃ
+line2 <shift> # ないんですからぁ……」
+display
+com11 0 5
+sound 611
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ったく、大丈夫かなぁ」
+com09 0 29
+display
+location 29
+com22 0 30
+com21 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しばらくして、ＣＤのワゴンも、そこそこ
+line2 <shift> # さばけてきたが、客足も途絶えてきた……）
+display
+com11 0 5
+sound 612
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あ〜もう、あと少しで完売なのに……」
+display
+com11 0 5
+sound 613
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ああっ、ちょっとプロデューサー、疲れた顔で
+line2 <shift> # お客の前に立たないで下さいよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「す、すまん。立ち仕事があまり長いと結構
+line2 <shift> # 堪えるなぁ……休まなくていいのか、律子？」
+display
+com11 0 5
+sound 614
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「このくらい、どうってことないですよ！
+line2 <shift> # まったく、しょうがないですねぇ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、しかしスタッフ達もクタクタみたいだ。
+line2 <shift> # 小休止入れようよ？」
+display
+com11 0 5
+sound 615
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「いいえっ。私ひとりになっても、
+line2 <shift> # 完売するまで続けますよ」
+display
+com11 0 5
+sound 616
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「結局、私がせっせと売らなきゃ、
+line2 <shift> # まともな売り上げにならないんだから……」
+com03 0 3
+choice1 <shift> # 無理するなよ
+line2
+com09 0 30
+com08
+choice2 <shift> # あとはまかせた
+line2
+com09 0 32
+com08
+choice3 <shift> # とにかく休けいしようよ
+line2
+com09 0 31
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなに無理するなよ」
+display
+com11 0 5
+sound 617
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「無理なんて、してないですよ！
+line2 <shift> # ただ、私が頑張らないとっ……！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「待て待て、気負いすぎなんじゃないか？
+line2 <shift> # 顔が怖くなってるぞ、お客が逃げる」
+display
+com11 0 5
+sound 618
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ああっと……いけない。スマイル、スマイル。
+line2 <shift> # 肩の力は抜かなきゃ、ね」
+display
+com11 0 5
+sound 619
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「っと、そういえば、ちょっと肩が
+line2 <shift> # 重くなってきてるかも……ふぅ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「笑顔を引きつらせながら無理に売るくらい
+line2 <shift> # なら、休けいはさんだほうがいいと思うぞ」
+display
+com11 0 5
+sound 620
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「う〜ん、そうかも。納得……
+line2 <shift> # まだ時間あるなら、ひと息いれますか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （それからは小休止をはさみつつ、皆が、
+line2 <shift> # 交代でワゴン販売に立つことにした）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そして程なくＣＤ完売を達成することができた。
+line2 <shift> # 営業は成功だ！　無理しなくてよかったな……）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「とにかく休けいしようよ、俺は休みたいぞ」
+display
+com11 0 5
+sound 621
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「どうぞご勝手に。私は断固、続けますから！
+line2 <shift> # ええい、いらっしゃいませっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おいおい、笑顔がひきつって怖くなってるぞ、
+line2 <shift> # 律子。それじゃあお客が逃げる……」
+display
+com11 0 5
+sound 622
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「う、うるさいなぁ。だったら、
+line2 <shift> # プロデューサーも、手伝って下さいよぉ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そう焦るなよ」
+display
+com11 0 5
+sound 623
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「私は焦ってなんてなあいっ！　はっ、……っと、
+line2 <shift> # す、すみません！　ああっ……、お客さん」
+display
+com11 0 5
+sound 624
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「いけない、お客に向かって、
+line2 <shift> # 怒鳴っちゃった……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ほら、もっと肩の力、抜いたほうがいいぞ。
+line2 <shift> # 軽く休んで、それから営業再開しなよ」
+display
+com11 0 5
+sound 625
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「むっ……。い、言われなくたって。
+line2 <shift> # わ、わかってますよぉ……」
+display
+com11 0 5
+sound 626
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ああ、それにしても私としたことが……。
+line2 <shift> # お客に暴言吐いちゃうなんて……、最低だ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （律子は渋々、休けいに向かった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しかし、その後、控え室から戻ってこなかった。
+line2 <shift> # 失敗が、よっぽどショックだったのかな……）
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よーし、あとはまかせた！
+line2 <shift> # 俺は奥で、ひと息いれてくる……」
+display
+com11 0 5
+sound 627
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あっ！　ず、ずるい！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「何が、ずるいんだ。それとも、
+line2 <shift> # 律子も、やっぱり休けいするか？」
+display
+com11 0 5
+sound 628
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「き、休けいなんてしませんよ！　断固、
+line2 <shift> # 一人になっても私、販売続けますよっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「本当に、いいんだな？
+line2 <shift> # 頼んだぞ、まかせたからな？」
+display
+com11 0 5
+sound 629
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ま、まかされて！」
+display
+com22 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そして……）
+display
+com21 0 30
+com11 0 5
+sound 630
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「い、いらっしゃいましぃ……。
+line2 <shift> # おつかれさまです、ぷろでゅーさあ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「り、律子！　へろへろに疲れきってる
+line2 <shift> # じゃないか、なんでそこまで無理して！」
+display
+com11 0 5
+sound 631
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ぷ、プロデューサーがのんびり休んでるから、
+line2 <shift> # いけないじゃないんですかぁ……」
+display
+com11 0 5
+sound 632
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「……って、ははは。人のせいにしちゃあ、
+line2 <shift> # いけないな。ともかく、売り切りましたよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ほ、ほんとだ、完売してる！
+line2 <shift> # しかしまったく、無茶するなぁ」
+display
+com11 0 5
+sound 633
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「これも仕事ですよ、ははは……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （律子は力なく苦笑していた。ワゴン販売は成功、
+line2 <shift> # まさに律子の捨て身の営業がものを言った……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しかし相当、心身ともに無理させちゃったん
+line2 <shift> # じゃないかな。ああ、律子の今後が心配だよ）
+com09 0 49
+display
+location 49
+unk02

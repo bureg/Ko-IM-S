@@ -1,0 +1,577 @@
+com2c 0 119
+com2c 0 208
+com2d 0 91
+com2e 0 121
+com32 0 0
+com11 0 0
+sound 10000
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「兄ちゃん、受かったよー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よーし、よくがんばったな！
+line2 <shift> # 次を突破すれば、いよいよ本選だぞ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、それから、貴音が真美と話をするために、
+line2 <shift> # 廊下で待ってるから……」
+display
+com11 0 0
+sound 10001
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「ええっ、そうなの！？　廊下だね！
+line2 <shift> # んじゃ、今すぐ行ってくる〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、おい、待てってば！　まったく……」
+display
+com22 0 30
+com21 0 30
+com32 0 1
+com11 0 0
+sound 10002
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「いたいたっ！　おーい、お姫ちーーーーん！」
+display
+com11 0 0
+sound 10003
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「双海真美。その様子では、
+line2 <shift> # 四次予選も突破したようですね」
+display
+com11 0 0
+sound 10004
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「んっふっふ〜！　本気モードになった真美達は、
+line2 <shift> # 『猫に真珠』だよ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「真美、それを言うなら……」
+com03 0 3
+choice1 <shift> # 鬼に金棒だ
+com09 0 10
+com08
+choice2 <shift> # 猫は珍獣だ
+com09 0 11
+com08
+choice3 <shift> # 豚に真珠だ
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「『鬼に金棒』だ。ただでさえ強い鬼が、
+line2 <shift> # 金棒を持って無敵になったって意味だな」
+display
+com11 0 0
+sound 10005
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「それだよ、兄ちゃん！
+line2 <shift> # さすが『真美に兄ちゃん』だね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （よ、よくわからないが、とりあえず、
+line2 <shift> # 信頼されてるみたいだな……）
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「『猫は珍獣』だ」
+display
+com11 0 0
+sound 10006
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「えー！　そうなの！？
+line2 <shift> # 真美、猫って普通の生きものだと思ってた！」
+display
+com11 0 0
+sound 10007
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「そうだったのですか？　……確かに、
+line2 <shift> # 私のふるさとには、おりませんでしたが」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え？　猫が、一匹もいなかったのか？
+line2 <shift> # じゃあ、どんな動物が？」
+display
+com11 0 0
+sound 10008
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「ウサギです」
+display
+com11 0 0
+sound 10009
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「ウサギ！？　お姫ちんの国って、
+line2 <shift> # もしかして、ウサウサ帝国！？」
+display
+com11 0 0
+sound 10010
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「ウサウサ帝国……、ではありませんが、
+line2 <shift> # 彼らは大地を自由に走り回っていました」
+display
+com11 0 0
+sound 10011
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「へぇ〜！　いつか真美も行ってみたいな。
+line2 <shift> # お姫ちんの国に！」
+display
+com11 0 0
+sound 10012
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「ええ、いつかそういう日が訪れることを、
+line2 <shift> # 私も望んでいます……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （今、貴音の表情が、一瞬、
+line2 <shift> # くもった気がしたが……、気のせいか？）
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「『豚に真珠』だ」
+display
+com11 0 0
+sound 10013
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「そうそう！　『豚に真珠』だよ！」
+display
+com11 0 0
+sound 10014
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「『豚に真珠』とは、確か……」
+display
+com11 0 0
+sound 10015
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「『価値のわからない者に、高価な物を与えても
+line2 <shift> # ムダだ』という意味ですが」
+display
+com11 0 0
+sound 10016
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「そうそう！
+line2 <shift> # ……あれ？　そんじゃ、どういう意味？」
+display
+com11 0 0
+sound 10017
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「双海真美が、やる気を出しても、
+line2 <shift> # 意味がない……、ということでしょうか？」
+display
+com11 0 0
+sound 10018
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「えーっ！　何で意味ないのー！？」
+display
+com11 0 0
+sound 10019
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「兄ちゃん、真美にウソ教えたね！？
+line2 <shift> # 兄ちゃんの裏切りものー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「すまん……。つい、間違えてしまって……」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10020
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「あっ、そうだ！　そんなことは、
+line2 <shift> # どうでもいいんだよー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ど、どうでもいいって……」
+display
+com11 0 0
+sound 10021
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「真美、オーデ前に、お姫ちんに質問されたこと、
+line2 <shift> # 答えようと思って！」
+display
+com11 0 0
+sound 10022
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「私の質問？」
+display
+com11 0 0
+sound 10023
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「そうそう。歌う理由、きいたでしょ？
+line2 <shift> # 真美が何のために歌ってるかってことだよ」
+display
+com11 0 0
+sound 10024
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「……聞きましょう。何のためなのですか？」
+display
+com11 0 0
+sound 10025
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「ギャラ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ええっ！？」
+display
+com11 0 0
+sound 10026
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「……のためじゃないよ。
+line2 <shift> # 真美達、おこづかい制だし」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （紛らわしいことを……）
+display
+com11 0 0
+sound 10027
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「一番は、楽しいからかなー。
+line2 <shift> # アイドルのお仕事、メッチャ楽しいし！」
+display
+com11 0 0
+sound 10028
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「いろいろ大変だし、めんどっちいことも
+line2 <shift> # たくさんあるけど、楽しいことの方が多いよ！」
+display
+com11 0 0
+sound 10029
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「楽しい……？」
+display
+com11 0 0
+sound 10030
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「うん！　兄ちゃんも面白いし、
+line2 <shift> # お姫ちんとも友達になれたし！」
+display
+com11 0 0
+sound 10031
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「私と、友達……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （……真美）
+display
+com11 0 0
+sound 10032
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「それにね、アイドルのお仕事って、
+line2 <shift> # 人を元気に、できるんだよ！」
+display
+com11 0 0
+sound 10033
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「真美達、勉強苦手だから、パパみたいな、
+line2 <shift> # お医者さんにはなれないかもしんないけど……」
+display
+com11 0 0
+sound 10034
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「みんなを笑顔にして、元気にすることは、
+line2 <shift> # できるんじゃないかなって！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「すごいな、真美……。
+line2 <shift> # そんなこと考えてたのか」
+display
+com11 0 0
+sound 10035
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「うん！　さっきのオーデのあいだじゅう、
+line2 <shift> # ずーっと考えてた！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （オーディションに集中してくれ……。いや、
+line2 <shift> # それでも合格できるってことは、すごいのか？）
+display
+com11 0 0
+sound 10036
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「みんなを元気にして……、笑顔に……？
+line2 <shift> # あなたは、そのために歌っているのですか？」
+display
+com11 0 0
+sound 10037
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「うん、そうだよー！」
+display
+com11 0 0
+sound 10038
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「私と、あなた方は、
+line2 <shift> # どこか似ているのかもしれませんね……」
+display
+com11 0 0
+sound 10039
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「でも……、私と目的は同じでも、あなたはいつ
+line2 <shift> # も、あなた自身が、まばゆい笑顔を放つ……」
+display
+com11 0 0
+sound 10040
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「なのに、私は……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （何を言ってるんだろう？
+line2 <shift> # 最後の方が小さくて、ききとれない）
+display
+com11 0 0
+sound 10041
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「あ……。そろそろおいとましなくてはいけない
+line2 <shift> # 時間です。ドラマの撮影が始まってしまいます」
+display
+com11 0 0
+sound 10042
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「……それでは、ごきげんよう」
+display
+com11 0 0
+sound 10043
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「ごきげにょー！」
+display
+com11 0 0
+sound 10044
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「ねえねえ、兄ちゃん、きいた？
+line2 <shift> # お姫ちんと真美達、似てるんだって！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「確かに、そう言ってたな」
+display
+com11 0 0
+sound 10045
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「兄ちゃんは、どこが似てると思う？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「真美達と貴音が？　そうだな……」
+com03 0 3
+choice1 <shift> # 誰かのために歌ってること
+line2
+com09 0 20
+com08
+choice2 <shift> # 性別
+com09 0 21
+com08
+choice3 <shift> # 色っぽさ
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「話の内容から考えると、
+line2 <shift> # 誰かのために歌ってることじゃないか？」
+display
+com11 0 0
+sound 10046
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「誰かのために……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「真美は、みんなを元気にするために、
+line2 <shift> # 歌ってるんだろ？」
+display
+com11 0 0
+sound 10047
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「うん」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「きっと貴音も、誰かのために、
+line2 <shift> # 歌ってるんじゃないかな？」
+display
+com11 0 0
+sound 10048
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「そっかー。そういうとこが、
+line2 <shift> # お姫ちんと似てるんだねー」
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「性別なんか、似てるんじゃないか？」
+display
+com11 0 0
+sound 10049
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「『せいべつ』？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「同じ女性ってこと以外に、
+line2 <shift> # 似ているところが見つからないんだよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だって、貴音は、おしとやかで上品で
+line2 <shift> # おとなしいけど、真美達は……」
+display
+com11 0 0
+sound 10050
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「兄ちゃんに、ヤキニク拳をお見舞いしなきゃ
+line2 <shift> # いけない時が、来たみたいだね……！」
+display
+com11 0 0
+sound 10051
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「ちょわー！　カルビチョップ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ま、待て！　真美、俺が悪かった！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ギャグとして受け流してくれると思ったけど、
+line2 <shift> # やっぱり女の子なんだな……）
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「色っぽさかな」
+display
+com11 0 0
+sound 10052
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「えっ……！　真美、お姫ちんみたく、
+line2 <shift> # 色っぽくなった？」
+display
+com11 0 0
+sound 10053
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「もしかして、兄ちゃん、
+line2 <shift> # いつの間にか、真美にメロメロ？」
+display
+com11 0 0
+sound 10054
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「うっふ〜ん！　いやん、バカ〜ん……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「すまん、真美……。前言撤回させてくれ」
+display
+com11 0 0
+sound 10055
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「えーっ！　何で〜？
+line2 <shift> # 色っぽいって、こういうことじゃないの？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （亜美も真美も、まだ色気より食い気だもんな。
+line2 <shift> # 彼女は、どこが似てると感じたんだろう……）
+com09 0 29
+display
+location 29
+com11 0 0
+sound 10056
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「まあ、とにかく、お姫ちんとも、
+line2 <shift> # ずいぶん、仲良くなれたよね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、そうだな」
+display
+com11 0 0
+sound 10057
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「ずっと、ず〜〜っと、このままだったら、
+line2 <shift> # いいね！　えへへ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……」
+display
+com11 0 0
+sound 10058
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「どうしたの、兄ちゃん？
+line2 <shift> # 事務所に帰るんでしょ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、ああ。もう帰る時間だ。
+line2 <shift> # ほら、すぐ着替えてこい」
+display
+com11 0 0
+sound 10059
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「は〜い！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （確かに仲良くなったけど……。
+line2 <shift> # いずれ必ず、勝負をつけなくてはならない）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （……俺が今日したことを、
+line2 <shift> # 後悔するようなことに、ならなきゃいいな）
+com09 0 99
+display
+location 99
+unk02

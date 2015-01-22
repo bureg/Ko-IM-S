@@ -1,0 +1,391 @@
+com2c 0 193
+com32 0 0
+com2d 0 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ロケの合間のオフ時間を利用して、
+line2 <shift> # ウィンターリゾートに、やってきた）
+display
+com11 0 0
+sound 400
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ここね、一年中雪がある山っていうのは。
+line2 <shift> # なっ、なかなか、いい眺めじゃない」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そう言ってもらえると、連れてきたかいが……、
+line2 <shift> # って伊織、歯が、ガタガタ鳴ってるぞ？」
+display
+com11 0 0
+sound 401
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「だって、ここ、すっごく寒いのよ！
+line2 <shift> # こんないつもの格好じゃ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「準備もせず来たからなぁ。
+line2 <shift> # でも、ガマンできないほどじゃないだろう？」
+display
+com11 0 0
+sound 402
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「オフで、くつろごうって時に、ガマンもなにも、
+line2 <shift> # ないでしょ……。あー、さむっ！」
+display
+com11 0 0
+sound 403
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「プロデューサー、私が凍える前に、
+line2 <shift> # なんとかしなさいよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなに寒いのか、まいったな。
+line2 <shift> # じゃあ、ひとまず……」
+com03 0 3
+choice1 <shift> # 暖炉にでも
+com09 0 10
+com08
+choice2 <shift> # 温泉にでも
+com09 0 11
+com08
+choice3 <shift> # カイロでも
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ひとまず暖炉にでも？」
+display
+com11 0 0
+sound 404
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そうそう、やっぱり雪山で暖をとると言えば、
+line2 <shift> # ロッジにペチカよ！」
+display
+com11 0 0
+sound 405
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「なかなか気が利くじゃない。
+line2 <shift> # で、どこにあるの？　ロッジは」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「温泉にでも行くか？」
+display
+com11 0 0
+sound 406
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そうねー、悪くないわね。
+line2 <shift> # 身体のシンから、あったまりそうだわー」
+display
+com11 0 0
+sound 407
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……って、実は、
+line2 <shift> # あんたが温泉入りたいだけなんじゃないの？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いいじゃないか。雪を見ながら、露天風呂」
+display
+com11 0 0
+sound 408
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「露天風呂〜！？　あんたと混浴なんて、
+line2 <shift> # まっぴらゴメンだからね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「混浴だなんて言ってないぞ……」
+display
+com11 0 0
+sound 409
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「まぁ、いいわ。
+line2 <shift> # それで、どこにあるの？　温泉は」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「この携帯カイロでも使うか？
+line2 <shift> # 小さいけど、意外とあったまるぞ」
+display
+com11 0 0
+sound 410
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「なによ、そんなものを自分ひとりで、
+line2 <shift> # 隠し持ってたわけ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「隠してたわけじゃないよ。
+line2 <shift> # ただ、気がつかなかっただけ」
+display
+com11 0 0
+sound 411
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「気がつかないっていうか、気が利かないわね」
+display
+com11 0 0
+sound 412
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「まあ、いいからそれ、よこしなさい。
+line2 <shift> # ショボいカイロでも、ないよりマシだわ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お、俺の使ってるのを奪いとらなくても……。
+line2 <shift> # あ〜あ、予備とってこなきゃ」
+display
+com11 0 0
+sound 413
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「とってくる？　どこかに置いてあるの？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「近くのロッジだよ」
+display
+com11 0 0
+sound 414
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「早く言いなさいよ、そういうことは。
+line2 <shift> # そこで休みましょ。どこなの、ロッジは？」
+com09 0 19
+display
+location 19
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「すまん。ここからは、結構、歩く。
+line2 <shift> # 山を降りたほうが早いかな」
+display
+com11 0 0
+sound 415
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「なんだ、すぐ近所じゃないの？
+line2 <shift> # 期待して損したわ……」
+display
+com11 0 0
+sound 416
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「やっぱり、プロデューサーにまかせないで、
+line2 <shift> # 自分で別荘の予約くらいしとくんだったわー」
+display
+com11 0 0
+sound 417
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「パパの知り合いの紹介で、
+line2 <shift> # わりといいとこ、泊まれるし」
+display
+com11 0 0
+sound 418
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「すごいのよ。合掌造りに、作り付けの大きな
+line2 <shift> # 暖炉もあって、専用の温泉も引いてあるのよ」
+com03 0 3
+choice1 <shift> # 連れてってくれ！
+line2
+com09 0 20
+com08
+choice2 <shift> # ふーん、すごいな
+line2
+com09 0 21
+com08
+choice3 <shift> # 自慢なら聞かないぞ
+line2
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いいな、そこに連れてってくれ！　ぜひ！
+line2 <shift> # 俺も泊まってみたいぞ」
+display
+com11 0 0
+sound 419
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ふふふ、どう、行きたいでしょ？　あんたも。
+line2 <shift> # でも、ダメよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうしてだ？」
+display
+com11 0 0
+sound 420
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「だってそりゃ、予約がないと。
+line2 <shift> # 人気のあるとこだし、競争、激しいのよ」
+display
+com11 0 0
+sound 421
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「いつか私も、余裕で、そこを１ヶ月、
+line2 <shift> # 貸切にできるくらいの身分に、なってやるわ！」
+display
+com11 0 0
+sound 422
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そしたら、あんたもおまけで、
+line2 <shift> # 連れて行ってあげようかしら。にひひっ♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ぐっ……。期待して、いいんだろうな？」
+display
+com11 0 0
+sound 423
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「それもこれも、あんたの働き次第よ。ま、今は、
+line2 <shift> # このへんで、ガマンしといてあげるわ〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （と、憎まれ口は叩きつつも、伊織の、
+line2 <shift> # 寒さへの文句は減ったようだ……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （なんだかんだで雪景色の中、
+line2 <shift> # 楽しく過ごしたあと、俺と伊織は山を降りた）
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ふーん、それはー、すごいなあー」
+display
+com11 0 0
+sound 424
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「なんで、そんな気のないような、
+line2 <shift> # あいづちなのよ。まったく、ムカつくわー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、すごいのはわかったけど、
+line2 <shift> # 今の俺には、しょせん、ひとごとだからな」
+display
+com11 0 0
+sound 425
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ま、そうね。あんたごときに、正しい
+line2 <shift> # バカンスの過ごし方が、わかるとは思えないわ」
+display
+com11 0 0
+sound 426
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「気の利いたゼイタクさってのが、理解できない
+line2 <shift> # でしょ？　つまり、あれよ、あれ……」
+display
+com11 0 0
+sound 427
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ネコに小判、ウマの耳に大仏ってやつ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「伊織、微妙に間違ってるぞ」
+display
+com11 0 0
+sound 428
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「あ、あんたのレベルに合わせてやったのよ！
+line2 <shift> # あ〜、それにしても、ここは冷えるわ〜……」
+display
+com11 0 0
+sound 429
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「あんたもカゼひく前に、
+line2 <shift> # どうにかしたほうがいいわよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだ、じっとしてるから冷えるんだ。
+line2 <shift> # 一緒に雪合戦でもするか？」
+display
+com11 0 0
+sound 430
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そんなくだらないこと……、ん、そうだ。
+line2 <shift> # 雪玉に石、入れてやろうかしら？　にひひっ♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おいおい、お手柔らかに頼むよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （とりあえず運動することで、伊織の、
+line2 <shift> # 寒さへの文句は減らせたようだ……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （なんだかんだで雪景色の中、まあまあ楽しく
+line2 <shift> # 過ごした後、俺と伊織は、山を降りた）
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「自慢話なら、聞かないぞ。
+line2 <shift> # こんなとこまで来て」
+display
+com11 0 0
+sound 431
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「別に、自慢でもなんでもないわよ。
+line2 <shift> # その別荘、私の持ち物じゃないんだから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それは、そうだが……」
+display
+com11 0 0
+sound 432
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「まったく、わかってないわね〜、あんたは」
+display
+com11 0 0
+sound 433
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「冬のバカンスの過ごし方を知らないだろうから、
+line2 <shift> # 話してあげようとしたのに」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「『知らないだろうから話す』って、
+line2 <shift> # それも一種の、自慢じゃないのか？」
+display
+com11 0 0
+sound 434
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「その調子じゃ、何を言っても、
+line2 <shift> # わかるはずもなさそうねー」
+display
+com11 0 0
+sound 435
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「気の利いたゼイタクさってのが、理解できない
+line2 <shift> # でしょ？　つまり、あれよ、あれ……」
+display
+com11 0 0
+sound 436
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ネコに小判、ウマの耳に大仏ってやつ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「伊織、微妙に間違ってるぞ」
+display
+com11 0 0
+sound 437
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「あ、あんたのレベルに合わせてやったのよ！
+line2 <shift> # あ〜、それにしても、ここは冷えるわ〜……」
+display
+com11 0 0
+sound 438
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「付き合いきれないから、
+line2 <shift> # ひとりで、先に帰ろうかしらね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……って、お、おい伊織、どこへ行く！
+line2 <shift> # そっちはガケだぞーっ！」
+display
+com11 0 0
+sound 439
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ええっ。それを早く言いなさいよ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （去ろうとする伊織を、俺は、
+line2 <shift> # あわてて追いかけた……。世話の焼けることだ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後は、なんだかんだで、
+line2 <shift> # 雪景色に親しんで過ごすことができたようだ）
+com09 0 29
+display
+location 29
+unk02

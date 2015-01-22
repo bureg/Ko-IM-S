@@ -1,0 +1,410 @@
+com2c 0 32
+com2d 0 83
+com32 0 0
+com14 0 0
+com29 0 2
+com15 0 151
+com11 0 4
+sound 400
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「集まってくれた、みなさん！　本当にありが
+line2 <shift> # とう。それじゃ、サイン会、はじめます！」
+display
+com14 0 0
+com29 0 4
+com15 0 11
+com11 0 4
+sound 401
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「……プロデューサー、列に並んでるの、
+line2 <shift> # 女の子ばっかりに見えますけど？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなの気にしてないで、サインサイン」
+com03 0 3
+choice1 <shift> # がんばれ、王子様！
+line2
+com09 0 10
+com08
+choice2 <shift> # がんばれ、玉子様！
+line2
+com09 0 11
+com08
+choice3 <shift> # がんばれ、王十様！
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「がんばれ、王子様！」
+display
+com14 0 0
+com29 0 2
+com15 0 31
+com15 0 32
+com11 0 4
+sound 402
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そうですね。期待は裏切れません。よしっ、
+line2 <shift> # 今日はそのイメージを、壊さないように！」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「がんばれ、玉子様！」
+display
+com14 0 0
+com29 0 9
+com15 0 110
+com16 0 111
+com11 0 4
+sound 403
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「たまご……さま？　ぼ、ボクのことですか？」
+com09 0 91
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「がんばれ、王十様！」
+display
+com14 0 0
+com29 0 9
+com15 0 110
+com16 0 111
+com11 0 4
+sound 404
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「おうじゅう……さま？　誰です？　それ。
+line2 <shift> # 中国のえらい人とかですか？」
+com09 0 91
+display
+location 91
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あああ、まちがえたっ。がんばれ、王子様！」
+display
+com14 0 0
+com29 0 1
+com15 0 20
+com16 0 21
+com11 0 4
+sound 405
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「……そうですよね。期待は裏切れません。よし、
+line2 <shift> # ここは割り切って、王子役に徹してみます！」
+com09 0 29
+display
+location 29
+com11 0 4
+sound 406
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「え、ボクの熱烈なファン？　ありがとう。
+line2 <shift> # 今後も君のために、がんばるから」
+display
+com14 0 0
+com29 0 9
+com15 0 110
+com16 0 111
+com11 0 4
+sound 407
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「で、電話番号を、教えてくれ？　
+line2 <shift> # それは、ちょっと……。プロデューサ〜？」
+com03 0 3
+choice1 <shift> # 逆に、聞き返せ
+line2
+com09 0 30
+com08
+choice2 <shift> # テキトーな番号を
+line2
+com09 0 31
+com08
+choice3 <shift> # ……教えてやれよ
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「逆に、聞き返せ」
+display
+com14 0 0
+com29 0 0
+com16 0 1
+com11 0 4
+sound 408
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ボクのより、君の番号を教えてほしいな。
+line2 <shift> # うん、そこの紙に、書いておいて」
+display
+com14 0 0
+com29 0 4
+com15 0 40
+com16 0 41
+com11 0 4
+sound 409
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あはは、ボクのサインと、君の番号、
+line2 <shift> # 交換だね。うん、ありがとう！　また」
+display
+com14 0 0
+com29 0 0
+com16 0 1
+com11 0 4
+sound 410
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ふぅ〜、ありがとうございました。
+line2 <shift> # なんとか……。じゃあ、つぎの人！」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「テキトーな番号を」
+display
+com14 0 0
+com29 0 6
+com15 0 160
+com16 0 161
+com11 0 4
+sound 411
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「えーと、ボクの番号はー、１１９２の、
+line2 <shift> # ４６４９の……６６６の、それから……」
+display
+com14 0 0
+com29 0 9
+com15 0 110
+com16 0 111
+com11 0 4
+sound 412
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「こんな長い番号、ない？　あ、いや、それは。
+line2 <shift> # ぼ、ボクはウソつきじゃ……。あ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やれやれ……。もうちょっと、ばれないように
+line2 <shift> # できなかったのか？」
+display
+com14 0 0
+com29 0 2
+com15 0 70
+com16 0 71
+com11 0 4
+sound 413
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「すみません……。番号なんて、とっさには
+line2 <shift> # 出てこなくて。……それじゃ、つぎの人！」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……教えてやれよ」
+display
+com14 0 0
+com29 0 0
+com16 0 1
+com11 0 4
+sound 414
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「う、はい……。け、携帯の番号でいいかな？
+line2 <shift> # よく聞いてね、０９０の……」
+display
+com11 0 4
+sound 415
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うん、いつでも電話して！　もちろん、
+line2 <shift> # 本物の番号だって。うん、また！」
+display
+com11 0 4
+sound 416
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ううう、あの子、本当に電話してきますよ〜。
+line2 <shift> # ボク、どうしたら……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あとで、番号変えるとか、するしかないか。
+line2 <shift> # そのまま、友達になってもいいけど」
+display
+com11 0 4
+sound 417
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「どっちにしても、大変ですね。まあ、しかた
+line2 <shift> # ないです。……じゃあ、つぎの人！」
+com09 0 49
+display
+location 49
+com11 0 4
+sound 418
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「どこから、きたの？　あ、そんなに遠くから？
+line2 <shift> # ありがとう。これからも、よろしくね！」
+display
+com14 0 0
+com29 0 10
+com15 0 101
+com15 0 102
+com11 0 4
+sound 419
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「え？　手の甲にキス？　そんなのイ……！
+line2 <shift> # じゃなくて。……ぷ、プロデューサ〜？」
+com03 0 3
+choice1 <shift> # おしゃべりで、ごまかせ
+line2
+com09 0 50
+com08
+choice2 <shift> # テキトーに、言い訳を
+line2
+com09 0 51
+com08
+choice3 <shift> # ……してやれよ
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 2
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おしゃべりで、ごまかせ」
+display
+com11 0 4
+sound 420
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「と、ところで、そのリボン、かわいいね。
+line2 <shift> # とっても、よく似合ってるよ！」
+display
+com14 0 0
+com29 0 0
+com16 0 1
+com11 0 4
+sound 421
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「おせじじゃないって。うん、会えてよかった！
+line2 <shift> # いつか、君の町にもいくから。約束っ」
+display
+com14 0 0
+com29 0 4
+com15 0 11
+com11 0 4
+sound 422
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ふぅ〜、助かりました〜。ホントにすることに
+line2 <shift> # なったら、どうしようかと……」
+display
+com14 0 0
+com29 0 0
+com11 0 4
+sound 423
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサー、終わるまで、そこにいてくだ
+line2 <shift> # さいね。今みたいなフォロー、お願いしますっ」
+display <shift> # （困ったファンを、うまく追い払えたな。その後、
+line2 <shift> # サイン会は大好評のうちに、幕を降ろした！）
+com09 0 69
+display
+location 51
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「テキトーに、言い訳を」
+display
+com14 0 0
+com29 0 4
+com15 0 11
+com11 0 4
+sound 424
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「キスは〜、やめた方がいいと思うよ。ほ、ほら、
+line2 <shift> # ヘンな病気とか、うつると困るだろ？」
+display
+com14 0 0
+com29 0 10
+com15 0 101
+com15 0 102
+com11 0 4
+sound 425
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「なに、青い顔……。あああっ、ちがうよ！？
+line2 <shift> # 別にボクが、そういうの、持ってるわけじゃ」
+display
+com11 0 4
+sound 426
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ほんとだって！　信じてよ〜。
+line2 <shift> # あっ！　……行っちゃいました」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もうすこし、うまい言い訳、考えつかなかった
+line2 <shift> # のか？」
+display
+com14 0 0
+com29 0 0
+com16 0 1
+com11 0 4
+sound 427
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「すみません。でも、ホントにやるはめになる
+line2 <shift> # よりは、いいですよね。あはは……」
+display <shift> # （切り抜け方に問題はあったけど、なんとか
+line2 <shift> # 危機は脱したか。……まあ、よしとしよう）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……してやれよ」
+display
+com14 0 0
+com29 0 4
+com15 0 11
+com11 0 4
+sound 428
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あは、あはははは……。まあ……こんなボク
+line2 <shift> # でも、いいんなら。失うものも、ないしね！」
+display
+com11 0 4
+sound 429
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「じゃあ、どっちの手が、いいかなー。
+line2 <shift> # え、両方？　わかった、順番にね。うう……」
+display
+com22 0 30
+com21 0 30
+com14 0 0
+com29 0 2
+com15 0 70
+com16 0 71
+com11 0 4
+sound 430
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサ〜、あんまりですっ。ボク、
+line2 <shift> # あそこまでは、したくなかったです〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ま、まあ、いいじゃないか。手ぐらい。
+line2 <shift> # ほら、つぎのファンの相手して」
+display
+com14 0 0
+com29 0 10
+com15 0 101
+com15 0 102
+com11 0 4
+sound 431
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「えええええっ、私は額がいい！？
+line2 <shift> # ぼ、ぼ、ボク、ヤだよ〜、そんなの〜〜〜」
+display <shift> # （う、見ていた他のファンまで、調子に乗って
+line2 <shift> # しまった。これは、さすがにマズかったか……）
+com09 0 69
+display
+location 69
+unk02

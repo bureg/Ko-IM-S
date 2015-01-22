@@ -1,0 +1,259 @@
+com2c 0 148
+com32 0 0
+com2d 0 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （オフの時間を利用して、近所の学園祭を、
+line2 <shift> # 見学にやってきた）
+display
+com11 0 0
+sound 300
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「案外、盛り上がってるみたいね。見た目は、
+line2 <shift> # ちょっと、しょぼい感じもするけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「こういうのは、手作り感が、いいんだよ」
+display
+com11 0 0
+sound 301
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そうね。学生のやることだし、
+line2 <shift> # べらぼうに金かけられても困るわね〜」
+display
+com11 0 0
+sound 302
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「あら、あの人だかりは、なにかしら？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「屋外で、いくつかイベントをやってるみたい
+line2 <shift> # だね。いろいろあるけど、特に人気なのは……」
+com03 0 3
+choice1 <shift> # ものまねステージだ
+line2
+com09 0 10
+com08
+choice2 <shift> # 手品のステージだ
+line2
+com09 0 11
+com08
+choice3 <shift> # 漫才のステージだ
+line2
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ものまねステージらしいな。
+line2 <shift> # なになに、アイドルのものまねだって」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「手品のステージかな？
+line2 <shift> # ほら、ハトが、いっぱい出てるぞ」
+display
+com11 0 0
+sound 303
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ハト程度じゃ、面白くもなんともないわ……。
+line2 <shift> # たまには帽子からワニくらい出して欲しいわね」
+display
+com11 0 0
+sound 304
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そんなのより他に、もっと面白いのないの？
+line2 <shift> # 向こうのは……、ん、ものまねステージ？？」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「漫才のステージかな？」
+display
+com11 0 0
+sound 305
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ふ〜ん。最近のお笑いは、ほめ殺し芸もあれば、
+line2 <shift> # けなし芸もあったり……」
+display
+com11 0 0
+sound 306
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「その上、楽器使ったり踊ったりで、
+line2 <shift> # 大変みたいね。私は興味ないけど〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「興味ないってわりには、詳しそうだな……」
+display
+com11 0 0
+sound 307
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「別にいいでしょ。他に面白いのないの？
+line2 <shift> # 向こうのは……、ん、ものまねステージ？？」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 308
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「へぇ、どんなものまね……、って、
+line2 <shift> # ちょっとーっ！　なにあれーっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ん？　なに急に、大きな声、出してるんだ？
+line2 <shift> # 伊織」
+display
+com11 0 0
+sound 309
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「だってあれ、私の、ものまねじゃないの！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ものまねのネタにしてもらえたのか……。
+line2 <shift> # いいじゃないか！　人気がある証拠だぞ」
+display
+com11 0 0
+sound 310
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「全然、よくなぁあーい！
+line2 <shift> # だって全然、似てないからっ！」
+display
+com11 0 0
+sound 311
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「致命的に、へったくそでダサくて、
+line2 <shift> # 貧乏くさい！　ムカっ腹が立つわっ！」
+display
+com11 0 0
+sound 312
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「きーっ！　断固、抗議してやるっ！
+line2 <shift> # ステージから引きずりおろしてやるわ」
+com03 0 2
+choice1 <shift> # よしわかった乱入しよう
+line2
+com09 0 20
+com08
+choice2 <shift> # ダメだ、抑えろ！
+line2
+com09 0 21
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よーし、伊織の気持ちは、わかった。
+line2 <shift> # 俺も、なんだか同感だ」
+display
+com11 0 0
+sound 313
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「じゃあ、あんたも一緒に、
+line2 <shift> # 文句言いに行ってくれる？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、それじゃ生ぬるい！　いっそ今、
+line2 <shift> # あのステージに乱入してしまえ、伊織」
+display
+com11 0 0
+sound 314
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ええっ、そこまでやるの……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「注目を集めるチャンスかもしれないぞ。
+line2 <shift> # ステージ的にも、きっと盛り上がる！」
+display
+com11 0 0
+sound 315
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「なるほど、わかったわ。連中が、ものまねで、
+line2 <shift> # そこそこ笑いをとったところに……」
+display
+com11 0 0
+sound 316
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「さっそうと！　本物の私登場ってわけね！
+line2 <shift> # ふふっ、みんなの話題も視線も独占よ！」
+display
+com11 0 0
+sound 317
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「よーし、そのマイクをよこしなさーいっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （幸いにもこの作戦（？）は学園祭側にも歓迎さ
+line2 <shift> # れ突然の伊織乱入オンステージは大いにうけた）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （最後は、ものまねの子と並んで歌ってたな。
+line2 <shift> # 結構、伊織も楽しめたんじゃないだろうか……）
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だ、ダメだ、抑えろ！
+line2 <shift> # ここで騒ぎを起こしたら、まずいぞ」
+display
+com11 0 0
+sound 318
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「くぅーっ、あのマイク、
+line2 <shift> # 引っ込めさせたいーっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ま、伊織の気持ちは、俺もわかるけどさ」
+display
+com11 0 0
+sound 319
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「まったく。せめてあれが、
+line2 <shift> # ドへたくそでさえなければ、許せるのにっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ほら、向こうだって、たまのお祭りで、
+line2 <shift> # ハメをはずして楽しんでるんだろうし、さ」
+display
+com11 0 0
+sound 320
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「それは……、そうね。たぶん半分冗談で、
+line2 <shift> # わざとふざけて、やってるわね」
+display
+com11 0 0
+sound 321
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「その冗談を真に受けて、
+line2 <shift> # いちいちカリカリするのも、みっともないわ〜」
+display
+com11 0 0
+sound 322
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「お祭りの無礼講ってことで、私も、大らかな
+line2 <shift> # 気持ちで、見逃してあげようかしらね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうそう。ステージなんて、
+line2 <shift> # もう、どうでもよくなってきただろ？」
+display
+com11 0 0
+sound 323
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ええ、そうね。屋台でも、巡りましょ、屋台」
+display
+com11 0 0
+sound 324
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「私はグルメなのよ。ふふっ。
+line2 <shift> # 私の舌に、かなう屋台は、あるかしら？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （どうやら、伊織の興味は、
+line2 <shift> # ステージから他に移ったようだ……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後は、一緒に、学園祭を、
+line2 <shift> # それなりに楽しく回って過ごすことができた）
+com09 0 29
+display
+location 29
+unk02

@@ -1,0 +1,360 @@
+com2c 0 87
+com2d 0 31
+com2e 0 34
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （仕事の合間のオフタイムを利用して、
+line2 <shift> # ビーチリゾートへやって来た）
+display
+com11 0 0
+sound 100
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うーん、水の音が気持ちよさそうっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「オフの息抜きには、ぴったりだと思ってね。
+line2 <shift> # 連れてきたかいが、あったかな？」
+display
+com11 0 0
+sound 101
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はい。プール、来たかったんです！　今日は、
+line2 <shift> # 思いっきり遊んでいっても、いいですか！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もちろんさ……。ああっと、ちょっと待った」
+display
+com11 0 0
+sound 102
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ええっ？　あっ。は、はい。なんでしょう？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「最近、やよいも有名になってきたからな。
+line2 <shift> # くれぐれも、目立ちすぎないようにはしてくれ」
+display
+com11 0 0
+sound 103
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「目立ちすぎないように……？
+line2 <shift> # あんまり注目されたら、いけないですかね」
+display
+com11 0 0
+sound 104
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「じゃあ、今日は、こっそり！
+line2 <shift> # 遊びましょうー！　おー！」
+com03 0 2
+choice1 <shift> # 頼むぞ
+com09 0 10
+com08
+choice2 <shift> # 大丈夫かな
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「頼むぞ。せっかくのオフだし、
+line2 <shift> # 騒ぎは起こしたくないから」
+display
+com11 0 0
+sound 105
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はーい。大丈夫ですよー。私だって、
+line2 <shift> # アイドルです。まかせてくださいっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……って、言ってるそばから、
+line2 <shift> # 声がでかくて、目立ってるぞ……」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「大丈夫かな。せっかくのオフだし、
+line2 <shift> # 騒ぎは起こさないでくれよ？」
+display
+com11 0 0
+sound 106
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「騒ぎ？　私、大騒ぎなんてしませんよー？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、そうじゃなくてだな……」
+display
+com11 0 0
+sound 107
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「平気です。私も、アイドルの自覚、
+line2 <shift> # ちゃんとありますから！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……って、言ってるそばから、
+line2 <shift> # 声がでかくて、目立ってるじゃないか……」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 108
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ごめんなさ〜い……。えへへ。
+line2 <shift> # ところで、プロデューサー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ん？　なんだ、やよい」
+display
+com11 0 0
+sound 109
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「実は今日、私、水着持ってきてるんですよ」
+display
+com11 0 0
+sound 110
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「どうしようかな。泳いじゃおうかなっ。
+line2 <shift> # でも、泳いで、いいのかな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだなぁ。やよいが泳ぎたい気持ちは、
+line2 <shift> # 俺も、よくわかる……」
+display
+com11 0 0
+sound 111
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「よーし、泳いじゃおう！　プロデューサー、
+line2 <shift> # いいですよね。いいですよねっ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わかった。その目で言われたら、断れないさ。
+line2 <shift> # 許可しよう！　ただし……」
+com03 0 3
+choice1 <shift> # 俺がカントクするぞ
+line2
+com09 0 20
+com08
+choice2 <shift> # 力いっぱい楽しめ
+line2
+com09 0 21
+com08
+choice3 <shift> # 日焼けに注意だ
+line2
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やよいのことは、俺がカントクするぞ」
+display
+com11 0 0
+sound 112
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「カントク！　泳ぎを、
+line2 <shift> # コーチしてくれるってことですかっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなとこだな。さ、着替えて着替えて」
+display
+com11 0 0
+sound 113
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「やったー♪　わっかりました、コーチ！
+line2 <shift> # ご指導よろしくおねがいしまーすっ」
+display
+com11 0 0
+sound 114
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あ。もちろん、プロデューサーも、
+line2 <shift> # 一緒に泳ぎますよねっ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。プールに来たんだからね。
+line2 <shift> # しっかり楽しまなくっちゃな！」
+display
+com11 0 0
+sound 115
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はい！　一緒に、楽しくっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺は、さりげなく周囲に気を配りながらも、
+line2 <shift> # やよいの泳ぎを、監督してやることにした）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （トラブルもなく、やよいはプールを、
+line2 <shift> # 満喫できたみたいだ。いいオフになったな……）
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「力いっぱい楽しめ」
+display
+com11 0 0
+sound 116
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「力いっぱいですかっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「この際、もう周囲の目など気にせず、
+line2 <shift> # 存分に、泳ぎを楽しもうじゃないか」
+display
+com11 0 0
+sound 117
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あっ、はい！　そうですねっ」
+display
+com11 0 0
+sound 118
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「私も、やっぱり、今日は思いっきり泳ぎたくて、
+line2 <shift> # プールに来たんですから！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだろう、そうだろう。さ、俺は、
+line2 <shift> # ここで見てるから、遠慮なく行って来い！」
+display
+com11 0 0
+sound 119
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ではっ、さっそく着替えて、
+line2 <shift> # いってきまーす！」
+display
+com22 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しかし、しばらくの後……）
+display
+com21 0 30
+com11 0 0
+sound 120
+com4c 0 2
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ぷ、プロデューサー……。ただいまです……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ど、どうしたやよい！
+line2 <shift> # へろへろに疲れてるじゃないか」
+display
+com11 0 0
+sound 121
+com4c 0 2
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ちょっと泳ぎすぎちゃいました。
+line2 <shift> # えへへへ……」
+display
+com11 0 0
+sound 122
+com4c 0 2
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「それと、向こうでファンの人たちから、
+line2 <shift> # サイン攻めにあってしまって」
+display
+com11 0 0
+sound 123
+com4c 0 2
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「こんなに泳いだのも、久しぶりで、
+line2 <shift> # 楽しかったんですけれども……。うう〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうか。わかった、もうしゃべるな。
+line2 <shift> # ひとまず休けいしよう、な？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （泳ぎは、楽しめたらしいやよいだったけど、
+line2 <shift> # 少し、疲れすぎたみたいだ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺が、ちゃんと様子を見てやっていれば、こん
+line2 <shift> # なことには……。あとがちょっと、心配だな）
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「くれぐれも、日焼けには気をつけよう」
+display
+com11 0 0
+sound 124
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はっ！　そ、そうですねっ。
+line2 <shift> # 私、うっかり焼けると、あとが大変に……」
+display
+com11 0 0
+sound 125
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「肌、弱いんですよ〜。
+line2 <shift> # うう、日焼け止め持ってきてない。どうしよう」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なーんて、室内プールだし、
+line2 <shift> # そんなに心配いらないんだけどね」
+display
+com11 0 0
+sound 126
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うう〜。でっ、でも、もしかしたら、
+line2 <shift> # ライトの照りつけで焼けるかもっ」
+display
+com11 0 0
+sound 127
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「テラスの日差しも強いですしっ。
+line2 <shift> # じゅうぶん気をつけなくっちゃ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そこまで警戒しなくても……」
+display
+com11 0 0
+sound 128
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「とにかく、着替えてきまーすっ」
+display
+com22 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しかし、しばらくの後……）
+display
+com21 0 30
+com11 0 0
+sound 129
+com4c 0 2
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ぷ、ぷ、プロデューサー……。
+line2 <shift> # おまたせしましたぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「遅かったなやよい……。ど、どうした？
+line2 <shift> # 足元、フラフラじゃないか！」
+display
+com11 0 0
+sound 130
+com4c 0 2
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「日焼け止めが、どこかに売ってないか、
+line2 <shift> # 探しまわってみたんですけどぉ……」
+display
+com11 0 0
+sound 131
+com4c 0 2
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「な、なかなか、私の肌でも合いそうなのが、
+line2 <shift> # 見つからなくってっ。……うう」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「大丈夫か？　あーあ、この暑さの中、
+line2 <shift> # 走り回ってたのか……。まずいな」
+display
+com11 0 0
+sound 132
+com4c 0 2
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「う〜。ちょっと、走りすぎて、
+line2 <shift> # 疲れちゃいました……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （やよいの体調も心配だし、残念ながら、
+line2 <shift> # プールで泳ぐのは、あきらめてもらった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （気をつけるべきは、日焼けだけじゃなかったな。
+line2 <shift> # やよいは、とてもしょげていた……）
+com09 0 29
+display
+location 29
+unk02

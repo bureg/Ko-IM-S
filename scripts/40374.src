@@ -1,0 +1,455 @@
+com2c 0 33
+com2d 0 71
+com32 0 0 131 103 131 68 131 139 131 139 131 139 129 99 129 99 131 103 131 68 131 139 131 139 131 139 129 99 129 99
+display
+com11 0 0
+sound 0
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ライブチケットの先行予約、
+line2 <shift> # 大盛況みたいですね！」
+display
+com11 0 0
+sound 1
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ラジオ番組での告知だけだから、
+line2 <shift> # 最初は心配してましたけど……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やっぱり、律子も電話に出るっていうのが
+line2 <shift> # 大きいんじゃないか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もしかしたら律子が出るかも……って、ファン
+line2 <shift> # は期待して、電話をかけてくれてるんだよ」
+display
+com11 0 0
+sound 2
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「なら、もっとじゃんじゃん電話に出て、
+line2 <shift> # ガンガン売らないと、ですね！」
+com03 0 3
+choice1 <shift> # ガンガン頼むぞ
+line2
+com09 0 11
+com08
+choice2 <shift> # ほどほどにな
+line2
+com09 0 12
+com08
+choice3 <shift> # いや、もういいだろう
+line2
+com09 0 13
+com08
+com07
+com09 0 13
+com08
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、ガンガン頼むぞ」
+display
+com11 0 0
+sound 3
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そのつもりです。ここでがんばった分だけ、
+line2 <shift> # ライブにお客さんが来てくれると思えば……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やる気も出るってことか。そりゃそうだよな」
+com09 0 14
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ほどほどでいいぞ」
+display
+com11 0 0
+sound 4
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「んもう、そんな弱腰な。
+line2 <shift> # 完売のチャンスなんですよ？」
+display
+com11 0 0
+sound 5
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「こういう時は、積極的にいかないと、
+line2 <shift> # 運気を逃しちゃいます！」
+com09 0 14
+display
+location 13
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、もういいだろう。律子が全く電話に出な
+line2 <shift> # かったとしても、ファンにはバレやしないさ」
+display
+com11 0 0
+sound 6
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ええっ！？　そ、それじゃ
+line2 <shift> # まるっきり詐欺じゃないですか！」
+display
+com11 0 0
+sound 7
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「プロデューサー！　それは、商売人として
+line2 <shift> # もっともしちゃいけないことですよ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、それもそうだな。ファンに対する裏切り
+line2 <shift> # 行為だよな。すまん……」
+com09 0 14
+display
+location 14 131 103 131 68 131 139 131 139 131 139 129 99 129 99 131 103 131 68 131 139 131 139 131 139 129 99 129 99
+display
+com11 0 0
+sound 8
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「それにしても、電話、鳴りやまないなぁ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「この調子だと、予定枚数を
+line2 <shift> # 超えちゃうんじゃないか？」
+display
+com11 0 0
+sound 9
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ええ、まさに大成功ね。
+line2 <shift> # この次のツアーでも、同じ手でいけるかも」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、そうだなあ。次は……」
+com03 0 3
+choice1 <shift> # 別の手を考えておこう
+line2
+com09 0 21
+com08
+choice2 <shift> # チケット枠を拡大しよう
+line2
+com09 0 22
+com08
+choice3 <shift> # 今回と全部同じにしよう
+line2
+com09 0 23
+com08
+com07 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64
+com09 0 23
+com08
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「次は、なにか別の手を
+line2 <shift> # 考えた方がいいだろうな」
+display
+com11 0 0
+sound 10
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「せっかく成功例があるのに、
+line2 <shift> # どうしてそれを活かさないんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「次も同じようにうまくいくとは限らない。
+line2 <shift> # それに、もっとよりよい手があるかもしれない」
+display
+com11 0 0
+sound 11
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「さすがプロデューサー！　私も同じ意見かな。
+line2 <shift> # 同じ事を繰り返してちゃ、進歩がないものね」
+com09 0 24
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「次は、もっとチケット枠を拡大しよう。
+line2 <shift> # それから、宣伝も大々的に打たないとな」
+display
+com11 0 0
+sound 12
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「う〜ん、その考え方もアリだけど……。
+line2 <shift> # 私としては、別の手を考えたいかな」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「えっ？　同じ手でいけるかもって言ったのは
+line2 <shift> # 律子じゃないか」
+display
+com11 0 0
+sound 13
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ひっかけですよ。プロデューサーが、自分の
+line2 <shift> # 考えを持っているかどうか、知りたかったから」
+display
+com11 0 0
+sound 14
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「見事にひっかかりましたね？　でも、まあ、
+line2 <shift> # そんなに悪い提案でもないかな……」
+com09 0 24
+display
+location 23
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「次は……そうだな、今回と全部同じにしよう。
+line2 <shift> # きっとまた、うまくいくに違いない！」
+display
+com11 0 0
+sound 15
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「はぁ……ダメだこりゃ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え？」
+display
+com11 0 0
+sound 16
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「いくらなんでも、全部同じだなんて
+line2 <shift> # 芸がなさ過ぎますよ」
+display
+com11 0 0
+sound 17
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「別の販売ルートも模索するとか、
+line2 <shift> # そういう言葉が聞きたかったのに……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そうだったのか……」
+com09 0 24
+display
+location 24 131 103 131 68 131 139 131 139 131 139 129 99 129 99 131 103 131 68 131 139 131 139 131 139 129 99 129 99
+display
+com11 0 0
+sound 18
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「さてと！　ともかく、そろそろ電話受付に
+line2 <shift> # 戻りますね。……んっ！　んんっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ノド、調子悪そうだな。
+line2 <shift> # あんまり無理するなよ」
+display
+com11 0 0
+sound 19
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「でも、ここが正念場ですから！」
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 20
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「はい、はい。ありがとうございました〜！」
+display <shift> # ピッ！
+display
+com11 0 0
+sound 21
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「あぁ……、ノドが……。
+line2 <shift> # プロデューサー、のどあめ下さい〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なあ律子、もうやめた方が
+line2 <shift> # いいんじゃないか？　ノド、酷使しすぎだよ」
+display
+com11 0 0
+sound 22
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「で、でも、あと５分だし……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あと５分なら、切り上げてもいいだろ？
+line2 <shift> # ここでノドをつぶしてしまったら、大変だぞ」
+display
+com11 0 0
+sound 23
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「でも、あとちょっとで完売……ケホッ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ほら、無理するなって。チケットが完売しても
+line2 <shift> # 律子が歌えなかったら、意味ないんだから」
+display
+com11 0 0
+sound 24
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そ、それじゃ、あと１本！
+line2 <shift> # あと１本だけ出たら、終わりにしますから！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ダメだ、これ以上は……」
+display <shift> # トゥルルル……トゥルルル……
+display
+com11 0 0
+sound 25
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「はい、もしもし！
+line2 <shift> # ……あれ、この電話じゃない」
+display
+com11 0 0
+sound 26
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「こっちの電話かな？　もしもーし？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「はい、もしもし！　……これも違うか」
+display
+com11 0 0
+sound 27
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「もしも……、ケホッ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （これ以上、律子に電話を取らせるわけには
+line2 <shift> # いかない！　先に俺が電話を取らないと！）
+com03 0 3
+choice1 <shift> # 右の電話
+com09 0 31
+com08
+choice2 <shift> # 真ん中の電話
+line2
+com09 0 31
+com08
+choice3 <shift> # 左の電話
+com09 0 31
+com08
+com07 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64
+com09 0 34
+com08
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「はい、もしもし！」
+com37 0 1
+com1e 0 0
+com09 0 32
+com3b
+com37 0 0
+com1e 0 0
+com09 0 33
+com3b
+display
+location 34
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「はい、もしもし！」
+com09 0 33
+display
+location 32
+name 0 2 <names:3>  # Voice
+line1 <shift> # 「あのー、律子ちゃんが出るコンサートの
+line2 <shift> # チケットを……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「はい、少々お待ちください！」
+display
+com11 0 0
+sound 28
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「あっ、プロデュー……、ケホッ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「律子は、のどあめなめて休んでろ。
+line2 <shift> # これは俺が出た電話だから、俺が応対するよ」
+display
+com11 0 0
+sound 29
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「……はい。そうですね、お任せします」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お待たせしました。はい、２名で。
+line2 <shift> # お送り先のご住所は……？」
+display
+com22 0 30
+com21 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ありがとうございました。
+line2 <shift> # 会場で、お待ちしております！」
+display <shift> # プッ！
+display
+name 0 2 <names:4>  # Staff
+line1 <shift> # 「今の電話で受付終了です。チケットは完売しま
+line2 <shift> # した。テレアポのみなさん、お疲れ様です！」
+display
+com11 0 0
+sound 30
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「えっ……完売？　やったー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お疲れ様、律子。完売して良かったな。
+line2 <shift> # それはそうと、ノド、大丈夫か？」
+display
+com11 0 0
+sound 31
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「あめをなめたら、かなり楽になりました！
+line2 <shift> # さっきは相当マズかったけど……」
+display
+com11 0 0
+sound 32
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ちょっと、頑張りすぎだったかな。ストップ
+line2 <shift> # かけてくれて助かりました、プロデューサー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ちょっと照れくさそうに笑う律子。この
+line2 <shift> # 頑固なほどの懸命さが律子の魅力なんだよな）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （今度のライブも、その懸命さで素晴らしいもの
+line2 <shift> # にしてくれるに違いない！）
+com4b 0 0
+com09 0 69
+display
+location 33 131 99 129 91 129 65 131 99 129 91
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「しまった、ハズした！
+line2 <shift> # 鳴ってたのは、この電話じゃなかったのか！」
+display
+com11 0 0
+sound 33
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「もしもし、お電話ありがとうございます！
+line2 <shift> # ふふっ、ビックリしましたか？」
+display
+com11 0 0
+sound 34
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「……え？　やだなぁ、本人ですよ」
+display
+com11 0 0
+sound 35
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「声が違う？　あぁ、たくさん電話とったから
+line2 <shift> # ノドがちょっとね……、ケホッ！」
+display
+com11 0 0
+sound 36
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「う、ウソじゃないって！
+line2 <shift> # ちょっと、ニセモノって……！」
+display
+com11 0 0
+sound 37
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「……切られた。な、なんでよ？　正真正銘、
+line2 <shift> # 本人なのに！　……ケホッ、ケホケホッ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「興奮して叫ぶなって！　ノドに悪いから！
+line2 <shift> # ほら、のどあめなめて」
+display
+com11 0 0
+sound 38
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「うう、ニセモノだなんて、あんまりだわ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ノドの痛みとニセモノ呼ばわりされたショック
+line2 <shift> # で、この後、律子は相当へこんでいた……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （あの声で、ライブ、大丈夫なのか？　俺が先に
+line2 <shift> # 電話を取れていたら、こんなことには……）
+com4b 0 2
+com09 0 69
+display
+location 69
+unk02

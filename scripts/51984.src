@@ -1,0 +1,316 @@
+com2c 0 1
+com2c 0 105
+com2d 0 91
+com2e 0 101
+com32 0 0
+com11 0 5
+sound 400
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「真美ー！　早く早く〜、お出かけだよ〜！」
+display
+com11 0 5
+sound 401
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「待ってよ〜！
+line2 <shift> # に、兄ちゃん、これから、どこへ行くの？」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「アイサツまわりだよ。亜美達の顔を、
+line2 <shift> # えらい人に、おぼえてもらわないとな」
+display
+com11 0 5
+sound 402
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「えらい人かあ……。きっと、髪オレンジで、
+line2 <shift> # ギンモノちゃらちゃら、なんだろうね！」
+display
+com11 0 5
+sound 403
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ねえ、その人の顔、ケータイの、
+line2 <shift> # ムービーメールで、友達に送ってもいーい？」
+com03 0 2
+choice1 <shift> # それは、やめとこう
+line2
+com09 0 10
+com08
+choice2 <shift> # それは、失礼だよ
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「それは、やめとこう。亜美は、
+line2 <shift> # 撮られる側で、撮るのは、向こうの仕事だろ？」
+display
+com11 0 5
+sound 404
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「言われてみれば、そうだね！　友達、
+line2 <shift> # よろこぶと思ったんだけど、じゃ、やめとくー」
+com09 0 29
+display
+location 11
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「それは、失礼だよ。そういうのは、よっぽど
+line2 <shift> # 親しい間柄じゃないと、許されないだろ？」
+display
+com11 0 5
+sound 405
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「え、そうなの？　ガッコの友達とか先生とかは、
+line2 <shift> # 平気で撮らせてくれるのに〜！」
+display
+com11 0 5
+sound 406
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「げーのー界って、思ったより、きつきつなトコ
+line2 <shift> # なんだね。じゃあ、亜美〜、やめとこうよ……」
+com09 0 29
+display
+location 29
+com11 0 5
+sound 407
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ねえ、兄ちゃん。アイサツまわりって、
+line2 <shift> # 亜美達、たくさんのところ、まわるの？」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「いや、今日は、１か所だけ。
+line2 <shift> # 知名度がないから、営業先も限られてるし……」
+display
+com11 0 5
+sound 408
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「１か所しか行かないのに、アイサツまわりって
+line2 <shift> # いうの、おかしいよ〜。ねー、真美？」
+display
+com11 0 5
+sound 409
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「そうだね。んじゃ、別の名前にしちゃおー！」
+com03 0 3
+choice1 <shift> # よし、いっしょに考えよう
+line2
+com09 0 30
+com08
+choice2 <shift> # 好きにして、いいよ
+line2
+com09 0 31
+com08
+choice3 <shift> # ……さっさと行くぞ
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「よし、いっしょに考えよう」
+display
+com11 0 5
+sound 410
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「わーい、ありがとー！　どうせなら、
+line2 <shift> # ちゃんとした名前の方が、いいもんね！」
+display
+com11 0 5
+sound 411
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「どんなのがいーい？　兄ちゃんが言うのが、
+line2 <shift> # ピッタリだったら、それで決まりだよ！」
+com09 0 49
+display
+location 31
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「好きにして、いいよ」
+display
+com11 0 5
+sound 412
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「兄ちゃん、なんか冷た〜い！　みんなで
+line2 <shift> # 行くんだから、兄ちゃんも考えようよ〜」
+display
+com11 0 5
+sound 413
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「そーだよー！　真美達だけじゃ、ピッタリ
+line2 <shift> # なの、思いつかないかもしれないし……」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「わ、わかったよ。
+line2 <shift> # 俺も、いっしょに考えれば、いいんだろ」
+display
+com11 0 5
+sound 414
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「わーいっ！　ね、ね、どんなのがいいー？
+line2 <shift> # おもしろかったら、それで決まりね！」
+com09 0 49
+display
+location 32
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「……さっさと行くぞ」
+display
+com11 0 5
+sound 415
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「え〜、やだよ〜！　まわらないのに、
+line2 <shift> # アイサツまわりなんて、絶対にヘンだもーん」
+display
+com11 0 5
+sound 416
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「そーだよ。アイドルは、
+line2 <shift> # ウソついちゃいけないんだから〜」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「わ、わかったよ。なら、名前決めてから、
+line2 <shift> # 行こう。どんなのがいいんだ？」
+display
+com11 0 5
+sound 417
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「まずは、兄ちゃんが考えて！
+line2 <shift> # それが、よかったら、スパッと決まりだよ！」
+com09 0 49
+display
+location 49
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「うーん、そうだなあ。じゃあ……」
+com03 0 3
+choice1 <shift> # 『押しかけアイサツ』とか？
+line2
+com09 0 50
+com08
+choice2 <shift> # 『アイサツ１発』とか？
+line2
+com09 0 51
+com08
+choice3 <shift> # 『アイサツまわらない』とか？
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「『押しかけアイサツ』とか？
+line2 <shift> # 呼ばれないのに売り込みに行くってことで……」
+display
+com11 0 5
+sound 418
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「あはははっ。それ、おもしろい〜っ！
+line2 <shift> # 真美も、これでいーい？」
+display
+com11 0 5
+sound 426
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「うん！　兄ちゃん、さえてる〜！
+line2 <shift> # それじゃ『押しかけアイサツ』に出発ー！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （えらく、気に入ってもらえたな。こんな、
+line2 <shift> # 品のないネーミングが、大受けするとは……）
+com09 0 69
+display
+location 51
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「『アイサツ１発』とか？
+line2 <shift> # 勢いがあって、いいと思うけど」
+display
+com11 0 5
+sound 420
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「あ！　それ、けっこうおもしろいねっ。じゃ、
+line2 <shift> # 決定ー！　みんなで、アイサツ１発に出発ー」
+display
+com22 0 30
+com32 0 1
+com21 0 30
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「あのなあ〜！　どうして『こんにちは』だけ
+line2 <shift> # 言って、逃げ出すんだよ！？」
+display
+com11 0 5
+sound 421
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「だって〜、１発だもん……。
+line2 <shift> # 他になにか言ったら、２発になっちゃうし……」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （先方を、おどろかせてしまった……。けど、
+line2 <shift> # 強烈なインパクトだけは、残せたかもしれない）
+com09 0 69
+display
+location 52
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「『アイサツまわらない』とか？
+line2 <shift> # ストレートで、いいと思うけど」
+display
+com11 0 5
+sound 422
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ん〜、でもそれじゃ、なんにもしないみたいに、
+line2 <shift> # きこえるよ？　アイサツには、行くんだし……」
+display
+com11 0 5
+sound 423
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「じゃ、次は真美が考えるね！
+line2 <shift> # えーとー、『アイサツ大会』とか？」
+display
+com11 0 5
+sound 424
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「１回しかないのに、大会っていうのも、
+line2 <shift> # ヘンだよ……。もっと別のを……」
+display
+com11 0 5
+sound 425
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ん〜『アイサツ作戦』『アイサツニッポン』、
+line2 <shift> # 『アイサツですよ』……。他には、えーとえと」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （一向に決まらないまま、時間だけが過ぎていく。
+line2 <shift> # これは……、とんだロスになりそうだな）
+com09 0 69
+display
+location 69
+unk02

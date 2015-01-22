@@ -1,0 +1,259 @@
+com11 0 5
+sound 700
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサー、現場、まだですか？　どう
+line2 <shift> # して、このロケバス、急に速度を落として……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「車の前、見てみろって。完全に、お手上げだ」
+display
+com11 0 5
+sound 701
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うわっ！　すっごい渋滞。
+line2 <shift> # これじゃ当分、抜けられそうに……」
+display
+com11 0 5
+sound 702
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「でも、新人が仕事に遅刻したら、
+line2 <shift> # 大変なことになるんじゃ？」
+com03 0 3
+choice1 <shift> # なんとか、しないとな
+line2
+com09 0 10
+com08
+choice2 <shift> # ああ、最悪だ
+line2
+com09 0 11
+com08
+choice3 <shift> # 短い、つきあいだったな
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なんとか、しないとな」
+display
+com11 0 5
+sound 703
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そうですね！　えっと、自分の足で走るか……。
+line2 <shift> # でも、ここからじゃ、相当距離が」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、最悪だ」
+display
+com11 0 5
+sound 704
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ど、ど、どうするんです？
+line2 <shift> # 落ち着きはらってる場合じゃないですよー！？」
+display
+com11 0 5
+sound 705
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「なにかっ、なにか考えないと……。ここで
+line2 <shift> # 飛び下りて、走っていくわけにもいかないし」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「短いつきあいだったな」
+display
+com11 0 5
+sound 706
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「なに、弱気なこと言ってるんです？　ジエンド
+line2 <shift> # にならないよう、なんとかしましょうよ〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうは言っても、
+line2 <shift> # 渋滞は、どうにもならないしな」
+display
+com11 0 5
+sound 707
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「いいですっ！　なら、ボクが手を。えっと、
+line2 <shift> # ここから飛び下りて、走るわけにもいかないし」
+com09 0 29
+display
+location 29
+com11 0 5
+sound 708
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ん？　この道……。そうだ！　ボク、抜け道
+line2 <shift> # 知ってます！　そこに出られれば、きっと！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「本当か？
+line2 <shift> # どうして、そんなの、知ってるんだ？」
+display
+com11 0 5
+sound 709
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「へへっ。ボク、父さんによく、ドライブに引っ
+line2 <shift> # ぱり出されるんです。その時、通ったおぼえが」
+display
+com11 0 5
+sound 710
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「もしよければ、ボク、やりましょうか？
+line2 <shift> # そうすれば、一発で抜けられますよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「真、免許は？」
+display
+com11 0 5
+sound 711
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「持ってないですよ、まだ１６ですから。
+line2 <shift> # でも、カートとか乗り慣れてるから、大丈夫！」
+com03 0 3
+choice1 <shift> # ……あのなあ
+line2
+com09 0 30
+com08
+choice2 <shift> # この、バカ！
+line2
+com09 0 31
+com08
+choice3 <shift> # じゃあ、問題ないか
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……あのなあ、真」
+display
+com11 0 5
+sound 712
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「……あれ？　やだなあ、不信そうな目で見て。
+line2 <shift> # そんなにボク、頼りなさそうかなあ」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「この、バカ！」
+display
+com11 0 5
+sound 713
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うあああっ、なんですかいったい。
+line2 <shift> # いきなり、怒鳴らないでくださいよ！」
+display
+com11 0 5
+sound 714
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ボクにまかせてくれて平気なのに……。
+line2 <shift> # 信用、ないんだなあ……」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ、問題はないか……。
+line2 <shift> # って、そんな事できるか！　何言ってるんだ」
+display
+com11 0 5
+sound 715
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「えっ、ダメですか？　ボク、ほんとに、
+line2 <shift> # いい抜け道、知ってるんですよ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ダメだダメだ、そんなことさせられない。
+line2 <shift> # 突然、何を言い出すかと思えば、まったく」
+display
+com11 0 5
+sound 716
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はあーあ。
+line2 <shift> # ボクって、全く信用されてないんだなあ……」
+com09 0 49
+display
+location 49
+com11 0 5
+sound 717
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「でも、このままじゃ、大遅刻ですよね？　一か
+line2 <shift> # 八か、ボクの好きにさせてもらえませんか？」
+com03 0 2
+choice1 <shift> # ……よし、任せる！
+line2
+com09 0 50
+com08
+choice2 <shift> # ……座ってろ！
+line2
+com09 0 51
+com08
+com07
+com09 0 51
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……よし、任せる！」
+display
+com11 0 5
+sound 718
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ありがとうございます！　任せといて下さい。
+line2 <shift> # バッチリ、ナビを務めてみせますからっ！」
+display
+com11 0 5
+sound 719
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「運転手さん。そこ、右に曲がって、それから２
+line2 <shift> # 本目を右へ。それでショートカットできます！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （真の指示で、ロケバスは見事、渋滞から脱出！
+line2 <shift> # ふー、九死に一生を得たな）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……座ってろ！」
+display
+com11 0 5
+sound 720
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そんな〜。……わ、わかりました。おとなしく
+line2 <shift> # してますから、こわい顔は……。はあ〜」
+display
+com22 0 30
+com21 0 30
+com11 0 5
+sound 721
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「時間、だいぶ、たちましたね。あーあ、
+line2 <shift> # ボクにナビやらせてくれれば、いまごろ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ナビ？　……って、真、運転するつもり
+line2 <shift> # だったんじゃなかったのか？」
+display
+com11 0 5
+sound 722
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「しませんよ、そんなこと。運転するだなんて、
+line2 <shift> # ボク言ってないじゃないですか」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （……ぐっ、道案内するつもりだったのか。
+line2 <shift> # 好きにさせておけば、遅刻せずにすんだかも）
+com09 0 69
+display
+location 69
+unk02

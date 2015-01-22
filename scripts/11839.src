@@ -1,0 +1,272 @@
+com2c 0 87
+com32 0 0
+com2d 0 24
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （仕事の合間の、オフタイムを利用して、
+line2 <shift> # ビーチリゾートにやって来た）
+display
+com11 0 0
+sound 100
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ちょっと！　ここ暑すぎよ！？　せっかく、
+line2 <shift> # オフなのに、なんでこんな所、来たのよー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「伊織が、『南の島に行きたい』って言ってた
+line2 <shift> # から、このリゾートに連れてきたんじゃないか」
+display
+com11 0 0
+sound 101
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ここの、どこが南の島なのよー！
+line2 <shift> # ただの人工リゾートじゃない！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、どっちも暑いし、
+line2 <shift> # 同じようなもんだろ？」
+display
+com11 0 0
+sound 102
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「全然違うわよっ！　……はぁ、まったく、
+line2 <shift> # これだから庶民は困るわ〜」
+display
+com11 0 0
+sound 103
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「こんなとこ、ただ暑いだけじゃない。
+line2 <shift> # せっかくのオフなのに、最悪だわ〜！」
+com03 0 2
+choice1 <shift> # ブツブツ言うなよ
+line2
+com09 0 10
+com08
+choice2 <shift> # 来るんじゃなかったな
+line2
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ブツブツ言うなよ」
+display
+com11 0 0
+sound 104
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「言いたくもなるわ。だいたいあんたが、
+line2 <shift> # もう少し気をきかせていれば……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「オフタイムに、遊びに出られるだけでも、
+line2 <shift> # 幸いだろ？」
+display
+com11 0 0
+sound 105
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「フンっ、まぁ、せっかく来たからには、
+line2 <shift> # くつろいでいってあげなくもないわ」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まったく、連れて来るんじゃなかったな」
+display
+com11 0 0
+sound 106
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「なんですってー！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「オフタイムに遊びに出られるだけでも、
+line2 <shift> # 幸いだと思わないのか？」
+display
+com11 0 0
+sound 107
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そんな理屈……。
+line2 <shift> # く、でも、それも言えてるわね」
+display
+com11 0 0
+sound 108
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「気に入らないけど、せっかく来たからには、
+line2 <shift> # くつろいであげなくもないわ」
+com09 0 19
+display
+location 19
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （まったく、やれやれだな……。しかし、
+line2 <shift> # 機嫌を損ねられたら、休暇の意味がないぞ）
+display
+com11 0 0
+sound 109
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「それにしても暑いわね……。
+line2 <shift> # なんとかならないの？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「南国風の施設なんだ。暑いのは当然だろ」
+display
+com11 0 0
+sound 110
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ここだけでも、冷房かけるとかしなさいよね。
+line2 <shift> # プロデューサー権限で」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「んな、むちゃくちゃな……」
+display
+com11 0 0
+sound 111
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ああーっ、暑い！　暑苦しい！
+line2 <shift> # 焼け焦げるーっ！　どうにかしなさいよ！」
+com03 0 3
+choice1 <shift> # やっぱり涼しいとこへ
+line2
+com09 0 20
+com08
+choice2 <shift> # 冷たいものでも……
+line2
+com09 0 21
+com08
+choice3 <shift> # 暑さを楽しめないのか？
+line2
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「仕方ないな。やっぱり涼しいとこへ行くか」
+display
+com11 0 0
+sound 112
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そうこなくっちゃ♪　じゃ、移動移動！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「とはいえ、どこに行こう？」
+display
+com11 0 0
+sound 113
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そうね……。あっ、なーんだ。向こうに、
+line2 <shift> # 休けいできる場所が、あるじゃないの！」
+display
+com11 0 0
+sound 114
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「クーラーもあるし、冷たいものも飲めそうね。
+line2 <shift> # ほら、あんたも早く早く」
+display
+com11 0 0
+sound 115
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ふふっ、暑い中で涼しい思いするのって、
+line2 <shift> # 最高のぜいたくよね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （おいおい、リゾートに来た意味あるのか……？
+line2 <shift> # でも、伊織は上機嫌なようだし、よしとするか）
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わかったわかった。じゃあ、冷たい飲みもので
+line2 <shift> # も買ってやるから、そうかんしゃく起こすなよ」
+display
+com11 0 0
+sound 116
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「別に、かんしゃくなんか……！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おっと、ちょうど売店の人が、ジュース売りに
+line2 <shift> # 来てくれたぞ……。すみませーん」
+display
+com11 0 0
+sound 117
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「飲み物ひとつで、ごまかされるもんですか。
+line2 <shift> # 子どもじゃ、あるまいし……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……っとと。ほら、ジュース買ったよ。
+line2 <shift> # 受け取れっ」
+display
+com11 0 0
+sound 118
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……って、投げて渡すなあっ。ひやああぁっ！
+line2 <shift> # うっかり落とすとこじゃない！」
+display
+com11 0 0
+sound 119
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「だいたい、このジュース！
+line2 <shift> # 冷たすぎるんじゃないの！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……と、文句たらたら、しかし、ジュースを飲
+line2 <shift> # んで、伊織の機嫌は、直ったようだ……。ふぅ）
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「この暑さを健康的に楽しめないのか？」
+display
+com11 0 0
+sound 120
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「あのね……。そりゃ、本格的な南の島で、
+line2 <shift> # 本格的なバカンスなら、暑くて結構！」
+display
+com11 0 0
+sound 121
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「暑い中でも、のんびり過ごそうって気に、
+line2 <shift> # なってくるけど……」
+display
+com11 0 0
+sound 122
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「こんな、ニセモノのリゾート来て、
+line2 <shift> # バカンス気分に、なれるわけないでしょ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そう言わずに、なんとかエンジョイ、ね？」
+display
+com11 0 0
+sound 123
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「できるわけないでしょっ！　ばかーっ！」
+display
+com11 0 0
+sound 124
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「だいたい、あのニセ太陽！
+line2 <shift> # あれがダメなのよっ！」
+display
+com11 0 0
+sound 125
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「私の肌はデリケートなのよ！？
+line2 <shift> # あっという間に、やけちゃうわ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うわっ、過度な日焼けの危険については、
+line2 <shift> # 忘れてた！」
+display
+com11 0 0
+sound 126
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「忘れてた、じゃないわよ〜！
+line2 <shift> # もう！　さっさと日陰に行くわよっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （気が回らず、伊織を怒らせてしまった。機嫌を
+line2 <shift> # 直してもらえるまで、時間がかかるかも……）
+com09 0 29
+display
+location 29
+unk02

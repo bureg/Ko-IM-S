@@ -1,0 +1,308 @@
+com2c 0 118
+com2d 0 21
+com32 0 0
+location 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「伊織、待てよ！
+line2 <shift> # はぁ、はぁ、待て……、ってば……」
+display
+com11 0 6
+sound 1300
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「あーっ、もうムカツクムカツク、ムカツク〜！
+line2 <shift> # なんで私、あんな大事な場面で〜。くぅぅぅ！」
+display
+com11 0 6
+sound 1301
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「さっきのナシ、キャンセル、リセット！
+line2 <shift> # アンタ、過去に戻って歴史、書きかえてきて！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ムチャ言うなよ。
+line2 <shift> # そんなこと、できるわけないだろ」
+display
+com11 0 6
+sound 1302
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「言い訳するんじゃないわよ。
+line2 <shift> # やってみなきゃ、わからないじゃない。フンっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ほら、伊織。過ぎたことは、もう忘れて。
+line2 <shift> # それより、先のことを考えよう」
+display
+com11 0 6
+sound 1303
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「先？　あ、そういえば活動停止とか、
+line2 <shift> # ふざけたこと言ってたわね。アンタ……」
+display
+com11 0 6
+sound 1304
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……いいわ。受け入れてあげる。ただーっ、私、
+line2 <shift> # もうぜーったいステージになんて上がらない！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え？　『絶対』って、伊織まさか……！」
+display
+com11 0 6
+sound 1305
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そのまさかよ！　私、引退する。もうアイドル
+line2 <shift> # から、完全にトンズラぶっこくわ！」
+display
+com11 0 6
+sound 1306
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ファンの前で、あんな大恥さらしたのよ。ノコ
+line2 <shift> # ノコ出ていって笑われるなんて死んでもイヤ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「落ち着けよ！　せっかく、ここまで……」
+display
+com11 0 6
+sound 1307
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ここまでもなにも、ないわよー。とにかく、
+line2 <shift> # やる気プッツン切れちゃったんだから……」
+display
+com11 0 6
+sound 1308
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「勝手に私から離れてくアンタに、ここから先の、
+line2 <shift> # 私の将来は、関係ないでしょーっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……そうか。そこまで言うんなら、
+line2 <shift> # 俺は、なにも言わないよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やめたいんなら、やめればいい。
+line2 <shift> # 伊織が、心の底から、そう望むならな」
+display
+com11 0 6
+sound 1309
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「なによ、急にマジな顔しちゃって。
+line2 <shift> # アンタなんかに、私の、なにがわかるって……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なにがどころか、全部わかるよ。どれだけ
+line2 <shift> # 長い時間、伊織と一緒にいたと思ってるんだ？
+display
+com11 0 6
+sound 1310
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「う……、うう……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もし、この程度の失敗で、すべてを投げ出して
+line2 <shift> # しまうんなら……。そんな伊織は……」
+com03 0 3
+choice1 <shift> # キライだ
+com09 0 10
+com08
+choice2 <shift> # ニセモノだ
+com09 0 11
+com08
+choice3 <shift> # ……さ、最高だ
+line2
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「キライだ」
+display
+com11 0 6
+sound 1311
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ぐ……、はっきり言うじゃないのよ。
+line2 <shift> # なんでそんな、強気なワケ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「助言できるのも、これで最後だからな。最後に、
+line2 <shift> # プロデューサーらしいこと言ってやりたいから」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ニセモノだ」
+display
+com11 0 6
+sound 1312
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ぐ。こんなカワイイ子が、この世に、ふたりと
+line2 <shift> # いるわけ……。今日はアンタ、やけに強気ね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「助言できるのも、これで最後だからな。最後に、
+line2 <shift> # プロデューサーらしいこと言ってやりたいから」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……さ、最高だ」
+display
+com11 0 6
+sound 1313
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「え？　……アンタ、そこでなんで、
+line2 <shift> # 急に、弱気になるわけ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、ふいに怖くなってな……。や、やっぱり、
+line2 <shift> # 前言撤回！　そんな伊織は最低最悪最凶だっ！」
+display
+com11 0 6
+sound 1314
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「言い過ぎでしょ、それはーっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ごめん。ただ最後に、プロデューサーとして、
+line2 <shift> # 目を覚まさせてやりたくて……」
+com09 0 19
+display
+location 19
+com11 0 6
+sound 1315
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……フン、わかったわよ。わ、私はねっ、
+line2 <shift> # 最初っからやめる気なんかなかったんだから！」
+display
+com11 0 6
+sound 1316
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「引退なんてしないわ。今日の失敗の借りは、い
+line2 <shift> # ずれドームに１億人つめこんで返してやるーっ」
+display
+com1c 0 3
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お、そうそう、それでこそ伊織だ。
+line2 <shift> # これからも、アイドル続けていけるな？」
+display
+com11 0 6
+sound 1317
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ひとりで、がんばるわよ。
+line2 <shift> # アンタが、いなくたって……」
+display
+com11 0 6
+sound 1318
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「でも、これで解放されたなんて思ったら大間違
+line2 <shift> # いよ。たとえプロデューサーじゃなくても……」
+display
+com11 0 6
+sound 1319
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「アンタは私の、たったひとりの、
+line2 <shift> # 未来のフィ、フィ、フィ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……フィ？」
+display
+com11 0 6
+sound 1320
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「フィンランドなんだから！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「は、なんだそれ？」
+display
+com11 0 6
+sound 1321
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「細かいこと、いちいちツッコむんじゃないわよ。
+line2 <shift> # さ、じゃあ最後に、手出して」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ん？　手って、今度は、なんの話だ？」
+display
+com11 0 6
+sound 1322
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「手合わせて、誓ってから、行きなさいよ。
+line2 <shift> # またいつか、私のプロデュースするって」
+display
+com11 0 6
+sound 1323
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「約束しないと、さよならして、
+line2 <shift> # やらないんだからっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わかったよ。それじゃあ……」
+com0e 0 120
+com44
+com09 0 20
+com45
+com44
+com09 0 21
+com45
+display
+location 20
+com11 0 6
+sound 1324
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……これでＯＫねっ。いーい？
+line2 <shift> # 今の約束、死んでも忘れるんじゃないわよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「忘れやしないよ。たとえ伊織が忘れてもな」
+display
+com11 0 6
+sound 1325
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「誰が忘れるもんですか。私は、かわいさだけ
+line2 <shift> # じゃなく、記憶力だって最高なんだから……」
+com09 0 29
+display
+location 21
+com11 0 6
+sound 1326
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ちょっとー。なんで、ちゃんと手、
+line2 <shift> # 合わせないのよー？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「い、いや……、そんなの、やるまでもないよ。
+line2 <shift> # 約束する。いつかまたプロデュースするって」
+display
+com11 0 6
+sound 1327
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ホントでしょーね？
+line2 <shift> # ばっくれたりしたら、承知しないわよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなことしないよ。
+line2 <shift> # 逆に、伊織がイヤがって、逃げない限りはな」
+display
+com11 0 6
+sound 1328
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「誰が逃げるもんですか。アンタと、ずっと
+line2 <shift> # いるのが、私は、一番ラクなんだから……」
+com09 0 29
+display
+location 29
+com4a 0 0
+com11 0 6
+sound 1329
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「それじゃ、今日まで……、ありがと……。
+line2 <shift> # 元気で！」
+display
+location 100 129 92 129 92 130 177 130 164 130 181 130 196 136 201 144 68 130 205 129 65 146 112 130 184 130 169 130 181 130 176 130 200 143 172 130 179 130 200 144 186 130 197 129 65
+line2 <shift> # お礼をいい、去っていった……。
+display
+location 101 131 137 131 88 131 103 131 137 131 67 131 117 130 205 142 184 148 115 129 66 147 185 130 205 130 237 130 169 130 234 130 189 130 175 130 199 129 65 141 196 137 239 130 240
+line2 <shift> # 果たす日は必ずくる。なぜなら、俺は伊織の……、
+display
+location 102 150 162 151 136 130 204 129 92 129 92 129 65 131 116 131 66 131 147 131 137 131 147 131 104 130 200 130 204 130 190 130 169 130 231 129 66
+display
+unk02

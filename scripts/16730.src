@@ -1,0 +1,305 @@
+com2c 0 32
+com2d 0 33
+com32 0 0
+com11 0 4
+sound 400
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うあ〜、思ったより、来てますーっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「列もできてるし……、まずは成功かな」
+display
+com11 0 4
+sound 401
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「が、がんばらなきゃ。あ！　握手しながら
+line2 <shift> # 歌ったら、みんな、よろこびますか！？」
+com03 0 3
+choice1 <shift> # よろこぶだろうけど
+line2
+com09 0 10
+com08
+choice2 <shift> # やめといた方が
+line2
+com09 0 11
+com08
+choice3 <shift> # それじゃ変な人だよ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よろこぶだろうけど……。みんな立ち聞きして、
+line2 <shift> # 帰らなかったら、お店は大変だな」
+display
+com11 0 4
+sound 402
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「えへへ、そうですよねっ。
+line2 <shift> # じゃあ、歌はライブの時に、とっておきまーす」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やめといた方が……」
+display
+com11 0 4
+sound 403
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「どうしてです？　握手できて、歌も聞ければ、
+line2 <shift> # お買い得ですよねっ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、ほら……、ずっと立ち聞きされると、
+line2 <shift> # お店が大変だろうし」
+display
+com11 0 4
+sound 404
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ、そうかー。じゃ、やめとこーっと」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それじゃ変な人だよ」
+display
+com11 0 4
+sound 405
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「へ、ヘン！？　そうですかっ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やよいだって、もし、握手しながら、
+line2 <shift> # 歌うファンがいたら……、ビックリしないか？」
+display
+com11 0 4
+sound 406
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「そんな人がいたら……。
+line2 <shift> # ううう〜、こわい……っ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だろ。だから、やめておこうな」
+display
+com11 0 4
+sound 407
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「は、はいっ。そうします〜」
+com09 0 19
+display
+location 19
+com11 0 4
+sound 408
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「でも、プロデューサー。
+line2 <shift> # みんな、握手なんかして、うれしいのかな？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ファンにとって、やよいみたいなアイドルは、
+line2 <shift> # 特別な存在だからな。じゃ、そろそろやるか」
+display
+com11 0 4
+sound 409
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はいっ。みんなー！
+line2 <shift> # 握手大会、はじめまーすっ！」
+display
+com22 0 30
+com32 0 0
+com21 0 30
+com11 0 4
+sound 410
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ふぅー、ちょっと休けい……。
+line2 <shift> # すこし、手が痛いかも……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「思いっきり握るからだよ。見せてごらん」
+display
+com11 0 4
+sound 411
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「えっ。あ……、はい」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「赤くなってるな。……よし」
+com0e 0 204
+com44
+com4f 0 2
+com09 0 20
+com45
+com44
+com09 0 21
+com45
+com44
+com09 0 22
+com45
+com44
+com09 0 23
+com45
+com44
+com4f 0 1
+com09 0 24
+com45
+display
+location 20
+com11 0 4
+sound 412
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ、プロデューサー……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうだ？　すこしは楽になった？」
+display
+com11 0 4
+sound 413
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「なんかこう、いい気持ちーっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「終わったら、またマッサージしよう。
+line2 <shift> # 最後まで、やり抜こうな」
+display
+com11 0 4
+sound 414
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はいっ。うっう〜。
+line2 <shift> # よーし、握りまくろーっと！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （こういう時こそ、細かいケアで、
+line2 <shift> # サポートするのが、プロデューサーだ）
+com09 0 29
+display
+location 21
+com11 0 4
+sound 415
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「う……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうだ、痛むか？」
+display
+com11 0 4
+sound 416
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「いえ、あのー、
+line2 <shift> # はたかれると、もっと痛いです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……それはそうだな、ごめん」
+display
+com11 0 4
+sound 417
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「でも、大丈夫です！　みんな、
+line2 <shift> # せっかく来てくれたんだから、応えなきゃ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （マッサージでも、してやればよかったか？
+line2 <shift> # でも、この分なら、なんとか持ちそうだ）
+com09 0 29
+display
+location 22
+com11 0 4
+sound 418
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「は！　ぷ、プロデューサー……。ぅぅ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「こういう握手は、
+line2 <shift> # ファンとやっちゃ、ダメだからな」
+display
+com11 0 4
+sound 419
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ううう〜。わ、わかってます……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、一応、言っておかなきゃと思って」
+display
+com11 0 4
+sound 420
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「こんなことする人、いませんよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まず、いないだろう……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （つい、反射的に、やってしまった。
+line2 <shift> # 反省すべきかもしれない……）
+com09 0 29
+display
+location 23
+com11 0 4
+sound 421
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「プロデューサー？
+line2 <shift> # な、なんで、そんなところを？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あれ？　手をマッサージしてあげようと、
+line2 <shift> # 思ったんだけど……」
+display
+com11 0 4
+sound 422
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「疲れてますか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうかもしれない……」
+display
+com11 0 4
+sound 423
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「……大丈夫ですかっ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。俺のことはいいから、
+line2 <shift> # 自分の仕事を、しっかりやろう」
+display
+com11 0 4
+sound 424
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はい。握手、がんばりますっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （担当アイドルに、心配かけるなんて……。
+line2 <shift> # どっちがプロデューサーなんだか……）
+com09 0 29
+display
+location 24
+com11 0 4
+sound 425
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「どうでしょう？　私の手……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、見た限り、平気そうだな」
+display
+com11 0 4
+sound 426
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ほんとですかっ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、これなら、最後までがんばれるよ」
+display
+com11 0 4
+sound 427
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「なんか、安心しました！
+line2 <shift> # よーし、もっともっと、握手しなくちゃ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （元気づけてあげることができた。
+line2 <shift> # まあ、よしとするか）
+com09 0 29
+display
+location 29
+unk02

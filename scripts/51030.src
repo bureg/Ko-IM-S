@@ -1,0 +1,344 @@
+com2c 0 112
+com2d 0 91
+com2e 0 101
+com32 0 0
+com11 0 2
+sound 900
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「わーい、海、海〜！　ここで、
+line2 <shift> # ビデオクリップの撮影、するんだね♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。はしゃぎすぎて、どっか行くなよ。
+line2 <shift> # ファンに囲まれたら、大変なことになるから」
+display
+com11 0 2
+sound 901
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「ね、ね、なにしてるところ、ビデオで撮るの？
+line2 <shift> # あっ、ここから、海にザブ〜ン、とか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなこと、したら……」
+com03 0 3
+choice1 <shift> # サメに、かまれるぞ？
+line2
+com09 0 10
+com08
+choice2 <shift> # イルカに、つつかれるぞ？
+line2
+com09 0 11
+com08
+choice3 <shift> # どざえもんに、なるぞ？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「サメに、かまれるぞ？」
+display
+com11 0 2
+sound 902
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「それ、きっと、すっごく痛いよね〜。んじゃ、
+line2 <shift> # 飛び込み大会は、やめた方が、いっか〜」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「イルカに、つつかれるぞ？」
+display
+com11 0 2
+sound 903
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「え、ほんと〜？　イルカさん、いるのっ？
+line2 <shift> # じゃあ、亜美、飛び込む〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あああ、冗談冗談！　こんなところに、
+line2 <shift> # イルカなんて、いるはずないよ！」
+display
+com11 0 2
+sound 904
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「な〜んだ、ウソか〜。
+line2 <shift> # よろこんで、ソンしちゃった〜……」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どざえもんに、なるぞ？」
+display
+com11 0 2
+sound 905
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「え、ほんと〜？　じゃあ、飛び込む〜！
+line2 <shift> # 亜美、ドザエモン、大好きだしー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「な、なにか、カン違いしてないか？　どざえ
+line2 <shift> # もんって、そんなに、いいもんじゃないよ？」
+display
+com11 0 2
+sound 906
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「そうなの？　ドザエモンって、種類があるんだ
+line2 <shift> # ね。悪いドザエモンには、なりたくないかも〜」
+com09 0 29
+display
+location 29
+com11 0 2
+sound 907
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「ねえ、兄ちゃん。撮影って、あそこに置いて
+line2 <shift> # ある、でっかいカメラで、やるの？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ん？　ああ、そうだ。今回の撮影チーム、
+line2 <shift> # すごい機材を、用意してきたな……」
+display
+com11 0 2
+sound 908
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「あんなおっきいのなら、ケータイのより、
+line2 <shift> # ずっとキレイに撮れるね。あれ、ほしい〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ダメだよ。目玉が飛び出るほど、高いんだから。
+line2 <shift> # もし、欲しかったら……」
+com03 0 3
+choice1 <shift> # トップアイドルに、なろうな
+line2
+com09 0 30
+com08
+choice2 <shift> # 親に、ねだろうな
+line2
+com09 0 31
+com08
+choice3 <shift> # がんばって、働こうな
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「トップアイドルに、なろうな」
+display
+com11 0 2
+sound 909
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「そーだねっ。トップになれれば、ジャコジャコ
+line2 <shift> # かせげるし。もう一息だから、がんばる〜」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「親に、ねだろうな」
+display
+com11 0 2
+sound 910
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「パパに言ったら、買ってくれるの？
+line2 <shift> # だったら、そうするー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、買ってくれるかどうかは、
+line2 <shift> # 微妙だけどな……」
+display
+com11 0 2
+sound 911
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「え？　ダメかもしれないの〜？
+line2 <shift> # うう〜、ちょっと、ショック〜」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「がんばって、働こうな」
+display
+com11 0 2
+sound 912
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「撮影で、がんばったら、くれるの？
+line2 <shift> # わかった、約束だよ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「い、いや、この場でがんばるだけじゃ、足り
+line2 <shift> # ないよ。ずーっと、がんばってくれないと……」
+display
+com11 0 2
+sound 913
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「あ〜、はじめから、くれる気なんて、なかった
+line2 <shift> # んでしょ〜。いいよ。いつか、自分で買うから」
+com09 0 49
+display
+location 49
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「カメラなんて、そんなに欲しいか？
+line2 <shift> # もし、持ってたら、なにを撮るんだ？」
+display
+com11 0 2
+sound 914
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「ん〜、真美だったら〜、いろいろあるなあ。
+line2 <shift> # あ、兄ちゃんだったら、なに撮りたい？」
+com03 0 3
+choice1 <shift> # 温泉とか、かな
+line2
+com09 0 50
+com08
+choice2 <shift> # アリの行列とか、かな
+line2
+com09 0 51
+com08
+choice3 <shift> # 自然の光景とか、かな
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「温泉とか、かな」
+display
+com11 0 2
+sound 923
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「うわ〜、兄ちゃん、超Ｈ〜っ！
+line2 <shift> # 湯けむりマル秘映像〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ち、違うよ！　そういうのじゃなくて、
+line2 <shift> # 温泉の風景とか、いいなと思って」
+display
+com11 0 2
+sound 924
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「ホントかな〜。
+line2 <shift> # 兄ちゃんも大人のオトコだもんね〜」
+display
+com11 0 2
+sound 925
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「でも、露天風呂とか、面白そうだよね〜。
+line2 <shift> # サルが来たりするって、真美きいたことあるよ」
+display
+com11 0 2
+sound 926
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「えーっ、サル来るの〜っ？
+line2 <shift> # それ、亜美も見たいかも〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、そういうのを撮るのも、楽しそうだな。
+line2 <shift> # じゃ、そろそろ、仕事の準備しようか」
+display
+com11 0 2
+sound 916
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「うんっ！　よーし、いつか、大きなカメラ、
+line2 <shift> # ゲットして、みんなで温泉にいこー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （やけに、話、盛り上がったな。この勢いなら、
+line2 <shift> # 撮影の方も、がんばってくれるだろう）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「アリの行列とか、かな」
+display
+com11 0 2
+sound 917
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「そんなの、おもしろい〜？　あ、でも、
+line2 <shift> # 夏休みの自由研究とかには、いいかも！」
+display
+com11 0 2
+sound 918
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「真美、やめようよ。宿題の話なんて、するの。
+line2 <shift> # 亜美、ブルーになっちゃう……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ほらほら、そんな顔してないで。
+line2 <shift> # もうすぐ、撮影なんだから、笑顔つくらなきゃ」
+display
+com11 0 2
+sound 919
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「うん……。あ、明日提出するやつ、
+line2 <shift> # まだ、やってないんだった。やだな〜……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （すこし、しょげている。どうも楽しくない方に、
+line2 <shift> # 話が、いってしまったけど……、ま、いいか）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「自然の光景かな」
+display
+com11 0 2
+sound 920
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「そんなの、つまらないの嵐だよ〜。後で、
+line2 <shift> # 撮ったの見ながら、お昼寝しちゃいそう〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか？　でも、リラクゼーションには、
+line2 <shift> # 最適だと思うけど」
+display
+com11 0 2
+sound 921
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「亜美、なんとかデーションなんて、いらな〜い。
+line2 <shift> # 楽しいものばっかり、撮りたい〜」
+display
+com11 0 2
+sound 922
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「犬がクシャミするとこ、とか、ビキニの
+line2 <shift> # お姉さんとか！　兄ちゃんの趣味、ヘンだよ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ふたりとも、しらけた顔をしている。俺の好み
+line2 <shift> # は、まったく理解してもらえなかったようだ）
+com09 0 69
+display
+location 69
+unk02

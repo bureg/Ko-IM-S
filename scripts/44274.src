@@ -1,0 +1,591 @@
+com2c 0 24
+com2d 0 81
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （すでに、押しも押されもせぬ、
+line2 <shift> # 人気者の真ではあるが……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よりファン層を拡大するために、
+line2 <shift> # イメージチェンジを図ることにした）
+display
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「えええっ！？　イメチェンですかっ！？」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「イ、イメチェンってイメージチェンジの
+line2 <shift> # 略のイメチェンですかっ！？」
+com03 0 3
+choice1 <shift> # そうだ！
+com09 0 10
+com08
+choice2 <shift> # 落ち着け！
+com09 0 11
+com08
+choice3 <shift> # イヤならやめるか？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだ、そのイメチェンだ！」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「待ってました、プロデューサーっ！
+line2 <shift> # いやあ、うれしいなー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おっ、そんなにうれしいか！
+line2 <shift> # でも、真、イメチェン、怖くないのか？」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「へへっ。怖いどころか、待ち望んでいた
+line2 <shift> # 瞬間が、ついに来た！　って感じですよ」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「落ち着け、真！
+line2 <shift> # 急に興奮して、どうしたんだよ？」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「だ、だって！　落ち着いてなんていられません
+line2 <shift> # よ〜！　ううっ。ついに、この瞬間が……！」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「プロデューサーっ！
+line2 <shift> # ありがとうございます！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「イメチェンひとつで大げさだなあ。
+line2 <shift> # ……というか、妙なテンションだな」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなにイヤなら、やめようか？」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ええっ！？　ち、違いますよ！
+line2 <shift> # これは喜んでるんです！」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「もう、つきあい長いんですから、
+line2 <shift> # それぐらい、わかって下さいよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうなのか、すまなかった。でも、
+line2 <shift> # イメチェンって、そんなに喜ぶようなことか？」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「喜びますよ！　だって、ボクの、
+line2 <shift> # アイドルとしての原点ですから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「原点……？　よくわからないが、
+line2 <shift> # 乗り気でよかったよ」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 10009
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「それでプロデューサー、どんな風にイメチェン
+line2 <shift> # するんですか？　そこが重要ですよね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、だから、それを相談したくてさ。
+line2 <shift> # 真としては、どんな方向性がいい？」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「そうですね……。やっぱりボクとしては、
+line2 <shift> # 正統派がいいかなって思うんですけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「正統派アイドルか……」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「はい！　やっぱり女の子としては、フリルとか
+line2 <shift> # リボンがいっぱいな方がいいですよね！」
+display
+com11 0 0
+sound 10012
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「パラソルをさして、白いゴンドラから登場！
+line2 <shift> # とか、そういう感じで。それから……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「パラソルでゴンドラ！？　待ってくれ、真。
+line2 <shift> # なんの話をしてるんだ？」
+display
+com11 0 0
+sound 10013
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「やだなあ。だから、正統派アイドルの話ですよ。
+line2 <shift> # 決まってるじゃないですか！」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「う〜っ、ボクもいよいよ、
+line2 <shift> # かわいい正統派アイドルになれるんですね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （う〜ん、真の頭の中の『正統派アイドル』って、
+line2 <shift> # ちょっと古くさいイメージのアイドルなんだな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （それだと今時のアイドルっぽくないから、やめ
+line2 <shift> # といた方が良いって、やんわり伝えないと……）
+com03 0 3
+choice1 <shift> # 今でもかわいいぞ
+line2
+com09 0 30
+com08
+choice2 <shift> # 本当になりたいか？
+line2
+com09 0 31
+com08
+choice3 <shift> # ムリだ
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今でもかわいいぞ」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ええっ！？　プ、プロデューサー、
+line2 <shift> # いきなりなにを……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「真は今でもじゅうぶんかわいいアイドルだと思
+line2 <shift> # う。だから、別の魅力を出していきたいんだ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「かわいいだけではない、何かをな」
+display
+com11 0 0
+sound 10016
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「そ、そんなおせじで、ごまかされたりは……。
+line2 <shift> # へへっ」
+display
+com11 0 0
+sound 10017
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「でも、プロデューサーがそこまで言うなら、い
+line2 <shift> # いですよ。ボク、他のイメチェンでもＯＫです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よかった、納得してくれたみたいだ）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「本当になりたいか？」
+display
+com11 0 0
+sound 10018
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「えっ？　当たり前じゃないですか、
+line2 <shift> # だってボクは……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「本当〜に、なりたいか？」
+display
+com11 0 0
+sound 10019
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「え、だって、キャピキャピの、
+line2 <shift> # 伊織や春香みたいなアイドルに……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「本当の本当〜に、なりたいのかっ！？」
+display
+com11 0 0
+sound 10020
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「う……。そう言われると、なんかだんだん、
+line2 <shift> # 自信がなくなってきました」
+display
+com11 0 0
+sound 10021
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あの、でも、プロデューサーは、
+line2 <shift> # イメチェンをしようって言いましたよね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「かわいいアイドルになることだけが、
+line2 <shift> # イメチェンじゃないだろう？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「真の魅力を、より引き出す新しい何かを、
+line2 <shift> # 発見しようじゃないか」
+display
+com11 0 0
+sound 10022
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「そういうことですか。ボクは、てっきり、
+line2 <shift> # かわいく変身させてくれるってことかと……」
+display
+com11 0 0
+sound 10023
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「話が、うますぎると思ったんですよね……」
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ムリだ」
+display
+com11 0 0
+sound 10024
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「うわっ！
+line2 <shift> # そ、そんなにハッキリ言わなくても！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「つきあいも長いんだ。まどろっこしい言い方
+line2 <shift> # なんて、必要ないだろう？」
+display
+com11 0 0
+sound 10025
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「それは、そうですけど……。
+line2 <shift> # たしかに、ボクだって、わかってるんです」
+display
+com11 0 0
+sound 10026
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ボクが正統派のキャピキャピアイドルやるのは、
+line2 <shift> # 少しムリがあるかなってことぐらい。でも……」
+display
+com11 0 0
+sound 10027
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「もう少し優しい言い方してくれてもいいのに、
+line2 <shift> # って、やっぱ思っちゃいますよ」
+display
+com11 0 0
+sound 10028
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「それに、キャピキャピはムリでも、
+line2 <shift> # プリプリくらいなら、もしかしたら……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （真は拗ねてしまった。もうちょっと言い方、
+line2 <shift> # 考えてやればよかったかな）
+display
+com11 0 0
+sound 10029
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「はぁ。……もういいです、慣れっこですから」
+com09 0 49
+display
+location 49
+com11 0 0
+sound 10030
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「それで、プロデューサーは、
+line2 <shift> # どんなイメチェンを考えてるんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺の考える、新しい真の姿は……）
+com03 0 3
+choice1 <shift> # ぼやきキャラ
+line2
+com09 0 50
+com08
+choice2 <shift> # お笑いキャラ
+line2
+com09 0 51
+com08
+choice3 <shift> # キレキャラ
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ぼやきキャラとか、どうかな？　真が、ボソ
+line2 <shift> # ボソっと不満を口にしたら、面白いと思うんだ」
+display
+com11 0 0
+sound 10031
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ぼやき、ですか！？
+line2 <shift> # う、う〜ん……。意外すぎです……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか？　でも、なにかあるだろう？
+line2 <shift> # 日々の生活で、不満に思うことが」
+display
+com11 0 0
+sound 10032
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「う〜ん、不満ですか……。あっ、そうだ。
+line2 <shift> # ありました！　少し、やってみます」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「期待してるぞ！」
+display
+com11 0 0
+sound 10033
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「うちのプロデューサー、ボクが女の子っぽい
+line2 <shift> # 衣装着ると、笑うんですよね……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おいおい、別に俺は笑ってないって！」
+display
+com11 0 0
+sound 10034
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あとは……」
+display
+com11 0 0
+sound 10035
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「うちのプロデューサー、たまにボクが
+line2 <shift> # 女の子ってこと忘れてるっぽいんですよね……」
+display
+com11 0 0
+sound 10036
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「この前も、お土産だって言って、
+line2 <shift> # 牛丼の超大盛りを買ってきたし……」
+display
+com11 0 0
+sound 10037
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あ、なんか言ってて面白くなってきました！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、それじゃ、ぼやきじゃなくて、
+line2 <shift> # 俺へのあてつけじゃないか……」
+display
+com11 0 0
+sound 10038
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「でも、イメチェンを提案したの、
+line2 <shift> # プロデューサーじゃないですか」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「た、確かにそうだけど、
+line2 <shift> # それは、軽い気持ちで……」
+display
+com11 0 0
+sound 10039
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「へへ〜、ダメです！　ボク、ぼやきキャラ、
+line2 <shift> # 気に入っちゃいましたから。これでいきます！」
+display
+com11 0 0
+sound 10040
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「はあーあ。『や〜りぃ！』って言っても、プロ
+line2 <shift> # デューサー、のってくれないんですよね〜……」
+display
+com11 0 0
+sound 10041
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あはははは！　おもしろ〜いっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後、真のぼやき『うちのプロデューサー』
+line2 <shift> # シリーズは、大人気になってしまった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ついには、流行語大賞まで取ろうという勢いだ。
+line2 <shift> # 一方、俺の評判は……、ううう……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （真の人気はあがったが、なんだか最近は、
+line2 <shift> # 自分が、ぼやきキャラになってきてる気が……）
+com09 0 69
+display
+location 51
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お笑いキャラとか、どうかな？
+line2 <shift> # お笑い芸人さんっぽく、ふるまってみるんだよ」
+display
+com11 0 0
+sound 10042
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ええっ！？　お、お笑いって……。
+line2 <shift> # どうしたらいいか、よくわからないですよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いろいろあるじゃないか。
+line2 <shift> # 手を叩きながら舞台に出てくるとかさ」
+display
+com11 0 0
+sound 10043
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「それって、微妙に古い感じもしますけど……。
+line2 <shift> # とりあえずやってみます」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うん、期待してるぞ！」
+display
+com11 0 0
+sound 10044
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「えーと……、はいはいはい〜！
+line2 <shift> # どーも〜、まこちゃんでーす！」
+display
+com11 0 0
+sound 10045
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「この横に立ってるのが、プロデューサー。
+line2 <shift> # ボクら、ふたりして漫才やってますねん！」
+display
+com11 0 0
+sound 10046
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「……こ、こんな感じですかね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「真、意外とやるじゃないか」
+display
+com11 0 0
+sound 10047
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「父さんがお笑い好きで、よく見てたんです。
+line2 <shift> # なかなか披露する機会、なかったですけど」
+display
+com11 0 0
+sound 10048
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「家では、父さんのダジャレに、
+line2 <shift> # つっこみ慣れてますから！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うん、思ったよりインパクトがあるな。
+line2 <shift> # この路線でいこう！」
+display
+com11 0 0
+sound 10049
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「でも……、本当に大丈夫なのかなあ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「大丈夫さ。そうだコンビ名を考えよう」
+display
+com11 0 0
+sound 10050
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「え？　コンビ名って、もしかして、
+line2 <shift> # プロデューサーも、一緒にやるんですか！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「こら！　そこは、『なんでやねん！』と、
+line2 <shift> # 言うところだろう！！」
+display
+com11 0 0
+sound 10051
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あ、そうですね。なんでやねん！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （真のお笑いは、話題性ばつぐんだったが、イン
+line2 <shift> # パクトが強すぎて、ファンが引いてしまった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （関西弁も、あやしかったしな……。イメチェン
+line2 <shift> # としては、成功とは言えないかもしれない）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （やはり俺が、相方になってやるべき
+line2 <shift> # だったのだろうか……）
+com09 0 69
+display
+location 52
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「キレキャラでいこう」
+display
+com11 0 0
+sound 10052
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「『キレキャラ』っていうと、アレですか？」
+display
+com11 0 0
+sound 10053
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ちょっと！　司会者、
+line2 <shift> # ボクのこと忘れてるよ！　こんちくしょう！」
+display
+com11 0 0
+sound 10054
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「……みたいな感じですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「すごいな、真。大迫力だ。
+line2 <shift> # これは、大うけ間違いなしだぞ！」
+display
+com11 0 0
+sound 10055
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「うーん。本当に、そんなんでいいのかな。
+line2 <shift> # バリバリに不安なんですけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「大丈夫だって！　キレキャラ芸人は、
+line2 <shift> # バラエティ番組に、必ず一人は必要だしな！」
+display
+com11 0 0
+sound 10056
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あの。ボク、芸人じゃなくて、
+line2 <shift> # アイドルのはずじゃ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （早速、しぶる真に、むりやり
+line2 <shift> # ＴＶ番組で、キレさせたのだが……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （司会者も出演者も、本気でキレていると
+line2 <shift> # 思ったらしく、最悪の雰囲気になってしまった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （お詫びの電話もかかってくるし、完全に誤解を
+line2 <shift> # うんでしまったな。さんざんな結果だ……）
+com09 0 69
+display
+location 69
+unk02

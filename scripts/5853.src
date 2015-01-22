@@ -1,0 +1,489 @@
+com2c 0 91
+com2d 0 13
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お菓子コンテストのゲスト審査員って、
+line2 <shift> # 春香にピッタリの仕事だよな」
+display
+com11 0 0
+sound 0
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい、私もそう思います。今日はおいしい
+line2 <shift> # お菓子をいっぱい食べられて、幸せですっ♪」
+display
+com11 0 0
+sound 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「だけど、お菓子を食べる時に、それぞれ
+line2 <shift> # 感想を言わなくちゃいけなくって」
+display
+com11 0 0
+sound 2
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「うまくコメントするのは、難しいんですよー。
+line2 <shift> # なにかコツとか、ありませんか？」
+com03 0 3
+choice1 <shift> # 甘口に行けば？
+line2
+com09 0 10
+com08
+choice2 <shift> # うまくやろうとするな
+line2
+com09 0 11
+com08
+choice3 <shift> # 辛口に行けば？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「甘口に行けば？」
+display
+com11 0 0
+sound 3
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そうですよね。私は、プロのパティシエじゃ
+line2 <shift> # ないわけですし……」
+display
+com11 0 0
+sound 4
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「おいしいって気持ちを、素直に表現すれば
+line2 <shift> # いいんですよね！」
+display
+com11 0 0
+sound 5
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ありがとうございます。それなら私にも
+line2 <shift> # できそうです！」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うまくやろうとしなくていいよ。
+line2 <shift> # 思ったことを言えばいいんじゃないかな？」
+display
+com11 0 0
+sound 6
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「思ったことを……？　そうすると、全部『おい
+line2 <shift> # しいです！』とかになっちゃいそうですね……」
+display
+com11 0 0
+sound 7
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「でも、それが素直な感想なら仕方ないですよ
+line2 <shift> # ね……？　うん、参考になりましたっ！」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「辛口に行けば？」
+display
+com11 0 0
+sound 8
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「んー、そうですね。厳しく言ったほうが、
+line2 <shift> # 今後の参考には、なりそうですし……」
+display
+com11 0 0
+sound 9
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「だけど、同じお菓子好きとしては、
+line2 <shift> # 作った人の気持ちが、わかっちゃうんです」
+display
+com11 0 0
+sound 10
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「一生懸命、作ったんだろうな〜って思うと、
+line2 <shift> # 辛口のコメントって、できなさそう……」
+display
+com11 0 0
+sound 11
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はあ〜。審査員って、難しいですね。もっと
+line2 <shift> # 気楽に、お菓子を楽しみたい気がしてきました」
+com09 0 19
+display
+location 19
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それで、審査は順調なのかな？　もう一度
+line2 <shift> # 試食したら、最終審査じゃなかったっけ？」
+display
+com11 0 0
+sound 12
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「それが、どれもおいしくて、困ってるんです。
+line2 <shift> # みんな優勝にしてあげたいくらい」
+display
+com11 0 0
+sound 13
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「甘くてつるんとしたゼリーも好きだし、
+line2 <shift> # とろけるチーズケーキも、捨てがたいし……」
+display
+com11 0 0
+sound 14
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ああっ。どうしよう、プロデューサーさん。
+line2 <shift> # ひとつだけなんて、決められませんよぉ！」
+com03 0 3
+choice1 <shift> # 春香の好みで選べばいい
+line2
+com09 0 20
+com08
+choice2 <shift> # オーディションを思い出せ
+line2
+com09 0 21
+com08
+choice3 <shift> # 全部、優勝にしたら？
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「春香の好みで選べばいい」
+display
+com11 0 0
+sound 15
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「えっ……。私の好みでいいんですか？
+line2 <shift> # どれも、すごくおいしいのに……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「コンテストの決勝に残るようなお菓子は、
+line2 <shift> # どれも、おいしいに決まってる」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だからこそ、春香のセンスで、これだ！と
+line2 <shift> # 思うものを、選ぶしかないんだよ」
+display
+com11 0 0
+sound 16
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そうですね。自分のセンスを信じて……。
+line2 <shift> # お菓子好き代表として、がんばってみます！」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「オーディションを思い出せ」
+display
+com11 0 0
+sound 17
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「オーディション……？
+line2 <shift> # えっと、どういうことですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「これは、オーディションと同じなんだ。
+line2 <shift> # みんなで合格なんて、おかしいだろう？」
+display
+com11 0 0
+sound 18
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ……確かに。真剣勝負ですから、
+line2 <shift> # ちゃんと審査してほしいって、思いますよね」
+display
+com11 0 0
+sound 19
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「わかりました。私も真剣に、考えてみます！」
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「全部、優勝にしたら？」
+display
+com11 0 0
+sound 20
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「う〜ん……。だけど、優勝者が１０人って、
+line2 <shift> # さすがにおかしくありませんか？」
+display
+com11 0 0
+sound 21
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「優勝者に贈られる、フランスお菓子旅行も、
+line2 <shift> # ひとり分しか、ありませんし……」
+display
+com11 0 0
+sound 22
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「うう……。やっぱり、私がきちんと考えて、
+line2 <shift> # 優勝者を選ばなくちゃダメですね」
+com09 0 29
+display
+location 29
+com22 0 30
+com21 0 30
+com11 0 0
+sound 23
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「う〜ん……。もう一度試食してコメントもして
+line2 <shift> # きましたけど、やっぱり全部おいしかったです」
+display
+com11 0 0
+sound 24
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「でも、私が審査員なんだから、
+line2 <shift> # 私らしく、選ぶとしたら……」
+display
+com11 0 0
+sound 25
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「うん♪　優勝はフルーツケーキにします！
+line2 <shift> # お菓子のアイドルＮＯ．１！　って感じだから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よしっ。じゃあ、授賞式までしっかり
+line2 <shift> # やってくるんだぞ！」
+display
+com11 0 0
+sound 26
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はいっ、行ってきますね！」
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 27
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ぷ、プロデューサーさーん！！
+line2 <shift> # た、大変です〜っ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうしたんだ、春香。
+line2 <shift> # 授賞式は、うまくいったのか？」
+display
+com11 0 0
+sound 28
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ……。はい。コンテストは、無事に
+line2 <shift> # 終わったんですけど……」
+display
+com11 0 0
+sound 29
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「審査員の人は、出品されたお菓子を
+line2 <shift> # ひとつずつ、もらって帰れるそうなんです！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「へえ、よかったじゃないか。じゃあ春香の
+line2 <shift> # 気に入ったケーキを、もらって帰れば？」
+display
+com11 0 0
+sound 30
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「それが……、どのケーキをもらって帰るかは
+line2 <shift> # じゃんけんで決めるんだそうです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃんけん！？」
+display
+com11 0 0
+sound 31
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい。私、優勝したフルーツケーキが、
+line2 <shift> # どうしてももう一度、食べたくて！」
+display
+com11 0 0
+sound 32
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「でも、じゃんけんで勝てるかどうか……。
+line2 <shift> # プロデューサーさん、お願いできませんか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ、俺が……！？」
+display
+com11 0 0
+sound 33
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「私よりも、プロデューサーさんのほうが、
+line2 <shift> # 勝負運が強いと思うんです！」
+display
+com11 0 0
+sound 34
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あんなおいしいケーキ、二度と会えないかも。
+line2 <shift> # 力を貸してください、プロデューサーさん！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わかった……。春香がそこまで言うなら、
+line2 <shift> # 俺が代わりにじゃんけんをしよう」
+display
+com11 0 0
+sound 35
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ありがとうございます、プロデューサーさん！
+line2 <shift> # 信じていますから……！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ものすごいプレッシャーだな……。でも、春香
+line2 <shift> # のために勝つしかないぞ！　どれを出そう？）
+com03 0 3
+choice1 <shift> # グー
+com09 0 30
+com08
+choice2 <shift> # チョキ
+com09 0 31
+com08
+choice3 <shift> # パー
+com09 0 32
+com08
+com07
+com09 0 33
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃんけん……グー！」
+com37 0 1
+com1e 0 0
+com09 0 38
+com3b
+com37 0 0
+com1e 0 0
+com09 0 39
+com3b
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃんけん……チョキ！」
+com37 0 1
+com1e 0 0
+com09 0 38
+com3b
+com37 0 0
+com1e 0 0
+com09 0 39
+com3b
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃんけん……パー！」
+com37 0 1
+com1e 0 0
+com09 0 38
+com3b
+com37 0 0
+com1e 0 0
+com09 0 39
+com3b
+display
+location 33
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「考えてる時間がない！
+line2 <shift> # じゃんけん……ぽん！」
+com09 0 39
+display
+location 38
+com11 0 0
+sound 36
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ああっ、勝ちました！　勝ちましたねっ！
+line2 <shift> # すごいですっ、プロデューサーさんっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ふぅ……。ということは、俺が
+line2 <shift> # フルーツケーキをもらえるんだな？」
+display
+com11 0 0
+sound 37
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「えっ……、プロデューサーさんが！？
+line2 <shift> # あ、えと。そ、そうですよね……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ははは。ウソだよ。このフルーツケーキは
+line2 <shift> # 俺から春香への、プレゼントってことで」
+display
+com11 0 0
+sound 38
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「わあ……、ありがとうございますー！
+line2 <shift> # あはっ！　ちょっとだけ、びっくりしました」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ふふっ、ごめんな。春香が、今にもよだれが
+line2 <shift> # 出そうな顔をしてたから、つい……」
+display
+com11 0 0
+sound 39
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「よ、よだれ……？　ひどいですよー！
+line2 <shift> # そんな顔、してませんっ！　もう！」
+display
+com11 0 0
+sound 40
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「だけど、すっごくうれしいです……！
+line2 <shift> # お菓子作りの参考にもできるし！」
+display
+com11 0 0
+sound 41
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、そうだ！　いつか、これと同じくらい
+line2 <shift> # おいしいケーキを作れるようになったら」
+display
+com11 0 0
+sound 42
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そのときは、真っ先にプロデューサーさんに
+line2 <shift> # プレゼントしますね！　約束します！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （思った以上に大喜びしている。春香にとって、
+line2 <shift> # お菓子は、特別なものなんだろうな……）
+com4b 0 0
+com09 0 69
+display
+location 39
+com11 0 0
+sound 43
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、ああ〜……。プロデューサーさん、
+line2 <shift> # 負けちゃったんですね……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ごめん、春香……！
+line2 <shift> # こんなはずでは、なかったんだけど」
+display
+com11 0 0
+sound 44
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「いえ、いいんです。私が無理に
+line2 <shift> # 頼んだんだし。しょうがないです……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「す、すまない……。まあ、いいじゃないか。
+line2 <shift> # たかが、お菓子なんだし」
+display
+com11 0 0
+sound 45
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「えっ、たかがお菓子……ですか？　でも、私に
+line2 <shift> # とっては大事なことなんですけど……」
+display
+com11 0 0
+sound 46
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「プロデューサーさんに、そんなふうに
+line2 <shift> # 言われるなんて、ちょっとショックです……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （春香は、すっかり落ち込んでしまった。
+line2 <shift> # じゃんけんに負けたせいで、こんなことに……）
+com4b 0 2
+com09 0 69
+display
+location 69
+unk02

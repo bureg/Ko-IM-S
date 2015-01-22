@@ -1,0 +1,389 @@
+com2c 0 118
+com2d 0 91
+com2e 0 101
+com32 0 0
+location 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なあ、亜美、真美。そろそろ、二人の家に、
+line2 <shift> # 着くぞ。最後に、仲直りしてくれないか？」
+display
+com11 0 6
+sound 1400
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「やっだもーん。亜美のへたっぴ、へたっぴー」
+display
+com11 0 6
+sound 1401
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「ふふ〜んだっ。真美のイジワル、イジワル〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もう、いいじゃないか。
+line2 <shift> # 過ぎたことは忘れよう」
+display
+com11 0 6
+sound 1402
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「忘れられないよ〜。だって真美、今日のライブ、
+line2 <shift> # メッチャ成功させたかったんだよ？」
+display
+com11 0 6
+sound 1403
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「それは、亜美も同じだよー。だから、
+line2 <shift> # 一生懸命レッスンしてきたんでしょ〜？」
+display
+com11 0 6
+sound 1404
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「でも失敗しちゃったら、しょうがないよー。
+line2 <shift> # やっぱ、真美が歌った方が……」
+display
+com11 0 6
+sound 1405
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「双子なんだから同じだよ。それはさっきも言っ
+line2 <shift> # た〜！　真美のワンパターン、ワンパターン！」
+display
+com11 0 6
+sound 1406
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「へへ〜ん、ワンパターン、ワンパターン言う、
+line2 <shift> # 亜美のがワンパターン！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「くっ、くっ、くっ……、
+line2 <shift> # いい加減にしろーっ！！」
+display
+com11 0 6
+sound 1407
+com4c 0 3
+name 0 0 <names:4>  # Ami and Mami
+line1 <shift> # 「うわあああああっ、は、はいー！
+line2 <shift> # ……兄ちゃん、怒らないでよ〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いいか、二人とも。そうやってケンカして
+line2 <shift> # ると、しまいにはどうなるか、話してやろう」
+display
+com11 0 6
+sound 1408
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「はーいはーい。亜美、わかった！
+line2 <shift> # 正解は『亜美が勝つ！』」
+display
+com11 0 6
+sound 1409
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ぶっぶ〜。正解は『真美が勝つ』でした〜！
+line2 <shift> # はっずれー。全部没収。ぽわんぽわんぽわ〜ん」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「二人とも不正解！　いいから聞けっ！」
+display
+com11 0 6
+sound 1410
+com4c 0 3
+name 0 0 <names:4>  # Ami and Mami
+line1 <shift> # 「……は〜い」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「たとえばだな。互いを思いやったり協力しあえ
+line2 <shift> # ていれば悲しい結末にならなかった昔話もある」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「その有名な物語に出てくる、
+line2 <shift> # ２種類の生き物とは……」
+com03 0 3
+choice1 <shift> # アリとキリギリス
+line2
+com09 0 10
+com08
+choice2 <shift> # サルとカニ
+com09 0 11
+com08
+choice3 <shift> # ラッコとホタテ貝
+line2
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「アリとキリギリスだ。この話を、
+line2 <shift> # 俺からの最後のプレゼントだと思ってほしい」
+display
+com11 0 6
+sound 1411
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「うん。どんな話？　聞かせて聞かせてー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし。むかしむかし、あるところに、
+line2 <shift> # 働き者のアリと、なまけ者のキリギリスが……」
+display
+com22 0 30
+com21 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……というわけで、アリから食料をもらえなか
+line2 <shift> # ったキリギリスは、寒さで死んでしまったんだ」
+display
+com11 0 6
+sound 1412
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「うう、キリギリスかわいそう。こっそりアリの
+line2 <shift> # 家から、なんかゲットしちゃえばよかったのに」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いやそういう問題じゃ……。ともかく早いうち
+line2 <shift> # に手を結べばキリギリスは死なずにすんだんだ」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「サルとカニだ。この話を、
+line2 <shift> # 俺からの最後のプレゼントだと思ってほしい」
+display
+com11 0 6
+sound 1413
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「うん。どんな話？　聞かせて聞かせてー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし。むかしむかし、あるところに、おにぎり
+line2 <shift> # を持ったカニと、柿の種を持ったサルが……」
+display
+com22 0 30
+com21 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……というわけでおにぎりと柿を独り占めした
+line2 <shift> # サルはカニさんチームにやられてしまったんだ」
+display
+com11 0 6
+sound 1414
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ううう〜、サルって頭悪いね。気絶したカニも
+line2 <shift> # 食べちゃえば、トリプルでおいしかったのに〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いやそういう問題じゃ……。ともかく、カニを
+line2 <shift> # 思いやっていればサルはやられずにすんだんだ」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ラッコとホタテ貝だ。この話を、
+line2 <shift> # 俺からの最後のプレゼントだと思ってほしい」
+display
+com11 0 6
+sound 1415
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「亜美、ホタテが出てくる昔話なんて、聞いた
+line2 <shift> # ことないよ。それって、どこで読んだの？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、半分はオリジナルだけど、ま、おとなし
+line2 <shift> # く聞いてくれ。むかしむかし、とある沼に……」
+display
+com22 0 30
+com21 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……というわけで食い意地のはったラッコの手
+line2 <shift> # でホタテは無惨に、かち割られてしまったんだ」
+display
+com11 0 6
+sound 1416
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「うううっ、ラッコひどいよ〜。
+line2 <shift> # 真美だって、ホタテけっこう好きなのに〜〜〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いやそういう問題じゃ……。ともかく、ずっと
+line2 <shift> # 友達でいれば、ホタテは割られずにすんだんだ」
+com09 0 19
+display
+location 19
+com11 0 6
+sound 1417
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「わかったー。相手のことを考えることが、
+line2 <shift> # 大事なんだね。ねえ真美ー、仲直りしよっか？」
+display
+com11 0 6
+sound 1418
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「うん、そーだね。これからも二人で、
+line2 <shift> # ずーっとアイドル続けていくんだし……」
+display
+com1c 0 3
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ほっ……。わかってくれたか。
+line2 <shift> # これで俺も、安心して、二人を送り出せるよ」
+display
+com11 0 6
+sound 1419
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「ねー、兄ちゃん！　まさか、
+line2 <shift> # これっきりじゃないよね？　また会えるよね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、多分な」
+display
+com11 0 6
+sound 1420
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ほんと……？　うっ、うっ、うううう〜〜〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あー、こらこら泣くな！　いつかまた、一緒に、
+line2 <shift> # がんばろう。だから笑顔でバイバイしような」
+display
+com11 0 6
+sound 1421
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「うん。そいじゃ兄ちゃん、最後に、ここまで
+line2 <shift> # がんばった亜美の頭いい子いい子してくれる？」
+display
+com11 0 6
+sound 1422
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「あーっ、真美も、してほしい……。これから、
+line2 <shift> # さびしくなるけど、それでガマンするから〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わかったわかった。順番にな。
+line2 <shift> # まずは、真美からだ」
+com0e 3 62
+com44
+com09 0 20
+com45
+com44
+com09 0 21
+com45
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「これでよしと」
+display
+com11 0 6
+sound 1423
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ありがと、兄ちゃん……」
+com09 0 29
+display
+location 21
+com11 0 6
+sound 1424
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「兄ちゃーん、ちゃんとなでてないよー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「う、ごめん。許してくれ」
+com09 0 29
+display
+location 29
+com11 0 6
+sound 1425
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「そんじゃ、次は亜美の番だね。
+line2 <shift> # 早く、早くー」
+com0e 3 63
+com44
+com09 0 30
+com45
+com44
+com09 0 31
+com45
+display
+location 30
+com11 0 6
+sound 1426
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「ありがと〜。今日はライブ失敗して、ごめんね。
+line2 <shift> # 亜美、今度兄ちゃんとやる時はもっとがんばる」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、その機会が、つくれるといいな。
+line2 <shift> # それじゃ、二人とも、また！」
+com09 0 39
+display
+location 31
+com11 0 6
+sound 1427
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「もー、兄ちゃん。
+line2 <shift> # どうしてちゃんと、いい子してくれないの〜？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ご、ごめん……」
+display
+com11 0 6
+sound 1428
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「あ、アレだよ亜美。最後のライブ、うまくでき
+line2 <shift> # なかったからかも。次はもっとがんばらないと」
+display
+com11 0 6
+sound 1429
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「あ、そっかー。ごほうびは、活躍にヒエー！
+line2 <shift> # してるんだね。でしょでしょ、兄ちゃん？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まあな。ほめるのは、先に取っておこう。
+line2 <shift> # じゃあな、二人とも！　また！」
+com09 0 39
+display
+location 39
+com11 0 6
+sound 1430
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「うんっ。兄ちゃん、ぜーったい、また遊ぼうね。
+line2 <shift> # さっきみたいなおもしろい話、また聞きたいし」
+display
+com4a 0 0
+com11 0 6
+sound 1431
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「亜美、お休み中に、たっくさん自習、
+line2 <shift> # しておくから。じゃあ、ばいばーい……」
+display
+location 100 129 92 129 92 130 177 130 164 130 181 130 196 136 159 148 252 130 198 144 94 148 252 130 205 129 65 142 232 130 240 144 85 130 232 130 200 130 170 130 231 129 65
+line2 <shift> # 何度も振り返り、去っていった。
+display
+location 101 147 241 144 108 130 205 129 65 137 180 130 204 144 204 152 98 130 240 131 76 131 98 131 74 131 80 130 201 129 65
+line2 <shift> # 仲直りしてくれた。けど、できることなら――、
+display
+location 102 131 137 131 88 131 103 131 137 131 67 131 117 130 240 144 172 140 247 130 179 130 185 129 65 130 205 130 182 130 223 130 169 130 231 146 135 136 225 130 162 130 179 130 185
+line2 <shift> # ずに済ませたかった。これを、次の目標としよう。
+display
+unk02

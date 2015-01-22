@@ -1,0 +1,226 @@
+com2c 0 97
+com2d 0 51
+com32 0 0
+com11 0 0
+sound 1400
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「また、部屋にきてくれて、うれしいです。
+line2 <shift> # 今日は、二人でお祝いですねっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「はい。おめでとうございます。ついにランクＡ、
+line2 <shift> # トップクラスのアイドルになりましたね」
+display
+com11 0 0
+sound 1401
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ありがとうございます。でも、今、振り返ると、
+line2 <shift> # ここまで来られたのは、当然かもしれません」
+display
+com11 0 0
+sound 1402
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「私には、はじめから、日本で最高のプロデュー
+line2 <shift> # サーさんが、ついていてくれたのですから」
+com03 0 2
+choice1 <shift> # やめて下さいよ
+line2
+com09 0 10
+com08
+choice2 <shift> # 照れるな……
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やめて下さいよ」
+display
+com11 0 0
+sound 1403
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「いーえ、やめません。私は、ほんとのことを、
+line2 <shift> # 言っているだけですし……。ふふっ」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「照れるな……」
+display
+com11 0 0
+sound 1404
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ふふっ、そういう顔見せてくれると、なんだか、
+line2 <shift> # とても……。１日中、ほめたくなります」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 1421
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ランクＡアイドル……。これでひとつ、
+line2 <shift> # 大きな幸せを手にしました」
+display
+com11 0 0
+sound 1408
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「次は、私にとって、とても大切な……、もう
+line2 <shift> # ひとつの願いを、かなえたいって、思います」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「運命の人と結ばれること、ですか？」
+display
+com11 0 0
+sound 1409
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はい。あの、プロデューサーさん、その願いを、
+line2 <shift> # かなえるためにも、力を貸してくれますか？」
+com03 0 2
+choice1 <shift> # いいですよ
+com09 0 30
+com08
+choice2 <shift> # できるかなあ
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いいですよ」
+display
+com11 0 0
+sound 1410
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「言いましたね。約束ですよ？　その時になって、
+line2 <shift> # 忘れたフリをしたら、泣いてしまいますからね」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「できるかなあ」
+display
+com11 0 0
+sound 1422
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「か、カンタンです……。きっとこっちの方が、
+line2 <shift> # ランクＡのアイドルを育てるよりも……」
+display
+com11 0 0
+sound 1412
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「プロデューサーさんに、やる気さえあれば……、
+line2 <shift> # すぐ、か、か、かなってしまいますから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうですか。
+line2 <shift> # なら、まあ、少しずつ、がんばります」
+com09 0 49
+display
+location 49
+com11 0 0
+sound 1413
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「えーと、つ、次の仕事までに、まだ、ちょっと
+line2 <shift> # 時間がありますね。なにか……、しませんか？」
+com03 0 3
+choice1 <shift> # なにもせず、過ごしましょう
+line2
+com09 0 50
+com08
+choice2 <shift> # じゃあ、話でも？
+line2
+com09 0 51
+com08
+choice3 <shift> # じゃあ、トランプでも？
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なにもせず、過ごしましょう」
+display
+com11 0 0
+sound 1414
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、それも、ステキですねっ。動いてしまうと、
+line2 <shift> # せっかくの時間が、こわれてしまいそう」
+display
+com11 0 0
+sound 1423
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「なにも言わずに、見ていて下さい、私のこと。
+line2 <shift> # 私も、このまま……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （至福の時が流れていく……。喜びの余韻を、
+line2 <shift> # いつまでも、二人で、分かち合っていたいな）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ、話でも？」
+display
+com11 0 0
+sound 1416
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「……え？　そ、そんなので、いいですか？
+line2 <shift> # 私、今なら、なんでも……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「せっかくこんな高い所まで、のぼりつめたんで
+line2 <shift> # す。これまでの思い出話、二人でしたいなって」
+display
+com11 0 0
+sound 1417
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、それもいいですね。で、では、
+line2 <shift> # 私が考えていたのは、また今度に……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （しばらく、思い出話に花を咲かせた。あずささ
+line2 <shift> # んがそわそわしてるのが、少し気になったけど）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ、トランプでも？」
+display
+com11 0 0
+sound 1418
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ど、どうして、そんなことを？
+line2 <shift> # プロデューサーさん、本気で言っていますか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だって、ほら、時間をつぶすには、
+line2 <shift> # それが、一番じゃないですか？」
+display
+com11 0 0
+sound 1419
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「わ、わかりました……。
+line2 <shift> # それでは、奥に行って、とってきます」
+display
+com11 0 0
+sound 1420
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はあ〜、トランプ……。け、けれど、
+line2 <shift> # 遊んでいるうちに、気も変わって……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （しゅんとして、歩いていってしまった。
+line2 <shift> # これが本当の神経衰弱、というやつだろうか？）
+com09 0 69
+display
+location 69
+unk02

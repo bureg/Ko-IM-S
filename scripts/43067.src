@@ -1,0 +1,409 @@
+com2c 0 43
+com2d 0 83
+com32 0 0
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……今日は、真のアイドルとしての初仕事。
+line2 <shift> # 歌の収録スタジオに、あいさつにきた）
+display
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「初仕事かあ。えへへへへ……。
+line2 <shift> # 困ったな。あは、あはははは……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「相手はベテランばかりだから、失礼のないよう
+line2 <shift> # にな。ん？　なに、にやけてるんだ？」
+com03 0 3
+choice1 <shift> # シャキっと、しろよ　
+line2
+com09 0 10
+com08
+choice2 <shift> # フマジメなヤツだなあ　
+line2
+com09 0 11
+com08
+choice3 <shift> # ……気持ち悪いヤツ　
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「シャキっと、しろよ」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「すみません。そうしたいんですけど、
+line2 <shift> # この衣装が……」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「フマジメなヤツだなあ」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「すみません。けど、ボクだって、笑いたくて
+line2 <shift> # 笑ってるワケじゃないんです。この衣装が……」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……気持ち悪いヤツ」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「変態扱いしないで下さいよ〜。ボクだって、
+line2 <shift> # 笑いたくて、笑ってるワケじゃないんですから」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「もっと、ピシッとした顔、したいんですけど、
+line2 <shift> # この衣装が……」
+com09 0 19
+display
+location 19
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「衣装が、どうかしたのか？　サイズが
+line2 <shift> # 合わなくて、くすぐったいトコロでも？」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「いえ、そうじゃなくて。前から、着てみたいっ
+line2 <shift> # て、思ってたんです。こういうカワイイの！」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「だから、自然と頬がゆるんじゃって……。
+line2 <shift> # あははは」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おいおい、うれしいのはわかるけど、
+line2 <shift> # そのだらしない顔、スタッフに見せる気か？」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ボクだって、どうにかしたいです！　あ、アレ
+line2 <shift> # やれば、すこしは気合い入って顔変わるかも！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「アレって、なんだ？」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ほら、スポーツ選手とかが、よくやる、
+line2 <shift> # コブシをガツンと合わせるやつです！」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「クラスの友達と、たまにやるんですよね。体育
+line2 <shift> # の時間、ソフトボールの試合とか、やる前に」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、アレか。野球の選手とかが、
+line2 <shift> # ホームラン打った後とかに、するヤツだな」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「そうです！　よーし、それじゃ、いきますよー。
+line2 <shift> # あいさつ、がんばるぞー！　はいっと！」
+com0e 2 212
+com44
+com09 0 20
+com45
+com44
+com09 0 21
+com45
+com44
+com09 0 22
+com45
+com44
+com09 0 23
+com45
+com44
+com09 0 24
+com45
+com44
+com09 0 25
+com45
+display
+location 20
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ダーン！　へへー、ありがとうございます！
+line2 <shift> # お、なんか、気分変わってきました！」
+display
+com11 0 0
+sound 10012
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「もう、ヘラヘラ笑いなんて、しません！　それ
+line2 <shift> # じゃ、スタッフの人のところ、行きましょう！」
+display
+com32 0 0
+com22 0 30
+com21 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ふぅー、あいさつ、無事終わったな。よく
+line2 <shift> # やったぞ、真。上出来だ！」
+display
+com11 0 0
+sound 10013
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「へへっ、気合い入れてから行ったの、
+line2 <shift> # 大正解でしたねっ。あー、楽しかった！」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「それじゃ、事務所に戻りましょう！
+line2 <shift> # プロデューサー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うまくコブシを合わせ、見事、力になって
+line2 <shift> # やれた！　これで、初仕事はクリアだな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……その後、成功を祝して、もう一度コブシを
+line2 <shift> # 合わせてから、事務所へと引き上げた）
+com09 0 29
+display
+location 21
+com11 0 0
+sound 10015
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「プロデューサ〜、長くさわりすぎですよ……。
+line2 <shift> # もっとこう、ダーンと勢いよく、ですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「う、悪かった……。案外、むずかしい
+line2 <shift> # モンだな」
+display
+com11 0 0
+sound 10016
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あ、もう時間、ないですね。……ちょっと
+line2 <shift> # 不安ですけど、いきましょう」
+display
+com32 0 0
+com22 0 30
+com21 0 30
+com11 0 0
+sound 10017
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ううう、すみませんでした〜。やっぱダメでし
+line2 <shift> # たね。結局、ヘラヘラ笑い、直らないまま……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まあ、しかたないよ。慣れてない衣装での、
+line2 <shift> # 初仕事だったしな」
+display
+com11 0 0
+sound 10036
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「く〜っ、もっとバシッと決めたかったなあ。
+line2 <shift> # いい勉強にはなったけど、くやしいです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （キレよく、コブシを合わせられなかったためか、
+line2 <shift> # 初仕事はほろ苦い結果に、終わってしまった）
+com09 0 28
+display
+location 22
+com11 0 0
+sound 10037
+name 0 0 <names:2>  # Makoto
+line1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「え……？　どうして、頭、ぽんぽんって……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、この方が、コブシを合わせるより、
+line2 <shift> # 効果があるかと思って」
+display
+com11 0 0
+sound 10038
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「え〜っ？　なんか調子くるっちゃいますよ。
+line2 <shift> # ここはガツーンとやった方が……」
+display
+com11 0 0
+sound 10039
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「……って、そろそろ時間ですか！？
+line2 <shift> # とりあえず、スタッフのところ行きましょう」
+display
+com32 0 0
+com22 0 30
+com21 0 30
+com11 0 0
+sound 10040
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ううう、すみませんでした〜。
+line2 <shift> # 最後まで、調子でなくて。ダメですね……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんだか元気がなかったな。
+line2 <shift> # どうかしたのか？」
+display
+com11 0 0
+sound 10041
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「はい、なんか気合いが入らなくて。空気が
+line2 <shift> # ぬけたみたいになっちゃいました……、はぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （真は最後まで調子が上がらなかった。コブシを
+line2 <shift> # ガツーンとやってやったほうが、よかったかな）
+com09 0 28
+display
+location 23
+com11 0 0
+sound 10023
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「うあ、ぷ、プロデューサー、どうしていきなり、
+line2 <shift> # 胸なんて……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「スキあり！　……なんてな」
+display
+com11 0 0
+sound 10024
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「こんな時に、冗談かまさないで下さいよ〜。
+line2 <shift> # あああ、そうこうしてるうちに、時間が！」
+display
+com11 0 0
+sound 10025
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「すこし不安ですけど、そろそろ、スタッフの
+line2 <shift> # ところ、行きましょう！」
+display
+com32 0 0
+com22 0 30
+com21 0 30
+com11 0 0
+sound 10026
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ううう、すみませんでした〜。あいさつ、
+line2 <shift> # ボロボロでしたね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……ごめん。俺があいさつ前に、つまらない
+line2 <shift> # イタズラなんかしたから」
+display
+com11 0 0
+sound 10027
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「いえ、いいんです……。うまくいかなかった
+line2 <shift> # 一番の原因は、ボクの経験不足ですから……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （胸なんか触ったせいで、初仕事は、ロクでも
+line2 <shift> # ない結果に、終わってしまった……）
+com09 0 28
+display
+location 24
+com11 0 0
+sound 10028
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「プロデューサ〜、よく見て下さいよ〜。
+line2 <shift> # そこは、コブシじゃないです〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お、言われてみれば、そうだな……。
+line2 <shift> # 悪かった」
+display
+com11 0 0
+sound 10029
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あああっ、もう時間が！　ちょっと不安です
+line2 <shift> # けど、スタッフのところ、行きましょう！」
+display
+com32 0 0
+com22 0 30
+com21 0 30
+com11 0 0
+sound 10030
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ううう、すみませんでした〜。ボク、結局
+line2 <shift> # 最後まで、ヘラヘラ顔のままで……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、スタッフ陣も、不思議そうにジロジロ
+line2 <shift> # 見てたな」
+display
+com11 0 0
+sound 10031
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「きっと『なんだ、コイツ？』って、思われ
+line2 <shift> # ましたよね。はあ〜、マズったなあ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うまくコブシを合わせられなかったからか、
+line2 <shift> # 初仕事は、さんざんな結果に終わってしまった）
+com09 0 28
+display
+location 25
+com11 0 0
+sound 10032
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「プロデューサー？　シカト決め込まないで、
+line2 <shift> # コブシ合わせて下さいよ〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あああ、ごめん。ついボーッとしちゃって」
+display
+com11 0 0
+sound 10033
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「く、もう時間が……。すこし不安ですけど、
+line2 <shift> # そろそろスタッフのところ、行きましょう！」
+display
+com32 0 0
+com22 0 30
+com21 0 30
+com11 0 0
+sound 10034
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ううう、すみませんでした〜。結局、ボクの
+line2 <shift> # ヘラヘラ顔、最後まで直らなかったですね……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まあ、しかたないよ。初めての衣装に、
+line2 <shift> # 初めての仕事。舞い上がるなって方が、ムリだ」
+display
+com11 0 0
+sound 10042
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ボク、くやしいです……。もっとビシッと
+line2 <shift> # 決めてやりたかったのに。く〜っ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （コブシを合わせず、ボーッと見ていたのが原因
+line2 <shift> # で、初仕事はほろ苦い結果に終わってしまった）
+com09 0 28
+display
+location 28
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……その後、すっかり沈み込んでしまった真を、
+line2 <shift> # なんとか立ち直らせてから、事務所に戻った）
+com09 0 29
+display
+location 29
+unk02

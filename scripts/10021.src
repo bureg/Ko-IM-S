@@ -1,0 +1,372 @@
+com2c 0 45
+com2d 0 23
+com32 0 0
+com11 0 2
+sound 300
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「フフン、人、まあまあ入ったかしら？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「この客数なら、上々かな」
+display
+com11 0 2
+sound 301
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「でもっ、まだ空きがあるー！
+line2 <shift> # プロデューサー、あの空席は誰のせーい？」
+com03 0 3
+choice1 <shift> # 俺のせい
+com09 0 10
+com08
+choice2 <shift> # 伊織のせい
+com09 0 11
+com08
+choice3 <shift> # チケット屋さんのせい
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺のせいだな……」
+display
+com11 0 2
+sound 302
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ふふっ、わかってるじゃなーい」
+display
+com11 0 2
+sound 303
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……まあ、私も、後、ほんのちょっぴり
+line2 <shift> # ぐらいは、がんばらないとね！」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「伊織のせいだな」
+display
+com11 0 2
+sound 304
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なによ〜！　私のどこが悪いっていうの？
+line2 <shift> # そりゃあ、まだＮｏ．１アイドルじゃないけど」
+display
+com11 0 2
+sound 305
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「でも、それをカバーするのは、
+line2 <shift> # あんたの仕事でしょ！　フンっ」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「チケット屋さんのせいだな」
+display
+com11 0 2
+sound 306
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「………………ふ〜ん、そう。
+line2 <shift> # チケット屋さんねえ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なんだよ？」
+display
+com11 0 2
+sound 307
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そういう責任逃れ、きらーい。
+line2 <shift> # 素直に反省しなさいよね、まったくー」
+com09 0 29
+display
+location 29
+com11 0 2
+sound 308
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あ、そろそろ、準備みたいだわ。
+line2 <shift> # 行かなくちゃ！」
+display
+com11 0 2
+sound 309
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「プロデューサー、私のステージ衣装、
+line2 <shift> # おかしくないわよね？」
+com03 0 3
+choice1 <shift> # 見た限り、大丈夫だ
+line2
+com09 0 30
+com08
+choice2 <shift> # デザインが、ちょっとなあ
+line2
+com09 0 31
+com08
+choice3 <shift> # 衣装は、大丈夫だ
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「見た限り、大丈夫だ」
+display
+com11 0 2
+sound 310
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そう！　ま、信用してあげるっ」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「デザインが、ちょっとなあ」
+display
+com11 0 2
+sound 311
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あんたの好みなんか、きいてないのー！
+line2 <shift> # ズレてるとことか、なーい？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それは、大丈夫みたいだけど」
+display
+com11 0 2
+sound 312
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「まったく、も〜。このデザイン、
+line2 <shift> # 気に入ってるのに、イヤなこと言わないでよね」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「衣装は、大丈夫だ」
+display
+com11 0 2
+sound 313
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「…………衣装『は』？　じゃあ、
+line2 <shift> # ほかにどっか、おかしなところがあるわけ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「衣装『も』大丈夫だ。
+line2 <shift> # ……カンぐりすぎだって」
+display
+com11 0 2
+sound 314
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……ほんとかしら？
+line2 <shift> # まあ、今回は大目に見てあげる」
+com09 0 49
+display
+location 49
+com11 0 2
+sound 315
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あ、そーだ。次から、
+line2 <shift> # この衣装の生地、変えられない？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……どうして？」
+display
+com11 0 2
+sound 333
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「かたくて、たまに動きにくい時があるから。
+line2 <shift> # 舞台袖で見てて、気づかない？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、もしかして、そのかたい場所って……」
+com0e 0 113
+com44
+com09 0 50
+com45
+com44
+com09 0 51
+com45
+com44
+com09 0 52
+com45
+com44
+com09 0 54
+com45
+com44
+com09 0 53
+com45
+com44
+com09 0 55
+com45
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ここか？」
+display
+com11 0 2
+sound 334
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そうよ、動きにくくて困るわ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わかった、衣装担当に報告しておくよ。
+line2 <shift> # 素材を違うものに変えてもらおう」
+display
+com11 0 2
+sound 318
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ふふっ、ちゃんと言っておいてね♪
+line2 <shift> # 今日のところはこれで、なんとかしてくるわ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （担当者にしっかり伝えておこう。実力がついて
+line2 <shift> # くると、細かいこだわりも出てくるものだな）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ここか？」
+display
+com11 0 2
+sound 335
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ええっ。なんで髪の毛なのよ！
+line2 <shift> # 衣装って言ってるでしょー！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、髪も、かたいかもって……」
+display
+com11 0 2
+sound 320
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ワケわかんないわよっ！　髪なんか、もし
+line2 <shift> # かたくても、どうしようもないでしょー！」
+com09 0 91
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ここか？」
+display
+com11 0 2
+sound 336
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ど、どうして頭なのよー！
+line2 <shift> # 衣装って言ってるでしょー！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、表情も、かたいかもって……」
+display
+com11 0 2
+sound 322
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ほっておいてよー！
+line2 <shift> # 私は服の生地を見てって言ってるのに〜！」
+com09 0 91
+display
+location 53
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ここか？」
+display
+com11 0 2
+sound 337
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……あんたには、そこに、
+line2 <shift> # 衣装があるように見えるわけ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……見えません」
+display
+com11 0 2
+sound 338
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ふざけないでよねー！
+line2 <shift> # 私は、マジメに言ってるんだからっ！」
+com09 0 91
+display
+location 91
+com11 0 2
+sound 325
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ムカついたー……。
+line2 <shift> # もうステージ、上がんなーい」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おい、伊織……！」
+display
+com11 0 2
+sound 326
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「すみませんって、１０００回あやまるまで、
+line2 <shift> # 歌ってあげませーん」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ぐぬぬ……。開演に間に合うか？
+line2 <shift> # 大急ぎで、あやまらないと……）
+com09 0 69
+display
+location 54
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ここか？」
+display
+com11 0 2
+sound 339
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あのねぇ、あんた、話聞いてた？　私は、
+line2 <shift> # 衣装に、かたいところがあるって言ったのよ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え、いや、ここも衣装だけど……」
+display
+com11 0 2
+sound 340
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ベストの方に決まってるでしょ！
+line2 <shift> # 当ったり前じゃないのっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、そっちか……」
+display
+com11 0 2
+sound 341
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ほんっとダメダメなんだから！　この変態！
+line2 <shift> # ド変態！　Ｔｈｅ　Ｈｅｎｔａｉ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （英語で、ののしられてしまった……。でも、
+line2 <shift> # ダメダメなのと変態は、関係ないじゃないか！）
+com09 0 69
+display
+location 55
+com11 0 2
+sound 330
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なにボーッとしてるのよ？
+line2 <shift> # 服見てくれって言ってるのに……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「見た感じ、そんなかたそうには……」
+display
+com11 0 2
+sound 342
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あんた、私のステージ、ちゃんと見てるの！？
+line2 <shift> # いつも動きにくそうなの、わからなかった？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん。特に気づかなかったけど……」
+display
+com11 0 2
+sound 343
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そんなワケないじゃない！　あんた、本当は私
+line2 <shift> # がステージにいる間、遊んでるんじゃないの？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （怒らせた上に、真面目に仕事をしてないという
+line2 <shift> # 疑いまで、かけられてしまった……）
+com09 0 69
+display
+location 69
+unk02

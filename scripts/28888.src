@@ -1,0 +1,491 @@
+com2c 0 18
+com2d 0 43
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （千早と俺とでチームを組んで、
+line2 <shift> # クイズ番組に出演することになった）
+display
+name 0 2 <names:2>  # Chairman
+line1 <shift> # 「……さあ、ということで今日の番組は、こちら
+line2 <shift> # のデパート屋上からお送りしております！」
+display
+name 0 2 <names:2>  # Chairman
+line1 <shift> # 「見事優勝し、ステージで歌うことが出来るのは、
+line2 <shift> # いったい誰なのか！？　そして……」
+display
+name 0 2 <names:2>  # Chairman
+line1 <shift> # 「敗者となったアイドルを待ち受ける、過酷な
+line2 <shift> # 罰ゲームとは！？　衝撃の展開は、ＣＭの後！」
+display
+name 0 2 <names:3>  # Ad
+line1 <shift> # 「はい、ＣＭ入りましたー！」
+display
+com11 0 0
+sound 28
+name 0 0 <names:4>  # Chihaya
+line1 <shift> # 「ふぅ……。バラエティ番組は、
+line2 <shift> # テンポが速くて、疲れますね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。でも、まだ始まったばかりだぞ。
+line2 <shift> # がんばろうな、千早！」
+display
+com11 0 0
+sound 2
+name 0 0 <names:4>  # Chihaya
+line1 <shift> # 「それにしても……なぜ歌うために、
+line2 <shift> # こんなことをしなくてはならないんですか？」
+com03 0 3
+choice1 <shift> # 仕事を選べる立場じゃないよ
+line2
+com09 0 11
+com08
+choice2 <shift> # ＴＶだからな
+line2
+com09 0 12
+com08
+choice3 <shift> # 俺は楽しいけどな
+line2
+com09 0 13
+com08
+com07
+com09 0 13
+com08
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今の俺たちは、仕事を選べる立場じゃないよ。
+line2 <shift> # この番組に出られただけでもラッキーだぞ」
+display
+com11 0 0
+sound 3
+name 0 0 <names:4>  # Chihaya
+line1 <shift> # 「ラッキーですか？　これが？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「勝てば、ＴＶで歌えるんだ。
+line2 <shift> # 知名度アップは間違いない」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それに、千早の歌声をたくさんの人に届ける
+line2 <shift> # ためなら、俺はどんな手段でも使うよ」
+display
+com11 0 0
+sound 4
+name 0 0 <names:4>  # Chihaya
+line1 <shift> # 「プロデューサー……」
+display
+com11 0 0
+sound 5
+name 0 0 <names:4>  # Chihaya
+line1 <shift> # 「すみません。プロデューサーが、そこまで考え
+line2 <shift> # てくれているとは思っていなかったもので……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いいんだ。俺は勝って、
+line2 <shift> # 千早が歌ってくれればそれでいい」
+display
+com11 0 0
+sound 6
+name 0 0 <names:4>  # Chihaya
+line1 <shift> # 「はい！　なんとしても勝ちましょう！」
+com09 0 14
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ＴＶだからなぁ。この番組のメインは
+line2 <shift> # 歌よりクイズ……いや、その後の罰ゲームか」
+display
+com11 0 0
+sound 7
+name 0 0 <names:4>  # Chihaya
+line1 <shift> # 「こんな茶番を見て喜ぶ人達に
+line2 <shift> # 向けて歌っても、意味がないのでは？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それは言い過ぎだよ、千早。茶番だろうと何だ
+line2 <shift> # ろうと、ＴＶで歌えるのは、大きいよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「知名度アップは間違いないし、これをキッカケ
+line2 <shift> # に、千早のファンになる人もいるかもしれない」
+display
+com11 0 0
+sound 8
+name 0 0 <names:4>  # Chihaya
+line1 <shift> # 「それは、そうですが……」
+com09 0 14
+display
+location 13
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺は楽しいけどな。
+line2 <shift> # ＴＶに出られるんだぞ？」
+display
+com11 0 0
+sound 9
+name 0 0 <names:4>  # Chihaya
+line1 <shift> # 「私は歌手です！
+line2 <shift> # ＴＶに出ることが目的ではありません！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ちょ、ちょっと千早、声が大きいよ！
+line2 <shift> # ……番組の収録中だぞ！？」
+display
+com11 0 0
+sound 10
+name 0 0 <names:4>  # Chihaya
+line1 <shift> # 「…………」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ま、まぁ。とにかく、
+line2 <shift> # 勝てば歌えるんだから。な？」
+display
+com11 0 0
+sound 11
+name 0 0 <names:4>  # Chihaya
+line1 <shift> # 「……はい」
+com09 0 14
+display
+location 14
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後、千早と俺は、必死でクイズに答え、
+line2 <shift> # 何問かは正解することができたのだが……）
+display
+com11 0 0
+sound 29
+name 0 0 <names:4>  # Chihaya
+line1 <shift> # 「私達より、正解率のいいチームがいます。
+line2 <shift> # このままでは、優勝は難しいですね……」
+display
+name 0 2 <names:2>  # Chairman
+line1 <shift> # 「さぁ、いよいよ問題は最後です！
+line2 <shift> # 最終問題は、ボーナスチャンス！」
+display
+name 0 2 <names:2>  # Chairman
+line1 <shift> # 「正解の後のハイ＆ローで勝てば、持ち点２倍！
+line2 <shift> # しかし、負ければ持ち点は０ですよ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺達の持ち点から考えると、
+line2 <shift> # トップをとるには……」
+display
+com11 0 0
+sound 30
+name 0 0 <names:4>  # Chihaya
+line1 <shift> # 「問題に正解し、
+line2 <shift> # ハイ＆ローを成功させなければいけません」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よしっ、気合い入れてくぞ！」
+display
+name 0 2 <names:2>  # Chairman
+line1 <shift> # 「問題！」
+display
+name 0 2 <names:2>  # Chairman
+line1 <shift> # 「波動力学を展開し、量子力学の形成に寄与した、
+line2 <shift> # あるパラドックスで有名な理論物理学者は！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （な、なんだこの問題！？
+line2 <shift> # さっぱりわからない……）
+display <shift> # ピンポーン！
+display
+com11 0 0
+sound 13
+name 0 0 <names:4>  # Chihaya
+line1 <shift> # 「エルヴィン・シュレーディンガー」
+display
+name 0 2 <names:2>  # Chairman
+line1 <shift> # 「正解！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ウソぉ！？」
+display
+com11 0 0
+sound 14
+name 0 0 <names:4>  # Chihaya
+line1 <shift> # 「ウソではありません。シュレーディンガーの猫
+line2 <shift> # というパラドックスを知りませんか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「は、はぁ……」
+display
+name 0 2 <names:2>  # Chairman
+line1 <shift> # 「ははは……。
+line2 <shift> # プロデューサーさんも、タジタジですね」
+display
+name 0 2 <names:2>  # Chairman
+line1 <shift> # 「では！　ハイ＆ロー、挑戦しますか！？」
+com03 0 3
+choice1 <shift> # もちろんです！
+line2
+com09 0 21
+com08
+choice2 <shift> # ちょっと考えさせて下さい
+line2
+com09 0 22
+com08
+choice3 <shift> # やっぱりやめようか？
+line2
+com09 0 23
+com08
+com07
+com09 0 23
+com08
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もちろんです！　優勝して、
+line2 <shift> # なんとしても千早に、歌わせてみせます！」
+display
+com11 0 0
+sound 15
+name 0 0 <names:4>  # Chihaya
+line1 <shift> # 「プロデューサー……！」
+display
+name 0 2 <names:2>  # Chairman
+line1 <shift> # 「そうこなくっちゃ！
+line2 <shift> # では……ハーイ＆ロー！！」
+com09 0 24
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ちょっと考えさせて下さい……」
+display
+com11 0 0
+sound 16
+name 0 0 <names:4>  # Chihaya
+line1 <shift> # 「プロデューサー！？　考えることなんてありま
+line2 <shift> # せん。やらなければ、優勝できないんですから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうか……。じゃ、やります！」
+display
+name 0 2 <names:2>  # Chairman
+line1 <shift> # 「そうこなくっちゃ！
+line2 <shift> # では……ハーイ＆ロー！！」
+com09 0 24
+display
+location 23
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やっぱりやめようか？」
+display
+com11 0 0
+sound 17
+name 0 0 <names:4>  # Chihaya
+line1 <shift> # 「なにを言ってるんですか？
+line2 <shift> # やらなくては優勝できないんですよ！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、それはそうだけど、負けたら自動的に
+line2 <shift> # 罰ゲームだし……」
+display
+name 0 2 <names:2>  # Chairman
+line1 <shift> # 「あのー、もしもし？
+line2 <shift> # やるんですか？　やらないんですか？」
+display
+com11 0 0
+sound 18
+name 0 0 <names:4>  # Chihaya
+line1 <shift> # 「やります。
+line2 <shift> # かまいませんよね、プロデューサー？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わ、わかった……」
+display
+name 0 2 <names:2>  # Chairman
+line1 <shift> # 「なんだかもめてましたが、とにかく！
+line2 <shift> # ……ハーイ＆ロー！！」
+com09 0 24
+display
+location 24
+name 0 2 <names:2>  # Chairman
+line1 <shift> # 「それでは今から、私がトランプを、
+line2 <shift> # １枚ひきます……。ふむ、ほーほーほー！」
+display
+name 0 2 <names:2>  # Chairman
+line1 <shift> # 「では……、私が今、持っているトランプは、
+line2 <shift> # ７より上か下か！？　ハーイ＆ロー！！」
+com03 0 2
+choice1 <shift> # ハイだ！
+com09 0 30
+com08
+choice2 <shift> # ローだ！
+com09 0 31
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ハイだ！」
+display
+name 0 2 <names:2>  # Chairman
+line1 <shift> # 「ハイ、つまりは８以上と。
+line2 <shift> # ……本当に、よろしいですね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よろしいです！」
+display
+name 0 2 <names:2>  # Chairman
+line1 <shift> # 「…………………………………………」
+com37 0 1
+com1e 0 0
+com09 0 33
+com3b
+com37 0 0
+com1e 0 0
+com09 0 34
+com3b
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ローだ！」
+display
+name 0 2 <names:2>  # Chairman
+line1 <shift> # 「ロー、つまりは７以下と。
+line2 <shift> # ……本当に、よろしいですね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よろしいです！」
+display
+name 0 2 <names:2>  # Chairman
+line1 <shift> # 「…………………………………………」
+com37 0 1
+com1e 0 0
+com09 0 33
+com3b
+com37 0 0
+com1e 0 0
+com09 0 34
+com3b
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よくわからないけど……ローで！」
+display
+name 0 2 <names:2>  # Chairman
+line1 <shift> # 「ロー、つまりは７以下と。
+line2 <shift> # ……本当に、よろしいですね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よろしいです！」
+display
+name 0 2 <names:2>  # Chairman
+line1 <shift> # 「…………………………………………」
+com09 0 34
+display
+location 33
+name 0 2 <names:2>  # Chairman
+line1 <shift> # 「正解！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いよっしゃーーーーーーーーーっ！」
+display
+com11 0 0
+sound 19
+name 0 0 <names:4>  # Chihaya
+line1 <shift> # 「やった……！」
+display
+name 0 2 <names:2>  # Chairman
+line1 <shift> # 「それでは、優勝者には
+line2 <shift> # ステージで歌ってもらいます！」
+display
+com11 0 0
+sound 20
+name 0 0 <names:4>  # Chihaya
+line1 <shift> # 「プロデューサー、
+line2 <shift> # ありがとうございます！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「その気持ちは、歌で返してくれ。
+line2 <shift> # ガツンと一発、すごいのをかましてやれ！」
+display
+com11 0 0
+sound 21
+name 0 0 <names:4>  # Chihaya
+line1 <shift> # 「そのつもりです！　プロデューサーが
+line2 <shift> # もぎとってくれた勝利、ムダにはしません……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後、千早は新人離れしたステージを
+line2 <shift> # 見せ、他の出演者は皆、度肝を抜かれたようだ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （千早も、とてもうれしそうだ。よかった……。
+line2 <shift> # がんばったかいが、あったな！）
+com4b 0 0
+com09 0 69
+display
+location 34
+name 0 2 <names:2>  # Chairman
+line1 <shift> # 「残念！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええーーーーーーーーっ！？」
+display
+com11 0 0
+sound 22
+name 0 0 <names:4>  # Chihaya
+line1 <shift> # 「そんな……！」
+display
+name 0 2 <names:2>  # Chairman
+line1 <shift> # 「こちらのチームはポイント０！　ということで、
+line2 <shift> # 恐怖の罰ゲームに参加してもらいます！」
+display
+name 0 2 <names:2>  # Chairman
+line1 <shift> # 「今日の罰ゲームは……、語尾に『にゃん』を
+line2 <shift> # つけて、しゃべってもらいます！！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええっ！？」
+display
+com11 0 0
+sound 23
+name 0 0 <names:4>  # Chihaya
+line1 <shift> # 「にゃ……にゃん！？」
+display
+name 0 2 <names:2>  # Chairman
+line1 <shift> # 「それでは、負けチームさん。
+line2 <shift> # ひと言コメントを」
+display
+com11 0 0
+sound 24
+name 0 0 <names:4>  # Chihaya
+line1 <shift> # 「……悔しいです、とても。
+line2 <shift> # 歌えないのが、なにより……」
+display
+name 0 2 <names:2>  # Chairman
+line1 <shift> # 「あぁ、ダメダメ。ちゃんと語尾に、
+line2 <shift> # 『にゃん』をつけて下さ〜い！」
+display
+com11 0 0
+sound 25
+name 0 0 <names:4>  # Chihaya
+line1 <shift> # 「なっ……！」
+display
+com11 0 0
+sound 26
+name 0 0 <names:4>  # Chihaya
+line1 <shift> # 「く、悔しいです……にゃん。
+line2 <shift> # ……くっ」
+display
+name 0 2 <names:2>  # Chairman
+line1 <shift> # 「見た目と『にゃん』とのギャップが、
+line2 <shift> # いい感じですね〜！」
+display
+com11 0 0
+sound 27
+name 0 0 <names:4>  # Chihaya
+line1 <shift> # 「歌えないばかりか、こんな仕打ち……。
+line2 <shift> # 屈辱です……！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （目に、うっすらと涙を浮かべている……。
+line2 <shift> # 俺の力不足で……。千早、本当にすまない！）
+com4b 0 2
+com09 0 69
+display
+location 69
+unk02

@@ -1,0 +1,450 @@
+com2c 0 21
+com2c 0 118
+com2d 0 121
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （たまには、気分転換に、
+line2 <shift> # 寄り道して帰ろうかな？）
+com03 0 2
+choice1 <shift> # どこかに寄り道する
+line2
+com09 0 10
+com08
+choice2 <shift> # まっすぐ帰る
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+com22 0 30
+com21 0 30
+com32 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、寄り道して帰ろう。ふぅ〜……。
+line2 <shift> # こういう静かな夜は、落ち着くなあ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そういえば……、四条貴音を初めて見たのは、
+line2 <shift> # こんな夜だったっけ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （不思議な夜だったな。人の気配を感じた、
+line2 <shift> # と思ったら、女の子が見えて……）
+display
+com11 0 0
+sound 10000
+com4c 0 1
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そうそう、あんな風に、
+line2 <shift> # 月を見上げて……、え？）
+display
+com11 0 0
+sound 10001
+com4c 0 1
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「……そう。あなたも、孤独なのですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あ、あれは、本物の四条貴音！？）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （えーっと、何て言って声をかけようか……）
+com03 0 3
+choice1 <shift> # いい月夜だな
+line2
+com09 0 20
+com08
+choice2 <shift> # サイン下さい！
+line2
+com09 0 21
+com08
+choice3 <shift> # おい、貴様！
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （いや、やっぱり、まっすぐ帰るとするか！）
+com09 0 99
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いい月夜だな」
+display
+com11 0 0
+sound 10002
+com4c 0 1
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「……あら、あなた様は」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やあ、また会ったね」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、あの、サイン下さい！」
+display
+com11 0 0
+sound 10003
+com4c 0 1
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「……申し訳ありませんが、路上では、
+line2 <shift> # サインをせぬようにと、言われております」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、そ、そうですか。あはは、すみません！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （くっ、何となく本気で、ヘコんでしまった！）
+display
+com11 0 0
+sound 10004
+com4c 0 1
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「はて……？　あなたの顔は、どこかで……？
+line2 <shift> # はっ、あなた様は、確か……！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「や、やあ、また会ったね」
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おい、貴様！」
+display
+com11 0 0
+sound 10005
+com4c 0 1
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「なっ……！
+line2 <shift> # 私を貴様呼ばわりするとは、何たる無礼者！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うわあ、ごめんなさい！」
+display
+com11 0 0
+sound 10006
+com4c 0 1
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「謝罪するくらいであれば、はじめから……。
+line2 <shift> # あら？　あなた様は……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え〜と、ごめん。つい、勢いで……。
+line2 <shift> # また、会ったね」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今から家に帰るところだったんだけど、
+line2 <shift> # 君の姿を見かけたもんだからさ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ところで。さっきは月に向かって、
+line2 <shift> # 話しかけていたのか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そういえば、前にも月を見て、
+line2 <shift> # 話していたような……」
+display
+com11 0 0
+sound 10007
+com4c 0 1
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ど、どうかしたのか？」
+display
+com11 0 0
+sound 10008
+com4c 0 1
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「……私に、何かご用ですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、いや、用というほどの用は、特に、
+line2 <shift> # ないんだけど……」
+display
+com11 0 0
+sound 10009
+com4c 0 1
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「先日に続き、またもや、このようなところを、
+line2 <shift> # お見せしてしまうとは……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、いや、先日通りがかったのも、
+line2 <shift> # 今日、通りがかったのも、偶然なんだ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺の勤めている事務所が、実は、この近くで。
+line2 <shift> # だからかな。はは、あはは！」
+display
+com11 0 0
+sound 10010
+com4c 0 1
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「……その話は、本当でしょうか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ？」
+display
+com11 0 0
+sound 10011
+com4c 0 1
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「偶然にしては、できすぎではないですか？
+line2 <shift> # あなた様は……、もしや」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （くっ、もしかして、社長から９６１プロのこと
+line2 <shift> # を調べてこいって言われたの、バレたのか！？）
+display
+com11 0 0
+sound 10012
+com4c 0 1
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「……もしや、私の守り神ですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……えっ？」
+display
+com11 0 0
+sound 10013
+com4c 0 1
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「私が助けを求めたい時に、私の心を、
+line2 <shift> # 助けて下さるとは……」
+display
+com11 0 0
+sound 10014
+com4c 0 1
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「これは、偶然とは思えません」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ！？　あ、いや、俺は……」
+com03 0 3
+choice1 <shift> # 普通の人間だよ
+line2
+com09 0 30
+com08
+choice2 <shift> # 安月給の人間だよ
+line2
+com09 0 31
+com08
+choice3 <shift> # 確かに神です
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「普通の人間だよ」
+display
+com11 0 0
+sound 10015
+com4c 0 1
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「……そう、なのですか？」
+com09 0 39
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「安月給の人間だよ」
+display
+com11 0 0
+sound 10016
+com4c 0 1
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「……あなた様は、安月給なのですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うっ。つい、どうでもいい情報を……！」
+display
+com11 0 0
+sound 10017
+com4c 0 1
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「月給、ということは……。
+line2 <shift> # 普通の人間、ということなのでしょうか？」
+com09 0 39
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「確かに、神だよ。時々だけど」
+display
+com11 0 0
+sound 10018
+com4c 0 1
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「と、時々、神、ですか？
+line2 <shift> # それは、どういった……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……まあ、時々、道に落ちている空き缶を、
+line2 <shift> # ゴミ箱に捨てるくらいの善行はする」
+display
+com11 0 0
+sound 10019
+com4c 0 1
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「……それは、神と言うより、
+line2 <shift> # 普通の人間なのではないですか？」
+com09 0 39
+display
+location 39
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……ああ、そうだよ」
+display
+com11 0 0
+sound 10020
+com4c 0 1
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「そうでしたか……。残念です」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……普通の人間で、何が悪いんだ？」
+display
+com11 0 0
+sound 10021
+com4c 0 1
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「えっ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「普通に人間でも、君をなぐさめたり、
+line2 <shift> # 話を、きいてあげたりすることは、できるさ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「何も、特別なことが、エラいワケじゃない。
+line2 <shift> # そうじゃないかな？」
+display
+com11 0 0
+sound 10022
+com4c 0 1
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「……真、その通りかもしれませんね」
+display
+com11 0 0
+sound 10023
+com4c 0 1
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「ふふっ、あなた様の前だと、どうして、
+line2 <shift> # 私は、このようになってしまうのでしょうか？」
+display
+com11 0 0
+sound 10024
+com4c 0 1
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「……おかしいですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ……。このようにっていうか、
+line2 <shift> # 俺が知ってる四条貴音は……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「出会った時から、こんな感じだから、
+line2 <shift> # 特に、おかしいとは思わないけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （確かに、前にＴＶで見た、『銀髪の王女』
+line2 <shift> # と呼ばれていた女の子とは、別人みたいだけど）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ＴＶでは、何だか迫力もあったし……。もしか
+line2 <shift> # して、そっくりさん？　いや、まさか……）
+display
+com11 0 0
+sound 10025
+com4c 0 1
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「あの……。私は、あなた様に名を、
+line2 <shift> # 名乗りましたでしょうか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え？」
+display
+com11 0 0
+sound 10026
+com4c 0 1
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「今、あなた様は四条貴音と……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、いや、その……！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しまった！　調子にのって、
+line2 <shift> # しゃべりすぎたか！）
+display
+com11 0 0
+sound 10027
+com4c 0 1
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「……貴音、とおっしゃっていただいて、
+line2 <shift> # 結構です」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ？」
+display
+com11 0 0
+sound 10028
+com4c 0 1
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「同じ月夜に、過ごした者同士。
+line2 <shift> # 気になさらないで下さい」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうか。それじゃあ、貴音。
+line2 <shift> # 実は、折り入って、ききたいことが……」
+display
+com11 0 0
+sound 10029
+com4c 0 1
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「ああ。もう、月が、かたむいて……。
+line2 <shift> # 今夜は、もうお別れです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え？　あ、あの……」
+display
+com11 0 0
+sound 10030
+com4c 0 1
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「それでは、ごきげんよう」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （とりあえず、人違いでもなさそうだけど……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （またもや、幻のような時間だったな……。
+line2 <shift> # 不思議な女の子だ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あ！　結局、９６１プロのことを、
+line2 <shift> # きけずじまいだったな……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……まあ、いいか。そのうち、必ず、
+line2 <shift> # ＩＵで出会うことにもなるんだしな）
+com09 0 99
+display
+location 99
+unk02

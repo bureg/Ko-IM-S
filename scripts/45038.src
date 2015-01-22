@@ -1,0 +1,404 @@
+com2c 0 92
+com2d 0 81
+com32 0 0
+com11 0 2
+sound 1000
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「きましたね。何人ものトップアイドルが立った、
+line2 <shift> # 伝説の、このホールに……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。リハーサルも済ませたし、あとは
+line2 <shift> # ライブ本番で、パワーを爆発させるだけだな」
+display
+com11 0 2
+sound 1001
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「途中で失敗して、ドカーン。
+line2 <shift> # ……な、なんちゃって！」
+com03 0 3
+choice1 <shift> # そうなっちゃ、困るよ？
+line2
+com09 0 10
+com08
+choice2 <shift> # ……余裕だな
+line2
+com09 0 11
+com08
+choice3 <shift> # ははは！
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうなっちゃ、困るよ？」
+display
+com11 0 2
+sound 1002
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「わかってます。なるべく、そうはならない
+line2 <shift> # ように……」
+display
+com11 0 2
+sound 1003
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「でも、さすがに、ここはこわいです。
+line2 <shift> # さっきから、ヒザが笑ってて……」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……余裕だな」
+display
+com11 0 2
+sound 1004
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そう……見えますか？　じつは、これでも
+line2 <shift> # ごまかそうとしてたりして。あはっ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じ、自信、ないのか？」
+com09 0 91
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ははは！」
+display
+com11 0 2
+sound 1005
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「おもしろかったですか？　プロデューサーは、
+line2 <shift> # すごいな。このホール、前にして笑えるなんて」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、おい……どうして、そんな顔……。
+line2 <shift> # もしかして、自信、ないのか？」
+com09 0 91
+display
+location 91
+com11 0 2
+sound 1006
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はい……。やっぱり、ここは、こわいです。
+line2 <shift> # さっきから、ヒザが笑ってて……」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「真……」
+display
+com11 0 2
+sound 1007
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ステージの広さ、ハンパじゃなかったです。
+line2 <shift> # 客席から見ると、そうでもないんですけど」
+display
+com11 0 2
+sound 1008
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「実際に立つと、原っぱの真ん中に、ほっぽり
+line2 <shift> # だされたみたいで。自然に、ふるえが……」
+display
+com11 0 2
+sound 1009
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「もし、ボクが本当に男だったら、もっと、
+line2 <shift> # 堂々としていられるのかもしれませんね」
+com03 0 2
+choice1 <shift> # 男でも、同じだよ
+line2
+com09 0 30
+com08
+choice2 <shift> # らしくないな
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「男でも、同じだよ。そんなところで歌わなきゃ
+line2 <shift> # ならないとしたら、誰だってこわいと思う」
+display
+com11 0 2
+sound 1010
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、そうなんでしょうか。だとしたら、ここは
+line2 <shift> # 男女関係なく、人の大きさを試す場所なのかも」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「らしくないな。真が、そんなこと、言う
+line2 <shift> # なんて」
+display
+com11 0 2
+sound 1011
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「すみません。自分でも、言っても、どうにも
+line2 <shift> # ならないコトだっていうのは、わかってて……」
+display
+com11 0 2
+sound 1012
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「けど、口が勝手に……。なにか言ってないと、
+line2 <shift> # ホールに飲み込まれちゃいそうで」
+com09 0 49
+display
+location 49
+com11 0 2
+sound 1013
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「くっ、負けるもんか。プロデューサー、行く
+line2 <shift> # 前に、コブシ、ガーンって合わせて。う……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うーん、それくらいで、元気、戻るのか？
+line2 <shift> # これは、相当……）
+com0e 2 202
+com44
+com09 0 50
+com45
+com44
+com09 0 51
+com45
+com44
+com09 0 52
+com45
+com44
+com09 0 53
+com45
+com44
+com09 0 54
+com45
+com44
+com09 0 55
+com45
+com44
+com09 0 56
+com45
+display
+location 50
+com11 0 2
+sound 1014
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ……。どうして、頬に手なんて……」
+com09 0 92
+display
+location 51
+com11 0 2
+sound 1015
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ……。どうして、頭に手なんて……」
+com09 0 92
+display
+location 92
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「強がって、不安にフタすることはないよ。
+line2 <shift> # こんなことしか、しれやれないけど」
+display
+com11 0 2
+sound 1016
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「へへっ……なんか、落ち着きます。プロデュー
+line2 <shift> # サー、大丈夫だって、言ってください」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「大丈夫。大丈夫だよ、真……」
+display
+com11 0 2
+sound 1017
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「……はい」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （顔が、安らいでいく……。その後、見事、
+line2 <shift> # 立ち直った真は、ライブを大成功させた！）
+com09 0 69
+display
+location 52
+com11 0 2
+sound 1018
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「痛っ！　な、なにするんです？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ほらほら、気合入れろって。そんな、
+line2 <shift> # 弱気な顔してちゃ、ダメだ」
+display
+com11 0 2
+sound 1019
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ボクだって、好きでこんな顔してるわけじゃ
+line2 <shift> # ないですよ！　どうしても、震えが……」
+display
+com11 0 2
+sound 1020
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「たたかれたり、殴られたりするだけで、
+line2 <shift> # 落ち着くなら、どんなにラクか……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あああ、ごめん！　悪かったよ」
+display
+com11 0 2
+sound 1021
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「すみません……。ボクのため、思ってやって
+line2 <shift> # くれたんでしょうけど……でも、でもっ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （はたいても、表情は戻らない。結局、沈み
+line2 <shift> # きった真を、ステージに送り出すしかなかった）
+com09 0 69
+display
+location 53
+com11 0 2
+sound 1022
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「だーん……。あ、ありがとうございました。
+line2 <shift> # すこしは、いつものペースに戻れた気が……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「これで、いいのか？　言われたままに、
+line2 <shift> # やったけど……」
+display
+com11 0 2
+sound 1023
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「なにもやらないより、ずっといいです。あとは、
+line2 <shift> # きっと、歌っているうちに……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか、がんばるんだぞ。気休めかもしれない
+line2 <shift> # けど、真なら、できるよ」
+display
+com11 0 2
+sound 1024
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そうですよね。ここまで、階段、のぼって
+line2 <shift> # こられたんだ。ボクは……できる。ボクは……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （呪文のように、繰り返している。真の要望には
+line2 <shift> # 応えたし、あとは本人に任せよう……）
+com09 0 69
+display
+location 54
+com11 0 2
+sound 1025
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ……。ど、どうして、ボクの胸……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ほらほら、元気出さないと、このまま、さわり
+line2 <shift> # まくるよ？」
+display
+com11 0 2
+sound 1026
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「……楽しいですか？　だったら、好きなだけ、
+line2 <shift> # さわってください」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おいおい！　とんでもないこと、言うなよ」
+display
+com11 0 2
+sound 1027
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そういうの続けてるうちに、ボクも自分の
+line2 <shift> # 気持ちがほぐれるなら、うれしいし……」
+display
+com11 0 2
+sound 1028
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「さわられても、なにも感じないんです。
+line2 <shift> # ビックリもしないし、イヤだとも……。うう」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （こわさが、真の心をマヒさせてしまっている。
+line2 <shift> # 結局、なにもできずに、送り出すしかなかった）
+com09 0 69
+display
+location 55
+com11 0 2
+sound 1029
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「え、あの……どうして、そんなところ、
+line2 <shift> # さわるんです？　コブシは……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「コブシだけ、ガツンと合わせたって、心は
+line2 <shift> # 奮い立たないだろ？」
+display
+com11 0 2
+sound 1030
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「それは、そうかもしれませんけど。かといって、
+line2 <shift> # そんなとこ、さわられても……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか……。俺なりに考えてやってみたん
+line2 <shift> # だけど……ダメ？」
+display
+com11 0 2
+sound 1031
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はい……すみません。ちょっとや、そっとじゃ、
+line2 <shift> # いつもの気持ちに戻れそうには……」
+display
+com11 0 2
+sound 1032
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「弱いですね、ボク……。これまで積んできた
+line2 <shift> # 経験、なんだったんだろ。……くっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （力なく、うつむいている。結局、なにひとつ
+line2 <shift> # してやれず、そのまま、送り出すしかなかった）
+com09 0 69
+display
+location 56
+com11 0 2
+sound 1033
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あの……どうしたんです？　コブシ合わせるの、
+line2 <shift> # イヤですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「形だけ、ハデに決めたって、しょうがない
+line2 <shift> # だろ？　そんなの、逃げだと思うから」
+display
+com11 0 2
+sound 1034
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「う……それは、そうです。でも、他にやりよう、
+line2 <shift> # ないじゃないですか？」
+display
+com11 0 2
+sound 1035
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「なにもせずにいたって、不安になるだけだし。
+line2 <shift> # だったら、せめて、形ぐらい……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、そうも言えるか。ご、ごめんな」
+display
+com11 0 2
+sound 1036
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「いいです……もう。そうだよな。自分を奮い
+line2 <shift> # 立たせられるのは、自分だけ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （カラに、閉じこもっている。結局、なにひとつ
+line2 <shift> # してやれず、そのまま、送り出すしかなかった）
+com09 0 69
+display
+location 69
+unk02

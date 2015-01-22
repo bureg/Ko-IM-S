@@ -1,0 +1,328 @@
+com2c 0 24
+com2d 0 71
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （仕事の合間の休けい中、律子と雑談を始めた）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺、時々、思うんだけど、
+line2 <shift> # 律子って、すごく仕事の理想が高いよな……」
+display
+com11 0 3
+sound 1233
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そうかな？　でも、どうせアイドルやるなら、
+line2 <shift> # とことん高みを目指したほうが面白いでしょ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーむ、確かになぁ」
+display
+com11 0 3
+sound 1201
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「それも、ただの高望みじゃなくて、具体的に、
+line2 <shift> # 決めるの。たとえば、世界展開の目標は……」
+display
+com11 0 3
+sound 1202
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「まずは、やっぱり、シアターの、
+line2 <shift> # サタデーナイトライブに出ることかな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「サタデーナイトライブ？」
+display
+com11 0 3
+sound 1203
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そこでは、世界中から未来のスター候補が大勢
+line2 <shift> # 集まって、ジャンル問わず芸と技を競うんです」
+display
+com11 0 3
+sound 1204
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「アマからセミプロまで、すごいハイレベル
+line2 <shift> # なんです。ショウビジネス界の登竜門ですよ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なるほど。世界規模のスターのデビューに、
+line2 <shift> # ふさわしい舞台だな。それに出たいわけか」
+com03 0 3
+choice1 <shift> # もちろん歌とダンスで
+line2
+com09 0 10
+com08
+choice2 <shift> # スタッフとしてか？
+line2
+com09 0 11
+com08
+choice3 <shift> # 一発芸を披露するの？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もちろん歌とダンスで、だな？」
+display
+com11 0 3
+sound 1205
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「当然！　あ〜……、まぁ、今は、まだそこで、
+line2 <shift> # 通用する自分じゃないとは、思ってるんだけど」
+display
+com11 0 3
+sound 1206
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「それでも、いつかは、ね？」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「スタッフとしてか？」
+display
+com11 0 3
+sound 1207
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そうそう。華やかな舞台を、しっかりと裏から
+line2 <shift> # 支えるスタッフに……、って、ちがーう！」
+display
+com11 0 3
+sound 1234
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「一応、私、今はアイドルやってるから、
+line2 <shift> # それを生かしてやってみたいんですけどぉ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうかぁ。でも、あんまり自信なかったり？」
+display
+com11 0 3
+sound 1209
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「言わないでよ。それは確かに、
+line2 <shift> # 図星だったりするんだけど」
+display
+com11 0 3
+sound 1210
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「裏方じゃ、派手に名前売り出せないし。それに、
+line2 <shift> # シアターのステージに立ってみたいわけよ」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なにか、笑える一発芸でも披露するのか？」
+display
+com11 0 3
+sound 1211
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そうそう。華やかな舞台の中に、一服の笑いを
+line2 <shift> # 届ける清涼剤に……、って、ちがーう！」
+display
+com11 0 3
+sound 1212
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「なんでそうなるんですか。私、一応、
+line2 <shift> # いまは、アイドルやってるんですけどぉ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、面白いかもしれないぞ？」
+display
+com11 0 3
+sound 1213
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「面白いかもしれなくてもっ！　今やってる、
+line2 <shift> # 歌とダンスを生かして、やってみたいなぁ」
+display
+com11 0 3
+sound 1214
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そのほうが、たぶん名前も売れるし……。
+line2 <shift> # ああ、でも、通用するかどうかは自信ないかも」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だからこそ、まずそこで、一発芸をっ」
+display
+com11 0 3
+sound 1215
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「は、話を戻すなあっ。まぁ、なんであれ、
+line2 <shift> # シアターのステージに立てるなら、嬉しいけど」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「しかし、そのシアターの舞台に至るには……」
+display
+com11 0 3
+sound 1216
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ええ。時に厳しく、そして長い、
+line2 <shift> # 芸能界の道のりが待ってますね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「事務所スタッフの協力も不可欠だよな。みんな
+line2 <shift> # で地道に努力しないと、夢には届かなそうだ」
+display
+com11 0 3
+sound 1217
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「だから、もちろん、これから私も、
+line2 <shift> # この事務所でやってくわけだけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、俺も努力する。夢がかなう日まで、
+line2 <shift> # 一緒に頑張ろう。よろしくな」
+display
+com11 0 3
+sound 1218
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「よろしくぅ……。あ〜、でも、まいったなぁ」
+display
+com11 0 3
+sound 1219
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「私、正直、まだプロデューサーのこと、
+line2 <shift> # 信用しきったわけじゃないのよね……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「むむっ。そ、そうなのか？
+line2 <shift> # そりゃまた……、まいったね」
+display
+com11 0 3
+sound 1220
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「もしプロデューサーが間違っていると感じたら、
+line2 <shift> # 言うことを聞かないかもしれないし……」
+display
+com11 0 3
+sound 1221
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「時に怒るかもしれないし、文句を言うかも
+line2 <shift> # しれない。それでも、いいですか？」
+com03 0 2
+choice1 <shift> # かまわないさ
+line2
+com09 0 30
+com08
+choice2 <shift> # それは困るな
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「かまわないさ。
+line2 <shift> # きちんと、俺にも納得できる理由があるなら」
+display
+com11 0 3
+sound 1222
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「こんな、扱いづらくて、
+line2 <shift> # わがままっぽい私でも、いいんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「律子の意見は、的確で参考になるし、
+line2 <shift> # 俺たちは、もう、仲間だからな」
+display
+com11 0 3
+sound 1223
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「仲間、ねぇ……。よし、わかった。
+line2 <shift> # ま、仲良くやりましょ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。さぁ、世界目指す前に、ひとまずは、
+line2 <shift> # もっと近い目標を、一緒にクリアしよう！」
+display
+com11 0 3
+sound 1224
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「了解っ。ライブの動員数、伸ばしましょう！
+line2 <shift> # ＣＤもどんどん売るぞ！　やりましょうっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今は、まだ遠い目標だけど……。律子の夢、
+line2 <shift> # いつかは、叶って欲しいな。俺は応援するぞ）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それは困るな。指示は聞いてくれないと」
+display
+com11 0 3
+sound 1225
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そうですか、やっぱり困りますか……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、いや。もちろん、俺がカン違いしてたら、
+line2 <shift> # そういうときには、指摘してほしいけど」
+display
+com11 0 3
+sound 1226
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「微妙なところですねぇ。はぁ……」
+display
+com11 0 3
+sound 1227
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「もっと、自信持って、やって欲しいなぁ。
+line2 <shift> # 頼りにしてますよ？　プロデューサーさま」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お、おいおい。俺のことを、
+line2 <shift> # 信用してないと言いつつ、頼るのか？」
+display
+com11 0 3
+sound 1228
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ふふっ、もちろん。
+line2 <shift> # 利用させてもらいますよ、将来のために」
+display
+com11 0 3
+sound 1229
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ああ。私って、ほんとわがままで、
+line2 <shift> # 扱いづらい、悪者アイドル……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「はははははっ……」
+display
+com11 0 3
+sound 1230
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「な、なに笑ってるんですか！
+line2 <shift> # 私は本気ですよ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、世界目指して頑張ってくれよな」
+display
+com11 0 3
+sound 1231
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「むっ、からかわないで下さいよぉ。
+line2 <shift> # ……な〜んてね。ま、冗談ですけど」
+display
+com11 0 3
+sound 1232
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「お互い、食えない関係ですね。
+line2 <shift> # でも、ひとまず、お互い頑張りましょ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （律子は握手を求めてきて、俺は応じた。
+line2 <shift> # とりあえずの共闘か……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （律子、本心では、どう思ってるんだろう？）
+com09 0 49
+display
+location 49
+unk02

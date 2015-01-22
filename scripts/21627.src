@@ -1,0 +1,249 @@
+com2c 0 18
+com2d 0 51
+com32 0 0
+com11 0 2
+sound 500
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「これから、カレーのＣＭ撮影ですね。
+line2 <shift> # おいしそうに見えるよう、がんばらないと」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「すみません。カレーじゃ、あまりイメージ
+line2 <shift> # アップには、ならないかもしれませんね」
+display
+com11 0 2
+sound 501
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そんなことはないです。ＣＭなんて、
+line2 <shift> # 出させてもらえるだけ、うれしいですし」
+com03 0 2
+choice1 <shift> # 甘口評価で、助かります
+line2
+com09 0 10
+com08
+choice2 <shift> # じつは、ギャラも激辛で
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「甘口評価で、助かります」
+display
+com11 0 2
+sound 502
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ふふっ、あまり甘いと、おいしくないでしょう
+line2 <shift> # か？　けれど、私、辛いのは苦手なんですよね」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じつは、ギャラも激辛で」
+display
+com11 0 2
+sound 503
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、そうなんですか？　でも、しかたないです。
+line2 <shift> # ＣＭタレントとしては、新人ですから」
+display
+com11 0 2
+sound 504
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、あまり、気にしないでもらえると。今は歌
+line2 <shift> # の方だけでも、じゅうぶん暮らしていけますし」
+com09 0 29
+display
+location 29
+com11 0 2
+sound 505
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そういえば……。最近、いそがしいので、
+line2 <shift> # 家でカレーとか、なかなかつくれませんね」
+display
+com11 0 2
+sound 506
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「私、材料とか切りそろえるの遅いので、余計に。
+line2 <shift> # 人の倍くらい、時間かかってしまうんです」
+com03 0 3
+choice1 <shift> # 皮とか、むきすぎなのでは？
+line2
+com09 0 30
+com08
+choice2 <shift> # 包丁、使い慣れてないとか？
+line2
+com09 0 31
+com08
+choice3 <shift> # 指とか、よく切るから？
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「皮とか、むきすぎなのでは？」
+display
+com11 0 2
+sound 507
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、当たりです、よくわかりますね。
+line2 <shift> # いつも、ていねいに、やりすぎてしまって……」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「包丁、使い慣れてないとか？」
+display
+com11 0 2
+sound 508
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「いえ、それは慣れているのですけれど、野菜の
+line2 <shift> # 皮むく時とか、ていねいにやりすぎてしまって」
+display
+com11 0 2
+sound 509
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「私、包丁とか、あまり握らないように見えます
+line2 <shift> # か？　こ、これでも料理は、嫌いでは……」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「指とか、よく切るから？」
+display
+com11 0 2
+sound 510
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そ、それはさすがにないです。逆に、
+line2 <shift> # 気をつけすぎるから、速度があがらなくて……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だったら、開き直って、テキパキやれば」
+display
+com11 0 2
+sound 511
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そうすると、今度は本当に指を切ってしまい
+line2 <shift> # そうで。はあー、ほんと、不器用ですよね」
+com09 0 49
+display
+location 49
+com11 0 2
+sound 512
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「んー、このまま運よく、トップアイドルになれ
+line2 <shift> # たら、ますます料理する時間、なくなって……」
+display
+com11 0 2
+sound 513
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「すこし不安ですね。きっかけでもないと、
+line2 <shift> # どんどん、腕が落ちてしまいそうです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ、そうならないように、今度……」
+com03 0 3
+choice1 <shift> # 俺に、ゴチソウしてくれます？
+line2
+com09 0 50
+com08
+choice2 <shift> # みんなに、ゴチソウしてくれます？
+line2
+com09 0 51
+com08
+choice3 <shift> # 料理番組とか、出てみます？
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 2
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺に、ゴチソウしてくれます？」
+display
+com11 0 2
+sound 514
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「え、プロデューサーさんが、家へ？
+line2 <shift> # ど、どうしましょう。それは、いろいろと……」
+display
+com11 0 2
+sound 515
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「でも、もしよければ。日頃の恩返しにも、
+line2 <shift> # なりますし。そ、そうですよね。そうです！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ダメ元で言ってみたけど、なんか、
+line2 <shift> # すごくよろこんでるような気が。い、意外だな）
+com09 0 69
+display
+location 51
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「みんなに、ゴチソウしてくれます？」
+display
+com11 0 2
+sound 516
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「スタッフみんなに？　あ、素敵ですねっ。け、
+line2 <shift> # けれど、その時は、プロデューサーさんも？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そのつもりですけど、イヤですか？」
+display
+com11 0 2
+sound 517
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「い、いやではないですっ。
+line2 <shift> # ただ、それなら、そのー。なんというか……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （あずささんは、何か言いたそうな顔をしている。
+line2 <shift> # なんかスッキリしないけど、ま、いいか）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「料理番組とか、出てみます？」
+display
+com11 0 2
+sound 518
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「え、ええええ！？　私、誰かと、
+line2 <shift> # 腕を競い合ったりするのですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いい刺激になると思いますよ。芸能界には、
+line2 <shift> # 料理の強者、けっこういますし」
+display
+com11 0 2
+sound 519
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「自信がないです……。きっと、
+line2 <shift> # ポコポコ打ち負かされて、ひどいことに」
+display
+com11 0 2
+sound 520
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「プロデューサーさんが望むなら、やります。
+line2 <shift> # ただ、結果は期待しないでもらえると……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （急に、暗い顔になってしまった。
+line2 <shift> # 撮影前に、この顔は……、あまり、よくないな）
+com09 0 69
+display
+location 69
+unk02

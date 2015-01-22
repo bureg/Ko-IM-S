@@ -1,0 +1,538 @@
+com2c 0 90
+com2d 0 81
+com2e 0 113
+location 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ＴＶデビューを果たしたこと、
+line2 <shift> # 早く社長に報告しような、真！」
+display
+com11 0 0
+sound 10000
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「そうですね！
+line2 <shift> # 社長、ただいま戻りましたぁっ！」
+display
+com11 0 0
+sound 10001
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「３日間、ご苦労だった。これからも、
+line2 <shift> # わが社のホープとして、励んでくれたまえ」
+display
+com4a 0 0
+com11 0 0
+sound 10002
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「では、君たちのアイドルランク報告だ！」
+display
+location 200
+com11 0 0
+sound 10003
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「ランクＦに、ランクＵＰしたようだな！
+line2 <shift> # だが、ここからは、そう甘くないぞ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「はい。……あ、ところで、社長。真のＴＶ
+line2 <shift> # 出演シーンは、観ていて下さったんですか？」
+display
+com11 0 0
+sound 10004
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「もちろんだとも。２人ともよくやってくれた！
+line2 <shift> # 今日は、かなりレベルが高かったようだね」
+display
+com11 0 0
+sound 10005
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「今、菊地君の後に出場した子を観ていたんだが、
+line2 <shift> # 素晴らしい才能の持ち主ばかりのようだ」
+display
+com11 0 0
+sound 10006
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「たとえば、思わず録画してしまったのだが、
+line2 <shift> # この子なんて、素晴らしいじゃないか」
+display
+com4a 0 0 131 115 131 98 129 73
+display
+location 1
+com11 0 0
+sound 10007
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「へえ、カッコイイ歌だなぁ。それにこの子、
+line2 <shift> # ダンスもメチャメチャうまいですねっ！」
+display
+com11 0 0
+sound 10008
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「この歌を歌っているのって、誰なんです？」
+display
+com11 0 0
+sound 10009
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「うむ。この子は、我那覇響！　最近、勢いを増
+line2 <shift> # してきた、９６１プロ所属の新人アイドルだよ」
+display
+com11 0 0
+sound 10010
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「皆、ありがとーっ！！　自分、絶対トップ
+line2 <shift> # アイドルになりたいんだ！　応援してねっ！」
+display
+com11 0 0
+sound 10011
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「『絶対トップアイドルになりたい』、かぁ。
+line2 <shift> # やるなあ、ＴＶで、ここまで言えるなんて」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。しかし、この子、どこかで見たよう
+line2 <shift> # な……。あっ！　お、思い出したっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「真と一緒にジョギングで帰った日、動物を探し
+line2 <shift> # てた女の子だ！　ほら、真には、話しただろ？」
+display
+com11 0 0
+sound 10012
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「えっ！　この娘だったんですか！？
+line2 <shift> # へぇ〜、なんか運命感じちゃいますよね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。もしかしたら彼女は将来、真と……」
+com03 0 3
+choice1 <shift> # ライバルになるかもな
+line2
+com09 0 10
+com08
+choice2 <shift> # いい友達になるかもな
+line2
+com09 0 11
+com08
+choice3 <shift> # 最高のカップルになるかもな
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ライバルになるかもな」
+display
+com11 0 0
+sound 10013
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ライバルかぁ。それってマンガみたいですねっ。
+line2 <shift> # ボク、燃えてきましたよっ！　へへっ」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いい友達になるかもな」
+display
+com11 0 0
+sound 10014
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「友達かぁ。今ちらっと見ただけですけど、
+line2 <shift> # 何となく、気が合いそうな感じはするかも」
+display
+com11 0 0
+sound 10015
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「でもボクとしては、普通の友達っていうより、
+line2 <shift> # 宿命のライバルみたいな関係になりたいなあ」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「最高のカップルになれるかもな」
+display
+com11 0 0
+sound 10016
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「ほほう。なるほど。
+line2 <shift> # 確かにお似合いかもしれないね」
+display
+com11 0 0
+sound 10017
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「それ、どういう意味ですか！　うう、
+line2 <shift> # ひどいや、２人してイジワル言うなんて……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、ああ、すまない。つい妄想が、
+line2 <shift> # 口をついて出てしまった……」
+display
+com11 0 0
+sound 10018
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「プロデューサー、ボクを、
+line2 <shift> # そういう目で見てたんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、言い方が悪かった。つまり、２人が
+line2 <shift> # 並べば、きっと絵になるっていうことだよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だから、２人がアイドルの頂点を競い合う日が、
+line2 <shift> # 来て欲しいっていう妄想、というか願望だな」
+display
+com11 0 0
+sound 10019
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「カップルと言うより、ライバル。
+line2 <shift> # そう言いたいのかね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうそう、それです！
+line2 <shift> # 最高のライバルって言いたかったんです！」
+display
+com11 0 0
+sound 10020
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ああ、そういうことだったんですか。
+line2 <shift> # それってマンガみたいで、燃えますねっ！」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10021
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「彼女、歌もルックスも、すごくいいけど、
+line2 <shift> # 何よりダンスが、うまいですよねっ！」
+display
+com11 0 0
+sound 10022
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「いつか、ダンス対決とか、してみたいなぁ。
+line2 <shift> # へへへっ！」
+display
+com11 0 0
+sound 10023
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ダンスさえあれば、言葉はいらない、みたいな。
+line2 <shift> # きっと、最高に楽しいはずですよ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （真、すっかり我那覇響が、
+line2 <shift> # 気に入っちゃったみたいだな……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、楽しんでるだけじゃなくて、
+line2 <shift> # その時は、勝たなくちゃ、いけないぞ」
+display
+com11 0 0
+sound 10024
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「はい！　任せて下さいっ！
+line2 <shift> # それに……、へへへ」
+display
+com11 0 0
+sound 10025
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「何だか、こういうの憧れてたんですよね！
+line2 <shift> # こう……、ほら、熱い運命っていう感じ！」
+display
+com11 0 0
+sound 10026
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「確かに、目標にするには申し分ない相手だな。
+line2 <shift> # 我那覇君は、まだデビューしたばかりだが……」
+display
+com11 0 0
+sound 10027
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「新人アイドルの中では、人気ナンバー１。
+line2 <shift> # まさに、新進気鋭だ。それに何と言っても！」
+display
+com11 0 0
+sound 10028
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「９６１プロが打ち出している『Ｐｒｏｊｅｃｔ
+line2 <shift> # Ｆａｉｒｙ』のアイドルだからね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「『Ｐｒｏｊｅｃｔ　Ｆａｉｒｙ』？
+line2 <shift> # それって何ですか？　すみません。不勉強で」
+display
+com11 0 0
+sound 10029
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「うむ。『Ｐｒｏｊｅｃｔ　Ｆａｉｒｙ』とは、
+line2 <shift> # ９６１プロの黒井社長自らが、手がける……」
+display
+com11 0 0
+sound 10030
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「アイドルの一大プロジェクトだ。これに属する
+line2 <shift> # 子は、大々的に売り出されることになるだろう」
+display
+com11 0 0
+sound 10031
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「９６１プロの途方もない財力のバックアップを
+line2 <shift> # 受けてね。それが黒井社長のやり方だからな」
+display
+com11 0 0
+sound 10032
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「へえ〜。じゃあ、あっという間に
+line2 <shift> # トップアイドルになっちゃうかもしれませんね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんな他人事みたいに言ってちゃダメだ、真。
+line2 <shift> # 響がトップを狙えるなら、真だって！」
+display
+com11 0 0
+sound 10033
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「そうだぞ菊地君。実力は負けていないよ！　財
+line2 <shift> # 力は、我が７６５プロの完敗だがね。ははは！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うっ……。それは、全く笑えません、社長！」
+display
+com11 0 0
+sound 10034
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「うわ、７６５プロって貧乏だったんだ……。
+line2 <shift> # 何となく想像は、ついてましたけど」
+display
+com11 0 0
+sound 10035
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「でもボクも、トップ目指してがんばりますっ！
+line2 <shift> # 響に追いついて、乗り越えて見せますからっ！」
+display
+com11 0 0
+sound 10036
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「うむ。アイドルランクを上げてゆき、ＩＵ（ア
+line2 <shift> # イドルアルティメイト）優勝を目指したまえ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あの、質問ばっかりで、すみません。
+line2 <shift> # 『ＩＵ』っていうのは、歌番組の名前ですか？」
+display
+com11 0 0
+sound 10037
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「そうだ。年に１度だけ開かれ、真のトップアイ
+line2 <shift> # ドルが誰なのかを決める番組。それがＩＵだよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「トップアイドル……」
+display
+com11 0 0
+sound 10038
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「そうだ。番組の予選は数回にわけて行われる。
+line2 <shift> # 予選に勝てば、アイドルランクも上昇するぞ」
+display
+com11 0 0
+sound 10039
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「そして、ランクＡまで上り詰めた者だけが、
+line2 <shift> # 番組内で行われる本選に参加できるのだ」
+display
+com11 0 0
+sound 10040
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「ＩＵの優勝者は、たった１人。
+line2 <shift> # もし、途中の予選や、本選で敗退すれば……」
+display
+com11 0 0
+sound 10041
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「敗退すれば……？」
+display
+com11 0 0
+sound 10042
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「敗者の汚名だけが残る。たいていは、
+line2 <shift> # そのまま引退、というケースが多いな……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「厳しいですね……。どうする、真？　今なら
+line2 <shift> # まだ、普通の子に戻ることもできるんだぞ」
+display
+com11 0 0
+sound 10043
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「何言ってるんですか、プロデューサー！
+line2 <shift> # どんなにキツくても、ボク、負けませんよ！」
+display
+com11 0 0
+sound 10044
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「大好きなダンスで、ＩＵに優勝して、
+line2 <shift> # トップアイドルになりますっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、よく言った！　俺も同じ気持ちだよ。
+line2 <shift> # 必ず、夢をかなえような、真！」
+display
+com11 0 0
+sound 10045
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「はいっ！　一緒にがんばりましょう、
+line2 <shift> # プロデューサー！　約束ですよ、へへっ！」
+display
+com11 0 0
+sound 10046
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「いずれ、９６１プロのアイドルと、
+line2 <shift> # オーディションで会うこともあるだろうが……」
+display
+com11 0 0
+sound 10047
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「君たちの勝利を、私は信じている。君たちと
+line2 <shift> # ファンとで、伝説を作ってくれたまえ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「はい！　よーし、真。
+line2 <shift> # ２人で、めざすは！」
+display
+com11 0 0
+sound 10048
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「トップアイドルーッ！」
+display
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （こうして、真と俺の、
+line2 <shift> # 熱く厳しい戦いは、幕を開けたのだった……）
+display
+location 100
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ＴＶデビューを果たすことができた。
+line2 <shift> # しかし、ここからが戦いなんだ…………！）
+display
+location 101
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もっと早く色々片付けていれば
+line2 <shift> # もう１レッスンできたかも……」
+display
+location 102
+com11 0 0
+sound 10007
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「３日間、ご苦労だった。これからも
+line2 <shift> # わが社のホープとして、励んでくれたまえ」
+display
+com4a 0 0
+com11 0 0
+sound 10008
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「では、君たちのアイドルランク報告だ！」
+display
+location 200
+com11 0 0
+sound 10009
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「ランクＦに、ランクＵＰしたようだな！
+line2 <shift> # だがここからは、そう甘くないぞ」
+display
+com11 0 0
+sound 10010
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「実は……、ランクＦより上のランクには、
+line2 <shift> # ランクＵＰの『リミット』回数がある」
+display
+com4a 0 0
+com11 0 0
+sound 10011
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「ランクＦならば、ランクＦになってから
+line2 <shift> # 活動１０週以内に、ファンを１万人集めて」
+display
+com11 0 0
+sound 10012
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「次のランクＥになれなければ……、
+line2 <shift> # ユニットは『活動停止』となる！」
+display
+com11 0 0
+sound 10013
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「リミットまでの残り活動週は、毎朝
+line2 <shift> # 表示されるので、確認してくれ！」
+display
+com4a 0 0
+com11 0 0
+sound 10014
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「では次回より、リミット回数も意識して
+line2 <shift> # プロデュースに励んでくれたまえ」
+display
+location 103
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ファンからのプレゼントをチェックして帰るか」
+display
+location 201
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （次の活動では、デビュー曲を決めて
+line2 <shift> # いよいよオーディションだ！）
+display
+unk02

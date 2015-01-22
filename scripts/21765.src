@@ -1,0 +1,251 @@
+com2c 0 92
+com2d 0 51
+com32 0 0
+com11 0 2
+sound 1000
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「誰もが憧れる、伝説のホール……。こんなとこ
+line2 <shift> # ろでライブなんて、バチが当たってしまいそう」
+display
+com11 0 2
+sound 1001
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「昔、友達とコンサートを見にきたことが。その
+line2 <shift> # 時は、自分がここに立つなんて、夢にも……」
+com03 0 2
+choice1 <shift> # 特別な縁が、あるのかも
+line2
+com09 0 10
+com08
+choice2 <shift> # 人生、わからないもんですね
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「特別な縁が、あるのかも」
+display
+com11 0 2
+sound 1002
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ふふっ、だとしたら、感動ですよねっ。
+line2 <shift> # あの頃から、見えない糸が……」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「人生、わからないもんですね」
+display
+com11 0 2
+sound 1003
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「私もそう思います。あの頃の私に、今日の
+line2 <shift> # ことを話したら、気絶してしまうかも」
+display
+com11 0 2
+sound 1004
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「これまで、なんどもライブ、やってきました
+line2 <shift> # けれど……それでも、震えが止まりません」
+com09 0 29
+display
+location 29
+com11 0 2
+sound 1005
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「プロデューサーさん。じつは今日、その昔の
+line2 <shift> # 友達にも、招待券を送ったんです」
+display
+com11 0 2
+sound 1006
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「しばらく会っていないので、舞台上の私を
+line2 <shift> # 見ても、別人って思うかもしれませんね」
+com03 0 3
+choice1 <shift> # 昔はもっと、地味だったとか？
+line2
+com09 0 30
+com08
+choice2 <shift> # 昔は、ひどい顔だったとか？
+line2
+com09 0 31
+com08
+choice3 <shift> # ……そいつ、男ですか？
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「昔は、もっと地味だったとか？」
+display
+com11 0 2
+sound 1007
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はい。人前で歌うなんて、絶対にできない
+line2 <shift> # 性格でした。なのに、おもしろいですよね」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「昔は、ひどい顔だったとか？」
+display
+com11 0 2
+sound 1008
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ど、どうでしょうか？　あまり変わらない気も
+line2 <shift> # しますけど……」
+display
+com11 0 2
+sound 1009
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「でも、いま以上に、パッとしなかったかも
+line2 <shift> # しれません。華のない顔ですから」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……そいつ、男ですか？」
+display
+com11 0 2
+sound 1010
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「え？　どうして、そんなことを？　プロデュー
+line2 <shift> # サーさん、お、怒ってませんか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、別に……」
+display
+com11 0 2
+sound 1011
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「その友達、女性です……。なにか気に
+line2 <shift> # さわったなら、すみません。あやまります」
+com09 0 49
+display
+location 49
+com11 0 2
+sound 1012
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「では、そろそろ夢の舞台へ！　開演したら、私
+line2 <shift> # 絶対に、客席の友達、見つけてみせます」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「さ、さすがにムリじゃないですか？　ここ、
+line2 <shift> # すごい広いですし。……なんなら、賭けます？」
+display
+com11 0 2
+sound 1013
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ふふっ、いいですよ。それでは、もし見つけ
+line2 <shift> # られなかったら、私が夕食代払います」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ、もし見つけられたら……。
+line2 <shift> # えーと、そうだな……」
+com03 0 3
+choice1 <shift> # 俺が、夕食おごります
+line2
+com09 0 50
+com08
+choice2 <shift> # 一生、専属プロデューサーやります
+line2
+com09 0 51
+com08
+choice3 <shift> # ハラ踊り、見せてあげます
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 2
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺が、夕食おごります」
+display
+com11 0 2
+sound 1014
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「それならー、公平ですね。
+line2 <shift> # あら？　ということは……」
+display
+com11 0 2
+sound 1015
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「どちらにせよ、お店予約しておかないと。ライ
+line2 <shift> # ブを成功させて、祝賀パーティにしたいですね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （この勢いなら、きっと最高のライブになる……。
+line2 <shift> # 賭けの勝敗は、楽しいオマケってとこか）
+com09 0 69
+display
+location 51
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「一生、専属プロデューサーやります」
+display
+com11 0 2
+sound 1016
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ええええ？　それは、行きすぎではっ！？
+line2 <shift> # これくらいのことで、その〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうですか？　なら、別のにします。
+line2 <shift> # どうせ見つかるわけないと思ったので……」
+display
+com11 0 2
+sound 1017
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「おどろきました。そうでなくても、緊張して
+line2 <shift> # いるのに、そんなすごい条件だったら、私……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （さすがに、極端だったか。あまりイヤそうな
+line2 <shift> # 顔をしてないけど……ちがうのを考えよう）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ハラ踊り、見せてあげます」
+display
+com11 0 2
+sound 1018
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ハラ踊り……？　それ、どういうダンスでしょ
+line2 <shift> # うか？　聞いたこと、ありませんけれど……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おなかに、マジックで顔を書いて、踊るんです。
+line2 <shift> # こうふくらませたり、へこませたりしながら」
+display
+com11 0 2
+sound 1019
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「……え！？　あ、あ、そ、そんなの、見せられ
+line2 <shift> # ても、困りますー。目のやり場とか、その〜」
+display
+com11 0 2
+sound 1020
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「やはり、賭け事なんて、よくないですよねっ。
+line2 <shift> # そんなことより、大事なライブに集中しないと」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （聖地とハラ踊り……。あまりにセンスのない
+line2 <shift> # 組み合わせだな。あきれられても、当然か……）
+com09 0 69
+display
+location 69
+unk02

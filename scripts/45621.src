@@ -1,0 +1,470 @@
+com2c 0 42
+com2d 0 83
+com32 0 0
+com11 0 4
+sound 200
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うっわぁ、見て下さいよ！
+line2 <shift> # ライブ会場、人でパンパンです！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やっと、これぐらいの小屋は、
+line2 <shift> # 埋まるようになったか。よかったな」
+display
+com11 0 4
+sound 201
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「でも〜、やけに女の子の比率が、
+line2 <shift> # 高くないですか？　これって、ボクのせい？」
+com03 0 3
+choice1 <shift> # そ、そうとも言えないよ
+line2
+com09 0 10
+com08
+choice2 <shift> # そうかも、しれないな
+line2
+com09 0 11
+com08
+choice3 <shift> # 明らかに、そうだな
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そうとも言えないよ」
+display
+com11 0 4
+sound 202
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ありがとうございます。気をつかってくれて。
+line2 <shift> # でもわかってます。ボクが客層をゆがめて……」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうかも、しれないな」
+display
+com11 0 4
+sound 203
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「絶対にそうですよ〜。なんか、女の子のこっち
+line2 <shift> # を見る視線に、ヘンな熱さ、感じるし……」
+display
+com11 0 4
+sound 204
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ちょっと人気が出ても、男の子扱いか……。
+line2 <shift> # すみません、客層をゆがめてしまって」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「明らかに、そうだな」
+display
+com11 0 4
+sound 205
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そんな、ハッキリ言わなくても……。
+line2 <shift> # いえ、自分でも、わかってはいるんですけど」
+display
+com11 0 4
+sound 206
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うあっ。あの女の子、舌なめずりしながら、
+line2 <shift> # こっち見てる！　すみません、客層をゆがめて」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ま、プロデューサーとしては、チケットが
+line2 <shift> # 売れ残るよりは、ずっと、いいけどな」
+display
+com11 0 4
+sound 207
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「それは、たしかに、そうですね……。
+line2 <shift> # でも、違った一面も、見せていきたいのにな」
+display
+com11 0 4
+sound 208
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そうだ！　１曲ぐらい、いつもと
+line2 <shift> # 全然ちがう歌い方とか、してもいいですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え？　どんな歌い方、する気だ？」
+display
+com11 0 4
+sound 209
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「こう、キャピキャピって感じで、歌うんです。
+line2 <shift> # お花畑ランランラン〜みたいな！」
+com03 0 3
+choice1 <shift> # できるのか、そんなこと？
+line2
+com09 0 30
+com08
+choice2 <shift> # や、やめておかないか？
+line2
+com09 0 31
+com08
+choice3 <shift> # ……顔、洗ってこい
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「できるのか、そんなこと？」
+display
+com11 0 4
+sound 210
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「やってやれないことは、ないと思います。
+line2 <shift> # もう、新人じゃないんですから」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「や、やめておかないか？」
+display
+com11 0 4
+sound 211
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ええええ、いいじゃないですか。
+line2 <shift> # １曲だけですよ？　挑戦も、させて下さいよ〜」
+display
+com11 0 4
+sound 212
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「きっと、やってやれないことはないと思うん
+line2 <shift> # です！　もう新人じゃ、ありませんから」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……顔、洗ってこい」
+display
+com11 0 4
+sound 213
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ボク、寝ぼけてなんて、ないですっ！
+line2 <shift> # マジメもマジメ、大マジメですよ！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、失敗したら、大ハジかくぞ？」
+display
+com11 0 4
+sound 214
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「大丈夫！　もう新人じゃありませんから。
+line2 <shift> # それぐらい、やってやれないことは……」
+com09 0 49
+display
+location 49
+com11 0 4
+sound 215
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「じゃ、行ってきます！　あ、キンキンした高い
+line2 <shift> # 声出すなら、どこで発声するよう意識したら？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「本当に、やる気か？　イヤな予感がするけど。
+line2 <shift> # ……高い声なら、ここから発声する感覚で」
+com0e 2 196
+com44
+com09 0 50
+com45
+com44
+com09 0 51
+com45
+com44
+com09 0 52
+com45
+com44
+com09 0 53
+com45
+com44
+com09 0 54
+com45
+com44
+com09 0 55
+com45
+com44
+com09 0 56
+com45
+com44
+com09 0 57
+com45
+display
+location 50
+com11 0 4
+sound 216
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「頭のてっぺん……、ですか？　あ、なるほど！
+line2 <shift> # ピーンって、突き抜けるような感じですね！」
+display
+com11 0 4
+sound 217
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「わかりましたっ。きいてて下さい。もう、
+line2 <shift> # もだえるくらいの歌い方、してきますから！」
+display
+com20 0 30
+com1f 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「たしかに、高い声は出てたけど……。
+line2 <shift> # やってみての感想は？」
+display
+com11 0 4
+sound 218
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うう〜。とても、きけたもんじゃなかった
+line2 <shift> # ですね。ボク、バカだ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （指摘は正確だったんだけど、やっぱり、
+line2 <shift> # こうなったか。まあ、反省してるし、いいか）
+com09 0 69
+display
+location 51
+com11 0 4
+sound 219
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「鼻から？　あ、そっか。こう、
+line2 <shift> # 抜けるような感じで、甘ったるい声を出せば！」
+display
+com11 0 4
+sound 220
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はぅぅぅん、はぅぅぅん……。この発声法
+line2 <shift> # ですね！　よーし、きいてて下さいっ」
+display
+com20 0 30
+com1f 0 30
+com11 0 4
+sound 221
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ううう、さんざんでしたね……。実際、歌詞を
+line2 <shift> # つけると、フゴフゴ言うだけで、精一杯……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （いい指摘だったんだけど、結果はこれか。でも、
+line2 <shift> # 小手先じゃダメという、教訓にはなっただろう）
+com09 0 69
+display
+location 52
+com11 0 4
+sound 222
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「口、ですか？　そこを……、
+line2 <shift> # どういじれば、高い声が出るんです？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「かたくして、すぼめる感じかな？
+line2 <shift> # それで、イメージに近い声が出ると思うけど」
+display
+com11 0 4
+sound 223
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「う〜、わかったような、わからないような……。
+line2 <shift> # ええい、当たって砕けろ、ですよね。よーし！」
+display
+com20 0 30
+com1f 0 30
+com11 0 4
+sound 224
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサ〜、どうやっても、高い声なんて、
+line2 <shift> # 出なかったですー！　呼吸がつらくなるだけで」
+display
+com11 0 4
+sound 225
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「さっき言ったこと、ホントなんですか？　ボク
+line2 <shift> # のせいで、ライブ、メチャクチャに。はあ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うーん、トンチンカンな指摘をしてしまった。
+line2 <shift> # 口に意識を置いても、声質なんて変わらないか）
+com09 0 69
+display
+location 53
+com11 0 4
+sound 226
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ノド、ですか？　あ、しぼる感じにして、
+line2 <shift> # 発声すれば、自然に声は高くなりますよね」
+display
+com11 0 4
+sound 227
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「さっすが、プロデューサー！
+line2 <shift> # よーし、きいてて下さいっ」
+display
+com20 0 30
+com1f 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「たしかに、高い声は出てたけど……。
+line2 <shift> # やってみての感想は？」
+display
+com11 0 4
+sound 228
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「最後まで、ノド持ちませんでした。思いつきで、
+line2 <shift> # こんなこと試すもんじゃ……、けほっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （苦しそうに、セキ払いしている。結果は、失敗
+line2 <shift> # だったけど、まあ、いい教訓には、なったかな）
+com09 0 69
+display
+location 54
+com11 0 4
+sound 229
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「胸、ですか？　そこをどうすれば、
+line2 <shift> # 高い声が出るんです？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「思いっきり、すぼめるような感じに
+line2 <shift> # してみたら？　身を縮こまらせるというか」
+display
+com11 0 4
+sound 230
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「う〜、わかったような、わからないような……。
+line2 <shift> # ええい、当たって砕けろ、ですよね。よーし！」
+display
+com20 0 30
+com1f 0 30
+com11 0 4
+sound 231
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサ〜、どうやっても、高い声なんて、
+line2 <shift> # 出なかったですー！　呼吸がつらくなるだけで」
+display
+com11 0 4
+sound 232
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「さっき言ったこと、ホントなんですか？　ボク
+line2 <shift> # のせいで、ライブ、メチャクチャに。はあ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うーん、トンチンカンな指摘をしてしまった。
+line2 <shift> # 胸をすぼませても、声質なんて変わらないか）
+com09 0 69
+display
+location 55
+com11 0 4
+sound 233
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「おなか？　それじゃ、いつもと同じ気が……。
+line2 <shift> # まあ、いいです。試してきますね！」
+display
+com20 0 30
+com1f 0 30
+com11 0 4
+sound 234
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサー、きいてくれましたか？
+line2 <shift> # キャピキャピに歌っても、みんな大喜びで！」
+display
+com11 0 4
+sound 235
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「へっへへー、これで、正統派アイドルに、
+line2 <shift> # 近づけましたね。ありがとうございました！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （俺がきいた限り、普段とまったく同じ歌い方だ。
+line2 <shift> # けど、これでいい。ライブ、大成功だったしな）
+com09 0 69
+display
+location 56
+com11 0 4
+sound 236
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ええっ？　そこですか？
+line2 <shift> # そんなところから、どうやって発声を……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「実際に、そこから声を出すわけじゃないよ。
+line2 <shift> # あくまで、イメージの問題だ」
+display
+com11 0 4
+sound 237
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「効果、あるのかなあ？　わ、わかりました。
+line2 <shift> # とにかく、やってみます……。う〜ん」
+display
+com20 0 30
+com1f 0 30
+com11 0 4
+sound 238
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサ〜、やっぱり全然ダメでしたよ？
+line2 <shift> # ボク、考え込んで、集中できませんでした……」
+display
+com11 0 4
+sound 239
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「さっき言ったこと、ホントなんですか？
+line2 <shift> # ボクのせいで、ライブ、メチャクチャに……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （トンチンカンな指摘をしてしまった。あんな
+line2 <shift> # とこ、高い声とは、なんのつながりもないよな）
+com09 0 69
+display
+location 57
+com11 0 4
+sound 240
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサー？　どうしたんですか？
+line2 <shift> # いきなり考え込んじゃって」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや……、やっぱり、高い声は、
+line2 <shift> # やめた方が、いい気がするな」
+display
+com11 0 4
+sound 241
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「いまさら、そんなこと言わないで下さいよー。
+line2 <shift> # もう決めたんですから」
+display
+com11 0 4
+sound 242
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あああ、もう時間が！
+line2 <shift> # こうなったら、ボクなりの思いつきで……！」
+display
+com20 0 30
+com1f 0 30
+com11 0 4
+sound 243
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ううう、おっかしいなあ。
+line2 <shift> # もっとうまく歌えると思ったのに……」
+display
+com11 0 4
+sound 244
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサーが、あそこで、
+line2 <shift> # 何か言ってくれたら、きっと。はあ〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （大失敗して、落ち込んでいる。どうせ止められ
+line2 <shift> # ないなら、指摘ぐらい、してやるべきだったな）
+com09 0 69
+display
+location 69
+unk02

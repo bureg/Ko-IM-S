@@ -1,0 +1,252 @@
+com2c 0 31
+com2d 0 11
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「街頭営業だ、ＣＤ販促のグッズを配るぞ」
+display
+com11 0 4
+sound 900
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「張り切っていきましょう〜♪」
+com03 0 2
+choice1 <shift> # そうだな、積極的に！
+line2
+com09 0 10
+com08
+choice2 <shift> # ひっそり控えめに……
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだな、積極的にがんがん行こう！
+line2 <shift> # さくっと終わらすぞ」
+display
+com11 0 4
+sound 901
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はいっ！」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ん、張り切りたいのはやまやまだけど……
+line2 <shift> # ちょっとひっそり控えめにしない？」
+display
+com11 0 4
+sound 902
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「え？　どうしてです？
+line2 <shift> # しっかり営業しましょうよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あまり目立つと人が集まりすぎて、パニックに
+line2 <shift> # なるかもしれない。だから堅実に行こう」
+display
+com11 0 4
+sound 903
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あっ、なるほどぉ。了解です」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （幸いグッズの配布は順調に進み、
+line2 <shift> # 手持ちは短時間でさばけそうだ）
+display
+com11 0 4
+sound 904
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「うーん……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうした春香？　なんか不満そうだな」
+display
+com11 0 4
+sound 905
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、いえ、さっきからこうやって、道行く人に
+line2 <shift> # 手渡しでグッズ配ってますけど……」
+display
+com11 0 4
+sound 906
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「誰にも声かけられたりしないんですよ？」
+display
+com11 0 4
+sound 907
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「もしかして、誰も私達の正体に
+line2 <shift> # 気づいてないんじゃ……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「むぅ、確かに……まったく気づかれてないのは
+line2 <shift> # ちょっとシャクではあるなぁ」
+display
+com11 0 4
+sound 908
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「販促効果をあげるためにも、ここはひとつ
+line2 <shift> # 存在をアピールしたほうがいいかもですっ」
+com03 0 3
+choice1
+com4f 0 1 130 230 130 181 129 65 137 204 130 164 130 169
+line2 <shift> # ！
+com09 0 30
+com08
+choice2
+com4f 0 2 130 162 130 226 129 65 139 67 130 201 130 183
+line2 <shift> # るな
+com09 0 31
+com08
+choice3
+com4f 0 0 141 160 141 135 130 169 130 200 129 65 147 80
+line2 <shift> # 収しよう
+com09 0 32
+com08
+com07
+com4f 0 0
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、では歌うか！」
+display
+com11 0 4
+sound 909
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はいっ！」
+display
+com20 0 30
+com1f 0 30
+com11 0 4
+sound 910
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「って、きゃああぁ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うわっ！　いきなり黒山の人だかりがっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （我先にと配布グッズに群がる人達と、サインを
+line2 <shift> # 求める人達とで、あたりは騒然となった！）
+display
+com11 0 4
+sound 911
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「みなさん押さないで、押さないで！
+line2 <shift> # 落ち着いてくださーい！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やむを得ないな、春香、撤収だ」
+display
+com11 0 4
+sound 912
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「は、はいっ！　みなさん、すみません！
+line2 <shift> # 失礼しますっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そして一目散に撤収……。営業の効果は、
+line2 <shift> # あったようだが、少々疲れたかな……）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、今回は、あくまでもグッズを配ることが、
+line2 <shift> # 目的だ。顔は売らなくていい。気にするな」
+display
+com11 0 4
+sound 913
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「でも、ちょっと寂しいかなぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ひょっとすると、みんなとっくに春香達に
+line2 <shift> # 気づいてるのかもしれないぞ？」
+display
+com11 0 4
+sound 914
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ええっ？　そうですか？　でも、
+line2 <shift> # 目を合わせないで通り過ぎてく人ばかり……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「たぶんお忍び企画か何かだと思って、みんな
+line2 <shift> # 声をかけないように、気を遣っているのさ」
+display
+com11 0 4
+sound 915
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ああ、そうか！　なるほどぉ、
+line2 <shift> # それならうなずいちゃいます」
+display
+com11 0 4
+sound 916
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「よかったぁ♪　もしかして、私達って意外と
+line2 <shift> # 人気ないのかな、なんて思ってました」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （春香は納得したみたいだ。販促も上々だし、
+line2 <shift> # 今後の売り上げにも期待が持てそうだな）
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そろそろ頃合かな、撤収しよう」
+display
+com11 0 4
+sound 917
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ええっ？　もうちょっとでグッズも
+line2 <shift> # 配り終わりますよ、続けましょうよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、しかし……、粘っても仕方ないかも。
+line2 <shift> # このままだと配り損だ」
+display
+com11 0 4
+sound 918
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そうですか……。確かに、何も言わずに
+line2 <shift> # グッズを持っていく人ばっかりだなぁ」
+display
+com11 0 4
+sound 919
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あっ。でも、だからこそ！
+line2 <shift> # ここでひとつアピールを……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、今更だよ。無闇に騒ぐのはよくない。
+line2 <shift> # 宣伝の逆効果になるし」
+display
+com11 0 4
+sound 920
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ううっ、そうですね。わかりましたぁ。
+line2 <shift> # 今回はあきらめます」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「人目を惹けなかったのはくやしいけどさ。
+line2 <shift> # あとは地道に、ＣＤの売り上げで挽回しよう」
+display
+com11 0 4
+sound 921
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい。うーん、でも……、私達、意外と
+line2 <shift> # 人気ないのかなぁ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （営業の効果もなかった上に、春香も、
+line2 <shift> # しょんぼりしてしまったし、困ったな……）
+com09 0 49
+display
+location 49
+unk02

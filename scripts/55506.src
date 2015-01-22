@@ -1,0 +1,201 @@
+com2c 0 90
+com32 0 0
+com11 0 0
+sound 10000
+name 0 2 <names:1>  # President
+line1 <shift> # 「ああ、君。待ってくれたまえ！
+line2 <shift> # 少し、話をききたいのだが、いいかね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「はい。でも、美希の件なら、説得どころか、
+line2 <shift> # まだ、様子も、よくわからない状態ですが……」
+display
+com11 0 0
+sound 10001
+name 0 2 <names:1>  # President
+line1 <shift> # 「いや、いいんだよ。君は、まだ、
+line2 <shift> # プロデュース業務も始めたばかりだしな」
+display
+com11 0 0
+sound 10002
+name 0 2 <names:1>  # President
+line1 <shift> # 「いくら私でも、全ての結果を、
+line2 <shift> # 一度に求めるような無茶は、言わないよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「はい。ありがとうございます。これから徐々に、
+line2 <shift> # ９６１プロの様子を探るつもりでいますから」
+display
+com11 0 0
+sound 10003
+name 0 2 <names:1>  # President
+line1 <shift> # 「うむ。ところで、９６１プロから、
+line2 <shift> # 何か妨害を受けていたりは、しないかね？」
+display
+com11 0 0
+sound 10004
+name 0 2 <names:1>  # President
+line1 <shift> # 「腹にすえかねる扱いを受けたら、私に相談して
+line2 <shift> # くれたまえ。大して力にはなれんかもしれんが」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いえ、今のところ……」
+com03 0 3
+choice1 <shift> # ガマンしてます
+line2
+com09 0 10
+com08
+choice2 <shift> # 大丈夫です
+com09 0 11
+com08
+choice3 <shift> # 逆に妨害してます
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ガマンしてます。……というのは大げさかな。
+line2 <shift> # 大した妨害は受けていませんよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「９６１プロは、そんな汚い手を、
+line2 <shift> # 使ってくるような事務所なんですか？」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「大丈夫です。妨害なんて、受けていませんよ」
+display
+com11 0 0
+sound 10005
+name 0 2 <names:1>  # President
+line1 <shift> # 「本当かね？　何も妨害がないとなると、
+line2 <shift> # かえって恐ろしい気もするが……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「えっ。９６１プロって、そんなに汚い手を、
+line2 <shift> # よく使う事務所なんですか？」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「逆に妨害してます。それはもう、こてんぱんに、
+line2 <shift> # やっつけてやってるとこですよ！」
+display
+com11 0 0
+sound 10006
+name 0 2 <names:1>  # President
+line1 <shift> # 「な、なんだと！？　そんなことは、止めたまえ。
+line2 <shift> # 勝負は正々堂々とやるべきだぞ、君！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、すみません。今のは、冗談です……。
+line2 <shift> # 本当は、妨害しても、されても、いません」
+display
+com11 0 0
+sound 10007
+name 0 2 <names:1>  # President
+line1 <shift> # 「そうか。それならいいんだが」
+display
+com11 0 0
+sound 10008
+name 0 2 <names:1>  # President
+line1 <shift> # 「もし、妨害されたとしても、仕返しなどという
+line2 <shift> # 低レベルなことは、してはいかんぞ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「はい。でも、９６１プロって、そんなに汚い
+line2 <shift> # 手を、よく使う事務所なんですか？」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10009
+name 0 2 <names:1>  # President
+line1 <shift> # 「うむ。美希君の引き抜き１つとっても、
+line2 <shift> # やり方の汚さは明白だろう？」
+display
+com11 0 0
+sound 10010
+name 0 2 <names:1>  # President
+line1 <shift> # 「デビューこそ、まだだったが、美希君は、
+line2 <shift> # ７６５プロのアイドル候補生だったんだ」
+display
+com11 0 0
+sound 10011
+name 0 2 <names:1>  # President
+line1 <shift> # 「専属契約中のアイドル候補生を、所属事務所に
+line2 <shift> # 一言もなく引き抜いてデビューさせるなど……」
+display
+com11 0 0
+sound 10012
+name 0 2 <names:1>  # President
+line1 <shift> # 「普通は、ありえないことだよ。極端な言い方
+line2 <shift> # かもしれんが、私にしてみれば……」
+display
+com11 0 0
+sound 10013
+name 0 2 <names:1>  # President
+line1 <shift> # 「自分の大事な娘がダマされて、見ず知らずの男
+line2 <shift> # と、勝手に婚約させられたような気分だ」
+display
+com11 0 0
+sound 10014
+name 0 2 <names:1>  # President
+line1 <shift> # 「そういう嫌がらせをすること自体が、
+line2 <shift> # 黒井の目的なのかもしれないがな」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「黒井……。
+line2 <shift> # ９６１プロの、黒井社長のことですか？」
+display
+com11 0 0
+sound 10015
+name 0 2 <names:1>  # President
+line1 <shift> # 「うむ。黒井は、昔から意地の悪い男でな。
+line2 <shift> # その上、キザでウソつきときている」
+display
+com11 0 0
+sound 10016
+name 0 2 <names:1>  # President
+line1 <shift> # 「年齢を重ねて、少しは大人になったかと、
+line2 <shift> # 思っていたんだが」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「社長は、黒井社長を、ずっと前からご存知だっ
+line2 <shift> # たんですか？　なんか、そんな口ぶりですけど」
+display
+com11 0 0
+sound 10017
+name 0 2 <names:1>  # President
+line1 <shift> # 「んんっ？　まあ、つまりだね、私も、
+line2 <shift> # この世界は長いから、その、色々ね……」
+display
+com11 0 0
+sound 10018
+name 0 2 <names:1>  # President
+line1 <shift> # 「しかし、トラブルが無いのなら、それにこした
+line2 <shift> # ことはない。引き止めて悪かったね。お疲れ様」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「はい、失礼します……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （深くたずねられたくはないみたいだけど、高木
+line2 <shift> # 社長と黒井社長は、古い知り合いのようだな）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ま、必要であれば、そのうち、高木社長が、
+line2 <shift> # 細かいことを教えてくれるだろう！）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （とりあえず今は、気にする必要はないな。
+line2 <shift> # さてと、帰るとするか！）
+com09 0 99
+display
+location 99
+unk02

@@ -1,0 +1,323 @@
+com2c 0 31
+com2d 0 23
+com32 0 0
+com11 0 5
+sound 600
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ちょっとー！　なんで私が、
+line2 <shift> # ＣＤの売り子しなきゃいけないのよ〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「伊織が、直接売れば、まあなんとか
+line2 <shift> # 人も集まるだろ？」
+display
+com11 0 5
+sound 601
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「き、傷つくわね……。でも、男のあんたが、
+line2 <shift> # 混ざってたら、効果減っちゃうんじゃない？」
+com03 0 3
+choice1 <shift> # こっそり働くよ
+line2
+com09 0 10
+com08
+choice2 <shift> # 伊織がいれば、大丈夫
+line2
+com09 0 11
+com08
+choice3 <shift> # わかった、帰る
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「こっそり働くよ」
+display
+com11 0 5
+sound 602
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「フフン、それが一番かしら。後ろから、
+line2 <shift> # しっかりサポートするのよ♪」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「伊織がいれば、大丈夫」
+display
+com11 0 5
+sound 603
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……なによ〜。見えすいたお世辞なんて！
+line2 <shift> # あんまりバカにすると、なぐるわよ……」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わかった、帰る」
+display
+com11 0 5
+sound 604
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なんですってー！　この私を働かせといて、
+line2 <shift> # 自分だけ帰る気？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だって、伊織が……」
+display
+com11 0 5
+sound 605
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「誰も帰れなんて言ってないでしょ！　とにかく、
+line2 <shift> # 裏から手伝うのよ？　いーいっ？」
+com09 0 19
+display
+location 19
+com11 0 5
+sound 606
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「じゃ、そろそろ、売りつけ開始ね」
+display
+com11 0 5
+sound 607
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「はいはいー、そこの君ー。ＣＤ買わないと、
+line2 <shift> # ひどいわよ〜っ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「い、伊織……」
+com03 0 3
+choice1 <shift> # 口調は明るくな
+line2
+com09 0 20
+com08
+choice2 <shift> # 言葉は選ぼうな
+line2
+com09 0 21
+com08
+choice3 <shift> # 押しが足りないな
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「口調は明るくな」
+display
+com11 0 5
+sound 608
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「わ、わかったわよ……。でも、売り文句は
+line2 <shift> # 変えないからね」
+display
+com11 0 5
+sound 609
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「はいはいー、そ・こ・の・君！
+line2 <shift> # ＣＤ買わないと、ひどいわよっ♪」
+display
+com11 0 5
+sound 610
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ええっ、５枚も？　あ、ありがとー♪
+line2 <shift> # ……なかなか有能ね、あんた」
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「言葉は選ぼうな」
+display
+com11 0 5
+sound 611
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「わ、わかったわよ……。でも、言い方は
+line2 <shift> # 変えないからね」
+display
+com11 0 5
+sound 612
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「はーい、そこのお客様ー。
+line2 <shift> # ＣＤ買っていくと、幸せになれますよー」
+display
+com11 0 5
+sound 613
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「う、売れないじゃないのよっ！　あんた、
+line2 <shift> # マジメにアドバイスしてる？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「一応……」
+display
+com11 0 5
+sound 614
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「フン、見てなさい！　これから、自力で
+line2 <shift> # 挽回してみせるんだからっ！」
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「押しが足りないな」
+display
+com11 0 5
+sound 615
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あ、やっぱり？　私もそうかなって！」
+display
+com11 0 5
+sound 616
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「こーらー、そこと、そこと、そこっ！
+line2 <shift> # 有り金はたいて、ＣＤ買いなさーいっ！」
+display
+com11 0 5
+sound 617
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あれ〜？　み、みんな逃げちゃった
+line2 <shift> # じゃないのー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「さすがに、やりすぎか……」
+display
+com11 0 5
+sound 618
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「も〜、余計なこと、言って〜！　いいわ、
+line2 <shift> # ここから自力で、挽回してみせるわっ」
+com09 0 29
+display
+location 29
+com22 0 30
+com32 0 0
+com21 0 30
+com11 0 5
+sound 619
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ふぅー。ぜんぶ売れたわ〜」
+display
+com11 0 5
+sound 620
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……ねえ、プロデューサー？　完売したのは、
+line2 <shift> # 誰のおかげ♪」
+com0e 0 102
+com44
+com09 0 30
+com45
+com44
+com09 0 31
+com45
+com44
+com09 0 32
+com45
+com44
+com09 0 33
+com45
+display
+location 30
+com11 0 5
+sound 621
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あら、そーお？　じゃ、感謝してちょーだいね。
+line2 <shift> # にひひっ♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （よく言うよ。サイソクしておいて……。
+line2 <shift> # でも、まあ、立てておいた方がいいか）
+com4b 0 0
+com09 0 39
+display
+location 31
+com11 0 5
+sound 622
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「え、この子……？　そ、そりゃこの子も
+line2 <shift> # 一生懸命、応援してくれたけど……」
+display
+com11 0 5
+sound 623
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「もっとがんばった人が、いるんじゃなーい？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……そうか？」
+display
+com11 0 5
+sound 624
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「うっく……。あんた、わかってて
+line2 <shift> # 言ってるでしょ。……フン、いいわよっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ぬいぐるみにつられて来た客が
+line2 <shift> # １０人ぐらいは……いるわけないか）
+com4b 0 2
+com09 0 39
+display
+location 32
+com11 0 5
+sound 625
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ちょっとっ！　どこ指してんのよっ！
+line2 <shift> # そんなとこ、誰も……」
+display
+com11 0 5
+sound 626
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「アッタマきたわっ。今日の売り上げ、全部
+line2 <shift> # 出しなさい！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え、いや、それは……」
+display
+com11 0 5
+sound 627
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「私の力、認めないなら、ドブに捨てて
+line2 <shift> # あげるわっ。貸しなさーいっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （素直に、立てておけばよかったか？
+line2 <shift> # 売り上げ持って、逃げないと……！）
+com4b 0 2
+com09 0 39
+display
+location 33
+com11 0 5
+sound 628
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なにボーッと、突っ立ってるのよ〜。
+line2 <shift> # 完売したのは、誰のおかげ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え、あ、ごめん。なに？」
+display
+com11 0 5
+sound 629
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「くっ、くっ、く〜！
+line2 <shift> # 私の質問には、０．１秒以内に答えなさ〜い！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなの、無理……」
+display
+com11 0 5
+sound 630
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「返事は、ハイかハイかハイ！
+line2 <shift> # それ以外、聞かないもんっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （むくれてしまった。しかし、ムチャクチャな
+line2 <shift> # こと、言うなあ……）
+com4b 0 2
+com09 0 39
+display
+location 39
+unk02

@@ -1,0 +1,368 @@
+com2c 0 61
+com2d 0 41
+com32 0 0
+com11 0 2
+sound 100
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「すみません、プロデューサー。こんなところ
+line2 <shift> # まで、足を運んでもらって」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、たまには、こういうとこで、
+line2 <shift> # ミーティングも、いいよな。でも、どうして？」
+display
+com11 0 2
+sound 101
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「最近、海、見るの好きなんです。
+line2 <shift> # ゆったりした気持ちになれるから」
+display
+com11 0 2
+sound 102
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……プロデューサー、聞いてほしい話が
+line2 <shift> # あるんですけど、いいですか？」
+com03 0 3
+choice1 <shift> # ああ、もちろんだよ
+line2
+com09 0 10
+com08
+choice2 <shift> # ダメ、と言ったら？
+line2
+com09 0 11
+com08
+choice3 <shift> # こ、告白？
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、もちろんだよ」
+display
+com11 0 2
+sound 103
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ありがとうございます。それでは、
+line2 <shift> # 遠慮なく……」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ダメ、と言ったら？」
+display
+com11 0 2
+sound 104
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「それでも、話します。こんな話、理解できるの
+line2 <shift> # プロデューサーしかいませんし……」
+display
+com11 0 2
+sound 105
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ほんとにイヤなら、やめますけど？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなわけないだろ。話してごらんよ」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「こ、告白？」
+display
+com11 0 2
+sound 106
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「は？　プロデューサー、な、なにを言って。
+line2 <shift> # もっとマジメな話……です」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そうか。改まった口調で言うから、
+line2 <shift> # カンちがいしたよ」
+display
+com11 0 2
+sound 107
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「でも、それと同じくらい、重要な話です。
+line2 <shift> # ……私にとっては、ですけど」
+com09 0 29
+display
+location 29
+com11 0 2
+sound 108
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ここのところ、よく考えるんです。これまで、
+line2 <shift> # 私、力みすぎてたのかなって」
+display
+com11 0 2
+sound 109
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「歌も、どこかギスギスしてたような気がして。
+line2 <shift> # 原因は、きっと……私自身の自信のなさ……」
+com03 0 2
+choice1 <shift> # ケンソンすることは、ないよ？
+line2
+com09 0 30
+com08
+choice2 <shift> # 歌に、自信がないのか！？
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ケンソンすることは、ないよ？　千早の歌は、
+line2 <shift> # 誰もが認めてるんだし」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「歌に、自信がないのか！？　これだけの才能を、
+line2 <shift> # 持って生まれたのに？」
+com09 0 49
+display
+location 49
+com11 0 2
+sound 110
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「いえ、歌の話ではなくて、歌を引いた時の
+line2 <shift> # 話です」
+display
+com11 0 2
+sound 111
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「私、自分から歌を取ったら、何もないって思っ
+line2 <shift> # てて。だから、脇見せず、走り続けてきました」
+display
+com11 0 2
+sound 112
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「本当は、歌うって、もっと楽しいことですよね。
+line2 <shift> # そう思う余裕が、やっとできて……」
+display
+com11 0 2
+sound 113
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「この海のように、強くて、やさしい歌。今みた
+line2 <shift> # いな気持ちじゃないと、歌えないのかなって」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……そうかもしれないな。まあ、歌の決め手に
+line2 <shift> # なるのは、結局、ここの広さなのかも」
+com0e 1 161
+com44
+com09 0 50
+com45
+com44
+com09 0 51
+com45
+com44
+com09 0 52
+com45
+com44
+com09 0 53
+com45
+com44
+com09 0 54
+com45
+com44
+com09 0 55
+com45
+display
+location 50
+com34 0 2
+com11 0 2
+sound 114
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「胸……。あ、心……？　ふふっ、
+line2 <shift> # プロデューサー、キザすぎです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうかな？　でも、思うよ。歌も、高いレベル
+line2 <shift> # になると、人としての器が問われるのかなって」
+display
+com11 0 2
+sound 115
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そうですね。心だけで通じるほど、歌の世界は、
+line2 <shift> # 甘くないです。けど……」
+display
+com11 0 2
+sound 116
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「技術だけの歌は、歌ですら、ないのかもしれ
+line2 <shift> # ませんね。あ……いい風、吹いてきました」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （しばらくふたりで、潮風の中、立っていた。
+line2 <shift> # 千早の微笑が、やけに穏やかに、輝いて見えた）
+com09 0 69
+display
+location 51
+com11 0 2
+sound 117
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ひたい？　おでこの広さで、なにが、
+line2 <shift> # 決まるんです？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おでこが広い人は、こう、輝きがちがうだろ？
+line2 <shift> # それが、歌に力を与えるというか……」
+display
+com11 0 2
+sound 118
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……なんの輝きです？　言ってることが、
+line2 <shift> # さっぱり、わかりません」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか。話が、ちょっと高度すぎたか、
+line2 <shift> # それとも、俺の理論が独特すぎるのか……」
+display
+com11 0 2
+sound 119
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……後者だと思います。そんな意見について
+line2 <shift> # いける人、誰もいない気が……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （あまりに、突飛な意見を披露してしまった。
+line2 <shift> # 共感は、まったく得られなかったようだ）
+com09 0 69
+display
+location 52
+com11 0 2
+sound 120
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「口の広さ？　えーと……今は、発声の話を
+line2 <shift> # してるわけでは、ないですよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだけど……。そういう基本も、やっぱり
+line2 <shift> # 大切というか」
+display
+com11 0 2
+sound 121
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そんな技術論では、どうにもならないところ
+line2 <shift> # まで、来てると思います。ちがいますか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ちがくは、ないよ……。ただ、声の響きは
+line2 <shift> # 欠かせない要素……」
+display
+com11 0 2
+sound 122
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はあ……すこし残念です。今の私の気持ち、
+line2 <shift> # プロデューサーなら、わかってくれると……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （大きなため息をついている。これは、
+line2 <shift> # 開いた口がふさがらない、というやつか？）
+com09 0 69
+display
+location 53
+com11 0 2
+sound 123
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「顔の広さ？　今は、営業の話をしてるわけでは
+line2 <shift> # ないですよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだけど……。やはり歌う場所があっての
+line2 <shift> # アイドルだし」
+display
+com11 0 2
+sound 124
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そんなの、わかってます。ただ、問題は……
+line2 <shift> # 手に入れた場所で、自分がなにをできるかで」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……たしかに、そうだな。ごめん、なんか
+line2 <shift> # 話題をそらしてしまったかも……」
+display
+com11 0 2
+sound 125
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はあ……いいです、別に。これくらいで、
+line2 <shift> # 怒るほど、心、せまくありませんから……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （顔には、明らかな失望の色が、浮かんでいる。
+line2 <shift> # 俺の意見は、まったく的外れだったようだ）
+com09 0 69
+display
+location 54
+com11 0 2
+sound 126
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサー？　そんなところ、広いも
+line2 <shift> # せまいも、ないような気が……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうかな？　えーと、それじゃあ、別のとこ、
+line2 <shift> # 別のとこ……」
+display
+com11 0 2
+sound 127
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「いいです。思いつきで言ったこと、ムリに
+line2 <shift> # 続けようとしなくても」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、思いつきなんかじゃ……。さっき、
+line2 <shift> # 別のところも、たしか、ひらめいたんだけど」
+display
+com11 0 2
+sound 128
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「では、思い出したら、教えてください。
+line2 <shift> # 私、海を見てますから……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （わけのわからない指摘で、困惑させてしまった。
+line2 <shift> # こんな大事な話の、腰を折ってしまうとは……）
+com09 0 69
+display
+location 55
+com11 0 2
+sound 129
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサー？　どうしたんです、突然、
+line2 <shift> # 黙って。広さって、どこの、ですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「えーと、それは……。さっき、思いついたん
+line2 <shift> # だけど、どこだったかな」
+display
+com11 0 2
+sound 130
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そんな、深刻そうな顔で考えなくても……。
+line2 <shift> # ムリに、話を続ける必要は……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、ちょっと待ってくれ。今！　今すぐ、
+line2 <shift> # 思い出すから！」
+display
+com11 0 2
+sound 131
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「わ、わかりました。でも……そろそろ、
+line2 <shift> # 事務所に帰らないと……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （こんな肝心なところで、ど忘れしてしまう
+line2 <shift> # なんて。カッコ悪いにも、程がある……）
+com09 0 69
+display
+location 69
+unk02

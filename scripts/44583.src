@@ -1,0 +1,266 @@
+com2c 0 18
+com2d 0 83
+com32 0 0
+com11 0 1
+sound 800
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ふぅー。スタッフのみなさん、リハ、お疲れ
+line2 <shift> # さまでした。本番も、よろしくお願いしまーす」
+display
+com11 0 1
+sound 801
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサー、見てくれましたか？
+line2 <shift> # 曲の間にやった、連続バック転！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「見たけど……。真、あんな技、前から
+line2 <shift> # できたのか？」
+display
+com11 0 1
+sound 802
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「マスターしたのは、つい最近です。あ、
+line2 <shift> # 安心してください。本番じゃやりませんから」
+display
+com11 0 1
+sound 803
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ああいう、きたえた技で、スタッフを
+line2 <shift> # 楽しませるのも、大事な仕事ですよね！」
+com03 0 3
+choice1 <shift> # 俺にも、できるかな？
+line2
+com09 0 10
+com08
+choice2 <shift> # ケガだけは、するなよ？
+line2
+com09 0 11
+com08
+choice3 <shift> # あまり、調子にのるなよ？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺にも、できるかな？」
+display
+com11 0 1
+sound 804
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「できますよ！　プロデューサー、カンがいい
+line2 <shift> # ですから。今度、いっしょに練習しましょう！」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ケガだけは、するなよ？」
+display
+com11 0 1
+sound 805
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ありがとうございます。でも、平気です！
+line2 <shift> # 油断なんて、絶対しませんし」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あまり、調子にのるなよ？　そのうち、
+line2 <shift> # 痛い目に……」
+display
+com11 0 1
+sound 806
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「大丈夫ですよ〜。プロデューサーに鍛えられた
+line2 <shift> # おかげで、今のボクの体、バネみたいですし」
+display
+com11 0 1
+sound 807
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ちょっとは、信用してほしいよな……。
+line2 <shift> # もう、昔みたいな、大ポカはしませんって」
+com09 0 29
+display
+location 29
+com11 0 1
+sound 808
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ひとつひとつハードルを越えて、いろんなこと
+line2 <shift> # できるようになりましたよね、ボク……」
+display
+com11 0 1
+sound 809
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「けど、なんか退屈なんだよな〜。デビューした
+line2 <shift> # 頃みたく、へこむコトもなくなってきたし……」
+com03 0 2
+choice1 <shift> # いいことじゃないか
+line2
+com09 0 30
+com08
+choice2 <shift> # ……へこみたいのか？
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いいことじゃないか」
+display
+com11 0 1
+sound 810
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「まあ、そうなんですけどね。ただ、すこし
+line2 <shift> # 安定しちゃってさびしいって、思っただけです」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……へこみたいのか？」
+display
+com11 0 1
+sound 811
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そ、そういうワケじゃないです。落ち込むの、
+line2 <shift> # 好きな人なんて、いないですよ」
+display
+com11 0 1
+sound 812
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ただ、すこしさびしいなって。ここまで、
+line2 <shift> # いろいろ変わってきちゃったから……」
+com09 0 49
+display
+location 49
+com11 0 1
+sound 813
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「最近、ＴＶ局で出してくれるお弁当とかも、
+line2 <shift> # メチャメチャ、いいのばっかりですよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それは、そうだよ。一流アイドルに、ヘンな物、
+line2 <shift> # 食べさせるわけには、いかないし」
+display
+com11 0 1
+sound 814
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「昔のマズい弁当、懐かしいよな。あれはあれ
+line2 <shift> # なりに、妙に味があったと、思いませんか？」
+com03 0 3
+choice1 <shift> # よしっ、戻してやろう！
+line2
+com09 0 50
+com08
+choice2 <shift> # 一度だけ、注文してみるか？
+line2
+com09 0 51
+com08
+choice3 <shift> # まったく、思わないよ
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よしっ、戻してやろう！
+line2 <shift> # 真だけ、またずっと、ああいうのな」
+display
+com11 0 1
+sound 815
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、ひど〜い。なら、プロデューサーも、
+line2 <shift> # 道連れです！　きーめたっと！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、俺は今のままでいいよ。真だけだって」
+display
+com11 0 1
+sound 816
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ダーメ。あ、ボクのこと、捕まえられたら、
+line2 <shift> # 許してあげますっ。よーい、ドン！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （しばらく、笑いながら駆け回った。この関係
+line2 <shift> # だけは、いつまでも、変えずにいたいな）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「一度だけ、注文してみるか？」
+display
+com11 0 1
+sound 817
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「できるんですか？　そんなこと。だったら、
+line2 <shift> # 久しぶりに、みんなで食べてみましょう！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、じゃあ、局の人間に話して、思い切り
+line2 <shift> # グレード落としてもらうよ」
+display
+com11 0 1
+sound 818
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、でも……ボクはよくても、他のスタッフは
+line2 <shift> # いやがるかなあ」
+display
+com11 0 1
+sound 819
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「た、たまにはいいですよね！　頼んじゃいま
+line2 <shift> # しょう。文句言われる時は、いっしょに……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （冷や汗を、かいている。ま、ここまできたら、
+line2 <shift> # 後にはひけないか。多少のグチは覚悟しよう）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まったく、思わないよ」
+display
+com11 0 1
+sound 820
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「え？　全然、ですか？　はあ〜、プロデュー
+line2 <shift> # サーも、すっかりゼイタクになりましたね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか？　弁当は、おいしい方がいいと
+line2 <shift> # 思うのは、当然じゃないか？」
+display
+com11 0 1
+sound 821
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「それは、そうですけど、こう、ありますよね。
+line2 <shift> # 思い出の味っていうか、苦労の味っていうか」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、そう言われると、そんな気がしないでも
+line2 <shift> # ないけど……」
+display
+com11 0 1
+sound 822
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うーん、反応サッパリって感じですね。こんな
+line2 <shift> # こと感じるの、ボクだけなのかなあ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （さびしそうな顔をしている。本音を言ったん
+line2 <shift> # だけど……ここは、合わせてやるべきだったか）
+com09 0 69
+display
+location 69
+unk02

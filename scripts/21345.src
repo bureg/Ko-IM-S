@@ -1,0 +1,268 @@
+com2c 0 91
+com2d 0 51
+com32 0 0
+com11 0 1
+sound 700
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はあ〜。この表彰式の会場、豪華すぎて、
+line2 <shift> # ため息が出てしまいますね」
+display
+com11 0 1
+sound 701
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「私が受賞した、ベスト・お姉さんアワードって、
+line2 <shift> # どういう賞なんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「文字通り、一番お姉さんにしたい芸能人に、
+line2 <shift> # 贈られる賞です」
+display
+com11 0 1
+sound 702
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「やはり、そうですか。どんな賞でも、
+line2 <shift> # 認めてもらえるのは、うれしいです」
+com03 0 3
+choice1 <shift> # もっと、がんばりま賞、でも？
+line2
+com09 0 10
+com08
+choice2 <shift> # ノーベル化学賞、でも？
+line2
+com09 0 11
+com08
+choice3 <shift> # 抱きたい女性・Ｎｏ．１でも？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もっと、がんばりま賞、でも？」
+display
+com11 0 1
+sound 703
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はい。それでも、もらえれば、
+line2 <shift> # がんばらなければという、励みになりますしっ」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ノーベル化学賞、でも？」
+display
+com11 0 1
+sound 704
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「も、もらえれば、うれしいですけれど、
+line2 <shift> # どうやっても、ムリですよね？」
+display
+com11 0 1
+sound 705
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「平和賞なら、もしかして可能性は、ある
+line2 <shift> # でしょうか。……それも、むずかしそうですね」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「抱きたい女性・Ｎｏ．１でも？」
+display
+com11 0 1
+sound 706
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そ、それは、あまり、うれしくは……。
+line2 <shift> # 比べていいものでは、ないような気もしますし」
+display
+com11 0 1
+sound 707
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、なんでもうれしいなんて、ウソでしたね。
+line2 <shift> # 軽はずみなこと、言ってしまいました」
+com09 0 29
+display
+location 29
+com11 0 1
+sound 708
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「んー、でも、私をほんとにお姉さんにしたら、
+line2 <shift> # 大変ですね。いつも、ぼーっとしていますから」
+com03 0 3
+choice1 <shift> # それこそ、受賞理由かも
+line2
+com09 0 30
+com08
+choice2 <shift> # 時々、心配になります
+line2
+com09 0 31
+com08
+choice3 <shift> # ゾウガメ級ですもんね
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それこそ、受賞理由かも」
+display
+com11 0 1
+sound 709
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「せっかちな人より、私みたいな方が、
+line2 <shift> # いいのかしら。だとしたら、すこし救われます」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「時々、心配になります」
+display
+com11 0 1
+sound 710
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「すみません、迷惑をかけて。
+line2 <shift> # 意識してみても、こればかりは、なかなか……」
+display
+com11 0 1
+sound 711
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「反省すればいいというものでは、ありませんね。
+line2 <shift> # もっと、しっかりするよう、心がけないと」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ゾウガメ級ですもんね」
+display
+com11 0 1
+sound 712
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そこまで、遅いですか？　『カメみたいに、
+line2 <shift> # ノロマ』って、言われたことはありますけれど」
+display
+com11 0 1
+sound 713
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「せめて、ミドリガメくらいには……。
+line2 <shift> # ……た、大差ないかもしれませんね」
+com09 0 49
+display
+location 49
+com11 0 1
+sound 714
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「プロデューサーさんは……、どうです？
+line2 <shift> # 私、お姉さんにしたいって、思いますか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え、俺ですか！？」
+display
+com11 0 1
+sound 715
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はい。できれば、真剣に答えてもらえると」
+com03 0 3
+choice1 <shift> # 絶対に、したくないです
+line2
+com09 0 50
+com08
+choice2 <shift> # ぜひ、したいです
+line2
+com09 0 51
+com08
+choice3 <shift> # まあ、したいです
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 3
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「絶対に、したくないです」
+display
+com11 0 1
+sound 716
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「……私も、プロデューサーさんは、
+line2 <shift> # 絶対に、弟に、したくないです」
+display
+com11 0 1
+sound 717
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「プロデューサーさんは……。プロデューサー
+line2 <shift> # さんは……。プロデューサーさんですからっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （今のままの立場が、やっぱり最高だよな。
+line2 <shift> # 肉親になるのが、いいこととは限らない）
+com09 0 69
+display
+location 51
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ぜひ、したいです」
+display
+com11 0 1
+sound 718
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、そうですか。そう言ってもらえるのは、
+line2 <shift> # うれしいようなー。でも……」
+display
+com11 0 1
+sound 719
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「私達は、今のままの方がいいという気が、
+line2 <shift> # しませんか？　私は、そっちの方が……」
+display
+com11 0 1
+sound 720
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「どっちでも、いいですねっ。
+line2 <shift> # ほんとの姉弟になれるはずは、ないですし……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ん？　言葉に、微妙な含みがあるな。
+line2 <shift> # まあ、でも、イヤそうな表情は、していないか）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、したいです」
+display
+com11 0 1
+sound 721
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そんなに、乗り気ではなさそうですね。
+line2 <shift> # かといって、絶対にしたくないというわけでも」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「仮定の話ですからね。あずささんも、
+line2 <shift> # こんな弟がいたら、やっかいなのでは？」
+display
+com11 0 1
+sound 722
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「やっかいというか、弟には、なってほしくない、
+line2 <shift> # というか。これは……、やはり、やっかい？」
+display
+com11 0 1
+sound 723
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「できれば、もっとはっきり……。あああ、
+line2 <shift> # いいです。聞くと、疲れてしまいそう……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （思い悩んでいるように、見える。
+line2 <shift> # 中途半端な返事は、一番よくなかったか？）
+com09 0 69
+display
+location 69
+unk02

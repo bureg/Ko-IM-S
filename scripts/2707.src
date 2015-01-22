@@ -1,0 +1,320 @@
+com2c 0 51
+com2c 0 25
+com32 0 0
+com2d 0 11
+location 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さてと、どこにいるのかな……。
+line2 <shift> # ……あ、あそこかな？」
+display
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ〜あ〜、ドレミレド〜♪
+line2 <shift> # ちょっと音程、ずれたかな。もう１回！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （必死に練習してるな。まだまだ未完成だけど、
+line2 <shift> # 歌に対する真剣さが伝わってくる……）
+display
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「うーん、なんかこのクツ、歩きにくいなぁ。
+line2 <shift> # ああっ、私、スリッパで出てきちゃった！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……ぷっ！　くっくく、あははは！
+line2 <shift> # ドジだなあ」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「えっ、だ、誰っ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おっと。驚かせてゴメン。……歌の練習？」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい……。私、これでも、デビューを待つ
+line2 <shift> # アイドル候補生なんです」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「歌うことが大好きなんですけど、とくにうまい
+line2 <shift> # わけでもないので、こうして、練習を……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか、感心だな」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「と、ところで……、あなたは誰なんですか？
+line2 <shift> # ま、まさか……！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そう、その、まさかだよ。俺は……」
+com03 0 3
+choice1 <shift> # 君の、担当プロデューサーだ　
+line2
+com09 0 10
+com08
+choice2 <shift> # 君の、見合い相手だ　
+line2
+com09 0 11
+com08
+choice3 <shift> # 通りすがりの、異国人だ　
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「君の、担当プロデューサーだ」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「うわ、ああ、私、どうしよう〜。思いっきり、
+line2 <shift> # 恥ずかしいところ、見られて……！」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「君の、見合い相手だ」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「えっ！？　わ、私、見合う予定なんて、
+line2 <shift> # 全然ありませんよ？」
+com09 0 18
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「通りすがりの、異国人だ」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「なんで、こんなところを、通りすがるんです？
+line2 <shift> # それに、日本語ペラペラなようですけど？」
+com09 0 18
+display
+location 18
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……本気に、受け取るなって。
+line2 <shift> # 俺は、君の担当プロデューサーだ」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「担当プロデュー……。ああ！　私どどどど、ど
+line2 <shift> # うしよう〜。思いきり恥ずかしいとこ見られて」
+display
+location 19
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「気にすること、ないよ。これから、
+line2 <shift> # よろしくな」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「は、はい！　こちらこそ。私、ドジで
+line2 <shift> # おっちょこちょいですけど、がんばります！」
+com37 0 0
+com1e 0 0
+com09 0 25
+com3b
+com38 0 1
+com1e 0 0
+com09 0 26
+com3b
+display
+location 25
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、まずは、全国デビューするための、
+line2 <shift> # 君の芸名を決めよう。えーと……」
+display
+location 26
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、まずは、全国デビューするための、
+line2 <shift> # ユニット名を決めよう。えーと……」
+display
+location 30
+com4a 0 0
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「それで、決まり、ですね。
+line2 <shift> # う……。こう、身が、ひきしまる気がします！」
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よろしく頼むぞ！
+line2 <shift> # さあ、いよいよ活動開始だ！」
+display
+location 40
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今日のスケジュールは……、と）
+display
+location 50
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やっぱり最初はレッスンだ！
+line2 <shift> # 初レッスン行くぞ！」
+display
+com4a 0 0
+com11 0 0
+sound 10012
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はいっ！」
+display
+location 60
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （トップアイドルになるため、今後は流行を、
+line2 <shift> # 意識していこう！　まずは育成方針として……）
+display
+location 61
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （流行１位イメージであるボーカルの
+line2 <shift> # イメージをＵＰさせていこう！）
+display
+location 62
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （流行１位イメージであるダンスの
+line2 <shift> # イメージをＵＰさせていこう！）
+display
+location 63
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （流行１位イメージであるビジュアルの
+line2 <shift> # イメージをＵＰさせていこう！）
+display
+location 64
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （流行１位のイメージは、オーディションでの
+line2 <shift> # ウケが良く、合格しやすい！　絶対に有利だ！）
+display
+location 65
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しかし流行は変化しやすい。常に先の先を
+line2 <shift> # 考えながらイメージ作りをしていくぞ！！）
+display
+location 66
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （明日の流行１位ではない！
+line2 <shift> # 最終的には、人数の増加傾向を考慮して……）
+display
+location 67
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （無駄のないレッスンができるように
+line2 <shift> # なろう！！）
+display
+display
+location 100
+com32 0 1
+com11 0 0
+sound 10013
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「社長さん、何か用事があると……、あ、
+line2 <shift> # この人、さっき事務所で会った？　きゃあ！！」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あいたた……、ごめんなさい」
+display
+com11 0 0
+sound 10018
+name 0 2 <names:3>  # President
+line1 <shift> # 「おお、大丈夫か？　と、ともかく彼女が
+line2 <shift> # 天海春香君だ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「初め……、じゃないか。まあ、今日から俺が
+line2 <shift> # 君の担当プロデューサーだ。よろしくな」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「プロデューサー……？　？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだ」
+display
+com11 0 0
+sound 10016
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「うわ、わ、わ、私、どうしよう〜。
+line2 <shift> # 思いっきり恥ずかしいところ、見られて……！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「気にすることないよ。これから、よろしくな」
+display
+com4a 0 0
+com11 0 0
+sound 10017
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「は、はい！　こちらこそ。私、ドジで
+line2 <shift> # おっちょこちょいですけど、がんばります！」
+display
+location 200
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （大事なスケジュールには、オススメマークを、
+line2 <shift> # 事務員の音無さんが、つけてくれている）
+display
+location 201
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今は、レッスンと営業が重要らしい。ステップ
+line2 <shift> # アップのため必要なスケジュールってことだな）
+display
+location 202
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （いきなり、オススメを無視するのは、怖いな。
+line2 <shift> # ここは素直に、したがったほうがいい気がする）
+display
+location 210
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「初めての営業に出発だ！
+line2 <shift> # 気合いいれていこう！」
+display
+com4a 0 0
+com11 0 0
+sound 10012
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はいっ！」
+display
+location 300
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「続いて、衣装を決めよう」
+display
+location 301
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「続いてデビュー曲を決めよう」
+display
+location 302
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「喜んでくれて俺もうれしいよ！」
+display
+unk02

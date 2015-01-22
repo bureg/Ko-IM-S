@@ -1,0 +1,274 @@
+com2c 0 57
+com2d 0 83
+com32 0 0
+com11 0 5
+sound 627
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「自分のＣＤを直売するんですか？
+line2 <shift> # なんか、出店みたいですね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「人気がないうちは、頼れるのは自分だからな」
+display
+com11 0 5
+sound 628
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「売れないアイドルが、こんなにしんどいなんて。
+line2 <shift> # でもっ、なんとか、やるしかないですよね！」
+com03 0 2
+choice1 <shift> # そうだ、がんばろう！
+line2
+com09 0 10
+com08
+choice2 <shift> # そうだ、がんばれ！
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだ、がんばろう！」
+display
+com11 0 5
+sound 602
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はい！　はりきって、売ります！
+line2 <shift> # えー、ＣＤー、ＣＤー、ＣＤだよ〜」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだ、がんばれ！」
+display
+com11 0 5
+sound 603
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はい！　……って、プロデューサーは、
+line2 <shift> # 手伝ってくれないんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、俺も売るよ。もちろん……」
+display
+com11 0 5
+sound 604
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「よかった。じゃ、いっしょにがんばりましょう。
+line2 <shift> # えー、ＣＤー、ＣＤー、ＣＤだよ〜」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「な、なんだ、そのヘンな掛け声は？」
+display
+com11 0 5
+sound 605
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「え、あの〜……、焼きイモ屋さんとか、
+line2 <shift> # こんな感じじゃ、なかったでしたっけ？」
+com03 0 2
+choice1 <shift> # 別ので、やってごらん
+line2
+com09 0 30
+com08
+choice2 <shift> # ……まあ、いいけどな
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「別ので、やってごらん」
+display
+com11 0 5
+sound 606
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「わかりました。
+line2 <shift> # じゃあ、もうちょっと、オシャレっぽく！」
+display
+com11 0 5
+sound 629
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ＣＤ、いかがでしょうか？
+line2 <shift> # ボクの新曲、きいて下さーい！」
+display
+com11 0 5
+sound 608
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、ちょっと！　うーん、さっきよりは振り
+line2 <shift> # 向いてくれますけど、買ってはくれませんね」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……まあ、いいけどな」
+display
+com11 0 5
+sound 609
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そうですか？
+line2 <shift> # じゃあ、これで、もうちょっと続けてみます！」
+display
+com11 0 5
+sound 610
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ＣＤー、ＣＤー、ＣＤだよ〜。
+line2 <shift> # うーん、誰も振り向いてくれないな……」
+display
+com11 0 5
+sound 611
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ＣＤー！　ＣＤー！　ＣＤーったら、
+line2 <shift> # ＣＤだよ〜。え、うるさい？　すみません……」
+display
+com11 0 5
+sound 612
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサー、これじゃダメみたいです。
+line2 <shift> # 相手にすら、してもらえません……」
+com09 0 49
+display
+location 49
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、こうなったら、個別にくどき落とすか。
+line2 <shift> # 分担して、ひとりひとりに声を掛けよう」
+display
+com11 0 5
+sound 630
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「なるほど。その方が、いいかもしれませんね」
+display
+com11 0 5
+sound 614
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「えーと、ボクはどんな人に声を掛けたら、
+line2 <shift> # いいでしょう？　できたら、ターゲットを……」
+com03 0 3
+choice1 <shift> # 主婦を、ねらってくれ
+line2
+com09 0 50
+com08
+choice2 <shift> # 女子学生を、ねらってくれ
+line2
+com09 0 51
+com08
+choice3 <shift> # 男子学生を、ねらってくれ
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「主婦を、ねらってくれ」
+display
+com11 0 5
+sound 615
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「主婦……。ＯＫですっ。じゃあ、
+line2 <shift> # なるべく年上の女の人に、声を掛けてみますね」
+display
+com22 0 30
+com21 0 30
+com11 0 5
+sound 631
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「すみません！
+line2 <shift> # あのー、ボクのＣＤ、もし良かったら……」
+display
+com11 0 5
+sound 617
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「え、３枚も？　近所の人にも配ってくれるん
+line2 <shift> # ですか？　あ、ありがとうございますーっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （お、真のルックスが、主婦のハートにヒット！
+line2 <shift> # その後、ＣＤは見事、完売した！）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「女子学生を、ねらってくれ」
+display
+com11 0 5
+sound 618
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「女子学生……。ＯＫですっ。じゃあ、ボクと
+line2 <shift> # 同年代の子を見つけて、声を掛けてみますね」
+display
+com22 0 30
+com21 0 30
+com11 0 5
+sound 632
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あのー、ちょっとごめん。
+line2 <shift> # ボクのＣＤとか、興味ない？」
+display
+com11 0 5
+sound 620
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「え？　彼氏がいる？　なにを言って……。
+line2 <shift> # あ、あ、どうして早足で……」
+display
+com11 0 5
+sound 621
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ボクは、ナンパ目的なんかじゃないよー。
+line2 <shift> # ボクはー、女の子ー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （しまった。男とカン違いされて、敬遠されてる。
+line2 <shift> # その後の売り上げは、そこそこ止まりだった）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「男子学生を、ねらってくれ」
+display
+com11 0 5
+sound 622
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「男子学生……。ＯＫですっ。じゃあ、なるべく
+line2 <shift> # やさしそうな人を見つけて、その人に声を」
+display
+com22 0 30
+com21 0 30
+com11 0 5
+sound 623
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「う……。あの人、カッコいいな。
+line2 <shift> # どこの学校だろ？　あの……、すみません」
+display
+com11 0 5
+sound 624
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「今度、どっか遊びに……。あああ、じゃなくて、
+line2 <shift> # ボク、ＣＤ売ってるんだけど興味ないですか？」
+display
+com11 0 5
+sound 625
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「え？　そっちの趣味はない？　そ、そう……。
+line2 <shift> # 俺は……、ノーマル？　え、え、何言って……」
+display
+com11 0 5
+sound 633
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うああっ、ひ、ひどいよーっ、
+line2 <shift> # ボクは女の子ー！　男の子じゃないよー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （最悪だ。ＣＤを売るどころか、傷つけられてる。
+line2 <shift> # 真が落ち込んだため、売上は、さんざんだった）
+com09 0 69
+display
+location 69
+unk02

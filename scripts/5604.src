@@ -1,0 +1,251 @@
+com2c 0 31
+com2d 0 13
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ＣＤショップの店頭ワゴンで、
+line2 <shift> # 宣伝販売をすることになった）
+display
+com11 0 5
+sound 600
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「今度発売になりました新譜です！
+line2 <shift> # よろしくお願いしまーす！」
+com03 0 2
+choice1 <shift> # 疲れてない？
+line2
+com09 0 11
+com08
+choice2 <shift> # よし、頑張れ！
+line2
+com09 0 10
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、頑張れ！
+line2 <shift> # 売り上げは、春香の手にかかっているぞ！」
+display
+com11 0 5
+sound 601
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい！　頑張ります！」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おーい春香、疲れてないか？」
+display
+com11 0 5
+sound 602
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「まだまだ！　このくらいなら！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おお、なかなか頼もしいな、春香」
+display
+com11 0 5
+sound 603
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「えへへへ……、まかせて下さいっ」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「しかし、長時間の立ち仕事はきついね。
+line2 <shift> # 叫びっぱなしだし」
+display
+com11 0 5
+sound 604
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そうですね。今はまだ平気だけど、
+line2 <shift> # 長引くと大変になっちゃうかもです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「適当なところで切り上げたほうが、
+line2 <shift> # いいかもしれないな」
+com03 0 3
+choice1 <shift> # もっと頑張れ
+line2
+com09 0 30
+com08
+choice2 <shift> # 他の人に頼もうか？
+line2
+com09 0 31
+com08
+choice3 <shift> # 休けいにしようかな
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、ここが踏ん張りどころだ！
+line2 <shift> # もうちょっと頑張ろう！」
+display
+com11 0 5
+sound 605
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はいっ、わかりました！」
+display
+com11 0 5
+sound 606
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「みなさーん、新譜発売です！
+line2 <shift> # よろしくお願いしまーす！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「新曲発売ですー！
+line2 <shift> # よろしければ、２枚３枚、買ってって！」
+display
+com11 0 5
+sound 607
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「３枚買うと、今ならなんと、
+line2 <shift> # おまけがつきまーす！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「つかないって！　あ、いや……、
+line2 <shift> # おまけはつきませんが、買って下さーい！」
+display
+com22 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そして……）
+display
+com21 0 30
+com11 0 5
+sound 608
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「み、みなさーん、お願いしま……
+line2 <shift> # ううっ、けほけほ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「無理するな春香……。そろそろ、つらそうだな。
+line2 <shift> # よし、頃合もいいし、撤収しよう」
+display
+com11 0 5
+sound 609
+com4b 0 0
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はいっ！　ああ、それにしてもワゴンの中が、
+line2 <shift> # きれいにさばけて、よかった……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ちょっと無茶をやってしまったが、叫んだかい
+line2 <shift> # あって、販促効果は上々だったようだ）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「これ以上の営業は、他の人に頼もうか？」
+display
+com11 0 5
+sound 610
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「うーん……。でも、今から誰かに、
+line2 <shift> # 頼んじゃうのは、気がひけます」
+display
+com11 0 5
+sound 611
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「それに、私、営業楽しいし！
+line2 <shift> # もうちょっと頑張りましょうよ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、春香……、つらくないか？」
+display
+com11 0 5
+sound 612
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「つらくなんか、ないですよ！」
+display
+com11 0 5
+sound 613
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「目の前でお客さんが、ＣＤ、手に取ってくれて、
+line2 <shift> # ワゴンが空になっていくのが、嬉しいから！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだな……。もう少しだけ粘ってみるか。
+line2 <shift> # でも、無理は、するなよ」
+display
+com11 0 5
+sound 614
+com4b 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい！　無理せず、どんどんいきましょう！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （それから、マイペースで営業を続けた。
+line2 <shift> # 販促効果も、まずまず、あったみたいだ）
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あまり無理をしても、よくない。
+line2 <shift> # 交代で、休けいしよう」
+display
+com11 0 5
+sound 615
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、はい。じゃあ、プロデューサーさん、
+line2 <shift> # 先に休けいして下さい」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、俺は、いつでも休めるから、
+line2 <shift> # 春香が先に」
+display
+com11 0 5
+sound 616
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「私達より先に、プロデューサーさんが準備で来
+line2 <shift> # てたじゃないですかっ。だから休けいも先でっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ま、まぁ、そうなんだが……。
+line2 <shift> # わかったわかった。じゃあ、俺から先に休むよ」
+display
+com22 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そして……）
+display
+com21 0 30
+com11 0 5
+sound 617
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、あのう、プロデューサーさん。その……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうした春香？　そろそろ交代かな？」
+display
+com11 0 5
+sound 618
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「て、店員さんが、そろそろ時間だから、
+line2 <shift> # 片付けて下さい……、って」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もうそんな時間か？　しまった！
+line2 <shift> # 俺が休んでる間に……」
+display
+com11 0 5
+sound 619
+com4b 0 2
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ううっ、すみません」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「い、いや、謝るな。春香のせいじゃないんだ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しかし、俺が中途半端に休けいしたせいか、販
+line2 <shift> # 売結果はさんざんだった。うかつだったな……）
+com09 0 49
+display
+location 49
+unk02

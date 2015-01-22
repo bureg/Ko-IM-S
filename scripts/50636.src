@@ -1,0 +1,294 @@
+com2c 0 91
+com2d 0 91
+com32 0 0
+com11 0 1
+sound 700
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「亜美が、なんか、賞をもらえるのっ？
+line2 <shift> # 『ベスト・小学生アワード』？？？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、そうだ。今年、もっとも活躍した
+line2 <shift> # 小学生に、贈られるらしい」
+display
+com11 0 1
+sound 701
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「すっごいのに、選ばれちゃったねっ！
+line2 <shift> # んで、なにくれるの？　服？　お菓子？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そういう賞品は、なにも出ないよ。
+line2 <shift> # もらえる中で、一番大きいのは……」
+com03 0 3
+choice1 <shift> # 記念の盾かな
+line2
+com09 0 10
+com08
+choice2 <shift> # 表彰状かな
+com09 0 11
+com08
+choice3 <shift> # 偉大な栄誉かな
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「記念の盾かな」
+display
+com11 0 1
+sound 702
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うわ〜、それ、カッコよさそ〜！　もらったら、
+line2 <shift> # その盾で、真美と遊ぼーっと！」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「表彰状かな」
+display
+com11 0 1
+sound 703
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「けっこう、フツーの物しか、くれないんだね。
+line2 <shift> # 学校の賞とかと、同じか〜」
+display
+com11 0 1
+sound 704
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「でも、きっと、紙とかキンキラキンで、
+line2 <shift> # カッコいいんだよね！　早く見てみたいな〜」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「偉大な栄誉かな」
+display
+com11 0 1
+sound 705
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「そんなの、いらないよ〜。目に見えないし、
+line2 <shift> # 食べられないし〜……」
+display
+com11 0 1
+sound 706
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「おいしいもの、もらったら、真美とわけよう
+line2 <shift> # と思ったのに……。ちょっと、ショック〜」
+com09 0 29
+display
+location 29
+com11 0 1
+sound 707
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「あ、そうだ……。今頃、真美、何してるんだろ。
+line2 <shift> # 事務所でお留守番なんて、かわいそうだね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「しかたないよ。さすがに、こういう場所には、
+line2 <shift> # ふたり、連れてくるわけには、いかないしな」
+display
+com11 0 1
+sound 708
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「真美も、同じだけ活躍してるのに、亜美だけが
+line2 <shift> # 表彰されるなんて、ずるくな〜い？」
+com03 0 3
+choice1 <shift> # 亜美は、ふたりの代表だよ
+line2
+com09 0 30
+com08
+choice2 <shift> # すこし、ずるいかな
+line2
+com09 0 31
+com08
+choice3 <shift> # 亜美の方が、がんばってるだろ？
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「亜美は、ふたりの代表だよ。表彰されるのは、
+line2 <shift> # 亜美でも、受賞するのは、ふたり同時だ」
+display
+com11 0 1
+sound 709
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「そっか〜。亜美は、くれるもの、もらって
+line2 <shift> # 帰る係って思えば、別にずるくないよねっ」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「すこし、ずるいかな」
+display
+com11 0 1
+sound 710
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「だよね〜。帰ったら、真美にあやまろ……。
+line2 <shift> # んで、夕飯のおかずは、真美に多めにあげる〜」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「亜美の方が、がんばってるだろ？」
+display
+com11 0 1
+sound 711
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「真美だって、がんばってるも〜ん。兄ちゃん
+line2 <shift> # だって、そのこと、知ってるでしょ〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そうか、そうだな……。悪かったよ。
+line2 <shift> # ふたりを差別するような、言い方して……」
+com09 0 49
+display
+location 49
+com11 0 1
+sound 712
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ねえ、兄ちゃん。これからもらう表彰状、
+line2 <shift> # できれば真美の分も、もらえないかなあ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、それはムリだよ。向こうだって、用意して
+line2 <shift> # ないだろうし」
+display
+com11 0 1
+sound 713
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ん〜、でも〜、やっぱり２枚ほしい〜。
+line2 <shift> # どうにかする方法、なーい？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、それじゃ、公平になるよう……」
+com03 0 3
+choice1 <shift> # 俺が、あずかろうか？
+line2
+com09 0 50
+com08
+choice2 <shift> # ２枚に、やぶくか？
+line2
+com09 0 51
+com08
+choice3 <shift> # コピーして帰ろうか？
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺が、あずかろうか？」
+display
+com11 0 1
+sound 714
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「あ、それがいいよっ！　どっちがもらうかで、
+line2 <shift> # ケンカしたくないしっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「で、でも、本当にいいのか？　せっかくの
+line2 <shift> # 表彰状なのに……」
+display
+com11 0 1
+sound 715
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「全然、ＯＫ〜♪　だって、この賞は、亜美と
+line2 <shift> # 真美と、兄ちゃんとで、取った賞だしっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （そういうことなら、事務所に飾ることにするか。
+line2 <shift> # 本人が納得してるなら、これが一番だよな）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「２枚に、やぶくか？」
+display
+com11 0 1
+sound 716
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うわ……、兄ちゃん、すっごいこと、考えるね。
+line2 <shift> # でも〜、それ、けっこういいかも……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え？　ほんとにやる気か？　せっかく
+line2 <shift> # もらえるのに、もったいない気が……」
+display
+com11 0 1
+sound 717
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「取り合いになるよりは、いいと思ったんだけど。
+line2 <shift> # ダメかなあ。んじゃ、どうしよ〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （結局、うまい解決方法は、見つからなかった。
+line2 <shift> # ま、事務所に帰ってから、相談すれば、いいか）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「コピーして帰ろうか？」
+display
+com11 0 1
+sound 718
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ええええ、ニセモノをつくるのっ？　んで、
+line2 <shift> # 本物は、どっちがもらうの？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それは、その……ふたりで話し合って、
+line2 <shift> # 決めるしかないよ」
+display
+com11 0 1
+sound 719
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「それじゃ、ひとつしかないのと、同じだよ〜。
+line2 <shift> # ふたりとも、本物がほしいに、決まってるし〜」
+display
+com11 0 1
+sound 720
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「亜美も真美も、ニセモノ大賞には、なりたく
+line2 <shift> # ないもん……。コピーなんて、やだやだ〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （数を増やせば、解決するってもんじゃないか。
+line2 <shift> # まるで役に立たない意見、言ってしまったな）
+com09 0 69
+display
+location 69
+unk02

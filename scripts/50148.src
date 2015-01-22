@@ -1,0 +1,558 @@
+com2c 0 17
+com2c 0 113
+com2d 0 91
+com2e 0 101
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （特撮ヒーロー物ドラマ、『仮面ダー』に、
+line2 <shift> # 亜美がゲストとして出演することになった）
+display
+com11 0 0
+sound 10000
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「亜美達、女優さんじゃないのに、あんなに
+line2 <shift> # 有名なドラマに出られちゃうんだね〜！」
+display
+com11 0 0
+sound 10001
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「めっちゃラッキーっぽいよね！
+line2 <shift> # レッスンとかがんばってきて、良かったよー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。亜美達の努力とキャラクターが、
+line2 <shift> # 評価されたってことだよな！」
+display
+com11 0 0
+sound 10002
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「うんっ。ガッコの友達も、亜美達が出るの、
+line2 <shift> # 超楽しみにしてるって言ってた！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか！　なにしろ『仮面ダー』は……」
+com03 0 3
+choice1 <shift> # 面白いもんな
+line2
+com09 0 10
+com08
+choice2 <shift> # 人気番組だもんな
+line2
+com09 0 11
+com08
+choice3 <shift> # 俺は知らないけどな
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「面白いもんな！」
+display
+com11 0 0
+sound 10003
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「へぇ〜、兄ちゃん、
+line2 <shift> # ちゃんとチェックしてるんだ。さっすが〜！」
+display
+com11 0 0
+sound 10004
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「デキる兄ちゃんは、流行にもアンテナ
+line2 <shift> # するどいよね。バリ３って感じ！」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「人気番組だもんな」
+display
+com11 0 0
+sound 10005
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「そうだね！　でも、どっちかっていうと、
+line2 <shift> # 亜美はヤキニクマン派かな〜」
+display
+com11 0 0
+sound 10006
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「真美は、キムチちゃん派！　ピリリと
+line2 <shift> # スパイシーな、レアキャラなんだよ！」
+display
+com11 0 0
+sound 10007
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「だねだねー！　やっぱり、キムチちゃんは、
+line2 <shift> # ヤキニクマンには欠かせない存在だよ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （キムチちゃん……？　ヤキニクマンに
+line2 <shift> # 出てくるキャラクターなのか？　ナゾだ……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あー、二人とも……」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺は知らないけどな……。
+line2 <shift> # 亜美達は、この番組知ってるのか？」
+display
+com11 0 0
+sound 10008
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「え〜っ！？　当たり前っしょ！　兄ちゃん、
+line2 <shift> # ホントに知らないの？　ありえなさすぎ〜っ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええっ？　そ、そんなに流行ってるのか？」
+display
+com11 0 0
+sound 10009
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「流行ってるなんてもんじゃないよー！
+line2 <shift> # 小学生でも知ってるっぽいよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「い、いや。小学生だから、知ってるんだろ？」
+display
+com11 0 0
+sound 10010
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「でも、うちのパパとママも知ってるよ？　ガッ
+line2 <shift> # コの先生も知ってるし、お隣のネコだって……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ネコまで知ってるのか！？
+line2 <shift> # うう、すまん……。もっと勉強しとくよ」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ところで、台本は、
+line2 <shift> # ちゃんと家で読んできたのか？」
+display
+com11 0 0
+sound 10011
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「えっ？　真美は読んでないよ。亜美がマクラの
+line2 <shift> # 下にしいてたから、読めなかったし……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「マクラの下に？　どういうことだ、亜美？」
+display
+com11 0 0
+sound 10012
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「うう、ちょっと読んだら、めっちゃ難しかった
+line2 <shift> # から、スイミンガクシュウしよーと思って……」
+display
+com11 0 0
+sound 10013
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「で、でも、今日は亜美が仕事の番だから、
+line2 <shift> # 練習はしてきたよ！　……一応」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おっ、それは頼もしいな。
+line2 <shift> # じゃ、ちょっと、きかせてくれないか？」
+display
+com11 0 0
+sound 10014
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「え〜っ、ききたいの？
+line2 <shift> # うう、しょーがないなあ。えーっと……」
+display
+com11 0 0
+sound 10015
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「『キャー！　あのアヤしい人影は、
+line2 <shift> # いったい誰なのかしらー。ああ、怖いー』」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ちょ、ちょっと待った！
+line2 <shift> # ほんとに練習したのか？　すごい棒読みだぞ！」
+display
+com11 0 0
+sound 10016
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「うあうあ〜！　スイミンガクシュウ、
+line2 <shift> # めっちゃ失敗してるっぽいよ、亜美！」
+display
+com11 0 0
+sound 10017
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「だって、しょうがないっしょ！　こんなしゃべ
+line2 <shift> # り方、どう読めばいいか、わかんないんだもん」
+com03 0 3
+choice1 <shift> # 友達の口調を参考に
+line2
+com09 0 30
+com08
+choice2 <shift> # そのままでいいや
+line2
+com09 0 31
+com08
+choice3 <shift> # いつもの口調に変えよう
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「誰か、亜美の友達に、
+line2 <shift> # そういう話し方の子は、いないか？」
+display
+com11 0 0
+sound 10018
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「え？　うーん……、そーいえば、となりの
+line2 <shift> # クラスのさよちゃんが、似てるしゃべり方かも」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、じゃあ、その子のマネをするつもりで、
+line2 <shift> # やってみるんだ。それなら、わかるだろ？」
+display
+com11 0 0
+sound 10019
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「うんっ！　モノマネなら、亜美、得意だもん。
+line2 <shift> # それならできそうな気がするよ！」
+display
+com11 0 0
+sound 10020
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「えーっと……、『キャー！　あのアヤしい人影
+line2 <shift> # は、いったい誰なのかしらー。ああ、怖いー』」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おっ、さっきに比べれば、
+line2 <shift> # だいぶ良くなったぞ！」
+display
+com11 0 0
+sound 10021
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ホント！？　よーっし、
+line2 <shift> # じゃあ、どんどん練習しちゃお〜っと！」
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……じゃあ、いいや。
+line2 <shift> # とりあえずそのままで」
+display
+com11 0 0
+sound 10022
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「えっ？　これでＯＫなの？
+line2 <shift> # やっぱりスイミンガクシュウ成功って感じ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、睡眠学習は、
+line2 <shift> # 成功してないと思うけど……」
+display
+com11 0 0
+sound 10023
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「じゃあ、亜美の実力ってこと？　亜美って、
+line2 <shift> # もしかして、天才女優かな！　んっふっふ〜♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……まあ、監督が演技指導してくれるだろう。
+line2 <shift> # きっと何とかしてくれる……、といいな）
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なら、仕方ないな。セリフの方を、
+line2 <shift> # いつもの亜美の口調に、変えてもらおう」
+display
+com11 0 0
+sound 10024
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「えっ？　そんなことしちゃっていいの？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。出来ないんだから、仕方ないだろ？」
+display
+com11 0 0
+sound 10025
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「出来ないんじゃないよ？　ほんのちょこっと
+line2 <shift> # だけ、練習が足りないだけだもん」
+display
+com11 0 0
+sound 10026
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「あとで、もうちょっと練習しよっかな。
+line2 <shift> # でも、時間ないよね。ううう〜……」
+com09 0 49
+display
+location 49
+com11 0 0
+sound 10027
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「……あ。ねえねえ、亜美！　台本のことで、兄
+line2 <shift> # ちゃんにききたいことあるって言ってたっしょ」
+display
+com11 0 0
+sound 10028
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「あ、そうそう！　そうだった！
+line2 <shift> # ありがとー、真美！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ん、なんだ？　何をききたいんだ？」
+display
+com11 0 0
+sound 10029
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「あのね、兄ちゃん、この台本、なんか変
+line2 <shift> # なんだよ。最後の方のページが、まっ白なの」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんだ、そりゃ？　印刷ミスかな。
+line2 <shift> # どれどれ、ちょっと台本を見せてくれ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えーと、『このシーンはアドリブでお願い
+line2 <shift> # します』か。……ええっ！　大胆な台本だな」
+display
+com11 0 0
+sound 10030
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ねーねー、兄ちゃーん。
+line2 <shift> # その『ドリブル』って、なに〜？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「『ドリブル』じゃなくて、『アドリブ』だよ。
+line2 <shift> # アドリブっていうのはな……」
+com03 0 3
+choice1 <shift> # 自由にやれってことだ
+line2
+com09 0 50
+com08
+choice2 <shift> # 無言でやれってことだ
+line2
+com09 0 51
+com08
+choice3 <shift> # 普通にやれってことだ
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「自由にやれってことだ。亜美の好きなように、
+line2 <shift> # 演技していいって言ってるんだよ」
+display
+com11 0 0
+sound 10031
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「え〜っ！？　亜美の好きほーだいに、
+line2 <shift> # やっちゃっていいのっ！？」
+display
+com11 0 0
+sound 10032
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「うあうあー！　めっちゃ楽しそう！　亜美、
+line2 <shift> # どういう風にするか、いっしょに考えようよ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、おい、好きなようにとはいっても、
+line2 <shift> # きちんと話の流れを踏まえてだな……」
+display
+com11 0 0
+sound 10033
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「亜美、めっちゃスゴイの、思いついちゃった！
+line2 <shift> # んっふっふ〜♪　きいてきいて、真美！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……ちゃんとわかってるのかな。
+line2 <shift> # 心配だなあ」
+display
+com22 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そして、ドラマの撮影が始まった……）
+display
+com21 0 30
+com32 0 1
+com11 0 0
+sound 10034
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「んっふっふ〜♪　さすらいの亜美仮面、
+line2 <shift> # さんじょ〜っ！　それっ、めちゃイケビーム！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うわっ！　亜美のやつ、逃げ回る子ども役の
+line2 <shift> # はずなのに、正義の味方に変身してるぞ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おまけにビームまで出してるし……。
+line2 <shift> # こ、これは、あとで監督に怒られるぞ〜！」
+display
+com11 0 0
+sound 10035
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「兄ちゃ〜ん！　監督に今のドリブル、
+line2 <shift> # めっちゃほめられちゃったよ〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええっ！？」
+display
+com11 0 0
+sound 10036
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「監督が考えもしなかった展開で、
+line2 <shift> # 超イケてるって！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうか……。よかったな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ドラマは放映され、亜美のシーンは大評判！
+line2 <shift> # 何が幸いするか、わからないものだな……）
+com09 0 69
+display
+location 51
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「無言でやれってことだ。
+line2 <shift> # セリフが無いから、何も書いてないんだよ」
+display
+com11 0 0
+sound 10037
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「え〜っ？　何も言っちゃいけないの？
+line2 <shift> # つまんないね、それ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そこが腕の見せ所ってやつだ。がんばれ！」
+display
+com22 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そして、ドラマの撮影が始まった……）
+display
+com21 0 30
+com32 0 1
+com11 0 0
+sound 10038
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「……」
+display
+com11 0 0
+sound 10039
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「…………」
+display
+com11 0 0
+sound 10040
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「………………」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しゃべれない分、めいっぱいオーバー
+line2 <shift> # アクションで演技をした亜美）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ただ暴れてるだけに見えなくもないけど……、
+line2 <shift> # 視聴者にインパクトは与えられたかな？）
+com09 0 69
+display
+location 52
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「普通にやれってことだ。何も書いてなくても、
+line2 <shift> # どうすればいいかは見当つくだろ？」
+display
+com11 0 0
+sound 10041
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「えーっ？　普通なんて、つまんないよ〜。
+line2 <shift> # 亜美、いっぱい面白いこと考えてたのに！」
+display
+com11 0 0
+sound 10042
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「真美もー！　亜美が新ヒーロー亜美仮面に
+line2 <shift> # なって悪と戦うとか、面白いと思うよ！」
+display
+com11 0 0
+sound 10043
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「うんうん！　真美仮面も出てくるとか、
+line2 <shift> # もっと面白いよねーっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……ダメだって、そんなの。
+line2 <shift> # いいか、亜美。普通にやるんだぞ？」
+display
+com11 0 0
+sound 10044
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「うう〜、ドリブルって、つまんないね。
+line2 <shift> # がっかりだよ〜……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そして、ドラマ撮影本番。亜美は、しょんぼり
+line2 <shift> # しつつも、普通な演技をちゃんとこなせていた）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （でも普通な分、あまり目立たなかったな。
+line2 <shift> # もう少し冒険させても、よかったか……）
+com09 0 69
+display
+location 69
+unk02

@@ -1,0 +1,251 @@
+com2c 0 26
+com2d 0 51
+com32 0 0
+com11 0 5
+sound 1100
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「プロデューサーさん、このデパートの屋上を
+line2 <shift> # 借りる話、まとまらなかったのですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「イヤな人に、門前払いされて。『どん底アイド
+line2 <shift> # ルなんて、品位が落ちる。しっし！』ですって」
+display
+com11 0 5
+sound 1101
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ふぅー、なぜ全然、売れないのかしら。こう
+line2 <shift> # いうの、なんとか鳥が鳴くっていうのですよね」
+com03 0 3
+choice1 <shift> # カンコ鳥？
+com09 0 10
+com08
+choice2 <shift> # シラケ鳥？
+com09 0 11
+com08
+choice3 <shift> # アホウ鳥？
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「カンコ鳥？」
+display
+com11 0 5
+sound 1102
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、そうです。実際は見たことないのですけど、
+line2 <shift> # カンコカンコって鳴くのでしょうか。はあ〜」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「シラケ鳥？」
+display
+com11 0 5
+sound 1103
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そうだったでしょうか？　でも、言われて
+line2 <shift> # みれば、そんな気もすこし……」
+display
+com11 0 5
+sound 1104
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「この際、そのシラケ鳥でもいいので、ファンに
+line2 <shift> # なってほしいです。はあ〜」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「アホウ鳥？」
+display
+com11 0 5
+sound 1105
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そうだったでしょうか？　ちがう気もします
+line2 <shift> # けれど、私には、それがお似合いですね」
+display
+com11 0 5
+sound 1106
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「アホウって呼ばれても、しかたがないです。
+line2 <shift> # 鳥の方が、頭もよくて、きっと人気も……」
+com09 0 29
+display
+location 29
+com11 0 5
+sound 1107
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「んー、短大卒業したら、親に言われた通り、
+line2 <shift> # 故郷に帰った方が、よかったのかしら」
+display
+com11 0 5
+sound 1108
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「それから、こういうデパートやコンビニで、
+line2 <shift> # 店員をめざすのも、ひとつの道ですよね」
+display
+com11 0 5
+sound 1109
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「売り場のアイドルというのも、よくないです
+line2 <shift> # か？　今から方向転換しても、まだ遅くは……」
+com03 0 2
+choice1 <shift> # そしたら、常連になりますよ
+line2
+com09 0 30
+com08
+choice2 <shift> # そんなの、もったいないです
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そしたら、常連になりますよ」
+display
+com11 0 5
+sound 1110
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ありがとうございます。引退したらさようなら
+line2 <shift> # では、さびしいですものね」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなの、もったいないです。せっかく、
+line2 <shift> # いいものを持ってるんですから」
+display
+com11 0 5
+sound 1111
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ぷ、プロデューサーさんの、カン違いではない
+line2 <shift> # でしょうか？　私、そんなたいしたものでは……」
+display
+com11 0 5
+sound 1112
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「お客さんは正直ですよね。つまらないものには、
+line2 <shift> # 見向きもしませんし」
+com09 0 49
+display
+location 49
+com11 0 5
+sound 1113
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「もうしばらく続けるためには、バイトしないと。
+line2 <shift> # また、仕送りしてもらうわけにはいきませんし」
+display
+com11 0 5
+sound 1114
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「アイドルをやりながら、働くとしたら、
+line2 <shift> # どんなアルバイトが、いいでしょう？」
+com03 0 3
+choice1 <shift> # 事務所の仕事、します？
+line2
+com09 0 50
+com08
+choice2 <shift> # 結婚式の司会とかは？
+line2
+com09 0 51
+com08
+choice3 <shift> # レッスンに専念してください
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 2
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「事務所の仕事、します？　時給メチャクチャ
+line2 <shift> # 安いですけど」
+display
+com11 0 5
+sound 1115
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、それなら、時間の都合もつきますねっ。
+line2 <shift> # 使ってもらえると、うれしいです」
+display
+com11 0 5
+sound 1116
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「もし、このまま売れなかったら、ご恩は
+line2 <shift> # タダ働きして返します。ですから、ぜひっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （生活費を工面するためなら、これが一番いい。
+line2 <shift> # しばらくの間、手伝いもしてもらおう）
+com09 0 69
+display
+location 51
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「結婚式の司会とかは？　大人数の前でしゃべる
+line2 <shift> # のは、トレーニングにもなりますし」
+display
+com11 0 5
+sound 1117
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「し、司会をするのはいいですけれど……
+line2 <shift> # 結婚式場は、あまりー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうしてです？　なんかイヤな思い出でも
+line2 <shift> # あるんですか？」
+display
+com11 0 5
+sound 1118
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「こう……見てると、せつなくなるじゃないです
+line2 <shift> # か。アルバイトは、べ、別のを探してみますね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （なんで、せつなくなるんだろう？　まあ、
+line2 <shift> # どんなバイトをするかは、本人に任せるか）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「レッスンに専念してください。そうしないと、
+line2 <shift> # 出る芽も出なくなって……」
+display
+com11 0 5
+sound 1119
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「私だって、そうしたいですー。けれど、とりあ
+line2 <shift> # えず、アパート代は払わなければいけませんし」
+display
+com11 0 5
+sound 1120
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「大家さん、とても厳しいおばあさんなんです。
+line2 <shift> # 一度うっかりした時は、２時間、お説教されて」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、それはたまりませんね。がめついんだか、
+line2 <shift> # 昔気質なんだか……」
+display
+com11 0 5
+sound 1121
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「追い出されたら、困ってしまいます。アル
+line2 <shift> # バイトくらいは、許してもらえると……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （夢に向かって一直線、とはいかないか。現実を
+line2 <shift> # 無視して、かわいそうな事を言ってしまった）
+com09 0 69
+display
+location 69
+unk02

@@ -1,0 +1,259 @@
+com2c 0 43
+com2d 0 21
+com32 0 0
+com11 0 1
+sound 400
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「も〜、イヤー！　なんでＯＫ出ないのよー！
+line2 <shift> # さっきのテイク、けっこうよかったじゃないっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「伊織、音はずしてたみたいだけど……」
+display
+com11 0 1
+sound 401
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……なあに、プロデューサー？　よく
+line2 <shift> # 聞こえなかったんですけどー」
+com03 0 3
+choice1 <shift> # 伊織、音はずしてたよ
+line2
+com09 0 10
+com08
+choice2 <shift> # 伊織は、歌うまいな
+line2
+com09 0 11
+com08
+choice3 <shift> # 伊織、大ハズレだったよ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「伊織、音はずしてたよ」
+display
+com11 0 1
+sound 402
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……そう。まあ、今の私だって、たまには
+line2 <shift> # こんなこともあるわ」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「伊織は、歌うまいな」
+display
+com11 0 1
+sound 403
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「さっきは、そんなこと言わなかったでしょ。
+line2 <shift> # ごまかさないでよねっ！」
+display
+com11 0 1
+sound 404
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「気づいたことくらい、堂々と言いなさーい。
+line2 <shift> # 私だって、たまには音ぐらい、はずすわよ……」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「伊織、大ハズレだったよ」
+display
+com11 0 1
+sound 405
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なによー、その言い方！　私はクジかなんか
+line2 <shift> # なわけっ？」
+display
+com11 0 1
+sound 406
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ハズレの人間が、こんな位置までこられるわけ
+line2 <shift> # ないでしょ。私だって、ポカミスぐらいするわ」
+com09 0 29
+display
+location 29
+com11 0 1
+sound 407
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ドラマの主題歌か〜。自分のカラー抑えると、
+line2 <shift> # どうも調子がおかしくなるのよね……」
+com03 0 2
+choice1 <shift> # やれば、できるだろ？
+line2
+com09 0 30
+com08
+choice2 <shift> # えらくなったもんだな
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やれば、できるだろ？」
+display
+com11 0 1
+sound 408
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「当たり前でしょ。ただプライドが、
+line2 <shift> # 邪魔してるだけ」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「えらくなったもんだな。
+line2 <shift> # 人気絶頂だからって、慢心は……」
+display
+com11 0 1
+sound 409
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「私、えらくなんかなってなーいー！
+line2 <shift> # はじめっから、えらいんだからーっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……たしかに、態度は変わってないか」
+com09 0 49
+display
+location 49
+com11 0 1
+sound 410
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「はあーあ、疲れた〜。ねえ、さっき歌ったので、
+line2 <shift> # なんとかＯＫにならない？」
+com03 0 3
+choice1 <shift> # そうだな、妥協してもらうか
+line2
+com09 0 50
+com08
+choice2 <shift> # 俺に言われてもなあ
+line2
+com09 0 51
+com08
+choice3 <shift> # あきらめちゃ、ダメだ
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだな、妥協してもらうか」
+display
+com11 0 1
+sound 411
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「フフンっ。タイアップしてあげてるんだから、
+line2 <shift> # 当然よね」
+display
+com11 0 1
+sound 412
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……でも、妥協ってハッキリ言われると、
+line2 <shift> # ムカつくわ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、怒るなよ……」
+display
+com11 0 1
+sound 413
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「別に怒ってないわよ。ただこう、
+line2 <shift> # メラメラっときただけ！」
+display
+com11 0 1
+sound 414
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「よーし、見てなさい。こうなったら、徹底的に
+line2 <shift> # サービスして、注文通りにしてあげるわ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （急に、やる気を出しはじめた。
+line2 <shift> # ……一筋縄じゃいかない性格だな）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺に言われてもなあ」
+display
+com11 0 1
+sound 415
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あんた、私のプロデューサーでしょ？
+line2 <shift> # 言うこと、聞きなさいよね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そりゃ、ドラマ側の担当者に頼むことは
+line2 <shift> # できるけど……」
+display
+com11 0 1
+sound 416
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なんか、あんまりやりたくなさそうね。
+line2 <shift> # ……はあ〜、わかったわよ」
+display
+com11 0 1
+sound 417
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ここはあんたのためと思って、歌うことに
+line2 <shift> # する……」
+display
+com11 0 1
+sound 418
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……せめて、冷たい物とケーキぐらい用意して、
+line2 <shift> # 待ってなさいよね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （俺にできるのは、その程度か。まあ、伊織が
+line2 <shift> # 本気になれば、これぐらい軽いだろう）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あきらめちゃ、ダメだ」
+display
+com11 0 1
+sound 419
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そんなこと言ったって、もうあきらめちゃった
+line2 <shift> # んだから、しかたないでしょ〜」
+display
+com11 0 1
+sound 420
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「卵が割れた後に『割れちゃダメだ！』って
+line2 <shift> # 言ったって、元には戻りませーん」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ヘリクツ、言うなって……。録音スタッフ
+line2 <shift> # だって、きっと納得しないよ」
+display
+com11 0 1
+sound 421
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「じゃあ、スタッフ言いくるめて、ＯＫ
+line2 <shift> # もらったら、もうやらなくていいわけねっ！」
+display
+com11 0 1
+sound 422
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「私、絶対、説得してみせる！　んー、
+line2 <shift> # やる気出てきたわー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ランランと、目を輝かせている……。変な
+line2 <shift> # 方向に、エネルギーを向けさせてしまったな）
+com09 0 69
+display
+location 69
+unk02

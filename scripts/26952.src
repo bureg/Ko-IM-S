@@ -1,0 +1,238 @@
+com2c 0 18
+com2d 0 43
+com32 0 0
+com11 0 1
+sound 800
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「いよいよ、ＴＶリハ、開始ですね……。
+line2 <shift> # 『日米・アイドル・コンベンション』」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうだ？　日本代表に選ばれた
+line2 <shift> # 気分は？」
+display
+com11 0 1
+sound 801
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「さすがに、緊張します。下手なことは
+line2 <shift> # できませんね」
+display
+com11 0 1
+sound 802
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あ、きました！　世界のトップ・アイドル
+line2 <shift> # 『ジェニー・モルガン』。美人……」
+com03 0 3
+choice1 <shift> # 千早の方が、美人だよ
+line2
+com09 0 10
+com08
+choice2 <shift> # 千早の方が、美人だよ！！
+line2
+com09 0 11
+com08
+choice3 <shift> # た、たまらないな……
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「千早の方が、美人だよ」
+display
+com11 0 1
+sound 803
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あ、ありがとう、ございます……。
+line2 <shift> # ウソでも、悪い気はしません……」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「千早の方が、美人だよ！！」
+display
+com11 0 1
+sound 804
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そ、そんな力いっぱい、叫ばないでくださいっ。
+line2 <shift> # みんな、見て……」
+display
+com11 0 1
+sound 805
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「フォローしてくれるのは、感謝します。でも、
+line2 <shift> # 自分の顔は、自分が一番よく知っていますから」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「た、たまらないな……」
+display
+com11 0 1
+sound 806
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサー……そんなに気に入りました？
+line2 <shift> # ジェニーのこと」
+display
+com11 0 1
+sound 807
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……だったら、向こうのプロデューサーにでも、
+line2 <shift> # なってください」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あああ、ごめん、つい……。
+line2 <shift> # 気を悪くしたなら、謝るよ」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ところで彼女、歌の方は、どうなんだ？
+line2 <shift> # 聴いたことないんだけど、うまいのか？」
+display
+com11 0 1
+sound 808
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「アイドルの中では、相当なハイレベルだと
+line2 <shift> # 思います。おそらく、世界でも屈指……」
+display
+com11 0 1
+sound 809
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「油断すれば、今日の主役は、まちがいなく
+line2 <shift> # 持っていかれます。けど、本気でやれば……」
+com03 0 2
+choice1 <shift> # ……勝てる？
+line2
+com09 0 30
+com08
+choice2 <shift> # ……泣かせられる？
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……勝てる？」
+display
+com11 0 1
+sound 810
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はい。すくなくとも、見劣りすることは
+line2 <shift> # ありません」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……泣かせられる？」
+display
+com11 0 1
+sound 811
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「泣くかどうかまでは、わかりません。
+line2 <shift> # これだけの人前で、そんな顔は……」
+display
+com11 0 1
+sound 812
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「でも、心で泣かせることなら、できます。
+line2 <shift> # こっちが見劣りすることは、ありません」
+com09 0 49
+display
+location 49
+com11 0 1
+sound 813
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ただ、向こうもＰＲのための来日でしょうから、
+line2 <shift> # あまり、あからさまにやると、問題が……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだな。日本なんかで、大恥かかされるとは、
+line2 <shift> # きっと夢にも……」
+display
+com11 0 1
+sound 814
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「どうしましょう？　勝負ではありませんし、
+line2 <shift> # そこそこのところで、止めておきますか？」
+com03 0 2
+choice1 <shift> # いや、思い知らせてやれ！
+line2
+com09 0 50
+com08
+choice2 <shift> # そうだな、和を重んじよう
+line2
+com09 0 51
+com08
+com07
+com09 0 51
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、思い知らせてやれ！
+line2 <shift> # テングの鼻は、へし折ってやらないとな」
+display
+com11 0 1
+sound 815
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……わかりました。では、彼女には、
+line2 <shift> # 歌の深さを学んでから、帰ってもらいます」
+display
+com20 0 30
+com11 0 1
+sound 816
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ふぅー。どうでした、ジェニー？
+line2 <shift> # 楽しんでもらえましたか、私達の……」
+display
+com11 0 1
+sound 817
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「え？　親友になってくれ？　いいですけど。
+line2 <shift> # あ……握手？　もちろん……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （千早、なんか尊敬されてしまったみたいだ。
+line2 <shift> # 強者は、強者を知るってやつかな）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだな、和を重んじよう」
+display
+com11 0 1
+sound 818
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「熱くなるのも、大人げないですよね。ここは、
+line2 <shift> # いい思い出をつくって、帰ってもらう事に……」
+display
+com20 0 30
+com11 0 1
+sound 819
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサー、歌い終わりましたけど……。
+line2 <shift> # た、助けてください！　ジェニーが……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうしたんだ？　なにかされたのか！？」
+display
+com11 0 1
+sound 820
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「コーチしてやるって、きかないんです。練習す
+line2 <shift> # れば、もっと伸びるって。こんなことなら……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （くっ、逆に、調子に乗られてしまったか。
+line2 <shift> # 千早のすごさ、たたき込んでやるべきだった）
+com09 0 69
+display
+location 69
+unk02

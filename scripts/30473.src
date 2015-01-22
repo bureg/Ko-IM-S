@@ -1,0 +1,252 @@
+com2c 0 69
+com2d 0 121
+com2e 0 42
+com32 0 0
+location 100
+com11 0 0
+sound 10000
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……プロデューサー？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ち、千早っ！？　どうして、ここに？」
+display
+com11 0 0
+sound 10001
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ここは、私のジョギングコースなんです。
+line2 <shift> # プロデューサーこそ、なぜ、ここに？」
+display
+com11 0 0
+sound 10002
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そちらの方は……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、この子か。この子は……」
+com03 0 3
+choice1 <shift> # 偶然会ったんだ
+line2
+com09 0 10
+com08
+choice2 <shift> # ９６１プロの子だ
+line2
+com09 0 11
+com08
+choice3 <shift> # 知らない子だ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ウォーキングしてたら、偶然、会ったんだ。こ
+line2 <shift> # の辺でトレーニングしてる人、結構多いんだな」
+display
+com11 0 0
+sound 10003
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサーも、トレーニングでしたか。
+line2 <shift> # ……あ。すみません。自己紹介、まだでしたね」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「９６１プロの、アイドルの子だ」
+display
+com11 0 0
+sound 10004
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「９６１プロ！？　プロデューサー、こっそり
+line2 <shift> # ９６１プロの子と会っているなんてまさか……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「い、いや。７６５プロの情報をこっそり流した
+line2 <shift> # り、参加するオーディションを教えたり……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんな、７６５プロを裏切るようなスパイ行為
+line2 <shift> # は、何もしていないぞ！　俺は無実だ！」
+display
+com11 0 0
+sound 10005
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そうやって具体的に言うところが、
+line2 <shift> # かえってアヤシイですが……」
+display
+com11 0 0
+sound 10006
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサーに、そんな器用なマネは、
+line2 <shift> # できませんよね。信じます」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よ、良かった！　本当に、彼女とは、
+line2 <shift> # 今朝、偶然会っただけなんだよ」
+display
+com11 0 0
+sound 10007
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ですから、信じると言っているじゃないですか。
+line2 <shift> # ……あ。すみません。自己紹介、まだでしたね」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「知らない子だ」
+display
+com11 0 0
+sound 10008
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「でも、さっき、話を、
+line2 <shift> # していたじゃありませんか」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「み、見てたのか！？　えーと、そのー、
+line2 <shift> # つまり、彼女は……、彼女は、だなー……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うう。やましい間柄じゃないのに、なぜか、
+line2 <shift> # 言葉につまってしまうのは、なぜだろう！？）
+display
+com11 0 0
+sound 10009
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……もういいです。自分でききますから」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10010
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「如月千早です。はじめまして」
+display
+com11 0 0
+sound 10011
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「……私は、四条貴音です。
+line2 <shift> # ごきげんよう、如月千早」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （な、なぜ、フルネームで呼ぶんだ？）
+display
+com11 0 0
+sound 10012
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「あなたの、その瞳……。不安、恐れ……。
+line2 <shift> # 私は、警戒されているようですね」
+display
+com11 0 0
+sound 10013
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「何を警戒しているのかは、わかりませんが……。
+line2 <shift> # 私とこの方とは、本日が初対面です」
+display
+com11 0 0
+sound 10014
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「何も、不安に思うことはないのですよ？
+line2 <shift> # 如月千早」
+display
+com11 0 0
+sound 10015
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「け、警戒などしていません！
+line2 <shift> # それは、どういう意味ですか？」
+display
+com11 0 0
+sound 10016
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「意味……。それは、あなた自身が、
+line2 <shift> # 一番理解しているのではないですか……？」
+display
+com11 0 0
+sound 10017
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「また、どこかでお会いすることも、
+line2 <shift> # あるでしょう。では、ごきげんよう……」
+display
+com11 0 0
+sound 10018
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……不思議な子ですね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、俺も、そう思った。話し方も変だし、
+line2 <shift> # 話してる内容も変わってるし……」
+display
+com11 0 0
+sound 10019
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「いえ、私が感じたのは、
+line2 <shift> # そういうことではなくて……」
+display
+com11 0 0
+sound 10020
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「うまく言えませんが、なんとなく、こう、
+line2 <shift> # 異質な感じのする子だなと、思いました」
+display
+com11 0 0
+sound 10021
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……あ、いけない！　もう、こんな時間です。
+line2 <shift> # 戻らないと、事務所に遅刻してしまいます！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わっ、ホントだ！　千早、どうする？
+line2 <shift> # このまま一緒に、事務所へ向かうか？」
+display
+com11 0 0
+sound 10022
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「いえ。いったん帰宅して、着替えてきます」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「えっ。でも、千早の家、ここからだと、
+line2 <shift> # それなりに遠いんだろ？」
+display
+com11 0 0
+sound 10023
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「大丈夫です。ダッシュで戻りますから。
+line2 <shift> # では、後ほど、事務所で！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うわ、あっと言う間に見えなくなったぞ！
+line2 <shift> # さすが千早。ダテに鍛えてないな……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （おっと、感心してる場合じゃない。
+line2 <shift> # 俺も、事務所へ向かわなければ！）
+com09 0 99
+display
+location 99
+unk02

@@ -1,0 +1,295 @@
+com2c 0 89
+com2d 0 31
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんで、こんなヘンピな場所に、
+line2 <shift> # 連れてきたんだ？」
+display
+com11 0 3
+sound 1200
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「プロデューサーに、どうしても、
+line2 <shift> # 見てもらいたかったんです、ここっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ただの空き地にしか、見えないけど……」
+com03 0 3
+choice1 <shift> # 思い出の場所なのか？
+line2
+com09 0 10
+com08
+choice2 <shift> # 購入予定地なのか？
+line2
+com09 0 11
+com08
+choice3 <shift> # ここで寝泊まりしてるのか？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「思い出の場所なのか？」
+display
+com11 0 3
+sound 1201
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はいっ！　ここで……、私、はじめて、
+line2 <shift> # 『アイドルになりたいっ』って思ったんです！」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「購入予定地なのか？」
+display
+com11 0 3
+sound 1202
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「え、購入って、私が買うんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「将来、大成功した時に……、
+line2 <shift> # ここに、家でも建てたいのかなって」
+display
+com11 0 3
+sound 1203
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ちがいます〜。ここ、私がはじめて『アイドル
+line2 <shift> # になりたい』って、思った場所なんです！」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ここで寝泊まりしてるのか？」
+display
+com11 0 3
+sound 1204
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えええっ！　わ、私が？」
+display
+com11 0 3
+sound 1205
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ひどいですっ。せまいけど、
+line2 <shift> # 住んでるところは、ちゃんとあります〜」
+display
+com11 0 3
+sound 1206
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ここはー、私が、はじめてアイドルに
+line2 <shift> # なりたいって思った、記念の場所なんです！」
+com09 0 19
+display
+location 19
+com11 0 3
+sound 1207
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「私の家、この近所なんです。小学生の時に、
+line2 <shift> # ここで、町内会のお祭りがあってー……」
+display
+com11 0 3
+sound 1208
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「みんなの前で、ダンスしながら歌ったら、
+line2 <shift> # すっごく、盛り上がったんです！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか……」
+display
+com11 0 3
+sound 1209
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「それで私ー、もっと、大勢の人に、
+line2 <shift> # 楽しんでもらえたらなーって……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ここは……、やよいの原点なんだ？」
+display
+com11 0 3
+sound 1210
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はいっ。いつかチャンスがあったら、また、
+line2 <shift> # ここのお祭りで歌おーって、思ってたりして！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「その時は……」
+com03 0 3
+choice1 <shift> # 俺も呼んでほしいな
+line2
+com09 0 20
+com08
+choice2 <shift> # 新曲でも、歌うか
+line2
+com09 0 21
+com08
+choice3 <shift> # 入場料、取ろうな
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺も呼んでほしいな」
+display
+com11 0 3
+sound 1211
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あ、はいっ！　絶対に声かけまーす！」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「新曲でも、歌うか」
+display
+com11 0 3
+sound 1212
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あ！　それ、いいですねっ。
+line2 <shift> # ……プロデューサーも、来てくれますか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。もちろん」
+display
+com11 0 3
+sound 1213
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うあーっ。そしたら町内会のみんなに、
+line2 <shift> # 紹介しよーっと！」
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「入場料、取ろうな」
+display
+com11 0 3
+sound 1214
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「……町内会のみんなから、ですか？」
+display
+com11 0 3
+sound 1215
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「う〜ん、ひんしゅく買っちゃうかも……。
+line2 <shift> # 高槻さんちの子は、セコイって……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか。じゃあ、タダにしとくか。
+line2 <shift> # 俺も、集金係しないで済むし」
+display
+com11 0 3
+sound 1216
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あ。プロデューサーも来てくれますか？」
+com09 0 29
+display
+location 29
+com11 0 3
+sound 1217
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うっうー。それじゃあ、
+line2 <shift> # 約束の、ハイ、ターッチ！」
+com0e 0 200
+com44
+com09 0 30
+com45
+com44
+com09 0 31
+com45
+com44
+com09 0 32
+com45
+com44
+com09 0 33
+com45
+display
+location 30
+com11 0 3
+sound 1218
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「いぇい！　忘れないでくださいねっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （来てよかったな。やよいの夢は……、
+line2 <shift> # ここから、走り出したってわけか）
+com09 0 39
+display
+location 31
+com11 0 3
+sound 1219
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「う、なんかポーンって感じじゃないかも……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ご、ごめん」
+display
+com11 0 3
+sound 1220
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「まあ、いいです！
+line2 <shift> # これでも、約束には、なりましたよね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （中途半端な、タッチだったな。
+line2 <shift> # ……まあ、それでもうれしそうだし、いいか）
+com09 0 39
+display
+location 32
+com11 0 3
+sound 1221
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ぁ……。ううう〜、どうして……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、こういう誓いもありかな、って」
+display
+com11 0 3
+sound 1222
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「どういう誓いですか〜っ！？」
+display
+com11 0 3
+sound 1223
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「なんか、いろいろな意味で、ここの思い出、
+line2 <shift> # 増えちゃいました……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （これが本当の『胸に誓う』ってやつかな。
+line2 <shift> # そんなわけないか……）
+com09 0 39
+display
+location 33
+com11 0 3
+sound 1224
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「プロデューサー？　あの〜、手にタッチ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あああ、そうだったな」
+display
+com11 0 3
+sound 1225
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「約束するの……、いやですか？」
+display
+com11 0 3
+sound 1226
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「すこし、さみしいかも〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うーん、ちゃんと、応えてやればよかったか。
+line2 <shift> # 悲しそうな顔をしている……）
+com09 0 39
+display
+location 39
+unk02

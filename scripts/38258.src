@@ -1,0 +1,319 @@
+com2c 0 40
+com2d 0 71
+com32 0 0
+com11 0 1
+sound 500
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「デジカメのＣＭかぁ。てことは、カメラで何か
+line2 <shift> # 撮影するポーズとか、シーンがありますよね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだな。律子がデジカメを扱う様子を、
+line2 <shift> # ＣＭ素材として撮るだろうね」
+display
+com11 0 1
+sound 501
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「製品の売り上げも変わるかな？
+line2 <shift> # 私のカメラパフォーマンス次第で……」
+display
+com11 0 1
+sound 502
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「う〜ん、それは責任重大っ。でも、やりがい
+line2 <shift> # ありそうだなぁ。よし、しっかりやるか」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだ。撮影内容について、ＣＭ監督から、
+line2 <shift> # 打診が来てるよ。ふたつプランが提示されてる」
+display
+com11 0 1
+sound 503
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ふたつのプラン？　コンテ見せてください。
+line2 <shift> # んー、どれどれ……、なるほどぉ」
+display
+com11 0 1
+sound 504
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ＣＭの間、ずっと同じものをカメラで撮るのか、
+line2 <shift> # それとも、別のものを撮るのか、かぁ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どちらかに決めて欲しいそうだ。
+line2 <shift> # さて、どっちのプランを選ぼうか……」
+com03 0 2
+choice1 <shift> # 同じものを撮るプランで
+line2
+com09 0 10
+com08
+choice2 <shift> # 別のものを撮るプランで
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ずっと同じものをカメラで撮る、でも撮り方で、
+line2 <shift> # 色々な表情が見えてくる。……てのはどうかな」
+display
+com11 0 1
+sound 505
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「なるほど。それなら、対象物の多彩な表情を
+line2 <shift> # 撮影できるカメラ、ってアピールができそう」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「別のものを、次々と撮影するほうが映えるかな。
+line2 <shift> # 同じものを撮っても、つまらないし」
+display
+com11 0 1
+sound 506
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「……てことは、どんなものでも撮れる扱いやす
+line2 <shift> # いカメラ、って感じのアピールになるのかな？」
+display
+com11 0 1
+sound 507
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「でもどうかな。最近のカメラは、どれでも扱い
+line2 <shift> # やすいし、それだとアピールとして弱いかも」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そこは、撮り方の工夫次第で、
+line2 <shift> # なんとかなるんじゃないかな……」
+display
+com11 0 1
+sound 508
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ん、それは、私のカメラの使い方のこと？
+line2 <shift> # それとも、ＣＭの撮影の仕方のほうの工夫？」
+display
+com11 0 1
+sound 509
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「……ま、どっちもよね。幅広い個性を持った、
+line2 <shift> # 自由度高いカメラ、って雰囲気にしないとだわ」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ、このプランに決めよう。
+line2 <shift> # ＣＭ監督にも、そう伝えるとして……」
+display
+com11 0 1
+sound 510
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「あ、それより問題は、私が、カメラのアピール
+line2 <shift> # ポイントをどう表現するか、じゃないですか？」
+display
+com11 0 1
+sound 511
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「私が持ってるデジカメ本体に、お客が注目して
+line2 <shift> # くれるようなパフォーマンスを考えないと……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「パフォーマンスか。確かにＣＭの中で、
+line2 <shift> # カメラをどう見せるかは、重要だね」
+display
+com11 0 1
+sound 512
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そうだ！　『こんな感じでやりましょう！』
+line2 <shift> # って、監督に提案してみてもいいですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いいね、俺が掛け合ってみよう」
+display
+com11 0 1
+sound 513
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「さぁ、どうやろうかな。私とデジカメ、
+line2 <shift> # 両方がうまく映えるようなパフォーマンス……」
+com03 0 3
+choice1 <shift> # カメラを激しく扱う
+line2
+com09 0 30
+com08
+choice2 <shift> # カメラを大事に扱う
+line2
+com09 0 31
+com08
+choice3 <shift> # カメラ目線を大事にする
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「カメラを激しくワイルドに使いこなす律子！
+line2 <shift> # ……っていうのは、どうかな？」
+display
+com11 0 1
+sound 514
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「なるほど、カメラをラフに扱っても、ばっちり
+line2 <shift> # 撮れる！　ってところをアピールですねっ」
+display
+com11 0 1
+sound 515
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「カメラと私、両方ともが、活動的なイメージに
+line2 <shift> # なるようにアプローチするといいかも」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだっ。派手な歌とダンスを、カメラのアピ
+line2 <shift> # ールに組み合わせると、いいんじゃないか！？」
+display
+com11 0 1
+sound 516
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「あっ、それいい！　私ならではの、
+line2 <shift> # ＣＭパフォーマンスができますね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （この提案はスタッフや監督にも快く受け入れら
+line2 <shift> # れ、現場が一体となってＣＭ制作に取り組んだ）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （きっと魅力的なＣＭに仕上がるに違いない。
+line2 <shift> # 人気もセールスも、大いに期待できそうだぞ）
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「デジカメといえば精密機器だからな。
+line2 <shift> # 大事に扱わなくては。やさしい雰囲気でいこう」
+display
+com11 0 1
+sound 517
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「なるほど、優しくね……。カメラを、
+line2 <shift> # ていねいに扱っていけばいいのかな？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。女性を扱うように、
+line2 <shift> # 優しくていねいにだ」
+display
+com11 0 1
+sound 518
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「あ、あの〜、私も女性なんですけど？
+line2 <shift> # そういうたとえは、ちょっとどうかと……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、ごめんごめん。ちょっと違ったな。
+line2 <shift> # 腫れ物を扱うように優しく……、だ」
+display
+com11 0 1
+sound 519
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「女性を腫れ物だと思ってるんですか、
+line2 <shift> # プロデューサー？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、いやその……」
+display
+com11 0 1
+sound 520
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「冗談はさておき。精密なカメラの繊細な感じが、
+line2 <shift> # 映像に、うまく現れればいいかな？」
+display
+com11 0 1
+sound 521
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そうだ！　私の激しい曲やダンスと、優しく
+line2 <shift> # カメラを扱う様子を対比させたら面白いかも！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いいね。律子ならではの、
+line2 <shift> # ＣＭパフォーマンスができそうだな」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （この提案はスタッフや監督にも受け入れられ、
+line2 <shift> # 現場が一体となってＣＭ制作に取り組んだ）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （きっと魅力的なＣＭに仕上がるに違いない、
+line2 <shift> # 人気もセールスも、なかなか期待できそうだぞ）
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やっぱり、カメラのＣＭだから、
+line2 <shift> # カメラ目線を重視するべきかもな」
+display
+com11 0 1
+sound 522
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ど、どっちのカメラ目線ですか？
+line2 <shift> # 私が撮るほう？　撮られるほう？」
+display
+com11 0 1
+sound 523
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「……って、変に混乱するようなこと、
+line2 <shift> # 言わないでくださいよ、プロデューサー……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「す、すまん。手にしたデジカメの存在を
+line2 <shift> # 意識して、って言いたかったんだよ」
+display
+com11 0 1
+sound 524
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そりゃ当然です。
+line2 <shift> # ＣＭの主役は、あくまで、カメラですからね」
+display
+com11 0 1
+sound 525
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「う〜ん、でも……。てことは、私は、
+line2 <shift> # がんばり過ぎないほうがいいのか……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そこらへんのさじ加減が、難しいね。
+line2 <shift> # 律子、どうしたらいいと思う？」
+display
+com11 0 1
+sound 526
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そうねぇ。やっぱり、カメラを持つ手先を、
+line2 <shift> # メインに映していくのが無難か……」
+display
+com11 0 1
+sound 527
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「……って、私にきかないで、プロデューサーも、
+line2 <shift> # ちゃんと考えてくださいよぉ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「か、考えてるさ！　色々、考えてる最中だよ」
+display
+com11 0 1
+sound 528
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「どうだか……。しっかりしてくださいよ、
+line2 <shift> # 敏腕プロデューサーさま？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （俺と律子は、しばらく考えを巡らせたが、
+line2 <shift> # 妙案は浮かばず、時間はムダに過ぎていき……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、ＣＭは完成したものの、律子の個性は
+line2 <shift> # 生かせず、アピールも弱いものになった……）
+com09 0 49
+display
+location 49
+unk02

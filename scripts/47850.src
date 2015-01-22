@@ -1,0 +1,506 @@
+com2c 0 119
+com2d 0 83
+com2e 0 111
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ヒヤヒヤしたが、無事に合格できたな！
+line2 <shift> # さすがに遅刻しそうになった時は、あせったよ」
+display
+com11 0 0
+sound 10000
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「すみません、心配かけちゃって……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「気にするな。それより、
+line2 <shift> # ついにここまで来られたな、真！」
+display
+com11 0 0
+sound 10001
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「はい……！　ありがとうございます！」
+display
+com11 0 0
+sound 10002
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「……」
+display
+com11 0 0
+sound 10003
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「やあ、響！　あと１つで、ボクも本選だよ。も
+line2 <shift> # うすぐ、約束を果たせる。響と勝負できるんだ」
+display
+com11 0 0
+sound 10004
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「おめでと。でも今日の真の振り付け、
+line2 <shift> # いつものキレがなかったぞ。体調悪いのか？」
+display
+com11 0 0
+sound 10005
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「え、そんなことないよ……」
+display
+com11 0 0
+sound 10006
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「自分の目は、ごまかせないもんね！　真のオー
+line2 <shift> # ディションは、毎回、みてきたんだからさっ！」
+display
+com11 0 0
+sound 10007
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「そっちの７６５プロも、そう思ったよね？
+line2 <shift> # 今日の真は、いまいちだって」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、俺には、そこまで言うほど、
+line2 <shift> # 普段との差を感じられなかったが」
+display
+com11 0 0
+sound 10008
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「ええ〜っ！？　そんなことないぞ！
+line2 <shift> # 自分、ウソは言ってないからな！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「真？　響の言うことは、本当なのか？」
+display
+com11 0 0
+sound 10009
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうなんだ？　正直に話してくれ」
+display
+com11 0 0
+sound 10010
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「……あのぅ、ボク、オーディション前に、
+line2 <shift> # 練習してましたよね？　その時に……」
+display
+com11 0 0
+sound 10011
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ちょっと、足を痛めちゃったみたいで……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「な、何だって！？」
+display
+com11 0 0
+sound 10012
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「おい、大丈夫なのか！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「と、とりあえず……」
+com03 0 3
+choice1 <shift> # 救急車を呼ぼう！
+line2
+com09 0 10
+com08
+choice2 <shift> # 消防車を呼ぼう！
+line2
+com09 0 11
+com08
+choice3 <shift> # 高木社長を呼ぼう！
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「救急車を呼ぼう！」
+display
+com11 0 0
+sound 10013
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「やだな、そんな大したことじゃないですよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、念には念を入れておいた方が……。
+line2 <shift> # この先も、ＩＵは続くんだし……」
+display
+com11 0 0
+sound 10014
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「落ち着いて下さい。心配してくれて、
+line2 <shift> # すごく嬉しいけど、ホントに大丈夫ですから」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「消防車を呼ぼう！」
+display
+com11 0 0
+sound 10015
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「７６５プロは、バカだなっ！　消防車は、
+line2 <shift> # 火事の時だ！　呼ぶのは、救急車だぞ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、そうだった。
+line2 <shift> # ひとまず、俺が落ち着くべきだな……」
+display
+com11 0 0
+sound 10016
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「救急車も、呼ばなくていいですって！
+line2 <shift> # そんな、大したケガじゃないですから」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「た、高木社長を呼ぼう！」
+display
+com11 0 0
+sound 10017
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「社長ですか？　何で、社長？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、何とか、してくれるかと思って……」
+display
+com11 0 0
+sound 10018
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「何とか……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「たとえば、アイドルランクの報告とか……」
+display
+com11 0 0
+sound 10019
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「そんな人、呼んでも、ちっとも役に立たないぞ！
+line2 <shift> # 呼ぶなら、救急車だろーっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、そうだった。ひとまず、
+line2 <shift> # 俺が落ち着くべきだな……」
+display
+com11 0 0
+sound 10020
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「救急車も、呼ばなくていいですって！
+line2 <shift> # そんな、大したケガじゃないですから」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10021
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「そうなのか？　はあ、よかった〜！」
+display
+com11 0 0
+sound 10022
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「あっ！　よかった、っていうのは、
+line2 <shift> # 真を心配したわけじゃなくて……！」
+display
+com11 0 0
+sound 10023
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「これで、本選で真をこてんぱんにできるぞ〜、
+line2 <shift> # っていう意味だからっ！」
+display
+com11 0 0
+sound 10024
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あはは……。響は素直じゃないなあ」
+display
+com11 0 0
+sound 10025
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「ほ、ほんとだぞ！　真との勝負は楽しみだけど、
+line2 <shift> # あくまで敵なんだからさ！」
+display
+com11 0 0
+sound 10026
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「とにかく、５次予選までにケガ、
+line2 <shift> # ちゃんと治しとけばいーさ！」
+display
+com11 0 0
+sound 10027
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「次は、ケガしたまま踊って受かるほど、
+line2 <shift> # 簡単じゃないと思うし！　んじゃ、バイバイ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （一方的にまくしたてて、出て行ってしまった）
+display
+com11 0 0
+sound 10028
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「何だかんだで、
+line2 <shift> # 心配してくれてるんですよね、響は……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「たぶんな……。でも真、足のこと、
+line2 <shift> # どうして俺に言ってくれなかったんだ」
+display
+com11 0 0
+sound 10029
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「報告するほどのケガじゃないからですよ〜。
+line2 <shift> # ほら、ちゃんと合格だってできたし」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、やっぱり念のために、
+line2 <shift> # 病院に行った方が、いいんじゃないか？」
+display
+com11 0 0
+sound 10030
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ちょっとひねった程度ですって。ホントに、
+line2 <shift> # 大丈夫です。あの、心配しないで下さい」
+com03 0 3
+choice1 <shift> # ごめんな
+com09 0 20
+com08
+choice2 <shift> # それが仕事だ
+line2
+com09 0 21
+com08
+choice3 <shift> # もう心配しない
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ごめんな、気が付いてあげられなくて」
+display
+com11 0 0
+sound 10031
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「そ、そんな、謝らないで下さいよ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、俺がもっと注意して、
+line2 <shift> # 真を見ておくべきだったよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「これからは、絶対に目を、
+line2 <shift> # 離さないようにするからな！」
+display
+com11 0 0
+sound 10032
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「それは、嬉しいですけど、
+line2 <shift> # さすがに恥ずかしいかも……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「恥ずかしいことなんかあるもんか。すべてをさ
+line2 <shift> # らけ出してくれ。１分１秒も、見逃さないから」
+display
+com11 0 0
+sound 10033
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ぷ、プロデューサー、そこまでしなくていい
+line2 <shift> # ですって〜。あと、そんなに見つめないで〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうか。少しやりすぎたか。
+line2 <shift> # じゃあ、少しは、見逃す程度にしておこう」
+display
+com11 0 0
+sound 10034
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ふぅ……。そうしてくれると、
+line2 <shift> # ボクもドキドキしなくてすみます……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、真もムリをしすぎだぞ」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それが、プロデューサーの仕事だからな」
+display
+com11 0 0
+sound 10035
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「……ですよね。プロデューサーは、
+line2 <shift> # 仕事だから、ボクのこと心配してくれてるんだ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そういうこと。真の体には、真だけじゃなく、
+line2 <shift> # 俺や、ファンの夢も詰まっているんだ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だから、あまりムリをしないでくれ」
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わかった。そこまで言うなら、
+line2 <shift> # もう無駄に心配しないようにするよ」
+display
+com11 0 0
+sound 10036
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「プロデューサー、それって、ボクには愛想が
+line2 <shift> # 尽きたっていうことですか？　うぅ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、違う！　そんなことは言ってないし、
+line2 <shift> # まったく思ってない！　早とちりするな！」
+display
+com11 0 0
+sound 10037
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「口では、大丈夫って言ってますけど、やっぱり
+line2 <shift> # 本心は、心配してもらった方が、嬉しいです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、わかってる。だから、なるべく大騒ぎ
+line2 <shift> # しない程度に、心配するっていうことだ」
+display
+com11 0 0
+sound 10038
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あ、はい！　そうして下さい！
+line2 <shift> # すみません、ワガママ言って。へへっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、真もムリをしすぎだぞ」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今日の真は、やっぱりヘンだ。響をライバル視
+line2 <shift> # するのはいいが、意識しすぎるのもよくない」
+display
+com11 0 0
+sound 10039
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「……昨日みた、響のダンスが、
+line2 <shift> # 目に焼き付いて離れないんです」
+display
+com11 0 0
+sound 10040
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「見てて、鳥肌立っちゃうぐらい、すごくて。
+line2 <shift> # 同じぐらい、うまく踊ってみたいって……」
+display
+com11 0 0
+sound 10041
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「そう思ったんですけど、すぐに、今のままじゃ、
+line2 <shift> # 一生追いつけないような気がしてきて……」
+display
+com11 0 0
+sound 10042
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「だから、ムリしてでも、
+line2 <shift> # がんばらなくちゃって……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「気持ちは、わからないでもないけどな……」
+display
+com11 0 0
+sound 10043
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「プロデューサー、次の５次予選までに、
+line2 <shift> # もっとバリバリ、ボクをきたえて下さい！」
+display
+com11 0 0
+sound 10044
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「でないと、響に勝てません……！」
+display
+com11 0 0
+sound 10045
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「そうだ、こうしてノンキに話している場合じゃ
+line2 <shift> # ないや。さっきのオーディションで、また……」
+display
+com11 0 0
+sound 10046
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「自分の振り付けのダメな部分、見つけちゃって。
+line2 <shift> # 修正したいから、ここで練習していいですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おいおい、何を言っているんだ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「本番が終わったばかりだし、そもそも足を、
+line2 <shift> # 痛めたんだろう！？　今日は、絶対安静だ！」
+display
+com11 0 0
+sound 10047
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「足は、さっきも言ったように、
+line2 <shift> # そんなに大したことないですよ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だとしても、ダメったらダメだ！　今日は、意
+line2 <shift> # 地でも休ませるからな。さあ、事務所に戻るぞ」
+display
+com11 0 0
+sound 10048
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「はーい」
+com09 0 99
+display
+location 99
+unk02

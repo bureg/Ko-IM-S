@@ -1,0 +1,294 @@
+com2c 0 24
+com2d 0 71
+com32 0 0
+com11 0 3
+sound 500
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「プロデューサー、大手芸能誌からの取材、
+line2 <shift> # ほんとに来るんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。さっき、打診が正式にあってね。日時も
+line2 <shift> # 決まったよ。もちろん、律子にも出てもらう」
+display
+com11 0 3
+sound 501
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「決まったんですか！　やった、チャンスね！
+line2 <shift> # この際あることないことぶっちゃけて話そうっ」
+com03 0 2
+choice1 <shift> # まぁ落ちつけ
+line2
+com09 0 10
+com08
+choice2 <shift> # ははは、その意気だ
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まぁ落ちつけ、律子。興奮するのはわかるが」
+display
+com11 0 3
+sound 502
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「落ち着いていられますかって。
+line2 <shift> # ここで、でっかくアピールですよ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「しかし、誤解を招いちゃあ、まずかろう。
+line2 <shift> # だから、冷静に作戦でも立てないか？」
+display
+com11 0 3
+sound 503
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ん〜、確かに作戦は、いるかな……。
+line2 <shift> # ひとまず考えてみますか」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ははは、その意気だ。細かい取材に、
+line2 <shift> # なるかもしれないが、強気で頼むぞ」
+display
+com11 0 3
+sound 504
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ええ、ばっちりやりますよ！
+line2 <shift> # まかせて下さい」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「しかし、まずは記者相手に、
+line2 <shift> # ノセられないように、冷静にね」
+display
+com11 0 3
+sound 505
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「言われなくてもっ。あ、そうだ。
+line2 <shift> # 作戦は、いるかな？　取材対策というか……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「確かに、せっかく大手雑誌の記事になる、
+line2 <shift> # チャンスだからな。有効に生かしたいところだ」
+display
+com11 0 3
+sound 506
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「じゃ、私、ちょっと作戦考えてみますね」
+com09 0 29
+display
+location 29
+com11 0 3
+sound 507
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ひらめけ、ひらめけ……。
+line2 <shift> # よし、ひらめいたっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、なにか妙案があるかな？
+line2 <shift> # 作戦思いついたなら、言ってみてくれ」
+display
+com11 0 3
+sound 508
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「やっぱり芸能誌でみんなの注目を集めるには、
+line2 <shift> # 話題になりそうなゴシップを提供、ですよ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なるほどぉ……。って、
+line2 <shift> # 律子が、自らゴシップを投下するのか？」
+display
+com11 0 3
+sound 509
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そうそう。あ、別に事実でなくていいの。
+line2 <shift> # 人気が出そうなネタだったら、ウソでもよくて」
+display
+com11 0 3
+sound 510
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「たとえば、スタッフ内での不和があるだとか、
+line2 <shift> # 隠れた恋人がいるだとか……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん……。しかし、果たして、話題づくりの
+line2 <shift> # ために、偽ゴシップまで必要なのかな？」
+display
+com11 0 3
+sound 511
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「やれることは、やらなきゃ！　チャンスは、
+line2 <shift> # 最大限に生かす、それが私の主義ですっ」
+com03 0 3
+choice1 <shift> # ちょっと気が引けるな
+line2
+com09 0 30
+com08
+choice2 <shift> # よし、その話乗った！
+line2
+com09 0 31
+com08
+choice3 <shift> # 記者の出方次第かな……
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ちょっと気が引けるな……」
+display
+com11 0 3
+sound 512
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「でも、注目集めるには、なにか話題がないと。
+line2 <shift> # この世界、目立ったモン勝ちですよ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なら、もっと他の話題にしないか？
+line2 <shift> # たとえば……」
+display
+com11 0 3
+sound 513
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「たとえば？　なにかあります？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、血のにじむような特訓風景！　とか、
+line2 <shift> # あの華やかな舞台の裏に隠れた苦労！　とか」
+display
+com11 0 3
+sound 526
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ありきたりだなぁ。お客の食いつき悪そう。
+line2 <shift> # それに、もっと他のアイドルと差別化しなきゃ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうかな？　ま、まぁ律子も一緒に、
+line2 <shift> # もう一度、考えようじゃないか！」
+display
+com11 0 3
+sound 515
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「はいはい、つきあってあげますかぁ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （律子は、あれこれとネタを考え始めた。俺は、
+line2 <shift> # その横で、うなずいたりツッコんだり……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （まぁ、程ほどにネタも交えつつ、盛り上がる
+line2 <shift> # 取材になってくれればいいかな？　期待しよう）
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、その話乗った！」
+display
+com11 0 3
+sound 516
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「えっ！　ほんとにいいんですかっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ニセだろうとウソだろうと、ひとまず、できる
+line2 <shift> # 手段は、なんでも試してやろうじゃないか」
+display
+com11 0 3
+sound 517
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「お〜、商売人の鑑のような発言だぁ。やっぱり、
+line2 <shift> # 生き馬の目を抜く業界、その勢いでなきゃね」
+display
+com11 0 3
+sound 518
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「最近のプロデューサー、なかなか、
+line2 <shift> # 肝が据わってきましたね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おぅよ。さて、俺がネタの出来をみるから、
+line2 <shift> # 律子は、どんどん考えてみてくれないか？」
+display
+com11 0 3
+sound 519
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「はいはい、まかせなさいって」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （律子は、上機嫌でネタを考え始めた。俺は、
+line2 <shift> # その横で、うなずいたりツッコんだり……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （この分なら、取材も盛り上がりそうだ。でも、
+line2 <shift> # ネタ以外、何もない取材になりそうだな……）
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「しかし、記者の出方次第かな……。
+line2 <shift> # うまくノセられるかどうか、わからないぞ」
+display
+com11 0 3
+sound 520
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そんな、後手の対応で、いいのかなぁ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「先走って、裏目に出たら困る。
+line2 <shift> # むしろ最初は、記者のペースにさせておこう」
+display
+com11 0 3
+sound 521
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「つまり、その気にさせておいて引き込んで、
+line2 <shift> # いきなりこちらで話題を振って逆転を狙うと？」
+display
+com11 0 3
+sound 522
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「でも、最初から押し切られちゃったら、
+line2 <shift> # 負けますよ……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうならないように頑張れ、律子！」
+display
+com11 0 3
+sound 523
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「頑張れって言われても。あ〜、もう。
+line2 <shift> # 結局、私がやらなきゃダメなんじゃないのっ」
+display
+com11 0 3
+sound 524
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「プロデューサー、もっと真面目に、
+line2 <shift> # 取材対策、考えて下さいよぉ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「か、考えてるさ。もう少し時間をくれれば、
+line2 <shift> # 他にもきっと、いいアイディアが……」
+display
+com11 0 3
+sound 525
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「どうだか。あ〜あ、やっぱり、
+line2 <shift> # あてにならないなぁ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （律子は、俺のことを無視して、ひとり、
+line2 <shift> # ゴシップネタを、ぶつぶつと考え始めた）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （取材で暴走をして、失敗しやしないだろうか。
+line2 <shift> # ああ、律子。俺は、激しく心配だぞ……）
+com09 0 49
+display
+location 49
+unk02

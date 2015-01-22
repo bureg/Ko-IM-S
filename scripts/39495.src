@@ -1,0 +1,369 @@
+com2d 0 71
+com2c 0 87
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さぁ、やって来たシティリゾート、
+line2 <shift> # 水着撮影と相成ったわけだが」
+display
+com11 0 4
+sound 700
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「むぅ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「律子、そろそろ撮るぞ。着替えてくれ」
+display
+com11 0 4
+sound 701
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「え〜……、いやですよ。
+line2 <shift> # ここで水着になんて、着替えられません！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんだ、どうしたんだ？」
+com03 0 3
+choice1 <shift> # 恥ずかしいのかな？
+line2
+com09 0 10
+com08
+choice2 <shift> # 着替えを忘れたのか？
+line2
+com09 0 11
+com08
+choice3 <shift> # 時間がない、早くしてくれ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「恥ずかしいのかな？」
+display
+com11 0 4
+sound 702
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そういうわけじゃ……、ないですけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんなら、向こうで着替えてきたらいい」
+display
+com11 0 4
+sound 703
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「いえ……、とにかく、いやなんです。
+line2 <shift> # 着替えたくないんです！」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「着替えを忘れたのか？
+line2 <shift> # 仕事の準備を怠ったらいかんなぁ」
+display
+com11 0 4
+sound 704
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「忘れてないですよっ！
+line2 <shift> # ちゃんと、ばっちり、用意してきてますよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なら、早く着替えたらいいのに」
+display
+com11 0 4
+sound 705
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「べ、別に、今すぐにでも準備できるけど……、
+line2 <shift> # でも私、とにかくいやなんです！」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「時間がないんだ、急いでくれないか」
+display
+com11 0 4
+sound 706
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「むむぅ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「な、なんだよ、黙っちゃって……。ここで
+line2 <shift> # 着替えるのが抵抗あるなら、向こうのカゲで」
+display
+com11 0 4
+sound 707
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ああ、もう、そうじゃなくてっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「水着を忘れたのか？」
+display
+com11 0 4
+sound 709
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そうじゃなくてっ！
+line2 <shift> # とにかく、着替えたくないんですよ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「水着になってくれないと、
+line2 <shift> # 撮影が始まらないんだけど……」
+display
+com11 0 4
+sound 710
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「だ、だからっ、着替えたくないって、
+line2 <shift> # 言ってるじゃないですかぁ」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうして？　不満があるなら、
+line2 <shift> # わけを言ってくれないか」
+display
+com11 0 4
+sound 711
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「不満って……。もちろん、大いに不満ですよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「な、なにがさ……？」
+display
+com11 0 4
+sound 712
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そりゃ……。だって仮にも、
+line2 <shift> # 歌を売りにしてる、アイドルじゃないですか！」
+display
+com11 0 4
+sound 713
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「なのに、水着のグラビアなんて、そんな……、
+line2 <shift> # 媚びを売るみたいな仕事、やってられないです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうは言ってもだなぁ……。せっかく、
+line2 <shift> # 目立てる仕事だし、わかってくれないか」
+display
+com11 0 4
+sound 714
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「わかってくれと言われても……、
+line2 <shift> # 納得できませんよぉ！」
+display
+com11 0 4
+sound 715
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「もうね、いますぐ背中を向けて、
+line2 <shift> # 事務所に帰りたいくらいです」
+com03 0 3
+choice1 <shift> # これも仕事なんだぞ？
+line2
+com09 0 30
+com08
+choice2 <shift> # わがままなやつだなぁ
+line2
+com09 0 31
+com08
+choice3 <shift> # わかった、帰ってもいい
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「これも仕事なんだぞ？
+line2 <shift> # それでも、ほっぽらかして行くのか？」
+display
+com11 0 4
+sound 716
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「だ、だって、水着のグラビアを見るような
+line2 <shift> # お客は、水着姿だけを期待してるわけで……」
+display
+com11 0 4
+sound 717
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「それってつまり、歌の人気や売り上げには、
+line2 <shift> # 繋がらないでしょ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、そうとも限らないよ」
+display
+com11 0 4
+sound 718
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そんな、まさかぁ。水着になったからって、
+line2 <shift> # ＣＤの売り上げは、伸びないでしょ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「普段、歌を聞かない層への、宣伝効果は高いぞ。
+line2 <shift> # グラビアは、立派なプロモーションの一環だ」
+display
+com11 0 4
+sound 719
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ええっ。で、でも、そんなまわりくどい販促、
+line2 <shift> # まるで、風が吹けば桶屋が……、みたいで」
+display
+com11 0 4
+sound 720
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「それに、色仕掛けなんて、
+line2 <shift> # なにか卑怯っぽい気もしないでもないけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「卑怯なもんか！　グラビアも、
+line2 <shift> # 律子の魅力をみんなに伝える方法のひとつさ！」
+display
+com11 0 4
+sound 721
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そ、そうまで言うなら……。
+line2 <shift> # 仕方ない、一肌脱ぐかぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺の説得が功を奏し、律子は水着撮影に応じて
+line2 <shift> # くれることになった。いい写真を撮るぞ！）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わがままなやつだなぁ」
+display
+com11 0 4
+sound 722
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「べ、別に私、単にわがままで、
+line2 <shift> # 言ってるわけじゃなくてっ」
+display
+com11 0 4
+sound 723
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「だいいち、水着になることと、
+line2 <shift> # 歌と、どう関係があるんです？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まぁ聞け。歌手ってのは、身体も自然に、
+line2 <shift> # ある程度、鍛えられてるもんだろう？」
+display
+com11 0 4
+sound 724
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そりゃまぁ、トレーニングは、
+line2 <shift> # 怠らずに、してますからね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だったら、グラビアで、その身体の美しさを
+line2 <shift> # さらすことに、抵抗は、ないはずだ！」
+display
+com11 0 4
+sound 725
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そ、そんなムチャクチャな理屈！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そして、それを見たいというお客さんもいる。
+line2 <shift> # ならば、ニーズに答えたいじゃないか」
+display
+com11 0 4
+sound 726
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あ、あの……。それってでも、それこそ、
+line2 <shift> # プロデューサーの、わがままな発想じゃない？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなことはないぞ」
+display
+com11 0 4
+sound 727
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「水着を見たいっていうのは、つまり、
+line2 <shift> # プロデューサーが、見たいってことなんでしょ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それはその……」
+display
+com11 0 4
+sound 728
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「はぁ、やれやれ……。まぁ、仕事は仕事。
+line2 <shift> # 気は進まないけど、やってやりますか」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （渋々ながらも、律子は水着撮影に応じてくれる
+line2 <shift> # ことになった。いい写真を撮らないとな……）
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わかった。
+line2 <shift> # どうしてもいやなら、帰ってもいい」
+display
+com11 0 4
+sound 729
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ええ！　言われなくたって！
+line2 <shift> # 今すぐ、帰りますっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、おつかれさま。
+line2 <shift> # 律子にムリにやってもらっても、悪いからな」
+display
+com11 0 4
+sound 730
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ほんとに帰りますよ、帰っちゃいますよ？
+line2 <shift> # いいんですか？　引き止めないんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だって、嫌々撮ったら、せっかくの楽しい
+line2 <shift> # リゾート写真が、台無しになるじゃないか」
+display
+com11 0 4
+sound 731
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あ、あの、その……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「仕方ない。この仕事は、
+line2 <shift> # 事務所の他のアイドルで進めてもらおうか……」
+display
+com11 0 4
+sound 732
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ああっ！　ま、待って！　やります！
+line2 <shift> # 仕事とられるくらいなら、水着の方がマシっ！」
+display
+com11 0 4
+sound 733
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ものすご〜くシャクで、気が進まないけど、
+line2 <shift> # 私、笑顔で水着で、やってやりますよ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だ、だから、そんなに嫌々やらんでも……」
+display
+com11 0 4
+sound 734
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「嫌々じゃないですよ、すすんでやりますよ！
+line2 <shift> # さ、脱ぎますから。早く撮ってください！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わかった、落ちつけ。そうムキになるな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （やけっぱちという感じではあるが、律子は、
+line2 <shift> # 水着撮影に応じてくれることになった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しかし、まともな写真が撮れるだろうか？
+line2 <shift> # ああ、もっとうまく説得するんだったなぁ……）
+com09 0 49
+display
+location 49
+unk02

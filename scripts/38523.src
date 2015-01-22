@@ -1,0 +1,405 @@
+com2c 0 17
+com2d 0 73
+com32 0 0
+com11 0 2
+sound 200
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「こんなメジャーな歌番組に、
+line2 <shift> # メインゲストで呼ばれるなんて！」
+display
+com11 0 2
+sound 201
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「大活躍できる、またとないチャンス！
+line2 <shift> # 本番に、期待が高まっちゃいます」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだな、頑張ろう。しかし先輩格もたくさん
+line2 <shift> # 同席してるし、くれぐれも失礼はないようにね」
+display
+com11 0 2
+sound 202
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「なに言ってるんですかぁ。
+line2 <shift> # 今回は、番組の主役なんですよ？」
+display
+com11 0 2
+sound 203
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「いっそ他を蹴落とすぐらいの勢いで！
+line2 <shift> # しっかり目立って存在アピールしていかないと」
+com03 0 2
+choice1 <shift> # ＯＫ、勢いは認めよう
+line2
+com09 0 10
+com08
+choice2 <shift> # まずは抑えて
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ＯＫ、勢いは認めよう。でも勢い余って、
+line2 <shift> # 自分が舞台から落ちないように、な？」
+display
+com11 0 2
+sound 204
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「い、言われなくたってっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ははは。まあ、肩の力をそんなに入れるなって
+line2 <shift> # ことさ。メインゲストなら、いやでも目立つ」
+display
+com11 0 2
+sound 205
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「それもそうですね。ああ、でもなぁ……」
+display
+com11 0 2
+sound 206
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「変に他を意識して、遠慮して、
+line2 <shift> # 埋もれちゃったりするのは、いやだな」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まずは抑えて。落ち着こう、リラックスだ」
+display
+com11 0 2
+sound 207
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「いいえっ、変に控えめにやって、
+line2 <shift> # 地味になったら、もったいない！」
+display
+com11 0 2
+sound 208
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「お客の印象に残らなかったら負けですよ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「しかし、失敗でもして悪目立ちしたら、
+line2 <shift> # 目も当てられないだろう」
+display
+com11 0 2
+sound 209
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「い、言われなくたって、
+line2 <shift> # そのくらいわかってますってばぁ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「メインゲストなら、いやでも目立つ機会が
+line2 <shift> # あるさ。だからそんなに力まなくてもいいんだ」
+display
+com11 0 2
+sound 210
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そりゃまぁ、そうですけど……」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「張り切る気持ちはわかる。けど、
+line2 <shift> # 貫禄を示すのと、横柄にやるのは違うぞ？」
+display
+com11 0 2
+sound 211
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「だ、だから、わかってますってば、
+line2 <shift> # そんなことぉ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そう意固地に、むくれるなよ、
+line2 <shift> # 顔が、こわばってるぞ？」
+display
+com11 0 2
+sound 212
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「むくれてなんていませんよっ！
+line2 <shift> # ああ、うるさいなぁ……」
+display
+com11 0 2
+sound 213
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「メインゲスト、大舞台なんだから、チャンス
+line2 <shift> # なんだから、私が、うまくやらないとっ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あれ、律子、もしかして緊張してるのか？」
+display
+com11 0 2
+sound 214
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「し、してないですよ、緊張なんて。
+line2 <shift> # いまさら、こんなことでっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、だんだん、
+line2 <shift> # 顔色も良くなくなってきたぞ、心配だな」
+display
+com11 0 2
+sound 236
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そういうこと、言わないで下さいよ、
+line2 <shift> # ああもう……。本番まで時間がないんです」
+display
+com11 0 2
+sound 216
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「プレッシャーがなんだっ。なにがなんでも
+line2 <shift> # 勢いつけて、堂々、いかないとっ。……ううっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （まずいな、ガチガチだ。ここは思い切った
+line2 <shift> # 手段に訴えるか。こわばる顔をほぐすには……）
+com0e 2 96
+com44
+com09 0 30
+com45
+com44
+com09 0 31
+com45
+com44
+com09 0 32
+com45
+com44
+com09 0 33
+com45
+com44
+com09 0 34
+com45
+display
+location 30
+com11 0 2
+sound 237
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「きゃあああ。な、なんで人の顔を、
+line2 <shift> # むに〜って、ひっぱるんですか！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、目がさめたか？
+line2 <shift> # 顔のこわばりは、とれたかな？」
+display
+com11 0 2
+sound 238
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「あれ、そう言われてみれば、確かに。さっき
+line2 <shift> # まで、顔が引きつって、困ってたんだけど……」
+display
+com11 0 2
+sound 239
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ひっぱられたら、すっきりしちゃった。
+line2 <shift> # んじゃ、行ってきます！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、頑張ってこいよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （気持ちのほぐれた律子は、すっきりした表情で、
+line2 <shift> # 本番を迎えることができた！）
+com09 0 49
+display
+location 31
+com11 0 2
+sound 240
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「あひゃわひゃひゃあ……、って、な、
+line2 <shift> # 何するんですか！　なんでくすぐるんです！？」
+display
+com11 0 2
+sound 241
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「んもう。おかげで、
+line2 <shift> # 変な笑い方しちゃったじゃないですか！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「す、すまん。別に、くすぐったつもりは、
+line2 <shift> # なかったんだけど」
+display
+com11 0 2
+sound 242
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「私、ワキとか弱いんですよ。
+line2 <shift> # そういうのは、控えめにして下さいね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わかったよ……。でも、おかげで、
+line2 <shift> # 顔のこわばりが、とれただろ？」
+display
+com11 0 2
+sound 243
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ああ、なんだ。そういう意図だったんですか。
+line2 <shift> # それならそうと、最初から言って下さい」
+display
+com11 0 2
+sound 244
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「まあ、おかげさまで、プレッシャーは消えまし
+line2 <shift> # たけど。さて、本番行ってくるかなぁ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （こわばった感じは無くなったものの、
+line2 <shift> # 律子は不満そうな表情に、なってしまったな）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （本番に悪影響が出なけりゃいいんだけど）
+com09 0 49
+display
+location 32
+com11 0 2
+sound 245
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「な、なんで、ぽんぽんって、するんです？
+line2 <shift> # 別に肩は、こってないですよ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、肩が、はってるぞ？　カチカチだ」
+display
+com11 0 2
+sound 224
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そ、それは、元からですよ。
+line2 <shift> # 私、いかり肩なんですっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いいから、肩の力を抜けって。
+line2 <shift> # ほら、ほぐしてやるから。とんとんっと」
+display
+com11 0 2
+sound 246
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「こらこら、叩くな叩くな！
+line2 <shift> # もう、かんべんして下さいよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「軽くさわっただけだぞ。これで叩いたように感
+line2 <shift> # じるなんて、やっぱり、力みすぎじゃないか？」
+display
+com11 0 2
+sound 247
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「もう、わかってますってば。
+line2 <shift> # それがわかってるから、困ってるのに……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （結局、律子はむくれた表情のまま、
+line2 <shift> # 本番のスタジオへと出て行った）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うーん、リラックスさせるつもりが、
+line2 <shift> # 俺が余計なことしちゃったかもな……）
+com09 0 49
+display
+location 33
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いやいや、ダメだ……。
+line2 <shift> # そんなところを触っちゃいけないな」
+display
+com11 0 2
+sound 248
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ぶつぶつ言っちゃって、
+line2 <shift> # どうしたんですか、プロデューサー？」
+display
+com11 0 2
+sound 249
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「手を出したり引っ込めたりしながら……。
+line2 <shift> # もしや何か、変なことを考えていませんか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「変じゃないぞ！　いたって健全だ！」
+display
+com11 0 2
+sound 250
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「あやしい！　すごくあやしい！」
+display <shift> # ばしっ！
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あいたっ！　プロデューサーを、
+line2 <shift> # いきなりひっぱたくヤツが、あるかっ！」
+display
+com11 0 2
+sound 251
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「どうせ、妙なことを企んでたんでしょう！
+line2 <shift> # 人の前で、手をワキワキさせないで下さい！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ちょっと行動に迷ったからって、
+line2 <shift> # そんな、叩かなくても……」
+display
+com11 0 2
+sound 252
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「あーあ、せっかくリラックスさせてもらおうと、
+line2 <shift> # 思ったのに、顔が余計に、こわばっちゃった」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （律子は、ふてくされつつ、
+line2 <shift> # 本番のスタジオに出て行った）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （俺の態度が不満だったのか、
+line2 <shift> # 律子の歌声は、少しとがってきこえた……）
+com09 0 49
+display
+location 34
+com11 0 2
+sound 231
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「どうしたんです？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ダメだ、俺には何もしてやれん」
+display
+com11 0 2
+sound 232
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「はい？　ま、まぁいいですけど」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああっと、もう出番だ！　さぁ行け律子！」
+display
+com11 0 2
+sound 233
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「え、ええっ、もう！？
+line2 <shift> # まだ、こ、心の準備がっ……。ううっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おい、手足がギクシャクしてるぞ、落ちつけ」
+display
+com11 0 2
+sound 253
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そんなこと、言われても……。
+line2 <shift> # ああ、なんか我ながら、動きが、ぎこちないっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「が、がんばれよ」
+display
+com11 0 2
+sound 235
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「この程度で緊張するなんて、
+line2 <shift> # 私も、まだまだだなぁ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （律子はいまいち覇気のないまま、かたい動きで、
+line2 <shift> # 本番を迎えることになってしまった）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （俺が、もっと的確に判断していればな……）
+com09 0 49
+display
+location 49
+unk02

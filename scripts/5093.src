@@ -1,0 +1,280 @@
+com2c 0 24
+com2d 0 11
+com32 0 0
+com11 0 3
+sound 1200
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「みなさん、おはようございます！
+line2 <shift> # 実は、みなさんに配りたいものがあるんです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おっ、どうしたんだ春香。いきなり急に」
+display
+com11 0 3
+sound 1201
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「えへへ……、じゃーん！　私特製の、
+line2 <shift> # チョコレートです！　一緒に食べませんか？」
+display
+com11 0 3
+sound 1202
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「うちで作って、持ってきたんです。
+line2 <shift> # さぁ、プロデューサーさんも、ぜひぜひっ」
+com03 0 2
+choice1 <shift> # いただきます
+line2
+com09 0 10
+com08
+choice2 <shift> # うーん……
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、ひとつもらうよ。いただきます」
+display
+com11 0 3
+sound 1203
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「はーい、どうぞ♪」
+display
+com11 0 3
+sound 1204
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ちょっぴり自信作なんです。プロデューサー
+line2 <shift> # さんのお口にも、合うといいんですけど……」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、このあとも仕事あるし、
+line2 <shift> # 甘いものは控えようかなぁ」
+display
+com11 0 3
+sound 1205
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そう言わずに食べてくださいよぉ。
+line2 <shift> # ちょっと自信作なんですよ？」
+display
+com11 0 3
+sound 1206
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「それともプロデューサーさん、私が作ったの
+line2 <shift> # じゃ、安心して食べられないのかな……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いやいや、そんなことはないさ！
+line2 <shift> # ＯＫ、ひとつだけもらうよ」
+display
+com11 0 3
+sound 1207
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「はいっ！　どうぞ食べてくださいっ。
+line2 <shift> # お願いします♪」
+com09 0 29
+display
+location 29
+com11 0 3
+sound 1208
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「えへへ……。実は、こないだの仕事オフのとき、
+line2 <shift> # ちょっといいレシピを見つけて……」
+display
+com11 0 3
+sound 1209
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「試しに作ってたら、夢中になっちゃって……。
+line2 <shift> # 気がついたら、夜明かししてました」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「て、徹夜したのか？」
+display
+com11 0 3
+sound 1210
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あはは……。あっ、大丈夫ですよ？　そのあと、
+line2 <shift> # ちゃんと学校にも、遅刻しないで行ったし」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そして、授業中に居眠りしたんだな？」
+display
+com11 0 3
+sound 1211
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あうっ！　ど、どうして、わかったんですかっ。
+line2 <shift> # た、確かに……、寝ちゃいましたよぉ」
+com03 0 3
+choice1 <shift> # チョコもっとないかな？
+line2
+com09 0 30
+com08
+choice2 <shift> # 徹夜はよくないな
+line2
+com09 0 31
+com08
+choice3 <shift> # 居眠りはよくないな
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか、ははは……。
+line2 <shift> # ところで、チョコもっとないかな？」
+display
+com11 0 3
+sound 1212
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あっ、はい！　たくさん作ってきてますから、
+line2 <shift> # どんどん食べてくださいっ」
+display
+com11 0 3
+sound 1213
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「もしかして……、このチョコ、
+line2 <shift> # 気に入ってもらえました？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うん、甘すぎなくて、いい感じだと思うよ」
+display
+com11 0 3
+sound 1214
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ありがとうございます！　よかったぁ、
+line2 <shift> # プロデューサーさんに喜んでもらえて……」
+display
+com11 0 3
+sound 1215
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「作ってきたかい、あったかも！　なんかまた、
+line2 <shift> # お菓子作りに自信ついちゃった♪」
+display
+com11 0 3
+sound 1216
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「それじゃ、みんなにもチョコ、
+line2 <shift> # 配ってきますね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （春香は、ご機嫌だ。うまくチョコを作れたのが、
+line2 <shift> # そんなに嬉しかったのか……。よかったな）
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、熱中するのはいいけど、なんにせよ、
+line2 <shift> # 夜更かし徹夜は、あんまりよくないなぁ」
+display
+com11 0 3
+sound 1217
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「は、はい。そうですねぇ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「夢中になりすぎて、春香が、
+line2 <shift> # 身体を壊したりしたら、心配だ」
+display
+com11 0 3
+sound 1218
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ああっ、すみません。ですよね、
+line2 <shift> # お仕事に影響出ちゃったら、大変です！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いやいや、それより……、
+line2 <shift> # 春香は学生なんだし、女の子なんだからさ」
+display
+com11 0 3
+sound 1219
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あっ、は、はい！　そうですね。
+line2 <shift> # 倒れたりしたら大変……、気をつけますっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ははは。とにかく、ムリだけは、しないように。
+line2 <shift> # お菓子も歌も、頑張ってくれ」
+display
+com11 0 3
+sound 1220
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「はい！　まかせてくださいっ。歌もお菓子も、
+line2 <shift> # いっそう、腕に、よりをかけちゃいます！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （春香は、よっぽど、お菓子作りが好きなようだ。
+line2 <shift> # とりあえず、見守ってやるか……）
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん。理由は、どうあれ、
+line2 <shift> # 授業中に居眠りってのは、よくないなぁ」
+display
+com11 0 3
+sound 1221
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そ、そうですよねぇ。
+line2 <shift> # すみません、気をつけなくっちゃですね……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、俺に謝ることは、ないんだけど。
+line2 <shift> # 春香、ちゃんと授業も受けないと……」
+display
+com11 0 3
+sound 1222
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ううっ。そうそう、そうなんです！
+line2 <shift> # 居眠りしちゃって、授業がわからなくって」
+display
+com11 0 3
+sound 1223
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「それに、寝てたら顔に跡ついちゃって、
+line2 <shift> # 友達に笑われちゃって！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ええっ！？　顔に跡つけるほど、
+line2 <shift> # 熟睡してたのか？」
+display
+com11 0 3
+sound 1224
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あっ！　わっ！！　そ、そのっ……、そんな
+line2 <shift> # ことないです！　そんなことないですよ！！」
+display
+com11 0 3
+sound 1225
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「居眠りって言っても、ぐうぐうって、そんな感
+line2 <shift> # じじゃなくて。ああっ、何言ってるんだろう私」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もしかして……、大いびきかいたり、
+line2 <shift> # してないだろうね……？」
+display
+com11 0 3
+sound 1226
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あは、あは、あははははは……。
+line2 <shift> # ああっ。も、もう……、恥ずかしいなぁ」
+display
+com11 0 3
+sound 1227
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そんなこと、言えるわけ、
+line2 <shift> # ないじゃないですかぁ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （春香は逃げるように、どこかに行ってしまった。
+line2 <shift> # やれやれ、仕方ないなぁ……）
+com09 0 49
+display
+location 49
+unk02

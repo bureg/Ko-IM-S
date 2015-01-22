@@ -1,0 +1,279 @@
+com2c 0 25
+com2d 0 71
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さてと、じゃあ、ミーティングはじめようか。
+line2 <shift> # お互いのことを話して、理解を深めていこう」
+display
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あなた、年は？　これまでの経歴は？　どう
+line2 <shift> # してプロデューサーになりたいと、思ったの？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「って、いきなり質問攻めにするなよ。
+line2 <shift> # 俺にも、質問させろって」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「私のことは、プロフィール見れば、書いて
+line2 <shift> # あるでしょ？　そっちを見れば、いいじゃない」
+com03 0 2
+choice1 <shift> # ……もっともだ　
+line2
+com09 0 10
+com08
+choice2 <shift> # 直接、聞きたいんだよ　
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……もっともだ。さすがに、回転が早いな」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ありがと。ま、これぐらいのことは、誰でも
+line2 <shift> # 思いつくと思いますけど」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「直接、聞きたいんだよ。わかるだろ、
+line2 <shift> # この気持ち？」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「う〜ん、よくわかりません。書類で見た方が、
+line2 <shift> # 早いし、正確だと思いますけど……」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あ、そうだ！　もし、まだ私の経歴書に目を
+line2 <shift> # 通していないなら、テストさせてもらおうかな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「テスト？」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そう、観察力の！　プロデューサーから見て、
+line2 <shift> # 私は、どれぐらいの年齢に見えます？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、見た目からして、おそらくは……」
+com03 0 3
+choice1 <shift> # 高校３年ぐらい？
+line2
+com09 0 20
+com08
+choice2 <shift> # 中学３年ぐらい？
+line2
+com09 0 21
+com08
+choice3 <shift> # 浪人３年ぐらい？
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「高校３年ぐらい？」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ズバリ、ご名答！　１８歳の高校３年です。
+line2 <shift> # 観察力はあるようですね。安心しました」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「正解か。ほっ、よかった」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「中学３年ぐらい？」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「はあ〜、私、そんなに子どもに見えます？
+line2 <shift> # 正解は、１８歳の高校３年生です……」
+com09 0 28
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「浪人３年ぐらい？」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あの〜、３浪してる人が、こんなところでプラ
+line2 <shift> # プラしてると思います？　正解は高校３年！」
+com09 0 28
+display
+location 28
+com11 0 0
+sound 10009
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「観察力は、イマイチみたいですね。
+line2 <shift> # 本当に、信用しちゃって、大丈夫ですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ま、まあ、たまには失敗もあるよ。
+line2 <shift> # これぐらいは、多めに見てくれって……」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 10010
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「それにしても、よりによって、私を選ぶなん
+line2 <shift> # てね。もっとかわいい子、たくさんいるのに」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、俺は、リストを見て、
+line2 <shift> # 律子が一番いい、と思ったんだけど……」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ウソ。私、自分の事ぐらい、ちゃんとわかって
+line2 <shift> # る。こんな堅物、成功させられると思います？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「させられると、信じてるよ。
+line2 <shift> # そのためには……」
+com03 0 3
+choice1 <shift> # 知恵を貸してくれよな？　
+line2
+com09 0 30
+com08
+choice2 <shift> # 努力してくれよな？　
+line2
+com09 0 31
+com08
+choice3 <shift> # もっと、見た目をみがこうな？　
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「知恵を貸してくれよな？」
+display
+com11 0 0
+sound 10012
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あ、そうね。ルックスはダメでも、売り方の
+line2 <shift> # アイデア出しとかだったら、貢献できるかも！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺ひとりじゃ、気づかないこともあるしな。
+line2 <shift> # 協力して、多角的な攻め方をしていこう」
+display
+com11 0 0
+sound 10013
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「了解！　ふーん、なかなか冷静な物の見方、
+line2 <shift> # できる人なんですね。これは、当たりかなっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （協力を求めたら、うれしそうに同意してくれた。
+line2 <shift> # どうやら、信頼を勝ち取ることができたようだ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……その後、プロモーションの方法について、
+line2 <shift> # いろいろ話し、中身の濃い時間を過ごした）
+com09 0 39
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「努力してくれよな？」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「それは、もちろん、できる事はする気でいます。
+line2 <shift> # けど、それで、うまくいくか、どうかは……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おいおい、今から、そんな後ろ向きで、
+line2 <shift> # どうするんだよ？」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「別に、投げてるワケじゃありません。私はただ、
+line2 <shift> # 可能性について、冷静に分析しているだけで……」
+display
+com11 0 0
+sound 10016
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「はあ〜あ、現実は厳しいんですよ？
+line2 <shift> # 努力努力じゃ、なにも解決しないんだから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うーん、あきれられてしまった。どうやら失敗
+line2 <shift> # だな。もう少し、ひねった事、言えばよかった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……その後、白けきった律子を、元の状態に
+line2 <shift> # 戻すのに、時間いっぱい費やすハメになった）
+com09 0 39
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もっと、見た目をみがこうな？」
+display
+com11 0 0
+sound 10017
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ちょっとやそっと、みがいたぐらいじゃ、
+line2 <shift> # どうにも、ならないんですよね。私の場合」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうか？　そんなことはないと思う
+line2 <shift> # けど……」
+display
+com11 0 0
+sound 10018
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「元々、美人でも、かわいいタイプでもないから、
+line2 <shift> # 売れるためには、直球勝負じゃダメなんです」
+display
+com11 0 0
+sound 10019
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「私を選んだんなら、それぐらい、当然、理解
+line2 <shift> # してくれてると、思ったんですけど？　は〜ぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （う、白い目で見られてしまった……。なんの
+line2 <shift> # 策もない、無能な人間と思われてしまったかも）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……その後、律子の疑いを晴らし、かろうじて
+line2 <shift> # 信頼してもらうまでに、長い時間がかかった……）
+com09 0 39
+display
+location 39
+unk02

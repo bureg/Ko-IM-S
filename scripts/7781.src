@@ -1,0 +1,425 @@
+com2c 0 121
+com2c 0 86
+com2d 0 111
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そうだ！　今日は、寄り道しながら、
+line2 <shift> # いつもと違う道を通って、帰ってみようかな？）
+com03 0 2
+choice1 <shift> # どこかに寄り道する
+line2
+com09 0 10
+com08
+choice2 <shift> # まっすぐ帰る
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （たまには、違う道を通るか。そうすれば、
+line2 <shift> # 新しい何かに、出会えるかもしれないしな！）
+display
+com11 0 0
+sound 0
+name 0 0 <names:2>  # ???
+line1 <shift> # 「ねこ吉ーっ！　ねーこーきーちーっ！！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ん？　あっちの建物の方から、
+line2 <shift> # 別に新しくない、何かの気配がするな……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （一応、行ってみるか）
+display
+com22 0 30
+com21 0 30
+com32 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もしもーし、ごめん下さーい！　……誰も
+line2 <shift> # いないな。確かに、こっちから声がしたんだが」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それに、暗くて、何も見えないぞ」
+display
+com11 0 0
+sound 1
+name 0 0 <names:2>  # ???
+line1 <shift> # 「うう……。ひいいーっく、ぐすっ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （暗闇の中で、誰かの泣き声がするぞ！
+line2 <shift> # こ、これは、もしや……！？）
+com03 0 3
+choice1 <shift> # ゆうれい！？
+line2
+com09 0 20
+com08
+choice2 <shift> # 迷子！？
+com09 0 21
+com08
+choice3 <shift> # 変質者！？
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （いや、やっぱり、いつも通り、まっすぐ帰ろう。
+line2 <shift> # 遠回りになると、いけないしな）
+com09 0 99
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ゆ、ゆうれいなのかっ！？
+line2 <shift> # ひいいい！　出たーっ！」
+display
+com11 0 0
+sound 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「ええっ、ゆうれい！？　どこどこどこっ？
+line2 <shift> # うわーん！　怖いよ、母さーんっ！」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「迷子かっ！？　出ておいでー、
+line2 <shift> # お兄さんは、怖くないよ〜。お菓子あげるよ〜」
+display
+com11 0 0
+sound 3
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「ううっ。自分、迷子じゃないけど、
+line2 <shift> # お菓子ちょうだい、お兄さんっ！」
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「変質者かっ！？」
+display
+com11 0 0
+sound 4
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「うわーんっ！　変質者は、７６５プロだろっ！
+line2 <shift> # 変態のくせに、変態におびえるなよ。ぐすっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「むう。今、泣いてるどさくさにまぎれて、
+line2 <shift> # すごくヒドイことを言われた気がするぞ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……って、そんなことより！」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おまえは……、響じゃないか！
+line2 <shift> # どうしたんだ、こんな真っ暗な建物の中で」
+display
+com11 0 0
+sound 5
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「うううっ。飼ってるネコが……、ねこ吉が、
+line2 <shift> # 家出しちゃってっ！　見つからないんだよお！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんだ……。そんなの、いつものことじゃない
+line2 <shift> # か。前に、他の動物も逃がしてただろ？」
+display
+com11 0 0
+sound 6
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「今回は逃がしたんじゃない！　覚悟の家出なん
+line2 <shift> # だぞ！　ぐすっ。ねこ吉……。ねこ吉ーっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ネコが覚悟してたかどうか、どうやってわかる
+line2 <shift> # んだ？　……まあ、いい。一緒に探してやるよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……高木社長に、響と話すように言われてる
+line2 <shift> # しな。このくらいは、してやってもいいだろう）
+display
+com11 0 0
+sound 7
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「え、ライバルなのに探してくれるの？　７６５
+line2 <shift> # プロ、いいとこあるなっ！　う、うわぁーん！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああー、もうわかったから、泣きやんでくれよ。
+line2 <shift> # 響は泣いててもウルサイから。な？」
+display
+com11 0 0
+sound 8
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「わかったよ。……ねこ吉はさ、
+line2 <shift> # 母さんネコと別れて自分の所に来たんだよっ！」
+display
+com11 0 0
+sound 9
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「でも、自分が忙しくて、あんまり構ってやれな
+line2 <shift> # かったから、きっと寂しかったんだろうな」
+display
+com11 0 0
+sound 10
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「それで、きっと、母さんの声がききたく
+line2 <shift> # なったんだ。母さんに会いたくなったんだ！」
+display
+com11 0 0
+sound 11
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「気持ちわかるぞーっ！　うう、ねこ吉ー！
+line2 <shift> # ねーこーきーちーっ！　うわあああーんっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「響……。そんなに泣くなんて、お前、
+line2 <shift> # ネコの家出だけで泣いているんじゃないな！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お前が泣いている、本当の理由。
+line2 <shift> # それは……！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ホームシックだ！　お母さんに会いたいのは、
+line2 <shift> # ねこ吉じゃない。響自身だ！　そうだろう？」
+display
+com11 0 0
+sound 12
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「……くやしいけど、
+line2 <shift> # それ、当たってるかもな！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やっぱり！　……でも、お母さんが恋しいなら、
+line2 <shift> # 会いに帰ればいいじゃないか」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「遠くて大変なら、電話をかけて声をきくだけ
+line2 <shift> # でも、少し気持ちが楽になるかもしれないぞ？」
+display
+com11 0 0
+sound 13
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「そんなのムリだよっ！　自分、９６１プロに
+line2 <shift> # 入ってから、一度も家に帰ってないんだぞ！」
+display
+com11 0 0
+sound 14
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「電話だって１回もしてない！　黒井社長が、
+line2 <shift> # ９６１プロ以外の人間とは話すなって言うから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええっ！　親兄弟もダメなのか？　黒井社長
+line2 <shift> # には、友達も作るなって言われてるだろう？」
+display
+com11 0 0
+sound 15
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「うん……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それ、誰とも話しちゃダメってことじゃないか。
+line2 <shift> # そんなの、寂しくなって当然だよ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いくらなんでも、肉親に会うぐらいはＯＫだろ。
+line2 <shift> # 黒井社長に頼んで、里帰りしたらどうだ？」
+display
+com11 0 0
+sound 16
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「それだけは、できないっ！　黒井社長がいいっ
+line2 <shift> # て言っても、今は……、ゼッタイ帰れない！」
+com03 0 3
+choice1 <shift> # そっか！
+com09 0 30
+com08
+choice2 <shift> # どうしてだ？
+line2
+com09 0 31
+com08
+choice3 <shift> # 心配してるぞ、お母さん
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そっか！　じゃあ、がんばれ！」
+display
+com11 0 0
+sound 17
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「……どうして帰らないか、
+line2 <shift> # ワケを、きかないの？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「きいても、どうせ教えてくれないんだろ？
+line2 <shift> # 肝心なことは、いつも言わないよな、響って」
+display
+com11 0 0
+sound 18
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「う……。そ、そうだよ！　７６５プロなんかに、
+line2 <shift> # 大事なことを言うわけないぞ！」
+com09 0 39
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それは、どうしてだ？」
+display
+com11 0 0
+sound 19
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「ワケは言えない。誰にも、言えない。
+line2 <shift> # 特に７６５プロには、言わないよっ！」
+com09 0 39
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「強情だなあ。
+line2 <shift> # でも、きっと心配してるぞ、響のお母さん」
+display
+com11 0 0
+sound 20
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「そ、そうかなぁ……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「当たり前だろ、娘なんだから。心配で心配で、
+line2 <shift> # 夜も眠れないかもな。かわいそうに……」
+display
+com11 0 0
+sound 21
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「うう、うわわわーんっ！　ごめんよ、
+line2 <shift> # 母さーんっ！！　わあああーんっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなに泣くなよ。俺が相談のってやるから！
+line2 <shift> # で、どうして今は、帰れないんだ？」
+display
+com11 0 0
+sound 22
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「それは、言えない！　特に７６５プロには！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うーむ、手ごわいなあ……）
+com09 0 39
+display
+location 39
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか。……はあーあ」
+display
+com11 0 0
+sound 23
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「な、なんだよー……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、俺がもっと力のあるプロデューサー
+line2 <shift> # だったら、信用してもらえるのに、と思ってさ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「スゴ腕プロデューサーが、『黒井社長の教えは、
+line2 <shift> # 間違いだ』って言ったら、響だって聞くだろ？」
+display
+com11 0 0
+sound 24
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「うーん……。まあ、そうかもねっ！　へっぽこ
+line2 <shift> # プロデューサーが言うより、説得力あるぞ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ぐ……。言ってくれるなあ。でも、その通りだ
+line2 <shift> # よな。俺さえ、もっとしっかりしていれば……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （担当アイドルを、すぐトップアイドルにしてや
+line2 <shift> # れる。響の力にももっとなってやれるんだけど）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺って、まだまだダメだなあ……。最近、良い
+line2 <shift> # ことないし。うう、どんどん落ち込んできたぞ」
+display <shift> # がさがさっ！
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ん？　この音は……？」
+display <shift> # がさがさっ！　にゃーん！
+display
+com11 0 0
+sound 25
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「ああっ、ねこ吉っ！　良かった。
+line2 <shift> # 帰ってきてくれたのかっ！　ねこ吉ーっ！」
+display <shift> # にゃーん！
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「見つかったのか！　良かったな。ははは……」
+display
+com11 0 0
+sound 26
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「うんっ、ありがとね！　泣くだけ泣いて、
+line2 <shift> # スッキリしたし、帰ろうかな！　バイバイっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、じゃあな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「はあ。９６１プロの動向、また何にもききだせ
+line2 <shift> # なかったな。高木社長、すみません……」
+display
+com11 0 0
+sound 27
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「ねえ、あのさ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うわっ！　ビックリしたっ！
+line2 <shift> # なんだよ？　忘れ物か？」
+display
+com11 0 0
+sound 28
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「うん。あのさ、ねこ吉が見つかったのは、
+line2 <shift> # いいことだぞっ！　７６５プロも喜べ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え？」
+display
+com11 0 0
+sound 29
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「ほら、『最近、良いことない』って言ってた
+line2 <shift> # から、気になって、言いに来たんだよっ！」
+display
+com11 0 0
+sound 30
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「じゃ、バイバイっ！　……あ。自分が泣いてた
+line2 <shift> # こと、誰かに言ったら、怒るからねっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……一応、励ましてくれたつもりなのかな？）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （響がホームシックになっても帰らない理由、
+line2 <shift> # いつか話してくれるといいな……）
+com09 0 99
+display
+location 99
+unk02

@@ -1,0 +1,407 @@
+com2c 0 21
+com2c 0 143
+com2d 0 111
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うーん、今日も１日疲れたなあ。ちょっと
+line2 <shift> # 寄り道して、体操でもしてから、帰ろうかな？）
+com03 0 2
+choice1 <shift> # どこかに寄り道する
+line2
+com09 0 10
+com08
+choice2 <shift> # まっすぐ帰る
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （寄り道して、体操して帰ろう。
+line2 <shift> # 少し、筋肉をほぐさないとな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （いっちに、さんし！　にーに、さんしっ！）
+display <shift> # どどどどどど……
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ん？　何の音だろう？
+line2 <shift> # はっ！　まさか、この展開はっ！？）
+display <shift> # どかーんっ！　ブヒブヒーッ！
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「イテテテッ！　今度はブタだ！
+line2 <shift> # ブタに頭突きされたぞっ！」
+display <shift> # がさがさっ！
+display
+com11 0 0
+sound 0
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「ブタ太ー！？　どこ行った、ブタ太ー！！
+line2 <shift> # 自分が悪かった！　帰って来い、ブタ太ーっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もう、この展開には慣れてきたぞ……。
+line2 <shift> # やあ、響。このブタ、おまえの友達か？」
+display
+com11 0 0
+sound 1
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「やっぱり、今回も出たか、７６５プロ！
+line2 <shift> # でも、ブタ太は、ただのブタじゃないぞっ！」
+display
+com11 0 0
+sound 2
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「な、なんと、ミニブタだっ！
+line2 <shift> # ミニブタは、すごく頭がいいんだぞーっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ふーん……。それで、その頭のいいミニブタに、
+line2 <shift> # 小屋から逃げられたわけか」
+display
+com11 0 0
+sound 3
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「くぅ……。よしよし、ブタ太。一人で、
+line2 <shift> # 帰れるかな？　良い子だから、先にお帰り」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「図星のようだな……。ところで、
+line2 <shift> # ブタ太を、一匹で帰らせて大丈夫なのか？」
+display
+com11 0 0
+sound 4
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「大丈夫だよー。ブタ太は本当に、
+line2 <shift> # かしこいんだから。自分の家、すぐそこだしね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「へえ。そうなのか。
+line2 <shift> # 響って、一人暮らしなのか？」
+display
+com11 0 0
+sound 5
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「うん。９６１プロの、すぐ近くに住んでるよ！
+line2 <shift> # 動物達と、一緒にねっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか。ところで響は、いつも、
+line2 <shift> # オフの日は何をして過ごしてるんだ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「意外と、こっちでできたボーイフレンドと、
+line2 <shift> # デートとか、してたりして？」
+display
+com11 0 0
+sound 6
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「ううん」
+display
+com11 0 0
+sound 7
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「オフの日は、たいてい、家から脱走した
+line2 <shift> # 動物を探すのに、１日使っちゃうから！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなに、しょっちゅう、
+line2 <shift> # 逃げられてるのか！？」
+display
+com11 0 0
+sound 8
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「そ、そうでもないぞっ！　それに、もし逃げら
+line2 <shift> # れても、努力して、ゼッタイに探し出すもん！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （どうせなら、逃げられない努力をした方が、
+line2 <shift> # いいと思うけど……）
+display
+com11 0 0
+sound 9
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「でも今日は、７６５プロが、ブタ太を見つけて
+line2 <shift> # くれたから、することがなくなったよ！」
+display
+com11 0 0
+sound 10
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「ヒマだから、エサの買出しにでも、
+line2 <shift> # 行こうかなあ……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「行ってらっしゃい。気をつけてな。
+line2 <shift> # じゃ、俺は、これで……」
+display
+com11 0 0
+sound 11
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「待った！　７６５プロのせいで、
+line2 <shift> # ヒマになったんだから、責任をとれっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「はあ！？　どういう理屈だよ？」
+display
+com11 0 0
+sound 12
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「いいから、来てっ！　こっちこっち！
+line2 <shift> # 遅いぞっ！」
+display
+com22 0 30
+com21 0 30
+com32 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……ふぅふぅ。け、結構、重たいんだな。
+line2 <shift> # 動物のエサって」
+display
+com11 0 0
+sound 13
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「まあね。これで、たくさんの動物を飼う自分の
+line2 <shift> # 苦労が、７６５プロにもわかったんじゃない？」
+com03 0 3
+choice1 <shift> # よくわかった
+line2
+com09 0 20
+com08
+choice2 <shift> # わかったような気がする
+line2
+com09 0 21
+com08
+choice3 <shift> # わからない……
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そんなことしても、余計に疲れるだけだな。
+line2 <shift> # やっぱり、まっすぐ帰ろう……）
+com09 0 99
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よくわかった。エライなあ、響は」
+display
+com11 0 0
+sound 14
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「えへへ……。そうでしょ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……待てよ？　響は、好きで動物を飼ってるん
+line2 <shift> # だから、世話をするのは、当然じゃないか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だいたい、俺、どうして響の買い物に付き合わ
+line2 <shift> # されているんだ！？　荷物まで持たされて！」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わかったような気がするよ」
+display
+com11 0 0
+sound 15
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「なんだよー、その言い方。素直じゃないなあ。
+line2 <shift> # せっかく買い物に、付き合わせてやったのに」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「はあ、どうもすみません。……って、別に俺、
+line2 <shift> # 付き合わせてくれって頼んだ覚え、ないぞ！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なのになぜ、ちゃっかり荷物まで持たされて
+line2 <shift> # いるんだああーっ！　おかしいぞ、これは！」
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わからない……。まったく見当もつかない。
+line2 <shift> # どうして俺が……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いつの間にか、響の買い物に付き合わされて、
+line2 <shift> # 荷物まで持たされているのかが……」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 16
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「ちっ、気づいたか……。じゃあ、いいよっ！
+line2 <shift> # あとは帰るだけだし、もう、一人でできるから」
+display
+com11 0 0
+sound 17
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「荷物、貸してっ！
+line2 <shift> # で、７６５プロは、先に帰ってよし！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いいよ。ここまで来たら、最後まで、
+line2 <shift> # 付き合ってやるよ。荷物、かなり重いし」
+display
+com11 0 0
+sound 18
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「えっ！　……自分に、
+line2 <shift> # 恩を売ろうとしても、ムダだぞ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなんじゃないって。もう、結構、夜遅い
+line2 <shift> # からな。女の子一人で帰るのは、危ないぞ」
+display
+com11 0 0
+sound 19
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「そ、そっか。それなら遠慮なんか、しないっ！
+line2 <shift> # んじゃ、帰ろーっ！」
+display
+com22 0 30
+com21 0 30
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ここまでで、いいか？　家の前まで送ってやり
+line2 <shift> # たいけど、黒井社長に見つかったら困るからな」
+display
+com11 0 0
+sound 20
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「そうだねっ！　あの子にも、見つかったら、
+line2 <shift> # カン違いされるかもしれないぞ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あの子って……、
+line2 <shift> # 俺の担当アイドルのことか？」
+display
+com11 0 0
+sound 21
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「そうそう。『本当は我那覇響のプロデュースを
+line2 <shift> # したいのかな？』って、誤解されそうだぞ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ。それは……」
+com03 0 3
+choice1 <shift> # 困る！
+com09 0 30
+com08
+choice2 <shift> # ないな！
+com09 0 31
+com08
+choice3 <shift> # 俺の本心かも
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「困る！　ただでさえ、今は大事な時期だから、
+line2 <shift> # 変に動揺してほしくないんだ」
+com09 0 39
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ないな！　彼女は、そんなつまらない誤解を、
+line2 <shift> # するような子じゃないから」
+display
+com11 0 0
+sound 22
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「ふーん。すごい自信だねっ！　でも、自分が
+line2 <shift> # あの子の立場だったら、いい気はしないけどな」
+display
+com11 0 0
+sound 23
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「自分のプロデューサーが、知らないところで、
+line2 <shift> # ライバルのアイドルに優しくしてるなんてさ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうかな？」
+com09 0 39
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺の本心かも。もし、他の事務所のアイドル
+line2 <shift> # でも、プロデュース可能ならば、俺は……」
+display
+com11 0 0
+sound 24
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「な、何、言ってるんだよ！　そんなの、お断り。
+line2 <shift> # 変なこと言うと、あの子に言いつけるぞっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うわっ、それは困るっ！
+line2 <shift> # 今のは、何かの気の迷いであってだな……！」
+com09 0 39
+display
+location 39
+com11 0 0
+sound 25
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「あっははは！　あせってる、あせってる！」
+display
+com11 0 0
+sound 26
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「変態事務所の変態プロデューサーにも、
+line2 <shift> # 人の心があるんだねっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おまえ……。さんざん世話になっておいて、
+line2 <shift> # 言うことは、相変わらずヒドイな」
+display
+com11 0 0
+sound 27
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「あっははは！　だって７６５プロだもん。
+line2 <shift> # 自分が、信用するわけないさー！」
+display
+com11 0 0
+sound 28
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「でも、プロデューサーがいるって、こういう
+line2 <shift> # 感じなんだね。気分だけは味わえたぞっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、そうか。響は、いつも一人で行動してる
+line2 <shift> # もんな。でも、こういうのも、悪くないだろ？」
+display
+com11 0 0
+sound 29
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「うん。悪くない！　……あ。
+line2 <shift> # 相手が７６５プロじゃなければ、だけどっ！」
+display
+com11 0 0
+sound 30
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「今日は付き合ってもらったけど、ＩＵの予選で
+line2 <shift> # は、手をぬいたりしないぞっ？　バイバイっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……ふぅ。とんだ寄り道になっちゃったぞ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （でも、これで少しでも、響の７６５プロに
+line2 <shift> # 対する誤解がとけてると、うれしいんだけどな）
+com09 0 99
+display
+location 99
+unk02

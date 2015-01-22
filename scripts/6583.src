@@ -1,0 +1,192 @@
+com11 0 6
+sound 180
+com2c 0 118
+com32 0 0
+com2d 0 11
+location 0
+com11 0 6
+sound 18000
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「はぁ〜、終わっちゃいましたね。
+line2 <shift> # これで、全部……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。でも、満足だろ？　最低の会場とはいえ、
+line2 <shift> # ちゃんとラストライブ、できたんだから」
+display
+com11 0 6
+sound 18001
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「う〜ん、満足っていうのは、言い過ぎじゃない
+line2 <shift> # ですか？　あのホール、本当に汚いし……」
+com09 0 10
+com38 0 1
+com1e 0 0
+com09 0 10
+com3b
+com37 0 0
+com1e 0 0
+com09 0 11
+com3b
+display
+location 10
+com11 0 6
+sound 18002
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「それに、今の私の人気だったら、もっと大きな
+line2 <shift> # 会場でも、イケたと思います」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う、そうか。守りに入りすぎたかもな。……で、
+line2 <shift> # 春香。話したいことっていうのは、なんだ？」
+com09 0 19
+display
+location 11
+com11 0 6
+sound 18003
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「まあ、今の私の実力じゃ、あれぐらいの広さの
+line2 <shift> # ところが限界なのも、確かですけど……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そう、暗い顔するなって。……で、春香。
+line2 <shift> # 話したいことっていうのは、なんだ？」
+com09 0 19
+display
+location 19
+com11 0 6
+sound 18004
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あ、えっと……私、決めました。
+line2 <shift> # これから先、どうするのか」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、明日へのヒント、見つけたのか？」
+display
+com11 0 6
+sound 18005
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「はい！　私……。私、もうアイドル……」
+display
+com11 0 6
+sound 18006
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「やめてもいいかなって、思ってました。
+line2 <shift> # けど、やっぱり続けることにしますっ」
+display
+com1c 0 3
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……そうか」
+display
+com11 0 6
+sound 18007
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「くやしいですもんね。あの、せまいホールでの
+line2 <shift> # ライブが、これまでの集大成だなんて……」
+display
+com11 0 6
+sound 18008
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「せっかくアイドルになったんだし、キレイな
+line2 <shift> # 場所で、ラストライブやるまで引退はしません」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし！　今日の経験をバネにして、
+line2 <shift> # もっと、ビッグになってくれよな！」
+display
+com11 0 6
+sound 18009
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「はいっ！　それじゃ、早速、家に戻って、歌の
+line2 <shift> # 練習をはじめなきゃ！　ダッシュで帰ります！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え？　おい、それはやめた方が……。
+line2 <shift> # 疲れきった身体で、走ったりしたら、転ぶぞ？」
+display
+com11 0 6
+sound 18010
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「大丈夫ですよぉ。よーい……、どっ！
+line2 <shift> # あ、あああ、きゃあああああああ！？」
+display
+com11 0 6
+sound 18011
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「いったーい！
+line2 <shift> # ヒザ、すりむいちゃいました〜〜〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ほら、言わんこっちゃない。これから、俺と
+line2 <shift> # 別れて、やっていけるのか、不安だけど……」
+com03 0 3
+choice1 <shift> # まあ、がんばれ　
+line2
+com09 0 20
+com08
+choice2 <shift> # ま、元気でな　
+line2
+com09 0 21
+com08
+choice3 <shift> # 知ったことじゃない、か　
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、がんばれ」
+display
+com11 0 6
+sound 18012
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ううう〜、はい……。すみません。最後まで、
+line2 <shift> # 心配かけっぱなしで……」
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ま、元気でな」
+display
+com11 0 6
+sound 18013
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ううう〜、はい……。すみません。最後まで、
+line2 <shift> # ドジなところ、なおらなくて……」
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「知ったことじゃない、か。俺は、もう
+line2 <shift> # 春香のプロデューサーじゃ、ないんだし」
+display
+com11 0 6
+sound 18014
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ううう〜、見放されても、当然ですよね。
+line2 <shift> # これまで、いろいろ、すみませんでしたぁ」
+com09 0 29
+display
+location 29
+com11 0 6
+sound 18015
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「それじゃ、プロデューサーさん、さようなら。
+line2 <shift> # せめて転ばないよう歩いて帰ります。はぁ……」
+com4a 0 0
+com09 0 30
+display
+location 30
+location 100 129 92 129 92 130 177 130 164 130 181 130 196 129 65 137 180 130 170 136 231 130 196 130 189 143 173 143 151 130 205 129 65
+line2 <shift> # 今にも泣き出しそうな顔で、去っていった……。
+display
+location 101 143 116 141 129 130 204 131 104 131 87 130 170 130 200 130 168 130 233 147 250 130 205 129 65 130 173 130 233 130 204 130 190 130 235 130 164 130 169 129 72
+line2 <shift> # そして、巨大な会場で、有終の美を飾る日は？
+display
+location 102 130 224 130 205 130 226 129 65 137 180 130 201 130 197 130 171 130 233 130 204 130 205 129 65 139 70 130 233 130 177 130 198 130 190 130 175 130 190 129 66
+line2 <shift> # 俺達の道は――、二つに、わかれたのだから。
+display
+unk02

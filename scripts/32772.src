@@ -1,0 +1,310 @@
+com2c 0 44
+com2d 0 61
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「次のアルバム、隠しトラックをひとつ入れて
+line2 <shift> # みようかと思ってるんだけど、どうかな」
+display
+com11 0 2
+sound 400
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ええっ？　隠しですか？
+line2 <shift> # つまり、内緒ってことですか？」
+display
+com11 0 2
+sound 401
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「うーん、お客さんをだましちゃうのかな。
+line2 <shift> # それって、いいのかな……？」
+com03 0 2
+choice1 <shift> # いいのです！
+line2
+com09 0 10
+com08
+choice2 <shift> # だますわけ　じゃないが
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いいのです！」
+display
+com11 0 2
+sound 402
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そ、そんな……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、アルバムにおまけはある、と
+line2 <shift> # アナウンスするさ。でも何かは教えない」
+display
+com11 0 2
+sound 403
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「むぅ……そうなんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おまけだからこそ隠す、
+line2 <shift> # という意外性が重要だっ」
+display
+com11 0 2
+sound 404
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あっ……アルバム買って、あけてびっくり、
+line2 <shift> # 聴いてはじめてわかる……？」
+display
+com11 0 2
+sound 405
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「なるほどぉ、それはちょっと
+line2 <shift> # 嬉しい内緒かもっ」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「別にだますわけじゃあないが……」
+display
+com11 0 2
+sound 406
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「でも、なんかイメージ悪いですよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、アルバムにおまけはある、と
+line2 <shift> # アナウンスはするさ。ただし何かは教えない」
+display
+com11 0 2
+sound 407
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ぐすっ、なんで教えないんですかぁ。
+line2 <shift> # それってお客さんへのいじわるですよぉ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「泣くなって。おまけが何か知りたい、そして
+line2 <shift> # 買ってびっくり、それがいいんじゃないか」
+display
+com11 0 2
+sound 408
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ううっ……まぁ、わかりますけどぉ……」
+display
+com11 0 2
+sound 409
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「『内緒の隠しトラックつき！』って、
+line2 <shift> # 最初から言ってもいいのに、と思いますっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （それだと内緒になってない気もするが……）
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「しかしせっかくのおまけの隠しトラック、
+line2 <shift> # 何かいつもと違う趣向が欲しいなぁ」
+display
+com11 0 2
+sound 410
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あっ……それなら、たまには、
+line2 <shift> # 歌じゃないものをやってみたらどうでしょう」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「う、歌じゃないもの？
+line2 <shift> # っていうと……なんだろう？」
+display
+com11 0 2
+sound 411
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「つまり歌以外のトラックを作るって
+line2 <shift> # ことですけど……」
+display
+com11 0 2
+sound 412
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あっ、いえ、その、ユニットの売りは、
+line2 <shift> # もちろん、歌ですけど……だめでしょうか」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、考えてみよう。
+line2 <shift> # なにか面白いことができるかも」
+com03 0 3
+choice1 <shift> # インスト曲を　入れてみる？
+line2
+com09 0 30
+com08
+choice2 <shift> # トークを　入れてみる？
+line2
+com09 0 31
+com08
+choice3 <shift> # プログラムを　入れてみる？
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「歌じゃない……つまり、楽器だけ、
+line2 <shift> # インストの曲を入れてみるか」
+display
+com11 0 2
+sound 413
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「カラオケトラックではなくて、ですよね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うん、アルバム用になにか、スペシャルな
+line2 <shift> # アレンジのをひとつ、用意してもらおう」
+display
+com11 0 2
+sound 414
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「もしかして、リミックスアレンジですか！
+line2 <shift> # 普段と違う曲の魅力がでて、面白いかも……」
+display
+com11 0 2
+sound 415
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そうそう、なにか私たちが演奏したり
+line2 <shift> # するのも、いいかもしれないですねっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、そうと決まればアレンジャーと相談だ。
+line2 <shift> # 素材録りもいろいろやっちゃおう」
+display
+com11 0 2
+sound 416
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい！　うーん、これは楽しみですっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （雪歩はかなり乗り気みたいだ。かつてないユ
+line2 <shift> # ニークなボーナストラックが誕生しそうだぞ！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （きっといい評判が得られそうだ。
+line2 <shift> # 俺も出来が楽しみになってきたな……）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「トークトラックを入れてみようか？
+line2 <shift> # いろいろ雪歩が話してさ、それを録る」
+display
+com11 0 2
+sound 417
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ええっ、私、トークはあんまり……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「アドリブのおしゃべりだとまとまらないかな？
+line2 <shift> # それなら、ちゃんと台本も用意するよ」
+display
+com11 0 2
+sound 418
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「それでも、あんまり気が進まないです。
+line2 <shift> # その、トークはどうしても苦手で、私……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、じゃあトークバックトラックだ！」
+display
+com11 0 2
+sound 419
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ええっ！？　す、スタジオのトークバックを
+line2 <shift> # 録るんですか！　そ、それって……」
+display
+com11 0 2
+sound 420
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「きっとＮＧ集みたいなものになりますよね、
+line2 <shift> # リテイクでヘコんでる私の声とか、入って……」
+display
+com11 0 2
+sound 421
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ううっ、な、なんか、恥ずかしいかもっ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （雪歩は困惑しながら顔を赤らめてる。
+line2 <shift> # でもそれほど悪い気はしてないかもしれない）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （企画ものとしては面白いトラックになりそうだ。
+line2 <shift> # 思い切ってやってみるか！）
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「プログラムを入れてみるか……？」
+display
+com11 0 2
+sound 422
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「プログラム？　って、ライブのですか？
+line2 <shift> # パンフレットでしょうか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、パソコンで動く簡単なプログラムさ。
+line2 <shift> # スクリーンセイバーとか……」
+display
+com11 0 2
+sound 423
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あっ、そっちのプログラムなんですね。
+line2 <shift> # 私、あんまり詳しくなくて……」
+display
+com11 0 2
+sound 424
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「うーん、でも、いいかも。曲の紹介とかも、
+line2 <shift> # プログラムでできそうですよね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、ムービーも入れようか。
+line2 <shift> # プロモーション効果が期待できそうだぞ」
+display
+com11 0 2
+sound 425
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ああっ、でも、ちょっと待ってください、
+line2 <shift> # プロデューサー……」
+display
+com11 0 2
+sound 426
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「パソコンのプログラムが入ってるＣＤって……、
+line2 <shift> # 普通のＣＤプレイヤーで再生できないかも」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うっ、しまった！　そうか……、
+line2 <shift> # うーん、考え直すか」
+display
+com11 0 2
+sound 427
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「すみません。私が変な提案したばっかりに……、
+line2 <shift> # 困ってますよね、プロデューサー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、いいんだ、ゆっくり考えようか」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しかし、その後は、妙案は出ず、隠しトラック
+line2 <shift> # の話は、なかったことになってしまった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （雪歩はそれを自分のせいだと思って、しょげて
+line2 <shift> # るみたいだ。そうじゃないのに。まいったなぁ）
+com09 0 49
+display
+location 49
+unk02

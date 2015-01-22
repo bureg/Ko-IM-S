@@ -1,0 +1,483 @@
+com2c 0 24
+com32 0 0
+com11 0 0
+sound 10000
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「はぁ……、マンネリだわ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「律子、どうしたんだ？
+line2 <shift> # ため息なんかついちゃって……」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「やっぱり！　トップの地位を維持するには！
+line2 <shift> # アイドルとしてのマンネリを打破しなければ！」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そうよ、そうだわ！　イメチェンよ！
+line2 <shift> # イメージチェンジをするのよ、秋月律子！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「な、何っ！？　イメチェンでいったい、
+line2 <shift> # 何に変わろうというんだ！？」
+com03 0 3
+choice1 <shift> # 歌手になるのか！
+line2
+com09 0 10
+com08
+choice2 <shift> # 女優になるのか！
+line2
+com09 0 11
+com08
+choice3 <shift> # 事務員になるのか！
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「歌手になるのか！」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「あの……、プロデューサー？
+line2 <shift> # いままで私を、なんだと思ってたんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……アイドル歌手」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そうですよ！　しっかりして下さい」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ああもう、ほんとにトップアイドルの、
+line2 <shift> # プロデューサーなのかな、この人」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「……ま、もう慣れましたけどね。プロデュー
+line2 <shift> # サーのそういうとこ、ちょっと面白いし」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「女優になるのか！」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そんな気ありません。今でも、女優のマネごと
+line2 <shift> # みたいなことは、することありますけど……」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「本職にするには、まだまだです。……でも、
+line2 <shift> # ミュージカルなんか、面白いかもしれませんね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おっ。興味があるのかな？」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「なくはないです。でも、うーん……。舞台に
+line2 <shift> # 立っての、歌と芝居の両立、道は険しいですよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そういう方向性も、考えてはいるんだな」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「考えてるだけで、それについては、
+line2 <shift> # 今はまだ、想像の範囲を出ない感じですね」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「事務員になるのか！」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ええと……、なんですって？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だって律子は昔、７６５プロの事務も担当して
+line2 <shift> # たっていうし、そこに戻りたいのかなーと……」
+display
+com11 0 0
+sound 10012
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「プロデューサー……、
+line2 <shift> # 事務員をバカにしてるんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「えっ！　そ、そんなことは決して！」
+display
+com11 0 0
+sound 10013
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「事務員の仕事は地味だけど、範囲が広いし、
+line2 <shift> # 毎日の作業量も多くて、すごく大変なんです」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「イメチェンで、ほいほい戻れるなんて、
+line2 <shift> # そこまで甘いこと、私、考えてませんから！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わ、わかった。悪かったよ……」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 10015
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「まあ、とにかく……」
+display
+com11 0 0
+sound 10016
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「アイドルとして今の地位に甘んじることなく、
+line2 <shift> # 私の新しい魅力をアピールしていかないと」
+display
+com11 0 0
+sound 10017
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「適当に仕事をこなしてるだけじゃ、いつか、
+line2 <shift> # みんなに飽きられちゃう日がきますから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なるほど、新しい魅力をアピールするのか。
+line2 <shift> # じゃあ、たとえば……」
+com03 0 3
+choice1 <shift> # 髪型を変えるとか
+line2
+com09 0 30
+com08
+choice2 <shift> # 年齢を変えるとか
+line2
+com09 0 31
+com08
+choice3 <shift> # 眼鏡をとるとか
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「髪形を変えるとか、どうだ？」
+display
+com11 0 0
+sound 10018
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「この髪型、結構、気に入ってるんだけどなあ。
+line2 <shift> # でも、それもありかな？」
+display
+com11 0 0
+sound 10019
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「どんな風に変えたらいいと思います？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おさげを解いて、髪を下ろす？」
+display
+com11 0 0
+sound 10020
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ううっ、ちょっと恥ずかしいかも……」
+display
+com11 0 0
+sound 10021
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「小学校の頃から、ずっとこれで通してるから。
+line2 <shift> # 正直、他の髪型が自分で想像しにくいな……」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「年齢を変えるとか、どうだ？」
+display
+com11 0 0
+sound 10022
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「芸能界ではよくあること……、って、
+line2 <shift> # 私は年齢をごまかす必要なんてなーいっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ごまかせと言った覚えはないけどな」
+display
+com11 0 0
+sound 10023
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「うぐっ……。でっ、でも、急にプロフィールが
+line2 <shift> # 変わったら、みんな怪しみますって！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それもそうか……。
+line2 <shift> # もはや律子も、大メジャーだからな」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「眼鏡をとるとか、どうだ？」
+display
+com11 0 0
+sound 10024
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ダメ！　それだけはダメ！　絶対ダメ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうして？」
+display
+com11 0 0
+sound 10025
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「眼鏡をとったら、私が私じゃなくなる！
+line2 <shift> # 魔法が解ける！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「何を言っているんだ？」
+display
+com11 0 0
+sound 10026
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「私が眼鏡を外すのは、ベッドとお風呂に
+line2 <shift> # 入る時だけと決めているんです！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「プールに入る時は？」
+display
+com11 0 0
+sound 10027
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「うっ……。水中メガネをかけます！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「要するに、恥ずかしいのか……。
+line2 <shift> # まあ、ムリにとは言わないよ」
+com09 0 49
+display
+location 49
+com11 0 0
+sound 10028
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「うーん、うーん……。
+line2 <shift> # ああ、どうしようかなあ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなに悩むくらいなら、別に、
+line2 <shift> # ムリして変えなくても、いい気もするんだけど」
+display
+com11 0 0
+sound 10029
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「だけど、何もしなくていいとは、
+line2 <shift> # 思わないんですよ。やっぱり」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん……」
+com03 0 3
+choice1 <shift> # 何も変えずにいこう
+line2
+com09 0 50
+com08
+choice2 <shift> # 焦らず考えよう
+line2
+com09 0 51
+com08
+choice3 <shift> # リサーチが必要だ
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「何も変えずにいこうよ」
+display
+com11 0 0
+sound 10030
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そんな！　どうしてイメチェンが必要か、
+line2 <shift> # プロデューサーだって、わかってますよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わかるけど……。でもそのために、
+line2 <shift> # わざわざ、今の良さをくずす必要はないよ」
+display
+com11 0 0
+sound 10031
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そ、そうかなあ。
+line2 <shift> # それも、わからなくはないけど……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「今の律子を好きでいてくれる人が、大勢いるだ
+line2 <shift> # ろう？　その人達を裏切るのは、良くないしさ」
+display
+com11 0 0
+sound 10032
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そうね……。新しさを加えるにあたっても、
+line2 <shift> # 今の私を犠牲にすることはない、かな……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺も、今の律子が好きだし、
+line2 <shift> # いいと思ってるよ」
+display
+com11 0 0
+sound 10033
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「……わかりました。プロデューサーが
+line2 <shift> # そう言ってくれるなら、私、信じます！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （律子は、納得してくれたみたいだ。
+line2 <shift> # 新しさは確かに必要だけれど……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （これまでの良さは、そのまま大事に、律子が
+line2 <shift> # もっと高みを目指していけるようにしていこう）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「焦らず考えようよ」
+display
+com11 0 0
+sound 10034
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そ、そうね、焦りはマイナスね……。
+line2 <shift> # よーし、ここは焦らずじっくり！」
+display
+com11 0 0
+sound 10035
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ああ、でも、あんまりのんびりしてると、
+line2 <shift> # ライバルに置いていかれるかもしれないわ」
+display
+com11 0 0
+sound 10036
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ああっ！　思いつかないっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「落ち着けって！　あわてるなっ！」
+display
+com11 0 0
+sound 10037
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ああっと、いけない。……深呼吸、深呼吸」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あわてておかしなことになるくらいなら、
+line2 <shift> # 当面、今のままにしたらどうだ？」
+display
+com11 0 0
+sound 10038
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「だけどそれじゃ、なんだか悔しい。
+line2 <shift> # 自分の新しさをアピールできないなんて」
+display
+com11 0 0
+sound 10039
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「時代に取り残されそうで……。
+line2 <shift> # わけもなくイライラしてきちゃいそう」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「今の律子なら、立場に余裕はあるんだ。
+line2 <shift> # もっと自信持てって」
+display
+com11 0 0
+sound 10040
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「う、うん。わかってます。でもねえ。
+line2 <shift> # はぁ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （律子は、うなずいてくれたが、
+line2 <shift> # まだ少し不安を感じているようだった……）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いい手は、ないものか……。
+line2 <shift> # もっとリサーチが必要だ！」
+display
+com11 0 0
+sound 10041
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「うっ！　そうね。正しい決断を下すには、
+line2 <shift> # 情報も戦略も、不足してるわ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「こんなときに焦って、
+line2 <shift> # 思いつきで行動したら、危険だぞ！」
+display
+com11 0 0
+sound 10042
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「わかってます。もっと市場の動向を調べて、
+line2 <shift> # 先人のやり方も学んで……」
+display
+com11 0 0
+sound 10043
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「でも、のぼりつめてしまった今の私と、
+line2 <shift> # 比較する対象なんて、なかなかないかも？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「確かに、過去に前例のないアイドルに、
+line2 <shift> # なりつつあるからな、律子は……」
+display
+com11 0 0
+sound 10044
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そうなんですよね。
+line2 <shift> # もうっ。いったい、どうすれば！？」
+display
+com11 0 0
+sound 10045
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ああ、ダメダメ！　今、この場で考えたって、
+line2 <shift> # なんにもならないって、わかってるのに！」
+display
+com11 0 0
+sound 10046
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「むぅ。悩んでも仕方ない。
+line2 <shift> # ここはお互い、宿題にしましょう……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだな、俺も、よく考えておくよ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （律子を勢いづけるつもりが、
+line2 <shift> # なんだか、しんみりしてしまった……）
+com09 0 69
+display
+location 69
+unk02

@@ -1,0 +1,212 @@
+com2c 0 25
+com2d 0 71
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「確か、いまは、学校の試験期間だったはず
+line2 <shift> # だけど……、律子もテストなのか？」
+display
+com11 0 1
+sound 100
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あー、そういえば、テストなんてあるのよね。
+line2 <shift> # ちょっとは勉強しといたほうが、いいのかな？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おいおい、そんな調子でいいのか。律子だって、
+line2 <shift> # 学生なんだろう？　きちんとテスト受けないと」
+display
+com11 0 1
+sound 101
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「まぁ、学生も学生。受験生ですが……。
+line2 <shift> # でもね、学校のテストなんて、余裕余裕」
+display
+com11 0 1
+sound 102
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「別に勉強して用意することもないですよ。コツ
+line2 <shift> # と要領をつかめば、どうってことないんだから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「コツって？」
+com03 0 2
+choice1 <shift> # 暗記力か
+com09 0 10
+com08
+choice2 <shift> # 思考力か
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「暗記力か？」
+display
+com11 0 1
+sound 103
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そうそう、暗記力。問題の傾向と対策を、
+line2 <shift> # パターンで覚えちゃえば、テストなんて楽勝よ」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「思考力か？」
+display
+com11 0 1
+sound 104
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「う〜ん、思考っていうか、応用力も必要ね。
+line2 <shift> # 出題者の意図を読んだり……」
+display
+com11 0 1
+sound 105
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「でも、それよりは、テストに出そうな問題の、
+line2 <shift> # 傾向と対策を暗記しちゃったほうが、楽かも」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「暗記のほうが、重要か？」
+display
+com11 0 1
+sound 106
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「うん。こと学校のテストに関しては、
+line2 <shift> # パターンを覚えたほうが、だんぜん楽」
+com09 0 29
+display
+location 29
+com11 0 1
+sound 107
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あ〜あ。芸能の仕事も、テストみたいに、
+line2 <shift> # コツをつかめて、簡単に、できればなぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「仕事は、人との関わりで変わる部分が多いし、
+line2 <shift> # パターン暗記とは、いかないな」
+display
+com11 0 1
+sound 108
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そうなのよね。ある程度の定石はあっても、
+line2 <shift> # それ以上に臨機応変さとか、柔軟さがいる感じ」
+display
+com11 0 1
+sound 109
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「最終的には、それこそなんでもやれるくらいの、
+line2 <shift> # 高い総合能力が必要なのよね。う〜ん……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「仕事を、パターンにはめられないのは、
+line2 <shift> # 律子的には、辛いのかな？」
+display
+com11 0 1
+sound 110
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そ、そういうわけじゃないけどぉ。
+line2 <shift> # 少し、やりづらいってだけで」
+com03 0 2
+choice1 <shift> # 律子なら大丈夫だろ？
+line2
+com09 0 30
+com08
+choice2 <shift> # 芸能界は甘くないな
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「律子なら大丈夫だろ？　持ち前の要領のよさで、
+line2 <shift> # なんとかするんだろうから」
+display
+com11 0 1
+sound 111
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「なんとかなればいいんだけどね。
+line2 <shift> # ま、やってみせますよ」
+display
+com11 0 1
+sound 112
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「私の本分といえば、地道な努力よりも、
+line2 <shift> # コツをつかんで一発勝負！　だからね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。うまいこと、やってみせてくれよ？
+line2 <shift> # まずは、お手並み拝見だな……」
+display
+com11 0 1
+sound 113
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「言ったなっ。よ〜し、プロデューサーの
+line2 <shift> # 想像以上に、活躍しちゃいますよ、私？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うまく、律子のやる気に、火がついてくれた
+line2 <shift> # ようだ。いい成果を期待しよう……！）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さすがに、芸能界は甘くないな。
+line2 <shift> # 本当の実力がなければ、生き残っていけないぞ」
+display
+com11 0 1
+sound 114
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そうねぇ。それでもなにか、これぞ芸能人の
+line2 <shift> # 本道！　みたいなコツは、あるはずだけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あくまで、コツ探しに、こだわるのか？」
+display
+com11 0 1
+sound 115
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「当然！　それが私のやり方だから。
+line2 <shift> # 地道な努力よりは、一発狙いです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やれやれ……。否定は、しないけど、
+line2 <shift> # でも、地力をつけるための努力も、怠るなよ」
+display
+com11 0 1
+sound 116
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「い、言われなくたってっ。
+line2 <shift> # 私だって、素人じゃないんですから」
+display
+com11 0 1
+sound 117
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「じゅうぶんな力をつけた上で、さらにコツをつ
+line2 <shift> # かめば、ライバルよりも一歩先にいけるでしょ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なるほどなぁ。しかし、そうそう楽はできない
+line2 <shift> # ぞ。足元をすくわれない程度に、がんばれよ？」
+display
+com11 0 1
+sound 118
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「む、むぅ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （律子は不満げだ。俺としては、レッスンで手を
+line2 <shift> # 抜かないようクギをさしたつもりなんだが……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （少々、言い過ぎたかもしれない。言い方に気を
+line2 <shift> # つけないと、やる気を、そいでしまうかな……）
+com09 0 49
+display
+location 49
+unk02

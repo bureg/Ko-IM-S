@@ -1,0 +1,490 @@
+com2c 0 111
+com2d 0 51
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「大手レコード会社の、創立記念パーティという
+line2 <shift> # だけあって、さすがに華やかですね」
+display
+com11 0 0
+sound 0
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「えーっと……。さっきの方が取締役さんで、
+line2 <shift> # そのあとの２人連れが……。ああ、もうダメ〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうしたんです？　あずささん」
+display
+com11 0 0
+sound 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「いろんな方とお会いしすぎて、誰が誰だか、
+line2 <shift> # 分からなくなってしまいました〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「しょうがないですよ。こういう場では、
+line2 <shift> # たくさんの人に会うことが、仕事ですから」
+display
+com11 0 0
+sound 2
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「最近、こういうパーティに呼ばれることも
+line2 <shift> # 増えましたけれど……」
+display
+com11 0 0
+sound 3
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「なんだか、場違いに感じてしまいます。こうい
+line2 <shift> # うのも、アイドルのお仕事なんでしょうか〜？」
+com03 0 3
+choice1 <shift> # ファン作りのためです
+line2
+com09 0 10
+com08
+choice2 <shift> # 営業活動の一環です
+line2
+com09 0 11
+com08
+choice3 <shift> # 華を添える役割です
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ファン作りのためです」
+display
+com11 0 0
+sound 4
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ファン作り……ですか？　会場に来て
+line2 <shift> # いるのは、えらい人ばかりですよ〜？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だからこそ、ですよ。大手企業のえらい人に
+line2 <shift> # あずささんファンになってもらうんです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「直接あずささんに会えば、ファンにならずには
+line2 <shift> # いられないはずです！」
+display
+com11 0 0
+sound 5
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「そ、そうでしょうか〜……？　私にそんな力が
+line2 <shift> # あるとは、思えませんけれど……」
+com09 0 13
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「営業活動の一環です」
+display
+com11 0 0
+sound 6
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あ……なるほど〜。こういう、地道な活動が、
+line2 <shift> # 次のお仕事につながっていくんですね〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうですよ。ひとりでも多くの人に、
+line2 <shift> # 顔と名前を覚えてもらうには、いい機会です」
+display
+com11 0 0
+sound 7
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「分かりました。そう思ってがんばります〜」
+com09 0 13
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「華を添える役割です」
+display
+com11 0 0
+sound 8
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「えっ……、華？　なんだかそう言われると、
+line2 <shift> # 花びんのお花と、変わらないみたいです〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなことないですよ。でも、きれいどころは
+line2 <shift> # 会場にいるだけで、十分なんです」
+display
+com11 0 0
+sound 9
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ん〜……。あまりいい気はしませんけれど、
+line2 <shift> # それもお仕事なら、仕方ないですね〜」
+com09 0 13
+display
+location 13
+com11 0 0
+sound 10
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ですけど、こういうパーティっていつも、
+line2 <shift> # どうふるまったらいいのかが、分からなくて」
+display
+com11 0 0
+sound 11
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「うろうろすると、迷子になりそうですし、
+line2 <shift> # 緊張してしまいます〜……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなに、いろいろ考えなくていいですよ。
+line2 <shift> # もっと……」
+com03 0 3
+choice1 <shift> # 陰に隠れていましょう
+line2
+com09 0 20
+com08
+choice2 <shift> # 笑顔を振りまいて
+line2
+com09 0 21
+com08
+choice3 <shift> # 堂々としててください
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「陰に隠れていましょう」
+display
+com11 0 0
+sound 12
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「まあ……でも、いいのでしょうか〜？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あいさつ回りとか、面倒なことは全部
+line2 <shift> # 俺がやりますから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あずささんは、こっそり陰に隠れて、
+line2 <shift> # 息抜きでもしててくれれば、いいですよ」
+display
+com11 0 0
+sound 13
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ふふっ……ありがとうございます〜。
+line2 <shift> # そう言って頂けると、気分が楽になりました」
+com09 0 23
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「笑顔を振りまいて」
+display
+com11 0 0
+sound 14
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「こ、こんな感じでいいでしょうか〜？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうそう、そのままキープ！」
+display
+com11 0 0
+sound 15
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「………………」
+display
+com11 0 0
+sound 16
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「……く、くるし……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、あずささんっ！　息は止めないで
+line2 <shift> # いいんですよ！」
+display
+com11 0 0
+sound 17
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あ、そうだったんですね〜……。
+line2 <shift> # 失礼しました〜」
+com09 0 23
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「堂々としててください」
+display
+com11 0 0
+sound 18
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「堂々と……ですか？　ん〜……」
+display
+com11 0 0
+sound 19
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「……こ、こんな感じで、いいでしょうか〜？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いえ、ちょっと違いますね……」
+display
+com11 0 0
+sound 20
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ご、ごめんなさい。あまり堂々としたことが
+line2 <shift> # ないので、難しいです〜……」
+com09 0 23
+display
+location 23
+com11 0 0
+sound 21
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「それにしても、今日のパーティは
+line2 <shift> # きれいな女の人が、たくさん来ていますね……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええ。トップレベルのスターが、たくさん
+line2 <shift> # 招待されているみたいですよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ほら、あそこにいるのは、有名女優の……！
+line2 <shift> # すごいな、ホントにきれいですね〜！」
+display
+com11 0 0
+sound 22
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「……プロデューサーさん〜っ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ。あ、なんですか……？」
+display
+com11 0 0
+sound 23
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「そ、そんなに、他の人にばかり……。
+line2 <shift> # み、見とれないでください……」
+display
+com11 0 0
+sound 24
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「やっぱり男の人って、ああいうきらびやかで
+line2 <shift> # 大人な女性が、好きなんでしょうか〜？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「う〜ん、そうかもしれませんね。一般的には」
+display
+com11 0 0
+sound 25
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ふぅ……。なんだか、お酒が飲みたい気分に
+line2 <shift> # なってきました……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええ！　だ、ダメですよ、あずささんっ！」
+display
+com11 0 0
+sound 26
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「どうしてですか？　私だって大人なんですから
+line2 <shift> # お酒だって……の、飲めるんです〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だって、お酒飲んだこと、あるんですか？」
+display
+com11 0 0
+sound 27
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あ、ありませんけど……、きっと大丈夫です。
+line2 <shift> # 私のこと、子ども扱いしないでください……」
+display
+com11 0 0
+sound 28
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「すみません、バーテンダーさん。
+line2 <shift> # なにか……甘いカクテルを、いただけますか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、あずささんっ……！
+line2 <shift> # ダメですってば……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ダメだ……聞く耳を持たない。こうなったら
+line2 <shift> # 俺がソフトドリンクと、すり替えるしかない！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わかりました、あずささん。
+line2 <shift> # 飲み物なら、俺がもらってきますから！」
+display
+com22 0 30
+com21 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「はい、あずささん……。飲み物、もらって
+line2 <shift> # きましたよ。どうぞ」
+display
+com11 0 0
+sound 29
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ありがとうございます〜。あらっ……。
+line2 <shift> # グラスがふたつ、ありますけど〜？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、ひとつは俺の分ですよ。えーっと……、
+line2 <shift> # あずささんの分は、どっちだっけ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しまった！　お酒とジュースを持ってきたら、
+line2 <shift> # どっちがどっちか、分からなくなってしまった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （絶対に、ジュースを飲ませなければ……。
+line2 <shift> # あずささんに、どっちのグラスを渡そう？）
+com03 0 2
+choice1 <shift> # 右のグラス
+com09 0 30
+com08
+choice2 <shift> # 左のグラス
+com09 0 31
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「右のグラスをどうぞ」
+com37 0 1
+com1e 0 0
+com09 0 33
+com3b
+com37 0 0
+com1e 0 0
+com09 0 34
+com3b
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「左のグラスをどうぞ」
+com37 0 1
+com1e 0 0
+com09 0 33
+com3b
+com37 0 0
+com1e 0 0
+com09 0 34
+com3b
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あれ、どっちだったかな？
+line2 <shift> # うーんと。えーっと……？」
+display
+com11 0 0
+sound 30
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「どちらでも、同じみたいですよ〜？
+line2 <shift> # 私は、こちらをいただきますね〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああっ！　そ、そっちは……」
+com09 0 34
+display
+location 33
+com11 0 0
+sound 31
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「では、いただきます……。こくこく……っ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、そんな一気に！」
+display
+com11 0 0
+sound 32
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あら……。このカクテル、おいしい……！
+line2 <shift> # お酒って感じがしなくて、ジュースみたいです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （やったぞ！　ジュースを飲ませるのに
+line2 <shift> # 成功したようだ……！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よかったですね。それより……、どうして
+line2 <shift> # 突然お酒を飲むなんて、言い出したんです？」
+display
+com11 0 0
+sound 33
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あ……、それは、あの……。
+line2 <shift> # いっそ、酔ってしまえたら、と思って……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ？」
+display
+com11 0 0
+sound 34
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「酔って、自分の思いを打ち明けられたら……、
+line2 <shift> # 楽になるのかしら……と思って」
+display
+com11 0 0
+sound 35
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「で、でも……ダメでしたね。私、お酒に強い
+line2 <shift> # みたいです。ちっとも、酔わないですもの〜」
+display
+com11 0 0
+sound 36
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「わがままを言って、すみませんでした〜。
+line2 <shift> # アイドルにお酒は、やっぱり似合いませんね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （やっと素直なあずささんに戻ってくれた。
+line2 <shift> # しかし、打ち明けたい思いって、一体……？）
+com4b 0 0
+com09 0 69
+display
+location 34
+com11 0 0
+sound 37
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ありがとうございます〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （このスキに、残ったグラスを味見して……。
+line2 <shift> # んっ！？　こ、こっちがジュースだった！）
+display
+com11 0 0
+sound 38
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「じゃあ、いただきま……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああーーーっ！　ダメですっ！　そのグラス、
+line2 <shift> # 返してくださいっ！」
+display
+com11 0 0
+sound 39
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「きゃっ、何するんですか……！？
+line2 <shift> # プロデューサーさん！」
+display
+com11 0 0
+sound 40
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ああっ……カクテルがこぼれて、服に……。
+line2 <shift> # この服、お気に入りだったんですよ〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、す、すいません……！」
+display
+com11 0 0
+sound 41
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「どうして、こんなことするんですか〜？
+line2 <shift> # ひどいです……。プロデューサーさん」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あずささんはしばらく、黙りこんでしまった。
+line2 <shift> # うまくごまかせなかったか……。失敗した……）
+com4b 0 2
+com09 0 69
+display
+location 69
+unk02

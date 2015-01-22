@@ -1,0 +1,259 @@
+com2c 0 24
+com2d 0 11
+com32 0 0
+com11 0 4
+sound 500
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「えっ！　取材してもらえるんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、雑誌社から、取材の申し込みが
+line2 <shift> # さっきあったよ」
+display
+com11 0 4
+sound 501
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「な、なんていう雑誌ですか？
+line2 <shift> # 今すぐお店に行って、買ってこなくちゃ！」
+com03 0 2
+choice1 <shift> # 誰かに見せたいの？
+line2
+com09 0 10
+com08
+choice2 <shift> # まあ待て、落ち着いて
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ん、記事を誰かに見せたいの？」
+display
+com11 0 4
+sound 502
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「はい！　うちの両親とか、友達に。
+line2 <shift> # 近くで売ってますか？　その雑誌」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おいおい、記事が載るのはまだだって。
+line2 <shift> # 取材はこれからじゃないか」
+display
+com11 0 4
+sound 503
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あっ、そうですよね。あはは……
+line2 <shift> # 焦っちゃいましたぁ」
+display
+com11 0 4
+sound 504
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「でも、どんな雑誌が取り上げてくれるのか、
+line2 <shift> # ちょっと気になっちゃって」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （そうか、よっぽど嬉しいんだな）
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、まあ待てって。落ち着いて」
+display
+com11 0 4
+sound 505
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「えっ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「取材はまだこれからだろう？
+line2 <shift> # 今、雑誌を買いに行ってどうする」
+display
+com11 0 4
+sound 506
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あっ……そういえば、そうですよね。
+line2 <shift> # あはははっ。慌てちゃいました」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「しょうがないなぁ。ま、はやる気持ちは
+line2 <shift> # わからないでもないけど」
+com09 0 29
+display
+location 29
+com11 0 4
+sound 507
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ところでその、取材してくれる雑誌って、
+line2 <shift> # どんな雑誌なんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「実は……これから創刊される情報雑誌なんで、
+line2 <shift> # 詳しいことはまだわからないんだ」
+display
+com11 0 4
+sound 508
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「なるほどぉ。タレントやアイドルをメインで
+line2 <shift> # 扱う雑誌じゃないみたいですね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、コーナーもちょっと小さいみたい
+line2 <shift> # だけど……でも、記者はかなりやる気だったよ」
+display
+com11 0 4
+sound 509
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ほんとですか？　どんな記事になるのかな？
+line2 <shift> # 取材が楽しみですねっ♪」
+com03 0 3
+choice1 <shift> # そうだな、チャンスだ
+line2
+com09 0 30
+com08
+choice2 <shift> # 甘くみるなよ
+line2
+com09 0 31
+com08
+choice3 <shift> # 物足りなくないか？
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだな、それにチャンスだ！」
+display
+com11 0 4
+sound 510
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「チャンス？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「新雑誌のコーナーのしょっぱなを飾れるなら、
+line2 <shift> # 話題も取れるし、好きなことも言えるだろう」
+display
+com11 0 4
+sound 511
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あっ、そうですよね！　色々な人にアピールする、
+line2 <shift> # いい機会ですっ」
+display
+com11 0 4
+sound 512
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ううっ、早く記事にならないかなぁ〜っ。
+line2 <shift> # 創刊が待ち遠しいです！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「待て待て春香、まずは取材が先だって！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （やれやれ……。しかし春香は雑誌取材に向けて、
+line2 <shift> # テンションも最好調。ばっちり期待できそうだ）
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「記事が小さいからと言って、
+line2 <shift> # 甘く見てはいけないぞ、春香」
+display
+com11 0 4
+sound 513
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「はい？　な、なんのことでしょう？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まだ未知数の新雑誌だからこそ、いろんな人が
+line2 <shift> # 読むに違いない。影響力があると思うんだ」
+display
+com11 0 4
+sound 514
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あっ、そうかもしれませんね。
+line2 <shift> # 油断できませんね！」
+display
+com11 0 4
+sound 515
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「よーし、いい記事作る素敵な取材のため、
+line2 <shift> # 作戦立てましょうっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ははは。春香はあまり考えずに、
+line2 <shift> # 自然体のほうがいいと思うよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （作戦か……。最近の春香、少しは、
+line2 <shift> # 商売っ気が出てきたみたいだなぁ）
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、せっかくの取材の話だけど……、
+line2 <shift> # 春香、少し物足りなくないか？」
+display
+com11 0 4
+sound 516
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「え？　物足りない、って？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、もっとこう、『有名芸能雑誌の表紙を
+line2 <shift> # でっかく飾りた〜い！』とか、思ってるかなと」
+display
+com11 0 4
+sound 517
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そんなことないですよぉ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ、『ミニコーナーじゃなくて
+line2 <shift> # ３ページくらいの特集にしろ！』とかさ」
+display
+com11 0 4
+sound 518
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「思ってませんってばぁ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「無理しなくていいんだぞ？
+line2 <shift> # 俺は頑張って、仕事をとってくるよ？」
+display
+com11 0 4
+sound 519
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そんな、プロデューサーさんこそ、
+line2 <shift> # 無理しないで下さいね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うっ……！？」
+display
+com11 0 4
+sound 520
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「それに、新しい雑誌に載れるなんて、
+line2 <shift> # むしろ、注目されるチャンスじゃないですか！」
+display
+com11 0 4
+sound 521
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「もちろん、大きな雑誌の表紙にも、
+line2 <shift> # いつかはなってみたいですけどね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そうだよな。新雑誌と一緒に
+line2 <shift> # だんだん有名になっていけばいいんだよな」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （俺ばかりが、焦ってどうする……。
+line2 <shift> # 春香のほうが、落ち着いてるじゃないか）
+com09 0 49
+display
+location 49
+unk02

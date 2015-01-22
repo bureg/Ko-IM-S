@@ -1,0 +1,193 @@
+com2c 0 118
+com2d 0 41
+com32 0 0
+location 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「千早、待てよ！　くやしいのはわかるけど、
+line2 <shift> # ヤケを起こすなって」
+display
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「くやしいとか、そういうレベルの問題では
+line2 <shift> # ありません。私、致命的な失敗を……」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「見てくればかりのライブで、ファンを裏切り、
+line2 <shift> # 大切な歌を冒涜（ぼうとく）してしまいました」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「責任を……取らなければと思います」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「責任って、まさか……」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「引退します。歌い手としてのキャリアに
+line2 <shift> # 終止符を打ち、二度と人前にはあらわれません」
+display
+com1c 0 3
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おいおい、落ち着けよ。引退を選ぶにしても、
+line2 <shift> # こんなやめ方は、ないだろ！」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「今日のデキを見れば、今後、独立したって、
+line2 <shift> # うまくいくはずがありません。――それに」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「こうでもしないと、示しがつかないんです。
+line2 <shift> # 歌うという行為は、私にとって、それほどの……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「その、大切な歌を失って……千早はこの先、
+line2 <shift> # 生きていけるのか？」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……わかりません。けど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「せめて、何日か経ってから、もう一度考え直し
+line2 <shift> # てくれないか？　俺からの、最後のお願いだ」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……今は、答えられません。その言葉、心の
+line2 <shift> # スミに置いておくということで、いいですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、それでかまわない」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……わかりました。――では、私、行きます。
+line2 <shift> # これまで、お世話になりました」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「私と過ごした今日までのことは、なかった
+line2 <shift> # ものと思って、再出発してください」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなこと、できないよ。最後の結果はよくな
+line2 <shift> # かったけど、千早との経験は、俺にとって――」
+com03 0 3
+choice1 <shift> # 大切な思い出だ
+line2
+com09 0 10
+com08
+choice2 <shift> # 貴重な勉強だったよ
+line2
+com09 0 11
+com08
+choice3 <shift> # 欠かせない助走だったよ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「大切な思い出だ」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……すべては、幻想だったんです。きれい
+line2 <shift> # さっぱり忘れることを、オススメします」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「千早……」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「情けがあるなら、忘れてください……。
+line2 <shift> # 今日のミスもろとも……。――さようなら！」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「貴重な勉強だったよ」
+display
+com11 0 0
+sound 10012
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そうですね。テストケースにしてもらえるなら、
+line2 <shift> # すこしは、意味もあったかもしれません」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「テストケースだなんて、そんな……」
+display
+com11 0 0
+sound 10013
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「今日のミスは、今さらなにをしても、消せる
+line2 <shift> # ものじゃありません。けど……」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「プロデューサーが、今後、大成してくれれば、
+line2 <shift> # 救われます。――さようなら！」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「欠かせない助走だったよ」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そうですね。プロデューサーの輝かしい
+line2 <shift> # キャリアは、まだまだ、これからだと思います」
+display
+com11 0 0
+sound 10016
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「私を滑走路にして、高く飛んでもらえるなら、
+line2 <shift> # すこしは存在意義もあったかもしれません」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おいおい、そんなこと言わずに、千早自身も、
+line2 <shift> # 高く、だな……」
+display
+com11 0 0
+sound 10017
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「私は、もうムリです……。
+line2 <shift> # プロデューサー――さようなら！」
+com09 0 19
+display
+location 19
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、千早。千早ーーー！」
+display
+location 100 129 92 129 92 130 177 130 164 130 181 130 196 129 65 137 180 130 170 136 231 130 196 130 189 143 173 143 151 130 205 129 65
+line2 <shift> # 顔をゆがめて、駆け去っていってしまった
+display
+location 101 131 137 131 88 131 103 131 137 131 67 131 117 130 204 142 184 148 115 129 66 130 187 130 204 142 150 142 192 130 205 129 65 137 180 130 204 145 122 145 156 136 200 143 227
+line2 <shift> # に、千早の心に、深い傷を残してしまったようだ
+display
+location 102 130 185 130 223 130 196 129 65 130 162 130 194 130 204 147 250 130 169 129 65 141 196 139 78 130 181 130 196 130 173 130 234 130 233 130 177 130 198 130 240 139 70 130 235
+line2 <shift> # う。――永遠に直らない傷など、ないと信じたい
+display
+unk02

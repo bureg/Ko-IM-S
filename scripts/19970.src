@@ -1,0 +1,191 @@
+com2d 0 51
+location 0
+com11 0 0
+sound 10000
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「おはようございますー。あ、えーと、どなた
+line2 <shift> # だったでしょうか？　たしか会ったことが……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ひどいなあ。忘れちゃったんですか？
+line2 <shift> # 俺は、あずささんの……」
+com03 0 3
+choice1 <shift> # プロデューサーですよ　
+line2
+com09 0 10
+com08
+choice2 <shift> # 息子ですよ　
+com09 0 11
+com08
+choice3 <shift> # 恋人ですよ　
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「プロデューサーですよ」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あっ、そうでしたっ！　すみません。
+line2 <shift> # 私、ものおぼえ悪くて……」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「もう二度と忘れませんので。今日も
+line2 <shift> # レッスン、よろしくお願いしますー」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「息子ですよ」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ええええっ、私、結婚もしていないのに、
+line2 <shift> # どうして！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「って、そんなわけないじゃないですか。
+line2 <shift> # プロデューサーですよ、プロデューサー」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、思い出しました。すみません、ものおぼえ
+line2 <shift> # 悪くて。では、今日もよろしくお願いします」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「恋人ですよ」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ええええっ、そうだったんですか？
+line2 <shift> # こんな大切なこと、忘れてしまうなんて……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「って、そんなわけないじゃないですか。
+line2 <shift> # プロデューサーですよ、プロデューサー」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あっ、そうでしたね。すみません、ものおぼえ
+line2 <shift> # 悪くて。では、今日もよろしくお願いします」
+com09 0 19
+display
+location 19
+location 30
+com11 0 0
+sound 10007
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「おはよう！　すっかり打ち解けたようだね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おはようございます、社長！」
+display
+com11 0 0
+sound 10012
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「今日は、ステージ衣装を決めてほしい。
+line2 <shift> # その後、営業を行なうといいだろう」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「はい、わかりました！」
+display
+com11 0 0
+sound 10014
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「うむ。ステージ衣装の決定は、大切だよ。
+line2 <shift> # 衣装により、イメージは左右されるのだ」
+display
+com11 0 0
+sound 10015
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「流行を意識した衣装を選ぶことも重要だが、
+line2 <shift> # まあ、最初は、君の好きなように選びなさい」
+display
+com11 0 0
+sound 10016
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「では、参考までに、今日の流行情報だ。
+line2 <shift> # 確認した後、スケジュールを確定させたまえ」
+com4a 0 0
+com09 0 200
+display
+location 200
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （衣装を新しくするを選ぼう）
+display
+location 201
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （あー、もう決めないと……）
+display
+location 202
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （いや、今日は衣装を選ばないと……）
+display
+location 203
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ステージ衣装を考えるから
+line2 <shift> # 少しの間待ってて下さい」
+display
+com4a 0 0
+location 208
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「喜んでくれて俺もうれしいです！
+line2 <shift> # じゃあ、今日も１日がんばりましょう！」
+display
+location 209
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （今日のスケジュールは……、と）
+display
+location 210
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「オーディションは次回チャレンジしましょう！
+line2 <shift> # 今日も基礎レッスンです！」
+display
+location 220
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （今日のスケジュールを決めよう）
+display
+location 221
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （今日のオススメは、衣装変更と営業か……）
+display
+location 222
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （社長から指示のあったスケジュールを、
+line2 <shift> # 選ばないと……）
+display
+location 223
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、これで今日のスケジュールは
+line2 <shift> # 決定だ！」
+display
+location 224
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「今日は作曲家の先生に、
+line2 <shift> # あいさつにいきますよ」
+display
+location 230
+com11 0 0
+sound 10011
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はい」
+display
+unk02

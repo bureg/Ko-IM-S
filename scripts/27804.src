@@ -1,0 +1,273 @@
+com2c 0 99
+com2c 0 67
+com2d 0 41
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「千早。取材終わったんだし、早く帰ろう。
+line2 <shift> # どうして、ペットショップなんか……」
+display
+com11 0 3
+sound 1200
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「もうすこしだけ、見ていってもいいですか？
+line2 <shift> # あと２分だけ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「千早って、動物、好きなのか？」
+display
+com11 0 3
+sound 1201
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。見ていて、楽しいというか、
+line2 <shift> # リラックスできるというか……」
+com03 0 3
+choice1 <shift> # 好きなのは、犬？
+line2
+com09 0 10
+com08
+choice2 <shift> # 好きなのは、猫？
+line2
+com09 0 11
+com08
+choice3 <shift> # 好きなのは、ペンギン？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「好きなのは、犬？」
+display
+com11 0 3
+sound 1202
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そうですね。飼うとしたら、犬がいいです。
+line2 <shift> # 絶対に、ムリですけど……」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「好きなのは、猫？」
+display
+com11 0 3
+sound 1203
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「猫は、そんなに好きではないです。目を離すと、
+line2 <shift> # すぐ、どこかへ行ってしまいそうですから」
+com09 0 91
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「好きなのは、ペンギン？」
+display
+com11 0 3
+sound 1204
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ペンギンは、好きではないです。とくに、
+line2 <shift> # せまいところに、閉じ込められているのは」
+com09 0 91
+display
+location 91
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃあ、なにが好きなんだ？」
+display
+com11 0 3
+sound 1205
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「もし、飼うとしたら、犬がいいです。
+line2 <shift> # 今は、絶対にムリですけど……」
+com09 0 29
+display
+location 29
+com11 0 3
+sound 1206
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「うち、マンションなので、飼育禁止なんです。
+line2 <shift> # 共働きですから、昼に面倒見る人もいませんし」
+display
+com11 0 3
+sound 1207
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あ、プロデューサー。この小犬、よくない
+line2 <shift> # ですか？　あさっての方向、向いてて。ふふっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「こんなのが、いいのか？
+line2 <shift> # とても、甘え上手には、見えないけど？」
+display
+com11 0 3
+sound 1208
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「こんな風に、普通にしてくれてる方が、
+line2 <shift> # いいです。お互い、疲れませんよね、きっと」
+com03 0 2
+choice1 <shift> # 親とも、そうでありたい？
+line2
+com09 0 30
+com08
+choice2 <shift> # 俺とも、そうでありたい？
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「親とも、そうでありたい？」
+display
+com11 0 3
+sound 1209
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい……。空気のように、なにげなく一緒に
+line2 <shift> # いられるというのが、理想だと思います」
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺とも、そうでありたい？」
+display
+com11 0 3
+sound 1210
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「普通なのはいいですけど……あさっての方向、
+line2 <shift> # 向かれてしまうと、困ります」
+display
+com11 0 3
+sound 1211
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「逆に、しっかり見てほしいです。
+line2 <shift> # 私が道から、はずれないように……」
+com09 0 49
+display
+location 49
+com11 0 3
+sound 1212
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あっ、そろそろ、行かないといけない
+line2 <shift> # 時間ですね。……それじゃあ、元気で」
+display
+com11 0 3
+sound 1213
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「こういうのって、見てると、つい、情が移って
+line2 <shift> # しまいますね。もしかしたら、こない方が……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんな悲しそうな顔するなって。ほら……」
+com03 0 3
+choice1 <shift> # また、会いにこよう
+line2
+com09 0 50
+com08
+choice2 <shift> # 記念写真、撮って帰ろう
+line2
+com09 0 51
+com08
+choice3 <shift> # 勝手に、名前つけて帰ろう
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 3
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「また、会いにこよう」
+display
+com11 0 3
+sound 1214
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「え、そんなことをしたら、余計に情が……。
+line2 <shift> # それに、すぐ売れてしまう可能性も……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「この愛想のなさじゃ、当分、売れないよ。それ
+line2 <shift> # まで話し相手がいた方が、この犬も幸せだろ？」
+display
+com11 0 3
+sound 1215
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あ……ひどいです。でも、そうですね。別れを
+line2 <shift> # 怖がるより、できる事してあげたいと思います」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うなづいて、犬の方に、やさしげな視線を
+line2 <shift> # 向けている。次来る時も、つき合ってやろう）
+com09 0 69
+display
+location 51
+com34 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「記念写真、撮って帰ろう」
+display
+com11 0 3
+sound 1216
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「この犬と、私達と、ですか？
+line2 <shift> # でも、店の人に怒られそうな気が……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それぐらい、大目に見てくれるよ。ちょっと
+line2 <shift> # 交渉してくる」
+display
+com11 0 3
+sound 1217
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「い、いいです。やめておきます。
+line2 <shift> # 写真、見る度に、思い出してしまいそうで……」
+display
+com11 0 3
+sound 1218
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「なにもしてあげられないなら、きっと、忘れた
+line2 <shift> # 方が幸せなんです。それが……お互いのため」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （強引に、自分を納得させている。
+line2 <shift> # ……まあ、千早の言い分にも、一理はあるか）
+com09 0 69
+display
+location 52
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「勝手に、名前つけて帰ろう。
+line2 <shift> # ……千早、なんにする？」
+display
+com11 0 3
+sound 1219
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そんなこと、していいんですか？
+line2 <shift> # 店の人に、怒られませんか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「怒られるわけないだろ。俺達が、勝手に
+line2 <shift> # 呼ぶだけなんだから。ほら、早く」
+display
+com11 0 3
+sound 1220
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「この犬、メスみたいですね。それでは……
+line2 <shift> # カリン。カリンにします。元気で、カリン」
+display
+com22 0 30
+com32 0 1
+com21 0 30
+com11 0 3
+sound 1221
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「いい飼い主、見つかるといいですね……。
+line2 <shift> # はあ……カリン……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （何度も、後ろを振り返っている。名前をつけ
+line2 <shift> # たら、余計に、別れがつらくなったようだ……）
+com09 0 69
+display
+location 69
+unk02

@@ -1,0 +1,295 @@
+com2c 0 26
+com2d 0 93
+com2e 0 103
+com32 0 0
+com11 0 5
+sound 300
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「うわ〜、デパートの屋上だー！
+line2 <shift> # ここなら、いろいろ遊べるね。亜美？」
+display
+com11 0 5
+sound 301
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「そうだね、真美！　ねえ兄ちゃん、
+line2 <shift> # あっちのお店で、フランクフルト買って！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「遊びにきたんじゃないんだぞ。これから、
+line2 <shift> # ここのステージで、ライブなんだから」
+display
+com11 0 5
+sound 302
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「そっかー、そうだよね！
+line2 <shift> # んじゃ、フランクフルト、買って！」
+com03 0 3
+choice1 <shift> # 人の話は、きこうな
+line2
+com09 0 10
+com08
+choice2 <shift> # ……後でな
+com09 0 11
+com08
+choice3 <shift> # 会話する気、あるか？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「人の話は、きこうな。
+line2 <shift> # 今は、ライブの方に集中しないと」
+display
+com11 0 5
+sound 303
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「歌う前に食べるのは、よくないかなあ？
+line2 <shift> # わかったー、じゃあ、ガマンするー」
+com09 0 29
+display
+location 11
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「……後でな」
+display
+com11 0 5
+sound 304
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「あー、そんなこと言って、ごまかす気でしょ〜。
+line2 <shift> # オトナなんだから、それぐらい出してよ〜」
+display
+com11 0 5
+sound 305
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「後で、後でって言うの、だいたいごまかしなの、
+line2 <shift> # 亜美、ちゃんと知ってるんだから……」
+com09 0 29
+display
+location 12
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「会話する気、あるか？」
+display
+com11 0 5
+sound 306
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「あるよ〜、ちゃんとお願いしてるでしょ〜。
+line2 <shift> # フランクフルト、買って〜！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「……やっぱり、ないんじゃないか。
+line2 <shift> # そればっかり、ひたすら言う気だろ？」
+display
+com11 0 5
+sound 307
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「だって……、食べたいんだもん。
+line2 <shift> # じゃあ、いいよ。兄ちゃんのいじわる〜」
+com09 0 29
+display
+location 29
+com11 0 5
+sound 308
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「あ、亜美！　このデパートの４階に、新しい
+line2 <shift> # アクセサリーショップできたの、知ってる？」
+display
+com11 0 5
+sound 309
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「そうなの？　誰からきいたの？」
+display
+com11 0 5
+sound 310
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「となりのクラスの、みっちゃん！　ちょっと
+line2 <shift> # 高いけど、見るだけでも、おもしろいって」
+display
+com11 0 5
+sound 311
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「よーし、じゃあ、いこー！　あ、アイドルと
+line2 <shift> # してー、ちぇ、チェックしておかないとっ！」
+com03 0 2
+choice1 <shift> # 心がけは、感心だけど……
+line2
+com09 0 30
+com08
+choice2 <shift> # 言い訳は、やめような
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「心がけは、感心だけど……。
+line2 <shift> # 今は、ライブの前だしなあ」
+display
+com11 0 5
+sound 312
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「じゃあ、じゃーあ、こうしようよ！　ライブに
+line2 <shift> # 出ない方は、先に見に行っても、いいでしょ？」
+com09 0 49
+display
+location 31
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「言い訳は、やめような。
+line2 <shift> # 遊ぶのは、ライブの後、後！」
+display
+com11 0 5
+sound 313
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「う〜、言い訳じゃないのに〜。
+line2 <shift> # じゃあ、じゃーあ、こうしようよ！」
+display
+com11 0 5
+sound 314
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ライブに出ない方は、先にショップに、
+line2 <shift> # 見に行くの！　それなら、いいでしょ？」
+com09 0 49
+display
+location 49
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「出てない方は、裏で見学してないと、
+line2 <shift> # ダメだよ」
+display
+com11 0 5
+sound 315
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「えー、どーして〜？？？　だって、ライブ見る
+line2 <shift> # より、アクセサリー見る方が、おもしろいよ？」
+display
+com11 0 5
+sound 316
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「歌ってないと、つまんないも〜ん！　なんで、
+line2 <shift> # もう一人は、ここにいないといけないの？」
+com03 0 3
+choice1 <shift> # 歌う方に、影響するから
+line2
+com09 0 50
+com08
+choice2 <shift> # 見学も、大切な勉強だから
+line2
+com09 0 51
+com08
+choice3 <shift> # それが、礼儀だから
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「歌う方に、影響するから。お店のことが、
+line2 <shift> # 気になって、ステージで、ソワソワしないか？」
+display
+com11 0 5
+sound 317
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「んー、言われてみると、そうかも……。
+line2 <shift> # どうしても、早く行きたいって思っちゃうし」
+display
+com11 0 5
+sound 318
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「じゃあ、やっぱり、後でいっしょに見にいこ。
+line2 <shift> # 兄ちゃんの言う通りにするー！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （ふたりとも、聞き分けてくれた。
+line2 <shift> # 説教くさい言い方するより、この方がいいよな）
+com09 0 69
+display
+location 51
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「見学も、大切な勉強だから。
+line2 <shift> # 見ておぼえることだって、多いだろ？」
+display
+com11 0 5
+sound 319
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「でもでも〜、新しいアクセサリー見て、
+line2 <shift> # センスみがくのだって、大切な勉強でしょ？」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「それはそうだけど、どっちかっていうと、
+line2 <shift> # 歌の勉強の方が、大切なんじゃ……？」
+display
+com11 0 5
+sound 320
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「ビミョ〜なとこだよね〜。ま、いっかー。
+line2 <shift> # 亜美、アクセサリー見るのは、後でにしよ」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （首をひねりつつも、なんとか聞き分けてくれた。
+line2 <shift> # もっとシンプルな言い方でも、よかったかな）
+com09 0 69
+display
+location 52
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「それが、礼儀だから。片方ががんばってるのに、
+line2 <shift> # 片方が遊んでるのは、マズいだろ？」
+display
+com11 0 5
+sound 321
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「そんなこと、ないよ〜！　だって、
+line2 <shift> # 両方とも楽しい方が、いいに決まってるし！」
+display
+com11 0 5
+sound 322
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「そうだよ〜。礼儀とか、気にかけすぎてると、
+line2 <shift> # 損しちゃうことばっかなんだよ？」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「そ、そうか？　けど、そういうのを、
+line2 <shift> # 忘れないことは、人として大事じゃないか？」
+display
+com11 0 5
+sound 323
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「兄ちゃん……。なんか、おじいちゃんみたい」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （う、化石扱いされてしまった……。こんな
+line2 <shift> # 言い方じゃ、全然、説得力なかったみたいだな）
+com09 0 69
+display
+location 69
+unk02

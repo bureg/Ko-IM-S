@@ -1,0 +1,439 @@
+com2c 0 24
+com2d 0 51
+com32 0 0
+com11 0 0
+sound 10000
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あの、プロデューサーさん。ご相談があるの
+line2 <shift> # ですが、今、お時間よろしいでしょうか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ええ、大丈夫ですよ、あずささん。
+line2 <shift> # どうしました？」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「事務所の前に停まっている、真っ赤な
+line2 <shift> # スーパーカー、ご覧になりましたか？」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「なんでも、有名メーカーが作った、
+line2 <shift> # 世界的に数台しかない限定車……」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「……というものらしいのですけれど。
+line2 <shift> # 私は車に詳しくないので、よくわかりませんが」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああー、見ました、見ました！　立派な車です
+line2 <shift> # よね〜！　いったい誰の持ち物なんだか？」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「それが……。私がＣＭに出ている企業の
+line2 <shift> # 社長さんから、個人的なプレゼントだと……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ええっ！？　あずささんのなんですか、あの
+line2 <shift> # 車？　ものすごいプレゼントもらいましたね！」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「でも、あんな大きな車、乗れません〜。
+line2 <shift> # 置き場所もないですし、困ってしまって……」
+com03 0 3
+choice1 <shift> # 今日のラッキーカラー、赤ですよ
+line2
+com09 0 10
+com08
+choice2 <shift> # サーキットデビューしますか？
+line2
+com09 0 11
+com08
+choice3 <shift> # 事務所の社用車にするとか
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あずささんの今日のラッキーカラー、
+line2 <shift> # 赤ですよ」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、朝のＴＶ占いですね。私も見ました。んー、
+line2 <shift> # 確かに、それは縁起がいいですね。ふふっ」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「でも、明日になったら、
+line2 <shift> # どうすればいいのでしょうか〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、それは……。むう、困りましたね。
+line2 <shift> # あ、はは、は……」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「サーキットデビューしますか？　せっかく
+line2 <shift> # ですから、あの車で、走りを極めてみるとか」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ちょっとムリだと思います〜。さっき、少し
+line2 <shift> # だけ車の中を見たのですが、機械だらけで……」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「メーターもたくさんついてますし、私が、あの
+line2 <shift> # 車を運転できるようになるとは、思えません」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、確かに、あずささんの運転って、
+line2 <shift> # ものすごく怖い気がしますね……」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はい。自分でも、そう思います。
+line2 <shift> # それにしても……」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それじゃ、事務所の社用車にするとか、どう
+line2 <shift> # ですか？　所属アイドルの送迎用に使えるかも」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あんなハデな車をですか？　目立ちすぎて、
+line2 <shift> # すぐにファンに見つかってしまいそうですよ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、そうか……」
+display
+com11 0 0
+sound 10012
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「それに私、あんな車で送り迎えされたら、
+line2 <shift> # 恥ずかしくて、困ります〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、それもそうですね。
+line2 <shift> # 停める場所にも困りそうだし、ムリかな……」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 10013
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「最近は、高価なプレゼントが届くことが
+line2 <shift> # 多いんです〜。今回の車以外にも、色々と……」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ファンの方のお気持ちは、うれしいのですが、
+line2 <shift> # あまり高いものは、できればお断りしたいです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、ある程度は、仕方ないですよ。
+line2 <shift> # 今の、あずささんの人気を考えたら……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「少しでも高いものをプレゼントして、喜んで
+line2 <shift> # もらいたい、と考える人も多いでしょうから」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ですが、本当にうれしいプレゼントって、必ず
+line2 <shift> # しも高いものじゃない気が、するのですけれど」
+display
+com11 0 0
+sound 10016
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「……たとえば、プロデューサーさんだったら、
+line2 <shift> # 何をプレゼントされたら、うれしいですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺ですか？　そうですね……」
+com03 0 3
+choice1 <shift> # ファンレターかな
+line2
+com09 0 30
+com08
+choice2 <shift> # 実用的なものでしょう
+line2
+com09 0 31
+com08
+choice3 <shift> # 真っ赤なスーパーカー！
+line2
+com09 0 32
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ファンレターかな」
+display
+com11 0 0
+sound 10017
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、私も同じです〜。気持ちがこもっている
+line2 <shift> # ものは、やっぱり、うれしいですよね」
+display
+com11 0 0
+sound 10018
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「特に、小さな子が、一生懸命書いてくれた
+line2 <shift> # 手紙なんかを読むと、涙が出そうになります」
+display
+com11 0 0
+sound 10019
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「似顔絵も描いてくれていたりして。ふふっ。
+line2 <shift> # そういうものは、もらっても全く困りません」
+display
+com11 0 0
+sound 10020
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「でも、あの車は……」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「実用的なものでしょう、やっぱり」
+display
+com11 0 0
+sound 10021
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、そうですね。あまり高くないものであれば、
+line2 <shift> # いいかもしれませんね〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「はい。ネクタイとか、腕時計とか、一流品で
+line2 <shift> # なければ、それほど高くは、ないですからね」
+display
+com11 0 0
+sound 10022
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「私も、そういうものなら、いただいても、素直
+line2 <shift> # に喜べるのですけれど。でも、あの車は……」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「真っ赤なスーパーカー！
+line2 <shift> # そういうプレゼントが、うれしいですね！」
+display
+com11 0 0
+sound 10023
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「えっ……？　プロデューサーさん、もしかして、
+line2 <shift> # あのスーパーカー、ほしいですか？」
+display
+com11 0 0
+sound 10024
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「んー、できればお譲りしたいのですけれど、
+line2 <shift> # 贈り主が納得して下さるか心配ですね……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「い、いえ、ほんの冗談ですって。あずささんな
+line2 <shift> # ら、あの車に乗ってもカッコイイですけど……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺には、似合わなすぎですから。
+line2 <shift> # あくまで、ただの憧れですよ……」
+display
+com11 0 0
+sound 10025
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ぷ、プロデューサーさん、そんなに寂しそうな
+line2 <shift> # 顔、しないで下さい。元気出して下さいね？」
+display
+com11 0 0
+sound 10026
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「どんな車に乗っていても、プロデューサーさん
+line2 <shift> # は、プロデューサーさんじゃないですか！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （励まされてしまった。……あれ？　俺が、
+line2 <shift> # あずささんの相談にのってたんだよな？）
+display
+com11 0 0
+sound 10027
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「それに、私にも、あの車は似合いません。
+line2 <shift> # このまま持っていても、たぶん……」
+com09 0 49
+display
+location 49
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「扱いに困る、ということですね？」
+display
+com11 0 0
+sound 10028
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ええ。せっかく下さったのに、
+line2 <shift> # 返すのも悪いような気がしているんですが……」
+display
+com11 0 0
+sound 10029
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「でも、受け取るわけにはいきませんから、
+line2 <shift> # そうなると、やはり返すしかありませんよね〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうですね。残念だけど、仕方ないです。
+line2 <shift> # じゃあ、せめて……」
+com03 0 3
+choice1 <shift> # 写真、撮りましょう
+line2
+com09 0 50
+com08
+choice2 <shift> # サインを入れて返しましょう
+line2
+com09 0 51
+com08
+choice3 <shift> # ちょっとドライブしましょう
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「写真、撮りましょう。あんな豪華な車と、
+line2 <shift> # 写真を撮るチャンス、めったにないですからね」
+display
+com11 0 0
+sound 10030
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「まあ、それは良い考えですね。写真なら、
+line2 <shift> # 記念になりますし、場所も、とりませんから」
+display
+com11 0 0
+sound 10031
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「それじゃ、プロデューサーさん、
+line2 <shift> # よろしくお願いします〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「はいはい、シャッターですね。わかりました！
+line2 <shift> # えーと、カメラカメラ……、っと」
+display
+com11 0 0
+sound 10032
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「いえ、そうではなくて……。プロデューサー
+line2 <shift> # さんも一緒に、写真に写って下さい」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え？　俺も一緒に……？」
+display
+com11 0 0
+sound 10033
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はい。……大切な、ふたりの記念になりますね。
+line2 <shift> # ふふっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （……というわけで、ふたりで車の前に立って、
+line2 <shift> # パチリと１枚。いい写真が撮れた！）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （車は、あずささんからのお礼状をつけて返した
+line2 <shift> # ので、車の贈り主も、とてもよろこんでくれた）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「サインを入れて、返しましょう」
+display
+com11 0 0
+sound 10034
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「い、いいのでしょうか？　こんな高価な車に、
+line2 <shift> # 私なんかのサインを入れてしまって……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いいと思いますよ。今のあずささんは、
+line2 <shift> # このスーパーカーにも負けてませんから」
+display
+com11 0 0
+sound 10035
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はあ……。でもなんだか、イタズラ書きを
+line2 <shift> # しているような気がして、後ろめたい気分です」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、車の贈り主に許可をとってから、
+line2 <shift> # あずささんが車のボンネットにサインをし……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （返却した。どうやら、贈り主さんも喜んでくれ
+line2 <shift> # たようだ。何とか、丸く収まって、よかったな）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「最後に、ちょっとだけドライブ、しましょう。
+line2 <shift> # 少しぐらい、いいでしょう」
+display
+com11 0 0
+sound 10036
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「え、でも……。少しでも乗ったら、中古車に
+line2 <shift> # なって、価値が下がるのではないですか？」
+display
+com11 0 0
+sound 10037
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「それに、もし、ちょっとでもぶつけたりしたら、
+line2 <shift> # 大変なことに……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う……。そうですね。
+line2 <shift> # 返すに返せない状態に、なるかもしれません」
+display
+com11 0 0
+sound 10038
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「残念ですけれど、ドライブはあきらめた方が、
+line2 <shift> # いいのではないかしら〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （あずささんの言うとおり、ドライブは断念。
+line2 <shift> # すぐに、贈り主に車を返却した）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （スーパーカーが事務所へやってきたっていうの
+line2 <shift> # に、なんだか盛り上がらない結末だったな……）
+com09 0 69
+display
+location 69
+unk02

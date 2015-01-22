@@ -1,0 +1,288 @@
+com2c 0 18
+com2d 0 63
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、ＮＧになっちゃったな。カメラに
+line2 <shift> # 目線がうまくいってなかったみたいだ」
+display
+com11 0 2
+sound 800
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「うーん……もう一回タイミング、
+line2 <shift> # 取り直しですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。リハとはいえ、そのあたりのチェックは
+line2 <shift> # 厳しめだよ。本番にも影響がでる」
+display
+com11 0 2
+sound 801
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「わかりました。でも……何かカメラ、
+line2 <shift> # 打ち合わせと違いませんか？」
+display
+com11 0 2
+sound 802
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「私、予定のとおりにやったつもり
+line2 <shift> # なんですけど……合わなくて……」
+com03 0 2
+choice1 <shift> # そうなのか？
+line2
+com09 0 10
+com08
+choice2 <shift> # とにかくリテイクだ
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうなのか？　なら、
+line2 <shift> # スタッフに確認してみるか」
+display
+com11 0 2
+sound 803
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「お願いします。なんだか
+line2 <shift> # ちょっと不自然な感じがして……」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「とにかくリテイクはリテイクだ、
+line2 <shift> # やるしかないさ」
+display
+com11 0 2
+sound 804
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「で、でも、ちょっとやりにくい感じがして……、
+line2 <shift> # なんだろう？　なにか不自然なんです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「しかしなぁ……まぁ、わかった。一応、
+line2 <shift> # スタッフにも確認取ろうか」
+display
+com11 0 2
+sound 805
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「すみません、私もできるだけ合わせますけど、
+line2 <shift> # ……お願いします」
+com09 0 29
+display
+location 29
+com22 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺はスタジオディレクターと少し相談してみた。
+line2 <shift> # そしてわかったことは……）
+display
+com21 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「カメラ担当がいつもと違う人なんだって。
+line2 <shift> # 雪歩の動きを撮るのに慣れてないみたい」
+display
+com11 0 2
+sound 806
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「なるほどぉ、そうですか……、それで、距離に
+line2 <shift> # 違和感みたいのがあるのかもしれないです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「距離？　っていうと……」
+display
+com11 0 2
+sound 807
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい、カメラの位置というか、
+line2 <shift> # 撮る位置というか、角度というか」
+display
+com11 0 2
+sound 808
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「私、自分の立ち位置は変えてないつもり
+line2 <shift> # なんですけど……、しっくりこなくて……」
+display
+com11 0 2
+sound 809
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そうだっ、撮りかたについて、担当さんと
+line2 <shift> # ちょっと相談してみても、いいですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだなぁ、カメラかぁ……。しかし、
+line2 <shift> # カメラワークはスタジオ側の仕事とも思うが」
+display
+com11 0 2
+sound 810
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「でも、できれば、もっと面白い画面に
+line2 <shift> # なるように、私も工夫してみたいんです」
+com03 0 3
+choice1 <shift> # もっと寄ってもらおうか
+line2
+com09 0 30
+com08
+choice2 <shift> # もっと離れてもらおうか
+line2
+com09 0 31
+com08
+choice3 <shift> # 指示通りにやろうよ
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もっとカメラ、寄ってもらおうか。
+line2 <shift> # ライブ並みの迫力が出るに違いない」
+display
+com11 0 2
+sound 811
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい、寄ってですね。私も寄りで……。
+line2 <shift> # せっかくだし、いつもより大胆にしようかな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いいねぇ……、って、あんまりローアングルで
+line2 <shift> # カメラ寄ると……、ちょっと危険じゃないか？」
+display
+com11 0 2
+sound 812
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そ、そうですか？　足元危ないのかな……、
+line2 <shift> # 私、ケガしないように気をつけますね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そういう意味じゃないんだが……、まぁ、
+line2 <shift> # なかなかいい絵になりそうだから、いいか」
+display
+com11 0 2
+sound 813
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「たまには、色っぽいのも……、いいですよね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後、うまくカメラマンとの打ち合わせも
+line2 <shift> # スムーズにでき、無事本番を迎えることができた）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ややローアングルからの挑発的な雪歩の
+line2 <shift> # ショットは、新鮮な魅力を作り出せそうだぞ）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もっとカメラ、離れてもらおうか。
+line2 <shift> # 動き回ってもロングなら撮れるだろう」
+display
+com11 0 2
+sound 814
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そうですね。私ももっと大きく
+line2 <shift> # 動いてみるようにしますねっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「って、あんまり動きすぎるとさすがに
+line2 <shift> # フレーム切れるぞ、それは追いきれない」
+display
+com11 0 2
+sound 815
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ああっ、そうか。すみません、すみません……、
+line2 <shift> # おとなしくします……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、今度はそんなに縮こまらなくても。
+line2 <shift> # 適度に動こうよ」
+display
+com11 0 2
+sound 816
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「む、むぅ……。なんだか、
+line2 <shift> # いまだに慣れないですね、私」
+display
+com11 0 2
+sound 817
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「きっとカメラさんもやりにくいんだろうなぁ。
+line2 <shift> # もう少し気をつけて動かなくちゃ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後、普段よりていねいに時間をかけて、
+line2 <shift> # カメラ合わせが行われた）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （本番のカメラワークはスムーズだったが、
+line2 <shift> # 雪歩には少し戸惑いが残ったみたいだな……）
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「不満はあるかもしれないけど、ここは
+line2 <shift> # スタッフの指示通りにきっちりやろうよ」
+display
+com11 0 2
+sound 818
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「うーん、でもぉ……、テンポが合わなくて」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そこをなんとかしてくれなきゃ」
+display
+com11 0 2
+sound 819
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そうなんですよね、仕事なんですし、
+line2 <shift> # プロなんですし……」
+display
+com11 0 2
+sound 820
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「自分のミスでのリテイクを、カメラさんの
+line2 <shift> # せいにしちゃ、いけないですよね……」
+display
+com11 0 2
+sound 821
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ああ、なんでうまくできないの、
+line2 <shift> # 私……、ううっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、だから、泣くな……」
+display
+com11 0 2
+sound 822
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「私がうまくできてないから、カメラさんに
+line2 <shift> # 迷惑が……。それでリテイク連発に……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「い、いやリテイク連発は
+line2 <shift> # してないじゃないか、まだ」
+display
+com11 0 2
+sound 823
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「きっとこれからもっとミスしちゃうんです、
+line2 <shift> # ぐすっ……、だめのだめだめな私だから、きっと」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お、落ち着けっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しかし責任を感じすぎたのか、
+line2 <shift> # その後の雪歩はミスが増えた）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （結局カメラともいまいち息が合わず、不調なまま
+line2 <shift> # 本番を迎えることになってしまった……）
+com09 0 49
+display
+location 49
+unk02

@@ -1,0 +1,307 @@
+com2c 0 17
+com2d 0 73
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「地方の市民ホールとはいえ、
+line2 <shift> # 単独でのライブだ、思う存分歌えるな」
+display
+com11 0 4
+sound 300
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ええ、今こそ本領発揮！
+line2 <shift> # いいステージにしたいですねっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そういや律子、渡しておいた無料招待券、
+line2 <shift> # どうした？　何枚かあったろ」
+display
+com11 0 4
+sound 301
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ああっと、そういえば……そうそう、
+line2 <shift> # 招待券なんて、あったんですねぇ……」
+display
+com11 0 4
+sound 302
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「私、配りませんでしたから。全部まとめて、
+line2 <shift> # プロデューサーにお返しします」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええっ？　誰にも配らなかったの？
+line2 <shift> # 一枚も？」
+display
+com11 0 4
+sound 303
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ええ、一枚も。配ってませんよ？　別に
+line2 <shift> # このチケット、ノルマじゃないでしょう？」
+display
+com11 0 4
+sound 304
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「なら、余ってたって、いいじゃないですか。
+line2 <shift> # はい、どうぞ？」
+com03 0 2
+choice1 <shift> # チケットを受け取る
+line2
+com09 0 10
+com08
+choice2 <shift> # チケットを受け取らない
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「仕方ないなぁ……というか、
+line2 <shift> # 俺にどうぞって渡されてもなぁ」
+display
+com11 0 4
+sound 305
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「受け取ってくれないんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、もらうよ。預かろう」
+display
+com11 0 4
+sound 306
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「お願いします。ああ、よかった……」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや……どうぞって言われても。
+line2 <shift> # 俺に渡されても、困るんだが……」
+display
+com11 0 4
+sound 307
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「受け取ってくれないんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「受け取らないよ、
+line2 <shift> # それはもう律子のものだ」
+display
+com11 0 4
+sound 308
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そうですか、なら、
+line2 <shift> # あとで捨てますけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お、おいおい！
+line2 <shift> # やめとけよ？　捨てるなんて」
+display
+com11 0 4
+sound 309
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「う〜ん、じゃあ記念に取って
+line2 <shift> # おくことにでもするかな……」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「しかしだいたい、なんで券を
+line2 <shift> # 配らなかったんだ？」
+display
+com11 0 4
+sound 310
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「なんで、って……べ、別に。
+line2 <shift> # 配りたくなかっただけでっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「親御さんでも、友達でも、
+line2 <shift> # 招待したらいいじゃないか」
+display
+com11 0 4
+sound 311
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そんな……私、親や知人を仕事場に
+line2 <shift> # ホイホイ招いたり、したくないんです！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いやでも、せっかくの招待券だぞ？
+line2 <shift> # ライブを見てもらういい機会でもあるし」
+display
+com11 0 4
+sound 312
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「いえ、私……もし呼ぶなら、チケットは
+line2 <shift> # 普通に買って、来てもらいたくて」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それはどうして？」
+display
+com11 0 4
+sound 313
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「その……つまり、
+line2 <shift> # プロとしてのけじめで」
+display
+com11 0 4
+sound 314
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「私のやってることにお金を払う価値が
+line2 <shift> # あると思うなら、見て欲しいってことで……」
+com03 0 2
+choice1 <shift> # まだ自信がないんだろ？
+line2
+com09 0 30
+com08
+choice2 <shift> # かわいくないなあ
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「要するに、まだ自信がないんだろ？」
+display
+com11 0 4
+sound 315
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ええっ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「人を招待して見せられるほどの
+line2 <shift> # ものじゃあないと、自分では思っている」
+display
+com11 0 4
+sound 316
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「うっ……そ、そんなことないですよ！
+line2 <shift> # そういうわけじゃ……ま、まさかあっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうかな？　律子にもし自信があるなら、
+line2 <shift> # 堂々と人を招いて見せると思うけどなぁ」
+display
+com11 0 4
+sound 317
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ま、まぁほんとは……多少は、
+line2 <shift> # そうかも、しれないけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんだかはっきりしないなぁ、
+line2 <shift> # もしかして図星だったのか？」
+display
+com11 0 4
+sound 318
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そ、そんなことないっ！　自信はあります、
+line2 <shift> # なかったら、ライブなんてできないですよ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ま、いいか。そういうことにしよう。
+line2 <shift> # 本番はしっかり頼むぞ？」
+display
+com11 0 4
+sound 319
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「まかせて！　まがりなりにも私、
+line2 <shift> # プロですから！」
+display
+com11 0 4
+sound 320
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「少なくとも、お客みんなに
+line2 <shift> # チケットの元は取らせますよっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （多少あった迷いが吹っ切れたようで、
+line2 <shift> # 律子はしっかり笑って見せた）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （これなら、堂々張り切って、ライブに
+line2 <shift> # 挑んでくれそうだな……、期待しよう）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんだかかわいくないなあ、そういうの」
+display
+com11 0 4
+sound 321
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「可愛げの問題じゃあないでしょ、別に」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でもなぁ……、いいじゃないか、
+line2 <shift> # ライブに身内くらい呼んでみたって」
+display
+com11 0 4
+sound 322
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「いいえ、お金を貰ってそれに見合うことして、
+line2 <shift> # 少なくともチケットの元は取らせてみせる……」
+display
+com11 0 4
+sound 323
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そういう気持ちがあるからこそ、プロとして
+line2 <shift> # ステージの上で頑張れるって、私思うんです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうかな……。それだけじゃない気もするけど」
+display
+com11 0 4
+sound 324
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「私はそう思いたいの。
+line2 <shift> # じゃないと……」
+display
+com11 0 4
+sound 325
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「お金取って仕事するのが、時々
+line2 <shift> # 申し訳なく……、ああっと、今のはナシ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「要するに普通のチケット買ってもらうよりも、
+line2 <shift> # 招待のほうが抵抗あるのか？　気持ちとしては」
+display
+com11 0 4
+sound 326
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そうそう、そうです。だから招待はしない、
+line2 <shift> # チケット代を胸張って取れるようになるまでね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それって、しないんじゃなくて……、
+line2 <shift> # できない、んじゃないか？」
+display
+com11 0 4
+sound 327
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「それを言わないでくださいよぉ……。さてと、
+line2 <shift> # お仕事お仕事。今はとにかく、ひと儲けです！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やれやれ……。さて、そろそろ準備だ、
+line2 <shift> # しっかり頼むぞ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （何か律子にごまかされてしまった気がするな。
+line2 <shift> # どこからどこまでが本音なのやら）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （でも、本当は自信がなかったのかも。ライブは
+line2 <shift> # 大丈夫だろうか？　少し不安が残るなぁ……）
+com09 0 49
+display
+location 32
+com09 0 49
+display
+location 49
+unk02

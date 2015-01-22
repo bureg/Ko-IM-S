@@ -1,0 +1,386 @@
+com2c 0 119
+com2d 0 51
+com2e 0 131
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ついに、四次予選ですね。
+line2 <shift> # 今日のオーディションは重要ですよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「このクラスになると、残っているのは、
+line2 <shift> # 実力派ばかりですから」
+display
+com11 0 0
+sound 10000
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「世間の方の注目度も、上がっていますよね。私、
+line2 <shift> # 友達にがんばってねって応援されちゃいました」
+display
+com11 0 0
+sound 10001
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「すごく、周りから期待されていて……。
+line2 <shift> # プレッシャーも、すごいんです〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「けど、それだけに、ここで勝てば、
+line2 <shift> # あずささんの人気も、さらに高まります」
+display
+com11 0 0
+sound 10002
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「はい。ちなみに、この四次予選、ＴＶ中継も含
+line2 <shift> # めて、どれくらいの人が観るのでしょうか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうですね。
+line2 <shift> # 正確な数値は、わかりませんが……」
+com03 0 3
+choice1 <shift> # １００万人
+com09 0 10
+com08
+choice2 <shift> # １０００万人
+line2
+com09 0 11
+com08
+choice3 <shift> # １億人
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「１００万人くらいは、
+line2 <shift> # 観ているかもしれません」
+display
+com11 0 0
+sound 10003
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「そんなに、たくさん……。
+line2 <shift> # みっともないことは、できませんね〜」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「１０００万人くらいは、
+line2 <shift> # 観ているような気がします」
+display
+com11 0 0
+sound 10004
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「そ、そんなにですか！？
+line2 <shift> # 何だか、急に、怖くなってきました。でも……」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「１億人くらい、観ている可能性も、
+line2 <shift> # なきにしもあらずですよ」
+display
+com11 0 0
+sound 10005
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ええっ！？　そんなにも大勢の人が、
+line2 <shift> # 観ているんですか！？　まだ予選なのに……」
+display
+com11 0 0
+sound 10006
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「それも、予選は、数週にわたって、
+line2 <shift> # 行なわれますよね？　毎週、１億人ですか〜？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「い、いや、のべ１億人かな？
+line2 <shift> # すみません。よくわかりません……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （適当なことを言ったら、いけないな。
+line2 <shift> # ちょっと反省……）
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10007
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「知り合いも大勢、見ていますし、皆を、
+line2 <shift> # ガッカリさせることだけは、したくないです」
+display
+com11 0 0
+sound 10008
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「それに、何より、プロデューサーさんを、
+line2 <shift> # ガッカリさせたくないですから……」
+display
+com11 0 0
+sound 10009
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ミキなら絶対ガッカリさせないよ？　……って
+line2 <shift> # いうか、もう四次予選、突破しちゃったの」
+display
+com11 0 0
+sound 10010
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あっ、美希ちゃん……」
+display
+com11 0 0
+sound 10011
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「あずさ、自信がないなら、この辺でＩＵは、
+line2 <shift> # キケンした方が、いいって思うな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おい、美希！　そういう言い方は、ないだろ。
+line2 <shift> # 頑張ってる、あずささんに対して……」
+display
+com11 0 0
+sound 10012
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「いいんです、プロデューサーさん。美希ちゃん、
+line2 <shift> # 悪気はないんです。私、わかっていますから」
+display
+com11 0 0
+sound 10013
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「それに、美希ちゃんの方が、私より、
+line2 <shift> # ずっと厳しい戦いをしているんです〜」
+display
+com11 0 0
+sound 10014
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「私が気弱なことを言うのを、美希ちゃんが、
+line2 <shift> # 許せないのは、よくわかります……」
+display
+com11 0 0
+sound 10015
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「だって、私にはプロデューサーさんが、そばに
+line2 <shift> # いてくれていますけれど、美希ちゃんには……」
+display
+com11 0 0
+sound 10016
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「……」
+display
+com11 0 0
+sound 10017
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「美希ちゃん。９６１プロでのお仕事、
+line2 <shift> # 大変なんでしょう？」
+display
+com11 0 0
+sound 10018
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「うん。でも、今、がんばれば、ごほうびを
+line2 <shift> # あげてもいい、って、黒井社長が……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ごほうび？　どういうごほうびなんだ？」
+display
+com11 0 0
+sound 10019
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「まだ、ナイショなの。でも、とにかくミキ、
+line2 <shift> # がんばることに決めたから」
+display
+com11 0 0
+sound 10020
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ＩＵは、どうでもいいって思ってたけど、
+line2 <shift> # ミキ、勝って本選に出場するの！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか。……なあ、美希。せっかくのやる気に、
+line2 <shift> # 水を差す気はないんだけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もう、７６５プロに戻って来る気はないのか？
+line2 <shift> # 美希さえ良ければ、いつでも……」
+display
+com11 0 0
+sound 10021
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ミキ、戻らないよ！　高木社長も許せないし、
+line2 <shift> # それに……、７６５プロにはあずさがいるから」
+display
+com11 0 0
+sound 10022
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「どうして私がいちゃ、いけないの？
+line2 <shift> # 美希ちゃんは、私のこと、キライなの？」
+display
+com11 0 0
+sound 10023
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「キライじゃないけど、ミキ的に、あずさには、
+line2 <shift> # プロデューサーのそばに、いて欲しくないの」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええっ、なんてこと言うんだ、美希！　あずさ
+line2 <shift> # さんが優しいからって、ちょっとヒドイぞ！」
+display
+com11 0 0
+sound 10024
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「むー。ミキ、ヒドくないもん！　ミキの立場
+line2 <shift> # なら、そう思うの、当然だって思うな！」
+display
+com11 0 0
+sound 10025
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「だって、あずさは、
+line2 <shift> # プロデューサーのこと、好きだもん」
+display
+com11 0 0
+sound 10026
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「み、美希ちゃんったら、何を……」
+display
+com11 0 0
+sound 10027
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「今、好きじゃなくても、このまま、
+line2 <shift> # 一緒にいたら、きっと好きになるもんっ！」
+display
+com11 0 0
+sound 10028
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ミキがプロデューサーのこと見つめてる時、
+line2 <shift> # いっつもあずさと目が合うの……」
+display
+com11 0 0
+sound 10029
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「偶然じゃないって、ミキは思うの！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そんなこと、あるわけないだろ！
+line2 <shift> # そんなの、美希のカン違いだよ！」
+display
+com11 0 0
+sound 10030
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「恋する乙女のカンは鋭いんだよ。プロデュー
+line2 <shift> # サーみたいなニブニブ男には、わかんないの！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「行ってしまった……。ニブニブ男って……。
+line2 <shift> # ヒドイな、美希のやつ。あはは……」
+display
+com11 0 0
+sound 10031
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あずささん？」
+display
+com11 0 0
+sound 10032
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あ！　す、すみません。
+line2 <shift> # なんだか、ぼんやりしてしまって……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「美希の言ったことなら、気にしないで下さい。
+line2 <shift> # 俺、信じてませんから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あずささんは、俺をプロデューサーとして、
+line2 <shift> # 信頼してくれてるってこと、わかってます」
+display
+com11 0 0
+sound 10033
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「はい……。私も、
+line2 <shift> # プロデューサーさんの指示にしたがって……」
+display
+com11 0 0
+sound 10034
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「アイドルとして、期待に応えなければいけませ
+line2 <shift> # んよね。よくわかっているつもりです」
+display
+com11 0 0
+sound 10035
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「それが、私がプロデューサーさんの隣に、
+line2 <shift> # いさせてもらえる理由ですから……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え？　なんだか意味深な言い方ですね。
+line2 <shift> # あずささん、それは、どういうことですか？」
+display
+com11 0 0
+sound 10036
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「いえ、気にしないで下さい。私も今は、自分で、
+line2 <shift> # 自分の気持ち、よくわからないんです……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あずささん、美希の言葉で、動揺しているよう
+line2 <shift> # だな。ここは俺が、落ち着かせなければ！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あずささん、迷うのは後でもできます」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、ＩＵ優勝へのチャンスは、
+line2 <shift> # 今日、勝たないと、閉ざされてしまいますよ」
+display
+com11 0 0
+sound 10037
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「チャンスが、閉ざされる……？　いやです。
+line2 <shift> # それは、困ります。……私、勝ちたいです！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あずささんは、なんとか落ち着いてくれたよう
+line2 <shift> # だ。あとは、俺の指示が的確であれば……！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ＩＵ本選出場につながる、大事な
+line2 <shift> # オーディションだ。何としても合格するぞ！）
+com09 0 99
+display
+location 99
+unk02

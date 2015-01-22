@@ -1,0 +1,419 @@
+com2c 0 40
+com2d 0 21
+com32 0 0
+com11 0 0
+sound 0
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「デビューして、いきなりＣＭの話がくるなんて
+line2 <shift> # さすが私、って感じかしら〜」
+display
+com11 0 0
+sound 1
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「私のカワイイ顔がＣＭで全国に放送されれば
+line2 <shift> # 人気も大爆発、間違いなしよねっ♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「喜んでるところ悪いんだけど……
+line2 <shift> # 今回は、ローカルＣＭなんだ」
+display
+com11 0 0
+sound 2
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「えっ？　……全国のお茶の間に
+line2 <shift> # 放送されるんじゃないの？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「超ごく一部地域のお茶の間に
+line2 <shift> # 放送されます」
+display
+com11 0 0
+sound 3
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なによ、それ！　そんなショボイ仕事しか
+line2 <shift> # 取ってこられないなんて、さすがアンタね！」
+display
+com11 0 0
+sound 4
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……なんか、やる気なくなっちゃった。
+line2 <shift> # もう帰りたいぃ〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ああっ！　いきなりご機嫌ナナメだ！
+line2 <shift> # なんとかなだめて撮影に行かせないと……）
+com03 0 3
+choice1 <shift> # 全て俺の責任だ
+line2
+com09 0 10
+com08
+choice2 <shift> # 一部地域でもいいじゃないか！
+line2
+com09 0 11
+com08
+choice3 <shift> # 練習のつもりで頑張ろう
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「全て俺の責任だ。伊織の魅力を活かせる仕事を
+line2 <shift> # 取ってこられなくて……許してくれ！」
+display
+com11 0 0
+sound 5
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ちょ、ちょっと〜。そこまでヒクツにならない
+line2 <shift> # でよね。本気で責めてるんじゃないんだから」
+display
+com11 0 0
+sound 6
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「まだデビューしたばっかりなんだし、
+line2 <shift> # 仕方ないわね。今回はガマンしてあげるわ！」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「一部の地域でもいいじゃないか！　その地域の
+line2 <shift> # 人に夢と感動を与えられたら、素晴らしいだろ」
+display
+com11 0 0
+sound 7
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「はあ？　バカも休み休み言ったらどう！？
+line2 <shift> # ＣＭでどうやって夢と感動を与えるのよ〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、それは、伊織の美少女っぷりに、お茶の間
+line2 <shift> # 感動！　もう伊織様にメロメロ……という風に」
+display
+com11 0 0
+sound 8
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そんなカンタンにいくかしらね？
+line2 <shift> # ……本当にそうなるなら、ガマンもできるけど」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、今回は練習のつもりで頑張ればいいさ。
+line2 <shift> # 全国ＣＭの仕事がきても慌てないように、な」
+display
+com11 0 0
+sound 9
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「な、じゃないわよっ！　その『気の利いたこと
+line2 <shift> # 言ってやった』みたいな顔、ムカつくわ〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う。ごめん。
+line2 <shift> # そんなつもりじゃなかったんだけど……」
+display
+com11 0 0
+sound 10
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「立場を利用して、偉そうにしないでよね！
+line2 <shift> # じゃなきゃ、言うこと聞いてやんないんだから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （立場を利用して偉そうにしてるのは
+line2 <shift> # 伊織じゃないか……）
+com09 0 19
+display
+location 19
+com11 0 0
+sound 11
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「で？　ＣＭではどんな演技をすればいいわけ？
+line2 <shift> # 衣装はどこ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「衣装は無いんだ。声だけの出演だし、商品の
+line2 <shift> # 静止画が、何枚か切り替わるだけのＣＭだから」
+display
+com11 0 0
+sound 12
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「えー♪　今時、静止画像だけのＣＭだなんて
+line2 <shift> # 斬新でステキー♪」
+display
+com11 0 0
+sound 13
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「って、そんなわけないでしょ！
+line2 <shift> # やっぱり私、帰る！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「待て待て！　静止画のつまらないＣＭを、
+line2 <shift> # 伊織の力で面白いものにしてくれよ！」
+display
+com11 0 0
+sound 14
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「無茶言わないでよ〜。そりゃ、そんなことが
+line2 <shift> # できればスゴイけど……。どうすればいいの？」
+com03 0 3
+choice1 <shift> # 歌いながら商品説明だ！
+line2
+com09 0 20
+com08
+choice2 <shift> # アドリブで商品説明だ！
+line2
+com09 0 21
+com08
+choice3 <shift> # おどりながら商品説明だ！
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「歌いながら商品説明だ！　何気なく曲の宣伝も
+line2 <shift> # できるし、一石二鳥だろう？」
+display
+com11 0 0
+sound 15
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「歌いながら……？」
+display
+com11 0 0
+sound 16
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「案外面白そうかもね。やってみるわ！
+line2 <shift> # じゃ、行ってくる！」
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 17
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「プロデューサー！　歌がかわいくて最高だって
+line2 <shift> # ＣＭ監督にほめられちゃった！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか！　うまくいって、俺もうれしいよ！」
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「アドリブで商品説明だ！　台本にないセリフも
+line2 <shift> # どんどんいれて、ＣＭを盛り上げるんだ！」
+display
+com11 0 0
+sound 18
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「アドリブで……？
+line2 <shift> # 新人の私がそこまでして、大丈夫かしら？」
+display
+com11 0 0
+sound 19
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ま、他にアイデアもないし、それでいくしか
+line2 <shift> # ないわね。じゃ、行ってくる！」
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 20
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「プロデューサー……。台本通りやってくれって
+line2 <shift> # ＣＭ監督に注意されちゃったわ〜……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そうか。でも、無難にこなせたみたいだし
+line2 <shift> # 問題はないと思うぞ」
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おどりながら商品説明だ！　激しいダンスで
+line2 <shift> # 情熱的、かつ攻撃的なＣＭに仕上げるんだ！」
+display
+com11 0 0
+sound 21
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「情熱的ねぇ……。でも、静止画ＣＭでしょ？
+line2 <shift> # 私は写らないのに、ダンスなんて必要かしら？」
+display
+com11 0 0
+sound 22
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ま、楽しげな雰囲気ぐらいは伝わるかもしれな
+line2 <shift> # いわね。じゃ、行ってくる！」
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 23
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「はぁ、はぁ……。激しくダンスしながらじゃ、
+line2 <shift> # 息がきれて……商品説明どころじゃなかったわ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （静止画なのにダンスなんて、意味ないよな。
+line2 <shift> # あ、ＣＭ監督がこっちをにらんでいる！）
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……さて。色々あったけど、なんとか撮影は
+line2 <shift> # 無事に終わったし、良かったな！」
+display
+com11 0 0
+sound 24
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……無事に終わったってことだけで喜べる
+line2 <shift> # アンタって、単純でいいわね〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なんだよ？　元気ないな。ＣＭが静止画だって
+line2 <shift> # こと、まだ気にしてるのか？」
+display
+com11 0 0
+sound 25
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「それもあるけど、なんていうか、私が考えてた
+line2 <shift> # アイドルって、こんなんじゃなかったのよ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「伊織のアイドル理想像と今は違うわけか。
+line2 <shift> # どういうのがアイドルだって思ってたんだ？」
+display
+com11 0 0
+sound 26
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そうねえ、理想はあるけど
+line2 <shift> # 今、アンタに語りたいような話でもないし……」
+display
+com11 0 0
+sound 27
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そうだ！　私とカード勝負して、その結果
+line2 <shift> # で話すかどうか決める、ってことにしない？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そう言われちゃ、逃げるわけにはいかないな。
+line2 <shift> # カード勝負、受けてたつぞ！」
+display
+com11 0 0
+sound 28
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「にひひっ♪　そうこなくっちゃね！
+line2 <shift> # ２枚のカードのうち、どちらかを選んで」
+display
+com11 0 0
+sound 29
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「選んだカードが　ジョーカーだったら、アンタ
+line2 <shift> # の負け。ハートのＡだったら、アンタの勝ちよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （伊織は、負けたら不機嫌になるに決まってる。
+line2 <shift> # 運任せだが、できればジョーカーを選びたいな）
+com03 0 2
+choice1 <shift> # 右のカードだ！
+line2
+com09 0 30
+com08
+choice2 <shift> # 左のカードだ！
+line2
+com09 0 31
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「右だ！　右のカードで勝負！」
+com37 0 1
+com1e 0 0
+com09 0 38
+com3b
+com37 0 0
+com1e 0 0
+com09 0 39
+com3b
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「左だ！　左のカードで勝負！」
+com37 0 1
+com1e 0 0
+com09 0 38
+com3b
+com37 0 0
+com1e 0 0
+com09 0 39
+com3b
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「時間がない！　テキトーに勝負！」
+com09 0 39
+display
+location 38
+com11 0 0
+sound 30
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あっ、ジョーカーだわ！　ってことは、
+line2 <shift> # 私の勝ち？　私って運まで完璧なのね♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「伊織にはかなわないなあ……。この分なら、
+line2 <shift> # もっといいＣＭの話、近いうちに来そうだな」
+display
+com11 0 0
+sound 31
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「当然よ〜！　私ね、立場とか生まれとかに関係
+line2 <shift> # なく、純粋に皆に愛される存在になりたいの」
+display
+com11 0 0
+sound 32
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「それがアイドルってもんだと思うし……。
+line2 <shift> # 私がそうなれる日は、遠くなさそうね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （伊織は機嫌よく自分の考えを語ってくれた。
+line2 <shift> # うまく負けてあげられたな。グッジョブ、俺！）
+com4b 0 0
+com09 0 49
+display
+location 39
+com11 0 0
+sound 33
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ハートのＡ……。ってことは、アンタの勝ち？
+line2 <shift> # むぅ〜……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺って罪なほど強運だなあ！　それじゃ、
+line2 <shift> # 伊織の理想のアイドル像を聞かせてくれるか？」
+display
+com11 0 0
+sound 34
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……さーねー。理想のプロデューサー像なら、
+line2 <shift> # 強運を仕事に活かせる人、なんだけど」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うう。耳の痛い言葉だな……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （勝負に負けて、伊織はへそを曲げてしまった。
+line2 <shift> # これは、なだめるのがかなり大変そうだぞ……）
+com4b 0 2
+com09 0 49
+display
+location 49
+unk02

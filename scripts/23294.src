@@ -1,0 +1,311 @@
+com2c 0 148
+com2d 0 51
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （オフの時間に、あずささんと散策していると、
+line2 <shift> # 近くの学校が賑わっているのを見つけた）
+display
+com11 0 0
+sound 300
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「なにか、学校で催しものみたいですね。
+line2 <shift> # なんでしょう？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どれどれ……。どうやら、今日は、
+line2 <shift> # この学校、学園祭を、やってますね」
+display
+com11 0 0
+sound 301
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「学園祭、ですか？」
+com03 0 2
+choice1 <shift> # 見て行きましょうか？
+line2
+com09 0 10
+com08
+choice2 <shift> # 懐かしいですか？
+line2
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「せっかく通りかかったし、
+line2 <shift> # 少し、中、見て行きましょうか？」
+display
+com11 0 0
+sound 302
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「そうですね、かなり、
+line2 <shift> # 盛り上がってるみたいですし。面白そうです」
+display
+com11 0 0
+sound 303
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「みんなが、何かに熱中してる感じが、
+line2 <shift> # ここまで伝わってきますね」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あずささん、学園祭なんて、
+line2 <shift> # 懐かしいですか？」
+display
+com11 0 0
+sound 304
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「懐かしいというほど、昔のことじゃない気も、
+line2 <shift> # しますけど……。でも、そうですね」
+display
+com11 0 0
+sound 305
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「短大では、こんなに大きなお祭りは、
+line2 <shift> # できなかったですし」
+display
+com11 0 0
+sound 306
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「制服を着ていたのも、もう、
+line2 <shift> # 何年か前のことですから」
+display
+com11 0 0
+sound 307
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「学校の、この活気……。
+line2 <shift> # やっぱり、昔を思い出しますね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なるほど。
+line2 <shift> # ちょっと中、のぞいていってみます？」
+display
+com11 0 0
+sound 308
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あ、はい。見てみましょうか」
+com09 0 19
+display
+location 19
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それじゃ、なにを見ようかな……。
+line2 <shift> # ここに案内が出てますね。なになに……」
+display
+com11 0 0
+sound 309
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「食べ物の屋台に、研究の展示発表、
+line2 <shift> # ステージイベントも、あるみたいですね」
+com03 0 3
+choice1 <shift> # 展示発表
+com09 0 20
+com08
+choice2 <shift> # ステージイベント
+line2
+com09 0 21
+com08
+choice3 <shift> # 屋台！
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「展示発表でも、見てみますか。
+line2 <shift> # ちょっと地味かもしれませんが」
+display
+com11 0 0
+sound 310
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「いえ、もしかしたら、
+line2 <shift> # 何かに、であえるかもしれませんよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「何か？　……俺も、興味が出てきたな。
+line2 <shift> # 行ってみましょう」
+display
+com22 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そして……）
+display
+com21 0 30
+com11 0 0
+sound 311
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「美術の展示、素敵な絵が、
+line2 <shift> # たくさんありましたね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええ。あずささん、
+line2 <shift> # 結構、見入っていましたね」
+display
+com11 0 0
+sound 312
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「それに、生物部の観察記録も、
+line2 <shift> # 珍しくて、ユニークでしたし……」
+display
+com11 0 0
+sound 313
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「私も、ちょっと、勉強したい気分に、
+line2 <shift> # なってきたかもしれません」
+display
+com11 0 0
+sound 314
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ふふっ。学生の頃は、そんなこと、
+line2 <shift> # 思わなかったのに……。変ですね」
+display
+com11 0 0
+sound 315
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「プロデューサーさんと、一緒に見たから、
+line2 <shift> # そう思ったのかもしれません」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あずささんは、楽しんでくれたようだ。
+line2 <shift> # 新鮮な刺激を、学園祭から、もらったぞ）
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ステージイベントを、見に行きましょうか。
+line2 <shift> # 音楽部の演奏も、やるようですし」
+display
+com11 0 0
+sound 316
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「演奏ですか。
+line2 <shift> # どんな音楽が、きけるんでしょう？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「行っての、お楽しみですね」
+display
+com22 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そして……）
+display
+com21 0 30
+com11 0 0
+sound 317
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「す、すみません、プロデューサーさん。
+line2 <shift> # きいてる途中で、眠ってしまって……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ははは。それだけ、リラックスできる演奏
+line2 <shift> # だったってことで、いいんじゃないですか？」
+display
+com11 0 0
+sound 318
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「でも、申し訳ないです。
+line2 <shift> # まさか、肩に寄りかかって、寝てしまうなんて」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いやいや、俺は、構わないですよ。
+line2 <shift> # 迷惑だなんて、思ってないし」
+display
+com11 0 0
+sound 319
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「それにしても、途中まで、いい演奏だった気は、
+line2 <shift> # するんですけど……、覚えてなくて」
+display
+com11 0 0
+sound 320
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ちゃんと、ききたかったですね。ああ、
+line2 <shift> # もったいないことを、してしまったかも……」
+display
+com11 0 0
+sound 321
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あの、どんな曲だったか、詳しく、
+line2 <shift> # 教えてもらえませんか？　プロデューサーさん」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （学園祭は、楽しかった。あずささんも、
+line2 <shift> # 楽しんでくれたみたいだ。だけど……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後も少し、きき逃した演奏のことを、
+line2 <shift> # あずささんは、気にしていたようだった）
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ここは、やっぱり、食べ物の屋台を！
+line2 <shift> # 巡りましょうか！」
+display
+com11 0 0
+sound 322
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「こういう、お祭りの屋台って、なぜか普段より、
+line2 <shift> # おいしく感じるんですよね。ふふっ」
+display
+com11 0 0
+sound 323
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あっ。もちろん中には、ほんとにほんとに、
+line2 <shift> # おいしいお店も、ありますよね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ははは。なんだか俺も、食欲が、
+line2 <shift> # わいてきましたよ。行きましょう」
+display
+com22 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そして……）
+display
+com21 0 30
+com11 0 0
+sound 324
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「す、すみません、プロデューサーさん。
+line2 <shift> # ついつい、たくさん食べてしまったみたいで」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いやいや。結構、うまかったかも。
+line2 <shift> # 俺も、限界まで食べてしまいました」
+display
+com11 0 0
+sound 325
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あ、その……、いえ」
+display
+com11 0 0
+sound 326
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「とてもおいしかったのは、いいんですけど。
+line2 <shift> # どうしても、食べ過ぎてしまって」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え？　何か、まずかったですか！？」
+display
+com11 0 0
+sound 327
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あの、もしかしたら、太ってしまうかも……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ま、まあまあ。オフですし、少しくらいは……。
+line2 <shift> # まだ、散歩する時間も、ありますから」
+display
+com11 0 0
+sound 328
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「少し歩いてから、戻りましょう。
+line2 <shift> # 少しでも、カロリーを減らさなくては……！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後は、時間いっぱい、腹ごなしのために、
+line2 <shift> # あずささんと歩いた）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （確かに、食べすぎには、
+line2 <shift> # 気を配ったほうが、よかったかなぁ……）
+com09 0 29
+display
+location 29
+unk02

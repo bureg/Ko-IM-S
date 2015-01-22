@@ -1,0 +1,440 @@
+com2c 0 17
+com2c 0 18
+com2d 0 23
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「初のドラマ出演おめでとう、伊織！　ゲスト
+line2 <shift> # 扱いだが、重要な役だぞ。良かったな！」
+display
+com11 0 0
+sound 0
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……アンタはいいわよね。そうやって、
+line2 <shift> # 能天気に喜んでるだけでいいんだもの」
+display
+com11 0 0
+sound 1
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「こっちは大変よ！　本格的な演技は初めてなの
+line2 <shift> # に、いきなりスペシャルドラマに出演だなんて」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ＴＶ局側も力をいれてるドラマだよな。
+line2 <shift> # ……あ、もしかして緊張してるのか？」
+display
+com11 0 0
+sound 2
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「べべべ別にぃ〜！　売れっ子アイドル役だから
+line2 <shift> # 地でやれるし、なんなら主役だってやれるわ〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……と言いつつ、目が泳いでいる。これは、
+line2 <shift> # かなり緊張してるな。少しほぐしてやらないと）
+com03 0 3
+choice1 <shift> # やーい、緊張してやんの
+line2
+com09 0 10
+com08
+choice2 <shift> # 落ち着いてやればＯＫだ
+line2
+com09 0 11
+com08
+choice3 <shift> # やっぱり断ろうか？
+line2
+com09 0 12
+com08
+com07 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やーい、やっぱり緊張してやんの！　そんなん
+line2 <shift> # で主役が憧れるアイドルの役が務まるのか〜？」
+display
+com11 0 0
+sound 3
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「きぃ〜、言ったわねっ！　バカにして〜。
+line2 <shift> # なによ、ドラマぐらい！」
+display
+com11 0 0
+sound 4
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「アイドルをなめないで欲しいわ。絶対、立派に
+line2 <shift> # 務めてやるんだから、見てらっしゃいっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ふふっ。伊織のやる気に火がついたようだ。
+line2 <shift> # 緊張は、どこかへ吹き飛んだらしいぞ）
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「落ち着いてやればＯＫだ。
+line2 <shift> # 演出家の言う通りにやればいいんだから」
+display
+com11 0 0
+sound 5
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「わ、わかってるわよ、そんなこと！
+line2 <shift> # ちゃんと落ち着いてるし、余裕バクバクよ！」
+display
+com11 0 0
+sound 6
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「発声練習でも、しよ〜っと。
+line2 <shift> # あめんぼ赤いな、まみむめもーっと」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あんまり落ち着いてるようには、
+line2 <shift> # 見えないんだがな……）
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やっぱり断ろうか？
+line2 <shift> # 演技なんて、無理してやらなくても……」
+display
+com11 0 0
+sound 7
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「無理してやらなくても、影響ない？
+line2 <shift> # ドタキャンしても全然平気？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それは……そうじゃないけど」
+display
+com11 0 0
+sound 8
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「だったら、やっぱり、なんとかやるしかない
+line2 <shift> # じゃないのーっ！　引き返す道はないんだから」
+display
+com11 0 0
+sound 9
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……でも、もしＮＧ連発しちゃったら、どうし
+line2 <shift> # よう。んもー、悪い方にばっかり考えちゃう」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （なんか、余計なこと言って、さらに追い詰め
+line2 <shift> # ちゃったような気もするな）
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そうそう！　忘れないうちに、セリフの確認を
+line2 <shift> # しとかなきゃ。ちょっと手伝ってくれる？」
+display
+com11 0 0
+sound 11
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「こういうセリフなの。『苦労せずに夢をかなえ
+line2 <shift> # た人なんていない。だから頑張って前進して』」
+display
+com11 0 0
+sound 12
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……変なセリフ〜。アイドルになるっていう
+line2 <shift> # 私の夢は、苦労せずにかなったわよ」
+display
+com11 0 0
+sound 13
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ま、いいわ。セリフを言ってみるから、
+line2 <shift> # つっかえちゃったら、教えてちょうだいね！」
+display
+com11 0 0
+sound 14
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「『いい？　苦労せずに夢をかなえた人なんて
+line2 <shift> # いないの。だから頑張って……』えっと……」
+com03 0 3
+choice1 <shift> # 『前進して！』だ
+line2
+com09 0 20
+com08
+choice2 <shift> # 『全身して！』だ
+line2
+com09 0 21
+com08
+choice3 <shift> # 『前屈して！』だ
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「『前進して！』だ」
+display
+com11 0 0
+sound 15
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「『頑張って前進して！』……うん！　ちゃんと
+line2 <shift> # 覚えられたわ。本番もうまくやれそう！」
+display
+com11 0 0
+sound 16
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……あ、そろそろ出番かしら。
+line2 <shift> # それじゃ、行ってくるわね！」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「『全身して！』だ」
+display
+com11 0 0
+sound 17
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「『頑張って全身して！』……ん？
+line2 <shift> # なんか微妙にスッキリしない感じだけど？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、間違えた。『前進して』だった」
+display
+com11 0 0
+sound 18
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「まあ、ちょっとした間違いだからバレなそうだ
+line2 <shift> # けど。多分、本番はなんとかなると思うわ」
+display
+com11 0 0
+sound 19
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……いっけない！　そろそろ出番よね。
+line2 <shift> # それじゃ、行ってくるわ！」
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「『前屈して！』だ」
+display
+com11 0 0
+sound 20
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「『頑張って前屈して！』……前屈と夢と、
+line2 <shift> # 何の関係があるのかしら？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、間違えた。『前進して』だった」
+display
+com11 0 0
+sound 21
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ちょっと間違いすぎなんじゃなぁい！？
+line2 <shift> # んも〜、全然セリフが暗記できないぃ〜！」
+display
+com11 0 0
+sound 22
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ああっ、大変！　もう、すぐに出番だわ。
+line2 <shift> # 急がなきゃ！　じゃ、行ってくる！」
+com09 0 29
+display
+location 29
+com22 0 30
+com32 0 1
+com21 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （撮影開始前の心配はどこへやら、伊織は
+line2 <shift> # 初ドラマ出演を見事にこなしてみせた）
+display
+com11 0 0
+sound 23
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ふう〜お疲れ様！　プロデューサー、聞いて聞
+line2 <shift> # いて！　番組のディレクターに声かけられたわ」
+display
+com11 0 0
+sound 24
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「本格的なドラマ出演を考えてみないか、
+line2 <shift> # って！　私、女優の才能もあるのかもね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おおっ！　スゴイじゃないか！　きっと、伊織
+line2 <shift> # の演技がよかったから、気に入られたんだな」
+display
+com11 0 0
+sound 25
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「それで、さっそくなんだけど、来週撮影のドラ
+line2 <shift> # マに、主人公の友達役で出て欲しいんですって」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「友達役か……また脇役だぞ？　伊織ほど有名な
+line2 <shift> # アイドルなら、次は主役でもいいと思うが……」
+display
+com11 0 0
+sound 26
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「うーん、まあ、そうかもしれないけど。
+line2 <shift> # あんまり安売りしないほうがいいかしら？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ちょっと判断に迷うところだな……」
+display
+com11 0 0
+sound 27
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「あっ！　こんな時は、アレで決めましょ！
+line2 <shift> # ほら、カード勝負！」
+display
+com11 0 0
+sound 28
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「２枚のカードのうち、どちらかをプロデューサ
+line2 <shift> # ーが選んで、その結果で決めるのよ」
+display
+com11 0 0
+sound 29
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「選んだカードがジョーカーだったら、この話は
+line2 <shift> # ナシ。ハートのＡだったら、話を受けるわ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「運任せか……。でも、たまにはこういう
+line2 <shift> # 決め方もありかな。よし、やろう！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （とは言ったものの、やっぱり安売りは良くない
+line2 <shift> # 気がする。できればジョーカーを選びたいな）
+com03 0 2
+choice1 <shift> # 右のカードだ！
+line2
+com09 0 30
+com08
+choice2 <shift> # 左のカードだ！
+line2
+com09 0 31
+com08
+com07 129 64 129 64 129 64 129 64
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「決めたぞ！　右のカードで勝負！」
+com37 0 1
+com1e 0 0
+com09 0 38
+com3b
+com37 0 0
+com1e 0 0
+com09 0 39
+com3b
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「決めたぞ！　左のカードで勝負！」
+com37 0 1
+com1e 0 0
+com09 0 38
+com3b
+com37 0 0
+com1e 0 0
+com09 0 39
+com3b
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「時間がない！　テキトーに勝負！」
+com09 0 39
+display
+location 38
+com11 0 0
+sound 30
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「あら、ジョーカーなの……。じゃあ、今回の
+line2 <shift> # 話はナシね。少し、もったいない気もするけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、これで良かったと俺は思うよ。安易に
+line2 <shift> # とびつくのは良くない。今は大切な時期だしな」
+display
+com11 0 0
+sound 31
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「大切な時期……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「トップアイドルへの道が、ようやく見えてきた
+line2 <shift> # だろ？　１つ１つの選択を、慎重にしないとな」
+display
+com11 0 0
+sound 32
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「言われてみれば、その通りね。私、脇役をあり
+line2 <shift> # がたがるようなレベルで終わるつもりはないし」
+display
+com11 0 0
+sound 33
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「トップアイドルになれば、ドラマの出演依頼
+line2 <shift> # なんて殺到するはずよね。もちろん主役で！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （伊織は、信頼に満ちた瞳で俺を見ている。
+line2 <shift> # 将来をみすえて下した判断に、納得したようだ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今の伊織の実力なら、トップはもう目の前。
+line2 <shift> # 二人で確実にステップアップしていこう……！）
+com4b 0 0
+com09 0 49
+display
+location 39
+com11 0 0
+sound 34
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「やったわ、ハートのＡ！　出演決定ね！
+line2 <shift> # 私、ディレクターに返事してくるわっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あっ！　おい、伊織！
+line2 <shift> # ……ああ、走って行ってしまった」
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 35
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……プロデューサー。やっぱりドラマの話、
+line2 <shift> # ナシになっちゃったわ〜……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええっ！　あんなに勢いこんで走って行った
+line2 <shift> # のに、どうしてなんだ？」
+display
+com11 0 0
+sound 36
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「本気にすると思わなかった、って……。
+line2 <shift> # 社交辞令だったみたい。失礼しちゃうっ！」
+display
+com11 0 0
+sound 37
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「お世辞を真に受けて喜んで、安易に飛びつい
+line2 <shift> # たりして……バカみたいじゃないのよ〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （伊織は、すっかりしょげかえっている。仕事へ
+line2 <shift> # の熱意を取り戻すには、時間がかかりそうだ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺がジョーカーを選んでさえいれば、伊織に
+line2 <shift> # こんな思いはさせなかったのに！　すまない！）
+com4b 0 2
+com09 0 49
+display
+location 49
+unk02

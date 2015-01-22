@@ -1,0 +1,177 @@
+com2c 0 24
+com2d 0 21
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「伊織。雑誌社が、取材させてくれって」
+display
+com11 0 4
+sound 500
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「雑誌！？　ついにグラビアデビューなのね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……いや、小さな記事だって言ってた。
+line2 <shift> # きっと写真ナシのインタビューだよ」
+display
+com11 0 4
+sound 501
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「………………。
+line2 <shift> # グラビアよね♪　プロデューサー？」
+com03 0 2
+choice1 <shift> # ちがうって
+com09 0 10
+com08
+choice2 <shift> # ……そうかも
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ちがうって。ミニマムな記事らしい」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……そうかも」
+display
+com11 0 4
+sound 502
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「なによー、その『かも』ってのは〜。
+line2 <shift> # あいまいなの、キライー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「く、くわしくはわからないよ。ただ、
+line2 <shift> # 扱いはミニマムだって……」
+com09 0 19
+display
+location 19
+com11 0 4
+sound 503
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「…………ミニマムな、グラビアよね？」
+com03 0 2
+choice1 <shift> # ちがうって
+com09 0 20
+com08
+choice2 <shift> # そんなグラビア、あるか？
+line2
+com09 0 21
+com08
+com07
+com09 0 21
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ちがうって。載るのは文字だけだって、
+line2 <shift> # 言ってたから……」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなグラビア、あるか？」
+display
+com11 0 4
+sound 504
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「あるかもしれないでしょ！
+line2 <shift> # ど、どうなのよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、載るのは文字だけだって、
+line2 <shift> # 言ってたけど……」
+com09 0 29
+display
+location 29
+com11 0 4
+sound 505
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「じゃあ、文字だけのグラビアねっ！」
+com03 0 2
+choice1 <shift> # ……そうだな
+line2
+com09 0 30
+com08
+choice2 <shift> # ちがうって
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……そうだな」
+display
+com11 0 4
+sound 506
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「う、うれしいわ！　文字だけのグラビアなんて、
+line2 <shift> # これが、世界ではじめてよね、きっと！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まちがいなく、そうだろうな」
+display
+com11 0 4
+sound 507
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「かわいく撮って……じゃなくて、書いて
+line2 <shift> # もらわなくちゃ。ふふっ、ふふふっ……」
+display
+com11 0 4
+sound 508
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「………………それじゃ、行ってくるわね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よっぽど、認めたくないんだな……。
+line2 <shift> # まあ、最大限のフォローはできたか）
+com09 0 39
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ちがうって。そんなグラビア、あるわけ
+line2 <shift> # ないだろ？」
+display
+com11 0 4
+sound 509
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「わかってるわよー！　そんなこと！」
+display
+com11 0 4
+sound 510
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「なによ、なによっ〜！　あんまり落ち込まない
+line2 <shift> # ように、必死にがんばってるのにー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ご、ごめん……」
+display
+com11 0 4
+sound 511
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……交渉して、グラビアにしてきて。
+line2 <shift> # もしグラビアじゃないんなら、私、パース」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ムチャいうなよ……」
+display
+com11 0 4
+sound 512
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「うるさーい、口答えしないのーっ。
+line2 <shift> # あんたの力で、なんとかしてきなさーいっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ワガママモードに入ってしまった……。
+line2 <shift> # うまく言い抜ける方法があった気もするな）
+com09 0 39
+display
+location 39
+unk02

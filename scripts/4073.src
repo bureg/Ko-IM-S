@@ -1,0 +1,272 @@
+com2c 0 18
+com2d 0 13
+com11 0 1
+sound 200
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「今回のお仕事、トーク中心の、
+line2 <shift> # 音楽番組なんですねぇ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、落ち着いた雰囲気で、
+line2 <shift> # ちょっと大人向けな感じの番組だよ」
+display
+com11 0 1
+sound 201
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「なるほどぉ。お話の合間に、
+line2 <shift> # 歌がある感じなのかな？」
+display
+com11 0 1
+sound 202
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「楽しい番組にしたいですね♪
+line2 <shift> # んー、どんな話をしようかなぁ」
+com03 0 2
+choice1 <shift> # 笑わすつもりで
+line2
+com09 0 10
+com08
+choice2 <shift> # 泣かすつもりで
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだな、聞いてる人を笑わすつもりで」
+display
+com11 0 1
+sound 203
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「お笑いですか？　私、ギャグは、あんまり」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あー、いや……、しんみりした話よりは、
+line2 <shift> # 和やかな感じのほうがいいんじゃない？」
+display
+com11 0 1
+sound 204
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あっ、なるほどぉ！　確かに、ちょっと、
+line2 <shift> # クスッとするようなお話のほうがいいですよね」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだな、聞いてる人を泣かすつもりで」
+display
+com11 0 1
+sound 205
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「い、意地悪なことを言う、ってことですか？
+line2 <shift> # それはどうかなぁ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あー、いや……、ちょっと泣ける話というか、
+line2 <shift> # 感動的なやつのほうがいいんじゃない？」
+display
+com11 0 1
+sound 206
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「うーん、そうかなぁ……。
+line2 <shift> # あんまり暗いお話になるのは、いやだな」
+display
+com11 0 1
+sound 207
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「楽しい歌番組なんですから、
+line2 <shift> # 明るい方向で考えましょうよ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか、そうだなぁ……、考え直すか」
+com09 0 29
+display
+location 29
+com11 0 1
+sound 209
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「軽いけど、落ち着いたようなトーク……、
+line2 <shift> # ううっ、考えると結構、難しいかも？」
+display
+com11 0 1
+sound 210
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「話したいことは、いろいろあるんですよ。
+line2 <shift> # 歌のこととかお菓子のこととかっ」
+display
+com11 0 1
+sound 211
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「でも、いろいろありすぎて。どんな話なら、
+line2 <shift> # 番組で聞いて面白いかなぁ、って……」
+com03 0 3
+choice1 <shift> # 失敗談
+com09 0 30
+com08
+choice2 <shift> # 苦労話
+com09 0 31
+com08
+choice3 <shift> # 世間話
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだなぁ、失敗談とか」
+display
+com11 0 1
+sound 212
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ええっ、私が失敗したときの話ですか？」
+display
+com11 0 1
+sound 213
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「でも、みんなに迷惑かけちゃった話なんて、
+line2 <shift> # 人に聞かせても、面白いかどうか……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いやいや、笑って流せるような軽い失敗なら。
+line2 <shift> # 聞くほうも面白いし、親しみもわくってもんさ」
+display
+com11 0 1
+sound 214
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「う〜ん、そうかなぁ。
+line2 <shift> # でも、どんな失敗なら、笑ってもらえるかな？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「たとえば、こないだの舞台で派手に転んだ話、
+line2 <shift> # それから、転んだときの話とか、転んだ話とか」
+display
+com11 0 1
+sound 215
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「って、転んだ話ばっかりじゃないですか！」
+display
+com11 0 1
+sound 216
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ああ、なんかかっこ悪い気もするけど……。
+line2 <shift> # ううっ、でもその話題で、いってみようかなぁ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （しかし実際番組の中で、自分はよく転ぶという
+line2 <shift> # 話をしてみたら、春香のトークは大いに受けた）
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「苦労話とかかな」
+display
+com11 0 1
+sound 217
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「苦労ってほどの苦労、してるのかな、私」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いままでの下積みのこととか、今でも遠くから
+line2 <shift> # レッスンに通ったりとか、あるじゃないか」
+display
+com11 0 1
+sound 218
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「うーん、私より大変な人も他にいるし……」
+display
+com11 0 1
+sound 219
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「同じ番組に、大ベテランの先輩達も出てる
+line2 <shift> # し……、私くらいだと、お話にならないかも」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか？　でも、いかにも大変だったように、
+line2 <shift> # 苦労を大げさに語ってみせれば……」
+display
+com11 0 1
+sound 220
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「うーん、どうなんだろ。いつも大変なことより、
+line2 <shift> # 楽しいことのほうが、多いからなぁ」
+display
+com11 0 1
+sound 221
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「えへへ……。でも、なんとか苦労っぽく、
+line2 <shift> # やってみますね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （それから収録になったが……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （春香の苦労談は、あんまり迫力や辛さがなく、
+line2 <shift> # 司会にそのことをツッコまれまくってしまった）
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「無難に、世間話なんかどうだろう」
+display
+com11 0 1
+sound 222
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「世間話〜っ？　え、どんな感じでしょう？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、考えるまでもない話だからこそ、
+line2 <shift> # 世間話というんだと思うけどなぁ」
+display
+com11 0 1
+sound 223
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「う〜ん、それじゃあ……、
+line2 <shift> # 学校のこととか、お菓子のこととか？」
+display
+com11 0 1
+sound 224
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「いまだに苦手なメイクのこととか、
+line2 <shift> # スーパーの安売りのこととか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうそう、いろいろあるじゃないか」
+display
+com11 0 1
+sound 225
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「むぅ……、私、自分で言っててもあんまり、
+line2 <shift> # ピンとこないけど……」
+display
+com11 0 1
+sound 226
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「それに、私の普段のことなんか、
+line2 <shift> # ＴＶで放送して、面白いかなぁ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いやいや、見ている人は春香のことなら、
+line2 <shift> # なんでも知りたいものさ」
+display
+com11 0 1
+sound 227
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そうですか？　よーし、それなら思い切って、
+line2 <shift> # いろいろ話しちゃおうかなっ♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （それから収録がはじまり、春香の身近なネタは、
+line2 <shift> # スタッフ達に大受け……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （しかし、プライベートを話しすぎて、ほとんど
+line2 <shift> # 放送できず、番組は盛り上がらなかった。残念）
+com09 0 49
+display
+location 49
+unk02

@@ -1,0 +1,275 @@
+com2c 0 42
+com2d 0 73
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「前半ライブ終了だ。いい感じだったな！
+line2 <shift> # 後半も、このノリで頼むぞ、律子」
+display
+com11 0 4
+sound 200
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「はい！　あ……、プロデューサー。
+line2 <shift> # 実は、ちょっと問題が」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「問題？　なにかトラブルかな？」
+display
+com11 0 4
+sound 201
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「マイクの調子が、なんだか怪しくて。
+line2 <shift> # アンプも……、ノイズが入ってるみたいで」
+display
+com11 0 4
+sound 202
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「時々、音が途切れる気がして……。
+line2 <shift> # ううん、気のせいじゃないと思います」
+com03 0 2
+choice1 <shift> # 故障かな？　調べてみるか
+line2
+com09 0 10
+com08
+choice2 <shift> # 気のせいじゃないか？
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「機材の故障かな？
+line2 <shift> # 気になるなら、ちょっと調べてみるか」
+display
+com11 0 4
+sound 203
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「お願いします」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「気のせいじゃないか？」
+display
+com11 0 4
+sound 204
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「う〜ん、そうならいいんだけど……。
+line2 <shift> # ああ、でも、やっぱり、気になるっ！」
+display
+com11 0 4
+sound 205
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「もし機材故障かと思うと、私、ステージに、
+line2 <shift> # 集中できなくて……、後半、続けられないかも」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなに気になるのか。仕方ない、
+line2 <shift> # 俺からもスタッフに、一応、話しておこうか」
+display
+com11 0 4
+sound 206
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「お願いしますね？」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ライブハウスのスタッフを呼んで、
+line2 <shift> # 話をしてみた。そして……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「配線が少し痛んでて、不安なところが、
+line2 <shift> # あるみたいだ。でも、致命的ではないよ」
+display
+com11 0 4
+sound 207
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「問題、あるんですか？
+line2 <shift> # なんとか直してほしいなぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「このままでも、このライブ中は、
+line2 <shift> # しのげるらしいけど」
+display
+com11 0 4
+sound 208
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そんな、いい加減な……。もし、本番中に、
+line2 <shift> # 音が出せなくなったら、どうするんですか！」
+com03 0 3
+choice1 <shift> # マイクを変えてみる？
+line2
+com09 0 30
+com08
+choice2 <shift> # 何事もないように祈ろう
+line2
+com09 0 31
+com08
+choice3 <shift> # 文句を言うなよ
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なら、マイクだけでも変えてみるか？」
+display
+com11 0 4
+sound 209
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「マイクだけ？
+line2 <shift> # う〜ん、気休めかもしれないけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、それだけでも、
+line2 <shift> # 少しは不安材料が減るわけだろ？」
+display
+com11 0 4
+sound 210
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そうですね！
+line2 <shift> # なにもしないよりは、ずっといいっ」
+display
+com11 0 4
+sound 211
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「新しいマイク、エンジニアさんに、
+line2 <shift> # もらってきます！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （幸い、その後のステージには、トラブルは
+line2 <shift> # 起こらず、律子も、存分に歌うことができた）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （機材の調子も心配だったけど……、それより、
+line2 <shift> # 律子がリラックスして歌えて、よかったな）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ともかく、ここは、何事もないように祈ろう」
+display
+com11 0 4
+sound 212
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そ、そんな、プロデューサーまでっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「このライブハウスは元々、古めの音を出したく
+line2 <shift> # て、わざとくたびれた機材を使ってるらしいし」
+display
+com11 0 4
+sound 213
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「それは……。そういう意図があるっていうなら、
+line2 <shift> # 多少は、わかりますけど」
+display
+com11 0 4
+sound 214
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「でも、歌う側としては、
+line2 <shift> # やっぱり不安でっ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「しかし、時間もないし、
+line2 <shift> # このライブの間、なんとかなれば……」
+display
+com11 0 4
+sound 215
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「大修理をしてるヒマは、ないってことね……。
+line2 <shift> # でも私、エンジニアさんに相談してみます！」
+display
+com11 0 4
+sound 216
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ちょっと工夫すれば、ノイズが出なくなって、
+line2 <shift> # 出音がクリアになるはずだからっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああっと、待てよ律子……。行ってしまったか。
+line2 <shift> # うまく話が、つけばいいんだが」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後、エンジニアが、対処してくれたため、
+line2 <shift> # ステージには、音響トラブルもなく……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （律子も気にせず、存分に歌えたみたいだ。無事
+line2 <shift> # に好評でライブを終えられて、よかったな……）
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「文句を言うなよ……」
+display
+com11 0 4
+sound 217
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「文句じゃないですよ！　当然の主張でしょ？」
+display
+com11 0 4
+sound 218
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「きちんと歌いたいし、聞かせたいし、
+line2 <shift> # そのためにきちんとしたい。それだけです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そりゃあ、まぁ……。
+line2 <shift> # 仕事で、歌を聞かせに来てるんだし」
+display
+com11 0 4
+sound 219
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ライブが続けられなくなったら、
+line2 <shift> # お客もスタッフも、みんな……、困るんだから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もっともだな……。しかし、どうする？
+line2 <shift> # 配線を修理してるヒマは、なさそうだ」
+display
+com11 0 4
+sound 220
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「じゃあ、ガマンしろと？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そういうことにもなりかねないな」
+display
+com11 0 4
+sound 221
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そ、そんな！　なんとかしてください！
+line2 <shift> # このまま続けるなんて、いやですよ！」
+display
+com11 0 4
+sound 222
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「音響エンジニアと、相談する時間くらいは、
+line2 <shift> # ください……。私、掛け合ってみますからっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わかったわかった、落ちつけって。
+line2 <shift> # 仕方ない、交渉してみるか……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （交渉の末、２部の開演を遅らせ、
+line2 <shift> # 入念な機材チェック後に、ステージを再開した）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （心配された機材トラブルはなかったが、
+line2 <shift> # 律子は不満な顔のまま、不満げに歌って……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （覇気のないライブとなってしまった。今後の
+line2 <shift> # 活動に、悪い影響が、でなきゃいいけど……）
+com09 0 49
+display
+location 49
+unk02

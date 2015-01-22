@@ -1,0 +1,303 @@
+com2c 0 31
+com2d 0 33
+com32 0 0
+com11 0 5
+sound 600
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うあーっ。自分で、新曲のシングル、
+line2 <shift> # 売るんですねっ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだ。がんばろうな」
+display
+com11 0 5
+sound 601
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「私、やりますっ！
+line2 <shift> # 売って、売って、売りまくりまーす！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、じゃあ、営業開始！」
+display
+com11 0 5
+sound 602
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「いらっしゃい、いらっしゃーい！
+line2 <shift> # できたてのシングルＣＤ、新発売でーす！」
+com03 0 2
+choice1 <shift> # でーす！
+com4f 0 2
+com09 0 10
+com08
+choice2 <shift> # 新発売でーす
+line2
+com4f 0 2
+com09 0 11
+com08
+com07
+com4f 0 2
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でーす！」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「新発売でーす」
+com09 0 19
+display
+location 19
+com11 0 5
+sound 603
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「今晩のオカズに、ピッタリでーすっ」
+com03 0 2
+choice1 <shift> # 微妙でーす
+com4f 0 2
+com09 0 20
+com08
+choice2 <shift> # でーす！
+com4f 0 2
+com09 0 21
+com08
+com07
+com4f 0 2
+com09 0 21
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「微妙でーす」
+display
+com11 0 5
+sound 604
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ、そうですね。食べ物じゃないし……」
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でーす！」
+display
+com11 0 5
+sound 605
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あああ。食べ物、売ってるんじゃなかったっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……そうだったな」
+com09 0 29
+display
+location 29
+com11 0 5
+sound 606
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「きくと、元気もりもりになれまーす！」
+com03 0 2
+choice1 <shift> # なれまーす！
+line2
+com09 0 30
+com08
+choice2 <shift> # 死にまーす！
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なれまーす！」
+display
+com11 0 5
+sound 607
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ、１枚ですねっ。
+line2 <shift> # ありがとうございますー！」
+com09 0 39
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「死にまーす！」
+display
+com11 0 5
+sound 608
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「し、死にませんよね……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ごめん、まちがえた……」
+display
+com11 0 5
+sound 609
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あああ、お客さん、大丈夫ですっ。
+line2 <shift> # 大丈夫なのにー！」
+com09 0 39
+display
+location 39
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、やよい。すこし、汗かいてるな……」
+display
+com11 0 5
+sound 610
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「え？　あ。き、気づきませんでした……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ほら、じっとしてて」
+com0e 0 202
+com44
+com4f 0 2
+com09 0 40
+com45
+com44
+com4f 0 1
+com09 0 41
+com45
+com44
+com09 0 42
+com45
+com44
+com09 0 43
+com45
+com44
+com09 0 44
+com45
+display
+location 40
+com11 0 5
+sound 611
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ、ありがとうございます……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、営業再開だ！」
+display
+com11 0 5
+sound 612
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はいっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （さらに、やる気を出した、やよいの努力で、
+line2 <shift> # 持っていった在庫は、完売した）
+com4b 0 0
+com09 0 49
+display
+location 41
+com11 0 5
+sound 613
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「き、キレイに……、なりました？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「い、いまいちだな……」
+display
+com11 0 5
+sound 614
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「でも、平気です！
+line2 <shift> # これからまた、汗かくと思いますし」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだな。よーし、もうひとがんばりしよう」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、完売とは、いかなかったけど、
+line2 <shift> # まあまあの枚数を、売ることができた）
+com4b 0 1
+com09 0 49
+display
+location 42
+com11 0 5
+sound 623
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「えっ？　あの……、涙、出てましたか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、いや、別に出てないけど、
+line2 <shift> # 出そうかなー、と思って」
+display
+com11 0 5
+sound 624
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「私、そんな、泣きそうな顔してましたか？
+line2 <shift> # 元気に売ってたつもりだったんだけど……」
+display
+com11 0 5
+sound 625
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「これじゃ、お客さんも買ってくれないですよね。
+line2 <shift> # ごめんなさい、プロデューサー……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （やよいは、すっかり元気をなくしてしまった。
+line2 <shift> # 俺が余計なことを言ったせいで……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後の売り上げは、さんざんだった）
+com4b 0 2
+com09 0 49
+display
+location 43
+com11 0 5
+sound 618
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「か、髪も〜、ぬれてます？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「すこしな。やよいの髪、けっこう硬いんだな」
+display
+com11 0 5
+sound 619
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ、はい……。
+line2 <shift> # お母さんに似て、ちょっと、ごわごわかも」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、汗は、そのうち乾くだろう。
+line2 <shift> # もうひとがんばりしたら、引き上げよう！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後も、がんばったけど……、
+line2 <shift> # 結局、完売は、できなかった）
+com4b 0 2
+com09 0 49
+display
+location 44
+com11 0 5
+sound 620
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ぷ、プロデューサー……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「汗は、まあ、そのうち乾くか」
+display
+com11 0 5
+sound 621
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「そ、そうですね……。ふいてもらっても、また
+line2 <shift> # これから、汗かくと思うし」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……よし、もうひとがんばりして、
+line2 <shift> # 引き上げよう！」
+display
+com11 0 5
+sound 622
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はいっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後も、がんばったけど……、
+line2 <shift> # 結局、完売は、できなかった）
+com4b 0 2
+com09 0 49
+display
+location 49
+unk02

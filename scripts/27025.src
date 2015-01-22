@@ -1,0 +1,300 @@
+com2c 0 101
+com2c 0 67
+com2d 0 41
+com32 0 0
+com11 0 1
+sound 1100
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサー。どうして、突然、
+line2 <shift> # なにか買ってくれるなんて？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、いつも、えらそうに、
+line2 <shift> # 命令や指示ばかりしてるのも、どうかと思って」
+display
+com11 0 1
+sound 1101
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ありがとうございます。私、物とかって、
+line2 <shift> # そんなに欲しいわけじゃないですけど……」
+display
+com11 0 1
+sound 1102
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「でも、プロデューサーが、
+line2 <shift> # そ、そう言ってくれるなら、よろこんで……」
+display
+com11 0 1
+sound 1103
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「こういうのって、あの……、どう受け止めたら、
+line2 <shift> # いいんでしょう？　感謝の気持ち？」
+com03 0 3
+choice1 <shift> # 個人的なプレゼントかな
+line2
+com09 0 10
+com08
+choice2 <shift> # もちろん、そうだよ
+line2
+com09 0 11
+com08
+choice3 <shift> # ハッキリ言って、ごきげんとり
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「個人的なプレゼントかな」
+display
+com11 0 1
+sound 1104
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そうですか！　では、個人的に、
+line2 <shift> # もらってしまいます。如月千早として……」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もちろん、そうだよ」
+display
+com11 0 1
+sound 1127
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「やはり……。プロデューサーから、
+line2 <shift> # アイドルへの、活躍の、ごほうびなんですね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ま、まあ、それ以外の意味もあるよ。
+line2 <shift> # 個人的な気持ちも、すこしは……」
+display
+com11 0 1
+sound 1106
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ゼロでは……、ないですか？
+line2 <shift> # だとしたら、その方が、私……」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ハッキリ言って、ごきげんとり」
+display
+com11 0 1
+sound 1107
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そ、そういうのって、話さない方が、よくない
+line2 <shift> # ですか？　たとえ……、そうだとしても」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……ごめん。今のは、照れ隠しだよ。
+line2 <shift> # 意味は、千早が自分で考えてくれ」
+display
+com11 0 1
+sound 1128
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「でも、できればプロデューサーの口から、ハッ
+line2 <shift> # キリききたかったです。プレゼントの意味……」
+display
+com11 0 1
+sound 1129
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「でも、どんな意味であっても、
+line2 <shift> # うれしいことは、たしかですが……」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「で、なにがいい？　せっかく貴金属店に
+line2 <shift> # きたんだから、それなりの物、贈りたいけど」
+display
+com11 0 1
+sound 1109
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「それでは、あの……。
+line2 <shift> # もし、イヤでなければ、ですけど……」
+display
+com11 0 1
+sound 1110
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ゆ、指輪！　とか、ダメですか？
+line2 <shift> # ダメですよね。いいです、言ってみただけで」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ＯＫ。リングだな。じゃあ、そうしよう。
+line2 <shift> # 店員さん、すみませーん。この……」
+com03 0 3
+choice1 <shift> # プラチナの指輪、ください
+line2
+com09 0 30
+com08
+choice2 <shift> # ダイヤの指輪、ください
+line2
+com09 0 31
+com08
+choice3 <shift> # プラチナの首輪、ください
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「プラチナの指輪、ください」
+display
+com11 0 1
+sound 1111
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「いいんですか？　こんなに高いもの」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「気にすることはないよ。気持ちは、
+line2 <shift> # ちゃんと形にして、示しておきたいから」
+display
+com11 0 1
+sound 1112
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ありがとうございます。
+line2 <shift> # 私、ずっと大切にします……」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ダイヤの指輪、ください」
+display
+com11 0 1
+sound 1113
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサー！？　ダメです、そんな
+line2 <shift> # 高いもの！　私、とても、もらえません！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか？　でも、どうせなら、
+line2 <shift> # 思いっきりはりこんだ方が……」
+display
+com11 0 1
+sound 1114
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「お願いですから、ムリしないで下さいっ。
+line2 <shift> # あ、こっちのプラチナのリングが、いいです！」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「プラチナの首輪、ください」
+display
+com11 0 1
+sound 1115
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサー？
+line2 <shift> # これは首輪じゃなくて、飾りですけど……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え？　あ、ほんとだ。ディスプレイか……。
+line2 <shift> # 指輪より、豪華だと思ったんだけど」
+display
+com11 0 1
+sound 1116
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「もし、本物だったとして……、
+line2 <shift> # 私につけたいって、思ったんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そんなこと、ないよ。よし！　これと同じ
+line2 <shift> # 形の指輪、買おう。きっと、似合うから……」
+com09 0 49
+display
+location 49
+com22 0 30
+com32 0 1
+com21 0 30
+com11 0 1
+sound 1117
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサー。あの指輪、サイズ直し
+line2 <shift> # 終わったら……、他の人に、見せても？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そりゃ、困るよ。
+line2 <shift> # できたら、こっそりつけてほしいな」
+com03 0 3
+choice1 <shift> # ……恥ずかしいから
+line2
+com09 0 50
+com08
+choice2 <shift> # 突っ込まれると、マズいだろ？
+line2
+com09 0 51
+com08
+choice3 <shift> # もう、財布がカラだから
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……恥ずかしいから」
+display
+com11 0 1
+sound 1118
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……そうですね。私も、か、かなり。
+line2 <shift> # ひとりの時だけ、つけることにします」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （さりげなく視線をかわしながら、笑い合った。
+line2 <shift> # 大切な秘密が、ひとつできたな）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「突っ込まれると、マズいだろ？」
+display
+com11 0 1
+sound 1119
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そうですね。あまり、あれこれきかれて
+line2 <shift> # しまうと、返答のしようが……」
+display
+com11 0 1
+sound 1120
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「でも、自信を持って、見せたい気も……。
+line2 <shift> # ほんのすこし、ですけど……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ポツポツと、なにかつぶやいている。
+line2 <shift> # まあ、でも、不要な騒ぎは、避けた方がいい）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もう、財布がカラだから。他のスタッフに、
+line2 <shift> # プレゼントを買ってやる余裕は、ないし」
+display
+com11 0 1
+sound 1121
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「余裕があったら……、買ってあげるつもりなん
+line2 <shift> # ですか？　それでは、あのプレゼントは……」
+display
+com11 0 1
+sound 1130
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……そうですね。プロデューサーの、そういう
+line2 <shift> # 誰にでも優しいところ、素敵だと思います」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （言いながら、目をそらしてしまった……。
+line2 <shift> # 帰り道、千早は、ずっと、ため息をついていた）
+com09 0 69
+display
+location 69
+unk02

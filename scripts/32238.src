@@ -1,0 +1,519 @@
+com2c 0 35
+com2c 0 57
+com2d 0 61
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （雪歩が、お忍びで買い物に行くというので、
+line2 <shift> # それに付き合うことになった）
+display
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ、あの……、すみません、プロデューサー。
+line2 <shift> # 私の買い物に付き合わせちゃったりして……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いいよ、ちょうど時間があったし。
+line2 <shift> # それに、これも仕事みたいなもんだしね」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「え？　仕事ですか？　買い物なんて、
+line2 <shift> # 完全にプライベートかなって思いますけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「雪歩ほどの人気アイドルが、街を歩いてるのを
+line2 <shift> # 見て、周りが放っておくわけ、ないだろ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ファンが握手を求めてくるぐらいならいいけど、
+line2 <shift> # ヘンなやつにからまれたりしたら、大変だから」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「それで、私のこと守るために、一緒に
+line2 <shift> # 来てくれたんですか？　う、うれしいですぅ」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「……あ、でも私、最近、街では、ヘンな人に
+line2 <shift> # からまれたりしたこと、ないですよ？」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ナンパ屋さんにも、最近は、
+line2 <shift> # あんまり声をかけられなくなりましたぁ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それは……」
+com03 0 3
+choice1 <shift> # 周りが遠慮してるんだよ
+line2
+com09 0 10
+com08
+choice2 <shift> # そういうもんだよ
+line2
+com09 0 11
+com08
+choice3 <shift> # 雪歩が目立たないせいだな
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「周りが遠慮してるんだよ。雪歩が、スターの
+line2 <shift> # オーラを出してるから、声をかけられないんだ」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そ、そっかぁ。てっきり私、誰にも気づかれて
+line2 <shift> # ないのかと思って、ちょっと心配だったんです」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「アイドルなのに、華やかさ無さすぎなのかも、
+line2 <shift> # って思って……。でも、違うなら良かったです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「雪歩のファンは、良識的なんだな。でも、
+line2 <shift> # 念のため、やっぱり護衛は、いた方がいいな」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい。お願いします。
+line2 <shift> # プロデューサーと一緒なら、安心です……」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そういうもんだよ。芸能人が歩いてても、
+line2 <shift> # わりと気付かれないものらしいよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「カメラの前で頑張ってる時と普段では、
+line2 <shift> # やっぱり雰囲気、違うからね」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そういうものなんですかー。でも私、アイドル
+line2 <shift> # になる前は、結構、声かけられましたけど……」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ま、まさか！　アイドルになってからの方が、
+line2 <shift> # ひんそーになってきている、なんてことは……」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「もしそうだったら、私……。なんのために、こ
+line2 <shift> # こまでがんばってきたのか……。うう、ぐすっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「な、泣くなって。そんなことないから！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「雪歩はアイドルになって、気配をうまく消せる
+line2 <shift> # ようになったんだよ！　うん、きっとそうだ！」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そ、それなら、いいんですけど」
+display
+com11 0 0
+sound 10012
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あれ……？　でも、じゃあ、プロデューサーに
+line2 <shift> # ついてきてもらう意味、あんまり無いですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まあ、そうかもしれないけど……、
+line2 <shift> # でも一応、ついていくよ。念のためな」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「残念だけど、雪歩が目立たないせいだな……」
+display
+com11 0 0
+sound 10013
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「うう……。や、やっぱりそうなんですかっ？
+line2 <shift> # もしかしたら、とは思いましたけど……」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「こんなんじゃ、アイドルとして、
+line2 <shift> # まずいですか？　ダメダメですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーむ。でも、アイドルとしては、
+line2 <shift> # いい位置まで来てるだろ？　それは間違いない」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ということは……、あっ！　わかりました！
+line2 <shift> # プライベートの私が、ダメダメなんですね！」
+display
+com11 0 0
+sound 10016
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「……ううっ。それは、あんまりじゃないですか。
+line2 <shift> # ヒドイです、プロデューサー。ぐすっ、ひっく」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お、おいおい。自分で言った言葉に、
+line2 <shift> # 自分で傷つかないでくれよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まあ、そのおかげで、ゆっくり買い物できそう
+line2 <shift> # だし、良かったじゃないか！　なっ！？」
+display
+com11 0 0
+sound 10017
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「うう、全然なぐさめになってないですぅ……。
+line2 <shift> # もう、いいですけど……」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ところで、今日は何を買いに行くんだ？」
+display
+com11 0 0
+sound 10018
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ……、はい。久しぶりの外出だから、
+line2 <shift> # 色々回ろうかとも思ったんですけど……」
+display
+com11 0 0
+sound 10019
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ずっと買いたかったものがあるので、
+line2 <shift> # まずは、そのお店に行こうかなって」
+display
+com11 0 0
+sound 10020
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「先月、新作が出たみたいなので、
+line2 <shift> # 気になっているんですよ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「雪歩の買いたいものっていうと……」
+com03 0 3
+choice1 <shift> # お茶？
+com09 0 30
+com08
+choice2 <shift> # 本？
+com09 0 31
+com08
+choice3 <shift> # 洋服？
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お茶？」
+display
+com11 0 0
+sound 10021
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そうなんです！　お茶の葉は、
+line2 <shift> # 通信販売でも買えるんですけど……」
+display
+com11 0 0
+sound 10022
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「やっぱり、自分で直接、
+line2 <shift> # 色や香りを確かめたいですよね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お茶好きの雪歩らしい意見だな」
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「本？」
+display
+com11 0 0
+sound 10023
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ、そうですね。確かに、買いたい本は、
+line2 <shift> # 何冊かあります。新作ポエム集とか……」
+display
+com11 0 0
+sound 10024
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「でも、本は持って帰るのが重たいから、
+line2 <shift> # また今度にしようかな、って思ってますぅ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そっか。うーん、本じゃないとすると……、
+line2 <shift> # お茶かな？」
+display
+com11 0 0
+sound 10025
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい、そうなんです。この辺りに、私の行き
+line2 <shift> # つけのお店があって、そこの新作のお茶を……」
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「洋服？」
+display
+com11 0 0
+sound 10026
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「服も嫌いじゃないですけど、
+line2 <shift> # 私、あんまり流行とか、わからないので……」
+display
+com11 0 0
+sound 10027
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「このところ、全然買ってないかもです。
+line2 <shift> # 衣装で色々着てるから、いいかな、って……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「アイドルとして、自分で買って、
+line2 <shift> # センスをみがくことも、大事だろ？」
+display
+com11 0 0
+sound 10028
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あううっ。そ、それはそうなんですけど、
+line2 <shift> # つい……。す、すみません。ぐすっ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああっ。こんなことで泣くな、雪歩！
+line2 <shift> # ええっと、そろそろ目的の店じゃないか？」
+com09 0 49
+display
+location 49
+com22 0 30
+com21 0 30
+com32 0 1
+com11 0 0
+sound 10029
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あっ、ここです。
+line2 <shift> # このお店です、プロデューサー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ。露店みたいな店だな。
+line2 <shift> # 店内に入るスペースもないし……」
+display
+com11 0 0
+sound 10030
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい。小さいお店ですけど、
+line2 <shift> # このお店は、スゴイんですよ〜！」
+display
+com11 0 0
+sound 10031
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ここのご主人が、特別に仕入れてるお茶は、
+line2 <shift> # とってもおいしいんです！」
+display
+com11 0 0
+sound 10032
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「粉のままでも、ふくよかな香りがあって……。
+line2 <shift> # 私の、お気に入りなんですぅ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「へぇー、どれどれ？
+line2 <shift> # ちょっと、香りをかがせてくれないか？」
+display
+com11 0 0
+sound 10033
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「どうぞ。普段、あまりお茶を飲まない人でも、
+line2 <shift> # この香りの違いは、ハッキリわかると思います」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （くんくん。……ん？　正直、普通のお茶と、
+line2 <shift> # どこが違うのか、全くわからないけど……）
+com03 0 3
+choice1 <shift> # ……よくわからないな
+line2
+com09 0 50
+com08
+choice2 <shift> # 確かに色合いが違うな
+line2
+com09 0 51
+com08
+choice3 <shift> # 確かに香りが違うな
+line2
+com09 0 52
+com08
+com07
+com09 0 32
+com08
+display
+location 50
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ごめん、雪歩。確かに、いい香りではあるけど、
+line2 <shift> # 正直、違いまでは……、よくわからないな」
+display
+com11 0 0
+sound 10034
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そうですか……。あっ！　私、間違えて、普通
+line2 <shift> # のお茶を、プロデューサーに渡してました！」
+display
+com11 0 0
+sound 10035
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「これじゃ、違いがわからなくて、当然ですよ。
+line2 <shift> # す、すみませんでした……」
+display
+com11 0 0
+sound 10036
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「でも、さすがプロデューサーです！
+line2 <shift> # お茶の違い、バッチリわかってたんですね」
+display
+com11 0 0
+sound 10037
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「良い物を、ちゃんと見分けられるって、
+line2 <shift> # すごくカッコイイことだと思いますぅ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「当然だろ。良さを見分けられるからこそ、
+line2 <shift> # 俺は雪歩のプロデューサーになったんだから」
+display
+com11 0 0
+sound 10038
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ぷ、プロデューサー……。ふふっ」
+display
+com11 0 0
+sound 10039
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あの、今度、このお店のお茶、
+line2 <shift> # プロデューサーのために、いれますね！」
+display
+com11 0 0
+sound 10040
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ、そうだ。向こうに、いいお茶菓子の
+line2 <shift> # お店もあるんです。寄ってもいいですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （雪歩は、買い物を楽しんでいるみたいだ。
+line2 <shift> # いいリフレッシュになったな！）
+com09 0 69
+display
+location 51
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なるほど、そういえば確かに、
+line2 <shift> # 色合いが違うような……」
+display
+com11 0 0
+sound 10041
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「えっ！？　プロデューサー、この微妙な
+line2 <shift> # 色の差までわかるんですか？　さすがです！」
+display
+com11 0 0
+sound 10042
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あの……、私、今、お茶のことで少し迷ってい
+line2 <shift> # るんですけど、相談に乗ってもらえませんか？」
+display
+com11 0 0
+sound 10043
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「実は、こっちのお茶、私は乾燥具合が足りない
+line2 <shift> # ように思えるんですが、どう思いますか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え、ええと……、そうかな……？」
+display
+com11 0 0
+sound 10044
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ああ、でもこれぐらいの方が、
+line2 <shift> # 味が、やわらかくなったりするのかな……」
+display
+com11 0 0
+sound 10045
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「どっちがいいんでしょう、プロデューサー？
+line2 <shift> # ぜひ、意見をきかせてもらいたいです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、その……、どっちなんだろうな？
+line2 <shift> # あはは……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （変に知ったかぶりしたせいで、その後は、
+line2 <shift> # お茶に関する質問攻めにあってしまった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （雪歩は楽しそうにしていたけど、
+line2 <shift> # 俺は冷や汗の連続だったよ。トホホ……）
+com09 0 69
+display
+location 52
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「な、なーるほどー！　そ、そういえば確かに、
+line2 <shift> # 香りが違うような……、くんくんくんくん……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わっ。こ、粉が鼻に……。
+line2 <shift> # はっ、はっくしょん！」
+display
+com11 0 0
+sound 10046
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ああっ！　お、お茶がっ……！」
+display
+com11 0 0
+sound 10047
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ふわっ……、くしゅん、はっくしゅん！」
+display
+com11 0 0
+sound 10048
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ぷ、プロデューサ……、はっくしょん！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺のくしゃみで、お茶は吹き飛ばされ、
+line2 <shift> # 周り中が、粉だらけになってしまった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そのせいで雪歩もくしゃみを始め、お忍び
+line2 <shift> # なのに、大注目を浴びる羽目に。最悪だ……）
+display
+com11 0 0
+sound 10049
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「な、なんでこんなことに……、
+line2 <shift> # はっくしゅん！」
+com09 0 69
+display
+location 69
+unk02

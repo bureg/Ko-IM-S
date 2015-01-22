@@ -1,0 +1,276 @@
+com2c 0 47
+com2d 0 81
+com32 0 0
+com11 0 3
+sound 900
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「これから、地方局で、ＴＶ出演！？
+line2 <shift> # しかも、生ですか？　やったー！！」
+display
+com11 0 3
+sound 901
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ぼぼぼ、ボク、準備ＯＫです。
+line2 <shift> # プロデューサー、す、すぐ出発しましょう！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……もう、バス走り出して、
+line2 <shift> # 高速道路に、のってるんだけど？」
+display
+com11 0 3
+sound 902
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あっ、ホントだ……。やだなあ、
+line2 <shift> # ボクだって、それぐらい、気づいてましたよ」
+com03 0 3
+choice1 <shift> # 本当か？
+com09 0 10
+com08
+choice2 <shift> # どうだか
+com09 0 11
+com08
+choice3 <shift> # ウソつき
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「本当か？」
+display
+com11 0 3
+sound 903
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「……ウソです。全然、気づいてませんでした。
+line2 <shift> # お、落ち着かなきゃ……」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうだか」
+display
+com11 0 3
+sound 904
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「本当ですよ〜。バスが発進したのなんて、
+line2 <shift> # 普通、わからないワケ、ないじゃないですか〜」
+com09 0 91
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ウソつき」
+display
+com11 0 3
+sound 905
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ウソじゃないですよ〜。バスが発進したの
+line2 <shift> # なんて、わからないワケないじゃないですか〜」
+com09 0 91
+display
+location 91
+com11 0 3
+sound 906
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「まあ、普通は、ですけど。たまーに、
+line2 <shift> # 気づかないことも、あるかもしれません……」
+com09 0 29
+display
+location 29
+com11 0 3
+sound 907
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「このＴＶ出演で、知名度、
+line2 <shift> # ググッとあがったりしますか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そこまでいくかは微妙だけど、ブレイクの、
+line2 <shift> # きっかけになる可能性は、あるな」
+display
+com11 0 3
+sound 908
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ブレイク……。ちょっとこわい言葉ですね。
+line2 <shift> # 失敗して、ぶっ壊れちゃったりして。あはは」
+com03 0 3
+choice1 <shift> # そうしたら、やり直そうな
+line2
+com09 0 30
+com08
+choice2 <shift> # そうならないように、な
+line2
+com09 0 31
+com08
+choice3 <shift> # そういうこと、考えないように
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうしたら、やり直そうな。何度でも」
+display
+com11 0 3
+sound 909
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、そうですね！　ボク、倒れても、
+line2 <shift> # 絶対、また立ち上がります！　へへっ」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうならないように、な」
+display
+com11 0 3
+sound 910
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「う。プレッシャー、かけないで下さいよ。
+line2 <shift> # そうでなくても、ビビッてるのに……」
+com09 0 92
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そういうこと、考えないようにな」
+display
+com11 0 3
+sound 911
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ボクだって、考えたくないです〜。でも、
+line2 <shift> # 仕事が大きくなるほど、不安も大きく……」
+com09 0 92
+display
+location 92
+com11 0 3
+sound 912
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「これから、ますます増えていくんだろうな。
+line2 <shift> # やりがいあるけど、精神的に、きつい仕事……」
+com09 0 49
+display
+location 49
+com11 0 3
+sound 913
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ん……。あ、なんか、すこし、ピンチな気が。
+line2 <shift> # き、緊張してるせいかな……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうした？」
+display
+com11 0 3
+sound 914
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「え！？　い、いや、その〜。
+line2 <shift> # こんなこと、さすがにプロデューサーには……」
+display
+com11 0 3
+sound 915
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「でも、もう、ボク……！
+line2 <shift> # あの〜、と、トイレ、急に行きたくなって……」
+display
+com11 0 3
+sound 916
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「次のドライブインまで、ガマンできるか、
+line2 <shift> # ちょっと自信が……。う、うっ……」
+com03 0 3
+choice1 <shift> # こらえろ、女の子だろ！？
+line2
+com09 0 50
+com08
+choice2 <shift> # 路肩に、バス止めるか？
+line2
+com09 0 51
+com08
+choice3 <shift> # ……ここで、すませるか？
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「こらえろ、女の子だろ！？」
+display
+com11 0 3
+sound 917
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、当たり前です〜っ！　そ、そうだよな、
+line2 <shift> # ガマンできなかったら、一生の恥……」
+display
+com11 0 3
+sound 918
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「このぐらい〜！　見てろ、アイドルの意地、
+line2 <shift> # み、見せてやる〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （俺の一言がきいたのか、真は、見事、
+line2 <shift> # もちこたえた。ふぅー、本当によかったな）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「路肩に、バス止めるか？」
+display
+com11 0 3
+sound 919
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「できれば、そうしてくれると……。って、
+line2 <shift> # 路肩にトイレなんて、ありましたっけ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……ない気がする。
+line2 <shift> # でも、最悪、バスの影に隠れて、なんとか」
+display
+com11 0 3
+sound 920
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そんなの、イヤですよ〜！　なんとか、こらえ
+line2 <shift> # ますから、早くドライブインに！　ぐ、ぐあっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （悶絶しているけど、ハラは決まったようだ。
+line2 <shift> # この分なら、苦しくても、どうにかもつだろう）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……ここで、すませるか？」
+display
+com11 0 3
+sound 921
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「な、な、なに言ってるんです！？　そんなコト、
+line2 <shift> # できるわけないじゃないですか〜〜〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「最悪の事態になるより、いいだろ？
+line2 <shift> # 俺は、向こう、むいてるから」
+display
+com11 0 3
+sound 922
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そういう問題じゃないですよ〜！　ぼ、ボク、
+line2 <shift> # 女の子ですよ。そんなの、死んだって……」
+display
+com11 0 3
+sound 923
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「う……、さわいだら、余計に。ぷ、プロ
+line2 <shift> # デューサー、助けて、たす……。ぐあっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （つまらない提案で、さらに苦しませてしまった。
+line2 <shift> # これなら、黙ってた方が、マシだったか……）
+com09 0 69
+display
+location 69
+unk02

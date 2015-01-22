@@ -1,0 +1,339 @@
+com2c 0 25
+com2c 0 25
+com32 0 0
+com2d 0 21
+location 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さて、俺の選んだ子は、ここにいるらしい
+line2 <shift> # けど……。あ、あそこか」
+display
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「はあ〜あ。私、いつになったら、デビュー
+line2 <shift> # できるのかしら？　まったく、ムカつくわー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （え、えらく、乱暴な言葉づかいだな。
+line2 <shift> # この子、もしかして、見た目によらず……）
+display
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「腹いせに、そこらのカベ、け飛ばしてやろう
+line2 <shift> # かしら。にひひっ♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「や、やあ、こんにちは」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「え！？　うあああ、誰よ、アンタっ！？
+line2 <shift> # ……じゃなくて、どちら様でしょう〜？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「君を担当することになった、プロデューサー
+line2 <shift> # だけど」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ええええっ、本当？　じゃあ、私、ついに
+line2 <shift> # デビューなのねー！」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「伊織、思いっきり、がんばっちゃうぅ。
+line2 <shift> # だから、精一杯、甘やかして下さいね♪」
+com03 0 3
+choice1 <shift> # ああ、かわいがるよ
+line2
+com09 0 10
+com08
+choice2 <shift> # 君、二重人格？
+line2
+com09 0 11
+com08
+choice3 <shift> # そうは、いくか
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、かわいがるよ」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「うっふふ〜、い・い・心がけ♪　もう溺愛して、
+line2 <shift> # 崇拝しちゃってＯＫですからっ」
+com37 0 0
+com1e 0 0
+com09 0 25
+com3b
+com38 0 1
+com1e 0 0
+com09 0 26
+com3b
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「君、二重人格？」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「失礼ねっ！　私のどこがっ……、ど、どの辺が
+line2 <shift> # そんな風に、感じられます〜？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、なんか、口調がけっこう変わってるし」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「きっと、ソ・ラ・ミ・ミ♪　ドブ川で顔洗って、
+line2 <shift> # お目目、さました方がいいですよ。ふふふっ」
+com37 0 0
+com1e 0 0
+com09 0 25
+com3b
+com38 0 1
+com1e 0 0
+com09 0 26
+com3b
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうは、いくか。甘やかすと、どうせ、
+line2 <shift> # つけあがるんだろ？」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「むっかー！　なんで、そんなことっ……。
+line2 <shift> # お、おわかりになるのかしら〜？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ふるまいを見てれば、だいたい、わかるよ」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「やーだー♪　そんなの、ぜーったいに、
+line2 <shift> # 気のせいですぅ。うふふふふっ」
+com37 0 0
+com1e 0 0
+com09 0 25
+com3b
+com38 0 1
+com1e 0 0
+com09 0 26
+com3b
+display
+location 25
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さて、それじゃあ、全国デビューするための
+line2 <shift> # 君の芸名を決めようか。えっと」
+display
+location 26
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さて、それじゃあ、全国デビューするための
+line2 <shift> # ユニット名を決めようか。えっと」
+display
+location 30
+com11 0 0
+sound 10010
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「えー、そんなダサダサ……、じゃなくてステキ
+line2 <shift> # な名前、よく思いつきましたね。伊織、感激〜」
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よろしく頼むぞ！
+line2 <shift> # さあ、いよいよ活動開始だ！」
+display
+location 40
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今日のスケジュールは……、と）
+display
+location 50
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やっぱり最初はレッスンだ！
+line2 <shift> # 初レッスン行くぞ！」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ん〜、今日は初日ですし〜、そういう
+line2 <shift> # メンドくさいの、伊織、やりたくないかも〜♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「活動開始だ！！」
+display
+com11 0 0
+sound 10012
+com4a 0 0
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ちっ、わかったわよ……。やればいいんでしょ。
+line2 <shift> # やれば……」
+display
+location 60
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （トップアイドルになるため、今後は流行を
+line2 <shift> # 意識していこう！　まずは育成方針として）
+display
+location 61
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （流行１位イメージであるボーカルの
+line2 <shift> # イメージをＵＰさせていこう！）
+display
+location 62
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （流行１位イメージであるダンスの
+line2 <shift> # イメージをＵＰさせていこう！）
+display
+location 63
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （流行１位イメージであるビジュアルの
+line2 <shift> # イメージをＵＰさせていこう！）
+display
+location 64
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （流行１位のイメージはオーディションでの
+line2 <shift> # ウケが良く、合格しやすい！　絶対に有利だ！）
+display
+location 65
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しかし流行は変化しやすい。常に先の先を
+line2 <shift> # 考えながらイメージ作りをしていくぞ！！）
+display
+location 66
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （明日の流行１位ではない！
+line2 <shift> # 最終的には、人数の増加傾向を考慮して……）
+display
+location 67
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （無駄のないレッスンができるように
+line2 <shift> # なろう！！）
+display
+display
+location 100
+com32 0 0
+com11 0 0
+sound 10013
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「社長、デビューの話って、本当？　あら？
+line2 <shift> # 誰よ、アンタ……、じゃなくて、どちら様？」
+display
+com11 0 0
+sound 10018
+name 0 2 <names:3>  # President
+line1 <shift> # 「お、来たね。彼女が水瀬伊織君。
+line2 <shift> # うちで一番のジャジャ……、期待の子だよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「初めまして。今日から俺が君の
+line2 <shift> # 担当プロデューサーだ。よろしくな」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ええっ！　じゃあ、デビュー出来るって
+line2 <shift> # 本当なのねー！」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「伊織、思いっきり、がんばっちゃうぅ。
+line2 <shift> # だから、精一杯、甘やかして下さいね♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、それは君の心がけ次第、かな？」
+display
+com11 0 0
+sound 10016
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「やっだー。もちろんプロデューサーさんの
+line2 <shift> # 言う事、聞きまーす♪　……売れるまではね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「？　最後、何か言った？？」
+display
+com4a 0 0
+com11 0 0
+sound 10017
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「い、いえ。気にしないで下さいね〜」
+display
+location 200
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （大事なスケジュールには、オススメマークを、
+line2 <shift> # 事務員の音無さんが、つけてくれている）
+display
+location 201
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今は、レッスンと営業が重要らしい。ステップ
+line2 <shift> # アップのため必要なスケジュールってことだな）
+display
+location 202
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （いきなり、オススメを無視するのは、怖いな。
+line2 <shift> # ここは素直に、したがったほうがいい気がする）
+display
+location 210
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「初めての営業に出発だ！
+line2 <shift> # 気合いいれていこう！」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ん〜、今日は初日ですし〜、そういう
+line2 <shift> # メンドくさいの、伊織、やりたくないかも〜♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「活動開始だ！！」
+display
+com11 0 0
+sound 10012
+com4a 0 0
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ちっ、わかったわよ……。やればいいんでしょ。
+line2 <shift> # やれば……」
+display
+location 300
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「続いて、衣装を決めよう」
+display
+location 301
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「続いてデビュー曲を決めよう」
+display
+location 302
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「喜んでくれて俺もうれしいよ！」
+display
+unk02

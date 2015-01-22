@@ -1,0 +1,454 @@
+com2c 0 25
+com2d 0 11
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さあ、今日はミーティングだ。日ごろの問題や
+line2 <shift> # 仕事の悩みを、遠慮なくぶつけてほしい」
+display
+com11 0 0
+sound 0
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はあ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうした、春香。
+line2 <shift> # なんか、元気ないんじゃないか？」
+display
+com11 0 0
+sound 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「えっ。あ、すみません……！　私なら全然、
+line2 <shift> # 大丈夫ですよっ！　あはは♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうやって、無理してでも頑張ろうとするとこ
+line2 <shift> # ろが、春香の長所でもあり、短所でもあるな」
+display
+com11 0 0
+sound 2
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ……そうかも。すごい、プロデューサーさん
+line2 <shift> # って、私のこと、なんでもお見通しですね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それが仕事だからな。春香が元気ない理由も
+line2 <shift> # ズバリ当ててやろう。さては……」
+com03 0 3
+choice1 <shift> # 疲れているのか？
+line2
+com09 0 10
+com08
+choice2 <shift> # 恋でもしているな？
+line2
+com09 0 11
+com08
+choice3 <shift> # 体重、増えたのか？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「疲れているのか？」
+display
+com11 0 0
+sound 3
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「う〜ん、そうなのかなー。自分ではまだまだ
+line2 <shift> # 元気だって、思ってるんですけど」
+display
+com11 0 0
+sound 4
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「やっぱり、気づかないうちに、ため息とか
+line2 <shift> # ついちゃったり、してますか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、そうだな。この頃少し……な」
+display
+com11 0 0
+sound 5
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「うう、そうですか。気をつけなくちゃ」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「恋でもしているな？」
+display
+com11 0 0
+sound 6
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「こっ、恋……ですか〜！？　そんなっ。
+line2 <shift> # ぜんぜん、違います、違いますからっ！！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「隠すところが、ますます怪しい……」
+display
+com11 0 0
+sound 7
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「プロデューサーさん。私、これでも、
+line2 <shift> # アイドルなんですよ？　恋愛はタブーです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「むぅ……真面目なやつだな」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「体重、増えたのか？」
+display
+com11 0 0
+sound 8
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「うう……。ひどいです。プロデューサーさん。
+line2 <shift> # それって、セクハラですよ、セクハラ〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃあ、図星なのか？」
+display
+com11 0 0
+sound 9
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「……ノーコメントです！　でも、ため息を
+line2 <shift> # ついたのは、そのせいじゃありませんよ？」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「もしかして最近、自分でも気づかないうちに
+line2 <shift> # バテちゃってるのかもしれません」
+display
+com11 0 0
+sound 11
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「この頃、地方のお仕事とか増えましたよね？
+line2 <shift> # ありがたいことなんですけど……」
+display
+com11 0 0
+sound 12
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「それで、事務所に帰るのが遅くなると、
+line2 <shift> # 事務所から私の家までって、遠いから……」
+display
+com11 0 0
+sound 13
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「どうしても、家に着くのが遅くなって、
+line2 <shift> # 夜更かししちゃうんです」
+display
+com11 0 0
+sound 14
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「他のアイドルさんたちって、こういうとき
+line2 <shift> # どうしてるんでしょうか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、一人暮らししてる子もいるけど、
+line2 <shift> # 春香はまだ、高校生だしな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「しばらくは、なんとか乗り切るしかない。
+line2 <shift> # 大変だろうけど、がんばってくれ」
+display
+com11 0 0
+sound 15
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はいっ……。元気出さなきゃ、ですね！
+line2 <shift> # ファイト、ファイト！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだな。俺からひとつだけ、アドバイスを
+line2 <shift> # するとしたら……」
+com03 0 3
+choice1 <shift> # 笑顔でがんばれ
+line2
+com09 0 20
+com08
+choice2 <shift> # 無理はするなよ
+line2
+com09 0 21
+com08
+choice3 <shift> # やっぱり体重増えた？
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「笑顔でがんばれ」
+display
+com11 0 0
+sound 16
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい。そうですね。アイドルがため息なんて
+line2 <shift> # ファンが、がっかりしちゃいそう……」
+display
+com11 0 0
+sound 17
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「大好きなお仕事だから、がんばりたいです！
+line2 <shift> # スマイル、スマイル♪　ですね〜！」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「無理はするなよ」
+display
+com11 0 0
+sound 18
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい……。もしも、倒れちゃったりしたら、
+line2 <shift> # みんなに迷惑ですから、気をつけます」
+display
+com11 0 0
+sound 19
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「でも、がんばるのと休むのって、バランスが
+line2 <shift> # 難しいですね。う〜ん……」
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やっぱり体重増えた？」
+display
+com11 0 0
+sound 20
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「うう……。ぷ、プロデューサーさ〜ん！
+line2 <shift> # それって、アドバイスじゃないですよ！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、そうか。ごめんな。
+line2 <shift> # でも……やっぱり、そうなのか？」
+display
+com11 0 0
+sound 21
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「確かに……、夜遅く帰ると、どうしても
+line2 <shift> # お腹が空いちゃうんですよね……」
+display
+com11 0 0
+sound 22
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「その時、たまたま、お菓子があったりすると、
+line2 <shift> # 食べちゃったりとか……しますけど」
+display
+com11 0 0
+sound 23
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「や、やっぱり、ダメですよね？　えへへ。
+line2 <shift> # すみません、気をつけます……」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それはそうと、この頃、春香はすごく努力して
+line2 <shift> # くれてるから、ごほうびをあげようと思ってな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「実はこっそり、プレゼントを用意したんだ。
+line2 <shift> # これを受け取って、元気を出してくれ！」
+display
+com11 0 0
+sound 24
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「えっ……！　本当ですか？
+line2 <shift> # うれしいですっ。プロデューサーさん！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。事務所に届くように、配達を頼んで
+line2 <shift> # おいたんだけど……あ、来てる、来てる！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ん？　ど、どういうことだ……！？
+line2 <shift> # 同じサイズの小包が、ふたつ届いているぞ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、そういえば……、社長の大事な小包が
+line2 <shift> # 今日届くとか、言ってたっけ……」
+display
+com11 0 0
+sound 25
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「プロデューサーさん、どうかしたんですか？
+line2 <shift> # 何かトラブルですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、いや……、何でもない。
+line2 <shift> # すぐ渡すから、ちょっと待って」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ふたつの小包、どちらかがプレゼントだ。
+line2 <shift> # こうなったら、カンで当てよう……）
+com03 0 2
+choice1 <shift> # 右の小包
+com09 0 30
+com08
+choice2 <shift> # 左の小包
+com09 0 31
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「右の小包を渡そう！」
+com37 0 1
+com1e 0 0
+com09 0 38
+com3b
+com37 0 0
+com1e 0 0
+com09 0 39
+com3b
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「左の小包を渡そう！」
+com37 0 1
+com1e 0 0
+com09 0 38
+com3b
+com37 0 0
+com1e 0 0
+com09 0 39
+com3b
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええい、適当に渡そう！」
+com09 0 39
+display
+location 38
+com11 0 0
+sound 26
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「わあ……うれしいですっ！
+line2 <shift> # ありがとうございます、プロデューサーさん！」
+display
+com11 0 0
+sound 27
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あの……早速、開けてみてもいいですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、もちろんだ。どうぞ」
+display
+com11 0 0
+sound 28
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「わあ〜、かわいいっ！　クマのぬいぐるみです
+line2 <shift> # ね♪　しかも、耳にリボンをしてますよ〜？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「春香とおそろいみたいだろ？
+line2 <shift> # なんとなく、顔も似てるし」
+display
+com11 0 0
+sound 29
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「えっ、そうですか？　えへへ……。
+line2 <shift> # そう言われると、ますますうれしいです！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ははは、すっかり元気になったみたいだな」
+display
+com11 0 0
+sound 30
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はいっ！　本当に、ありがとうございます。
+line2 <shift> # 私、ずーっと、大事にしますから！」
+display
+com11 0 0
+sound 31
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そうだ！　せっかくだから、名前を
+line2 <shift> # つけちゃいます。何がいいかな〜？」
+display
+com11 0 0
+sound 32
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「プロデューサーさんにちなんで……。
+line2 <shift> # えーっと、プロ……、プ……」
+display
+com11 0 0
+sound 33
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「……プップ！　プップっていう名前にします。
+line2 <shift> # あ、いい感じかも！　ね〜、プップ♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （春香は、とても喜んでくれたようだ。
+line2 <shift> # 元気を取り戻してくれて、よかったな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （それにしても、ちゃんとプレゼントのほう
+line2 <shift> # の小包を渡せて、よかった……）
+com4b 0 0
+com09 0 69
+display
+location 39
+com11 0 0
+sound 34
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「わあ……、うれしいですっ！
+line2 <shift> # ありがとうございます！　って、あれ……？」
+display
+com11 0 0
+sound 35
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「な、なんかにおう気がしますけど……気のせい
+line2 <shift> # ですね！　早速、開けてみてもいいですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、ああ……もちろんだ。どうぞ」
+display
+com11 0 0
+sound 36
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「わ……えっ？　こ、これって、ぬかみそ！？
+line2 <shift> # あ、ありがとうございます……」
+display
+com11 0 0
+sound 37
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「うう。す、すごいにおいですね……。疲れてる
+line2 <shift> # せいか、なんだか、ちょっと気分が……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ぬ、ぬかみそ！？　しまった……！
+line2 <shift> # これは社長が取り寄せた、本格ぬかみそだ！）
+display
+com11 0 0
+sound 38
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「す、すみません……。プロデューサーさん。
+line2 <shift> # ちょっと外で、新鮮な空気を吸ってきます……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、待ってくれ、春香！
+line2 <shift> # 本当のプレゼントは、こっちの包みで……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しまった……！　プレゼントにまで、においが
+line2 <shift> # 染み付いている。これじゃもう渡せない……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （春香には完全に、プレゼントがぬかみそだと、
+line2 <shift> # 思われてしまったな。がっかりさせたかも……）
+com4b 0 2
+com09 0 69
+display
+location 69
+unk02

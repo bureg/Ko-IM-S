@@ -1,0 +1,319 @@
+com2c 0 24
+com32 0 0
+com2d 0 41
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （仕事の合間のオフ時間、事務所で、
+line2 <shift> # 休けいすることになった……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今日は冷え込むなぁ。外は寒くて、参ったよ」
+display
+com11 0 0
+sound 400
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「おかえりなさい、プロデューサー。
+line2 <shift> # 外は、北風が強く吹いてるみたいですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。この冷え込みだと、事務所の中も、
+line2 <shift> # けっこう寒いね……。何かで暖をとりたいな」
+com03 0 2
+choice1 <shift> # 千早もそう思うだろ？
+line2
+com09 0 10
+com08
+choice2 <shift> # 千早はそう思わないか
+line2
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「千早もそう思うだろ？」
+display
+com11 0 0
+sound 401
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。そうですね……。風の音がなんだか、
+line2 <shift> # 余計に寒さを感じさせますね」
+display
+com11 0 0
+sound 402
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「暖まるには……。
+line2 <shift> # ストーブ、出しましょうか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そこまでしなくてもいいけど。
+line2 <shift> # でも、気持ちはありがたいよ」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「千早は、そうは……、思わないか」
+display
+com11 0 0
+sound 403
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そうですね……。部屋の中にいれば、
+line2 <shift> # すごく寒いということはないですし……」
+display
+com11 0 0
+sound 404
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「それでも、やっぱり冬が近づいているような、
+line2 <shift> # 普段よりかは寒いような、そんな感じはします」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だろ、そういった感じはするよな！
+line2 <shift> # 何でだろうな」
+display
+com11 0 0
+sound 405
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「窓に打ちつける風のせいでしょうか？」
+display
+com11 0 0
+sound 406
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「プロデューサー、だいぶ寒そうですね。
+line2 <shift> # 歯の根が、鳴ってますよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「千早は、寒いの平気なのか？
+line2 <shift> # 顔色ひとつ変えないなんて」
+display
+com11 0 0
+sound 407
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あまり、顔に出ないだけだと思います……」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 408
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あ……。プロデューサー、外回りの時に、
+line2 <shift> # 何か、買ってきたんですか？　手の、その袋」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、これ？　そうそう、冷え込むから、
+line2 <shift> # なんかあったかいものでも食べようかと思って」
+display
+com11 0 0
+sound 409
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「食べ物ですか。ええと、なんでしょう？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「寒い時に、ほおばる定番と言えば、
+line2 <shift> # これ。中華まん。肉まんだな」
+display
+com11 0 0
+sound 410
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「肉まん、ですか……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。肉まん、千早も食べないか？
+line2 <shift> # いくつか買ってきたから、わけよう」
+display
+com11 0 0
+sound 411
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あっ、ありがとう、ございます。
+line2 <shift> # でも、これ……」
+display
+com11 0 0
+sound 412
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「どうやって食べるんですか？
+line2 <shift> # 私、あんまり慣れてなくて」
+com03 0 3
+choice1 <shift> # とりあえず食べようよ
+line2
+com09 0 20
+com08
+choice2 <shift> # とりあえず教える
+line2
+com09 0 21
+com08
+choice3 <shift> # えっ、肉まん知らないの？
+line2
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ま、いいからいいから。マナーとかないから。
+line2 <shift> # とりあえず食べようよ」
+display
+com11 0 0
+sound 413
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そうですか。それなら、いいんですけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「直接持つと、熱いから、気をつけてな」
+display
+com22 0 30
+com11 0 0
+sound 414
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あっ！　あつっ……。ほんとだ、熱いですね。
+line2 <shift> # ええと、ここから食べるのでしょうか……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あんまり熱いようなら、２つに割って、
+line2 <shift> # 冷ましてごらん」
+display
+com11 0 0
+sound 415
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。……あ、ホクホクですね。湯気が……」
+display
+com21 0 30
+com11 0 0
+sound 416
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ふぅ。思ったより、おいしかったです、肉まん。
+line2 <shift> # それに、すごく、身体があたたまりました」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だろう？　さて、今日は俺が、
+line2 <shift> # 千早のぶんも、お茶いれようかな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後も、千早は、不器用ながらも、
+line2 <shift> # 肉まんを少しずつ、ほおばっていた）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （たまには、千早と過ごす、
+line2 <shift> # こんな時間も、悪くないものだな……）
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうやって食べると言われてもだな……。
+line2 <shift> # そのまま、かぶりつけばいいじゃないか」
+display
+com11 0 0
+sound 417
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「かぶりつく……。そういうものなんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そういうものなの。あ、言っとくけど、肉まん
+line2 <shift> # の下の紙は食べるなよ。ただの敷き紙だから」
+display
+com11 0 0
+sound 418
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「わかってます……」
+display
+com22 0 30
+com11 0 0
+sound 419
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「えーと……、これも？　あ……。これ、けっこ
+line2 <shift> # うベタベタしますね。それに、熱くて……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あんまり熱かったら、割って冷ますといい」
+display
+com11 0 0
+sound 420
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「割る……。うう、うまく持てません」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あははは、そりゃ持ちにくいはずだ。
+line2 <shift> # 俺が、やってあげるよ……。ほら、かして」
+display
+com21 0 30
+com11 0 0
+sound 421
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あ、あの、私、何かおかしかったですか？
+line2 <shift> # 紙は、とったんですけど……」
+display
+com11 0 0
+sound 422
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「それとも、まんじゅうのまわりの皮は、
+line2 <shift> # むくべきでは、なかったのでしょうか……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （千早は丸裸になった肉まんを、こわごわ食べた。
+line2 <shift> # 俺は笑いをこらえ、千早にお茶を入れてやった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （たまには、千早と過ごすこんな時間も、
+line2 <shift> # 悪くないものだな……）
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ、肉まん知らないの？」
+display
+com11 0 0
+sound 423
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「別に、知らないわけでは……。
+line2 <shift> # うっかりしただけです」
+display
+com11 0 0
+sound 424
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「普段、こういうものは私、あまり、
+line2 <shift> # 食べませんから……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あはは。コンビニで、
+line2 <shift> # 肉まん買ったりするようには見えないな、千早」
+display
+com11 0 0
+sound 425
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ええ、それに……。
+line2 <shift> # 家でも、食べるような機会はありませんから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか。確かに、家族と、
+line2 <shift> # 一緒に食べるところも想像しにくいな……」
+display
+com11 0 0
+sound 426
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あ、すみません。もうやめましょう、
+line2 <shift> # こんな話は」
+display
+com11 0 0
+sound 427
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ひとつ、食べます。下さい」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おっとすまん、忘れてた。
+line2 <shift> # ……っと、少し冷めちゃったな」
+display
+com11 0 0
+sound 428
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「すみません……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「気にするなよ。それより、俺、
+line2 <shift> # お茶いれるよ。千早のぶんも」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （千早は、ひどく不器用に、
+line2 <shift> # ちょっとつぶれた肉まんを、ほおばっていた）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （肉まんくらいでよければ、俺が、
+line2 <shift> # 一緒に食べてやるからな、千早……）
+com09 0 29
+display
+location 29
+unk02

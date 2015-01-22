@@ -1,0 +1,430 @@
+com2c 0 37
+com2c 0 57
+com2c 0 109
+com2d 0 42
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あれ？　千早、ジム・トレーニングはどうした
+line2 <shift> # んだ？　カリキュラム通り、やってくれないと」
+display
+com11 0 5
+sound 1000
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「終わりました、すべて」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええっ！？　あれだけのエクササイズを、
+line2 <shift> # この短時間でか？」
+com03 0 3
+choice1 <shift> # プラン、甘かったかな
+line2
+com09 0 10
+com08
+choice2 <shift> # 化け物だな……
+line2
+com09 0 11
+com08
+choice3 <shift> # もしかして、ズルした？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「プラン、甘かったかな」
+display
+com11 0 5
+sound 1001
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そう思います。次は、もっと詰め込んで
+line2 <shift> # もらえると。私、やり抜きますから」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「化け物だな……」
+display
+com11 0 5
+sound 1002
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そんな大げさな。あれくらいなら、
+line2 <shift> # この程度の時間で、十分……」
+display
+com11 0 5
+sound 1003
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「私、普通の人間です。化け物なんかじゃ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あああ、ごめんごめん。今のは、たとえで、
+line2 <shift> # 悪意はないよ」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もしかして、ズルした？」
+display
+com11 0 5
+sound 1004
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そんなこと、するわけ……。
+line2 <shift> # 疑われるとは、思わなかったです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「い、いや、あまりにも早かったからさ。
+line2 <shift> # ……悪かったよ」
+display
+com11 0 5
+sound 1005
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「私、ちゃんとわかってます。ラクをすると、
+line2 <shift> # ソンするのは自分だって」
+com09 0 29
+display
+location 29
+com11 0 5
+sound 1006
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「プロデューサー、残りの時間は、腹筋の訓練に
+line2 <shift> # 当てても？　大事なポイントなので」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。けど、腹筋は、かなり、やったんじゃ
+line2 <shift> # ないか？　プランに５０回って書いた気が……」
+display
+com11 0 5
+sound 1007
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「とても足りないです。いつもは、もっと
+line2 <shift> # やってますから」
+com03 0 3
+choice1 <shift> # ２００回ぐらい？
+line2
+com09 0 30
+com08
+choice2 <shift> # １００回ぐらい？
+line2
+com09 0 31
+com08
+choice3 <shift> # １０００回ぐらい？
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「２００回ぐらい？」
+display
+com11 0 5
+sound 1008
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。２回にわけて、１００回ずつ。
+line2 <shift> # それを日課に」
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「１００回ぐらい？」
+display
+com11 0 5
+sound 1009
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「その倍……、２００回を日課にしています。
+line2 <shift> # 一度にやると痛めるので休けいをはさみながら」
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「１０００回ぐらい？」
+display
+com11 0 5
+sound 1010
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「い、いくらなんでも、そんなにはできないです。
+line2 <shift> # 毎日２００回ぐらいで……」
+display
+com11 0 5
+sound 1011
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「でもいつか、それぐらい、できるように。
+line2 <shift> # 目標は、高いほどいいですから」
+com09 0 49
+display
+location 49
+com11 0 5
+sound 1012
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あの……日頃の成果、たしかめてみたいんです
+line2 <shift> # けど。おなか、叩いてもらえますか」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だ、大丈夫か？　俺が本気でやったら、
+line2 <shift> # 相当な力だぞ？　下手したら……」
+display
+com11 0 5
+sound 1013
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「かまいません。もし倒れたら、それは私の
+line2 <shift> # 甘さだから。……お願いします」
+com0e 1 144
+com44
+com09 0 50
+com45
+com44
+com09 0 51
+com45
+com44
+com09 0 52
+com45
+com44
+com09 0 53
+com45
+com44
+com09 0 54
+com45
+com44
+com09 0 55
+com45
+com44
+com09 0 56
+com45
+display
+location 50
+com34 0 3
+com11 0 5
+sound 1014
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ふっ……！　うっ、ありがとうございました。
+line2 <shift> # なんとか、耐え、られ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「平気か？　言われた通りにやったけど、これで
+line2 <shift> # よかったのか？」
+display
+com11 0 5
+sound 1015
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。手加減抜きでやってくれて、感謝します。
+line2 <shift> # あの……こんなこと、女の子っぽくない？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなことないよ。たいしたもんだ。これから、
+line2 <shift> # もっと、きたえ上げていこう」
+display
+com11 0 5
+sound 1016
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……はいっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （満足げに、うなづいている。にしても、なんて
+line2 <shift> # しなやかな体だ……。今後が楽しみだな）
+com09 0 69
+display
+location 51
+com11 0 5
+sound 1017
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「うっ、プロデューサー？　どうして頭を……」
+com09 0 91
+display
+location 52
+com11 0 5
+sound 1018
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「うっ、プロデューサー？　どうして顔……。
+line2 <shift> # いたい……」
+com09 0 91
+display
+location 91
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「正気を失ってるからだよ。目をさませ。
+line2 <shift> # どんな危険なこと言ってるか、わかってるか？」
+display
+com11 0 5
+sound 1019
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……わかってます。その上で、お願いしたのに、
+line2 <shift> # こんな……」
+display
+com11 0 5
+sound 1020
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「一歩一歩、確認していきたいんです。プロ
+line2 <shift> # デューサーには、その手伝いをしてほしくて」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「アドバイスなら、できるけど、さすがに、
+line2 <shift> # ここまでは」
+display
+com11 0 5
+sound 1021
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ヘンなやさしさは、いりません。こういう時は、
+line2 <shift> # 遠慮なく、ムチ打ってもらえると……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （顔には、失望の色が浮かんでいる。
+line2 <shift> # 望まれた通りに、してやるべきだったかもな）
+com09 0 69
+display
+location 53
+com11 0 5
+sound 1022
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はっ、え、あ、……プロデューサー？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まあ、軽くタッチ。これぐらいで、済ませて
+line2 <shift> # おこう」
+display
+com11 0 5
+sound 1023
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……なにを考えて。こんなの、私、
+line2 <shift> # 頼んだりしては」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おなかを強く叩くよりは、安全だし。これで、
+line2 <shift> # 許してくれないか？」
+display
+com11 0 5
+sound 1024
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ふざけてるとしたら、あんまりです。駆け
+line2 <shift> # 上がっていくためのパートナー、ですよね？」
+display
+com11 0 5
+sound 1025
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「信じて、いいんですか？　もし、こんなことが
+line2 <shift> # 続くようなら、私……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （顔には、ショックがありありと。マズい……。
+line2 <shift> # とにかく、ひたすら謝らないと！）
+com09 0 69
+display
+location 54
+com11 0 5
+sound 1026
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はっ、え、あ、あの、プロデューサー。
+line2 <shift> # いったい、なに……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おなかを叩くなんて、できないよ。
+line2 <shift> # せめて、胸の筋肉をたしかめて……」
+display
+com11 0 5
+sound 1027
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「私、真剣にお願いしたのに、こんな仕打ち、
+line2 <shift> # あんまり……。失礼しますっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うわっ、おい待ってくれ、千早！」
+display
+com22 0 30
+com32 0 1
+com21 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「悪かった！　この通りだから、許してくれ」
+display
+com11 0 5
+sound 1028
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……ついてこないで下さい。今、話すと、
+line2 <shift> # なにを言ってしまうか、わからないから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後、ひたすら謝って、どうにか仲直りした。
+line2 <shift> # けど……完全に、信頼を裏切ってしまったな）
+com09 0 69
+display
+location 55
+com11 0 5
+sound 1029
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「うッ！　プロデューサー。どうして、そんな
+line2 <shift> # ところ。……ううっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うわ、ごめんっ！　手元がくるって。
+line2 <shift> # け、ケガしたか、もしかして？」
+display
+com11 0 5
+sound 1030
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「たいしたことは。でも、目が、ぼやけて。
+line2 <shift> # うううっ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「千早！　しっかりしろ。
+line2 <shift> # 待ってろ、今すぐ、病院にッ！！」
+display
+com22 0 30
+com32 0 2
+com21 0 30
+com11 0 5
+sound 1031
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……よかったです。骨に異常はないって。
+line2 <shift> # 迷惑、かけてしまいましたね」
+display
+com11 0 5
+sound 1032
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「私の責任です。慣れないこと、
+line2 <shift> # プロデューサーに頼んでしまったから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （いや、悪いのは、俺の方だ。期待に応える
+line2 <shift> # どころか、ダメージを与えてしまった……）
+com09 0 69
+display
+location 56
+com11 0 5
+sound 1033
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「プロデューサー、どうしたんです？
+line2 <shift> # 私、準備はとっくに……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やっぱり、できないよ。万が一のことを
+line2 <shift> # 考えると……」
+display
+com11 0 5
+sound 1034
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そうですか……。すみません、無茶なこと
+line2 <shift> # 言ってしまいました」
+display
+com11 0 5
+sound 1035
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「じゃあ、他の誰かに、頼むことに。
+line2 <shift> # 女の子の力なら、問題はないですよね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。そうしてくれるか？　悪いけど」
+display
+com11 0 5
+sound 1036
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「わかりました。プロデューサーにも、立場が
+line2 <shift> # あるでしょうから……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ひどくガッカリした顔で、向こうへ歩いて
+line2 <shift> # いってしまった。遠慮は無用だったか？）
+com09 0 69
+display
+location 69
+unk02

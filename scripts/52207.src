@@ -1,0 +1,676 @@
+com2d 0 91
+com2e 0 101
+com2c 0 28
+com32 0 0
+com11 0 0
+sound 0
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ねえ、兄ちゃ〜ん！
+line2 <shift> # 亜美も『怪奇迷宮学園』入りたいよ〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「今回のテーマパークのレポートは、真美に
+line2 <shift> # 決まったんだ。亜美は、また今度な」
+display
+com11 0 0
+sound 1
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「でも、これ超人気のアトラクションだし、
+line2 <shift> # プライベートで入るのメチャ大変だよ〜」
+display
+com11 0 0
+sound 2
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「んっふっふ〜、ジャンケンで決めたんだから、
+line2 <shift> # 文句ナシだもん！」
+display
+com11 0 0
+sound 3
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「でも真美、これ超怖いらしいよ〜。
+line2 <shift> # 呪われた人とかも、いるらしいし……」
+display
+com11 0 0
+sound 4
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「そ、そんなのウソだよ〜！
+line2 <shift> # ねえ……兄ちゃん……？」
+com03 0 3
+choice1 <shift> # いや、本当だ……
+line2
+com09 0 10
+com08
+choice2 <shift> # 亜美、余計なことを言うな
+line2
+com09 0 11
+com08
+choice3 <shift> # ウソだよ
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、本当だ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （……って、
+line2 <shift> # ちょっと、おどしてみたりして……）
+display
+com11 0 0
+sound 5
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「うあうあ〜！　ど、どうしよう〜！！」
+display
+com11 0 0
+sound 6
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ええ〜っ！　ほんとだったの〜！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （いや……。
+line2 <shift> # そもそも亜美が言い出したんだろ……）
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「亜美、余計なことを言うな」
+display
+com11 0 0
+sound 7
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「よけいなこと……って？
+line2 <shift> # 今の話、口止めしてたってこと〜！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、ちがうぞ真美。勘違いするなって」
+display
+com11 0 0
+sound 8
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「うあうあ〜、ほんとだったんだ〜！
+line2 <shift> # ど、どうしよう〜！！」
+display
+com11 0 0
+sound 9
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ええ〜っ！　ほんとだったの〜！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （いや……、
+line2 <shift> # そもそも亜美が言い出したんだろ……）
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ウソだよ」
+display
+com11 0 0
+sound 10
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ウソ……？　ほんとにウソなの〜？」
+display
+com11 0 0
+sound 11
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ほんとがウソなの〜？
+line2 <shift> # ウソがほんとなの〜？」
+display
+com11 0 0
+sound 12
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「うあうあ〜！
+line2 <shift> # わけわかんなくなってきちゃったよ〜！」
+display
+com11 0 0
+sound 13
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うあうあ〜！　亜美も、
+line2 <shift> # わけわかんなくなってきちゃったよ〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （いや……。
+line2 <shift> # もともと亜美が言い出したんだろ……）
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そろそろ、リハーサルの時間だぞ！
+line2 <shift> # 真美、頑張ってこいよ！」
+display
+com11 0 0
+sound 14
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「でも……帰ってこらんなかったら、
+line2 <shift> # どうしよう〜っ！」
+display
+com11 0 0
+sound 15
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「真美が帰ってこられない……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、だから、
+line2 <shift> # 何も心配いらないって……」
+display
+com11 0 0
+sound 16
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「まかして！
+line2 <shift> # 亜美が、なんとかしてあげるっ！」
+display
+com11 0 0
+sound 17
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「亜美！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おい！　どこ行くんだ？　亜美！？」
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 18
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「はい、これ！
+line2 <shift> # スタッフから借りてきてあげたから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「これ……って、トランシーバーか？」
+display
+com11 0 0
+sound 19
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うんっ！　これがあったら、
+line2 <shift> # 離れてても、真美とお話しできるでしょ？」
+display
+com11 0 0
+sound 20
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「そっか〜。あんがとね、亜美ぃ〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「さあ、出番だぞ。真美！」
+display
+com11 0 0
+sound 21
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「うん……。んじゃ、行ってくんね〜！」
+display
+com11 0 0
+sound 22
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「真美……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （真美のことが心配なのか、
+line2 <shift> # めずらしくシリアスな表情をしている）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （なにか亜美に声をかけてやるか……）
+com03 0 3
+choice1 <shift> # 真美のことが心配なのか？
+line2
+com09 0 30
+com08
+choice2 <shift> # このまま戻ってこないかもな
+line2
+com09 0 31
+com08
+choice3 <shift> # このまま遊びに行こうか？
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「真美のことが心配なのか？」
+display
+com11 0 0
+sound 23
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ち、ちがうよ〜。おもしろそうだから、
+line2 <shift> # 亜美もやりたいな〜って思っただけ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そっか……」
+display
+com11 0 0
+sound 24
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うん……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （強がりを言ってるけど、
+line2 <shift> # 真美のことが心配でしょうがないみたいだな）
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「このまま戻ってこないかもな……」
+display
+com11 0 0
+sound 25
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ええ〜っ！　ほんと、兄ちゃん！？
+line2 <shift> # 真美がいなくなるなんて、ヤダよ〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「大丈夫だよ。
+line2 <shift> # 亜美が助けてやるんだろ？」
+display
+com11 0 0
+sound 26
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うん……。
+line2 <shift> # 兄ちゃんも助けてくれるよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、まかせとけって」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （普段はたまにケンカするけど、いざとなると
+line2 <shift> # やっぱり、真美のことが心配なんだな……）
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「真美の仕事が終わるまで時間あるし、
+line2 <shift> # このまま遊びに行こうか？」
+display
+com11 0 0
+sound 27
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「えっ……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「乗り物だって、たくさんあるし、
+line2 <shift> # おいしいものも、たくさんあるぞ」
+display
+com11 0 0
+sound 28
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ん〜……やっぱダメだよ。
+line2 <shift> # 遊ぶのは、真美が帰ってきてからにする」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （普段はたまにケンカするけど、いざとなると
+line2 <shift> # やっぱり、真美のことが心配なんだな……）
+com09 0 49
+display
+location 49
+com11 0 0
+sound 29
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「こ……ちら、真美……。
+line2 <shift> # き、聞こえますか……？」
+display
+com11 0 0
+sound 30
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「真美！　亜美だよ！　聞こえる？」
+display
+com11 0 0
+sound 31
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「亜美ー！　このガッコの理科室、
+line2 <shift> # メチャきもいよー！」
+display
+com11 0 0
+sound 32
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「だ、だいじょうぶだよ、真美。
+line2 <shift> # 目をつぶってたら、怖くないっしょ？」
+display
+com11 0 0
+sound 33
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「怖くないけど、
+line2 <shift> # 目つぶってたら、歩けないよ〜！」
+display
+com11 0 0
+sound 34
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「んじゃ、なるべく見ないように、
+line2 <shift> # 薄目で行けばいいんだよ〜！」
+display
+com11 0 0
+sound 35
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「わかった！
+line2 <shift> # 薄目で行ってみるー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （よしよし。
+line2 <shift> # どうやら、うまくいってるみたいだな）
+display
+com11 0 0
+sound 36
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「真美ー！
+line2 <shift> # 聞こえる？　ねえ、真美ー！」
+display
+com11 0 0
+sound 37
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「うあうあ、亜美ー！
+line2 <shift> # 薄目で進んでたら、変なとこ来ちゃったよー！」
+display
+com11 0 0
+sound 38
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「変なとこって、どこ〜！？
+line2 <shift> # こっちからは、わかんないよ〜！」
+display
+com11 0 0
+sound 39
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「矢印がなくなっちゃったから、
+line2 <shift> # どっち行ったらいいか、わかんないの〜！」
+display
+com11 0 0
+sound 40
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「そんなの亜美だって、わかんないよ〜！！」
+display
+com11 0 0
+sound 41
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「うあうあ、きもい声が聞こえるよ〜！
+line2 <shift> # 助けて、亜美〜！　兄ちゃ〜ん！！」
+display
+com11 0 0
+sound 42
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うあうあ、兄ちゃんー！
+line2 <shift> # 亜美、どうしたらいいか、わかんないよー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、俺にトランシーバーを貸せ！
+line2 <shift> # 聞こえるか、真美？」
+display
+com11 0 0
+sound 43
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「うん、聞こえるよー！　兄ちゃ〜ん！！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「道はどうなってる？」
+display
+com11 0 0
+sound 44
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「んとね……右と左にわかれてるよ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それだけじゃ、なにもわからないな……」
+display
+com11 0 0
+sound 45
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「うう〜、そんなこと言ったって、
+line2 <shift> # 真美もわかんないんだもん……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （これ以上、不安にさせるよりは、
+line2 <shift> # 一か八か、どちらかに進ませた方がいいな）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （真美は相当おびえてるし、ここはバシッと
+line2 <shift> # 正しい道を指示してやりたい！　……カンで）
+com03 0 2
+choice1 <shift> # 右に行け！
+com09 0 50
+com08
+choice2 <shift> # 左に行け！
+com09 0 51
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「右に行け！」
+display
+com11 0 0
+sound 46
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「うん……。わかったよ、兄ちゃん……！」
+com37 0 1
+com1e 0 0 141 135
+com09 0 60
+com3b
+com37 0 0
+com1e 0 0 141 135
+com09 0 61
+com3b
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「左に行け！」
+display
+com11 0 0
+sound 47
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「うん……。わかったよ、兄ちゃん……！」
+com37 0 1
+com1e 0 0 141 135
+com09 0 60
+com3b
+com37 0 0
+com1e 0 0 141 135
+com09 0 61
+com3b
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「左に行け！」
+display
+com11 0 0
+sound 48
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「うん……。わかったよ、兄ちゃん……！」
+com09 0 61
+display
+location 60
+com11 0 0
+sound 49
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「亜美ぃー！　兄ちゃーん！」
+display
+com11 0 0
+sound 50
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「真美ぃー！　よ、よかったぁ〜！
+line2 <shift> # もう会えないかと思ったよ〜！」
+display
+com11 0 0
+sound 51
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「真美も、そう思ったけど、
+line2 <shift> # 兄ちゃんの言った方に行ったら、出られたよ」
+display
+com11 0 0
+sound 52
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「亜美には、ちゃんとわかってたよ。
+line2 <shift> # 今までも、兄ちゃんの言う通りにしてきたし」
+display
+com11 0 0
+sound 53
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「うんうん。兄ちゃんの言う通りにやれば、
+line2 <shift> # まちがいないもんね〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おいおい……。
+line2 <shift> # 今回のは単なる偶然……」
+display
+com11 0 0
+sound 54
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「これからも、兄ちゃんを信じて
+line2 <shift> # がんばろーね！」
+display
+com11 0 0
+sound 55
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「うんっ♪
+line2 <shift> # 兄ちゃんを信じて、がんばってこー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （……まあいいか。これからも二人の信頼を
+line2 <shift> # 裏切らないようにしよう！）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後のレポート本番も、真美は怖がりつつも
+line2 <shift> # うまくこなしてくれた。いい仕事、できたな！）
+com4b 0 0
+com09 0 69
+display
+location 61
+com11 0 0
+sound 56
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「うっぐ……えっぐ……
+line2 <shift> # ここ……どこぉ……！？」
+display
+com11 0 0
+sound 57
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「真美ー！　聞こえる！？　真美ぃー！？」
+display
+com11 0 0
+sound 58
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「亜……美……、ど……こ……」
+display
+com11 0 0
+sound 59
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うあうあ〜！
+line2 <shift> # 真美の声が聞こえなくなったよ〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「真美！　おい、真美……！！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （どうやら電波が届かないほど、
+line2 <shift> # 奥の方に迷い込んでしまったようだ……）
+display
+com11 0 0
+sound 60
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うあうあ、こうなったら、
+line2 <shift> # 壁をぶちやぶって、亜美が助けに……！！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「こら、亜美……！　やめるんだ！！」
+display
+com11 0 0
+sound 61
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「放してー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （結局、スタッフ総出で、
+line2 <shift> # 真美を捜すことになってしまった……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ようやく助け出されたときには、
+line2 <shift> # 真美は泣き疲れたのか、ぐったりしていた……）
+display
+com11 0 0
+sound 62
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「うあうあ〜、兄ちゃんの言う方に行ったら、
+line2 <shift> # 頭ゴンてなって、ビチャビチャになって……！」
+display
+com11 0 0
+sound 63
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「やっぱ、兄ちゃんの言うことは、
+line2 <shift> # 信じるもんじゃないねぇ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ふたりの冷たい視線が突き刺さる……。
+line2 <shift> # 俺だって、助けてやりたかったよ……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後のレポート本番は、真美が泣いてイヤ
+line2 <shift> # がり、中止になった。うう……当然だよな）
+com4b 0 2
+com09 0 69
+display
+location 69
+unk02

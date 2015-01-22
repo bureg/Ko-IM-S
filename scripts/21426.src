@@ -1,0 +1,253 @@
+com2c 0 97
+com2d 0 51
+com32 0 0
+com11 0 1
+sound 1400
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ようこそ、プロデューサーさん。
+line2 <shift> # 私の新しい部屋、どうでしょう？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「さりげなく、豪華ですね。ランクＢのスーパー
+line2 <shift> # アイドルに、ふさわしい部屋だと思います」
+display
+com11 0 1
+sound 1401
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「便利で、住み心地のよさそうなところを選んだ
+line2 <shift> # ら、ここに。家賃も高いので、がんばらないと」
+com03 0 2
+choice1 <shift> # まあ、無理はせずに
+line2
+com09 0 10
+com08
+choice2 <shift> # まあ、心配ないでしょう
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、無理はせずに」
+display
+com11 0 1
+sound 1402
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はい、ありがとうございます。きっと大丈夫
+line2 <shift> # です。気をつかってくれる人が、いますから」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、心配ないでしょう。いまの稼ぎなら、
+line2 <shift> # これぐらい楽勝なのでは？」
+display
+com11 0 1
+sound 1403
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「でも、ファンが離れていってしまったら、
+line2 <shift> # こんなところには、住めないですし」
+display
+com11 0 1
+sound 1404
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「それに、貯金もしたいなあって思ってるんです。
+line2 <shift> # いつか、物入りになるかもしれませんから」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「これで、運命の人を迎え入れる準備は、
+line2 <shift> # バッチリですか？」
+display
+com11 0 1
+sound 1405
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そうですね。けれど私、幸せなら、住むところ
+line2 <shift> # なんて、どこでも。小さな部屋でも、よくて」
+display
+com11 0 1
+sound 1406
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「と、ところで、こういう言葉、知っていますか。
+line2 <shift> # 『欲しい物があるなら、裏庭を探しなさい』」
+display
+com11 0 1
+sound 1407
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「どういう意味だと、思います？」
+com03 0 3
+choice1 <shift> # 欲しい物は、意外にそばにある？
+line2
+com09 0 30
+com08
+choice2 <shift> # 裏庭には、イモが埋まっている？
+line2
+com09 0 31
+com08
+choice3 <shift> # ホシイモは、意外にそばにある？
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「欲しい物は、意外にそばにある？」
+display
+com11 0 1
+sound 1408
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ふふっ、そうです。けっこう有名な言葉らしく
+line2 <shift> # て。私は最近、知ったのですけれど」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「裏庭には、イモが埋まっている？」
+display
+com11 0 1
+sound 1409
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「んー、はずれているような、近いような？
+line2 <shift> # けれど、きっと正解ですね」
+display
+com11 0 1
+sound 1410
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「宝物は、意外にそばにあるって意味ですから。
+line2 <shift> # おイモが、宝かどうかは、わかりませんけれど」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ホシイモは、意外にそばにある？」
+display
+com11 0 1
+sound 1411
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「どうして、ホシイモが出てくるのでしょう？
+line2 <shift> # あ、欲しい物と、引っかけています？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……つまらないジョークでしたね。
+line2 <shift> # すみません」
+display
+com11 0 1
+sound 1412
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「でも、正解は正解ですよね。そう、欲しい物は、
+line2 <shift> # すぐそばにあるっていう意味です」
+com09 0 49
+display
+location 49
+com11 0 1
+sound 1413
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「運命の人……。私、見つけたかもしれません。
+line2 <shift> # いつか、相手も気づいてくれるでしょうか？」
+com03 0 3
+choice1 <shift> # ……気づいてほしくないです
+line2
+com09 0 50
+com08
+choice2 <shift> # きっと、気づいてますよ
+line2
+com09 0 51
+com08
+choice3 <shift> # 俺には、わかりません
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 2
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……気づいてほしくないです。俺が育てた
+line2 <shift> # あずささんを取られてしまうかもしれないし」
+display
+com11 0 1
+sound 1414
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「えっ？　ふふ、ふふふふっ！
+line2 <shift> # プロデューサーさん、それ、おかしいですっ」
+display
+com11 0 1
+sound 1415
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そんなこと、絶対にないと思いますよっ。
+line2 <shift> # ふふっ、ふふふふっ、ふふっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （心から、おかしそうに笑い転げている。
+line2 <shift> # つられて、しばらく、ふたりで笑い転げた）
+com09 0 69
+display
+location 51
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「きっと、気づいてますよ」
+display
+com11 0 1
+sound 1416
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「えっ、そうですか。ほんとに、ほんとに、そう
+line2 <shift> # 思いますか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「当たり前じゃないですか。あずささんを知ら
+line2 <shift> # ない人なんて、もう日本にはいませんし」
+display
+com11 0 1
+sound 1417
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「知ってるとか、知らないの問題では……。
+line2 <shift> # はあ〜、ほめてもらっても、あまりうれしくは」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （スーパーアイドルの知名度をたたえたのに、
+line2 <shift> # どうして、ため息を？　……まあ、いいか）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺には、わかりません」
+display
+com11 0 1
+sound 1418
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ど、どうしてですか？　わからないはずが
+line2 <shift> # ないような気が……しませんか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「他人のことは、わからないです。だいたい、
+line2 <shift> # 俺の知ってる人間かどうかも、微妙ですし」
+display
+com11 0 1
+sound 1419
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そうですか。私、かなりわかるかって、思った
+line2 <shift> # のですけれど……」
+display
+com11 0 1
+sound 1420
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「いいです。き、気づくまで、待てばいい話です
+line2 <shift> # ものね。どんなに、つらくても……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （急に、顔がかげってしまった。どうも、マズい
+line2 <shift> # ことを、言ってしまったみたいだな）
+com09 0 69
+display
+location 69
+unk02

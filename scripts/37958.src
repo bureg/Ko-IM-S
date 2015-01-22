@@ -1,0 +1,446 @@
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （タレントのお忍び企画番組の話が律子に
+line2 <shift> # 舞い込み、下見のため、商店街にやってきた）
+display
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「番組の予行演習って感じだけど、今日は私の
+line2 <shift> # 買い物につき合って下さい、プロデューサー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えーと、そのＴＶ番組って、
+line2 <shift> # どういう企画だったっけ？」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「もしも秋月律子が、安アパートでひとり暮らし
+line2 <shift> # だったらー。ひゅーどんどん、ぱふぱふー」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「番組スタッフの説明では、限られた予算内で、
+line2 <shift> # 工夫して、めいっぱい楽しんでほしいそうです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「トップアイドルの庶民的な一面を見せる、
+line2 <shift> # という狙いなのかな？」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そんな感じですね。お金をかけずに、充実した
+line2 <shift> # 週末を過ごさなくちゃいけないんですよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「週末の過ごし方、か。律子なら、きっと……」
+com03 0 3
+choice1 <shift> # 読書をするよな？
+line2
+com09 0 10
+com08
+choice2 <shift> # 服を買うよな？
+line2
+com09 0 11
+com08
+choice3 <shift> # 運動するよな？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「本を買って、読書をするよな？」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「うんうん。推理小説で思索にふけるもよし、
+line2 <shift> # 冒険小説に胸おどらせるもよし……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「恋愛小説で、ときめくのもありだな！」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そうね、そういうのも……、
+line2 <shift> # たまには、いいかも」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「新しい服を買うよな？」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「えっ！　でも、ひとり暮らしっていう設定なん
+line2 <shift> # ですよ。部屋で、ひとりファッションショー？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そういうのも楽しいんじゃないか？
+line2 <shift> # いつもは着られない服、試してみるとか」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ああ、そうですね。普段出来ない格好を、
+line2 <shift> # ひとりでじっくり試すのも、面白いか」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「でも、ＴＶ番組だからなあ。私が色んな服を
+line2 <shift> # 試すとこ、全国に放送されちゃいますよ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうか……。そういうのは、本当に
+line2 <shift> # ひとりの時にやった方が、いいかもしれないな」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「運動器具を買って、部屋で運動するよな？」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ええーっ！？　ひとりで部屋で運動！？
+line2 <shift> # 汗かくのは、ちょっと」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「それに、アパートだし。
+line2 <shift> # 飛んだり跳ねたりなんてムリですよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「近所迷惑にならないトレーニングだって、
+line2 <shift> # きっと、あるぞ！」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「トレーニング、って……。それだと、楽しい
+line2 <shift> # 週末って感じじゃ、なくなっちゃいます」
+display
+com11 0 0
+sound 10012
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「週末くらい、レッスンやら修行やらからは、
+line2 <shift> # 離れたいんですから……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……いつもそんなこと言ってないか、律子？）
+com09 0 29
+display
+location 29
+com11 0 0
+sound 10013
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「他には……、そうそう！　週末の楽しみ
+line2 <shift> # といえば、食事もよね。食材も買おうかな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「律子、料理ができるのか？」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「得意じゃないけど、少しはね。レシピ本を
+line2 <shift> # 見ながらなら、なんとかなりますよ」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「母を手伝って、夕食に１品作ったり、
+line2 <shift> # なんてことも、時々はあるし」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「へえ、そうなのか。
+line2 <shift> # いつもは、どんな料理をするんだ？」
+display
+com11 0 0
+sound 10016
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「んー……、ヒント！　外国料理！」
+com03 0 3
+choice1 <shift> # 中華だな
+com09 0 30
+com08
+choice2 <shift> # イタリアンだな
+line2
+com09 0 31
+com08
+choice3 <shift> # フレンチだな
+line2
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「中華だな」
+display
+com11 0 0
+sound 10017
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「うんうん。中華料理は特に、
+line2 <shift> # 大勢で食べると、楽しいですね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、今回は、ひとりだな……」
+display
+com11 0 0
+sound 10018
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「うーん。でもきっと、ひとりでもおいしいし、
+line2 <shift> # さめてもおいしいですよ。味付け次第です」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「番組企画じゃなきゃ、
+line2 <shift> # 俺も、ごちそうになりたいもんだ」
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「イタリアンだな」
+display
+com11 0 0
+sound 10019
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「うんうん。イタリア料理は手軽でおいしい……。
+line2 <shift> # でも、素材次第かな？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「素材次第、か……」
+display
+com11 0 0
+sound 10020
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「今回は、安くあげなきゃいけないから、あんま
+line2 <shift> # り高い素材は、買えないかもしれませんね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「律子は、こだわりそうだな、そのへん」
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「フレンチだな」
+display
+com11 0 0
+sound 10021
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「うーん。フレンチねえ。
+line2 <shift> # フレンチトーストなら、まだしも……」
+display
+com11 0 0
+sound 10022
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「本格的なフランス料理なんて、
+line2 <shift> # もちろん私、作れませんよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「家庭料理は？」
+display
+com11 0 0
+sound 10023
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ううっ。べ、勉強したほうがいいのかな？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、そんな、
+line2 <shift> # 真剣に悩まなくてもいいけどさ」
+com09 0 49
+display
+location 49
+com11 0 0
+sound 10024
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ああ、でも……。
+line2 <shift> # そういえば、お忍び企画なんですよね、これ」
+display
+com11 0 0
+sound 10025
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「こんな風に、普通に歩いて買い物してたら、
+line2 <shift> # ほんとはダメなんだろうなあ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今や律子はトップアイドルだからな。周りに
+line2 <shift> # 気づかれれば、さすがに騒ぎになるだろうね」
+display
+com11 0 0
+sound 10026
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あんまり意識してなかったけど、
+line2 <shift> # 変装でも、したほうがいいのかな？」
+display
+com11 0 0
+sound 10027
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「今は、こうやって、プロデューサーと、
+line2 <shift> # さりげなく街を歩いてますけど……」
+display
+com11 0 0
+sound 10028
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「人が集まってきたら、
+line2 <shift> # 番組どころじゃなくなっちゃいますから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃあ、本番では……」
+com03 0 3
+choice1 <shift> # 簡単に変装しよう
+line2
+com09 0 50
+com08
+choice2 <shift> # 大胆に変装しよう
+line2
+com09 0 51
+com08
+choice3 <shift> # カメラを隠せばいい
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「本番では、簡単に変装しよう。
+line2 <shift> # ウィッグかエクステでも使って」
+display
+com11 0 0
+sound 10029
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「髪型だけ変えるんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ちょっとしたことで、印象ががらっと
+line2 <shift> # 変わると思うんだ。律子の場合は特に」
+display
+com11 0 0
+sound 10030
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ふーむ。なら、そうしようかな。
+line2 <shift> # 軽い変装なら、お忍び感もありますね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （番組スタッフに提案してみたところ、変装につ
+line2 <shift> # いて快い返事がもらえた。そして、本番……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （自然、かつ、新鮮な律子の変装姿は、
+line2 <shift> # スタッフにも視聴者にも、とても好評だった！）
+com09 0 69
+display
+location 51
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「本番では、大胆に変装しよう。
+line2 <shift> # いっそ、着ぐるみでも着てみるとか」
+display
+com11 0 0
+sound 10031
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「えええっ！　それ、変装ってレベルじゃないで
+line2 <shift> # すよ。着ぐるみなんて、余計に目立っちゃうわ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃあ、ヒゲと鼻眼鏡をつける、とか」
+display
+com11 0 0
+sound 10032
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「宴会芸じゃあるまいし！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、そこまで徹底的にやれば、
+line2 <shift> # 誰も律子だとは気づかないはずだぞ」
+display
+com11 0 0
+sound 10033
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ちっとも忍んでないじゃないですか。
+line2 <shift> # お忍び企画の意味、わかってますか？」
+display
+com11 0 0
+sound 10034
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「着ぐるみやヒゲのまま、アパートに
+line2 <shift> # 出入りする身にも、なってみて下さいよ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （律子は不満そうだ。本番での良いアイディア、
+line2 <shift> # 提示することができなかったな……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後、本番を、律子は、ぶなんにこなしたが、
+line2 <shift> # インパクトに欠ける番組内容になってしまった）
+com09 0 69
+display
+location 52
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「本番では、カメラを隠せばいい。カメラは目立
+line2 <shift> # つからな。撮影だって、すぐにバレちゃうだろ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、カメラを隠せば、律子も人ごみにまぎれ
+line2 <shift> # やすいし、撮影だとわからなくできると思うぞ」
+display
+com11 0 0
+sound 10035
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「撮影だとわからなくして……、
+line2 <shift> # でも、撮影自体は、するんですよね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もちろん。カバンに隠せるハンディカメラとか、
+line2 <shift> # 使えるんじゃないかな」
+display
+com11 0 0
+sound 10036
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ハンディカメラだけで、隠し撮りみたいにする
+line2 <shift> # んですか？　うーん、自然は自然だけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだ、俺が撮ろうか？」
+display
+com11 0 0
+sound 10037
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「イヤですよ、なんか恥ずかしいし」
+display
+com11 0 0
+sound 10038
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「他のスタッフならともかく、プロデューサーに
+line2 <shift> # 近くで撮られてたら、くつろげないかも……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おいおい、どういう意味なんだ？」
+display
+com11 0 0
+sound 10039
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「なんでもありません、気にしないで下さい！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （律子は、なぜか怒ってしまった。
+line2 <shift> # 俺、何かおかしなこと言ったか……？）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後、本番まで、律子はずっと不機嫌なまま
+line2 <shift> # だった。笑顔で出演して欲しかったな……）
+com09 0 69
+display
+location 69
+unk02

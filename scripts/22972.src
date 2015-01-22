@@ -1,0 +1,475 @@
+com2c 0 1
+com2c 0 59
+com2d 0 51
+com32 0 0
+com11 0 0
+sound 0
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「プロデューサーさん、本当ですか？
+line2 <shift> # 私が、お天気お姉さんになるっていう話……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ええ。知り合いのディレクターに頼みこんで
+line2 <shift> # 無理やり、仕事をもらってきました」
+display
+com11 0 0
+sound 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「で、でも……、私、お天気のことなんて、
+line2 <shift> # 全然わかりませんけれど……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「大丈夫です。短いコーナーですし、
+line2 <shift> # 自由にやっていいそうです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あくまでも、目的はアイドルとして、
+line2 <shift> # 顔と名前を、覚えてもらうためですから」
+display
+com11 0 0
+sound 2
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そうなんですか〜。でも、自由に、
+line2 <shift> # って言われても、どうしたらいいのか……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「たとえば、こういうのはどうですか？
+line2 <shift> # 天気予報コーナーのタイトルが……」
+com03 0 3
+choice1 <shift> # あずさの歌う天気予報
+line2
+com09 0 10
+com08
+choice2 <shift> # あずさの天然天気予報
+line2
+com09 0 11
+com08
+choice3 <shift> # あずさのお色気天気予報
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「『あずさの歌う天気予報』。
+line2 <shift> # 歌いながら、天気予報をするんです！」
+display
+com11 0 0
+sound 3
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ええっ、歌いながら、お天気を……？
+line2 <shift> # 明日はハレルヤ〜、降水確率３０％♪　とか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうそう、そういう感じです。
+line2 <shift> # きっと、話題になりますよ！」
+display
+com11 0 0
+sound 4
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「なんだか、ふざけているみたいですけれど、
+line2 <shift> # ミュージカルっぽくて、面白いですね〜」
+com09 0 13
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「『あずさの天然天気予報』。
+line2 <shift> # あずささんがカンで、天気予報をするんです！」
+display
+com11 0 0
+sound 5
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ええっ、カンで？　ん〜。だけど、
+line2 <shift> # 明日は雨かもですし、晴れかもですし……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうそう、そんな感じです。
+line2 <shift> # 突っ込みどころ満載で、面白そうですよ！」
+display
+com11 0 0
+sound 6
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「それって、ほめられているのかしら〜？
+line2 <shift> # けなされているのかしら〜……？」
+com09 0 13
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「『あずさのお色気天気予報』。
+line2 <shift> # 水着姿で、天気予報をするんです！」
+display
+com11 0 0
+sound 7
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ええっ？　水着で、お色気……？　明日は
+line2 <shift> # 雨模様ですって〜、うふっ♪　とかですか〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうそう、そういう感じです。
+line2 <shift> # きっと、視聴率が上がりますよ！」
+display
+com11 0 0
+sound 8
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そんな……、困ります〜。ＴＶでそんなこと、
+line2 <shift> # 恥ずかしくて、絶対ダメです〜……！」
+com09 0 13
+display
+location 13
+com11 0 0
+sound 9
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ああ……。ですけど、なんだか急に、
+line2 <shift> # 緊張してきてしまいました〜」
+display
+com11 0 0
+sound 10
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「のどが、カラカラになってきました。
+line2 <shift> # あー、あー、こほっ……んん〜」
+display
+com11 0 0
+sound 11
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「プロデューサーさん。ちょっと、のどあめを
+line2 <shift> # 買ってきてもいいでしょうか〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「えっ。だけど、本番まで、あまり時間が
+line2 <shift> # ありませんから……」
+com03 0 3
+choice1 <shift> # 迷子にならないように
+line2
+com09 0 20
+com08
+choice2 <shift> # 俺が買ってきますよ
+line2
+com09 0 21
+com08
+choice3 <shift> # ガマンして下さい
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「迷子にならないように」
+display
+com11 0 0
+sound 12
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「うふふ〜、大丈夫ですよ。
+line2 <shift> # 近くのコンビニに、行くだけですから」
+display
+com11 0 0
+sound 13
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「すぐに戻ってきますから、少しだけ
+line2 <shift> # 待っててくださいね。プロデューサーさん」
+com09 0 23
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺が買ってきますよ」
+display
+com11 0 0
+sound 14
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「えっ、そんな〜……。プロデューサーさんに
+line2 <shift> # わざわざ行ってもらうなんて、申し訳なくて」
+display
+com11 0 0
+sound 15
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「私、すぐに行って、帰ってきますから〜。
+line2 <shift> # ちょっとだけ、待っててください」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あっ、あずささん！　あ〜あ……。
+line2 <shift> # 行っちゃったよ……」
+com09 0 23
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ガマンして下さい」
+display
+com11 0 0
+sound 16
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「えっ、そんな〜……。私、ささっと行って、
+line2 <shift> # 帰ってきますから、お願いします〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それなら、俺が行ってきますよ」
+display
+com11 0 0
+sound 17
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「プロデューサーさんのお手をわずらわせる
+line2 <shift> # までもありませんから、待っててください〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あっ、あずささん！　あ〜あ……。
+line2 <shift> # 行っちゃったよ……」
+com09 0 23
+display
+location 23
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （それから５分……、１０分……。
+line2 <shift> # あずささんは、待てど暮らせど帰ってこない）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （マズい……。これは、あれだな。
+line2 <shift> # あずささん、迷子になってるに違いない！）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （携帯に、電話してみよう……）
+display <shift> # トゥルルルル……
+display
+com11 0 0
+sound 18
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はい。もしもし〜、三浦ですけど……。
+line2 <shift> # あっ、プロデューサーさんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あずささんっ！　今、どこにいるんです？
+line2 <shift> # 帰りが遅いから、心配してるんですよ」
+display
+com11 0 0
+sound 19
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ああ、ちょうどよかったです〜！　私もそれを、
+line2 <shift> # プロデューサーさんに、ききたくて」
+display
+com11 0 0
+sound 20
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あの〜。ここは、どこなんでしょう？
+line2 <shift> # プロデューサーさん、わかりますか〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わかるわけないでしょう！！
+line2 <shift> # やっぱり、迷子になってるんですね！？」
+display
+com11 0 0
+sound 21
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「えっと、確か……コンビニを出て、右に……
+line2 <shift> # いえ、左だったかしら〜？」
+display
+com11 0 0
+sound 22
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「このへんに、ＴＶ局があったはずなのに、
+line2 <shift> # 消えてしまいました〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もういいです……。俺が今から探しに
+line2 <shift> # 行きますから、そこを動かないでください！」
+display
+com11 0 0
+sound 23
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はい、わかりました……。
+line2 <shift> # お手数をおかけして、すみません〜……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （仕事開始まで、あまり時間がない。
+line2 <shift> # コンビニからたどって、どっちを探そう？）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （あずささんを見つけられるかどうかは完全に
+line2 <shift> # 運だが……なんとか見つけないと、大変だぞ！）
+com03 0 2
+choice1 <shift> # 右の道を探そう！
+line2
+com09 0 30
+com08
+choice2 <shift> # 左の道を探そう！
+line2
+com09 0 31
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「右の道を探そう！」
+com37 0 1
+com1e 0 0
+com09 0 33
+com3b
+com37 0 0
+com1e 0 0
+com09 0 34
+com3b
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「左の道を探そう！」
+com37 0 1
+com1e 0 0
+com09 0 33
+com3b
+com37 0 0
+com1e 0 0
+com09 0 34
+com3b
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……って、わかるわけないじゃないか！
+line2 <shift> # こうなったら、適当に探すしかないな！」
+com09 0 34
+display
+location 33
+com22 0 30
+com21 0 30
+com32 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あっ、いた……！　あずささ〜ん！
+line2 <shift> # やっと見つけた。こんなところにいたんですか」
+display
+com11 0 0
+sound 24
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ああ、プロデューサーさん……！
+line2 <shift> # よかった〜、助けに来てくださったんですね」
+display
+com11 0 0
+sound 25
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ちゃんと、赤い車を目印にして、
+line2 <shift> # 迷子にならないように、気をつけていたのに」
+display
+com11 0 0
+sound 26
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「コンビニを出たら、車が走り出して
+line2 <shift> # しまったんです〜。すっかり困ってしまって」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、見つかったから、よかったですよ。
+line2 <shift> # 次からは、気をつけてください」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「さ。急いで、ＴＶ局に戻りましょう。
+line2 <shift> # 本番まで、あまり時間がありませんから」
+display
+com11 0 0
+sound 27
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はい。本当に、すみませんでした〜……」
+display
+com11 0 0
+sound 28
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「だけど、さすがプロデューサーさんですね。
+line2 <shift> # あっという間に、私を見つけてくれて」
+display
+com11 0 0
+sound 29
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「いつもいつも、私のフォローをして下さって、
+line2 <shift> # 本当に、ありがとうございます〜」
+display
+com11 0 0
+sound 30
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「プロデューサーさんに恩返しできるように、
+line2 <shift> # 今日もお仕事、がんばりますね！　ふふっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その日のあずささんは、
+line2 <shift> # 期待以上の仕事をしてくれた）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （迷子になるのは困るけど、
+line2 <shift> # これはこれで、よかったな）
+com4b 0 0
+com09 0 69
+display
+location 34
+com22 0 30
+com21 0 30
+com32 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あずささ〜ん……。だめだ、見つからない。
+line2 <shift> # このままじゃ、仕事は遅刻だな……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「仕方ない……。一旦ＴＶ局に戻って、
+line2 <shift> # ディレクターに謝ってこよう」
+display
+com22 0 30
+com21 0 30
+com32 0 0
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ふう〜、ディレクターにさんざん叱られた。
+line2 <shift> # そりゃ、そうだよな……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もう、仕事はもらえないかもな……。さて、
+line2 <shift> # もう一度、あずささんを探しに行こう」
+display
+com11 0 0
+sound 31
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ああっ、プロデューサーさ〜ん……！
+line2 <shift> # よかった〜。やっと、たどり着きました……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あずささんっ！」
+display
+com11 0 0
+sound 32
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「プロデューサーさんが来ないので、
+line2 <shift> # うろうろしていたら、たどり着いたんです」
+display
+com11 0 0
+sound 33
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「野生のカン……って言うのかしら〜？
+line2 <shift> # 人間って、実はすごいんですね〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうですね。すごいですよね〜……とか、
+line2 <shift> # 感心してる場合じゃありませんよ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「せっかくのＴＶなのに、完全に遅刻ですから。
+line2 <shift> # 今回の件は、他の人に頼むそうです」
+display
+com11 0 0
+sound 34
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「まあ……。す、すみません……。
+line2 <shift> # 私が、方向音痴なばっかりに〜」
+display
+com11 0 0
+sound 35
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「せっかく買ったのどあめも、無駄になって
+line2 <shift> # しまいました……。本当に、ごめんなさい」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （あずささんはすっかり落ち込んでしまった。
+line2 <shift> # 助けてやれなかった俺も、悪かったな……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ＴＶ出演のチャンスだったのに、
+line2 <shift> # もったいないことをしてしまった……）
+com4b 0 2
+com09 0 69
+display
+location 69
+unk02

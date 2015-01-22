@@ -1,0 +1,265 @@
+com2c 0 25
+com2d 0 41
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それじゃ、雑談感覚で、かるくミーティング、
+line2 <shift> # しておこうか」
+display
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あの……、いいんでしょうか？　そんな、
+line2 <shift> # 意味のないことに、時間を費やしてしまって」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「おしゃべりしている時間があるなら、もっと
+line2 <shift> # レッスンした方がいいと思うんですけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おいおい、そう急ぐなよ」
+com03 0 3
+choice1 <shift> # 熱心なのは、認めるけどさ　
+line2
+com09 0 10
+com08
+choice2 <shift> # せっかちだなあ　
+line2
+com09 0 11
+com08
+choice3 <shift> # 話、したくないのか？　
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「熱心なのは、認めるけどさ」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……すみません。早く、一流の歌い手に、って
+line2 <shift> # 思うと、じっとしていられなくて……」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「せっかちだなあ」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「別に、せっかちなわけじゃ、ありません。ただ
+line2 <shift> # ムダなことに時間を使うのが、許せないんです」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「話、したくないのか？」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そういうわけでは……。ただ、なんか
+line2 <shift> # サボッているようで、気がひけて……」
+com09 0 19
+display
+location 19
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「気持ちはわかるけど、あせりすぎずにいこう。
+line2 <shift> # 話し合いだって、仕事のうちだよ」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「まあ……、それは、そうですね。わかりました。
+line2 <shift> # それでは、質問などあれば、遠慮せずにどうぞ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ＯＫ。えーと、まず、千早は今……」
+com03 0 3
+choice1 <shift> # 高校生？　
+com09 0 20
+com08
+choice2 <shift> # 中学生？　
+com09 0 21
+com08
+choice3 <shift> # 大学生？　
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「高校生？」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。この間、１年生になったばかりです。
+line2 <shift> # 趣味は、歌を歌うこと。……それのみです」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「中学生？」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……いえ、この間、高校１年生になりました」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか。くっ、ハズレか……」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「年齢は、１５です。趣味は、歌を歌うこと。
+line2 <shift> # ……歌以外には、まったく関心はありません」
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「大学生？」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……いえ、高校１年です。
+line2 <shift> # 私、そんなにオトナに見えますか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「や、やけに、落ち着いてるから、てっきり……。
+line2 <shift> # そうか、高校生か」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。趣味は、歌を歌うことです。
+line2 <shift> # ……歌以外には、まったく関心はありません」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「歌がすべて、か。ストイックだな……。
+line2 <shift> # それじゃあ、かなり、うまいのか？」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「これまで、私の歌をきいた人は、みな、
+line2 <shift> # ほめてくれました。でも……」
+display
+com11 0 0
+sound 10012
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「私は、もっとレベルの高い歌が歌いたいんです。
+line2 <shift> # きいた誰もが、言葉を失うような歌を……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ずいぶん高い目標を、かかげてるんだな。
+line2 <shift> # よーし、じゃあ、その夢に向かって……」
+com03 0 3
+choice1 <shift> # きびしく、しごいてやろう！　
+line2
+com09 0 30
+com08
+choice2 <shift> # 日々、努力しろよ？　
+line2
+com09 0 31
+com08
+choice3 <shift> # いっしょに、がんばろう　
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「きびしく、しごいてやろう！」
+display
+com11 0 0
+sound 10013
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい、望むところです！
+line2 <shift> # 甘えは……、なにひとつ、生みはしませんから」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「どうやら私、才能あるプロデューサーに
+line2 <shift> # 出会えたようですね。……よかった」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （シビアに接したら、好感を持ってくれた
+line2 <shift> # ようだ！　ミーティング、大成功だな）
+com09 0 39
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「日々、努力しろよ？」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そんなの、当たり前です。人に指図されなけ
+line2 <shift> # れば、努力できない人は、一流にはなれません」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「う、まあ……、そうだよな。ごめん。
+line2 <shift> # 意味のないこと、言ったかも」
+display
+com11 0 0
+sound 10016
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「まあ、いいですけれど……。でも、以後、
+line2 <shift> # アドバイスは有用なものを、お願いしたいです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うーん、アッサリと切り返されてしまった。
+line2 <shift> # 接し方、どうやら、まちがえたようだ）
+com09 0 38
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いっしょに、がんばろう」
+display
+com11 0 0
+sound 10017
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「がんばるのは、私だけです。プロデューサー
+line2 <shift> # には、客観的な管理をお願いしたいです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「う……。そ、そうか。でも、なんか、
+line2 <shift> # そういう冷たい関係って、イヤじゃないか？」
+display
+com11 0 0
+sound 10018
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「冷たい、あたたかいの問題ではありません！
+line2 <shift> # ……はあ、信用して、本当にいいんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （疑念を持たれてしまった……。フレンドリーな
+line2 <shift> # 接し方をしたけど、よくなかったみたいだな）
+com09 0 38
+display
+location 38
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……その後、千早のフキゲンそうな顔が、元に
+line2 <shift> # 戻るまで、長い時間がかかってしまった）
+com09 0 39
+display
+location 39
+unk02

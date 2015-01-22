@@ -1,0 +1,397 @@
+com2c 0 21
+com2d 0 111
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （たまには、どこかに寄り道して、
+line2 <shift> # 気分転換でも、して帰ろうかな？）
+com03 0 2
+choice1 <shift> # どこかに寄り道する
+line2
+com09 0 10
+com08
+choice2 <shift> # まっすぐ帰る
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ふぅ。気分転換に、ちょっと寄り道、と。
+line2 <shift> # 深呼吸でもするかな！　すぅー、はぁー……）
+display <shift> # がさっ！　がさっ！
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （むむっ！　この音は、またハムスター！？
+line2 <shift> # ……なんてことは、ないか）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （我那覇響だって、そうそうハムスターに、
+line2 <shift> # 逃げられてばかりは、いないだろうし）
+display <shift> # がさがさっ！　チチッ！　チチッ！
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うわっ！　し、シマリスだ！
+line2 <shift> # 今度は疾走するシマリスを捕まえたぞ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、なんで、こんな所に、
+line2 <shift> # シマリスがいるんだ？」
+display <shift> # がさがさっ！
+display
+com11 0 0
+sound 0
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「シマ男ー！？　どこ行った、シマ男ー！！
+line2 <shift> # 自分が悪かった！　帰って来い、シマ男ーっ！」
+display
+com11 0 0
+sound 1
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「自分が、君のクルミを勝手に食べたのは謝る！
+line2 <shift> # だから帰ってきてよーっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （シマリスも飼ってたのか……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そういえば、我那覇響に会ったら、９６１プロ
+line2 <shift> # のことをきくようにって、社長が言ってたな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よし、少し話してみるか！）
+display
+com11 0 0
+sound 2
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「ああっ！　君はハム蔵を捕まえてくれた青年！
+line2 <shift> # また会ったねー。はいさい！」
+com03 0 3
+choice1 <shift> # はくさい！
+com09 0 20
+com08
+choice2 <shift> # やあ！
+com09 0 21
+com08
+choice3 <shift> # ……え？
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （いや、やっぱり、まっすぐ帰るとするか！）
+com09 0 99
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「はくさい！」
+display
+com11 0 0
+sound 3
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「あっははは！　それは野菜だよー！　自分が
+line2 <shift> # 言ったのは『はいさい』。沖縄のあいさつだぞ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ？　ああ、ごめん。間違えたよ」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やあ！」
+display
+com11 0 0
+sound 4
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「おっ、よく知ってるなー、沖縄の言葉！　そう。
+line2 <shift> # 『はいさい！』は『やあ！』って意味だよ！」
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……え？」
+display
+com11 0 0
+sound 5
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「うっわー。ノリ、悪っ！　せっかく沖縄の言葉
+line2 <shift> # であいさつしたのに、それはないでしょー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、そうだったのか。意味がわからなくて……。
+line2 <shift> # ごめんな！」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「君は、沖縄出身なのかい？」
+display
+com11 0 0
+sound 6
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「うん、沖縄から出てきてシマリス探してんだ！
+line2 <shift> # あ、いや。そのために出て来たんじゃないけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。そのシマリスなら、さっき俺が、
+line2 <shift> # 捕まえておいたよ。コイツだろ？」
+display <shift> # チチッ！　チチッ！
+display
+com11 0 0
+sound 7
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「あっ、シマ男！　うわー、ありがとう！
+line2 <shift> # ４時間半探したかいが、あったなーっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そんなに探してたのか？
+line2 <shift> # 君は動物が好きなんだね」
+display
+com11 0 0
+sound 8
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「あははっ。よく、うっかり逃がしちゃうん
+line2 <shift> # だけどね。でも必ず、見つかるまで探すぞ！」
+display
+com11 0 0
+sound 9
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「とにかく、捕まえてくれてサンキュ！　自分、
+line2 <shift> # 響って名前なんだ。良かったら響って呼んで！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、わかったよ。でも、響って、ＴＶでは、
+line2 <shift> # クールそうに見えたんだけど、実物は結構……」
+com03 0 3
+choice1 <shift> # バカなんだな！
+line2
+com09 0 30
+com08
+choice2 <shift> # 変なんだな……
+line2
+com09 0 31
+com08
+choice3 <shift> # 毛深いんだな
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「バカなんだな！　あ、いい意味で、だぞ」
+display
+com11 0 0
+sound 10
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「むかっ！　こんなカンペキな自分つかまえて、
+line2 <shift> # バカとは何だよ、バカとはっ！」
+display
+com11 0 0
+sound 11
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「……でも、なぜかよく言われるんだけどね。な
+line2 <shift> # んでだろ？　ま、いっか。なんくるないさー！」
+com09 0 39
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「変なんだな……」
+display
+com11 0 0
+sound 12
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「うぎゃー！　そんな冷静に言われると、
+line2 <shift> # かえってヘコむーっ！」
+display
+com11 0 0
+sound 13
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「だけど、自分、アイドルとしてはカンペキ
+line2 <shift> # だからね。なんくるないさー！」
+com09 0 39
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「毛深いんだな」
+display
+com11 0 0
+sound 14
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「う、うそっ！？　自分、毛深い！？
+line2 <shift> # もしかして、シマ男より毛深いかなっ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「シマリスと比べるのか！？　そりゃ、リスの
+line2 <shift> # 毛皮と比べたら、全く毛深くないと思うけど」
+display
+com11 0 0
+sound 15
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「なーんだ。じゃあ大丈夫さー。自分、カンペキ
+line2 <shift> # だもん。少しくらいのことはなんくるないさー」
+com09 0 39
+display
+location 39
+com11 0 0
+sound 16
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「あ、そういえば、自分がアイドルやってること、
+line2 <shift> # 知ってたんだ？　ＴＶ、観てくれたの！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。まあね」
+display
+com11 0 0
+sound 17
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「そっか！　照れるなぁ。あっははは……。
+line2 <shift> # 自分、トップアイドル目指してるんだ！」
+display
+com11 0 0
+sound 18
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「１年後には、ＩＵで優勝してみせるぞ。
+line2 <shift> # そのために今、がんばってんだもん！」
+display
+com11 0 0
+sound 19
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「……あ、いっけね。
+line2 <shift> # 自分、ペラペラしゃべりすぎたかも！」
+display
+com11 0 0
+sound 20
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「９６１プロ以外の人とは話すなって、黒井
+line2 <shift> # 社長に言われてんのにー！　やっちゃった！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「へえ。９６１プロは、そういう方針なのか。
+line2 <shift> # 変わってるな」
+display
+com11 0 0
+sound 21
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「あれ、９６１プロのことも知ってんの？　あ、
+line2 <shift> # この近くにビル建ったもんね！　９６１ビル！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「９６１ビル？　そんなの建ったのか？」
+display
+com11 0 0
+sound 22
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「知らない？　ほら、金と赤のシマシマで、ピン
+line2 <shift> # クのネオンがついてる、超豪華なビルさー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「金と赤とピンクのビル……。
+line2 <shift> # それは豪華っていうか、ド派手だな！」
+display
+com11 0 0
+sound 23
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「うん、自分もそう思う。黒井社長って、
+line2 <shift> # お金持ちだけど、ちょっと趣味悪いんだよね！」
+display
+com11 0 0
+sound 24
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「そんなことより、自分のことは、結構話した
+line2 <shift> # から、今度は、そっちの話をきかせてよ！」
+display
+com11 0 0
+sound 25
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「話すのはダメって、黒井社長に言われてるけど、
+line2 <shift> # きくのは、別にいいような気がするし！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そういう問題なのか？　ま、別にいいけど。
+line2 <shift> # えーと、実は俺も……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「響と同じ業界で仕事してるんだ。７６５プロっ
+line2 <shift> # ていう事務所でプロデューサーをしてるんだよ」
+display
+com11 0 0
+sound 26
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「……え。７６５プロ？
+line2 <shift> # あの有名な、７６５プロ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「有名なのか？　それは知らなかったなあ。
+line2 <shift> # 小さい事務所だから、知られてないかと思った」
+display
+com11 0 0
+sound 27
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「ううん、すごく有名だぞ。だって自分は、黒井
+line2 <shift> # 社長からいつもきいてる。７６５プロは……」
+display
+com11 0 0
+sound 28
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「ものっすごい変態事務所で、
+line2 <shift> # ９６１プロの……、ううん、社会の敵だって！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えええっ！　変態事務所！？
+line2 <shift> # それは、とんでもない誤解だ！」
+display
+com11 0 0
+sound 29
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「でも、黒井社長は、そう言ってたさー！
+line2 <shift> # ７６５プロは、実力もお金もないくせに……」
+display
+com11 0 0
+sound 30
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「プロデューサーの立場を利用して、所属アイ
+line2 <shift> # ドルに、セクハラまがいのことをしてるって！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「むう。それは一部真実が含まれているかもしれ
+line2 <shift> # ないが、セクハラってところは、断じて違う！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「黒井社長が、なんでそんな風に思い込んでるの
+line2 <shift> # か知らないけど、絶対に違うぞ。信じてくれ！」
+display
+com11 0 0
+sound 31
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「でも、黒井社長は、朝晩必ず７６５プロの悪口
+line2 <shift> # を言うんだぞ！　だから本当だと思うっ！」
+display
+com11 0 0
+sound 32
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「ていうか、７６５プロなんかと話すことはもう
+line2 <shift> # ないから。じゃ、帰りまーっす。バイバイっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あっ！　待ってくれよ。俺の話を、
+line2 <shift> # きいてくれっ！　……ああ。行ってしまったか」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （９６１プロのこと、あんまりきけなかったな。
+line2 <shift> # ……って、それより、誤解を解かないと！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （また、響に再会できるといいな。その時こそは、
+line2 <shift> # 誤解を解いて、変態の汚名を返上するぞ）
+com09 0 99
+display
+location 99
+unk02

@@ -1,0 +1,506 @@
+com2c 0 25
+com2c 0 107
+com2d 0 81
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （もっと真の魅力を効果的にアピールする方法を
+line2 <shift> # 考えろと、社長からお達しがきている）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今日のミーティングの議題は、これだな。
+line2 <shift> # しかし、ふーむ……。真の魅力か……）
+display
+com11 0 0
+sound 0
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あれ？　なんですか、ジーッと見つめて。ボク
+line2 <shift> # の顔に、何かついてますか、プロデューサー？」
+com03 0 3
+choice1 <shift> # 米粒
+com09 0 10
+com08
+choice2 <shift> # 虫
+com09 0 11
+com08
+choice3 <shift> # 目と鼻と口
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「米粒」
+display
+com11 0 0
+sound 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「うわっ、ホントですか？　……って、ボク、
+line2 <shift> # 今日はパンだったから、ついてるはずないです」
+display
+com11 0 0
+sound 2
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あはは、からかわないでくださいよ、
+line2 <shift> # プロデューサー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うーん、本当に明るいな。
+line2 <shift> # このキャラを最大限に生かす方法は……）
+display
+com11 0 0
+sound 3
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ん？　急に黙りこくってどうしたんです？
+line2 <shift> # おーい、プロデューサー！」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「虫」
+display
+com11 0 0
+sound 4
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「虫っ！？　うわっ、取って下さいよ〜！」
+display
+com11 0 0
+sound 5
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「……って、さすがに顔に虫がついてたら、
+line2 <shift> # ボクだって気づきますよ？」
+display
+com11 0 0
+sound 6
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「人を驚かすの、やめてもらえませんか？
+line2 <shift> # そういうの、よくないと思いますよ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うーん、怒っても実にさわやかだ。
+line2 <shift> # このキャラを最大限に生かす方法は……）
+display
+com11 0 0
+sound 7
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ん？　どうして黙ってるんです？
+line2 <shift> # おーい、プロデューサー！」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「目と鼻と口」
+display
+com11 0 0
+sound 8
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ど、どうしたんです？　そんなこと言われても
+line2 <shift> # 全く面白くないし、やめたほうがいいですよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うーん、ツッコミをいれる時すら、りりしい
+line2 <shift> # な。このキャラを最大限に生かす方法は……）
+display
+com11 0 0
+sound 9
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ん？　どうしたんです？　黙っちゃって。
+line2 <shift> # おーい、プロデューサー！」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、ゴメン。考え事をしてたもんだか
+line2 <shift> # ら……。真には色んな魅力があるなと思ってさ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いつも元気いっぱいだし。それをうまく
+line2 <shift> # 世間にアピールする方法を考えないとな」
+display
+com11 0 0
+sound 10
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「元気いっぱいかあ……。あの、かわいくて
+line2 <shift> # 乙女らしいな……とかは、感じないですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや……。どちらかというと、キリっとしてて
+line2 <shift> # カッコイイな……と感じるかなあ」
+display
+com11 0 0
+sound 11
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「うーん、そうですか……。
+line2 <shift> # でもボク、どうせアピールするなら……」
+display
+com11 0 0
+sound 12
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「もう少し女の子っぽい魅力をアピールしたい
+line2 <shift> # です。これが、なかなか難しいんですけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうなのか。
+line2 <shift> # それなら、こうしたらどうかな……？」
+com03 0 3
+choice1 <shift> # 可愛い服を着るとか
+line2
+com09 0 30
+com08
+choice2 <shift> # ヘアスタイルに気をつける、とか
+line2
+com09 0 31
+com08
+choice3 <shift> # ……無理！
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「可愛い服を着るとか」
+display
+com11 0 0
+sound 13
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あ、いいですね。
+line2 <shift> # 可愛らしい服は、ボクも大好きですよ！」
+display
+com11 0 0
+sound 14
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「でも、フリルとかリボンとか、ボクに本当に
+line2 <shift> # 似合うのか、いまひとつ自信がもてなくて」
+display
+com11 0 0
+sound 15
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「憧れはあるんですけど、ああいうものを堂々と
+line2 <shift> # 身につけるのって、すごく勇気がいりますよね」
+display
+com11 0 0
+sound 16
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「似合わなかったら、どんな大惨事になるかと
+line2 <shift> # 思うと、さすがのボクもブルっちゃいます！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そこまで大げさなものじゃないと
+line2 <shift> # 思うけどなあ……」
+com09 0 39
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ヘアスタイルに気をつける、とか」
+display
+com11 0 0
+sound 17
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ヘアスタイルですか……。でもボク、髪が短い
+line2 <shift> # から、結んだりはできないんですよ」
+display
+com11 0 0
+sound 18
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「普段からリボンをつけたり、アクセサリーを
+line2 <shift> # つけたりした方がいいのかなあ」
+display
+com11 0 0
+sound 19
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「動きにくくならない程度に……でも可愛く、
+line2 <shift> # そして、ちゃんと似合ってないと……」
+display
+com11 0 0
+sound 20
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ああ、もうっ！　悩むなあっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「い、いや、そこまで悩まなくてもいいと
+line2 <shift> # 思うけど……」
+com09 0 39
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……無理！」
+display
+com11 0 0
+sound 21
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「そんな！　簡単に諦めないでくださいよ！
+line2 <shift> # よく考えれば、色々手段はあるはずですよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうは言っても、俺にも出来ることと
+line2 <shift> # 出来ないことが……」
+display
+com11 0 0
+sound 22
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ひ、ひどいなぁ。そこまで言われると、
+line2 <shift> # さすがに傷ついちゃいますよ……」
+com09 0 39
+display
+location 39
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まあ、こういうことは机の前で話してても
+line2 <shift> # 仕方ないよな。ちょっと出かけてみるか？」
+display
+com11 0 0
+sound 23
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「んー、そのほうがいいかもしれませんね。頭の
+line2 <shift> # 中で考えるだけじゃイメージ固まりにくいし」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「繁華街まで出て、真の魅力を引き出してくれる
+line2 <shift> # アクセサリーとか服とかを、探してみよう」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いいものがあったら、次のプロモーション
+line2 <shift> # ビデオの衣装として、買ってもいいし」
+display
+com11 0 0
+sound 24
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「えっ、プロデューサーがボクに服を買ってくれ
+line2 <shift> # るんですか？　やーりぃ、どっさり買うぞー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ははは。どっさり……か。ちょっと、社長に
+line2 <shift> # 経費の相談に行ってきていいかな……？」
+display
+com11 0 0
+sound 25
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「さあ。さっそく行きますよー！
+line2 <shift> # 善は急げってやつです！　プロデューサー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ううう……。わかったよ……」
+display
+com22 0 30
+com32 0 1
+com21 0 30
+com11 0 0
+sound 26
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「うわー！　可愛い服、いっぱいありますね！
+line2 <shift> # どれかボクに似合うの、あるかな……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「似合う、似合わないは後で判断するとして、
+line2 <shift> # まずは真が好きな服を選んでみたらどうかな？」
+display
+com11 0 0
+sound 27
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「はいっ！　うーん。どれがいいかな。
+line2 <shift> # たくさんあって、迷うな〜」
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 28
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「プロデューサー、２着までは
+line2 <shift> # 絞ったんですけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「へえ。割と落ち着いた感じのを選んだんだな。
+line2 <shift> # もっと乙女チックでスゴイのを選ぶかと思った」
+display
+com11 0 0
+sound 29
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「スゴイのって……失礼だなあ！　たしかに、
+line2 <shift> # もっと可愛い服はたくさんありましたけど……」
+display
+com11 0 0
+sound 30
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「でもやっぱり、好きかどうかより、似合うか
+line2 <shift> # どうかのほうが気になっちゃって……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、その２着なら、
+line2 <shift> # どちらでも真に似合うんじゃないかな？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「可愛い……のとは少し違うかもしれないけど、
+line2 <shift> # クールで、躍動的なイメージだよな」
+display
+com11 0 0
+sound 31
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「そうですか？　でもボクは、この２着、それぞ
+line2 <shift> # れちょっとイメージが違う気がするんです」
+display
+com11 0 0
+sound 32
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「どちらを選ぶかで、着るボクのイメージも
+line2 <shift> # 大きく左右される気がしますよ」
+display
+com11 0 0
+sound 33
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「プロデューサー、どっちがいいと思いますか？
+line2 <shift> # がつんと決めちゃってもらえませんか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （こ、困った……。
+line2 <shift> # どっちもほとんど同じに見えるんだけど……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （でも、ここはぜひとも正しい判断を下さない
+line2 <shift> # と、真からの信頼を失うことになりそうだ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （こうなったら……カンで！）
+com03 0 2
+choice1 <shift> # 右の服
+com09 0 40
+com08
+choice2 <shift> # 左の服
+com09 0 41
+com08
+com07
+com09 0 42
+com08
+display
+location 40
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「右の服……かな」
+com37 0 1
+com1e 0 0
+com09 0 48
+com3b
+com37 0 0
+com1e 0 0
+com09 0 49
+com3b
+display
+location 41
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「左の服……かな」
+com37 0 1
+com1e 0 0
+com09 0 48
+com3b
+com37 0 0
+com1e 0 0
+com09 0 49
+com3b
+display
+location 42
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よくわかんないけど、こっちの服……かな」
+com09 0 49
+display
+location 48
+com11 0 0
+sound 34
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あっ、ボクと同じ意見！　よかった〜！
+line2 <shift> # こっちの服のほうが、ボクっぽいですよね」
+display
+com11 0 0
+sound 35
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「カッコ可愛い感じだし！　やっぱりプロデュー
+line2 <shift> # サーにはわかるんだなあ。ホッとしました！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、当たり前じゃないか。
+line2 <shift> # 真のプロデューサーとして当然だ」
+display
+com11 0 0
+sound 36
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「へへ。ボクらしくて、しかも可愛い服。
+line2 <shift> # これは、なかなかいい買い物ですよ！」
+display
+com11 0 0
+sound 37
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あ〜、プロモーションビデオの撮影が
+line2 <shift> # 楽しみだなあ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後、撮影したプロモーションビデオは、
+line2 <shift> # 素晴らしい出来上がりで、評判になった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （クールでカッコイイながらも、
+line2 <shift> # ほんのり可愛らしさが漂う真の姿に……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ファンは新たな魅力を発見してくれたようだ。
+line2 <shift> # 真の魅力、効果的にアピールできたな）
+com4b 0 0
+com09 0 59
+display
+location 49
+com11 0 0
+sound 38
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ええっ！？　まさかこっちを選ぶとは
+line2 <shift> # 思いませんでした！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ、そうなのか！？」
+display
+com11 0 0
+sound 39
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「んー。こっちの服は、確かに可愛いんだけど、
+line2 <shift> # ボクが着るにはちょっと……と思ったりして」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だったら俺に聞かずに、もう一方の服に
+line2 <shift> # 決めればいいじゃないか」
+display
+com11 0 0
+sound 40
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「それはそうなんですけど……。
+line2 <shift> # プロデューサーに決めてほしかったんですよ」
+display
+com11 0 0
+sound 41
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「似合う似合わないを考えなければ、この服の
+line2 <shift> # デザインは、かなり可愛くて好きだし……」
+display
+com11 0 0
+sound 42
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ああっ、もう！　何がなんだか、よくわからな
+line2 <shift> # くなってきちゃいましたよー！」
+display
+com11 0 0
+sound 43
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「もう一回、考え直していいですか？
+line2 <shift> # もう少し待ってもらうことになりますけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、ああ。構わないけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （真の服選びはふりだしに戻り、結局その日は
+line2 <shift> # １枚も服を買うことはできなかった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （この調子じゃ、プロモーションビデオの撮影も
+line2 <shift> # 真の魅力の効果的なアピールも難しそうだ……）
+com4b 0 2
+com09 0 59
+display
+location 59
+unk02

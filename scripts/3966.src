@@ -1,0 +1,456 @@
+com2c 0 25
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （トップアイドルの座をキープするためには、
+line2 <shift> # 新しい魅力の開発が、不可欠だ！！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ということで、ファンに呼びかけて、
+line2 <shift> # 春香のイメチェン案を、募集することにした）
+display
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「すごいです、プロデューサーさん！
+line2 <shift> # 応募のメールが、たくさん来てますよっ！！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、春香の人気の高さが伺えるな。
+line2 <shift> # みんな、新しい春香に、期待してるんだろう」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい。ファンの期待を裏切らないように、
+line2 <shift> # 私も、がんばります！」
+com03 0 3
+choice1 <shift> # うん、その意気だ！
+line2
+com09 0 10
+com08
+choice2 <shift> # よし、頑張れよ！
+line2
+com09 0 11
+com08
+choice3 <shift> # いや、裏切っていこう
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うん、その意気だ！　前向きな時の春香って、
+line2 <shift> # すごく輝いて見えるぞ！」
+display
+com11 0 0
+sound 10033
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「えへへ。そうですかぁ？　プロデューサーさん
+line2 <shift> # に、そう言ってもらえると、うれしいです！」
+display
+com11 0 0
+sound 10034
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、それで、ファンの皆からのメール、
+line2 <shift> # プロデューサーさんは、もう見たんですか？」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、頑張れよ！」
+display
+com11 0 0
+sound 10035
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい！　あ、でもできれば、プロデューサーさ
+line2 <shift> # んも一緒にがんばってくれたら、うれしいです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ん？　一人で頑張れって言ってるように、
+line2 <shift> # きこえてしまったのかな？　……ま、いいか）
+display
+com11 0 0
+sound 10036
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「それで、ファンの皆からのメール、
+line2 <shift> # プロデューサーさんは、もう見たんですか？」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、裏切っていこう」
+display
+com11 0 0
+sound 10037
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ええっ、そんな！　ファンの皆を裏切るなんて、
+line2 <shift> # できれば、あんまり考えたくありません……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ？　イメチェンだから、
+line2 <shift> # いい意味で裏切りたいと思ったんだが……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ごめん。ちょっと言い方が悪かったかな？
+line2 <shift> # 今のは、気にしないでくれ」
+display
+com11 0 0
+sound 10038
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「わかりました。あの、ファンの皆からのメール、
+line2 <shift> # プロデューサーさんは、もう見たんですか？」
+com09 0 19
+display
+location 19
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。さっき統計を取ってみたら、１位は、
+line2 <shift> # 『黒』ってキーワードのようだ」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「黒……、ですか？」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「それって、どういうイメージなんでしょう。
+line2 <shift> # プロデューサーさん、教えて下さい」
+com03 0 3
+choice1 <shift> # 意外性ってことかな
+line2
+com09 0 20
+com08
+choice2 <shift> # 日焼けってことかな
+line2
+com09 0 21
+com08
+choice3 <shift> # 腹黒いってことかな
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「意外性ってことかな」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「意外性……、ですか。う〜ん。難しいですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ほら、アイドルって華やかなイメージだろ。
+line2 <shift> # 黒ってのは、ダークな色じゃないか」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「これからは、意外性のある春香も見てみたい。
+line2 <shift> # そういうファンの願いなんだろう」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「なるほど。それが、黒ってキーワードに、
+line2 <shift> # 象徴されているんですね……！」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「日焼けってことかな。
+line2 <shift> # ファンは日焼けした春香を見たいんだよ！」
+display
+com11 0 0
+sound 10031
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「日焼けですか！　健康的な小麦色の肌には、
+line2 <shift> # 私もあこがれちゃいます。いいですね、それ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ！　それで、ウルトラセクシーな水着を
+line2 <shift> # 着て、写真集を出せば、もっと人気が出るぞ！」
+display
+com11 0 0
+sound 10032
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ウルトラセクシー！？
+line2 <shift> # そ、それは、ちょっと……」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あの……、プロデューサーさん。
+line2 <shift> # もっと、違うイメチェンじゃ、ダメですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うん？　春香が急に元気を無くしてしまったぞ。
+line2 <shift> # 別のアイディアを考えたほうが良さそうだ）
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「腹黒いってことかな」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ええっ……！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「これからはそういう春香も、どんどん見せて
+line2 <shift> # いこう！　ファンが期待してるんだから！」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そ、そんな……。イメージチェンジって
+line2 <shift> # いっても、マイナス方向にいっちゃいますよぅ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しまった、春香がへこんでしまった。
+line2 <shift> # ちょっと悪ふざけがすぎたかも）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「す、すまない、春香……。
+line2 <shift> # もっと違うイメチェンを考えてみようか」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「うう、そうですね。よろしくお願いします」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まあ、要するに、黒がイメージということは、
+line2 <shift> # ミルクチョコじゃなくて、ビターチョコ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そういう、ちょっぴり大人っぽい春香も、
+line2 <shift> # 見てみたいってことだろう」
+display
+com11 0 0
+sound 10012
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、そのたとえ、すごくわかりやすいです。
+line2 <shift> # なるほど……。ビターな私、ですね！」
+display
+com11 0 0
+sound 10013
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「でも、ビターって、どうすればいいんですか？
+line2 <shift> # チョコの味なら、わかるんですけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「具体的に、イメチェンの練習をしてみよう。
+line2 <shift> # こんな感じで、あいさつしてみて」
+com03 0 3
+choice1 <shift> # セクシーなイメージで
+line2
+com09 0 30
+com08
+choice2 <shift> # 怖い女王様キャラで
+line2
+com09 0 31
+com08
+choice3 <shift> # お笑い芸人っぽく
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「セクシーなイメージで」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「せ、セクシーなイメージ、ですか……？
+line2 <shift> # わかりました、やってみます！」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「こ、こんばんは。天海春香です……。
+line2 <shift> # あ、うう……、大人っぽくって、難しい……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、さっきのは、そんなに悪くなかったぞ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「口数も少なめにして。
+line2 <shift> # セクシーに微笑んでみるんだ！」
+display
+com11 0 0
+sound 10016
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「フフッ……、こうですか……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うん。まだまだ本格的ではないけど、
+line2 <shift> # ちょっとイメージが、つかめた気がするぞ！」
+display
+com11 0 0
+sound 10017
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい、私も……、なんだか別人になったみたい。
+line2 <shift> # 少し変えただけで、新鮮な気持ちになります」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いいぞ。あとは、衣装やメイクなんかも、
+line2 <shift> # どんどん新しいイメージで作っていこう」
+display
+com11 0 0
+sound 10018
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい！　ビターな私……、
+line2 <shift> # なんだか自分でも楽しみです……！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今日は春香の可能性の、一端を見た気がする。
+line2 <shift> # まだまだ俺の知らない春香が、いるもんだな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よしっ！　今度のファンクラブのイベントは、
+line2 <shift> # 新しい春香をお披露目だ！　実に楽しみだな！）
+com09 0 99
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「怖い女王様キャラで」
+display
+com11 0 0
+sound 10019
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「怖い女王様、ですか……？　う〜ん……、
+line2 <shift> # よくわかりませんけど、やってみます！」
+display
+com11 0 0
+sound 10020
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「……ひ、ひざまずいて、
+line2 <shift> # 私の靴をふきなさい！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「春香……。何なんだ、今のは？」
+display
+com11 0 0
+sound 10021
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「だ、だって、怖い女王様って、
+line2 <shift> # こんな感じじゃないんですか……？」
+display
+com11 0 0
+sound 10022
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あの、いろいろ命令するんですよね？
+line2 <shift> # ……もしかして、間違ってますか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「う〜ん……、面白いから、まあいいか。
+line2 <shift> # このままやってみよう。続けて！」
+display
+com11 0 0
+sound 10023
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「わ、わたくしに逆らうと、許さなくってよ。
+line2 <shift> # オーッホッホッホッ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いいぞ、春香！　その調子だ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……とは言ったものの、春香のイメチェンは、
+line2 <shift> # かなり怪しげなものとなった。しかし……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （一部ファンには、ウケたようだ。
+line2 <shift> # ファンサービスとしては、良かったのかな）
+com09 0 99
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お笑い芸人っぽく」
+display
+com11 0 0
+sound 10024
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「お笑い芸人ですか！　私、お笑いとか、
+line2 <shift> # 好きですから、いいかもしれませんね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、それじゃあ試しに、それでいこうか。
+line2 <shift> # 用意、スタート！」
+display
+com11 0 0
+sound 10025
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ハイハイハ〜イ、どうも〜、春香でーす！
+line2 <shift> # 毎度、おおきに〜〜♪」
+display
+com11 0 0
+sound 10026
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、お客さんお若いですねえ。
+line2 <shift> # もう、おしめは、とれましたか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ぷ、くくっ……。
+line2 <shift> # 春香、なかなかやるじゃないか！」
+display
+com11 0 0
+sound 10027
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「うう、でも、プロデューサーさん……。
+line2 <shift> # これのどこが、ビターな私なんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「確かに。でも、これじゃ、
+line2 <shift> # ビターやなくて、ベタやがな！　って感じだな」
+display
+com11 0 0
+sound 10028
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「…………！！　ふふっ！」
+display
+com11 0 0
+sound 10029
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、ははっ……、あははは！　くすくすっ！
+line2 <shift> # プロデューサーさん、面白いです！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか？　よし。このネタは、
+line2 <shift> # きっとファンにも、大受けするに違いない！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「早速、練習だ！　忙しくなるぞ！」
+display
+com11 0 0
+sound 10030
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はいっ！　日本一のお笑い、目指しましょう！
+line2 <shift> # 私、がんばります！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （それから春香は、渾身のネタを仕上げて、事務
+line2 <shift> # 所のアイドル達の前で、お披露目をしたのだが）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ものの見事にスベってしまい、
+line2 <shift> # イメチェンは、黒歴史と称されることとなった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （まさにビターな、ほろ苦い結末だったな……）
+com09 0 99
+display
+location 99
+unk02

@@ -1,0 +1,380 @@
+com2c 0 37
+com2d 0 22
+com32 0 0
+com11 0 5
+sound 1000
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「つ、つ、つかれた〜……。
+line2 <shift> # エアロビなんて、きら〜い……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「つらそうだな。大丈夫か？」
+display
+com11 0 5
+sound 1001
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「大丈夫じゃないわよっ。
+line2 <shift> # もう、こんなのイーヤーっ！！」
+display
+com11 0 5
+sound 1002
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……５分ぐらいは運動したし、
+line2 <shift> # そろそろ切り上げて、いいわよねっ？」
+com03 0 3
+choice1 <shift> # あと３０分、がんばろう
+line2
+com09 0 10
+com08
+choice2 <shift> # あと３分、がんばろう
+line2
+com09 0 11
+com08
+choice3 <shift> # あと３時間、がんばろう
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あと３０分、がんばろう」
+display
+com11 0 5
+sound 1003
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「さ、３０分……。わかった、耐えるわよ」
+display
+com11 0 5
+sound 1004
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「テキトーに、ダラダラやれば、それぐらい、
+line2 <shift> # すぐ過ぎるもーん♪　ふふんっ」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あと３分、がんばろう」
+display
+com11 0 5
+sound 1005
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「それっぽちなら、もうやらなくたって、
+line2 <shift> # 同じよね？　はあーあ、ヤ〜メタ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「投げ出しちゃ、ダメだって……」
+display
+com11 0 5
+sound 1006
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「投げ出してなんて、ないもーん。ただ、
+line2 <shift> # 意味のないことは、したくないだけっ。フンっ」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あと３時間、がんばろう」
+display
+com11 0 5
+sound 1007
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「えーっ！　そんなにがんばれるワケ、
+line2 <shift> # ないでしょ〜！？」
+display
+com11 0 5
+sound 1008
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あんた、私を干上がらせる気〜？
+line2 <shift> # 腕だって、丸太みたいに太くなっちゃうわっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんな大げさな……」
+display
+com11 0 5
+sound 1009
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……やらないっ！　３時間なんて、
+line2 <shift> # ぜーったい、やらないんだからーっ！」
+com09 0 19
+display
+location 19
+com11 0 5
+sound 1010
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「でも、どうしてこの私が、プールもないような
+line2 <shift> # ジムで、運動しなきゃいけないワケ？」
+display
+com11 0 5
+sound 1011
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「プールサイドで、寝そべってるのが、
+line2 <shift> # 一番好きなのに〜。はあーあ……」
+com03 0 2
+choice1 <shift> # ごめん、予算が……
+line2
+com09 0 20
+com08
+choice2 <shift> # 近くに川ならあるけど？
+line2
+com09 0 21
+com08
+com07
+com09 0 21
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ごめん、予算が……」
+display
+com11 0 5
+sound 1012
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「フンっ。だと思ったわよ。
+line2 <shift> # これだから、弱小事務所は、いやよねー」
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「近くに川ならあるけど？」
+display
+com11 0 5
+sound 1013
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「く、くくっ……。私に、そんなところで、
+line2 <shift> # 横になれっていうのっ？」
+display
+com11 0 5
+sound 1014
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あんまりだわ……。帰り道、あんたを、
+line2 <shift> # その川に、突き落としてやろうかしら」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ん……、伊織、額の汗……」
+display
+com11 0 5
+sound 1015
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なによ……。インストラクターに、
+line2 <shift> # 拷問されてたんだから、汗ぐらいかくわ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ちょっと、動くなよ」
+com0e 0 103
+com44
+com09 0 30
+com45
+com44
+com09 0 31
+com45
+com44
+com09 0 32
+com45
+com44
+com09 0 33
+com45
+com44
+com09 0 34
+com45
+com44
+com09 0 35
+com45
+com44
+com09 0 36
+com45
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……よし、ＯＫ」
+display
+com11 0 5
+sound 1016
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「お、お礼なんか言わないわよ……。プロデュー
+line2 <shift> # サーが尽くすのは、当たり前なんだからっ」
+display
+com11 0 5
+sound 1017
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「私の汗がふけるなんて、ラッキーだったわね。
+line2 <shift> # ふふッ♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ラッキーかどうかはわからないけど、
+line2 <shift> # とりあえず満足そうだし、よかったな）
+com4b 0 0
+com09 0 39
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ダメだな。どうも完全には……」
+display
+com11 0 5
+sound 1018
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ふんっ、私に動くなって言っておいて、
+line2 <shift> # 結局、役に立たないわけ？」
+display
+com11 0 5
+sound 1019
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「気持ちだけで許されるー……、なんて思ったら、
+line2 <shift> # 大まちがいなんだから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （まあ、すこしはふけたから、
+line2 <shift> # 後はそのうち、乾くだろう）
+com4b 0 1
+com09 0 39
+display
+location 32
+com11 0 5
+sound 1020
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「いたっ！　な、なにすんのよ〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あああ、悪いっ」
+display
+com11 0 5
+sound 1021
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あんたには、そこが額に見えるのっ？
+line2 <shift> # そこは目よ、目っ！！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「知ってるよ」
+display
+com11 0 5
+sound 1022
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「知ってるんなら、さわったりするんじゃ
+line2 <shift> # ないわよ！　も〜、ばか〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （痛がっている……。
+line2 <shift> # 後で、目薬でも買ってきて、おわびしよう）
+com4b 0 2
+com09 0 39
+display
+location 33
+com11 0 5
+sound 1023
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ど、ど、どこさわってるのよ〜！！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、口だけど……」
+display
+com11 0 5
+sound 1024
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そんなとこ、汗かいてるワケないでしょ！
+line2 <shift> # 失礼ねっ！」
+display
+com11 0 5
+sound 1025
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そこは、とってもとっても、
+line2 <shift> # 大事なところなんだからーっ！　フンっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （むくれてしまった……。不用意に、
+line2 <shift> # くちびるなんて、さわるもんじゃないな）
+com4b 0 2
+com09 0 39
+display
+location 34
+com11 0 5
+sound 1026
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なによ……？　どさくさにまぎれて、
+line2 <shift> # 髪さわったりして……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「こっちは、そんなに、ぬれてないな」
+display
+com11 0 5
+sound 1027
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「当たり前でしょ！
+line2 <shift> # 髪は汗なんて、かかないんだから……」
+display
+com11 0 5
+sound 1028
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「美しすぎて、さわりたくなるのはわかるけど、
+line2 <shift> # 勝手なコト、しないでよねっ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （すねてしまった……。
+line2 <shift> # だけど、ほんと、キレイな髪だな）
+com4b 0 2
+com09 0 39
+display
+location 35
+com11 0 5
+sound 1029
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あんた……、額の汗って、言わなかった？
+line2 <shift> # 自分のいったこと、おぼえてる？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おぼえてるけど……」
+display
+com11 0 5
+sound 1030
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ふふん、あやしいもんだわ。ならなんで、
+line2 <shift> # 関係ないとこ、ふこうとするのよー？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、なんとなく……」
+display
+com11 0 5
+sound 1031
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ワケわかんないコト、しないでよねっ。
+line2 <shift> # 幼稚園児じゃないんだから……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （あきれられてしまった……。にしても、
+line2 <shift> # 幼稚園児とは、ひどい言われようだな）
+com4b 0 2
+com09 0 39
+display
+location 36
+com11 0 5
+sound 1032
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「な、なに、いつまでも見てんのよ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、こうしてれば、汗が乾くのを、
+line2 <shift> # 観察できるかと……」
+display
+com11 0 5
+sound 1033
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あ、あんた、ばっかじゃないの〜！？
+line2 <shift> # そのために、私に動くなって言ったわけ？」
+display
+com11 0 5
+sound 1034
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「まさか、私のことも……、ただ売れるまで、
+line2 <shift> # じっと見てる気じゃないでしょうねっ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （疑いを持たれてしまった……。悠長なこと、
+line2 <shift> # やってないで、ふいてやればよかったか）
+com4b 0 2
+com09 0 39
+display
+location 39
+unk02

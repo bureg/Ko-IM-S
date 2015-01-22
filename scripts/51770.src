@@ -1,0 +1,369 @@
+com2c 0 31
+com2d 0 93
+com2e 0 103
+com32 0 0
+com11 0 4
+sound 900
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「ＣＤのキャンペーン販売って、オマケをつけて、
+line2 <shift> # 売るんだね。なに、つけるの。アクセサリー？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「携帯用のストラップだよ。
+line2 <shift> # ほら、亜美や真美に良く似てるだろう？」
+display
+com11 0 4
+sound 901
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「うわ〜、それ、ほしい〜！　兄ちゃん兄ちゃん、
+line2 <shift> # もしあまったら、１個ずつもらってもいーい？」
+com03 0 3
+choice1 <shift> # あまらないように、売ろう
+line2
+com09 0 10
+com08
+choice2 <shift> # いいけど、わざと残すなよ？
+line2
+com09 0 11
+com08
+choice3 <shift> # ダメだよ。商品なんだから
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あまらないように、売ろう。ストラップ
+line2 <shift> # もらうより、完売する方が、うれしいだろ？」
+display
+com11 0 4
+sound 902
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「んー、そうだね！　ＣＤ売れ残っちゃったら、
+line2 <shift> # うきゅ〜って感じだし！」
+display
+com11 0 4
+sound 903
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「じゃあ、真美達には、
+line2 <shift> # 次、つくった時に、ちょーだいね！」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いいけど、わざと残すなよ？」
+display
+com11 0 4
+sound 904
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「いくら欲しいからって、そこまではしないよ〜。
+line2 <shift> # ＣＤが売れ残ったら、亜美、悲しいもん……」
+display
+com11 0 4
+sound 905
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「真美達、信用されてないんだね……。
+line2 <shift> # こんなに、いい子なのに。ううっ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あああ、悪かったよ。
+line2 <shift> # 信じるから、いっしょに、完売めざそうな」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ダメだよ。商品なんだから」
+display
+com11 0 4
+sound 906
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「え〜、兄ちゃんのケチ〜。亜美達にだって、
+line2 <shift> # しょーぞー権は、あるんだよ〜」
+display
+com11 0 4
+sound 907
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「そーだよ、そーだよ。しょーぞー権を守ろう〜。
+line2 <shift> # 恵まれない子どもは、恵まれよう〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「メチャクチャな抗議のしかた、するなって。
+line2 <shift> # わかったよ。あまったら、あげるから……」
+com09 0 29
+display
+location 29
+com11 0 4
+sound 908
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「あ、そういえば……、
+line2 <shift> # 兄ちゃんも、ケータイって持ってる？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「当たり前だろ。ないと、いろいろ不便だし」
+display
+com11 0 4
+sound 909
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「だよねー。ケータイって、いろいろ楽しいこと
+line2 <shift> # 出来るし、ひっすアイテムって、ヤツだよねー」
+display
+com11 0 4
+sound 910
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「ね！　ね！　ケータイって、どこで持つのが、
+line2 <shift> # 一番便利だと思う？　真美達と同じかなあ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「真美と同じかは、わからないが、
+line2 <shift> # 俺は……、ここが、一番だと思ってる」
+com0e 3 45
+com44
+com09 0 30
+com45
+com44
+com09 0 31
+com45
+com44
+com09 0 32
+com45
+com44
+com09 0 33
+com45
+com44
+com09 0 34
+com45
+com44
+com09 0 35
+com45
+display
+location 30
+com11 0 4
+sound 911
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「あ、やっぱり手？　そうだよね〜。メールとか、
+line2 <shift> # ドンドン来るから、放すヒマ、ないもんねっ」
+com09 0 49
+display
+location 31
+com11 0 4
+sound 912
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「首から、さげるの？　そう……。真美達は、
+line2 <shift> # いっつも、手に持ってるんだけど……」
+com09 0 91
+display
+location 32
+com11 0 4
+sound 913
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「ポケットに入れてるの？　そう……。真美達
+line2 <shift> # は、いっつも、手に持ってるんだけど……」
+com09 0 91
+display
+location 33
+com11 0 4
+sound 914
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「ベルトに、つるしておくの？　そう……。
+line2 <shift> # 真美達は、いっつも、手に持ってるんだけど」
+com09 0 91
+display
+location 91
+com11 0 4
+sound 915
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「兄ちゃんは、亜美達ほど、メール交換、
+line2 <shift> # しないんだね。それ、すこし、さびしいかも〜」
+com09 0 49
+display
+location 34
+com11 0 4
+sound 916
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「えええ。そんなとこには、普通……。
+line2 <shift> # 兄ちゃん、もしかして、超変わり者？」
+display
+com11 0 4
+sound 917
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「亜美達は、いっつも手に持ったままなんだよ。
+line2 <shift> # そうしないと、メールの返事、間に合わないし」
+com09 0 49
+display
+location 35
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……っと、考えてみたら、俺、カバンに、
+line2 <shift> # 入れてるんだった。指のさしようがないな……」
+display
+com11 0 4
+sound 918
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「え、そうなの？　真美達は、いっつも手に、
+line2 <shift> # 持ってるんだけど。ちょっと、違うみたいだね」
+com09 0 49
+display
+location 49
+com11 0 4
+sound 919
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「あ、そーだ！　メールで、ガッコの友達、
+line2 <shift> # ここに呼ぼっか？　ＣＤ買ってくれるかもっ！」
+display
+com11 0 4
+sound 920
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「あ、それ、いいっ！　兄ちゃん、そうしよっ。
+line2 <shift> # きっと、売り切れ、まちがいなしだよっ！」
+com03 0 3
+choice1 <shift> # それじゃ、ファンが増えないよ
+line2
+com09 0 50
+com08
+choice2 <shift> # それは、ずるくないか？
+line2
+com09 0 51
+com08
+choice3 <shift> # ＯＫ！じゃあ頼む！
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それじゃ、ファンが増えないよ。
+line2 <shift> # ＣＤを売るだけが、目的なら、いいけど……」
+display
+com11 0 4
+sound 921
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「ん〜、それもそっか〜。はじめから、応援して
+line2 <shift> # くれてる人に、ＣＤ売っても、しょうがないね」
+display
+com11 0 4
+sound 922
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「それに、友達が来たら、つい、おしゃべりして、
+line2 <shift> # 売り子さんどころじゃ、なくなっちゃうかも！」
+display
+com11 0 4
+sound 923
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「じゃ、呼ぶのは、なしだね！　知らない人に、
+line2 <shift> # たくさん売って、新しい友達を増やそ〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （身内に頼ってちゃ、トップにはなれないからな。
+line2 <shift> # 真美の言う通り、どんどん輪を広げていこう！）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それは、ずるくないか？　ライブとかに、
+line2 <shift> # 呼ぶんならまだしも、ＣＤを買わせるのは……」
+display
+com11 0 4
+sound 924
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「そうかなあ？　でも〜、普通に売っても、
+line2 <shift> # ぜんぶ売れるか、わからないよ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だとしても、ムリヤリ売りつけて、
+line2 <shift> # 友情にヒビが入るよりは、いいよ」
+display
+com11 0 4
+sound 925
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「そんな心配は、ないと思うけど……。亜美達の
+line2 <shift> # 友達、みんな、応援してくれてるし……」
+display
+com11 0 4
+sound 926
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「でも、兄ちゃんがそう言うなら、やめとくね。
+line2 <shift> # いい手だと、思ったんだけどなあ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （気落ちしながらも、販売開始。売り上げは……、
+line2 <shift> # まあ、可もなく不可もなくというレベルだった）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ＯＫ！　じゃあ、頼む！
+line2 <shift> # なるべく多くの人、かき集めてくれ！」
+display
+com11 0 4
+sound 927
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「わかった！　亜美、ぜんぶのリストに送ろ！
+line2 <shift> # そうすれば、１００人ぐらいは、楽勝だよね！」
+display
+com11 0 4
+sound 928
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「もっと、くるよー！　エッコと、にゃーちゃん
+line2 <shift> # には、別の学校の子にも、声かけてもらおっ！」
+display
+com22 0 30
+com21 0 30
+com11 0 4
+sound 929
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「た、楽しかったね、兄ちゃん！　みんな
+line2 <shift> # 来てくれて、恋ばなも盛り上がったし……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「で……、どうして、
+line2 <shift> # こんなにＣＤが売れ残るんだ？」
+display
+com11 0 4
+sound 930
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「真美、つい、売るの忘れちゃった……。
+line2 <shift> # だって〜、おしゃべり楽しかったんだもん……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （人は集まったけど、売り上げは、サッパリ。
+line2 <shift> # 結局、無意味なお祭騒ぎに、終わってしまった）
+com09 0 69
+display
+location 69
+unk02

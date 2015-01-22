@@ -1,0 +1,343 @@
+com2c 0 46
+com2d 0 73
+com32 0 0
+com11 0 1
+sound 300
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「いよいよやってきたこのドームスタジアム！
+line2 <shift> # あこがれの大舞台ですねっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ははは、さすがに律子もこの舞台には、
+line2 <shift> # 興奮を抑えきれないみたいだな」
+display
+com11 0 1
+sound 301
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「あはは、そりゃもちろん、
+line2 <shift> # 私だって……、っは、は、は」
+display
+com11 0 1
+sound 302
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ハクショっ！　っと、いけない。
+line2 <shift> # 風邪ひいたかも……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ええっ！？　おいおい、だ、大丈夫か？」
+display
+com11 0 1
+sound 303
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ぅハクシュっ！　ううっ、やっぱり、
+line2 <shift> # ちゃんと寝なかったのがいけなかったかなぁ」
+display
+com11 0 1
+sound 304
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「実は昨日あたり、あんまり寝つけなくてね。
+line2 <shift> # 部屋の窓も開けっ放しだったかも」
+com03 0 3
+choice1 <shift> # 不調でもめげるなよ
+line2
+com09 0 10
+com08
+choice2 <shift> # 調子悪くてもがんばれ
+line2
+com09 0 11
+com08
+choice3 <shift> # 健康管理がなってないぞ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「不調か……。でもめげるなよ。
+line2 <shift> # 泣いても笑っても、今から本番だ」
+display
+com11 0 1
+sound 305
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「わかってますって。この不調も
+line2 <shift> # 自分の責任だしね。めげてられない」
+display
+com11 0 1
+sound 306
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「せめてお客からは不調を悟られないように、
+line2 <shift> # しっかりやりますよ」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「調子悪くてもがんばれよ」
+display
+com11 0 1
+sound 332
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「が、がんばれるかなぁ……、ハクショ！
+line2 <shift> # ああ、もうっ。私も、うっかりしてたなぁ」
+display
+com11 0 1
+sound 308
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「本番前に調子崩すなんて……。でも、体調
+line2 <shift> # 悪いからといって、お客は待ってくれないし」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ここでなんとかやってみせるしかないね」
+display
+com11 0 1
+sound 309
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ええ、もちろん、言われなくてもっ！」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「健康管理がなってないぞ？　プロを名乗るなら
+line2 <shift> # 自分の身体の調子には気をつけないと」
+display
+com11 0 1
+sound 310
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「わ、わかってますよ！　私だって……、
+line2 <shift> # これでも結構反省してるんだから」
+display
+com11 0 1
+sound 311
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「まったく、本番前に調子崩すなんて、
+line2 <shift> # 情けないやらかっこ悪いやら……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「しかし舞台は待ってはくれないぞ、
+line2 <shift> # 延期はできない。やるしかない」
+display
+com11 0 1
+sound 312
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そうそう。まぁ、やるしかないのよね。
+line2 <shift> # 甘えたこと言ってられない」
+display
+com11 0 1
+sound 313
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「どんなに調子悪くても、本番では、
+line2 <shift> # きちんとお客の前でやってみせないと」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （多少、律子の体調に不安を感じつつも、
+line2 <shift> # いよいよ本番が差し迫ってきた……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だ、だいぶ調子悪そうだな律子、熱も
+line2 <shift> # あるんじゃないか？　さすがに気になるよ」
+display
+com11 0 1
+sound 314
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「んん〜、確かにちょっとだるいか……。でも、
+line2 <shift> # ステージすっぽかすわけにはいかないでしょ？」
+display
+com11 0 1
+sound 315
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「っハクショ！　あ〜、まったく、せめて
+line2 <shift> # このくしゃみだけでも、抑えられないかなぁ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「くしゃみさえ、おさえられればいいのか？」
+display
+com11 0 1
+sound 316
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「一旦ステージに立っちゃえば、他のことは案外
+line2 <shift> # 勢いと気合いで、なんとかなりそう。でも……」
+display
+com11 0 1
+sound 317
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「歌ってる最中の、不意のくしゃみってのだけは
+line2 <shift> # 止まらないかも……なんとかならないかな？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ＯＫわかった、俺がなんとかしよう」
+com03 0 3
+choice1 <shift> # ここはおまじないで
+line2
+com09 0 30
+com08
+choice2 <shift> # ここは薬で
+line2
+com09 0 31
+com08
+choice3 <shift> # それも気合いで
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ここはおまじないで……、ごにょごにょ」
+display
+com11 0 1
+sound 318
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「お、おまじない？　そんなの効くの？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まかせろ。俺の友人のおばあちゃんのいとこに
+line2 <shift> # 聞いた、すぐにくしゃみが止まるまじないだ！」
+display
+com11 0 1
+sound 319
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そ、それは……、よく効きそうねぇ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そういうことにしておいてくれ」
+display
+com11 0 1
+sound 320
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「あはははは、まぁいいや。
+line2 <shift> # そのおまじない、下さい……」
+display
+com20 0 30
+com1f 0 30
+com11 0 1
+sound 321
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「……うん、よし、なんか気が晴れたし。
+line2 <shift> # この際、多少のくしゃみは気にせずにやるかぁ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （律子は見違えるように元気になって、
+line2 <shift> # スポットの輝くステージへと躍り出ていった）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （頼むぞ、律子！）
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やはりここは薬で……、
+line2 <shift> # よく効くやつがあるんだ」
+display
+com11 0 1
+sound 322
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「薬？　眠くなったりしない？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、たぶん本番中は大丈夫だ。ただ、
+line2 <shift> # あまりによく効くから、後で反動があるかも」
+display
+com11 0 1
+sound 323
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「この際、ぶつぶつ言ってられないわ。
+line2 <shift> # 本番さえ、しのげればいいから、薬下さい」
+display
+com11 0 1
+sound 324
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「って、いきなりポケットから薬渡されても
+line2 <shift> # 困るけど……。水もないのに飲めと？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああっと、悪い悪い。スタッフに水筒の水を、
+line2 <shift> # もらおうか……。はい、このコップ使って」
+display
+com11 0 1
+sound 325
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「んぐんぐ……っと。ん、薬飲んだら、
+line2 <shift> # ちょっとすっきりしたかも？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もう効いたのか、さすがに、
+line2 <shift> # 早すぎるような気がするんだけど」
+display
+com11 0 1
+sound 326
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「気分の問題っ。大丈夫大丈夫。そのうち
+line2 <shift> # 効いてくるから。それでは、行ってきますね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （そして律子は元気よく、スポットの輝く
+line2 <shift> # ステージへと躍り出ていった。しかし……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （風邪気味ののどを薬で抑え、無理に声を出した
+line2 <shift> # から……、この不調は、引きずりそうだな）
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ええと、それも気合いでなんとかしてくれ」
+display
+com11 0 1
+sound 327
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「え〜っ！？　結局自力でやるしかないのか……。
+line2 <shift> # プロデューサー、ちょっとは助けて下さいよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なら俺が気合いを足して入れてやる。
+line2 <shift> # ばーんと……」
+display
+com11 0 1
+sound 328
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ああっと！　ばーんと背中叩いたりするのは、
+line2 <shift> # ナシ！　それはその、イタイから……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ、そーっと入れてやるか、そーっと」
+display
+com11 0 1
+sound 329
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「それじゃ、なんか気合いって感じしないなぁ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わがままなやつだな……」
+display
+com11 0 1
+sound 330
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「っハクショ！　ああっもう、
+line2 <shift> # やっぱりくしゃみ止まらないっぽい」
+display
+com11 0 1
+sound 331
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「これはこの際、開き直って行くしかないな。
+line2 <shift> # 調子よくないけどがんばりまーす、とか言って」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだな、それが一番いいか……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （そして律子はステージ上で不調を宣言しつつも、
+line2 <shift> # 精一杯ベストを尽くし、全力で歌ってくれた）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （おかげでライブの評判はまずまずだったが、
+line2 <shift> # 風邪は早々治らず、不調は長引く予感……）
+com09 0 49
+display
+location 49
+unk02

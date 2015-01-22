@@ -1,0 +1,471 @@
+com2c 0 18
+com2d 0 13
+com2e 0 14
+com32 0 0
+com11 0 0
+sound 0
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あの〜、プロデューサーさん。
+line2 <shift> # 今日のお仕事のことで、ひとつ質問が」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なんだ、春香。何でも聞いていいよ」
+display
+com11 0 0
+sound 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「はい。えっと、ここの台本に書いてある、
+line2 <shift> # 『熱湯風呂』って、何ですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「春香、すまない……。
+line2 <shift> # 実は、今日のＴＶの仕事なんだが」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「バラエティ風の、歌番組なんだ。
+line2 <shift> # 司会者とじゃんけんをして」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「勝ったら、歌えるけど、
+line2 <shift> # もし、負けてしまったら……」
+display
+com11 0 0
+sound 2
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「まさか、熱湯風呂に、
+line2 <shift> # 入らなきゃいけない――とかっ！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、そういうことになる。
+line2 <shift> # こういう仕事は……」
+com03 0 3
+choice1 <shift> # チャンスの一つだ
+line2
+com09 0 10
+com08
+choice2 <shift> # ウキウキするよな
+line2
+com09 0 11
+com08
+choice3 <shift> # 嫌ならやめてもいいぞ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「チャンスの一つだ。まだ名前が売れてないうち
+line2 <shift> # は、歌うために、何でもやらなくちゃな……」
+display
+com11 0 0
+sound 3
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そうですよね。こういうお仕事も、
+line2 <shift> # アイドルなら笑顔で、乗り切らなくちゃ！」
+display
+com11 0 0
+sound 4
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「わかりました、プロデューサーさん。
+line2 <shift> # 私、がんばってみます！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ありがとう、春香。すまないな……。
+line2 <shift> # でも、そう言ってくれると、助かるよ」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ウキウキするよな！　楽しそうだし」
+display
+com11 0 0
+sound 5
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そりゃ……見てるぶんには、そうかもしれませ
+line2 <shift> # んけど。でも熱湯風呂はイヤですよ、やっぱり」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そうか……。そうだよな。すまない春香。
+line2 <shift> # こんな仕事しか用意してやれなくて」
+display
+com11 0 0
+sound 6
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「いえ。せっかくプロデューサーさんが用意して
+line2 <shift> # くれたお仕事だから……。私、頑張ります！」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「嫌ならやめてもいいぞ」
+display
+com11 0 0
+sound 7
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あ、はい……。でも、歌は歌いたいです。
+line2 <shift> # せっかくのチャンスですから」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 8
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「だけど、つまり、じゃんけんに勝てば
+line2 <shift> # いいんですよね？」
+display
+com11 0 0
+sound 9
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「よーし、はりきっちゃいますね！
+line2 <shift> # じゃんけんに、勝てますように……」
+display
+com11 0 0
+sound 10
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ああ。なんだか、緊張してきちゃいました。
+line2 <shift> # プロデューサーさ〜ん！」
+com03 0 3
+choice1 <shift> # 運も実力のうちだぞ
+line2
+com09 0 20
+com08
+choice2 <shift> # 気楽に行こう、気楽に
+line2
+com09 0 21
+com08
+choice3 <shift> # 俺に任せておけ！
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「運も実力のうちだぞ！」
+display
+com11 0 0
+sound 11
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「は、はいっ！　ああ、そんなこと言われたら
+line2 <shift> # ますます緊張してきましたよぉ！」
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「気楽に行こう、気楽に」
+display
+com11 0 0
+sound 12
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「むぅ……。プロデューサーさんは
+line2 <shift> # そう言いますけど」
+display
+com11 0 0
+sound 13
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「歌うチャンスがかかってると思うと、
+line2 <shift> # 気楽ってわけにはいかないですよ？」
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺に任せておけ！」
+display
+com11 0 0
+sound 14
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「えっ、じゃあプロデューサーさんが代わりに
+line2 <shift> # じゃんけんしてくれるとか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、俺じゃなくて春香がＴＶに写らないと
+line2 <shift> # 意味ないから、それは難しいけど……」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 15
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あっ、そうだ！　いいこと思いつきました！」
+display
+com11 0 0
+sound 16
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「プロデューサーさん。じゃんけんで
+line2 <shift> # 何を出せばいいか、決めてくれませんか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、俺が……っ！？」
+display
+com11 0 0
+sound 17
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「自分で考えると、後で後悔しそうで……。
+line2 <shift> # プロデューサーさんの指示なら、安心できます」
+display
+com11 0 0
+sound 18
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「きっと、私なんかよりずっとずっと
+line2 <shift> # プロデューサーさんの方が、運が強そうだし」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん。責任重大だな……。分かった。
+line2 <shift> # それじゃあ、春香のために考えるとしよう」
+com03 0 3
+choice1 <shift> # グーだ！
+com09 0 30
+com08
+choice2 <shift> # チョキだ！
+com09 0 31
+com08
+choice3 <shift> # パーだ！
+com09 0 32
+com08
+com07
+com09 0 33
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「グーだ、グーで行こう！」
+com37 0 1
+com1e 0 0
+com09 0 38
+com3b
+com37 0 0
+com1e 0 0
+com09 0 39
+com3b
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「チョキだ、チョキで行こう！」
+com37 0 1
+com1e 0 0
+com09 0 38
+com3b
+com37 0 0
+com1e 0 0
+com09 0 39
+com3b
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「パーだ、パーで行こう！」
+com37 0 1
+com1e 0 0
+com09 0 38
+com3b
+com37 0 0
+com1e 0 0
+com09 0 39
+com3b
+display
+location 33
+com11 0 0
+sound 19
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あ、もう、時間みたい……！
+line2 <shift> # 行かなくっちゃ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ええっ！　もう？　じゃあ、春香に任せるから、
+line2 <shift> # 適当に出してくれ。頼んだぞ！」
+com09 0 39
+display
+location 38
+com11 0 0
+sound 20
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「わかりました、行ってきますね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （どうか、春香がじゃんけんに
+line2 <shift> # 勝てますように……！）
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 21
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「プロデューサーさ〜ん！
+line2 <shift> # 勝ちましたっ、勝っちゃいました〜！」
+display
+com11 0 0
+sound 22
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ああ、すっごく緊張したぁ……。
+line2 <shift> # じゃんけんの前なんて、震えちゃって」
+display
+com11 0 0
+sound 23
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「だけど、プロデューサーさんの決めた
+line2 <shift> # 答えだから、絶対間違いないって」
+display
+com11 0 0
+sound 24
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そう思うと、不思議と
+line2 <shift> # 怖くなくなったんですよね……えへへ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「春香の、歌いたいっていう強い気持ちが
+line2 <shift> # 勝利を導いたのかもしれないな」
+display
+com11 0 0
+sound 25
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そんなぁ。これはやっぱり、
+line2 <shift> # プロデューサーさんのおかげですよ！」
+display
+com11 0 0
+sound 26
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「プロデューサーさんが、
+line2 <shift> # 強気に決めてくれたから……」
+display
+com11 0 0
+sound 27
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「私も、絶対歌うんだ！っていう気持ちで
+line2 <shift> # じゃんけんに、臨めたんです」
+display
+com11 0 0
+sound 28
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「この勝利は、ふたりの勝利――ですねっ。
+line2 <shift> # プロデューサーさんっ♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ははは……、そうだな。
+line2 <shift> # ほら、次のコーナーで歌うんじゃないのか？」
+display
+com11 0 0
+sound 29
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あ、そうでした！　じゃんけんが終わって
+line2 <shift> # すっかり安心しちゃいました」
+display
+com11 0 0
+sound 30
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「スタンバイ、スタンバイ……。
+line2 <shift> # ああっ、どうしよう。また緊張してきたー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その緊張感は、じゃんけんの時とは違って
+line2 <shift> # 心地いいものなのに違いない……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （大変な仕事だったけど、勝利をつかめたぞ。
+line2 <shift> # 運もアイドルには、大切な要素だからな！）
+com4b 0 0
+com09 0 69
+display
+location 39
+com11 0 0
+sound 31
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「わかりました、行ってきますね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （どうか、春香がじゃんけんに
+line2 <shift> # 勝てますように……！）
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 32
+com4c 0 2
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「プロデューサーさ〜ん。
+line2 <shift> # じゃんけん、あっさり負けちゃいました」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……ということは、熱湯風呂に？」
+display
+com11 0 0
+sound 33
+com4c 0 2
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「はい……。このあとすぐ、入らなくちゃ
+line2 <shift> # いけないみたいで……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ごめんな、春香……。
+line2 <shift> # やっぱりこんな仕事、やめればよかったな」
+display
+com11 0 0
+sound 34
+com4c 0 2
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あ、いえ。……でも、大丈夫ですよ！
+line2 <shift> # なんとか、乗り切りますから」
+display
+com11 0 0
+sound 35
+com4c 0 2
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「番組のディレクターさんは、『身代わりを
+line2 <shift> # 連れてきてもいい』なんて言ってましたけど」
+display
+com11 0 0
+sound 36
+com4c 0 2
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そんな人、いるわけないし。ここは私が
+line2 <shift> # やるしかありませんっ！」
+display
+com11 0 0
+sound 37
+com4c 0 2
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「だけど、歌が歌えなかったことだけは
+line2 <shift> # ちょっと残念ですね……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「身代わりでもＯＫ……？　そういえば事務所を
+line2 <shift> # 出る時、俺、社長に紙袋を渡されたんだよ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「『今日の仕事、身代わりが必要なら、これを
+line2 <shift> # 使いたまえ』って……」
+display
+com11 0 0
+sound 38
+com4c 0 2
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ええっ！　じゃあ、その袋の中に身代わりが
+line2 <shift> # 入ってるんですかっ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、そんなことはないだろう。
+line2 <shift> # この袋に入ってるのは多分……」
+display <shift> # ガサゴソ……
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……やっぱり、水着だ。俺の」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、俺が春香の身代わりとして熱湯風呂に
+line2 <shift> # 入る羽目になったのは、言うまでもない……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （春香は歌えなくてしょんぼりしつつも、
+line2 <shift> # 俺のことをすごく心配してくれた）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （すべては俺の責任だ。運を、味方にできなかっ
+line2 <shift> # たんだから。春香、すまない……）
+com4b 0 2
+com09 0 69
+display
+location 69
+unk02

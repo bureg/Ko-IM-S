@@ -1,0 +1,290 @@
+com11 0 5
+sound 1000
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ふぅー、いい汗、かいたー。プロデューサー、
+line2 <shift> # 筋トレのメニュー、やり終えました！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、まあまあ、早かったな。
+line2 <shift> # 運動とかは、得意な方？」
+display
+com11 0 5
+sound 1001
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「へへっ。ボク、普段から、
+line2 <shift> # 体は動かしてますから」
+display
+com11 0 5
+sound 1002
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「もうノド、カラカラです〜。こういう時に、
+line2 <shift> # クイっと飲むの、最高なんですよね！」
+com03 0 3
+choice1 <shift> # 水とか？
+com09 0 10
+com08
+choice2 <shift> # スポーツ・ドリンクとか？
+line2
+com09 0 11
+com08
+choice3 <shift> # お酢とか？
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「水とか？」
+display
+com11 0 5
+sound 1003
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はい！　やっぱり、それが一番です！　こう、
+line2 <shift> # 抜けた水分が、体にしみこむーって感じで！」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「スポーツ・ドリンクとか？」
+display
+com11 0 5
+sound 1004
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ボク、そういうの、あんまり飲まないです。
+line2 <shift> # ヘンに味がついているの、好きじゃなくて」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ、いつもは水とかなのか？」
+display
+com11 0 5
+sound 1005
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はい！　だいたい運動し終わった後は、
+line2 <shift> # ミネラルウォーター、一気飲みですっ」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お酢とか？」
+display
+com11 0 5
+sound 1006
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そ、そんなの、運動直後には飲めませんよ！
+line2 <shift> # そりゃ確かに、健康に良いって聞きますけど」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そうか。真のことだから、
+line2 <shift> # そのぐらいは、気合でのりきるのかと……」
+display
+com11 0 5
+sound 1007
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「いくら気合いいれても、お酢は、さすがにムリ
+line2 <shift> # です。いっぺんにたくさん飲めそうもないし」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、そうだ。さっき運動してる時、真の
+line2 <shift> # ウェアの後ろに、なにか字が見えたんだけど？」
+display
+com11 0 5
+sound 1008
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「え、ああ、これですね？　クルっと！
+line2 <shift> # はい！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「名前入り、か……。
+line2 <shift> # そのタンクトップは、特注品？」
+display
+com11 0 5
+sound 1009
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「いえ、偶然、お店で見つけた学校の後輩が、
+line2 <shift> # プレゼントしてくれたんです」
+display
+com11 0 5
+sound 1010
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「本当は、もっと、かわいいデザインの方が好き
+line2 <shift> # なんですけど、捨てるわけにもいきませんし」
+display
+com11 0 5
+sound 1011
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「それに……、じつは、ちょっと
+line2 <shift> # 恥ずかしいんですよね。この服」
+com03 0 3
+choice1 <shift> # おへそ、出てるから？
+line2
+com09 0 30
+com08
+choice2 <shift> # 名前、バレちゃうから？
+line2
+com09 0 31
+com08
+choice3 <shift> # ハラ、出てるから？
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おへそ、出てるから？」
+display
+com11 0 5
+sound 1012
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そうです。ここまで生地が少ない服って、
+line2 <shift> # 普段は着ませんし。あはは……」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「名前、バレちゃうから？」
+display
+com11 0 5
+sound 1013
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「これ見てボクの名前だって思う人、あんまりい
+line2 <shift> # ませんよね？　『真』って、よくある字ですし」
+display
+com11 0 5
+sound 1014
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「それよりも……おなかが見えてるのが、どうも。
+line2 <shift> # こんな生地の少ない服、普段は着ませんし」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ハラ、出てるから？」
+display
+com11 0 5
+sound 1015
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そ、そうですけど……そういう言い方されると、
+line2 <shift> # ボクのおなかが、ボコッて出てるような……」
+display
+com11 0 5
+sound 1016
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「見えてるのが、恥ずかしいだけですからね。
+line2 <shift> # 誤解しないでくださいよ？」
+com09 0 49
+display
+location 49
+com11 0 5
+sound 1017
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「とくに、男の人とかが、近くにいると、
+line2 <shift> # どうも、ジロジロ見られてる気がして」
+display
+com11 0 5
+sound 1018
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「さ、さっきも視線が気になって、一瞬、
+line2 <shift> # 手が止まってしまいました……」
+com03 0 3
+choice1 <shift> # 集中力が、足りないなあ
+line2
+com09 0 50
+com08
+choice2 <shift> # 意識しすぎじゃないか？
+line2
+com09 0 51
+com08
+choice3 <shift> # ほとんど、下着姿だもんな
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「集中力が、足りないなあ」
+display
+com11 0 5
+sound 1019
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そうですよね……。人目をひくのが、
+line2 <shift> # アイドルの仕事なのに、これじゃ、ダメです」
+display
+com11 0 5
+sound 1020
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「トップをめざすには、体といっしょに、
+line2 <shift> # 心もきたえないと！　ボク、がんばります！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （素直に、注意を聞いてくれた。前向きに、
+line2 <shift> # いろんなところ、伸ばしていってほしいな！）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「意識しすぎじゃないか？」
+display
+com11 0 5
+sound 1021
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そ、そうでしょうか？　単にボクがこういう
+line2 <shift> # 格好に慣れてないから、そう感じたのかな？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「たかが、おなかぐらいで、
+line2 <shift> # しみじみ見る男なんて、いないよ」
+display
+com11 0 5
+sound 1022
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「……かもしれないですね。とくにボクの
+line2 <shift> # ウエストなんて、セクシーでもなんでもないし」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （今度は逆の意味で、沈んでしまった。ま、でも、
+line2 <shift> # こう思ってる方が、運動には集中できるか）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ほとんど、下着姿だもんな」
+display
+com11 0 5
+sound 1023
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そ、そんなこと、言わないでくださいよー！
+line2 <shift> # この服、余計に着づらく……」
+display
+com11 0 5
+sound 1024
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「やっぱり、自分でちゃんとしたの、
+line2 <shift> # 買おうかなあ。もっと、布の多いやつ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そこまでする必要は、ないだろ？
+line2 <shift> # 動きやすいのが、一番だと思うけど」
+display
+com11 0 5
+sound 1025
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ボクも、そう思ってたんですけど……。
+line2 <shift> # なんか、考え方、変わっちゃいそうです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （かるく茶化したら、予想以上に、
+line2 <shift> # 気にしてしまった……。悪いこと、したかな）
+com09 0 69
+display
+location 69
+unk02

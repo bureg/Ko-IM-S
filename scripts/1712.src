@@ -1,0 +1,598 @@
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……はぁ、昨日の今日で、早速、新たな指令を
+line2 <shift> # 伝えるから朝礼の前に集合だ、と言われてもな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ＩＵの疲れも、とれてないのに……。
+line2 <shift> # ウチの社長は、人使いが荒いよな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （でも、どうにかアイドル候補生の皆を、
+line2 <shift> # トップアイドルにすることができたし……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （美希も響も貴音も、最後には俺のことを、
+line2 <shift> # 信頼してくれた……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （少々の疲れなんて、この満足感の前には、
+line2 <shift> # 吹き飛んでしまうな！）
+display
+com11 0 0
+sound 10000
+name 0 2 <names:2>  # President
+line1 <shift> # 「オッホン、待たせてしまったようだね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、社長。おはようございます。
+line2 <shift> # 早朝は気持ちがいいですよね、早朝は」
+display
+com11 0 0
+sound 10001
+name 0 2 <names:2>  # President
+line1 <shift> # 「うむ、そうだな。朝は何か新しいことが、
+line2 <shift> # 始まりそうな……、そんな予感がするものだ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「皮肉くらい受け取って下さいよ、全く。
+line2 <shift> # それで、一体何の話ですか？」
+display
+com11 0 0
+sound 10002
+name 0 2 <names:2>  # President
+line1 <shift> # 「相変わらず、せっかちだな、君は。
+line2 <shift> # それでは早速だが……、君に客が来ている」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「客……、ですか？」
+display
+com11 0 0
+sound 10003
+name 0 2 <names:2>  # President
+line1 <shift> # 「黒井、入ってくれ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え？　……く、黒井？　ま、まさか！？」
+display
+com11 0 0
+sound 10043
+name 0 3 <names:3>  # President Kuroi
+line1 <shift> # 「ふん、新社長から宣戦布告があるというから、
+line2 <shift> # わざわざ出向いてやったのだが……」
+display
+com11 0 0
+sound 10044
+name 0 3 <names:3>  # President Kuroi
+line1 <shift> # 「やはり、君か。ボンクラの高木の跡をついで、
+line2 <shift> # ７６５プロの新社長になるという奇特なヤツは」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「黒井社長！？　どうして、ここに……！
+line2 <shift> # それに、新社長って、誰がですか！？」
+display
+com11 0 0
+sound 10045
+name 0 3 <names:3>  # President Kuroi
+line1 <shift> # 「ここには、君しかいないだろうが。ほら、
+line2 <shift> # 時間がもったいない。早く宣戦布告をしたまえ」
+display
+com11 0 0
+sound 10046
+name 0 3 <names:3>  # President Kuroi
+line1 <shift> # 「自分が、どれほど、下らない人間なのかを、
+line2 <shift> # 思い知る、いい機会だぞ？　はっははは！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （一体どういうことだ！？　と、とりあえず、
+line2 <shift> # 社長に事情をきくまで、時間をかせがないと！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、えっと……、あの、すみません、もう少し
+line2 <shift> # だけ、向こうの部屋で待っていて下さい！」
+display
+com11 0 0
+sound 10047
+name 0 3 <names:3>  # President Kuroi
+line1 <shift> # 「ふん、就任早々、準備が悪いことだな。
+line2 <shift> # 時間がくれば、勝手に帰るからな」
+display <shift> # バタン……
+display
+name 0 5 <names:4>  # New President
+line1 <shift> # 「しゃ、社長！？　どうして黒井社長がここに？
+line2 <shift> # それに、俺が社長ってどういうことですか！？」
+display
+name 0 5 <names:4>  # New President
+line1 <shift> # 「あああ！？　何だか名前のところが、
+line2 <shift> # 新社長に変わってますよ！？」
+display
+com11 0 0
+sound 10004
+name 0 2 <names:2>  # President
+line1 <shift> # 「はっはっは！　君は、７６５プロの女の子達を、
+line2 <shift> # 皆、立派にプロデュースしてくれた」
+display
+com11 0 0
+sound 10005
+name 0 2 <names:2>  # President
+line1 <shift> # 「これは、私からのせめてもの、礼だよ。黒井は、
+line2 <shift> # 私が呼んだのだ。同じ社長の立場なら……」
+display
+com11 0 0
+sound 10006
+name 0 2 <names:2>  # President
+line1 <shift> # 「言いにくいことも言えるだろうと思ってな」
+display
+name 0 5 <names:4>  # New President
+line1 <shift> # 「あの、説明が全然足りませんよ！？
+line2 <shift> # 順を追って、説明をして下さい」
+display
+com11 0 0
+sound 10007
+name 0 2 <names:2>  # President
+line1 <shift> # 「……説明ねえ。君が私に、一つの答えを見せて
+line2 <shift> # くれたから……。それだけではダメかね？」
+display
+name 0 5 <names:4>  # New President
+line1 <shift> # 「え？　……俺が、社長に答えを？
+line2 <shift> # ……どういうことですか？」
+display
+com11 0 0
+sound 10008
+name 0 2 <names:2>  # President
+line1 <shift> # 「ふむ……。それでは、一つ昔話をしよう。
+line2 <shift> # 君は、うすうす気づいていたかもしれないがね」
+display
+com11 0 0
+sound 10009
+name 0 2 <names:2>  # President
+line1 <shift> # 「私と黒井はかつて、大手プロダクションの、
+line2 <shift> # 腕利きプロデューサーだったのだ」
+display
+com11 0 0
+sound 10010
+name 0 2 <names:2>  # President
+line1 <shift> # 「ふふ、君ほどの腕利きではなかったが、
+line2 <shift> # そこそこ、業界では有名だったんだぞ？」
+display
+com11 0 0
+sound 10011
+name 0 2 <names:2>  # President
+line1 <shift> # 「私は、担当アイドルの夢や希望することを、
+line2 <shift> # 二人三脚で追い続けていた」
+display
+com11 0 0
+sound 10012
+name 0 2 <names:2>  # President
+line1 <shift> # 「私は、２人だからこそ、１人では乗り越え
+line2 <shift> # られない壁を、飛び越せると、信じていた」
+display
+com11 0 0
+sound 10013
+name 0 2 <names:2>  # President
+line1 <shift> # 「しかし、黒井は孤独こそが、強さを育てると、
+line2 <shift> # 担当アイドルを放置していた」
+display
+com11 0 0
+sound 10014
+name 0 2 <names:2>  # President
+line1 <shift> # 「人間は、結局は１人だ。ならば、最初から、
+line2 <shift> # １人で、何でもできる強さが必要だ、とね」
+display
+com11 0 0
+sound 10015
+name 0 2 <names:2>  # President
+line1 <shift> # 「私達２人は、昔から、まるで敵同士のように、
+line2 <shift> # いがみあっていた。だが……」
+display
+com11 0 0
+sound 10016
+name 0 2 <names:2>  # President
+line1 <shift> # 「私の担当する、あるアイドルの歌が、
+line2 <shift> # 空前のヒットをとばしたのだ」
+display
+com11 0 0
+sound 10017
+name 0 2 <names:2>  # President
+line1 <shift> # 「『空』や『花』といったタイトルの曲を、君も、
+line2 <shift> # どこかで、きいたことがあるかもしれないな」
+display
+com11 0 0
+sound 10018
+name 0 2 <names:2>  # President
+line1 <shift> # 「黒井は、私の成功を見ると、自分から、
+line2 <shift> # プロダクションを辞めていった」
+display
+com11 0 0
+sound 10019
+name 0 2 <names:2>  # President
+line1 <shift> # 「自分の、やり方が正しいことを立証するために、
+line2 <shift> # 自分で事務所を作る、と言い捨ててな」
+display
+com11 0 0
+sound 10020
+name 0 2 <names:2>  # President
+line1 <shift> # 「私は、勝ったと思った。これから先も、私の
+line2 <shift> # やり方で、歩き続けることができると思った」
+display
+com11 0 0
+sound 10021
+name 0 2 <names:2>  # President
+line1 <shift> # 「だが……、同じ日に、私の担当するアイドルが、
+line2 <shift> # 失踪してしまった」
+display
+name 0 5 <names:4>  # New President
+line1 <shift> # 「…………！！」
+display
+com11 0 0
+sound 10022
+name 0 2 <names:2>  # President
+line1 <shift> # 「彼女が残したメモには、『夢の先が
+line2 <shift> # 見つからない』とだけ書いてあった」
+display
+com11 0 0
+sound 10023
+name 0 2 <names:2>  # President
+line1 <shift> # 「私には夢の先があったが、ムリをしていた
+line2 <shift> # 彼女に、それ以上歩くことは、苦痛だったのだ」
+display
+com11 0 0
+sound 10024
+name 0 2 <names:2>  # President
+line1 <shift> # 「私は、何が正しいのかわからなくなった。
+line2 <shift> # ２人３脚だなんて言っておきながら……」
+display
+com11 0 0
+sound 10025
+name 0 2 <names:2>  # President
+line1 <shift> # 「私は結局、彼女のことが何一つわかっていなか
+line2 <shift> # った。自分の夢をかなえる道具にしていたんだ」
+display
+com11 0 0
+sound 10026
+name 0 2 <names:2>  # President
+line1 <shift> # 「自分と同じ夢を見てくれている、という、
+line2 <shift> # 自分勝手な思い込みでな……」
+display
+name 0 5 <names:4>  # New President
+line1 <shift> # 「……社長」
+display
+com11 0 0
+sound 10027
+name 0 2 <names:2>  # President
+line1 <shift> # 「だが、君は見せてくれた」
+display
+name 0 5 <names:4>  # New President
+line1 <shift> # 「え？　……何を、ですか？」
+display
+com11 0 0
+sound 10028
+name 0 2 <names:2>  # President
+line1 <shift> # 「ふふ、問題児だらけのアイドル候補生に、
+line2 <shift> # 本音で、ぶつかりあい……」
+display
+com11 0 0
+sound 10029
+name 0 2 <names:2>  # President
+line1 <shift> # 「あきれたり、ケンカをしたりしても、すぐに、
+line2 <shift> # 手をとりあって喜んだり、笑いあったり……」
+display
+com11 0 0
+sound 10030
+name 0 2 <names:2>  # President
+line1 <shift> # 「一歩一歩、着実に信頼を作り上げていき、
+line2 <shift> # そして、二人で同じ方向を目指していく……」
+display
+com11 0 0
+sound 10031
+name 0 2 <names:2>  # President
+line1 <shift> # 「そう、二人で夢を、世界を作っていくことが、
+line2 <shift> # 一つの答えなのだと、君は教えてくれた」
+display
+name 0 5 <names:4>  # New President
+line1 <shift> # 「……あの、俺は、ただ彼女達のために、何か
+line2 <shift> # できないかって、夢中で考えていただけで……」
+display
+name 0 5 <names:4>  # New President
+line1 <shift> # 「そんな、えらそうなことは、やってないです。
+line2 <shift> # 俺は頼りないから、むしろ迷惑かけてましたし」
+display
+com11 0 0
+sound 10032
+name 0 2 <names:2>  # President
+line1 <shift> # 「ははは、頼りないからこそ、支え合う
+line2 <shift> # スタイルが、完成されたのかもしれないな」
+display
+name 0 5 <names:4>  # New President
+line1 <shift> # 「そ、そんなあ！？　……まあ、
+line2 <shift> # その通りだから、反論できませんけど」
+display
+com11 0 0
+sound 10033
+name 0 2 <names:2>  # President
+line1 <shift> # 「まあ、そういうわけだ。私は君に、長年
+line2 <shift> # 探していた答えの、一つの姿を見せてもらった」
+display
+com11 0 0
+sound 10034
+name 0 2 <names:2>  # President
+line1 <shift> # 「大切なのは『信頼』と、同じ目線に立つことで
+line2 <shift> # 得られる『夢の共有』なのだということを！」
+display
+com11 0 0
+sound 10035
+name 0 2 <names:2>  # President
+line1 <shift> # 「というわけで、私は君に報いるため社長の座を
+line2 <shift> # 譲ろうと思う。黒井に一発ぶちかましてやれ！」
+display
+name 0 5 <names:4>  # New President
+line1 <shift> # （確かに社長という立場なら、今まで言え
+line2 <shift> # なかったことが、言えるかもしれないけど……）
+display
+name 0 5 <names:4>  # New President
+line1 <shift> # （あまりにも、いきなりすぎる！
+line2 <shift> # ……でも、まあ、いいか。出たとこ勝負だ！）
+display
+name 0 5 <names:4>  # New President
+line1 <shift> # 「……わかりました。自分が目指すもの、
+line2 <shift> # ２人の前で、宣言させてもらいます！」
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 10048
+name 0 3 <names:3>  # President Kuroi
+line1 <shift> # 「ずいぶん待たせてくれたね。
+line2 <shift> # さあ、君は私に、何を宣言してくれるのかな？」
+display
+com11 0 0
+sound 10049
+name 0 3 <names:3>  # President Kuroi
+line1 <shift> # 「貧乏な７６５プロでは先がないから、９６１
+line2 <shift> # プロ傘下に入れてくれ、とでも言うのかね？」
+display
+name 0 5 <names:4>  # New President
+line1 <shift> # 「……黒井社長。
+line2 <shift> # あと、高木社長も、きいて下さい」
+display
+name 0 5 <names:4>  # New President
+line1 <shift> # 「俺は……、頑張る女の子を応援したいという
+line2 <shift> # 気持ちで、がむしゃらにやってきました」
+display
+name 0 5 <names:4>  # New President
+line1 <shift> # 「それは、ただ、彼女達の笑顔を、
+line2 <shift> # 見たかったから。本当に、それだけなんです」
+display
+com11 0 0
+sound 10050
+name 0 3 <names:3>  # President Kuroi
+line1 <shift> # 「……それで？　何が言いたいんだね！？　社長
+line2 <shift> # にまでなって、何を甘いことを言ってるんだ！」
+display
+name 0 5 <names:4>  # New President
+line1 <shift> # 「黒井社長のやり方では、彼女達の笑顔を、
+line2 <shift> # 見ることは、できません！」
+display
+com11 0 0
+sound 10051
+name 0 3 <names:3>  # President Kuroi
+line1 <shift> # 「それが、何だと言うんだ！？
+line2 <shift> # お前は、一体、何なんだ！」
+display
+name 0 5 <names:4>  # New President
+line1 <shift> # 「くっ……。俺は、俺は……」
+display
+com22 0 30
+name 0 5 <names:4>  # New President
+line1 <shift> # （俺がこれまでにやってきたこと……。
+line2 <shift> # 目を閉じて思い浮かぶのは……）
+display
+com11 0 0
+sound 10059
+name 0 0 <names:5>  # Yayoi
+line1 <shift> # 「いぇい！　プロデューサー、
+line2 <shift> # おはよーございます！」
+display
+com11 0 0
+sound 10060
+name 0 0 <names:6>  # Makoto
+line1 <shift> # 「プロデューサー、ボクとの約束、
+line2 <shift> # ちゃんと覚えててくれたんですね！」
+display
+com11 0 0
+sound 10061
+name 0 0 <names:7>  # Iori
+line1 <shift> # 「プロデューサ〜！！
+line2 <shift> # アンタ、いったい、どういうつもり！？」
+display
+com11 0 0
+sound 10062
+name 0 0 <names:8>  # Yukiho
+line1 <shift> # 「プロデューサー、私、精一杯、
+line2 <shift> # 頑張りますから……」
+display
+com11 0 0
+sound 10063
+name 0 0 <names:9>  # Ami
+line1 <shift> # 「そういえばさー。兄ちゃんは、
+line2 <shift> # デートとか、しないのー？」
+display
+com11 0 0
+sound 10064
+name 0 0 <names:10>  # Mami
+line1 <shift> # 「じゃあ今日は、真美達とデートする？
+line2 <shift> # 兄ちゃん」
+display
+com11 0 0
+sound 10065
+name 0 0 <names:11>  # Chihaya
+line1 <shift> # 「もっともっと努力しなければ。
+line2 <shift> # プロデューサー、よろしくお願いします！」
+display
+com11 0 0
+sound 10066
+name 0 0 <names:12>  # Azusa
+line1 <shift> # 「なんだか、心がつながってるみたい……。
+line2 <shift> # では、よろしくお願いしますね、ふふっ」
+display
+com11 0 0
+sound 10067
+name 0 0 <names:13>  # Ritsuko
+line1 <shift> # 「ふふっ、時間通りですね、プロデューサー。
+line2 <shift> # ちょっと見直しました」
+display
+com11 0 0
+sound 10068
+name 0 0 <names:14>  # Miki
+line1 <shift> # 「ミキ、おにぎりよりも大好きなもの、見つけ
+line2 <shift> # たんだよ。それがね、プロデューサーなの！」
+display
+com11 0 0
+sound 10069
+name 0 0 <names:15>  # Echo
+line1 <shift> # 「かわいさなら、自分の方が上だぞ！
+line2 <shift> # ねえねえ、そう思うよね、プロデューサー！？」
+display
+com11 0 0
+sound 10070
+name 0 0 <names:16>  # Takane
+line1 <shift> # 「それでは、ふつつか者ですが、
+line2 <shift> # よろしくお願いいたします」
+display
+com11 0 0
+sound 10071
+name 0 0 <names:17>  # Haruka
+line1 <shift> # 「本当ですか？　これからもそばにいて、ずっと
+line2 <shift> # 私のプロデュース、続けてくれますか……？」
+display
+name 0 5 <names:4>  # New President
+line1 <shift> # （……そうだ。俺は。俺は……）
+display
+com21 0 30
+name 0 5 <names:4>  # New President
+line1 <shift> # 「黒井社長、高木社長、俺は、俺は……！」
+com03 0 1
+choice1 <shift> # プロデューサーです！
+line2
+com09 0 10
+com08
+com07 129 64 129 64 129 64 129 64
+com09 0 10
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺は、プロデューサーです！」
+display
+com11 0 0
+sound 10052
+name 0 3 <names:3>  # President Kuroi
+line1 <shift> # 「な、なんだ、それは？
+line2 <shift> # お前は、何を言ってるんだ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺は、生涯、プロデューサーとして、
+line2 <shift> # 彼女達の笑顔を作り続けます！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うちの事務所の女の子も、
+line2 <shift> # あなたの事務所の女の子も……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「皆、俺が笑顔にしてみせる！」
+display
+com11 0 0
+sound 10036
+name 0 2 <names:2>  # President
+line1 <shift> # 「ふふふ……、はっはっはっはっ！　何となく、
+line2 <shift> # 君ならそう言うのではないかと思っていたよ！」
+display
+com11 0 0
+sound 10037
+name 0 2 <names:2>  # President
+line1 <shift> # 「『自分は、プロデューサーです』とね」
+display
+com11 0 0
+sound 10053
+name 0 3 <names:3>  # President Kuroi
+line1 <shift> # 「な、何を言ってるんだ、高木？
+line2 <shift> # ……はっ！　さては、お前……！！」
+display
+com11 0 0
+sound 10054
+name 0 3 <names:3>  # President Kuroi
+line1 <shift> # 「私を子飼いのプロデューサーへの、
+line2 <shift> # 最後の試験官役にしたんだな！？」
+display
+com11 0 0
+sound 10055
+name 0 3 <names:3>  # President Kuroi
+line1 <shift> # 「こ、この私を、だしに使って……！
+line2 <shift> # ちくしょう、屈辱だ！！　き〜〜〜っ！！」
+display
+com11 0 0
+sound 10038
+name 0 2 <names:2>  # President
+line1 <shift> # 「はっはっはっ！　のこのこと呼び出されて、
+line2 <shift> # 来る方が悪いんだ」
+display
+com11 0 0
+sound 10039
+name 0 2 <names:2>  # President
+line1 <shift> # 「だが、お前も気になっていたんだろう。
+line2 <shift> # ウチのプロデューサーのことが」
+display
+com11 0 0
+sound 10056
+name 0 3 <names:3>  # President Kuroi
+line1 <shift> # 「き、気になるわけないだろう！　おい、お前！
+line2 <shift> # 私は、お前に負けたわけではないぞ！？」
+display
+com11 0 0
+sound 10057
+name 0 3 <names:3>  # President Kuroi
+line1 <shift> # 「お前がプロデューサーとして、失敗する姿を、
+line2 <shift> # 楽しみにしておいてやる！」
+display <shift> # バタンッ！
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ふ〜、相変わらず、えらそうな人だな。
+line2 <shift> # これから先が不安なような、楽しみなような」
+display
+com11 0 0
+sound 10040
+name 0 2 <names:2>  # President
+line1 <shift> # 「ははは、やはり、君にはプロデューサーという
+line2 <shift> # 肩書きが、一番似合うのかもしれないな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「う〜ん、そうですね。でも……」
+display
+com11 0 0
+sound 10041
+name 0 2 <names:2>  # President
+line1 <shift> # 「……でも？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「時々は、こう呼んで欲しいですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「アイドルマスターって！！」
+display
+com11 0 0
+sound 10042
+name 0 2 <names:2>  # President
+line1 <shift> # 「はっはっはっ！　それはいい！
+line2 <shift> # はっはっはっはっ！」
+display
+com11 0 0
+sound 10058
+name 0 7 <names:18>  # Kotori
+line1 <shift> # 「あの、プロデューサーさ〜ん！　そろそろ、
+line2 <shift> # 朝礼ですよ〜。皆さん、全員で待ってます〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……はい！　今、行きます！」
+com09 0 99
+display
+location 99
+unk02

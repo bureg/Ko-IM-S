@@ -1,0 +1,251 @@
+com2c 0 47
+com2d 0 63
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おつかれさま。長い現場だったなぁ。
+line2 <shift> # 少し無理させちゃったみたいで悪かったね」
+display
+com11 0 5
+sound 700
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「え……。あ、は、はい。そう、ですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ん、どうした、雪歩。ぼーっとしちゃって」
+display
+com11 0 5
+sound 701
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「い、いえ、なんでもないんです」
+com03 0 3
+choice1 <shift> # よっぽど疲れたのかな
+line2
+com09 0 10
+com08
+choice2 <shift> # 不満があったのかな
+line2
+com09 0 11
+com08
+choice3 <shift> # 挨拶くらいはきちんと……
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ははは、しかしよっぽど疲れたのかな」
+display
+com11 0 5
+sound 702
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「すみません、お疲れ様です。とっさにあい
+line2 <shift> # さつもできないなんて、私……、すみません」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、疲れて調子がよくないなら仕方ない。
+line2 <shift> # いいんだ、よくやった」
+display
+com11 0 5
+sound 703
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あっ……。ありがとうございます」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「現場に不満があったのかな？」
+display
+com11 0 5
+sound 704
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そんな、とんでもない！　いいお仕事でした。
+line2 <shift> # それより、私、うまくやれてたかな、って……」
+display
+com11 0 5
+sound 705
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あんまりいい動きができなくって、
+line2 <shift> # すみません。やり直しも多かったし」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、少し調子がよくなかったからね。
+line2 <shift> # まあ仕方ないさ」
+display
+com11 0 5
+sound 706
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「でも……、うう、体力なくって、
+line2 <shift> # 迷惑かけてばかりで、私って……、ぐすっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あまり気にしなくていいよ、好評だったし。
+line2 <shift> # よくがんばったと思うよ！」
+display
+com11 0 5
+sound 707
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あっ、ありがとうございますぅ」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「疲れてるのはわかるけど……、挨拶くらいは
+line2 <shift> # きちんと気分よくしようよ」
+display
+com11 0 5
+sound 708
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「す、すみません！　そうですね、私、
+line2 <shift> # 現場でもちょっと愛想がよくなくって……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、そんなことはなかったけど。
+line2 <shift> # それより、ちょっと顔色よくないから」
+display
+com11 0 5
+sound 709
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そ、そうですか？　へいき、へいきです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そっか、でもほんと、おつかれさま！
+line2 <shift> # しんどいときでも明るく挨拶、これ元気の素」
+display
+com11 0 5
+sound 710
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あっ、はいっ。おつかれさまですぅ」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さて、それじゃ、少し横になったら？
+line2 <shift> # まだ事務所につくまでには当分かかりそうだ」
+display
+com11 0 5
+sound 711
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい……。で、でも……、眠れないです、
+line2 <shift> # バスの中だとその、気分があんまり……」
+display
+com11 0 5
+sound 712
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あっ、せっかく起きてるから、歌の予習でも
+line2 <shift> # したほうが、ほんとは、いいのかな？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、無理するな、それより……」
+com03 0 2
+choice1 <shift> # 楽にして座っていよう
+line2
+com09 0 30
+com08
+choice2 <shift> # 移動中に寝るのに慣れよう
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「姿勢を楽にして座っていようよ。
+line2 <shift> # 疲れているならなおさらだ」
+display
+com11 0 5
+sound 713
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あっ、そうですね……。
+line2 <shift> # ここで体力消耗しないようにしなくちゃ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「雪歩が身体を壊したら、困るからな。
+line2 <shift> # 椅子倒して、リラックスしてごらん」
+display
+com11 0 5
+sound 714
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「椅子倒して、リラックスして……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「エアコン避けに身体にタオルかけておくのも
+line2 <shift> # いいね。周りの音をきかないようにしてみて」
+display
+com11 0 5
+sound 715
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい、リラックス、楽に、楽にして……、
+line2 <shift> # 音を聞かないように……、静かに」
+display
+com22 0 30
+com11 0 5
+sound 716
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「くぅくぅ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よかった、雪歩は眠ってくれたようだ。
+line2 <shift> # ゆっくり休んで、回復してくれるといいな……）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「移動中に寝るのにも慣れようよ」
+display
+com11 0 5
+sound 717
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ど、どうやって……、寝たらいいですか？
+line2 <shift> # まくらがないの、苦手で」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、椅子を倒しきってベッドにしてだね、
+line2 <shift> # それからタオルを丸めて枕に」
+display
+com11 0 5
+sound 718
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「えっ、ええと……、寝にくくないですか。
+line2 <shift> # 椅子が、かたくて」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だから、そこは慣れだよ」
+display
+com11 0 5
+sound 719
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「で、でも、そんなこと言われても……、
+line2 <shift> # なんだか落ち着かないですよぅ」
+display
+com11 0 5
+sound 720
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「すみません……、寝るの、
+line2 <shift> # 手伝ってくれませんか？」
+display
+com11 0 5
+sound 721
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「プロデューサーと一緒なら、私、
+line2 <shift> # 寝られるかもしれません」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え、ええっ！？　よ、よしわかった。
+line2 <shift> # 羊が一匹、羊が二匹……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そして俺は雪歩の隣で羊を数え続けたけれど、
+line2 <shift> # 結局車中では眠れないまま……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （数時間後、事務所に着いた。雪歩の顔色は良く
+line2 <shift> # ない。体力を消耗してなければいいけど……）
+com09 0 49
+display
+location 49
+unk02

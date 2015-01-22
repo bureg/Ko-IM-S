@@ -1,0 +1,256 @@
+com2c 0 43
+com2d 0 51
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あずささん、スタジオで、なにしてるんです？
+line2 <shift> # ミーティング、ここでやるんですか？」
+display
+com11 0 2
+sound 100
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あ、プロデューサーさん。いま、デビュー曲を、
+line2 <shift> # ひとりで再録音していたんです」
+com03 0 3
+choice1 <shift> # 再発売したいんですか？
+line2
+com09 0 10
+com08
+choice2 <shift> # ヒマつぶしに、ですか？
+line2
+com09 0 11
+com08
+choice3 <shift> # まさか、事務所移籍？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「再発売したいんですか？」
+display
+com11 0 2
+sound 101
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「んー、できれば、いいですけれど、目的は別に。
+line2 <shift> # 自分の成長を、確かめてみたかったんです」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ヒマつぶしに、ですか？」
+display
+com11 0 2
+sound 102
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「もっとマジメな理由です。
+line2 <shift> # この忙しさの中、あまり遊んでいる余力は……」
+display
+com11 0 2
+sound 103
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「私、自分が、どのくらいうまくなっているのか、
+line2 <shift> # 知りたかったんです。それで、デビュー曲を」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まさか、事務所移籍？」
+display
+com11 0 2
+sound 104
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ええっ？　ま、まさか、違いますー。
+line2 <shift> # そんなこと、したくもないですし……」
+display
+com11 0 2
+sound 105
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「歌ってみたのは、自分の成長を確かめたかった
+line2 <shift> # からです。どの程度、うまくなってるのかって」
+com09 0 29
+display
+location 29
+com11 0 2
+sound 106
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「昔のと聞き比べてみたんですけれど……、不思
+line2 <shift> # 議ですよね。前のも、それなりに、いいんです」
+display
+com11 0 2
+sound 107
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「音は、はずれてますし、声だって全然弱いのに。
+line2 <shift> # 私の耳、どうかしてしまったのかしら？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ほら、昔は昔で、下手でも、真剣だった
+line2 <shift> # じゃないですか。だからだと、思いますよ」
+display
+com11 0 2
+sound 108
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「んー、フクザツです。これでは、成長してるん
+line2 <shift> # だって、素直に、よろこべません……」
+com03 0 2
+choice1 <shift> # 俺は、わかってます
+line2
+com09 0 30
+com08
+choice2 <shift> # ファンは、わかってます
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+com34 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺は、わかってます。
+line2 <shift> # 確実に、うまくなってるって」
+display
+com11 0 2
+sound 109
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あ。そう言ってもらえると、安心です。プロ
+line2 <shift> # デューサーさんが言うなら、間違いないですね」
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ファンは、わかってます。
+line2 <shift> # 確実に、うまくなってるって」
+display
+com11 0 2
+sound 110
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「そうでしょうか？
+line2 <shift> # 最近、ファンになってくれた人も、多いですし」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……あ、そうか。わかってるとしたら、
+line2 <shift> # デビュー当時から知ってるファンだけですね」
+display
+com11 0 2
+sound 111
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「そういう人の意見、聞ければ自信もつくのです
+line2 <shift> # けれど。きっと、そんなに数はいないですよね」
+com09 0 49
+display
+location 49
+com11 0 2
+sound 112
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「……こうして、昔の歌を聞いてみて、
+line2 <shift> # 勉強になりました。やはり、歌は気持ちですね」
+display
+com11 0 2
+sound 113
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ためしに、全然、やる気なしで歌ってみると、
+line2 <shift> # よりハッキリ、わかるかもしれません」
+com03 0 3
+choice1 <shift> # それなら、俺でも勝てますね
+line2
+com09 0 50
+com08
+choice2 <shift> # やってみますか？
+line2
+com09 0 51
+com08
+choice3 <shift> # その実験は、また今度
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 2
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それなら、俺でも勝てますね」
+display
+com11 0 2
+sound 114
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ふふっ。では、いっしょに歌ってみますか？
+line2 <shift> # たまには、そういうのも、おもしろいかも」
+display
+com11 0 2
+sound 115
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「プロデューサーさんって、どんな歌い方する
+line2 <shift> # んです？　聞いたことないので、楽しみですー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後、デュエットして、遊んでしまった。
+line2 <shift> # あずささんは、ニコニコしっぱなしだった）
+com09 0 69
+display
+location 51
+com34 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やってみますか？」
+display
+com11 0 2
+sound 116
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「気持ちなしバージョン、ですか？
+line2 <shift> # じ、実際にやるとなると、とまどいますね」
+display
+com11 0 2
+sound 117
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「えーと……。こう、歌うけど、歌う気なしに。
+line2 <shift> # ん〜〜〜〜〜」
+display
+com11 0 2
+sound 118
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「な、なかなか、声が出てきません。
+line2 <shift> # その、もうすこし、待ってもらえると……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後、１曲歌い終えるまでに、相当かかった。
+line2 <shift> # 有意義ではあったけど、時間使いすぎたかな？）
+com09 0 69
+display
+location 52
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「その実験は、また今度」
+display
+com11 0 2
+sound 119
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「え？　いま、やってみませんか？　せっかくの
+line2 <shift> # 機会なんですし、もう、こんなこと……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わざと下手に歌うと、かえって調子、
+line2 <shift> # 狂うかもしれませんし。やめておいた方が……」
+display
+com11 0 2
+sound 120
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「んー、そうかもしれませんね。そんなのを
+line2 <shift> # 聞かされるプロデューサーさんも、きっと」
+display
+com11 0 2
+sound 121
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「でも、もしかしたら新しい発見が……。
+line2 <shift> # い、いえ、しつこいですねっ。やめておきます」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （残念そうな顔をしている。うーん、本人が、
+line2 <shift> # 納得いくよう、試させてみても、よかったかな）
+com09 0 69
+display
+location 69
+unk02

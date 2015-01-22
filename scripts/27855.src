@@ -1,0 +1,289 @@
+com2c 0 42
+com2d 0 41
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ライブ、無事、終わったな。客も増えてきたし、
+line2 <shift> # 大盛況だったじゃないか」
+display
+com11 0 4
+sound 200
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はぁ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうしたんだ？　ため息なんかついて」
+com03 0 3
+choice1 <shift> # なにか、問題でも？
+line2
+com09 0 10
+com08
+choice2 <shift> # デキに、満足してないのか？
+line2
+com09 0 11
+com08
+choice3 <shift> # 疲れたのか？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なにか、問題でも？」
+display
+com11 0 4
+sound 201
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。今、お客さんのひとりに、帰り際、
+line2 <shift> # 文句を言われてしまいました」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「デキに、満足してないのか？」
+display
+com11 0 4
+sound 202
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「それは、いつものことです。まだまだ目指す
+line2 <shift> # 域には、達していませんし」
+display
+com11 0 4
+sound 203
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「今は、別のことを、考えていたんです。帰り際、
+line2 <shift> # お客さんのひとりに、言われたことを……」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「疲れたのか？」
+display
+com11 0 4
+sound 204
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そういうわけでは……。ただ、ちょっと
+line2 <shift> # 考えさせられるようなことが……」
+display
+com11 0 4
+sound 205
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「さっき、お客さんのひとりが、帰り際に
+line2 <shift> # 気になる言葉、残していったんです」
+com09 0 29
+display
+location 29
+com11 0 4
+sound 206
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「歌はうまいけど、まるでＣＤのコピーを
+line2 <shift> # 聴いてるみたいで、つまらないって……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか。そんなことを……。
+line2 <shift> # 千早の歌声は、安定感バツグンだからな」
+display
+com11 0 4
+sound 207
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「これでも、会場ごとに、トーンは変えてるん
+line2 <shift> # です。けど、そういう工夫は伝わらないようで」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まあ、しかたないよ。こういうとこに
+line2 <shift> # 見にくる客は……」
+com03 0 3
+choice1 <shift> # シロウトが、多いからな
+line2
+com09 0 30
+com08
+choice2 <shift> # みんなシロウトだからな
+line2
+com09 0 31
+com08
+choice3 <shift> # バカばっかり、だからな
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+com34 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「シロウトが、多いからな」
+display
+com11 0 4
+sound 208
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そうですね。私もそう思ったから、とくに
+line2 <shift> # 言い返しませんでした」
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「みんなシロウトだからな」
+display
+com11 0 4
+sound 209
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「だとしたら、悲しいですね。ひとりもわかって
+line2 <shift> # くれないんじゃ、やる意味合いも薄く……」
+display
+com11 0 4
+sound 210
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「たしかに、あのお客さんは、そんな感じでした。
+line2 <shift> # だから、すみませんって謝るしかなくて」
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「バカばっかり、だからな」
+display
+com11 0 4
+sound 211
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「プロデューサー、言いますね。そういうのって、
+line2 <shift> # 無用な敵をつくってしまうのでは？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……言い方が、過激すぎたか。じゃあ、ロクに
+line2 <shift> # 知識もない人ばっかりだから」
+display
+com11 0 4
+sound 212
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「大差ない気が……。でも、実際そうかもしれ
+line2 <shift> # ませんね」
+com09 0 49
+display
+location 49
+com11 0 4
+sound 213
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「私、ヘンにアレンジして、曲をこわすのは、
+line2 <shift> # イヤなんです。たとえマンネリって言われても」
+display
+com11 0 4
+sound 214
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「さっきのお客さんみたく、細かい変化が
+line2 <shift> # わからない人を満足させるには、どうしたら？」
+com03 0 3
+choice1 <shift> # ライブ専用の曲、つくるか
+line2
+com09 0 50
+com08
+choice2 <shift> # もっと、うまくなることだよ
+line2
+com09 0 51
+com08
+choice3 <shift> # トークで、盛り上げよう
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 2
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ライブ専用の曲、つくるか。目玉のひとつにも
+line2 <shift> # なるだろうし」
+display
+com11 0 4
+sound 215
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あ、いいかも。それなら、妙な小細工をせず、
+line2 <shift> # ストレートでいけます」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃあ、作曲家に発注しておくよ。
+line2 <shift> # ……資金が、ちょっと頭、痛いけど」
+display
+com11 0 4
+sound 216
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「お願いします、ぜひっ。かけたお金以上の
+line2 <shift> # 成果を出すこと、約束しますから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （真っ直ぐな瞳で、誓ってくれた。
+line2 <shift> # よし、ここは意気に応えて、勝負してみよう）
+com09 0 69
+display
+location 51
+com34 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もっと、うまくなることだよ」
+display
+com11 0 4
+sound 217
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そうですね。まだ、技量が足りないのかもしれ
+line2 <shift> # ません。芸術の域まで高めていけば、きっと」
+display
+com11 0 4
+sound 218
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あ……けど、それでもわかってくれない人、
+line2 <shift> # いそうな気がしませんか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん。たしかに、ルックスだけが目当ての
+line2 <shift> # 人もいるからな。さすがに、そこまでは」
+display
+com11 0 4
+sound 219
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ある程度は、あきらめるしかないでしょうか。
+line2 <shift> # その……スッキリはしないですけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （小さく笑いながらも、ため息をついている。
+line2 <shift> # でも、まあ、ひとつの指針は示せたかな）
+com09 0 69
+display
+location 52
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「トークで、盛り上げよう。そういう差別化が
+line2 <shift> # ないと、印象は変わらないと思う」
+display
+com11 0 4
+sound 220
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「今以上に、しゃべり、多くするんですか？
+line2 <shift> # それ……違うと思います。だって」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「歌だけで、なんとかするより、そっちの方が
+line2 <shift> # 効果的だろ？」
+display
+com11 0 4
+sound 221
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「効果とか、そんな問題では……。ライブって、
+line2 <shift> # なんです？　生で歌を聴くための集いですよね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まあ、基本はそうだけど、あまりキレイごとに、
+line2 <shift> # こだわらない方が……」
+display
+com11 0 4
+sound 222
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「私は……歌手です。タレントでも芸人でも
+line2 <shift> # なくて、歌手なんです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （下を見ながら、呼吸を荒くしている。あまり
+line2 <shift> # 千早向きの提案とは、言えなかったようだ）
+com09 0 69
+display
+location 69
+unk02

@@ -1,0 +1,535 @@
+com2c 0 21
+com2c 0 90
+com2d 0 71
+com2e 0 131
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （とっぷり日がくれてしまった！
+line2 <shift> # 急いで戻らねば！）
+display <shift> # どんっ！
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「痛っ！　……あ。す、すみません！
+line2 <shift> # 急いでいたもので、ぶつかってしまいました」
+display
+com11 0 0
+sound 10000
+com4c 0 0
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「どこを見て歩いているんだ！
+line2 <shift> # ん……。お、おまえは！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「く、黒井社長！」
+com03 0 3
+choice1 <shift> # 黒いから気付きませんでした
+line2
+com09 0 10
+com08
+choice2 <shift> # 散歩ですか？
+line2
+com09 0 11
+com08
+choice3 <shift> # また何か企んでますね？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「黒いから気付きませんでした。
+line2 <shift> # 外見も、お腹の中も、あなたは真っ黒だ」
+display
+com11 0 0
+sound 10001
+com4c 0 0
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「フッ。若造が、たいした口をきくようになった
+line2 <shift> # ものだ。調子付きおって。いい気になるなよ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あなた相手に調子付いても、仕方ないですよ。
+line2 <shift> # もう勝敗はハッキリしているんですから」
+display
+com11 0 0
+sound 10002
+com4c 0 0
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「言うねえ、君も……。いい根性だ」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「散歩ですか？　もしそうなら、コースを変えて
+line2 <shift> # 下さい。あなたにここを通ってほしくない」
+display
+com11 0 0
+sound 10003
+com4c 0 0
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「まるで、ここが自分の土地であるかのような
+line2 <shift> # 言い方をするね？　確かに、ここは……」
+display
+com11 0 0
+sound 10004
+com4c 0 0
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「７６５プロの前だが、我が９６１プロも、
+line2 <shift> # この近くにあるのだ。君の指図は受けんよ！」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「また、何か企んでいますね？　今度は、
+line2 <shift> # ７６５プロの誰を引き抜くつもりです？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「言っておきますが、二度と、そんなマネは、
+line2 <shift> # させませんよ、この俺が！」
+display
+com11 0 0
+sound 10005
+com4c 0 0
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「ふん。星井美希の件で、こりたよ」
+display
+com11 0 0
+sound 10006
+com4c 0 0
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「７６５プロのアイドルを引き抜いたところで、
+line2 <shift> # まるで役に立たないことが、よくわかった」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「くっ、言わせておけば……！」
+display
+com11 0 0
+sound 10007
+com4c 0 0
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「怒ったのかね？　血の気の多いヤツだ。
+line2 <shift> # なんで、こんな下品な男に負けたのやら……」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10008
+com4c 0 0
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「さて、ムダな時間を過ごしてしまった。
+line2 <shift> # 失礼！　私は次の準備で、忙しいのだよ」
+display
+com11 0 0
+sound 10009
+com4c 0 0
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「次なる『Ｐｒｏｊｅｃｔ　Ｆａｉｒｙ』の
+line2 <shift> # 人材を見つけねばならないのでね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「美希に、あんなヒドイ扱いをしておいて、
+line2 <shift> # まだ続ける気なんですか！？」
+display
+com11 0 0
+sound 10010
+com4c 0 0
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「無論だ。今度は、もっとマシな少女を、
+line2 <shift> # スカウトするよう、気をつけるがね」
+display
+com11 0 0
+sound 10011
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「……いったい、何人の夢多き少女を傷つければ、
+line2 <shift> # 気がすむんだ、黒井？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「高木社長！」
+display
+com11 0 0
+sound 10012
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「おお、お疲れ様。君が、あまりにも遅いので、
+line2 <shift> # 様子を見に来たんだよ」
+display
+com11 0 0
+sound 10013
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「そうしたら、旧友とバッタリ再会というわけだ。
+line2 <shift> # 今日はドラマの多い日のようだねえ」
+display
+com11 0 0
+sound 10014
+com4c 0 0
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「高木、私は、おまえなど、友人とは思っていな
+line2 <shift> # いぞ。これまで一度も、そう思ったことはない」
+display
+com11 0 0
+sound 10015
+com4c 0 0
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「今は、事務所からトップアイドルを輩出して、
+line2 <shift> # いい気になっているのだろうが……」
+display
+com11 0 0
+sound 10016
+com4c 0 0
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「おまえの天下は続かん！　私の前に、
+line2 <shift> # おまえを、必ずひれ伏させてやるからな！」
+display
+com11 0 0
+sound 10017
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「……老けたな、黒井」
+display
+com11 0 0
+sound 10018
+com4c 0 0
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「な、何っ！？　この、オシャレでナイス
+line2 <shift> # ミドルな私をつかまえて、な、な、何をっ！」
+display
+com11 0 0
+sound 10019
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「グチが多いのは、老けた証拠だぞ？　もうムダ
+line2 <shift> # なことはやめろ。おまえ、心まで老いたのか？」
+display
+com11 0 0
+sound 10020
+com4c 0 0
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「……貴様と、まともに議論しようとするのが、
+line2 <shift> # 間違いだった。不愉快だ。失礼する！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……行っちゃいましたね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そう言えば、美希の引き抜きの件、黒井社長の
+line2 <shift> # 責任を追及しなくて、よかったんですか？」
+display
+com11 0 0
+sound 10021
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「ああ。確かにあれは、黒井の明確なルール違反
+line2 <shift> # だが、私としても、事を荒立てたくはない」
+display
+com11 0 0
+sound 10022
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「そんなことをしたら、美希君が傷つくからね。
+line2 <shift> # とりあえず、今回に限っては、不問にふすよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「社長、あの、美希のことですけど……」
+display
+com11 0 0
+sound 10023
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「うむ。律子君から、大体の報告は受けているよ。
+line2 <shift> # 説得は、成功したのかね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、それが……」
+display
+com11 0 0
+sound 10024
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「……ダメだったか。まあいい。美希君を黒井の
+line2 <shift> # 手から救い出してくれただけでもじゅうぶんだ」
+display
+com11 0 0
+sound 10025
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「その上、君は、律子君をＩＵに優勝するまでに
+line2 <shift> # 育てあげてくれた。すばらしい偉業だよ」
+display
+com11 0 0
+sound 10026
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「ありがとう。……さあ、律子君の祝勝会の準備
+line2 <shift> # が、整っている。事務所に戻ってくれたまえ」
+display
+com22 0 30
+com21 0 30
+com32 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「律子、ただいま！　あれ、律子……？」
+display <shift> # カタカタカタカタ……
+display
+com11 0 0
+sound 10027
+com4c 0 1
+name 0 0 <names:4>  # Ritsuko
+line1 <shift> # 「あ、おかえりなさい、プロデューサー！　ちょ
+line2 <shift> # っと待ってて下さいね。帳簿、つけちゃうから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「こ、こんな時まで、事務仕事をやってる
+line2 <shift> # のか！？　律子はトップアイドルなんだぞ？」
+display
+com11 0 0
+sound 10028
+com4c 0 1
+name 0 0 <names:4>  # Ritsuko
+line1 <shift> # 「だって、しばらく見てない間に帳簿がメチャク
+line2 <shift> # チャで……。あれ、プロデューサー。美希は？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ごめん……」
+display
+com11 0 0
+sound 10029
+com4c 0 1
+name 0 0 <names:4>  # Ritsuko
+line1 <shift> # 「ウソ！　説得、失敗したんですか！？
+line2 <shift> # 信じられない！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だから、ごめんって……」
+display
+com11 0 0
+sound 10030
+com4c 0 1
+name 0 0 <names:4>  # Ritsuko
+line1 <shift> # 「う、うう……、ぐすっ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うわっ！　な、なにも、泣くことないじゃない
+line2 <shift> # か。美希がいなくて、そんなに悲しいのか！？」
+display
+com11 0 0
+sound 10031
+com4c 0 1
+name 0 0 <names:4>  # Ritsuko
+line1 <shift> # 「違います！　くやしいんです！
+line2 <shift> # うう、ひっく……、ぐすっ……」
+display
+com11 0 0
+sound 10033
+com4c 0 1
+name 0 0 <names:4>  # Ritsuko
+line1 <shift> # 「私、事務所のことも、プロデューサーのことも
+line2 <shift> # おろそかにして、美希の心配してきたのに……」
+display
+com11 0 0
+sound 10034
+com4c 0 1
+name 0 0 <names:4>  # Ritsuko
+line1 <shift> # 「結局、連れ戻せないなんて、こんなの、
+line2 <shift> # 大失敗だわ……。ぐすっ……、くやしい……」
+com03 0 3
+choice1 <shift> # 次は成功すればいい
+line2
+com09 0 20
+com08
+choice2 <shift> # どこが失敗だよ？
+line2
+com09 0 21
+com08
+choice3 <shift> # 欲張りだなあ
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そう思うなら、次は成功すればいいよ。
+line2 <shift> # 律子が成功したいと思う、全ての面で」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どこが失敗だよ？　ＩＵに優勝したんだぞ？
+line2 <shift> # 成功も成功。大成功、だろ？」
+display
+com11 0 0
+sound 10035
+com4c 0 1
+name 0 0 <names:4>  # Ritsuko
+line1 <shift> # 「うう……。でも、あれだけ骨おって、美希を連
+line2 <shift> # れ戻すのには、完全に失敗してますよぉ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「はあ……。そう思うなら、次は成功すれば
+line2 <shift> # いいよ。律子が成功したいと思う、全ての面で」
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「欲張りだなあ、律子は。ＩＵに優勝したんだか
+line2 <shift> # ら、成功だよ。それでいいじゃないか」
+display
+com11 0 0
+sound 10036
+com4c 0 1
+name 0 0 <names:4>  # Ritsuko
+line1 <shift> # 「ぐす……、ダメです。骨をおったのに、美希の
+line2 <shift> # 連れ戻しには失敗したんですから、失敗です」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんだよ、それ。いつもは、絶対涙なんか
+line2 <shift> # 見せないくせに、どうしちゃったんだ？」
+display
+com11 0 0
+sound 10037
+com4c 0 1
+name 0 0 <names:4>  # Ritsuko
+line1 <shift> # 「わ、悪かったですね……。ぐすっ……。だって、
+line2 <shift> # 美希は帰ってくるとばかり……、ひっく……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなに納得がいかないなら、次は成功しろ。
+line2 <shift> # 律子が成功したいと思う、全ての面でな」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 10038
+com4c 0 1
+name 0 0 <names:4>  # Ritsuko
+line1 <shift> # 「うう、涙、ふいてくれたり、
+line2 <shift> # しないんですね……。優しくないなぁ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「しないよ。こんなの、律子らしくないし」
+display
+com11 0 0
+sound 10039
+com4c 0 1
+name 0 0 <names:4>  # Ritsuko
+line1 <shift> # 「ですよね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わっ！　いきなり、泣き止んだな」
+display
+com11 0 0
+sound 10040
+com4c 0 1
+name 0 0 <names:4>  # Ritsuko
+line1 <shift> # 「いや、泣きながらだんだん冷静になってきちゃ
+line2 <shift> # って。ガラじゃないなって、思ったんですよ」
+display
+com11 0 0
+sound 10041
+com4c 0 1
+name 0 0 <names:4>  # Ritsuko
+line1 <shift> # 「……今回のＩＵ、優勝こそしましたが、私とし
+line2 <shift> # ては、納得のいかない点が多々ありました」
+display
+com11 0 0
+sound 10042
+com4c 0 1
+name 0 0 <names:4>  # Ritsuko
+line1 <shift> # 「事務やプロデューサーのことを、かえりみる
+line2 <shift> # 余裕がなかったことが、まず１点」
+display
+com11 0 0
+sound 10043
+com4c 0 1
+name 0 0 <names:4>  # Ritsuko
+line1 <shift> # 「美希のことにかかりきりになってたわりに、
+line2 <shift> # 連れ戻せなかったことが、２点目」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか。反省点は、
+line2 <shift> # 明確に見えているわけだな」
+display
+com11 0 0
+sound 10044
+com4c 0 1
+name 0 0 <names:4>  # Ritsuko
+line1 <shift> # 「はい。余裕なさすぎでした。これでは、まだま
+line2 <shift> # だ、自分の事務所をもつどころじゃないです」
+display
+com11 0 0
+sound 10045
+com4c 0 1
+name 0 0 <names:4>  # Ritsuko
+line1 <shift> # 「ですが私も、一度ＩＵに優勝して、今後の活動
+line2 <shift> # には、多少の余裕が持てると思うので……」
+display
+com11 0 0
+sound 10046
+com4c 0 1
+name 0 0 <names:4>  # Ritsuko
+line1 <shift> # 「これらの点を改善するために、今後は、こう
+line2 <shift> # いったことを全て、私が担当しようと思います」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「はあ！？　どういう意味だ？」
+display
+com11 0 0
+sound 10047
+com4c 0 1
+name 0 0 <names:4>  # Ritsuko
+line1 <shift> # 「事務所の経理、プロデューサーの勤務管理、所
+line2 <shift> # 属アイドルのケア、そして自分のアイドル活動」
+display
+com11 0 0
+sound 10048
+com4c 0 1
+name 0 0 <names:4>  # Ritsuko
+line1 <shift> # 「それら全てを、私が担当します」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……いや、ムリだろ？」
+display
+com11 0 0
+sound 10049
+com4c 0 1
+name 0 0 <names:4>  # Ritsuko
+line1 <shift> # 「ムリでも、そのぐらいできないと。いずれ、
+line2 <shift> # 夢をかなえて事務所の社長になったら……」
+display
+com11 0 0
+sound 10050
+com4c 0 1
+name 0 0 <names:4>  # Ritsuko
+line1 <shift> # 「それ以上の業務を、こなすように
+line2 <shift> # なるんですから、その練習ですよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そっかー。律子はスゴイなー！
+line2 <shift> # まあ、がんばってくれ！」
+display
+com11 0 0
+sound 10051
+com4c 0 1
+name 0 0 <names:4>  # Ritsuko
+line1 <shift> # 「サポート、よろしくお願いしますね？　私の補
+line2 <shift> # 佐ができるのは、プロデューサーだけですから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うう、やっぱり……」
+display
+com11 0 0
+sound 10052
+com4c 0 1
+name 0 0 <names:4>  # Ritsuko
+line1 <shift> # 「これからもずっと、ずーっと、頼りにしてます
+line2 <shift> # よ！　プロデューサー殿♪　ふふっ」
+com09 0 99
+display
+location 99
+unk02

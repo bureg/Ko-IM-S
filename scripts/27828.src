@@ -1,0 +1,305 @@
+com2c 0 32
+com2d 0 41
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうしたんだ、千早？　ミーティングだって
+line2 <shift> # のに、ＣＤショップなんかに、連れてきて」
+display
+com11 0 4
+sound 100
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「プロデューサー、ショップの棚を見ていると、
+line2 <shift> # 気が遠くなること、ありませんか？」
+display
+com11 0 4
+sound 101
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「邦楽、洋楽、クラシック、サントラ……。
+line2 <shift> # ものすごい種類のアルバム、並んでますよね？」
+com03 0 3
+choice1 <shift> # まるで、音楽の海だな
+line2
+com09 0 10
+com08
+choice2 <shift> # 好みも、それぞれだからな
+line2
+com09 0 11
+com08
+choice3 <shift> # それだけ、売れてるってことか
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まるで、音楽の海だな」
+display
+com11 0 4
+sound 102
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そうですね。泡みたいに消えていってしまう
+line2 <shift> # アルバムも、きっと中には、たくさん……」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「好みも、それぞれだからな」
+display
+com11 0 4
+sound 103
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「最近、ますます枝分かれしていってるかもしれ
+line2 <shift> # ませんね。みんなが、自分の好きな物を買って」
+display
+com11 0 4
+sound 104
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そして、好きでない物には、目もくれず、
+line2 <shift> # 通りすぎて……」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それだけ、売れてるってことか」
+display
+com11 0 4
+sound 105
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そうでしょうか？　種類があるということと、
+line2 <shift> # 売れるということは、別の気が……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、逆に、分散してしまう事もあるか。
+line2 <shift> # だとしたら、１枚当たりの売り上げは……」
+display
+com11 0 4
+sound 106
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「減っているかもしれませんね。調べたわけじゃ
+line2 <shift> # ないから、わからないですけど……」
+com09 0 29
+display
+location 29
+com11 0 4
+sound 107
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「これだけ数があると、どんなにいい歌でも、
+line2 <shift> # 無名のものは、聴いてもらえませんよね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それは、そうだろうな。お金にも時間にも、
+line2 <shift> # 限りはあるから」
+display
+com11 0 4
+sound 108
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「私の歌も……いつまでも、気づいてもらえない
+line2 <shift> # 可能性が？」
+com03 0 3
+choice1 <shift> # そう、させないようにしよう
+line2
+com09 0 30
+com08
+choice2 <shift> # まあ、ありうるな
+line2
+com09 0 31
+com08
+choice3 <shift> # いや、ありえないよ
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+com34 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そう、させないようにしよう。注目度が
+line2 <shift> # 高ければ、無視されることはないだろ？」
+display
+com11 0 4
+sound 109
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……はい。そう考えると、目立つことも、
+line2 <shift> # まったく無意味ではないと思います」
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まあ、ありうるな」
+display
+com11 0 4
+sound 110
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「力負けなら、納得もします。
+line2 <shift> # でも、そういうのは、理不尽ですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「波に飲まれないよう、がんばるのも、
+line2 <shift> # 仕事といえば、仕事か」
+display
+com11 0 4
+sound 111
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……はい。そう考えると、目立つ事もまったく
+line2 <shift> # 無意味ではないです」
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、ありえないよ。千早の歌は特別だって、
+line2 <shift> # 俺は思うし」
+display
+com11 0 4
+sound 112
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ありがとうございます。でも、聴いた人しか、
+line2 <shift> # そんな風には、思ってくれないんじゃ……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うっ、そうか。俺は何度も聴いてるけど、
+line2 <shift> # 未知の人にとっては……」
+display
+com11 0 4
+sound 113
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「とにかく、一度でも耳にしてもらうことですね。
+line2 <shift> # そう考えると、目立つ事も無意味ではないです」
+com09 0 49
+display
+location 49
+com11 0 4
+sound 114
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「たとえば、ＣＤを買ってもらっても、聴いて
+line2 <shift> # もらえないこと、ありますよね。その逆に……」
+display
+com11 0 4
+sound 115
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「友達から借りて、聴いてはもらえても、
+line2 <shift> # ……お金は払ってもらえないことも」
+display
+com11 0 4
+sound 116
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「プロデューサーにとっては、どっちの方が
+line2 <shift> # マシですか？」
+com03 0 3
+choice1 <shift> # 借りてでも、聴いてほしい
+line2
+com09 0 50
+com08
+choice2 <shift> # とにかく、買ってほしい
+line2
+com09 0 51
+com08
+choice3 <shift> # 買って、聴いてほしい！
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 2
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「借りてでも、聴いてほしい。聴いてもらえない
+line2 <shift> # 歌に、意味なんてないから」
+display
+com11 0 4
+sound 117
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「私も、そっちの方が……。渾身のＣＤを、
+line2 <shift> # コレクションにだけは、してほしくないです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「要は『聴いて、愛されるかどうか』だよな。
+line2 <shift> # 借りた人だって、後から買ってくれるかも」
+display
+com11 0 4
+sound 118
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。迷わず、めざしたいです。心を捕らえて
+line2 <shift> # 離さない、本物の歌を送り出すこと……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （意見が、バッチリあったようだ。時代に埋もれ
+line2 <shift> # ない名曲を、いつかプロデュースしたいな）
+com09 0 69
+display
+location 51
+com34 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「とにかく、買ってほしい。俺の立場としては、
+line2 <shift> # そう思う」
+display
+com11 0 4
+sound 119
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「私は、借りてでも、聴いてもらえる方が
+line2 <shift> # うれしいです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなの、許せなくないか？　一生懸命
+line2 <shift> # 歌ってるのに、お金も払わないで聴くなんて」
+display
+com11 0 4
+sound 120
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……わかります。けど、私の歌う理由の中で、
+line2 <shift> # お金というのは、小さくて」
+display
+com11 0 4
+sound 121
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「これはきっと、歌手とプロデューサーの差
+line2 <shift> # ですね。食い違いは、しかたないかと……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （すこし、さびしそうな顔をしている。
+line2 <shift> # ま、お互い本音を言い合ったんだし、いいか）
+com09 0 69
+display
+location 52
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「買って、聴いてほしい！」
+display
+com11 0 4
+sound 122
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あのー、それでは、質問の答えになってない
+line2 <shift> # 気が……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それでもだ。『買うだけ』ってのも、
+line2 <shift> # 『借りて聴く』ってのも、許せないからな」
+display
+com11 0 4
+sound 123
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はあ……。突っぱねられると、知りたいことが、
+line2 <shift> # わかりません」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ん？　……なんか、思わせぶりだな。
+line2 <shift> # 知りたいことって、なに？」
+display
+com11 0 4
+sound 124
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「この機会に、聞いておきたかったんです。
+line2 <shift> # プロデューサーの、歌に対する考え方……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （困り顔で、こっちを見ている。そういうこと
+line2 <shift> # なら、強引な意見、言うんじゃなかったな）
+com09 0 69
+display
+location 69
+unk02

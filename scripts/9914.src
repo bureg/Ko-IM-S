@@ -1,0 +1,297 @@
+com2c 0 92
+com2d 0 21
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「伊織！　大丈夫か！？　ほら、あっちから
+line2 <shift> # 脱出しよう」
+display
+com11 0 1
+sound 1400
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「も〜、なんなわけ！？　あのものすごいファン
+line2 <shift> # の数！　車まで、止められちゃうなんて……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「すさまじい人気だよな。これこそ、ランクＢの
+line2 <shift> # スーパーアイドルになった、証明ってやつか」
+display
+com11 0 1
+sound 1401
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「スーパー……。日本でも、指折りの存在になっ
+line2 <shift> # たのね。なんかこう、実感わいてきちゃった！」
+display
+com11 0 1
+sound 1402
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ふふっ、フフフフっ♪　ついに肩を並べたわ！
+line2 <shift> # パパや、社長やってる兄さんに……」
+com03 0 3
+choice1 <shift> # 才能の勝利だな
+line2
+com09 0 10
+com08
+choice2 <shift> # 努力の勝利だな
+line2
+com09 0 11
+com08
+choice3 <shift> # 運の勝利だな
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「才能の勝利だな」
+display
+com11 0 1
+sound 1403
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そうね！　天性のかわいさと、ありあまる
+line2 <shift> # 知性のおかげかしらっ！」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「努力の勝利だな」
+display
+com11 0 1
+sound 1404
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「やーだー。私、努力なんか、これっぽちもして
+line2 <shift> # ないわー♪」
+display
+com11 0 1
+sound 1405
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「この上、努力したら、アイドルの神様になっ
+line2 <shift> # ちゃう。すこしは、手加減してあげないと！」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「運の勝利だな」
+display
+com11 0 1
+sound 1406
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「あら、運の力なんて、これっぽちもないわ。
+line2 <shift> # 私の成功は、約束されてたんだからっ！」
+display
+com11 0 1
+sound 1407
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ただフツーにやってるだけで、ここまで、押し
+line2 <shift> # 上げられちゃうなんて……。かわいさは罪ね♪」
+com09 0 29
+display
+location 29
+com11 0 1
+sound 1408
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「んー、残念なのは、パパに自慢できないこと
+line2 <shift> # よね。『さすがは伊織』って、言わせたいのに」
+com03 0 3
+choice1 <shift> # お父さん、忙しいのか？
+line2
+com09 0 30
+com08
+choice2 <shift> # お父さん、出張中なのか？
+line2
+com09 0 31
+com08
+choice3 <shift> # お父さん、他界したのか？
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お父さん、忙しいのか？」
+display
+com11 0 1
+sound 1409
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「忙しいのは、パパじゃなくて、私……。ムダ話
+line2 <shift> # してるヒマがあったら、寝ないと、もたないわ」
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お父さん、出張中なのか？」
+display
+com11 0 1
+sound 1410
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「出張なんか、しないわよー。パパ、用事がある
+line2 <shift> # 時は、いつも向こうに来させてるもん」
+com09 0 91
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お父さん、他界したのか？」
+display
+com11 0 1
+sound 1411
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「するわけないでしょーっ！　家のパパ、見た
+line2 <shift> # 感じ、あと１００年は生きそうだわ……」
+com09 0 91
+display
+location 91
+com11 0 1
+sound 1412
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「自慢できないのは、私がムダ話してるヒマが
+line2 <shift> # ないから。帰ったらすぐ寝ないと、もたないし」
+com09 0 49
+display
+location 49
+com11 0 1
+sound 1413
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ロクに睡眠も取れないのに、がんばれてるのは、
+line2 <shift> # まわりの人の力も大きいわね〜」
+display
+com11 0 1
+sound 1414
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「うちの事務所の社長や、こまごま動いてくれる
+line2 <shift> # スタッフ達……。そ、それから……」
+display
+com11 0 1
+sound 1415
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「こ、この子の力も大きいわっ！　いつも、励ま
+line2 <shift> # してくれるし。……だいたい、こんなとこね！」
+com03 0 3
+choice1 <shift> # まあ、そんなとこだな
+line2
+com09 0 50
+com08
+choice2 <shift> # 大切な人を忘れてないか？
+line2
+com09 0 51
+com08
+choice3 <shift> # 素直じゃないなあ
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まあ、そんなとこだな」
+display
+com11 0 1
+sound 1416
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「なに言ってんのよーっ。あんたが
+line2 <shift> # 抜けてるじゃないのーっ」
+display
+com11 0 1
+sound 1417
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「いーい？　覚えておきなさい！　誰がなんと
+line2 <shift> # 言おうと、あんたがＭＶＰなんだからね！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうか？　そこまで力説されると、
+line2 <shift> # 照れるけど……」
+display
+com11 0 1
+sound 1418
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「あ……私、なに……。な、なに、にやけてる
+line2 <shift> # のよ。も〜……ばか〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （感謝してもらえてるのは、うれしいよな。
+line2 <shift> # ここまで支えてきて、本当によかった……）
+com09 0 69
+display
+location 51
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「大切な人を忘れてないか？」
+display
+com11 0 1
+sound 1419
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「だ、誰かいたかしら……。パッとは思いつか
+line2 <shift> # ないけど……もうひとり、いたような……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それは、誰？」
+display
+com11 0 1
+sound 1420
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ふんっ。言わなくたって、わかってるでしょ。
+line2 <shift> # いいじゃないの〜、言葉にしなくたって」
+display
+com11 0 1
+sound 1421
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「通じれば、通じるほど、言いにくくなることも
+line2 <shift> # あるの！　……わかってる？」
+display
+com11 0 1
+sound 1422
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「あんた……その人にあったら、言っておいて
+line2 <shift> # ちょうだいね。……あ、ありがとって」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （すこし、居心地の悪そうな顔をしてる。露骨に
+line2 <shift> # サイソクすることでもないけど、ま、いいか）
+com09 0 69
+display
+location 52
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「素直じゃないなあ」
+display
+com11 0 1
+sound 1423
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「なによ〜……。わ、私、素直でしょ？　まわり
+line2 <shift> # の人に感謝するなんて、滅多にないんだからー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「普通に、ありがとうって言ってくれても、
+line2 <shift> # いいと思うけど？」
+display
+com11 0 1
+sound 1424
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……ううう〜。プロデューサー、あ、あ、
+line2 <shift> # あり、あり……」
+display
+com11 0 1
+sound 1425
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「アリジゴクーっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「な、なんだよ、それ！？」
+display
+com11 0 1
+sound 1426
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「う、うるさいわねー。構えられると、言いたい
+line2 <shift> # ことも言えなくなるのっ。フンっだ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （突然、むくれてしまった……。イジワルな口の
+line2 <shift> # きき方、してしまったかな？）
+com09 0 69
+display
+location 69
+unk02

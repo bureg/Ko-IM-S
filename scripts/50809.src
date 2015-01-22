@@ -1,0 +1,386 @@
+com2c 0 17
+com2d 0 101
+com32 0 0
+com11 0 2
+sound 200
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「あ〜あ〜、せっかくのＴＶ出演なのに、
+line2 <shift> # 真美は、控室で、お留守番か〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ごめんな。でも、しかたないだろ？
+line2 <shift> # ここのモニターで、亜美の活躍、見守ろう」
+display
+com11 0 2
+sound 201
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「ねえ、兄ちゃん。今、亜美がいないから、話し
+line2 <shift> # ちゃうけど……、最近、真美ちょっとヘンなの」
+display
+com11 0 2
+sound 202
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「前は、亜美が歌ってる時、『真美も歌い
+line2 <shift> # た〜い』って、思うだけだったんだけど……」
+display
+com11 0 2
+sound 203
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「ここんとこね、『亜美に負けたくな〜い』って
+line2 <shift> # いう気持ちも、強くなってきちゃって……」
+com03 0 3
+choice1 <shift> # つまり、ライバル意識？
+line2
+com09 0 10
+com08
+choice2 <shift> # つまり、ヤキモチ？
+line2
+com09 0 11
+com08
+choice3 <shift> # つまり、恨み？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「つまり、ライバル意識？」
+display
+com11 0 2
+sound 204
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「そ〜そ〜、そんな感じ〜！　双子なのに、
+line2 <shift> # おかしいよね、こんなの……」
+com03 0 2
+choice1 <shift> # おかしくは、ないよ
+line2
+com09 0 30
+com08
+choice2 <shift> # いいことじゃないか
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「つまり、ヤキモチ？」
+display
+com11 0 2
+sound 205
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「すこし、ちがうかも〜。他のアイドルとかに
+line2 <shift> # 感じる、メラメラした気持ちって、いうか〜」
+display
+com11 0 2
+sound 206
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「双子なのに、おかしいよね？
+line2 <shift> # こんな風に思うなんて……」
+com03 0 2
+choice1 <shift> # おかしくは、ないよ
+line2
+com09 0 30
+com08
+choice2 <shift> # いいことじゃないか
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「つまり、恨み？」
+display
+com11 0 2
+sound 207
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「ええええ、そんなデロデロしたのじゃないよ〜。
+line2 <shift> # もっと、こう、メラメラした感じで……」
+display
+com11 0 2
+sound 208
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「でも、双子なのに、おかしいよね？
+line2 <shift> # こんな気持ちに、なっちゃうなんて……」
+com03 0 2
+choice1 <shift> # おかしくは、ないよ
+line2
+com09 0 30
+com08
+choice2 <shift> # いいことじゃないか
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おかしくは、ないよ。
+line2 <shift> # 双子でも、真美と亜美は、別の人間なんだから」
+display
+com11 0 2
+sound 209
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「そっかな〜？　そうかもねっ！　真美達、
+line2 <shift> # なかよしだけど、完全には、同じじゃないし！」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いいことじゃないか。むしろ、そうやって
+line2 <shift> # 競っていくのは、プラスだと思うけど？」
+display
+com11 0 2
+sound 210
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「マイナスも、おっきいよ〜。こういうのって、
+line2 <shift> # 慣れてないから、疲れちゃうんだもん……」
+display
+com11 0 2
+sound 211
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「亜美だけは、ずっと特別だって思ってたのに、
+line2 <shift> # なんか、ショック〜」
+com09 0 49
+display
+location 49
+com11 0 2
+sound 212
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「これが、どんどん進んでいくと、亜美と本気で
+line2 <shift> # ケンカするように、なっちゃうのかなあ」
+display
+com11 0 2
+sound 213
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「もしかしたら……、真美、悪い子に、
+line2 <shift> # なりはじめてるのかも！　やだよ〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなことはないよ。真美は、いい子だって。
+line2 <shift> # 昔も、今も、これからも」
+display
+com11 0 2
+sound 214
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「ほんとに？
+line2 <shift> # ほんとに、ほんとに、そう思う？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。ほら、こっちへ、きてごらん。
+line2 <shift> # いい子は……、ほめてあげないとな」
+com0e 3 52
+com44
+com09 0 50
+com45
+com44
+com09 0 51
+com45
+com44
+com09 0 52
+com45
+com44
+com09 0 53
+com45
+com44
+com09 0 54
+com45
+com44
+com09 0 55
+com45
+display
+location 50
+com11 0 2
+sound 215
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「ありがと〜。頭なでてもらうと、やっぱり、
+line2 <shift> # いい子な気がしてきたー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ははは、よかった……。それじゃ、
+line2 <shift> # 亜美が歌うところ、いっしょに見ようか」
+display
+com11 0 2
+sound 216
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「うんっ！　兄ちゃんと真美で、
+line2 <shift> # しちょー率１００％に、しちゃおー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （すっかり、元気を取り戻したようだ。
+line2 <shift> # さ、ふたりでモニターに、声援でも送るか！）
+com09 0 69
+display
+location 51
+com11 0 2
+sound 217
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「兄ちゃん？　なんで、ホッペタさわるの？
+line2 <shift> # これが、げーのー界流の、ほめ方なの？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……って、わけじゃないけど、こういうのも、
+line2 <shift> # うれしいかと思って。イヤだったか？」
+display
+com11 0 2
+sound 218
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「ううーん！　なんか、気持ちよかった〜。
+line2 <shift> # ネコとかに、すりすりされてる感じで！」
+display
+com11 0 2
+sound 232
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「じゃ、兄ちゃん。亜美が歌うところ、
+line2 <shift> # いっしょに見よ！　もうすぐはじまるよっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （風変わりなほめ方を、してしまったけど、
+line2 <shift> # 元気にはなったようだ。これはこれで、アリか）
+com09 0 69
+display
+location 52
+com11 0 2
+sound 233
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「わあっ！　兄ちゃん、今、ぶとうとした〜！
+line2 <shift> # やっぱり真美、悪い子なの？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ち、ちがうよ。なでてやろうと思って……」
+display
+com11 0 2
+sound 234
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「うそだ、うそだ〜。
+line2 <shift> # そんな勢いじゃなかったよ〜！」
+display
+com11 0 2
+sound 235
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「兄ちゃん、悪い子に、おしおきしようと
+line2 <shift> # したんだ〜。真美、わかるもんっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなこと、ないって。
+line2 <shift> # あやまるから、機嫌直してくれよ」
+display
+com11 0 2
+sound 222
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「自分でも、自分にバツ与えないと、ダメだね。
+line2 <shift> # 真美、廊下で、反省してくる〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （廊下はマズい。人に見られたら、双子の秘密が、
+line2 <shift> # バレてしまう！　やさしく接するべきだったな）
+com09 0 69
+display
+location 53
+com09 0 69
+display
+location 54
+com11 0 2
+sound 226
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「兄ちゃん？
+line2 <shift> # どうして、そんなところ、なでるの？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや……。あまり、すんなりほめるのも、
+line2 <shift> # つまらないかと思って……」
+display
+com11 0 2
+sound 227
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「あ〜、じつは、ほめたくないんでしょ〜？
+line2 <shift> # 真美、ほんとは悪い子だから……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなことないよっ。
+line2 <shift> # すぐ人を疑うのは、よくないな」
+display
+com11 0 2
+sound 228
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「よくない……？　やっぱり悪い子なんだ〜！
+line2 <shift> # いいもん、今日からグレグレだも〜ん！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （余計なことをしたら、収拾がつかなくなって
+line2 <shift> # しまった。素直に、なでてやるべきだったな）
+com09 0 69
+display
+location 55
+com11 0 2
+sound 229
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「兄ちゃん？　どーして、ぼけぼけ〜って、
+line2 <shift> # してるの？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、考えたんだけど……、ほめるのはトップ
+line2 <shift> # アイドルになってからの方が、いいかなって」
+display
+com11 0 2
+sound 230
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「ええええ、そんな〜。あ、やっぱり、ほんとは
+line2 <shift> # 悪い子だから、ほめたくないんでしょ〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなことは、ないって。あまり、
+line2 <shift> # そうやって人を疑うのは、よくないぞ？」
+display
+com11 0 2
+sound 231
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「よくなくて、当たり前だよ〜。だって、悪い子
+line2 <shift> # だもん。真美だけ、今日からグレグレだもん！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （すねてしまった。うーん、自分からほめるって
+line2 <shift> # 言ったのに……、寸止めは、よくないな）
+com09 0 69
+display
+location 69
+unk02

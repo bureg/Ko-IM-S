@@ -1,0 +1,427 @@
+com2c 0 148
+com2d 0 51
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ライブの開始より、随分、早く到着して
+line2 <shift> # しまいましたね」
+display
+com11 0 0
+sound 0
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「はい。ですけど、ゆっくり準備が出来ますから
+line2 <shift> # このほうが、うれしいです〜」
+display
+com11 0 0
+sound 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「学園祭のライブって、いつもと雰囲気が違う
+line2 <shift> # ので、なんだかドキドキしてしまって……」
+display
+com11 0 0
+sound 2
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「何か、いつも以上に気をつけておかないと
+line2 <shift> # いけないこと、あるでしょうか〜？」
+com03 0 3
+choice1 <shift> # お祭り気分で楽しく
+line2
+com09 0 10
+com08
+choice2 <shift> # いつもどおりで
+line2
+com09 0 11
+com08
+choice3 <shift> # フレッシュな気持ちで
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お祭り気分で楽しく、お願いします」
+display
+com11 0 0
+sound 3
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「分かりました〜。確かに、出店が出ていたり、
+line2 <shift> # みなさん、楽しそうですものね〜」
+display
+com11 0 0
+sound 4
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「だけど、私はもう短大を卒業して、しばらく
+line2 <shift> # 経ってしまったので……」
+display
+com11 0 0
+sound 5
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「みなさんのノリノリについていけるかしら〜？
+line2 <shift> # ちょっと心配です……」
+com09 0 13
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いつもどおりで、お願いします」
+display
+com11 0 0
+sound 6
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「えっ……。あ、そうなんですか？
+line2 <shift> # いつもどおりに……、ですね」
+display
+com11 0 0
+sound 7
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「それなら私でも、なんとかなりそうです。
+line2 <shift> # 緊張する必要は、ないですよね〜」
+com09 0 13
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「フレッシュな気持ちで、お願いします」
+display
+com11 0 0
+sound 8
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「フレッシュ……？　あ、あの〜、
+line2 <shift> # プロデューサーさん、もしかしてそれは……」
+display
+com11 0 0
+sound 9
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「いつもの私は、フレッシュじゃないってこと
+line2 <shift> # でしょうか〜……？」
+display
+com11 0 0
+sound 10
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「なんだか、落ち込んでしまいます〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「い、いえ、決してそういうわけでは……」
+com09 0 13
+display
+location 13
+com11 0 0
+sound 11
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「だけど、せっかくのライブですから、
+line2 <shift> # 学園祭の雰囲気は、大事にしたいですよね〜」
+display
+com11 0 0
+sound 12
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「プロデューサーさん。ライブまでの時間で、
+line2 <shift> # 少しだけ、学園祭を回ってみませんか〜？」
+display
+com11 0 0
+sound 13
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「そうすれば、この盛り上がりをステージに
+line2 <shift> # つなげられそうな気がするんです〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええ。それなら、出店でも見てみましょうか。
+line2 <shift> # あずささん、行きたいところはありますか？」
+display
+com11 0 0
+sound 14
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あの〜、実はさっき、面白そうな出店を
+line2 <shift> # 見つけてしまって……」
+display
+com11 0 0
+sound 15
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「……き、なんですけれど〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ？　『……き』って？」
+com03 0 3
+choice1 <shift> # ……射的？
+com09 0 20
+com08
+choice2 <shift> # ……たこ焼き？
+line2
+com09 0 21
+com08
+choice3 <shift> # ……好き？
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……射的？」
+display
+com11 0 0
+sound 16
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「はい。そうなんです〜。面白そうですよね。
+line2 <shift> # ああいうのって、やったことなくて」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だけど、あずささんが空気銃を持つのは、
+line2 <shift> # 非常に危険な気が……」
+display
+com11 0 0
+sound 17
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ふふっ。どうしてですか？　大丈夫ですよ〜。
+line2 <shift> # プロデューサーさんを撃ったり、しませんから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （笑顔ですごく怖いこと言ってるな……）
+com09 0 23
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……たこ焼き？」
+display
+com11 0 0
+sound 18
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「い、いいえ。違います〜。
+line2 <shift> # 確かに、おいしそうですけど……」
+display
+com11 0 0
+sound 19
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ライブの前に、そんな油っこいのを食べたら、
+line2 <shift> # 踊れなくなってしまいます〜」
+display
+com11 0 0
+sound 20
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「そうじゃなくて、私が気になっていたのは、
+line2 <shift> # 射的、なんです……」
+com09 0 23
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……好き？」
+display
+com11 0 0
+sound 21
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ええっ！　な、何のことですか？
+line2 <shift> # ヘンなこと、言わないでください……！」
+display
+com11 0 0
+sound 22
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「私が気になっていたのは、あれです〜。
+line2 <shift> # 射的、なんです……」
+com09 0 23
+display
+location 23
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「射的の出店か……。面白そうですね！
+line2 <shift> # あずささん、やってみますか？」
+display
+com11 0 0
+sound 23
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あ、はい。がんばってみます。うふふ〜。
+line2 <shift> # 行きますよー、えいっ！」
+display <shift> # パンッ、パンッ！
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うわああああっ！！　や、やられた〜……」
+display
+com11 0 0
+sound 24
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あら？　どうして、前に向かって撃ってるのに
+line2 <shift> # プロデューサーさんの方に、飛ぶのかしら？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「も、もうやめましょう。あずささんは銃とか
+line2 <shift> # 持たないほうがいいですよ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だけど、そんなに、一生懸命になるなんて、
+line2 <shift> # 狙っている景品でも、あったんですか？」
+display
+com11 0 0
+sound 25
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あ、あの〜……。実は、左端のあれが、
+line2 <shift> # すごく、気になっていて……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あれって、おもちゃの指輪ですか？」
+display
+com11 0 0
+sound 26
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「はい……。ライブの時、つけたいと思って。
+line2 <shift> # 子どもみたいで、おかしい……でしょうか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いえ、いいですよ。だったら、俺が取って
+line2 <shift> # あげましょう」
+display
+com11 0 0
+sound 27
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「えっ、本当ですか〜……！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええ、見てて下さい。一発でしとめますよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うまく当たれば、景品が手に入るぞ！
+line2 <shift> # 箱に狙いを定めよう。どのへんを撃とう？）
+com03 0 3
+choice1 <shift> # 箱の右を狙おう
+line2
+com09 0 30
+com08
+choice2 <shift> # 箱の左を狙おう
+line2
+com09 0 31
+com08
+choice3 <shift> # 箱の中央を狙おう
+line2
+com09 0 32
+com08
+com07
+com09 0 33
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「箱の右を狙おう。……えいっ！」
+display <shift> # パンッ！
+com37 0 1
+com1e 0 0
+com09 0 34
+com3b
+com37 0 0
+com1e 0 0
+com09 0 35
+com3b
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「箱の左を狙おう。……えいっ！」
+display <shift> # パンッ！
+com37 0 1
+com1e 0 0
+com09 0 34
+com3b
+com37 0 0
+com1e 0 0
+com09 0 35
+com3b
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「箱の中央を狙おう。……えいっ！」
+display <shift> # パンッ！
+com37 0 1
+com1e 0 0
+com09 0 34
+com3b
+com37 0 0
+com1e 0 0
+com09 0 35
+com3b
+display
+location 33
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええい、時間もないし、テキトーだ！
+line2 <shift> # ……えいっ！」
+display <shift> # パンッ！
+com09 0 35
+display
+location 34
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やった〜、命中したぞっ！」
+display
+com11 0 0
+sound 28
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「すごいですー、プロデューサーさん！
+line2 <shift> # お上手なんですね。私、尊敬してしまいます〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「はい、あずささん。約束どおり、この指輪は
+line2 <shift> # プレゼントしますよ」
+display
+com11 0 0
+sound 29
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あ、ありがとうございます……！
+line2 <shift> # ふふっ。とってもうれしいです！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなに喜ばれると、申し訳ないですね。
+line2 <shift> # いつかもっと、ちゃんとした指輪を贈りますよ」
+display
+com11 0 0
+sound 30
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「えっ……。そんな、いいんです〜。私は
+line2 <shift> # これでも、じゅうぶん幸せなんですから……」
+display
+com11 0 0
+sound 31
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「プロデューサーさんにもらった指輪です
+line2 <shift> # もの〜。一生、大切にしますね……！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あずささんはすっかりテンションが上がって、
+line2 <shift> # その日のライブは、大いに盛り上がった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そういえば、あずささん。おもちゃの指輪を
+line2 <shift> # 左手にはめていたような……？）
+com4b 0 0
+com09 0 69
+display
+location 35
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うわっ、外したか……！　しまったっ！」
+display
+com11 0 0
+sound 32
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ああ〜、残念でしたね……。だけどそんなに、
+line2 <shift> # 気にしないでください」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「す、すみません。もっと当たりやすそうな
+line2 <shift> # あの貯金箱とか、取りましょうか？」
+display
+com11 0 0
+sound 33
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「いえ、いいんです〜。あのおもちゃの
+line2 <shift> # 指輪がいいなって、思っただけですから……」
+display
+com11 0 0
+sound 34
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「それに、他のものを、いただいても、
+line2 <shift> # あんまり意味がないんです〜……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あずささんは、何故かすっかりテンションが
+line2 <shift> # 下がってしまった……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （お祭り気分でライブに挑んで欲しかったのに。
+line2 <shift> # これじゃ、逆効果だったな……）
+com4b 0 2
+com09 0 69
+display
+location 69
+unk02

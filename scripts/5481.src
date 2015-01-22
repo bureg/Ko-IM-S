@@ -1,0 +1,264 @@
+com2c 0 42
+com2d 0 13
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やっとの思いで抑えたライブハウスだけど、
+line2 <shift> # ずいぶんクセのある場所だね」
+display
+com11 0 5
+sound 200
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そうですね。なんだか、ワイルドな、
+line2 <shift> # 怪しい雰囲気……」
+display
+com11 0 5
+sound 201
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「壁が破れてたり、それから、
+line2 <shift> # ちょっとタバコくさいかも」
+display
+com11 0 5
+sound 202
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ちょっと、お掃除したほうがいいですよね？」
+com03 0 2
+choice1 <shift> # そうだな、掃除だな
+line2
+com09 0 10
+com08
+choice2 <shift> # それはどうかなぁ
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだな、掃除は必要かな。わざと
+line2 <shift> # 壁を破いてるのかもしれないけど」
+display
+com11 0 5
+sound 203
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「わ、わざとですか？　なんででしょう？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「このハコのイメージの問題というか……。でも、
+line2 <shift> # 袖の空き缶とかはわざとじゃない気がするなぁ」
+display
+com11 0 5
+sound 204
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ですよね？　私、あとで拾っておきます！」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それはどうかなぁ、わざとダーティな感じに
+line2 <shift> # してあるから、いいんじゃないか？」
+display
+com11 0 5
+sound 205
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「えっ？　で、でも、空き缶とか
+line2 <shift> # ゴミ箱に山盛りで放ってありましたよ？」
+display
+com11 0 5
+sound 206
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「私、捨ててきます！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「い、いや、そういうのはスタッフにお願い
+line2 <shift> # しようよ……。春香が自分で行かなくても」
+display
+com11 0 5
+sound 207
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「うーん……。時間あったら、私、ちょっとは
+line2 <shift> # 片付けちゃいたいところなんだけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （渋々だけど空き缶拾いはやめてくれたようだ）
+com09 0 29
+display
+location 29
+com11 0 5
+sound 208
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、客席の暗がりに、よく見ると、
+line2 <shift> # お客さんがちらほらと……」
+display
+com11 0 5
+sound 209
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ちょっと、雰囲気が、
+line2 <shift> # おっかない感じかもしれませんっ」
+display
+com11 0 5
+sound 210
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「虎視眈々と獲物を狙う、
+line2 <shift> # ケモノのような目つき達っ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おいおい、そりゃ言いすぎだ……。
+line2 <shift> # でも確かにプレッシャーを感じるなぁ」
+display
+com11 0 5
+sound 211
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あのお客さん達に、
+line2 <shift> # 歌、ちゃんときいてもらえるのかな？」
+com03 0 3
+choice1
+com4f 0 1 130 198 130 201 130 169 130 173
+line2 <shift> # 頑張ろう
+com09 0 30
+com08
+choice2
+com4f 0 2 137 137 143 111 130 240
+line2 <shift> # 考えよう
+com09 0 31
+com08
+choice3 <shift> # やっぱやめようか
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「と、とにかく、頑張ろう！」
+display
+com11 0 5
+sound 212
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい！　えっ！？　『とにかく』頑張ろう？
+line2 <shift> # なんだか、微妙に投げやりですねぇ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、いや……。正直、俺も自信がなくて。
+line2 <shift> # ここのお客さん達に喜んでもらえるかどうか」
+display
+com11 0 5
+sound 213
+com4b 0 0
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「プロデューサーさん、緊張してるんですか？
+line2 <shift> # 肩の力抜いて、気楽に行きましょうよ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お、おう！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （春香に励まされてしまった。余裕があるみたい
+line2 <shift> # だ……。ステージも心配いらなそうだな）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ちょっと、作戦というか、
+line2 <shift> # 演出を考えるか……」
+display
+com11 0 5
+sound 214
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「このライブハウスの雰囲気に合わせて、
+line2 <shift> # 渋く歌ったほうがいいですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、逆だ。むしろ明るく！」
+display
+com11 0 5
+sound 215
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「明るく……、いつもよりはなやかに？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだ！　この場の暗さやもやもやを、明るい
+line2 <shift> # 歌で吹き飛ばそう。ステージがきっと引きたつ」
+display
+com11 0 5
+sound 216
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そうですね、あっ……。それであえて、
+line2 <shift> # このライブハウスを選んだんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうとも！」
+display
+com11 0 5
+sound 217
+com4b 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「なるほど、さすがプロデューサーさん！
+line2 <shift> # それじゃ、張り切って行ってきます！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （はつらつとした春香のステージに、お客さんは
+line2 <shift> # 驚きつつも、意外に満足した様子だった）
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「や、やっぱやめようか。なんだか
+line2 <shift> # いろいろと心配になってきたよ」
+display
+com11 0 5
+sound 218
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「えっ！？　いきなり何言い出すんですか！
+line2 <shift> # せっかく取ったステージなのに」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いざお客さんを前にしてみたら、なんだか
+line2 <shift> # 俺らがここで演奏しても大丈夫なのか？　って」
+display
+com11 0 5
+sound 219
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そんなぁ……。プロデューサーさんが
+line2 <shift> # そう言うと、私も少し自信なくなってきたな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「す、すまん……」
+display
+com11 0 5
+sound 220
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「でも、もったいないですよ」
+display
+com11 0 5
+sound 221
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「このライブハウス予約するのだって、
+line2 <shift> # プロデューサーさんが頑張ってくれたんだし」
+display
+com11 0 5
+sound 222
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ほら、お客さんだって、ちゃんと
+line2 <shift> # 来てくれてるんだし……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだな……。ごめんな、妙なことを言って。
+line2 <shift> # しっかりステージをやってきてくれ、頼むぞ！」
+display
+com11 0 5
+sound 223
+com4b 0 2
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「……はいっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （やれやれ、情けないぞ俺。
+line2 <shift> # 春香の方がよっぽどしっかりしてるじゃないか）
+com09 0 49
+display
+location 49
+unk02

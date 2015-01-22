@@ -1,0 +1,316 @@
+com2c 0 63
+com2d 0 71
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「律子、これから軽い打ち合わせを……、
+line2 <shift> # あれ？　どうしたんだ、頭抱えて？」
+display
+com11 0 2
+sound 1100
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「う〜ん、まいったな。さすがに、
+line2 <shift> # まだ能力的に不安が……、あっ」
+display
+com11 0 2
+sound 1101
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「プロデューサー、来てたんですか」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「こんなところでひとりで、何か考え事？」
+display
+com11 0 2
+sound 1102
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ええ、ちょっとね。将来の世界進出に向けて
+line2 <shift> # プランを練っていたんだけど」
+display
+com11 0 2
+sound 1103
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「私、肝心なことを忘れてたのを
+line2 <shift> # 思い出して……、それで困ってるんです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「忘れてた？　なんだ？　普段強気な律子が
+line2 <shift> # 悩むなんてよっぽどだな」
+display
+com11 0 2
+sound 1104
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「それって当然、外国で芸能活動するには
+line2 <shift> # 意識しなければならないことで……」
+display
+com11 0 2
+sound 1105
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ああもう、なんで
+line2 <shift> # こんな大事なことを忘れてるかなぁ」
+com03 0 2
+choice1 <shift> # 言葉の違いか？
+line2
+com09 0 10
+com08
+choice2 <shift> # 生活習慣の違いか？
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「言葉の違い……、言語の違いか？」
+display
+com11 0 2
+sound 1106
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そうそう、それそれ！　海外行くなら
+line2 <shift> # 日本語だけじゃダメでしょ？」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「生活習慣とか、風習、文化の違いか？」
+display
+com11 0 2
+sound 1107
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「うんうん、国が変われば暮らしも変わるし。
+line2 <shift> # それに、タレントとしてウケるものも変わるし」
+display
+com11 0 2
+sound 1108
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あ〜でも、それ以前にまず……
+line2 <shift> # 言葉が違うのよね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なるほど、言葉か。言語が違えば
+line2 <shift> # 歌の伝え方も変わるなぁ」
+display
+com11 0 2
+sound 1109
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そうそう、海外行くなら
+line2 <shift> # 日本語だけじゃダメでしょ？」
+com09 0 29
+display
+location 29
+com11 0 2
+sound 1110
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「外国語をできるようにならないと。
+line2 <shift> # やるなら、まずは英語かなぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだなぁ、ま、やるしかないだろう」
+display
+com11 0 2
+sound 1111
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そうねぇ。でも発音とか、苦手なのよね。
+line2 <shift> # ちょっと気が重くなっちゃうなぁ」
+display
+com11 0 2
+sound 1112
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「学校の勉強だって最近遅れがちなのに……
+line2 <shift> # 語学教室にも行かないとダメかな」
+com03 0 3
+choice1 <shift> # 今からでも頑張れば
+line2
+com09 0 30
+com08
+choice2 <shift> # いつか自然に身につくさ
+line2
+com09 0 31
+com08
+choice3 <shift> # 余計な心配じゃないか？
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今からでも頑張れば、なんとか間に合うさ」
+display
+com11 0 2
+sound 1113
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そうかな？　だといいんだけど。そうだ、
+line2 <shift> # プロデューサー、いい語学教室、知りません？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ん？　語学教室か……すぐに心当たりは
+line2 <shift> # ないけど、調べておくよ。見つけたら知らせる」
+display
+com11 0 2
+sound 1114
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ん、ありがと。頼りにしてます」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ……って、うわっ！
+line2 <shift> # 律子が俺に礼を言うなんて、珍しいなぁ」
+display
+com11 0 2
+sound 1115
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「わ、私だってお礼くらい言いますよ！
+line2 <shift> # たまにはっ！」
+display
+com11 0 2
+sound 1116
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「要するにそのくらい真剣に悩んでるって
+line2 <shift> # ことでっ……ちゃかさないでくださいよぉ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ははは……いや、驚いたんだってば」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （おおっと、笑っちゃいけないな。よし、
+line2 <shift> # 俺もきちんと、律子の力になってやろう）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、いつか自然に言葉は身につくさ。
+line2 <shift> # 必要に駆られれば、案外早く覚えるものだよ」
+display
+com11 0 2
+sound 1117
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そうかな？　だといいんだけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だからそう気を焦らなくても
+line2 <shift> # いいんじゃないかな」
+display
+com11 0 2
+sound 1118
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「べ、別に焦ってるわけじゃ……対策は
+line2 <shift> # 早めに考えるに越したことないでしょ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「しかし、急いては事を仕損じるぞ。
+line2 <shift> # まずは目の前の目標をクリアだ」
+display
+com11 0 2
+sound 1119
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「まぁね。ひとまず学校の勉強の
+line2 <shift> # 遅れを取り戻しておくかなぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだぞ、落第でもしたら
+line2 <shift> # 本末転倒だぞ？」
+display
+com11 0 2
+sound 1120
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「しませんってば。ちょっと出席が
+line2 <shift> # 足りてないだけなんだから」
+display
+com11 0 2
+sound 1121
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「テストの成績とかは、
+line2 <shift> # 全然問題ないわけだし……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうなのか？」
+display
+com11 0 2
+sound 1122
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あ〜あ、でも学校でいい成績取ったって、
+line2 <shift> # 将来的には何の意味もないのよねぇ」
+display
+com11 0 2
+sound 1123
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ま、いいけど……ああっと、語学教室
+line2 <shift> # 探さないと。ちょっと私、調べてきます」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （言うが早いか、律子は行ってしまった。はやる
+line2 <shift> # 気持ちはわかるが、落ちついてほしいなぁ）
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「しかし余計な心配じゃないか？　そんな
+line2 <shift> # いつになるやらわからない先の話なんて」
+display
+com11 0 2
+sound 1124
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「いつになるかわからないから
+line2 <shift> # 心配してるんじゃないですかぁ！」
+display
+com11 0 2
+sound 1125
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「たとえば、世界から声がかかるのが、
+line2 <shift> # 来年、いや、来月だったらっ！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、それはさすがに
+line2 <shift> # 考えすぎじゃないか……？」
+display
+com11 0 2
+sound 1126
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「だから、たとえば、ですってば。
+line2 <shift> # 極端な例を出したけど……」
+display
+com11 0 2
+sound 1127
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「もしものときに備えて、対策は早く考えるに
+line2 <shift> # 越したことはない、ってことですよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「しかし、発音がどうのこうのと言うなら、
+line2 <shift> # 英語より先に日本語できちんと歌えないと」
+display
+com11 0 2
+sound 1128
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「む、むぅ。なかなか厳しいところを
+line2 <shift> # ついてくるなぁ。確かにそのとおりですよ……」
+display
+com11 0 2
+sound 1129
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ちょっとまだ発声とか、発音とか、
+line2 <shift> # 我ながら不安が残ってるからなぁ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「となると、普段の歌のトレーニングが
+line2 <shift> # まず大事だな。語学よりは」
+display
+com11 0 2
+sound 1130
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「い、言われなくたってっ。ああもう、
+line2 <shift> # 課題が山積みで頭が痛いな、うっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （律子は思い切り考え込んで、しばらくその場で
+line2 <shift> # 動かなくなってしまった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しまった、ちょっと俺が言葉で追い詰めすぎた
+line2 <shift> # かな。律子、悩み過ぎなければいいんだけど）
+com09 0 49
+display
+location 49
+unk02

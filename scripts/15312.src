@@ -1,0 +1,555 @@
+com2c 0 67
+com2c 0 59
+com2d 0 31
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今日は、お忍びで買い物に出かける、
+line2 <shift> # やよいの付き添いだ）
+display
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「プロデューサー、ごめんなさい。付き合わせ
+line2 <shift> # ちゃって。私、この辺は、詳しくないから……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「気にしなくていいよ。どっちにしろ、
+line2 <shift> # やよい１人で、買い物には、行かせられないし」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やよいは、もう一流のアイドルだからな。
+line2 <shift> # ファンに見つかったら、すごいことになるぞ」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「え、そうですかー？　私、家の近所の
+line2 <shift> # 商店街じゃ、全然そんなことないですよ」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「昨日も、特売の冷凍ししゃも３パックを買いに
+line2 <shift> # 行きましたけど、何もなかったし」
+com03 0 3
+choice1 <shift> # 近所の人とは違うよ
+line2
+com09 0 10
+com08
+choice2 <shift> # 商店街、人が少ないのか？
+line2
+com09 0 11
+com08
+choice3 <shift> # 地元だと人気ないんだな……
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「近所の人とは違うよ。だって、近所の人は、
+line2 <shift> # やよいを、子どもの頃から見てるんだからな」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あの、私まだ、子どもですけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええと、もっと小さい時から見てるって意味だ
+line2 <shift> # よ。やよいがすごく有名になったからって……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「近所の人が、いきなり態度を変えるほうが、
+line2 <shift> # おかしいだろ？」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はい。想像しただけで、何だか寂しいです〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だから、近所で騒がれないのは、普通だよ」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「商店街、人が少ないのか？
+line2 <shift> # やよいの地元、さびれてるんだな……」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えっ？　そ、そんなことないですよー！
+line2 <shift> # 商店街は、さびれてなんか、いませんっ！」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「色々大変らしいですけど、でも、
+line2 <shift> # お客さんいっぱいいて、にぎやかですよ？」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「特に最近、なんか、すみれカードっていう、
+line2 <shift> # 商店街独自の電子カードもあって……」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「お買い物１００円ごとに、１円が戻ってくるん
+line2 <shift> # です！　ポイントサービス還元ですーっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうして、そんなに興奮するんだ？　……まあ、
+line2 <shift> # いいけど。大きい商店街なんだとしても……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「地元じゃ、騒ぎにならないのは当然だよ。
+line2 <shift> # 近所の人も、やよいを見慣れてるだろうし」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そっか。
+line2 <shift> # 地元だと人気ないんだな、やよい……」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ええ〜っ！？
+line2 <shift> # そ、そんなことないですよ〜！」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「魚屋さんのおじさんは、『いつもやよいちゃん
+line2 <shift> # 応援してるよ』って言ってくれるし……」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「学校でも、友達は、
+line2 <shift> # みんな、応援してくれてますよ〜？」
+display
+com11 0 0
+sound 10012
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「この前は、商店街独自のポイントカードの、
+line2 <shift> # キャラクターになってくれって！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんな力説しなくても、わかってるって。
+line2 <shift> # さっきのは、冗談だよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「地元じゃ、やよいには、いつでも会えるからな。
+line2 <shift> # いちいち騒ぎになんか、ならないさ」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、ここらの人にとっては、やよいは、
+line2 <shift> # 滅多に会えない、スーパーアイドルだからな」
+display
+com11 0 0
+sound 10013
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あ、あの。もし、ファンの人に、
+line2 <shift> # 見つかっちゃったら、どうなるんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ひどい騒ぎになるな。ファンが四方八方から
+line2 <shift> # 殺到して……、もみくちゃにされるだろうな」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「も、もみくちゃ……。髪の毛とか、
+line2 <shift> # 引っぱられちゃうのかな。ううう……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そのぐらいで済めばいいけど……。もしかした
+line2 <shift> # ら、そのポシェットも、奪われるかもしれない」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ええ〜っ！　こ、ここには、
+line2 <shift> # 隠し財産とかもあるし、困ります！」
+display
+com11 0 0
+sound 10016
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「み、見つからないようにしなきゃ〜！　でも、
+line2 <shift> # どうしたらいいでしょう、プロデューサー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだな。こんな場合には……」
+com03 0 3
+choice1 <shift> # 自然に振舞えばいい
+line2
+com09 0 30
+com08
+choice2 <shift> # 素早く動くのが１番
+line2
+com09 0 31
+com08
+choice3 <shift> # こそこそと行動する
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いつも通り、自然に振舞えばいいよ」
+display
+com11 0 0
+sound 10017
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「自然にですか？　でも、それじゃ、
+line2 <shift> # すぐに見つかっちゃいませんかー？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、こそこそするから、かえって目立つんだ。
+line2 <shift> # 普通にしてれば、わからないさ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「実際、さっきから、何もしてなくても、
+line2 <shift> # 見つかってないだろ？　そういうもんだよ」
+display
+com11 0 0
+sound 10018
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あっ！　そういえば、そうですね。
+line2 <shift> # 誰も、こっちを見てないかも……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「こら、きょろきょろしない！」
+display
+com11 0 0
+sound 10019
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うあっ、ごめんなさい〜。
+line2 <shift> # 自然に、自然に……」
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「きびきびと、素早く動くのが１番だ。
+line2 <shift> # そうすれば、顔を判別される可能性が減るぞ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それに、もし見つかっても、
+line2 <shift> # 囲まれる前に、逃げられる。カンペキだ！」
+display
+com11 0 0
+sound 10020
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「わかりましたーっ！　走り回るのなら、
+line2 <shift> # 得意かなーって。行っきまーす！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おお、素早い！　これなら、まず見つからない
+line2 <shift> # ぞ！　というか……、姿が見えない……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お〜い、やよい〜！　……って、
+line2 <shift> # 大声で探しちゃまずいよな。困ったぞ」
+display
+com11 0 0
+sound 10021
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「もう、プロデューサー！
+line2 <shift> # ちゃんと、ついてきて下さいよ〜っ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ごめんごめん。やよいが早すぎるから、
+line2 <shift> # 見失ってしまったんだよ」
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「見つからないように、こそこそと、
+line2 <shift> # 行動するんだ。これしかない」
+display
+com11 0 0
+sound 10022
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「わっ！　それって忍者みたいですね。
+line2 <shift> # 本当に、お忍びって感じかも！」
+display
+com11 0 0
+sound 10023
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「では……、こそこそこそこそ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「…………」
+display
+com11 0 0
+sound 10024
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「こそこそこそ。……あ、あれ？」
+display
+com11 0 0
+sound 10025
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「な、なんだか、すごく周りから、
+line2 <shift> # 見られてる気がします〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うん。俺たち、逆に、すごく目立ってるな。
+line2 <shift> # ……やっぱり、普通に歩くか」
+display
+com11 0 0
+sound 10026
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「は、はいー……」
+com09 0 49
+display
+location 49
+com22 0 30
+com21 0 30
+com32 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ところで、まだ、きいてなかったけど、
+line2 <shift> # 今日は、何を買いに来たんだ？」
+display
+com11 0 0
+sound 10027
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えへへ……、お母さんへのプレゼントです。
+line2 <shift> # もうすぐ誕生日なんですよー」
+display
+com11 0 0
+sound 10028
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「いつもは、妹や弟達と、肩たたき券なんかを、
+line2 <shift> # プレゼントするんですけど……」
+display
+com11 0 0
+sound 10029
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「今年は、すごい物を贈って、お母さんをびっく
+line2 <shift> # りさせようと思って。たまにはいいですよね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだな。いいんじゃないか？
+line2 <shift> # それにしても、さすが、やよいは親孝行だな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「で、贈る物は、もう決まってるのか？」
+display
+com11 0 0
+sound 10030
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「それが、まだ全然決まってなくて……。
+line2 <shift> # いい物が、いっぱいあって、迷っちゃってます」
+display
+com11 0 0
+sound 10031
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「プロデューサーだったら、
+line2 <shift> # どんな物が、いいと思いますか？」
+com03 0 3
+choice1 <shift> # アクセサリーかな
+line2
+com09 0 50
+com08
+choice2 <shift> # やよいが選ぶべきだ
+line2
+com09 0 51
+com08
+choice3 <shift> # タヌキの置物だ
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やっぱり、アクセサリーとかが、
+line2 <shift> # いいんじゃないか？」
+display
+com11 0 0
+sound 10032
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「アクセサリーですかー……。
+line2 <shift> # そうですね！　探してみます！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「無難すぎるかもしれないけど、美しいものを
+line2 <shift> # キライだっていう女性は、いないと思うんだ」
+display
+com11 0 0
+sound 10033
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えへへっ。さすがプロデューサーです！
+line2 <shift> # モテモテ発言ですねーっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ゴホン、大人をからかうのはやめなさい。……
+line2 <shift> # あ、でも、俺の言う通りでなくてもいいんだぞ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お母さんは、きっと、やよいからの
+line2 <shift> # プレゼントなら、なんでも喜ぶだろうしな」
+display
+com11 0 0
+sound 10034
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はい！　でも、やっぱり私、
+line2 <shift> # アクセサリーが、いいと思います」
+display
+com11 0 0
+sound 10035
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「お母さんも、お父さんとデートする時は、
+line2 <shift> # そういうの、あった方が、うれしいだろうし」
+display
+com11 0 0
+sound 10036
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あっ、このブローチ、ステキです〜！
+line2 <shift> # うーん、これがいいかも……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （結局、やよいはアクセサリーを買った。
+line2 <shift> # 満足のいく買い物が出来たようで、良かった！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （やよいが、自分用のアクセサリーを
+line2 <shift> # 欲しがる日も、いつか来るのかな……）
+com09 0 69
+display
+location 51
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……いや、やっぱりここは、
+line2 <shift> # やよいが選んだ方が、いいよ」
+display
+com11 0 0
+sound 10037
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「え？　でも、私が選んだら、
+line2 <shift> # 変な物に、なっちゃうかも……」
+display
+com11 0 0
+sound 10038
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「それに、プロデューサーが選んだ方が、
+line2 <shift> # きっと、お母さんも喜ぶと思うんです」
+display
+com11 0 0
+sound 10039
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「お母さん、プロデューサーのこと、
+line2 <shift> # 気に入ってますから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだったのか？
+line2 <shift> # それは、ありがたいことだけど、でも……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やっぱり、実の娘が選んでくれた物の方が、
+line2 <shift> # もっと喜んでくれると思うぞ」
+display
+com11 0 0
+sound 10040
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うう……、わかりました。
+line2 <shift> # 私、がんばって考えてみます！」
+display
+com11 0 0
+sound 10041
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あっ！　決めました！　あれにします！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「早いな！　……え？　おい、どこへ行くんだ？
+line2 <shift> # そっちは食料品売り場だぞ？」
+display
+com11 0 0
+sound 10042
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「お母さん、前に、これが食べたいって、
+line2 <shift> # 言ってたんですよー！」
+display
+com11 0 0
+sound 10043
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「１パックなのに、３パックと同じ値段の、
+line2 <shift> # 高級納豆です！　ぜいたく品ですよーっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （やよいのお母さんなら、間違いなく、喜んで
+line2 <shift> # くれるとは思うが……。誕生日に納豆か……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （やはり、ちゃんとアドバイスすべきだったかな。
+line2 <shift> # ……後で、俺も何か選んでおくとしよう）
+com09 0 69
+display
+location 52
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ズバリ！　ここはタヌキの置物だな！」
+display
+com11 0 0
+sound 10044
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ええっ！？　た、タヌキ！？
+line2 <shift> # 何でですか〜？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やよいは、すごい贈り物で、
+line2 <shift> # お母さんを、びっくりさせたいんだろ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なら、これしかないよ。誕生日プレゼントに、
+line2 <shift> # タヌキの置物なんて、絶対に驚くぞ！」
+display
+com11 0 0
+sound 10045
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そ、それはそうかもだけど……、いいのかな。
+line2 <shift> # うーん、うーん……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「バッチリだよ！　俺を信じろ！」
+display
+com11 0 0
+sound 10046
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「わかりました。決めますっ！
+line2 <shift> # プロデューサーを信じて、置物にしますっ！」
+display
+com11 0 0
+sound 10047
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あ、でも、タヌキの置物は、どこに
+line2 <shift> # 売ってるんですか？　……タヌキ屋さん？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後、俺とやよいは、タヌキの置物を探しに、
+line2 <shift> # 遠くの街まで、足をのばすことになった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （なんとか発見し、無事プレゼントしたようだが、
+line2 <shift> # やよいは、あれからタヌキのことを話さない）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺なら大喜びなんだが……。何だかとりかえし
+line2 <shift> # がつかないことを、してしまったようだな……）
+com09 0 69
+display
+location 69
+unk02

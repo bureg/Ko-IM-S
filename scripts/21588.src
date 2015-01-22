@@ -1,0 +1,419 @@
+com2c 0 43
+com2d 0 51
+com32 0 0
+com11 0 2
+sound 400
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「プロデューサーさん、聞きましたか？　カップ
+line2 <shift> # リングの曲、２番の歌詞を、私が考えることに」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「みたいですね。もう決まりましたか？」
+display
+com11 0 2
+sound 401
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「それが、まだ……」
+display
+com11 0 2
+sound 402
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「一生懸命考えても、どうもひねりがないんです
+line2 <shift> # よね。作詞の才能は、ないみたいです。はあー」
+com03 0 3
+choice1 <shift> # ないものは、気にしたって……
+line2
+com09 0 10
+com08
+choice2 <shift> # まあ、遊びですから
+line2
+com09 0 11
+com08
+choice3 <shift> # 本とか、読んでますか？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ないものは、気にしたって……」
+display
+com11 0 2
+sound 403
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ですよね。ただ、スタッフの方を待たせて
+line2 <shift> # しまっているのが、悪いなあと」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、遊びですから」
+display
+com11 0 2
+sound 404
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「作曲家の先生も、そう言ってくれているのです
+line2 <shift> # けど、なかなか割り切れなくて」
+display
+com11 0 2
+sound 405
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「せっかくの曲、ムダにしてしまったら、
+line2 <shift> # みんなが悲しい思いをしてしまいますし」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「本とか、読んでますか？」
+display
+com11 0 2
+sound 406
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「じつは、最近、あまり……。それが原因で、
+line2 <shift> # なにも思いつかないのかもしれませんね」
+display
+com11 0 2
+sound 407
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ベッドで寝る前に読もうと思っても、すぐに
+line2 <shift> # 眠ってしまって。私、昔から、そうなんです」
+com09 0 29
+display
+location 29
+com11 0 2
+sound 408
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「んー、あきらめて、ぜんぶプロの人に任せる
+line2 <shift> # のが、一番カンタンだとは、思うのですけれど」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それは、よくないですよ。
+line2 <shift> # やっぱり、こういうのは……」
+com03 0 2
+choice1 <shift> # 参加することが、大切です
+line2
+com09 0 30
+com08
+choice2 <shift> # バリエーションが、大切です
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「参加することが、大切です」
+display
+com11 0 2
+sound 409
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そうですね。歌う本人がつくれば、
+line2 <shift> # それだけ、歌詞の説得力も増しますし」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「バリエーションが、大切です」
+display
+com11 0 2
+sound 410
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、足を引っ張ってでも、でしょうか？
+line2 <shift> # 急に、レベルが落ちてしまっては……」
+display
+com11 0 2
+sound 411
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「弱音はいけませんね。こんなことを言ってい
+line2 <shift> # る間に、がんばって考えないと」
+com09 0 49
+display
+location 49
+com11 0 2
+sound 412
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ！　よかったら、プロデューサーさんの力も、
+line2 <shift> # 貸してもらえませんか？」
+display
+com11 0 2
+sound 413
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「２番の歌詞のサビ、『あなたを〜〜〜で
+line2 <shift> # 感じたい』っていう風にしようと思うんです」
+display
+com11 0 2
+sound 414
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「恋の甘さを出すなら、どこで感じるって
+line2 <shift> # したら、いいでしょうか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、『あなたを〜〜〜で感じたい』ですか。
+line2 <shift> # それなら、やっぱりここでしょう」
+com0e 1 57
+com44
+com09 0 50
+com45
+com44
+com09 0 51
+com45
+com44
+com09 0 52
+com45
+com44
+com09 0 53
+com45
+com44
+com09 0 54
+com45
+com44
+com09 0 55
+com45
+com44
+com09 0 56
+com45
+com44
+com09 0 57
+com45
+com44
+com09 0 58
+com45
+com44
+com09 0 59
+com45
+display
+location 50
+com34 0 3
+com11 0 2
+sound 415
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「『あなたを、肩で感じたい』。えーと、好きな
+line2 <shift> # 人によりかかって……。あ、すごいステキです」
+display
+com11 0 2
+sound 416
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「……尊敬します。こんなの、私ではとても。
+line2 <shift> # ありがとうございましたっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （心から、気に入ってもらえたようだ。
+line2 <shift> # キレイな声で、しっとりと歌いあげてほしいな）
+com09 0 69
+display
+location 51
+com11 0 2
+sound 417
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「『あなたを、髪で感じたい』。えーと、
+line2 <shift> # そんなの、できるでしょうか。どうやって？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、こう、恋人が近づいてくると、
+line2 <shift> # 気配で、逆立つというか……」
+display
+com11 0 2
+sound 418
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「まるで、動物みたいですね。おもしろいとは
+line2 <shift> # 思うのですけれど、そのー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （どうも、気に入ってくれなかったようだ。
+line2 <shift> # うーん、あまりにも、突飛な内容すぎたか）
+com09 0 69
+display
+location 52
+com11 0 2
+sound 419
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「『あなたを、頭で感じたい』。それは、つまり
+line2 <shift> # 理解するということでしょうか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうです。やはり、大人の恋は、
+line2 <shift> # お互いを、わかりあってこそだと思いますし」
+display
+com11 0 2
+sound 420
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そのー、意味はわかるのですけれど、歌詞と
+line2 <shift> # しては……。す、すみませんっ、せっかく……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （どうも、気に入ってくれなかったようだ。
+line2 <shift> # 『脳で感じたい！』　……これはもっとダメか）
+com09 0 69
+display
+location 53
+com34 0 1
+com11 0 2
+sound 421
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「『あなたを、目で感じたい』。あ、よくある
+line2 <shift> # パターンですけれど、やはりそれが……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ちょっと無難ですけど。もし気に入らなければ、
+line2 <shift> # 別のにしても」
+display
+com11 0 2
+sound 422
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「いえ。これで、いってみようと思います！
+line2 <shift> # ふふっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ほっ、どうやら採用してもらえたみたいだ。
+line2 <shift> # もうすこし冒険しても、よかったかもな）
+com09 0 69
+display
+location 54
+com11 0 2
+sound 423
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「『あなたを、口で感じたい』。ぁ、そ、それは
+line2 <shift> # やはり……そういう意味ですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「このくらい、ズバッといった方が、インパクト
+line2 <shift> # ありますよね？」
+display
+com11 0 2
+sound 424
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「大胆すぎないでしょうか？　アイドルソングに
+line2 <shift> # しては、あまりにも……」
+display
+com11 0 2
+sound 425
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「それに聞きようによっては……。あ、ゃ、私。
+line2 <shift> # とにかく、許してもらえると……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （黙り込ませてしまった。これは、とても
+line2 <shift> # 採用どころじゃない。……最悪かもな）
+com09 0 69
+display
+location 55
+com34 0 3
+com11 0 2
+sound 426
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「『あなたを、ほほで感じたい』。あ、せつなく
+line2 <shift> # て、とてもステキだと思います！」
+display
+com11 0 2
+sound 427
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ラブソングには、やはり、こういう詞が
+line2 <shift> # ピッタリですね。ありがとうございましたっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （心から、気に入ってくれたようだ。しっとり
+line2 <shift> # 歌いあげて、最高の曲にしてほしいな）
+com09 0 69
+display
+location 56
+com11 0 2
+sound 428
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「『あなたを、顔で感じたい』。そんなのできる
+line2 <shift> # でしょうか？　いったいどうやって？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「こう、顔面をこすりつけるというか。フェイス
+line2 <shift> # トゥ・フェイスってやつです」
+display
+com11 0 2
+sound 429
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ゆ、ゆかいな感じ方があるんですね。歌を聞く
+line2 <shift> # 人に、うまく伝わるといいのですけれど」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うーん、ちょっと強引だったかな？　おそらく
+line2 <shift> # こんな案じゃ、採用される見込みはない……）
+com09 0 69
+display
+location 57
+com34 0 1
+com11 0 2
+sound 430
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「『あなたを、胸で感じたい』。あ、いいかも
+line2 <shift> # しれません。よくある感じではありますけど」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ちょっとパターンすぎますか？　もし、気に
+line2 <shift> # いらなかったら……」
+display
+com11 0 2
+sound 431
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「いえ、これでいこうと思います。ありがとう
+line2 <shift> # ございました」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ほっ、どうやら採用してもらえたみたいだ。
+line2 <shift> # がんばれば、もっといい案、出せたかもな）
+com09 0 69
+display
+location 58
+com11 0 2
+sound 432
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「え？　そんなところで、うまく歌詞にハマる
+line2 <shift> # でしょうか？　私、すこしイメージが……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そうですか？　あまり、なさそうな
+line2 <shift> # ラインをねらったんですけど」
+display
+com11 0 2
+sound 433
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「耳慣れない歌詞だと、聞いてる人もわからない
+line2 <shift> # かもしれませんね。普通のラブソングですし」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うーん、指摘が具体的じゃなかったか？
+line2 <shift> # もっと、スパッと決めたいとこだったけど……）
+com09 0 69
+display
+location 59
+com11 0 2
+sound 434
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あのー、プロデューサーさん。ここって、どこ
+line2 <shift> # です？　考え中でしょうか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「い、いえ。黙っていても、感じるっていうか。
+line2 <shift> # つまり『あなたを、霊能力で感じたい』？」
+display
+com11 0 2
+sound 435
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「す、すごいですね。そんなスケールの大きい
+line2 <shift> # 歌詞、私、とても……」
+display
+com11 0 2
+sound 436
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「んー。後は、周りの方が何というか、ですね。
+line2 <shift> # 気味悪いって言われなければ、いいのですけど」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うーん、恋はテレパシーなんだけどなあ……。
+line2 <shift> # うまく伝わらなかったようだ）
+com09 0 69
+display
+location 69
+unk02

@@ -1,0 +1,273 @@
+com2c 0 18
+com2d 0 11
+com11 0 1
+sound 900
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「プロデューサーさん……、なんだか、
+line2 <shift> # ドラマのセットみたいの、組んでませんか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、今回はＰＶはＰＶでも、
+line2 <shift> # プライベートっぽいところを撮りたいんだ」
+display
+com11 0 1
+sound 901
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「普通の生活っぽい様子を、
+line2 <shift> # スタジオで撮る……、ってこと？」
+display
+com11 0 1
+sound 902
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ふ、なるほどぉ。でも、撮影だと思うと、
+line2 <shift> # なかなか普段みたいには、いかないかも」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「隠し撮りみたいなほうが、いいかな？」
+display
+com11 0 1
+sound 903
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「う、それはどうかと。とりあえず、セットに
+line2 <shift> # 入って……、普段っぽくしなきゃですねっ」
+com03 0 3
+choice1 <shift> # リラックスしていれば
+line2
+com09 0 10
+com08
+choice2 <shift> # 緊張していれば
+line2
+com09 0 11
+com08
+choice3 <shift> # 油断していれば
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだね、普段どおりにリラックスして、
+line2 <shift> # くつろいでくれればいいよ」
+display
+com11 0 1
+sound 904
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「はい。リラックス、リラックス……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……って、それが意識しすぎだってば。
+line2 <shift> # 普通でいいんだよ」
+display
+com11 0 1
+sound 905
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あはは♪　は、そうですね。カメラは、
+line2 <shift> # なるべく気にしないようにします」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「普段どおりに緊張していれば、
+line2 <shift> # いいんじゃないかな？」
+display
+com11 0 1
+sound 906
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「はい、普段どおりに……、って、私、
+line2 <shift> # そんなに緊張気味かなぁ？　普段」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、どっちかというと、
+line2 <shift> # 油断してることのほうが多いかな？」
+display
+com11 0 1
+sound 907
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ああっ、ひどいですプロデューサーさん……。
+line2 <shift> # 私、そんなにスキだらけですかっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「冗談だって。いい意味での緊張感は欲しいけど、
+line2 <shift> # まずはリラックスだ。リラックス」
+display
+com11 0 1
+sound 908
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「はぁーい……」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだね、普段どおりに油断していれば、
+line2 <shift> # いいんじゃない？」
+display
+com11 0 1
+sound 909
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ど、どういう意味ですかっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、いや、春香はすぐずっこけたり、
+line2 <shift> # 普段から油断が多いからな」
+display
+com11 0 1
+sound 910
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ううっ、ひどいです、プロデューサーさん。
+line2 <shift> # そんな、ほんとのこと言うなんて！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ち、違う！　春香がいつもムダに気を張らず、
+line2 <shift> # リラックスしてるのは、いいことだと！」
+display
+com11 0 1
+sound 911
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「えと……、そう、言いたかったんですか？
+line2 <shift> # ははっ、それならまぁ、納得です♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そうだろう、納得だろう？
+line2 <shift> # ほら、さっそく適度に脱力しよう、適度に」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （なんとかごまかせたかな……）
+com09 0 29
+display
+location 29
+com11 0 1
+sound 912
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あっ、このセット……、よく見たらなんだか、
+line2 <shift> # 事務所に似てるかも！」
+display
+com11 0 1
+sound 913
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「もしかして、似せて作ってくれたのかな？
+line2 <shift> # だとしたら、スタッフさんに感謝ですね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、そうだね、よくできてる」
+display
+com11 0 1
+sound 914
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「それにしても、普段どおりの生活を見せる、
+line2 <shift> # ……って感じで、撮影をするわけですけど」
+display
+com11 0 1
+sound 915
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「まるっきり普段どおりだと、
+line2 <shift> # あんまり絵にならないかも」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なにか筋立てはいるね。でも大丈夫、
+line2 <shift> # 撮影の設定というか、あらすじは用意してある」
+display
+com11 0 1
+sound 916
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あらすじですか……、具体的にはどんな？
+line2 <shift> # ドラマっぽい感じなのかなぁ」
+com03 0 2
+choice1 <shift> # おはようからおやすみまで
+line2
+com09 0 30
+com08
+choice2 <shift> # ゆりかごから墓場まで
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おはようからおやすみまで、という感じでどう
+line2 <shift> # かな……。日常を描いた、ホームドラマ風に」
+display
+com11 0 1
+sound 917
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「なるほどぉ、朝起きて、ご飯食べて、
+line2 <shift> # みたいな……。ほのぼのな感じですね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「たぶん、新曲の明るい雰囲気にも、
+line2 <shift> # 合ってると思うよ」
+display
+com11 0 1
+sound 918
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ホームドラマかぁ、面白くなりそうっ。
+line2 <shift> # 楽しみですね♪」
+display
+com11 0 1
+sound 919
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「私、張り切ってお母さん役を、
+line2 <shift> # やっちゃいますよ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （そして春香は、イキイキと撮影に臨んだ。自然
+line2 <shift> # な振る舞いと表情が、魅力的に撮れたみたいだ）
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ゆりかごから墓場まで、という感じで、
+line2 <shift> # どうだろうか……」
+display
+com11 0 1
+sound 920
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「えっ？　うーん、どういうことでしょう？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ええと、成長ドラマっぽい感じで。春香が、
+line2 <shift> # 歌を歌うようになるまでの過程の話、かな」
+display
+com11 0 1
+sound 921
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ええっ！？　てことは、生まれてから今まで
+line2 <shift> # の話ですか！　一大スペクタクルですね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、あくまでプランだ。予定だ。
+line2 <shift> # そこまで大げさなものには、しないつもりだよ」
+display
+com11 0 1
+sound 922
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「で、でも、長いお話になりそうですね……。
+line2 <shift> # なんだかちょっと難しそうだなぁ」
+display
+com11 0 1
+sound 923
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「一生の話……、それを自然に、できるかなぁ？
+line2 <shift> # 私、演技は、あんまりダメなんですよぉ」
+display
+com11 0 1
+sound 924
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「で、でもっ、頑張らなきゃ！
+line2 <shift> # よーし、いい撮影にしましょうね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （春香は、気合いをいれて撮影に臨んだ）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （しかし、プレッシャーがあったのか、
+line2 <shift> # ぎこちない内容になったようだ……）
+com09 0 49
+display
+location 49
+unk02

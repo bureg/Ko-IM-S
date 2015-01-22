@@ -1,0 +1,245 @@
+com2c 0 92
+com2c 0 57
+com2d 0 21
+com32 0 0
+com11 0 2
+sound 1000
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「この会場……、誰もが一度は、ライブやりたい
+line2 <shift> # って思う、あこがれの場所よね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。伊織も、ここまできたってわけだ」
+display
+com11 0 2
+sound 1001
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……ふんっ、私、こういう場所きらーい。
+line2 <shift> # 音の質とか、どうしても悪くなるし」
+display
+com11 0 2
+sound 1002
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「それに、こんなとこ、
+line2 <shift> # ただの通過点なんだから……」
+com03 0 3
+choice1 <shift> # いや、出発点だよ
+line2
+com09 0 10
+com08
+choice2 <shift> # たしかに、そうだな
+line2
+com09 0 11
+com08
+choice3 <shift> # いや、終着点だよ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、出発点だよ。
+line2 <shift> # ここから、新しい挑戦がはじまるんだ」
+display
+com11 0 2
+sound 1003
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そーね。まだ頂点に立ったわけじゃないし。
+line2 <shift> # ここ踏み台にして、もっとえらくなってやるわ」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「たしかに、そうだな。
+line2 <shift> # これで終わりってわけじゃないし」
+display
+com11 0 2
+sound 1018
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「いちいち、あれこれ感じてるヒマなんてないわ。
+line2 <shift> # まだまだ、これからだもんっ！」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、終着点だよ。
+line2 <shift> # ここまで来られるアイドルは、一握りだし」
+display
+com11 0 2
+sound 1005
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なに言ってるのよー。こんな古ぼけた会場が
+line2 <shift> # ゴールじゃ、さびしすぎるわっ」
+display
+com11 0 2
+sound 1006
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「私にふさわしいのは、やっぱり巨大ドームかし
+line2 <shift> # ら。……あんたも、欲出さなきゃ、ダメよっ」
+com09 0 29
+display
+location 29
+com11 0 2
+sound 1007
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ま、きょ、今日のところはガマンして、
+line2 <shift> # ここで歌ってあげる……」
+com03 0 2
+choice1 <shift> # そうしてくれると、助かる
+line2
+com09 0 30
+com08
+choice2 <shift> # そんなにイヤか？
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうしてくれると、助かる」
+display
+com11 0 2
+sound 1008
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「もう使用料、払っちゃったんだから、
+line2 <shift> # しかたないわよね。は、反省しなさいよ……」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなにイヤか？」
+display
+com11 0 2
+sound 1009
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「い、イヤに決まってるでしょ……。
+line2 <shift> # わかりきったこと、ツッコまないでよ」
+com09 0 49
+display
+location 49
+com11 0 2
+sound 1010
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「う……。ぷ、プロデューサー。
+line2 <shift> # ちょっと、水買ってきてくれる？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いいけど……。
+line2 <shift> # もしかして、緊張してるのか？」
+display
+com11 0 2
+sound 1011
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そんなわけないでしょっ！
+line2 <shift> # ただ、薬飲みたいだけ……。早く〜」
+display
+com22 0 30
+com32 0 1
+com21 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （さて、コンビニの前にきたけど……。
+line2 <shift> # どれ、買っていくかな？）
+com03 0 3
+choice1 <shift> # ミネラルウォーター２リットル
+line2
+com09 0 50
+com08
+choice2 <shift> # ミネラルウォーター３３０ｍｌ
+line2
+com09 0 51
+com08
+choice3 <shift> # 滋養強壮！　毒まむしドリンク
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com22 0 30
+com32 0 0
+com21 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ほら、伊織。これ……」
+display
+com11 0 2
+sound 1012
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あ、大きいの、買ってきたのね。ありがと。
+line2 <shift> # く、薬飲んだ残りは、楽屋で飲むわっ」
+display
+com11 0 2
+sound 1013
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「また、いつ薬飲みたくなるか、わからないし！
+line2 <shift> # そういう時、便利よねっ。このサイズ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （薬なんて、多分ウソだよな。２リットルあれば、
+line2 <shift> # どんなに緊張しても、ノドをうるおせるだろう）
+com09 0 69
+display
+location 51
+com22 0 30
+com32 0 0
+com21 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ほら、伊織。これ……」
+display
+com11 0 2
+sound 1014
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あ、小さいの、買ってきたのね……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。薬飲むんなら、
+line2 <shift> # このサイズで、じゅうぶんだろ？」
+display
+com11 0 2
+sound 1015
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そ、そうね。ありがと。大切に、ちょびちょび
+line2 <shift> # 飲むわ。……すぐ、なくなっちゃいそうだし」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （薬飲むんなら、グビグビ飲んだ方がいいと思う
+line2 <shift> # けど……。単に、ノドが乾いただけなのか？）
+com09 0 69
+display
+location 52
+com22 0 30
+com32 0 0
+com21 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ほら、伊織。すごいの買ってきたぞ！」
+display
+com11 0 2
+sound 1016
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「な、な、なによ、それーっ！
+line2 <shift> # 私は、水、買ってきてって、言ったのにー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、これからライブだし、
+line2 <shift> # こういう方が、いいんじゃないか？」
+display
+com11 0 2
+sound 1017
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「イヤよー！　そんなドロドロしたマズそうなの。
+line2 <shift> # も〜、余計なことばっかりするんだからー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （俺なりに、気をきかせたつもりだったのに。
+line2 <shift> # あまり、気に入ってもらえなかったようだ）
+com09 0 69
+display
+location 69
+unk02

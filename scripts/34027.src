@@ -1,0 +1,298 @@
+com2c 0 39
+com2d 0 61
+com32 0 0
+com11 0 5
+sound 900
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ああ、いきなり撮影なんて……。
+line2 <shift> # き、緊張します」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「宣伝用の軽い写真だ。急な撮影で、
+line2 <shift> # すまないけど、まぁ、さくっと撮っちゃおうよ」
+display
+com11 0 5
+sound 901
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「宣伝用！？　そ、それって、
+line2 <shift> # 責任重大ですよっ」
+display
+com11 0 5
+sound 902
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「写真ひとつで、クライアントさんの印象が、
+line2 <shift> # 決まっちゃうじゃないですか……、ううっ」
+com03 0 2
+choice1 <shift> # そうでもない
+line2
+com09 0 10
+com08
+choice2 <shift> # そうだなぁ
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうでもないさ。写真一枚だけで、
+line2 <shift> # 仕事の可否が決まるわけじゃあないんだ」
+display
+com11 0 5
+sound 903
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「そ、そうですかっ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「雪歩は歌がメインだろう？　きっと、クライ
+line2 <shift> # アントも、いつもの音を、きいてくれてるさ」
+display
+com11 0 5
+sound 904
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「あ、は、はい！　ですね……。
+line2 <shift> # やっぱり、歌がメインだから……」
+display
+com11 0 5
+sound 905
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ああ、それだといいな……」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだなぁ、雑誌とかＴＶの仕事だと、
+line2 <shift> # アイドルの見た目で選びたいこともあるよね」
+display
+com11 0 5
+sound 906
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「で、ですよね？　だから……、
+line2 <shift> # ちょっと、自信なくて」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、写真一枚で、
+line2 <shift> # すべてが決まるわけじゃないから、大丈夫さ」
+display
+com11 0 5
+sound 907
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「そうでしょうかぁ……。不安だなぁ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「普段の歌やステージでの印象も、
+line2 <shift> # きっと見てくれてるさ。ほら、自信持とうよ」
+display
+com11 0 5
+sound 908
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「はい、わかりましたぁ」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、ひとまず、数枚試し撮りをして、
+line2 <shift> # そのテストショットを眺めてみた……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、なにか写真が、おとなしいなぁ。
+line2 <shift> # まるで身分証みたいな、かしこまった写真だ」
+display
+com11 0 5
+sound 909
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「そうですか？　でも、こういうものは、
+line2 <shift> # きちんとしてないといけない気がして」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、もっとこう、活発な印象を出そうよ。
+line2 <shift> # 明るい持ち歌のような……」
+display
+com11 0 5
+sound 910
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「写真で、明るく……？　し、照明を、
+line2 <shift> # 明るくするんじゃあないですよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「雰囲気を明るく、だよ。四角張ってるよりは、
+line2 <shift> # いいだろう？　もう少し楽しい写真にしよう」
+display
+com11 0 5
+sound 911
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「は、はい。明るく、雰囲気を明るく……、
+line2 <shift> # したいけど……、ううっ、私、どうすれば？」
+com03 0 3
+choice1 <shift> # ちょっと歌って
+line2
+com09 0 30
+com08
+choice2 <shift> # ちょっと踊って
+line2
+com09 0 31
+com08
+choice3 <shift> # ちょっと笑って
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ちょっと歌ってみたら？
+line2 <shift> # 気分が、ほぐれるかもしれない」
+display
+com11 0 5
+sound 912
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「そうですか、それじゃあ……」
+display
+com11 0 5
+sound 913
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ふふふん、ふんふん、ふふふん♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おっ、なんかいい顔になってきたぞ！」
+display
+com11 0 5
+sound 914
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「えっ！　ほ、ほんとですかっ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、もうカメラマンが内緒で、
+line2 <shift> # 何枚か撮ったみたいだよ」
+display
+com11 0 5
+sound 915
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ええっ！　そ、そんなっ、いいんですか？
+line2 <shift> # 私の、歌ってる時の顔の写真で……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「その、歌ってる時の顔が、一番、
+line2 <shift> # いいみたいだよ。きっと好印象だ」
+display
+com11 0 5
+sound 916
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「は、はい！　ありがとうございますっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （……と言って雪歩がはにかんだ、そこをすかさ
+line2 <shift> # ず撮ってもらった。最高の写真になったぞ！）
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあちょっと、そのへんで踊ってみようか」
+display
+com11 0 5
+sound 917
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「そ、そんな……。まさか、
+line2 <shift> # ダンスしてるところを、撮るんですか？」
+display
+com11 0 5
+sound 918
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「い、いやですぅ。きっと、私、
+line2 <shift> # 下手だし、かっこわるいから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そう言わずに頼むよ、ほらっ」
+display
+com11 0 5
+sound 919
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ううっ、ぐすっ……。い、いじわるですぅ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あっ、その顔いい！　ちょっと泣いた、
+line2 <shift> # そのせつない感じが、いいかも……、撮ろうか」
+display
+com11 0 5
+sound 920
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「い、いやです、な、泣いてるのなんか！
+line2 <shift> # 撮られたくないですっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ごめんごめん。おっ。でも、そのふくれっ面も、
+line2 <shift> # 結構いいかもなぁ。写真は、こっちにするか」
+display
+com11 0 5
+sound 921
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「む、むぅ……。ず、ずるいです、
+line2 <shift> # プロデューサー。そんなの、撮るなんてぇ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ははは、とにかく、もう一枚行くよ？
+line2 <shift> # さぁ笑って」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後の雪歩は肩の力が抜け、柔らかい雰囲気
+line2 <shift> # の宣伝用写真を、うまく撮ることができた）
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ちょっと、笑って」
+display
+com11 0 5
+sound 922
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「こここ、こんな、感じですかっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「い、いや。もうちょっと普通に、
+line2 <shift> # にっこり笑って」
+display
+com11 0 5
+sound 923
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「えと、あのその、こ、こうですかっ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、なんかひきつってるような……。
+line2 <shift> # やっぱり表情が硬いよ、もっとこう明るく！」
+display
+com11 0 5
+sound 924
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ううっ、ぐすっ……。うまくできない。
+line2 <shift> # 全然言われたとおりに、できてない」
+display
+com11 0 5
+sound 925
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「私なんてきっと、だめだめアイドルです……。
+line2 <shift> # 自分の顔もちゃんと、作れないなんて」
+display
+com11 0 5
+sound 926
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「おわびに、このへんに、
+line2 <shift> # 穴掘っておきますぅ……、ぐすっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああっ、掘らなくていいってば！
+line2 <shift> # 掘るな！　埋まるな！　帰ってこいっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （雪歩は、相当落ち込んでしまったようで、
+line2 <shift> # 表情もさえないまま、スタジオを出て行った）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （これでは、撮影は続けられないな。俺がもっと、
+line2 <shift> # うまい指示をしてやれればよかったんだが……）
+com09 0 49
+display
+location 49
+unk02

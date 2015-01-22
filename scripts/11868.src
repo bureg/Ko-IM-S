@@ -1,0 +1,243 @@
+com50 0 31
+com2c 0 24
+com32 0 0
+com2d 0 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （仕事の合間のオフ時間、自由行動にしたかった
+line2 <shift> # が、外は、あいにくの悪天候だ……）
+display
+com11 0 0
+sound 200
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「まったく、ひどい嵐ね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「止むまで、うかつに外に出られないな」
+display
+com11 0 0
+sound 201
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「こんな時、もし外の仕事だったら、
+line2 <shift> # より、ゆううつだわ〜」
+display
+com11 0 0
+sound 202
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「服にドロがあがったりしたら……。
+line2 <shift> # ああ、考えるだけでもゾッとするわ！」
+com03 0 3
+choice1 <shift> # オフで幸いだったな
+line2
+com09 0 10
+com08
+choice2 <shift> # 心配性だな
+com09 0 11
+com08
+choice3 <shift> # 気にしすぎだな
+line2
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「オフで幸いだったな。今はただ、
+line2 <shift> # ここで待っていればいいだけだから」
+display
+com11 0 0
+sound 203
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ま、そうね。
+line2 <shift> # じたばたしても、仕方ないし」
+display
+com11 0 0
+sound 204
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「退屈だけど。休みらしく、
+line2 <shift> # ちょっとガマンして、休んでおくわ〜……」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「心配性だな。ちょっとのドロはねくらい、
+line2 <shift> # なんてことないだろ」
+display
+com11 0 0
+sound 205
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「あんたね！　この服、いったい、
+line2 <shift> # いくらかかってると思って……」
+display
+com11 0 0
+sound 206
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……って、プロデューサーに言ったところで、
+line2 <shift> # この価値が、わかるわけもないわね〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「きこえてるぞ、伊織」
+display
+com11 0 0
+sound 207
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「にひひっ♪」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「気にしすぎだな」
+display
+com11 0 0
+sound 208
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「気にしすぎ、って、何が」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「仕事ともなれば、服にドロだのなんだのと
+line2 <shift> # 言ってるヒマはだな……」
+display
+com11 0 0
+sound 209
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ああもう。お説教なら、ききたくもないわ。
+line2 <shift> # ただでさえこの天気でゆううつ気分なのに……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……っとと。オフの時まで、こんな話は、
+line2 <shift> # ナシだな。ひとまず、雨あがれ、雨！」
+display
+com11 0 0
+sound 210
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そうそう、お説教より、どうせなら、
+line2 <shift> # 逆雨乞いでも、してみせなさいよ」
+com09 0 19
+display
+location 19
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しばらくして……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、ちょっと雨あしが、
+line2 <shift> # 弱くなってきたかな？」
+display
+com11 0 0
+sound 211
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「もう少しで、あがりそうな気配ね。
+line2 <shift> # これでやっと、外で羽が伸ばせるわっ」
+display
+com11 0 0
+sound 212
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「でも……。ああ、道路はドロドロ、
+line2 <shift> # 歩道も、ぐちゃぐちゃ」
+display
+com11 0 0
+sound 213
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「嵐の後の道なんて、とてもじゃないけど、
+line2 <shift> # 歩いて出る気がしないわ〜……」
+com03 0 2
+choice1 <shift> # 俺が車を呼んでやるよ
+line2
+com09 0 20
+com08
+choice2 <shift> # 休んでいればいいだろう
+line2
+com09 0 21
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どこか出かけるつもりなら、
+line2 <shift> # 俺が車を呼んでやるよ」
+display
+com11 0 0
+sound 214
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「あらほんと？　気が利くわね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「歩道で、ブツブツ文句言いながら、
+line2 <shift> # 立ち往生されても、困るからな……」
+display
+com11 0 0
+sound 215
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「なーんか言った？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「言ってない、言ってない」
+display
+com11 0 0
+sound 216
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ふふっ、気が利くついでに、プロデューサーに、
+line2 <shift> # 買い物につきあってもらおうかしら？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ＯＫ、つきあいましょうとも」
+display
+com11 0 0
+sound 217
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「頼んだわよ……。あ、窓の外！　虹が出てる！
+line2 <shift> # なんだか幸先いいわね♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後、俺と伊織とで、街に出かけた。
+line2 <shift> # 伊織は、楽しくオフの時間を過ごせたみたいだ）
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「オフなんだし、もう少しゆっくり、
+line2 <shift> # ここで休んでいればいいだろう」
+display
+com11 0 0
+sound 218
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「イヤよ！　じっとしてるのは、
+line2 <shift> # もう、うんざり！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃあ、出かけるのか？」
+display
+com11 0 0
+sound 219
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ドロドロ道路を歩くのは、もっとイヤよ。
+line2 <shift> # 絶対にイヤ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「世話の焼けるお嬢様だ」
+display
+com11 0 0
+sound 220
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「とにかく、ここで待ってるのには飽きてきたわ。
+line2 <shift> # いっそ、一旦、家に帰ろうかしら……」
+display
+com11 0 0
+sound 221
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「でも、帰るには外に出なきゃならないし……。
+line2 <shift> # ああ、なんだかイライラしてきた！」
+display
+com11 0 0
+sound 222
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「イライラするのは、あんたのせいよ！
+line2 <shift> # きーっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「な、なぜ、俺が！？
+line2 <shift> # 嵐のせいじゃないのか！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （なんとか伊織を落ち着かせたが、なだめるのに、
+line2 <shift> # 時間がかかった。疲れるオフになったな……）
+com09 0 29
+display
+location 29
+unk02

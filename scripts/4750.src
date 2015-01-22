@@ -1,0 +1,279 @@
+com2c 0 25
+com2d 0 11
+com32 0 0
+com11 0 2
+sound 1200
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ふふふーん♪　ふんふんふふーん♪」
+display
+com11 0 2
+sound 1201
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「おかしいお菓子がふふんふーん♪
+line2 <shift> # のんきな顔してふんふふーん♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「春香、ずいぶんご機嫌だな。
+line2 <shift> # 鼻歌なんて歌っちゃって」
+display
+com11 0 2
+sound 1202
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「わっ！　プロデューサーさん聴いてたん
+line2 <shift> # ですか！　ち、ちょっと恥ずかしいかも……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「少し変わった鼻歌だね」
+display
+com11 0 2
+sound 1203
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「お母さんがよくキッチンで、変な鼻歌を
+line2 <shift> # 歌うんです……それ、私も覚えちゃって」
+com03 0 2
+choice1 <shift> # 明るいお母さんだな
+line2
+com09 0 10
+com08
+choice2 <shift> # 面白いお母さんだな
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「明るい、いいお母さんなんだな。
+line2 <shift> # なんか鼻歌から、そんな感じしたよ」
+display
+com11 0 2
+sound 1204
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「はい！　えへへ……そうですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「春香の家って明るくていい家庭っぽいな」
+display
+com11 0 2
+sound 1205
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「えへへ♪　それがちょっと自慢です♪」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なかなか面白いお母さんみたいだな。
+line2 <shift> # なんか鼻歌から、そんな感じしたよ」
+display
+com11 0 2
+sound 1206
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そうですねぇ、私も、楽しくって明るい
+line2 <shift> # お母さんだと思います♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「春香が面白おかしいのもたぶん、
+line2 <shift> # お母さんに似たんだろうなぁ」
+display
+com11 0 2
+sound 1207
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ええっ！？　うちのお母さんは、その……、
+line2 <shift> # 私みたいに転んだりはしないですよ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、いや、そうじゃなくてな……まぁいいか。
+line2 <shift> # 別に深い意味はないよ。気にするな」
+display
+com11 0 2
+sound 1208
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そうですかぁ。えっと、それよりも……」
+com09 0 29
+display
+location 29
+com11 0 2
+sound 1209
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「私のお母さんも、お菓子作りと歌が
+line2 <shift> # 大好きなんですよ！」
+display
+com11 0 2
+sound 1210
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「というか、私の趣味が、
+line2 <shift> # お母さんの趣味に似たのかなぁ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「春香のお菓子好きはお母さん譲り、
+line2 <shift> # ってことかな？」
+display
+com11 0 2
+sound 1211
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あっ、はい。そうですそうです。私も
+line2 <shift> # いつか、お母さんみたいになりたいなぁ♪」
+com03 0 3
+choice1 <shift> # なれるさ
+com09 0 30
+com08
+choice2 <shift> # なれるのかな
+line2
+com09 0 31
+com08
+choice3 <shift> # お母さんと春香は別だ
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なれるさ！　もちろん！」
+display
+com11 0 2
+sound 1212
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ほんとですかっ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、きっとなるさ」
+display
+com11 0 2
+sound 1213
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そうだったら嬉しいな♪　お母さんみたいに、
+line2 <shift> # 明るいキッチンで、お料理作って……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「春香が家庭持ちになったら……歌とケーキに
+line2 <shift> # 囲まれた楽しい家庭になりそうだな」
+display
+com11 0 2
+sound 1214
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「わぅ、そ、そうかな……が、頑張ります！
+line2 <shift> # 期待しててくださいね、プロデューサーさん！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、ああ。頼むぞ」
+display
+com11 0 2
+sound 1215
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「はい！　ふふふーん♪
+line2 <shift> # ふんふんふふーん♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （春香はかなり機嫌がいいようだ……。やる気も
+line2 <shift> # じゅうぶんみたいだし、期待が持てるな）
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なれるのかな……どうかな？」
+display
+com11 0 2
+sound 1216
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あ、えっと……そうですよね。
+line2 <shift> # 今後の、私の頑張り次第なのかな？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なれるといいな、と俺も思う。でも、春香は
+line2 <shift> # 春香らしさを伸ばせばいいんじゃないか？」
+display
+com11 0 2
+sound 1217
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「私らしさ、ですか？　私の……。
+line2 <shift> # うーん、どんなところだろ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お母さんの真似でない、春香だけの歌や
+line2 <shift> # お菓子もあると思うんだけどな」
+display
+com11 0 2
+sound 1218
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「私のオリジナルってことかな……
+line2 <shift> # うーん、ちょっと難しいけどぉ……」
+display
+com11 0 2
+sound 1219
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「よーし、これから頑張って、もっともっと
+line2 <shift> # 研究してみますね、プロデューサーさん！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、ああ。頑張れよ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （春香はなかなかやる気みたいだ。
+line2 <shift> # 今後も楽しみだな……）
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お母さんと春香は別だろう」
+display
+com11 0 2
+sound 1220
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「えっ、べ、別って？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、お母さんとまったく同じようになろうと
+line2 <shift> # 思わないほうがいいんじゃないかなぁ」
+display
+com11 0 2
+sound 1221
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「どうしてですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「個性の問題だよ。お母さんはお母さん、
+line2 <shift> # 春香は春香なんだし」
+display
+com11 0 2
+sound 1222
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「お母さんが、私の憧れでも……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「憧れたり、目標にして頑張るのはいい。でも
+line2 <shift> # 春香には春香のすることがあるじゃないか」
+display
+com11 0 2
+sound 1223
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「私、頑張ってもお母さんみたいには
+line2 <shift> # なれないってことですか……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、いや、そういう意味じゃ
+line2 <shift> # なかったんだけどな」
+display
+com11 0 2
+sound 1224
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「プロデューサーさんにそう言われると、
+line2 <shift> # なんかちょっと……ショックです」
+display
+com11 0 2
+sound 1225
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「うーん、私って……いろいろ
+line2 <shift> # 頑張り足りないのかなぁ、ううっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （何故か春香は、すねてしまった……。
+line2 <shift> # もう少し言葉を選んでやればよかったかな）
+com09 0 49
+display
+location 49
+unk02

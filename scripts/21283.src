@@ -1,0 +1,379 @@
+com2c 0 40
+com2d 0 51
+com32 0 0
+com11 0 1
+sound 500
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「大手メーカーの、シャンプーのＣＭですね。
+line2 <shift> # なんとか、無事につとめなくては」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もし、あずささんに出てもらえないなら、
+line2 <shift> # 『この企画は消えてた』って、代理店の人が」
+display
+com11 0 1
+sound 501
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そこまで思ってもらえるのは、うれしいですね。
+line2 <shift> # けれど、いくらなんでも、大げさなのでは？」
+display
+com11 0 1
+sound 502
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「どうがんばっても、海外のタレントさんの
+line2 <shift> # 髪とかには、とても、かないませんし」
+com03 0 3
+choice1 <shift> # 黒髪の海外タレントは、少ないです
+line2
+com09 0 10
+com08
+choice2 <shift> # ブロンドヘアとか、憧れます？
+line2
+com09 0 11
+com08
+choice3 <shift> # やってみなきゃ、わかりません！
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「黒髪の海外タレントは、少ないです」
+display
+com11 0 1
+sound 503
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そうですね。それが、起用してもらえた
+line2 <shift> # 理由かもしれません。ふふっ」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ブロンドヘアとか、憧れます？」
+display
+com11 0 1
+sound 504
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「キレイだなあとは思います。でも、とくに
+line2 <shift> # そうなりたいとかは、ないですね」
+display
+com11 0 1
+sound 505
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「染めたりするのも、あまり好きではなくて。
+line2 <shift> # 今時こんなこと考えているの、私くらいかしら」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やってみなけりゃ、わかりません！」
+display
+com11 0 1
+sound 506
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「えっ、ど、どうしたのです？
+line2 <shift> # そんな、別に勝負するとかいうものでも」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、すみません、つい熱く……」
+display
+com11 0 1
+sound 507
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「もちろん、できる範囲ではがんばります。私
+line2 <shift> # なりの、髪を生かす演技もあると思いますので」
+com09 0 29
+display
+location 29
+com11 0 1
+sound 508
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そうだ、プロデューサーさん。私がこれから
+line2 <shift> # しゃべるセリフって、聞きましたか？」
+display
+com11 0 1
+sound 509
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「『さわらせてあ〜げないっ』だそうです。
+line2 <shift> # いまみたいな言い方で、いいでしょうか？」
+com03 0 3
+choice1 <shift> # ツボです
+com09 0 30
+com08
+choice2 <shift> # 最高です
+com09 0 31
+com08
+choice3 <shift> # ダメです
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ツボです」
+display
+com11 0 1
+sound 510
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ……ふふっ、ありがとうございます。では、
+line2 <shift> # 本番もこんな感じで。すこし自信が持てました」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「最高です」
+display
+com11 0 1
+sound 511
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「む、無理に、ほめてくれなくてもいいですよ？
+line2 <shift> # ためしに、言ってみただけですので」
+display
+com11 0 1
+sound 512
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「でも、そんなに悪くもないですよね。後はディ
+line2 <shift> # レクターさんと相談して、決めようと思います」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ダメです」
+display
+com11 0 1
+sound 513
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ううっ、むずかしいですね。メリハリが足り
+line2 <shift> # なかったでしょうか？　では、強調して」
+display
+com11 0 1
+sound 514
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「『さわらせてあ〜げな〜いっっっ』。これでは、
+line2 <shift> # いじわるですね。もうすこし研究を……」
+com09 0 49
+display
+location 49
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やっぱりあずささんも、気安く髪には触れて
+line2 <shift> # ほしくないって方ですか？」
+display
+com11 0 1
+sound 515
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「んー、人にもよりますけど。……さわって、
+line2 <shift> # みたいですか？　プロデューサーさんなら、私」
+display
+com11 0 1
+sound 516
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「だれもー、見てないですよね？　だったら、
+line2 <shift> # どうぞ。触れてみても……」
+com0e 1 60
+com44
+com09 0 50
+com45
+com44
+com09 0 51
+com45
+com44
+com09 0 52
+com45
+com44
+com09 0 53
+com45
+com44
+com09 0 54
+com45
+com44
+com09 0 55
+com45
+com44
+com09 0 56
+com45
+display
+location 50
+com34 0 2
+com11 0 1
+sound 517
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ぁ……。ふふっ、なんだか照れてしまいますね。
+line2 <shift> # こうしていると、私……」
+display
+com11 0 1
+sound 518
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「もう、すこしだけ……。あ、さ、撮影が
+line2 <shift> # 終わってからにしますねっ。それでは！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （さらさらで、やわらかくて、最高の髪だ。ここ
+line2 <shift> # まで、気を許してもらえる存在になれたんだな）
+com09 0 69
+display
+location 51
+com34 0 1
+com11 0 1
+sound 519
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「え、そんなすこしで、いいんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ほら、撮影前ですから、万が一、傷つけたり
+line2 <shift> # してしまうと……」
+display
+com11 0 1
+sound 520
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「言われてみれば、そうですね。私、考えなしに。
+line2 <shift> # と、とりあえず、仕事、終わらせてきますねっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （気恥ずかしそうに、駆けていってしまった。
+line2 <shift> # 惜しいことしたけど、これが俺なりの誠意か）
+com09 0 69
+display
+location 52
+com11 0 1
+sound 521
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「痛っ！　ぷ、プロデューサーさん？
+line2 <shift> # どうして目なんて……。うううっ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「す、すみません！　マツゲも、髪と同じで
+line2 <shift> # やわらかいのか、気になってしまって」
+display
+com11 0 1
+sound 522
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「なら、はじめから、そう言ってくれれば。
+line2 <shift> # 私、さわりやすいように、横を……」
+display
+com11 0 1
+sound 523
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「んっ、一度、控室に戻って、いいでしょうか？
+line2 <shift> # 目薬、さしてきたいので」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ひどいことをしてしまった。好奇心のままに
+line2 <shift> # 行動しちゃいけないな。子どもじゃあるまいし）
+com09 0 69
+display
+location 53
+com11 0 1
+sound 524
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ぁ、ゃ……。ぷ、プロデューサーさん、私の
+line2 <shift> # くちびる」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「か、髪もやわらかそうですけど、こっちも」
+display
+com11 0 1
+sound 525
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「こ、困ります、こんなところで。
+line2 <shift> # わ、わ、私、ど、あ、ど……」
+display
+com11 0 1
+sound 526
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「し、仕事に行かなくては。あ、え、えと……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （いきなりの不意打ちで、困惑させてしまった。
+line2 <shift> # あっ、あずささん、そっちは出口……！）
+com09 0 69
+display
+location 54
+com11 0 1
+sound 527
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ぷ、プロデューサーさん、
+line2 <shift> # く、くすぐったいです。どうして肩なんて」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、キレイな肌だなって、見ているうちに、
+line2 <shift> # つい……。怒りましたか？」
+display
+com11 0 1
+sound 528
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そんなことは。でも、へ、ヘンな気分に」
+display
+com11 0 1
+sound 529
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そ、そのうち、ボディソープのＣＭにも。
+line2 <shift> # ……わ、私、なに言ってるのかしら」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （突然、妙なところをさわって、おどろかせて
+line2 <shift> # しまった。いくらなんでも、これは失礼だよな）
+com09 0 69
+display
+location 55
+com11 0 1
+sound 530
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「プロデューサーさん、わかっているとは
+line2 <shift> # 思いますけど、そこは髪ではー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……そうですよね。でも、これから撮影なのに、
+line2 <shift> # ヘアスタイルを乱すようなことは」
+display
+com11 0 1
+sound 531
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あっ。そんなこと、全然、考えていなかった
+line2 <shift> # です。つい思いつきで……」
+display
+com11 0 1
+sound 532
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「すみません、おかしなこと言って。わ、私、
+line2 <shift> # どうかしてたんですね、きっと……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （しゅんとしてしまった。うーん、かるく触る
+line2 <shift> # ぐらいなら、問題なかった気もするけど）
+com09 0 69
+display
+location 56
+com11 0 1
+sound 533
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「プロデューサーさん、あ、あのー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「さわりたいのは山々ですけど……やっぱり
+line2 <shift> # 悪いというか、失礼な気が」
+display
+com11 0 1
+sound 534
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そうですか。まあ、こんなことを突然言い出す
+line2 <shift> # 私も、どうかしてますよねっ」
+display
+com11 0 1
+sound 535
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「いまのこと、忘れてください。ただ、もし
+line2 <shift> # さわりたいならって、思っただけですので……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （これは、恥をかかせたって、言わないか？
+line2 <shift> # これからの撮影への影響が、心配だな……）
+com09 0 69
+display
+location 69
+unk02

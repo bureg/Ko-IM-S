@@ -1,0 +1,358 @@
+com2c 0 34
+com2d 0 33
+com32 0 0
+com11 0 2
+sound 800
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「大変です〜っ！
+line2 <shift> # セットに、トラブルがあったって！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え？　もう、本番間近なのに……」
+display
+com11 0 2
+sound 801
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「私、お手伝いしてきても、いいですかっ？」
+com03 0 3
+choice1 <shift> # ＯＫ！
+com09 0 10
+com08
+choice2 <shift> # うーん……
+com09 0 11
+com08
+choice3 <shift> # スタッフに任せよう
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ＯＫ！」
+display
+com11 0 2
+sound 802
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ありがとうございますっ！」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん……」
+display
+com11 0 2
+sound 803
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「こんな時に、じっとしてるなんて……。
+line2 <shift> # う〜ん！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、やよい……？」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「スタッフに任せよう」
+display
+com11 0 2
+sound 804
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「でもっ、みんな、こんなに忙しそうなのに〜。
+line2 <shift> # なにか、ひとつぐらい……、きっとっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、やよい……？」
+com09 0 19
+display
+location 19
+com11 0 2
+sound 805
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「みんなー、がんばろー！
+line2 <shift> # できること、言って下さーいっ」
+display
+com22 0 30
+com21 0 30
+com11 0 2
+sound 806
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ふぅー。
+line2 <shift> # これで、なんとか間に合いそうですねっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。すごい結束力だったな」
+display
+com11 0 2
+sound 807
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「……ちょっとー、ハイ、タッチ？」
+com0e 0 214
+com44
+com09 0 20
+com45
+com44
+com09 0 21
+com45
+com44
+com09 0 22
+com45
+com44
+com09 0 23
+com45
+com44
+com09 0 24
+com45
+com44
+com09 0 25
+com45
+display
+location 20
+com11 0 2
+sound 808
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ぃぇぃ……、えへへっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なんで、そんな小声なんだ？」
+display
+com11 0 2
+sound 809
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「スタッフさん、まだ、ピリピリしてるし」
+com09 0 29
+display
+location 21
+com11 0 2
+sound 810
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「プロデューサー？　こう、ポンって……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……さわっても、痛くないか？
+line2 <shift> # ケガとか、してないよな？」
+display
+com11 0 2
+sound 811
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ……、大丈夫です。
+line2 <shift> # とんがった物とかは、いじってないし……」
+com09 0 29
+display
+location 22
+com11 0 2
+sound 812
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「え、プロデューサー。ど、どうして……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、ほめてやろうと思って」
+display
+com11 0 2
+sound 813
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はあ……、ありがとうございます？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やっぱり、タッチの方が、よかったか」
+com09 0 29
+display
+location 23
+com11 0 2
+sound 814
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あうっ？　プロデューサー、
+line2 <shift> # どうして、おでこ、押すんですか〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、手をねらったんだけど、
+line2 <shift> # ちょっと目標を誤ったらしい」
+display
+com11 0 2
+sound 815
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うう。手とおでこ、だいぶ離れてますよ？
+line2 <shift> # プロデューサー、目が悪いのかも」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうかもなあ。ごめん、ごめん！」
+com09 0 29
+display
+location 24
+com11 0 2
+sound 816
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「は……、ぇぇ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ちょっと、タッチ……」
+display
+com11 0 2
+sound 817
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「そ、そこじゃ……、ぅぅ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……ごめん。わかっては、いたんだけど」
+display
+com11 0 2
+sound 818
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「なら、やらないで下さい〜……。
+line2 <shift> # ああ、ビックリした〜」
+com09 0 29
+display
+location 25
+com11 0 2
+sound 819
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「プロデューサ〜。あの〜、手にタッチ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、ごめんごめん。つい……」
+display
+com11 0 2
+sound 820
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「う〜、いいです。
+line2 <shift> # これぐらいで、ちょっと大げさだったかも……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「タッチは、また今度な」
+com09 0 29
+display
+location 29
+com11 0 2
+sound 821
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ、プロデューサー。私、がんばったんですけ
+line2 <shift> # どー、そんなに役に立ててなかったですよね？」
+display
+com11 0 2
+sound 822
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「仕事場のこととかって……、
+line2 <shift> # あんまり口、出さない方が、いいのかなあ？」
+com03 0 3
+choice1 <shift> # 気にすることないよ
+line2
+com09 0 30
+com08
+choice2 <shift> # 性格だからなあ
+line2
+com4f 0 0
+com09 0 31
+com08
+choice3 <shift> # 遠慮も必要かな
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「気にすることないよ」
+display
+com11 0 2
+sound 823
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「そ、そう思いますか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。その方が、スタッフにも、
+line2 <shift> # おぼえてもらえるだろうし」
+display
+com11 0 2
+sound 824
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「えへへ。じつは最近ー、
+line2 <shift> # 仲いい人、増えちゃって！」
+display
+com11 0 2
+sound 825
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「よーし。もっともっと、話せる人、
+line2 <shift> # つくっていこーっと！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （関係者から愛されるのも、
+line2 <shift> # アイドルの大事な条件かもしれないな）
+com09 0 39
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「性格だからなあ」
+display
+com11 0 2
+sound 826
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ううう、しょうがないって感じですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあね。もうスタッフも、やよいのこと、
+line2 <shift> # わかってくれてるだろうし」
+display
+com11 0 2
+sound 827
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「じゃあ……、気にしなくてもいい？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「空気を読みながら、ならね」
+display
+com11 0 2
+sound 828
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「わかりましたー。怒られないように、
+line2 <shift> # よく注意してから、話しまーす……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （今日の感じなら、自由にさせても、
+line2 <shift> # いいと思うけど。……ま、一応な）
+com09 0 39
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「遠慮も必要かな」
+display
+com11 0 2
+sound 829
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「で、でしゃばりすぎでしょうか？
+line2 <shift> # うるさい女の子だな、って？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「思ってる人もいるかも」
+display
+com11 0 2
+sound 830
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「プロデューサーも、いっしょに、
+line2 <shift> # 嫌われちゃいますか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そこまでは、ないと思うけど……」
+display
+com11 0 2
+sound 831
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ううう。こういうとこ、
+line2 <shift> # いつまでも、直らないですよね……」
+display
+com11 0 2
+sound 832
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「高校生になったら、すこしは変われるかなあ。
+line2 <shift> # 私〜……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （気をつかえって、言いたかっただけなんだけど。
+line2 <shift> # なんか、ネガティブになってしまった……）
+com09 0 39
+display
+location 39
+unk02

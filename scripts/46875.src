@@ -1,0 +1,346 @@
+com50 0 31
+com2c 0 24
+com32 0 0
+com2d 0 81
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （仕事の合間のオフ時間、自由行動に、
+line2 <shift> # したかったが、外はあいにくの悪天候だ……）
+display
+com11 0 0
+sound 300
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「雨かぁ。急に降ってきたけど、
+line2 <shift> # なんだか勢い強いですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「風もけっこうあるな。まるで嵐だ」
+display
+com11 0 0
+sound 301
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「うかつに外には出られないか。
+line2 <shift> # ああ、早くやんでくれないかな」
+display
+com11 0 0
+sound 302
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「実は、ちょっと出かけたい用事が、
+line2 <shift> # あるんですけど……、困ったな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「しばらく待ってみたらどうだ？
+line2 <shift> # 案外すぐ、やむかもしれないよ」
+display
+com11 0 0
+sound 303
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「そ、そうですね。ああ、でも、時間が……」
+com03 0 2
+choice1 <shift> # 慌てるなよ？
+line2
+com09 0 10
+com08
+choice2 <shift> # 暴れるなよ？
+line2
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「慌てるなよ？　慌てても、
+line2 <shift> # 空が晴れるわけじゃない」
+display
+com11 0 0
+sound 304
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「それはそうですけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さっきから、うろうろとして……、
+line2 <shift> # そんなに落ち着かないのか？」
+display
+com11 0 0
+sound 305
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「はい。なんだか、じれったい感じで。
+line2 <shift> # じっとして、いられなくて」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「暴れるなよ？　暴れても、
+line2 <shift> # 何の解決にもならないぞ」
+display
+com11 0 0
+sound 306
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「そ、そんなことしませんよ！
+line2 <shift> # 暴力なんて、ふるうように見えますかっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、見るからに、いても立っても
+line2 <shift> # いられない様子だから、気になってな」
+display
+com11 0 0
+sound 307
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ただちょっと、落ち着かないだけですよ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さっきから、部屋を、うろうろとして……。
+line2 <shift> # ちょっとって感じじゃないぞ？」
+display
+com11 0 0
+sound 308
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ああ、じれったいな……。ほんとに、
+line2 <shift> # ほんの一瞬、動ければいいだけなのに」
+com09 0 19
+display
+location 19
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そう焦るなって……」
+display
+com11 0 0
+sound 309
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「や、やっぱり、ボク！　ちょっと！
+line2 <shift> # 出てきます！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ま、待て！　どこへ行くんだ、真！
+line2 <shift> # 真ーっ！」
+display
+com22 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そして、しばらくのち……）
+display
+com11 0 0
+sound 310
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「いやぁ、すごい降りでした。傘が、まるで、
+line2 <shift> # 役に立たないや。近所で、よかった……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だ、大丈夫か、真。ずぶぬれなんじゃ
+line2 <shift> # ないのか？　着替えてきたほうが……」
+display
+com21 0 30
+com11 0 0
+sound 311
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あ、もう着替えましたよ。
+line2 <shift> # 髪が、まだちょっと乾かないけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「速いな……。しかし、いったい何のために、
+line2 <shift> # この天気の中、外へ？」
+display
+com11 0 0
+sound 312
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「それはその、ちょっとした用事、ですよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「用事、ねぇ……」
+com03 0 3
+choice1 <shift> # 買い物か
+com09 0 20
+com08
+choice2 <shift> # 布団を干しっぱなし
+line2
+com09 0 21
+com08
+choice3 <shift> # 水浴びか
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「買い物か？　それにしたって、
+line2 <shift> # 今じゃなくても……」
+display
+com11 0 0
+sound 313
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「は、はい。でも、今日が発売日だって、
+line2 <shift> # さっきまで知らなかったから、あわてちゃって」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「発売日？　何を買ったのか、
+line2 <shift> # きいてもいいか？」
+display
+com11 0 0
+sound 314
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「その……、今話題の人形の、着せ替え衣装の、
+line2 <shift> # セットです。限定の、可愛い感じのやつで」
+display
+com11 0 0
+sound 315
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「雑誌で見て興味があって、だけど予約までする
+line2 <shift> # のは気が引けて、買おうか、ずっと迷ってて」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それでも、急に欲しくなっちゃって、
+line2 <shift> # それで、そわそわしてたのか」
+display
+com11 0 0
+sound 316
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「そ、そうなんですよ。ボク、衝動買いなんて、
+line2 <shift> # そんなにするほうじゃないんだけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「たまにはいいさ。それにしても、
+line2 <shift> # 真が、着せ替えの人形をねえ……」
+display
+com11 0 0
+sound 317
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「意外ですか？　実は、こういうの集めるのも、
+line2 <shift> # 趣味だったりするんですよ……、へへへ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （真は少し照れくさそうだった。意外といえば、
+line2 <shift> # 意外だけど、なんだか、わかる気もする）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （真が大事そうに小脇に抱えた衣装の包みは、
+line2 <shift> # ほとんどぬれてはいなかった）
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わかった、布団を干しっぱなしだったから、
+line2 <shift> # 急いで帰って、取り込んできたんだろう」
+display
+com11 0 0
+sound 318
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「残念、違いますよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃあ、やかんをかけっぱなし」
+display
+com11 0 0
+sound 319
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「いったい、いつからやかんを、
+line2 <shift> # 火にかけてるんですか……」
+display
+com11 0 0
+sound 320
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「だいたい、ひとっ走りでいけるほど、
+line2 <shift> # ボクの家、近所じゃないですよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだったか。しかし、だとすると……
+line2 <shift> # ん、真、後ろに隠してる包みはなんだい？」
+display
+com11 0 0
+sound 321
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あ、いや、別に隠してるわけじゃ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もしかして、誰かにプレゼントかな？」
+display
+com11 0 0
+sound 322
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あ、えっと……、そうかも。たまには、ね。
+line2 <shift> # これは、自分に、プレゼント、です」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「自分に？　真自身に、ってことか」
+display
+com11 0 0
+sound 323
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「へへっ……。中身は、内緒ですよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （真は大事そうに謎の包みを持って、奥へと、
+line2 <shift> # 行ってしまった。なんだろう、あれは）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あれを買いに出かけたんだろうか。
+line2 <shift> # こんな天気の中、何を……。気になるな）
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「水浴びか」
+display
+com11 0 0
+sound 324
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「なんで水浴びなんですか」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「激しい雨の中、それでも出かけていくって
+line2 <shift> # ことは、雨自体が目的なのかと思って」
+display
+com11 0 0
+sound 325
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「違いますよ、プロデューサー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、雨の中歌い踊る真、というのも、
+line2 <shift> # 絵になるかもしれないな……」
+display
+com11 0 0
+sound 326
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「そんな、ミュージカルじゃ、
+line2 <shift> # ないんですから」
+display
+com11 0 0
+sound 327
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「で……、どうしてカメラ構える真似
+line2 <shift> # してるんですか、プロデューサー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、雨にぬれた真、というだけでも、
+line2 <shift> # もしかしたら、いい写真になるかも」
+display
+com11 0 0
+sound 328
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「イヤですよ。そんな、ぬれた服が、
+line2 <shift> # 透けてるかもしれないのに……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「見たかったなあ。男前な真の、ぬれ姿」
+display
+com11 0 0
+sound 329
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「むっ、そうじゃなくて！
+line2 <shift> # 本当は、ボクは……。ああ、もういいや」
+display
+com11 0 0
+sound 330
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「いちいち、説明する気にもならない……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、あれ。真、その後ろ手に持ってるのは、
+line2 <shift> # なんだ……、って、行ってしまった」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （真は何か、外で買ってきたみたいだ。あわてて
+line2 <shift> # 買ってきた様子だから、大事なものなのかも）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しかし、それが何なのか、結局、
+line2 <shift> # 真に教えては、もらえなかった……）
+com09 0 29
+display
+location 29
+unk02

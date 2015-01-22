@@ -1,0 +1,247 @@
+com2c 0 24
+com2d 0 11
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「春香〜っ！
+line2 <shift> # 軽い打ち合わせをしたいんだけど……」
+display
+com11 0 4
+sound 1100
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「うーん……。エッセンスを……、
+line2 <shift> # でも、ここでパウダーが……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「春香……。おい、どうした？　考えごとか？
+line2 <shift> # 俺の話も聞いてくれ」
+com03 0 2
+choice1 <shift> # もう少し話しかける
+line2
+com09 0 10
+com08
+choice2 <shift> # しばらく待ってみる
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+com11 0 4
+sound 1101
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ここは細かくみじん切り……。
+line2 <shift> # でも、ごろっとしたほうが……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「春香！　春香ってば！　もしもし〜っ！
+line2 <shift> # できれば打ち合わせ、付き合って欲しいんだ」
+com09 0 29
+display
+location 11
+com11 0 4
+sound 1102
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「みじん切りで、さくさく切って、
+line2 <shift> # でも、歯ごたえは欲しいし……」
+display
+com11 0 4
+sound 1103
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「粉混ぜて混ぜて……、でも、うまく混ぜないと、
+line2 <shift> # ダマになっちゃうから……。ううっ」
+display
+com11 0 4
+sound 1104
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ああっ！　もうっ！
+line2 <shift> # どうすればいいのおっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うわっ、急に大声出すな！　びっくりしたぞ。
+line2 <shift> # ところで……、打ち合わせをしたいんだけど」
+com09 0 29
+display
+location 29
+com11 0 4
+sound 1105
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「えっ！？　あっ……、プロデューサーさん！
+line2 <shift> # すいません、気がつかなくって」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うわの空で、なにかつぶやいてたみたい
+line2 <shift> # だったけど……。何か困ってるのか？　春香」
+display
+com11 0 4
+sound 1106
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、いえ。ちょっとレシピを考えてたんです。
+line2 <shift> # 新しいフルーツケーキの」
+display
+com11 0 4
+sound 1107
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「それが、なかなかうまくいかなくて、悩ん
+line2 <shift> # じゃって……、ちょっと寝不足だったりします」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか、寝不足か……」
+com03 0 3
+choice1 <shift> # とりあえず応援する
+line2
+com09 0 30
+com08
+choice2 <shift> # やめさせる
+com09 0 31
+com08
+choice3 <shift> # 一緒に考える
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それにしても、眠れないほど悩むとは……、
+line2 <shift> # うーん、深刻かな」
+display
+com11 0 4
+sound 1108
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「は、はい。自分でも、気にしすぎかなとは、
+line2 <shift> # 思ってるんですけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「とりあえず頑張れ。でも、あんまり悩みすぎる
+line2 <shift> # のは、よくないよ。気分転換が、いるかも」
+display
+com11 0 4
+sound 1109
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そうですねぇ……。わかりました！
+line2 <shift> # あんまり根を、つめないようにします」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「頭で考えてばっかりでも、おいしいものは、
+line2 <shift> # なかなか作れないさ。歌と同じだ」
+display
+com11 0 4
+sound 1110
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ですよね……、ああっ！
+line2 <shift> # そうだ、プロデューサーさん、打ち合わせは？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ははは、ケーキの悩みが片付いてからで、
+line2 <shift> # かまわないよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （やれやれ……。でも、ケーキも歌も、
+line2 <shift> # うまくいってくれるといいな）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなに根つめて悩んでも、
+line2 <shift> # しかたないと思うけどなぁ」
+display
+com11 0 4
+sound 1111
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ええっ。でも、もうちょっとで考えが、
+line2 <shift> # まとまりそうだし……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ここはいったん、
+line2 <shift> # すっぱりあきらめるのも、手だよ」
+display
+com11 0 4
+sound 1112
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そうですか？　うーん……、確かに、
+line2 <shift> # 考えてばかりでもしょうがないのかな？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「時間おいてから、また考え直したほうが、
+line2 <shift> # いいアイディアが浮かぶかもよ」
+display
+com11 0 4
+sound 1113
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そうですね……、そうします。
+line2 <shift> # プロデューサーさん、アドバイス感謝ですっ♪」
+display
+com11 0 4
+sound 1114
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ああっ！　そういえば……、
+line2 <shift> # うちあわせ、打ち合わせはっ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ははは、歌の相談は、また今度にするよ。
+line2 <shift> # ケーキ、うまくいくといいな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （やれやれ……。ケーキも歌も、
+line2 <shift> # うまくいって欲しいけど、時間はかかりそうだ）
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よしわかった。
+line2 <shift> # よければ、俺も一緒にレシピを考えよう！」
+display
+com11 0 4
+sound 1115
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ほ、ほんとですか！
+line2 <shift> # ありがとうございます！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それでいったい、レシピのなにを、
+line2 <shift> # 悩んでるんだ？」
+display
+com11 0 4
+sound 1117
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「まず、いろんな種類のフルーツを、
+line2 <shift> # 漬け込んでいれるときのバランスが問題で……」
+display
+com11 0 4
+sound 1118
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「いれるフルーツにあわせて、
+line2 <shift> # ケーキのパウダーの調節にも困ってて……」
+display
+com11 0 4
+sound 1119
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「それと、リキュールを使うんですけど……、
+line2 <shift> # 私、お酒の匂いとか、すごく苦手で……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「問題山積みじゃないか」
+display
+com11 0 4
+sound 1120
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ううっ、プロデューサーさん、
+line2 <shift> # なんとかしてください！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そんなこと俺に言われても！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後、俺はお菓子の本をひっくり返しながら、
+line2 <shift> # 春香と語りあったものの……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ひたすら時間だけが過ぎていった。ところで、
+line2 <shift> # 打ち合わせは、しなくていいのだろうか……？）
+display
+location 49
+unk02

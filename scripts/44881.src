@@ -1,0 +1,270 @@
+com2c 0 40
+com2d 0 81
+com32 0 0
+com11 0 2
+sound 500
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ボクが、カップ焼きそばのＣＭタレント……。
+line2 <shift> # あはは、見た目の男っぽさを、買われたのかな」
+com03 0 3
+choice1 <shift> # 断れば、よかったか？
+line2
+com09 0 10
+com08
+choice2 <shift> # そ、そういうわけじゃ……
+line2
+com09 0 11
+com08
+choice3 <shift> # 一肌、脱いでくれよな
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「断れば、よかったか？」
+display
+com11 0 2
+sound 501
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「とんでもない！　ＣＭの仕事もらえるなんて、
+line2 <shift> # すごいって思いますし」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そういうわけじゃ……」
+display
+com11 0 2
+sound 502
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「いいですよ。別に気をつかってくれなくても。
+line2 <shift> # 自分のことは、自分でわかってますから」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「一肌、脱いでくれよな」
+display
+com11 0 2
+sound 503
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「や、焼きそばなのに、脱ぐんですか！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ち、ちがうよ。イヤだろうけど、
+line2 <shift> # 協力してくれって意味」
+display
+com11 0 2
+sound 504
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、そういうこと……。別に、イヤでもない
+line2 <shift> # です。ＣＭの仕事もらえるなんて、うれしいし」
+com09 0 29
+display
+location 29
+com11 0 2
+sound 505
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「それに、最近、人からどう見られるかって、
+line2 <shift> # 前ほど、気にならなくなったんですよね」
+display
+com11 0 2
+sound 506
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「本当のボクのことは、プロデューサーが、
+line2 <shift> # わかっててくれればいいやって」
+display
+com11 0 2
+sound 507
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「焼きそばかー。アイドルになる前に、
+line2 <shift> # 縁日とか行って食べたの、なつかしいなあ」
+display
+com11 0 2
+sound 508
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサー、そのうちヒマができたら、
+line2 <shift> # お祭りとか、行きませんか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、いいよ。その時は……」
+com03 0 3
+choice1 <shift> # 浴衣で、行こうな
+line2
+com09 0 30
+com08
+choice2 <shift> # 花火も見ような
+line2
+com09 0 31
+com08
+choice3 <shift> # 金魚、すくいまくろうな
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「浴衣で、行こうな」
+display
+com11 0 2
+sound 509
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「わっかりました！　へへへー、
+line2 <shift> # 色っぽいですよ〜、ボクの浴衣姿」
+display
+com11 0 2
+sound 510
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「セッケンの香り、ぷんぷんさせていきますから、
+line2 <shift> # 興奮しないでくださいね！」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「花火も見ような」
+display
+com11 0 2
+sound 511
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「いいですね！　お祭りって言えば、
+line2 <shift> # 花火と浴衣と、美少女と焼きそば……」
+display
+com11 0 2
+sound 512
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「さ、最後のは、イメージちがうか。
+line2 <shift> # あはは、どうも、仕事から抜けきらないですね」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「金魚、すくいまくろうな」
+display
+com11 0 2
+sound 513
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ガムシャラに、すくって、どうするんです？
+line2 <shift> # たくさんゲットすれば、いいってもんじゃ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか？　どっちが多くすくえるか、
+line2 <shift> # 競争しようと、思ったんだけど……」
+display
+com11 0 2
+sound 514
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うーん、よくばるのは、仕事だけで、
+line2 <shift> # いいと思いますけど……。まあ、いいです」
+com09 0 49
+display
+location 49
+com11 0 2
+sound 515
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「さ、そろそろ時間かな。予定もつまってるし、
+line2 <shift> # パパッと、焼きそば、すすってきますね！」
+display
+com22 0 30
+com21 0 30
+com11 0 2
+sound 516
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ふぅー、どうですっ？　一発ＯＫ！
+line2 <shift> # カンペキでしたよね？　じゃあ、次の仕事へ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。けど……、顔中、青ノリだらけだぞ？」
+display
+com11 0 2
+sound 517
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ええ、ホントですか？　洗面所……。
+line2 <shift> # あ、でも、すぐ移動しなきゃ……！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺がとるよ。
+line2 <shift> # 手早く済ませるから、じっとしてろよ！」
+com0e 2 214
+com44
+com09 0 50
+com45
+com44
+com09 0 51
+com45
+com44
+com09 0 52
+com45
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よしっ、これでパーフェクト！」
+display
+com11 0 2
+sound 518
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ありがとうございます！　さっすがプロデュー
+line2 <shift> # サー！　じゃ、次の現場へＧＯ、ですね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （これなら、タイムロスなしで、移動できるな。
+line2 <shift> # 手際よく、最高のフォローができた！）
+com09 0 69
+display
+location 51
+com11 0 2
+sound 519
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサー、そろそろ、行かないと……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う、そうか。ごめん、
+line2 <shift> # すこし残っちゃったけど……？」
+display
+com11 0 2
+sound 520
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「いいですっ。あとはタクシーの中で、とります。
+line2 <shift> # ボク、ちゃんと手鏡、持ってますから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （無念……。わずかに力およばなかった。
+line2 <shift> # けど、努力したことは、認めてもらえるかな）
+com09 0 69
+display
+location 52
+com11 0 2
+sound 521
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサー？　青ノリ、どうしたんです？
+line2 <shift> # ついてるって言ったの、ウソだったんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、本当だけど、ふとした疑問が……。
+line2 <shift> # 青ノリって、青っていうほど、青くないよな？」
+display
+com11 0 2
+sound 522
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そんなの、どうだっていいじゃないですか〜。
+line2 <shift> # 急がないと、次の現場、遅刻……」
+display
+com11 0 2
+sound 523
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「う〜、しかたない。ちょっと洗面所へ！
+line2 <shift> # プロデューサー、先に行っててください！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （つまらないことに気をとられて、
+line2 <shift> # 時間をムダにしてしまった。……反省しよう）
+com09 0 69
+display
+location 69
+unk02

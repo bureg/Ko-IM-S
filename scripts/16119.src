@@ -1,0 +1,306 @@
+com2c 0 61
+com2d 0 33
+com32 0 0
+com11 0 2
+sound 900
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うう……、この動きじゃ、曲に、
+line2 <shift> # 間に合わない〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「テイク７か。きつそうだな」
+display
+com11 0 2
+sound 901
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ、プロデューサー。今回のダンス、
+line2 <shift> # むずかしいです……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「みたいだね」
+display
+com11 0 2
+sound 902
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「アイリッシュからタンゴに、いきなり
+line2 <shift> # 切り替わるなんて、ムチャクチャかも〜」
+com03 0 3
+choice1 <shift> # もうギブアップ？
+line2
+com09 0 10
+com08
+choice2 <shift> # やりがいあるだろ？
+line2
+com09 0 11
+com08
+choice3 <shift> # たった２種類くらい……
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もうギブアップ？」
+display
+com11 0 2
+sound 903
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「いえっ、そんなことっ！」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やりがいあるだろ？」
+display
+com11 0 2
+sound 904
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「もう、ありすぎ〜って感じかも〜」
+display
+com11 0 2
+sound 905
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「がんばんなきゃって思ってるのに、体が
+line2 <shift> # ついてこなくて〜」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「たった２種類くらい……」
+display
+com11 0 2
+sound 906
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「私も、そう思ってたんですっ。でも、体の
+line2 <shift> # リズムって、簡単に切り替わらないんですよね」
+display
+com11 0 2
+sound 907
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「『１＋１は２』って思ってたのに、５ぐらい
+line2 <shift> # なんです。はあ〜……」
+com09 0 19
+display
+location 19
+com11 0 2
+sound 908
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「なんとなく、感じはつかめてきたんですっ！
+line2 <shift> # でも、まだ、抜けきれなくて……」
+com03 0 3
+choice1 <shift> # くやしいよな
+line2
+com4f 0 2
+com09 0 20
+com08
+choice2 <shift> # 情けないよな
+line2
+com4f 0 2
+com09 0 21
+com08
+choice3 <shift> # 歯がゆいよな
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「くやしいよな」
+com09 0 28
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「情けないよな」
+com09 0 28
+display
+location 28
+com11 0 2
+sound 909
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はい〜」
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「歯がゆいよな」
+display
+com11 0 2
+sound 910
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はがゆ……？　それ、どういう意味ですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じれったいって意味」
+display
+com11 0 2
+sound 911
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「う、はい……。そうです、じれったくて……」
+com09 0 29
+display
+location 29
+com11 0 2
+sound 912
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ビシーッて決めるためには、どうしたら
+line2 <shift> # いいのかなあ？」
+com03 0 3
+choice1 <shift> # 頭で考えすぎじゃ……
+line2
+com09 0 30
+com08
+choice2 <shift> # 頭で整理してみよう
+line2
+com4f 0 0
+com09 0 31
+com08
+choice3 <shift> # 頭が痛いよな
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「頭で考えすぎじゃ……」
+display
+com11 0 2
+sound 913
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「私、頭でっかちになってますか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。後はできるまでやるだけ、って
+line2 <shift> # 気がするけど」
+display
+com11 0 2
+sound 914
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「んーとー。なんにも知らない頃の私って……
+line2 <shift> # そんなのばっかりでしたよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ここは、そのやり方でいいんじゃないか？」
+display
+com11 0 2
+sound 915
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ、はいっ！　ちょっと、みっともない
+line2 <shift> # かなって思ってたけど……」
+display
+com11 0 2
+sound 916
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「よーしっ、テイク１０だって、２０だって！
+line2 <shift> # うっうー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （なにも考えずに突っ込んだ方が、いい結果を
+line2 <shift> # 生むかもしれない。……やよいの場合はな）
+com09 0 39
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「頭で整理してみよう」
+display
+com11 0 2
+sound 917
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「わかりましたっ。それじゃ、基本から考えて
+line2 <shift> # みまーすっ！」
+display
+com11 0 2
+sound 918
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ふたつのダンスを組み合わせるってことは〜
+line2 <shift> # 似てるとこを、つなげば、いいわけですよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだな」
+display
+com11 0 2
+sound 919
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「アイリッシュとタンゴの、似てるとこは〜。
+line2 <shift> # 両方ともダンスでー……」
+display
+com11 0 2
+sound 920
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「両方ともカタカナで〜……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「…………」
+display
+com11 0 2
+sound 921
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ううう……、わかりませんっ。
+line2 <shift> # プロデューサー、ヒントっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、俺も答えを知ってるわけじゃ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （考えさせるのには、無理があったか。元々、
+line2 <shift> # やよいは、そういうタイプじゃないしな）
+com09 0 39
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「頭が痛いよな」
+display
+com11 0 2
+sound 922
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はい、痛いです……」
+display
+com11 0 2
+sound 923
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「そ、それだけですか？」
+display
+com11 0 2
+sound 924
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「もっとこう、なにかないですか？　頭が
+line2 <shift> # 痛いだけじゃ、なにも解決しないですよね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「って言われても……」
+display
+com11 0 2
+sound 925
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うう、もっと頭が痛くなってきました〜」
+display
+com11 0 2
+sound 926
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「プロデューサ〜、頭の痛み、やわらげる方法、
+line2 <shift> # 知りませんか〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、それなら思いつくけど……。
+line2 <shift> # とりあえず、すこし休むか？」
+display
+com11 0 2
+sound 927
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はい……。そうしまーす……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （結局、いたわるぐらいしかできなかった。
+line2 <shift> # なんか、無力だなあ……）
+com09 0 39
+display
+location 39
+unk02

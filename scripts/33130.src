@@ -1,0 +1,247 @@
+com2c 0 43
+com2d 0 61
+com32 0 0
+com11 0 3
+sound 300
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ううっ、うまくいかない……
+line2 <shift> # すみません、何度も何度もリテイクで」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「惜しいところまで来てると思うけど、
+line2 <shift> # うーん、しかし時間が押してきてるなぁ」
+com03 0 2
+choice1 <shift> # もっと気合を！
+line2
+com09 0 10
+com08
+choice2 <shift> # もう少しリラックスだ
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もっと気合を！　ここは勢いで
+line2 <shift> # なんとかＯＫを取るんだ」
+display
+com11 0 3
+sound 301
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「はいっ！　気合気合で、切り抜けたいですっ。
+line2 <shift> # やるぞ、私。がんばれ、私……」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もう少しリラックスだ、慌てない慌てない。
+line2 <shift> # 落ち着けば自ずといい結果が出るさ」
+display
+com11 0 3
+sound 302
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「で、でももう、スタジオ借りられる時間が
+line2 <shift> # 終わっちゃいます……ううう」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、とりあえず、残り時間は
+line2 <shift> # 気にするな。時計は見るな。な？」
+display
+com11 0 3
+sound 303
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「は、はい。ああ、もう少しだけ、
+line2 <shift> # がんばらなくっちゃ、集中しなくちゃ……」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、しかし何かが足りないな。
+line2 <shift> # テンションがうまくあがってこない感じ？」
+display
+com11 0 3
+sound 304
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「は、はい……なんでだろう、
+line2 <shift> # 私も、なにかが足りない気がして」
+display
+com11 0 3
+sound 305
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「だからもう一歩のところがうまくできなくて。
+line2 <shift> # 歌のキメが、きれいにいかなくて……」
+display
+com11 0 3
+sound 306
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「もしも、これがライブステージだったら、
+line2 <shift> # もうちょっといけそうな気がするのに……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おお、確かにライブでは雪歩、
+line2 <shift> # もっとテンション高いからなぁ」
+display
+com11 0 3
+sound 307
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「そ、そうですかっ……そうかも」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「しかし、これからステージへ行って録る
+line2 <shift> # わけにもいかないな。ここでなんとかしないと」
+com03 0 3
+choice1 <shift> # バックに歓声を流そう
+line2
+com09 0 30
+com08
+choice2 <shift> # スタジオに観客を入れる
+line2
+com09 0 31
+com08
+choice3 <shift> # やはりここは落ち着いて
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだ！　トークバックに歓声を流そう。
+line2 <shift> # ステージの雰囲気が出るんじゃないかな」
+display
+com11 0 3
+sound 308
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「あっ、それなら、オケと一緒に
+line2 <shift> # ライブの歓声が聞けますねっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「テストでちょっと流してみるよ……
+line2 <shift> # どうかな、雰囲気出たかな？」
+display
+com11 0 3
+sound 309
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「出ました、ばっちり出ました！　見えなくても
+line2 <shift> # お客さんがいっぱいいるの、わかります！」
+display
+com11 0 3
+sound 310
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「この声援に応えたい……私、
+line2 <shift> # 気合をこめて、歌いますっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （そして収録再開、雪歩はパワーのこめられた
+line2 <shift> # 熱い歌を歌ってみせてくれた）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （いいテイクがバッチリ録れたみたいだ！）
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「スタジオに観客を入れてみるか。
+line2 <shift> # もしかしたら、いい刺激になるかも」
+display
+com11 0 3
+sound 311
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ええっ、いきなり、
+line2 <shift> # そんな、入れるなんて」
+display
+com11 0 3
+sound 312
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「そ、それに、お客さんをどこから？
+line2 <shift> # 時間も、残り少ないですし……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ、観客席っぽい感じで、スタッフに
+line2 <shift> # 雪歩の隣で見てもらおう。それならいいかな」
+display
+com11 0 3
+sound 313
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「えっ、あのその……録音ディレクターさんを
+line2 <shift> # ですか。私、さっきからリテイク続きだから」
+display
+com11 0 3
+sound 314
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ディレクターさん、機嫌悪くしてるかも。
+line2 <shift> # ううっ、ぷ、プレッシャーです……ぐすっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「な、泣くなぁ！　頼むよ、ここぞと
+line2 <shift> # 緊張感持って、あと１テイク！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （そして収録再開、雪歩はディレクターが
+line2 <shift> # 見守る中、精一杯の頑張りをみせてくれた）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （しかし、緊張が過ぎてしまったのか、ちょっと
+line2 <shift> # せつなすぎる内容の録音になったようだ……）
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やはりここは落ち着いて……」
+display
+com11 0 3
+sound 315
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「そ、そうですね……落ち着いて。
+line2 <shift> # 私、深呼吸でもします」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ライブを勢いでやるのと、
+line2 <shift> # スタジオでじっくり録るのは違うからね」
+display
+com11 0 3
+sound 316
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ううっ、でも、なんでこんなに
+line2 <shift> # できないんだろう。何か、私に原因が」
+display
+com11 0 3
+sound 317
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「そ、それとも、やっぱり、私が元々、
+line2 <shift> # だ、だめなアイドルだから……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうじゃあないって！　調子の問題さ」
+display
+com11 0 3
+sound 318
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「調子……調子、うーん、そうかも」
+display
+com11 0 3
+sound 319
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「私、もう一度譜面のおさらいから、
+line2 <shift> # やり直してみます。あきらめたくないんです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、頼むぞ。いい調子になるまで、
+line2 <shift> # 時間ぎりぎりまで、粘ろう」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、スタジオ時間いっぱい、
+line2 <shift> # さらなるリテイクを繰り返した）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （最後に、これがベストと言える丁寧なテイクが
+line2 <shift> # 録れた。しかし雪歩は相当疲れたみたいだ……）
+com09 0 49
+display
+location 49
+unk02

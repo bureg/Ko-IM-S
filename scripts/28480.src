@@ -1,0 +1,562 @@
+com2c 0 114
+com2c 0 100
+com2c 0 57
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お疲れ、千早。
+line2 <shift> # 今日もいいステージだったぞ」
+display
+com11 0 0
+sound 0
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ありがとうございます。
+line2 <shift> # ふぅ……。今日は緊張しました」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「緊張？　めずらしいな、あがるなんて」
+display
+com11 0 0
+sound 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「なんだか今日は、いつもと違って
+line2 <shift> # 張りつめた視線を感じて……」
+display
+com11 0 0
+sound 2
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そう……久しぶりに、
+line2 <shift> # 先生の指導を受けている気分でした」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「先生？」
+display
+com11 0 0
+sound 3
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「中学の頃、ほんのしばらくの間でしたが、歌の
+line2 <shift> # レッスンをしてくれた音楽の先生がいたんです」
+display
+com11 0 0
+sound 4
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「先生は元声楽家で、
+line2 <shift> # 海外留学までした方なんです」
+display
+com11 0 0
+sound 5
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「私が歌手を志していると話したら、
+line2 <shift> # 特別に、放課後にレッスンをして下さいました」
+display
+com11 0 0
+sound 6
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「１コーラスの間に、山ほどダメ出しをされて。
+line2 <shift> # とても厳しい方でした……」
+display
+com11 0 0
+sound 7
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「だから、最後まで歌いきれた時は、
+line2 <shift> # 本当にうれしかったのを覚えてます」
+display
+com11 0 0
+sound 8
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そのすぐ後、先生は別の中学に赴任された
+line2 <shift> # ので、レッスンは１ヶ月で打ち切りでしたけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それは……」
+com03 0 3
+choice1 <shift> # 恩師だな
+com09 0 11
+com08
+choice2 <shift> # 変わってる先生だな
+line2
+com09 0 12
+com08
+choice3 <shift> # 厳しい先生だな
+line2
+com09 0 13
+com08
+com07
+com09 0 13
+com08
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「千早にとっての恩師ってわけだな」
+display
+com11 0 0
+sound 9
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「恩師……そうかもしれません。当時は、
+line2 <shift> # そんな風には思っていませんでしたけど」
+display
+com11 0 0
+sound 10
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ただ先生の知識を吸収することに夢中で……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「きっと、その先生も楽しかったと思うよ。
+line2 <shift> # 千早みたいな子を教えられて」
+display
+com11 0 0
+sound 11
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そうでしょうか？
+line2 <shift> # だとしたら、うれしいです」
+com09 0 14
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「変わってる先生だなあ」
+display
+com11 0 0
+sound 12
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そうですね。
+line2 <shift> # 学校内では、変わり者で通っていました」
+display
+com11 0 0
+sound 13
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「でも、私にとっては音楽の厳しさを
+line2 <shift> # 教えてくださった、恩師のような方です」
+com09 0 14
+display
+location 13
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「厳しい先生だな。千早もつらかっただろう？」
+display
+com11 0 0
+sound 14
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そんなことはありません。
+line2 <shift> # むしろ、私はうれしかったんです」
+display
+com11 0 0
+sound 15
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そこまで音楽に真剣に取り組む人が
+line2 <shift> # 私の身近にいたことが」
+display
+com11 0 0
+sound 16
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……今思えば、私が中学で唯一
+line2 <shift> # 『恩師』と呼べる方でした」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうなのか……」
+com09 0 14
+display
+location 14
+com11 0 0
+sound 17
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あ、なんだか話し込んでしまいましたね。
+line2 <shift> # プロデューサー、そろそろ楽屋に……」
+display
+com11 0 0
+sound 18
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……えっ！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうした、千早？」
+display
+com11 0 0
+sound 19
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……今、先生がいらっしゃったような……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「先生って、いま話してた？
+line2 <shift> # 千早の恩師か！？」
+display
+com11 0 0
+sound 20
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そんな……。どうして先生が、
+line2 <shift> # 私のコンサートに……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「千早はもう、有名人なんだ。教え子だと
+line2 <shift> # 気づいて来てくれたに決まってるじゃないか」
+display
+com11 0 0
+sound 21
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そう……なのでしょうか」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ちょうどいいじゃないか、
+line2 <shift> # 挨拶してきなよ！」
+display
+com11 0 0
+sound 22
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「…………」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「千早？　どうしたんだよ。
+line2 <shift> # 早くしないと……」
+display
+com11 0 0
+sound 23
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「楽屋に戻りましょう、プロデューサー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ！？」
+display
+com11 0 0
+sound 24
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「正直、怖いんです。
+line2 <shift> # 変わってしまった私を見られるのが」
+display
+com11 0 0
+sound 25
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「私は、歌うためにアイドルという道を
+line2 <shift> # 選びました。そこに悔いはありません」
+display
+com11 0 0
+sound 26
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……でも、それはきっと先生には
+line2 <shift> # 理解してもらえないと思います」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「千早！」
+display
+com11 0 0
+sound 27
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「は、はい！」
+com03 0 3
+choice1 <shift> # 自分の歌を否定するのか！？
+line2
+com09 0 21
+com08
+choice2 <shift> # 千早は変わってなんかいない
+line2
+com09 0 22
+com08
+choice3 <shift> # 千早は人気アイドルなんだぞ！
+line2
+com09 0 23
+com08
+com07
+com09 0 23
+com08
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「自分の歌を否定するのか！？
+line2 <shift> # 千早がすべてをかけてきた、歌を！」
+display
+com11 0 0
+sound 28
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「もちろん、私は自分の歌に誇りを持っていま
+line2 <shift> # す。アイドルだから劣るとは思っていません」
+display
+com11 0 0
+sound 29
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「でも……それは私の中だけです。
+line2 <shift> # 先生も同じお気持ちだとは……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だけど、先生が、かわいい教え子の成功を
+line2 <shift> # 喜んでくれないはずはないだろう？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ジャンルは違うとはいえ、先生も身を置いて
+line2 <shift> # いた音楽業界での成功なら、なおさらだ」
+display
+com11 0 0
+sound 30
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「…………」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それに、今行かないと
+line2 <shift> # あとで後悔することになると思うよ」
+display
+com11 0 0
+sound 31
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……そう、ですね。
+line2 <shift> # 私、お会いしてきます！」
+com09 0 24
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「千早は変わってなんかいない」
+display
+com11 0 0
+sound 32
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「えっ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「歌う力を、純粋に高めていきたい。
+line2 <shift> # その気持ちはアイドルをやって変わったかい？」
+display
+com11 0 0
+sound 33
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……いいえ。
+line2 <shift> # ますます強くなりました」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なら、千早は変わっていないじゃないか。
+line2 <shift> # 先生だって、わかってくれるよ」
+display
+com11 0 0
+sound 34
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……プロデューサーの、おっしゃるとおり
+line2 <shift> # です。ありがとうございます。目が覚めました」
+display
+com11 0 0
+sound 35
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「私、先生にお会いしてきます！」
+com09 0 24
+display
+location 23
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「千早は人気アイドルなんだぞ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんな人から声をかけられて、
+line2 <shift> # うれしくないはずがない！」
+display
+com11 0 0
+sound 36
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はあ……。ですが、先生は、世間の評判に
+line2 <shift> # 左右されるような人ではありません」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「で、でも、とにかく声をかけてきなよ。
+line2 <shift> # あとで後悔するより、よっぽどましだ」
+display
+com11 0 0
+sound 37
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……そうですね。
+line2 <shift> # 私、お会いしてきます」
+com09 0 24
+display
+location 24
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし！
+line2 <shift> # 千早、先生はどこらへんにいるんだ？」
+display
+com11 0 0
+sound 38
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ええと……」
+display
+com11 0 0
+sound 39
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……困りました。姿が見えません」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええっ！？」
+display
+com11 0 0
+sound 40
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「たぶん、私たちが話しているうちに、
+line2 <shift> # もう外に出られたかと……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「こうしちゃいられない！
+line2 <shift> # 千早、俺たちも行くぞ！」
+display
+com32 0 1
+com11 0 0
+sound 41
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「先生！　先生！
+line2 <shift> # ……はぁ、どこに行ったんでしょう」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （千早の姿をファンが見たら大騒ぎになる
+line2 <shift> # から、手早く先生を見つけなければ！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （カンを研ぎ澄ませて……
+line2 <shift> # 先生は、どっちだ！？）
+com03 0 2
+choice1 <shift> # 右だ！
+com09 0 30
+com08
+choice2 <shift> # 左だ！
+com09 0 31
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「右だ！　こっちを探そう、千早」
+com37 0 1
+com1e 0 0
+com09 0 33
+com3b
+com37 0 0
+com1e 0 0
+com09 0 34
+com3b
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「左だ！　こっちを探そう、千早」
+com37 0 1
+com1e 0 0
+com09 0 33
+com3b
+com37 0 0
+com1e 0 0
+com09 0 34
+com3b
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「こっちを探そう、千早」
+com09 0 34
+display
+location 33
+com11 0 0
+sound 42
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。……あっ、いました！
+line2 <shift> # 先生！　待って下さい……」
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 43
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「先生、今日は来てくださって、本当に
+line2 <shift> # ありがとうございました。では、また……」
+display
+com11 0 0
+sound 44
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あ、プロデューサー。
+line2 <shift> # すみません、お待たせしてしまって」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ずいぶん話し込んでいたみたいだな」
+display
+com11 0 0
+sound 45
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。先生、チケットを取って
+line2 <shift> # わざわざ来てくださったそうで……」
+display
+com11 0 0
+sound 46
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「苦言をたくさんいただきました。
+line2 <shift> # 私も、まだ精進が足りません」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そのわりには、
+line2 <shift> # 随分とうれしそうじゃないか」
+display
+com11 0 0
+sound 47
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい……。先生が変わらずにいて
+line2 <shift> # くださったのが、うれしくて」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それと、自分の活動を
+line2 <shift> # 知っていたことも、だろ？」
+display
+com11 0 0
+sound 48
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。思い切って、お話ししてよかった……」
+display
+com11 0 0
+sound 49
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「これも、プロデューサーのおかげです。
+line2 <shift> # 本当に、ありがとうございました！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （恩師との再会で、千早は
+line2 <shift> # さらにやる気を出してくれたようだ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （会わせてあげられて、本当によかった！）
+com4b 0 0
+com09 0 69
+display
+location 34
+com22 0 30
+com21 0 30
+com32 0 2
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうだ、千早！？」
+display
+com11 0 0
+sound 50
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「いません……。
+line2 <shift> # こっちではないのかも」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「くっ！　それじゃ反対側に！」
+display
+com11 0 0
+sound 51
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「いえ……、いいです。
+line2 <shift> # たぶん、もう帰られたんだと思います」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、まだ近くにいるかもしれない。
+line2 <shift> # 外に出て捜してみよう」
+display
+com11 0 0
+sound 52
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「プロデューサー、戻りましょう」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも……」
+display
+com11 0 0
+sound 53
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……きっと、会わない方がいいんです。
+line2 <shift> # 先生も、アイドルには興味がないでしょうし」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そう言いながらも、寂しそうな表情の千早。
+line2 <shift> # 本当は会いたかったんだろうな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺が、うまく見つけてあげられれば
+line2 <shift> # よかったんだけど……）
+com4b 0 2
+com09 0 69
+display
+location 69
+unk02

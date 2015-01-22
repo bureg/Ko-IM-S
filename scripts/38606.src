@@ -1,0 +1,268 @@
+com2c 0 44
+com2d 0 71
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （複数のアイドルが集まり１枚のＣＤを作る……、
+line2 <shift> # という企画に、律子も参加することになった）
+display
+com11 0 2
+sound 400
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「今度のアルバムは、ソロも録るんですよね。
+line2 <shift> # 曲はまだ未定みたいですけど……」
+display
+com11 0 2
+sound 401
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「どんな感じでやっていくんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだな。せっかくだから、ソロ曲では、
+line2 <shift> # 律子の個性を生かした音作りに挑戦したいんだ」
+display
+com11 0 2
+sound 402
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ふ〜ん、個性を生かした、ねぇ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「他の参加アイドルの子にも、ソロ曲では個性を
+line2 <shift> # 出して欲しいと思っているよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まあ、もちろん、他の子は俺の担当アイドル
+line2 <shift> # じゃないから、押しつけはできないけどな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「で、律子は、どんな曲で、
+line2 <shift> # どんな音を出してみたい？」
+display
+com11 0 2
+sound 403
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ええと、その前に……、プロデューサーは、
+line2 <shift> # 私達に、どういうことしてほしいんですか？」
+com03 0 2
+choice1 <shift> # とりあえず答える
+line2
+com09 0 10
+com08
+choice2 <shift> # 俺の質問が先だぞ
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「む……。質問に質問で返すなよな。ま、とりあ
+line2 <shift> # えず答えるけどさ。俺の理想を言えば……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺は各曲、みんなの音楽の好みをきいて、
+line2 <shift> # 反映させながら、一緒に音作りをしたいんだ」
+display
+com11 0 2
+sound 404
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「なるほどぉ。それなら確かに、
+line2 <shift> # みんなひとりひとりの個性が生きるかな」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まずは俺の質問が先だぞ？」
+display
+com11 0 2
+sound 405
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「でも私も、プロデューサーのコンセプトに
+line2 <shift> # 合わせて考えたいから……、教えて下さいよぉ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺としては、理想を言えば……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「参加するアイドルみんなの、音楽の好みを
+line2 <shift> # きいて、各曲に反映させたら、いいと思うんだ」
+display
+com11 0 2
+sound 406
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ふむふむ、なるほどぉ」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ところで、律子の好みの音楽っていうと、
+line2 <shift> # どんな感じなんだ？」
+display
+com11 0 2
+sound 407
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「えっ！？　ええと……、う〜ん、好みというか、
+line2 <shift> # やってみたいタイプの歌はあるかな？」
+display
+com11 0 2
+sound 408
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「普遍的な、流行にとらわれないポップさ、
+line2 <shift> # どっか懐かしいような……、そんな感じの」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おっ、つまりスタンダードソングか。面白そう
+line2 <shift> # だな。具体的には、どんな音作りでいく？」
+display
+com11 0 2
+sound 409
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ああっと、それは、その……。どんな音か、
+line2 <shift> # うまく言えないんだけど、イメージはあるのよ」
+display
+com11 0 2
+sound 410
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「お気に入りの服みたいに気軽にきけて、後まで
+line2 <shift> # 大事にできるような音が作りたいんだけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「雰囲気はなんとなくわかるよ。しかしちょっと、
+line2 <shift> # イメージが抽象的だな。実現できるかなぁ？」
+display
+com11 0 2
+sound 411
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「資料の曲とか、いろいろきいたら、もう少し、
+line2 <shift> # 完成イメージも具体的になるかもっ」
+display
+com11 0 2
+sound 412
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「時間かかるかもしれないけど、私、自分の
+line2 <shift> # イメージでやってみたいな。挑戦してみたいっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （律子のやる気はじゅうぶんだ。でもアルバム作
+line2 <shift> # 成にあまり長い時間はかけられそうにない……）
+com03 0 2
+choice1 <shift> # よし、一緒に挑戦しよう
+line2
+com09 0 30
+com08
+choice2 <shift> # 律子ならできるさ
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、一緒に挑戦しよう！　でも作成時間は
+line2 <shift> # そんなに多くとれない、覚悟してくれ」
+display
+com11 0 2
+sound 413
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「大丈夫、短期集中で練りこみますっ。
+line2 <shift> # きっと具体的な音を見つけますよ！」
+display
+com11 0 2
+sound 414
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「自分のアイディアとイメージどおりに
+line2 <shift> # 作らせてくれるなら、徹夜だってやりますっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、その心意気を買った！　曲の方針は
+line2 <shift> # 律子にまかせる。俺はその実現に尽力しよう」
+display
+com11 0 2
+sound 415
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ええ、まかせなさいっ。そして、
+line2 <shift> # 協力、お願いしますね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺と律子が共同でイメージを練り上げるソロ曲
+line2 <shift> # とその収録アルバム、完成のあかつきには……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （内容的にもセールスも、きっとこれまでになく
+line2 <shift> # 素晴らしいものになるだろう。期待しよう！）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「音のイメージ作りは難しい課題だけど……。
+line2 <shift> # でも、律子ならきっとできるさ！　応援するよ」
+display
+com11 0 2
+sound 416
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ええ、きっとやってみせますよ。もっとも、
+line2 <shift> # 手探りだから、手間はかかるかもしれないけど」
+display
+com11 0 2
+sound 417
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「でも私も、自分のイメージの音を
+line2 <shift> # ちゃんと見つけてみたいから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よしわかった。頼むぞ。しかし……、アルバム
+line2 <shift> # 作成の期間は、そう長くないぞ？　できるか？」
+display
+com11 0 2
+sound 418
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そ、それは……、
+line2 <shift> # やってみなくちゃわからないですよっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わ、わからないのかっ！？」
+display
+com11 0 2
+sound 419
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「まずはやらなきゃ、
+line2 <shift> # 結果は出ないでしょ？」
+display
+com11 0 2
+sound 420
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「イチから音のイメージ練るのなんて、
+line2 <shift> # 私だって経験少ないんだから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「むぅ、それでは出来に若干の不安が……」
+display
+com11 0 2
+sound 421
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「だ、大丈夫ですよ。やってみせますって！
+line2 <shift> # 私を信用してくださいよぉ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わ、わかった。俺も余計な口は挟まないよ。
+line2 <shift> # ここは律子にすべて、まかせてみよう」
+display
+com11 0 2
+sound 422
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ええ、ばっちりまかせなさいっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後悪戦苦闘の末、なんとか律子のソロ曲は
+line2 <shift> # できあがった。手間のかかった、濃い内容……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （だが収録アルバムの完成が遅れ、販売の機会を
+line2 <shift> # 逃しそうだ。ああ、俺が手伝っていればな……）
+com09 0 49
+display
+location 49
+unk02

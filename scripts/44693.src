@@ -1,0 +1,457 @@
+com2c 0 24
+com2d 0 81
+com32 0 0
+com11 0 1
+sound 1100
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「目を見ただけで、かあ。
+line2 <shift> # うーん、そういうもんなのかなあ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「真、そろそろ、ミーティング……。
+line2 <shift> # ん？　なに、つぶやいてるんだ？」
+display
+com11 0 1
+sound 1101
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、プロデューサー。人って、目を見ただけで、
+line2 <shift> # 相手の考えなんて、読めるもんですか？」
+com03 0 3
+choice1 <shift> # ある程度はな
+line2
+com09 0 10
+com08
+choice2 <shift> # ムリじゃないか？
+line2
+com09 0 11
+com08
+choice3 <shift> # エスパーならな
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ある程度はな。
+line2 <shift> # でも、どうして、そんなことを？」
+display
+com11 0 1
+sound 1102
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「昨日、母さんが、父さんに、言ってたんです」
+display
+com11 0 1
+sound 1103
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「『もう長い付き合いなんだから、考えてること
+line2 <shift> # なんて、目を見れば、一発だ』って……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、夫婦なら、ある程度以上、わかるかもな。
+line2 <shift> # おたがいのこと、知り尽くしてるだろうし」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ムリじゃないか？　気分ぐらいは読めるかも
+line2 <shift> # しれないけど、考えまでは、とても……」
+display
+com11 0 1
+sound 1104
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「普通は、そうですよね。でも、うちの母さんは、
+line2 <shift> # 父さんの考えてること、目でわかるらしいです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え？　そうなのか？」
+display
+com11 0 1
+sound 1105
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「昨日言ってました。『付き合い長いんだから、
+line2 <shift> # なに考えてるかなんて、目で、一発だ』って」
+com09 0 91
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「エスパーならな」
+display
+com11 0 1
+sound 1106
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そういうのは、反則ですよ〜。マンガの主人公
+line2 <shift> # とかじゃなくて、普通の人間の話ですっ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ま、実際はムリだろう。気分ぐらいなら、読め
+line2 <shift> # るけど。誰か、できる人でも知ってるのか？」
+display
+com11 0 1
+sound 1107
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うちの母さんは、父さん限定で、読めるらしい
+line2 <shift> # です。目を見れば、なんでも、一発だって……」
+com09 0 91
+display
+location 91
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、夫婦なら、わかるかもな。
+line2 <shift> # おたがいのこと、知り尽くしてるだろうし」
+com09 0 29
+display
+location 29
+com11 0 1
+sound 1108
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「だったら、相手をしぼれば、
+line2 <shift> # ボクにだって、読めるかも！」
+display
+com11 0 1
+sound 1109
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサーだったら……、可能性あるかな。
+line2 <shift> # ちょっと、目、見せて下さい。よっと」
+display
+com11 0 1
+sound 1110
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ん〜。ん〜〜〜。ん〜〜〜〜〜〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、おい、そんなに顔、近づけるなって。
+line2 <shift> # え、えっと……、真……」
+com03 0 3
+choice1 <shift> # なにか、わかった？
+line2
+com09 0 30
+com08
+choice2 <shift> # ……かわいいな
+line2
+com09 0 31
+com08
+choice3 <shift> # 鼻息、くすぐったいよ
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なにか、わかった？」
+display
+com11 0 1
+sound 1111
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「考えは、イマイチ……。
+line2 <shift> # でも、それ以外のこと、わかったかも……」
+display
+com11 0 1
+sound 1112
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサーの顔、カッコいいですね。
+line2 <shift> # ボク、こんなにじっと見たこと、これまで……」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……かわいいな」
+display
+com11 0 1
+sound 1113
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「えっ？　い、いきなり、なんですっ？
+line2 <shift> # そんなこと、ささやかないで下さいよ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、ここまで、じっと顔見たことって、
+line2 <shift> # ないから……。さすが、アイドル……」
+display
+com11 0 1
+sound 1114
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ぷ、プロデューサーの方こそ、
+line2 <shift> # カッコいいです……。すごく……」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「鼻息、くすぐったいよ」
+display
+com11 0 1
+sound 1115
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「えっ？　あ、すみません。けど、
+line2 <shift> # しょうがないですよ〜、これだけ近づくと……」
+display
+com11 0 1
+sound 1116
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あっち行け、とか思いました？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そんなことは、思わないけど。
+line2 <shift> # ただ、あせったというか……」
+display
+com11 0 1
+sound 1117
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「こうして見ると、プロデューサーの顔、カッコ
+line2 <shift> # いい。こんなにじっと見たこと、これまで……」
+com09 0 49
+display
+location 49
+com11 0 1
+sound 1141
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あっ……。このままだと、なんか、くちびる、
+line2 <shift> # 吸い寄せられそう。と、止めて……！」
+com0e 2 207
+com44
+com09 0 50
+com45
+com44
+com09 0 51
+com45
+com44
+com09 0 52
+com45
+com44
+com09 0 53
+com45
+com44
+com09 0 54
+com45
+com44
+com09 0 55
+com45
+com44
+com09 0 56
+com45
+com44
+com09 0 57
+com45
+com44
+com09 0 58
+com45
+display
+location 50
+com11 0 1
+sound 1119
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、指……。ふぅ〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「こ、これで、よかったか？」
+display
+com11 0 1
+sound 1120
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ありがとう、ございました……。こういうのは、
+line2 <shift> # 雰囲気でしちゃ、いけないですよね。へへっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ふたりして、顔を見合わせて、笑った。
+line2 <shift> # 妙な照れくささと、甘い空気とが、残った）
+com09 0 69
+display
+location 51
+com11 0 1
+sound 1142
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「えっ！？　あ、あの、どうして、
+line2 <shift> # まぶたをツンって……？」
+com09 0 92
+display
+location 52
+com11 0 1
+sound 1143
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「えっ！？　あ、あの、どうして、
+line2 <shift> # ほっぺたをツンって……？」
+com09 0 93
+display
+location 53
+com11 0 1
+sound 1144
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「えっ！？　あ、あの、どうして、
+line2 <shift> # ほっぺたをペチンって……？」
+com09 0 92
+display
+location 54
+com11 0 1
+sound 1145
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「えっ！？　あ、あの、どうして、
+line2 <shift> # おでこをツンって……？」
+com09 0 93
+display
+location 55
+com11 0 1
+sound 1146
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「えっ！？　あ、あの、どうして、
+line2 <shift> # おでこをペチンって……？」
+com09 0 92
+display
+location 92
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ご、ごめん。でも、雰囲気を、
+line2 <shift> # ガラリと変えるには、これしかないかなって」
+display
+com11 0 1
+sound 1147
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「は、はい。
+line2 <shift> # 確かに、雰囲気は変わりましたけど……」
+display
+com11 0 1
+sound 1148
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「できたら……、もうちょっと、
+line2 <shift> # やさしく止めて欲しかったかも……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やさしくって言われても……、なあ」
+display
+com11 0 1
+sound 1127
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はあ〜、ちょっと罪悪感……。
+line2 <shift> # なに考えてたんでしょうね、ボク……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （顔には、後悔の表情がありありと。
+line2 <shift> # もう少し、やさしく止めてあげるべきだったか）
+com09 0 69
+display
+location 93
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ご、ごめん。こうやって止めるのが、
+line2 <shift> # 一番かと……」
+display
+com11 0 1
+sound 1128
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「まあ、どうでもいいんですけど。
+line2 <shift> # 止めてさえもらえれば、それで……」
+display
+com11 0 1
+sound 1129
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ぼ、ボク、どうしちゃったんでしょうね。
+line2 <shift> # いきなり、こんなこと。あはは……、はは……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （事なきを得たようだ。できれば、もう少し、
+line2 <shift> # やさしく止めてあげた方が、よかったか）
+com09 0 69
+display
+location 56
+com11 0 1
+sound 1130
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサー、もう大丈夫です。
+line2 <shift> # そんなに長い時間、手、当ててなくても……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そうか？　マズそうなら、
+line2 <shift> # いつまでだって、押さえつけるけど？」
+display
+com11 0 1
+sound 1131
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「いいですって……。
+line2 <shift> # そこまでして、止めたかったですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「というわけでも、ないけど……。
+line2 <shift> # その、ほら、いろいろな」
+display
+com11 0 1
+sound 1132
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はあ〜、ちょっと罪悪感……。
+line2 <shift> # ボク、なんでこんなこと、しようと……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （顔には、後悔の表情がありありと。軽く止めて
+line2 <shift> # あげるだけで、じゅうぶんだったかもしれない）
+com09 0 69
+display
+location 57
+com11 0 1
+sound 1133
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「わ……。ど、どうして、そんなところ……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、ここらへん、さわれば、
+line2 <shift> # 妙な空気も、さめるかと思って……」
+display
+com11 0 1
+sound 1134
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「び、ビックリしました……。たしかに、
+line2 <shift> # 冷静には、なりましたけど、その……」
+display
+com11 0 1
+sound 1135
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ボクを飛びのかせて、どけようとか……、
+line2 <shift> # そんな風に、考えてました？」
+display
+com11 0 1
+sound 1136
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「べ、別に、いいんですけどねっ。こんなこと、
+line2 <shift> # しようとする方が、おかしいんだし……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ためらいがちに、つくり笑い……。
+line2 <shift> # もっと普通に、止めてやるべきだったかもな）
+com09 0 69
+display
+location 58
+com11 0 1
+sound 1137
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「止めないと……、ボク、ボク……！
+line2 <shift> # ん……。イテッ！！」
+display
+com20 0 10
+com1f 0 10
+com11 0 1
+sound 1138
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ぷ、プロデューサー、どうして急に、
+line2 <shift> # 頭、突き出すんです〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、俺は、何もしてないって。
+line2 <shift> # 真が、よく見なかったからだろ？」
+display
+com11 0 1
+sound 1139
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ううう、正面衝突しちゃいましたね……。
+line2 <shift> # おでこ、痛いです……」
+display
+com11 0 1
+sound 1140
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「いきなり、ヘンなことしようとしたバチかなあ。
+line2 <shift> # なんでこんなこと、しようとしたんだか……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ためしに待ってみたら、とんだ結末に。ここは、
+line2 <shift> # 言われた通り、止めてやるべきだったか）
+com09 0 69
+display
+location 69
+unk02

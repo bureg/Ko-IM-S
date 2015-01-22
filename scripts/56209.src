@@ -1,0 +1,156 @@
+com2c 0 90
+com32 0 0
+com11 0 0
+sound 10000
+com4c 0 0
+name 0 2 <names:1>  # President
+line1 <shift> # 「ちょっと、君。
+line2 <shift> # すまないが、少し、話せるかね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「はい、社長。別に大丈夫ですけど……、
+line2 <shift> # どうしたんですか？」
+display
+com11 0 0
+sound 10001
+com4c 0 0
+name 0 2 <names:1>  # President
+line1 <shift> # 「いや、プロデュースの状況を、ききたいと思っ
+line2 <shift> # てね。万事順調かね？　悩み事は、ないかね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「すみません、ご心配おかけして。でも、今は、
+line2 <shift> # 順調です。二人で、なんとかやっていますよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「といっても、プロデュースも、まだ序盤ですし、
+line2 <shift> # 悩むヒマもなく、ただ進んでいるだけですけど」
+display
+com11 0 0
+sound 10002
+com4c 0 0
+name 0 2 <names:1>  # President
+line1 <shift> # 「そうか。いや、順調なら結構だよ。私は、てっ
+line2 <shift> # きり、黒井が、何かしてくるかと思ってね……」
+display
+com11 0 0
+sound 10003
+com4c 0 0
+name 0 2 <names:1>  # President
+line1 <shift> # 「思い過ごしなら、それにこしたことはない。
+line2 <shift> # 嫌がらせをされていなくて、安心したよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「えっ、黒井？　それって確か、９６１プロの、
+line2 <shift> # 社長ですよね？　その人が嫌がらせって……」
+com03 0 3
+choice1 <shift> # 悪いウワサを流すとか？
+line2
+com09 0 10
+com08
+choice2 <shift> # クツに画びょうを入れるとか？
+line2
+com09 0 11
+com08
+choice3 <shift> # いたずらメールを送るとか？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺達の、悪いウワサを流すとか、ですか？」
+display
+com11 0 0
+sound 10004
+com4c 0 0
+name 0 2 <names:1>  # President
+line1 <shift> # 「そうだ。あの男は、昔から意地が悪い。
+line2 <shift> # その上、汚い手も、よく使っていたからな」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺のクツに、画びょうを入れるとか？」
+display
+com11 0 0
+sound 10005
+com4c 0 0
+name 0 2 <names:1>  # President
+line1 <shift> # 「まあ、そこまで、小さな嫌がらせは、
+line2 <shift> # ないかもしれんが……」
+display
+com11 0 0
+sound 10006
+com4c 0 0
+name 0 2 <names:1>  # President
+line1 <shift> # 「だが、彼は昔から意地が悪く、
+line2 <shift> # 汚い手も使う男だった。やりかねないな」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いたずらメールを送るとか？」
+display
+com11 0 0
+sound 10007
+com4c 0 0
+name 0 2 <names:1>  # President
+line1 <shift> # 「その程度で済めば、苦労はしないよ。
+line2 <shift> # もっと、あくどいことをしてくるぞ」
+display
+com11 0 0
+sound 10008
+com4c 0 0
+name 0 2 <names:1>  # President
+line1 <shift> # 「昔から意地が悪くて、
+line2 <shift> # 汚い手も、好んで使う男だったからな」
+com09 0 19
+display
+location 19
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうですか……。その口ぶりからすると、
+line2 <shift> # 社長は、黒井社長と、お知り合いなんですか？」
+display
+com11 0 0
+sound 10009
+com4c 0 0
+name 0 2 <names:1>  # President
+line1 <shift> # 「んんっ？　まあ、少し……、な。
+line2 <shift> # あまりペラペラ話すようなことではないが……」
+display
+com11 0 0
+sound 10010
+com4c 0 0
+name 0 2 <names:1>  # President
+line1 <shift> # 「ゴホン！　とにかく、９６１プロのことは、
+line2 <shift> # 常に気にしておくように！」
+display
+com11 0 0
+sound 10011
+com4c 0 0
+name 0 2 <names:1>  # President
+line1 <shift> # 「この話は、ここまでにしよう。疲れている
+line2 <shift> # ところ、悪かったね。気をつけて帰りたまえ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「は、はい。それじゃあ、失礼します……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （どうも、高木社長と黒井社長は、
+line2 <shift> # 古くからの知り合いみたいな感じだな）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （でも、社長は、根掘り葉掘りきかれたくないよ
+line2 <shift> # うだし、ツッコんで質問する必要はないか……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （時期がきたら、社長の方から、
+line2 <shift> # 話してくれるだろう。今は気にせず、帰ろう！）
+com09 0 99
+display
+location 99
+unk02

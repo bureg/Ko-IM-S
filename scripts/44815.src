@@ -1,0 +1,317 @@
+com2c 0 46
+com2d 0 83
+com32 0 0
+com11 0 2
+sound 300
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「さあ、ライブ、ライブ！　っと、出番はまだか。
+line2 <shift> # 今日は前座が入るんですよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。別の事務所から、駆け出しのアイドル
+line2 <shift> # グループを、呼んである」
+display
+com11 0 2
+sound 301
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そっかー。ついに前座を呼べるくらいに
+line2 <shift> # なったかー。なんか、こう……」
+com03 0 3
+choice1 <shift> # プレッシャー？
+line2
+com09 0 10
+com08
+choice2 <shift> # 照れくさい？
+line2
+com09 0 11
+com08
+choice3 <shift> # えらくなった気分？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「プレッシャー？」
+display
+com11 0 2
+sound 302
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はい。もう追われる立場なんだなって。
+line2 <shift> # 追い抜かれないよう、がんばらないと！」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「照れくさい？」
+display
+com11 0 2
+sound 303
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「それもありますけど……。どっちかっていうと、
+line2 <shift> # プレッシャーの方が強いかな」
+display
+com11 0 2
+sound 304
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「もう追われる立場なんだなって。
+line2 <shift> # 追い抜かれないよう、がんばらないと！」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「えらくなった気分？」
+display
+com11 0 2
+sound 305
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そんなの味わってる余裕、ないですよ。
+line2 <shift> # 明日には、人気、逆転してるかもしれないし」
+display
+com11 0 2
+sound 306
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「追い抜かれないよう、がんばらないと
+line2 <shift> # いけませんね。いい刺激になります！」
+com09 0 29
+display
+location 29
+com11 0 2
+sound 307
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「で、その前座グループは、今どこに？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まだ、楽屋だよ。『がんばろーね』とか、
+line2 <shift> # 言い合いながら、スクラム組んでたけど」
+display
+com11 0 2
+sound 308
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「へぇー、初々しいな。
+line2 <shift> # あ、せっかくだから、応援に行ってこようかな」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え？　将来のライバルを激励してくるのか？」
+display
+com11 0 2
+sound 309
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「かたいコト、言いっこナシですよ。
+line2 <shift> # きっと、すごい緊張してるだろうから」
+com03 0 3
+choice1 <shift> # 真は、やさしすぎだな
+line2
+com09 0 30
+com08
+choice2 <shift> # 真は、やさしいな
+line2
+com09 0 31
+com08
+choice3 <shift> # 真は、フェミニストだな
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「真は、やさしすぎだな。浮き沈みの激しい
+line2 <shift> # 世界で、そういう性格、つらいぞ？」
+display
+com11 0 2
+sound 310
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「へへっ、自分でも、そう思います。けど、
+line2 <shift> # なんか、他人とは思えないんですよね……」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「真は、やさしいな」
+display
+com11 0 2
+sound 311
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そ、そうなのかな。誰にでも、
+line2 <shift> # こんなことしてあげようとは、思いませんけど」
+display
+com11 0 2
+sound 312
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ただ、この場合、放っておけないんですよね。
+line2 <shift> # デビューした頃の、自分と重なっちゃって」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「真は、フェミニストだな」
+display
+com11 0 2
+sound 313
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「女の子にだけ、親切なわけじゃないですよ〜。
+line2 <shift> # つい、デビューした頃の自分と重なっちゃって」
+display
+com11 0 2
+sound 314
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そういうイジワル言うプロデューサーは、
+line2 <shift> # フェミニストじゃないですね。はあ〜……」
+com09 0 49
+display
+location 49
+com11 0 2
+sound 315
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「さーてとっ。あ、ついでに、なにか持って
+line2 <shift> # いってあげようかな。でも、なにを……？」
+display
+com11 0 2
+sound 316
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサー、もし差し入れするなら、
+line2 <shift> # どんなもの、持っていくのがいいでしょう？」
+com03 0 3
+choice1 <shift> # やっぱり、甘い飲み物とか？
+line2
+com09 0 50
+com08
+choice2 <shift> # やっぱり、甘いお菓子とか？
+line2
+com09 0 51
+com08
+choice3 <shift> # やっぱり、甘い言葉とか？
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やっぱり、甘い飲み物とか？
+line2 <shift> # ジュースなんかが、無難だと思うけど」
+display
+com11 0 2
+sound 317
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そんな、ありふれたモノでいいんですか？
+line2 <shift> # わかりました。じゃ、ペットボトルを何本か！」
+display
+com22 0 30
+com21 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、前座の子達、相当、がんばって
+line2 <shift> # くれたな！　差し入れが、きいたか？」
+display
+com11 0 2
+sound 318
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「かもしれませんね。あんなモノでも、
+line2 <shift> # あの子達、すっごいよろこんでくれたから」
+display
+com11 0 2
+sound 319
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「さあ、今度は、こっちの番かな。受け取った
+line2 <shift> # バトン、落とさないようにっと！　行っくぞ〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （真は、最高の歌とダンスで、後輩のがんばりに
+line2 <shift> # 応えた！　完成度の高いライブになったな）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やっぱり、甘いお菓子とか？
+line2 <shift> # おなかが減ってたら、パワーは出ないからな」
+display
+com11 0 2
+sound 320
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、そうですね。じゃあ、差し入れの中から、
+line2 <shift> # おいしそうなの、持っていきます！」
+display
+com22 0 30
+com21 0 30
+com11 0 2
+sound 321
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ぷ、プロデューサー、ミスりました。
+line2 <shift> # お、おなかが痛くて……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え、前座の子達が、か？　ヘンなお菓子、
+line2 <shift> # 持っていったんじゃないだろうな！？」
+display
+com11 0 2
+sound 322
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ちがいます！　前座の子じゃなくて、ボクが。
+line2 <shift> # つい一緒に、バクバク食べちゃって……」
+display
+com11 0 2
+sound 323
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「見てたら、あまりにおいしそうだったから。
+line2 <shift> # うう〜、もっとマズそうなのにしとけば……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （差し入れを、自分で食べるとは。ま、そんなに
+line2 <shift> # 苦しそうでもないし、出番までには、治るかな）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やっぱり、甘い言葉とか？　真だったら、もの
+line2 <shift> # より、そっちの方が、よろこばれると思うけど」
+display
+com11 0 2
+sound 324
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「すーぐ、そういうコトを……。
+line2 <shift> # でも、そっちの方が、効果あるかな……？」
+display
+com11 0 2
+sound 325
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「わかりましたっ。ここはひとつ、やさしい
+line2 <shift> # 美少年になりきって、元気づけてきます！」
+display
+com22 0 30
+com21 0 30
+com11 0 2
+sound 326
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサ〜、マズいですよっ。言われた
+line2 <shift> # 通りやったら、あの子達、酔っちゃって！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「酔ったって……、どんな風になったんだ？」
+display
+com11 0 2
+sound 327
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ボクの顔、見たまま、熱い視線を……。
+line2 <shift> # ううっ、思い出したら、トリハダが……」
+display
+com11 0 2
+sound 328
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あんな状態で、ステージの方、大丈夫かな？
+line2 <shift> # アゴなんか、なでるんじゃなかったな……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、真の予感は的中。前座は、ひどいデキ
+line2 <shift> # だった。よろこばせすぎるのも、問題だな……）
+com09 0 69
+display
+location 69
+unk02

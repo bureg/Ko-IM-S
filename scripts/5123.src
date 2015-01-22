@@ -1,0 +1,384 @@
+com2c 0 25
+com2d 0 11
+com32 0 0
+com11 0 4
+sound 138
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「声量が貧弱だっ！　声が小さすぎるうっ！」
+display
+com11 0 4
+sound 139
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「……って、社長に言われちゃいました。
+line2 <shift> # ううっ、発声方法が、間違ってるのかなぁ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それなら、ボイストレーナーと、
+line2 <shift> # 相談したほうが、いいかもしれないね」
+display
+com11 0 4
+sound 102
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「うーん、トレーナーさんに、いまさら、
+line2 <shift> # 初歩的なことをきくのも、ちょっと……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「むぅ、それもそうか。レッスンも仕事も、
+line2 <shift> # もうそれなりに、こなしてきてるしなぁ」
+display
+com11 0 4
+sound 103
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「でも、今の発声に何か問題があるなら、
+line2 <shift> # なんとかしたいです！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだな、声量を確実に豊かにするには……」
+com03 0 2
+choice1
+com4f 0 2 146 154 148 74 130 201 144 186 130 240
+line2 <shift> # 出すことだ
+com09 0 10
+com08
+choice2
+com4f 0 2 145 229 130 171 130 173 144 186 130 240
+line2 <shift> # 出すことだ
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「丁寧に声を、出すことだな」
+display
+com11 0 4
+sound 140
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「今より、もっとていねいに……、ですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだね。発音とか、呼吸とか、
+line2 <shift> # きれいに声を出せば、無理がなくなる」
+display
+com11 0 4
+sound 141
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「発音と呼吸にムリがなくなれば、
+line2 <shift> # 大きな声、出しやすくなりますよね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、そうだ。あとは自信の問題だな」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「大きく声を、出すことだな」
+display
+com11 0 4
+sound 142
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「今より、もっと大きくしっかり、ですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだ。気合いというか、自信だね。
+line2 <shift> # 堂々と発声すること！」
+display
+com11 0 4
+sound 107
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「確かに、自信なさそう〜にやってたら、
+line2 <shift> # 声ちっちゃくなっちゃいますよね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うん、だから、はっきり声を出せばいい。
+line2 <shift> # 細かいテクニックは後回しだ」
+com09 0 29
+display
+location 29
+com11 0 4
+sound 108
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ふむふむ、なるほどぉ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「さて、それはそれとして……、
+line2 <shift> # 声を出すには、うまく身体を使わなきゃな」
+display
+com11 0 4
+sound 109
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ですよね？　つまり、ええと……、
+line2 <shift> # 身体の、どこを使ったらいいでしょう〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ええっ？　まさか春香、
+line2 <shift> # それを忘れちゃったのか？」
+display
+com11 0 4
+sound 110
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そうじゃないですよ！　発声を直すのに、
+line2 <shift> # 一番大事なところは、どこかってことですっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そうだな……。どこか、
+line2 <shift> # 一番大事なポイントがあるはずだ」
+com0e 0 2
+com44
+com4f 0 2
+com09 0 30
+com45
+com44
+com4f 0 1
+com09 0 31
+com45
+com44
+com4f 0 0
+com09 0 32
+com45
+com44
+com4f 0 0
+com09 0 33
+com45
+com44
+com4f 0 0
+com09 0 34
+com45
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「腹の底から声を出すこと、
+line2 <shift> # それが、一番大事だ！」
+display
+com11 0 4
+sound 128
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ああっ！　正解っ！」
+display
+com11 0 4
+sound 129
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そうそう、それです！　おなかからしっかり、
+line2 <shift> # どかんと声を出すことが、大事なんです！」
+display
+com11 0 4
+sound 130
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「おなかと背中の筋肉で支えるんですよーって、
+line2 <shift> # ボイストレーナーさんが言ってました」
+display
+com11 0 4
+sound 131
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「よかった♪　プロデューサーさんのおかげで、
+line2 <shift> # 発声のコツを思い出せそうですよっ♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「思い出せそうって、おいおい。
+line2 <shift> # 忘れちゃいかんなぁ。頼むよ」
+display
+com11 0 4
+sound 132
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「えへへ、もう大丈夫です！　それじゃ基本に
+line2 <shift> # 戻って、気をつけながら発声練習しますね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （よし、春香は問題解決のきっかけを、
+line2 <shift> # きっちりつかめたみたいだぞ）
+com09 0 99
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「肝心なのは胸だ、胸の大きさだ！」
+display
+com11 0 4
+sound 122
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「胸の……、大きさぁ？
+line2 <shift> # そ、それって、どういう意味ですかっ」
+display
+com11 0 4
+sound 123
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「それを言うなら、
+line2 <shift> # 『肺の大きさ』なんじゃないですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、まぁ、そうとも言うかな」
+display
+com11 0 4
+sound 143
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そうとしか言わないですよぉ、普通は……」
+display
+com11 0 4
+sound 144
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「それに、プロデューサーさん、間違いじゃない
+line2 <shift> # ですけど……、ちょっと違いますよ？」
+display
+com11 0 4
+sound 125
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「肺活量は必要だと思いますけど、
+line2 <shift> # 肺の大きさとは、あんまり関係ないし……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ま、まあ、あまり気にするな。ところで、
+line2 <shift> # そろそろポイント、思い出したりしないか？」
+display
+com11 0 4
+sound 126
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あっそうだ！　確か、呼吸にコツが、
+line2 <shift> # いるんですよ。私、思い出した……」
+display
+com11 0 4
+sound 127
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「おーかくまくだけじゃなくて、
+line2 <shift> # おなかと背中も使うんです！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （どうやら、春香は問題解決のきっかけを、
+line2 <shift> # 少しつかんでくれたみたいだ）
+com09 0 99
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだ、口を大きく開ければ！」
+display
+com11 0 4
+sound 111
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「なるほどぉ。口を大きく……、よーし」
+display
+com11 0 4
+sound 112
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「わぁー！　あー！　うあー！」
+display
+com11 0 4
+sound 113
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「……って、口を、おおーきくあけて、
+line2 <shift> # やってみましたけど……」
+display
+com11 0 4
+sound 114
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「それって、空気はいっぱい出ても、
+line2 <shift> # 大声は出ないですよぉ」
+display
+com11 0 4
+sound 115
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「だいたい、すぐに息が、
+line2 <shift> # きれちゃうじゃないですか」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「むむ、そうか……。そうだな。
+line2 <shift> # 大口と大声は、あんまり関係なかったなぁ」
+display
+com11 0 4
+sound 116
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「真面目に考えて下さいよ、プロデューサー
+line2 <shift> # さん……。弱点克服したいんですから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （むぅ、うまいこと春香の力になれなかった。
+line2 <shift> # プロデューサーの俺にも、勉強が必要なのかな）
+com09 0 99
+display
+location 33
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それはずばり、のどだ。のどの強さだ！」
+display
+com11 0 4
+sound 117
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「なるほどぉ。確かに、のどの強い人は、
+line2 <shift> # しっかりした声が出せますね！」
+display
+com11 0 4
+sound 118
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「うーん……。でも、
+line2 <shift> # のどを鍛えるって言っても、大変ですよ？」
+display
+com11 0 4
+sound 119
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「のどというか、声帯の強い弱いは、
+line2 <shift> # 生まれつきの要素が、結構大きいし……」
+display
+com11 0 4
+sound 120
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「人によっては、のどを丈夫にするために、
+line2 <shift> # わざと声を、つぶしたりするくらいです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そうなのか！？　それはちょっと、
+line2 <shift> # 春香にやってもらっちゃ困るなぁ」
+display
+com11 0 4
+sound 121
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ですよね……。別の方法を考えないと。
+line2 <shift> # ああっ、どうしたらいいんだろ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うまく解決してやれなかったな。
+line2 <shift> # 春香は、少し悩んでしまったようだ……）
+com09 0 99
+display
+location 34
+com11 0 4
+sound 133
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あ、あの、プロデューサーさん？
+line2 <shift> # どうかしたんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、ああ……、すまん。
+line2 <shift> # なんだか春香に見とれてしまったかな」
+display
+com11 0 4
+sound 134
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「むぅ……、お願いしますよぉ。
+line2 <shift> # まじめに考えて下さい！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「か、考えてるさ。むしろ、考えすぎて、
+line2 <shift> # うまく決まらないというか、なんというか」
+display
+com11 0 4
+sound 135
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「うーん、そうですか」
+display
+com11 0 4
+sound 136
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「アドバイス欲しかったですけど……、
+line2 <shift> # わかりました。少し、ひとりで考えてみます」
+display
+com11 0 4
+sound 137
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「……やっぱり基本がうまくいってないのかなぁ。
+line2 <shift> # ああっ、弱点克服、したいなぁ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ちゃんと解決してやれなかったな。
+line2 <shift> # 春香は、悩んでしまったようだ）
+com09 0 99
+display
+location 99
+unk02

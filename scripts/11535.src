@@ -1,0 +1,413 @@
+com2c 0 43
+com2d 0 21
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あの大物アーティストの曲に参加できるなんて
+line2 <shift> # 光栄だな！　俺達も、ついにここまで来たか！」
+display
+com11 0 0
+sound 0
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そこまで感激するほどのことでもないわよ。
+line2 <shift> # シングルカットしない、アルバム用の曲だし」
+display
+com11 0 0
+sound 1
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「向こうにしてみれば、ちょっとした話題作り
+line2 <shift> # って程度でしょ。力いれるだけ損よね〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おいおい。ずいぶん冷めてるんだな」
+display
+com11 0 0
+sound 2
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「なんか気分が乗らないのよね。他人の曲だと
+line2 <shift> # 思うと気が抜けちゃうっていうか……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （伊織は、やる気を出せないでいるみたいだ。
+line2 <shift> # ここは俺が、うまくたきつけてやらねば！）
+com03 0 3
+choice1 <shift> # これも一つのチャンスだぞ？
+line2
+com09 0 10
+com08
+choice2 <shift> # 先方からの御指名なんだぞ？
+line2
+com09 0 11
+com08
+choice3 <shift> # 主役を食っちゃえばいいだろ？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「これも一つのチャンスだぞ？　伊織を知らな
+line2 <shift> # かった人も、注目してくれるかもしれないし」
+display
+com11 0 0
+sound 3
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ん〜、そうね。彼らの知名度は
+line2 <shift> # 利用する価値があるかもしれないわ〜」
+display
+com11 0 0
+sound 4
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「これをきっかけに、ファンを根こそぎ
+line2 <shift> # 横取りしちゃうってのも、悪くないかもね♪」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「先方からの御指名なんだぞ。伊織とぜひ一緒に
+line2 <shift> # 歌いたいという、たっての御希望なんだ」
+display
+com11 0 0
+sound 5
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「あっそ〜。でも私、他人の希望をかなえてあげ
+line2 <shift> # ることには、あんまり興味ないのよね〜」
+display
+com11 0 0
+sound 6
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「自分の希望をかなえてもらうことには、
+line2 <shift> # とっても興味あるけど♪」
+display
+com11 0 0
+sound 7
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「まあ、あんまり手を抜くわけにもいかなそうだ
+line2 <shift> # し、仕事は仕事として、ちゃんとやるわよ」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「主役を食っちゃえばいいだろ？　他人の曲だと
+line2 <shift> # 思わず、自分中心に歌ってしまえばいいんだ」
+display
+com11 0 0
+sound 8
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ちょっと〜、そんなことして大物アーティスト
+line2 <shift> # にニラまれちゃったら、アンタ責任とれるの？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、えっと……やっぱりやめよう。
+line2 <shift> # 主役重視で！！」
+display
+com11 0 0
+sound 9
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「むっか〜！　言うことコロコロ変えないでよ！
+line2 <shift> # そういうのって、嫌われるわよっ！」
+display
+com11 0 0
+sound 10
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「はあーあ。まあ、せっかくここまで来たし、
+line2 <shift> # 仕事だけは、やって帰るつもりだけどー」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 11
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「さてと。それじゃ、大物アーティストとやらが
+line2 <shift> # 来る前に、ちょこっと練習でもしとこうかしら」
+display
+com11 0 0
+sound 12
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ラララ〜♪　あ、ねえ、プロデューサー。
+line2 <shift> # ここのコーラスのところなんだけど……」
+display
+com11 0 0
+sound 13
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「音程がうまくとれなくて、難しいのよね。
+line2 <shift> # うまく歌うコツとか、ないかしら？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「繊細なメロディだな。確かに難しそうだ。
+line2 <shift> # よし、ここは……」
+com03 0 3
+choice1 <shift> # 控えめに歌おう
+line2
+com09 0 20
+com08
+choice2 <shift> # うるさいぐらいに歌おう
+line2
+com09 0 21
+com08
+choice3 <shift> # ごまかしつつ歌おう
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「控えめに歌おう。メインメロディーをジャマ
+line2 <shift> # しないように程よく、１音１音、確実に、だ」
+display
+com11 0 0
+sound 14
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……そのアドバイスもまた、難しいわね〜。
+line2 <shift> # もっとお手軽にちゃちゃっと歌える方法ない？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんな方法はないよ。実力を形作るのは、
+line2 <shift> # 才能と、地道な努力だけなんだからな」
+display
+com11 0 0
+sound 15
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「う。才能はともかく、地道とか努力とか、
+line2 <shift> # いっちばんキライぃ〜！！」
+display
+com11 0 0
+sound 16
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……でも、それしか道はないのね。く……
+line2 <shift> # 練習するわよ。すればいいんでしょ！　ふんっ」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うるさいぐらいに歌おう。メインメロディーを
+line2 <shift> # かき消すほどに強く、怒鳴りつけるように！」
+display
+com11 0 0
+sound 17
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ちょっと、本気なの〜っ！？　それで、音程の
+line2 <shift> # 難しいところはどうすればいいの？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それは勢いでカバーだ！」
+display
+com11 0 0
+sound 18
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「なーるほど、勢いでね！　それなら納得♪」
+display
+com11 0 0
+sound 19
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「って、納得できるわけないでしょ〜っ！
+line2 <shift> # この、激烈役立たずプロデューサー！」
+display
+com11 0 0
+sound 20
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「まともにアドバイスできないんなら、
+line2 <shift> # 黙っててよ！　練習のジャマなのよっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「はい。もうジャマしませんから、
+line2 <shift> # どうぞ練習なさって下さい……」
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ごまかしつつ歌おう。音程の難しいところは、
+line2 <shift> # テキトーにハミングとか、しておけばいい」
+display
+com11 0 0
+sound 21
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「へえ〜。ハミングをねえ。
+line2 <shift> # そこだけ急に、鼻歌チックに歌うわけね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうとも！　どうせコーラスだから、
+line2 <shift> # よく聞こえないと思うし……」
+display
+com11 0 0
+sound 22
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ふんふん。聞こえないから
+line2 <shift> # テキトーでいいわけね？　楽勝ね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そう。楽勝でテキトーに……うう、
+line2 <shift> # すまない。俺がテキトーなことを言ってました」
+display
+com11 0 0
+sound 23
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「謝るぐらいなら、最初から言わないでよ！
+line2 <shift> # この、超絶役立たずプロデューサー！」
+display
+com11 0 0
+sound 24
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……はあ。結局、うまく歌うには練習するしか
+line2 <shift> # なさそうね。やるしかない、か……。はあ〜あ」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後も伊織は自主練習をし、今日の収録曲
+line2 <shift> # をカンペキに歌いこなせるようになった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さあ、そろそろ主役のアーティストが
+line2 <shift> # スタジオ入りする時間だぞ」
+display
+com11 0 0
+sound 25
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「え、あの……。ど、どうしよ〜。私、急に緊張
+line2 <shift> # してきちゃった〜。う。ダメ、とても歌えない」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えええーっ！！　さっきまでの余裕は
+line2 <shift> # どうした？　歌もカンペキだったのに」
+display
+com11 0 0
+sound 26
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そんなこと言ったって、し、仕方ないでしょ！
+line2 <shift> # 緊張って、いきなり来ることもあるのよーっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「とにかく落ち着け！　ちゃんと練習もしたし。
+line2 <shift> # それに伊織の運勢、今日は大吉だぞ」
+display
+com11 0 0
+sound 27
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「大吉……？　本当にそうならいいんだけど。
+line2 <shift> # ね、試したいから、私とカード勝負しない？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、いいだろう！
+line2 <shift> # それで伊織が勝てば、自信が持てるだろ？」
+display
+com11 0 0
+sound 28
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ええ、たぶん。それじゃ、２枚のカードの
+line2 <shift> # うち、どちらかを選んでちょうだい」
+display
+com11 0 0
+sound 29
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「選んだカードが　ジョーカーだったら、アンタ
+line2 <shift> # の負け。ハートのＡだったら、アンタの勝ちよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ここは伊織に勝たせてやりたい。
+line2 <shift> # 運任せだが、ジョーカーを選ばなければ！）
+com03 0 2
+choice1 <shift> # 右のカードだ！
+line2
+com09 0 30
+com08
+choice2 <shift> # 左のカードだ！
+line2
+com09 0 31
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「右だ！　右のカードで勝負！」
+com37 0 1
+com1e 0 0
+com09 0 38
+com3b
+com37 0 0
+com1e 0 0
+com09 0 39
+com3b
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「左だ！　左のカードで勝負！」
+com37 0 1
+com1e 0 0
+com09 0 38
+com3b
+com37 0 0
+com1e 0 0
+com09 0 39
+com3b
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「時間がない！　テキトーに勝負！」
+com09 0 39
+display
+location 38
+com11 0 0
+sound 30
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……ジョーカー！　私の勝ちだわ〜。
+line2 <shift> # やっぱり今日は、大吉なのね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「伊織は強運だし、才能もある。今日は努力も
+line2 <shift> # めいっぱいしたんだから、自信持っていけ！」
+display
+com11 0 0
+sound 31
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そうよね！　私としたことが、このぐらいで
+line2 <shift> # 弱気になるなんて、どうかしてたわ」
+display
+com11 0 0
+sound 32
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「見てなさい！　相手が大物だろうと、軽く
+line2 <shift> # いなして、私の前にひざまずかせてやるから！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その日の伊織の歌は、大物アーティストも仰天
+line2 <shift> # するほどの、最高の出来だった！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （カード勝負ぐらいで伊織が大吉の気分になれる
+line2 <shift> # なら、俺は毎日、負けたっていいぞ！）
+com4b 0 0
+com09 0 49
+display
+location 39
+com11 0 0
+sound 33
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「あっ、ハートのＡ！　アンタの勝ちじゃない！
+line2 <shift> # どこが大吉なのよー。うそつきーっ！」
+display
+com11 0 0
+sound 34
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「はあ……。なんかダメ。緊張しすぎて、
+line2 <shift> # どんどんダメダメな気分になってきちゃった」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （練習のかいも空しく、伊織の出来は今ひとつ
+line2 <shift> # だった。大物アーティストも不満げな表情だ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （なんで、こんな時に勝ってしまうんだ、俺！
+line2 <shift> # かえすがえすも、そのことばかりが悔やまれる）
+com4b 0 2
+com09 0 49
+display
+location 49
+unk02

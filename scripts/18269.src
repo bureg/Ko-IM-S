@@ -1,0 +1,328 @@
+com2c 0 118
+com2d 0 31
+com32 0 0
+location 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よいしょっと！　やよいの身体って、こんなに
+line2 <shift> # 軽かったんだな。さてと、家は……）
+display
+com11 0 6
+sound 1500
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「……あっ、あれ〜？　ここは……？
+line2 <shift> # 私、おんぶされて……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お、起きたか」
+display
+com11 0 6
+sound 1501
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「わ、おろして下さい〜。身代金とか、うち、
+line2 <shift> # 払えませんから〜〜〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うわっ、こら！　背中で暴れるな！
+line2 <shift> # 今おろすから」
+display
+com11 0 6
+sound 1502
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あ、プロデューサー？？？　プロデューサーが、
+line2 <shift> # 私をおんぶしてくれてたんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだよ」
+display
+com11 0 6
+sound 1503
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はあ〜、ビックリしたー。私、知らない人に、
+line2 <shift> # さらわれてるところかと……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あのなあ。誰が、ライブの疲れでダウンしてる
+line2 <shift> # アイドルを、さらっていくんだよ」
+display
+com11 0 6
+sound 1504
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ライブ……。あっ、思い出しました！
+line2 <shift> # 私、大失敗しちゃったんですよね！」
+display
+com11 0 6
+sound 1505
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ごめんなさい〜。根性が足りませんでした〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まあ、しかたがないよ。でも残念だったな。
+line2 <shift> # バッチリ決めたかっただろ？」
+display
+com11 0 6
+sound 1506
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はい。けど私っ、次はやりますっ！　次こそ、
+line2 <shift> # プロデューサーに、ほめてもらえるように！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、一応、次はないんだけど……」
+display
+com11 0 6
+sound 1507
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えっ？　……ああああっ、そうでしたーっ。
+line2 <shift> # もう今日で最後……。うううっ」
+display
+com11 0 6
+sound 1508
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「今さらはりきっても、仕方ないんでした。スッ
+line2 <shift> # ポリそのこと忘れてて。ごめんなさーい……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ははは、やよいらしいな。でもほら、俺とは
+line2 <shift> # 今日まででも、ライブは、まだできるんだから」
+display
+com11 0 6
+sound 1509
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「それはそうですけど……。私、ダメな子です。
+line2 <shift> # 恩知らずです……」
+display
+com11 0 6
+sound 1510
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「自分で自分におしおきしますね。
+line2 <shift> # 今日は晩ゴハン抜きの刑です。うううっ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「こらこら、そんなことしなくていいよ。
+line2 <shift> # 成長期なんだから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それより、たくさん食べて、
+line2 <shift> # ステージでミスをしないアイドルに育ってくれ」
+display
+com11 0 6
+sound 1511
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「その方が、プロデューサーも、
+line2 <shift> # うれしいですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「決まってるじゃないか」
+display
+com11 0 6
+sound 1512
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「わかりましたー。で、失敗しなくなるためには、
+line2 <shift> # どういう物をたくさん食べるのがいいですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、そうだな。たとえば……」
+com03 0 3
+choice1 <shift> # タマゴとか
+com09 0 10
+com08
+choice2 <shift> # イワシの丸干しとか
+line2
+com09 0 11
+com08
+choice3 <shift> # 松阪牛とか
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「タマゴとか」
+display
+com11 0 6
+sound 1513
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あ、私タマゴ大好きです！
+line2 <shift> # 安くて、栄養があって、サイコーですよね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。タマゴをたくさん食べて、
+line2 <shift> # 今以上に立派に育ってくれ！」
+display
+com11 0 6
+sound 1514
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「わかりましたー。よーし、じゃあ明日から、
+line2 <shift> # １日１０個は食べよー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、それは多すぎだろ？　おなか壊すぞ？」
+display
+com11 0 6
+sound 1515
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「じゃ、じゃあ……、１日５個は食べよー！
+line2 <shift> # これなら、いいですよね。えへへ♪」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「イワシの丸干しとか」
+display
+com11 0 6
+sound 1516
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「イワシ……。けっこう高いですよね。
+line2 <shift> # この間、スーパーで見たら……」
+display
+com11 0 6
+sound 1517
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「４尾で、２９８円もしたんですよ！　税別で。
+line2 <shift> # それでも食べた方がいいですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなにするのか。まあ、他の物でもいいよ。
+line2 <shift> # カルシウムが、たくさんとれそうなものなら」
+display
+com11 0 6
+sound 1518
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「別のでもいいですか！　なら私、
+line2 <shift> # いろいろ探してみまーす。えへへ♪」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「松阪牛とか」
+display
+com11 0 6
+sound 1519
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「まつざ……、か、ぎゅぅ？　あの伝説の？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……どこが伝説なのかわからないけど、
+line2 <shift> # たまには、そういうゼイタクな物も……」
+display
+com11 0 6
+sound 1520
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「でも、あれってありえない値段がついてますよ
+line2 <shift> # ね？　百グラムで、１週間暮らせそうな値段が」
+display
+com11 0 6
+sound 1521
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あんなもの食べたら、私、後悔で、
+line2 <shift> # 夜も眠れません〜〜〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そこまで恐れるなら、他の物でもいいよ。
+line2 <shift> # とにかく、タンパク質豊富なものを食べよう」
+display
+com11 0 6
+sound 1522
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「別のでもいいですか？　なら私、代わりに、
+line2 <shift> # 豚のバラ肉、たくさん食べることにしまーす」
+com09 0 19
+display
+location 19
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃあ、しっかり食べて、身体も早く
+line2 <shift> # 治すんだぞ？　俺は、そろそろ行くから」
+display
+com11 0 6
+sound 1523
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あ、はい。プロデューサー、こんな私と
+line2 <shift> # これまでいて、疲れませんでしたか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「疲れたりするもんか。逆に、やよいから、
+line2 <shift> # 元気わけてもらった気がするし」
+display
+com11 0 6
+sound 1524
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「じゃ、じゃあ、もしかしたら、
+line2 <shift> # またいつかプロデュースしてもらえるかも？」
+display
+com1c 0 3
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もちろんだよ。その時は、またがんばろう」
+display
+com11 0 6
+sound 1525
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はい！　それじゃ最後に、アレやって、
+line2 <shift> # 別れましょう！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……アレ？」
+display
+com11 0 6
+sound 1526
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はい！　いつかまた、
+line2 <shift> # プロデュースしてもらえる日を信じてっ！」
+display
+com11 0 6
+sound 1527
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「夢と希望の……、
+line2 <shift> # ふぁいなる、ハイ、ターッチ！」
+com0e 0 226
+com44
+com09 0 20
+com45
+com44
+com09 0 21
+com45
+display
+location 20
+com11 0 6
+sound 1528
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「いぇい！　今日まで、
+line2 <shift> # ありがとうございましたー」
+display
+com4a 0 0
+com11 0 6
+sound 1529
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「次会ったら、またこんな風に『いぇーい！！』
+line2 <shift> # って、たくさんやりましょー！」
+display
+location 100 129 92 129 92 130 177 130 164 130 181 130 196 129 65 130 226 130 230 130 162 130 205 129 65 131 137 131 88 131 103 131 137 131 67 131 117 142 184 148 115 130 204
+line2 <shift> # ショックを振り切り、明るい顔で去っていった。
+display
+location 101 130 187 130 204 140 179 139 67 130 200 143 206 138 231 130 170 129 65 131 103 131 98 131 118 130 204 141 192 130 197 139 80 130 173 130 204 130 205 129 65
+line2 <shift> # まだまだ先のことだろう。でも――、
+display
+location 102 130 226 130 230 130 162 130 200 130 231 129 65 130 162 130 194 130 169 130 187 130 204 150 178 130 240 138 144 130 166 130 233 130 198 142 118 130 164 129 66 138 232 130 237
+line2 <shift> # くば、その時、隣に立っているのは俺でありたい。
+com09 0 29
+display
+location 21
+com11 0 6
+sound 1530
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ううう……、プロデューサ〜、ちゃんと手〜」
+display
+com1c 0 2
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……ごめん」
+display
+location 110 129 92 129 92 130 177 130 164 130 181 130 196 129 65 130 226 130 230 130 162 130 205 129 65 131 137 131 88 131 103 131 94 131 98 131 96 149 115 144 172 140 247 130 201 129 65
+line2 <shift> # ガッカリしながら、去っていった。
+display
+location 111 130 177 130 234 130 169 130 231 130 224 129 65 130 226 130 230 130 162 130 204 145 79 130 201 130 205 129 65 130 179 130 220 130 180 130 220 130 200 141 162 147 239 130 170 129 65
+line2 <shift> # 立ちふさがるだろう。トップの座は遠い。しかし、
+display
+location 112 130 226 130 230 130 162 130 200 130 231 129 65 130 171 130 193 130 198 136 234 149 224 136 234 149 224 144 105 130 241 130 197 130 162 130 175 130 233 129 66
+line2 <shift> # 機会があればいつか、また手を貸してあげたい。
+com09 0 29
+display
+location 29
+unk02

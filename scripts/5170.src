@@ -1,0 +1,329 @@
+com2c 0 42
+com2d 0 13
+com32 0 0
+com11 0 4
+sound 200
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「わ、今日は、お客さんいっぱい！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、大入りが期待できそうだ。
+line2 <shift> # 狭い店とはいえ、これは、かなりの数だよ」
+display
+com11 0 4
+sound 201
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「入りきれないくらいのお客さんに、
+line2 <shift> # 来てもらえるなんて……。なんか、感激です」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだな……、あれ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ふと、客席の明かりが全部落ちた。
+line2 <shift> # ステージ袖の照明も、ぼやけていておかしい）
+display
+com11 0 4
+sound 202
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「いきなり暗くなりましたね。何か、
+line2 <shift> # あったのかな……。私、様子見てきます！」
+com03 0 2
+choice1 <shift> # いや、俺が見てくる
+line2
+com09 0 10
+com08
+choice2 <shift> # ああ、頼むよ春香
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや待て、俺が見てくる。
+line2 <shift> # 近くのスタッフつかまえて、聞いてみるよ」
+display
+com11 0 4
+sound 203
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そうですか……。
+line2 <shift> # じゃあプロデューサーさん、お願いしますねっ」
+display
+com22 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （そして……）
+display
+com21 0 30
+com11 0 4
+sound 204
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あの……。もしかして、停電ですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。道理で暗いと思った。非常照明しか、
+line2 <shift> # 動いてない。原因は、今、調べてる最中だって」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだな。春香、頼むよ。
+line2 <shift> # このままじゃ、ちょっと不安だ」
+display
+com11 0 4
+sound 205
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「はい、わかりましたっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「スタッフの誰かをつかまえて、
+line2 <shift> # 話を聞いてみてくれ」
+display
+com11 0 4
+sound 206
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「はい！　えっと……、でも、
+line2 <shift> # どっちに歩いたらいいんだろ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「袖から外に出られる。転ぶなよ。
+line2 <shift> # 暗いから足元に気をつけて」
+display
+com11 0 4
+sound 207
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「はーい」
+display
+com22 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （そして……）
+display
+com21 0 30
+com11 0 4
+sound 208
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ああ、やっと戻れた……。
+line2 <shift> # お店のブレーカーが、壊れちゃったみたいです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「店の停電か。参ったね。
+line2 <shift> # もうじき開演時間だってのに」
+com09 0 29
+display
+location 29
+com11 0 4
+sound 209
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「なんだか、客席が少し、
+line2 <shift> # 騒がしくなってきたみたい……」
+display
+com11 0 4
+sound 210
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「停電だってこと、お客さんは、
+line2 <shift> # 知らないんですよね。きっと不安だろうなぁ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。しかし、このままじゃ、
+line2 <shift> # 店内アナウンスもできないな」
+display
+com11 0 4
+sound 211
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そうだ！　私、ステージに出て、
+line2 <shift> # 事情を説明してきます！」
+com03 0 3
+choice1 <shift> # よし、まかせた
+line2
+com09 0 30
+com08
+choice2 <shift> # いや待て、俺が行く
+line2
+com09 0 31
+com08
+choice3 <shift> # スタッフを待ったほうが
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、わかった。まかせたぞ、春香！」
+display
+com11 0 4
+sound 212
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「はいっ！」
+display
+com22 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （春香が、暗闇のステージに、勇んで出て行く。
+line2 <shift> # なんだか、頼もしいな！）
+display
+com21 0 30
+com11 0 4
+sound 213
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「みなさん、落ち着いてください！」
+display
+com11 0 4
+sound 214
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ちょっとしたトラブルで、
+line2 <shift> # 一時的に停電になってますけどっ……」
+display
+com11 0 4
+sound 215
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ステージは、まもなく始まりますので……、
+line2 <shift> # きゃあああっ！」
+display <shift> # すぱーん！
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うわっ！　春香が派手に転んだみたいだ。
+line2 <shift> # 暗くて、よく見えないけど……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おーい……、大丈夫か？」
+display
+com11 0 4
+sound 216
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「へ、平気です〜。あはははっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （幸いにも、ケガは、なかったようだ。
+line2 <shift> # 客席にも安堵が広がる……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （それからは、ちょっと和やかな雰囲気になり、
+line2 <shift> # 停電復帰後は無事にライブをすることができた）
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや待て、俺が行く」
+display
+com11 0 4
+sound 217
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「えっ、でも……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ステージは真っ暗で、危険だからね」
+display
+com11 0 4
+sound 218
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「だったら私も、一緒に行きます！」
+display
+com22 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （仕方ないな……。ふたりで出よう）
+display
+com21 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「みなさん、お静かに！
+line2 <shift> # 停電は、もうすぐ回復します！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ステージも、もうすぐ始まりますから、どうか、
+line2 <shift> # 静かに……。あたっ！　物を投げないで！」
+display
+com11 0 4
+sound 219
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「だ、大丈夫ですか、プロデューサーさん……。
+line2 <shift> # きゃっ！」
+display <shift> # すてーん！
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うわっ！　春香が、派手に転んだ）
+display
+com11 0 4
+sound 220
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ううっ。足、打ったかも……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「大丈夫か、春香？」
+display
+com11 0 4
+sound 221
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「へ、平気です。でも、足元に、
+line2 <shift> # ケーブルがあるなら、教えて欲しかったですぅ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「す、すまん……。って、あたっ！　お客さん！
+line2 <shift> # 物を投げないでくださいってば！」
+display
+com11 0 4
+sound 222
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「お、お客さん、落ち着いてください！
+line2 <shift> # プロデューサーさんは悪くないですっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （騒ぎが大きくなってしまった。これじゃ停電が
+line2 <shift> # 直っても、無事にライブはできそうにない……）
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ダメだよ。ひとまず、停電が直るのを待とう」
+display
+com11 0 4
+sound 223
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「で、でも……。このまま、お客さんを、
+line2 <shift> # 放っておくわけには、いかないですよっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだけど……。勝手なことをしないで、
+line2 <shift> # スタッフの対応を待ったほうがいい」
+display
+com11 0 4
+sound 224
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「私、今すぐ、スタッフさんのところに行って、
+line2 <shift> # 様子を聞いてきます！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あっ！　春香、いきなり走ったら危ないぞ！」
+display <shift> # すぱーん！
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （……春香が、思い切り転んでしまった）
+display
+com11 0 4
+sound 225
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あいたたっ。足、引っ掛けちゃった……。
+line2 <shift> # ううっ。少し、ひねったかもしれません」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だ、だから、言ったのに……。立てるか？
+line2 <shift> # 開演は延期だ、医者に行こう」
+display
+com11 0 4
+sound 226
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ううっ、ごめんなさいーっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （春香の応急処置に、少し時間がかかり、
+line2 <shift> # 待っていたお客さんは不機嫌になってしまった）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （そのせいで、停電復旧後に、ようやく始まった
+line2 <shift> # ライブは、盛り上がりに欠けた……）
+com09 0 49
+display
+location 49
+unk02

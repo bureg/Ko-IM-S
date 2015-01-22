@@ -1,0 +1,193 @@
+com2c 0 90
+com32 0 0
+com11 0 0
+sound 10000
+name 0 2 <names:1>  # President
+line1 <shift> # 「君、疲れているところ、すまないが、
+line2 <shift> # 少し話せるかね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「はい、社長。何か御用でしょうか？」
+display
+com11 0 0
+sound 10001
+name 0 2 <names:1>  # President
+line1 <shift> # 「以前に、我那覇君と話して、９６１プロの
+line2 <shift> # 動向を調査するように言ったと思うが……」
+display
+com11 0 0
+sound 10002
+name 0 2 <names:1>  # President
+line1 <shift> # 「その後、何か、わかったかね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、その件ですか……。すみません、まだ、
+line2 <shift> # 大したことは、わかっていないんですけど……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （どんなことを報告するべきかな？）
+com03 0 3
+choice1 <shift> # 黒井社長について
+line2
+com09 0 10
+com08
+choice2 <shift> # ９６１プロについて
+line2
+com09 0 11
+com08
+choice3 <shift> # 響について
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「黒井社長については、少しわかりました。
+line2 <shift> # 本人にも会いましたよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「彼は、トップになるためには何をしてもいい、
+line2 <shift> # というようなことを、響に教えこんでいます」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それに、７６５プロをすごく悪く言っているみ
+line2 <shift> # たいです。何か、恨みでもあるんでしょうか？」
+display
+com11 0 0
+sound 10003
+name 0 2 <names:1>  # President
+line1 <shift> # 「そうか。やはりな……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「すみません。今は、これぐらいしか……。
+line2 <shift> # また響に会ったら、色々きいておきます！」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「９６１プロは最近、『９６１ビル』という、
+line2 <shift> # 悪趣味なデザインのビルを建てたらしいですよ」
+display
+com11 0 0
+sound 10004
+name 0 2 <names:1>  # President
+line1 <shift> # 「ほう、そうか。
+line2 <shift> # ……で、他には、何かわかったかね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「えっ、他にあったかな……。あ！　黒井社長は、
+line2 <shift> # 響に、おかしなことを教え込んでいるようです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「トップになるためなら何をしてもいい、とか、
+line2 <shift> # ７６５プロは変態事務所だ、とか」
+display
+com11 0 0
+sound 10005
+name 0 2 <names:1>  # President
+line1 <shift> # 「なるほど。……どう考えても、今の話の方が、
+line2 <shift> # 重要な情報だぞ？　先に報告したまえ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「す、すみません。今わかっているのは、これぐ
+line2 <shift> # らいですが、響に会ったら、またきいてみます」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうやら、我那覇響は、とても明るい性格の
+line2 <shift> # ようです。いつも、すごくやかましいですから」
+display
+com11 0 0
+sound 10006
+name 0 2 <names:1>  # President
+line1 <shift> # 「ふむ。他には？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「えーと、我那覇響は、沖縄出身のようです」
+display
+com11 0 0
+sound 10007
+name 0 2 <names:1>  # President
+line1 <shift> # 「ふむ。他には……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「我那覇響には、兄がいるようです」
+display
+com11 0 0
+sound 10008
+name 0 2 <names:1>  # President
+line1 <shift> # 「……君。そんなことは、アイドル雑誌の我那覇
+line2 <shift> # 君のプロフィール欄を見れば、書いてあるよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「す、すみません！　あとは、黒井社長の響への
+line2 <shift> # 教育が変だった、ってことぐらいしか……」
+display
+com11 0 0
+sound 10009
+name 0 2 <names:1>  # President
+line1 <shift> # 「勝つためには何をしてもいい、か？　それと、
+line2 <shift> # ７６５プロの悪口、大方そんなところだろう」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、確かに、そんなようなこと、言ってました。
+line2 <shift> # また響に会ったら、もっときいておきます！」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10010
+name 0 2 <names:1>  # President
+line1 <shift> # 「うむ。プロデュースの合間でいいから、
+line2 <shift> # 引き続き、よろしく頼むよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あの……、社長と黒井社長は、どういうご関係
+line2 <shift> # なんですか？　もし良かったら教えて下さい」
+display
+com11 0 0
+sound 10011
+name 0 2 <names:1>  # President
+line1 <shift> # 「……いや、なに、私が君のような、
+line2 <shift> # 若きプロデューサーだった頃、ちょっとね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ええっ！　社長も、
+line2 <shift> # 元はプロデューサーだったんですか！？」
+display
+com11 0 0
+sound 10012
+name 0 2 <names:1>  # President
+line1 <shift> # 「もちろんだとも！　あの頃の私は、さわやかな
+line2 <shift> # 好青年で、それはそれは人気があったんだぞ！」
+display
+com11 0 0
+sound 10013
+name 0 2 <names:1>  # President
+line1 <shift> # 「担当のアイドルも、こう、ポッと、
+line2 <shift> # ほほを染めるほどの、さわやかな二枚目でね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうですか。あの、社長。
+line2 <shift> # それより、黒井社長との関係の話を……」
+display
+com11 0 0
+sound 10014
+name 0 2 <names:1>  # President
+line1 <shift> # 「私といると緊張して、全く口をきいてくれない
+line2 <shift> # アイドルが多くて、困ったよ。はははは！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それは、ムシされていただけなんじゃ……。
+line2 <shift> # いえ、なんでもありません」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、本題と全く関係のない社長の自慢話は、
+line2 <shift> # ３時間続いた……。つ、疲れた……）
+com09 0 99
+display
+location 99
+unk02

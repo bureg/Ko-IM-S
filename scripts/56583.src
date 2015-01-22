@@ -1,0 +1,584 @@
+com2c 0 4
+com2c 0 1
+com2c 0 113
+com32 0 2
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今日は、めずらしく早く、目が覚めたぞ。
+line2 <shift> # こんな日は、仕事が、はかどりそうだ！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （事務所へ行く前に、寄り道して、
+line2 <shift> # 新曲のサンプルＣＤを配ろうかな？）
+com03 0 2
+choice1 <shift> # どこかに寄り道する
+line2
+com09 0 10
+com08
+choice2 <shift> # まっすぐ事務所に行く
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よし、ＴＶ局に寄り道して、ＣＤを配ろう。
+line2 <shift> # これも担当アイドルのためだ！）
+display
+com22 0 30
+com21 0 30
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （局の人に、新しいＣＤをきいてもらえれば、
+line2 <shift> # 仕事も、もっと増えるだろう。頑張るぞー！）
+display
+com22 0 30
+com21 0 30
+com32 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ちょうど運よく、局のプロデューサーに、
+line2 <shift> # ＣＤを渡せて、よかったな！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あれ？　あそこにいるのは、局の編成局長じゃ
+line2 <shift> # ないか。でも、一緒にいるのは……！？）
+display
+com11 0 0
+sound 10000
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「新番組の件、頼みましたよ。……ええ、はい。
+line2 <shift> # それはもちろん」
+display
+com11 0 0
+sound 10001
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「今後とも９６１プロの、『Ｐｒｏｊｅｃｔ
+line2 <shift> # Ｆａｉｒｙ』だけは、よろしくお願いしますよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……黒井社長！」
+display
+com11 0 0
+sound 10002
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「おや、高木の犬の、プロデューサー君じゃない
+line2 <shift> # か。さすが犬らしく、朝から騒がしいな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あなたこそ、こんな朝早くから、
+line2 <shift> # 局の編成局長と……」
+com03 0 3
+choice1 <shift> # よからぬ企みの密談ですか
+line2
+com09 0 20
+com08
+choice2 <shift> # ゴマすりですか
+line2
+com09 0 21
+com08
+choice3 <shift> # イチャイチャしてたんですか
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （いや、今度でいいかな。
+line2 <shift> # まっすぐ事務所へ行こう。ムリは禁物だ……）
+com09 0 99
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よからぬ企みの密談ですか」
+display
+com11 0 0
+sound 10003
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「ノン。すばらしい企画の相談だ。
+line2 <shift> # ９６１プロが、より飛躍するためのね」
+display
+com11 0 0
+sound 10004
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「それをねたんで、まるで悪いことのように
+line2 <shift> # 言うとは、礼儀を知らない男だねえ、君は」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ゴマすりですか」
+display
+com11 0 0
+sound 10005
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「そんなものは、力のない弱小プロダクションが、
+line2 <shift> # すべきことだ。高木の所のような、ね」
+display
+com11 0 0
+sound 10006
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「９６１プロは、すでにＴＶ局にも大きな影響力
+line2 <shift> # を持つ。その必要は、ないのだよ。フフフ！」
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「イチャイチャしてたんですか」
+display
+com11 0 0
+sound 10007
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「な、なにを言っているのかね、君は？
+line2 <shift> # まさか、君は、そういう趣味が……！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええっ！？　ち、違いますよ！」
+display
+com11 0 0
+sound 10008
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「本当かね？　あらかじめ言っておくが、私には、
+line2 <shift> # そういう趣味は、ないからな！」
+display
+com11 0 0
+sound 10009
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「君に言い寄られたとしたら、警察を呼んで、半
+line2 <shift> # 径１０キロ以内には近づかせないようにするよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （くっ、なんだか腹が立つな！）
+com09 0 29
+display
+location 29
+com11 0 0
+sound 10010
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「それにしても、君も、ご苦労なことだな」
+display
+com11 0 0
+sound 10011
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「おおかた、新曲のＣＤでも持って、
+line2 <shift> # 宣伝しにきたのだろうが……」
+display
+com11 0 0
+sound 10012
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「今度の新番組のタイアップは、すでに我が
+line2 <shift> # プリンセス、貴音ちゃんの曲に、決まっている」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「貴音が……」
+display
+com11 0 0
+sound 10013
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「実力、ビジュアル、話題性。どれをとっても、
+line2 <shift> # 貴音ちゃんは最高のアイドルだからね！」
+display
+com11 0 0
+sound 10014
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「少々、おかしな言動もするが……、それもまた、
+line2 <shift> # ミステリアスな魅力を、かもし出している」
+display
+com11 0 0
+sound 10015
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「すべては、私の計算通りだよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……あの、黒井社長。ひとつ、ききたいことが、
+line2 <shift> # あるんです。貴音のことで」
+display
+com11 0 0
+sound 10016
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「とるに足らない存在である君の質問に、
+line2 <shift> # この私が、答える義理など、みじんもない」
+display
+com11 0 0
+sound 10017
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「だが……、喜びたまえ。今日の私は、
+line2 <shift> # 機嫌がいい！　特別に、質問を許可しよう！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それでは……。あの、貴音は、その……。
+line2 <shift> # 何者なんですか？」
+display
+com11 0 0
+sound 10018
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「……どういうことだね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺は、何度か、貴音と話をする機会が、
+line2 <shift> # ありましたが……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「全てが謎めいているというか、
+line2 <shift> # 何というか……」
+display
+com11 0 0
+sound 10019
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「なるほどねえ。まあ、君ごときに詳しいことを、
+line2 <shift> # 話しても、どうせ理解できまいが……」
+display
+com11 0 0
+sound 10020
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「ごくカンタンに話してやろう。……彼女は、
+line2 <shift> # 本物の王位継承権を持つプリンセスらしい」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え！？　ほ、本物のプリンセス！？」
+display
+com11 0 0
+sound 10021
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「……まあ、本当かどうかは、私も、わからない。
+line2 <shift> # 彼女の真実になど、興味もないしね」
+display
+com11 0 0
+sound 10022
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「だが、彼女が、じいやと呼ぶ人物からは、
+line2 <shift> # そのようにきいているよ」
+display
+com11 0 0
+sound 10023
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「彼女は、亡国のプリンセスであり、
+line2 <shift> # 散り散りになった故郷の民の……」
+display
+com11 0 0
+sound 10024
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「希望なんだとね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そんなことがありえるんですか！？
+line2 <shift> # 亡国の姫君って、そんな……！」
+display
+com11 0 0
+sound 10025
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「まあ、もしかしたら全てはウソかもしれない。
+line2 <shift> # 亡国というのが、どこの国かも不明だし……」
+display
+com11 0 0
+sound 10026
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「正直、私も信じてはいない。
+line2 <shift> # あまりにも話が大きすぎるのでね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え……？」
+display
+com11 0 0
+sound 10027
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「だが、貴音ちゃんは、それを信じて、
+line2 <shift> # トップアイドルを目指しているし……」
+display
+com11 0 0
+sound 10028
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「それに、政財界に影響力を持つ、四条家から
+line2 <shift> # 預かったのだから、言下に否定もできなくてね」
+display
+com11 0 0
+sound 10029
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「まあ、彼女、素材としては、一級品だし、姫君
+line2 <shift> # だろうと、そうでなかろうと、私には関係ない」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （貴音がアイドルになったのには、
+line2 <shift> # なんだか複雑な背景があるんだな……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （貴音は、どうして、アイドルになろうと、
+line2 <shift> # 思ったんだろうか？）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あの、絶対に負けられないという思い、
+line2 <shift> # 何か深い事情が、ありそうだ……）
+display
+com11 0 0
+sound 10030
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「しかし、君も酔狂だねえ。彼女が何者でも、
+line2 <shift> # どんな目的を持っていても、そんなものに……」
+display
+com11 0 0
+sound 10031
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「何の意味がある？　単なるプロデューサーで
+line2 <shift> # ある君に、どんな関係があるというんだ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ。だ、だって、プロデューサーはアイドル
+line2 <shift> # の夢をかなえる手伝いをするべきですから……」
+display
+com11 0 0
+sound 10032
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「はっははは！　下らん答えだ。
+line2 <shift> # ナンセンスだな！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「！！！」
+display
+com11 0 0
+sound 10033
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「誰かの支えを必要とするような人間は、
+line2 <shift> # はじめから、王者に、ふさわしくはないのだ！」
+display
+com11 0 0
+sound 10034
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「王者とは、常に孤独、孤高。
+line2 <shift> # だからこそ、人々はあこがれ、求めるのだよ」
+display
+com11 0 0
+sound 10035
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「仲良しこよしで、なれ合っている者達には、
+line2 <shift> # 目指すことさえできないのだ。本来はね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……それは、７６５プロのアイドルでは、トッ
+line2 <shift> # プアイドルになれない、という意味ですか？」
+display
+com11 0 0
+sound 10036
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「ほほう、なかなか、わかっているじゃないか！
+line2 <shift> # その通りだよ！」
+display
+com11 0 0
+sound 10037
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「その点、貴音ちゃんは、妄想か思いこみかは、
+line2 <shift> # わからないが、王者としての自覚がある」
+display
+com11 0 0
+sound 10038
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「負けてはならない、勝たなくてはいけないと
+line2 <shift> # いう思い込みの強さは、まさに、天下一品だ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あなたにとって、貴音は、
+line2 <shift> # 道具でしかないんですか？」
+display
+com11 0 0
+sound 10039
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「悪いかね？　９６１プロ発展のために、
+line2 <shift> # 彼女を利用することが」
+display
+com11 0 0
+sound 10040
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「それに、向こうも向こうで、目的があって、
+line2 <shift> # こちらを利用しているようだ。お互いさまだよ」
+display
+com11 0 0
+sound 10041
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「ギブ・アンド・テイク。我々は、
+line2 <shift> # いい関係を築けていると思っているよ」
+display
+com11 0 0
+sound 10042
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「だが、君達は自分達の立場も危ういというのに、
+line2 <shift> # よその事務所のアイドルに夢中になっている」
+display
+com11 0 0
+sound 10043
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「それでは、到底、７６５プロの中で、
+line2 <shift> # 良い関係を築くなど、ムリというものだ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「くっ……！」
+display
+com11 0 0
+sound 10044
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「君達の、おせっかいぶり、ご親切ぶりは、
+line2 <shift> # 見ていて、笑ってしまうほど、ゆかいだよ」
+display
+com11 0 0
+sound 10045
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「なにしろ、ＩＵそっちのけで、貴音ちゃんに、
+line2 <shift> # つきまとっているらしいじゃないか」
+display
+com11 0 0
+sound 10046
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「いや、こっけいだね。ゆかいだね。こんなゆか
+line2 <shift> # いなこと、誰かに言わずには、いられないな」
+display
+com11 0 0
+sound 10047
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「そう、たとえば……、目の前にある、
+line2 <shift> # ＴＶ局のスタッフに、ね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （マズい！　黒井社長の言葉が、業界中に、変な
+line2 <shift> # 風に伝わったら、事務所の評判にかかわる！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……黒井社長！」
+com03 0 3
+choice1 <shift> # あのこと、バラしますよ
+line2
+com09 0 30
+com08
+choice2 <shift> # 言わないで下さい……
+line2
+com09 0 31
+com08
+choice3 <shift> # 言うな！
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あのこと、バラしますよ」
+display
+com11 0 0
+sound 10048
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「あのこと……？　も、もしや、
+line2 <shift> # 高木から、なにかを吹き込まれたのか！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さあ、なんでしょうね？」
+display
+com11 0 0
+sound 10049
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「まさか、新人時代の……。いや、もしかして、
+line2 <shift> # パンツポロリ騒動のことか……！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （カマをかけただけなんだけど……、
+line2 <shift> # 意外と効果あったな）
+display
+com11 0 0
+sound 10050
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「フン！　仕方がない……。
+line2 <shift> # 今日のところは、許してやろう」
+com09 0 39
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「言わないで下さい……」
+display
+com11 0 0
+sound 10051
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「ん〜？　すまない、声が小さくて、
+line2 <shift> # よくきこえないのだが」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「言わないで下さい！　お願いします！」
+com09 0 38
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「言うな！」
+display
+com11 0 0
+sound 10052
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「まったく、高木に飼われている犬だけあって、
+line2 <shift> # モノの頼み方も知らないようだな」
+display
+com11 0 0
+sound 10053
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「そんなことでは、君達の面白い話を、
+line2 <shift> # もっともっと多くの人に広めたくなるよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「くっ……。い、言わないで、下さい……」
+com09 0 38
+display
+location 38
+com11 0 0
+sound 10054
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「やれやれ……、わかった、言わないでおこう。
+line2 <shift> # 感謝したまえよ、私が善人であることに」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （どこがだよ……。くっ！）
+com09 0 39
+display
+location 39
+com11 0 0
+sound 10055
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「おっと、そろそろ次のアポイントメントが、
+line2 <shift> # あるのでね。これで失礼するよ」
+display
+com11 0 0
+sound 10056
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「せいぜい、君なりのプロデュースとやらを、
+line2 <shift> # 頑張ることだ」
+display
+com11 0 0
+sound 10057
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「そんなことをしても、ムダだというのは、
+line2 <shift> # 既に先人が確かめているのだがな……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （なんだ、あの人は！？　人の気分を悪くさせる、
+line2 <shift> # 天才じゃないだろうか？　ああ、腹がたつ！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……しかし、イヤな思いをした収穫
+line2 <shift> # というべきか、結構、色々なことがわかったな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （貴音のことや、９６１プロのこと、
+line2 <shift> # 新情報が、たくさんあったぞ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （やっぱり、貴音には、色々な事情が、からんで
+line2 <shift> # いそうだな……。しかし、このことは……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺の胸にしまっておこう、ＩＵに、
+line2 <shift> # 余計な影響を及ぼすと、困るしな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （さ、プロデュース活動、頑張るぞ！
+line2 <shift> # 俺は、俺の信じる活動を続けるだけだ！）
+com09 0 99
+display
+location 99
+unk02

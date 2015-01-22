@@ -1,0 +1,279 @@
+com2c 0 43
+com2d 0 51
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「レコーディング、大苦戦みたいですね」
+display
+com11 0 3
+sound 300
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「すみませんー。こんなアップテンポの曲、
+line2 <shift> # 歌ったことがなくて……」
+display
+com11 0 3
+sound 301
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「出だしで、かならず置いていかれてしまう
+line2 <shift> # んです。んー、もう一度、行ってきますね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ま、まあ、そうあせらずに、休みましょう」
+com03 0 3
+choice1 <shift> # 気持ちを切り替えないと
+line2
+com09 0 10
+com08
+choice2 <shift> # ノドを休めないと
+line2
+com09 0 11
+com08
+choice3 <shift> # 心を入れ替えないと
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「気持ちを切り替えないと」
+display
+com11 0 3
+sound 302
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「そうですね。このままでは、また同じような
+line2 <shift> # 結果に。では、すこしだけ」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ノドを休めないと」
+display
+com11 0 3
+sound 303
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ノドは平気です。スタートで失敗するので、
+line2 <shift> # じつはそんなに歌っていなくて……」
+display
+com11 0 3
+sound 304
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「けれど、頭は冷やした方がいいかもしれません
+line2 <shift> # ね。では、すこしだけ、おやすみを」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「心を入れ替えないと」
+display
+com11 0 3
+sound 305
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「すみません。いい加減にやっているわけでは
+line2 <shift> # ないのですけれど……」
+display
+com11 0 3
+sound 306
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あのデキでは、そう取られても、しかたがない
+line2 <shift> # ですよね。わかりました。休みながら、反省を」
+com09 0 29
+display
+location 29
+com11 0 3
+sound 307
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ふぅー。壁、高くなっていきますね。ちょっと
+line2 <shift> # 人気が上がっただけで、やる事がむずかしく」
+display
+com11 0 3
+sound 308
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「これって、避けられないことなの
+line2 <shift> # でしょうか？」
+com03 0 3
+choice1 <shift> # 避けたら、つまらないですよ
+line2
+com09 0 30
+com08
+choice2 <shift> # 今回は、たまたまですよ
+line2
+com09 0 31
+com08
+choice3 <shift> # この曲、避けるべきでしたね
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+com34 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「避けたら、つまらないですよ」
+display
+com11 0 3
+sound 309
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ふふっ、そうですね。新しいことに出会える
+line2 <shift> # から、おもしろいのかもしれません」
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今回は、たまたまですよ」
+display
+com11 0 3
+sound 310
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「……でも、またありそうな気がします。二度
+line2 <shift> # あることは三度あるーとか、言いますし」
+display
+com11 0 3
+sound 311
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「いやではないのですけれど、すこし落ち込んで
+line2 <shift> # しまいますよね」
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「この曲、避けるべきでしたね」
+display
+com11 0 3
+sound 312
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「そんな……。それは悲しくはないでしょうか？
+line2 <shift> # せっかく、出会えた歌なのに」
+display
+com11 0 3
+sound 313
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「でも、その方が、周りのみなさんにはよかった
+line2 <shift> # かもしれないです。迷惑をかけていますし」
+com09 0 49
+display
+location 49
+com11 0 3
+sound 314
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「思うんです。壁って、もしかしたら、いつも実
+line2 <shift> # 力のすこし上に、誰かが置いているのかなって」
+display
+com11 0 3
+sound 315
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「プロデューサーさん。この追いかけっこって、
+line2 <shift> # いつまで続くと思いますか？」
+com03 0 3
+choice1 <shift> # 多分、歌い続ける限り
+line2
+com09 0 50
+com08
+choice2 <shift> # ヒット曲が出るまで
+line2
+com09 0 51
+com08
+choice3 <shift> # それはやってみないと
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 2
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「多分、歌い続ける限り」
+display
+com11 0 3
+sound 316
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「そうですね。気が遠くなりそうですけれど、
+line2 <shift> # それでも、あせらず、一歩ずつ……」
+display
+com11 0 3
+sound 317
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あ！　あせることと急ぐことは、ちがいますよ
+line2 <shift> # ね。私、歌い方、間違っていたかもしれません」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （雑談の中から、偶然ヒントをつかんでくれた
+line2 <shift> # ようだ。いい休息になったみたいだな）
+com09 0 69
+display
+location 51
+com34 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ヒット曲が出るまで」
+display
+com11 0 3
+sound 318
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「それは、どのくらいのヒットでしょう？
+line2 <shift> # だれもが知っているような曲、ですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「当然、そうでしょうね。もしかしたら、いま、
+line2 <shift> # 苦労しているこの曲が、それになるかも」
+display
+com11 0 3
+sound 319
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「こ、この曲が、代表曲に？　言っていることは
+line2 <shift> # わかるのですけれど、私、想像が……」
+display
+com11 0 3
+sound 320
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「とにかく、がんばってきますね。収録、終わら
+line2 <shift> # せないことには、１枚も売れないと思いますし」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （いまいち実感として、つかみきれていないよう
+line2 <shift> # だ。それでも、ギアの切り替えにはなるかな）
+com09 0 69
+display
+location 52
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それはやってみないと」
+display
+com11 0 3
+sound 321
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「わかりませんか？　せめて、ゴールがあるか
+line2 <shift> # ないかぐらいわかると、よかったのですけれど」
+display
+com11 0 3
+sound 322
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「わ、私、つまらないこと、言ってますね。すみ
+line2 <shift> # ません。思いつきばかりで話してしまって……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いえ、そんなことは。不安になるのは、
+line2 <shift> # だれでもあることですから」
+display
+com11 0 3
+sound 323
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「たまに、こうなってしまうんです。答えようも
+line2 <shift> # ないことを、いろんな人に聞いてしまって」
+display
+com11 0 3
+sound 324
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「今朝の占いにも『弱音は禁物』って、書いて
+line2 <shift> # あったのですけれど。……はあ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （こんな滅入るなんて、よほど失敗を気にしてる
+line2 <shift> # んだな。何でもいいから、答えてあげたかった）
+com09 0 69
+display
+location 69
+unk02

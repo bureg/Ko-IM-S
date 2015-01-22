@@ -1,0 +1,496 @@
+com11 0 0
+sound 10000
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「プロデューサーさんっ、た、大変なんです！
+line2 <shift> # ああっ、危ないっ！！」
+display <shift> # どんがらがっしゃーん
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おいおい、大丈夫か、春香？
+line2 <shift> # 何をそんなに、あわててるんだ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ！　もしかして冷蔵庫のケーキを、
+line2 <shift> # 勝手に食べたことがバレて……！」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そ、それも大事件ですけど、実はファンの方
+line2 <shift> # から届いたプレゼントなんですが……」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「箱の中から、かちこち・かちこちって、
+line2 <shift> # 変な音がするんです！！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ええっ！？」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「昨日見た映画で同じような場面がありました。
+line2 <shift> # もしかして、爆弾かも……！！」
+com03 0 3
+choice1 <shift> # 俺に任せておけ
+line2
+com09 0 10
+com08
+choice2 <shift> # 春香は面白いな
+line2
+com09 0 11
+com08
+choice3 <shift> # きっとドッキリだよ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、俺に任せておけ！」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「さすがプロデューサーさん、頼もしいです！
+line2 <shift> # それで私は、どうすれば？」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「警察を呼びましょうか？
+line2 <shift> # それとも社長に相談するとか……！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「春香は事務所の外に出ておいてくれ。
+line2 <shift> # 俺は箱の中を、なんとかのぞいてみる……！」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「いいえっ、私もそばにいます！
+line2 <shift> # プロデューサーさんを、ひとりにはさせません」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「……死ぬ時は一緒です、プロデューサーさん」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （春香……。俺はお前を絶対に事務所の外に
+line2 <shift> # 追い出すべきなんだろうけど……！）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よしっ！
+line2 <shift> # 春香、とりえず俺の隣から離れるなよ！」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「……はいっ！」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あはは、春香は面白いな」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あの、冗談なんかじゃありません！
+line2 <shift> # 私は１２０％、本気ですから！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、だって……、まさか爆弾なんて……。
+line2 <shift> # 映画の見すぎなんじゃないの？」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そんなこと言って、もしも本当だったら、
+line2 <shift> # どうするんですか？」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そのときは私、プロデューサーさんの枕元に
+line2 <shift> # おばけになって出てきちゃいますよ！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え？　お化けになって出てくるのか……。
+line2 <shift> # その時は風呂とか、のぞかないでくれよ？」
+display
+com11 0 0
+sound 10012
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「もう！　全然信じてくれてないじゃないですか。
+line2 <shift> # いいです、私が自分で何とかしますから！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、おい。ちょっと待ってくれ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （確かに万が一ということもあるな。
+line2 <shift> # ここは一応、話をあわせておこう）
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「きっとドッキリだよ。どっかにカメラが、
+line2 <shift> # 仕掛けられてるのかもしれない」
+display
+com11 0 0
+sound 10013
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ええっ、そんな……。確かめもしないで、
+line2 <shift> # 決めつけちゃって、いいんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「平気、平気。
+line2 <shift> # なんなら今すぐプレゼント、開けてみようか？」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「だ、ダメですよぉ。もし本当に爆弾だったら、
+line2 <shift> # 大変なことになっちゃいます！！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなこと、あるわけないだろう？
+line2 <shift> # どれどれ……」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「……バーンッ！！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う、うわあああっ、びっくりしたっ！！！」
+display
+com11 0 0
+sound 10016
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ほら〜、プロデューサーさんも、
+line2 <shift> # ちょっとは怖いって思ってるんじゃないですか」
+display
+com11 0 0
+sound 10017
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「お願いします。ちゃんと調べて下さい！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （た、確かに、ちょっとだけびっくりした……。
+line2 <shift> # 少し用心したほうが、いいかもしれないな）
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それじゃあ、実際に箱の中身を確かめてみる」
+display
+com11 0 0
+sound 10018
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あの、本当に、本当に、
+line2 <shift> # 気をつけて下さいね……？」
+display
+com11 0 0
+sound 10019
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「プロデューサーさんに
+line2 <shift> # もしものことがあったら、私……、私……！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （春香は、気持ちが高ぶっているようだな。
+line2 <shift> # 俺もちょっとだけ、便乗してみるか）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ、もしもの時のために、
+line2 <shift> # 最後のお願いでも、しておこうかな？」
+display
+com11 0 0
+sound 10020
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「え、ええっ！　最後だなんて……。
+line2 <shift> # ヘンなこと、言わないで下さいよぉ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あはは。半分冗談だけど……、半分本気だよ。
+line2 <shift> # ……俺の頼み、聞いてくれるか？」
+display
+com11 0 0
+sound 10021
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「わかりました……。なんでも言って下さい。
+line2 <shift> # 私も覚悟を決めます……！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「今、この場で俺が春香に望むものは……！」
+com03 0 3
+choice1 <shift> # 歌ってほしい
+line2
+com09 0 30
+com08
+choice2 <shift> # 結婚してほしい
+line2
+com09 0 31
+com08
+choice3 <shift> # 俺のことは忘れてくれ
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「歌ってほしい。俺のために」
+display
+com11 0 0
+sound 10022
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「歌……、ですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「春香の歌を聞きながら死ねたら、本望だよ。
+line2 <shift> # それくらい、ほれ込んでるんだ」
+display
+com11 0 0
+sound 10023
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「！！　プロデューサーさん……」
+display
+com11 0 0
+sound 10024
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ありがとうございます……。そんなふうに
+line2 <shift> # 言ってもらえるだけで、私、私……」
+display
+com11 0 0
+sound 10025
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「私だって、プロデューサーさんのためなら、
+line2 <shift> # 命だって惜しくないですから！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……ありがとう。その言葉が聞けただけで、
+line2 <shift> # 俺のプロデューサー人生は幸せだったよ」
+display
+com11 0 0
+sound 10026
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「この先も、ずっと一緒にいて下さいね……。
+line2 <shift> # ずっとずっと、ふたりで一緒に……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ！　それじゃあ、開けるぞ……！」
+display
+com20 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （俺の視界は、唐突に白一面に塗り替えられた。
+line2 <shift> # 遠くで誰かの声がする……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （もしかして、あの声は、天使の声……？）
+display
+com1f 0 30
+com11 0 0
+sound 10027
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「プロデューサーさん！　プロデューサーさん！
+line2 <shift> # しっかりして下さい！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え？　あ、あれ？　ここは……、天国？」
+display
+com11 0 0
+sound 10028
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「プロデューサーさん、良かった……！
+line2 <shift> # うう、ひっく、うわああああん！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （どうやら俺は箱を開ける時に、
+line2 <shift> # 勢い余って、後ろに転げてしまったらしい）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （箱の中身は、単なる目ざまし時計だった。
+line2 <shift> # 全く、我ながら無様だな……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （しかし、怪我の功名か、春香との絆は深く
+line2 <shift> # なったみたいだ。結果オーライ……、かな？）
+com09 0 99
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「結婚してほしい」
+display
+com11 0 0
+sound 10029
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「……え、えええ〜〜っ！？
+line2 <shift> # プロデューサーさんと、私が、け、結婚……！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、おい、春香！　こんなところで
+line2 <shift> # バランス崩したら、箱の上に……！」
+display
+com11 0 0
+sound 10030
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「え？　き……、きゃあああ〜〜っ！！」
+display <shift> # どんがらがっしゃーん
+display
+com20 0 30
+com11 0 0
+sound 10031
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「……ああ、ここはどこかしら。
+line2 <shift> # もしかして天国……？」
+display
+com11 0 0
+sound 10032
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「やっとプロデューサーさんから、
+line2 <shift> # プロポーズしてもらえたのに……」
+display
+com11 0 0
+sound 10033
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「まだトップアイドルにもなれてないし、
+line2 <shift> # こんなんじゃ化けてでるしか……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……春香、おい春香ってば！」
+display
+com1f 0 30
+com11 0 0
+sound 10034
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「え！？　あ、あれ、ここは……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「大丈夫か？　えらく盛大にコケてしまったな」
+display
+com11 0 0
+sound 10035
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ええ！？　あの、ば、爆弾は！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「爆弾じゃなくて、腕時計だったよ。
+line2 <shift> # 人騒がせなプレゼントだったな」
+display
+com11 0 0
+sound 10036
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「うう……。すみません、私の早とちりで」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、気にしてないよ。そもそも、
+line2 <shift> # 俺が驚かせたのが、いけないんだからな」
+display
+com11 0 0
+sound 10037
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あ！　もしかして私、
+line2 <shift> # 何かうわごととか、しゃべってました！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、別に。どうしてだ？」
+display
+com11 0 0
+sound 10038
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あ、あの、あははは〜。
+line2 <shift> # 何でもないです。ああ、かわいい時計ですね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （やれやれ。この調子じゃ、春香が夢で、
+line2 <shift> # プロポーズを受けていたことは、秘密だな）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （まあ、爆弾騒ぎならぬ、爆弾発言騒ぎに
+line2 <shift> # なってしまったが、少しだけ楽しかったかな）
+com09 0 99
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺のことは、忘れてくれ」
+display
+com11 0 0
+sound 10039
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ええっ……。最後のお願いが、そんなこと？
+line2 <shift> # 冷たくないですか、プロデューサーさん」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺がいなくなったら、俺のことは早く忘れて、
+line2 <shift> # 次のプロデューサーと、うまくやってほしい」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それが、トップアイドル・天海春香のためだ。
+line2 <shift> # 俺は、そう信じてる」
+display
+com11 0 0
+sound 10040
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そんなの、イヤです……。つらすぎます……。
+line2 <shift> # 私、そんなこと耐えられません」
+display
+com11 0 0
+sound 10041
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「私がプロデューサーさんを、
+line2 <shift> # 忘れられるわけないじゃないですか……」
+display
+com11 0 0
+sound 10042
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「うう、ひどすぎます……。
+line2 <shift> # 私もプロデューサーさんと一緒に！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「は、春香！　いきなり開けたら、
+line2 <shift> # ショックで爆弾が！　箱を返しなさいっ！」
+display
+com11 0 0
+sound 10043
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あ、きゃあっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、あれ……？　なんだ、
+line2 <shift> # 普通の時計じゃないか……。驚いて損した」
+display
+com11 0 0
+sound 10044
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あの、春香……。
+line2 <shift> # さっきは無理やり、その……」
+display
+com11 0 0
+sound 10045
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （あちゃ〜……。
+line2 <shift> # 春香を傷つけてしまったみたいだ……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後も春香は、しばらく口を
+line2 <shift> # きいてくれなかった。失敗だったな……）
+com09 0 99
+display
+location 99
+unk02

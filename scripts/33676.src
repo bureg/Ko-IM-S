@@ -1,0 +1,283 @@
+com2c 0 35
+com2d 0 63
+com32 0 0
+com11 0 4
+sound 800
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「今回は路上ライブですねっ。あれ？
+line2 <shift> # 普通にステージセットとか組むんですねえ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、歌の開始はゲリラ的だが、
+line2 <shift> # ちゃんと路上営業許可も取ってあるぞ」
+display
+com11 0 4
+sound 801
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「うーん、そうなんですかぁ……。もっと、
+line2 <shift> # 地味ーな感じでするのかと思ってました、私」
+com03 0 2
+choice1 <shift> # 地味な感じって？
+line2
+com09 0 10
+com08
+choice2 <shift> # 派手に行かなきゃね
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「地味な感じって？」
+display
+com11 0 4
+sound 802
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「えと……、ほら、よくあるじゃないですか。
+line2 <shift> # タレントお忍びの企画で……」
+display
+com11 0 4
+sound 803
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ストリートミュージシャンに扮して、路上で
+line2 <shift> # 演奏して、道行く人の反応を見るようなのが」
+display
+com11 0 4
+sound 804
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ああいうのって、見た目地味だけど、
+line2 <shift> # なんか面白そうかなって、思って」
+display
+com11 0 4
+sound 805
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ちょっと、楽しみにしてたんですけど……」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「宣伝も兼ねてるし、やっぱりここは
+line2 <shift> # 派手に行かなきゃね」
+display
+com11 0 4
+sound 806
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「そうですかぁ。でも、あんまり
+line2 <shift> # 大掛かりなものよりは……その」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ん？　不満かな？」
+display
+com11 0 4
+sound 807
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「いえ、そうじゃないですけど……普段のライブ
+line2 <shift> # みたいな派手さは、道だと、でないかなって」
+display
+com11 0 4
+sound 808
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「それよりは、地味でもしっかりした
+line2 <shift> # 出し物のほうが、いいかもって……」
+display
+com11 0 4
+sound 809
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ああ、ほら、ときどき、道でギター
+line2 <shift> # 弾いてる人、いるじゃないですかっ」
+display
+com11 0 4
+sound 810
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ああいうのなら、派手じゃなくても、
+line2 <shift> # きっと目立つと思うし……」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なるほど、ほんとのストリートみたいに、
+line2 <shift> # やるのも、ユニークかもしれないな……」
+display
+com11 0 4
+sound 811
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「でしょう？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いまからでも予定変えて、
+line2 <shift> # それでやってみようか！」
+display
+com11 0 4
+sound 812
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「いいですねー。あっ、でも……、私、
+line2 <shift> # ギターは弾けないですね……」
+display
+com11 0 4
+sound 813
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「す、すみません、適当な思いつきで、
+line2 <shift> # できもしないことを提案してしまって……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いやいや、いいんだ。工夫をすれば」
+com0e 1 245
+com44
+com09 0 30
+com45
+com44
+com09 0 31
+com45
+com44
+com09 0 32
+com45
+com44
+com09 0 33
+com45
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「雪歩には、持ち前の声があるじゃないか。
+line2 <shift> # ギターはなくとも、歌をしっかり頼むぞ」
+display
+com11 0 4
+sound 814
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「え、ええっ、は、はい。歌いますっ。
+line2 <shift> # 声がうまくでるかな……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだ、生っぽい声を生かしてみよう。
+line2 <shift> # マイクは控えめにしておくよ」
+display
+com11 0 4
+sound 815
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「あっ、そのほうが路上っぽい感じですね。
+line2 <shift> # ようし……。私、なんとか、頑張ってみますっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、始まったミニライブ……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ちょっと声量が不安だったけど、雪歩の生の
+line2 <shift> # クリアな歌声が、通行人を惹きつけたみたいだ）
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「手ぶりだけでもいいから、ギターを持って
+line2 <shift> # みようか。音は裏から適当に出すから」
+display
+com11 0 4
+sound 816
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ええっ、い、いきなりですか！　それに、
+line2 <shift> # 自分で弾いてないのは、どうなんだろう……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「気にしない、気にしない。
+line2 <shift> # 持ってる格好だけでもいいから」
+display
+com11 0 4
+sound 817
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ううっ、そ、そんな……
+line2 <shift> # うっかり落としそうですよぅ」
+display
+com11 0 4
+sound 818
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「や、やっぱり、ギター持つのが
+line2 <shift> # 気になって……、うまく歌えないかも……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そこをなんとか、頼むよ。せっかく
+line2 <shift> # 面白いアイディア出してくれたんだからさ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、始まったミニライブ……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うーん、雪歩は、ちょっとぎこちない。
+line2 <shift> # ギターを意識させすぎたかな……）
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「アンプラグドでやろう、
+line2 <shift> # 身体を使って歌うんだ」
+display
+com11 0 4
+sound 819
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「え、ええっ、は、はい。やってみますぅ。
+line2 <shift> # でも、声がうまく出るかな……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「声をおなかから支えて、空気に乗せて、
+line2 <shift> # 飛ばすようにしたらどうかな」
+display
+com11 0 4
+sound 820
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「はいっ！　あっそうか……、腹式呼吸ですね！
+line2 <shift> # なんだか自然に歌えそうです」
+display
+com11 0 4
+sound 821
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「あの……、マイク持たなくてもいいですか？
+line2 <shift> # そのほうが、身体も動きやすいかも……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まかせるよ、雪歩のやりやすい方法で
+line2 <shift> # 行こう。さぁ本番だ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、始まったミニライブ……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （いつものダンスに比べて自然に身体が動いてた
+line2 <shift> # みたいだ。声も出てたし、ノリもよかったぞ！）
+com09 0 49
+display
+location 33
+com11 0 4
+sound 822
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ど、どうしますか、
+line2 <shift> # プロデューサー……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだなぁ、セットを簡単なものにして、
+line2 <shift> # 音量も下げめで……、シンプルに歌おう」
+display
+com11 0 4
+sound 823
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「は、はい、シンプル、いず、
+line2 <shift> # ベスト、ですね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あとは気持ちひとつあれば伝わるよ」
+display
+com11 0 4
+sound 824
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「はい。控えめに、だけど、ていねいに。
+line2 <shift> # 私、歌いますっ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、始まったミニライブ……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （通行人からの注目度はいまひとつだったけど、
+line2 <shift> # 雪歩の頑張りは伝わったかもしれないな……）
+com09 0 49
+display
+location 49
+unk02

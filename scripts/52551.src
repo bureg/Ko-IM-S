@@ -1,0 +1,780 @@
+com2d 0 94
+com2e 0 104
+com2c 0 87
+com32 0 0
+com11 0 0
+sound 0
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「んっふっふ〜。今回のプロモーションビデオは
+line2 <shift> # 亜美たちの魅力、大爆発だねー」
+display
+com11 0 0
+sound 1
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「うんうん。ふたりの魅力があふれすぎて、
+line2 <shift> # いろんなとこから、はみだしまくりだよっ！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「ふたりとも、疲れただろ。
+line2 <shift> # ゆっくり休んでいいぞ」
+display
+com11 0 0
+sound 2
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「休んでる場合じゃないよ、兄ちゃん〜！
+line2 <shift> # せっかく、こんな楽しいとこに来てんのに」
+display
+com11 0 0
+sound 3
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「そうだよ。
+line2 <shift> # おもいっきしマンキツしないとー！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「満喫……？」
+display
+com11 0 0
+sound 4
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ねえ、真美ー。
+line2 <shift> # マンキツグッズ出してー！」
+display
+com11 0 0
+sound 5
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「まかせて、亜美ー。
+line2 <shift> # んしょんしょ……」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「こ、これは……」
+display
+com11 0 0
+sound 6
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ジャジャーン！　そうです。
+line2 <shift> # スイカくんでーっす！」
+display
+com11 0 0
+sound 7
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ふたりで、おこづかい出し合って、
+line2 <shift> # 買ってきたんだよー」
+display
+com11 0 0
+sound 8
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「兄ちゃん、スイカ割りやろーっ！」
+display
+com11 0 0
+sound 9
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「やろーっ！」
+com03 0 3
+choice1 <shift> # 仕事中だぞ
+com09 0 10
+com08
+choice2 <shift> # スイカは嫌いなんだ
+line2
+com09 0 11
+com08
+choice3 <shift> # メロンの方がいいな
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「仕事中だぞ」
+display
+com11 0 0
+sound 10
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ちがうよー！　きゅーけー中だもんっ！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「休憩するのも、仕事のうちだろ？」
+display
+com11 0 0
+sound 11
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「子どもは遊ぶのが仕事なんだよー。
+line2 <shift> # ママも言ってたもんね〜っ？」
+display
+com11 0 0
+sound 12
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ねーっ！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「いいか、ふたりとも……」
+display
+com11 0 0
+sound 13
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「スイカ割りがダメなら、
+line2 <shift> # 他のもの割っちゃうかもだよー！」
+display
+com11 0 0
+sound 14
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「割っちゃうよー！
+line2 <shift> # パックリ八兵衛だよー！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （ほっといたら、なにをしでかすかわからんな。
+line2 <shift> # しょうがない、つきあってやるとするか……）
+com09 0 19
+display
+location 11
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「スイカは嫌いなんだよな……」
+display
+com11 0 0
+sound 15
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「えーっ！？　でもでも……、キライなら、
+line2 <shift> # よけいに割った方がいいよねー？」
+display
+com11 0 0
+sound 16
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「うんうん。
+line2 <shift> # 兄ちゃんのカタキは真美がとったげるよ！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「いや、そういう問題じゃなくてだな」
+display
+com11 0 0
+sound 17
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「じゃあ、ど〜ゆ〜問題？」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「どういう問題かって聞かれると……
+line2 <shift> # う〜ん、つまり……」
+display
+com11 0 0
+sound 18
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「わかった！　こういう問題だよーっ！
+line2 <shift> # 今から、兄ちゃんが割らなきゃいけないのは？」
+display
+com11 0 0
+sound 19
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ピンポーン！　スイカでーっす！！」
+display
+com11 0 0
+sound 20
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ピンポン、ピンポーン！　大正解！
+line2 <shift> # 賞品はスイカ割りでーっす！」
+display
+com11 0 0
+sound 21
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「やたーっ！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （う……断れる空気じゃないな。
+line2 <shift> # しょうがない、つきあってやるとするか……）
+com09 0 19
+display
+location 12
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「俺はメロンの方がいいな」
+display
+com11 0 0
+sound 22
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「メロン割りかー。
+line2 <shift> # それも、おもしろそうだねー」
+display
+com11 0 0
+sound 23
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「うんうん。メロンもいいねー」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （うまく話をそらせたかな……）
+display
+com11 0 0
+sound 24
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ねえ、真美ー。
+line2 <shift> # 今からメロン買いに行こうか？」
+display
+com11 0 0
+sound 25
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「でも、もうおこづかい、
+line2 <shift> # 残ってないよー」
+display
+com11 0 0
+sound 26
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ほいじゃ、言い出しっぺの
+line2 <shift> # 兄ちゃんに買ってもらおうよ」
+display
+com11 0 0
+sound 27
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「そうだね。一番高い、アミアミのやつ
+line2 <shift> # 買ってもらおうよ」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （なにっ……！？）
+display
+com11 0 0
+sound 28
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うんうん。
+line2 <shift> # いいねー、亜美亜美のヤツー！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「や、やっぱり定番は
+line2 <shift> # スイカ割りだよなー。うんうん」
+display
+com11 0 0
+sound 29
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「でも、メロンの方がいいって……」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「的はやっぱり、
+line2 <shift> # これくらい大きくないとな〜」
+display
+com11 0 0
+sound 30
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うん。そう言われてみれば、そうかも〜」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （しょうがない、つきあってやるとするか……）
+com09 0 19
+display
+location 19
+com11 0 0
+sound 31
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「どこどこ〜！？」
+display
+com11 0 0
+sound 32
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「もっとあっちの方だよ。亜美ー！」
+display
+com11 0 0
+sound 33
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「あっちって、こっち？」
+display
+com11 0 0
+sound 34
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ちがうよー、そっちはそっちでしょ！
+line2 <shift> # 真美が言ってるのは、あっちだよー」
+display
+com11 0 0
+sound 35
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うにゃうにゃ……、わかんないよ〜！
+line2 <shift> # 兄ちゃん、どこ〜！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （しょうがない。
+line2 <shift> # 適当に誘導してやるか……）
+com03 0 3
+choice1 <shift> # あそこ、あそこ
+line2
+com09 0 30
+com08
+choice2 <shift> # 東だ、東
+com09 0 31
+com08
+choice3 <shift> # 心の目で見るんだ！
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「あそこだ、あそこ」
+display
+com11 0 0
+sound 36
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「あそこって、このへんー？」
+display
+com11 0 0
+sound 37
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ちがうよ、亜美ー！
+line2 <shift> # そっちはダメー！」
+display
+com11 0 0
+sound 38
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「えいっ！」
+display <shift> # バシッ！！
+display
+com11 0 0
+sound 39
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「手応えありありーっ！
+line2 <shift> # なんかグシャって言ったよー！」
+display
+com11 0 0
+sound 40
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「亜美ー！　それは……」
+display
+com11 0 0
+sound 41
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ん？」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （そこには、グシャグシャに散らばった
+line2 <shift> # 亜美の弁当が……）
+display
+com11 0 0
+sound 42
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うあああーっ！
+line2 <shift> # 亜美弁がーーーーっ！！」
+display
+com11 0 0
+sound 43
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「だから言ったのにー」
+display
+com11 0 0
+sound 44
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うあうあ、亜美のエビフライがー！
+line2 <shift> # カニクリームコロッケがー！」
+com09 0 39
+display
+location 31
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「東だ、東」
+display
+com11 0 0
+sound 45
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「東って、おハシ持つ方だっけ？」
+display
+com11 0 0
+sound 46
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ちがうよ、亜美ー！　そっちはダメー！！」
+display
+com11 0 0
+sound 47
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うりゃ！」
+display <shift> # バシッ！！
+display
+com11 0 0
+sound 48
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「手応えありありーっ！
+line2 <shift> # なんかグシャって言ったよー！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （そこには、グシャグシャに散らばった
+line2 <shift> # 真美のカバンが……）
+display
+com11 0 0
+sound 49
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「うあああーっ！
+line2 <shift> # 真美のアクセが、めちゃんこにー！」
+display
+com11 0 0
+sound 50
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ありゃ……」
+com09 0 39
+display
+location 32
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「心の目で見るんだ！」
+display
+com11 0 0
+sound 51
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「わかったよ、兄ちゃん！　心の目だね！」
+display
+com11 0 0
+sound 52
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ちがうよ、亜美ー！　そっちはダメー！！」
+display
+com11 0 0
+sound 53
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「むむぅ……見えた！　そこーっ！！」
+display <shift> # バシッ！！
+display
+com11 0 0
+sound 54
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「手応えありありーっ！
+line2 <shift> # なんかグシャって言ったよー！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （そこには、グシャグシャに散らばった
+line2 <shift> # 施設の観葉植物が……）
+display
+name 0 2 <names:4>  # Manager
+line1 <shift> # 「こらーっ！
+line2 <shift> # なにやってんだ、キミたちはーっ！！」
+display
+com11 0 0
+sound 55
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うあうあ〜！　ごめんなさ〜い！！」
+com09 0 39
+display
+location 39
+com11 0 0
+sound 56
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「真美と兄ちゃんが悪いんでしょ。
+line2 <shift> # ちゃんと誘導しないからー」
+display
+com11 0 0
+sound 57
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ちがうよ。亜美と兄ちゃんが悪いんだもん！
+line2 <shift> # 真美はぜんぜん悪くないって感じだよ！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「ふたりともケンカはやめるんだ。
+line2 <shift> # 今のは、俺が悪かった……」
+display
+com11 0 0
+sound 58
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ちがうよ！
+line2 <shift> # 真美と兄ちゃんだもんっ！」
+display
+com11 0 0
+sound 59
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「亜美と兄ちゃんでしょーっ！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （ケンカしたままじゃ、
+line2 <shift> # このあとの仕事に影響するな……）
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「わかった。じゃあ、こうしよう」
+display
+com11 0 0
+sound 60
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「どうすんの？」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「俺がスイカを割ることができたら、
+line2 <shift> # ふたりとも仲直りすること」
+display
+com11 0 0
+sound 61
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ふんふん……」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「割ることができなかったら、
+line2 <shift> # ふたりで俺を好きにしていいぞ」
+display
+com11 0 0
+sound 62
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「好きにしていいの？
+line2 <shift> # あんなこととか、こんなこととかも？」
+display
+com11 0 0
+sound 63
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「真美はねー、もっとすごいアレとか、
+line2 <shift> # アレもやっちゃうよー！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「うう……わかった、わかった。失敗したらな。
+line2 <shift> # よし、いくぞ……」
+display
+com11 0 0
+sound 64
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「兄ちゃん、上だよ！　上から来るよー！」
+display
+com11 0 0
+sound 65
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ちがうよー！　右ななめ下の方から、
+line2 <shift> # ギューンって曲がってくよー！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （亜美も真美も適当なこと言ってるな……。スイ
+line2 <shift> # カの位置は、カンで判断するしかなさそうだ）
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （この勝負、負けられない……。
+line2 <shift> # 割ることができなければ、俺は……！）
+com03 0 3
+choice1 <shift> # そこ！
+com09 0 40
+com08
+choice2 <shift> # ここ！
+com09 0 41
+com08
+choice3 <shift> # あそこ！
+com09 0 42
+com08
+com07
+com09 0 43
+com08
+display
+location 40
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「そこ！」
+com37 0 1
+com1e 0 0
+com09 0 50
+com3b
+com37 0 0
+com1e 0 0
+com09 0 51
+com3b
+display
+location 41
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「ここ！」
+com37 0 1
+com1e 0 0
+com09 0 50
+com3b
+com37 0 0
+com1e 0 0
+com09 0 51
+com3b
+display
+location 42
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「あそこ！」
+com37 0 1
+com1e 0 0
+com09 0 50
+com3b
+com37 0 0
+com1e 0 0
+com09 0 51
+com3b
+display
+location 43
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「あそこ！」
+com09 0 51
+display
+location 50
+com11 0 0
+sound 66
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ウソー！　ほんとに割っちゃったよー！」
+display
+com11 0 0
+sound 67
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「兄ちゃん、かっちょいー！
+line2 <shift> # 真美、ちょびっとホレちゃったかもー！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「さあ、約束通り、仲直りするんだぞ」
+display
+com11 0 0
+sound 68
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うんうん。仲直りするから、
+line2 <shift> # どうやって割ったのか、教えてー！」
+display
+com11 0 0
+sound 69
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「真美も仲直りするー！
+line2 <shift> # するから、真美にも教えてー！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （ふたりとも、ケンカしていたことなど、
+line2 <shift> # すっかり忘れてしまったようだ）
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （もちろん、休憩時間後のふたりは、
+line2 <shift> # いつにも増して最高の仕事をしてくれた）
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （最高に楽しいプロモーションビデオを
+line2 <shift> # 作ることができたな）
+com4b 0 0
+com09 0 69
+display
+location 51
+com11 0 0
+sound 70
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「割れなかったね……」
+display
+com11 0 0
+sound 71
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「割れなかった……」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （うっ……）
+display
+com11 0 0
+sound 72
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「……てゆ〜ことは？」
+display
+com11 0 0
+sound 73
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ことは〜？」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「待て……。
+line2 <shift> # ふたりともやめるんだ……！」
+display
+com11 0 0
+sound 74
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「やめないもーんっ！」
+display
+com11 0 0
+sound 75
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「約束だもんねーっ！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「うわあああああああああああっ！！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （それから地獄の数時間が流れ、騒ぎすぎた
+line2 <shift> # 俺たちは屋内リゾートを追い出されてしまった）
+display
+com11 0 0
+sound 76
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「真美が悪いんでしょー！
+line2 <shift> # あそこであんなことするからー！」
+display
+com11 0 0
+sound 77
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ちがうよー！　亜美があんなことしなきゃ、
+line2 <shift> # 怒られなくてすんだんだよー！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （そして新たなケンカが始まった。
+line2 <shift> # 最悪の結果を迎えてしまったようだ……）
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （もちろん、休憩後の撮影も
+line2 <shift> # ご機嫌ななめのまま行なうことになり……）
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （プロモーションビデオの出来もいまひとつ
+line2 <shift> # だった。俺がスイカを割れてさえいれば……！）
+com4b 0 2
+com09 0 69
+display
+location 69
+unk02

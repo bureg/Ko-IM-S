@@ -1,0 +1,253 @@
+com2c 0 87
+com2d 0 54
+com32 0 0
+com11 0 2
+sound 1100
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「室内リゾートのＣＭ撮影、終わりですよね？
+line2 <shift> # 私達二人だけ、遊んでいていいのでしょうか」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、いいんじゃないですか。
+line2 <shift> # つかの間の休息、ってことで」
+display
+com11 0 2
+sound 1101
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ふふっ、そうですね。……この感じって、
+line2 <shift> # そのー、で、デートっぽいような気が」
+com03 0 2
+choice1 <shift> # ニアピンって、とこかな
+line2
+com09 0 10
+com08
+choice2 <shift> # デートに、してしまいます？
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ニアピンって、とこかな」
+display
+com11 0 2
+sound 1102
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そのくらいで止めておく方が、いいですねっ。
+line2 <shift> # 私、デートには、最悪の思い出があって……」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「デートに、してしまいます？
+line2 <shift> # 運命の人には、悪いですけど」
+display
+com11 0 2
+sound 1103
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「え。してしまわない方が、楽しい気が……。
+line2 <shift> # 私、デートには、最悪の思い出があって……」
+com09 0 29
+display
+location 29
+com11 0 2
+sound 1104
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「実はデートって、一度しかしたことがないんで
+line2 <shift> # す。高校時代に先輩に告白されて、それで……」
+display
+com11 0 2
+sound 1105
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「たった１日おつきあいしただけで、帰り道に、
+line2 <shift> # 『別れよう』って、言われてしまって」
+com03 0 3
+choice1 <shift> # なにか、したんですか？
+line2
+com09 0 30
+com08
+choice2 <shift> # ……超特急ですね
+line2
+com09 0 31
+com08
+choice3 <shift> # せっかちな男ですね
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なにか、したんですか？」
+display
+com11 0 2
+sound 1106
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「逆です。なにもできなくて……。胸が、
+line2 <shift> # かーっとなって、黙り込んでしまって……」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……超特急ですね」
+display
+com11 0 2
+sound 1107
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「特急でも、あんなには速くはない気が。
+line2 <shift> # ……私が悪いといえば、悪いのですけれど」
+display
+com11 0 2
+sound 1108
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「結構、嬉しかったんです。だから胸が、かーっ
+line2 <shift> # となってしまって、一言も話せなくて……」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「せっかちな男ですね」
+display
+com11 0 2
+sound 1109
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「いえっ、先輩は悪くは……。私が悪かったんで
+line2 <shift> # す。あれでは、おもしろいはず、ないですから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あずささん、どんな風だったんですか？」
+display
+com11 0 2
+sound 1110
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「胸が、かーっとなってしまって、一言も話せな
+line2 <shift> # かったんです。その、はじめてだったので……」
+com09 0 49
+display
+location 49
+com11 0 2
+sound 1111
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「別れ際も、なにも言えなかったです。
+line2 <shift> # それきり、一度も……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだったんですか。まあ、そんな顔しないで。
+line2 <shift> # 今日は、悲しいことなんて、起こりませんから」
+display
+com11 0 2
+sound 1112
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はい。あの日のこと、最近は少しずつ、夢に、
+line2 <shift> # 見なくなってきたんです。これ、きっと……」
+display
+com11 0 2
+sound 1113
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「と、ところで、私だけ水着って、不公平では？
+line2 <shift> # ぷ、プロデューサーさんも、同じ姿に……」
+com03 0 3
+choice1 <shift> # それは、今度ゆっくり
+line2
+com09 0 50
+com08
+choice2 <shift> # 脱がせてくれます？
+line2
+com09 0 51
+com08
+choice3 <shift> # もしかして、意外にエッチ？
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 2
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それは、今度ゆっくり」
+display
+com11 0 2
+sound 1114
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「今度って……、また、ふたりでくるんですか？
+line2 <shift> # あ、それじゃ、ほんとの……」
+display
+com11 0 2
+sound 1115
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ど、どうせなら、本物のリゾート地がいいです
+line2 <shift> # よね。ゃ、これじゃまるで、私、誘って……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （いろんな意味で、壁が消えつつある気がする。
+line2 <shift> # その後、ふたりで、最高のひとときを過ごした）
+com09 0 69
+display
+location 51
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「脱がせてくれます？」
+display
+com11 0 2
+sound 1116
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「わ、私がですか？　そんな〜、け、け、けれど、
+line2 <shift> # どうしてもと言うなら……」
+display
+com11 0 2
+sound 1117
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「プロデューサーさん、服の下には、
+line2 <shift> # 水着、着てるんですよね？」
+display
+com11 0 2
+sound 1118
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「どうして、なにも言ってくれないんです？
+line2 <shift> # もしかして……、ゃ、ゃだ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ちょっと、イジワルなことを言ってしまった。
+line2 <shift> # これくらいの冗談、許してくれる……、よな？）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もしかして、意外にエッチ？」
+display
+com11 0 2
+sound 1119
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「えっ？　み、見たいわけではないですー。ただ、
+line2 <shift> # 見られてばかりでは、ずるいので、私も……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じっくり見返してやる、と？」
+display
+com11 0 2
+sound 1120
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そうです。あっ！　ち、ちがいます。じっくり、
+line2 <shift> # ではなくて、それとなくというか……」
+display
+com11 0 2
+sound 1121
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ううっ、もう知りません。
+line2 <shift> # ひとりで、好きなだけ、見てください……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （すねてしまった……。こんなこと、ロコツに
+line2 <shift> # 聞くのは、さすがにルール違反だったか）
+com09 0 69
+display
+location 69
+unk02

@@ -1,0 +1,285 @@
+com2c 0 33
+com2d 0 41
+com32 0 0
+com11 0 3
+sound 400
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……ふふ、ふふふふふっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ち、千早？　ラジオのゲスト出演、終わった
+line2 <shift> # のか？　なにを笑って……」
+display
+com11 0 3
+sound 401
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あ、思い出し笑い……。
+line2 <shift> # この仕事、とても楽しかったので」
+display
+com11 0 3
+sound 402
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ＤＪの人が、音楽、すごくくわしくて。『マイ
+line2 <shift> # スタージンガー』の話を、ずっとしてました」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「『マイスタージンガー』？」
+com03 0 3
+choice1 <shift> # 楽劇、だっけ？
+line2
+com09 0 10
+com08
+choice2 <shift> # オペラ、だっけ？
+line2
+com09 0 11
+com08
+choice3 <shift> # ロボット、だっけ？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「楽劇、だっけ？」
+display
+com11 0 3
+sound 403
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そうです、ワーグナーの。プロデューサーも、
+line2 <shift> # けっこう、くわしいんですね」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「オペラ、だっけ？」
+display
+com11 0 3
+sound 404
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「いえ、ちがいます。楽劇です。
+line2 <shift> # オペラとは、いろいろと違いが……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、そうなのか。知らなかったよ」
+display
+com11 0 3
+sound 405
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ワーグナー自身が、否定していますから。
+line2 <shift> # 自分がつくっているのは、オペラではないって」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ロボット、だっけ？」
+display
+com11 0 3
+sound 406
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「え？　ロボットなんて、どこから……？
+line2 <shift> # マイスタージンガーは、楽劇……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、そうなのか。全然わからなかったよ」
+display
+com11 0 3
+sound 407
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ワーグナーの、代表的な作品です。こういうの
+line2 <shift> # も、すこしは……。あ、余計なお世話ですね」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それにしても、千早がそんなに笑うなんて、
+line2 <shift> # めずらしいな。ビックリしたよ」
+display
+com11 0 3
+sound 408
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「わ、私だって、楽しければ笑います。
+line2 <shift> # その……らしくない？」
+com03 0 3
+choice1 <shift> # そんなこと、ないよ
+line2
+com09 0 30
+com08
+choice2 <shift> # いや、かわいいよ
+line2
+com09 0 31
+com08
+choice3 <shift> # ……らしくない
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなこと、ないよ。ただ、普段はあまり
+line2 <shift> # 笑わないよな？」
+display
+com11 0 3
+sound 409
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「愛想笑いとかは、できませんから。無理して
+line2 <shift> # 笑うのが、いいとも思えませんし」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、かわいいよ」
+display
+com11 0 3
+sound 410
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「それは、いきすぎ……。
+line2 <shift> # というか、私、どんな顔をしたら……」
+display
+com11 0 3
+sound 411
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「まあ、いいです。気味悪いとか、言われる
+line2 <shift> # よりは、ずっと……」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……らしくない」
+display
+com11 0 3
+sound 412
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そう言われても、私は普通にしているだけで、
+line2 <shift> # 意識して、顔を崩してるわけでは……」
+display
+com11 0 3
+sound 413
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「普段、愛想笑いとかできないから、
+line2 <shift> # そのギャップかもしれませんね」
+com09 0 49
+display
+location 49
+com11 0 3
+sound 414
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はあ……。他のスタッフとも、これ
+line2 <shift> # くらい、音楽の話ができたら……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……そんなこと、言うなよ。いっしょに
+line2 <shift> # トップを目指す仲間じゃないか」
+display
+com11 0 3
+sound 415
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「わかってます。ただ、正直、合わせるのに、
+line2 <shift> # 疲れてしまうことが……」
+display
+com11 0 3
+sound 416
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「この違和感は……まだ、なじんでいないから？
+line2 <shift> # 完全に打ち解ける日……きますか？」
+com03 0 3
+choice1 <shift> # こないんじゃないか？
+line2
+com09 0 50
+com08
+choice2 <shift> # くると思うよ
+line2
+com09 0 51
+com08
+choice3 <shift> # 努力次第かな
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「こないんじゃないか？　それでいいんだよ。
+line2 <shift> # 仕事上の緊張感って言うのも必要だし」
+display
+com11 0 3
+sound 417
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そうですね。私も合わせられたりすると、
+line2 <shift> # かえって、やりづらいです」
+display
+com11 0 3
+sound 418
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「近すぎず、離れすぎず……。そんな感じで
+line2 <shift> # なかよくやるのが、きっと一番……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （俺の一言に、肩の力が抜けたようだ。自然体の
+line2 <shift> # つきあいが、千早にとってのベストだろうしな）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「くると思うよ」
+display
+com11 0 3
+sound 419
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「だといいんですけど。私、あまり、おもしろい
+line2 <shift> # こととか言わないから、つい距離が……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そう考え込むなよ。時間がたてば、
+line2 <shift> # いろいろ変わってくるだろ？」
+display
+com11 0 3
+sound 420
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そうですね。変わるのは、たしか……。
+line2 <shift> # 悪い方に転ばなければと、思います……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （すこしだけ、心配そうな顔をしている。でも、
+line2 <shift> # こんなのは、なるに任せるしかないからな）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「努力次第かな」
+display
+com11 0 3
+sound 421
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「積極的に、埋めていかないとダメですか？
+line2 <shift> # そうしないと……変わらない？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「人間関係なんて、そんなもんだろ？　たいして、
+line2 <shift> # むずかしいことでも、ないと思うけど」
+display
+com11 0 3
+sound 422
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……むずかしいです。私にとっては」
+display
+com11 0 3
+sound 423
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「なにを基準にしていいのか、わからなくなるん
+line2 <shift> # です。自分のペース、変えてしまうと……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （顔から、色が消えていく……。先ほどまでの
+line2 <shift> # 楽しそうな表情が、まるでウソのようだ……）
+com09 0 69
+display
+location 69
+unk02

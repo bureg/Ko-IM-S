@@ -1,0 +1,373 @@
+com2c 0 18
+com2d 0 13
+com11 0 2
+sound 800
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「リハーサル、中断になっちゃいましたね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「段取りに間違いがあったらしいんだ。
+line2 <shift> # 予定を組み直すそうだから、当分待ちになるね」
+display
+com11 0 2
+sound 801
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「待ち、ですか……。
+line2 <shift> # 待機、どのくらいになりそうですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、正直、見当つかないな。
+line2 <shift> # 数分かもしれないし、数時間かかるかも」
+display
+com11 0 2
+sound 802
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そうですか。あんまり長引くと、
+line2 <shift> # みんな大変そうだなぁ。……そうだっ！」
+display
+com11 0 2
+sound 803
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「いつ頃から始められそうか、
+line2 <shift> # 私、ちょっとスタッフさんに、きいて来ます！」
+com03 0 2
+choice1 <shift> # いや、俺が行くよ
+line2
+com09 0 10
+com08
+choice2 <shift> # ああ、頼むよ
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、話なら俺が。ディレクターのところへ
+line2 <shift> # 行ってきいてくるよ。春香は、ここで待ってて」
+display
+com11 0 2
+sound 804
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「うーん、そうですか？　わかりました！
+line2 <shift> # それじゃ、お願いしますね♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （そして……）
+display
+com22 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おーい春香、あと１０分くらいで再開だって」
+display <shift> # どんがらがっしゃーん！
+display
+com11 0 2
+sound 805
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ぷ、プロデューサーさーんっ、
+line2 <shift> # た、たすけて下さーいーっ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ど、どうした！？　すごい音が、そでの方から
+line2 <shift> # したぞ……。そこで待ってろ春香、今行く」
+display
+com21 0 30
+com11 0 2
+sound 806
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「すみません、転んじゃいましたぁ。そこの
+line2 <shift> # セットに、思いっきり足、引っ掛けちゃって」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、頼むよ。ディレクターを、つかまえてみ
+line2 <shift> # てくれ。俺は、スタジオの様子を見ておくから」
+display
+com11 0 2
+sound 807
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「了解です！　それじゃ、
+line2 <shift> # ちょっと行ってきますね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （そして……）
+display
+com22 0 30
+com11 0 2
+sound 808
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「プロデューサーさん、きいてきましたーっ」
+display
+com11 0 2
+sound 809
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あと１０分くらいで再開だそうで……、
+line2 <shift> # うわぁっ！！」
+display <shift> # どんがらがっしゃーん！
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おい、どうした春香！　何があった！？
+line2 <shift> # なんだか、すごい音がしたぞ」
+display
+com21 0 30
+com11 0 2
+sound 810
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「いたた……。すみません、転んじゃいました。
+line2 <shift> # セットに思いっきり、足引っ掛けてしまって」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「大丈夫か？　ちょっと足、見せてみろ」
+display
+com11 0 2
+sound 811
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あいたっ。……ううっ、少しひねったかも」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「マズいな、もうすぐリハ再開だってのに……。
+line2 <shift> # とにかく医務室に行こう、春香」
+display
+com11 0 2
+sound 812
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「えっ？　だ、ダメですよ！！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「足ひねったんだろう？　まっすぐ立てない
+line2 <shift> # みたいだし……、それじゃ歌のリハは無理だよ」
+display
+com11 0 2
+sound 813
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「へ、平気です、このくらい！
+line2 <shift> # 我慢できますっ！」
+display
+com11 0 2
+sound 814
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「もう時間もないし……、私がみんなの予定を、
+line2 <shift> # 遅らせちゃうわけには、いかないです！」
+com03 0 3
+choice1 <shift> # バカ！　無理するな！
+line2
+com09 0 30
+com08
+choice2 <shift> # よし、よく言った！
+line2
+com09 0 31
+com08
+choice3 <shift> # ほんとに我慢できるのか？
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「バカっ！　無理するな！」
+display
+com11 0 2
+sound 815
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「……っ！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ここで無理して、春香が身体を壊したら、
+line2 <shift> # みんなも、春香自身も困るだろう？」
+display
+com11 0 2
+sound 816
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「で、でもっ！　このくらい我慢できますよ！
+line2 <shift> # リハに穴あけたくない……、やらせて下さいっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ちょっとのケガの我慢のつもりが、ほっとくと、
+line2 <shift> # 大変なことになるかもしれないんだ」
+display
+com11 0 2
+sound 817
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「それなら……、ダンスを控えめにすれば、
+line2 <shift> # 足は、平気ですから！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やる気があるのは、いい。わかった。でも、
+line2 <shift> # まずは足の応急処置が先だよ。いいね？」
+display
+com11 0 2
+sound 818
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「わ、わかりましたっ。でも、もうリハまで、
+line2 <shift> # あんまり時間が……、あいたたっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ほら、無理するなってば。
+line2 <shift> # それと……、きつく言って悪かったな、春香」
+display
+com11 0 2
+sound 819
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「いえ。私も意地張っちゃって……。それじゃ、
+line2 <shift> # テーピングをしてもらってきますね♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、ケガの早めの処置が効いて、春香も、
+line2 <shift> # 落ち着いた様子でリハーサルを迎え……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （無事に本番の仕事も、終えることができた。
+line2 <shift> # 春香が調子を崩さず、無事で、よかったな……）
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、よく言った！」
+display
+com11 0 2
+sound 820
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「えっ！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「大丈夫だな？　本当の本当に、大丈夫だな？
+line2 <shift> # 自分で責任とれるか？」
+display
+com11 0 2
+sound 821
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あっ、はい、このとおり……。
+line2 <shift> # あいたた、大丈夫ですっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「今、痛いって言わなかった？」
+display
+com11 0 2
+sound 822
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「い、言ってませんよ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それなら、春香を信用して、リハは、
+line2 <shift> # やってもらうけど……、ウソじゃないな？」
+display
+com11 0 2
+sound 823
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ウソじゃ、ないです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もし大事なアイドルを傷つけて、気が
+line2 <shift> # つかなかったら、俺はプロデューサー失格だ」
+display
+com11 0 2
+sound 824
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「はい……。あ、あの」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なぁ……、ほんとは足、
+line2 <shift> # ちょっと痛むんじゃないのか」
+display
+com11 0 2
+sound 825
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ええ……。少しだけ、ですけど」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、やる気があるなら、俺は止めないよ。
+line2 <shift> # リハ行ってこい。でも絶対、無理はするなよ」
+display
+com11 0 2
+sound 826
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「は、はい！　すみません……。
+line2 <shift> # 無理しないで、頑張ってみます！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （春香は、リハーサルに意気込んで向かい、
+line2 <shift> # 足をかばいながらも、滞りなく仕事を終えた）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （調子は、ちょっと悪かったみたいだけど……。
+line2 <shift> # ケガ、早く治ってくれればいいな）
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ほんとかな？　ほんとに、
+line2 <shift> # ほんとーに我慢できるのか？」
+display
+com11 0 2
+sound 827
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「えっ？　あ、え、そのぉ……。
+line2 <shift> # 大丈夫ですってば！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、いまいち信用ならんというか、
+line2 <shift> # 心配だなぁ。証明できるかな？」
+display
+com11 0 2
+sound 828
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ええ、もちろん大丈夫ですって！　ほらっ！
+line2 <shift> # こんな風に飛び跳ねたって……、うわあっっ！」
+display <shift> # すってーん！　どんがらがっしゃーん！
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああっ、な、なにやってるんだよ！
+line2 <shift> # また転んで、また足ぶつけちゃって……」
+display
+com11 0 2
+sound 829
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ああっ……、いたたたぁ。ごめんなさい、
+line2 <shift> # セットを、ちょっと壊してしまいました」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なんてこった……、ああ、もう。
+line2 <shift> # 危なっかしくて、見ていられないな」
+display
+com11 0 2
+sound 830
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あっ、で、でも、大丈夫ですからっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、悪いけど、これじゃ今回のリハには、
+line2 <shift> # 春香を出せないよ。医務室で休んでてくれ」
+display
+com11 0 2
+sound 831
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ううっ、そ、そんなぁ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなもこんなもあるか！　セットだけじゃ
+line2 <shift> # なく、春香自身が壊れたら、どうするんだ！」
+display
+com11 0 2
+sound 832
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「は、はい！　す、すみません！
+line2 <shift> # おとなしく医務室行ってきます……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （春香は少々しょげた様子で、スタジオから、
+line2 <shift> # 出て行ってしまった）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （でも、そもそも俺が変にあおったから、春香が
+line2 <shift> # ドジったんだよな……。ケガの具合も心配だ）
+com09 0 49
+display
+location 49
+unk02

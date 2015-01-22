@@ -1,0 +1,267 @@
+com2c 0 30
+com2c 0 31
+com2d 0 51
+com32 0 0
+com11 0 5
+sound 600
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「自分達のＣＤの、売り子をやるんですね！
+line2 <shift> # う、うまくできるかしら？」
+com03 0 2
+choice1 <shift> # 気軽に、いきましょう
+line2
+com09 0 10
+com08
+choice2 <shift> # はりきって、いきましょう
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「気軽に、いきましょう」
+display
+com11 0 5
+sound 601
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「は、はい！　あまり力まないように、
+line2 <shift> # ていねいに、ていねいに……」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「はりきって、いきましょう」
+display
+com11 0 5
+sound 602
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「は、はい！　そうですよね。
+line2 <shift> # う、売り上げは、この、手に……！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなに、力まなくてもいいですって」
+display
+com11 0 5
+sound 603
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、気負いすぎですか？
+line2 <shift> # では、私なりの、はりきり方で！」
+com09 0 29
+display
+location 29
+com22 0 30
+com32 0 1
+com21 0 30
+com11 0 5
+sound 604
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「いらっしゃいませ、お客様。
+line2 <shift> # ＣＤシングル、いかがでしょうか？」
+display
+com11 0 5
+sound 605
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「まず、この歌のテーマのご説明から。
+line2 <shift> # あ、あら？　行ってしまいました……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そこまで、くわしく解説しなくていいですよ。
+line2 <shift> # もっと、テキパキ売りましょう」
+display
+com11 0 5
+sound 606
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「でも、買ってもらうなら、やはり納得してから、
+line2 <shift> # 手にとってほしいですよね？」
+com03 0 3
+choice1 <shift> # 客を退屈させちゃ、ダメです
+line2
+com09 0 30
+com08
+choice2 <shift> # こういうのは、勢いですって
+line2
+com09 0 31
+com08
+choice3 <shift> # あずささん、マジメすぎです
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「客を退屈させちゃ、ダメです」
+display
+com11 0 5
+sound 607
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、たしかに、長々と説明しても、
+line2 <shift> # 飽きてしまいますね。では、もっと簡潔に！」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「こういうのは、勢いですって」
+display
+com11 0 5
+sound 608
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「に、苦手なんです。そういうの。
+line2 <shift> # どうも、ノリとか、自分でつくれなくて……」
+display
+com11 0 5
+sound 609
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「でも、努力は、してみますね。
+line2 <shift> # 意識すれば、きっと、すこしは！」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あずささん、マジメすぎです」
+display
+com11 0 5
+sound 610
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「い、一生懸命つくったものを、
+line2 <shift> # あまりいい加減には、売れないかと思って……」
+display
+com11 0 5
+sound 611
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「わかりました。
+line2 <shift> # もうすこしだけ、くだけた感じにして！」
+com09 0 49
+display
+location 49
+com22 0 30
+com32 0 1
+com21 0 30
+com11 0 5
+sound 612
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はあー、さっぱり売れませんね……。
+line2 <shift> # 私、根っから、才能がないのかしら」
+display
+com11 0 5
+sound 613
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「どうして、無視されるんでしょう？
+line2 <shift> # なにか、人目をひく方法は……」
+com03 0 3
+choice1 <shift> # 黙って、微笑んでみて
+line2
+com09 0 50
+com08
+choice2 <shift> # 大声で、アナウンスしますか
+line2
+com09 0 51
+com08
+choice3 <shift> # ……お色気作戦かな
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 2
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「黙って、微笑みかけてみて下さい。
+line2 <shift> # もしかしたら、その方が……」
+display
+com11 0 5
+sound 614
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「それで、人、きますでしょうか？
+line2 <shift> # とりあえず……、ふふっ、……こんな感じ？」
+display
+com11 0 5
+sound 615
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あら？　あらっ？　あらあら？
+line2 <shift> # ど、どうして急に、こんなっ？」
+display
+com11 0 5
+sound 616
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「お、お、押さないで下さい〜！　え、独身
+line2 <shift> # かって？　も、もちろん、そうですけれど……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （すごい集客効果だ……。あずささんの微笑には、
+line2 <shift> # 魔力でも？　これで、完売は確実だな）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「大声で、アナウンスしますか」
+display
+com11 0 5
+sound 617
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「それくらいしないと、ダメかもしれませんね。
+line2 <shift> # ……声量には自信ないですけれど、でも！」
+display
+com11 0 5
+sound 618
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「みなさーん！　新発売のシングルＣＤー！
+line2 <shift> # いかー、ぅ、けふっ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だ、大丈夫ですか？　あずささん！？」
+display
+com11 0 5
+sound 619
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「は、はい。いきなりやったもので、そのー。
+line2 <shift> # んん……、ん……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （苦しそうな顔をしている。こういう売り方は、
+line2 <shift> # 今のあずささんには、向かなかったかな）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……お色気作戦かな。ちょっとセクシーな
+line2 <shift> # 声とか、しぐさで呼び込めませんか？」
+display
+com11 0 5
+sound 620
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「街頭で、そんなこと、やるんですか？
+line2 <shift> # アイドルって、そこまでしなければ……」
+display
+com11 0 5
+sound 621
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「……わ、わかりました。す、すこしだけ」
+display
+com11 0 5
+sound 622
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「んふ、ＣＤ、見ていって下さいませんか？
+line2 <shift> # もし買っていただけたら、私、やさしく……」
+display
+com11 0 5
+sound 623
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「だ、ダメです、こんなのっ！
+line2 <shift> # わ、私には、とてもー。ううう……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （いきなり、くじけてしまった……。大切な
+line2 <shift> # アイドルの品位を落としちゃ、いけないな）
+com09 0 69
+display
+location 69
+unk02

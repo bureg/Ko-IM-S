@@ -1,0 +1,697 @@
+com2c 0 21
+com2c 0 118
+com2d 0 61
+com2e 0 121
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （はあ……、初日から色々と大変だったなあ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （トップアイドルか……。雪歩は、
+line2 <shift> # はかなげな所が魅力の女の子だけど……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （少し気が弱すぎるかもしれない。俺は彼女を、
+line2 <shift> # 本当にトップアイドルにできるのかな……）
+display
+com11 0 0
+sound 10000
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ぷ……、プロデューサ〜〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （トップに立つには、それなりの覚悟が
+line2 <shift> # 必要とされる。この場合、優しさが弱点に……）
+display
+com11 0 0
+sound 10001
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「プロデューサー、あの、
+line2 <shift> # ま、ま、待って下さい〜〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……あれ？　もしかして、あの声は？」
+display
+com11 0 0
+sound 10002
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はぁ、はぁ……。
+line2 <shift> # プロデューサーって、歩くの速いですぅ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あれ？　雪歩じゃないか？　ごめんごめん、
+line2 <shift> # ちょっと考え事してたから、気付かなくって」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ところで、わざわざ追いかけてきたりして、
+line2 <shift> # どうしたんだ？　もしかして……」
+com03 0 3
+choice1 <shift> # 帰り道に話でも？
+line2
+com09 0 10
+com08
+choice2 <shift> # 何か言い忘れてたことでも？
+line2
+com09 0 11
+com08
+choice3 <shift> # 愛の告白でも？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「帰り道に話でもしようって、
+line2 <shift> # 来てくれたのか？」
+display
+com11 0 0
+sound 10003
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「は、はい。プロデューサーとは、これから、
+line2 <shift> # 一緒に、頑張っていくんですから……」
+display
+com11 0 0
+sound 10004
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「早く、普通に話せるようになった方が、
+line2 <shift> # いいかなって思って、あの……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （内気なだけかと思ったら、どうやら、
+line2 <shift> # そうでもないみたいだ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （雪歩の頑張りに、俺も応えてやらないとな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ありがとな、雪歩。
+line2 <shift> # じゃあ、いっぱい、色々なことを話そうか！」
+display
+com11 0 0
+sound 10005
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「は、はい！」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「何か、言い忘れてたことでも、
+line2 <shift> # あったのか？」
+display
+com11 0 0
+sound 10006
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「は、はい。言い忘れてたっていうのとは、
+line2 <shift> # ちょっと違うんですけど……」
+display
+com11 0 0
+sound 10007
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「やっぱり、もっと早くに、ちゃんとお話とか、
+line2 <shift> # できるようになった方がいいかなって……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え？　それじゃ、俺と話をするために、
+line2 <shift> # わざわざ、追いかけてきてくれたのか？」
+display
+com11 0 0
+sound 10008
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あっ。め、迷惑でしたか？
+line2 <shift> # すみません……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「迷惑なんて、そんなわけないだろ？
+line2 <shift> # それじゃあ、話しながら帰ろうか」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「愛の告白でもしてくれるのか？
+line2 <shift> # アナタに一目ぼれです！　とか」
+display
+com11 0 0
+sound 10009
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ええええっ！？　わ、私、そんなことっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……軽い冗談なのに、
+line2 <shift> # そんなに全力で否定しなくっても」
+display
+com11 0 0
+sound 10010
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「イ、イジワルしないで下さぁい……。
+line2 <shift> # 私、すごくびっくりして……、うう、ぐすっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わわっ、泣かないでくれよ。俺が悪かった！
+line2 <shift> # ……それじゃ、何の用なんだい？」
+display
+com11 0 0
+sound 10011
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「は、はい……。これから一緒に頑張っていく
+line2 <shift> # んですから、早く打ち解けたいなって……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もしかして、俺と話をするために？
+line2 <shift> # ……雪歩、それじゃ、色々話して帰ろうか！」
+com09 0 19
+display
+location 19
+com22 0 30
+com21 0 30
+com32 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ふ〜ん、そうか。
+line2 <shift> # 雪歩は、事務所では、真と仲が良いのか」
+display
+com11 0 0
+sound 10012
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「は、はい。でも、他の皆とも仲良しですよ。
+line2 <shift> # 皆、いい人ばっかりです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「他に、何か好きなモノとかあるのか？
+line2 <shift> # スポーツとか、芸能人とか」
+display
+com11 0 0
+sound 10013
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「え〜と、と、特には……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか……。それじゃ、学校とかだと、
+line2 <shift> # 雪歩は、いつもどんな感じなんだ？」
+display
+com11 0 0
+sound 10014
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ど、どうって……。あの、普通です」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「普通ね……」
+display
+com11 0 0
+sound 10015
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「は……、はい…………」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「…………」
+display
+com11 0 0
+sound 10016
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「…………」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （くっ。か、会話が全然続かない……！
+line2 <shift> # まるで、付き合いたてのカップルみたいだ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （何だか俺まで、緊張してきた……。
+line2 <shift> # 困ったなぁ……。あ、そうだ！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なあ、雪歩。俺の携帯の番号、雪歩に、
+line2 <shift> # まだ教えてなかったよな？」
+display
+com11 0 0
+sound 10017
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「け、携帯ですか？
+line2 <shift> # はい。そういえば、まだ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「何かあったら、すぐに連絡できるように、しと
+line2 <shift> # かないとな。メールアドレスも教えとこうか？」
+display
+com11 0 0
+sound 10018
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「は、はい！
+line2 <shift> # そ、それじゃ私も…………、ああっ！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わわっ！？　ど、どうしたんだ？
+line2 <shift> # 急に大声あげたりして」
+display
+com11 0 0
+sound 10019
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「わ、私の携帯、事務所に、
+line2 <shift> # 置いてきちゃってました……」
+display
+com11 0 0
+sound 10020
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「今日は色々なことがあって、頭が真っ白に、
+line2 <shift> # なっちゃってましたから……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「う〜ん、それじゃあ……」
+com03 0 3
+choice1 <shift> # 俺が取ってこようか？
+line2
+com09 0 20
+com08
+choice2 <shift> # また今度でいいか
+line2
+com09 0 21
+com08
+choice3 <shift> # 困るなぁ
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それじゃ、俺がひとっ走り取ってこようか？」
+display
+com11 0 0
+sound 10021
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ええっ？　い、いいです。
+line2 <shift> # 私が悪いんですから、自分で取ってきます」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え？　別に遠慮しなくたっていいんだぞ？
+line2 <shift> # たいした距離じゃないんだし……」
+display
+com11 0 0
+sound 10022
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「で、でも……。やっぱり私が悪いんですし、
+line2 <shift> # それに、ここで１人で待つのは怖いし……」
+display
+com11 0 0
+sound 10023
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「わ、私、やっぱり行ってきます〜！」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まあ、仕方ないな。それじゃ、番号教えるのは、
+line2 <shift> # また今度でいいか」
+display
+com11 0 0
+sound 10024
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「え？　で、でも、もし緊急で連絡しなくちゃ
+line2 <shift> # いけないことが起きたら、困りますよね！」
+display
+com11 0 0
+sound 10025
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「た、たとえば今日、日本が沈没しちゃうとか！
+line2 <shift> # ……やっぱり今きいておかないとダメですぅ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……それは、心配しすぎだと思うけどなあ。
+line2 <shift> # まあ、何かあれば事務所に連絡すればいいさ」
+display
+com11 0 0
+sound 10026
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「でも……、私、やっぱり携帯取ってきます！
+line2 <shift> # プロデューサーは待ってて下さいぃ！」
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん……、初日からこんなんじゃ、
+line2 <shift> # ちょっと困るかな……」
+display
+com11 0 0
+sound 10027
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ううっ、す、すみません……。こんなダメな
+line2 <shift> # アイドル、プロデューサーも迷惑ですよね……」
+display
+com11 0 0
+sound 10028
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「こんなダメダメな私は、もうこの辺に穴掘って、
+line2 <shift> # 埋まっちゃってますぅ〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええっ！？　ちょ、ちょっと待ってくれよ、
+line2 <shift> # こんなとこで穴掘って埋まられても……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ごめんごめん、少し言い過ぎたよ。まだ
+line2 <shift> # 最初なんだし、これから慣れていけばいいさ」
+display
+com11 0 0
+sound 10029
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ぐすっ……。そ、そうですか？
+line2 <shift> # こんな私でも、大丈夫ですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、少しずつ頑張ればいいよ。
+line2 <shift> # ウサギとカメの精神で行こう」
+display
+com11 0 0
+sound 10030
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「は、はい……。
+line2 <shift> # 私、ノロマなカメですけど、頑張ります」
+display
+com11 0 0
+sound 10031
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あの、でも、せめて今だけはウサギのつもり
+line2 <shift> # で、急いで携帯取ってきますから！」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ……。お、おーい！　ちょっと、雪歩！
+line2 <shift> # ……行っちゃったか」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「仕方ないなあ。とりあえず戻ってくるまで、
+line2 <shift> # 待つとするか……」
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……ん？　なんだろう、向こうの方で、
+line2 <shift> # 声がきこえたような……」
+com09 0 100
+display
+location 100
+location 30
+com11 0 0
+sound 10032
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ぷ、プロデューサ〜？
+line2 <shift> # ど、どこにいるんですか〜？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……あれは、雪歩の声？
+line2 <shift> # おーい、こっちだ、こっちー！」
+display
+com11 0 0
+sound 10033
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ううっ、やっと会えました、プロデューサー。
+line2 <shift> # なかなか見つからなくて、どうしようかと……」
+display
+com11 0 0
+sound 10034
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「もしかしたら、今日のことは全部、私の夢
+line2 <shift> # だったんじゃないかって、心配で……！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ごめんごめん。この子を見かけちゃったから、
+line2 <shift> # つい……」
+display
+com11 0 0
+sound 10035
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「……え？　あの、この子って誰ですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「誰って……、あ、あれ？　いない？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おかしいな、ついさっきまでここにいたのに、
+line2 <shift> # いつの間に消えちゃったんだ？」
+display
+com11 0 0
+sound 10036
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「…………え」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うん？　どうしたんだ、雪歩？
+line2 <shift> # 急に真っ青になって」
+display
+com11 0 0
+sound 10037
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「だ、だって……、こんな人気のない場所に
+line2 <shift> # 現れて、急に消えちゃったんですよね？」
+display
+com11 0 0
+sound 10038
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「それって、ゆ、ゆ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ゆ……、ゆ……」
+com03 0 3
+choice1 <shift> # 幽霊？
+com09 0 40
+com08
+choice2 <shift> # 雪歩？
+com09 0 41
+com08
+choice3 <shift> # ＵＦＯ？
+com09 0 42
+com08
+com07
+com09 0 42
+com08
+display
+location 40
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ゆ……。もしかして、
+line2 <shift> # 幽霊って言いたいのか？」
+display
+com11 0 0
+sound 10039
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「い、言わないで下さいぃ！　きいちゃったら、
+line2 <shift> # ますます怖くなってきましたぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「雪歩は怖がりだな。安心しろよ。
+line2 <shift> # 幽霊なんか、いるわけないじゃないか！」
+display
+com11 0 0
+sound 10040
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「じゃ、じゃあ……、もしかして、宇宙人？
+line2 <shift> # ううっ。そ、そっちの方が怖いですっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、だからさ……。ああ、もう、
+line2 <shift> # お願いだから落ち着いてくれよ〜！」
+com09 0 49
+display
+location 41
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ゆ……。もしかして、
+line2 <shift> # 雪歩って言いたいのか？」
+display
+com11 0 0
+sound 10041
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ええっ！？　そ、そんなドッペルゲンガーな
+line2 <shift> # ことがあったら、怖すぎですよぉ！？」
+display
+com11 0 0
+sound 10042
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ううっ、何だか嫌な妄想が……。自分と同じ
+line2 <shift> # 顔の女の子がニヤリと笑って、スコップを……」
+display
+com11 0 0
+sound 10043
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「うう、こ、怖いですぅ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わー！　雪歩、落ち着け。
+line2 <shift> # 雪歩でも幽霊でもＵＦＯでもないからさ」
+com09 0 49
+display
+location 42
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ゆ……。もしかして、
+line2 <shift> # ＵＦＯって言いたいのか？」
+display
+com11 0 0
+sound 10044
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ああっ！　そ、それだけは、
+line2 <shift> # ききたくなかったのに〜〜！」
+display
+com11 0 0
+sound 10045
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「うう、宇宙人がニヤリと私に笑って、
+line2 <shift> # ゆっくりと銀色に輝くスコップを……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わあっ、しっかりしろ、雪歩っ！
+line2 <shift> # 幽霊もＵＦＯも宇宙人もありえないって！」
+com09 0 49
+display
+location 49
+com22 0 30
+com21 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……ふぅ。ようやく落ち着いてくれたみたいだ。
+line2 <shift> # それにしても、本当に恐がりなんだな）
+display
+com11 0 0
+sound 10046
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ、あの……。プロデューサー？
+line2 <shift> # 私のこと、あきれちゃいましたか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え？」
+display
+com11 0 0
+sound 10047
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「私、嫌われないようにって、勇気を出して、
+line2 <shift> # プロデューサーを探したのに、結局……」
+display
+com11 0 0
+sound 10048
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「余計、嫌われるようなことを……。
+line2 <shift> # うう、ひっく、ううぅ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「泣かなくていいよ、雪歩」
+display
+com11 0 0
+sound 10049
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「で、でも……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だって、夜道は怖いのに、雪歩は、
+line2 <shift> # 全力で、俺を探してくれた……、だろ？」
+display
+com11 0 0
+sound 10050
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「は、はい……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「その気持ちを知ってる俺が、雪歩を、
+line2 <shift> # 嫌うわけないさ。大丈夫だよ」
+display
+com11 0 0
+sound 10051
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あの……。本当に私でいいんですか？
+line2 <shift> # 後悔しちゃいませんか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「後悔なんてしない。
+line2 <shift> # 俺にとっては、雪歩が１番だよ」
+display
+com11 0 0
+sound 10052
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「……は、はい！　えへへへ、
+line2 <shift> # プロデューサー、いい人なんですね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そうだ。俺は、これから先も、
+line2 <shift> # 雪歩を、信じてあげなくちゃいけないんだ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （不安がってる場合じゃないな。
+line2 <shift> # ……よし、俺も、頑張らないと！）
+display
+com11 0 0
+sound 10053
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「プロデューサー、私、もっと強い娘に
+line2 <shift> # なれるように、頑張りますから……」
+display
+com11 0 0
+sound 10054
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「明日からも、よろしくお願いします。
+line2 <shift> # それじゃ、もう遅いから、今日はここで」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うん、それじゃ、おやすみ雪歩」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （雪歩を選んだ、俺の直感を信じよう。
+line2 <shift> # そして、トップアイドルを目指すんだ！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （彼女の歩幅に合わせて、ゆっくり、
+line2 <shift> # それでも着実に……）
+com09 0 99
+display
+location 99
+unk02

@@ -1,0 +1,457 @@
+com2c 0 24
+com2d 0 21
+com32 0 0
+com11 0 0
+sound 10000
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「喜びなさーいっ。今日は感謝デーよ！
+line2 <shift> # にひひっ♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「感謝デー？　どこかのデパートで、
+line2 <shift> # セールでもやるのか？」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「違うわよっ。かわいくて優し〜い伊織ちゃんが、
+line2 <shift> # アンタをねぎらう日を作ってあげたの」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「考えてみたら、父の日とか母の日はあるのに、
+line2 <shift> # プロデューサーの日って、ないじゃない？」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「というわけで今日は、プロデューサー感謝デー
+line2 <shift> # よ！　私の優しさにひれ伏して感謝なさいっ！」
+com03 0 3
+choice1 <shift> # ありがたき幸せ
+line2
+com09 0 10
+com08
+choice2 <shift> # 俺が感謝するのか？
+line2
+com09 0 11
+com08
+choice3 <shift> # 何か企んでないか？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ははーっ！　ありがたき幸せ。
+line2 <shift> # ……って、俺が感謝される側じゃないのか？」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あら、そういえばそうだったわね。ま、いい
+line2 <shift> # じゃない。この後、たっぷり感謝してあげるわ」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「期待しててちょうだいねっ！　にひひっ♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （なんとなく、怖いような気もするけど……）
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「えっ、俺が感謝するのか？　違うよな？
+line2 <shift> # 俺は、伊織に感謝される側なんだよな？」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「当たり前じゃない。そう言ったでしょ？
+line2 <shift> # ちゃんと話、聞いてなさいよーっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも今、感謝しろって言ってたような……」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「むっかー！　なに細かいことチクチク言ってる
+line2 <shift> # のよっ！　いいから黙って感謝されなさい！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （感謝デーなのに、怒られてしまった……）
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「伊織が俺に感謝……。何か企んでないか？
+line2 <shift> # すごく怖い。後が怖い……」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「きぃ〜、どういう意味っ？　この純真な伊織
+line2 <shift> # ちゃんが、何か企んだりするわけないでしょ」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……ま、どうしてもって言うなら、
+line2 <shift> # 企んであげなくもないけど〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、結構です……」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それで、感謝デーって、
+line2 <shift> # 具体的に何をしてくれるんだ？」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そうねえ。実は、いくつかプランがあって、
+line2 <shift> # 正直、どれにするか迷ってるのよ」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ねえ、アンタは、どんな風に感謝されたい？
+line2 <shift> # 今なら、希望を取り入れてあげなくもないわよ」
+display
+com11 0 0
+sound 10012
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「どんな１日を過ごしたら幸せか、
+line2 <shift> # 試しに言ってみなさいよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う〜ん、そうだな。伊織が感謝デーをやって
+line2 <shift> # くれるなら、こんな感じの１日が理想かな……」
+com03 0 3
+choice1 <shift> # ラブラブな感じ
+line2
+com09 0 30
+com08
+choice2 <shift> # ルンルンな感じ
+line2
+com09 0 31
+com08
+choice3 <shift> # ツルピカな感じ
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ラブラブな感じの１日にしてくれたら、
+line2 <shift> # うれしいんだけどなあ」
+display
+com11 0 0
+sound 10013
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「えっ！？　そ、そう。アンタって、私と
+line2 <shift> # ラブラブに過ごせれば、幸せなの……」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「当然といえば当然の答えだけど、今日は、
+line2 <shift> # あくまでもプロデューサー感謝デーだし……」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「わ、悪いけど、それはダメよ。
+line2 <shift> # また、いつか……、ね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか、残念だな。それじゃ、今日は、
+line2 <shift> # どんな１日にしてくれるつもりなんだ？」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ルンルンな感じの１日になれば、
+line2 <shift> # 感謝されてるーって気分に、なると思うよ」
+display
+com11 0 0
+sound 10016
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「楽しく過ごしたいってことね？　アンタらしい、
+line2 <shift> # 普通の答えねー。……でも、わかったわ！」
+display
+com11 0 0
+sound 10017
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「伊織ちゃんに任せなさい！　とっても楽しくて、
+line2 <shift> # 幸せで、忘れられない１日にしてあげるから♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お。それは楽しみだな！　それじゃ、
+line2 <shift> # 具体的には今日、どんなことをするんだ？」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やっぱり、ツルピカな感じの１日だとうれしい
+line2 <shift> # な。……伊織は、いつもツルピカだけどさ」
+display
+com11 0 0
+sound 10018
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ふーん、ツルピカねえ……、って、ちょっと！
+line2 <shift> # それ、どういう意味っ！？」
+display
+com11 0 0
+sound 10019
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「っていうかアンタ、今、明らかに、
+line2 <shift> # 私のおデコの辺り、見てたでしょっ！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「い、いや、そんなことはないぞ？」
+display
+com11 0 0
+sound 10020
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「じゃあ、ツルピカな１日って、どんな１日？
+line2 <shift> # ３秒以内に答えなさい！　３・２・１……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ええ！？　えっと、それはつまり……、かがや
+line2 <shift> # くばかりに楽しい１日とか、そんな感じだよ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ほ、ほら！　３秒以内に答えたぞ！
+line2 <shift> # 別に伊織のおデコの話なんか、してないから！」
+display
+com11 0 0
+sound 10021
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……フン。私のおデコがかわいいからって、
+line2 <shift> # 時々、からかおうとする人、いるのよね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だから、おデコは関係ないって！　で、でさ、
+line2 <shift> # 今日の感謝デーは、どんなことするんだ？」
+com09 0 49
+display
+location 49
+com11 0 0
+sound 10022
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「んー。だから、いくつかプランがあるのよ」
+display
+com11 0 0
+sound 10023
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「一生懸命考えたプランだから、どれもカンペキ
+line2 <shift> # なのよね。どれで行こうかしら。……そうだ！」
+display
+com11 0 0
+sound 10024
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「アンタに選ばせてあげるわ！　３つある
+line2 <shift> # コースのうちの、１つを選んでちょうだい」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、わかったよ。
+line2 <shift> # で、どんなコースがあるんだ？」
+display
+com11 0 0
+sound 10025
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「よしよしコースと、にこにこコースと、
+line2 <shift> # びしばしコースの３つよ。ねえ、どれにする？」
+com03 0 3
+choice1 <shift> # よしよしコース
+line2
+com09 0 50
+com08
+choice2 <shift> # にこにこコース
+line2
+com09 0 51
+com08
+choice3 <shift> # びしばしコース
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ……、『よしよしコース』で頼むよ！」
+display
+com11 0 0
+sound 10026
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あら。良いコースを選んだわね！　よしよし
+line2 <shift> # コースは、私に、あることをしてもらえるのよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「伊織が俺に……？　何をしてくれるんだ？」
+display
+com11 0 0
+sound 10027
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「じゃ、さっそく行くわよ。プロデューサー、
+line2 <shift> # ちょっと近くに来てちょうだい」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、ああ」
+display
+com11 0 0
+sound 10028
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「プロデューサー、いつも私のために頑張ってて、
+line2 <shift> # エライわね。頭なでてあげるわ。よしよし……」
+display
+com11 0 0
+sound 10029
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ど、どうだった？　今日は、アンタがなでて
+line2 <shift> # ほしい時に、いつでも、よしよししてあげるわ」
+display
+com11 0 0
+sound 10030
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「感謝デーだから、仕方なく、やってあげるのよ。
+line2 <shift> # ありがたく思いなさいっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （伊織は恥ずかしそうにしながらも、約束通り、
+line2 <shift> # １日中、いつでも俺の頭をなでてくれた）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （伊織がこんなに優しいの、初めてかもしれない
+line2 <shift> # な……。俺は幸福な気持ちで、１日を過ごした）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それなら……、『にこにこコース』で
+line2 <shift> # 頼むよ！」
+display
+com11 0 0
+sound 10031
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あら。素敵なコースを選んだわね！　にこにこ
+line2 <shift> # コースは、私から、あるものをもらえるのよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「伊織が俺に……？　何をくれるんだ？」
+display
+com11 0 0
+sound 10032
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「世の中の人が、みーんな欲しがる、とーっても
+line2 <shift> # 価値のあるものよ。じゃ、行くわね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ！」
+display
+com11 0 0
+sound 10033
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「にひひっ♪　……はい。おしまい〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え、ちょっと！　ちょっと待ってくれ。
+line2 <shift> # 今のは何……、かな？」
+display
+com11 0 0
+sound 10034
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「何って、伊織ちゃんの１兆億ドルの笑顔に、
+line2 <shift> # 決まってるじゃない！　価値があったでしょ？」
+display
+com11 0 0
+sound 10035
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「今日は、いつでも、アンタのためだけに、
+line2 <shift> # 笑顔になってあげるわ。光栄に思いなさい！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （伊織は言葉通り、その日は何があっても
+line2 <shift> # １日中、ずっと笑顔でいてくれた）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （確かにカワイイし、うれしいんだけど、もう
+line2 <shift> # 少し特別なこと、期待しても良かったのかもな）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だったら……、『びしばしコース』で
+line2 <shift> # 頼むよ！」
+display
+com11 0 0
+sound 10036
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ええっ！　他にもコースがあるのに、
+line2 <shift> # わざわざ、それを選ぶなんて変わってるわね」
+display
+com11 0 0
+sound 10037
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「もしかしてアンタって本当にヘンタイ……。ま、
+line2 <shift> # まあ、いいわ。深く追求しないでおいてあげる」
+display
+com11 0 0
+sound 10038
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「びしばしコースは、１日中、私から、びしばし
+line2 <shift> # 言ってもらえるっていう、ありがたいコースよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ええっ！？　そんなコースだったのか？
+line2 <shift> # それじゃ、いつもと同じじゃないか！」
+display
+com11 0 0
+sound 10039
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「むっかー！　何言ってるのよっ！　いつもは、
+line2 <shift> # 私は、とーってもおしとやかでしょっ！？」
+display
+com11 0 0
+sound 10040
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「それにもし本当にびしばし言われてるとしたら、
+line2 <shift> # それはアンタがダメダメなせいじゃないのっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ……。もう始まってるんだな、
+line2 <shift> # びしばしコース……」
+display
+com11 0 0
+sound 10041
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「まだよ。今からっ！　そんなこともわからない
+line2 <shift> # の？　アンタって、ほんっとダメダメね！！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、約束通り、伊織は１日中、
+line2 <shift> # 俺の悪いところを、びしばし指摘し続けた）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （どこが感謝デーなんだよ……）
+com09 0 69
+display
+location 69
+unk02

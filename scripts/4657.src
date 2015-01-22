@@ -1,0 +1,344 @@
+com2c 0 45
+com2d 0 13
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （この会場で、実力トップクラスのアイドル達が、
+line2 <shift> # 一堂に会した大イベントが行われる）
+display
+com11 0 2
+sound 1000
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「レコード会社主催のこのイベント……、
+line2 <shift> # 何年も前からやっていて、有名ですよね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだね。これに出ることが、アイドルの
+line2 <shift> # ステータスというか……、やっぱり、目標だよ」
+display
+com11 0 2
+sound 1001
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「私も、そう思います。この仕事をする前、
+line2 <shift> # ステージをＴＶで見てて、憧れて……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ここに来るのが、夢だった？」
+display
+com11 0 2
+sound 1002
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい！　そうです。夢でした♪」
+com03 0 2
+choice1 <shift> # 夢をかなえた感想は？
+line2
+com09 0 10
+com08
+choice2 <shift> # もう夢じゃないんだよ
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「夢をかなえた感想は？」
+display
+com11 0 2
+sound 1003
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「うーん、実はまだ、あんまり実感がないって
+line2 <shift> # いうか……、ピンとこないっていうか」
+display
+com11 0 2
+sound 1004
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「客席の広さも、ステージの大きさも、自分が、
+line2 <shift> # ＴＶで見てた時と、ずいぶん違う感じがして」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「気持ちは、わかるよ。ＴＶの向こうから見る
+line2 <shift> # のと、自分がそこに立ってみたのでは違うから」
+display
+com11 0 2
+sound 1005
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そうですね。それでちょっと、
+line2 <shift> # 戸惑いが、あるのかもです……」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もう、夢じゃないんだよ」
+display
+com11 0 2
+sound 1006
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「えっ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「春香は現実に、ここにいる。
+line2 <shift> # ただの夢じゃなくなったんだ」
+display
+com11 0 2
+sound 1007
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あっ……、そうですね。そうですよね！
+line2 <shift> # 私、来たんだ……！」
+display
+com11 0 2
+sound 1008
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「正直、まだあんまり実感がなくて……。
+line2 <shift> # ほんとにイベントに出るの、私？　って思って」
+display
+com11 0 2
+sound 1009
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ひょっとすると、ものすごく大仕掛けな、
+line2 <shift> # ドッキリなんじゃないかって……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ははは、さすがにそれはないよ」
+display
+com11 0 2
+sound 1010
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ほんとに、このステージで歌うんですよね、
+line2 <shift> # 私っ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、そうだよ」
+com09 0 29
+display
+location 29
+com11 0 2
+sound 1011
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「それにしても……、まさか、自分がこの
+line2 <shift> # 大舞台に、ほんとに立てる時が来るなんて」
+display
+com11 0 2
+sound 1012
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「やっぱりなんだか夢みたいで……。ううん、私、
+line2 <shift> # 実は今も、夢を見てるんじゃないかって思って」
+display
+com11 0 2
+sound 1013
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ためしにほっぺをつねって、でも痛くて、
+line2 <shift> # うん、夢なら、覚めないでって思ってて……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ん、春香、どうしたんだ？　何か様子が……」
+display
+com11 0 2
+sound 1014
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「夢なら、いっそこのまま……、ずっと夢の中に、
+line2 <shift> # いようかなぁ……、すぅすぅ、むにゃむにゃ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おい、春香。どうした？」
+com03 0 3
+choice1 <shift> # 寝不足か？
+com09 0 30
+com08
+choice2 <shift> # こらこら、戻って来い
+line2
+com09 0 31
+com08
+choice3 <shift> # 気合いが足りないぞ！
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「こら！　起きろ！
+line2 <shift> # もしかして寝不足なのか、春香？」
+display
+com11 0 2
+sound 1015
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「……はっ！
+line2 <shift> # あ……、わ、わわわわ、私、寝てました？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「本番前に立ったまま寝ちゃうなんて、
+line2 <shift> # 結構、キモがすわってるなぁ、春香」
+display
+com11 0 2
+sound 1016
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「え？　えっ？　あ、あ、いえ、あ、私は、
+line2 <shift> # その……、恥ずかしいなぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もしかして、今日のステージを思って、
+line2 <shift> # 緊張して、昨日は、よく眠れなかったのかな？」
+display
+com11 0 2
+sound 1017
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、はい……、そうです。
+line2 <shift> # すみません。えへへっ♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ははは。立ち寝できるくらいリラックスしてる
+line2 <shift> # なら、本番も、きっと大丈夫だろうね」
+display
+com11 0 2
+sound 1018
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい！　ああ、スポットが、まぶしい……。
+line2 <shift> # もうきちんと目が覚めました。大丈夫です！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「頼むぞ。しっかり歌ってきてくれ！」
+display
+com11 0 2
+sound 1019
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい！　まかせて下さい！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よし！　春香は、気合いじゅうぶん。
+line2 <shift> # 余裕を持って、ステージに臨めそうだ）
+com09 0 99
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「こらこら、春香、戻って来い！」
+display
+com11 0 2
+sound 1020
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「むにゃ……、もう食べられませんよぉ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「夢の世界に行くんじゃないっ」
+display
+com11 0 2
+sound 1021
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ダメですよぉ、プロデューサーさんそんな……。
+line2 <shift> # 私、仕事なんですからぁ……、むにゃむにゃ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「春香、いい加減に起きろってば！
+line2 <shift> # こうなりゃ、思いっ切りゆさぶってやる」
+display
+com11 0 2
+sound 1032
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「……わあっ！？　プロデューサーさん！
+line2 <shift> # 大変です、じ、地震がっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さて……、目が覚めたか、春香」
+display
+com11 0 2
+sound 1023
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「え？　えっ！？　こ、ここはどこ？
+line2 <shift> # 私は……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「寝ぼけてる場合じゃないぞ。そろそろ本番だ」
+display
+com11 0 2
+sound 1024
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ふぁ……、はーい。いけない……、
+line2 <shift> # 昨日ちゃんと寝ておけばよかったなぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だ、大丈夫か？」
+display
+com11 0 2
+sound 1025
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「へ、平気です！　まかせて下さい！
+line2 <shift> # がんばってきますぅ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （春香は、寝ぼけまなこのまま、ステージに
+line2 <shift> # 出て行った。歌の出来が、少々心配だな……）
+com09 0 99
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「こら！　春香！　気合いが足りないぞ！
+line2 <shift> # 本番前に眠っちゃうなんて、何ごとだ！」
+display
+com11 0 2
+sound 1026
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ふぅ……、ぐぅぐぅ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……って、きいてないし」
+display
+com11 0 2
+sound 1027
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「上に参りま〜す……、むにゃむにゃ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「はははっ。まぁ、おおかた昨日緊張して、
+line2 <shift> # 眠れなかった、とかだろうけど」
+display
+com11 0 2
+sound 1028
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「むにゃ……、酸っぱいものが、
+line2 <shift> # たまには食べたいですぅ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「しかし、立ったまま寝言とは、
+line2 <shift> # 案外器用なんだな。面白いなぁ……」
+display
+com11 0 2
+sound 1029
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「むにゃむ……、はっ！！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おっ！　いきなりお目覚めか、春香」
+display
+com11 0 2
+sound 1030
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「わ、わわわわ、私、もしかして今寝てました？
+line2 <shift> # 寝てました？　立ったまま寝てました？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もしかしなくても寝てたぞ。
+line2 <shift> # そろそろ出番だから、起きてくれ」
+display
+com11 0 2
+sound 1033
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「わあっ！　す、すみませんっ！
+line2 <shift> # すぐ行ってきますっ！！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あっ、ちょっと待てって……」
+display <shift> # どんがらがっしゃーん！！
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あわててステージに飛び出して行った春香は、
+line2 <shift> # 案の定、派手に転んで大失態を演じた）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （やれやれ、俺も笑って見てないで、
+line2 <shift> # すぐに起こしてやれば、よかったかなぁ……）
+com09 0 99
+display
+location 99
+unk02

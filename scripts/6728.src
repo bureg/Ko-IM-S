@@ -1,0 +1,290 @@
+com2c 0 119
+com2d 0 11
+com2e 0 111
+com32 0 0
+com11 0 0
+sound 0
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「プロデューサーさん。私達の約束の舞台……、
+line2 <shift> # ＩＵのステージに、今日、立てるんですね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。やっと、ここまで来たな、春香！
+line2 <shift> # でも、ここがゴールじゃないぞ」
+display
+com11 0 0
+sound 1
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「はい、わかってます。ゴールは、ＩＵ優勝！
+line2 <shift> # トップアイドルの座、ですよねっ？」
+display
+com11 0 0
+sound 2
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「私、絶対、優勝したいですっ！
+line2 <shift> # プロデューサーさんと、一緒に！」
+display
+com11 0 0
+sound 3
+com4c 0 2
+name 0 0 <names:3>  # ???
+line1 <shift> # 「悪いけど、それはムリ！　今回のＩＵには、
+line2 <shift> # 実力ダントツの優勝候補がいるって評判だぞ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「世間でウワサになってる、実力ダントツの
+line2 <shift> # ＩＵ優勝候補か。それは……、響だな？」
+display
+com11 0 0
+sound 4
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「当ったりーっ！　ウワサの優勝候補、
+line2 <shift> # 我那覇響、参上〜！　……なーんてねっ！」
+display
+com11 0 0
+sound 5
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「響ちゃん、ものすごく余裕ありますね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「むう。悔しいが、さすが優勝候補、
+line2 <shift> # といったところか」
+display
+com11 0 0
+sound 6
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「でもね、最初の頃は、『自分、カンペキだから、
+line2 <shift> # ＩＵも楽勝！』とか、思ってたんだけど……」
+display
+com11 0 0
+sound 7
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「春香見てるうちに、そんなに楽勝ってわけには、
+line2 <shift> # いかないかなって思えてきたんだ」
+display
+com11 0 0
+sound 8
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「７６５プロも、ここまで勝ちあがるだけあって、
+line2 <shift> # ただの変態事務所じゃないみたいだねっ！」
+display
+com11 0 0
+sound 9
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「響ちゃん！　７６５プロの悪いウワサ、
+line2 <shift> # やっと誤解だって、わかってくれたんだね！」
+display
+com11 0 0
+sound 10
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「あー、でも！　完全に信用したわけじゃない
+line2 <shift> # ぞ？　春香のことは自分のライバルだって……」
+display
+com11 0 0
+sound 11
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「認めてやらなくもないけど、７６５プロの他の
+line2 <shift> # ヤツは、やっぱり変態かもしれないもんね！」
+com03 0 3
+choice1 <shift> # それでもいいよ
+line2
+com09 0 10
+com08
+choice2 <shift> # そんなことないよ
+line2
+com09 0 11
+com08
+choice3 <shift> # そうかもしれないな
+line2
+com09 0 12
+com08
+com07
+com09 0 22
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それでもいいよ！」
+display
+com11 0 0
+sound 12
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ええっ。あんまり良くないですよぉ。
+line2 <shift> # 完全には、誤解が解けてないんですから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「春香のこと、認めてくれただけでも、
+line2 <shift> # 進歩じゃないか。今は、それだけでもいいよ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ＩＵで春香が優勝すれば、７６５プロのやり方
+line2 <shift> # の正しさが証明される。残りの誤解も解けるさ」
+display
+com11 0 0
+sound 13
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あ、そうですねっ！　私が勝てば、響ちゃんも、
+line2 <shift> # ７６５プロを認めないわけには、いかないし！」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなことないよ。……たぶん」
+display
+com11 0 0
+sound 14
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ぷ、プロデューサーさんっ！　どうしてそこで、
+line2 <shift> # 『たぶん』なんて、付け加えるんですかっ！？」
+display
+com11 0 0
+sound 15
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そういう言い方すると、なんだかやましいこと
+line2 <shift> # があるみたいで、かえってアヤシイですよぉ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「す、すまん。俺も７６５プロの人間全員の全て
+line2 <shift> # を知ってるわけじゃないから、自信がなくてな」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、ＩＵで春香が優勝すれば、
+line2 <shift> # 少なくとも……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「７６５プロが、アイドル育成を真面目にやって
+line2 <shift> # いる事務所だってことは、証明できるぞ！」
+display
+com11 0 0
+sound 16
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「むう、なるほどー！　そしたら、
+line2 <shift> # 響ちゃんの誤解も、完全に解けますねっ！」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうかもしれないな」
+display
+com11 0 0
+sound 17
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ちょ、ちょっとプロデューサーさん。冗談言っ
+line2 <shift> # てないで、ちゃんと違うって言って下さい！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……」
+display
+com11 0 0
+sound 18
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「え？　ち、違い……、ますよね？　それとも、
+line2 <shift> # ７６５プロに変態さん、本当にいるんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、いないとは思うけど、世の中に完全と
+line2 <shift> # いうことはないから、断言はできないよな」
+display
+com11 0 0
+sound 19
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「むう。そんな理屈っぽいこと言ってないで、
+line2 <shift> # いないなら、いないって言って下さいっ！」
+display
+com11 0 0
+sound 20
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そうじゃないと、私まで不安になるじゃない
+line2 <shift> # ですかぁ。大事な番組の前なのに……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あああ、ごめんごめん！　７６５プロがまじめ
+line2 <shift> # にアイドル育成に取り組んでいることは……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「春香がＩＵに優勝すれば、証明されるはずだ！
+line2 <shift> # 見てろよ、響っ！」
+display
+com11 0 0
+sound 21
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「うう……。すごくプレッシャーかけられた気分。
+line2 <shift> # でも、勝って証明するからね、響ちゃんっ！」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 22
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「あっははは！　なんか勝手な相談してるみたい
+line2 <shift> # だけど、そうは上手くいかないと思うぞ！」
+display
+com11 0 0
+sound 23
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「だって、勝つのは自分だから。言っておくけど、
+line2 <shift> # これからは自分、本気出すぞっ！？」
+display
+com11 0 0
+sound 24
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「ライバルと認めた相手には、
+line2 <shift> # ちゃんと、実力、ぜーんぶ出して戦うっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「くっ……。今までは、手加減してたって、
+line2 <shift> # 言いたいのか？」
+display
+com11 0 0
+sound 25
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「今までも、
+line2 <shift> # じゅうぶんスゴかったと思うけど……」
+display
+com11 0 0
+sound 26
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「ＩＵ本選での自分は、今までとは違うよ。」
+display
+com11 0 0
+sound 27
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「わ、私だって、正々堂々と戦って、
+line2 <shift> # そして、響ちゃんに勝ってみせるっ！」
+display
+com11 0 0
+sound 28
+com4c 0 3
+name 0 0 <names:5>  # Haruka's voice
+line1 <shift> # 「負けないからねっ！！」
+com09 0 99
+display
+location 99
+unk02

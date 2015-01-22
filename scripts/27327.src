@@ -1,0 +1,280 @@
+com2c 0 92
+com2d 0 41
+com32 0 0
+com11 0 2
+sound 1000
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「いよいよ、ここでライブですね。数々の栄光に
+line2 <shift> # いろどられた、伝説のホール……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。これで歴代のスターと、肩を
+line2 <shift> # 並べることになったわけだ」
+display
+com11 0 2
+sound 1001
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「私……、わたし……、震えが止まりません」
+com03 0 3
+choice1 <shift> # うれしくて、か？
+line2
+com09 0 10
+com08
+choice2 <shift> # 武者震いか？
+line2
+com09 0 11
+com08
+choice3 <shift> # こわいのか？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うれしくて、か？」
+display
+com11 0 2
+sound 1002
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はい。ここは、ひとつの目標でした。
+line2 <shift> # 立つ時は、きっとこわいだろうと……」
+display
+com11 0 2
+sound 1003
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「けど、こわさより、うれしさの方が、はるかに
+line2 <shift> # 強くて……。鼓動が、おさまりません」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「武者震いか？」
+display
+com11 0 2
+sound 1004
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「奮い立つものはありますけど……この震えは、
+line2 <shift> # 別のところから、きていると思います」
+display
+com11 0 2
+sound 1005
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「私、うれしいんです。こうして立っている
+line2 <shift> # だけで、気持ちが高鳴って……」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「こわいのか？」
+display
+com11 0 2
+sound 1006
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「いえ、恐れは、ほとんどありません。多分、
+line2 <shift> # 逆の気持ちにかき消されているんだと思います」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、じゃあ、うれしくて震えてるのか？」
+display
+com11 0 2
+sound 1007
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はい。ここは、ひとつの目標でした。立つ時は、
+line2 <shift> # 怖いだろうと思ってたんですけど、意外に……」
+com09 0 29
+display
+location 29
+com11 0 2
+sound 1008
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「この場所で、ライブをすることは……多分、
+line2 <shift> # 一つの儀式ですね」
+display
+com11 0 2
+sound 1009
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ここを通過して、より高く飛び立つことで、
+line2 <shift> # 理想の自分に近づける。そんな気がします」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「理想の自分、か……。それは……」
+com03 0 3
+choice1 <shift> # 人としての？
+line2
+com09 0 30
+com08
+choice2 <shift> # アイドルとしての？
+line2
+com09 0 31
+com08
+choice3 <shift> # 歌手としての？
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「人としての？」
+display
+com11 0 2
+sound 1010
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はい。どんなことがあっても、いつも自信を
+line2 <shift> # 持って笑っていられる……そんな私に」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「アイドルとしての？」
+com09 0 91
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「歌手としての？」
+com09 0 91
+display
+location 91
+com11 0 2
+sound 1011
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「それも、もちろんあります。けど、もう
+line2 <shift> # ひとつの意味の方が、大きいかもしれません」
+display
+com11 0 2
+sound 1012
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「どんなことがあっても、自信を持って笑って
+line2 <shift> # いられる……そんな、強い自分にって」
+com09 0 49
+display
+location 49
+com11 0 2
+sound 1013
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「いきましょう、プロデューサー。たくさんの
+line2 <shift> # ファンが、待ってます」
+display
+com11 0 2
+sound 1014
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ここでライブをやる以上は、見に来てくれた
+line2 <shift> # 人の心に、たしかな足跡、刻みたいですね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだな。ファンの記憶に残る証を……」
+display
+com11 0 2
+sound 1015
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「私、今の気持ちなら、何曲だって歌えそうです。
+line2 <shift> # ……ライブの最長不倒記録、挑んでみても？」
+com03 0 3
+choice1 <shift> # いや、普通にやろう
+line2
+com09 0 50
+com08
+choice2 <shift> # よし、それでいこう
+line2
+com09 0 51
+com08
+choice3 <shift> # いや、記念品をくばろう
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 3
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、普通にやろう。千早は平気でも、客が
+line2 <shift> # 持たないかもしれない」
+display
+com11 0 2
+sound 1016
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あ……たしかに。長いほど、いいなんて、
+line2 <shift> # こっちのエゴかもしれませんね」
+display
+com11 0 2
+sound 1017
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「わかりました。記録よりも記憶に残るライブを
+line2 <shift> # めざします。色あせない感動を、全員に……！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （身体から、オーラが立ちのぼっている。
+line2 <shift> # これは間違いなく、伝説級のライブになるな！）
+com09 0 69
+display
+location 51
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、それでいこう」
+display
+com11 0 2
+sound 1018
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「賛成してくれますか？　なら、会場への通知と
+line2 <shift> # 手配、お願いします！　私、必ず、金字塔を！」
+display
+com22 0 30
+com21 0 30
+com11 0 2
+sound 1019
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はぁ、はぁ、４時間１２分……。文句ナシに
+line2 <shift> # 最長でしたね。けど、観客には、疲れてた人も」
+display
+com11 0 2
+sound 1020
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「記録には残ったと思います。でも、楽しい
+line2 <shift> # 記憶として、残るかどうかは……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うーん、望むままに、走らせすぎたか？
+line2 <shift> # ま、それでも、千早のすごさは存分に示せた）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、記念品をくばろう。
+line2 <shift> # その方が、たしかな証として、残るだろ？」
+display
+com11 0 2
+sound 1021
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「記念……品？　まあ、そういうのを手渡すのも、
+line2 <shift> # いいかもしれませんね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ、決まりだ。なにがいいかな？
+line2 <shift> # ボールペンとか、紅白まんじゅうとか……」
+display
+com11 0 2
+sound 1022
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あの……プロデューサー、わかってますか？
+line2 <shift> # ライブ、もうすぐはじまるんですけど……」
+display
+com11 0 2
+sound 1023
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「なにも準備してないとしたら、今からじゃ、
+line2 <shift> # 間に合いませんよね。１万個以上なんて」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （あ、そうか！　こんな提案、実現できるわけが
+line2 <shift> # ない。とんだ恥を、さらしてしまった……）
+com09 0 69
+display
+location 69
+unk02

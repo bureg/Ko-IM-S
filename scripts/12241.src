@@ -1,0 +1,176 @@
+com2c 0 118
+com2d 0 21
+com32 0 0
+location 0
+com11 0 6
+sound 18000
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ふぅ、今日のコンサート、ホントに最高のデキ
+line2 <shift> # だったわね。持ってる力、全部、出し切れたし」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだな。会場は小さかったけど、
+line2 <shift> # ライブそのものは、とてもよかったと思う」
+com38 0 1
+com1e 0 0
+com09 0 10
+com3b
+com37 0 0
+com1e 0 0
+com09 0 11
+com3b
+display
+location 10
+com11 0 6
+sound 18001
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「でも、あのライブハウスは、さすがに、
+line2 <shift> # 小さすぎなんじゃない？　勇気がないのねー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う、そうかもな。今の人気と、今日の調子なら、
+line2 <shift> # もっと大きな会場でも、イケた気がする」
+com09 0 19
+display
+location 11
+com11 0 6
+sound 18002
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「歌い終わって、ジーンときちゃったわ。数は
+line2 <shift> # 少ないけど、ホントにやさしいファン達よね」
+com09 0 19
+display
+location 19
+com11 0 6
+sound 18003
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「アンタ、この間、言ってたわよね？　『今の
+line2 <shift> # ままじゃ、これ以上の成功は望めない』って」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、言ったけど？」
+display
+com11 0 6
+sound 18004
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「それ、当たってると思うわ。多分、今日以上の
+line2 <shift> # ステージをやるのは、このままじゃ、ムリ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「伊織、それじゃあ……」
+display
+com11 0 6
+sound 18005
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「決めたわっ！　アンタの言う通り、
+line2 <shift> # ここで、いったんオシマイにする！」
+display
+com11 0 6
+sound 18006
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「って言っても、アイドルやめる気は、全然ない
+line2 <shift> # けど！　アンタと別れて、再出発してみるわ！」
+display
+com1c 0 3
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、前向きになってくれたんだな。
+line2 <shift> # そう思ってくれるんなら、なによりだ！」
+display
+com11 0 6
+sound 18007
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「だいたい、あんな汚い会場が、私の終点だ
+line2 <shift> # なんて、どう考えても、納得いかないし！」
+display
+com11 0 6
+sound 18008
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……思い出したら、だんだんムカムカしてき
+line2 <shift> # た！　カベも、床も、ホコリだらけで。くぅ〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、落ち着けよ」
+display
+com11 0 6
+sound 18009
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「アンタ！　あんなサイテーの場所で、
+line2 <shift> # 私の芸歴に、トドメ刺す気だったワケ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「今さら、そんなこと言われても……」
+display
+com11 0 6
+sound 18010
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「まあ、そうね。過ぎたことウダウダ言ってるヒ
+line2 <shift> # マがあるなら、次の準備しなきゃ。……じゃ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おいおい、そう、急いで帰ろうとするなよ。
+line2 <shift> # あ、そうだ。せめて、お別れの記念に……」
+com03 0 3
+choice1 <shift> # これまでの健闘を、たたえあおう
+line2
+com09 0 20
+com08
+choice2 <shift> # 握手でも、しよう
+line2
+com09 0 21
+com08
+choice3 <shift> # 写真でも、撮ろう
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「これまでの健闘を、たたえあおう」
+display
+com11 0 6
+sound 18011
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「やーよ。そんな、たるいコトするの。
+line2 <shift> # じゃ、ばいばーい！」
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「握手でも、しよう」
+display
+com11 0 6
+sound 18012
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「やーよ。そんなことしたって、
+line2 <shift> # 楽しくもなんともないし。じゃ、ばいばーい！」
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「写真でも、撮ろう」
+display
+com11 0 6
+sound 18013
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「やーよ。今さら、アンタとの２ショットなんて、
+line2 <shift> # 撮っても意味ないし。じゃ、ばいばーい！」
+com09 0 29
+display
+location 29
+com4a 0 0
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、おいっ、こら！」
+display
+location 100 129 92 129 92 130 177 130 164 130 181 130 196 129 65 137 180 130 170 136 231 130 196 130 189 131 143 131 75 131 125 131 125 150 186 130 205 129 65
+line2 <shift> # サバサバした表情で、去っていった。
+display
+location 101 138 180 147 174 130 204 131 74 131 80 131 137 130 224 130 200 130 162 129 65 130 160 130 193 130 179 130 232 130 198 130 181 130 189 149 202 130 234 129 66 137 180 130 205 129 65
+line2 <shift> # ただ、その場に、ぼう然と立ち尽くすのみ……。
+display
+location 102 129 119 130 177 130 204 130 222 130 200 130 181 130 179 130 205 129 65 141 161 140 227 130 204 151 198 130 201 130 181 130 196 130 162 130 177 130 164 129 120
+line2 <shift> # そう誓いながら、伊織の背を見送った。
+display
+unk02

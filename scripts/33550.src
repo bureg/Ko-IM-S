@@ -1,0 +1,288 @@
+com2c 0 24
+com2d 0 61
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「先日の取材、記事になったよ。
+line2 <shift> # さっき見本誌が届いた、ほら」
+display
+com11 0 4
+sound 500
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あっ、ちょっとそれ、見せてください。
+line2 <shift> # えと、どのページかな……、あ、あった」
+display
+com11 0 4
+sound 501
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ふむ……。うーん……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうした、そんなに黙るほど見入っちゃって」
+display
+com11 0 4
+sound 502
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ、いえ……、ううっ」
+com03 0 2
+choice1 <shift> # そんなに嬉しいのか
+line2
+com09 0 10
+com08
+choice2 <shift> # 不満かな？
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなに嬉しいのか」
+display
+com11 0 4
+sound 503
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「は、はい、小さいけど、すごくいい記事で。
+line2 <shift> # なんか、もう……」
+display
+com11 0 4
+sound 504
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「なんて言ったらいいのか、私、
+line2 <shift> # うまく言葉が出なくて」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ははは……そうかぁ」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もしかして不満かな？　その記事」
+display
+com11 0 4
+sound 505
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「い、いえ、そんなことはっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まぁ、できたばかりのマイナー誌だし、
+line2 <shift> # 扱い小さいし」
+display
+com11 0 4
+sound 506
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そんな、載せてもらえただけでも……。
+line2 <shift> # 記事も、丁寧だし……」
+display
+com11 0 4
+sound 507
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「その、私、嬉しくて。なんて言ったら
+line2 <shift> # いいのか、わからないくらいで」
+com09 0 29
+display
+location 29
+com11 0 4
+sound 508
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「この見本誌、もらってもいいですか？
+line2 <shift> # あの、記念にしたくてっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、何冊か届いてるし、かまわないよ。
+line2 <shift> # でもまだ発売前だ、あまり人に見せたりは……」
+display
+com11 0 4
+sound 509
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「えっ、そうなんですか！
+line2 <shift> # ざ、残念ですぅ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「雪歩、誰かに見せたかったのかな？
+line2 <shift> # その雑誌……」
+com03 0 3
+choice1 <shift> # やっぱり、友達に？
+line2
+com09 0 30
+com08
+choice2 <shift> # やっぱり、両親に？
+line2
+com09 0 31
+com08
+choice3 <shift> # でも一応規則だから
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やっぱり、友達に？」
+display
+com11 0 4
+sound 510
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「は、はい。こんな私がアイドルしてるなんて、
+line2 <shift> # いまだに信じない人も、いますし」
+display
+com11 0 4
+sound 511
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「でも、私のこと知ってて
+line2 <shift> # 応援してくれてる子も、いるし……」
+display
+com11 0 4
+sound 512
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「だからつまりそのっ、両方に、
+line2 <shift> # 見せたいんですっ」
+display
+com11 0 4
+sound 513
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「だ、ダメでしょうか？　なんとか、
+line2 <shift> # 記事だけでも、見せたいんです……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そっかそっか、わかった。それなら内緒で
+line2 <shift> # 見せてもいいぞ？　あくまで内緒に、ね」
+display
+com11 0 4
+sound 514
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「わかりました！　そうだ、発売前なので……、
+line2 <shift> # このページのコピー、持っていくことにします」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、そうするといい。コピーだからと信じ
+line2 <shift> # ない奴がいても、本誌を見たらきっと驚くぞ」
+display
+com11 0 4
+sound 515
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい！　ちょっと、楽しみですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （雪歩は、いたずらっぽく目を輝かせている。
+line2 <shift> # ルール違反だが、まぁ、たまにはいいよな……）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やっぱり、両親に？」
+display
+com11 0 4
+sound 516
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ええっ！　えっと……、はい。
+line2 <shift> # お母さんには、見せたいです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お母さんにだけ？」
+display
+com11 0 4
+sound 517
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい、お母さん、私がこないだ
+line2 <shift> # 取材受けたこと話したら、随分喜んでくれて」
+display
+com11 0 4
+sound 518
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「記事になるの、楽しみに
+line2 <shift> # してくれているので……」
+display
+com11 0 4
+sound 519
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ああっでも、お父さんにこの雑誌
+line2 <shift> # 見られたら、破かれちゃうかも……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうなのか！？
+line2 <shift> # むむっ……、大変だな」
+display
+com11 0 4
+sound 520
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ああ、見つかったらどうしよう。
+line2 <shift> # どうしよう、きっと大目玉だ。……ううっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だ、大丈夫だって！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （雪歩はちょっと涙目になっているけど、記事を
+line2 <shift> # お母さんと一緒に楽しんでくれるといいなぁ）
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、気持ちはわかるけど、でも一応、
+line2 <shift> # 規則というか、出版社との約束だから」
+display
+com11 0 4
+sound 521
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そうですかぁ、そうですね。発売まで内緒に
+line2 <shift> # してることも、雑誌には載ってるんですよね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうなんだ。だから、悪いけど……、これから
+line2 <shift> # もそういう仕事の決めごと、覚えていこうな」
+display
+com11 0 4
+sound 522
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「は、はい……。私、知らなくて、
+line2 <shift> # はしゃいで、すみません……、ぐすっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ま、まぁ、発売日になれば、みんなも
+line2 <shift> # 雑誌読めるわけだし、いいじゃないか」
+display
+com11 0 4
+sound 523
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ううっ、そうなんですけどぉ。言いたくて、
+line2 <shift> # 記事になったことは言いたくて」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それは誰かに言ってもかまわないよ」
+display
+com11 0 4
+sound 524
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「で、でもっ、記事を見せないと、
+line2 <shift> # 信じてもらえないかも……、ううっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん……、それはやっぱり、あとで雑誌を
+line2 <shift> # 見てくれとしか言いようがないが……」
+display
+com11 0 4
+sound 525
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「言いたいな、こんな記事なんだよ、って、
+line2 <shift> # みんなに、言っちゃいたいな。……ぐすっ」
+display
+com11 0 4
+sound 526
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「仕事で内緒にしなきゃいけないことが、
+line2 <shift> # 増えるのって、けっこう、つらいですよね……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （仕方のないこととはいえ、
+line2 <shift> # 雪歩はかなり残念な様子だ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （それに、俺がいろいろ言ったせいで、余計に
+line2 <shift> # 落ち込ませちゃったかもしれないな……）
+com09 0 49
+display
+location 49
+unk02

@@ -1,0 +1,747 @@
+com2c 0 119
+com2c 0 105
+com2c 0 4
+com2d 0 63
+com2e 0 121
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ふう、四条貴音は別のオーディションだった
+line2 <shift> # みたいだ。ラッキーというべきかな）
+display
+com11 0 0
+sound 10000
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「うう、ぷ、プロデューサー……！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おめでとう、雪歩！　よく頑張ったな」
+display
+com11 0 0
+sound 10001
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ぐすん、わ、私なんかが、
+line2 <shift> # 合格できちゃうなんて……。うう、これも……」
+display
+com11 0 0
+sound 10002
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「きっと、プロデューサーのおかげですね。
+line2 <shift> # ありがとうございます！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え？　俺？　まあ、そういう風に言って
+line2 <shift> # もらえると、プロデューサーとしては嬉しいな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、合格したのは、雪歩の実力だよ。
+line2 <shift> # 自信を持っていいぞ！」
+display
+com11 0 0
+sound 10003
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そうですか……？　プロデューサーが、
+line2 <shift> # そう言ってくれるなら、私……」
+display
+com11 0 0
+sound 10004
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ほんのわずかに、ちょっぴりだけ小さな自信が、
+line2 <shift> # 持てそうな気がします……！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……なんだかえらく小さそうな自信だな。
+line2 <shift> # この調子じゃ、次の予選も苦労しそうだ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだ。あとは、四条貴音に感謝しないとな。
+line2 <shift> # 彼女がいなかったら、今頃……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「雪歩、泣いて事務所に帰ってたかも
+line2 <shift> # しれないもんな」
+display
+com11 0 0
+sound 10005
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「は、はい！　だから、あの……、
+line2 <shift> # 私、その……、うう、なんでもないです……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうしたんだ、雪歩？　……ははあ。
+line2 <shift> # なるほど、さては……」
+com03 0 3
+choice1 <shift> # 貴音にお礼を言いたい
+line2
+com09 0 10
+com08
+choice2 <shift> # 合格祝いが欲しい
+line2
+com09 0 11
+com08
+choice3 <shift> # トイレに行きたい
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「貴音にお礼を言いたいんだろ？
+line2 <shift> # さっきはそんなヒマ、なかったもんな」
+display
+com11 0 0
+sound 10006
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ぷ、プロデューサー、どうして、
+line2 <shift> # わかったんですか！？　……すごいです！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……まあな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あの話の流れなら、
+line2 <shift> # 誰でもわかりそうな気がするけど）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、俺もしっかりとお礼を言えなかったから、
+line2 <shift> # 貴音を探してみるか」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「合格祝いに何か欲しいのか？
+line2 <shift> # まあ、確かに雪歩は、頑張ったもんな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、俺に任せとけ！
+line2 <shift> # ……財布の都合で豪勢なのは無理だけどな」
+display
+com11 0 0
+sound 10007
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そ、そんな！　私、お祝いとか、
+line2 <shift> # 別に、いりません！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか？　合格祝いじゃないとすると……。
+line2 <shift> # もしかして、貴音にお礼が言いたいとか？」
+display
+com11 0 0
+sound 10008
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「は、はい……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか。俺もしっかりとお礼を言えなかった
+line2 <shift> # しな。よし、貴音を探してみるか」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「確かにトイレに行きたいなんて、
+line2 <shift> # 言いにくいよなぁ。口ごもるのも無理はない」
+display
+com11 0 0
+sound 10009
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「えっ？　あ、あの……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でもな、ガマンしすぎるのは体に良くないぞ？
+line2 <shift> # アイドルは体調管理も、重要な仕事なんだ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だから、行きたい時は、素直に言ってくれ。
+line2 <shift> # 大丈夫、俺は全然、気にしないから！」
+display
+com11 0 0
+sound 10010
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あうう、あの、プロデューサー、
+line2 <shift> # そうじゃなくて……、恥ずかしいですぅ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え？　違ったのか？
+line2 <shift> # もじもじしてるから、てっきり……」
+display
+com11 0 0
+sound 10011
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「私……、その、四条さんに、
+line2 <shift> # さっきのお礼がしたいなって、少し思って……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか。俺もしっかりとお礼を言えなかった
+line2 <shift> # からなあ。よし、貴音を探してみるか」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10012
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あの、プロデューサー、でも、やっぱり……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うん？　どうしたんだ？」
+display
+com11 0 0
+sound 10013
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「私なんかが、会いに行ったら、
+line2 <shift> # もしかして迷惑をかけちゃうかも……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなこと、あるわけないだろ？
+line2 <shift> # それじゃ、俺は、一回りしてくるから……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「雪歩は、ここで待っておくんだ。
+line2 <shift> # じっくりと、何を話すか考えていればいいよ」
+display
+com11 0 0
+sound 10014
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ええっ？　でも……、私、何を、
+line2 <shift> # 話せばいいのか、さっぱり……！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いいからいいから。
+line2 <shift> # 俺も、ちょっと話したいことがあるしさ」
+display
+com22 0 30
+com21 0 30
+com32 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ふぅ、どこにもいないなあ。
+line2 <shift> # やっぱり、もう帰っちゃったかな……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ん？　なんだ、あっちの人だかりは……？
+line2 <shift> # 大物スターでも来てるのかな？）
+display
+name 0 5 <names:3>  # Reporter
+line1 <shift> # 「貴音ちゃ〜ん、
+line2 <shift> # 目線こっちにもらえませんか〜！？」
+display
+name 0 5 <names:3>  # Reporter
+line1 <shift> # 「貴音ちゃん、ＣＤが連続で、
+line2 <shift> # ランキング入りしたことについて、一言！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ええっ！？　これ、貴音の取材なのか？
+line2 <shift> # 新人なのに、すごい注目度だな……）
+display
+com11 0 0
+sound 10015
+com4c 0 2
+name 0 0 <names:4>  # Takane
+line1 <shift> # 「記者の皆様、申し訳ございませんが、
+line2 <shift> # そろそろ時間のようですので……」
+display
+name 0 5 <names:3>  # Reporter
+line1 <shift> # 「最後に、何か一言、お願いします！」
+display
+com11 0 0
+sound 10016
+com4c 0 2
+name 0 0 <names:4>  # Takane
+line1 <shift> # 「……では、最後に一言、申しておきます。
+line2 <shift> # 私は無礼な振る舞いが、好きではありません」
+display
+com11 0 0
+sound 10017
+com4c 0 2
+name 0 0 <names:4>  # Takane
+line1 <shift> # 「終わりといえば、終わりなのです！
+line2 <shift> # すぐに立ち去りなさい！」
+display
+name 0 5 <names:3>  # Reporter
+line1 <shift> # 「は、はい〜〜！！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ひえ〜〜！　思った以上に、
+line2 <shift> # 王女さま、やってるんだな……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （声、かけても大丈夫だろうか……？）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、あの〜、もしもし？」
+display
+com11 0 0
+sound 10018
+com4c 0 2
+name 0 0 <names:4>  # Takane
+line1 <shift> # 「……？　まだいたのですか？
+line2 <shift> # すでに予定の時間は大幅に……！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うわ？　ち、違うよ、俺は記者じゃなくて、
+line2 <shift> # プロデューサーで……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ほら、さっき、うちのアイドルを、
+line2 <shift> # 助けてくれただろ？　礼を言おうと思って」
+display
+com11 0 0
+sound 10019
+com4c 0 2
+name 0 0 <names:4>  # Takane
+line1 <shift> # 「……そうでしたか。それは失礼を。
+line2 <shift> # 確かに、あなたの顔はどこかで……」
+display
+com11 0 0
+sound 10020
+com4c 0 2
+name 0 0 <names:4>  # Takane
+line1 <shift> # 「……はっ！？
+line2 <shift> # あ、あなた様は……、もしや……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うん？　もしかして、
+line2 <shift> # 思い出してくれたのかな？」
+display
+com11 0 0
+sound 10021
+com4c 0 2
+name 0 0 <names:4>  # Takane
+line1 <shift> # 「やはり、あの夜にお逢いした……！」
+display
+com11 0 0
+sound 10022
+com4c 0 2
+name 0 0 <names:4>  # Takane
+line1 <shift> # 「ろうぜき者を成敗した時は、少々頭に血が上っ
+line2 <shift> # ておりましたので、気づきませんでした……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いやまあ、俺も人違いなのかなって、
+line2 <shift> # ちょっと思ったよ。ずいぶん雰囲気違うし……」
+display
+com11 0 0
+sound 10023
+com4c 0 2
+name 0 0 <names:4>  # Takane
+line1 <shift> # 「あ、あの、初めてお逢いした時の私は……」
+display
+com11 0 0
+sound 10024
+com4c 0 2
+name 0 0 <names:4>  # Takane
+line1 <shift> # 「少し事情がございまして、いつもの私とは
+line2 <shift> # 言えぬ状態でありましたがゆえに……」
+display
+com11 0 0
+sound 10025
+com4c 0 2
+name 0 0 <names:4>  # Takane
+line1 <shift> # 「あの、くれぐれもご内密に願います。
+line2 <shift> # よろしいでしょうか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え？　ああ、うん」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （やっぱり、泣いてたことは秘密にしたいのかな。
+line2 <shift> # 元から、言う気なんかないけど……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それより、本当にありがとう。貴音の
+line2 <shift> # おかげで、ＩＵの予選にも勝つことができたよ」
+display
+com11 0 0
+sound 10026
+com4c 0 2
+name 0 0 <names:4>  # Takane
+line1 <shift> # 「それは、良かったですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「貴音はＩＵの予選、勝ったのかい？」
+display
+com11 0 0
+sound 10027
+com4c 0 2
+name 0 0 <names:4>  # Takane
+line1 <shift> # 「はい。私は、先週、予選を通っております」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さすがだな！　……って、そうだ。実はさ、
+line2 <shift> # うちのアイドルが君に礼を言いたいそうなんだ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「助けてもらった時は、ろくにお礼も、
+line2 <shift> # 言えなかったし」
+display
+com11 0 0
+sound 10028
+com4c 0 2
+name 0 0 <names:4>  # Takane
+line1 <shift> # 「礼を言われるほどのこと、私は、
+line2 <shift> # しておりません」
+display
+com11 0 0
+sound 10029
+com4c 0 2
+name 0 0 <names:4>  # Takane
+line1 <shift> # 「困っている者がいれば、助けるのは、
+line2 <shift> # 当然のことです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、それはそうかもしれないけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （まいったな。
+line2 <shift> # どうしたら、来てくれるだろう……？）
+display
+com11 0 0
+sound 10030
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「きゃああああ！！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え？　もしかして、今の声は雪歩！？」
+display
+com11 0 0
+sound 10031
+com4c 0 2
+name 0 0 <names:4>  # Takane
+line1 <shift> # 「……何やら、ただならぬ叫び声。
+line2 <shift> # 参りましょう」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （くっ。まさか、また雪歩のヤツ、
+line2 <shift> # 怪しいヤツに囲まれてるんじゃ……！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……急がないと！）
+display
+com22 0 30
+com21 0 30
+com32 0 2
+com11 0 0
+sound 10032
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ、あううう……」
+display
+name 0 2 <names:5>  # Dog
+line1 <shift> # 「わんわんわん！」
+display
+com11 0 0
+sound 10033
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ひゃああああ！！」
+display
+name 0 2 <names:5>  # Dog
+line1 <shift> # 「わんわん♪　わんわん♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「雪歩〜〜！　大丈夫か！？　俺が……！
+line2 <shift> # ん？　何だこりゃ？」
+display
+com11 0 0
+sound 10034
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ああ、プロデューサ〜！
+line2 <shift> # あの、い、い、犬が〜〜！」
+display
+name 0 2 <names:5>  # Dog
+line1 <shift> # 「わんわん！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うう、どう見ても子犬なのに。
+line2 <shift> # 本当に犬が苦手なんだな……）
+display
+com11 0 0
+sound 10035
+com4c 0 2
+name 0 0 <names:4>  # Takane
+line1 <shift> # 「これ、そこの犬。この方が怖がっているでしょ
+line2 <shift> # う？　さあ、自分の主のもとへ、お帰りなさい」
+display
+name 0 2 <names:5>  # Dog
+line1 <shift> # 「わん！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （貴音の言うとおり帰っていった。もしかして、
+line2 <shift> # 貴音は犬と話せるとか？　……まさかな）
+display
+com11 0 0
+sound 10036
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はう、こ、怖かったです〜」
+display
+com11 0 0
+sound 10037
+com4c 0 2
+name 0 0 <names:4>  # Takane
+line1 <shift> # 「そんなに怖がらなくとも良いのですよ？
+line2 <shift> # あの者は遊んで欲しいと、言っていただけです」
+display
+com11 0 0
+sound 10038
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「え……？　う、うわあ！　四条さん！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、そういえば、結局、貴音にも、
+line2 <shift> # 来てもらうことになっちゃったな」
+display
+com11 0 0
+sound 10039
+com4c 0 2
+name 0 0 <names:4>  # Takane
+line1 <shift> # 「悲鳴をきけば、駆けつける他、ありませんから。
+line2 <shift> # ……まずは無事で、なによりです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ほら、雪歩。早く、お礼を言わないと」
+display
+com11 0 0
+sound 10040
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ、あ、あの……、私」
+display
+com11 0 0
+sound 10041
+com4c 0 2
+name 0 0 <names:4>  # Takane
+line1 <shift> # 「何やら、あなたが私に礼を言いたいと、
+line2 <shift> # 伺いましたが……」
+display
+com11 0 0
+sound 10042
+com4c 0 2
+name 0 0 <names:4>  # Takane
+line1 <shift> # 「そのような気遣いは、無用です。
+line2 <shift> # 困っている者がいれば、助けるのは当然です」
+display
+com11 0 0
+sound 10043
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あう、でも、私、とっても嬉しくって……」
+display
+com11 0 0
+sound 10044
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「男の人にも、犬にも堂々としてて……。
+line2 <shift> # 私、四条さんのこと尊敬します！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「雪歩？　なんだか、話がそれてないか？」
+display
+com11 0 0
+sound 10045
+com4c 0 2
+name 0 0 <names:4>  # Takane
+line1 <shift> # 「それは、ありがたいのですが……。
+line2 <shift> # あなたも、もう少し強くなるべきなのでは？」
+display
+com11 0 0
+sound 10046
+com4c 0 2
+name 0 0 <names:4>  # Takane
+line1 <shift> # 「先程の犬など、恐れるべき対象では、
+line2 <shift> # ない気もいたします」
+display
+com11 0 0
+sound 10047
+com4c 0 2
+name 0 0 <names:4>  # Takane
+line1 <shift> # 「あなたもＩＵ予選を勝たれたアイドルならば、
+line2 <shift> # 堂々とされた方が良いかと思いますよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うん……。恐ろしいほど正論だな）
+display
+com11 0 0
+sound 10048
+com4c 0 2
+name 0 0 <names:4>  # Takane
+line1 <shift> # 「では、次の仕事がございますので、
+line2 <shift> # 私は、これで。ごきげんよう」
+display
+com11 0 0
+sound 10049
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「……四条さん」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、格好いいなあ、貴音は。
+line2 <shift> # 俺までファンになっちゃいそうだ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「しかし、雪歩、結局、お礼を言ったっけ？」
+display
+com11 0 0
+sound 10050
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あうっ、そういえば、
+line2 <shift> # 何も言えてないかもです……」
+display
+com11 0 0
+sound 10051
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「それに私、四条さんに、
+line2 <shift> # 自分の名前も言ってないです……」
+display
+com11 0 0
+sound 10052
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ううっ……。
+line2 <shift> # やっぱり、私って、全然ダメダメですぅ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん。まあ……」
+com03 0 3
+choice1 <shift> # 少しずつ頑張ればいいさ
+line2
+com09 0 20
+com08
+choice2 <shift> # あまりおしゃべりでも困る
+line2
+com09 0 21
+com08
+choice3 <shift> # よし、話す特訓しよう！
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「少しずつ、頑張ればいいさ。
+line2 <shift> # 話したければ、また話す機会はある」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「何せ、今日はＩＵに合格したんだからな！
+line2 <shift> # 貴音には、次の予選で会えばいい！」
+display
+com11 0 0
+sound 10053
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「よ、予選ですか？　うう、はい」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あまりおしゃべりでも困るから。
+line2 <shift> # 貴音は、９６１プロのライバルなんだぞ？」
+display
+com11 0 0
+sound 10054
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「でも……、せめて、もう少しくらいは、
+line2 <shift> # 話せるようになりたいですぅ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「確かに、俺も、雪歩が何か口ごもるのを、
+line2 <shift> # いちいち解読するのは面倒だけど……」
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、特訓しよう！　今日の帰り道、
+line2 <shift> # 雪歩は町行く人に声をかけまくるんだ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「度胸がつけば、次に貴音に出会った時、
+line2 <shift> # 気弱な自分にサヨナラできるぞ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「その後は、大金は拾うわ、モテモテだわで、
+line2 <shift> # もう何でもアリになるぞ、雪歩！？」
+display
+com11 0 0
+sound 10055
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あの、本当ですかぁ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……いや、途中からは、俺も何が何だか、
+line2 <shift> # よくわかってない。正直言って」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まあ、とにかく次のことは次のことだ。
+line2 <shift> # 今日はＩＵに勝ったことを喜ぶんだ！」
+display
+com11 0 0
+sound 10056
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「……はい！　今日は喜ぶことにします！」
+display
+com11 0 0
+sound 10057
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そして、次も私、四条さんを見習って、
+line2 <shift> # ＩＵ頑張ろうと思います……」
+display
+com11 0 0
+sound 10058
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「強くなれば、私も、四条さんみたいに……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （お、どうやら貴音と話したことが、
+line2 <shift> # 雪歩には、いい刺激になったみたいだな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （これでもう、ＩＵから逃げ出したりは、
+line2 <shift> # しなくなるだろう！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （これからも、このいい関係が続けば、
+line2 <shift> # いいんだけどな……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さて、それじゃあ事務所に戻るか。
+line2 <shift> # 社長が報告を待ってるぞ」
+display
+com11 0 0
+sound 10059
+com4c 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「えへへ、はいっ！」
+com09 0 99
+display
+location 99
+unk02

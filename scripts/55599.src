@@ -1,0 +1,391 @@
+com2c 0 112
+com2c 0 113
+com2d 0 131
+com32 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （起きたばかりなのに、
+line2 <shift> # なんだか疲れているなあ……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （こんな時は、出社する前に寄り道して、
+line2 <shift> # 気分転換しようかな？）
+com03 0 2
+choice1 <shift> # どこかに寄り道する
+line2
+com09 0 10
+com08
+choice2 <shift> # まっすぐ事務所に行く
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+com22 0 30
+com21 0 30
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よし、それじゃあ、海に行こう。
+line2 <shift> # こういう心のゆとりって、大事だよな！）
+display
+com11 0 0
+sound 10000
+com4c 0 1
+name 0 0 <names:2>  # ???
+line1 <shift> # 「くぅ……、すぅ……。あ、キャラメルマキアー
+line2 <shift> # トが、川になってる、やったー……、むにゃ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「こんな所で寝ているのは……」
+display
+com11 0 0
+sound 10001
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「くぅ……、すぅ……。飲み放題なの……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「美希以外にいないよな、どう考えても。
+line2 <shift> # こら、美希！　起きなさい！」
+display
+com11 0 0
+sound 10002
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「……あふぅ。あ、プロデューサー！
+line2 <shift> # プロデューサーも、海辺でお昼寝しに来たの？」
+display
+com11 0 0
+sound 10003
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ミキの隣、空いてるよ？
+line2 <shift> # ねえねえ、二人で手つないで、寝よっか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あのなあ……。まだ朝だぞ、昼寝には早いだろ。
+line2 <shift> # 俺は海を見て、いやされようと思って来たんだ」
+display
+com11 0 0
+sound 10004
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ふーん。いやされたいなら、
+line2 <shift> # 寝るのが、一番だって思うけどな」
+display
+com11 0 0
+sound 10005
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「あ、でも、好きな人とお話するのも、結構いや
+line2 <shift> # されるよね。ねえねえ、ミキとお話、しよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （高木社長から、美希を７６５プロに、
+line2 <shift> # 連れ戻すよう言われているから……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （話をしつつ、うまく説得のチャンスを、
+line2 <shift> # 見つけないとな。何の話をしようか……）
+com03 0 3
+choice1 <shift> # いつもそんなに寝てるのか？
+line2
+com09 0 20
+com08
+choice2 <shift> # 元気か？
+com09 0 21
+com08
+choice3 <shift> # 黒井社長は元気か？
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （いや、やめておこう！　仕事をすることが、
+line2 <shift> # １番の気分転換だ。さ、事務所へ行こうっ！）
+com09 0 99
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なあ、美希。
+line2 <shift> # 美希は、いつもそんなに寝てるのか？」
+display
+com11 0 0
+sound 10006
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「うん。寝るのは好きなの。
+line2 <shift> # でも、どこででも寝てるわけじゃないよ？」
+display
+com11 0 0
+sound 10007
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ちゃんと、キレイなソファとかベンチとか、
+line2 <shift> # 寝やすい所を選んで寝てるの」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「しかし、結構、色んな所で寝てるよな。
+line2 <shift> # 俺と偶然会った時は、俺が起こしてるけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうじゃない時は、誰が起こしてくれるんだ？
+line2 <shift> # 俺と出会う前とか、どうしていたんだよ？」
+display
+com11 0 0
+sound 10008
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「プロデューサーと出会う前は、高木社長が起こ
+line2 <shift> # してくれてたよ。前は社長も良い人だったから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今だって、良い人だと思うけど」
+display
+com11 0 0
+sound 10009
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ううん、今は違うの。ミキ、きいたんだよ。
+line2 <shift> # 高木社長が毎日、叫んでるってこと」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なあ、美希。元気か？」
+display
+com11 0 0
+sound 10010
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「うん。元気なの！　ミキのこと、
+line2 <shift> # 気にしてくれてるんだね。うれしいな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺だけじゃない、７６５プロのアイドル達も、
+line2 <shift> # 高木社長も、皆、美希のこと気にしてるぞ」
+display
+com11 0 0
+sound 10011
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「高木社長も！？　それはウソなの！　だって、
+line2 <shift> # 高木社長、毎日、叫んでるってきいたよ」
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なあ、美希。黒井社長は元気か？」
+display
+com11 0 0
+sound 10012
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「むー。せっかくミキと話してるのに、黒井社長
+line2 <shift> # の話？　ミキのこと、きいて欲しかったな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ご、ごめん。でも、気になったからさ。
+line2 <shift> # 教えてくれよ」
+display
+com11 0 0
+sound 10013
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「黒井社長、元気だよ。この前も、話したの。
+line2 <shift> # あ、そうだ！　高木社長の話、きいたよ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「高木社長の話？」
+display
+com11 0 0
+sound 10014
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「毎日、ものすごい大声で叫んでるんでしょ？」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 10015
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「７６５プロの事務所の窓から『美希君の母ちゃ
+line2 <shift> # ん、出ベソー！』って。ミキがキライなんだね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええっ！　そんな幼稚園児みたいな悪口、社長
+line2 <shift> # が言うわけないだろ。誰がそんなデマを！？」
+display
+com11 0 0
+sound 10016
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「黒井社長が言ってたの。他にも『美希君の、
+line2 <shift> # オタンコナスー！』とか色々言ってるって……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （言ってるわけ、ないじゃないか。
+line2 <shift> # わかりやすくダマされてるなあ……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなの、ウソばっかりだぞ。黒井社長って、
+line2 <shift> # いつも、そんなデタラメ言ってるのか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まさか美希、そういうデタラメを信じてるから、
+line2 <shift> # ７６５プロに戻ってこないのか？」
+display
+com11 0 0
+sound 10017
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「デタラメかどうかは、わかんないって思うな。
+line2 <shift> # ……もうやめよ、この話。なんか暗くなるし」
+display
+com11 0 0
+sound 10018
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ここからは、ミキの好きなものの話をするの。
+line2 <shift> # はいっ、ここで、ミキクイズ〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「な、なんだよ、いきなり」
+display
+com11 0 0
+sound 10019
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「いいから、いいから。では、次のうち、
+line2 <shift> # ミキが１番好きなものは、どれでしょう？」
+com03 0 3
+choice1 <shift> # おにぎり
+com09 0 30
+com08
+choice2 <shift> # キャラメルマキアート
+line2
+com09 0 31
+com08
+choice3 <shift> # いちごババロア
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、おにぎりか？」
+display
+com11 0 0
+sound 10020
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ピンポーン！　大正解なのっ！　すごいね、
+line2 <shift> # プロデューサー！　ミキのことよく知ってるの」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おっ。正解か！　なんとなくうれしいもんだな。
+line2 <shift> # あはは……」
+com09 0 39
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やっぱり、キャラメルマキアート、だろ？」
+display
+com11 0 0
+sound 10021
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ブブーっ、惜しいかも！　ミキ、キャラメル
+line2 <shift> # マキアートも大好きだけど、１番じゃないの」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか……。残念だなあ」
+com09 0 38
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「この中なら……、いちごババロア？」
+display
+com11 0 0
+sound 10022
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「そうそう！　おいしいよね！
+line2 <shift> # ミキ、いちごババロアは、大好きなの！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おっ！　じゃあ、正解か！？」
+display
+com11 0 0
+sound 10023
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ブブーっ、でも１番じゃないので、
+line2 <shift> # ハズレなの。残念でした！」
+com09 0 38
+display
+location 38
+com11 0 0
+sound 10024
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「正解は、おにぎりでした！」
+com09 0 39
+display
+location 39
+com11 0 0
+sound 10025
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ミキね、おいしいおにぎりが大好きなの。
+line2 <shift> # 三度のご飯より、おにぎりが好きってカンジ☆」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （本当に好きなんだな。目がキラキラしてるぞ）
+display
+com11 0 0
+sound 10026
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「でも、それなのに……、あの日……、
+line2 <shift> # ミキを突然の不幸が、おそったの……」
+display
+com11 0 0
+sound 10027
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「……うう。悲しいこと、思い出しちゃった。
+line2 <shift> # 許さない！　ミキ、ゼッタイに許せないのっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え。どうしたんだ、美希？
+line2 <shift> # さっきまで機嫌よく話してたのに……」
+display
+com11 0 0
+sound 10028
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「……やっぱミキ、７６５プロには、
+line2 <shift> # ゼッタイ戻らないっ！　じゃあね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、おい、美希！　……なんで急に怒り出した
+line2 <shift> # んだろう？　さっぱりわからないぞ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （説得失敗か。まあ、あせっても、
+line2 <shift> # 仕方ないけど……）
+com09 0 99
+display
+location 99
+unk02

@@ -1,0 +1,260 @@
+com2c 0 18
+com2d 0 53
+com32 0 0
+com11 0 1
+sound 800
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「番組リハーサル、まもなく開始ですね。
+line2 <shift> # 準備体操も、すみましたし、いつでもいけます」
+display
+com11 0 1
+sound 801
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「アメリカ・ディスコミュージックのメドレー
+line2 <shift> # なんて、すごい企画ですよね。がんばらないと」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「すみません。持ち歌じゃない上に、
+line2 <shift> # 全部アップテンポで、しかも英語だなんて」
+display
+com11 0 1
+sound 802
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「なんとかなると思います。発音のむずかしい
+line2 <shift> # ところも、しっかり練習しましたし」
+com03 0 2
+choice1 <shift> # 英語、しゃべれましたっけ？
+line2
+com09 0 10
+com08
+choice2 <shift> # 英語、カンペキでしたっけ？
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「英語、しゃべれましたっけ？」
+display
+com11 0 1
+sound 803
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「実は片言ぐらいしか……。けれど歌詞通りに発
+line2 <shift> # 音するなら、耳コピーでもじゅうぶんいけます」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「英語、カンペキでしたっけ？」
+display
+com11 0 1
+sound 804
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「か、カンペキどころではないです。読み書きは、
+line2 <shift> # できませんし、普通の会話も、全然……」
+display
+com11 0 1
+sound 805
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「でも歌詞通りに発音するだけなら耳コピーでも、
+line2 <shift> # じゅうぶんいけます。そんなに心配はないかと」
+com09 0 29
+display
+location 29
+com11 0 1
+sound 806
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「これも、積み重ねの成果ですね。こんなことま
+line2 <shift> # でできてしまうなんて、自分でもビックリです」
+display
+com11 0 1
+sound 807
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「んー、どうせならダンスもオールド・アメリカ
+line2 <shift> # 風にアレンジした方が、いいですよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そこまで、徹底するんですか？　体力的
+line2 <shift> # にも、きついだろうし、あまり無理は……」
+display
+com11 0 1
+sound 808
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「大丈夫です。力の抜きどころを間違えなければ、
+line2 <shift> # バテることは。……すこし、ずるいですけれど」
+com03 0 3
+choice1 <shift> # それも、テクですよ
+line2
+com09 0 30
+com08
+choice2 <shift> # それこそ、テクですよ
+line2
+com09 0 31
+com08
+choice3 <shift> # まあ、ズルかも
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それも、テクですよ」
+display
+com11 0 1
+sound 809
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ヘンに気にすることは、ないでしょうか？
+line2 <shift> # 見苦しいダンスをするよりは、いいですよね」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それこそ、テクですよ」
+display
+com11 0 1
+sound 810
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、ありがとうございます。私もそうは思って
+line2 <shift> # いるのですけれど、完全には、ふっきれなくて」
+display
+com11 0 1
+sound 811
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あまりラクをしようとすると、成長しなくなっ
+line2 <shift> # てしまいますから。頼るのは、最低限に……」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、ズルかも」
+com09 0 99
+display
+com11 0 1
+sound 812
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「で、でも、見た目でわかるような休み方は、
+line2 <shift> # しませんよ？　ですから、今回は大目に……」
+display
+location 99
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、バレないんなら、ズルでもないか。
+line2 <shift> # ま、まあ、任せます」
+display
+com11 0 1
+sound 813
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ありがとうございます。力の加減を考えながら、
+line2 <shift> # ベストに近いものを、めざしますね」
+com09 0 49
+display
+location 49
+com11 0 1
+sound 814
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あと重要なのは、フィニッシュのアクションか
+line2 <shift> # しら。んー、古いアメリカっぽく決めるにはー」
+com03 0 3
+choice1 <shift> # やっぱり、ウインクでしょう
+line2
+com09 0 50
+com08
+choice2 <shift> # やっぱり、セクシーポーズでしょう
+line2
+com09 0 51
+com08
+choice3 <shift> # やっぱり、スカートひらりでしょう
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 2
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やっぱり、ウインクでしょう」
+display
+com11 0 1
+sound 815
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ふふっ、わかりました。
+line2 <shift> # では、カメラに向かって、パチっと！」
+display
+com11 0 1
+sound 816
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「アメリカ、ここはアメリカ……。うんっ、
+line2 <shift> # このイメージでっ。見ていて下さいね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、あずささんは、最高のダンスを披露。
+line2 <shift> # 最後のウインクで歓声が爆発。すごい物を見た）
+com09 0 69
+display
+location 51
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やっぱり、セクシーポーズでしょう」
+display
+com11 0 1
+sound 817
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「せ、せくしー？？？　こう、両手を、頭の
+line2 <shift> # 後ろにまわしてアピール……、でしょうか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「往年の映画スターみたいで、
+line2 <shift> # カッコいいと思いますよ。どうです？」
+display
+com11 0 1
+sound 818
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「恥ずかしいですけど、やってみます。せっかく
+line2 <shift> # なら、なりきった方がいいですよねっ。では」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ダンス後、あずささんは真っ赤になりながら、
+line2 <shift> # ポーズ。悪くはないけど、ぎこちなかった）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やっぱり、スカートひらりでしょう」
+display
+com11 0 1
+sound 819
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「え、自分でめくるんですか？
+line2 <shift> # そ、そ、それは、かなりの思い切りが……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、コスチュームの下、下着ってわけでは、
+line2 <shift> # ないですよね？　だったら問題は……」
+display
+com11 0 1
+sound 820
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「それはそうですけれど、こう、気分的に、
+line2 <shift> # た、ためらいが……」
+display
+com11 0 1
+sound 821
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はあ〜、わかりました。ハデな演出も、
+line2 <shift> # 大切ですよね。では……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ダンス後、あずささんはスカートに手をかけた
+line2 <shift> # まま、固まってしまった。無茶な提案だったか）
+com09 0 69
+display
+location 69
+unk02

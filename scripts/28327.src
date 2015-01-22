@@ -1,0 +1,300 @@
+com2c 0 47
+com2d 0 41
+com32 0 0
+com11 0 5
+sound 700
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「これから、地方へ遠征ですね。
+line2 <shift> # 移動には、どのくらい？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ざっと２時間くらいかな。出発したら、
+line2 <shift> # 着くまで、ヒマだろうから……えっと」
+com03 0 3
+choice1 <shift> # ノンビリする？
+line2
+com09 0 10
+com08
+choice2 <shift> # ゲームでもする？
+line2
+com09 0 11
+com08
+choice3 <shift> # みんなで歌合戦でもする？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ノンビリする？」
+display
+com11 0 5
+sound 701
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はい。せっかくですから、イメージ・
+line2 <shift> # トレーニングの時間に当てます」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ゲームでもする？」
+display
+com11 0 5
+sound 702
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……あまり、遊ぶのは、好きでは。
+line2 <shift> # イメージ・トレーニングの時間にしても？」
+com09 0 91
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「みんなで歌合戦でもする？」
+display
+com11 0 5
+sound 703
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「仕事前に、ノドを使うのはよくないんじゃ……。
+line2 <shift> # イメージ・トレーニングの時間にしても？」
+com09 0 91
+display
+location 91
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もちろん、かまわないよ。
+line2 <shift> # 千早が、それがいいっていうんなら」
+com09 0 29
+display
+location 29
+com11 0 5
+sound 704
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「じつは、歌いながら、地方を回るのって、
+line2 <shift> # あこがれていて……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「イナカまわりの方が、いいのか？」
+display
+com11 0 5
+sound 705
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「いえ。ただ、見知らぬ人に、歌だけで認められ
+line2 <shift> # るって、本当の力がないと、できませんし」
+display
+com11 0 5
+sound 706
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「自分と、歌と。いつか、それだけで生きて
+line2 <shift> # いける歌手になれたらって」
+com03 0 3
+choice1 <shift> # それじゃ、俺が困る
+line2
+com09 0 30
+com08
+choice2 <shift> # ストイックだな
+line2
+com09 0 31
+com08
+choice3 <shift> # さびしい考え方だな
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それじゃ、俺が困る。用済みじゃないか」
+display
+com11 0 5
+sound 707
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あっ……すみません。そういう意味では。
+line2 <shift> # まだ遠い先の話ですから、助力は必要です」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ストイックだな」
+display
+com11 0 5
+sound 708
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そんな、大げさなものでも。これ、
+line2 <shift> # たとえ話なので、放浪したいわけでは……」
+display
+com11 0 5
+sound 709
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ただ、それくらいの力がほしいです。
+line2 <shift> # でないと、私、きっと……」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「さびしい考え方だな」
+display
+com11 0 5
+sound 710
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……そうでしょうか？　私、そのぐらい真剣に。
+line2 <shift> # さびしいって言われてしまうと、悲しいです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺や、他の人と仕事するのは、きらい？」
+display
+com11 0 5
+sound 711
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……いえ。でも、一生いっしょに
+line2 <shift> # いられないのも、たしかですよね」
+com09 0 49
+display
+location 49
+com11 0 5
+sound 712
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はぁ…………学校、辞めた方がいいかも」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「えっ！？　お、おい、突然、なにを」
+display
+com11 0 5
+sound 713
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「意味が感じられなくて。目標にたどり着くため
+line2 <shift> # には、すべてを、歌にささげて……」
+display
+com11 0 5
+sound 714
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「おかしな考えでは、ないですよね？
+line2 <shift> # 寄り道したって、いい事はないって思うんです」
+com03 0 3
+choice1 <shift> # この話は、今はやめよう
+line2
+com09 0 50
+com08
+choice2 <shift> # 寄り道だって、大切だよ？
+line2
+com09 0 51
+com08
+choice3 <shift> # なにが寄り道かは、わからないよ
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 3
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「この話は、今はやめよう。向こうに着いて
+line2 <shift> # から、そんな顔で歌ってほしくないし」
+display
+com11 0 5
+sound 715
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサー、でも……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺に相談するってことは、自分でも、
+line2 <shift> # 結論は出てないってことだろ？」
+display
+com11 0 5
+sound 716
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はい……。どうしたらいいか、考えてます。
+line2 <shift> # まだ整理がついてなくて」
+display
+com11 0 5
+sound 717
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そうですね。とりあえず、忘れます。
+line2 <shift> # 答えは、いずれ自分で」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （決然とした顔で、前を見ている。
+line2 <shift> # ヘンな暗さは、表情から完全に消えたようだ）
+com09 0 69
+display
+location 51
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「寄り道だって、大切だよ？」
+display
+com11 0 5
+sound 718
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「どうしてでしょう？　そう言い切れる理由が、
+line2 <shift> # 私の中にはなくて……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まだ知らないことだって、たくさんあるだろ？
+line2 <shift> # それが、歌の役に立たないと、言い切れる？」
+display
+com11 0 5
+sound 719
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「言い切れ、ません。けど、役に立たないことが、
+line2 <shift> # たくさんあるのも……きっと、本当」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う……それは、まあな。どっちも一長一短か」
+display
+com11 0 5
+sound 720
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あ、バス、走り出して……。この話は、もう
+line2 <shift> # すこし、ゆっくり考えてみます」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （あいまいな表情のまま、窓の外へ顔を向けて
+line2 <shift> # しまった。助言、すこしは役に立ったか？）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なにが寄り道かは、わからないよ」
+display
+com11 0 5
+sound 721
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「もしかしたら、歌の方が、寄り道かもしれ
+line2 <shift> # ない？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そう思う日が、やがて来るかも」
+display
+com11 0 5
+sound 722
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……ありえません。私、そんな気持ちで、
+line2 <shift> # この世界に入ってきたわけじゃないです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「十年たっても、二十年たっても、
+line2 <shift> # 変わらないって、言い切れる？」
+display
+com11 0 5
+sound 723
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……はい。歌だけは、ずっと私といっしょに
+line2 <shift> # いてくれます」
+display
+com11 0 5
+sound 724
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「たとえ……いつかプロデューサーが、
+line2 <shift> # 私のこと、見放してしまったとしても」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （思いつめた顔をしている。軽くいさめるつもり
+line2 <shift> # が、とんだところへ踏み込んでしまった）
+com09 0 69
+display
+location 69
+unk02

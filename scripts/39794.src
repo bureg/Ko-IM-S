@@ -1,0 +1,292 @@
+com2c 0 26
+com2d 0 73
+com32 0 0
+com11 0 5
+sound 300
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「うわぁ、な〜んか小さい舞台……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「小さくとも、いい舞台じゃないか。
+line2 <shift> # ほら、空も青いし、ライブ日和だぞ」
+display
+com11 0 5
+sound 301
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「はい、空気が青くていい天気ですねぇ♪」
+display
+com11 0 5
+sound 302
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「……って、それはおいといて。
+line2 <shift> # 確かに、日和は悪くないけど……」
+display
+com11 0 5
+sound 303
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「客席のキャパは低いわ、スピーカーの音は、
+line2 <shift> # 散るわで……。なんだか、やりにくそうな予感」
+com03 0 2
+choice1 <shift> # そう言うな
+com09 0 10
+com08
+choice2 <shift> # それはそうだが
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そう言うな。時間いっぱい、好きに歌えるん
+line2 <shift> # だし、きっと注目もされるさ。いいじゃないか」
+display
+com11 0 5
+sound 304
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「う〜ん……、まあ、そうですね。
+line2 <shift> # せっかくの単独ライブではあるし……」
+display
+com11 0 5
+sound 305
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「普段と違うお客さんにアピールする、
+line2 <shift> # チャンスと思うことにしますかぁ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうそう、プラス思考だ」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それはそうだが、しかし……」
+display
+com11 0 5
+sound 306
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「しかし？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いまさらだ、言ってどうなるもんじゃない。
+line2 <shift> # 与えられた環境で、ベストを尽くすしかないさ」
+display
+com11 0 5
+sound 307
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「よ〜し上等だ。受けて立とうじゃないですか。
+line2 <shift> # せっかくのステージだし、思い切りやりましょ」
+display
+com11 0 5
+sound 308
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「一応、単独ライブだし、いつもと違う
+line2 <shift> # 客層も期待できると思えば、チャンスかな？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうそう、プラス思考だ」
+com09 0 29
+display
+location 29
+com11 0 5
+sound 309
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「もっとも、屋上という立地のマイナーさは、
+line2 <shift> # ちょっと泣けるかもしれないんですけど……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、それは、まぁ……。
+line2 <shift> # だが、せっかくの機会だ。活かさないと」
+display
+com11 0 5
+sound 310
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「いっそ、今回は練習と割り切って、
+line2 <shift> # 気楽に行こうかなぁ……」
+display
+com11 0 5
+sound 311
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「適当に、今後の大舞台の予行のつもりで、
+line2 <shift> # やってみますよ。どうです？」
+com03 0 3
+choice1 <shift> # ああ、気楽に行け
+line2
+com09 0 30
+com08
+choice2 <shift> # いや、油断するな
+line2
+com09 0 31
+com08
+choice3 <shift> # 割り切りすぎるなよ？
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、気楽に行け。リラックスだ。
+line2 <shift> # まずは、舞台に立つことに慣れればいい」
+display
+com11 0 5
+sound 312
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「了解です。あんまり力まずに、
+line2 <shift> # 肩の力抜いて、楽にね」
+display
+com11 0 5
+sound 313
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「この舞台なら、お客の反応も、よく見えるから、
+line2 <shift> # いろいろ試すのにも、バッチリよさげだし」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「しかし、仮にも本番だぞ？
+line2 <shift> # それは忘れないように。失礼のないようにな」
+display
+com11 0 5
+sound 314
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「わかってますって。
+line2 <shift> # 私もプロです、まかせてください」
+display
+com11 0 5
+sound 315
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「大丈夫、さくっと歌ってきますよ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （そして本番……。不慣れな屋外ステージ、
+line2 <shift> # 反応の予測できない客層だったけれど……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （律子は余裕を持って、ベストで挑めたみたいだ。
+line2 <shift> # 評判も上々だぞ。今後にも期待ができそうだ！）
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、油断するな。小さいマイナーな
+line2 <shift> # ステージと思って手を抜くと、痛い目に合うぞ」
+display
+com11 0 5
+sound 316
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「痛い目〜？　まさかぁ。
+line2 <shift> # うっ。で、でも、もしかしたら……」
+display
+com11 0 5
+sound 317
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「マニアックな観客が、どこからか、
+line2 <shift> # 目を光らせているかもしれないし……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それに、小さい子やお年寄りもいるし。
+line2 <shift> # 彼らは一番、素直な反応をするお客さんだぞ？」
+display
+com11 0 5
+sound 318
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「むむ、そう言われると……、確かに」
+display
+com11 0 5
+sound 319
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「率直な感想を、態度で示しそうな……。手を
+line2 <shift> # 抜けば、すぐ客席を立ってしまいそうな……」
+display
+com11 0 5
+sound 320
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そういう、普通のお客さん相手となれば、
+line2 <shift> # なおさら、うかつなことは、できないですねっ」
+display
+com11 0 5
+sound 321
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「よ、よし。ここは普段以上に、
+line2 <shift> # 気を引き締めて、かかろうっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （緊張の面持ちで、律子はステージに上がったが、
+line2 <shift> # いつもよりも、動きにぎこちなさが目立った）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ライブの評判も、いまいちだったし……。俺が、
+line2 <shift> # もっと律子の緊張をほぐしてやれていればなぁ）
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「割り切りすぎるなよ？」
+display
+com11 0 5
+sound 322
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「どうして？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、ステージの大小で、
+line2 <shift> # 出し物の力の入れ具合を変えるというのは……」
+display
+com11 0 5
+sound 323
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「よろしくない？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よくはないだろう、手抜きになったら」
+display
+com11 0 5
+sound 324
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「う〜ん、どうなんだろう。
+line2 <shift> # 一理ある気もするけど……。でも……」
+display
+com11 0 5
+sound 325
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「いつも、がむしゃら全力ってやつだと、
+line2 <shift> # 肝心なときに、力が出ないこともあるし……」
+display
+com11 0 5
+sound 326
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「それに、ステージの規模に合わせた、お客さん
+line2 <shift> # との向き合い方ってのも、あるんじゃない？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「むむ、それはあるかも……。
+line2 <shift> # いや、だからこそ、割り切りすぎるな、と……」
+display
+com11 0 5
+sound 327
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「わかってますって。
+line2 <shift> # 大丈夫、大丈夫。私もプロなんですから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、しかし、その……」
+display
+com11 0 5
+sound 328
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「やれやれ……。ま、いいか。
+line2 <shift> # 見ててください、私のやり方」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （律子は俺に苦笑しつつ、ステージに向かった。
+line2 <shift> # どうやら、呆れられてしまったようだ……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （だが、緊張してしまったのか、律子はうまく力
+line2 <shift> # を出せなかった。任せたのは失敗だったか……）
+com09 0 49
+display
+location 49
+unk02

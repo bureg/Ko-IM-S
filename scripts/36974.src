@@ -1,0 +1,232 @@
+com2d 0 71
+location 0
+com11 0 0
+sound 10000
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「おはようございます。あー、寝グセ！　そんな
+line2 <shift> # 身だしなみじゃ、プロデューサー失格ですよ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、悪い。気づかなかったよ。さすがに、
+line2 <shift> # このままじゃ、マズいかな。えーと……」
+com03 0 3
+choice1 <shift> # 律子、直してくれる？　
+line2
+com09 0 10
+com08
+choice2 <shift> # 後で、自分で直すよ　
+line2
+com09 0 11
+com08
+choice3 <shift> # ……放っておけば、元に戻るか　
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「律子、直してくれる？」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「言われなくても、そうするつもりです。
+line2 <shift> # 放っておいたら、私の責任問題ですから」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「さ、ちゃっちゃと直して、早速、レッスンに
+line2 <shift> # 移りましょ。今日もよろしく！」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「後で、自分で直すよ」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「今すぐ、直して下さい！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「怒るなって。わかったよ。ササっと……。
+line2 <shift> # ……これで、いいだろ？」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「まだちょっと跳ねてますけど……ま、及第かな。
+line2 <shift> # それじゃ、今日もレッスン、よろしく！」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……放っておけば、元に戻るか」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「なーに言ってるんですっ！　今すぐ、
+line2 <shift> # すみやかに、的確に、光速で直して下さい！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うわっ、怒るなって。光速はムリだけど……
+line2 <shift> # ササっと。これで、いいだろ？」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「う〜ん、まだすこし跳ねてますけど、しかた
+line2 <shift> # ないか。それじゃ、今日もレッスンよろしく」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10012
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「おはよう、諸君！　今日はついに、
+line2 <shift> # オーディション初体験の日だな！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「はい、社長！」
+display
+com11 0 0
+sound 10013
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「オーディションは、数あるアイドル活動の
+line2 <shift> # 中でも、最重要な活動だ！」
+display
+com11 0 0
+sound 10014
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「心してかかるようにな！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「はい！」
+display
+com11 0 0
+sound 10015
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「ああ、それと、オーディションを選んだ後に、
+line2 <shift> # 楽曲と衣装を選ぶことができるのだが……」
+display
+com11 0 0
+sound 10016
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「楽曲は、プロデュース終了までに、最大
+line2 <shift> # ５曲までしかリリースできない。注意したまえ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （なるほど……。オーディション毎に、曲を
+line2 <shift> # 変えてると、後が大変そうだな。注意しよう）
+display
+com11 0 0
+sound 10010
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「どんな曲で活動するかで、イメージは変化
+line2 <shift> # するが、最初は君の思うように選びなさい」
+display
+com11 0 0
+sound 10017
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「では、初陣での勝利を期待しているぞ！」
+com4a 0 0
+com09 0 200
+display
+location 200
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （曲を新しくするを選ぼう）
+display
+location 201
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （あーもう決めないと……）
+display
+location 202
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （いや、今日はデビュー曲を決めないと……）
+display
+location 203
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「デビュー曲を決めるから
+line2 <shift> # 少しの間待っておいてくれ」
+display
+location 208
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「喜んでくれて俺もうれしいよ！
+line2 <shift> # この曲でファンを増やしていこう！」
+display
+location 209
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （今日のスケジュールは……と）
+display
+location 210
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ＴＶ出演をかけてオーディションに
+line2 <shift> # チャレンジだ、行くぞ律子！」
+display
+location 220
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （今日のスケジュールを決めよう）
+display
+location 221
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （今日のオススメはオーディションか……。
+line2 <shift> # 社長からも、そのように、指示されている）
+display
+location 222
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （社長から指示のあったスケジュールを、
+line2 <shift> # 選ばないと……）
+display
+location 223
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、これで今日のスケジュールは
+line2 <shift> # 決定だ！」
+display
+location 224
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いやいや、今日はデビュー曲を決めないと。
+line2 <shift> # 少しの間待っていてくれ」
+display
+location 230
+com11 0 0
+sound 10011
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「はい」
+display
+location 240
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「今日は、デビュー曲を決めて、
+line2 <shift> # オーディションに出るぞ」
+com03 0 3
+choice1 <shift> # 衣装を変更する
+line2
+com09 0 241
+com08
+choice2 <shift> # 会場に行く
+com09 0 241
+com08
+choice3 <shift> # 曲を変更する
+line2
+com09 0 241
+com08
+com07
+com09 0 241
+com08
+display
+location 241
+com4a 0 0
+name 0 1 <names:2>  # Protagonist
+line1
+unk02

@@ -1,0 +1,464 @@
+com2c 0 25
+com2d 0 41
+com32 0 0
+com11 0 0
+sound 0
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ラ、ララ、ラ〜♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あれ。千早、もう来てたのか」
+display
+com11 0 0
+sound 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ラララ、ララ、ララ〜♪
+line2 <shift> # ……んー、こっちの方がよさそう」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「気づいてないな……。
+line2 <shift> # お〜い、千早！」
+display
+com11 0 0
+sound 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサー！
+line2 <shift> # い、いつの間にいらしたんですか！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「はは。ずいぶん集中してたんだな」
+display
+com11 0 0
+sound 3
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あの。これは、その……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「聞いたことのないフレーズだったけど、
+line2 <shift> # 誰の曲だ？」
+display
+com11 0 0
+sound 4
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「実は、その……。
+line2 <shift> # これは、私が考えたフレーズなんです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「考えたって……
+line2 <shift> # 作曲も出来るのか、千早は！？」
+com03 0 3
+choice1 <shift> # シンガーソングライターか
+line2
+com09 0 11
+com08
+choice2 <shift> # シンカーフォークボールか
+line2
+com09 0 12
+com08
+choice3 <shift> # シンガーソングライダーか
+line2
+com09 0 13
+com08
+com07
+com09 0 13
+com08
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「シンガーソングライターか。
+line2 <shift> # かっこいいな」
+display
+com11 0 0
+sound 5
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「い、いえ。そんなに大層なものでは……」
+com09 0 14
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「シンカーフォークボールか」
+display
+com11 0 0
+sound 6
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「え？　シンカー……なんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「シンカーで落ちてフォークでさらに落ちる、
+line2 <shift> # それはものすごい球のことだ」
+display
+com11 0 0
+sound 7
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「は、はぁ……。よくわかりませんが、
+line2 <shift> # すごいのですか……」
+com09 0 14
+display
+location 13
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「シンガーソングライダーだな」
+display
+com11 0 0
+sound 8
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……え？
+line2 <shift> # あの、ライダーとは……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「知らないか？
+line2 <shift> # 歌いながら自転車をこぐ人のことだ」
+display
+com11 0 0
+sound 9
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……そう、なのですか。
+line2 <shift> # 初めて聞きました……」
+com09 0 14
+display
+location 14
+com11 0 0
+sound 10
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あの、今やっているのは、作曲というほど
+line2 <shift> # 大げさなものではないんです」
+display
+com11 0 0
+sound 11
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ただ思いついたメロディを
+line2 <shift> # 書き留めているだけで」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「その、メロディを思いつくのがすごいよ。
+line2 <shift> # なにか、コツでもあるのか？」
+display
+com11 0 0
+sound 12
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「コツ……ですか？
+line2 <shift> # 考えたこともありませんでした」
+display
+com11 0 0
+sound 13
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「風景を見ていたり、何かに感じ入ったりすると
+line2 <shift> # 自然とメロディが浮かんでくるので……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なるほど、それじゃ出来た曲は、千早の……」
+com03 0 3
+choice1 <shift> # 心そのものなんだな
+line2
+com09 0 21
+com08
+choice2 <shift> # 魂のポエムなんだな
+line2
+com09 0 22
+com08
+choice3 <shift> # グチのかたまりだな
+line2
+com09 0 23
+com08
+com07
+com09 0 23
+com08
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「心そのものなんだな」
+display
+com11 0 0
+sound 14
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そう言われると、なんだか自分の胸の内をさら
+line2 <shift> # けだしているようで……少し恥ずかしいです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、曲を作るとか歌うって、
+line2 <shift> # そういうことだろ？」
+display
+com11 0 0
+sound 15
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そうですね。実感がこもっていないと、
+line2 <shift> # 聴いている人にも伝わりませんから」
+com09 0 24
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「魂のポエムなんだな」
+display
+com11 0 0
+sound 16
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そこまで言うと、
+line2 <shift> # さすがに大げさな気がしますが……」
+display
+com11 0 0
+sound 17
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ただ、私の心のありようを、そのまま表して
+line2 <shift> # いる……とは、言えるかもしれませんね」
+com09 0 24
+display
+location 23
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「グチのかたまりなんだな」
+display
+com11 0 0
+sound 18
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「確かに、自分の思いをありのままに
+line2 <shift> # 伝えたいとは思っています」
+display
+com11 0 0
+sound 19
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「悲しみも表現しますけど……
+line2 <shift> # それはたぶん、グチとは違うと思います」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そうだよな。グチばっかりじゃ
+line2 <shift> # 聞いてる方も大変だ」
+com09 0 24
+display
+location 24
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それにしても、千早らしいと言えば千早らしい
+line2 <shift> # な。作曲してまで歌に思いを込める、ってのは」
+display
+com11 0 0
+sound 20
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はい。つたないながらも
+line2 <shift> # 届いてくれることを願って」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「つたないなんて、とんでもない。
+line2 <shift> # さっきのメロディ、よかったと思うよ」
+display
+com11 0 0
+sound 21
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「本当ですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「これでもデモテープはたくさん聴いてるから、
+line2 <shift> # そこそこ耳は肥えてるつもりだけど」
+display
+com11 0 0
+sound 22
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そう言ってもらえると……
+line2 <shift> # うれしいです、すごく」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それでだ。ものは相談なんだが、
+line2 <shift> # 次のアルバムにあの曲を入れないか？」
+display
+com11 0 0
+sound 23
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ええっ！？」
+display
+com11 0 0
+sound 24
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そ、それは……困ります。
+line2 <shift> # 第一、私の作ったものなんか……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「けんそんすることはない。せっかく作った
+line2 <shift> # 曲なんだから、発表すべきだよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「作曲も出来ることをアピールすれば、
+line2 <shift> # 歌手としての実力も、より認められるしさ」
+display
+com11 0 0
+sound 25
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「発表の場があるというのは、私としても
+line2 <shift> # とてもうれしいのですけど……」
+display
+com11 0 0
+sound 26
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「でも、私は、そんなつもりで曲を書いた
+line2 <shift> # わけではないので……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうしても、ダメか？
+line2 <shift> # 千早のためになるかと思ったんだが……」
+display
+com11 0 0
+sound 27
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「でしたら……勝負しましょう」
+display
+com11 0 0
+sound 28
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサーが勝ったら、
+line2 <shift> # この曲を、好きに使ってください」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし！　そういうことなら、受けてたつぞ」
+display
+com11 0 0
+sound 29
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「では、いきます……」
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 30
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「コインは、どちらの手にあると思いますか？」
+com03 0 2
+choice1 <shift> # 右だ！
+com09 0 30
+com08
+choice2 <shift> # 左だ！
+com09 0 31
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「右だ！」
+com37 0 1
+com1e 0 0
+com09 0 33
+com3b
+com37 0 0
+com1e 0 0
+com09 0 34
+com3b
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「左だ！」
+com37 0 1
+com1e 0 0
+com09 0 33
+com3b
+com37 0 0
+com1e 0 0
+com09 0 34
+com3b
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「むう……。こ、こっち！」
+com09 0 34
+display
+location 33
+com11 0 0
+sound 31
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……正解です」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よっしゃー！」
+display
+com11 0 0
+sound 32
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「では、お約束通り、
+line2 <shift> # 曲が完成したらお渡しします」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「任せてくれ、最高の形でプロデュースするよ。
+line2 <shift> # 千早の思いを届けるためにね」
+display
+com11 0 0
+sound 33
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はい、お願いします。アルバムのほんの片隅に
+line2 <shift> # 加えていただければと、思います」
+display
+com11 0 0
+sound 34
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……とはいえ、一番届けたかった人には
+line2 <shift> # もう届いているんですけど」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え？」
+display
+com11 0 0
+sound 35
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「実はあのフレーズ、プロデューサーのことを
+line2 <shift> # 考えていたら出てきたんです」
+display
+com11 0 0
+sound 36
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「私の思い、言葉よりもうまく
+line2 <shift> # 形にできそうな気がして、それで楽譜に……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうなのか……」
+display
+com11 0 0
+sound 37
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ですから……この曲のこと、
+line2 <shift> # プロデューサーにお任せできてよかったです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、千早作曲のこの曲は無事、
+line2 <shift> # 次のアルバムに収録することになった）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （千早の豊かな才能の一面を、ファンに見せられ
+line2 <shift> # そうだ。本当によかったな……）
+com4b 0 0
+com09 0 69
+display
+location 34
+com11 0 0
+sound 38
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「違います。……私の勝ち、ですね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああーっ！　しまった、しくじった……」
+display
+com11 0 0
+sound 39
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あの、プロデューサー……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、わかってる。
+line2 <shift> # 残念だけど、曲はあきらめるよ」
+display
+com11 0 0
+sound 40
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……はい。
+line2 <shift> # そういう約束……ですから」
+display
+com11 0 0
+sound 41
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「それでは私、失礼します……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （千早の新たな一面をプロデュースする
+line2 <shift> # 絶好の機会を逃してしまった……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （我ながらプロデューサーとして、どうかと
+line2 <shift> # 思う。ごめんな、千早……）
+com4b 0 2
+com09 0 69
+display
+location 69
+unk02

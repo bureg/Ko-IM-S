@@ -1,0 +1,283 @@
+com2c 0 118
+com32 0 0
+com2d 0 51
+location 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あずささん、どこ行くんです！？
+line2 <shift> # 取り乱しすぎですよ、落ち着いて！」
+display
+com11 0 6
+sound 1500
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「はぁ、はぁ。プロデューサーさん、
+line2 <shift> # 本当にすみません。私、なんということを……」
+display
+com11 0 6
+sound 1501
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「せっかく用意してもらった晴れの舞台を、
+line2 <shift> # 台無しにしてしまいました……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もう過ぎたことはいいですよ。全力でやって、
+line2 <shift> # うまくいかなかったんだから、しかたないです」
+display
+com11 0 6
+sound 1502
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「これもきっと、不釣り合いから、
+line2 <shift> # 起きてしまったことですよね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え？　不釣り合い？」
+display
+com11 0 6
+sound 1503
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「はい。とても能力のあるプロデューサーさんと、
+line2 <shift> # 才能のない私。そのギャップが出たんです」
+display
+com11 0 6
+sound 1504
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「はじめから差があるのは、わかっていました。
+line2 <shift> # それでも私、なんとか、ついていきたくて……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「才能が、ないなんてことは、ないですって！」
+display
+com11 0 6
+sound 1505
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「いえ、わかるんです。きっと私、
+line2 <shift> # このまま引退した方が、身のためですね」
+display
+com11 0 6
+sound 1506
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「そうすれば、これ以上、
+line2 <shift> # 他の人を失望させたりすることも……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なにバカなこと言ってるんです？　こんな
+line2 <shift> # 幕引きで、あずささんは満足なんですか？」
+display
+com11 0 6
+sound 1507
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「そ、そんなことは、ないですけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だったら、再出発しましょうよ。
+line2 <shift> # 謙虚なのはいいですけど、弱気はダメです！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「このまま引退したら、あずささんは……」
+com03 0 3
+choice1 <shift> # 負け犬ですよ？
+line2
+com09 0 10
+com08
+choice2 <shift> # 負け大ですよ？
+line2
+com09 0 11
+com08
+choice3 <shift> # 負け太ですよ？
+line2
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「負け犬ですよ？」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「負け大ですよ？」
+display
+com11 0 6
+sound 1508
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「負け大？　『まけだい』って、なんです？
+line2 <shift> # そういう鯛がいるのですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あああっ、まちがえました！
+line2 <shift> # 負け大じゃなくて負け『犬』です、負け犬！」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「負け太ですよ？」
+display
+com11 0 6
+sound 1509
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「負け太？　『まけぶと』って、なんです？
+line2 <shift> # 新しい種類のカップうどん……、でしょうか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あああっ、まちがえました！
+line2 <shift> # 負け太じゃなくて負け『犬』です、負け犬！」
+com09 0 19
+display
+location 19
+com11 0 6
+sound 1510
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「えっ、負け犬！！　わ、私、それだけにはなり
+line2 <shift> # たくないです。将来的には子どもも二人……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「は？　子ども？　なんの話です？」
+display
+com11 0 6
+sound 1511
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「いえ、なんでも。でも、ここで引退してしまっ
+line2 <shift> # たら、やはり私は、負け犬まっしぐらですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「当然です。大きな夢を手にすることなく、
+line2 <shift> # 終わってしまうわけですから」
+display
+com11 0 6
+sound 1512
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「だとしたら、引退はできません！
+line2 <shift> # どんなに才能がなくても、それだけは……」
+display
+com11 0 6
+sound 1513
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「やはり、もう少しだけ上をめざします。
+line2 <shift> # 私の幸せは、その先にしかないと思いますから」
+display
+com1c 0 3
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ふぅー、よく言ってくれました。これで俺も、
+line2 <shift> # 安心して、あずささんを送り出せます」
+display
+com11 0 6
+sound 1514
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あ、あのープロデューサーさん。最後にひと
+line2 <shift> # つだけ、私のお願い、きいていただけますか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いいですけど、なんです？」
+display
+com11 0 6
+sound 1515
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「私のおでこに手を当てて、今後の成功、
+line2 <shift> # 祈ってはいただけないでしょうか？」
+display
+com11 0 6
+sound 1516
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「才能のおすそわけを、いただきたいんです。
+line2 <shift> # だから……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わかりました。効能は保証しませんけど、
+line2 <shift> # じゃ、気持ちを込めて……」
+com0e 1 68
+com44
+com09 0 20
+com45
+com44
+com09 0 21
+com45
+com44
+com09 0 22
+com45
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よしっと。これでいいですか？」
+display
+com11 0 6
+sound 1517
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「はい！　ありがとうございましたー。
+line2 <shift> # これで私、なんとか歩いていけると思います」
+com09 0 29
+display
+location 21
+com11 0 6
+sound 1518
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「いたい、です……。プロデューサーさん、今の
+line2 <shift> # は、どちらかというと、叩いた感じですよね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「すみません！　ちょっと強過ぎましたか？
+line2 <shift> # 加減が、わからなくて……」
+display
+com11 0 6
+sound 1519
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「でも、これでもいいです。弱くなっていた心が、
+line2 <shift> # すこし引き締まった気もしますし」
+display
+com11 0 6
+sound 1520
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「これで私、
+line2 <shift> # なんとか歩いていけると思います！」
+com09 0 29
+display
+location 22
+com11 0 6
+sound 1521
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あのー、プロデューサーさん？
+line2 <shift> # おでこ、なんですけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……っと、そうでしたね。
+line2 <shift> # こういうの不慣れだから、どうも……」
+display
+com11 0 6
+sound 1522
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「そうですか。ならガマンします。頼れる人がい
+line2 <shift> # ないことにも、慣れていかないといけませんし」
+display
+com11 0 6
+sound 1523
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「助力なしでも、くじけないよう、
+line2 <shift> # 私、歩いていきます！」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あずささんなら、きっとやれますよ。
+line2 <shift> # じゃあ、元気で！」
+display
+com11 0 6
+sound 1524
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「はい。プロデューサーさんから、これまでに
+line2 <shift> # もらった、いくつかの大切なアドバイス……」
+display
+com4a 0 0
+com11 0 6
+sound 1525
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「思い出しながら、やっていきたいと思います。
+line2 <shift> # それでは」
+display
+location 100 129 92 129 92 130 177 130 164 130 181 130 196 129 65 130 160 130 184 130 179 130 179 130 241 130 205 129 65 142 184 136 211 130 204 149 163 130 169 130 231 129 65
+line2 <shift> # なんとか抜け出し、一礼して、去っていった。
+display
+location 101 140 136 130 181 130 196 130 217 130 223 130 231 130 234 130 189 141 197 140 227 130 197 130 205 130 200 130 169 130 193 130 189 130 169 130 224 130 181 130 234 130 200 130 162 129 66
+line2 <shift> # しかし落ち込む事はない。夢をあきらめない限り、
+display
+location 102 147 185 130 205 145 177 130 162 130 196 130 162 130 173 130 204 130 190 130 169 130 231 129 66 130 160 130 184 130 179 130 179 130 241 130 224 129 65 130 199 130 177 130 169
+line2 <shift> # で、新たな夢の鼓動を聞いているにちがいない。
+display
+unk02

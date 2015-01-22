@@ -1,0 +1,526 @@
+com2c 0 21
+com2c 0 90
+com2d 0 51
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （はあ……。つ、疲れた……。
+line2 <shift> # 初日ってこともあって、緊張しちゃったな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （これから、あずささんをトップアイドルに
+line2 <shift> # 育てるのか。おっとりした人みたいだけど……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （締めるべきところは、ビシッと締めて、
+line2 <shift> # 俺が、しっかりリードしてあげないとな）
+display
+com11 0 0
+sound 10000
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「……あら？　そこにいらっしゃるのは、
+line2 <shift> # もしかして、プロデューサーさんですか〜？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え……。あ、あずささんじゃないですか！
+line2 <shift> # 帰ったんじゃ、なかったんですか？」
+display
+com11 0 0
+sound 10001
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ええ。帰る途中です。事務所を出て、
+line2 <shift> # 駅に向かっていたのですけれど……」
+display
+com11 0 0
+sound 10002
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「その途中で、なぜかまた、事務所に、
+line2 <shift> # たどりついてしまいました。摩訶不思議です〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なるほど、つまり……」
+com03 0 3
+choice1 <shift> # 迷子ですね
+com09 0 10
+com08
+choice2 <shift> # 散歩ですね
+com09 0 11
+com08
+choice3 <shift> # 遭難ですね
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「迷子ですね」
+display
+com11 0 0
+sound 10003
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「は、はい。恥ずかしいのですけれど、
+line2 <shift> # どうも、そうみたいですね」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「散歩ですね。優雅だなあ」
+display
+com11 0 0
+sound 10004
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「お散歩なら、気楽で良かったのですけれど……。
+line2 <shift> # 今日のこれは、どちらかというと、迷子ですね」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「遭難ですね。
+line2 <shift> # レスキュー隊、呼びましょうか？」
+display
+com11 0 0
+sound 10005
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「うう、そんな意地悪な言い方、しないで下さい。
+line2 <shift> # 確かに、私は、道に迷っていますけれど……」
+display
+com11 0 0
+sound 10006
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「そこまで大げさには、迷っていませんよ？
+line2 <shift> # ただちょっと、方角が全くわからないだけです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （全くわからないのか……。
+line2 <shift> # 立派に遭難だと思うけどなあ）
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10007
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「私、暗くなると、一段と道に迷いやすくなるよ
+line2 <shift> # うで。さっきから同じところをぐるぐると……」
+display
+com11 0 0
+sound 10008
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あのー、プロデューサーさん。
+line2 <shift> # 駅は、どっちの方でしょうか〜？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （このまま、ひとりで行かせると、
+line2 <shift> # また迷子になりそうだ。ここは……）
+com03 0 3
+choice1 <shift> # 駅まで、お送りしましょう
+line2
+com09 0 20
+com08
+choice2 <shift> # タクシー、呼びましょう
+line2
+com09 0 21
+com08
+choice3 <shift> # 道順、教えましょう
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「駅まで、お送りしましょう。
+line2 <shift> # 俺と一緒なら、もう迷いようがありませんから」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「タクシー、呼びましょう。
+line2 <shift> # それなら、駅まで迷わず行けますから」
+display
+com11 0 0
+sound 10009
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ありがとうございます。けれど、私は、まだ、
+line2 <shift> # 駆け出しですので、お金は節約しないと……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、それもそうですね。タクシーは、
+line2 <shift> # ぜいたくか……。じゃ、俺が駅まで送りますよ」
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「道順、教えましょう。
+line2 <shift> # 良ければ、地図か何か、書きましょうか？」
+display
+com11 0 0
+sound 10010
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「じ、実は……、地図なら持っているんです〜。
+line2 <shift> # 音無さんにお願いして、書いてもらったので」
+display
+com11 0 0
+sound 10011
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「とてもわかりやすく書いて下さったんです
+line2 <shift> # けれど、私、見方が、よくわからなくて……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うーん。地図があってもダメなのか。
+line2 <shift> # これは、重症だな……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃ、じゃあ、俺が駅まで送りますよ。
+line2 <shift> # それなら、迷わないでしょう？」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 10012
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「えっ？　でも、もうお仕事は終わったから、
+line2 <shift> # 今は、プライベートな時間ですよね？」
+display
+com11 0 0
+sound 10013
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「プロデューサーさんの、貴重な自由時間を、
+line2 <shift> # 私の道案内なんかに、使わせるわけには……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あはは。そんなこと、気にしないで下さいよ。
+line2 <shift> # 駅まで、あずささんと歩けるなら、光栄です」
+display
+com11 0 0
+sound 10014
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「プロデューサーさん、優しいんですね……。で
+line2 <shift> # は、すみませんが、お言葉に甘えさせて下さい」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「はい。……あっ！　でも、カバンを、
+line2 <shift> # 忘れてきた！　すみません、あずささん……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「事務所に戻って、カバンをとってくるので、
+line2 <shift> # ここで、ちょっと待っててもらえますか？」
+display
+com11 0 0
+sound 10015
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「はい、わかりました〜。本当に、すみません。
+line2 <shift> # お手数、おかけしてしまって……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いいえ。あずささんが困っているなら、
+line2 <shift> # 助けるのが、俺の仕事ですから！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃ、ちょっと行ってくるので、
+line2 <shift> # ここから動かないで、待ってて下さいね！」
+display
+com22 0 30
+com21 0 30
+com32 0 1
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （さてと、俺の荷物は……、と）
+com09 0 100
+display
+location 100
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……あああ、とんだ道草をくってしまった。
+line2 <shift> # 早くカバンを持って、戻らないと！）
+display
+com22 0 30
+com21 0 30
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「遅くなって、すみません、あずささん！」
+display
+com11 0 0
+sound 10016
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あ、プロデューサーさん。見て下さい、ほら。
+line2 <shift> # 今夜は、星が見えますよ〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、ほんとだ……。キレイですね……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （かなり待たせたのに、あずささんはニコニコし
+line2 <shift> # ている。のんびりしてて優しい人なんだな……）
+display
+com11 0 0
+sound 10017
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ふふっ。都会でも、星って見えるんですね。
+line2 <shift> # ……あ、そうそう。カバン、ありましたか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「はい。……でも、事務所で、
+line2 <shift> # やたらノンキな子に、捕まってしまったんです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「アイドル候補生らしいんですが、
+line2 <shift> # 才能のありそうな子でしたよ」
+display
+com11 0 0
+sound 10018
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ノンキで、才能を感じる……。
+line2 <shift> # ん〜、星井美希ちゃんかしら？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、その子です！　ひょっとして、
+line2 <shift> # あずささん、彼女を知ってるんですか？」
+display
+com11 0 0
+sound 10019
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「はい、もちろん。美希ちゃんは、まだ正式な
+line2 <shift> # アイドル候補生じゃないのですけれど……」
+display
+com11 0 0
+sound 10020
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「歌も、ダンスも、新人ばなれした子だって、
+line2 <shift> # 事務所でも評判になっていますよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「へえ、そんな子がウチに……」
+com03 0 3
+choice1 <shift> # 負けてはいられませんね
+line2
+com09 0 40
+com08
+choice2 <shift> # 強敵ですね
+com09 0 41
+com08
+choice3 <shift> # 頼もしいですね
+line2
+com09 0 42
+com08
+com07
+com09 0 42
+com08
+display
+location 40
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「負けてはいられませんね」
+display
+com11 0 0
+sound 10021
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あ、はい。もちろん、負けないように、
+line2 <shift> # がんばるつもりです。でも……」
+display
+com11 0 0
+sound 10022
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「美希ちゃんは、可愛らしいだけじゃなくて、
+line2 <shift> # すごく、人をひきつける魅力のある子なんです」
+display
+com11 0 0
+sound 10023
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「やっぱり、トップアイドルになれるのは、
+line2 <shift> # ああいう子なのかもしれませんね〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そんなノンキな……。俺は、あずささんに、
+line2 <shift> # 同じ可能性を、見いだしているんです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「誰にも負けない魅力、あずささんも持っていま
+line2 <shift> # すよ！　自信を持って、活動していきましょう」
+display
+com11 0 0
+sound 10024
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ありがとうございます、プロデューサーさん。
+line2 <shift> # そうですね、自信を持ってがんばらないと……」
+display
+com11 0 0
+sound 10025
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「私、プロデューサーさんの期待に、
+line2 <shift> # 応えたいです。精一杯、やってみますね！」
+com09 0 49
+display
+location 41
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「強敵ですね。
+line2 <shift> # どう倒すか、考えておかないと……」
+display
+com11 0 0
+sound 10026
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ええっ。倒すだなんて、ぶっそうです〜。
+line2 <shift> # 同じ事務所なのに、敵なんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「敵というよりは、ライバルかな。
+line2 <shift> # 目的が、同じトップアイドルである以上……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「たとえ、事務所の仲間であろうと、
+line2 <shift> # いつかは戦う時が来るわけですから」
+display
+com11 0 0
+sound 10027
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ライバル……。厳しい世界ですね。
+line2 <shift> # 私、大丈夫でしょうか……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「大丈夫です！　あずささんのことは、
+line2 <shift> # 俺がバッチリ、サポートしますから」
+com09 0 49
+display
+location 42
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「頼もしいですね。同じ事務所に、
+line2 <shift> # そんな子がいれば、いい刺激になりますし」
+display
+com11 0 0
+sound 10028
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「でも、なんだか怖い気もします。すごい素質を
+line2 <shift> # 持った子ですから、負けてしまいそうで……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「素質なら、あずささんにもあると思います。
+line2 <shift> # あとは、それをどう伸ばしていくか、ですよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それに、勝負は、やってみないと、
+line2 <shift> # わかりませんからね」
+display
+com11 0 0
+sound 10029
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「勝負……。はぁ……。厳しい世界ですね」
+com09 0 49
+display
+location 49
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「美希とは、いつかトップアイドルの座をかけて、
+line2 <shift> # 戦う日が来るかもしれませんね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もっとも、彼女はまだ、プロデューサーも、
+line2 <shift> # 決まってない状態みたいですから……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「真剣勝負で戦うのは、
+line2 <shift> # まだ、もうちょっと先の話かな」
+display
+com11 0 0
+sound 10030
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「できるだけ先になってくれると、いいのです
+line2 <shift> # けれど。美希ちゃんと真剣勝負だなんて……」
+display
+com11 0 0
+sound 10031
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「この世界でやっていく以上、
+line2 <shift> # 避けては通れない道だとは思いますが……」
+display
+com11 0 0
+sound 10032
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「やっぱり、うれしいことでは、ありませんから。
+line2 <shift> # 私、ちゃんとやっていけるかどうか、不安です」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「最初は、誰でもそうですよ。
+line2 <shift> # みんな、努力して、自分を高めていくんです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「スタートはみんな、同じ。不安な気持ちも同じ
+line2 <shift> # です。そこから努力して、経験をつんで……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そして、一人前になっていくんです！」
+display
+com11 0 0
+sound 10033
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「不安な気持ちも、同じ……。そうですよね。
+line2 <shift> # 私だけが怖いわけじゃないですよね〜」
+display
+com11 0 0
+sound 10034
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「プロデューサーさんのおかげで、ちょっと気持
+line2 <shift> # ちが楽になりました。ありがとうございます」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （やる気になってくれて、よかったな。プロ
+line2 <shift> # デューサーとして、良い仕事ができたかも……）
+display
+com11 0 0
+sound 10035
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「……それでは、プロデューサーさん、
+line2 <shift> # 駅へ、行きましょうか〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……あずささん。
+line2 <shift> # そっちは、駅とは正反対です！」
+display
+com11 0 0
+sound 10036
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あらあら〜。す、すみません……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （前途は多難かもしれないが……、
+line2 <shift> # 俺が、頑張らなければ！）
+com09 0 99
+display
+location 99
+unk02

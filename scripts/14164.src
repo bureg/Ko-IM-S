@@ -1,0 +1,238 @@
+com2c 0 25
+com2d 0 31
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それじゃ、やよい。まだ、知らないこと
+line2 <shift> # ばかりだし、とりあえず自己紹介してくれる？」
+display
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はーい！　高槻やよい、１３歳っ。
+line2 <shift> # 中学生で―――す！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うわっ、なんて大きな声だ……」
+com03 0 2
+choice1 <shift> # すごいパワーだな
+line2
+com09 0 10
+com08
+choice2 <shift> # すこしはセーブしような
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「すごいパワーだな」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えへへ、ありがとうございます。私、
+line2 <shift> # 声の大きさが、一番のとりえなんですっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか。ところで、やよいは、どうして
+line2 <shift> # アイドルやろうと、思ったんだ？」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「すこしはセーブしような」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あ、ごめんなさい〜。私、声の大きさが
+line2 <shift> # とりえで、つい、やりすぎちゃいました〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まあ、いいけどな。で、やよいは、どうして
+line2 <shift> # アイドルをやろうと思ったんだ？」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えっと、歌番組とか、クイズ番組とか出るの、
+line2 <shift> # すごく楽しそうだな〜って、思って！」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「それから……、もうひとつ、あるんですけど。
+line2 <shift> # そ、そっちの理由は、言うほどのことじゃ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんだ？　気になるなあ」
+com03 0 2
+choice1 <shift> # ま、言わなくてもいいけどな
+line2
+com09 0 20
+com08
+choice2 <shift> # 教えてくれよ
+line2
+com09 0 21
+com08
+com07
+com09 0 21
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ま、言わなくてもいいけどな。いきなり、
+line2 <shift> # なにもかも話せっていうのも、乱暴な話だし」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「教えてくれよ。隠し事はよくないぞ？」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「話さないと、ダメですか〜？？？　でも、
+line2 <shift> # これは、ホントに、どうでもいい話でっ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……なんか、メチャクチャ話したくなさそう
+line2 <shift> # だな。そんなにイヤなら、別にいいけど」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ありがとうございます。いろんな夢かなえるた
+line2 <shift> # め、私、どんな困難にも負けず、がんばります」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お、いい覚悟だ。その根性があれば、きっと
+line2 <shift> # どうにかなるだろう」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うっう〜、なんか、じーっとしていられない
+line2 <shift> # 気分ですっ。早くＴＶとかに、出られるように」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「プロデューサー！　私、落ち着きませ〜ん！
+line2 <shift> # な、なにか、今すぐできることは……？」
+com03 0 3
+choice1 <shift> # とりあえず、ジョギングでも
+line2
+com09 0 30
+com08
+choice2 <shift> # とりあえず、深呼吸だ
+line2
+com09 0 31
+com08
+choice3 <shift> # とりあえず、エラ呼吸だ
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「とりあえず、ジョギングでも、するか？
+line2 <shift> # 事務所のまわりを、グルッとまわろう」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あ、それ、いいかも〜。トレーニングにも、
+line2 <shift> # なりますよね！」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「よーし、それじゃ、早速いきましょー。
+line2 <shift> # ファイト、オー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （お、すっかり、やる気だ！　この子は、
+line2 <shift> # 素直に燃えさせてやるのが、いいようだな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……その後、なかよく、やよいと事務所のまわ
+line2 <shift> # りを走りながら、お互いのことを語り合った）
+com09 0 39
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「とりあえず、深呼吸だ。いくらなんでも、
+line2 <shift> # あせりすぎだって。冷静になろう」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「で、ですよね。でも、こう、心に火がついて、
+line2 <shift> # どうにもならないっていうか。ううう……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いいから、深呼吸！　ほら、
+line2 <shift> # クールダウンだ！」
+display
+com11 0 0
+sound 10012
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「だ、ダメかも〜！　プロデューサー、
+line2 <shift> # なんでもいいから、やらせて下さい〜〜〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （燃える心を持て余し、バタバタしている。
+line2 <shift> # うーん、あまりセーブさせない方がよかったか）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……その後、落ち着きを失ったやよいを、元の
+line2 <shift> # 状態に戻すのに、長い時間がかかってしまった）
+com09 0 39
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「とりあえずは、エラ呼吸だ。
+line2 <shift> # できるか、やよい？」
+display
+com11 0 0
+sound 10013
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「エラ？　えら、エラ……、えっと」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そんなの、ついてません〜〜〜。
+line2 <shift> # いったい、どうすれば、ううう……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……本気にするなよ。冗談に決まってるだろ」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ひどいです〜〜〜。私、がんばって、やろうと
+line2 <shift> # しちゃいました。ううう……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ウケをねらったら、混乱させてしまった。こう
+line2 <shift> # いう真っ直ぐな子は、からかわない方がいいか）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後、半分泣きそうな顔のやよいを、元の
+line2 <shift> # 笑顔に戻すのに、長い時間がかかってしまった）
+com09 0 39
+display
+location 39
+unk02

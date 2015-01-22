@@ -1,0 +1,272 @@
+com2c 0 48
+com2c 0 57
+com2d 0 51
+com32 0 0
+com11 0 5
+sound 500
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「私、ウインドウ・ショッピング、けっこう
+line2 <shift> # 好きですー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「遊びにきたわけじゃないですよ？　撮影用の
+line2 <shift> # ファンデーション、買いにきたんですから」
+display
+com11 0 5
+sound 501
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ！　季節の新色が出ています。これ、
+line2 <shift> # なかなか、いいんじゃないでしょうか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、だから、撮影用なんですって……」
+com03 0 2
+choice1 <shift> # 用途を考えましょう
+line2
+com09 0 10
+com08
+choice2 <shift> # 真剣に選びましょう
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「用途を考えましょう」
+display
+com11 0 5
+sound 502
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「やはり、撮影用といつも用では、選び方も
+line2 <shift> # ちがうのでしょうか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だと思いますよ。カメラに映った時のこととか、
+line2 <shift> # 意識して選んだ方が……」
+display
+com11 0 5
+sound 503
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「んーと、それでは……」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「真剣に選びましょう」
+display
+com11 0 5
+sound 504
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「わかってますー。でも、これ、悪くない
+line2 <shift> # ですよ？　私の肌に合いそうですし」
+display
+com11 0 5
+sound 505
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「それに、ただ『いいな』って思っただけで。
+line2 <shift> # そんなに手早くは、決められないです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「す、すみません。じゃあ、これも候補にして、
+line2 <shift> # もうすこし店内を見てみましょう」
+display
+com11 0 5
+sound 506
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そうですね。では、あちらへ……」
+com09 0 29
+display
+location 29
+com22 0 30
+com21 0 30
+com11 0 5
+sound 507
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「結局、残ったのはこのふたつですね。似たよう
+line2 <shift> # な色ですけれど、後はー、なにを基準に？」
+com03 0 3
+choice1 <shift> # あずささんの好みで
+line2
+com09 0 30
+com08
+choice2 <shift> # パッケージのデザインで
+line2
+com09 0 31
+com08
+choice3 <shift> # 値段の手頃さで
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あずささんの好みで」
+display
+com11 0 5
+sound 508
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「完全に、おまかせでいいんですね？
+line2 <shift> # わかりました！　えーと……」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「パッケージのデザインで」
+display
+com11 0 5
+sound 509
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「それでいいですか？　見かけだけで判断すると、
+line2 <shift> # 中身がともなわないことも……」
+display
+com11 0 5
+sound 510
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「でも、わかりました！　その辺りも考えながら。
+line2 <shift> # えーと……」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「値段の手頃さで」
+display
+com11 0 5
+sound 511
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「んー、高いものが悪いとも、安いものがいい
+line2 <shift> # とも、言えないのですよね。こういうの」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そうですか？　じゃあ……まあ、
+line2 <shift> # 任せます」
+display
+com11 0 5
+sound 512
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「これくらいの値段の差なら、財布は
+line2 <shift> # 平気ですよね？　えーと……」
+com09 0 49
+display
+location 49
+com11 0 5
+sound 513
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「こっちの方がよさそう。でも、やはりー。
+line2 <shift> # わ、私、こういう時迷ってしまって……。んー」
+com03 0 3
+choice1 <shift> # どうぞ、気の済むように
+line2
+com09 0 50
+com08
+choice2 <shift> # スパッと決めましょうよ
+line2
+com09 0 51
+com08
+choice3 <shift> # 店員に聞いてみます？
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 2
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうぞ、気の済むように。あせらなくていい
+line2 <shift> # ですよ」
+display
+com11 0 5
+sound 514
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、はい、すみません。それでは…………
+line2 <shift> # こっち！　左のにしますね！　うんっ！」
+display
+com11 0 5
+sound 515
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ふふっ、これならきっと、ピッタリですっ。
+line2 <shift> # ふー、いい買い物、できましたね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （心から、納得した顔をしている。
+line2 <shift> # 判断に時間がかかるのは、まあ個性だからな）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「スパッと決めましょうよ」
+display
+com11 0 5
+sound 516
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、はい、す、すみません……！　それでは、
+line2 <shift> # こっち！　右の方にします！」
+display
+com22 0 30
+com32 0 1
+com21 0 30
+com11 0 5
+sound 517
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あのー、プロデューサーさん。やはり、もう
+line2 <shift> # ひとつの方が、私には似合いそうな気が……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え？　でも、いまさらどうにも……。
+line2 <shift> # 事務所、戻らないといけないし」
+display
+com11 0 5
+sound 518
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そうですよね。私だけでも戻って……。
+line2 <shift> # い、いえ、いいです。細かいことですから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （後ろ髪をひかれている。下手に急がせない方が、
+line2 <shift> # よかったかな）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「店員に聞いてみます？　いいアドバイス、
+line2 <shift> # くれるかもしれませんし」
+display
+com11 0 5
+sound 519
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、はい、そうですね。あ、あまり時間を
+line2 <shift> # かけすぎるのも、迷惑に……」
+display
+com22 0 30
+com32 0 1
+com21 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よかったですね。あっさり決まって」
+display
+com11 0 5
+sound 520
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ひ、人任せにしてしまいましたね。これくらい、
+line2 <shift> # 自分で決められないなんて……」
+display
+com11 0 5
+sound 521
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「もしかしたら、もうひとつの方がー。
+line2 <shift> # い、いえ、いまさらですよね、いまさら……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （マユをくもらせている。使うのは本人だし、
+line2 <shift> # 納得いくまで考えさせるべきだったか？）
+com09 0 69
+display
+location 69
+unk02

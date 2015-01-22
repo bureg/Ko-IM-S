@@ -1,0 +1,282 @@
+com2c 0 45
+com2d 0 23
+com32 0 0
+com11 0 5
+sound 800
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「プロデューサ〜、ひま〜。雑誌もってきて〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「余裕だな。もうすぐ出番なのに……」
+display
+com11 0 5
+sound 801
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「どうせ前座でしょ。
+line2 <shift> # こんなので、緊張なんかしないもーん」
+com03 0 3
+choice1 <shift> # たいした度胸だよ
+line2
+com09 0 10
+com08
+choice2 <shift> # もうすこし、真剣にだな
+line2
+com09 0 11
+com08
+choice3 <shift> # 喝っ！！
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「たいした度胸だよ」
+display
+com11 0 5
+sound 802
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「フン、当たり前でしょ。
+line2 <shift> # まあ、手だけは抜かないけどね」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もうすこし、真剣にだな」
+display
+com11 0 5
+sound 803
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なによー。
+line2 <shift> # 別に、いい加減にやったりしないわよー」
+display
+com11 0 5
+sound 804
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ヘンなこと言って、気、逆なでしないでよね」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「喝っ！！」
+display
+com11 0 5
+sound 805
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「うああっ、な、なによー。
+line2 <shift> # ビックリするじゃないの〜！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、気合いを……」
+display
+com11 0 5
+sound 806
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「心臓止まりかけたわよっ。死んじゃったら、
+line2 <shift> # あんたのせいだからね……」
+com09 0 19
+display
+location 19
+com11 0 5
+sound 807
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「それにしても、今日のメイン、人気だけは、
+line2 <shift> # たいしたもんね……」
+display
+com11 0 5
+sound 808
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「でもっ、にひひっ♪
+line2 <shift> # いつかはストーン！　かしら？」
+com03 0 3
+choice1 <shift> # そしたら、並ぶな
+line2
+com09 0 20
+com08
+choice2 <shift> # 明日は我が身だよ
+line2
+com09 0 21
+com08
+choice3 <shift> # 石になるのか？
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そしたら、並ぶな」
+display
+com11 0 5
+sound 809
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ふふ〜ん、甘いわね♪　その頃には、
+line2 <shift> # 私は、もっとずーっと上にいるのっ」
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「明日は我が身だよ」
+display
+com11 0 5
+sound 810
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「はあ？　なに言ってるわけ？　我が身もなにも、
+line2 <shift> # これ以上、落ちようもないじゃない」
+display
+com11 0 5
+sound 811
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「う、なんか、言っててムカムカしてきた。
+line2 <shift> # み、みじめだわ……」
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「石になるのか？」
+display
+com11 0 5
+sound 812
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「石？　いし……、イシ……？」
+display
+com11 0 5
+sound 813
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「石……、ストーン。あ、そういうこと……。
+line2 <shift> # あははっ、おっもしろーい♪」
+display
+com11 0 5
+sound 814
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……って、そんなわけないでしょ！　くだら
+line2 <shift> # ないこと、マジメに考えちゃったじゃない」
+com09 0 29
+display
+location 29
+com11 0 5
+sound 815
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「でも、一時にしても……、なんで、あんな
+line2 <shift> # ヘナヘナユニットが、トップに立てるの？」
+display
+com11 0 5
+sound 816
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「歌もダンスも、私と大差ないと思うけど……。
+line2 <shift> # どっか負けてる？」
+com03 0 3
+choice1 <shift> # どこかは負けてる
+line2
+com09 0 30
+com08
+choice2 <shift> # 全部、勝ってる
+line2
+com09 0 31
+com08
+choice3 <shift> # 全部、負けてる
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どこかは負けてるよ」
+display
+com11 0 5
+sound 817
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「う……。ど、どこかって、どこよ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「人気とか、キャリアとか」
+display
+com11 0 5
+sound 818
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……まあ、そうかもね。でも、見てなさいっ。
+line2 <shift> # 今に、ひれ伏せさせてやるんだから！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （いい感じで、プライドに火をつけられたかな）
+com4b 0 0
+com09 0 39
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「全部、勝ってるよ」
+display
+com11 0 5
+sound 819
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……なら、なんでこっちが前座なのよー？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それは……、えーと……」
+display
+com11 0 5
+sound 820
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「もしかしてー、むこうには超優秀な、
+line2 <shift> # プロデューサーとか、ついてるのかしら？」
+display
+com11 0 5
+sound 821
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「がんばんなさいよねー。
+line2 <shift> # 足なんか引っ張ったら、許さないんだからっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （プレッシャーを、かけられてしまった。
+line2 <shift> # 安易に持ち上げない方が、よかったか？）
+com4b 0 1
+com09 0 39
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「全部、負けてるよ」
+display
+com11 0 5
+sound 822
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ぜ、ぜん……、くっ、く〜。
+line2 <shift> # 具体的に、いいなさいよ〜！」
+display
+com11 0 5
+sound 823
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「どこが、どんな風に、どれぐらい、
+line2 <shift> # 負けてるっていうのっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、ほら、技術とか魅力とか……」
+display
+com11 0 5
+sound 824
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……はあーあ、ムカついたー。
+line2 <shift> # もう私、今日は、やる気なーし」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、おい……、伊織……」
+display
+com11 0 5
+sound 825
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ふーんだ。あんたが悪いんだからねっ。
+line2 <shift> # 超テキトーに歌ってやるわ〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （マズい、最悪だ……。うまいこと、
+line2 <shift> # なだめられれば、いいけど……）
+com4b 0 2
+com09 0 39
+display
+location 39
+unk02

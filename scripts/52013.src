@@ -1,0 +1,347 @@
+com2c 0 48
+com2d 0 91
+com2e 0 101
+com32 0 0
+com11 0 5
+sound 500
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「わ！　コスメショップだねっ。
+line2 <shift> # 兄ちゃん、ここで、なに買うの？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「撮影用のファンデーションだよ。
+line2 <shift> # ピッタリの色、選ぼうな」
+display
+com11 0 5
+sound 501
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「うん、がんばって、いいの探すー！
+line2 <shift> # いこ、真美！」
+display
+com11 0 5
+sound 502
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「まずは、あっちの端っこからだねっ！
+line2 <shift> # 片っ端から、試してみちゃお〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、おい、ふたりとも！」
+com03 0 3
+choice1 <shift> # マジメに選べよ？
+line2
+com09 0 10
+com08
+choice2 <shift> # 店、こわすなよ？
+line2
+com09 0 11
+com08
+choice3 <shift> # 違う店行くなよ？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「マジメに選べよ？」
+display
+com11 0 5
+sound 503
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「わかってるー！
+line2 <shift> # 兄ちゃんは、ここで待っててね！」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「店、こわすなよ？」
+display
+com11 0 5
+sound 504
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「大丈夫だよー！　亜美達、いい子だから、
+line2 <shift> # そんなことしないもーん！」
+display
+com11 0 5
+sound 505
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「兄ちゃんは、選び終わるまで、
+line2 <shift> # ここで待っててね！」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「違う店行くなよ？　隣のおもちゃ屋とか……」
+display
+com11 0 5
+sound 524
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「そんなこと、しないよ〜！
+line2 <shift> # 亜美達、お仕事で来てるんだから〜」
+display
+com11 0 5
+sound 507
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「真美達を、信用してよね〜。兄ちゃんは、
+line2 <shift> # 選び終わるまで、ここで待ってて！」
+com09 0 29
+display
+location 29
+com22 0 30
+com21 0 30
+com11 0 5
+sound 508
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「じゃじゃ〜ん！　どおどお？
+line2 <shift> # インドの人みたいでしょ〜？」
+display
+com11 0 5
+sound 509
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「真美も真美も〜！　インドの人、２号〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あのなー！　それのどこが、ファンデーション
+line2 <shift> # なんだよ！？　亜美、動くな。今、落とすから」
+display
+com11 0 5
+sound 510
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「ええ〜、せっかくつけたのに〜。わかった……。
+line2 <shift> # とっていいから、怒らないでね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まったく……。ほら、顔出して」
+com0e 3 36
+com44
+com09 0 30
+com45
+com44
+com09 0 31
+com45
+com44
+com09 0 32
+com45
+display
+location 30
+com1c 0 0
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし！　これで落ちた。次は真美だ」
+com09 0 49
+display
+location 31
+com11 0 5
+sound 525
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「あれ〜？　そんなとこ、こすって、どうした
+line2 <shift> # の？　亜美、鼻水なんて出てないよ〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、ごめん。ちょと下すぎた……。
+line2 <shift> # 亜美は、また後でな。次は真美だ」
+com09 0 49
+display
+location 32
+com11 0 5
+sound 512
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「兄ちゃん、どうしたの？
+line2 <shift> # 落とすんじゃなかったの？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、その予定だったけど、とりあえず、
+line2 <shift> # 亜美は後回し。やっぱり、真美からだ」
+com09 0 49
+display
+location 49
+com11 0 5
+sound 513
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「んっとね、真美のは、亜美のより、ベッタリ
+line2 <shift> # つけたの。なかなか、とれないかも……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「な、なに……？　よし、意地でも落として
+line2 <shift> # やる。さ、顔をこっちへ！」
+com0e 3 37
+com44
+com09 0 50 144 148 146 108 129 123 130 81
+com45
+com44
+com09 0 51
+com45
+com44
+com09 0 52
+com45
+com44
+com09 0 53
+com45
+display
+location 50
+com1c 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ふぅー、なんとか、落ちたみたいだな」
+display
+com11 0 5
+sound 514
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「うわ、すごいね、兄ちゃん！
+line2 <shift> # 真美、絶対ムリだって、思ったのに〜」
+com37 0 1
+com1e 0 0
+com09 0 70
+com3b
+com37 0 0
+com1e 0 0
+com09 0 71
+com3b
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「く。これだけ、がんばったのに、
+line2 <shift> # とれないなんて……」
+display
+com11 0 5
+sound 515
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「ね！　だから、言ったでしょ？
+line2 <shift> # 真美のは、大変だって！」
+com37 0 1
+com1e 0 0
+com09 0 72
+com3b
+com37 0 0
+com1e 0 0
+com09 0 73
+com3b
+display
+location 52
+com11 0 5
+sound 526
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「あれ〜？　頭なでなでって、
+line2 <shift> # 兄ちゃん、ほめてくれたの？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、そういうことじゃなくて……。
+line2 <shift> # ちょっと、上に行きすぎたな」
+com37 0 1
+com1e 0 0
+com09 0 72
+com3b
+com37 0 0
+com1e 0 0
+com09 0 73
+com3b
+display
+location 53
+com11 0 5
+sound 517
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「兄ちゃん？　真美のおでこの、
+line2 <shift> # 落とさないの？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う、うん……。まあ、そんなに落ちにくいん
+line2 <shift> # なら、とりあえず、あきらめるよ」
+com37 0 1
+com1e 0 0
+com09 0 72
+com3b
+com37 0 0
+com1e 0 0
+com09 0 73
+com3b
+display
+location 70
+com11 0 5
+sound 518
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「兄ちゃんは、化粧の腕前も、すごいんだね！
+line2 <shift> # 亜美、感動〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （よくわからないけど、尊敬されてしまった。
+line2 <shift> # さ、気持ちよく、買い物に戻ろう！）
+com09 0 89
+display
+location 71
+com11 0 5
+sound 519
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「安心するのは、まだ早いよ？　亜美のは、まだ
+line2 <shift> # 残ってるんだから〜。ほらほら、兄ちゃん！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （う、そうだった。両方ともスンナリとは、
+line2 <shift> # いかなかったな。けど、すぐ済むだろう）
+com09 0 89
+display
+location 72
+com11 0 5
+sound 520
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「真美〜、兄ちゃん、ひいきしたのかもよ？
+line2 <shift> # 真美の顔は、テキトーでも、いいやって」
+display
+com11 0 5
+sound 521
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「ええええ〜、そうなの〜？
+line2 <shift> # 真美、そういうの、なんか、やだな……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うーん、両方ともスンナリとは、
+line2 <shift> # いかなかったか。けど、まあ、しかたない……）
+com09 0 89
+display
+location 73
+com11 0 5
+sound 522
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「兄ちゃん、こういうの苦手なんだね？　落とす
+line2 <shift> # っていったのに、両方とも、できないなんて」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わ、悪かったよ。化粧の落とし方なんて、
+line2 <shift> # ほとんど知らないから。くっ……」
+display
+com11 0 5
+sound 523
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「元気出してね、兄ちゃん。
+line2 <shift> # インドパワーで、なぐさめてあげるね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （そんなパワーが、なぐさめになるわけもない。
+line2 <shift> # やさしく言われると、余計、敗北感があるな）
+com09 0 89
+display
+location 89
+unk02

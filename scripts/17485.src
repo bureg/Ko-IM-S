@@ -1,0 +1,446 @@
+com2d 0 31
+com2c 0 51
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （市主催のお祭りの、イベントに出演するため、
+line2 <shift> # とある競技場にやってきた……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （競技場内外に、市民手作りの、たくさんの
+line2 <shift> # 出店が出ていて、すごくにぎやかだな！）
+display
+com11 0 0
+sound 0
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「プロデューサー！
+line2 <shift> # 私の出番、終わりましたー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ！　もう？　ずいぶん早かったんだな」
+display
+com11 0 0
+sound 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「他のアイドルさんで出られなくなった人が
+line2 <shift> # いて、順番が早くなったんです〜」
+display
+com11 0 0
+sound 2
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「でも、結構盛り上がりましたよー！
+line2 <shift> # えへへっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そっか、お疲れ様！　時間が空いたから……
+line2 <shift> # せっかくだし、お祭りでも見ていくか？」
+display
+com11 0 0
+sound 3
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「やったーっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おいおい、あんまりはしゃぎ過ぎると
+line2 <shift> # ファンにばれるぞ」
+display
+com11 0 0
+sound 4
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「は、はい！　……でも、でも、
+line2 <shift> # はしゃぐなって方がムリかもです〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （やよいは、キョロキョロ物珍しそうに
+line2 <shift> # 周りを眺めている）
+display
+com11 0 0
+sound 5
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「色んな出店とかがあって、楽しいですねー！
+line2 <shift> # あ、これとか面白そうですー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ん？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ロープを引っ張って景品を当てる
+line2 <shift> # ゲームか……）
+display
+com11 0 0
+sound 6
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そうだ！　これで、家族に
+line2 <shift> # おみやげを持って帰ってあげよ〜っと！」
+display
+com11 0 0
+sound 7
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えーっと……。ターゲットは、あの大きな
+line2 <shift> # クマさんのぬいぐるみですー！」
+display
+com11 0 0
+sound 8
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えっと……えっと、１回５００円だから……」
+display
+com11 0 0
+sound 9
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「に、２回で当ててみせます！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （予算は１０００円か……。ちょっと厳しいな）
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 10
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うう〜……。
+line2 <shift> # 人生、そう、うまくはいきませんね……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （残念賞のティッシュが２個、
+line2 <shift> # やよいの手に握られている）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「しょうがないな。ここは俺に任せろ！
+line2 <shift> # クマさんを取ってやるからな」
+display
+com11 0 0
+sound 11
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ええーっ！　そんな、悪いですよー！
+line2 <shift> # プロデューサーに取ってもらうなんて……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺に取ってもらうのは、気がひけるのかな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （やよいの気が楽になるように、
+line2 <shift> # 何か口実を作ってやろう）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「何言ってんだ。もちろんタダじゃないぞ。
+line2 <shift> # 俺がぬいぐるみを取ったら……」
+com03 0 3
+choice1 <shift> # 次のオーディション合格な
+line2
+com09 0 10
+com08
+choice2 <shift> # 一生タダ働きだぞ
+line2
+com09 0 11
+com08
+choice3 <shift> # ホッペにキスしてくれよ
+line2
+com09 0 12
+com08
+com07 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「次のオーディション、絶対合格な！」
+display
+com11 0 0
+sound 12
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えええっ！　し、死ぬ気でがんばります〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （プレッシャーをかけ過ぎたかな……。
+line2 <shift> # 目を白黒させてる）
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「一生タダ働きな！」
+display
+com11 0 0
+sound 13
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「い、一生ですかーっ！？　一生は長いかも。
+line2 <shift> # ムリですー。うううう……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ちょっとからかっただけなのに、
+line2 <shift> # 本気で困っているようだ）
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ホッペにキスしてくれよ」
+display
+com11 0 0
+sound 14
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「き、き、き、キスですかーーーーっ！？
+line2 <shift> # えええーーーーっ！！　ムリですよーー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ちょっとからかっただけなのに、
+line2 <shift> # 真っ赤になって困っている）
+com09 0 19
+display
+location 19
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「冗談だよ、やよい。
+line2 <shift> # 残念賞のティッシュと交換な」
+display
+com11 0 0
+sound 15
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「でも、それじゃ、
+line2 <shift> # プロデューサーに悪いです！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「頼むよ。ちょうど自宅のティッシュペーパー
+line2 <shift> # 切らしてたとこでね。困ってるんだ」
+display
+com11 0 0
+sound 16
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「え？　あ、そうなんですかー？
+line2 <shift> # だったら……はい！　わかりました〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よ〜し！　見てろよー！」
+display
+com22 0 30
+com21 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ここまで当たらないとはな……。ここまで
+line2 <shift> # 一体、何本のロープを引いたことか……」
+display
+com11 0 0
+sound 17
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うう〜。でも、あと２本ですよー？
+line2 <shift> # この２本を引けば、必ず当たるはずですー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ごめん……。
+line2 <shift> # もう帰りの交通費しか残ってないんだ」
+display
+com11 0 0
+sound 18
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うう〜……。もう少しなのに〜……」
+com03 0 3
+choice1 <shift> # あきらめが肝心だぞ
+line2
+com09 0 20
+com08
+choice2 <shift> # 道ばたにお金落ちてないかな
+line2
+com09 0 21
+com08
+choice3 <shift> # こうなったら力ずくで……
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「こういうことは、あきらめが肝心なんだ」
+display
+com11 0 0
+sound 19
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「でもでも、あと２本しか残ってないのに
+line2 <shift> # あきらめたら、あとで後悔しそうですー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、それは……、まあ……そうだな……」
+display
+com11 0 0
+sound 20
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ううう……。でも、どうすれば……？」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「道ばたにお金でも、落ちてないかな……」
+display
+com11 0 0
+sound 21
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「お、落ちてても、アイドルが
+line2 <shift> # ネコババしちゃいけません！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ま、まあ、そうだな……」
+display
+com11 0 0
+sound 22
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うう〜……。
+line2 <shift> # でも、いったいどうすれば……？」
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「こうなったら、力ずくで奪うか」
+display
+com11 0 0
+sound 23
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「だ、ダメです〜！　そんなおみやげなんか
+line2 <shift> # 家族も、よろこんでくれませんよ〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだよな。でも、他に方法は……」
+display
+com11 0 0
+sound 24
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「う〜ん……」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 25
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そうだっ！　たしか、こっちのポッケに……、
+line2 <shift> # もしもの時のお金が……！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おおっ！」
+display
+com11 0 0
+sound 26
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ありました〜！　ご、５００円ですけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「５００円か……。
+line2 <shift> # 残りは２本、チャンスは１回か……」
+display
+com11 0 0
+sound 27
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「プロデューサー、お願いします！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （やよいから、託された最後の５００円……。
+line2 <shift> # 絶対に外すわけにはいかない！）
+com03 0 2
+choice1 <shift> # 右のロープだ！
+line2
+com09 0 30
+com08
+choice2 <shift> # 左のロープだ！
+line2
+com09 0 31
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「右のロープだ！」
+com37 0 1
+com1e 0 0
+com09 0 40
+com3b
+com37 0 0
+com1e 0 0
+com09 0 41
+com3b
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「左のロープだ！」
+com37 0 1
+com1e 0 0
+com09 0 40
+com3b
+com37 0 0
+com1e 0 0
+com09 0 41
+com3b
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「こっちのロープだ！」
+com09 0 41
+display
+location 40
+com11 0 0
+sound 28
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「お、お願いしますーっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……あっ！　やったぞ、やよい！
+line2 <shift> # クマの一本釣りだー！」
+display
+com11 0 0
+sound 29
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うあ〜っ！　すごい、すごいです〜！
+line2 <shift> # プロデューサー！　いぇいっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ほ、本当にあったんだな。当たり……）
+display
+com11 0 0
+sound 30
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「このクマさんの名前は、プロデューサーの
+line2 <shift> # プロちゃんにしますね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「プロちゃんか……、
+line2 <shift> # なんだか照れくさいな……」
+display
+com11 0 0
+sound 31
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「家族も、きっとよろこびます。
+line2 <shift> # ありがとうございました〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （家族のことになると、
+line2 <shift> # 自分のこと以上によろこぶんだな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （財布はカラッポになったけど、
+line2 <shift> # やよいの笑顔があれば、それでじゅうぶんだ）
+com4b 0 0
+com09 0 69
+display
+location 41
+com11 0 0
+sound 32
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「お、お願いしますーっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……す、すまん。
+line2 <shift> # またもやティッシュだ……」
+display
+com11 0 0
+sound 33
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はふぅ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ショックのあまり、やよいは魂が抜けたかの
+line2 <shift> # ように、その場にヒザをついてしまった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （さんざん期待させた挙句、裏切るような結果に
+line2 <shift> # なってしまって……やよいには悪いことしたな）
+com4b 0 2
+com09 0 69
+display
+location 69
+unk02

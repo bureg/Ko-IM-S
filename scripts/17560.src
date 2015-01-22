@@ -1,0 +1,596 @@
+com2d 0 31
+com2c 0 25
+com2c 0 19
+com2c 0 47
+com2c 0 1
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ちょっと寄るところがある、と事務所を出て
+line2 <shift> # 行ったきり、やよいが戻ってこない……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そろそろ移動しないと、ＴＶの深夜番組収録
+line2 <shift> # の時間に、間に合わなくなるんだけどな）
+display
+com11 0 0
+sound 0
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ごめんなさーい、プロデューサー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やよい！　随分、遅かったな。
+line2 <shift> # いったい何の用事だったんだ？」
+display
+com11 0 0
+sound 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そ、それは……えっとー、
+line2 <shift> # 学校から呼び出しがあって……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「学校からの呼び出し？　そうか……」
+com03 0 3
+choice1 <shift> # 暴力事件だな
+line2
+com09 0 10
+com08
+choice2 <shift> # 補習だろう
+com09 0 11
+com08
+choice3 <shift> # 校則違反がバレたな
+line2
+com09 0 12
+com08
+com07 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「暴力事件だな」
+display
+com11 0 0
+sound 2
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ええっ！　そんなことしませんよ〜！！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃあ、脱力事件だな」
+display
+com11 0 0
+sound 3
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「……脱力事件？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「たとえば、給食を食べ過ぎて、
+line2 <shift> # 保健室に運ばれたとか……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「校内マラソンではりきりすぎて
+line2 <shift> # 道を間違えて、行方不明になったとか……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「聞くと、思わず力が抜けてしまうような
+line2 <shift> # 事件のことだ」
+display
+com11 0 0
+sound 4
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うう〜、いくつか心当たりはありますけど、
+line2 <shift> # 今回の呼び出しとは関係ありません！」
+display
+com11 0 0
+sound 5
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「補習だったんですー。
+line2 <shift> # ちょっとテストで赤点取っちゃって……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだったのか」
+display
+com11 0 0
+sound 6
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はい……。買い物の計算とかは得意なんです
+line2 <shift> # けど、教科書に載ってる計算は難しくて……」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「補習だろう」
+display
+com11 0 0
+sound 7
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うう……。ひどいです〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんだ、ハズレか」
+display
+com11 0 0
+sound 8
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「当たってるから、ひどいんですー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そう言われてもなあ……）
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「校則違反がバレたのか？
+line2 <shift> # 髪を染めてるのがバレた……とか」
+display
+com11 0 0
+sound 9
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うう〜。そんなわけないじゃないですかー！
+line2 <shift> # 髪の色は、生まれつきですー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃあ、何の呼び出しだったんだ？」
+display
+com11 0 0
+sound 10
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うう〜、補習だったんです。
+line2 <shift> # ちょっとテストで赤点取っちゃって……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだったのか……」
+display
+com11 0 0
+sound 11
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はい……。買い物の計算とかは得意なんです
+line2 <shift> # けど、教科書に載ってる計算は難しくて……」
+com09 0 19
+display
+location 19
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おっと、こんなことを議論してる
+line2 <shift> # 場合じゃなかった！！」
+display
+com11 0 0
+sound 12
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「やっぱり……。次の仕事、
+line2 <shift> # けっこう遠い場所でしたよね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。このままじゃ、
+line2 <shift> # 間に合うかどうかギリギリってとこだな」
+display
+com11 0 0
+sound 13
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ううう〜、どうしましょう〜！？」
+com03 0 3
+choice1 <shift> # 走れ！
+com09 0 20
+com08
+choice2 <shift> # 飛べ！
+com09 0 21
+com08
+choice3 <shift> # あきらめろ！
+line2
+com09 0 22
+com08
+com07 129 64 129 64 129 64 129 64 129 64 129 64 129 64
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「走れ！　走るんだ、やよい！」
+display
+com11 0 0
+sound 14
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はいっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ちょっと待て！
+line2 <shift> # 走って間に合うわけないだろ」
+display
+com11 0 0
+sound 15
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ええっ？　だって
+line2 <shift> # プロデューサーが走れって言ったから……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、ごめん。冗談だよ。
+line2 <shift> # でも、ちょっと考えればわかることだろ？」
+display
+com11 0 0
+sound 16
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「でもでも、気合い入れれば、
+line2 <shift> # やってやれないことはありませーん！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （下手な冗談は言えないな……）
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「飛べ！　飛ぶんだ、やよい！」
+display
+com11 0 0
+sound 17
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えっ！　飛ぶんですかっ！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「飛行機の方が、車よりずっと速いだろ」
+display
+com11 0 0
+sound 18
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「さすがプロデューサー！
+line2 <shift> # じゃあ、さっそく空港に……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ちょっと待て！　冗談だよ、冗談……」
+display
+com11 0 0
+sound 19
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えーっ！　冗談なんですか？
+line2 <shift> # こんな時に、まぎらわしいかも……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、だって……移動先より
+line2 <shift> # 空港の方が遠いじゃないか」
+display
+com11 0 0
+sound 20
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そうなんですかー？　私、飛行機とか乗ったこ
+line2 <shift> # となくて……。よく知らなくてごめんなさい〜」
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あきらめろ！　もうあきらめよう、やよい！」
+display
+com11 0 0
+sound 21
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ええっ！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「人間、あきらめが肝心だ。
+line2 <shift> # 今日はあきらめよう」
+display
+com11 0 0
+sound 22
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ダメですよー！
+line2 <shift> # 人間、あきらめたら、おしまいですー！」
+display
+com11 0 0
+sound 23
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うう〜。こうなったら、私だけでも……！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ちょっと待て！
+line2 <shift> # ひとりで、どうするつもりだ」
+display
+com11 0 0
+sound 24
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「気合いで走りまーす！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「場所は知ってるのか？」
+display
+com11 0 0
+sound 25
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「き、気合いで見つけまーす！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……わかったよ、ごめん！　やよいの気持ちは
+line2 <shift> # わかったから、走っていくのはやめような？」
+display
+com11 0 0
+sound 26
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「で、でもー……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あきらめろって言ったのは、冗談なんだ。
+line2 <shift> # ちゃんと方法は考えてあるから」
+display
+com11 0 0
+sound 27
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そ、そうだったんですか？　よかったー……」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「実は、音無さんに頼んで、レンタカーを手配し
+line2 <shift> # ておいてもらったんだ。急げば間に合うだろう」
+display
+com11 0 0
+sound 51
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ホントですかっ！？　うっうー！　さすが
+line2 <shift> # プロデューサー！　頼りになるかなーって」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「はっはっはっ。そう、ほめるなって。
+line2 <shift> # 玄関の前に、停めてあるはずだから、急ごう！」
+display
+com22 0 30
+com32 0 1
+com21 0 30
+com11 0 0
+sound 52
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ぷ、プロデューサー……。あの、車が……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうした、やよい。も、もしかして、
+line2 <shift> # 車が無いのか！？　そんなはずは……！」
+display
+com11 0 0
+sound 53
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「いえ、車はありますよー。でも、ありすぎかも。
+line2 <shift> # ３台も停まってて……。うう、どれに乗れば？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんだって！？　あ、車にメモが貼ってある。
+line2 <shift> # 『レンタカー、サービスキャンペーン中！』」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「『今なら１台の価格で、速い車と、そうでも
+line2 <shift> # ない車、計３台が借りられます！』だって」
+display
+com11 0 0
+sound 54
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「それで、３台もあるんですかー！
+line2 <shift> # うあ〜、お得ですー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お得だけど、ムダすぎるぞ！　速い車１台だけ
+line2 <shift> # で、良かったんだけど……。どれが速い車だ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （さあ、どの車に乗って行こう？　下手な選択を
+line2 <shift> # すると、仕事に遅れるかもしれない……）
+com03 0 3
+choice1 <shift> # こっちの車だ！
+line2
+com09 0 30
+com08
+choice2 <shift> # そっちの車だ！
+line2
+com09 0 31
+com08
+choice3 <shift> # あっちの車だ！
+line2
+com09 0 32
+com08
+com07 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64
+com09 0 33
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「こっちの車だ！」
+com37 0 1
+com1e 0 0
+com09 0 40
+com3b
+com37 0 0
+com1e 0 0
+com09 0 41
+com3b
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そっちの車だ！」
+com37 0 1
+com1e 0 0
+com09 0 40
+com3b
+com37 0 0
+com1e 0 0
+com09 0 41
+com3b
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あっちの車だ！」
+com37 0 1
+com1e 0 0
+com09 0 40
+com3b
+com37 0 0
+com1e 0 0
+com09 0 41
+com3b
+display
+location 33
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どの車でもいいよな？」
+com09 0 41
+display
+location 40
+com11 0 0
+sound 31
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はいっ！」
+display
+com22 0 30
+com32 0 2
+com21 0 30
+com11 0 0
+sound 55
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ううう〜。プロデューサー、いつもの道と、
+line2 <shift> # ぜんぜん違うとこ通ってますよ〜？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「裏道ってヤツだよ。この車、速い上に最新式の
+line2 <shift> # システムがついてて、空いてる道がわかるんだ」
+display
+com11 0 0
+sound 56
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そうなんですかっ！？　かしこい車かも！
+line2 <shift> # レンタカーでも、いろいろあるんですね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いい車を選んだみたいだな。
+line2 <shift> # 借りておいてくれた音無さんに、感謝しないと」
+display
+com11 0 0
+sound 57
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はいっ。かしこい車を選んでくれた、かしこい
+line2 <shift> # プロデューサーにも、カンシャですー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （思いっきり、カンで選んだんだが、
+line2 <shift> # ナイショにしておこう……）
+display
+com22 0 30
+com32 0 3
+com21 0 30
+com11 0 0
+sound 58
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「やった〜！　間に合いましたよ〜！　やっぱり
+line2 <shift> # プロデューサーはスゴイです！　プロですー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おいおい、やよいだってプロなんだぞ。アイド
+line2 <shift> # ルとして働いて、お金をもらってるから……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「プロのアイドルだ！」
+display
+com11 0 0
+sound 38
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「プロのアイドル！　うっう〜、そうですね！
+line2 <shift> # 私もがんばらなきゃいけないですー！」
+display
+com11 0 0
+sound 39
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えいえい、おー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （無事、間に合ったことで、やよいの仕事への
+line2 <shift> # 意欲も、高まったようだ。いい選択をしたな！）
+com4b 0 0
+com09 0 69
+display
+location 41
+com11 0 0
+sound 40
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はいっ！」
+display
+com22 0 30
+com32 0 2
+com21 0 30
+com11 0 0
+sound 41
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「じゅ、渋滞につかまっちゃったかも……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「すまない。この車、遅い上に、地図も何も積ん
+line2 <shift> # でないから、道が、今ひとつわからなくて……」
+display
+com11 0 0
+sound 42
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ううう〜。
+line2 <shift> # 私、降りて、ここから走ります〜！！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いやいや、無理だって……。
+line2 <shift> # まだ何十キロもあるんだし」
+display
+com11 0 0
+sound 43
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「でもでも〜！
+line2 <shift> # このままじゃ遅刻しちゃいますよー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。それはわかってるんだけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「はあ……。このレンタカーも半日で返すつもり
+line2 <shift> # だったけど、１日借りることになりそうだな」
+display
+com11 0 0
+sound 44
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ああーっ！！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうした、やよい？　そんな大声出して……」
+display
+com11 0 0
+sound 59
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「座席の下に『レンタカー料金表』っていうのが
+line2 <shift> # ありました。えっと、１日借りる場合は……」
+display
+com11 0 0
+sound 60
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「いち、じゅう、ひゃく、せん……、
+line2 <shift> # ま、ま、ま、ま、まん……」
+display
+com11 0 0
+sound 61
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「降りますー！　降ろして下さいー！
+line2 <shift> # どうせ動かないんだから、今すぐ返しますー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「こら待て、やよい！
+line2 <shift> # こんな道路の真ん中じゃ、どうせ返せないよ」
+display
+com11 0 0
+sound 62
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ううう。乗ってるだけなのに……。走ってない
+line2 <shift> # のに……。お、お金が飛んでいきますー！」
+display
+com11 0 0
+sound 63
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「こ、怖いですー。うううう……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後、結局、仕事には遅刻してしまい、
+line2 <shift> # 気まずい空気の中、収録を迎えてしまった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しかも、やよいは、レンタカー代が、かさんだ
+line2 <shift> # ショックから、当分立ち直れなかった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （違う車を選んでいたら、
+line2 <shift> # こんなことには、ならなかったかも……）
+com4b 0 2
+com09 0 69
+display
+location 69
+unk02

@@ -1,0 +1,222 @@
+com2c 0 118
+com2d 0 61
+com32 0 0
+location 0
+com11 0 6
+sound 13000
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「プロデューサーと、こうして並んで
+line2 <shift> # 歩けるのって……、とっても、楽しいです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そう言ってもらえると、送ってきたかいがある
+line2 <shift> # よ。ライブも成功したし、言うことナシかな？」
+display
+com11 0 6
+sound 13001
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「はい！　ドームで、あれだけのライブができて、
+line2 <shift> # すっかり、自信つきました！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか。一応、確認しておくけど……、
+line2 <shift> # 明日からも、アイドル続けられる？」
+display
+com11 0 6
+sound 13002
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「もちろんです！　もう、なにもこわくありませ
+line2 <shift> # ん。強くなった私は、どんな歌だって歌えるし」
+display
+com11 0 6
+sound 13003
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「それに……、これまでなら、絶対言えなかった
+line2 <shift> # ようなことだって……、口に出して、言えます」
+display
+com1c 0 3
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ん？　絶対に、言えなかったことって？」
+display
+com11 0 6
+sound 13004
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「プロデューサー、わ、わ、私……、
+line2 <shift> # こんなこと言うの、生まれて、はじめてです」
+display
+com11 0 6
+sound 13005
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ライブの前以上に、どきどきしてます。
+line2 <shift> # け、けど……、言います！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う、うん……」
+display
+com11 0 6
+sound 13006
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「私、今日まで、一生懸命がんばってきました。
+line2 <shift> # だから……」
+display
+com11 0 6
+sound 13007
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「トップになれた『ごほうび』、
+line2 <shift> # プロデューサーから、もらいたいんですっ」
+display
+com11 0 6
+sound 13008
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「あぅ、い、言っちゃいました……。
+line2 <shift> # 意味、わかってもらえましたか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、多分……」
+display
+com11 0 6
+sound 13009
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「本当ですか？　それじゃあ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、雪歩……」
+com03 0 3
+choice1 <shift> # こっちへ、おいで　
+line2
+com09 0 10
+com08
+choice2 <shift> # 手、つなごうか？　
+line2
+com09 0 11
+com08
+choice3 <shift> # なにが欲しいか、言ってごらん　
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「こっちへ、おいで」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「手、つなごうか？」
+display
+com11 0 6
+sound 13010
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「え？　それが、ごほうびですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、あれ、そういうことじゃ、ないのか？」
+display
+com11 0 6
+sound 13011
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「意味は、近いです。
+line2 <shift> # でもぉ、て、て、手じゃ、いやです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「雪歩……！？　……わかった。
+line2 <shift> # それじゃ、予定変更だ。もっと近くにおいで」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なにが欲しいか、言ってごらん」
+display
+com11 0 6
+sound 13012
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「えっ、言わせるってことは、やっぱり、
+line2 <shift> # わかってくれて、なかったんですかぁ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「い、いや……。今ひとつ確信が持てなかった
+line2 <shift> # から。カン違いして、泣かれると困るし」
+display
+com11 0 6
+sound 13013
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「それ……、多分、カン違いじゃありません。
+line2 <shift> # それに、私、泣いたりもしません」
+display
+com11 0 6
+sound 13014
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「約束します。だから……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「雪歩……。……わ、わかった。
+line2 <shift> # それじゃ、もっと近くにおいで」
+com09 0 19
+display
+location 19
+com11 0 6
+sound 13015
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「はい……」
+display
+com22 0 30
+com21 0 30
+com11 0 6
+sound 13016
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ふぅ……、送ってくれて、ありがとうござい
+line2 <shift> # ました。そ、それから、ごほうびも……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。じゃあ、今日は、ここで別れよう。
+line2 <shift> # もう仕事場で会うことは、ないかな？」
+display
+com11 0 6
+sound 13017
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「そうですね。でも、次のお休みの日には、
+line2 <shift> # 会ってもらえますよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もちろんだとも」
+display
+com11 0 6
+sound 13018
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「そのうち、家にも、きて下さい。
+line2 <shift> # お父さん、こわくて、厳しい人ですけど」
+display
+com11 0 6
+sound 13019
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「プロデューサーなら、
+line2 <shift> # きっと大丈夫だと思いますから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そう、信じたいな。じゃ、おやすみ、雪歩」
+display
+com11 0 6
+sound 13020
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「おやすみなさい。これからも……」
+display
+com4a 0 0
+com11 0 6
+sound 13021
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「私のこと……、よろしくお願いしますね。
+line2 <shift> # ずっと、ついていきますから」
+display
+location 100 129 92 129 92 130 177 130 164 130 181 130 196 129 65 137 180 130 170 136 231 130 196 130 189 147 224 139 67 130 200 143 173 143 151 130 205 129 65 140 169 142 150 129 65
+line2 <shift> # 才能を開花させ、最高の形で活動期間を終えた。
+display
+location 101 137 180 146 66 130 170 129 65 141 196 130 209 145 103 130 241 130 197 129 65 140 124 148 92 138 69 130 197 138 136 150 244 130 183 130 233 147 250 130 205 129 65
+line2 <shift> # こないかもしれない。けれど――、
+display
+location 102 149 145 145 228 130 204 151 160 130 197 129 65 130 194 130 200 130 162 130 190 142 232 130 170 151 163 130 234 130 233 130 177 130 198 130 205 130 200 130 162 129 66 145 229
+line2 <shift> # 切な花の芽を――、これから大事に育てていこう。
+display
+unk02

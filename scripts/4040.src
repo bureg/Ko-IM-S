@@ -1,0 +1,317 @@
+com2c 0 25
+com2d 0 11
+com32 0 0
+com11 0 1
+sound 100
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「うーん……、困ったなぁ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうした春香、頭抱えちゃって。
+line2 <shift> # 悩みごとか？」
+display
+com11 0 1
+sound 101
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あ、プロデューサーさん……。
+line2 <shift> # いえ、たいしたことじゃあないんです♪」
+com03 0 2
+choice1 <shift> # そう言わずに聞かせてよ
+line2
+com09 0 10
+com08
+choice2 <shift> # それなら、いいんだけど
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そう言わずに聞かせてよ」
+display
+com11 0 1
+sound 102
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あっ、というか、ほんとに、
+line2 <shift> # たいしたことじゃないっていうか」
+display
+com11 0 1
+sound 103
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「正直、ちょっと恥ずかしいっていうか……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なんだか気になるなぁ」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ふーん、それなら、いいんだけど。
+line2 <shift> # ジャマしちゃったかな？」
+display
+com11 0 1
+sound 104
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あっ、いえ、はい。大丈夫ですっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「にしても、春香が悩むなんて、
+line2 <shift> # なんか意外かも」
+display
+com11 0 1
+sound 105
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「むっ、なんで意外なんですかぁ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ゴメンゴメン。じゃ、俺のことは気にせず、
+line2 <shift> # 考えごとの続きをどうぞ」
+display
+com11 0 1
+sound 106
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「えっ、あ、はい。ええと、なんだっけ？
+line2 <shift> # うーん……、うーん」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ジー……）
+display
+com11 0 1
+sound 107
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ぷ、プロデューサーさんに、そうやって
+line2 <shift> # 見られてると、私、悩めないですよぉ〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ははは……、すまん。でも、よかったら、
+line2 <shift> # 話してくれないか？　なにを悩んでるのか」
+com09 0 29
+display
+location 29
+com11 0 1
+sound 108
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「はい、実は……、
+line2 <shift> # 学校の勉強のことなんですけど」
+display
+com11 0 1
+sound 109
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「最近、仕事が随分増えてきたので、そのぶん、
+line2 <shift> # 授業の出席が、ちょっと足りなくて」
+display
+com11 0 1
+sound 110
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「友達にノート借りたりしてるんですけど……、
+line2 <shift> # 勉強が遅れ気味なんです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そういや学生だもんなぁ、春香。
+line2 <shift> # 学校のほうも、なんとかしないと」
+display
+com11 0 1
+sound 111
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「はい。だけどたまに出席しても、授業の内容が、
+line2 <shift> # ちんぷんかんぷんになってしまってて……」
+display
+com11 0 1
+sound 112
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「もうちょっと学校に行きたい気もするんだけど、
+line2 <shift> # 仕事に穴あけるわけにはいかないし」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、難しいところだね」
+display
+com11 0 1
+sound 113
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ああ、もう少し努力しなきゃって、
+line2 <shift> # 思うんだけど……」
+com03 0 3
+choice1 <shift> # 自力で頑張れ
+line2
+com09 0 30
+com08
+choice2 <shift> # 手伝おうか？
+line2
+com09 0 31
+com08
+choice3 <shift> # 誰か手伝ってくれれば……
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「大変だとは思うけど、ここは自力で頑張れ。自
+line2 <shift> # 分の身になる勉強するには、そうするしかない」
+display
+com11 0 1
+sound 114
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そうですね。やっぱり、
+line2 <shift> # 自分でやるしかないかな」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺が、いろいろ教えてあげられれば
+line2 <shift> # よかったんだけど、そうもいかないしさ」
+display
+com11 0 1
+sound 115
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あっ、いえ、私、大丈夫です！」
+display
+com11 0 1
+sound 116
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「自分で選んだ仕事だし、自分で選んだ学校
+line2 <shift> # だから……、自分でなんとかしなくちゃ！」
+display
+com11 0 1
+sound 117
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「弱音吐いちゃって、すみません。勉強の遅れは、
+line2 <shift> # しっかり、頑張って取り戻しますよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。でも無理だけはしないでくれよ。
+line2 <shift> # ほんとにピンチな時は、いつでも言ってくれ」
+display
+com11 0 1
+sound 118
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「はいっ！　ふぅ……。話したらちょっとすっき
+line2 <shift> # りしました。また相談に乗って下さいね♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （よし、春香はより前向きに、
+line2 <shift> # 勉強に仕事に取り組んでくれそうだぞ）
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺、手伝おうか？」
+display
+com11 0 1
+sound 119
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「えっ、いいんですか？
+line2 <shift> # でも、なんだか申し訳ないかも」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「遠慮しなくていいって。
+line2 <shift> # で、なにを教えればいいのかな？」
+display
+com11 0 1
+sound 120
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「はい！　それじゃあ、
+line2 <shift> # これとこれと、それから……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「って、そんなにか！　いっぺんに教科書だの
+line2 <shift> # 参考書だの山盛りに渡されても困るぞ」
+display
+com11 0 1
+sound 121
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そんなぁ、私だって困ってるんです！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それはそうなんだが……」
+display
+com11 0 1
+sound 122
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「久々に学校行ったら、まとめて資料
+line2 <shift> # 渡されちゃって、だから私、わからなくって」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「こりゃ、思った以上に骨が折れそうだな」
+display
+com11 0 1
+sound 123
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ううっ……。と、とにかく、分担して
+line2 <shift> # 問題を進めましょう！　お願いしますねっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「了解……。なんか春香に教えるために、
+line2 <shift> # 俺のほうも猛勉強しなきゃならないかも」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （それから春香と俺としばらく、二人して
+line2 <shift> # 頭を抱えつつ、問題に挑んだ。……やれやれ）
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「誰かが、手伝ってくれるといいんだけど……」
+display
+com11 0 1
+sound 124
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ですねぇ……。でも、事務所のみんなとは、
+line2 <shift> # 勉強の範囲があわないし」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうなのか、そりゃ困ったね」
+display
+com11 0 1
+sound 125
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「困りましたねぇ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「家庭教師でも雇うか、ここで」
+display
+com11 0 1
+sound 126
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「えっ！？　事務所で家庭教師さんを、
+line2 <shift> # 雇ってもらえるんですか？　それ名案かも！」
+display
+com11 0 1
+sound 127
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あっ、でもぉ……、
+line2 <shift> # いつ勉強みてもらえばいいんだろう？」
+display
+com11 0 1
+sound 128
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「勉強するために事務所にきて、
+line2 <shift> # でも仕事して、その合間に……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーむ、そう考えると、
+line2 <shift> # なんだか本末転倒な感があるなぁ」
+display
+com11 0 1
+sound 129
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「やっぱり、事務所で家庭教師さんはムリですね。
+line2 <shift> # いい考えだと思ったのに……、残念」
+display
+com11 0 1
+sound 130
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「うーん、どうしよう。とりあえず、
+line2 <shift> # 明日出す宿題、やらなくちゃです……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （春香は机に向かったが、少し今後への
+line2 <shift> # 不安が残ってしまったみたいだな……）
+com09 0 49
+display
+location 49
+unk02

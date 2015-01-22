@@ -1,0 +1,343 @@
+com2c 0 24
+com2d 0 71
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さっき一報入ったんだけど、今度の歌が
+line2 <shift> # ドラマの主題歌に抜擢されるらしいぞ」
+display
+com11 0 1
+sound 400
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ええっ！？　主題歌！　や、やった！
+line2 <shift> # これは大セールスが約束されたも同然っ」
+display
+com11 0 1
+sound 401
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「それで、ど、どんなドラマなんですかっ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あー、いや、まだ局側の採用承認待ちで……、
+line2 <shift> # 詳しいドラマ内容とかはまだ聞いてないんだ」
+display
+com11 0 1
+sound 402
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「なんだ、企画レベルで決まっただけなのね。
+line2 <shift> # でも、今、話が来るってことは……」
+display
+com11 0 1
+sound 403
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「きっとゴールデンとかプライムとかで
+line2 <shift> # やるような、みんな注目のドラマですよね？」
+com03 0 2
+choice1 <shift> # だといいなぁ
+line2
+com09 0 10
+com08
+choice2 <shift> # 黙って連絡を待とう
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だといいなぁ」
+display
+com11 0 1
+sound 404
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ですよね。ああ、なんか
+line2 <shift> # ワクワクして待っちゃうなぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あれ、律子もワクワクしたりするんだな」
+display
+com11 0 1
+sound 405
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「し、しますよ！　たまには！」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「とにかく、黙って連絡を待とう」
+display
+com11 0 1
+sound 406
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「でも、気になるじゃないですかぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「気にはなるけど、ここで俺達が騒いでも
+line2 <shift> # 結果は変わらないから」
+display
+com11 0 1
+sound 407
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「つまんないの……。いろいろ結果を
+line2 <shift> # 想像したっていいじゃないですかぁ」
+display
+com11 0 1
+sound 408
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「まぁ、結果に小躍りするか、がっかりするか、
+line2 <shift> # 想像次第でギャップがあるけどね」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「っと、携帯に連絡が……、はい、もしもし。
+line2 <shift> # おお、ありがとうございます！　がんばります」
+display
+com11 0 1
+sound 409
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あっ、本採用の連絡、来たんですね！
+line2 <shift> # 内容、詳しく教えてくださいっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「局側ディレクターの説明によると、どうやら
+line2 <shift> # ちょっとマニア向けの、深夜ドラマらしいよ」
+display
+com11 0 1
+sound 410
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ええっ！？　深夜ドラマぁ？
+line2 <shift> # マニアックな？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「詳しいことはこれから事務所に送られてくる
+line2 <shift> # ファックスを……って律子、もう見てるのか」
+display
+com11 0 1
+sound 411
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「うん、今拝見中。だけど……う、う〜ん。
+line2 <shift> # ど、どうなんだろ？　これって」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「深夜帯だけど、ユニークで意欲的な企画だと
+line2 <shift> # 俺は思うよ。チャンスになるかも」
+display
+com11 0 1
+sound 412
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「で、でも、深夜ドラマだし、マニアックだし、
+line2 <shift> # しょせんマイナーとお客に思われたら……」
+display
+com11 0 1
+sound 413
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「主題歌担当してる事で、そのマイナーイメージに
+line2 <shift> # 引っ張られるような気がしちゃって……」
+com03 0 3
+choice1 <shift> # マイナーでも人気がでれば
+line2
+com09 0 30
+com08
+choice2 <shift> # メジャー地位確立へ努力だ
+line2
+com09 0 31
+com08
+choice3 <shift> # マニアの間で話題になれば
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「最初はマイナーな題材、時間帯でも、人気に
+line2 <shift> # 火がつけば、ゴールデン進出もあるかもよ？」
+display
+com11 0 1
+sound 414
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そ、そうなればいいけど。どうかなぁ。
+line2 <shift> # 流行るかな……」
+display
+com11 0 1
+sound 415
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「まぁ確かに、深夜帯発で人気が出て、その後
+line2 <shift> # 映画版や続編まで作られたドラマもあるけどね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「歌の力でどれだけ番組人気に貢献できるか？
+line2 <shift> # って点でも、やり甲斐はあるはずだぞ」
+display
+com11 0 1
+sound 416
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「なるほど……歌でドラマの視聴率を
+line2 <shift> # 引っ張るつもりでやれば、いけるかも」
+display
+com11 0 1
+sound 417
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あるいはドラマが案外好評なら、こっちの
+line2 <shift> # 人気はまずマイナスになることはないか……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「歌とドラマの相乗効果で両方人気が出れば、
+line2 <shift> # 両得だと思わないか？　プラス思考で行こう」
+display
+com11 0 1
+sound 418
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「う〜ん、そうね。よし、わかった。
+line2 <shift> # いっちょやってみますかぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （どうやら律子も前向きに、ドラマ主題歌に
+line2 <shift> # 取り組む気になってくれたようだ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ドラマと歌のコラボレーション。
+line2 <shift> # ヒットを祈願しつつ、がんばろう！）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「真のメジャーアイドルとしての地位確立の
+line2 <shift> # ため、地道な積み重ねの努力も必要だよ」
+display
+com11 0 1
+sound 419
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「まぁ、確かにね。ひとつひとつの仕事を地道に
+line2 <shift> # こなしていくのも、必要とは思うんだけど……」
+display
+com11 0 1
+sound 420
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「でもドラマの注目度が最初から期待しにくいん
+line2 <shift> # じゃ、この仕事、いまいちのれないかなぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そこは歌の力でドラマの人気を
+line2 <shift> # 牽引して、ドラマもメジャーにすればっ」
+display
+com11 0 1
+sound 421
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「う〜ん、そうだけど……まずお客にドラマ
+line2 <shift> # 本編を見てもらってこその、主題歌でしょ」
+display
+com11 0 1
+sound 422
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「主題歌あってのドラマじゃないと思うなぁ。
+line2 <shift> # そこを間違えて欲しくないっていうか」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ドラマが不人気になるとも限らないだろう。
+line2 <shift> # ドラマが売れれば問題ないじゃないか？」
+display
+com11 0 1
+sound 423
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「う〜ん、まったく売れないとも思わないけど、
+line2 <shift> # 今のままじゃマニア人気で終わりそうな……」
+display
+com11 0 1
+sound 424
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「もし本気でドラマを売るつもりなら、もっと
+line2 <shift> # メジャーな時間帯の放送に変えるべきですよっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうは言っても……、放送の都合は俺達には、
+line2 <shift> # どうすることもできないぞ」
+display
+com11 0 1
+sound 425
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「と、とにかく、私は納得いきません。なんか、
+line2 <shift> # いろいろと、もったいないじゃないですかぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （どうも律子は、このドラマ主題歌の仕事に
+line2 <shift> # 乗り気になってくれなかった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （努力次第でヒットを狙えると思うんだけど、
+line2 <shift> # 不安材料がそんなに大きいんだろうか……）
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「濃いマニアの間で話題になれば、
+line2 <shift> # 一般のお客さんからも注目されるかもよ？」
+display
+com11 0 1
+sound 426
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「え〜っ、そうかなぁ？
+line2 <shift> # 私はあんまりそうは思わないな……」
+display
+com11 0 1
+sound 427
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「一部で濃い盛り上がりになればなるほど、
+line2 <shift> # どんどん内輪で閉じちゃう気がする」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「一般には流行ってくれない、と？」
+display
+com11 0 1
+sound 428
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そうそう。だから、この仕事にあんまり
+line2 <shift> # 賛成できません。いまのままだと……」
+display
+com11 0 1
+sound 429
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「もっと普通のお客も注目するような
+line2 <shift> # 要素があればいいんだけどなぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「しかしドラマの内容や方針にまで、
+line2 <shift> # 俺達が口を出せないぞ？」
+display
+com11 0 1
+sound 430
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そうだけど、この仕事した場合にどういう
+line2 <shift> # 意義があるのかって思うと、私……」
+display
+com11 0 1
+sound 431
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「とにかく、後悔するようなことだけはしたく
+line2 <shift> # ない。もう少し考えて、仕事したいんです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「主題歌起用はチャンスと思ったんだけどなぁ。
+line2 <shift> # もう一度ディレクターと相談してみるか」
+display
+com11 0 1
+sound 432
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「私としても、チャンスは生かしたいけど。
+line2 <shift> # いつもプラスに働くとは限らないから、ね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （律子の、このドラマ企画への不信感は大きく、
+line2 <shift> # 拭えないようで……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （結局この仕事を請けた後も、律子の気は乗らず、
+line2 <shift> # 主題歌はテンションの低いものになった……）
+com09 0 49
+display
+location 49
+unk02

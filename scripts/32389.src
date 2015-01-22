@@ -1,0 +1,267 @@
+com2c 0 24
+com2d 0 61
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「雪歩、学校のレポートの提出が
+line2 <shift> # 迫ってるんだって？」
+display
+com11 0 1
+sound 100
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あっ、はい……、でも、時間がなくて。
+line2 <shift> # なかなか手がつかないんです」
+com03 0 2
+choice1 <shift> # 大変そうだなぁ
+line2
+com09 0 10
+com08
+choice2 <shift> # 手伝おうか？
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんだか、大変そうだなぁ」
+display
+com11 0 1
+sound 101
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「このところちょっと忙しかったから……あっ、
+line2 <shift> # いえ、仕事のせいにしたらいけないですよね？」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺、手伝おうか？」
+display
+com11 0 1
+sound 102
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「えっ、いいんですか？　ああっ、でも……」
+display
+com11 0 1
+sound 103
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あんまりプロデューサーに
+line2 <shift> # 頼っちゃうのは……いけないかなぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんな、遠慮しなくても。力になるよ」
+display
+com11 0 1
+sound 104
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「だけど、学校の課題だから……、
+line2 <shift> # やっぱり自分でやらないと」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ところで、いつ提出なんだ？　それって」
+display
+com11 0 1
+sound 105
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「えっと、来週かな？
+line2 <shift> # ちょっと確かめてみます……」
+display
+com11 0 1
+sound 106
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「……ええっ！？　あ、明日みたいです！
+line2 <shift> # 私、間違えてた……。ううっ、どうしよう」
+display
+com11 0 1
+sound 107
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ぐすっ、もう絶対に間に合わないですぅ。
+line2 <shift> # ああ、あきらめるしかないですね……」
+com03 0 3
+choice1 <shift> # あきらめるな！
+line2
+com09 0 30
+com08
+choice2 <shift> # あきらめるのか
+line2
+com09 0 31
+com08
+choice3 <shift> # 頑張れよ……
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あきらめるな！　まだできる可能性は
+line2 <shift> # ゼロじゃないんだろう？」
+display
+com11 0 1
+sound 108
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「で、でもっ、いまからやっても
+line2 <shift> # 私、とても……、無理ですよぉ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それなら俺も手伝うし、事務所の
+line2 <shift> # スタッフも呼ぼう」
+display
+com11 0 1
+sound 109
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そんな、申し訳ないですよ！
+line2 <shift> # だ、だめですっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もし雪歩が学校で赤点でも取ってみろ、
+line2 <shift> # 一大スキャンダルだ、ゴシップ誌に載るぞ？」
+display
+com11 0 1
+sound 110
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ええっ！？　あ、あぅ……、
+line2 <shift> # そ、そんな、大げさな」
+display
+com11 0 1
+sound 111
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「でも、ほんとにそんなことになったら困るし、
+line2 <shift> # ……ど、どうすれば」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「というわけで、いやでも事務所総出で
+line2 <shift> # 手伝うからな、わかったな？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そして、多少強引だけど、みんなで、
+line2 <shift> # 雪歩の課題を手伝うことにした）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （やっぱり、学校にも仕事にも心配事なく
+line2 <shift> # 雪歩に打ち込んで欲しいからな……）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんだ、あきらめるのか？」
+display
+com11 0 1
+sound 112
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「だ、だって、こればっかりは、
+line2 <shift> # 頑張っても……、無理ですよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やってみなけりゃわからないじゃないか」
+display
+com11 0 1
+sound 113
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「でも、家に帰ってから
+line2 <shift> # レポートはじめても、遅いし……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ここではできないの？」
+display
+com11 0 1
+sound 114
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「で、できなくは、ないですけど……、
+line2 <shift> # まだ残りの仕事があるし」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そう言ってる間に少しでも進めようよ、
+line2 <shift> # 時間が惜しい」
+display
+com11 0 1
+sound 115
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そ、そうですね……。
+line2 <shift> # ううっ、す、すみません……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だ、だから泣くなぁ！　とにかくやるんだ。
+line2 <shift> # 間に合わなくても、何もやらないよりはいい」
+display
+com11 0 1
+sound 116
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ほんとに、すみません、ぐすっ……。
+line2 <shift> # 私って、私ってほんとに、だめだなぁ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （落ち込む雪歩をなんとかなだめながら、
+line2 <shift> # 俺は課題を手伝った）
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「頑張れよ……。俺は心の中で応援するぞ」
+display
+com11 0 1
+sound 117
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「は、はい……。えっと、頑張ります、私。
+line2 <shift> # ああっ、で、でも、どうすればっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それは自分でなんとかするんだ」
+display
+com11 0 1
+sound 118
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「む、無理ですよぉ！
+line2 <shift> # な、なんとかして下さいぃ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「甘えちゃいけないっ」
+display
+com11 0 1
+sound 119
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はっ！！　そ、そうですね……。
+line2 <shift> # 甘えちゃ、いけないですね」
+display
+com11 0 1
+sound 120
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「私の、学校の課題なんだから……、
+line2 <shift> # だから、ちゃんと私、自分でやらなきゃ」
+display
+com11 0 1
+sound 121
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「簡単に、プロデューサーを頼ったら、
+line2 <shift> # いけませんね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、それに勉強に関しては
+line2 <shift> # 俺はあてにならんぞ、たぶん……」
+display
+com11 0 1
+sound 122
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そ、そんな、ひどいっ……。
+line2 <shift> # もしものときには、私どうすれば」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ひどくない、ひどくない。
+line2 <shift> # さあさあ、頑張って」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （雪歩は涙目になりながら、必死で課題に
+line2 <shift> # 取り組み始めたようだ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （冷たいようでも、こればっかりは自分でやって
+line2 <shift> # くれないとな。しかし少々心配ではある……）
+com09 0 49
+display
+location 49
+unk02

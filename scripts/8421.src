@@ -1,0 +1,289 @@
+com2c 0 25
+com2d 0 21
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さて、それじゃ、お互いをよく知るために、
+line2 <shift> # ミーティングだ。リラックスして、話そうな」
+display
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「余計な心配は、いらないわー。アンタごときと
+line2 <shift> # 話すのに、緊張なんてするワケないじゃない」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「考えてみたら、コビ売るのは、ファンにだけで
+line2 <shift> # いいわよね。ほらっ、飲み物でも持ってくる！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「い、いきなり開き直って、豹変するなよ……。
+line2 <shift> # さっきまでの、伊織は……」
+com03 0 3
+choice1 <shift> # 完全に、お芝居か？
+line2
+com09 0 10
+com08
+choice2 <shift> # 真っ赤なニセ物か？
+line2
+com09 0 11
+com08
+choice3 <shift> # ハリボテの、バッタ品か？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「完全に、お芝居か？」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「あったり前でしょ。いつも、あんな甘ったるい
+line2 <shift> # 話し方する人なんて、キモイだけじゃなーい」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「真っ赤なニセ物か？」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「その言い方、なんか見下されてるようで、
+line2 <shift> # 引っかかるわね……。でも、そうよっ！」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「いっつも、あんな、甘ったるい話し方してる人
+line2 <shift> # なんて、キモイだけじゃなーい」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ハリボテの、バッタ品か？」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そ、それ、どういう意味よ？　ワケの
+line2 <shift> # わかんない言葉、使わないでくれる？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、つまりは、インチキってことだけど」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「インチキとかって言われると、むかつくわっ！
+line2 <shift> # けど、そーよ。あれは、お芝居！」
+com09 0 19
+display
+location 19
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「くっ。ショックだなあ。伊織って、見た目が、
+line2 <shift> # いかにもお嬢様タイプだから、選んだのに」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「シツレイねっ！　私は、どこをとっても、
+line2 <shift> # パーフェクトなお嬢様タイプでしょ〜！」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「たーだー、見た目がかわいすぎるから、
+line2 <shift> # これでバランスを取ってるワケ。わかる〜？」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「私って、家も超お金持ちだし、言葉づかいまで
+line2 <shift> # カンペキじゃ、あまりにも罪でしょ？」
+com03 0 2
+choice1 <shift> # まあ、そうかもな
+line2
+com09 0 20
+com08
+choice2 <shift> # うぬぼれすぎだって
+line2
+com09 0 21
+com08
+com07
+com09 0 21
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まあ、そうかもな」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ふふふん、アンタ、意外に素直ね。
+line2 <shift> # それって、すっごく、いいことよ♪」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うぬぼれすぎだって」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「どこが、うぬぼれなのよ〜！？　かわいいのも、
+line2 <shift> # お金持ちなのも、全部ホントなのにー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だとしても、いいふらすのは、よくないよ。
+line2 <shift> # 聞く人によっては、イヤな子って思うかも」
+display
+com11 0 0
+sound 10012
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「それを、うまくカバーするのが、アンタの仕事
+line2 <shift> # でしょ。なんのためのプロデューサーなんだか」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 10013
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「あ、ところで……、さっき、私、飲み物
+line2 <shift> # 持ってきてって、言ったわよね？」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「いつまで、待たせる気？
+line2 <shift> # 早く持ってきなさーい！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「た、多少のワガママはいいけど、ちょっと調子
+line2 <shift> # に乗りすぎじゃないか？　俺だって怒るぞ！？」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「な〜に、逆らう気？　私のパパ、社長の親友な
+line2 <shift> # のよ。歯向かうなら、給料半分にしてもらうわ」
+display
+com11 0 0
+sound 10016
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「さあ、どうするの？　おとなしく、飲み物、
+line2 <shift> # 持ってくる？　それとも……」
+com03 0 3
+choice1 <shift> # 持ってこさせていただきます
+line2
+com09 0 30
+com08
+choice2 <shift> # ……しかたない
+line2
+com09 0 31
+com08
+choice3 <shift> # 誰が、持ってくるかっ！
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「持ってこさせていただきます」
+display
+com11 0 0
+sound 10017
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ん〜、いい返事〜。これからは、いつも
+line2 <shift> # こんな風に、言うこと聞いてね」
+display
+com11 0 0
+sound 10018
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「アンタとは、うまくやっていけそー。
+line2 <shift> # にひひっ♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （すっかり、上機嫌だ。ワガママに振り回された
+line2 <shift> # けど、ミーティング、とりあえずは成功かな）
+com09 0 40
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……しかたない。持ってくるよ」
+display
+com11 0 0
+sound 10019
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「なによー、その、やる気なさそ〜な返事！
+line2 <shift> # もっと楽しそうな顔できないワケ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ムチャ言うなよ。おどされて、楽しそうな顔
+line2 <shift> # する奴なんて、この世にいないよ……」
+display
+com11 0 0
+sound 10020
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……ムカついたー。私、もう、あんたと
+line2 <shift> # 口きかない」
+display
+com11 0 0
+sound 10021
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「命令にイヤイヤ従う人に、面倒なんか、
+line2 <shift> # みてもらいたくありませーん。フーンだ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （マズい。すっかりご機嫌ナナメだ……。
+line2 <shift> # ここは開き直って、笑顔で答えるべきだったか）
+com09 0 39
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「誰が、持ってくるかっ！」
+display
+com11 0 0
+sound 10022
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「むっかー！　なによー。意地になっちゃって！
+line2 <shift> # そんなに、言うこと聞くの、イヤなワケ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺は、伊織のためを思って、言ってるんだ。
+line2 <shift> # 人に頼りすぎると、クセになるからな」
+display
+com11 0 0
+sound 10023
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……ウソつき！　ただ、やるのが面倒だから、
+line2 <shift> # そんなこと言ってるだけでしょ？」
+display
+com11 0 0
+sound 10024
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「このイジワルの役立たずー！　アンタなんか、
+line2 <shift> # どっか行っちゃえー。フーンだっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うーん、完全にカンシャクを起こしてしまった。
+line2 <shift> # 俺なりの誠意は、まったく通じなかったようだ）
+com09 0 39
+display
+location 39
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後、ミーティング時間いっぱいを、
+line2 <shift> # 使って、どうにか機嫌を直してもらった）
+display
+location 40
+unk02

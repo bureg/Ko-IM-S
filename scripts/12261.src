@@ -1,0 +1,185 @@
+com2c 0 118
+com2d 0 21
+com32 0 0
+location 0
+com11 0 0
+sound 10000
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なによっ、ついてこないでよ！
+line2 <shift> # なぐさめてなんか、ほしくないわ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「放っておくわけにも、いかないだろ？　それに、
+line2 <shift> # 今後のことも、話して決めないといけないし」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あ、そういえば、コンサートの前に、
+line2 <shift> # そんな話、してたわよね……」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「全力でぶつかったライブで、こんな結果しか
+line2 <shift> # 出せなかったんだから……、道は、ひとつだわ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺と別れて……、再出発してみる？」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そんな元気、出るわけないじゃない……。
+line2 <shift> # 私……、もう、アイドル、やめる」
+display
+com1c 0 3
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え！？　本気かっ？」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「これ以上、みじめな思いなんて、したくない
+line2 <shift> # もんっ。やめるったら、やめるやめるやめる！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……冷静になれって！　一度の失敗で、
+line2 <shift> # そこまで荒れること、ないだろ？」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「でも……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「とにかく、結論は、後で、じっくり出すといい。
+line2 <shift> # もしかしたら、再起したくなるかもしれないし」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「とても、そんな気になるとは思えないけど……、
+line2 <shift> # わかった。しばらく休んで、考えてみる」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「はぁ……。アンタとはいろいろあったけど、最
+line2 <shift> # 後がダメだと、全部悪い思い出に思えてくるわ」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なんで、こんな結末になっちゃったのかしら。
+line2 <shift> # 原因は、なんなワケ……？」
+display
+com11 0 0
+sound 10009
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それは……」
+com03 0 3
+choice1 <shift> # 運が悪かったんだよ　
+line2
+com09 0 10
+com08
+choice2 <shift> # 俺の力不足のせい、かな　
+line2
+com09 0 11
+com08
+choice3 <shift> # 伊織の力不足のせい、かな　
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「運が悪かったんだよ」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そうね。そういうことにしておけば、
+line2 <shift> # 誰も傷つかなくて、すむし……」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺の力不足のせい、かな。これまでの
+line2 <shift> # いたらなさが、最後のライブに出たんだと思う」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ムリして、自分を悪者にしなくても、いいわ。
+line2 <shift> # もう、これから先……」
+display
+com11 0 0
+sound 10012
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「アンタは、私の機嫌なんか、とらなくてもいい
+line2 <shift> # んだから。解放されて、うれしいでしょ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「伊織……」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10013
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「それじゃ、さよなら！　短い間だったけど、
+line2 <shift> # 楽しくなくも、なかったわ！　……っ！」
+com09 0 20
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「伊織の力不足のせい、かな。これまで、甘く
+line2 <shift> # 考えてた部分が、ステージに出たんだと思う」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「きっと、そうよね……。
+line2 <shift> # ふふ、でも、バッカみたい！」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「今さら、そんなこと言って責めたって、意味
+line2 <shift> # ないでしょ！　私達、明日から他人なのよ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う、他人だなんて……」
+display
+com11 0 0
+sound 10016
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「きっと出会ったのが、間違いだったのね。
+line2 <shift> # 私は、アンタには合わない人間だったんだわ」
+display
+com11 0 0
+sound 10017
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「それじゃ、さよなら！　短い間だったけど、
+line2 <shift> # 楽しくなくも、なかった！　……っ！」
+com09 0 20
+display
+location 20
+com4a 0 0
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あっ……！」
+display
+location 100 129 92 129 92 130 177 130 164 130 181 130 196 129 65 137 180 130 170 136 231 130 196 130 189 131 143 131 75 131 125 131 125 150 186 130 205 129 65
+line2 <shift> # くやしさをかみしめながら、駆け去っていった。
+display
+location 101 130 224 130 181 129 65 131 137 131 88 131 103 131 137 131 67 131 117 130 240 144 172 140 247 130 179 130 185 130 233 130 177 130 198 130 170 130 197 130 171 130 234 130 206 129 65
+line2 <shift> # 全然ちがう運命が、待っていたのかもしれない。
+display
+location 102 129 119 142 159 130 201 136 231 130 196 130 233 146 78 130 169 130 201 130 205 129 65 130 177 130 241 130 200 148 223 130 181 130 162 142 118 130 162 130 240
+line2 <shift> # させはしない』。伊織の涙に……、俺は誓った。
+display
+unk02

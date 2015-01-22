@@ -1,0 +1,243 @@
+com2d 0 33
+com2c 0 26
+com32 0 0
+com43 0 4
+com11 0 5
+sound 300
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うあ〜、小さい子もたくさん……！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「場所が場所だけに、家族連れも多いよな。
+line2 <shift> # ……やよいも小さい頃は、親と来たりしたか？」
+display
+com11 0 5
+sound 301
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「え！？　あ、はい、一度だけ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……一度きりか」
+com03 0 2
+choice1 <shift> # 親、厳しかったのか？
+line2
+com09 0 10
+com08
+choice2 <shift> # 親、冷たかったのか？
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「親、厳しかったのか？」
+display
+com11 0 5
+sound 302
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ん〜と……そ、そうです。
+line2 <shift> # スパルタン教育でしたっ！」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「親、冷たかったのか？」
+display
+com11 0 5
+sound 303
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「そ、そんなことないですっ！　お父さんも
+line2 <shift> # お母さんも……！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そうか。ごめん、ヘンなこと言って」
+display
+com11 0 5
+sound 304
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「い、いえ……」
+com09 0 19
+display
+location 19
+com11 0 5
+sound 305
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ、プロデューサー。こういうトコで歌う時
+line2 <shift> # っておしゃべりも、はさんでいいんですよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、ああ……」
+com03 0 2
+choice1 <shift> # ＭＣのことだな
+line2
+com09 0 20
+com08
+choice2 <shift> # ＭＤのことだな
+line2
+com09 0 21
+com08
+com07
+com09 0 21
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ＭＣのことだな」
+display
+com11 0 5
+sound 306
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「そうですっ、それそれ！」
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ＭＤのことだな」
+display
+com11 0 5
+sound 307
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ＭＤ……でしたっけ？
+line2 <shift> # ちょっと、ちがうような気も〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、ＭＣだ、ＭＣ……」
+com09 0 29
+display
+location 29
+com11 0 5
+sound 308
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「なんでも、好きなこと、しゃべっていいんです
+line2 <shift> # よねっ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あまり、変なことじゃなければ……」
+display
+com11 0 5
+sound 309
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「やったー！　さっき、私、すごいもの
+line2 <shift> # 見たんですっ。それ、知らせなきゃ！」
+display
+com11 0 5
+sound 310
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「地下の食品売り場で、アジが３尾１５８円！
+line2 <shift> # 特売中だったんですっ！」
+com03 0 3
+choice1 <shift> # まあ、おもしろいかも
+line2
+com09 0 30
+com08
+choice2 <shift> # チェック、細かいな……
+line2
+com09 0 31
+com08
+choice3 <shift> # それ、アイドルのＭＣ？
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、おもしろいかも……」
+display
+com11 0 5
+sound 311
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「これ知らずに帰っちゃったら、
+line2 <shift> # ぜーったい、ソンだし！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「アイドルというより、デパートの手先っぽい
+line2 <shift> # 気もするけど」
+display
+com11 0 5
+sound 312
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「えへへ、きっと売り場の人も、
+line2 <shift> # よろこびますよね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （すっかりご機嫌だ。ここは、やよいの好きにさ
+line2 <shift> # せてやろう）
+com4b 0 0
+com09 0 39
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「チェック、細かいな……」
+display
+com11 0 5
+sound 313
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「そ、そうですかー？　普通、チェックしますよ
+line2 <shift> # ね？　野菜とお魚は……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「主婦ならするかもしれないけど、アイドルはし
+line2 <shift> # ないんじゃ……」
+display
+com11 0 5
+sound 314
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「う〜ん……、話しちゃダメですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなことはないけど」
+display
+com11 0 5
+sound 315
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「……よかった〜。じゃあ、はじめと最後に
+line2 <shift> # 言いまーすっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （なにがなんでも、話したいようだ。
+line2 <shift> # まあ、今回は好きにさせてみるかな）
+com4b 0 1
+com09 0 39
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それ、アイドルのＭＣ？」
+display
+com11 0 5
+sound 316
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「え、あ、はい。なにかヘンですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「変とは言わないけど、すこし所帯染みてない
+line2 <shift> # かな？」
+display
+com11 0 5
+sound 317
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「そうですか？　で、でも、アジはみんなの人気
+line2 <shift> # 者だし……。それにホントに安かったし……」
+display
+com11 0 5
+sound 318
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「アジ……。アジ、３尾で……。
+line2 <shift> # これを話せないなんて……。うう……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わ、わかったよ。そこまで言うなら……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （結局、折れてしまった。こんなことなら、
+line2 <shift> # はじめから、文句言うんじゃなかったな）
+com4b 0 2
+com09 0 39
+display
+location 39
+unk02

@@ -1,0 +1,467 @@
+com2c 0 57
+com2c 0 51
+com2d 0 13
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今日は、春香の、アイドルとしての初仕事。
+line2 <shift> # 作曲家の先生に、あいさつしに行くことにした）
+display
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ど、ど、どうしよぉ……。
+line2 <shift> # ちゃんと、あいさつできるかなあ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「バッチリ決めてくれよな。これが、記念すべき、
+line2 <shift> # 初仕事なんだから」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「うううっ、プレッシャーかけないで下さいよ。
+line2 <shift> # はぁ、胸がドキドキして心臓が飛び出しそう」
+com03 0 2
+choice1 <shift> # 自信を持てって！　
+line2
+com09 0 10
+com08
+choice2 <shift> # 自信、ないのか？　
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「自信を持てって！」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「は、はい。そうですよね！
+line2 <shift> # ビクビクしてたって、しかたないしっ！」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「それに、もし失敗しても、プロデューサー
+line2 <shift> # さんが、なんとかして……、くれますよね？」
+com03 0 3
+choice1 <shift> # ああ、もちろんだ　
+line2
+com09 0 20
+com08
+choice2 <shift> # 人に頼るなよ　
+line2
+com09 0 21
+com08
+choice3 <shift> # ……考えておく　
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「自信、ないのか？」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あるわけ、ないですー。私はまったくの新人で、
+line2 <shift> # 向こうは、えらい人なんですよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「たかが、あいさつだぞ。もっと気楽に構えて、
+line2 <shift> # いこうよ」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ムリです……。だって、友達に
+line2 <shift> # あいさつするのとは、わけがちがうし……」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「もし、失敗したら、プロデューサーさんが、
+line2 <shift> # なんとかフォローしてくれますか？」
+com03 0 3
+choice1 <shift> # ああ、もちろんだ　
+line2
+com09 0 20
+com08
+choice2 <shift> # 人に頼るなよ　
+line2
+com09 0 21
+com08
+choice3 <shift> # ……考えておく　
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、もちろんだ」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ふぅ、なら、すこしは安心かも……。
+line2 <shift> # 私、思い切って、元気にあいさつしてみます！」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「人に頼るなよ」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「う、そんなー。私を助けるために、ついて
+line2 <shift> # きてくれるんじゃ、ないんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「う……、まあな。わかった、最悪の事態に
+line2 <shift> # なった時は、なんとかしてやるから」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ありがとうございます。なら、私、思い切って
+line2 <shift> # 元気にあいさつしてみます！」
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……考えておく」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そんなー。もったいぶらないで、今、決めて
+line2 <shift> # くれたって、いいじゃないですか〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わ、わかったよ。最悪の事態になった時は、
+line2 <shift> # なんとかしてやるから」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「約束ですよ？　なら、私、思い切って、元気に
+line2 <shift> # あいさつしてみます！」
+com09 0 29
+display
+location 29
+com22 0 30
+com32 0 1
+com21 0 30
+com11 0 0
+sound 10012
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ふぅー、終わりましたね。あのー、
+line2 <shift> # どうでした？　私のあいさつ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、よかったよ。先方も、好印象を持って
+line2 <shift> # くれたみたいだし。手ごたえ、感じただろ？」
+display
+com11 0 0
+sound 10013
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「わからないです。だって、頭の中、真っ白で、
+line2 <shift> # なにもおぼえてなくて……」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あれ、あれ？　なんか、足元がフラフラします。
+line2 <shift> # 気が抜けたからでしょう、か……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お、おい、春香！　しっかりしろ！」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「これ、あ、すこし、マズいかもぉ。意識が、
+line2 <shift> # 遠くへ……。あ、あ、あああああ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （く、このままでは、春香は倒れてしまう。
+line2 <shift> # どこかを叩いて、意識を取り戻させないと！）
+com0e 0 6
+com44 150 106 129 65 130 179 130 237 130 233
+com09 0 30
+com45
+com44 147 170 129 65 130 179 130 237 130 233
+com09 0 31
+com45
+com44 150 218 129 65 130 179 130 237 130 233
+com09 0 32
+com45
+com44 149 64 129 65 130 179 130 237 130 233
+com09 0 33
+com45
+com44 140 251 129 65 130 179 130 237 130 233
+com09 0 34
+com45
+com44 140 168 129 65 130 179 130 237 130 233
+com09 0 35
+com45
+com44 139 185 129 65 130 179 130 237 130 233
+com09 0 36
+com45
+com44 130 187 130 204 145 188 129 65 130 179 130 237 130 233
+com09 0 37
+com45
+com44 131 94 131 67 131 128 131 65 131 69 131 103
+com09 0 38
+com45
+display
+location 30
+com11 0 0
+sound 10016
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「は！　あ、私。あ、プロデューサーさん、あり
+line2 <shift> # がとうございました。おかげで、目覚めました」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ほ、よかった……。そんな風になるなんて、
+line2 <shift> # 精神力を使い果たしたんだな」
+display
+com11 0 0
+sound 10017
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい。だって、なにもかもが、初めてでした
+line2 <shift> # から。でも、やり遂げられて、よかったです！」
+display
+com11 0 0
+sound 10018
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「それじゃ、事務所に戻りましょう、
+line2 <shift> # プロデューサーさん！　えへへ♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ホホを叩き、見事、春香が倒れるのを防いだ！
+line2 <shift> # いきなりだったけど、うまく対処できたな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……その後、初仕事を成功させ、ゴキゲンの
+line2 <shift> # 春香とともに、事務所に帰った）
+com09 0 40
+display
+location 31
+com11 0 0
+sound 10019
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あいたっ！　……むぅ、プロデューサーさん、
+line2 <shift> # いきなり、なにするんです？　頭、叩くなんて」
+com09 0 41
+display
+location 32
+com11 0 0
+sound 10020
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「いたっ！　……むぅ、プロデューサーさん、
+line2 <shift> # いきなり、何するんです？　目、つつくなんて」
+com09 0 41
+display
+location 33
+com11 0 0
+sound 10021
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「いたっ！　……むぅ、プロデューサーさん、
+line2 <shift> # いきなり、何するんです？　鼻、たたくなんて」
+com09 0 41
+display
+location 41
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ご、ごめん……！　なんとか、目を覚まさせ
+line2 <shift> # たかったんだけど、ちょっと過激だったか？」
+display
+com11 0 0
+sound 10022
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「うう、おかげで、目は覚めましたけど……、
+line2 <shift> # やっぱり、痛いですよぉ」
+display
+com11 0 0
+sound 10023
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「できれば、もうすこし、やさしく助けてほし
+line2 <shift> # かったです。私、初仕事、がんばったのに……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しまった。別のところをつつけばよかった。
+line2 <shift> # 春香は、少し恨めしそうな目で俺を見ている）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後、春香にあやまり、なんとか許して
+line2 <shift> # もらってから、事務所へと戻った）
+com09 0 40
+display
+location 34
+com11 0 0
+sound 10024
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「わ！　ぷ、プロデューサーさん、どうして、
+line2 <shift> # 口なんて、叩くんです？　ひどいですよ〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ご、ごめん。ちょっと手がすべった！」
+display
+com11 0 0
+sound 10025
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「女の子のくちびるを、そんな風にさわるのは、
+line2 <shift> # ルール違反だと、思います……」
+display
+com11 0 0
+sound 10026
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「すこしは、考えて下さいよぉ。私、初仕事
+line2 <shift> # がんばったのに、こんな仕打ち……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しまった。くちびるなんて、うかつに触るもん
+line2 <shift> # じゃないな。春香は、完全にむくれてしまった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……その後、春香に何度もあやまり、なんとか
+line2 <shift> # 許してもらってから、事務所へと戻った）
+com09 0 40
+display
+location 35
+com11 0 0
+sound 10027
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「プロデューサーさん？　どうして、
+line2 <shift> # 肩なんて。わ、私、もう……。ぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うわっ！　肩なんか叩いても、効果ナシか！
+line2 <shift> # 春香！　大丈夫か、おい、春香……！」
+com09 0 42
+display
+location 36
+com11 0 0
+sound 10028
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「え……？　ああっ、プロデューサーさん、
+line2 <shift> # どこ、さわってるんですか！！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どこって、胸だけど……。こうすれば、
+line2 <shift> # ビックリして、意識を取り戻すかと……」
+display
+com11 0 0
+sound 10029
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「むぅ、あんまりですー。
+line2 <shift> # 私だって、怒るんですよ？」
+display
+com11 0 0
+sound 10030
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「せっかく、初仕事がんばったのに、それに
+line2 <shift> # 対する仕打ちが、これだなんて。うう」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しまった！　春香を傷つけてしまった！
+line2 <shift> # いくらなんでも、これはやりすぎだよな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……その後、春香に何度もあやまり、機嫌を
+line2 <shift> # 直してもらってから、事務所へと引き返した）
+com09 0 40
+display
+location 37
+com11 0 0
+sound 10031
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ぷ、プロデューサーさん……。
+line2 <shift> # 私、もう……。ぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うわ、こんなところ、叩いてもダメか！
+line2 <shift> # 春香！　大丈夫か、おい、春香……！」
+com09 0 42
+display
+location 42
+com22 0 30
+com32 0 1
+com21 0 30
+com11 0 0
+sound 10032
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、あれ、ここは……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さっきの公園だよ。
+line2 <shift> # はー、やっと起きてくれたか」
+display
+com11 0 0
+sound 10033
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「私、あのまま力尽きて、倒れちゃったんですね。
+line2 <shift> # すみません。迷惑かけちゃって……。うう」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （無念。結局、どうすることもできなかった。
+line2 <shift> # 時間を、相当ムダにしてしまったようだ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後、申し訳なさそうな顔をしている春香を、
+line2 <shift> # なぐさめながら、事務所に戻った）
+com09 0 40
+display
+location 38
+com11 0 0
+sound 10034
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ぷ、プロデューサーさん……。
+line2 <shift> # 私、もう……。ぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うわ、ボンヤリ見てる場合じゃなかった！
+line2 <shift> # 春香！　大丈夫か、おい、春香……！」
+display
+com22 0 30
+com32 0 1
+com21 0 30
+com11 0 0
+sound 10035
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、あれ、ここは……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さっきの公園だよ。
+line2 <shift> # はー、やっと起きてくれたか」
+display
+com11 0 0
+sound 10036
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「私、あのまま力尽きて、倒れちゃったんですね。
+line2 <shift> # すみません。迷惑かけちゃって……。うう」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （無念。結局、どうすることもできなかった。
+line2 <shift> # ああいう時は、即行動しないとダメだな……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……その後、申し訳なそうな顔をしている
+line2 <shift> # 春香をなぐさめながら、事務所に戻った）
+com09 0 40
+display
+location 40
+unk02

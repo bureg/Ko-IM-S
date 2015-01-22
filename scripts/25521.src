@@ -1,0 +1,196 @@
+com2d 0 41
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あっという間に１日が終ってしまった……」
+display
+location 0
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「今日は、おつかれさまでした。あの……、私、
+line2 <shift> # 愛想は、あまりよくない方で。すみません」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あやまることは、ないよ。
+line2 <shift> # 愛想がよくないのは……」
+com03 0 3
+choice1 <shift> # マジメさの証、だろ？　
+line2
+com09 0 10
+com08
+choice2 <shift> # 売りのひとつ、だろ？　
+line2
+com09 0 11
+com08
+choice3 <shift> # 今後の最優先課題、としよう　
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「マジメさの証、だろ？　もっとも、あまりに
+line2 <shift> # 無表情なのは、困るけどな」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「は、はい……。すこしは改善していければと
+line2 <shift> # 思います。それでは、また、つぎに！」
+com4a 0 0
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「売りのひとつ、だろ？」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そ、そうなんですか？　私は歌で勝負する
+line2 <shift> # つもりで、性格を売る気はありませんけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか。クールなアイドルってのも、いけるか
+line2 <shift> # と思ったんだけど。ま、いいか。じゃ、またな」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。つぎは、もっと実践的なトレーニングを、
+line2 <shift> # よろしくお願いします」
+com4a 0 0
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今後の最優先課題、としよう。今はしかたない
+line2 <shift> # けど、このままじゃ、未来は暗い」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「最優先、というのは、行きすぎです！　歌の
+line2 <shift> # トレーニングの方が、はるかに重要だとっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うわ、ごめんごめん。極端だったな。
+line2 <shift> # ま、すこしずつ、いい方に向けていこう」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい……、それくらいなら、なんとか。
+line2 <shift> # では、またつぎ、よろしくお願いします」
+com4a 0 0
+com09 0 19
+display
+location 19
+location 100
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あっという間に１日が終ってしまった……」
+display
+location 101
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もっと早く色々片付けていれば
+line2 <shift> # もう１レッスンできたかも……」
+display
+location 102
+com11 0 0
+sound 10006
+name 0 2 <names:3>  # President
+line1 <shift> # 「初日から、遅くまでご苦労だったな！」
+display
+com11 0 0
+sound 10007
+name 0 2 <names:3>  # President
+line1 <shift> # 「まずは、キミにプロデューサーカードを
+line2 <shift> # 渡しておこう」
+display
+com4a 0 0
+com11 0 0
+sound 10008
+name 0 2 <names:3>  # President
+line1 <shift> # 「カードをとってくれたまえ」
+display
+location 104
+com11 0 0
+sound 10009
+name 0 2 <names:3>  # President
+line1 <shift> # 「そのカードにはキミの活動が記録されていく。
+line2 <shift> # 大事に扱いたまえよ」
+display
+com11 0 0
+sound 10010
+name 0 2 <names:3>  # President
+line1 <shift> # 「もう１枚の、『ユニットカード』は、活動
+line2 <shift> # 終了時に渡すから、忘れないようにな！」
+display
+com11 0 0
+sound 10011
+name 0 2 <names:3>  # President
+line1 <shift> # 「オホン！　一日の最後には、
+line2 <shift> # 私が毎回、アイドルランクを報告するぞ」
+display
+com11 0 0
+sound 10012
+name 0 2 <names:3>  # President
+line1 <shift> # 「アイドルランクとは、ファンの数で決まる。
+line2 <shift> # いわばキミ達の活動の証だ」
+display
+com4a 0 0
+com11 0 0
+sound 10013
+name 0 2 <names:3>  # President
+line1 <shift> # 「ではキミ達のアイドルランク報告だ！」
+display
+location 200
+com11 0 0
+sound 10014
+name 0 2 <names:3>  # President
+line1 <shift> # 「ＴＶに出るまでは、素人と何ら違わない。
+line2 <shift> # 活動３週目にＴＶ出演を果たしたまえ！」
+display
+com4a 0 0
+com11 0 0
+sound 10015
+name 0 2 <names:3>  # President
+line1 <shift> # 「そして、まずはランクＦアイドルを
+line2 <shift> # 目指すのだ！」
+display
+location 103
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ファンからのプレゼントを、
+line2 <shift> # チェックして帰るか」
+display
+location 201
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （次の活動では、ステージ衣装を決めよう！）
+display
+location 202
+com11 0 0
+sound 10006
+name 0 2 <names:3>  # President
+line1 <shift> # 「初日から、遅くまでご苦労だったな！」
+display
+com11 0 0
+sound 10011
+name 0 2 <names:3>  # President
+line1 <shift> # 「オホン！　一日の最後には、
+line2 <shift> # 私が毎回、アイドルランクを報告するぞ」
+display
+com11 0 0
+sound 10012
+name 0 2 <names:3>  # President
+line1 <shift> # 「アイドルランクとは、ファンの数で決まる。
+line2 <shift> # いわばキミ達の活動の証だ」
+display
+com4a 0 0
+com11 0 0
+sound 10013
+name 0 2 <names:3>  # President
+line1 <shift> # 「ではキミ達のアイドルランク報告だ！」
+display
+unk02

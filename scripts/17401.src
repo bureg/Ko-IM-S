@@ -1,0 +1,518 @@
+com2d 0 31
+com2c 0 47
+com2c 0 1
+com32 0 0
+com11 0 0
+sound 0
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ふ……ふわあぁぁ〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうしたんだ、やよい？
+line2 <shift> # そんな大きなアクビなんかして……」
+display
+com11 0 0
+sound 1
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うう〜、はい……。
+line2 <shift> # 最近、ちょっと寝不足で……」
+com03 0 3
+choice1 <shift> # 徹夜で勉強か？
+line2
+com09 0 10
+com08
+choice2 <shift> # 夜遊びしてるのか？
+line2
+com09 0 11
+com08
+choice3 <shift> # 早朝に新聞配達してるのか？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「徹夜で勉強か？」
+display
+com11 0 0
+sound 2
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「だったら、もっと
+line2 <shift> # 成績上がってるんでしょうけどね〜。えへへ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なんだ、ちがうのか。
+line2 <shift> # じゃあ、どうして寝不足なんだ？」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まさか……夜遊びしてるのか？」
+display
+com11 0 0
+sound 3
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うあ〜、そんなことしませんよ〜！
+line2 <shift> # まだ中学生だし、なんかそういうの怖いし……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それじゃ、どうして寝不足なんだ？」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「早朝に新聞配達でも、してるのか？」
+display
+com11 0 0
+sound 4
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「やってませんよー。
+line2 <shift> # 今はアイドルのお仕事、ひと筋ですから！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか……。
+line2 <shift> # でも、それじゃなんで寝不足なんだ？」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 5
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「わ、笑わないでくださいね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ」
+display
+com11 0 0
+sound 6
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「夢を見るんです……。怖い夢を……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「夢？」
+display
+com11 0 0
+sound 7
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はい……。よくわからないんですけど、
+line2 <shift> # 怖い何かが、後ろから追いかけてくるんですー」
+display
+com11 0 0
+sound 8
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「私は、必死に走って逃げるんですけど、
+line2 <shift> # しばらく行くと大きなガケがあるんです……」
+display
+com11 0 0
+sound 9
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「向こう側にうまくとぶことができれば、
+line2 <shift> # 逃げられそうな気がするんですよー」
+display
+com11 0 0
+sound 10
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「でも、とび越える勇気が出なくて、
+line2 <shift> # 結局、つかまって目が覚めちゃうんですー」
+display
+com11 0 0
+sound 11
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「最近は、眠るのも、怖くなっちゃって……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ファンは元気なやよいを見たいんだぞ。
+line2 <shift> # ちゃんと寝て、元気を取り戻さなきゃ」
+display
+com11 0 0
+sound 12
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うう〜、はい……。そうなんですけど〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「気にせずに眠るんだ。
+line2 <shift> # 夢の方は、俺が何とかしてやるから」
+display
+com11 0 0
+sound 13
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「えっ！？　なにかいい方法があるんですか？」
+com03 0 3
+choice1 <shift> # 目が覚めないように気絶させる
+line2
+com09 0 30
+com08
+choice2 <shift> # 催眠術を使う
+line2
+com09 0 31
+com08
+choice3 <shift> # 気合いで何とかする
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「目を覚ましそうになったら、
+line2 <shift> # 頭部を強打して、気絶させてしまえば……」
+display
+com11 0 0
+sound 14
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うあ〜！　そっちの方が怖くて、
+line2 <shift> # 寝てられないかもー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「とにかく何とかしてやるから、
+line2 <shift> # 早く眠るんだ」
+display
+com11 0 0
+sound 15
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うう〜、はい……」
+com09 0 39
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「この間、テレビでやってた催眠術で、
+line2 <shift> # ちゃんと眠れるようにしてやる」
+display
+com11 0 0
+sound 16
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うあ〜、さすがプロデューサー！
+line2 <shift> # 催眠術とか使えるんですねー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ、この糸の先の５円玉を、
+line2 <shift> # じっと見つめるんだ」
+display
+com11 0 0
+sound 17
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はい！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あなたは、だんだん眠くな〜る」
+display
+com11 0 0
+sound 18
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「眠くなります！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……まぶたが、だんだん
+line2 <shift> # 重たくなってくる〜」
+display
+com11 0 0
+sound 19
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「重たくなります！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……眠らないのか？」
+display
+com11 0 0
+sound 20
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「催眠術って、生で見るの初めてだから、
+line2 <shift> # ちゃんと最後まで見てようと思って……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ワクワクして、かえって
+line2 <shift> # 目がさえてしまったようだ……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「とにかく、もう寝なさい。
+line2 <shift> # 夢の方は何とかしてやるから……」
+display
+com11 0 0
+sound 21
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うう〜、お願いします〜」
+com09 0 39
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「とにかく気合いだ！　気合いで何とかなる！」
+display
+com11 0 0
+sound 22
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「き、気合いですか〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだ！　さあ、気合い入れて寝るんだ！」
+display
+com11 0 0
+sound 23
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「は、はい！　むむむぅ〜！
+line2 <shift> # おやすみなさいですーっ！！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうだ！」
+display
+com11 0 0
+sound 24
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ぷ、プロデューサー！
+line2 <shift> # 頭に血が上って、眠れませ〜ん！！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……気合い入れなくていいから、
+line2 <shift> # とりあえず眠ってくれ」
+display
+com11 0 0
+sound 25
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「は、はい〜」
+com09 0 39
+display
+location 39
+com22 0 30
+com21 0 30
+com11 0 0
+sound 26
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うう〜！　こっち、来ないでください〜！！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （やよいが、うなされ始めたぞ……）
+display
+com11 0 0
+sound 27
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「が、ガケが……！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （例のガケが、また出てきたのか……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やよい！　ガケをとび越えるんだ！」
+display
+com11 0 0
+sound 28
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うあ〜、プロデューサー！
+line2 <shift> # 助けに来てくれたんですね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「さあ、勇気を出して、そのガケをとべ！」
+display
+com11 0 0
+sound 29
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「でも、でも……、ううう〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「下を見るな！　俺が合図してやるから、
+line2 <shift> # 目をつぶってとぶんだ！」
+display
+com11 0 0
+sound 30
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「は、はい〜！
+line2 <shift> # プロデューサーを信じます〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （あとは、俺が
+line2 <shift> # タイミング指示してやるだけだ……）
+display
+com11 0 0
+sound 31
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うう……、高槻やよい、行きまーすっ！」
+com03 0 3
+choice1 <shift> # 今だ！
+com09 0 40
+com08
+choice2 <shift> # 今だっ！
+com09 0 41
+com08
+choice3 <shift> # 今だあ！
+com09 0 42
+com08
+com07
+com09 0 43
+com08
+display
+location 40
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「今だ！」
+com37 0 1
+com1e 0 0
+com09 0 50
+com3b
+com37 0 0
+com1e 0 0
+com09 0 51
+com3b
+display
+location 41
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「今だっ！」
+com37 0 1
+com1e 0 0
+com09 0 50
+com3b
+com37 0 0
+com1e 0 0
+com09 0 51
+com3b
+display
+location 42
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「今だあ！」
+com37 0 1
+com1e 0 0
+com09 0 50
+com3b
+com37 0 0
+com1e 0 0
+com09 0 51
+com3b
+display
+location 43
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「今だ！」
+com09 0 51
+display
+location 50
+com11 0 0
+sound 32
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「……と、とべました〜！
+line2 <shift> # プロデューサー！！　よかった……」
+display
+com11 0 0
+sound 33
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「プロデューサー……むにゃ、
+line2 <shift> # ありがとう……ございま……す……えへへ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、安心したのか、やよいは
+line2 <shift> # すやすや寝息をたてて眠り始めた）
+display
+com22 0 30
+com32 0 1
+com21 0 30
+com11 0 0
+sound 34
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ……。もう着いたんですかー？
+line2 <shift> # おはようございますー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、おはよう。少しは眠れたかな？」
+display
+com11 0 0
+sound 35
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はい！　だって……プロデューサーが、
+line2 <shift> # 私の夢に出てきてくれたんですー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「へえ〜。そりゃ、光栄だな」
+display
+com11 0 0
+sound 36
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「いつもみたいにカッコよく、私のこと
+line2 <shift> # 助けてくれたんですよ〜。えへへ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか。
+line2 <shift> # これからは、ぐっすり眠れそうか？」
+display
+com11 0 0
+sound 37
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はい！　もう大丈夫ですっ！
+line2 <shift> # 私、元気モードでがんばりまーす！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （寝不足を解消したやよいは、持ち前の元気と
+line2 <shift> # 明るさで、番組を盛り上げてくれた）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （やっぱり、やよいは元気な笑顔が、
+line2 <shift> # 一番よく似合うな）
+com4b 0 0
+com09 0 69
+display
+location 51
+com11 0 0
+sound 38
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ううう〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうした、やよい！　大丈夫か！？」
+display
+com11 0 0
+sound 39
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「と、とべませんでした……。
+line2 <shift> # ガケから……落ちるかもー。怖いよー！！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「落ち着け、やよい！　これは夢だ、夢！」
+display
+com11 0 0
+sound 40
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うあー……怖い……よ……むにゃ……」
+display
+com22 0 30
+com32 0 1
+com21 0 30
+com11 0 0
+sound 41
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うう……。もう着いたんですか……。
+line2 <shift> # おはようございますー……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （少しは眠ったはずなのに、眠る前より
+line2 <shift> # やよいの顔色は悪くなってしまった……）
+display
+com11 0 0
+sound 42
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「プロデューサー……あのガケ、やっぱりとべな
+line2 <shift> # いです〜！　私、これからどうすれば？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ごめんな、やよい……。
+line2 <shift> # うまく助けてやれなくて……」
+display
+com11 0 0
+sound 43
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うう……。眠いですー。
+line2 <shift> # でも、眠れないです……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （結局、やよいは番組中に居眠りしてしまい、
+line2 <shift> # ディレクターに、散々叱られてしまった）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （それから数週間、やよいは悪夢に
+line2 <shift> # うなされ続けたらしい……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （俺がうまく助けてさえいれば……。やよいには
+line2 <shift> # かわいそうなことをしてしまったな）
+com4b 0 2
+com09 0 69
+display
+location 69
+unk02

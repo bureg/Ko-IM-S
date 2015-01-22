@@ -1,0 +1,471 @@
+com2c 0 24
+com2d 0 51
+com32 0 0
+com11 0 0
+sound 10000
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「プロデューサーさん、今日発売の雑誌で、私の
+line2 <shift> # 特集が組まれているの、ご覧になりましたか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、この前、インタビュー受けたやつですね。
+line2 <shift> # 俺は、チェックの時、ザーッと見ただけです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なにか目新しいこと、書いてありましたか？」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ええ。ファンの方へのアンケートを掲載した
+line2 <shift> # ページが、とっても興味深かったですよ〜」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「『三浦あずさのイメージ』という項目では、
+line2 <shift> # 『お姉さんぽい』というのが、１位でした」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうですね。ファンの平均年齢からすると、
+line2 <shift> # そういうイメージがあるんでしょう」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「親しみを持ってもらえるのはうれしいですけれ
+line2 <shift> # ど、たまには違うイメージにしてみたいですね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「イメージチェンジですか。ふむ、なかなか
+line2 <shift> # 面白いかもしれませんね。たとえば……」
+com03 0 3
+choice1 <shift> # ツンデレとか
+line2
+com09 0 10
+com08
+choice2 <shift> # 妹系とか
+com09 0 11
+com08
+choice3 <shift> # クールな感じとか
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ツンデレとか、いいんじゃないですか？」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ツンデレ……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、意味、ご存じないですか？　うーん、簡単
+line2 <shift> # に言うと、素直じゃない感じといいますか……」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「素直じゃない、ですか。んー……。『私、あな
+line2 <shift> # たのためになんか、歌わないんだからねっ！』」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「……こんな感じでしょうか〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おおっ、うまいですね、あずささん！　……あ。
+line2 <shift> # でも、さすがに、歌わないのはマズいかな」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そうですか〜。私も何か違うような気がしてい
+line2 <shift> # たんですけれど。イメチェンって難しいですね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうですね。思いつきで、すぐできるほど、
+line2 <shift> # 甘くはないのかな……」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「妹系とか、どうですか？」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「妹ですか？　でも、その……、年齢的に、
+line2 <shift> # ムリがあるのではないでしょうか〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「実年齢は関係ないですよ。
+line2 <shift> # 要は、妹のように、ふるまえるかどうか、です」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ためしに、『お兄ちゃん』と言ってみて下さい。
+line2 <shift> # ちなみに、一人称は『あずさ』で」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「こ、細かい指定があるんですね。
+line2 <shift> # わかりました。やってみます〜……」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「『お兄ちゃん、あずさと一緒に、
+line2 <shift> # スタジオ、いこっ？』……」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ぁ、ぅ……、これはとても……。ダメです。
+line2 <shift> # 恥ずかしすぎて、続けられそうにありません」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ええっ。結構いい感じだったのに……。
+line2 <shift> # 残念ですね」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「クールで無口な感じは、
+line2 <shift> # 案外、うけるかもしれませんよ」
+display
+com11 0 0
+sound 10012
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「クールで無口ですか〜。わかりました。
+line2 <shift> # やってみます〜」
+display
+com11 0 0
+sound 10013
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「……」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「……」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、あの、あずささん……」
+display
+com11 0 0
+sound 10016
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「いかがでしたでしょうか〜。ふふっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （あずささんって、黙っててもニコニコしてる
+line2 <shift> # から、あんまりクールって感じじゃないな……）
+display
+com11 0 0
+sound 10017
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、その顔は……、今ひとつだった、という
+line2 <shift> # ことですね？　難しいものですね〜。んー……」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 10018
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「イメチェンとは、
+line2 <shift> # 少し違うかもしれませんけれど……」
+display
+com11 0 0
+sound 10019
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「何か特技を身につける、
+line2 <shift> # というのは、どうでしょうか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「特技ですか。それは、いいですね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「誰にもマネできない、あずささんだけの特技を、
+line2 <shift> # 身につければ、それは個性になります」
+display
+com11 0 0
+sound 10020
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「誰にもマネできない……？
+line2 <shift> # どういう特技が、いいでしょうか〜？」
+com03 0 3
+choice1 <shift> # おもちゃ博士がいいです
+line2
+com09 0 30
+com08
+choice2 <shift> # スポーツがステキです
+line2
+com09 0 31
+com08
+choice3 <shift> # おバカで１等賞がいいです
+line2
+com09 0 32
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おもちゃ博士がいいです。
+line2 <shift> # きっと、子ども達に、すごく人気が出ますよ！」
+display
+com11 0 0
+sound 10021
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「まあ、それはいいですね〜！　けん玉とか、
+line2 <shift> # ヨーヨーとか、ゲームとか、カードとか……」
+display
+com11 0 0
+sound 10022
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「色んなおもちゃに詳しくなれたら、とっても
+line2 <shift> # 楽しいだろうなって思います〜。ふふっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ええ。そうすれば、子ども番組のお姉さん役
+line2 <shift> # なんかも、できるようになるかもしれませんよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……って、お姉さん役じゃ、
+line2 <shift> # 今のイメージのまま、変わらないですけど」
+display
+com11 0 0
+sound 10023
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「んー、そうですね。
+line2 <shift> # 良い考えだと、思ったのですけれど……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それに、おもちゃ博士になるには、相当、
+line2 <shift> # おもちゃについて勉強しなきゃダメですよね」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「スポーツがステキです。運動神経抜群なあずさ
+line2 <shift> # さん、これは意外性あって、いいですよ！」
+display
+com11 0 0
+sound 10024
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「でも私、スポーツ苦手ですから、かなり
+line2 <shift> # 時間が、かかりそうです〜。球技は、特に」
+display
+com11 0 0
+sound 10025
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「バスケのフリースロー、一度も入ったことない
+line2 <shift> # ですし、テニスも、その、ラケットに……」
+display
+com11 0 0
+sound 10026
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ボールが当たらないんです。友達に『テニスで
+line2 <shift> # 三振する人を初めて見た』って言われました」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーむ……。そこからスポーツの達人に、
+line2 <shift> # なるのは、相当の修練が必要ですね……」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おバカで１等賞が、いいです」
+display
+com11 0 0
+sound 10027
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「え？　すみません、おっしゃっている意味が、
+line2 <shift> # よくわかりません」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「えーとつまり、常におバカっぽくふるまうんで
+line2 <shift> # すよ。それで売ってる芸能人、いるでしょう？」
+display
+com11 0 0
+sound 10028
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「その方達のマネをしろということですか？
+line2 <shift> # それって、私だけの特技ではないですよね……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、そうか……。すみません。
+line2 <shift> # 矛盾したこと、言っちゃいましたね」
+com09 0 49
+display
+location 49
+com11 0 0
+sound 10029
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「やっぱり、イメチェンというのは、
+line2 <shift> # 今すぐにというわけには、いかないですね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、残念ながら、そのようですね」
+display
+com11 0 0
+sound 10030
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「手間と時間をかけて変えるんでしたら、
+line2 <shift> # やっぱり……」
+display
+com11 0 0
+sound 10031
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あの、プロデューサーさん個人の好みで、
+line2 <shift> # 考えてみてくれませんか〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、俺の好みですか？」
+display
+com11 0 0
+sound 10032
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はい。私を、どういう風に変えたいか、
+line2 <shift> # 男性の目から、見たままを、教えて下さい」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そういうことでしたら、俺はですね……」
+com03 0 3
+choice1 <shift> # 今のあずささんが好きです
+line2
+com09 0 50
+com08
+choice2 <shift> # もっとテキパキしてると良いな
+line2
+com09 0 51
+com08
+choice3 <shift> # 多少ツンとしてるのが好きです
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「今のあずささんが、好きです！」
+display
+com11 0 0
+sound 10033
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「えっ！　ぷ、プロデューサーさん、急に何を？
+line2 <shift> # えーと、なんとお答えすれば……」
+display
+com11 0 0
+sound 10034
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「で、でも、素直な気持ちを、お伝えしなくちゃ。
+line2 <shift> # あの、私もプロデューサーさんのこと、好……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え？　あの、あずささんのイメージの話
+line2 <shift> # ですよね？」
+display
+com11 0 0
+sound 10035
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ。そ、そうですよね。お仕事上の話……、
+line2 <shift> # ですよね。私、早とちりして。すみません〜」
+display
+com11 0 0
+sound 10036
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あの、でも、今の私がいいと言って下さるのは、
+line2 <shift> # すごくうれしいです〜。ふふっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （どういう早とちりをしたんだろう。あずささん
+line2 <shift> # の言葉、最後まで聞けば良かったな……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （でも、ムリなイメチェンは、必要ないな。
+line2 <shift> # あずささんは、今が、一番輝いているから！）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もっとテキパキしてると良いな、と思います」
+display
+com11 0 0
+sound 10037
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「確かに私、おっとりしている方ですから、テキ
+line2 <shift> # パキ動くだけで、イメージは変わりそうですね」
+display
+com11 0 0
+sound 10038
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「……それにしても、プロデューサーさんの
+line2 <shift> # 好みは、テキパキした女性だったんですね」
+display
+com11 0 0
+sound 10039
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「私とは正反対……。
+line2 <shift> # がんばらなきゃ、ダメですね。はあ〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （何をがんばるつもりなのか、良くわからないが、
+line2 <shift> # あずささんは、妙に残念そうだった）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （テキパキしてるあずささんが見られる日は、
+line2 <shift> # いつか来るのだろうか……）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「多少、ツンとしてるのが好きです」
+display
+com11 0 0
+sound 10040
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ツンツンしてる女性が、
+line2 <shift> # プロデューサーさんの、好みですか〜……」
+display
+com11 0 0
+sound 10041
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ツンッ！　ツンッ！　ツーンッ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、いえ。口で言っても、ツンツンしてる
+line2 <shift> # ことには、ならないと思いますよ」
+display
+com11 0 0
+sound 10042
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そうですか〜。んー、やっぱり難しいですね。
+line2 <shift> # 慣れないことは、しない方がいいのかしら……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （あずささんは、すっかり自信をなくして、
+line2 <shift> # 落ち込んでしまったようだ）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （こんな結果になるぐらいなら、別に、ムリして
+line2 <shift> # イメージを変える必要なんて、なかったかもな）
+com09 0 69
+display
+location 69
+unk02

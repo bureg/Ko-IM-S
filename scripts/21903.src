@@ -1,0 +1,410 @@
+com2c 0 28
+com2d 0 51
+com32 0 0
+com11 0 3
+sound 200
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「こんな大きなテーマパークで、ライブやらせて
+line2 <shift> # もらえるなんて、すごいですよね」
+display
+com11 0 3
+sound 201
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、プロデューサーさん。あそこの人、
+line2 <shift> # 赤ちゃんを抱っこして、並んでくれています」
+display
+com11 0 3
+sound 202
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「……かわいいですよね。赤ちゃん」
+com03 0 3
+choice1 <shift> # うらやましいですか？
+line2
+com09 0 10
+com08
+choice2 <shift> # 借りてきますか？
+line2
+com09 0 11
+com08
+choice3 <shift> # ……つくります？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うらやましいですか？」
+display
+com11 0 3
+sound 203
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「え。す、すこし……。ほら、ほっぺたなんか、
+line2 <shift> # あんなにフワフワで」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「借りてきますか？」
+display
+com11 0 3
+sound 204
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そ、それはダメですー。直接行ってしまったら、
+line2 <shift> # きっと人だかりが……」
+display
+com11 0 3
+sound 205
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、ふふっ。ほら、あんなに気持ちよさそうに
+line2 <shift> # 寝ています。ほっぺたなんか、フワフワで」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……つくります？」
+display
+com11 0 3
+sound 206
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「え、つく……？　ぷ、プロデューサーさん、
+line2 <shift> # なにを言って。わ、私、こ、こま……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あああ、冗談です。すみません、品のない
+line2 <shift> # ジョーク言って」
+display
+com11 0 3
+sound 207
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「……びっくりしました。あ、ほら、見てくださ
+line2 <shift> # い。赤ちゃんのほっぺた、あんなにフワフワで」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「頬のやわらかさなら、あずささんも負けてない
+line2 <shift> # んじゃ？」
+display
+com11 0 3
+sound 208
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「んー、勝ち負けの問題ではないですよね？
+line2 <shift> # それに、私、やわらかくなんてないかと」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （……うーん、けっこうやわらかそうに
+line2 <shift> # 見えるんだけどな）
+com0e 1 52
+com44
+com09 0 30
+com45
+com44
+com09 0 31
+com45
+com44
+com09 0 32
+com45
+com44
+com09 0 33
+com45
+com44
+com09 0 34
+com45
+com44
+com09 0 35
+com45
+com44
+com09 0 36
+com45
+com44
+com09 0 37
+com45
+com44
+com09 0 38
+com45
+display
+location 30
+com34 0 1
+com11 0 3
+sound 209
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「きゃ、ぷ、プロデューサーさん？？？
+line2 <shift> # ……あのー、やわらかくはないですよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いーえ、フワフワでしたよ」
+display
+com11 0 3
+sound 210
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ふふっ、おどろかさないでくださいー。
+line2 <shift> # あ、そろそろライブの時間ですね」
+com09 0 49
+display
+location 31
+com11 0 3
+sound 211
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「え、ぷ、プロデューサーさん？？？
+line2 <shift> # どうして、髪なんてさわって」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、頬は勝てなくても、髪のやわらかさなら
+line2 <shift> # 勝てるかって」
+display
+com11 0 3
+sound 212
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あの赤ちゃん、まだ髪、生えてないようですけ
+line2 <shift> # ど。い、いきなりで、おどろいてしまいました」
+com09 0 91
+display
+location 32
+com11 0 3
+sound 213
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「痛っ！　ぷ、プロデューサーさん？？？
+line2 <shift> # どうして、いきなり目なんて……。ううう」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あああ、すみません！　頬をつつこうと
+line2 <shift> # 思ったんですけど、手が……」
+display
+com11 0 3
+sound 214
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そ、そういうことする時は、前もって言って
+line2 <shift> # くれると、ううう……」
+display
+com11 0 3
+sound 215
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ふぅー、も、もう大丈夫です。おさわがせして、
+line2 <shift> # すみませんでした……」
+com09 0 91
+display
+location 33
+com11 0 3
+sound 216
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「きゃ！　ぷ、プロデューサーさん？？？
+line2 <shift> # どうして、鼻なんてつついて……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、頬と比べれば、鼻の方がかたい
+line2 <shift> # かなって」
+display
+com11 0 3
+sound 217
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「……それはそうです。いきなり、ヘンなことを
+line2 <shift> # 確かめられても。私、おどろいてしまいました」
+com09 0 91
+display
+location 34
+com11 0 3
+sound 218
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「え……。ぷ、プロデューサーさん？？？
+line2 <shift> # どうして、私のくちびる……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「こ、こっちは負けてないですね。とても
+line2 <shift> # やわらかくて」
+display
+com11 0 3
+sound 219
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「こ、困ります。ルージュがついてしまいますし、
+line2 <shift> # それにー」
+display
+com11 0 3
+sound 220
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「こういうのは、ど、どうなのでしょう。私、
+line2 <shift> # いきなりで、おどろいてしまいました……」
+com09 0 91
+display
+location 35
+com11 0 3
+sound 221
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「きゃ、ぷ、プロデューサーさん？？　な、え、
+line2 <shift> # う、……ぃゃ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「こ、こっちはあずささんの圧勝かな、なんて」
+display
+com11 0 3
+sound 222
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そんな、た、確かめないでくださいー。
+line2 <shift> # こ、困ります。突然……」
+display
+com11 0 3
+sound 223
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「悪気ではないと思いますけれど、やはり、楽し
+line2 <shift> # いものでは。そのー、すこしだけ考えて……」
+com09 0 91
+display
+location 36
+com11 0 3
+sound 224
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「きゃ、ぷ、プロデューサーさん？？　どうして
+line2 <shift> # 腕なんて……。くすぐったいですー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「こっちも、けっこうやわらかいですね」
+com09 0 92
+display
+location 37
+com11 0 3
+sound 225
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「きゃ、ぷ、プロデューサーさん？？　どうして
+line2 <shift> # そんなところ、さわって……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、頬に比べて、ここは
+line2 <shift> # どうなんだろうって」
+com09 0 92
+display
+location 92
+com11 0 3
+sound 226
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「いきなり、たしかめないでください。わ、私、
+line2 <shift> # おどろいてしまいました……」
+com09 0 91
+display
+location 38
+com11 0 3
+sound 227
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「プロデューサーさん？　なにをじっと見て？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや……ほっぺた、つついてみても
+line2 <shift> # いいですか？」
+display
+com11 0 3
+sound 228
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「え？　や、やわらかくないですよ？　それに
+line2 <shift> # 改まって、聞かれても……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……そうですね。やめときます」
+com09 0 91
+display
+location 91
+com11 0 3
+sound 229
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、そろそろライブの開始時間ですね。もう
+line2 <shift> # 行かなくては」
+com09 0 49
+display
+location 49
+com11 0 3
+sound 230
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「今日は、がんばらなければいけませんね。
+line2 <shift> # ファンのために。それから……」
+com03 0 3
+choice1 <shift> # あの親子のために？
+line2
+com09 0 50
+com08
+choice2 <shift> # あの赤ちゃんのために？
+line2
+com09 0 51
+com08
+choice3 <shift> # 自分の未来のために？
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 2
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あの親子のために？」
+display
+com11 0 3
+sound 231
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はい。赤ちゃんが大きくなった時『こんな楽し
+line2 <shift> # い事があった』って、話ができると思うんです」
+display
+com11 0 3
+sound 232
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「思い出を明るくするのが、ほんとのアイドル
+line2 <shift> # ですよね？　もし、それができたらって……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （顔には、やさしさと気力が満ちあふれている。
+line2 <shift> # 心あたたまる、いいライブになりそうだ）
+com09 0 69
+display
+location 51
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あの赤ちゃんのために？」
+display
+com11 0 3
+sound 233
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あの子はー、まだ歌の意味とか、わからない
+line2 <shift> # ですよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う、まあ、そうか。でも、天才だったら、
+line2 <shift> # わかるかも」
+display
+com11 0 3
+sound 234
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「それも、ムリな気が〜。ラブソングとか
+line2 <shift> # 言われても、きっとさっぱり……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （小首をかしげている。でも、超天才だったら！
+line2 <shift> # ……やめとこう。こだわるまでもない話だ）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「自分の未来のために？」
+display
+com11 0 3
+sound 235
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「それよりも今日は、あの赤ちゃんとお母さんの
+line2 <shift> # ために、歌いたいかなって」
+display
+com11 0 3
+sound 236
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「だ、ダメでしょうか？　そういうの。トップ
+line2 <shift> # アイドルをめざす資格、ありませんか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いえ、まあ、悪いとはいいませんけど、その、
+line2 <shift> # ただの客といえば、客なわけですし……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （すこし、せつなそうな顔をしている。余計な
+line2 <shift> # チャチャを入れて、水をさしてしまったかな）
+com09 0 69
+display
+location 69
+unk02

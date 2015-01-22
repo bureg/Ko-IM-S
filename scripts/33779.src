@@ -1,0 +1,255 @@
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「スタッフから、話、聞いたんだけど、
+line2 <shift> # 雪歩の家って、かなり大きいんだって？」
+display
+com11 0 4
+sound 1100
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「えっ？　そ、そうですか？　どうなんだろ……。
+line2 <shift> # 確かに、ご近所の中でも、大きいほうかも」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お屋敷だって聞いたぞ。俺は、
+line2 <shift> # 行ってみたことないけど、すごいんだろうなぁ」
+display
+com11 0 4
+sound 1101
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そんな、大げさな。お屋敷だなんて。
+line2 <shift> # ちょっと建物が古くて、敷地が大きいだけです」
+display
+com11 0 4
+sound 1102
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「それに、うちには、お弟子さんが
+line2 <shift> # たくさん住んでいるので……」
+display
+com11 0 4
+sound 1103
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「だから、そんなに広い家って感じも
+line2 <shift> # しないかも？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お弟子さん？」
+display
+com11 0 4
+sound 1104
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい。お父さんの、お弟子さん。
+line2 <shift> # うちに住み込みで、仕事をしてるんです」
+display
+com11 0 4
+sound 1105
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「えっと、３０人くらいいるのかな？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「けっこう多いね……。
+line2 <shift> # 雪歩の家って、何の仕事をしてるのかな？」
+display
+com11 0 4
+sound 1106
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ええっ！？　えと、それは……、
+line2 <shift> # な、内緒ですっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、俺が当ててみよう」
+com03 0 3
+choice1 <shift> # 格闘道場？
+com09 0 10
+com08
+choice2 <shift> # お寺？
+com09 0 11
+com08
+choice3 <shift> # もしかして怖い職業……？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「『お弟子さん』という表現からすると……、
+line2 <shift> # 格闘道場とか？」
+display
+com11 0 4
+sound 1107
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「わっ。ちょっとだけ、微妙に当たりかも」
+display
+com11 0 4
+sound 1108
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「お父さんは日夜、お弟子さんたちと一緒に、
+line2 <shift> # 体当たりの激しい修業をしているんです！」
+display
+com11 0 4
+sound 1109
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「汗だくで、身体を使った修業ですね。
+line2 <shift> # みんな、腕を磨いて、技を鍛えてるんです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「な、なるほどぉ……」
+display
+com11 0 4
+sound 1110
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そんな一日の修業の終わった後の、
+line2 <shift> # みんなで飲むお茶は、格別ですねぇ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「で、格闘道場で正解なのかな？」
+display
+com11 0 4
+sound 1111
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ぶっぶー、はずれです。残念でしたっ」
+display
+com11 0 4
+sound 1112
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ほんとは……いえ、内緒です。
+line2 <shift> # ふふふっ。それでは……失礼しますね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うーん、なんだか謎が深まってしまった）
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「『お弟子さん』という表現からすると……、
+line2 <shift> # お寺とか？」
+display
+com11 0 4
+sound 1113
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ち、違いますよ。
+line2 <shift> # あっ。でも……、似てるかな？」
+display
+com11 0 4
+sound 1114
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「お父さんの下で、皆さんが激しい修業に励んで
+line2 <shift> # いる様子は……、ちょっと禅寺みたいかも」
+display
+com11 0 4
+sound 1115
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ときどき、お父さんがお弟子さんを怒って、
+line2 <shift> # こわーいこともありますね」
+display
+com11 0 4
+sound 1116
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あんまり乱暴ごとになるのは、
+line2 <shift> # 私、いやなんですけど……」
+display
+com11 0 4
+sound 1117
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あっ。でも、みなさん仲はいいんですよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「な、なるほどぉ……」
+display
+com11 0 4
+sound 1118
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「一日の修行の終わった後の、
+line2 <shift> # みんなで飲むお茶は、格別ですねぇ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ところで、お寺じゃないってことは、ほんとの
+line2 <shift> # ところ、雪歩の家の仕事は、何なのかな？」
+display
+com11 0 4
+sound 1119
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そ、それは内緒だって、
+line2 <shift> # 言ったじゃないですかぁ」
+display
+com11 0 4
+sound 1120
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「でも、もしうちに来たら、わかりますよ。
+line2 <shift> # それでは……失礼しますね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うーん、なんだか謎が深まってしまった）
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もしかして、怖い職業なのか……？」
+display
+com11 0 4
+sound 1121
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ど、どんな職業ですかっ、
+line2 <shift> # 怖い職業って……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ワイルドでエキサイティングな職業……、
+line2 <shift> # という意味だよ」
+display
+com11 0 4
+sound 1122
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「わ、ワイルドでエキサイティングな
+line2 <shift> # 職業っていうのは……、つまり……」
+display
+com11 0 4
+sound 1123
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「親分とか兄貴とかと、ファミリーな感じで
+line2 <shift> # 討ち入りしてみるとかっ！」
+display
+com11 0 4
+sound 1124
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「マシンガンをぶっ放して快感だったりする
+line2 <shift> # 職業とかっ！　そういうことですか？」
+display
+com11 0 4
+sound 1125
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ち、違いますよぉ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうは言っていないが……」
+display
+com11 0 4
+sound 1126
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「天下御免の向こう傷とか、
+line2 <shift> # お父さんには、ないですよっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、きいてない、俺はきいてないぞ」
+display
+com11 0 4
+sound 1127
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「額の傷は小さいときに転んで机の角にぶつけた
+line2 <shift> # ものだから誤解するなよと、言ってました……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あるのかっ！」
+display
+com11 0 4
+sound 1128
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「と、とにかく、うちの職業は内緒なんです！
+line2 <shift> # 失礼しますっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うーん、なんだか謎が深まってしまった）
+com09 0 29
+display
+location 29
+unk02

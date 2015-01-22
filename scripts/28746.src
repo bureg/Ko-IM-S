@@ -1,0 +1,517 @@
+com2c 0 25
+com2d 0 41
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「千早、借りてたライブのＤＶＤ、返すよ」
+display
+com11 0 0
+sound 0
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「どうでしたか、プロデューサー？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さすがは世界の歌姫、レナ・キャステルだ。
+line2 <shift> # 圧巻としか言いようがないよ」
+display
+com11 0 0
+sound 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。あれこそ一流のライブアクトですね」
+display
+com11 0 0
+sound 2
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「私も衝撃を受けて、これはぜひプロデューサー
+line2 <shift> # にも見てもらわなければ、と思って……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うん、すごくよかったよ。
+line2 <shift> # 特にすごかったのは……」
+com03 0 3
+choice1 <shift> # 歌だな
+com09 0 11
+com08
+choice2 <shift> # ステージ構成だな
+line2
+com09 0 12
+com08
+choice3 <shift> # む、胸元が……
+line2
+com09 0 13
+com08
+com07
+com09 0 13
+com08
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やっぱり歌だな。まぁ、世界の歌姫なんだから
+line2 <shift> # 当然うまいんだけど……」
+display
+com11 0 0
+sound 3
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「うまいのレベルが違いますよね」
+display
+com11 0 0
+sound 4
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「同じ歌い手として、学ぶべきところが
+line2 <shift> # たくさんあります」
+display
+com11 0 0
+sound 5
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「今の私では勝負になりませんが、
+line2 <shift> # いつか同じ舞台で……と」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「高い目標を持つのはいいことだと思うよ」
+display
+com11 0 0
+sound 6
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい、私もそう思います」
+com09 0 14
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ステージ構成だな。
+line2 <shift> # かけてるお金も、スタッフの技術も段違いだ」
+display
+com11 0 0
+sound 7
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「なるほど、プロデューサーは
+line2 <shift> # そういうところに目がいくんですね」
+display
+com11 0 0
+sound 8
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「私はどうしても歌に集中してしまうので、
+line2 <shift> # そういった箇所への注意は不十分でした」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺は裏方だからね。
+line2 <shift> # 千早と視点が違うのは、あたりまえさ」
+com09 0 14
+display
+location 13
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「む、胸元が……」
+display
+com11 0 0
+sound 9
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「胸元？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ほら、胸元が大きく開いた衣装を着てるだろ？
+line2 <shift> # どうしても、その……」
+display
+com11 0 0
+sound 10
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……私は、そんなところを見て欲しくて、
+line2 <shift> # 貸したのではないのですが」
+display
+com11 0 0
+sound 11
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「プロデューサー、本当に彼女のすごさが
+line2 <shift> # 分かったのですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「も、もちろん、他もよかったよ！　うん」
+com09 0 14
+display
+location 14
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、そういえば、貸してくれたＤＶＤで歌っ
+line2 <shift> # てたの、ちょっと前の曲が多かった気がするな」
+display
+com11 0 0
+sound 12
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。あれは、ひとつ前のアルバムを
+line2 <shift> # 発売した時のツアーですから」
+display
+com11 0 0
+sound 13
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「今度、新譜が出たんです。
+line2 <shift> # さっそく買って、ききました」
+display
+com11 0 0
+sound 14
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「今度のアルバムもすごくて……。激しいロック、
+line2 <shift> # しっとりとしたバラード、アカペラ……」
+display
+com11 0 0
+sound 15
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あらゆるバリエーションの曲を
+line2 <shift> # 的確に歌い上げてしまうんです」
+display
+com11 0 0
+sound 16
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あ……。でも、個人的には、やはり、
+line2 <shift> # バラードがおすすめですね」
+display
+com11 0 0
+sound 17
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「収録曲の『Ｉｆ　Ｙｏｕ　Ｔｅｌｌ　Ｍｅ』は
+line2 <shift> # おそらく、彼女の代表曲になると思います」
+display
+com11 0 0
+sound 18
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「サビ終わりで朗々と歌い上げるロングトーンは、
+line2 <shift> # 何度きいても、心ふるえますね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「へえ〜……」
+display
+com11 0 0
+sound 19
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あっ、申し訳ありません。
+line2 <shift> # なんだか、ひとりで話してしまって……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、千早がそこまで熱く語るなんて、
+line2 <shift> # よっぽど気に入ったんだな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「その曲、きいてみたくなったよ」
+com03 0 3
+choice1 <shift> # Ｉｆ　Ｙｏｕ　Ｔｅｌｌ　Ｍｅ
+line2
+com09 0 20
+com08
+choice2 <shift> # Ｉｆ　Ｙｏｕ　Ｔｅａｃｈ　Ｍｅ
+line2
+com09 0 21
+com08
+choice3 <shift> # Ｉｔ　Ｙｏｕ　Ｔｅｌｌ　Ｍｅ
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「『Ｉｆ　Ｙｏｕ　Ｔｅｌｌ　Ｍｅ』だっけか」
+display
+com11 0 0
+sound 20
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。今度、ＣＤをお貸しします。ぜひ、
+line2 <shift> # プロデューサーにも、きいてもらいたいです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うん、よろしく頼むよ」
+com09 0 23
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「『Ｉｆ　Ｙｏｕ　Ｔｅａｃｈ　Ｍｅ』だっけか」
+display
+com11 0 0
+sound 21
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「違います。『Ｔｅａｃｈ』ではなく、
+line2 <shift> # 『Ｔｅｌｌ』です」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ。あぁ、ごめん。
+line2 <shift> # きいてみたいから、今度、ＣＤ貸してよ」
+display
+com11 0 0
+sound 22
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい、わかりました」
+com09 0 23
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「『Ｉｔ　Ｙｏｕ　Ｔｅｌｌ　Ｍｅ』だっけか」
+display
+com11 0 0
+sound 23
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「違います。『Ｉｔ』ではなく『Ｉｆ』です」
+display
+com11 0 0
+sound 24
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「だいたい、『Ｉｔ』だと、
+line2 <shift> # 文法が、おかしいような気がしますが……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「う。そ、そうか？
+line2 <shift> # よくわからないけどな……、あははっ！」
+display
+com11 0 0
+sound 25
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……はぁ」
+com09 0 23
+display
+location 23
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、そうだ！　新しいアルバムを出したって
+line2 <shift> # ことは、彼女、またツアーするのか？」
+display
+com11 0 0
+sound 26
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。来日もするそうですよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ホントか！？　よかったじゃないか、千早。
+line2 <shift> # 生できけるチャンスだぞ！」
+display
+com11 0 0
+sound 27
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ええ。私もそう思っていたのですが、
+line2 <shift> # チケットが入手困難で……」
+display
+com11 0 0
+sound 28
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「先行予約は、５分で完売したそうです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「５分！？　そりゃすごいな……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、先行予約ってことは、
+line2 <shift> # 一般売りがまだ残ってるんだろう？」
+display
+com11 0 0
+sound 29
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。一般販売は確か……」
+display
+com11 0 0
+sound 30
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あ、今日からです！　そろそろ開始する時間
+line2 <shift> # ですね。あと……３分後に」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「３分後だって！？　こうしちゃいられない！」
+display
+com11 0 0
+sound 31
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「え？　なにを……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「千早が、そんなに行きたいライブなら、
+line2 <shift> # なんとしても、チケットを、とってみせるよ」
+display
+com11 0 0
+sound 32
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「プロデューサー……！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今後の仕事のためにも、
+line2 <shift> # ぜひ、生できいてくるといい」
+display
+com11 0 0
+sound 33
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……はい！」
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 34
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「プロデューサー、３０秒前です！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うん、わかってる」
+display
+com11 0 0
+sound 35
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「チケット、買えるでしょうか……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （千早の期待のまなざし……。
+line2 <shift> # こりゃ、是が非でも応えてやらないと！）
+display
+com11 0 0
+sound 36
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……あと１０秒！
+line2 <shift> # ９、８、７、６、５、４、３、２、１……」
+com03 0 2
+choice1 <shift> # 今だ！　電話をかけるぞ
+line2
+com09 0 30
+com08
+choice2 <shift> # 今だっ！　電話をかけるぞ
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今だ！　電話をかけるぞ！」
+com37 0 1
+com1e 0 0
+com09 0 32
+com3b
+com37 0 0
+com1e 0 0
+com09 0 33
+com3b
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今だっ！　電話をかけるぞ！」
+com09 0 33
+display
+location 32 131 103 131 68 131 139 131 139 131 139 131 139 129 99 129 99 131 74 131 96 131 131 129 73
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「つながった！
+line2 <shift> # あの、レナ・キャステルの公演を１枚！」
+display
+com11 0 0
+sound 37
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「プロデューサー！
+line2 <shift> # ２枚でお願いします！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ？　あ、えっと、２枚で！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……はい。ありがとうございました！」
+display
+com11 0 0
+sound 38
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「プロデューサー。ひょっとして……、
+line2 <shift> # とれたんですか！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、ばっちりだ！」
+display
+com11 0 0
+sound 39
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「一般販売で買えるなんて……
+line2 <shift> # 普通じゃ考えられません！」
+display
+com11 0 0
+sound 40
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「すごいです、プロデューサー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「言われた通り、２枚とっといたよ。
+line2 <shift> # 友達と行くのか？」
+display
+com11 0 0
+sound 41
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あの……プロデューサー。
+line2 <shift> # この公演の日、おヒマですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え？」
+display
+com11 0 0
+sound 42
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「よかったら……というのもおかしいですが、
+line2 <shift> # 一緒に行きませんか？」
+display
+com11 0 0
+sound 43
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「チケットを、とって下さったのは、
+line2 <shift> # プロデューサーですし」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いいのか？」
+display
+com11 0 0
+sound 44
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「もちろんです。ぜひ、お願いします」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わかった。予定は、あけておくよ」
+display
+com11 0 0
+sound 45
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。
+line2 <shift> # 楽しみですね、プロデューサー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （クールな千早が珍しく顔をほころばせている。
+line2 <shift> # チケットがとれて、本当によかった）
+com4b 0 0
+com09 0 69
+display
+location 33 131 103 131 68 131 139 131 139 131 139 131 139 129 99 129 99 131 103 131 68 131 139 131 139 131 139 131 139 129 99 129 99
+line2 <shift> # トゥルルルル……トゥルルルル……
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「くっ！　ダメか。もう１回！」
+display <shift> # トゥルルルル……トゥルルルル……
+line2 <shift> # トゥルルルル……トゥルルルル……
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まだまだっ！」
+display <shift> # トゥルルルル……カチャ！
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「つながった！　レナ・キャステルの公演を……
+line2 <shift> # えっ！　売り切れ……？　じゃあ、いいです」
+display <shift> # カチャ、ツーツーツー
+display
+com11 0 0
+sound 46
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……ダメでしたか」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「千早……すまん」
+display
+com11 0 0
+sound 47
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「いえ、いいんです。
+line2 <shift> # 元々、行けないと思っていましたから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そういいながらも、千早はとても残念そうな
+line2 <shift> # 顔をしている）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （期待させておいて、この結果……。最悪だ。
+line2 <shift> # 本当にすまない、千早……）
+com4b 0 2
+com09 0 69
+display
+location 69
+unk02

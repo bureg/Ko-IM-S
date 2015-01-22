@@ -1,0 +1,305 @@
+com2c 0 35
+com2d 0 11
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やはり、歩行者天国、ホコテンはにぎわいが
+line2 <shift> # ある。今日の路上ライブ、きっと注目されるぞ」
+display
+com11 0 4
+sound 800
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「お客さん、もう結構、集まってますね」
+com03 0 2
+choice1 <shift> # ひと暴れ頼むぞ
+line2
+com09 0 10
+com08
+choice2 <shift> # 緊張してる？
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ひと暴れ頼むぞ、春香」
+display
+com11 0 4
+sound 801
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい！　でもいきなり歌い出しちゃって、
+line2 <shift> # 大丈夫かなぁ？　迷惑になったりは……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「大丈夫、警察や周りの商店にも、
+line2 <shift> # 届出は済んでる。思う存分、歌ってくれ！」
+display
+com11 0 4
+sound 802
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「よーし、それなら……、まかせて下さい！」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もしかして、緊張してる？　春香」
+display
+com11 0 4
+sound 803
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「えへへ、ちょっと緊張です。こんな道の
+line2 <shift> # 真ん中で歌うことなんて、めったにないし……」
+display
+com11 0 4
+sound 804
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「でも、いろんな人に注目してもらえそう！
+line2 <shift> # なんだかわくわくしてきますね♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか、じゃあ頼むぞ！
+line2 <shift> # 思いっきり歌ってみせてくれ」
+display
+com11 0 4
+sound 805
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい、まかせて下さい！」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「伴奏は、ラジカセだけだけど、大丈夫かな。
+line2 <shift> # 軽くリハーサルしておくか？」
+display
+com11 0 4
+sound 806
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あっ、はい。少し、流しでやってみます。
+line2 <shift> # ちょっと振りの練習もしたいので……」
+display
+com11 0 4
+sound 807
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「……きゃっ！」
+display <shift> # すててーんっ！
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うわっ、春香が転んでしまった）
+display
+com11 0 4
+sound 808
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あううっ。す、すみませんっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「平気か春香！　ケガないか？」
+com0e 0 1
+com44
+com4f 0 2
+com09 0 30
+com45
+com44
+com4f 0 1
+com09 0 31
+com45
+com44
+com4f 0 1
+com09 0 32
+com45
+com44
+com4f 0 0
+com09 0 33
+com45
+com44
+com4f 0 0
+com09 0 34
+com45
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「足を、くじいたりしなかったか？」
+display
+com11 0 4
+sound 812
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい、ちょっと引っ掛けちゃいました。
+line2 <shift> # とりあえず、そんなに痛まないですけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか。ダンスは控えめにしておいたほうが、
+line2 <shift> # いいかも。気をつけて」
+display
+com11 0 4
+sound 813
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「いえいえ、大丈夫ですよ、このくらい！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後の路上ライブで、春香は、
+line2 <shift> # はつらつと、歌とダンスをこなした）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （心配いらなかったか……。
+line2 <shift> # でも、ケガが軽いようでよかったな）
+com09 0 99
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「転ぶ時に、手を変にひねってついたり、
+line2 <shift> # してなけりゃいいんだけど」
+display
+com11 0 4
+sound 809
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あっ、はい！　平気です。手は……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ん？　もしかして足をくじいたとか？」
+display
+com11 0 4
+sound 810
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「うーん、ちょっと引っ掛けちゃいました。
+line2 <shift> # とりあえず、そんなに痛まないですけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか。ダンスは控えめにしておいてくれ。
+line2 <shift> # 気をつけてな！」
+display
+com11 0 4
+sound 823
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「えへへ、大丈夫ですよ、このくらい！
+line2 <shift> # ……たぶん」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後の路上ライブで、春香は、
+line2 <shift> # 一生懸命、歌ってくれた）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （でも、ちょっと足を気にしてたようだな。
+line2 <shift> # たいしたことは、なかったみたいだけど）
+com09 0 99
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「こ、腰を打たなかったか？
+line2 <shift> # 痛めていたら大変だ」
+display
+com11 0 4
+sound 814
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「だ、大丈夫ですっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「無理してないか？
+line2 <shift> # 遠慮しないで、ちゃんと言ってくれよ」
+display
+com11 0 4
+sound 815
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「平気ですって。少し足は引っ掛けちゃった
+line2 <shift> # けど……、たいしたことないし」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうか。……でも、心配だな。
+line2 <shift> # 痛かったら、さすってやろうか？」
+display
+com11 0 4
+sound 824
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あの……、本当に、そこまでしなくっても、
+line2 <shift> # 平気ですから、プロデューサーさん……」
+display
+com11 0 4
+sound 825
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「……あんまりしつこいと、何だか下心があり
+line2 <shift> # そうに見えちゃいますよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あらぬ疑いを、かけられてしまった。その上、
+line2 <shift> # その後のライブでの、春香のダンスは今ひとつ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （気を配るところ、間違えたのかな……）
+com09 0 99
+display
+location 33
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なぁ、転んだとき、もしかして……、
+line2 <shift> # 胸を打ったりしてないか？」
+display
+com11 0 4
+sound 817
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ええっ！？　だ、大丈夫です。平気ですよ。
+line2 <shift> # 足はちょっと引っ掛けたけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうか。それなら、いいんだ。
+line2 <shift> # よかったよかった」
+display
+com11 0 4
+sound 818
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ち、縮んだりしてませんよ！　だから、
+line2 <shift> # 胸は打ってませんってば！　元からこうです！」
+display
+com11 0 4
+sound 826
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「……って、ああっ！　す、すみません。
+line2 <shift> # なに言ってるんだろう、私ったら……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （転んだ時に春香は調子を悪くしたようで、
+line2 <shift> # その後のライブのダンスは、キレがなかった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （もう少しちゃんと、気を配ってやれば、
+line2 <shift> # よかったかな……）
+com09 0 99
+display
+location 34
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「立てるか？」
+display
+com11 0 4
+sound 820
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「えっ。あ、は、はい」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、とりあえずケガは、
+line2 <shift> # ないみたいだな。それならよかった」
+display
+com11 0 4
+sound 821
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい……。足を少し引っ掛けたけど、
+line2 <shift> # 平気ですっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ！　足を……？　なら、念のために、
+line2 <shift> # 医者に行ったほうがいいかな」
+display
+com11 0 4
+sound 827
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「だ、大丈夫です。ライブはできますよ。
+line2 <shift> # 心配しないで下さい。えへへ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しかし、その後のライブの、春香のダンスには、
+line2 <shift> # キレがなかった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （すぐに立たせたりしないで、もう少しちゃんと、
+line2 <shift> # 様子をみてやれば、よかった……）
+com09 0 99
+display
+location 99
+unk02

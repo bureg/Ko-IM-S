@@ -1,0 +1,284 @@
+com2c 0 57
+com2d 0 21
+com32 0 0
+com11 0 1
+sound 500
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「まったく〜、このＣＭの撮影班、
+line2 <shift> # わかってないわよねー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なに、ぼやいてるんだ？」
+display
+com11 0 1
+sound 501
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「演出がなってないのよっ。ポンときて、
+line2 <shift> # ズンときたら、ザン、ホイのがいいのに〜！」
+com03 0 3
+choice1 <shift> # いや、そう言われても……
+line2
+com09 0 10
+com08
+choice2 <shift> # ガン、ポンのがいいだろ？
+line2
+com09 0 11
+com08
+choice3 <shift> # ……麻雀用語？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、そう言われても……」
+display
+com11 0 1
+sound 502
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……そうよね。あんたは撮影見てたわけじゃ
+line2 <shift> # ないし、これじゃ通じないわよね」
+display
+com11 0 1
+sound 503
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「でも、そっちの方が、絶対いいのよっ。
+line2 <shift> # 私、わかるんだから……」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ガン、ポンのがいいだろ？」
+display
+com11 0 1
+sound 504
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ん〜、悪くはないけど、それだと締まりが……。
+line2 <shift> # って、あんた、ほんとにわかってる？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、もちろん……」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……麻雀用語？」
+display
+com11 0 1
+sound 505
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ちがうわよ〜。れっきとしたＣＭ用語でしょ」
+display
+com11 0 1
+sound 506
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「麻雀なんて、私、わからないもん。パパは、
+line2 <shift> # 上海の人と、たまにやってるみたいだけど」
+com09 0 29
+display
+location 29
+com11 0 1
+sound 507
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「とにかく、休けいが終わったら、みんなを、
+line2 <shift> # 説得してみるわ。ザン、ホイにしようって」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もうすこし、わかりやすく言った方が、
+line2 <shift> # よくないか？」
+display
+com11 0 1
+sound 508
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「これで理解できないんじゃ、プロとは言えない
+line2 <shift> # わー。かみくだく必要なんてないんじゃない？」
+com03 0 3
+choice1 <shift> # 理解力には、個人差があるし
+line2
+com09 0 30
+com08
+choice2 <shift> # まあ、そう言うなって
+line2
+com09 0 31
+com08
+choice3 <shift> # 正しい日本語で伝えよう
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「理解力には、個人差があるし」
+display
+com11 0 1
+sound 509
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「う……。そ、そうかもね。あんたが、
+line2 <shift> # そう言うなら、ちょっと言い方、考えてみる」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、そう言うなって」
+display
+com11 0 1
+sound 510
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なによ、甘いわね〜。
+line2 <shift> # やさしくしてばかりじゃ、人は育たないのよ？」
+display
+com11 0 1
+sound 511
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「でも、あんたがそう言うなら……。いいわ。
+line2 <shift> # ちょっと言い方、考えてみる」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「正しい日本語で伝えよう」
+display
+com11 0 1
+sound 512
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ちょっとー、ザン、ホイの、
+line2 <shift> # どこが正しくないのよ〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あんまり整った言葉とは、思わないけど……」
+display
+com11 0 1
+sound 513
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「も〜、堅物なんだから……。わかったわよ。
+line2 <shift> # 赤ちゃんでもわかるように、説明するわ」
+com09 0 49
+display
+location 49
+com11 0 1
+sound 514
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「それじゃ、行ってくるわね。
+line2 <shift> # プロデューサー！」
+display
+com22 0 30
+com21 0 30
+com11 0 1
+sound 515
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ふぅ〜、終わったー。
+line2 <shift> # ね、私のプラン、カンペキだったでしょ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。スタッフ全員、驚いてたな」
+display
+com11 0 1
+sound 516
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「こういうのは、歌といっしょでリズムなの！
+line2 <shift> # なんとなく共通するとこ、つかめるのよねー」
+com03 0 3
+choice1 <shift> # ……大きくなったよな
+line2
+com09 0 50
+com08
+choice2 <shift> # 伊織は天才だな
+line2
+com09 0 51
+com08
+choice3 <shift> # 教えることは、もうないな
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……大きくなったよな」
+display
+com11 0 1
+sound 517
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「え。い、いきなり、ほめないでよね……。
+line2 <shift> # 驚くじゃないの……」
+display
+com11 0 1
+sound 518
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……それは、成長もするわよ。どっかの
+line2 <shift> # 誰かさんが、いろいろやらせてくれたから……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （めずらしく、照れてる。
+line2 <shift> # 小さな芽は、見事な大樹に育ったな……）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「伊織は天才だな」
+display
+com11 0 1
+sound 519
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「フフン、当たり前でしょ。私ほど、
+line2 <shift> # 豊かな才能を持って生まれた人は、いないわ」
+display
+com11 0 1
+sound 520
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「でもーっ、才能だけじゃないわよっ！
+line2 <shift> # これでも、いろいろ研究してきたんだからー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そうだったのか。ごめん」
+display
+com11 0 1
+sound 521
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……まあ、いいけど。天才なのも、事実だし」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ほめ言葉も、案外むずかしいな。もちろん、
+line2 <shift> # 努力も認めてないわけじゃないんだけど……）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「教えることは、もうないな」
+display
+com11 0 1
+sound 522
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なによー、えらそうに〜。あんたは私の
+line2 <shift> # 師匠じゃなくて、プロデューサーでしょ？」
+display
+com11 0 1
+sound 523
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そりゃ、いろいろ聞いたりもしたけど、
+line2 <shift> # 全部あんたから教わったわけじゃないわ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……たしかに、そうだな」
+display
+com11 0 1
+sound 524
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あんまり調子に乗らないでよね！　私だって、
+line2 <shift> # いつまでも、か弱い子羊じゃないんだから♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うかつなこと言うと、反撃がこわいな。
+line2 <shift> # ……にしても、か弱い子羊って、誰だ？）
+com09 0 69
+display
+location 69
+unk02

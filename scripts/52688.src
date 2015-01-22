@@ -1,0 +1,767 @@
+com2d 0 91
+com2e 0 101
+com2c 0 25
+com2c 0 19
+com2c 0 1
+com2c 0 47
+com32 0 0
+com11 0 0
+sound 0
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「んっふっふ〜。
+line2 <shift> # 今日の兄ちゃんは、ほんとにツイてんね〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうしたんだ、いきなり……？」
+display
+com11 0 0
+sound 1
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「だって、真美達の、
+line2 <shift> # 手作りクッキーが食べられるんだよー！」
+display
+com11 0 0
+sound 2
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「家庭科の授業で、
+line2 <shift> # んしょんしょ作ったんだもんねー！」
+display
+com11 0 0
+sound 3
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「うん。兄ちゃんのために、
+line2 <shift> # 愛情とか、いろんなものをこめて作ったよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その『いろんなもの』ってのが、
+line2 <shift> # 何なのか気になるな……）
+display
+com11 0 0
+sound 4
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ほらほら、
+line2 <shift> # 亜美のから食べてー！」
+display
+com11 0 0
+sound 5
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ダメだよ、亜美ー。
+line2 <shift> # 兄ちゃんは真美のから食べたいのー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （しょうがないな、
+line2 <shift> # どっちから食べよう……？）
+com03 0 3
+choice1 <shift> # 亜美の方から
+line2
+com09 0 10
+com08
+choice2 <shift> # 真美の方から
+line2
+com09 0 11
+com08
+choice3 <shift> # 両方同時に
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ、順番に。
+line2 <shift> # まずは亜美のからな」
+display
+com11 0 0
+sound 6
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「やったー！」
+display
+com11 0 0
+sound 7
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「むにゅぅ。
+line2 <shift> # 真美のが絶対おいしいのにーっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ごめんな、真美。
+line2 <shift> # んじゃ、いただきます……っと」
+display
+com11 0 0
+sound 8
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ねえ、どうどうどう？
+line2 <shift> # メチャうまっしょー？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う……」
+display
+com11 0 0
+sound 9
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「う……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ぐぁーっ！！」
+display
+com11 0 0
+sound 10
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「兄ちゃんがクネクネしてる」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「は、腹が痛い……」
+display
+com11 0 0
+sound 11
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「なんでー！
+line2 <shift> # ちゃんとお腹の薬も入れといたのにー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （じょ、冗談だろ……）
+display
+com11 0 0
+sound 12
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「兄ちゃん、だいじょーぶ？
+line2 <shift> # こんな時には、はい、これどーぞ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「た、助かった……。
+line2 <shift> # この薬で、なんとか……、んぐっ」
+display
+com11 0 0
+sound 13
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「薬じゃないよー。
+line2 <shift> # 真美のクッキーだもん」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ぐはっ……。
+line2 <shift> # は、腹の中で化学反応がぁ……）
+display
+com11 0 0
+sound 14
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うわっ、兄ちゃんのクネクネが
+line2 <shift> # ひどくなったー！」
+display
+com11 0 0
+sound 15
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「味見しなくてよかったねー、亜美」
+display
+com11 0 0
+sound 16
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うんうん。
+line2 <shift> # もう少しで危ないとこだったよー」
+com09 0 15
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ、順番に。
+line2 <shift> # まずは真美のからな」
+display
+com11 0 0
+sound 17
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「えへへ〜♪」
+display
+com11 0 0
+sound 18
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「なんでー？
+line2 <shift> # 亜美のがおいしいに決まってんのにーっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ごめんな、亜美。
+line2 <shift> # んじゃ、いただきます……っと」
+display
+com11 0 0
+sound 19
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「どう？　ほっぺ、落ちまくりー？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う……」
+display
+com11 0 0
+sound 20
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「う……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ぐぁーっ！！」
+display
+com11 0 0
+sound 21
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うわぁ……。
+line2 <shift> # 兄ちゃん、メチャ死にそうな顔してるよ」
+display
+com11 0 0
+sound 22
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ち、ちがうよー！　死にそうなくらい、
+line2 <shift> # メチャうまってことだよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「め、めまいが……」
+display
+com11 0 0
+sound 23
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「なんでー！」
+display
+com11 0 0
+sound 24
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「んっふっふ〜。
+line2 <shift> # この勝負、亜美がもらったよー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、おい！　やめろ……。
+line2 <shift> # 無理矢理、口にねじ込むな……」
+display
+com11 0 0
+sound 25
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「亜美のクッキーは、いいんだよ。
+line2 <shift> # ちゃんと、お腹のお薬とかも入ってるし」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （く、薬……！？
+line2 <shift> # は、腹の中で化学反応がぁ……）
+display
+com11 0 0
+sound 26
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「うあ〜！
+line2 <shift> # 兄ちゃんが紫色になってくよ〜！」
+display
+com11 0 0
+sound 27
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うぅ……、先生が手作りクッキーは、
+line2 <shift> # 男の子に威力ばつぐんって言ってたけど……」
+display
+com11 0 0
+sound 28
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「こういうことだったんだね……。
+line2 <shift> # クッキーおそるべし……。ブルブル……」
+com09 0 15
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「平等に両方同時に食べるよ」
+display
+com11 0 0
+sound 29
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「それじゃ、どっちがおいしいか
+line2 <shift> # わかんないよーっ？」
+display
+com11 0 0
+sound 30
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「そうだよー。
+line2 <shift> # 絶対、真美の方がおいしいのにーっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあまあ。
+line2 <shift> # んじゃ、いただきます……っと」
+display
+com11 0 0
+sound 31
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「わくわく……」
+display
+com11 0 0
+sound 32
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ドキドキ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う……」
+display
+com11 0 0
+sound 33
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「う……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ぐぁーっ！！」
+display
+com11 0 0
+sound 34
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「兄ちゃん、プルプルしてんね……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ぐはっ……。
+line2 <shift> # は、腹の中で化学反応がぁ……）
+display
+com11 0 0
+sound 35
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「たぶん真美のが、まずかったんだよー」
+display
+com11 0 0
+sound 36
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ちがうよー！　亜美のでしょー！」
+display
+com11 0 0
+sound 37
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「亜美のは、大丈夫だもん。
+line2 <shift> # ちゃんとお腹のお薬とか入れといたし……」
+com09 0 15
+display
+location 15
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （こ、こいつら……。
+line2 <shift> # は、早く……トイレにぃぃぃ……）
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 38
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「大丈夫ー？　兄ちゃん……」
+display
+com11 0 0
+sound 39
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「おトイレ、何時間も大変だったしょ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺のことなら、だ、大丈夫……。
+line2 <shift> # それより、時間が……」
+display
+com11 0 0
+sound 40
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「時間？」
+display
+com11 0 0
+sound 41
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「うあー！　大変だよ、亜美ー！
+line2 <shift> # 次のお仕事の時間がピンチー！！」
+display
+com11 0 0
+sound 42
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「チコクしたら、どうなんのー？
+line2 <shift> # 兄ちゃん、クビにされちゃうの？」
+com03 0 3
+choice1 <shift> # そうかもな……
+line2
+com09 0 16
+com08
+choice2 <shift> # 二人がクビだ
+line2
+com09 0 17
+com08
+choice3 <shift> # クビだけじゃすまない
+line2
+com09 0 18
+com08
+com07
+com09 0 18
+com08
+display
+location 16
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうかもな……」
+display
+com11 0 0
+sound 43
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「どうしよー！
+line2 <shift> # 真美達が、あんなクッキー作ったせいだよ」
+display
+com11 0 0
+sound 44
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うあうあ〜、兄ちゃんに、
+line2 <shift> # よろこんでもらおうと思っただけなのにー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「大丈夫だよ二人とも。移動に使うために、音無
+line2 <shift> # さんにレンタカーを借りておいてもらったから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「その車で飛ばせば、まだ間に合う！」
+com09 0 19
+display
+location 17
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、クビになるのは、二人の方だ……」
+display
+com11 0 0
+sound 45
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「うあうあ〜！
+line2 <shift> # 真美達、クビになっちゃうの〜！」
+display
+com11 0 0
+sound 46
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うあうあ〜、兄ちゃんに、
+line2 <shift> # よろこんでもらおうと思っただけなのにー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「冗談だよ。でも、クビほどじゃないにしても、
+line2 <shift> # ペナルティはあるだろうな……」
+display
+com11 0 0
+sound 47
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「どうしよう、兄ちゃん……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「大丈夫だよ二人とも。移動に使うために、音無
+line2 <shift> # さんにレンタカーを借りておいてもらったから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「その車で飛ばせば、まだ間に合う！」
+com09 0 19
+display
+location 18
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「クビだけじゃすまないぞ……」
+display
+com11 0 0
+sound 48
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「うあうあ〜！　じゃあ、兄ちゃん、
+line2 <shift> # もしかしてゴリンジュウ〜！？」
+display
+com11 0 0
+sound 49
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「兄ちゃんの骨は、ちゃんと、
+line2 <shift> # 亜美達が、ひろっとくよ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おいおい、勝手に殺すなよ。
+line2 <shift> # クビにはならないし、死んだりもしない」
+display
+com11 0 0
+sound 50
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「なんだ、よかった〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、今後の仕事には、響くだろうな……」
+display
+com11 0 0
+sound 51
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「うあうあ〜、よくないよ〜！」
+display
+com11 0 0
+sound 52
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「兄ちゃんに、よろこんでもらおうと
+line2 <shift> # 思っただけなのにー！」
+display
+com11 0 0
+sound 53
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「どうしよう、兄ちゃん……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「大丈夫だよ二人とも。移動に使うために、音無
+line2 <shift> # さんにレンタカーを借りておいてもらったから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「その車で飛ばせば、まだ間に合う！」
+com09 0 19
+display
+location 19
+com22 0 30
+com32 0 1
+com21 0 30
+com11 0 0
+sound 66
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「兄ちゃん、車、３台も停まってるけど、
+line2 <shift> # どれに乗ればいいの？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「えっ！　３台！？　そんなに借りてくれなんて、
+line2 <shift> # 音無さんに言った覚え、ないけどな」
+display
+com11 0 0
+sound 67
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「あ！　そういえば、さっき兄ちゃんがトイレと
+line2 <shift> # お友達になってる時、ピヨちゃんが言ってた！」
+display
+com11 0 0
+sound 68
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「『どういう車を借りればいいか、わからなくて、
+line2 <shift> # 速い車と、遅い車を借りておいたわ』って」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「な、なんだって！　速い車だけで良かったのに。
+line2 <shift> # うう。いったいどれが、速い車なんだ！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そして、なんて似てるモノマネなんだ！
+line2 <shift> # ……って、今は、それどころじゃないか！」
+display
+com11 0 0
+sound 69
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ピヨちゃんに、ききにいくヒマ、ないよね？
+line2 <shift> # どうしよう、兄ちゃん〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （間に合うかどうかの瀬戸際だ。どの車が速いか、
+line2 <shift> # 全くわからないが……、この選択は重要だぞ！）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし！　二人とも……」
+com03 0 3
+choice1 <shift> # この車に乗れ！
+line2
+com09 0 20
+com08
+choice2 <shift> # その車に乗れ！
+line2
+com09 0 21
+com08
+choice3 <shift> # あの車に乗れ！
+line2
+com09 0 22
+com08
+com07
+com09 0 21
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「この車に乗れ！」
+com37 0 1
+com1e 0 0
+com09 0 25
+com3b
+com37 0 0
+com1e 0 0
+com09 0 26
+com3b
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「その車に乗れ！」
+com09 0 26
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あの車に乗れ！」
+com37 0 1
+com1e 0 0
+com09 0 25
+com3b
+com37 0 0
+com1e 0 0
+com09 0 26
+com3b
+display
+location 25
+com22 0 30
+com32 0 2
+com21 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なんとか間に合ったぞ。最新式のカーナビも
+line2 <shift> # ついてたし、『速い車』だったみたいだな！」
+display
+com11 0 0
+sound 55
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「間にあったよー！
+line2 <shift> # よかったねー、亜美ー！」
+display
+com11 0 0
+sound 56
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「これで兄ちゃんが
+line2 <shift> # 廊下に立たされなくてすむよー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「さあ、スタジオに急ぐぞ！　二人とも」
+display
+com11 0 0
+sound 57
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ごめんね、兄ちゃん。
+line2 <shift> # あんなクッキー食べさせちゃって……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんな顔するなよ。二人は俺のために、
+line2 <shift> # 焼いてくれたんだろ？」
+display
+com11 0 0
+sound 58
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うん。でも、次はもっと
+line2 <shift> # ちゃんとしたの作るね」
+display
+com11 0 0
+sound 59
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「うん。ママに習って、
+line2 <shift> # メチャうまなクッキー焼くよー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （遅刻しないですんだせいか、
+line2 <shift> # 二人の表情は、とっても晴れやかだ）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （本当に、間に合ってよかった……！）
+com4b 0 0
+com09 0 69
+display
+location 26
+com22 0 30
+com32 0 3
+com21 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うう……。この車、スピードは出ないし、地図
+line2 <shift> # すら積んでないし、『遅い車』だったようだな」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「その上、渋滞につかまったぞ……。
+line2 <shift> # ダメだ。もう絶望的だよ……」
+display
+com11 0 0
+sound 60
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うあ〜！　真美のクッキーのせいだ！」
+display
+com11 0 0
+sound 61
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「亜美のクッキーが、いけないんでしょ〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おい、こんなところで、
+line2 <shift> # ケンカを始めるなよ……」
+display
+com11 0 0
+sound 62
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うぅ……。
+line2 <shift> # こうなったら亜美が運転するよー！」
+display
+com11 0 0
+sound 63
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「真美も運転するー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やめろ！　二人とも暴れるなって……」
+display
+com11 0 0
+sound 64
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「真美よか亜美の方が速いー！」
+display
+com11 0 0
+sound 65
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「亜美はこの前、
+line2 <shift> # ゲームで真美に負けたっしょー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （二人がケンカしだしたせいで、車内の雰囲気は
+line2 <shift> # 最悪のまま、長い時間を過ごすことになった）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （もちろん、仕事には遅刻。さんざん、
+line2 <shift> # 先方のディレクターに、しかられてしまった）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （二人のテンションも、がた落ちだ……）
+com4b 0 2
+com09 0 69
+display
+location 69
+unk02

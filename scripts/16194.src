@@ -1,0 +1,279 @@
+com2c 0 26
+com2d 0 31
+com32 0 0
+com11 0 2
+sound 1400
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「えへへ、ありがとうございまーす。
+line2 <shift> # 買い物、つき合ってくれてっ」
+display
+com11 0 2
+sound 1401
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「日用品、こんなにたくさん買ったの、
+line2 <shift> # はじめてかも！」
+com03 0 2
+choice1 <shift> # 今日はリッチだね
+line2
+com09 0 10
+com08
+choice2 <shift> # 財布、大丈夫か？
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「今日はリッチだね」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「財布、大丈夫か？」
+com09 0 19
+display
+location 19
+com11 0 2
+sound 1402
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はい。昨日、ギャラもらったばかりですし。ラ
+line2 <shift> # ンクＣになったからか、すっごい額が入ってて」
+display
+com11 0 2
+sound 1403
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あんまりの多さに、お母さん、ビックリして
+line2 <shift> # ました……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もう完全にメジャーアイドルだからな」
+display
+com11 0 2
+sound 1404
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「メジャーアイドル……。ちょっとカッコいい
+line2 <shift> # 響きですねっ」
+display
+com11 0 2
+sound 1405
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「最近、家もかなり楽になったし、なんか、
+line2 <shift> # ふぅーって感じ！」
+com03 0 3
+choice1 <shift> # よかったよな、本当に
+line2
+com09 0 20
+com08
+choice2 <shift> # とりあえず、満足？
+line2
+com09 0 21
+com08
+choice3 <shift> # ハングリーさ、薄れないか？
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よかったよな、本当に」
+display
+com11 0 2
+sound 1406
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「これも、プロデューサーのおかげです！」
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「とりあえず、満足？」
+display
+com11 0 2
+sound 1407
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うーん、満足っていうと、ちょっとちがう
+line2 <shift> # 気が……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……稼ぎ足りないって、こと？」
+display
+com11 0 2
+sound 1408
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「いえ、そうじゃなくて……。お金も大事です
+line2 <shift> # けど、もっと大事な目標が、ありますよね？」
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ハングリーさ、薄れないか？」
+display
+com11 0 2
+sound 1409
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「え、そんなことないです。私、やる気とか、
+line2 <shift> # 全然、変わってないしー」
+display
+com11 0 2
+sound 1410
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「お金があるのはうれしいですけど、それは
+line2 <shift> # やっぱり、オマケですからっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そう思えるんなら、まあ、大丈夫か」
+com09 0 29
+display
+location 29
+com11 0 2
+sound 1411
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ、プロデューサー。せっかくデパート
+line2 <shift> # きたんだし、ゴハン食べてから、戻りませんか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いいかもな。
+line2 <shift> # じゃあ、メジャー出世記念に……」
+com03 0 3
+choice1 <shift> # おごってくれる？
+line2
+com09 0 30
+com08
+choice2 <shift> # ……ワリカンにしとくか
+line2
+com09 0 31
+com08
+choice3 <shift> # おごってあげようか？
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おごってくれる？」
+display
+com11 0 2
+sound 1412
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「え！　そうしてもいいですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え、あ、いや……」
+display
+com11 0 2
+sound 1413
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「私、一度、プロデューサーに
+line2 <shift> # お礼したかったんです！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そう？　じゃあ、頼むよ」
+display
+com11 0 2
+sound 1414
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「えへへ、いっしょにたくさん食べて、もっと
+line2 <shift> # もっと、すごいとこ、めざそーっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （こんなうれしいそうに、人におごるの、やよい
+line2 <shift> # ぐらいだろうなあ。今日は好意に甘えるか）
+com09 0 39
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……ワリカンにしとくか」
+display
+com11 0 2
+sound 1415
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「え……は、半分ずつ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、いろいろ考えたんだけど、それが
+line2 <shift> # いいかなって」
+display
+com11 0 2
+sound 1416
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「んー、そうかもしれないですね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ワリカンじゃ、いやか？
+line2 <shift> # なんなら、おごるけど？」
+display
+com11 0 2
+sound 1417
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「いえ、いいですっ！　あの、わ、私……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ん、なに？」
+display
+com11 0 2
+sound 1418
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「……その〜、な、なんでもないです！　えへへ、
+line2 <shift> # それじゃ、食堂街へＧＯってことで！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （出かけた言葉を、やよいは飲み込んでしまった。
+line2 <shift> # ワリカンが、不服ってわけでもなさそうだけど）
+com09 0 39
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おごってあげようか？」
+display
+com11 0 2
+sound 1419
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「プロデューサーが、私に？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。なんでも、好きなもの食べていいよ」
+display
+com11 0 2
+sound 1420
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「そんな！　いいですっ！　プロデューサーに
+line2 <shift> # 頼ってばっかりじゃ、悪いし〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「遠慮することは……」
+display
+com11 0 2
+sound 1421
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「そういうわけじゃ……ううう〜……」
+display
+com11 0 2
+sound 1422
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はあ、わかりました……。それじゃ、
+line2 <shift> # おごられることにしよーっと」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もしかして……あんまり、うれしくない？」
+display
+com11 0 2
+sound 1423
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「う、うれしいです。もう、とび上がるぐらい！
+line2 <shift> # えへへ、あー、やったー、おごりおごり……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （やけにガックリしている……。うーん、
+line2 <shift> # どうしてだ？　自腹、切りたかったのかな）
+com09 0 39
+display
+location 39
+unk02

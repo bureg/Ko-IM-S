@@ -1,0 +1,287 @@
+com2c 0 39
+com2d 0 51
+com2e 0 54
+com32 0 0
+com11 0 4
+sound 700
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「写真集の撮影って、水着もあるんですか？
+line2 <shift> # ううう、そ、そんな〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「すみません。今の人気だと『水着ナシじゃ、
+line2 <shift> # ほとんど売れない』って言われてしまって」
+com03 0 3
+choice1 <shift> # こらえてください
+line2
+com09 0 10
+com08
+choice2 <shift> # あきらめてください
+line2
+com09 0 11
+com08
+choice3 <shift> # プロとしての義務です
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「こらえてください」
+com09 0 91
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あきらめてください」
+com09 0 91
+display
+location 91
+com11 0 4
+sound 701
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「わかりましたー。では、着替えて……。
+line2 <shift> # ううう」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「プロとしての義務です」
+display
+com11 0 4
+sound 702
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そうですよね。ただの写真だけでは、手に
+line2 <shift> # とってもらえるはずも。……でも」
+display
+com11 0 4
+sound 703
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はあ〜、わかりました。それでは着替えて……。
+line2 <shift> # ううう」
+com09 0 29
+display
+location 29
+com22 0 30
+com21 0 30
+com11 0 4
+sound 704
+com4c 0 2
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「こ、これで……。ぷ、プロデューサーさん、
+line2 <shift> # 見ないでください。あっちへ、行ってて」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それじゃ、フォローできないですよ」
+display
+com11 0 4
+sound 705
+com4c 0 2
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「では、目をつぶってて……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「困ったな。自信持ってくださいって。
+line2 <shift> # え、えーと……」
+com03 0 3
+choice1 <shift> # キレイですよ
+line2
+com09 0 30
+com08
+choice2 <shift> # スレンダーですよ
+line2
+com09 0 31
+com08
+choice3 <shift> # 迫力満点ですよ
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「キレイですよ」
+display
+com11 0 4
+sound 706
+com4c 0 2
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「……うそ。わ、私、こんな格好で、カメラの
+line2 <shift> # 前で笑顔なんて、とても……」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「スレンダーですよ」
+display
+com11 0 4
+sound 707
+com4c 0 2
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「う、うそですー。私、自分の体型は、わかって
+line2 <shift> # います。あまり人に見せられるものでは」
+com09 0 92
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「迫力満点ですよ」
+display
+com11 0 4
+sound 708
+com4c 0 2
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「うう、すみません。すこしはアイドルらしい
+line2 <shift> # 体型にと思っているのですけれど、どうしても」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、今のは、ほめ言葉ですって」
+com09 0 92
+display
+location 92
+com11 0 4
+sound 709
+com4c 0 2
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「こんな格好をして、カメラの前で笑顔なんて、
+line2 <shift> # とても……」
+com09 0 49
+display
+location 49
+com11 0 4
+sound 710
+com4c 0 2
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「きっと、ガチガチの写真になってしまいます。
+line2 <shift> # それでは、問題ですよね？」
+com03 0 3
+choice1 <shift> # ガチガチでも、いいです
+line2
+com09 0 50
+com08
+choice2 <shift> # なんとか、笑えませんか？
+line2
+com09 0 51
+com08
+choice3 <shift> # 浜辺をイメージしましょう
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ガチガチでも、いいです」
+display
+com11 0 4
+sound 711
+com4c 0 2
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「え？　今みたいな表情でも、ですか？　それで
+line2 <shift> # いいのでしたら、なんとか」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ムリに笑顔つくるより、その方が生っぽくて
+line2 <shift> # いいかもしれません。そのまま、いきましょう」
+display
+com22 0 30
+com21 0 30
+com11 0 4
+sound 712
+com4c 0 2
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「カメラマンさん、これで、いいですか？
+line2 <shift> # わ、私……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （大赤面している。つくった表情より、ずっと
+line2 <shift> # 魅力的だ。これなら、ファンは大よろこびだな）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なんとか、笑えませんか？」
+display
+com11 0 4
+sound 713
+com4c 0 2
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「努力はしますけれど、どのくらいできるか。
+line2 <shift> # や、やらなければ、いけないですよね」
+display
+com11 0 4
+sound 714
+com4c 0 2
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「平気です。普通の服を着ていると思い込めば、
+line2 <shift> # きっと。あ、安心してください」
+display
+com22 0 30
+com21 0 30
+com11 0 4
+sound 715
+com4c 0 2
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「カメラマンさん、お願いします。
+line2 <shift> # ふ、ふふふふふっ、ふ……」
+display
+com11 0 4
+sound 716
+com4c 0 2
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「え、もっと自然に？　わかりました。
+line2 <shift> # ふ、ふふふふふっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （これは、時間がかかりそうだな。まあ、やって
+line2 <shift> # いるうちに、だんだんこなれてくるか）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「浜辺をイメージしましょう。このスタジオを
+line2 <shift> # ビーチだと思って！」
+display
+com11 0 4
+sound 717
+com4c 0 2
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ビーチ。ここが、ビーチ？　ううう……」
+display
+com11 0 4
+sound 718
+com4c 0 2
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「私、あまりいい思い出ないんです。
+line2 <shift> # 小学生の時は、おぼれかけて大変なことに」
+display
+com11 0 4
+sound 719
+com4c 0 2
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「浜で寝ていたら、友達に忘れられて、置き去り
+line2 <shift> # にされたことも。あんまりですよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それは、ひどいな。あああ、そういうのじゃな
+line2 <shift> # くて、もっと楽しいイメージを……」
+display
+com11 0 4
+sound 720
+com4c 0 2
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あの時は体中、日焼けしてしまって、ヒリヒリ。
+line2 <shift> # それから、焼きそば持ったまま、転んで……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （どんどん不幸そうな顔になっていく。なんか、
+line2 <shift> # 真冬の日本海みたいな写真になりそうだ……）
+com09 0 69
+display
+location 69
+unk02

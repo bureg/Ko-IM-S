@@ -1,0 +1,255 @@
+com2c 0 46
+com2d 0 63
+com32 0 0
+com11 0 2
+sound 300
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ああっ！　このホールは、もしかして……」
+display
+com11 0 2
+sound 301
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「確か、このホールで以前、他のアイドル
+line2 <shift> # ユニットさんの前座をやったことがありますね」
+display
+com11 0 2
+sound 302
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「私、覚えてますっ」
+com03 0 2
+choice1 <shift> # おお、そうだな！
+line2
+com09 0 10
+com08
+choice2 <shift> # そうだっけ？
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おお、そうだな。
+line2 <shift> # もちろん俺も、覚えてるぞ！」
+display
+com11 0 2
+sound 303
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「はいっ！　ああ、でも、今度はメイン……。
+line2 <shift> # が、頑張らなきゃ……」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだっけ？　すまん、俺は覚えてない」
+display
+com11 0 2
+sound 304
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「そうですか……。
+line2 <shift> # 私、あの頃は、今以上にステージが苦手で……」
+display
+com11 0 2
+sound 305
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「緊張して、ガチガチだったな……。で、でも、
+line2 <shift> # 今はメインなんだから、が、頑張らなきゃ……」
+com09 0 29
+display
+location 29
+com11 0 2
+sound 306
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「あぅあぅ……。ぐすっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ど、どうした雪歩！
+line2 <shift> # なんだか、ずいぶん、ふるえてるじゃないか」
+display
+com11 0 2
+sound 307
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「あ、穴があったら……、入りたい……。
+line2 <shift> # 恥ずかしい……。そ、それに、こわいですぅ」
+display
+com11 0 2
+sound 308
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「お客さんが、お客さんが、あんなにいっぱい、
+line2 <shift> # こっちを見てるぅ……。ど、どうすれば！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、落ち着け！　冷静になるんだ。
+line2 <shift> # パニックになるんじゃないっ」
+display
+com11 0 2
+sound 309
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「れ、冷静に、冷静に……。ううっ。
+line2 <shift> # わ、わかってるんですけど……。ひくっ」
+display
+com11 0 2
+sound 310
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ああっ！　ひくっ、し、しゃっくりが、
+line2 <shift> # ひくっ、急にとまらなくなって、ひくっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「な、なんと。しゃっくりか……。まいったな、
+line2 <shift> # このまま、ステージには、あげられないな」
+display
+com11 0 2
+sound 311
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「な、何か飲めば、治るかも、しれないけど……。
+line2 <shift> # ひくっ」
+com03 0 3
+choice1 <shift> # 冷たい水を
+com09 0 30
+com08
+choice2 <shift> # あつーいお茶
+line2
+com09 0 31
+com08
+choice3 <shift> # ビックリさせる
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ここは、ひとまず冷たい水を！
+line2 <shift> # さあ、一気にグッといけ」
+display
+com11 0 2
+sound 312
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「んくっんぐっ……。ひゃあああああー！
+line2 <shift> # ひ、ひゃっこいですねっ……」
+display
+com11 0 2
+sound 313
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「この冷たい水……、岩清水ですか？
+line2 <shift> # ああ、おいしかったぁ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あれ、しゃっくりとまった？」
+display
+com11 0 2
+sound 314
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「あ、とまりました……。
+line2 <shift> # やった！　それでは行ってきます！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、頼むぞ！　ひと暴れしてこい」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （スッキリした雪歩がステージに飛び出していく。
+line2 <shift> # これは、快調なライブが期待できそうだぞ！）
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ここは、あつーいお茶を、一気にいけっ」
+display
+com11 0 2
+sound 315
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ふぅふぅ。これ、熱々ですね……、あちち。
+line2 <shift> # いい香り、玉露かな……」
+display
+com11 0 2
+sound 316
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「それでは、ひとくち、って……。
+line2 <shift> # きゃあああ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うわ！　こぼした！　あちちちち！」
+display
+com11 0 2
+sound 317
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ああっ、プロデューサー！　大丈夫ですかっ」
+display
+com11 0 2
+sound 318
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「お茶、ひっかけちゃって……。
+line2 <shift> # ごめんなさい、ごめんなさい」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「い、いや、いいって。
+line2 <shift> # さあ、そんなことより、もう出番だ」
+display
+com11 0 2
+sound 319
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「で、でもっ……、ひくっ」
+display
+com11 0 2
+sound 320
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「あぅ……。ひくっ、いってきますっ、ひくっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （動揺としゃっくりを抑えられないまま、雪歩は、
+line2 <shift> # ステージに挑むことになってしまった……）
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （しゃっくりは、びっくりさせればとまる、とい
+line2 <shift> # う伝説をきいたことがある。よし、ここは……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わっ！！」
+display
+com11 0 2
+sound 327
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「きゃああ！　な、なんですかぁ〜！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、驚かせたら、しゃっくりが、
+line2 <shift> # とまるかなと思って」
+display
+com11 0 2
+sound 328
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ううう……。そんなのじゃ、とまりませんよぉ。
+line2 <shift> # ビックリした……。ひどいですぅ……、ぐすっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「す、すまん。でも、ほら、
+line2 <shift> # これで、しゃっくりはとまっただろ？」
+display
+com11 0 2
+sound 329
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ううっ。とまってませんよ。
+line2 <shift> # ぐすっ……、ひくっ。ううう……」
+display
+com11 0 2
+sound 330
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ああ、もう行かなきゃ……。うう、ぐすっ……。
+line2 <shift> # ひくっ……、ぐすん……、ひくっ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （あああ！　しゃっくりがとまらなかった上に、
+line2 <shift> # 泣きじゃくりながら、行ってしまった）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （は、激しく心配だ……。大丈夫かな……）
+com09 0 49
+display
+location 49
+unk02

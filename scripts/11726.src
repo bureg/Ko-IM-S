@@ -1,0 +1,366 @@
+com2c 0 24
+com2d 0 23
+com32 0 0
+com11 0 0
+sound 0
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「今日のチャットイベント、結構、楽しそう
+line2 <shift> # よね〜。ファンも楽しみにしてるようだし♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「インターネットを使って、伊織の映像や書いた
+line2 <shift> # 文章が、直接ファンの元に届くわけだからな」
+display
+com11 0 0
+sound 1
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「考えてみたら、ファンと長時間、普通におしゃ
+line2 <shift> # べりするのって初めてかもしれないわ〜」
+display
+com11 0 0
+sound 2
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ネット越しとはいえ、ちょっとだけ緊張する
+line2 <shift> # わね〜。ねえ、何か注意しとくことってある？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん。そうだなあ……」
+com03 0 3
+choice1 <shift> # ファンには優しく
+line2
+com09 0 10
+com08
+choice2 <shift> # ファンには厳しく
+line2
+com09 0 11
+com08
+choice3 <shift> # プロデューサーに優しく
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ファンには優しく、な。ブリッコが続かなく
+line2 <shift> # なってきても、本性ムキ出しにしないように」
+display
+com11 0 0
+sound 3
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なによ、それ。失礼しちゃうわね〜！　それ
+line2 <shift> # じゃまるで、本性は優しくないみたいじゃない」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「つい本音が……いや、ファンは最大限に
+line2 <shift> # 大切にしようって言いたかっただけだよ」
+display
+com11 0 0
+sound 4
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ん〜。まあ、一応、頭にいれておくわ」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ファンには厳しく、な。失礼な質問とかする
+line2 <shift> # ヤツは、ビシバシたたっ切っていこう」
+display
+com11 0 0
+sound 5
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あらそう？　そういうのは得意だけど……
+line2 <shift> # でも、本当に大丈夫かしら？」
+display
+com11 0 0
+sound 6
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「私が本気でたたっ切ると、再起不能になる人が
+line2 <shift> # 出てくるかも。鋭いから、私の言葉のナイフ♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （確かに。
+line2 <shift> # 慣れてない人は瞬殺されかねないな……）
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「プロデューサーには優しく、な。ファンの皆の
+line2 <shift> # 前でヒドイ悪口を言ったりしないように」
+display
+com11 0 0
+sound 7
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「むっかー！　どうしてそんなに信用ないワケ？
+line2 <shift> # 心配しなくても、アンタの話なんかしないわよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「むう。それはそれで寂しい気がするな」
+display
+com11 0 0
+sound 9
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「それがご不満なら、
+line2 <shift> # アンタのことメチャクチャに言ってやるから！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うう……。
+line2 <shift> # それをやめてくれって言ってるのに……）
+com09 0 19
+display
+location 19
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それと、大手音楽サイト主催だから、大勢の人
+line2 <shift> # が見てるはずだ。あんまりハメを外すなよ？」
+display
+com11 0 0
+sound 10
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「えー……。でも、多少は思い切ったことも
+line2 <shift> # しないと、つまんない内容になっちゃうわ」
+display
+com11 0 0
+sound 11
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「悪いけど、イベントが始まったら
+line2 <shift> # 好き勝手にやらせてもらいますからねー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、それじゃ困るよ。決して伊織を信じてない
+line2 <shift> # わけじゃないけど、できるだけ……」
+com03 0 3
+choice1 <shift> # できるだけファンの夢を大切に
+line2
+com09 0 20
+com08
+choice2 <shift> # できるだけ可愛く頼むよ
+line2
+com09 0 21
+com08
+choice3 <shift> # できるだけ黙っててくれ
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「できるだけファンの夢を大切にしてくれよ。
+line2 <shift> # ガッカリさせるような内容にならないようにな」
+display
+com11 0 0
+sound 12
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「大丈夫よ〜！　私を誰だと思ってるワケ〜？
+line2 <shift> # アイドル界の申し子、天下の水瀬伊織よ！？」
+display
+com11 0 0
+sound 13
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ファンとの交流ぐらい、パーフェクトかつ
+line2 <shift> # ナチュラルに、こなして差し上げてよ♪」
+display
+com11 0 0
+sound 14
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「アンタは豪華客船に乗ったつもりで、
+line2 <shift> # 安心して見てなさいっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （……大船に乗ったつもりで、
+line2 <shift> # と言いたいらしい）
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「できるだけ可愛く頼むよ。この機会に
+line2 <shift> # ファンのハートをガッチリつかむんだ！」
+display
+com11 0 0
+sound 15
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あのね〜、私の可愛さは常にフルスロットル
+line2 <shift> # なの！　可愛さレベル、達人級なのっ！！」
+display
+com11 0 0
+sound 16
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ファンのハートだって、にぎりつぶしそうな
+line2 <shift> # くらいガッチリつかんでるわよ〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そうか。そうだよな」
+display
+com11 0 0
+sound 17
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そうよっ！　ま、いつも通り可愛くやるから、
+line2 <shift> # 心配しないで見てなさいっての」
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「できるだけ黙っててくれよ。
+line2 <shift> # ボロを出さないためには、それが一番だ」
+display
+com11 0 0
+sound 18
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なんですってー！？　アンタ、暴言はくのも
+line2 <shift> # たいがいにしなさいよ！」
+display
+com11 0 0
+sound 19
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「私が黙ってて、イベントが盛り上がるワケない
+line2 <shift> # でしょ！　それに、ボロなんか出さないし！」
+display
+com11 0 0
+sound 20
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「もっと考えてしゃべれば？　ほんっとダメなん
+line2 <shift> # だからーっ！　『ダメＰ』に改名すべきね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ひ、ひどい……。
+line2 <shift> # 伊織の方が暴言じゃないか……）
+com09 0 29
+display
+location 29
+com11 0 0
+sound 21
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……あ、そろそろスタッフも準備完了
+line2 <shift> # したみたいね。いよいよスタートかしら」
+display
+com22 0 30
+com21 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……順調だな、伊織！　パソコンの操作まで
+line2 <shift> # 自分で出来るなんてすごいじゃないか」
+display
+com11 0 0
+sound 22
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「学校で習ったから……はあ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ずいぶん疲れてるみたいだな。後半は
+line2 <shift> # パソコンの入力だけでも、他の人に代わるか？」
+display
+com11 0 0
+sound 23
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そうしてもらえると助かるわ〜。質問の答えを
+line2 <shift> # 考えるのと入力するの、同時だから疲れるのよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わかった。
+line2 <shift> # すぐにオペレーターを手配するよ！」
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 24
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「オペレーターが来てくれたみたいよ、
+line2 <shift> # プロデューサー！　……なぜか、二人」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「えっ、二人も頼んでないぞ！？　手違いか？」
+display
+com11 0 0
+sound 25
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そんなのどうでもいいけど、どっちと交代すれ
+line2 <shift> # ばいいの？　使える人は、どっちなワケ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （う……どっちだろう？　運任せだが、
+line2 <shift> # 外れを選ぶわけにはいかないぞ！）
+com03 0 2
+choice1 <shift> # こっちの人！
+line2
+com09 0 30
+com08
+choice2 <shift> # あっちの人！
+line2
+com09 0 31
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「こっちの人と交代だ！　初めて仕事する人だが
+line2 <shift> # 有能そうな人だし、間違いはないだろう！」
+com37 0 1
+com1e 0 0
+com09 0 38
+com3b
+com37 0 0
+com1e 0 0
+com09 0 39
+com3b
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あっちの人と交代だ！　初めて仕事する人だが
+line2 <shift> # できそうな人だし、任せても安心だろう！」
+com37 0 1
+com1e 0 0
+com09 0 38
+com3b
+com37 0 0
+com1e 0 0
+com09 0 39
+com3b
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「時間がない！　テキトーに決めるけど、
+line2 <shift> # そっちの人と交代しとけば大丈夫だろう！」
+com09 0 39
+display
+display
+location 38
+com11 0 0
+sound 26
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……えっとー、今歌ってる曲は伊織、一生懸命
+line2 <shift> # 練習しました〜♪　皆、ぜひＣＤを買ってね♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （敏腕オペレーターのおかげもあって、
+line2 <shift> # イベントは後半も順調そのものだ！）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （伊織は終始笑顔でファンの質問に答えている。
+line2 <shift> # よかった、俺の選択は間違っていなかったぞ！）
+com4b 0 0
+com09 0 49
+display
+location 39
+com11 0 0
+sound 27
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……それでー、今踊ってる振り付けは……あ！
+line2 <shift> # また入力間違えてるわよ、オペレーターさん！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （俺の選んだオペレーターは手際が悪く、後半の
+line2 <shift> # イベントは明らかに流れが悪くなってしまった）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （伊織はイライラして、ファンの質問に集中でき
+line2 <shift> # ないようだ。……はあ。完全に俺のミスだ）
+com4b 0 2
+com09 0 49
+display
+location 49
+unk02

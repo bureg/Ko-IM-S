@@ -1,0 +1,348 @@
+com2c 0 119
+com2d 0 11
+com2e 0 111
+com32 0 0
+com11 0 0
+sound 0
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あー、あー。ドレミレド〜♪　こんにちは、
+line2 <shift> # 天海春香です！　おばあちゃん、観てるー！？」
+display
+com11 0 0
+sound 1
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あ、これだと、ちょっとハシャギすぎかな……。
+line2 <shift> # 天海春香です。皆さん、応援して下さいねっ！」
+display
+com11 0 0
+sound 2
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「うん、この方がいいかも。発声練習もバッチリ
+line2 <shift> # だし♪　今日も、がんばるぞーっ！　おーっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おーっ！　俺もがんばるぞー！」
+display
+com11 0 0
+sound 3
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あっ！　プロデューサーさん！　す、すみま
+line2 <shift> # せん。ちょっと発声練習を、と思って……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「謝ることなんて、ないさ。
+line2 <shift> # 春香、なんだか楽しそうだな！」
+display
+com11 0 0
+sound 4
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「はい。大事な番組だから、緊張とか
+line2 <shift> # プレッシャーも、すごいんですけど」
+display
+com11 0 0
+sound 5
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「それでも、夢だったトップアイドルに、今、
+line2 <shift> # どんどん近づいていってるんだって思うと……」
+display
+com11 0 0
+sound 6
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「すごくうれしくて、ワクワクしちゃうんです！
+line2 <shift> # ＩＵのステージで歌うのって最高の気分ですっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか！　ＩＵのステージ上で見せている
+line2 <shift> # 春香の笑顔は、作り物じゃないんだな！」
+display
+com11 0 0
+sound 7
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「はい、心からの笑顔ですよ！
+line2 <shift> # だって、最高の舞台で歌ってるんですから！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （春香は、ＩＵで、思う存分、力を発揮して
+line2 <shift> # 戦うことを、心から楽しんでいるみたいだな）
+display
+com11 0 0
+sound 8
+com4c 0 0
+name 0 2 <names:3>  # President Kuroi
+line1 <shift> # 「……というわけだから、今日は、
+line2 <shift> # 心して歌うんだね、響ちゃん」
+display
+com11 0 0
+sound 9
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「そんなっ！？　黒井社長、前に、言ってくれた
+line2 <shift> # ことと違うよ！　あれ、ウソだったの？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ん？　あれは……」
+display
+com11 0 0
+sound 10
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「９６１プロの黒井社長と響ちゃんですね。
+line2 <shift> # 何だかモメてるみたいですけど……」
+com03 0 3
+choice1 <shift> # 静かに様子をみよう
+line2
+com09 0 10
+com08
+choice2 <shift> # このまま様子をみよう
+line2
+com09 0 11
+com08
+choice3 <shift> # 気にせず準備しよう
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ちょっと、静かに様子をみようか。
+line2 <shift> # 春香、部屋のすみへ寄っていてくれ」
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 11
+com4c 0 0
+name 0 2 <names:3>  # President Kuroi
+line1 <shift> # 「……ウソつき呼ばわりとは心外だ。
+line2 <shift> # 私が、君に何か言ったかな？」
+display
+com11 0 0
+sound 12
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「自分がトップアイドルになれるまで、
+line2 <shift> # アドバイスしてくれるって、そう約束したぞ！」
+display
+com11 0 0
+sound 13
+com4c 0 0
+name 0 2 <names:3>  # President Kuroi
+line1 <shift> # 「約束ねえ……。そんな下らないもの、
+line2 <shift> # いちいち覚えていられないなあ、私は」
+display
+com11 0 0
+sound 14
+com4c 0 0
+name 0 2 <names:3>  # President Kuroi
+line1 <shift> # 「だが、要は勝てばいいのだよ。勝利は、全てを
+line2 <shift> # 解決する。……それとも、自信がないのかい？」
+display
+com11 0 0
+sound 15
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「そ、そんなことはないぞっ！」
+display
+com11 0 0
+sound 16
+com4c 0 0
+name 0 2 <names:3>  # President Kuroi
+line1 <shift> # 「では、勝ちたまえ。響ちゃん、君は私の大切な
+line2 <shift> # バラだよ。……今はまだ、ね。じゃ、失礼！」
+display
+com11 0 0
+sound 17
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「黒井社長っ！　せめて本選の間ぐらい、近くで
+line2 <shift> # 応援……、もう行っちゃったか。うう……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （何があったんだ？　かなり、ただならぬ様子
+line2 <shift> # だったけど。でも、今は声、かけづらいな……）
+display
+com11 0 0
+sound 18
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「響ちゃんっ！　何、今の！？
+line2 <shift> # 何かヒドイこと、言われてたみたいだけど」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あっ！　こら、春香っ！
+line2 <shift> # ……ったく。空気読めよ、少しは」
+display
+com11 0 0
+sound 19
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「春香！　と、７６５プロ……」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「このまま様子をみよう」
+display
+com11 0 0
+sound 20
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「でも、ここにいたら、すぐに響ちゃん達に、
+line2 <shift> # 見つかっちゃいそうですよ？」
+display
+com11 0 0
+sound 21
+com4c 0 0
+name 0 2 <names:3>  # President Kuroi
+line1 <shift> # 「……おや？　そこにいるのは、
+line2 <shift> # ７６５プロの諸君じゃないかね？」
+display
+com11 0 0
+sound 22
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「や、やっぱり……」
+display
+com11 0 0
+sound 23
+com4c 0 0
+name 0 2 <names:3>  # President Kuroi
+line1 <shift> # 「こんな所で、私達の話を立ち聞きするとは、
+line2 <shift> # 非常識な人達だな」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ここは、ＩＵ出演者全員の控え室です。そう
+line2 <shift> # いう場所で大声で言い争う方が、非常識ですよ」
+display
+com11 0 0
+sound 24
+com4c 0 0
+name 0 2 <names:3>  # President Kuroi
+line1 <shift> # 「フン。相変わらず口の減らない男だ。では、
+line2 <shift> # 失礼！　君達と話すのは時間のムダなのでね」
+display
+com11 0 0
+sound 25
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「むう。こんなこと言うと失礼だけど、
+line2 <shift> # でも、カンジ悪いですねっ！」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「気にせず準備しよう」
+display
+com11 0 0
+sound 26
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「でも、いいんですか？
+line2 <shift> # 響ちゃん、何か困ってるみたいですよ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「今は、他人にかまってる場合じゃない。
+line2 <shift> # いいから、着替えて準備をしておいで」
+display
+com11 0 0
+sound 27
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「は、はい。わかりました……」
+com09 0 99
+display
+location 19
+com11 0 0
+sound 28
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「しかも、この大事な時に響ちゃんを置いて、ど
+line2 <shift> # こか行っちゃうなんて。ヒドイよ、黒井社長！」
+display
+com11 0 0
+sound 29
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「客席に行っただけだよ。黒井社長は、オーディ
+line2 <shift> # ションも本番も、アイドルに付き添わないから」
+display
+com11 0 0
+sound 30
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「だいたい、なんで春香が、自分のために、
+line2 <shift> # そんなに怒るんだよ？　関係ないのにさ」
+display
+com11 0 0
+sound 31
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「関係なくないよ！　悲しい思いしてる女の子が
+line2 <shift> # いたら、助けるのが普通でしょっ！？」
+display
+com11 0 0
+sound 32
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「プロデューサーさんは、いつも私にそうしてく
+line2 <shift> # れてるよ。そうですよねプロデューサーさん！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え？　ああ、まあ、そうかな？　ははは……」
+display
+com11 0 0
+sound 33
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「ふーん……。そうなんだ……」
+display
+com11 0 0
+sound 34
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「でも、今は人の心配なんかしてる時じゃないぞ、
+line2 <shift> # 春香！　ＩＵで勝つのは１人なんだからねっ！」
+display
+com11 0 0
+sound 35
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「７６５プロで、ぬくぬく育った春香ごときに、
+line2 <shift> # 自分は負けるつもりないから。じゃ、本番で！」
+display
+com11 0 0
+sound 36
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あ、響ちゃん……。何かつらいことがあるなら、
+line2 <shift> # 相談してくれればいいのに……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「響にも、プライドってもんがあるだろうしな。
+line2 <shift> # 今は、言いづらいのかもしれない」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それに、響の言ってたことにも、一理あるぞ。
+line2 <shift> # 春香、今は人の心配をしてる時じゃない」
+display
+com11 0 0
+sound 37
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「わかってます。ＩＵに集中、ですよね？
+line2 <shift> # じゃあ私、着替えてきますね！」
+com09 0 99
+display
+location 99
+unk02

@@ -1,0 +1,215 @@
+com2c 0 118
+com2d 0 81
+com32 0 0
+location 0
+com11 0 6
+sound 18000
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はぁー、気持ちよかった〜！
+line2 <shift> # もうクタクタで、踊れません……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いきなり公園でパフォーマンスするなんて……。
+line2 <shift> # まったく、とんでもないアイドルだな」
+display
+com11 0 6
+sound 18001
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あはは、すみません。体がウズウズして、
+line2 <shift> # ガマンできなかったからっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それだけ、今日のライブが、熱かったって、
+line2 <shift> # ことか？」
+com38 0 1
+com1e 0 0
+com09 0 10
+com3b
+com37 0 0
+com1e 0 0
+com09 0 11
+com3b
+display
+location 10
+com11 0 6
+sound 18002
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はい！　ただ、会場はもっと広いところの方が、
+line2 <shift> # よかったです。あそこはさすがに、せますぎて」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う、たしかに……。今の真の人気なら、もう
+line2 <shift> # 少しゆったりしたホールでも、大丈夫だったか」
+display
+com11 0 6
+sound 18003
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そう思います。とはいえ、自分のベストは、
+line2 <shift> # 尽くしましたから、悔いはないですけどね」
+display
+com11 0 6
+sound 18004
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そこそこ納得のいくライブが、できたことで、
+line2 <shift> # ……明日からの道、見えてきた気がします」
+com09 0 19
+display
+location 11
+com11 0 6
+sound 18005
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はい！　人数は少なかったですけど、集まって
+line2 <shift> # くれたファンが、エネルギーくれました！」
+display
+com11 0 6
+sound 18006
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「おかげで、明日からの道……、
+line2 <shift> # 見えてきた気がします」
+com09 0 19
+display
+location 19
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、今後の進路について、決まったのか？」
+display
+com11 0 6
+sound 18007
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はい。迷いましたけど、ボク、この先も、
+line2 <shift> # アイドル、続けていくことにします！」
+display
+com11 0 6
+sound 18008
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あんな、ちっぽけな小屋が、夢の終点だなんて、
+line2 <shift> # 認めちゃダメですよね！」
+display
+com11 0 6
+sound 18009
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「本当の引退ライブは、せめて、全力で踊っても、
+line2 <shift> # 足がぶつからない会場で、やりたいですっ」
+display
+com1c 0 3
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、そうだろうな。俺は、もう力になって
+line2 <shift> # やれないけど、がんばってくれ！」
+display
+com11 0 6
+sound 18010
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はい！　さーて、続けると決めた以上、
+line2 <shift> # ノンビリしちゃ、いられませんねっ」
+display
+com11 0 6
+sound 18011
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「きついけど、今日は走って、
+line2 <shift> # 家まで帰ろっかな」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おいおい、あまりムチャするなよ。それより、
+line2 <shift> # ほら、お別れのあいさつ、ちゃんとしよう」
+display
+com11 0 6
+sound 18012
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「え？　あいさつなんて、ナシでいいですよっ。
+line2 <shift> # そういう湿っぽいのって、ガラじゃないし」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「こら、そういう問題じゃないだろ。
+line2 <shift> # あいさつを、しっかりできないヤツは……」
+com03 0 3
+choice1 <shift> # アイドル失格だぞ？　
+line2
+com09 0 20
+com08
+choice2 <shift> # 人間失格だぞ？　
+line2
+com09 0 21
+com08
+choice3 <shift> # 男のクズだぞ？　
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「アイドル失格だぞ？」
+display
+com11 0 6
+sound 18013
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「う……。たしかに、礼儀は大切ですよね。
+line2 <shift> # わっかりました。それじゃ、形だけ……」
+display
+com11 0 6
+sound 18014
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサー、今日まで、
+line2 <shift> # お世話さまでした！　じゃ、おっ先！」
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「人間失格だぞ？」
+display
+com11 0 6
+sound 18015
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うっはー、そこまで、言います？
+line2 <shift> # わかりましたよー。それじゃ、ちゃんと……」
+display
+com11 0 6
+sound 18016
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサー、今日まで、
+line2 <shift> # お世話さまでした！　じゃ、おっ先！」
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「男のクズだぞ？」
+display
+com11 0 6
+sound 18017
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「う……。たしかに、礼儀は大切ですよね。
+line2 <shift> # ……って、『男』ってのは、なんです〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「い、いや、悪い悪い。
+line2 <shift> # 言葉のあやというか……」
+display
+com11 0 6
+sound 18018
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はあーあ。ま、いっか。
+line2 <shift> # こんなイヤミ言われるのも、今日で最後だし」
+display
+com11 0 6
+sound 18019
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「えーと、あいさつ、でしたね？　プロデュー
+line2 <shift> # サー、お世話さまでした！　じゃ、おっ先！」
+com09 0 29
+display
+location 29
+com4a 0 0
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、真ー！　あーあ、行っちまったか」
+display
+location 100 129 92 129 92 130 177 130 164 130 181 130 196 129 65 137 180 130 170 136 231 130 196 130 189 131 123 129 91 131 67 131 98 131 86 131 133 130 200 143 151 130 204 142 113
+line2 <shift> # は、テキトーなあいさつをして、去っていった。
+display
+location 101 130 185 130 223 130 196 129 65 141 197 140 227 130 205 129 65 130 224 130 164 143 173 130 181 139 67 142 157 130 191 130 204 130 177 130 224 130 193 130 189 129 65
+line2 <shift> # お礼を聞きたかった気がする。けれど――、
+display
+location 102 131 137 131 88 131 103 131 137 131 67 131 117 130 197 142 184 148 115 130 183 130 233 130 230 130 232 130 205 129 65 144 148 146 105 131 125 131 86 130 190 130 235 130 164 129 66
+line2 <shift> # 今後の健闘を祈りつつ、去りゆく姿を見送った。
+display
+unk02

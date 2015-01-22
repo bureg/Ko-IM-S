@@ -1,0 +1,400 @@
+com2c 0 34
+com2d 0 103
+com32 0 0
+com11 0 1
+sound 800
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「ふぅ、はぁ、ふぅ〜。こ、これで、ＴＶリハー
+line2 <shift> # サル３本目、終わりだね。んじゃ、次〜〜〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「大丈夫か、真美？　ほんとに交替ナシで、
+line2 <shift> # ５本のリハ、全部こなす気か？」
+display
+com11 0 1
+sound 801
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「うん……。いつまでも、亜美と半分ずつじゃ、
+line2 <shift> # なんか、ずるいと思うし〜」
+display
+com11 0 1
+sound 802
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「小学生だからって、甘えてられないもんっ。
+line2 <shift> # 今日の真美は、いつもと、ちがうよっ！」
+com03 0 3
+choice1 <shift> # ミラクル真美、か？
+line2
+com09 0 10
+com08
+choice2 <shift> # パワフル真美、か？
+line2
+com09 0 11
+com08
+choice3 <shift> # バリバリ真美、か？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ミラクル真美、か？」
+display
+com11 0 1
+sound 803
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「そう、そんな感じっ！　ミラクルを、
+line2 <shift> # クルクル起こしまくっちゃうのっ！」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「パワフル真美、か？」
+display
+com11 0 1
+sound 804
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「なんか、それ、ブルドーザーみたいだね。
+line2 <shift> # でも、そんな感じかも。今日はパワフル真美！」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「バリバリ真美、か？」
+display
+com11 0 1
+sound 805
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「なんか、それ、
+line2 <shift> # おせんべい食べてる音みたいだね……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そうか？　せんべいだったら、
+line2 <shift> # パリポリ真美だと思うけど？」
+display
+com11 0 1
+sound 806
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「それは、もっと、いやだよ〜……。どうせなら、
+line2 <shift> # かわいいのに、してほしかったな〜」
+com09 0 29
+display
+location 29
+com11 0 1
+sound 807
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「あっ、話してる場合じゃ！　次のスタジオへ。
+line2 <shift> # う、あ、あああ〜〜〜、目が〜〜〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、おい、やっぱりムリしすぎじゃ……」
+display
+com11 0 1
+sound 808
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「ちょっとだけ、つかれちゃった……。
+line2 <shift> # でも、止めたりしないでね、兄ちゃん」
+display
+com11 0 1
+sound 809
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「なんとか、最後まで、やりきらないと……。
+line2 <shift> # ふぅ、はぁ、ふぅ〜……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「がんばれ、真美！　がんばらないと……」
+com03 0 2
+choice1 <shift> # 亜美に、笑われるぞ？
+line2
+com09 0 30
+com08
+choice2 <shift> # 亜美に、代わらせるぞ？
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「亜美に、笑われるぞ？」
+display
+com11 0 1
+sound 810
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「そうだね。さっき、亜美には『任せて』って、
+line2 <shift> # 言っちゃったし。ウソは、ダメだよねっ！」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「亜美に、代わらせるぞ？」
+display
+com11 0 1
+sound 811
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「それだけは、やだよ〜。兄ちゃん、なんで、
+line2 <shift> # そんなこと言うの〜〜〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あああ、ごめんごめん。
+line2 <shift> # こう言えば、ガッツが出るかと思って……」
+display
+com11 0 1
+sound 812
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「さっき、亜美には、任せてって、言っちゃっ
+line2 <shift> # たんだから……。ズルは、なしだよ……」
+com09 0 49
+display
+location 49
+com11 0 1
+sound 813
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「んじゃ、真美、いくね。
+line2 <shift> # あと２本……、あと……、２、本〜！」
+display
+com11 0 1
+sound 814
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「兄ちゃん、背中、ポンッて、たたいてっ！
+line2 <shift> # それで、燃え燃えモードになるから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、じゃあ、後ろ向いて。
+line2 <shift> # 勢いよく、いくぞ！」
+com0e 3 60
+com44
+com09 0 50
+com45
+com44
+com09 0 51
+com45
+com44
+com09 0 52
+com45
+com44
+com09 0 53
+com45
+com44
+com09 0 54
+com45
+com44
+com09 0 55
+com45
+com44
+com09 0 56
+com45
+com44
+com09 0 57
+com45
+display
+location 50
+com11 0 1
+sound 815
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「んっし！　元気、出ちゃったっ！
+line2 <shift> # 心がボーボーって、感じ〜！」
+display
+com11 0 1
+sound 816
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「ありがと、兄ちゃん！　真美、最後まで、
+line2 <shift> # 突っ走るからねっ！　ご〜〜〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （すごい勢いで、かっ飛んでいった。つらい時
+line2 <shift> # でも、逃げない根性、身についたみたいだな）
+com09 0 69
+display
+location 51
+com11 0 1
+sound 817
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「あうあっ。兄ちゃ〜ん、くすぐったい〜〜〜。
+line2 <shift> # ヘロヘロになっちゃうよ〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ご、ごめんっ。
+line2 <shift> # ちょっと勢いが、足らなかったか……」
+display
+com11 0 1
+sound 818
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「これじゃ、燃え燃えモードじゃなくて、しお
+line2 <shift> # しおモードかも……。い、いってくる〜〜〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （フラフラな足どりで、歩いていった。喝を入れ
+line2 <shift> # るどころか、足を引っ張ってしまったな……）
+com09 0 69
+display
+location 52
+com11 0 1
+sound 831
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「え〜っ！？　頭、ポムッてしてくれても、
+line2 <shift> # 今は、うれしくないよ〜。なんでなの？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや……。頑張ってる真美を見てたら、
+line2 <shift> # エライな〜と思って、つい……」
+display
+com11 0 1
+sound 832
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「今は、アリ型窓枠だよ〜。ううっ、燃え燃え
+line2 <shift> # じゃなくて、なごみモードになっちゃった〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （アリ型窓枠？　……ああ。ありがた迷惑、か。
+line2 <shift> # うまく要望に、こたえてやれなかったな……）
+com09 0 69
+display
+location 53
+com11 0 1
+sound 821
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「え、兄ちゃん……？
+line2 <shift> # どうして、頭、なでなでするの？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、こっちの方が、元気出るかと思って。
+line2 <shift> # そ、そうでもないか？」
+display
+com11 0 1
+sound 822
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「なんか、安心して、気、抜けちゃったかも〜。
+line2 <shift> # ふぅ〜、これじゃ、しおしおモードだよ〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （やさしくすれば、いいってもんじゃないか……。
+line2 <shift> # ここはパシッと、決めてやるべきだったな）
+com09 0 69
+display
+location 54
+com11 0 1
+sound 833
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「え〜っ？　兄ちゃん、なんで、
+line2 <shift> # 手、にぎろうとしたの〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、手をとって、激励しようかな〜と、
+line2 <shift> # 思ってさ」
+display
+com11 0 1
+sound 834
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「そんなのゼンゼン頼んでないよ〜！　ううっ、
+line2 <shift> # なんか、心、しおしおモードになっちゃった〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （余計なことをして、足を引っ張ってしまった。
+line2 <shift> # 気持ちよく、送り出してやるべきだったかな）
+com09 0 69
+display
+location 55
+com11 0 1
+sound 825
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「え？　んっと〜……。
+line2 <shift> # 兄ちゃん、どうして、手、さわるの？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや……、背中叩いたりすると、
+line2 <shift> # むせちゃうかと思って、つい……」
+display
+com11 0 1
+sound 826
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「大丈夫だよ〜、ちゃんと背中……。あ、あ、
+line2 <shift> # なんか、しおしおモードになってきちゃった〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （遠慮して、ヘンなことしたら、足を引っ張って
+line2 <shift> # しまった。素直に叩いてやれば、よかったな）
+com09 0 69
+display
+location 56
+com11 0 1
+sound 835
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「あれ？　兄ちゃん、どうして、
+line2 <shift> # そんなところ、ポンってするの？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ご、ごめん、ちょっと手がすべっちゃって。
+line2 <shift> # 平気だったか？」
+display
+com11 0 1
+sound 836
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「背中って言ったのに〜。あ、あああ、なんか、
+line2 <shift> # 心、しおしおモードになってきちゃった……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ヘンなところを叩いたら、足を引っ張って
+line2 <shift> # しまった。もっと慎重にやれば、よかったな）
+com09 0 69
+display
+location 57
+com11 0 1
+sound 829
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「…………兄ちゃん？　いつになったら、
+line2 <shift> # ポンッて、してくれるの？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや……、こうして、思い切りタメをつくって、
+line2 <shift> # 叩いた方が、効くかなって……」
+display
+com11 0 1
+sound 830
+com4c 0 1
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「そこまで、強くやらなくても……。
+line2 <shift> # 真美、カベまで、ふっ飛んじゃうよ〜〜〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （こわがらせてしまった……。間なんか
+line2 <shift> # 置かないで、さっさと叩いてやるべきだったな）
+com09 0 69
+display
+location 69
+unk02

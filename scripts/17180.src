@@ -1,0 +1,201 @@
+com2c 0 39
+com2d 0 33
+com32 0 0
+com11 0 5
+sound 900
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「写真って、ブロマイド用に撮るんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、これから撮るのは、宣材写真」
+display
+com11 0 5
+sound 901
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「せんざい……？　あ、洗えるの？」
+com03 0 2
+choice1 <shift> # 洗えない
+com09 0 10
+com08
+choice2 <shift> # 洗える
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「洗えないって。宣材写真っていうのは、
+line2 <shift> # 宣伝材料にする写真のこと」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「洗える」
+display
+com11 0 5
+sound 902
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ど、どうやってですー！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……なんてな。宣材っていうのは、
+line2 <shift> # 宣伝材料にする写真のこと。洗剤とはちがうよ」
+com09 0 19
+display
+location 19
+com11 0 5
+sound 903
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ、そういえば、そんなこと、
+line2 <shift> # どこかで聞きましたーっ！」
+display
+com11 0 5
+sound 904
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ、忘れてた！　今日、洗剤、
+line2 <shift> # 買って帰らなくちゃいけないんだった！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……は？」
+display
+com11 0 5
+sound 905
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「……あああ、そんなこと、いまは、
+line2 <shift> # どうでもいいですよね」
+display
+com11 0 5
+sound 906
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「じゃあ、元気よく、撮られてきます！
+line2 <shift> # プロデューサー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「カメラマンの言うこと、よく聞くんだぞ」
+display
+com11 0 5
+sound 907
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はーいっ！」
+display
+com22 0 30
+com21 0 30
+com11 0 5
+sound 908
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「なんか、すましてる顔、撮られちゃいました」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、アングルも独特だったし、
+line2 <shift> # おもしろい宣材に仕上がると思うけど」
+display
+com11 0 5
+sound 909
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「もっとこう、クマと戦ってるトコとかのが、
+line2 <shift> # カッコよかったかも……」
+com03 0 3
+choice1 <shift> # それもいいかもな
+line2
+com09 0 20
+com08
+choice2 <shift> # 連れてこられないだろ
+line2
+com09 0 21
+com08
+choice3 <shift> # 虎のがよくないか？
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それもいいかもな。
+line2 <shift> # やよいの元気さが、引き立つだろうし」
+display
+com11 0 5
+sound 910
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ですよね！　じゃあ、もう１回……！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、その元気さは、歌やダンスのために、
+line2 <shift> # キープしておこうな」
+display
+com11 0 5
+sound 911
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ……、はいっ！　そうですよね！
+line2 <shift> # 私、格闘家じゃなくて、アイドルなんだしっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （パッと、その顔が、明るくなった）
+com4b 0 0
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「連れてこられないだろ、クマは……」
+display
+com11 0 5
+sound 912
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「そうですか？　近くの動物園とかから……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それに宣材は、紹介用だしなあ。
+line2 <shift> # 格闘シーンを撮っても、あまり意味は……」
+display
+com11 0 5
+sound 913
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あああ、ごめんなさい〜。
+line2 <shift> # 私、つい、思いつきで〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うーん、あまり真顔で、
+line2 <shift> # ツッコむようなことでも、なかったか……）
+com4b 0 1
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「虎のがよくないか？」
+display
+com11 0 5
+sound 914
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「と、虎は危ないですー。
+line2 <shift> # キバもツメも鋭いし！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、やよいなら勝てる！　挑戦してみよう」
+display
+com11 0 5
+sound 915
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うう〜、ひどいです、プロデューサー……。
+line2 <shift> # 私、私……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「…………なあ、もしかして本気で言ったのか？
+line2 <shift> # その、クマと戦ってるとこ、撮るっての」
+display
+com11 0 5
+sound 916
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はい……。でも虎はダメ。コワいから……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （てっきり冗談だと思って、あおったのに。
+line2 <shift> # 本当に、おびえさせてしまった……）
+com4b 0 2
+com09 0 29
+display
+location 29
+unk02

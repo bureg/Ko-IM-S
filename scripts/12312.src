@@ -1,0 +1,283 @@
+com2c 0 118
+com2d 0 21
+com32 0 0
+location 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「こら伊織！　待てよ、待てったら！」
+display
+com11 0 6
+sound 1400
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「なによっ、ついてこないでよ！　むっかー、
+line2 <shift> # なーに、この結果！　サイアクじゃないのーっ」
+display
+com11 0 6
+sound 1401
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「みっともないったら、ありゃしない。
+line2 <shift> # それもこれも、みんな、アンタのせいよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おい、伊織。たしかに俺も悪かったけど、
+line2 <shift> # みんなっていうのは、言い過ぎだろ？」
+display
+com11 0 6
+sound 1402
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「だって、私がんばったのよ？　あれだけがんば
+line2 <shift> # ってうまくいかないなんて、オカシイじゃない」
+display
+com11 0 6
+sound 1403
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「それもこれもプロデューサーが悪いのよ。地球
+line2 <shift> # 温暖化もスギ花粉が多いのもみーんなアンタが」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「伊織……」
+display
+com11 0 6
+sound 1404
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「もう完全に、自信なくしちゃったわ……。
+line2 <shift> # さすがの私も、今回ばっかりは……」
+display
+com11 0 6
+sound 1405
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「もうアイドルなんて、やめる〜。
+line2 <shift> # この失敗は、きっと、いい機会ってことなのよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……なあ伊織、やめるならやめるでいいけど、
+line2 <shift> # この先、ずっとそうやって生きていく気か？」
+display
+com11 0 6
+sound 1406
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「え？　そうやってって……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うまくいかなかったことを、全部、他人の
+line2 <shift> # せいにして。俺とは、今日でお別れなんだぞ？」
+display
+com11 0 6
+sound 1407
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そんなの、知ってるわよ。それがなによ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「これから先、俺はもう、伊織の八つ当たりの
+line2 <shift> # ホコ先には、なってやれないってことだ」
+display
+com11 0 6
+sound 1408
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「う……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「伊織。俺から、プロデューサーとしての、
+line2 <shift> # 最後のお願いだ。頼むから……」
+com03 0 3
+choice1 <shift> # 自分の今を、受け入れてくれ
+line2
+com09 0 10
+com08
+choice2 <shift> # 素直な目を、持ってくれ
+line2
+com09 0 11
+com08
+choice3 <shift> # いい子に、生まれ変わってくれ
+line2
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「自分の今を、受け入れてくれ。それができる
+line2 <shift> # ようになれば、きっと未来は開けるから」
+display
+com11 0 6
+sound 1409
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「自分の……、今……。わ、わかってるわよ、
+line2 <shift> # そんなの。ただ、ムカついてたから、私……」
+com09 0 18
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「素直な目を、持ってくれ。口では、どんな文句
+line2 <shift> # 言ってもいいけど、目だけは曇らせないでくれ」
+display
+com11 0 6
+sound 1410
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「素直な……、目？　わ、わかってるわよ、
+line2 <shift> # そんなの。ただ、ムカついてたから、私……」
+com09 0 18
+display
+location 18
+com11 0 6
+sound 1411
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「アンタなんかに、言われるまでもないわ。私、
+line2 <shift> # ちゃんと自分のミスも認めてるんだから……」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いい子に、生まれ変わってくれ。
+line2 <shift> # なんでも、素直にハイハイ聞く女の子に」
+display
+com11 0 6
+sound 1412
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「それはムリよ〜。いくらなんでも、いきなり正
+line2 <shift> # 反対に変われるワケないでしょーっ。でも……」
+display
+com11 0 6
+sound 1413
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ちょっとは、がんばるわよ。今回のことだって、
+line2 <shift> # 自分のミスぐらいは、認めるんだから……」
+com09 0 19
+display
+location 19
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なら、いい。わかってくれてうれしいよ。だっ
+line2 <shift> # たら、もうアイドルやめるなんて言わないな？」
+display
+com11 0 6
+sound 1414
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「あったり前でしょー。アイドルやめるなんて、
+line2 <shift> # どこの誰が、いったのよー？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「な、なにー！？　伊織、あのなー」
+display
+com11 0 6
+sound 1415
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「にひひっ♪　考えてみたら、この私が、
+line2 <shift> # 引退しちゃうなんて、人類の損失だもんねっ」
+display
+com11 0 6
+sound 1416
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「見てなさい！　今日の失敗の借りは、いつか、
+line2 <shift> # 一兆倍にして、返してやるんだからーっ」
+display
+com1c 0 3
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうこなくっちゃ。それでこそ、伊織だ。
+line2 <shift> # これで俺も、安心して手を離せるよ」
+display
+com11 0 6
+sound 1417
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「手を、離す……。そういうの聞くと、なんか、
+line2 <shift> # ジ・エンド風味が強くなってきちゃうわね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まあな。でも、もう決まってることだから。
+line2 <shift> # ごめん」
+display
+com11 0 6
+sound 1418
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「あやまんないで、いいわよ。
+line2 <shift> # それより、手、出して！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ、手？　どうして？」
+display
+com11 0 6
+sound 1419
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「手、合わせて、私に誓いなさいよ。
+line2 <shift> # いつかまた、私のプロデュースするって」
+display
+com11 0 6
+sound 1420
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「約束しないと……、
+line2 <shift> # ヒドイ目に合わせるんだから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わかった。それじゃあ……」
+com0e 0 120
+com44
+com09 0 20
+com45
+com44
+com09 0 21
+com45
+display
+location 20
+com11 0 6
+sound 1421
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……これでＯＫねっ。いーい？
+line2 <shift> # 今の約束、忘れちゃダメよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、忘れるもんか」
+com09 0 29
+display
+location 21
+com11 0 6
+sound 1422
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ちょっとー。なんでちゃんと、
+line2 <shift> # 手、合わせないのよー？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「い、いや……、そんなの、やるまでもないよ。
+line2 <shift> # 約束する。いつかまたプロデュースするって」
+display
+com11 0 6
+sound 1423
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ホントでしょーね？
+line2 <shift> # ばっくれたりしたら、承知しないわよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなことしないって」
+com09 0 29
+display
+location 29
+com11 0 6
+sound 1424
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「それじゃ、私、行くわ。あ、せめて最後ぐらい、
+line2 <shift> # あんたに、お礼いっとこうかしら」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お、それは、うれしいな。じゃあ頼む」
+display
+com11 0 6
+sound 1425
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ぷ、ぷ、プロデューサ〜。
+line2 <shift> # 今日まで、あり、あり、あり……」
+display
+com11 0 6
+sound 1426
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ありげーたー！！　……じゃあ！」
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……なぜ、ワニ？？？」
+display
+location 100 129 92 129 92 130 177 130 164 130 181 130 196 136 201 144 68 130 205 129 65 130 168 151 231 130 170 130 237 130 232 130 201 129 65
+line2 <shift> # 謎の言葉を告げて、去っていった。
+display
+location 101 131 137 131 88 131 103 131 137 131 67 131 117 130 204 142 184 148 115 130 205 142 99 148 79 130 190 130 193 130 189 130 175 130 199 129 65 130 187 130 234 130 240 149 75
+line2 <shift> # 要以上になげくことはないだろう。なぜなら……、
+display
+location 102 146 167 144 237 130 240 130 226 130 223 130 200 130 162 140 192 130 232 129 65 144 225 144 74 130 183 130 233 131 96 131 131 131 147 131 88 130 205 129 65
+line2 <shift> # 残っているのだから。――俺にも、伊織にも。
+display
+unk02

@@ -1,0 +1,248 @@
+com2c 0 24
+com2d 0 51
+com32 0 0
+com11 0 5
+sound 100
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「プロデューサーさん。いま、スケジュール帳、
+line2 <shift> # 見させていただきました」
+display
+com11 0 5
+sound 101
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「おやすみが多くて、おったまげーしょん！
+line2 <shift> # ふふっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「な、なんです？　その言葉づかい？」
+display
+com11 0 5
+sound 102
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「いえ……ギョーカイ用語、使いこなして
+line2 <shift> # いかないとと思って」
+com03 0 3
+choice1 <shift> # あずささんには、似合わないかも
+line2
+com09 0 10
+com08
+choice2 <shift> # 外国語かと思いました
+line2
+com09 0 11
+com08
+choice3 <shift> # それ、業界用語ですか？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あずささんには、似合わないかも」
+display
+com11 0 5
+sound 103
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そうですか？　こうすれば、芸能人になった
+line2 <shift> # よろこびを、味わえるかと思ったのですけど」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「外国語かと思いました」
+display
+com11 0 5
+sound 104
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「まさか……。アメリカの人は『おったまげー
+line2 <shift> # しょん』なんて、使いませんよね？」
+display
+com11 0 5
+sound 105
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「……使うのかしら？　英語の授業では、
+line2 <shift> # 一度も、きいたことなかったけど」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それ、業界用語ですか？」
+display
+com11 0 5
+sound 106
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「え！？　だって、昨日買った本に、書いて
+line2 <shift> # あったんですけど……」
+display
+com11 0 5
+sound 107
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「……あれ、ただのネタだったのかしら。
+line2 <shift> # し、信じてしまいました」
+com09 0 29
+display
+location 29
+com11 0 5
+sound 108
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「後はー、どんな言葉があるかしら？　Ｇ千円で、
+line2 <shift> # シーメー食って、まいうー。もう完璧芸能人？」
+com03 0 2
+choice1 <shift> # そんなムリしなくても……
+line2
+com09 0 30
+com08
+choice2 <shift> # 形だけじゃダメですよ
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなムリしなくても……」
+display
+com11 0 5
+sound 109
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「……そうですね。ずっと使うと、肩がこって
+line2 <shift> # しまいそう」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「形だけじゃダメですよ」
+display
+com11 0 5
+sound 110
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「それぐらい、わかってます。でも、言うじゃ
+line2 <shift> # ないですか。水に入れば、水に慣れよって」
+display
+com11 0 5
+sound 111
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はあ〜。でも、こんな言葉ずっと使ってたら、
+line2 <shift> # 肩がこってしまいそう……」
+com09 0 49
+display
+location 49
+com11 0 5
+sound 112
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ！　しゃべらなくても、意味ぐらい
+line2 <shift> # わからないと、困ることもありますよね？」
+display
+com11 0 5
+sound 122
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「さっき『マズい、ケツカッチンだ』って叫んで
+line2 <shift> # いた人がいたんですけど、あれも業界用語？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「多分、そうじゃないですかね」
+display
+com11 0 5
+sound 114
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ケツカッチンって、どういう意味でしょう？」
+com03 0 3
+choice1 <shift> # 次の予定がすぐ詰まってること？
+line2
+com09 0 50
+com08
+choice2 <shift> # 機材の一種？
+line2
+com09 0 51
+com08
+choice3 <shift> # お尻がかたい人？
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「次の予定が、すぐ詰まってること？」
+display
+com11 0 5
+sound 115
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、それで仕事のお尻がぶつかってしまうから、
+line2 <shift> # ケツカッチン……。きっと、そうですね！」
+display
+com11 0 5
+sound 116
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「今度、友達に使ってみようかしら。ごめーん、
+line2 <shift> # ケツカッチーンって。ふふっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （楽しそうに、ほほえんでいる。業界用語って、
+line2 <shift> # ヘンな響きの言葉も、多いよな）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「機材の一種？」
+display
+com11 0 5
+sound 117
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そんなあだ名の機材、あるんですか？　私、
+line2 <shift> # 機械関係は全然くわしくないんですけど……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ほら、あの映画でＱ出しする時に使うやつ、
+line2 <shift> # たしか、そんな名前じゃ……」
+display
+com11 0 5
+sound 118
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「それ、カチンコじゃないですか？　……あ、
+line2 <shift> # あとで、調べてみることにしますね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （どうやら、間違えたようだ。けど、本人が
+line2 <shift> # 調べるって言ってるから、いいか）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お尻がかたい人？」
+display
+com11 0 5
+sound 119
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「え？　そうなんですか？　では、あの時
+line2 <shift> # 歩いてきた人は、ヒップが……」
+display
+com11 0 5
+sound 120
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「でも、かたいとか、やわらかいとかって、
+line2 <shift> # どう判別するんです？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「自分の知ってる範囲で、比べるんじゃないです
+line2 <shift> # か？　あずささんは、ケツカッチン？」
+display
+com11 0 5
+sound 121
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「私は、やわ……。そ、そんなこと、
+line2 <shift> # きかないで下さい。し、知りません……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （つい、失礼な質問をしてしまった……。ケツ
+line2 <shift> # カッチンって、本当にお尻と関係あるのか？）
+com09 0 69
+display
+location 69
+unk02

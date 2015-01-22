@@ -1,0 +1,193 @@
+com2c 0 118
+com2d 0 31
+com32 0 0
+location 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よいしょっと！　やよいの身体、服越しでも、
+line2 <shift> # けっこう熱いな。さてと、家は……）
+display
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「う〜ん……。あっ、プロデューサー。
+line2 <shift> # 私、おんぶされて……。降ろして下さい〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、こら、暴れるなっ。今、降ろすから」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ふぅ〜。うう、ごめんなさい……。ラスト
+line2 <shift> # ライブ失敗した上に、こんな迷惑まで……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「過ぎたことは、もう忘れよう。
+line2 <shift> # あ、それより……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「これから先の話を、ちょっとしておこうか。
+line2 <shift> # やよい、明日から、どうする気だ？」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「明日から……？　あっ、そうでしたね……。
+line2 <shift> # プロデューサーとは、もう今日で……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだ。別れた後も、アイドル続ける気が、
+line2 <shift> # あるのかどうか、きいておこうと思ってな」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えーと、私……。
+line2 <shift> # 今は、なんにも考えられないです」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「今日、ファンの人を楽しませられなかったのが、
+line2 <shift> # とにかくショックで。ううう……」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「しばらく、反省して、お休みします。
+line2 <shift> # その後のことは、また、それから……」
+display
+com1c 0 3
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか。落ち込む気持ちはわかるけど、
+line2 <shift> # いつかまた、元気な姿、見せてくれよな？」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「どうなるかは、わかりません……。
+line2 <shift> # はげましてくれるのは、うれしいですけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やよい……」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「プロデューサー、次に誰かを育てる時は、
+line2 <shift> # 私より、落ち着きのある子にした方がいいです」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「がんばりすぎて、本番前に、熱、出しちゃう
+line2 <shift> # ような子だと、きっと、また同じ失敗を……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そう、暗い顔するなって。
+line2 <shift> # ほら、夜空を見てごらん」
+com03 0 3
+choice1 <shift> # 星が、キレイだから　
+line2
+com09 0 10
+com08
+choice2 <shift> # 人間なんてちっぽけに思えてくる　
+line2
+com09 0 11
+com08
+choice3 <shift> # フクロウが、飛んでるかも　
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「星が、キレイだから」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そんなの見ても、今は感動なんて、
+line2 <shift> # できません〜」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「それに……、私なんかに見られたら、
+line2 <shift> # 星だって、イヤがります」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おいおい、どうしてそこまで、
+line2 <shift> # 自分を責めるんだ？」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「人間なんて、ちっぽけに思えてくるから。
+line2 <shift> # 見ろ、この雄大さを……」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そうですね。人間は、ちっぽけです。とくに、
+line2 <shift> # ライブでミスした私は、ホントにちっぽけ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あああっ、どうして、そっちに話がいくんだ？
+line2 <shift> # そこまで、自分を責めることは……」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「フクロウが、飛んでるかも」
+display
+com11 0 0
+sound 10012
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「私には、フクロウより、カラスの方が、
+line2 <shift> # お似合いです……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ん、カラス？　どうしてだ？」
+display
+com11 0 0
+sound 10013
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「だって、ライブでミスしちゃうアホーですから。
+line2 <shift> # アホーアホーって言われても、しかたないです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おいおい、どうしてそこまで、
+line2 <shift> # 自分を責めるんだ？」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10014
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「今まで、こんな私の面倒を見てくれて、
+line2 <shift> # ありがとうございました……」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「助けてくれたことや、いろいろ教えて
+line2 <shift> # くれたこと、忘れませんっ。さよなら〜〜！！」
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、やよいっ！　やよいーーーーー！！」
+display
+location 100 129 92 129 92 130 177 130 164 130 181 130 196 129 65 137 180 130 170 136 231 130 196 130 189 143 151 130 204 142 113 130 205 129 65 130 173 130 226 130 181 130 179 130 240
+line2 <shift> # 顔いっぱいに浮かべて、駆けていってしまった。
+display
+location 101 131 137 131 88 131 103 131 137 131 67 131 117 130 204 142 184 148 115 129 66 130 187 130 234 130 205 129 65 130 226 130 230 130 162 130 201 130 198 130 193 130 196 129 65
+line2 <shift> # かなり衝撃的な出来事だったようだ……。
+display
+location 102 130 185 130 223 130 196 129 65 130 162 130 194 130 204 147 250 130 169 129 65 141 196 139 78 130 181 130 196 130 217 130 181 130 162 129 66 130 187 130 164
+line2 <shift> # 願いながら、消えていく小さな背を、見送った。
+display
+unk02

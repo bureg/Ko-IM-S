@@ -1,0 +1,224 @@
+com2c 0 118
+com2d 0 51
+com32 0 0
+location 0
+com11 0 6
+sound 16000
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「もうすっかり、暗くなっていますね。ファンの
+line2 <shift> # 人達は、家に帰り着いた頃でしょうか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ええ、多分……。で、どうでした？　ラスト
+line2 <shift> # コンサートを終えてみて。楽しかったですか？」
+com38 0 3
+com1e 0 0
+com09 0 10
+com3b
+com37 0 2
+com1e 0 0
+com09 0 11
+com3b
+com39 0 1
+com1e 0 0
+com09 0 12
+com3b
+display
+location 10
+com11 0 6
+sound 16001
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はい。けれど、今の私の人気なら、会場はもっ
+line2 <shift> # と大きな所でも、平気だったかもしれませんね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う、たしかに……。ちょっと安全策を、
+line2 <shift> # 選びすぎたかな。まあ、今さらですけど」
+com09 0 19
+display
+location 11
+com11 0 6
+sound 16002
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「もちろんです！　ホールの大きさに負けない
+line2 <shift> # ライブ、キチンとできたと思いますし」
+display
+com11 0 6
+sound 16003
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「アイドルになって、よかったって……心から
+line2 <shift> # 感じました。ふふっ」
+com09 0 19
+display
+location 12
+com11 0 6
+sound 16004
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「もちろんです！　会場の大きさを聞かされた
+line2 <shift> # 時は、すごく不安だったのですけれど」
+display
+com11 0 6
+sound 16005
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「結果は、とても盛り上がりましたよね。プロ
+line2 <shift> # デューサーさんの腕に、感動してしまいました」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よろこんでもらえたんなら、なによりです」
+com09 0 19
+display
+location 19
+com11 0 6
+sound 16006
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「それで、話というのは……ほかでもない、
+line2 <shift> # 今後、どうするか、なのですけれど」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、そうだ。それを確認しておかないと。
+line2 <shift> # ……結論、出ましたか？」
+display
+com11 0 6
+sound 16007
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はい。決心がつきました。私、これからも、
+line2 <shift> # アイドルを続けていくことにします！」
+display
+com1c 0 3
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうですか。歌い続けることが、
+line2 <shift> # あずささんにとっては、幸せ？」
+display
+com11 0 6
+sound 16008
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そう思います。今日、会場にきてくれたファン
+line2 <shift> # の人達、とても楽しそうに、きいてくれて……」
+display
+com11 0 6
+sound 16009
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「もっとたくさんの人を、ドームに集めて、引退
+line2 <shift> # ライブできる日まで、がんばろうと思います」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「新しい目標ができたんですね。前向きになって
+line2 <shift> # くれたんなら、俺も安心して、別れられますよ」
+display
+com11 0 6
+sound 16010
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「気を、もませてしまって、すみませんでした。
+line2 <shift> # それでは、今日はもう遅いので、この辺で」
+display
+com11 0 6
+sound 16011
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「プロデューサーさん。これまで、本当に
+line2 <shift> # ありがとうございました」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「こちらこそ。これからも、がんばって
+line2 <shift> # ください」
+display
+com11 0 6
+sound 16012
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はい！　あ、もし、この先、迷ったり、
+line2 <shift> # 悩んだりした時は、連絡してもいいですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ええ、かまいませんよ。そういう時は……」
+com03 0 3
+choice1 <shift> # メールでも、ください　
+line2
+com09 0 20
+com08
+choice2 <shift> # 電話でも、ください　
+line2
+com09 0 21
+com08
+choice3 <shift> # 会いにきて、ください　
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「メールでも、ください」
+display
+com11 0 6
+sound 16013
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そうします。メールなら、空いている時間に
+line2 <shift> # 打てますし……便利ですよね。ふふっ」
+display
+com11 0 6
+sound 16014
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「……では、失礼します。
+line2 <shift> # さようなら、プロデューサーさん」
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「電話でも、ください」
+display
+com11 0 6
+sound 16015
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「電話は、さすがに、マズくないでしょうか？
+line2 <shift> # 忙しい時間にかけてしまうと、ご迷惑に……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺は、別にＯＫですけど、
+line2 <shift> # あずささんとしては、気兼ねします？」
+com09 0 28
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「会いにきて、ください」
+display
+com11 0 6
+sound 16016
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「え？　それは、マズくないでしょうか？　これ
+line2 <shift> # までと同じように、わずらわせるわけには……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺は、別に迷惑とは思いませんけど、
+line2 <shift> # あずささんとしては、気兼ねします？」
+com09 0 28
+display
+location 28
+com11 0 6
+sound 16017
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はい。連絡する時は、メールとかにして
+line2 <shift> # おきますね。それなら、邪魔になりませんから」
+display
+com11 0 6
+sound 16018
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「……では、そろそろ失礼します。
+line2 <shift> # さようなら、プロデューサーさん」
+com09 0 29
+display
+location 29
+com4a 0 0
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「さようなら、あずささん……」
+display
+location 100 129 92 129 92 130 177 130 164 130 181 130 196 129 65 137 180 130 170 136 231 130 196 130 189 143 151 144 171 130 205 129 65 149 202 130 234 141 219 129 65
+line2 <shift> # とくに涙を流すこともなく、去っていった。
+display
+location 101 129 119 130 220 130 189 129 65 152 65 151 141 130 181 130 189 130 162 129 120 129 66 130 187 130 164 140 190 130 193 130 189 130 160 130 184 130 179 130 179 130 241 130 204
+line2 <shift> # 言葉には……、友情のようなものがにじんでいた。
+display
+location 102 137 180 146 66 130 204 147 185 130 205 149 170 130 169 130 234 130 189 129 66 130 175 130 234 130 199 129 65 130 177 130 234 130 169 130 231 130 224 147 175 130 182
+line2 <shift> # 世界で生きる者同士、がんばっていきたいと思う。
+display
+unk02

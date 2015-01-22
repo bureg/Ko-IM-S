@@ -1,0 +1,183 @@
+com2c 0 98
+com2d 0 41
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「墓地……？　千早、俺をつれてきたかった
+line2 <shift> # ところって、ここ？」
+display
+com11 0 2
+sound 1100
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。くわしく話すなら、ここがいいかと。
+line2 <shift> # 両親の離婚の原因になった、事件について」
+display
+com11 0 2
+sound 1101
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「父と母の仲が悪くなりはじめたのは、
+line2 <shift> # ８年前……、と、いうのは、話しましたっけ？」
+com03 0 2
+choice1 <shift> # きいた気がする
+line2
+com09 0 10
+com08
+choice2 <shift> # どうだったかな？
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「きいた気がする」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうだったかな？」
+display
+com11 0 2
+sound 1102
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はっきりとは、伝えてなかったかもしれません
+line2 <shift> # ね。すこしだけ、話した記憶はありますけど」
+com09 0 29
+display
+location 29
+com11 0 2
+sound 1103
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「８年前……、とても大切な人が、
+line2 <shift> # 私達の前から、突然、姿を消しました」
+display
+com11 0 2
+sound 1104
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「この……、目の前のお墓の下に眠っているの、
+line2 <shift> # 私の弟なんです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「亡くなった、のか？」
+display
+com11 0 2
+sound 1105
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい、交通事故で。母と買い物に出かけた時、
+line2 <shift> # 手を振り切って、道に飛び出してしまって……」
+display
+com11 0 2
+sound 1106
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「一瞬だったそうです。父は、母を激しく責めて、
+line2 <shift> # 母は、泣きじゃくるだけで……」
+display
+com11 0 2
+sound 1107
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「弟は……、いつも、私の下手な歌、
+line2 <shift> # よろこんできいてくれました」
+display
+com11 0 2
+sound 1108
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「私はあの日、たったひとりの兄弟と、
+line2 <shift> # 幸せだった時間を、同時になくしたんです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……そうか。それ以来、千早の両親は」
+display
+com11 0 2
+sound 1109
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。そのせいで、
+line2 <shift> # ずっと苦しい思いをしてきました」
+display
+com11 0 2
+sound 1110
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「けど、もう両親を責めようとは、思いません。
+line2 <shift> # あれは、やはり不運な事故だったんです」
+display
+com11 0 2
+sound 1111
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ふぅー、こうしてゆっくり、弟に会いにきたの、
+line2 <shift> # デビュー前以来です」
+display
+com11 0 2
+sound 1112
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「なにから、話せばいいでしょう？　いろいろ、
+line2 <shift> # ありすぎたから、迷ってしまいますね」
+com03 0 2
+choice1 <shift> # 当然、千早の活躍ぶりだろ
+line2
+com09 0 30
+com08
+choice2 <shift> # まずは、離婚の話じゃないか？
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+com34 0 3
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「当然、千早の活躍ぶりだろ。
+line2 <shift> # そんなにお姉ちゃんの歌、好きだったんなら」
+display
+com11 0 2
+sound 1113
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ふふっ、そうですね。
+line2 <shift> # 悲しい話は、あまりしたくないです」
+display
+com11 0 2
+sound 1114
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「プロデューサーからも、いろいろ話してあげて
+line2 <shift> # くれますか？　きっと、よろこぶと思うので」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （二人で長い時間、墓地の前で過ごした。
+line2 <shift> # ときどき、微笑みを、かわしあいながら……）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まずは、離婚の話じゃないか？　つらいかも
+line2 <shift> # しれないけど」
+display
+com11 0 2
+sound 1115
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……そうですね。それは、話しておかないと
+line2 <shift> # いけないと思います」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ……でも、本当につらければ、やめておいた
+line2 <shift> # 方が。また時間を置いて、今度でも……」
+display
+com11 0 2
+sound 1116
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「いえ、大丈夫です。あの……すこしだけ、
+line2 <shift> # ひとりにしてもらえますか？」
+display
+com11 0 2
+sound 1117
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「この話は……さすがに、切り出すのに、
+line2 <shift> # 時間かかりそうなので……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （半分、泣きそうな顔で、言われてしまった。
+line2 <shift> # すこし心配だけど、ここは言う通りにしよう）
+com09 0 49
+display
+location 49
+unk02

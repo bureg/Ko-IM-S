@@ -1,0 +1,153 @@
+com2c 0 118
+com2d 0 83
+com32 0 0
+location 0
+com11 0 0
+sound 10000
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサー、なんで、ついてくるんです？
+line2 <shift> # ボク、もう終わった人間なのに……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんな状態で、帰すわけにはいかないよ。
+line2 <shift> # 衣装だって、着たままじゃないか？」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ……。そうだ、この衣装、引退の記念に、
+line2 <shift> # もらってもいいですか？」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「将来、これを見て……、アイドルやってた頃の、
+line2 <shift> # 幸せな思い出に、ひたりたいから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おいおい、引退なんて、ヤケになって決めるも
+line2 <shift> # んじゃないぞ？　１度や２度の失敗がなんだ！」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「だって、ボク、今日のステージに、いろんな
+line2 <shift> # もの、賭けてたんです。それなのにっ！」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あんなハンパなこと、やっちゃって……。
+line2 <shift> # もう、立ち直れません……」
+display
+com1c 0 3
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、今は、なにを言っても、ムダか。とに
+line2 <shift> # かく、しばらく休んで、ゆっくり考えるといい」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「どんなに考えたって、結論は……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そう急ぐなよ。俺は、信じてるぞ。真が、
+line2 <shift> # 復活する日を。冬の後には、必ず……」
+com03 0 3
+choice1 <shift> # 春がくる！　
+com09 0 10
+com08
+choice2 <shift> # 秋がくる！　
+com09 0 11
+com08
+choice3 <shift> # 春がきそうな気がする！　
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「春がくる！　ショックがやわらげば、
+line2 <shift> # また歌おうって気になるよ」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「秋がくる！」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「冬の後に……、秋？　つまり、雪が降った後に、
+line2 <shift> # 木枯らしのダブルコンボって、ことですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あああ、まちがえたっ。
+line2 <shift> # 秋じゃなくて、春だ、春！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ショックがやわらげば、
+line2 <shift> # また歌おうって気になるよ」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「春がきそうな気がする！　ショックが、
+line2 <shift> # やわらげば、また歌う意欲もわいてくるよ」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あはは。『きそうな気がする』なんて自信なさ
+line2 <shift> # そうですね。ムリに励ましてくれなくても……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、別に、ムリなんかしちゃいないよ！
+line2 <shift> # 頼むから、真も信じてくれ。自分のことを」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10008
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「……そうですね。そういう日が、いつかくれば、
+line2 <shift> # いいと思います。でも……」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「もし、立ち直れても、今日の失敗はチャラには
+line2 <shift> # なりません。ファンに悪いことしちゃいました」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う、まあ、それは……」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「……プロデューサーは、また明日から、他の
+line2 <shift> # 誰かと、この世界で、がんばって下さいねっ」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ボクと実現できなかったこと、その人と、
+line2 <shift> # なしとげて下さい……。じゃ、さよならっ！」
+display
+com4a 0 0
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、真！　真ーーーっ！」
+display
+location 100 129 92 129 92 130 177 130 164 130 181 130 196 129 65 137 180 130 170 136 231 130 196 130 189 131 123 129 91 131 67 131 98 131 86 131 133 130 200 143 151 130 204 142 113
+line2 <shift> # は、ライブ失敗を機に、長い休養期間に入った。
+display
+location 101 137 180 130 170 129 65 130 224 130 164 143 173 130 181 130 170 130 241 130 206 130 234 130 206 129 65 130 177 130 204 141 197 136 171 130 204 142 150 145 212 130 205 129 65
+line2 <shift> # 避けられたかもしれない。けれど――、
+display
+location 102 141 161 130 198 130 200 130 193 130 196 130 205 129 65 140 227 130 204 141 213 130 232 130 190 129 99 129 99 129 66
+line2 <shift> # せめて、いつか再起してくれることを、願おう
+display
+unk02

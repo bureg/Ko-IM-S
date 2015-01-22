@@ -1,0 +1,331 @@
+com2c 0 32
+com2d 0 33
+com32 0 0
+com14 0 0
+com29 0 0
+com16 0 1
+com11 0 4
+sound 1000
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ＣＤショップでライブ！　う〜ん、カッコいい
+line2 <shift> # ですよねっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「即売り上げにつながるっていう、利点も
+line2 <shift> # あるしな」
+display
+com14 0 0
+com29 0 2
+com15 0 31
+com15 0 32
+com11 0 4
+sound 1001
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「お客さんの顔が、こんな近くに……。なんか
+line2 <shift> # 特別なこと、してみたいかも！」
+com03 0 3
+choice1 <shift> # 客席、歩きながら歌う？
+line2
+com09 0 10
+com08
+choice2 <shift> # ダイブしてみるか？
+line2
+com09 0 11
+com08
+choice3 <shift> # キックしてみるか？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「客席、歩きながら歌うか？」
+display
+com11 0 4
+sound 1002
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「え、いいんですかっ！？」
+display
+com14 0 0
+com29 0 0
+com16 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「けっこうギュウギュウだから、うまくすき間を
+line2 <shift> # 歩こうな」
+display
+com14 0 0
+com29 0 0
+com15 0 80
+com16 0 81
+com11 0 4
+sound 1003
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はいっ。えへへー、じゃあ、ちょっとだけ！」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ダイブしてみるか？」
+display
+com14 0 0
+com29 0 0
+com16 0 1
+com11 0 4
+sound 1004
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「お、お客さんの中に……？　で、でも、大丈夫
+line2 <shift> # かなあ。誰かケガしたりとか……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、やっぱり危険かな」
+display
+com11 0 4
+sound 1005
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「楽しそうだけどー……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やめとくか……。やよいになにかあったら、
+line2 <shift> # 困るし」
+display
+com11 0 4
+sound 1006
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「残念〜……。でも、がまんしますー」
+com09 0 19
+display
+location 12
+com14 0 0
+com29 0 0
+com16 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「キックしてみるか？」
+display
+com14 0 0
+com29 0 6
+com15 0 160
+com16 0 161
+com11 0 4
+sound 1007
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「きっく……？
+line2 <shift> # お客さんに……キック……」
+display
+com14 0 0
+com29 0 10
+com15 0 101
+com15 0 102
+com11 0 4
+sound 1008
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ええええっ、なんでそんなことっ！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、この距離ならできるかと思って……」
+display
+com14 0 0
+com29 0 0
+com16 0 1
+com11 0 4
+sound 1009
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「できても、ひどいですよね？　それ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあな。思いつきで言っただけだし」
+display
+com11 0 4
+sound 1010
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「嫌われたら、やだから、やめとこーっと」
+com09 0 19
+display
+location 19
+com14 0 0
+com29 0 0
+com16 0 1
+com11 0 4
+sound 1011
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「プロデューサー！　ここせまいから、
+line2 <shift> # マイクなしでも届きそうですよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「んー、そうだな。聞こえることは、聞こえると
+line2 <shift> # 思うよ」
+display
+com11 0 4
+sound 1012
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「生で歌ってみてもいいですか！？　みんなも、
+line2 <shift> # その方がうれしいかも！」
+com03 0 3
+choice1 <shift> # スタッフがＯＫなら
+line2
+com09 0 20
+com08
+choice2 <shift> # バランスが崩れるよ
+line2
+com09 0 21
+com08
+choice3 <shift> # 声量が足りないだろ……
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+com34 0 2
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「スタッフがＯＫなら、いいんじゃないか？」
+display
+com14 0 0
+com29 0 2
+com15 0 31
+com15 0 32
+com11 0 4
+sound 1013
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うあ〜、ありがとうございますー！　こんな
+line2 <shift> # チャンス、めったにないですもんねっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ちゃ、ちゃんと確認してからだぞ？」
+display
+com11 0 4
+sound 1014
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「わかってまーすっ。よーし、歌声で、お店の
+line2 <shift> # 屋根、吹き飛ばさなくちゃっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やよいなら、できるかもな」
+display
+com11 0 4
+sound 1015
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「えへへっ、見ててください。プロデューサー！」
+display <shift> # （やよいの提案は受け入れられて、会場は独特の
+line2 <shift> # 盛り上がりを見せた！）
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「バランスが崩れるよ」
+display
+com11 0 4
+sound 1016
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「う……そうですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「別にマイクがあったって、やよいの魅力が
+line2 <shift> # おとろえるわけじゃないだろ？」
+display
+com14 0 0
+com29 0 6
+com15 0 160
+com16 0 161
+com11 0 4
+sound 1017
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「う〜ん、う〜ん……」
+display
+com11 0 4
+sound 1018
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「わかりましたー。じゃあ、普通にやりまーす」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうしとこう」
+display
+com14 0 0
+com29 0 0
+com16 0 1
+com11 0 4
+sound 1019
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ちょっとガッカリだけど……しかたないですよ
+line2 <shift> # ねっ。それじゃ、行ってきまーす！」
+display <shift> # （その後、ライブは無事に終了したけど……もう
+line2 <shift> # ひと工夫できたかもしれないな）
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「声量が足りないだろ……」
+display
+com14 0 0
+com29 0 9
+com15 0 110
+com16 0 111
+com11 0 4
+sound 1020
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ええええっ、私の声、小さいですかっ？」
+display
+com14 0 0
+com29 0 0
+com16 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「マイクなしで聴かせるのは、いくらやよいでも
+line2 <shift> # 大変じゃないか？」
+display
+com14 0 0
+com29 0 2
+com15 0 70
+com16 0 71
+com11 0 4
+sound 1021
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ううう、そうですか〜。ショックー」
+display
+com11 0 4
+sound 1022
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「学校の先生からは、『返事がハキハキしてて、
+line2 <shift> # いい』って、ほめられたのに……」
+display
+com14 0 0
+com29 0 1
+com15 0 20
+com16 0 21
+com11 0 4
+sound 1023
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「よーしっ！　もっともっと声出さなきゃ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「えっ？」
+display
+com11 0 4
+sound 1024
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「私っ、やりますっ！　本気出せば、きっと
+line2 <shift> # すごい声が出るはずだし！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや……マイク使って歌うんなら、そんなに
+line2 <shift> # 気張る必要は……」
+display
+com14 0 0
+com29 0 2
+com15 0 31
+com15 0 32
+com11 0 4
+sound 1025
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うっうー、燃えてきました！
+line2 <shift> # 行ってきまーす！」
+display <shift> # （やよいが信じられない大声で歌ったため……
+line2 <shift> # ライブは、とんでもない騒ぎになった）
+com09 0 29
+display
+location 29
+unk02

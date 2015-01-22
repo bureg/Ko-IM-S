@@ -1,0 +1,191 @@
+com2c 0 46
+com2d 0 53
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さあ、あずささん、開演時間です。
+line2 <shift> # ドーム超満員の客が、待って……」
+display
+com11 0 1
+sound 300
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「は、はい。ううう……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうしたんです？　そんな青い顔して！？」
+com03 0 2
+choice1 <shift> # 具合でも、悪いんですか？
+line2
+com09 0 10
+com08
+choice2 <shift> # 緊張してるんですか？
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「具合でも、悪いんですか？」
+display
+com11 0 1
+sound 301
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「じつは、すこし。
+line2 <shift> # 時々、すごくつらく……。うっ」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「緊張してるんですか？」
+display
+com11 0 1
+sound 302
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「いえ、そういうわけでは。じつはすこし具合が。
+line2 <shift> # 朝は、なんともなかったのですけれど……」
+display
+com11 0 1
+sound 303
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「時々、すごくつらく……。うっ」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「体調が悪いって……ま、マズいな、
+line2 <shift> # 今から中止なんて、とても……」
+display
+com11 0 1
+sound 304
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「大丈夫です。歌っているうちに、きっと
+line2 <shift> # おさまって……。んっ！！」
+com03 0 2
+choice1 <shift> # しっかりして！
+line2
+com09 0 30
+com08
+choice2 <shift> # 医者、呼びましょうか？
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「しっかりして！」
+display
+com11 0 1
+sound 305
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あ、ありがとうございます。お願いですから、
+line2 <shift> # そんな顔しないでください。ふ、ふふっ……」
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「医者、呼びましょうか？」
+display
+com11 0 1
+sound 306
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「いえ、いいです。それで、どうなるものでも
+line2 <shift> # ないのは、わかっていますし」
+display
+com11 0 1
+sound 307
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「さっき、薬も飲みました。もうできることは、
+line2 <shift> # すべてやりましたので……」
+com09 0 49
+display
+location 49
+com11 0 1
+sound 308
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ほら……歓声が聞こえます。行かなくては。
+line2 <shift> # 裏切って、悲しい思いをさせたくはないです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あずささん、やっぱりダメですよ！　もしもの
+line2 <shift> # ことがあったら、ライブに穴開ける以上の……」
+display
+com11 0 1
+sound 309
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「がんばってって、一声だけください。それだけ
+line2 <shift> # で、私、倒れたりしないって約束……。んっ」
+com03 0 2
+choice1 <shift> # ……がんばって！
+line2
+com09 0 50
+com08
+choice2 <shift> # あずささんの身の方が、大切です！
+line2
+com09 0 51
+com08
+com07
+com09 0 51
+com08
+display
+location 50
+com34 0 3
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……がんばって！」
+display
+com11 0 1
+sound 310
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「は、はいっ。信じてくれて、うれしいです……。
+line2 <shift> # そこで見守っていてくださいね」
+display
+com20 0 30
+com11 0 1
+sound 311
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「みなさーん、次はデビュー曲、聞いて
+line2 <shift> # くださーい！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （澄んだ声が、ドームに響き渡る。ライブ終了後、
+line2 <shift> # あずささんは、俺ににっこりと微笑んでくれた）
+com09 0 69
+display
+location 51
+com34 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あずささんの身の方が、大切です！」
+display
+com11 0 1
+sound 312
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「え？　き、気持ちはうれしいです。でも
+line2 <shift> # それでは、大勢の人に迷惑を……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「プロデューサーとして、そんな状態で歌わせる
+line2 <shift> # 事はできません。しばらく、様子をみましょう」
+display
+com11 0 1
+sound 313
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「……わかりました。本当にすみません。
+line2 <shift> # すこしでも早く、ステージにいけるように」
+display
+com11 0 1
+sound 314
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ちゅ、中止にだけは、しないでくださいね。
+line2 <shift> # 私、絶対によくなってみせますので……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後、１時間遅れでライブは開演。けれど罪
+line2 <shift> # の意識のため、あずささんは不完全燃焼だった）
+com09 0 69
+display
+location 69
+unk02

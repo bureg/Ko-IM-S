@@ -1,0 +1,471 @@
+com2c 0 43
+com2d 0 93
+com2e 0 103
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （作曲家へのあいさつも兼ね、スタジオへ歌の仮
+line2 <shift> # 収録にやってきた。アイドルとしての初仕事だ）
+display
+com11 0 0
+sound 10000
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「兄ちゃん、兄ちゃん！　あのね、
+line2 <shift> # 録音のスタート、ちょーっと遅れるんだって」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え、そうなのか？　なにか、トラブルでも
+line2 <shift> # あったのかな」
+display
+com11 0 0
+sound 10001
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「んとね……、ヘンな機械があったから、さっき、
+line2 <shift> # 亜美とガシャガシャいじってたの。そしたら〜」
+display
+com11 0 0
+sound 10002
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「あっちのオジちゃんが『一から、設定し直し
+line2 <shift> # だー』って。そ、そのせいで遅れるみたいだね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「な、なにー！？　それじゃ、トラブルの
+line2 <shift> # 原因は……！　あ、あのなあ〜、ふたりとも」
+com03 0 3
+choice1 <shift> # 迷惑は、かけないようにな　
+line2
+com09 0 10
+com08
+choice2 <shift> # あやまってこい　
+line2
+com09 0 11
+com08
+choice3 <shift> # なにやってんだよ！　
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「迷惑は、かけないようにな」
+display
+com11 0 0
+sound 10003
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「うん……。真美達も、やりすぎちゃった
+line2 <shift> # かなーって。今度から、いじらないようにする」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、頼むよ。プロ用の機材は、デリケート
+line2 <shift> # なんだから」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あやまってこい」
+display
+com11 0 0
+sound 10039
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「真美は、さっき、ゴメンナサイしたよ？
+line2 <shift> # もう１回、二人であやまりに行った方がいい？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「い、いや。二人で行くのはマズイ。
+line2 <shift> # 今後、機材は、勝手にいじらないようにな」
+display
+com11 0 0
+sound 10005
+com4c 0 3
+name 0 0 <names:4>  # Ami and Mami
+line1 <shift> # 「……はーい」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なにやってんだよ！」
+display
+com11 0 0
+sound 10040
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「う、うう〜。ごめんなさい。
+line2 <shift> # もうしないから、怖い顔、しないでよ〜……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あああ、ごめん。キツく言い過ぎちゃったかな。
+line2 <shift> # そんなに、おびえないでくれよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でもな、プロ用機材は、デリケートなんだから、
+line2 <shift> # イタズラしちゃダメなんだぞ？」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「だってだって〜、レバーとかボタンとか、たく
+line2 <shift> # さんついてて、おもしろそーだったんだもん」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いくら面白そうでも、今後は、
+line2 <shift> # そんなことしちゃダメだ。わかったな？」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10008
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「ねえ、兄ちゃん。機械が元に戻るまで、
+line2 <shift> # 亜美達、外で遊んできても、いーい？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、いいよ。そのかわり、遠くへ行くなよ。
+line2 <shift> # ３０分ぐらいしたら、戻ってくるんだぞ」
+display
+com22 0 30
+com32 0 0
+com21 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さて、そろそろ３０分だけど……。
+line2 <shift> # あのふたり、遅いな……」
+display
+com11 0 0
+sound 10009
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「ただいまー……。あのねー、兄ちゃん。
+line2 <shift> # 追いかけっこしてたら、真美が転んじゃったー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……つぎからつぎへと、いろいろやってくれる
+line2 <shift> # な。真美、顔のドロは、その時、ついたのか？」
+display
+com11 0 0
+sound 10010
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「うん……。でも、真美、服だけは汚さない
+line2 <shift> # ように、転ぶ時に、がんばったよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか、えらかったな。じゃ、顔出して。
+line2 <shift> # 泥ふいてやるから」
+display
+com11 0 0
+sound 10011
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「うんっ！　そんじゃあ、はい！
+line2 <shift> # ふいて、ふいてー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よし、時間もないことだし、ササッとふいて、
+line2 <shift> # 速攻で、マイク前に送り出してやろう！）
+com0e 3 61
+com44
+com09 0 20
+com45
+com44
+com09 0 21
+com45
+com44
+com09 0 22
+com45
+com44
+com09 0 23
+com45
+com44
+com09 0 24
+com45
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ＯＫ！　これでカンペキだ。さ、キレイな顔で、
+line2 <shift> # 元気よく、歌っておいで！」
+display
+com11 0 0
+sound 10041
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ありがと〜。がんばってくるねっ」
+display
+com22 0 30
+com32 0 0
+com21 0 30
+com11 0 0
+sound 10013
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「兄ちゃん、やったよー！　初めてにしちゃ、
+line2 <shift> # うまいねって、ほめられちゃったー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お、そうか。おつかれさま。
+line2 <shift> # これで、初仕事は、無事クリアかな」
+display
+com11 0 0
+sound 10042
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「亜美も、途中で交代して歌ったよ。アイドルや
+line2 <shift> # るのって、思ってたより、ずーっと楽しいね♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （手際よく、泥をふき、ふたりを成功に導いた！
+line2 <shift> # 自分の役目、しっかり果たすことができたな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……その後、すっかりゴキゲンのふたりと
+line2 <shift> # ワイワイ話しながら、事務所へと引き返した）
+com09 0 29
+display
+location 21
+com11 0 0
+sound 10015
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「兄ちゃん、どーお？　キレイになった？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「い、いや、あとすこし……。マズいな。
+line2 <shift> # そろそろタイムリミットか」
+display
+com11 0 0
+sound 10016
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「ねえ、真美。さっきのオジちゃんが、
+line2 <shift> # 早く歌う用意してくれって、言ってるよ？」
+display
+com11 0 0
+sound 10017
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「んじゃ、もう行かないと。ありがと、
+line2 <shift> # 兄ちゃん！　後は歌いながら、自分でふくー」
+display
+com22 0 30
+com32 0 0
+com21 0 30
+com11 0 0
+sound 10018
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ううう、録音、大失敗〜〜〜。
+line2 <shift> # 兄ちゃん、ごめんなさい〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんで、あんなボロボロのデキだったんだ？
+line2 <shift> # 歌詞はまちがえるし、メロディはハズすし……」
+display
+com11 0 0
+sound 10019
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「真美、うっかり、衣装のソデで、
+line2 <shift> # 顔ふいちゃったの。それが、ショックで……」
+display
+com11 0 0
+sound 10020
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「メチャイケな服に、ドロつけちゃった〜。
+line2 <shift> # ううう〜〜〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しまった。俺がノロノロ、顔ふいてたから、
+line2 <shift> # こんな結末に……。ふたりに悪いコトしたな）
+com09 0 28
+display
+location 22
+com11 0 0
+sound 10043
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「あれ？　髪にも、ドロついてたの？
+line2 <shift> # 真美、きづかなかったけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、念のため確認をしたんだ。
+line2 <shift> # よし、平気だな。じゃあ、改めて顔を……」
+display
+com11 0 0
+sound 10022
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「真美、大丈夫？　あ、さっきのオジちゃんが、
+line2 <shift> # そろそろ歌う準備してくれって、言ってるよ？」
+display
+com11 0 0
+sound 10023
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「んじゃ、もう行かないと。ドロは、歌いながら
+line2 <shift> # 自分でふくよ。そんじゃね、兄ちゃん！」
+display
+com22 0 30
+com32 0 0
+com21 0 30
+com11 0 0
+sound 10024
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ううう、録音、大失敗〜〜〜。
+line2 <shift> # 兄ちゃん、ごめんなさい〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんで、あんなボロボロのデキだったんだ？
+line2 <shift> # 歌詞はまちがえるし、メロディはハズスし……」
+display
+com11 0 0
+sound 10025
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「真美、うっかり、衣装のソデで、
+line2 <shift> # 顔ふいちゃったの。それが、ショックで……」
+display
+com11 0 0
+sound 10026
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「メチャイケな服に、ドロつけちゃった〜。
+line2 <shift> # ううう〜〜〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しまった。俺が、さっさとふいてやっていれば、
+line2 <shift> # 違う結末になったに、ちがいない）
+com09 0 28
+display
+location 23
+com11 0 0
+sound 10027
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「兄ちゃん？　どうして、そんなとこ、
+line2 <shift> # さわるの？　そこにも、ドロ、ついてた？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、そういうワケじゃないけど……。
+line2 <shift> # なんとなく、さわってみたくなって」
+display
+com11 0 0
+sound 10028
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「ヘンな兄ちゃん……。あ、真美、さっきの
+line2 <shift> # オジちゃんが、歌う準備してって、言ってるよ」
+display
+com11 0 0
+sound 10029
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「んじゃ、もう行かないと。ドロは、歌いながら
+line2 <shift> # 自分でふくよ。そんじゃね、兄ちゃん！」
+display
+com22 0 30
+com32 0 0
+com21 0 30
+com11 0 0
+sound 10030
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ううう、録音、大失敗〜〜〜。
+line2 <shift> # 兄ちゃん、ごめんなさい〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんで、あんなボロボロのデキだったんだ？
+line2 <shift> # 歌詞はまちがえるし、メロディはハズスし……」
+display
+com11 0 0
+sound 10031
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「真美、うっかり、衣装のソデで、
+line2 <shift> # 顔ふいちゃったの。それが、ショックで……」
+display
+com11 0 0
+sound 10032
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「メチャイケな服に、ドロつけちゃった〜。
+line2 <shift> # ううう〜〜〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ドロをふかず、余計なところを触っていたら、
+line2 <shift> # こんな結末に……。役目、果たせなかったな）
+com09 0 28
+display
+location 24
+com11 0 0
+sound 10033
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「兄ちゃん？　どーして、ふいてくれないの？
+line2 <shift> # 真美、早く、歌、歌いにいきたいのに〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「う……、まあ、待てって。今から、やるから」
+display
+com11 0 0
+sound 10034
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「ねえ、真美ー。さっきのオジちゃんが、
+line2 <shift> # そろそろ歌う準備、してくれって！」
+display
+com11 0 0
+sound 10035
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「んじゃ、もう行かないと。ドロは、歌いながら
+line2 <shift> # 自分でふくよ。そんじゃね、兄ちゃん！」
+display
+com22 0 30
+com32 0 0
+com21 0 30
+com11 0 0
+sound 10036
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ううう、録音、大失敗〜〜〜。
+line2 <shift> # 兄ちゃん、ごめんなさい〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんで、あんなボロボロのデキだったんだ？
+line2 <shift> # 歌詞はまちがえるし、メロディはハズスし……」
+display
+com11 0 0
+sound 10037
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「真美、うっかり、衣装のソデで、
+line2 <shift> # 顔ふいちゃったの。それが、ショックで……」
+display
+com11 0 0
+sound 10038
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「メチャイケな服に、ドロつけちゃった〜。
+line2 <shift> # ううう〜〜〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ボケっとしてないで、さっさと、ドロをふく
+line2 <shift> # べきだった。……力になって、やれなかったな）
+com09 0 28
+display
+location 28
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……その後、亜美とチェンジ。なんとか収録を
+line2 <shift> # 終わらせたが、流れは最後までバタバタだった）
+display
+location 29
+unk02

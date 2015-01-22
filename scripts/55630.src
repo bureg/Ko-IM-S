@@ -1,0 +1,317 @@
+com2c 0 90
+com32 0 0
+com11 0 0
+sound 10000
+name 0 2 <names:1>  # President
+line1 <shift> # 「あ、そうそう。
+line2 <shift> # 君、例の件は、その後、どうかね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「えっ？　あの、例の件と言いますと？」
+display
+com11 0 0
+sound 10001
+name 0 2 <names:1>  # President
+line1 <shift> # 「ほら、以前、７６５プロに戻るよう、折を見て、
+line2 <shift> # 美希君を説得してくれと言っておいただろう？」
+display
+com11 0 0
+sound 10002
+name 0 2 <names:1>  # President
+line1 <shift> # 「同時に、９６１プロの動向も探ってくれ、
+line2 <shift> # と頼んだじゃないか」
+display
+com11 0 0
+sound 10003
+name 0 2 <names:1>  # President
+line1 <shift> # 「その後、何か進展があったのなら、
+line2 <shift> # 報告してもらいたいのだが」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、その件ですか！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （しまった。まだ、美希と、大したこと、話せて
+line2 <shift> # ないんだよな。でも、何か報告しないと……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ええと、まだ、説得は成功していません。
+line2 <shift> # 美希は……」
+com03 0 3
+choice1 <shift> # ７６５プロへの不満を言ってました
+line2
+com09 0 10
+com08
+choice2 <shift> # 社長の悪口を言ってました
+line2
+com09 0 11
+com08
+choice3 <shift> # 黒井社長が好きみたいです
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「７６５プロへの不満を言ってました。事務所の
+line2 <shift> # 方針が気に入らないから、戻りたくない、って」
+display
+com11 0 0
+sound 10004
+name 0 2 <names:1>  # President
+line1 <shift> # 「そうか。事務所の、というよりは、私の方針が、
+line2 <shift> # 美希君を、いらだたせてしまったんだろうね」
+display
+com11 0 0
+sound 10005
+name 0 2 <names:1>  # President
+line1 <shift> # 「私は彼女が、真剣にトップアイドルを目指す気
+line2 <shift> # になるまで、デビューさせないつもりだった」
+display
+com11 0 0
+sound 10006
+name 0 2 <names:1>  # President
+line1 <shift> # 「その方が彼女のために良いと判断したんだが、
+line2 <shift> # 美希君は、それが不満だったんだろう」
+display
+com11 0 0
+sound 10007
+name 0 2 <names:1>  # President
+line1 <shift> # 「そして、９６１プロからデビューした今、
+line2 <shift> # 美希君は、本気でトップを目指している」
+display
+com11 0 0
+sound 10008
+name 0 2 <names:1>  # President
+line1 <shift> # 「私の判断が、間違っていたのかも
+line2 <shift> # しれないね……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「社長……。元気出して下さい。
+line2 <shift> # そんなことありませんよ！」
+display
+com11 0 0
+sound 10009
+name 0 2 <names:1>  # President
+line1 <shift> # 「そうだな。そんなことはないな！
+line2 <shift> # ま、ちょっとはあるかもしれんが……」
+display
+com11 0 0
+sound 10010
+name 0 2 <names:1>  # President
+line1 <shift> # 「黒井はウソつきだし、美希君に、あることない
+line2 <shift> # こと吹き込んで事態を悪化させているんだろう」
+display
+com11 0 0
+sound 10011
+name 0 2 <names:1>  # President
+line1 <shift> # 「前向きが長所の私としたことが、うっかり落ち
+line2 <shift> # 込んでしまうところだったよ。はっはっはっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （社長って、本当に前向きだな……。
+line2 <shift> # なぜか、憧れはしないんだけど）
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「社長の悪口を言ってました。社長が嫌いだから、
+line2 <shift> # 戻りたくない、というようなことを」
+display
+com11 0 0
+sound 10012
+name 0 2 <names:1>  # President
+line1 <shift> # 「なにっ、私の？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「はい。美希自身の考えなのか、黒井社長に
+line2 <shift> # 教え込まれてるのかは、わかりませんけど……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「社長のこと、
+line2 <shift> # 良く言ってなかったのは確かです」
+display
+com11 0 0
+sound 10013
+name 0 2 <names:1>  # President
+line1 <shift> # 「そうか、美希君が……。確かに、美希君と私の
+line2 <shift> # 間に、小さなトラブルはあったが……」
+display
+com11 0 0
+sound 10014
+name 0 2 <names:1>  # President
+line1 <shift> # 「とてもささいなことだったから、おそらく
+line2 <shift> # 黒井が、事態の悪化に努めているに違いないな」
+display
+com11 0 0
+sound 10015
+name 0 2 <names:1>  # President
+line1 <shift> # 「黒井は目的のためには手段を選ばない男だし、
+line2 <shift> # ウソつきでもあるからね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうなんですか……」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「黒井社長が好きみたいです。だから、
+line2 <shift> # 戻らない、みたいなこと、言っていましたよ」
+display
+com11 0 0
+sound 10016
+name 0 2 <names:1>  # President
+line1 <shift> # 「なにっ！　黒井をっ！？　彼は、私より少し
+line2 <shift> # 若いが、ほとんど年齢は変わらないはずだぞ」
+display
+com11 0 0
+sound 10017
+name 0 2 <names:1>  # President
+line1 <shift> # 「美希君が、そんなおじさま趣味だったとは……。
+line2 <shift> # 私も、もっと大人の色気をかもしだすべきかな」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、あの〜、好きって、
+line2 <shift> # そういう意味じゃないですよ、社長」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「黒井社長の方針のほうが、７６５プロの方針
+line2 <shift> # より好きみたい、ということです」
+display
+com11 0 0
+sound 10018
+name 0 2 <names:1>  # President
+line1 <shift> # 「なんだ、そうだったのかね。それならそうと、
+line2 <shift> # 早く言いたまえ。期待して、損したじゃないか」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「は、はあ。すみません」
+display
+com11 0 0
+sound 10019
+name 0 2 <names:1>  # President
+line1 <shift> # 「うーむ、黒井はウソつきだから、美希君を、
+line2 <shift> # 巧みに丸め込んでいるのかもしれんな」
+display
+com11 0 0
+sound 10020
+name 0 2 <names:1>  # President
+line1 <shift> # 「黒井の本当のやり方を知ったら、美希君も、
+line2 <shift> # ７６５プロの方が良かったと思うはずだよ」
+display
+com11 0 0
+sound 10021
+name 0 2 <names:1>  # President
+line1 <shift> # 「彼は本当に、恐ろしい男だからね……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうなんですか……」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10022
+name 0 2 <names:1>  # President
+line1 <shift> # 「それにしても、寂しいじゃないか。
+line2 <shift> # 娘同然の美希君が、こんな風に離れていくとは」
+display
+com11 0 0
+sound 10023
+name 0 2 <names:1>  # President
+line1 <shift> # 「美希君に限らず、７６５プロのアイドル候補生
+line2 <shift> # やスタッフは、皆、私の子どもみたいなものだ」
+display
+com11 0 0
+sound 10024
+name 0 2 <names:1>  # President
+line1 <shift> # 「実の娘と同じぐらい、愛情を注いでいるつもり
+line2 <shift> # なのだが、なかなかうまくいかないものだね」
+display
+com11 0 0
+sound 10025
+name 0 2 <names:1>  # President
+line1 <shift> # 「美希君だけのワガママをきくわけにはいかない
+line2 <shift> # と思い、強い態度をとったが……」
+display
+com11 0 0
+sound 10026
+name 0 2 <names:1>  # President
+line1 <shift> # 「少しは甘やかしてやるべきだったのかもしれん
+line2 <shift> # な。サジ加減が、どうもうまくなかったようだ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わかります。俺もプロデューサーとして、うま
+line2 <shift> # くいかないことや後悔することばかりですよ」
+display
+com11 0 0
+sound 10027
+name 0 2 <names:1>  # President
+line1 <shift> # 「そうだろうな。私もプロデューサー時代は、今
+line2 <shift> # 以上に、多くの問題や悩みと直面したものだよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「えっ！　社長も昔、
+line2 <shift> # プロデューサーだったんですか？」
+display
+com11 0 0
+sound 10028
+name 0 2 <names:1>  # President
+line1 <shift> # 「そうだぞ。私にも青春があったんだ。あの頃は、
+line2 <shift> # 黒井も若かったし、私も若かった……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「黒井社長とは、その頃からの知り合い
+line2 <shift> # なんですか？　その話、興味があります！」
+display
+com11 0 0
+sound 10029
+name 0 2 <names:1>  # President
+line1 <shift> # 「いや、そんなことより、引き続き、美希君の
+line2 <shift> # 説得と９６１プロの調査、よろしくたのむよ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「了解です！　ですから、
+line2 <shift> # さっきの話、詳しくきかせて下さい！」
+display
+com11 0 0
+sound 10030
+name 0 2 <names:1>  # President
+line1 <shift> # 「仕方ないな。そんなにききたいなら、
+line2 <shift> # 話してあげようじゃないか」
+display
+com11 0 0
+sound 10031
+name 0 2 <names:1>  # President
+line1 <shift> # 「私の青春をね。それは、私がプロデュー
+line2 <shift> # サーとして就職した年の、春のことだった……」
+display
+com11 0 0
+sound 10032
+name 0 2 <names:1>  # President
+line1 <shift> # 「希望に燃えて仕事を始めた事務所で、私は美し
+line2 <shift> # い女性を見かけてね。……初恋、だったなあ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、あの、ききたいのは、社長の青春の話
+line2 <shift> # じゃなくて、黒井社長の話なんですが……」
+display
+com11 0 0
+sound 10033
+name 0 2 <names:1>  # President
+line1 <shift> # 「彼女の方もおそらく、すぐに私に好意を持った
+line2 <shift> # と思う。だが、互いにウブだったからねえ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……わかりました。話したいんですね？
+line2 <shift> # ききますよ。とほほ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、本題と全く関係のない社長の初恋の
+line2 <shift> # 話は、３時間続いた……。つ、疲れた……）
+com09 0 99
+display
+location 99
+unk02

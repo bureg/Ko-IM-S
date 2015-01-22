@@ -1,0 +1,239 @@
+com2c 0 24
+com2d 0 31
+com32 0 0
+com11 0 4
+sound 1400
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「プロデューサー！　私、いまっ、知らない人に、
+line2 <shift> # 声かけられましたーっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え、それって……」
+com03 0 3
+choice1 <shift> # ファンの人？
+line2
+com09 0 10
+com08
+choice2 <shift> # ナンパ？
+com09 0 11
+com08
+choice3 <shift> # 署名運動？
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ファンの人？」
+display
+com11 0 4
+sound 1401
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「わ、わからないです……。ただ、アイサツされ
+line2 <shift> # ただけだったんで……」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ナンパ？」
+display
+com11 0 4
+sound 1402
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「そ、そうだったんでしょうか？　ただアイサツ
+line2 <shift> # されただけだったんですけどー」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「署名運動？」
+display
+com11 0 4
+sound 1403
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「いえ、ちがうと思います。ただ、アイサツされ
+line2 <shift> # ただけだったし……」
+com09 0 19
+display
+location 19
+com11 0 4
+sound 1404
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ランクＥにあがって、私も、ちょっと
+line2 <shift> # 知られてきたのかなあ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「かもしれないな。でも、まだまだだ」
+display
+com11 0 4
+sound 1405
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「わかってまーす！　プロデューサー、今日も
+line2 <shift> # いっしょに、燃え尽きましょー！」
+display
+com11 0 4
+sound 1406
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「仕事に、レッスンに、死ぬ気で打ち込みまー
+line2 <shift> # す！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なんか大げさだな……」
+display
+com11 0 4
+sound 1407
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「だから、プロデューサ〜。うううっ、お金貸して
+line2 <shift> # ください〜！　大ピンチなんですー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「大ピンチって……！？」
+display
+com11 0 4
+sound 1408
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「きゅ、給食費が払えないんですーっ。お父さん
+line2 <shift> # が『今月は、そこまで手がまわらない』って」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「や、やよいの家って……そんなに家計、厳しい
+line2 <shift> # のか？」
+display
+com11 0 4
+sound 1409
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「……はい。ギャラが出たら返しますから〜」
+com03 0 3
+choice1 <shift> # 事務所の経費で払うよ
+line2
+com09 0 20
+com08
+choice2 <shift> # 踏み倒さないでくれよ
+line2
+com09 0 21
+com08
+choice3 <shift> # 利子もつけてくれよ
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「事務所の経費で払うよ」
+display
+com11 0 4
+sound 1410
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「え。そ、そんな！　ダメですーっ、返しま
+line2 <shift> # す！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「その分、やよいには、仕事に集中してほしいん
+line2 <shift> # だ」
+display
+com11 0 4
+sound 1411
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ううう〜……ご、ごめんなさい」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （これぐらい、してやってもいいか。にしても、
+line2 <shift> # やよいの家って、相当苦しいんだな……）
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「踏み倒さないでくれよ」
+display
+com11 0 4
+sound 1412
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「そ、そんなことしませんっ！　一生働いてでも、
+line2 <shift> # 返しますー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「給食費で、一生ってことはないだろうけど」
+display
+com11 0 4
+sound 1413
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「私っ、ちょっとはお金持ってます！　だから、
+line2 <shift> # 足りない分だけ、貸してくださいっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いくら、持ってるんだ？」
+display
+com11 0 4
+sound 1414
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「………………３８円」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……全額、貸そう」
+display
+com11 0 4
+sound 1415
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うう〜、ごめんなさい〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （本当は、払ってあげてもいいんだけど。にして
+line2 <shift> # も、やよいの家って、相当苦しいんだな……）
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「利子もつけてくれよ」
+display
+com11 0 4
+sound 1416
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「り、利子……ですか……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そう。普通、借金には利子がつくだろ？」
+display
+com11 0 4
+sound 1417
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「利子……。利子っ！
+line2 <shift> # …………利子。ううう〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う、うそだよ。やよい相手に、そんなことまで、
+line2 <shift> # 言わないよ」
+display
+com11 0 4
+sound 1418
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ……。で、でも……すこしぐらいなら、
+line2 <shift> # 利子つけますっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「すこしって、どのくらい？」
+display
+com11 0 4
+sound 1419
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「………………１２円っ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……気持ちだけ、もらっておく」
+display
+com11 0 4
+sound 1420
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うう〜、ごめんなさい〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （利子なんて、イジワルな冗談だったか。にして
+line2 <shift> # も、やよいの家って、相当苦しいんだな……）
+com09 0 29
+display
+location 29
+unk02

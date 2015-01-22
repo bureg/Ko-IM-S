@@ -1,0 +1,215 @@
+com2c 0 42
+com2d 0 31
+com32 0 0
+com11 0 4
+sound 100
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「えへへー。うまく入れましたねっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「で、やよい、聞きたいことって？
+line2 <shift> # どうして、ライブハウスなんかに……？」
+display
+com11 0 4
+sound 101
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「えーと……ダンスとステージの関係って、どう
+line2 <shift> # 思いますか？」
+display
+com11 0 4
+sound 102
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「私、思うんですっ。会場の広さによって、ダン
+line2 <shift> # スも変えなきゃいけないのかなーって！」
+com03 0 2
+choice1 <shift> # そこまでは、まだ……
+line2
+com09 0 10
+com08
+choice2 <shift> # そうかもしれないな
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そこまではまだ、考えなくていいんじゃない
+line2 <shift> # か？」
+display
+com11 0 4
+sound 103
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「えええ！　どうしてですっ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「一度にいろいろやろうとすると、混乱するかも
+line2 <shift> # しれないし」
+display
+com11 0 4
+sound 104
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ……そ、そうかー。私、まだフリとか、
+line2 <shift> # まちがえるし……」
+display
+com11 0 4
+sound 105
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ありがとうございますっ！　話してみて、
+line2 <shift> # よかったですっ！」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうかもしれないな」
+display
+com11 0 4
+sound 106
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ですよねっ！　だったら次から、がんばって
+line2 <shift> # 考えて、アレンジした方が！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「か、簡単に言うけど、それ、けっこう
+line2 <shift> # むずかしいんじゃないか？」
+display
+com11 0 4
+sound 107
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ……う〜、そうかも……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「挑戦する気持ちはいいと思うけど……」
+display
+com11 0 4
+sound 108
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うう……わかりました。やめておこーっと」
+com09 0 19
+display
+location 19
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、そんなことに気づくなんて、やよいも
+line2 <shift> # 成長してるんだな」
+display
+com11 0 4
+sound 109
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「そ、そうですかっ！？」
+com03 0 2
+choice1 <shift> # ほんのすこしだけど
+line2
+com4f 0 2
+com09 0 20
+com08
+choice2 <shift> # 気のせいかな？
+line2
+com4f 0 2
+com09 0 21
+com08
+com07
+com09 0 21
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ほんのすこしだけど」
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「気のせいかな？」
+com09 0 29
+display
+location 29
+com11 0 4
+sound 110
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うう〜、プロデューサ〜……」
+display
+com11 0 4
+sound 111
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ、あれ？　誰か入り口から……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ん？　ああ、スタッフが、照明の仕込みに
+line2 <shift> # 来たみたいだな」
+display
+com11 0 4
+sound 112
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ、プロデューサー！　照明によっても、
+line2 <shift> # ダンスを変えた方が……！」
+com03 0 3
+choice1 <shift> # やーよーいー
+line2
+com09 0 30
+com08
+choice2 <shift> # …………やよい？
+line2
+com09 0 31
+com08
+choice3 <shift> # やよいっ！
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やーよーいー」
+display
+com11 0 4
+sound 113
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「えへへ、わかってまーすっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （こういうイタズラっぽいとこも、けっこう
+line2 <shift> # あるんだよな）
+com09 0 39
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「…………やよい？」
+display
+com11 0 4
+sound 114
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「え？　じょ、じょーだんです。本気にしないで
+line2 <shift> # ください〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （そうだったのか……。突っ込みそこねてしまっ
+line2 <shift> # たけど、まあいいか）
+com09 0 39
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やよいっ！」
+display
+com11 0 4
+sound 115
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うあっ、じょ、じょーだんです、
+line2 <shift> # プロデューサー！　お、怒らないで〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「冗談……？　あ、ごめん……」
+display
+com11 0 4
+sound 116
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うう〜……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （つい、大声を出してしまった……。もうちょっ
+line2 <shift> # と、冷静に考えるべきだったな）
+com09 0 39
+display
+location 39
+unk02

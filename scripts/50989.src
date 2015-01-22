@@ -1,0 +1,435 @@
+com2c 0 18
+com2c 0 119
+com2d 0 93
+com2e 0 103
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そろそろ、番組スタッフがスタジオ入りする
+line2 <shift> # 時間か。亜美か真美、どっちか隠さないと……」
+display
+com11 0 2
+sound 800
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「兄ちゃ〜ん！　ごめんなさい、ごめんなさい、
+line2 <shift> # ごめんなさ〜い！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ど、どうしたんだ？　そんなにあわてて」
+display
+com11 0 2
+sound 801
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「亜美と、二人でいるところ、スタッフの人に、
+line2 <shift> # 見られちゃったの〜。どうしよ〜」
+com03 0 3
+choice1 <shift> # なにっ、本当か？
+line2
+com09 0 10
+com08
+choice2 <shift> # がーん……
+com09 0 11
+com08
+choice3 <shift> # Ｏｈ　Ｎｏ！
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なにっ、本当か？」
+display
+com11 0 2
+sound 802
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ホントだよ〜。新人さんが一人、早めに、
+line2 <shift> # きてたみたいで……。その人に、バッチリ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「く、マズいな。二人の秘密は、ごく親しい
+line2 <shift> # スタッフにしか、知らせてないのに……」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「がーん……」
+display
+com11 0 2
+sound 803
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「そんな、マンガみたいな驚き方してる場合じゃ
+line2 <shift> # ないよ〜。ほんとに、超ピンチなんだよ〜っ？」
+com09 0 91
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「Ｏｈ　Ｎｏ！」
+display
+com11 0 2
+sound 804
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「そんな、ふざけた驚き方してる場合じゃ
+line2 <shift> # ないよ〜。ほんとに、超ピンチなんだよ〜っ？」
+com09 0 91
+display
+location 91
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あああ、悪い悪い。
+line2 <shift> # でも、どうして、そんなことに？」
+display
+com11 0 2
+sound 805
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「一人、新人のスタッフさんが、早めに
+line2 <shift> # きてたの。真美達、全然、気がつかなくて……」
+com09 0 29
+display
+location 29
+com11 0 2
+sound 806
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「亜美のせいなのっ。まだ大丈夫って言って、
+line2 <shift> # 真美を誘って、廊下で遊んでたから……」
+display
+com11 0 2
+sound 807
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「兄ちゃん、おしおきしていいよ……。
+line2 <shift> # 悪いのは、悪いのは、亜美だしっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （だいぶ、落ち込んでるみたいだな……。
+line2 <shift> # よし、ここは、やさしめに……）
+com0e 3 55
+com44
+com09 0 30
+com45
+com44
+com09 0 31
+com45
+com44
+com09 0 32
+com45
+com44
+com09 0 33
+com45
+com44
+com09 0 34
+com45
+com44
+com09 0 35
+com45
+com44
+com09 0 36
+com45
+com44
+com09 0 37
+com45
+com44
+com09 0 38
+com45
+display
+location 30
+com11 0 2
+sound 808
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「え？　兄ちゃん、今のが、おしおき？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、そうだよ。さ、そんな顔してないで、
+line2 <shift> # そろそろ元気出そうな」
+com09 0 92
+display
+location 31
+com11 0 2
+sound 809
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「兄ちゃん、どうして、頭なでてくれるの？」
+com09 0 93
+display
+location 32
+com11 0 2
+sound 810
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「兄ちゃん、どうして、ほっぺに、
+line2 <shift> # 手なんて、あててくれるの？」
+com09 0 93
+display
+location 33
+com11 0 2
+sound 811
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「兄ちゃん、どうして、肩なんて、
+line2 <shift> # たたいてくれるの？」
+com09 0 93
+display
+location 93
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おしおきなんて、必要ないよ。悪気があった
+line2 <shift> # わけじゃないんだから。ほら、元気出そう」
+com09 0 92
+display
+location 92
+com11 0 2
+sound 812
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「うん！　兄ちゃん、ありがと……。
+line2 <shift> # 亜美、もう平気っ。強い子だもん！」
+com09 0 49
+display
+location 34
+com11 0 2
+sound 833
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ひゃあっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ご、ごめん。痛かったか？
+line2 <shift> # 弱めにやったつもりなんだけど……」
+display
+com11 0 2
+sound 834
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ううん、びっくりしただけ……。
+line2 <shift> # そんなとこ引っ張られるって思わなかったから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか……。とにかく、これでもう、
+line2 <shift> # 元気出そう。落ち込んでても、しかたないよ」
+com09 0 49
+display
+location 35
+com11 0 2
+sound 835
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「わぁっ！　そ、そこをつつくとは、
+line2 <shift> # 意外だったよ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「へ、平気か？　痛くないよう、
+line2 <shift> # 弱めにやったつもりなんだけど……」
+display
+com11 0 2
+sound 836
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ん、平気だけど……、痛くてもよかったよ？
+line2 <shift> # だって、おしおきなんだし」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなわけにはいかないよ。これで、
+line2 <shift> # 俺のお説教は終わりだ。さ、元気だそう」
+com09 0 49
+display
+location 36
+com09 0 49
+display
+location 37
+com11 0 2
+sound 837
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「うあっ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、あれ？　痛かったか？
+line2 <shift> # これでも、弱めにやったつもりなんだけど」
+display
+com11 0 2
+sound 838
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ううん、痛くなかったけど、びっくりして……。
+line2 <shift> # そんなとこ、つつかれるとは思わなかったから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうか。
+line2 <shift> # とにかく、ほら、もう元気出そう」
+com09 0 49
+display
+location 38
+com11 0 2
+sound 821
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「兄ちゃん、おしおき、しないの？
+line2 <shift> # ずっと見てられると、余計に、つらいよ〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「手は……、さすがに出せないよ。
+line2 <shift> # 亜美だって、悪気があったわけじゃないだろ？」
+display
+com11 0 2
+sound 822
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「そうだけど、迷惑かけちゃったのは、
+line2 <shift> # 変わらないもん。怒ってよ〜、兄ちゃん〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「も、もういいから、ほら、元気出そう。
+line2 <shift> # いまさら、しかっても、どうにも……」
+com09 0 49
+display
+location 49
+com11 0 2
+sound 823
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ねえ、これから、どうする〜？　あの人の頭、
+line2 <shift> # ぽかぽか叩けば、忘れてくれるかなあ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなことしても、意味はないよ。
+line2 <shift> # 打つ手は……、ひとつ！」
+com03 0 3
+choice1 <shift> # 説得しよう！
+line2
+com09 0 50
+com08
+choice2 <shift> # 変装しよう！
+line2
+com09 0 51
+com08
+choice3 <shift> # 消すしかない！
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「説得しよう！　本当のことを話して、
+line2 <shift> # バラさないでくれって、頼んでみる」
+display
+com11 0 2
+sound 824
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「そうだね、それが、一番かも〜。
+line2 <shift> # じゃ、真美も、いっしょに行く〜」
+display
+com22 0 30
+com21 0 30
+com32 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ふぅ〜。なんとか、わかってもらえたな。
+line2 <shift> # 信用できそうな人だったし、これで大丈夫だ」
+display
+com11 0 2
+sound 825
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「よかった〜♪　早く、亜美のところ戻って、
+line2 <shift> # 教えてあげよ！　すっごく、よろこぶよっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （真っ向勝負で、見事、ピンチを切り抜けた！
+line2 <shift> # こういう時は、正直に行くのが、一番だな）
+com09 0 69
+display
+location 51
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「変装しよう！　俺が亜美の格好をして、
+line2 <shift> # かくし芸のネタだと思わせればいい！」
+display
+com11 0 2
+sound 826
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「えー、兄ちゃんが亜美の格好するの？
+line2 <shift> # おもしろそー！　じゃあ、すぐに行こうよ！」
+display
+com22 0 30
+com21 0 30
+com32 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、思いっきり笑われてしまった……。
+line2 <shift> # さすがにムリが、あったかもなぁ……」
+display
+com11 0 2
+sound 827
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「でも、なんとなく、ごまかせたみたいだよ。
+line2 <shift> # あの人、ほっぺが引きつってたみたいだけど」
+display
+com11 0 2
+sound 828
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「面白かったけど、兄ちゃん、すごいカッコだね。
+line2 <shift> # 真美達、こんなに変じゃないよ……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （すこし、気味悪がらせてしまったか？　けど、
+line2 <shift> # 無事、決着したんだから、まあ、よしとしよう）
+com09 0 69
+display
+location 52
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「消すしかない！」
+display
+com11 0 2
+sound 829
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ええええ。こ、こ、殺しちゃうの〜？
+line2 <shift> # ピストルとかで、ドキューンって！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、秘密を守るためだ。これから、
+line2 <shift> # 銀行の暗殺者の口座に、お金を振り込んでくる」
+display
+com11 0 2
+sound 830
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「そんなの、かわいそうだよ〜！
+line2 <shift> # あの人は、たまたま、見ちゃっただけで……！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……なんてな。そんなこと、するわけないだろ。
+line2 <shift> # とにかく話し合ってみて、対策はそれから……」
+display
+com11 0 2
+sound 831
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「え……、ウソ？　兄ちゃん、ひど〜い！
+line2 <shift> # 真美達を、だましたんだね〜っ！？」
+display
+com11 0 2
+sound 832
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「亜美……、亜美……、ほんとにやるのかと……。
+line2 <shift> # う、ううっ、うわ〜〜〜ん！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （本気で、怖がらせてしまった。その後、口止め
+line2 <shift> # は成功したけど、二人の機嫌は直らなかった）
+com09 0 69
+display
+location 69
+unk02

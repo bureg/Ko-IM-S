@@ -1,0 +1,459 @@
+com2c 0 21
+com2c 0 90
+com2d 0 41
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （はあ……。つ、疲れた……。
+line2 <shift> # 初日ってこともあって、緊張しちゃったな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （これから、千早をトップアイドルに育てるのか。
+line2 <shift> # 千早は、才能のある女の子みたいだけど……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （技術的なアドバイスも、しっかり俺が出来るよ
+line2 <shift> # うにならないとな。帰って勉強しないと……）
+display
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……プロデューサー？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あれ？　千早じゃないか。どうした？
+line2 <shift> # 先に帰ったはずじゃ……。あ、もしかして……」
+com03 0 3
+choice1 <shift> # 忘れ物か？
+com09 0 10
+com08
+choice2 <shift> # トイレか？
+com09 0 11
+com08
+choice3 <shift> # 愛の告白か？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「忘れ物か？」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「トイレか？」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「違います。
+line2 <shift> # デリカシーのない質問、しないで下さい」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「す、すまん。えーと、それじゃ、
+line2 <shift> # 忘れ物か何かか？」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「愛の告白か？　抑えきれない気持ちを伝えに、
+line2 <shift> # 戻ってきたんだな？」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「告白……。誰が、誰にですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え、そりゃあ、千早が俺に、かな？」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （う……。心底あきれたような顔を、
+line2 <shift> # されてしまった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えーと、冗談はさておき、
+line2 <shift> # 本当は、なんなんだ？　忘れ物か？」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。勉強用の楽譜を、事務所のどこかに、
+line2 <shift> # うっかり置き忘れてしまったみたいで」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今日、会議室できいていた音楽の、楽譜か？
+line2 <shift> # 勉強熱心なんだな」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「いえ、これぐらい、当然のことです。トップを
+line2 <shift> # 目指す者なら、誰もがやっていることかと」
+com03 0 3
+choice1 <shift> # そうだな
+com09 0 20
+com08
+choice2 <shift> # そうかな？
+com09 0 21
+com08
+choice3 <shift> # 俺もやっているよ
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだな。方法は違っても、同じような努力を、
+line2 <shift> # していると思うよ、トップを目指す子なら」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。努力せずに極められるほど、
+line2 <shift> # 歌の世界は、甘くはありませんから」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「プロデューサーが、私と同じ考え方の持ち主で、
+line2 <shift> # 良かったです」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうかな？　誰もが千早みたいに、
+line2 <shift> # 努力しているわけじゃないと思うけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ただなんとなく、憧れだけでトップアイドルを
+line2 <shift> # 目指している子も、いるんじゃないかな？」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「確かに、そういう人達も、いるでしょうね。
+line2 <shift> # いえ、むしろ、そっちが多数派かもしれません」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「でも、それは、本気で歌に、
+line2 <shift> # 取り組んでいない人達です」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ですから、本当の意味でトップを目指している
+line2 <shift> # とは、言えないと思います」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （千早は、厳しいんだな。
+line2 <shift> # 他人にも、自分にも……）
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺もやっているよ、歌の勉強！」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「え。プロデューサーが、歌の勉強を？　でも、
+line2 <shift> # 基本的な音楽の知識は、既にお持ちですよね？」
+display
+com11 0 0
+sound 10012
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「歌や音楽のことを何も知らない人が、私の、
+line2 <shift> # プロデュースをするなんて、考えられません」
+display
+com11 0 0
+sound 10013
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「それとも、まさか、プロデューサー……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「い、いや、基礎的なことは知ってるよ。
+line2 <shift> # もちろんじゃないか！　は、ははは……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （音楽の知識がないと、千早にケーベツされて
+line2 <shift> # しまいそうだ。急いで勉強しなければ！）
+com09 0 29
+display
+location 29
+com11 0 0
+sound 10014
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「それでは、私は楽譜を探してきますので、
+line2 <shift> # これで、失礼します」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、俺が探してくるから、
+line2 <shift> # 千早は、ここで待っててくれないか？」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「えっ……。でも、そこまでしていただくわけ
+line2 <shift> # には……。大丈夫です。一人で探せますから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そう言うなって。初日最後の仕事ぐらい、俺に
+line2 <shift> # やらせてくれ。千早だって疲れてるんだからさ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃあ、ちょっと探してくるよ！」
+display
+com11 0 0
+sound 10016
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あ、プロデューサー……！」
+display
+com22 0 30
+com21 0 30
+com32 0 1
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （さてと、千早の楽譜は……、と）
+com09 0 100
+display
+location 100
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……おっと、とんだ道草をくってしまった。
+line2 <shift> # 早く千早の楽譜を探して、戻らないと！）
+display
+com22 0 30
+com21 0 30
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お待たせ、千早！　楽譜、あったぞ」
+display
+com11 0 0
+sound 10017
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「すみません！　お手数おかけしました。
+line2 <shift> # 帰りが遅いので、何かあったのかと……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「すまない、心配かけて。
+line2 <shift> # ちょっと変わった子に、捕まっちゃってな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、すごく才能を感じる子だった。アイドル
+line2 <shift> # 候補生らしいんだけど、知らない子だったな」
+display
+com11 0 0
+sound 10018
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「変わっていて、才能を感じる……、
+line2 <shift> # もしかして、星井美希ですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、そうそう！　その子だよ！
+line2 <shift> # 千早、知り合いなのか？」
+display
+com11 0 0
+sound 10019
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ええ、よく知っています。美希は、まだ正式な
+line2 <shift> # アイドル候補生ではありませんが……」
+display
+com11 0 0
+sound 10020
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「私の目から見ても、才能は群を抜いています。
+line2 <shift> # 少し世間知らずなところはありますが」
+display
+com11 0 0
+sound 10021
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「時々、ハッとするほど、人をひきつける歌を、
+line2 <shift> # 歌います。天才型の歌い手ですね」
+com03 0 3
+choice1 <shift> # 面白いな
+com09 0 40
+com08
+choice2 <shift> # 千早も天才だろ？
+line2
+com09 0 41
+com08
+choice3 <shift> # 戦いたくないな
+line2
+com09 0 42
+com08
+com07
+com09 0 42
+com08
+display
+location 40
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「天才か……。面白いな」
+display
+com11 0 0
+sound 10022
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。才能のある人達と競えるのは、
+line2 <shift> # 素晴らしいことだと思います」
+display
+com11 0 0
+sound 10023
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そうやって、互いに歌の力を磨き合うことで、
+line2 <shift> # より高みに近づくことができますから」
+com09 0 49
+display
+location 41
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「千早も天才だろ？」
+display
+com11 0 0
+sound 10024
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「いえ。よく言われますが、
+line2 <shift> # 私は、自分では決して、そうとは思いません」
+display
+com11 0 0
+sound 10025
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「それなりに努力もしていますから。どちらかと
+line2 <shift> # いうと、努力型の人間なのかもしれません」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、でもやっぱり、千早は、
+line2 <shift> # 才能もあると思うぞ」
+display
+com11 0 0
+sound 10026
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ありがとうございます。でも、正直な所、良い
+line2 <shift> # 歌が歌えさえすれば、なんだっていいんです」
+com09 0 49
+display
+location 42
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「天才か……。戦いたくないな」
+display
+com11 0 0
+sound 10027
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「どうしてですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だって、勝つのが難しそうじゃないか。
+line2 <shift> # 楽に勝てない相手とは、戦いたくないよ」
+display
+com11 0 0
+sound 10028
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……楽に勝ちとれる場所に、価値など無いと
+line2 <shift> # 思います。困難だからこそ、皆が目指すんです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そりゃあ、そうだけど……」
+com09 0 49
+display
+location 49
+com11 0 0
+sound 10029
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「同じ事務所の仲間でも、
+line2 <shift> # ひとたびステージに立てば、ライバルです」
+display
+com11 0 0
+sound 10030
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「美希とも、いつか存分に戦える日がくることを、
+line2 <shift> # 願っています。少し、怖くもありますけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「怖い？　千早でも、そんな風に思ったり、
+line2 <shift> # するのか？」
+display
+com11 0 0
+sound 10031
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「もちろんです。負けたり失敗したりすることが、
+line2 <shift> # 怖くない人なんて、いません」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、美希と戦う日は、まだまだずっと先だよ。
+line2 <shift> # 彼女、プロデューサーも決まってないんだから」
+display
+com11 0 0
+sound 10032
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そうですが……。他にも、どんな強敵が現れる
+line2 <shift> # か、わかりません。楽しみで、そして怖いです」
+display
+com11 0 0
+sound 10033
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「暗闇を、たった一人で歩き出したような、
+line2 <shift> # 心細い気分です」
+display
+com11 0 0
+sound 10034
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「不安を消すためには、努力しないと。
+line2 <shift> # もっともっと……！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （千早……。才能のある子だとは思ってたけど、
+line2 <shift> # それ以上に努力家なんだな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （千早の努力、なんとかして実を結ばせて
+line2 <shift> # やりたい。……俺の手で！）
+display
+com11 0 0
+sound 10035
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あ、すみません、プロデューサー。
+line2 <shift> # 私ばかり、話をしてしまって」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、いいんだよ。なあ、千早。不安を消す
+line2 <shift> # ための努力、俺にも手伝わせてくれよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「レッスンでがんばって、
+line2 <shift> # 努力で裏打ちされた自信を、手に入れるんだ」
+display
+com11 0 0
+sound 10036
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「努力で裏打ちされた自信……。はい！
+line2 <shift> # よろしくご指導、お願いします！」
+display
+com11 0 0
+sound 10037
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「では、今日は、ここで失礼します。
+line2 <shift> # お疲れ様でした」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。またな！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……疲れたなんて言ってる場合じゃない。千早
+line2 <shift> # のためにできること、やっていかないとな！）
+com09 0 99
+display
+location 99
+unk02

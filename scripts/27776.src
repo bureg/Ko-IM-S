@@ -1,0 +1,296 @@
+com2c 0 53
+com2d 0 41
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まいったな。ロケバス、出発前に故障だなんて。
+line2 <shift> # 戻るのも面倒だし、ここで待とう」
+display
+com11 0 3
+sound 1100
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「わかりました。さびしい公園ですね。
+line2 <shift> # 私達以外、誰も……」
+display
+com11 0 3
+sound 1101
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「まだ、私が小さかった頃、こういうところ、
+line2 <shift> # よく遊びにきました」
+com03 0 3
+choice1 <shift> # 家族とかと、いっしょに？
+line2
+com09 0 10
+com08
+choice2 <shift> # 友達とかと、いっしょに？
+line2
+com09 0 11
+com08
+choice3 <shift> # ひとりで？
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「家族とかと、いっしょに？」
+display
+com11 0 3
+sound 1102
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。父と母と……、みんなで手をつないで。
+line2 <shift> # 昔は、仲よかったんです」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「友達とかと、いっしょに？」
+display
+com11 0 3
+sound 1103
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「いえ、もっと身近な人と……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃあ、家族と？」
+display
+com11 0 3
+sound 1104
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。昔は、仲よかったんです。父と母と……
+line2 <shift> # みんなで手をつないで……」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ひとりで？」
+display
+com11 0 3
+sound 1105
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「いえ、ひとりで外で遊ぶことは、ほとんど
+line2 <shift> # なかったです。私、さびしがりやだったから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃあ、誰と遊びにきたんだ？」
+display
+com11 0 3
+sound 1106
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「家族と、です。昔は、仲よかったので。
+line2 <shift> # 父と母と……みんなで手をつないで」
+com09 0 29
+display
+location 29
+com11 0 3
+sound 1107
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あの頃の私は……いつも、笑っていました。
+line2 <shift> # 目標もなく、歌も今より、全然下手でしたけど」
+display
+com11 0 3
+sound 1108
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「それでも、幸せだったんだと思います。
+line2 <shift> # 欲しいものは、すべて手の中に……」
+com03 0 3
+choice1 <shift> # 今より、楽しかった？
+line2
+com09 0 30
+com08
+choice2 <shift> # その日に、帰りたい？
+line2
+com09 0 31
+com08
+choice3 <shift> # まるで、昨日のことのよう？
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今より、楽しかった？」
+display
+com11 0 3
+sound 1109
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そう、思います。今だって、苦しいことばかり
+line2 <shift> # では、ないですけど……」
+display
+com11 0 3
+sound 1110
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……あんなに無邪気には、もう笑えません。
+line2 <shift> # 大人になってしまったのかもしれませんね」
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「その日に、帰りたい？」
+display
+com11 0 3
+sound 1111
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「かなわない夢は……見ません。時間は
+line2 <shift> # 巻き戻せないこと、知っていますから」
+display
+com11 0 3
+sound 1112
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「見るなら、かなう可能性のある夢を見ます。
+line2 <shift> # 私は、それができる場にいますし」
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まるで、昨日のことのよう？」
+display
+com11 0 3
+sound 1113
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「いえ、そんな気はしません。
+line2 <shift> # 遠い……遠い昔の話ですから」
+display
+com11 0 3
+sound 1114
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「逆に……半分、信じられなくなってきています。
+line2 <shift> # 私にも、そういう頃があったこと」
+com09 0 49
+display
+location 49
+com11 0 3
+sound 1115
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……歯車」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……え、歯車？　いったい、なんの……」
+display
+com11 0 3
+sound 1116
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ある日、小さな事件が起きたんです。あの時
+line2 <shift> # から、私達家族の歯車は、狂ったまま……」
+display
+com11 0 3
+sound 1117
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「プロデューサー。誰も悪くないのに、皆が
+line2 <shift> # 不幸になるなんて、あっていいと思いますか？」
+com03 0 3
+choice1 <shift> # まあ、そういうこともあるよ
+line2
+com09 0 50
+com08
+choice2 <shift> # くわしく、聞かせてくれないか？
+line2
+com09 0 51
+com08
+choice3 <shift> # いや、よくない！
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 3
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まあ、そういうこともあるよ。
+line2 <shift> # 事情は知らないけどさ」
+display
+com11 0 3
+sound 1118
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そうですね、現に……。ふぅー、言っても
+line2 <shift> # しかたないこと、言ってしまいました」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「要は、つぶされないことじゃないか。
+line2 <shift> # 降りかかってくる、いろいろなものに」
+display
+com11 0 3
+sound 1119
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「できることは、それだけですよね。
+line2 <shift> # もっと強くならなければと、思います」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うなづき、コブシを強く握りしめている。
+line2 <shift> # 俺の言葉、千早の中に、深くしみたようだ）
+com09 0 69
+display
+location 51
+com34 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「くわしく、聞かせてくれないか？
+line2 <shift> # そうしないと、答えようも……」
+display
+com11 0 3
+sound 1120
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そうですよね。いきなり、こんなこと、
+line2 <shift> # 聞かれても、困りますよね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、だから、くわしく……」
+display
+com11 0 3
+sound 1121
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……いいです。話しても、その先は、多分
+line2 <shift> # グチになってしまいそうな気が……」
+display
+com11 0 3
+sound 1122
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そろそろ、バスに戻りませんか？　修理が
+line2 <shift> # 終わったら、すぐ出発できるように」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （千早は、言葉を引っ込めてしまった。まあ、
+line2 <shift> # 言いたくないものは、ムリに聞かない方がいい）
+com09 0 69
+display
+location 52
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、よくない！」
+display
+com11 0 3
+sound 1123
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……そうですよね。なのに、なぜ、そういう
+line2 <shift> # こと、起こるのでしょう？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「一般論だけど、やっぱり、誰かが悪いんだよ。
+line2 <shift> # そいつの責任を、追求すべきだと思う」
+display
+com11 0 3
+sound 1124
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「誰も……自分の責任を、認めなかったら？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ハッキリ白黒がつくまで、やり合うべきだ。
+line2 <shift> # そうすれば、最後はスッキリする」
+display
+com11 0 3
+sound 1125
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……理想論、ですね。とことんやり合っても、
+line2 <shift> # スッキリしないこと、あります。現に……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （それきり、押し黙ってしまった。うーん、
+line2 <shift> # 事情も知らず、熱弁しすぎてしまったか……）
+com09 0 69
+display
+location 69
+unk02

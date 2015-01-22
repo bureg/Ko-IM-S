@@ -1,0 +1,270 @@
+com2c 0 67
+com2d 0 41
+com32 0 0
+com11 0 4
+sound 1100
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ライブ、無事、終わりましたね。
+line2 <shift> # それでは、一度、事務所へ……」
+display
+com11 0 4
+sound 1101
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あ、プロデューサー、見てください。
+line2 <shift> # あそこの、街頭ＴＶ……」
+com03 0 3
+choice1 <shift> # どれどれ……
+line2
+com09 0 10
+com08
+choice2 <shift> # お、大きいな
+line2
+com09 0 11
+com08
+choice3 <shift> # お、四角いな
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どれどれ……。やってるのは、ニュースか。
+line2 <shift> # えーと『シングルマザー、また増加』……」
+com09 0 91
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、大きいな」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、四角いな」
+com09 0 29
+display
+location 29
+com11 0 4
+sound 1102
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……つまらないこと言ってる間に、画面、
+line2 <shift> # 変わってしまいます」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……ごめん。えーと、やってるのはニュースか。
+line2 <shift> # 『シングルマザー、また増加』……」
+com09 0 91
+display
+location 91
+com11 0 4
+sound 1103
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「最近、たまに話題になってますよね、これ」
+display
+com11 0 4
+sound 1104
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサーは、どう思います？
+line2 <shift> # 母親しかいない、子どもって？」
+com03 0 2
+choice1 <shift> # 大変な境遇だよな
+line2
+com09 0 30
+com08
+choice2 <shift> # 最悪の境遇だよな
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「大変な境遇だよな。育てる方も、ひとりじゃ、
+line2 <shift> # 苦労、多いだろうし」
+display
+com11 0 4
+sound 1105
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そうですね。でも、両親がケンカばかりして
+line2 <shift> # いるよりは、平和なだけ、いいかもしれません」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「最悪の境遇だよな」
+display
+com11 0 4
+sound 1106
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……そうでしょうか？　親がひとりの方が、
+line2 <shift> # いいことだってある気がします」
+display
+com11 0 4
+sound 1107
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「すくなくとも、両親がケンカばかりしている
+line2 <shift> # よりは、平和でいいですよね？」
+com09 0 49
+display
+location 49
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そういえば、千早の両親は、仲悪いって
+line2 <shift> # 言ってたな。……仲直りの兆しとかは？」
+display
+com11 0 4
+sound 1108
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「まったく、ありません。ああいう姿を見て
+line2 <shift> # いると、家庭なんか持ちたくないって思います」
+display
+com11 0 4
+sound 1109
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「間違っても……、子どもを、私と同じ目
+line2 <shift> # なんかに、あわせたくありませんから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そう、決めつけるなよ。千早が、
+line2 <shift> # そういう親にならなければ、いいだけだろ？」
+display
+com11 0 4
+sound 1110
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「自信なんか……とても、持てません」
+display
+com11 0 4
+sound 1111
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「よく、自分の親を尊敬しろとか言いますけど、
+line2 <shift> # そんなの、まちがってると思いませんか？」
+com03 0 3
+choice1 <shift> # 憎しみは、なにも生まないよ？
+line2
+com09 0 50
+com08
+choice2 <shift> # それでも、感謝はしないとな
+line2
+com09 0 51
+com08
+choice3 <shift> # いや、尊敬すべきだよ
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 2
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「憎しみは、なにも生まないよ？」
+display
+com11 0 4
+sound 1112
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……わかってます。私だって、言いたくて、
+line2 <shift> # 言ってるわけでは……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「親がどうかは、ともかく……千早の
+line2 <shift> # そういう顔を見るのは、悲しいよ」
+display
+com11 0 4
+sound 1113
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あ、すみません。そうですよね。いらだって、
+line2 <shift> # 人を傷つけたら、両親と同じ……」
+display
+com11 0 4
+sound 1114
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ありがとうございました。言ってくれなければ、
+line2 <shift> # 気づきませんでした」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （やわらかい表情に、戻ってくれた。大変だとは
+line2 <shift> # 思うけど、なんとか、消化していってほしいな）
+com09 0 69
+display
+location 51
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それでも、感謝はしないとな」
+display
+com11 0 4
+sound 1115
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「どうしてです？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だって、両親がいなければ、千早はこの世に
+line2 <shift> # 生まれてなかったわけだろ？」
+display
+com11 0 4
+sound 1116
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……別に、私が生んでほしいって、頼んだわけ
+line2 <shift> # ではありません」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、それはそうかもしれないけど。で、でも、
+line2 <shift> # 生まれてよかったって、思うだろ？」
+display
+com11 0 4
+sound 1117
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「生まれてこなかった時と、比較のしようなんて
+line2 <shift> # ありませんよね？　よかったか、どうかは……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うーん、説得力のある話、してやれなかったな。
+line2 <shift> # ま、それでもヘンな答えをするよりは、マシか）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、尊敬すべきだよ」
+display
+com11 0 4
+sound 1118
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「どうしてです？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だって、たとえどんな親だって、親は親だろ？
+line2 <shift> # 取り替えるわけには、いかないんだ」
+display
+com11 0 4
+sound 1119
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「当たり前です。もし、できるくらいなら、
+line2 <shift> # 私、真剣に考えてます」
+display
+com11 0 4
+sound 1120
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「それと、尊敬することと、どう、つながりが
+line2 <shift> # あるんです？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、つまり、かけがえのない人なんだから、
+line2 <shift> # 尊敬して、しかるべき……」
+display
+com11 0 4
+sound 1121
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「変えられないことと、価値あることは別です。
+line2 <shift> # 結局は、私にとって、どうかですから……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （言い聞かせるつもりが、言葉は完全にカラ回り。
+line2 <shift> # 表情は、余計に暗くなってしまった）
+com09 0 69
+display
+location 69
+unk02

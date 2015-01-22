@@ -1,0 +1,513 @@
+com2c 0 24
+com2d 0 61
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「雪歩ー！　事務所に、
+line2 <shift> # 雪歩あてのプレゼントが、山ほど届いてるぞ」
+display
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「や、山ほどですか？　あの、全部、
+line2 <shift> # ファンからのプレゼントなんですよね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、もちろん。ずいぶん数が増えたよな」
+com03 0 3
+choice1 <shift> # さすがだな
+com09 0 10
+com08
+choice2 <shift> # もうけたな
+com09 0 11
+com08
+choice3 <shift> # うれしいな
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さすがだな、雪歩。こういうのを見ると、雪歩
+line2 <shift> # もすっかり売れっ子アイドルだな、と思うよ」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そ、そうですか？　プロデューサーに、そう
+line2 <shift> # 言ってもらえると、なんだかうれしいです」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「私、ダメダメなところも多いし、
+line2 <shift> # まだまだですけど、これからもがんばりますね」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そしていつか、プロデューサーと
+line2 <shift> # ファンのみなさんの期待に応えてみせますぅ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よく言ったぞ、雪歩！
+line2 <shift> # これからも、一緒にがんばろうな！」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はいっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし！　……さて、と。じゃあ、とりあえず、
+line2 <shift> # 届いてるプレゼントは、家に持って帰るといい」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もうけたな、雪歩！」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「えーと、確かに、もうけたか、もうけてないか
+line2 <shift> # で言えば、もうけたのかもしれませんけど……」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「私、プレゼントって、物がもらえるから
+line2 <shift> # うれしい、ってだけじゃないと思うんです」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「一番うれしいのは、プレゼントしたいって思っ
+line2 <shift> # てくれた、ファンの皆さんの気持ちですよね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……うん。そうだな。雪歩の言う通りだ。
+line2 <shift> # デリカシーの無い言い方して、ごめんな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それにしても、雪歩も、しっかりしたこと、
+line2 <shift> # 言うようになったな。俺はうれしいよ」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「えっ。そ、そんな……。
+line2 <shift> # 私なんて、まだまだですよぉ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あはは。遠慮ばっかりしてるところは、
+line2 <shift> # 相変わらずだな。ま、雪歩らしいけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……さて、と。じゃあ、とりあえず、
+line2 <shift> # 届いてるプレゼントは、家に持って帰るといい」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うれしいな、雪歩！」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「えっ。あ、あの、そう言われても、
+line2 <shift> # プレゼントは、わけてあげられないですよ？」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「す、すみません。わけてあげたいのはやまやま
+line2 <shift> # なんですけど、ファンの気持ちを考えると……」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「私に、って送ってきてくれたものを、
+line2 <shift> # 中を見もせずに横流しするなんてヒドイし……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ま、待て、雪歩！　別に俺は、プレゼントを
+line2 <shift> # 横流ししてくれって言ったわけじゃないぞ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ただ、雪歩の人気ぶりが、プレゼントの量から
+line2 <shift> # わかるのが、うれしいな、って言っただけだ」
+display
+com11 0 0
+sound 10012
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あっ。そ、そうなんですか？　すみません、
+line2 <shift> # すみません！　私、カン違いしちゃって……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、誤解させるような言い方した俺も悪いし。
+line2 <shift> # ごめんな。気にしないでくれ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……さて、と。じゃあ、とりあえず、届いてる
+line2 <shift> # プレゼントは、家に持って帰ってくれ。な？」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10013
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ふふっ。うれしいですぅ。
+line2 <shift> # ちょっと１つ、開けてみようかな……」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「……え？　きゃああーっ！！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ど、どうした、雪歩っ！？
+line2 <shift> # 何か危ない物でも入ってたか？」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ、危なくはないですけど。うう、ぐすっ……。
+line2 <shift> # こ、怖いプレゼントですぅ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「怖いって、この、お面がか？　アフリカか南米
+line2 <shift> # の物のようだな。アフリカンアートってやつだ」
+display
+com11 0 0
+sound 10016
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そうなんですか。呪いのお面かと、
+line2 <shift> # 思っちゃいました。す、すごく怖い顔だから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「確かに少し変わったデザインだけど、
+line2 <shift> # これも芸術なんだぞ？」
+display
+com11 0 0
+sound 10017
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そういう物って、夜中に目が光ったり、勝手に
+line2 <shift> # 宙を飛んだりしそうですよね……。ううっ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、そんなことは無いと思うけど……」
+display
+com11 0 0
+sound 10018
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そ、それに、持ってるだけで、
+line2 <shift> # 呪われちゃったりしそうですぅ！」
+com03 0 3
+choice1 <shift> # くれたファンに悪いよ
+line2
+com09 0 20
+com08
+choice2 <shift> # じゃあ捨てようか
+line2
+com09 0 21
+com08
+choice3 <shift> # もう呪われちゃったかも
+line2
+com09 0 22
+com08
+com07
+com09 0 12
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おいおい。呪われるだなんて、
+line2 <shift> # せっかくプレゼントしてくれたファンに悪いぞ」
+display
+com11 0 0
+sound 10019
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ。そ、そうですよね。ファンの方は、私が
+line2 <shift> # 喜ぶと思って、贈ってくれたんでしょうし……」
+display
+com11 0 0
+sound 10020
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「その気持ちは、ありがたく受け止めないと、
+line2 <shift> # いけないですよね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うん、その通りだ。
+line2 <shift> # ……ってことで、このお面も持って帰ってくれ」
+display
+com11 0 0
+sound 10021
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい。わあ、変わったプレゼントで、
+line2 <shift> # う、うれしいなぁ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （心なしか、顔が引きつっているみたいだ。
+line2 <shift> # 売れっ子アイドルはツライな、雪歩……）
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなに怖いなら、じゃあ、捨てようか」
+display
+com11 0 0
+sound 10022
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ええっ！　さすがに、それはできません。
+line2 <shift> # プレゼントしてくれた方に悪いし……」
+display
+com11 0 0
+sound 10023
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「それに、こういうのって、捨てると、
+line2 <shift> # なおさら呪われそうな気が……。ううっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうかもな……。ってことは、持ってても
+line2 <shift> # 呪われるし、捨てても呪われるのか……」
+display
+com11 0 0
+sound 10024
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あうう。浮かばれません〜。でも、仕方がない
+line2 <shift> # から、持って帰りますぅ。ぐすっ、ひっく……」
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「触った時点で、もう呪われちゃってるかもな」
+display
+com11 0 0
+sound 10025
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「えええっ！？　そ、そんなっ……！」
+display
+com11 0 0
+sound 10026
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「じゃ、じゃあ私、これからは、
+line2 <shift> # 不幸のどん底人生になっちゃうんですか！？」
+display
+com11 0 0
+sound 10027
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「目覚ましが、いつも夜中に止まったり、
+line2 <shift> # いちご大福に、いちごが入ってなかったり！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……地味な呪いだな。その程度の呪いなら、
+line2 <shift> # 別に、いいような気もするけど。でも……」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今回のお面に限らず、『困るプレゼント』って、
+line2 <shift> # 結構、多いんじゃないのか？」
+display
+com11 0 0
+sound 10028
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい。実は、そうなんです。大半は、
+line2 <shift> # うれしいプレゼントなんですけど、時々は……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだろうなあ。これだけ量が多ければ、
+line2 <shift> # 中には、変わったのもあるだろうしな」
+display
+com11 0 0
+sound 10029
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そういうものは、どうすればいいのか、
+line2 <shift> # 困っちゃう時があります」
+display
+com11 0 0
+sound 10030
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「どんなものでも、しばらくは家に飾っておくん
+line2 <shift> # ですけど、その後、どうすればいいのか……」
+display
+com11 0 0
+sound 10031
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「お手紙なら、とっておけるし、お菓子なら、
+line2 <shift> # 家族みんなで食べたりできるんです。でも……」
+display
+com11 0 0
+sound 10032
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「かさばる置物なんかは、どうしようもなくて。
+line2 <shift> # そろそろ、家からあふれそうなんですよぉ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （なんか、本気で困ってるみたいだな……）
+com03 0 3
+choice1 <shift> # 事務所で引き取るよ
+line2
+com09 0 30
+com08
+choice2 <shift> # 誰かにあげたら？
+line2
+com09 0 31
+com08
+choice3 <shift> # 次のステージで使うか
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「雪歩が処理に困るプレゼントは、
+line2 <shift> # 事務所で引き取るよ。それなら、いいだろう？」
+display
+com11 0 0
+sound 10033
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「えっ？　……で、でも、事務所に置きっぱなし
+line2 <shift> # にすると、迷惑にならないですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「置きっぱなしには、しないよ。
+line2 <shift> # 受付に飾るとか、有効活用させてもらう」
+display
+com11 0 0
+sound 10034
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ほ、ホントですか！？　ちゃんと飾って
+line2 <shift> # もらえるなら、それが１番いいと思います」
+display
+com11 0 0
+sound 10035
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「私の家でホコリをかぶってるよりも、
+line2 <shift> # きっと置物さん達も、うれしいですよね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、でも、あんまり量が多ければ、一部、
+line2 <shift> # 倉庫に預けたりは、するかもしれないぞ？」
+display
+com11 0 0
+sound 10036
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「それでも、大切に保管してもらえるなら、その
+line2 <shift> # 方が……。プロデューサーを信じて、任せます」
+display
+com11 0 0
+sound 10037
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「……良かった。悩み事が１つ、解決しました。
+line2 <shift> # プロデューサーに相談して、良かったですぅ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （雪歩は、心底ホッとした顔をしている。
+line2 <shift> # うまく、力になってやれたようだな！）
+com09 0 99
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「誰かにあげたらどうだ？　かさばる置物ばかり
+line2 <shift> # あっても、どうしようもないだろう」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「一度は雪歩の家に飾られたわけだし、
+line2 <shift> # 贈ったファンも満足してくれると思うぞ？」
+display
+com11 0 0
+sound 10038
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そうですね……。家からあふれたら、
+line2 <shift> # 庭に置くことになっちゃうし……」
+display
+com11 0 0
+sound 10039
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「せっかくのプレゼントを雨ざらしにするぐらい
+line2 <shift> # なら、やっぱり誰かにあげた方がいいのかな？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うん。その方が、いいって」
+display
+com11 0 0
+sound 10040
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「じゃ、もらい手をさがしてみます。
+line2 <shift> # 欲しい人、いるといいんですけど」
+display
+com11 0 0
+sound 10041
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「トーテムポールのセットとか、５メートルの
+line2 <shift> # モアイとか、色々あるんですよねぇ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ご、５メートル！？
+line2 <shift> # そ、それは、もらい手、見つかるかな……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （雪歩の力になってやりたかったが、
+line2 <shift> # ちょっと力が及ばなかったようだ……）
+com09 0 99
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「次のステージで使うか？　雪歩がもらった
+line2 <shift> # 置物を、舞台セットとして使うんだよ！」
+display
+com11 0 0
+sound 10042
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ええっ！？　そ、そんなこと出来るんですか？
+line2 <shift> # 使ってもらえるなら、うれしいですけど……」
+display
+com11 0 0
+sound 10043
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「でも、私がもらった置物、地味ですよ？　普通
+line2 <shift> # の舞台セットみたいに、キラキラしてないです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「地味なのは困るな。じゃあ、雪歩が置物を、な
+line2 <shift> # ぎ倒しながら登場するっていうのは、どうだ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もしくは、歌いながら、置物を破壊していく
+line2 <shift> # とか……。かなりインパクトあると思うぞ！」
+display
+com11 0 0
+sound 10044
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そんなっ！　もし、そのプレゼントをくれた人
+line2 <shift> # がライブ会場にいたら、どう思うでしょうか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そりゃ『おっ。雪歩ちゃん、俺のプレゼントを
+line2 <shift> # 有効利用してくれててうれしいなあ！』と……」
+display
+com11 0 0
+sound 10045
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ぷ、プロデューサー、前向きすぎますぅ……。
+line2 <shift> # ふつう、そんな風には思わないですよ？」
+display
+com11 0 0
+sound 10046
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「……いいです。やっぱり、置物は、当分うちに
+line2 <shift> # 置いておきます。仕方ないですから。はぁ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （雪歩は、前にも増して、落ち込んでしまった。
+line2 <shift> # どうやら、全く力になってやれなかったようだ）
+com09 0 99
+display
+location 99
+unk02

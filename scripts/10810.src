@@ -1,0 +1,296 @@
+com2c 0 19
+com2d 0 21
+com32 0 0
+com11 0 4
+sound 100
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ねー、プロデューサー。
+line2 <shift> # どうせなら、一気に大改造したいと思わない？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……いきなり、なんの話だ？」
+display
+com11 0 4
+sound 101
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「この、事務所ビル♪　ちまちま引っ越しするの
+line2 <shift> # なんて、やめて、今すぐ、超高層にしましょ」
+display
+com11 0 4
+sound 102
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ローン組めば、楽勝でしょ。プロデューサーが、
+line2 <shift> # しょぼいんだから、ビルは豪華にしなくちゃ！」
+com03 0 3
+choice1 <shift> # ひどいよ、伊織……
+line2
+com09 0 10
+com08
+choice2 <shift> # アイドルもしょぼいしな
+line2
+com09 0 11
+com08
+choice3 <shift> # 見た目より、中身だろ？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ひどいよ、伊織……」
+display
+com11 0 4
+sound 103
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あ、う……、なによ〜、そのいじけ顔……」
+display
+com11 0 4
+sound 104
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「た、ただ言ってみただけでしょ。
+line2 <shift> # ……軽い悪口ぐらいで、へこまないでよね」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「アイドルもしょぼいしな」
+display
+com11 0 4
+sound 105
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なんですってー！　どこの誰がよーっ！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、アイドルとしては、新人から一歩、
+line2 <shift> # 抜け出ただけだし……」
+display
+com11 0 4
+sound 106
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「世の中が、私に、ついてこられないんでしょ。
+line2 <shift> # しょぼいのは、まわりの見る目だわっ！」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「見た目より、中身だろ？」
+display
+com11 0 4
+sound 107
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あんた……、それ、マジメにいってるわけ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だって、事実じゃ……」
+display
+com11 0 4
+sound 108
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あははッ、おっかしい〜！　見た目の悪い
+line2 <shift> # アイドルなんて、売れるわけないもーん」
+display
+com11 0 4
+sound 109
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ほんと、ショボショボ・プロデューサーね♪
+line2 <shift> # これじゃ、先が思いやられるわー」
+com09 0 19
+display
+location 19
+com11 0 4
+sound 110
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「で、どうするの？
+line2 <shift> # よければ、私がいい人、紹介してあげるけど？」
+com03 0 3
+choice1 <shift> # 建築デザイナー？
+line2
+com09 0 20
+com08
+choice2 <shift> # 銀行のえらい人？
+line2
+com09 0 21
+com08
+choice3 <shift> # お見合い相手？
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「建築デザイナー？」
+display
+com11 0 4
+sound 111
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そう！　パパの知り合いに、そういう人、
+line2 <shift> # たっくさんいるし！」
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「銀行のえらい人？」
+display
+com11 0 4
+sound 112
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「銀行……、って、あんた、
+line2 <shift> # 私のパパの知り合いから、お金、借りる気？」
+display
+com11 0 4
+sound 113
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そんなのは、自分で、どうにかしなさーい！
+line2 <shift> # 私が紹介するのは、有名なデザイナーっ」
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お見合い相手？」
+display
+com11 0 4
+sound 114
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なんで、私がそんなもん、
+line2 <shift> # 連れてこなきゃいけないのよーっ！」
+display
+com11 0 4
+sound 115
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「私が紹介するのは、建築デザイナー！　どうせ
+line2 <shift> # ならステキなデザインにした方がいいでしょ？」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ、いつか、超高層ビルにする日がきたら、
+line2 <shift> # その人に、設計、頼むか」
+display
+com11 0 4
+sound 116
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「えー、今すぐじゃないワケ〜？
+line2 <shift> # その『いつか』って、いつよ〜？」
+com03 0 3
+choice1 <shift> # 伊織が売れたら
+line2
+com09 0 30
+com08
+choice2 <shift> # 伊織が有名になったら
+line2
+com09 0 31
+com08
+choice3 <shift> # 伊織がいい子になったら
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「伊織が売れたら」
+display
+com11 0 4
+sound 117
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「フンっ、プレッシャーかける気？　そんなもん
+line2 <shift> # で、やる気出すと思ったら、大まちがいだわ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……やる気出したからって、
+line2 <shift> # 売れるとは限らないしなあ」
+display
+com11 0 4
+sound 118
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そんなことないわよ！　フフン、見てなさい♪
+line2 <shift> # 私が本気出せば、ビルぐらい、すぐなんだから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うまく挑発に乗ってくれた。
+line2 <shift> # ……意外に単純なところもあるな）
+com09 0 39
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「伊織が有名になったら」
+display
+com11 0 4
+sound 119
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あら、私、けっこう有名人よ♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなことないだろ？
+line2 <shift> # 知名度じゃ、まだまだ……」
+display
+com11 0 4
+sound 120
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「芸能界では、そうでも……、水瀬家の娘って
+line2 <shift> # いえば、財界じゃ有名なんだからっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「…………伊織が、超有名になったら、
+line2 <shift> # 超高層ビルにしよう」
+display
+com11 0 4
+sound 121
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ず、ずる〜い！　一度言ったこと、
+line2 <shift> # 変えるなんてーっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ここは……、とぼけ通すしかない。
+line2 <shift> # ビル新築なんて、シャレにならないし）
+com09 0 39
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「伊織がいい子になったら」
+display
+com11 0 4
+sound 122
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……ふ〜ん、そういうこと、いうわけ？
+line2 <shift> # プロデューサ〜、私、いい子ですよね♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う……、そうかな？」
+display
+com11 0 4
+sound 123
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「プロデューサーには、ほんっと感謝してます。
+line2 <shift> # 言うことは、なんでも聞かなきゃって……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ、今は猫かぶるの、やめよう」
+display
+com11 0 4
+sound 124
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そんなもの、かぶってないわよっ！
+line2 <shift> # 私は、こういう性格なのーっ」
+display
+com11 0 4
+sound 125
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ほーらっ、さっさと超高層ビルにしないと、
+line2 <shift> # あばれちゃうんだからっ♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （目が、笑ってない……。
+line2 <shift> # はたかれる前に、どこかへ逃げるか）
+com09 0 39
+display
+location 39
+unk02

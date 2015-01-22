@@ -1,0 +1,293 @@
+com2c 0 118
+com2d 0 81
+com32 0 0
+location 0
+com11 0 6
+sound 1500
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はあーあ、はあ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なあ、真。いったいどこまで行くつもりだ？
+line2 <shift> # もうずいぶん歩いたけど……」
+display
+com11 0 6
+sound 1501
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「え？　あ、ボク歩いてるんですね。
+line2 <shift> # あんまり、そういう感覚、なかったけど……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おいおい、しっかりしてくれよ。なんだ、
+line2 <shift> # ライブの失敗ぐらいで」
+display
+com11 0 6
+sound 1502
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「普通のライブじゃなかったですから……。
+line2 <shift> # ボクの今後を決める、大事な……」
+display
+com11 0 6
+sound 1503
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「明日から、どうしよう。プロデューサーも
+line2 <shift> # いなくなって、ボクはひとりぼっち……」
+display
+com11 0 6
+sound 1504
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「やっていけるわけないよなあ。きっと今日の
+line2 <shift> # ライブみたいに……。ううっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「真、ひとりでズブズブ沈み込むなよ。
+line2 <shift> # ほら、そろそろ気持ちを切り替えよう！」
+display
+com11 0 6
+sound 1505
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ムリですよ。このダメージは、当分抜けそうに
+line2 <shift> # ないです……。心にでっかい穴空いちゃって」
+display
+com11 0 6
+sound 1506
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「今も、体に全然、力入んないんです！　これが
+line2 <shift> # ホントの骨抜きってやつですね。あはは、はは」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし。なら、その体に息吹を吹き込んでやろう。
+line2 <shift> # プロデューサーとしての、最後のセンベツだ」
+display
+com11 0 6
+sound 1507
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「えっ！？　いったい、なにをする気なんです？
+line2 <shift> # 急に、目ギラギラさせて……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「喝を入れてやるから、愛のムチだと思え。
+line2 <shift> # くらえ、必殺の……」
+com03 0 3
+choice1 <shift> # チョーク・スリーパー！
+line2
+com09 0 10
+com08
+choice2 <shift> # 右ストレート！
+line2
+com09 0 11
+com08
+choice3 <shift> # 飛びヒザげり！
+line2
+com09 0 12
+com08
+display
+location 10
+com1c 0 5
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「チョーク・スリーパー！」
+display
+com11 0 6
+sound 1508
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うわあああっ、あぶない！　てりゃああああ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ぐわっ……！！　痛たたたたた！」
+display
+com11 0 6
+sound 1509
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「す、すみません！　平気ですか？　ボク、
+line2 <shift> # つい条件反射で、雪崩式ジャーマンを！」
+com09 0 19
+display
+location 11
+com1c 0 6
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「右ストレート！」
+display
+com11 0 6
+sound 1510
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うわっ。……っと、ここだっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ぐわっ……！！　痛たたたたた！」
+display
+com11 0 6
+sound 1511
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「す、すみません！　平気ですか？　ボク、つい
+line2 <shift> # 条件反射で、カウンターとっちゃいました！」
+com09 0 19
+display
+location 12
+com1c 0 7
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「飛びヒザげり！」
+display
+com11 0 6
+sound 1512
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うわっ。……っと、てりゃッ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ぐわっ……！！　痛たたたたた！」
+display
+com11 0 6
+sound 1513
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「す、すみません。平気ですか？　ボク、つい条
+line2 <shift> # 件反射でブラジリアンキック出しちゃいました」
+com09 0 19
+display
+location 19
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「すごい条件反射もあったもんだな……。
+line2 <shift> # なんだ真、意外に元気じゃないか」
+display
+com11 0 6
+sound 1514
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「え？　あ、そういえば、今のドタバタで、
+line2 <shift> # 体の感覚、すこし戻ってきたかも」
+display
+com11 0 6
+sound 1515
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「もしかして……、しばらくスローペースで
+line2 <shift> # 調整していけば、気力も戻ってくるかな」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「きっと大丈夫だよ。何日か休めば、よくなる。
+line2 <shift> # だから、アイドル続けてくれ」
+com37 0 1
+com1e 0 5
+com09 0 20
+com3b
+com37 0 1
+com1e 0 6
+com09 0 21
+com3b
+com37 0 1
+com1e 0 7
+com09 0 22
+com3b
+display
+location 20
+com11 0 6
+sound 1516
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「わかりました。ここで辞めたら、さっき痛い目
+line2 <shift> # にあったプロデューサー投げられ損ですもんね」
+com09 0 29
+display
+location 21
+com11 0 6
+sound 1517
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「わかりました。ここで辞めたら、さっき痛い目
+line2 <shift> # にあったプロデューサー、殴られ損ですもんね」
+com09 0 29
+display
+location 22
+com11 0 6
+sound 1518
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「わかりました。ここで辞めたら、さっき痛い目
+line2 <shift> # にあったプロデューサー、蹴られ損ですもんね」
+com09 0 29
+display
+location 29
+com11 0 6
+sound 1519
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ボク、がんばってみます！　なんとか成功して、
+line2 <shift> # もっとかわいい女の子になりたいですから！」
+display
+com1c 0 3
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よく言った。これで、俺のこれまでの苦労も、
+line2 <shift> # すこしは報われるよ」
+display
+com11 0 6
+sound 1520
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「本当は、プロデューサーといっしょに、もっと
+line2 <shift> # 上、目指したかったですけど。あ、そうだ！」
+display
+com11 0 6
+sound 1521
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「このままお別れじゃさびしいから、最後に再会
+line2 <shift> # を誓って、コブシ、ガツンと合わせませんか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ＯＫ。男と男……、じゃなくて、
+line2 <shift> # 男と女の約束だな！」
+display
+com11 0 6
+sound 1522
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はい！　それじゃ、景気よくいきましょう。
+line2 <shift> # プロデューサー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よしっ、じゃあハデに！」
+com0e 2 216
+com44
+com09 0 30
+com45
+com44
+com09 0 31
+com45
+display
+location 30
+com11 0 6
+sound 1523
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「……っと！　おつかれさまでしたーっ。
+line2 <shift> # オーラスはなんとか……、カッコつきましたね」
+display
+com4a 0 0
+com11 0 6
+sound 1524
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「それじゃ、いつかまたプロデュース、
+line2 <shift> # お願いしまーす！」
+display
+location 100 129 92 129 92 130 177 130 164 130 181 130 196 144 94 130 205 131 116 131 137 131 116 131 137 130 204 143 243 145 212 130 169 130 231 129 65 130 200 130 241 130 198 130 169
+line2 <shift> # 抜け出し……、再出発に向け第一歩を踏み出した。
+display
+location 101 130 169 130 237 130 181 130 189 131 82 131 117 131 86 130 205 129 65 143 159 151 152 130 204 131 82 131 117 131 86 130 197 130 205 130 200 130 173 129 65 150 241 145 169
+line2 <shift> # のコブシ。そう、それは――、次の挑戦への誓い。
+display
+location 102 144 86 130 189 130 200 150 178 130 204 140 219 147 174 130 170 149 183 130 177 130 166 130 233 129 66 130 162 130 194 130 169 144 94 130 198 139 164 130 201 131 115 131 137
+line2 <shift> # ミッドの頂点に立ち、そこでコブシを交わしたい。
+com09 0 39
+display
+location 31
+com11 0 6
+sound 1525
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ぷ、プロデューサ〜？　なにやってるんです？
+line2 <shift> # ちゃんとコブシ〜……」
+display
+com1c 0 2
+com4a 0 0
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わ、悪い……」
+display
+location 110 129 92 129 92 130 177 130 164 130 181 130 196 144 94 130 205 129 65 140 105 139 67 130 204 136 171 130 162 131 137 131 88 131 103 130 201 129 65
+line2 <shift> # ひきつり笑いを浮かべながら、去っていった。
+display
+location 111 141 161 137 241 129 65 147 205 130 169 130 200 130 169 130 193 130 189 131 115 131 137 131 126 131 98 131 104 130 204 146 184 147 95 129 66
+line2 <shift> # そこは、あまりにも遠い場所だった。しかし――、
+display
+location 112 150 93 130 221 130 190 130 175 130 205 142 204 130 196 130 205 130 181 130 200 130 162 129 66 130 162 130 194 130 204 147 250 130 169 129 65
+line2 <shift> # また真と手を組み、再び、そこを目指したい。
+com09 0 39
+display
+location 39
+unk02

@@ -1,0 +1,269 @@
+com2c 0 18
+com2d 0 43
+com32 0 0
+com11 0 2
+sound 200
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「歌番組のメインゲスト……。
+line2 <shift> # いよいよ、出番ですね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。全国の視聴者が待ってる。華麗に決めて、
+line2 <shift> # 伝説の幕開けといこう。千早なら、楽勝だろ？」
+display
+com11 0 2
+sound 201
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「楽勝か、どうかはわかりませんけど……、
+line2 <shift> # やれる限り、やります」
+display
+com11 0 2
+sound 202
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ところで、この番組の名前、すごいですよね？
+line2 <shift> # 『ニューアイドル　ＧＯ　ＧＯ』なんて」
+com03 0 3
+choice1 <shift> # プライド、傷つく？
+line2
+com09 0 10
+com08
+choice2 <shift> # ひどいセンスだよな
+line2
+com09 0 11
+com08
+choice3 <shift> # どこへ、行くんだろうな
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「プライド、傷つく？」
+display
+com11 0 2
+sound 203
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「いえ、とくには。ただ、はじめ見た時には、
+line2 <shift> # 笑ってしまいました」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ひどいセンスだよな」
+display
+com11 0 2
+sound 204
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ひどいというか……はじめ見た時は、笑って
+line2 <shift> # しまいました」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どこへ、行くんだろうな」
+display
+com11 0 2
+sound 205
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「は？　どこへって……。あ、ＧＯＧＯだから
+line2 <shift> # ですか？」
+display
+com11 0 2
+sound 206
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ど、どこでしょうね。私にはわかりません」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「千早としては『ニュー歌手　ＧＯ　ＧＯ』
+line2 <shift> # とかの方が、よかったか？」
+display
+com11 0 2
+sound 207
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そんなことは……。最近、呼ばれ方とかは、
+line2 <shift> # なぜか、あまり気にならなくなってきて」
+display
+com11 0 2
+sound 208
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「アイドルって呼ばれても、そんなに抵抗、
+line2 <shift> # 感じなくなりました。私は、ただ私の歌を……」
+com03 0 2
+choice1 <shift> # 丸くなったかな？
+line2
+com09 0 30
+com08
+choice2 <shift> # 大人になったかな？
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「丸くなったかな？」
+display
+com11 0 2
+sound 209
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ふふっ、そうかもしれませんね。デビューして
+line2 <shift> # から、いろいろありましたから」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「大人になったかな？」
+display
+com11 0 2
+sound 210
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そ、それはどうか、わかりませんけど……
+line2 <shift> # 成長はしたかもしれません」
+display
+com11 0 2
+sound 211
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「いろんな思いしてきたから、その分、まわりも
+line2 <shift> # 見えてきたんだと思います」
+com09 0 49
+display
+location 49
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「その調子なら、歌い終わった後に、気持ちよく
+line2 <shift> # ファン・アピールとか、できるか？」
+display
+com11 0 2
+sound 212
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「いいですけど……。カメラに向かって、
+line2 <shift> # メッセージでも、送りますか？」
+display
+com11 0 2
+sound 213
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「どんなのが、いいでしょう？　できれば、
+line2 <shift> # インパクトがある言葉の方が……」
+com03 0 3
+choice1 <shift> # じゃあ『おぼえてください』で
+line2
+com09 0 50
+com08
+choice2 <shift> # じゃあ『かかってきなさい』で
+line2
+com09 0 51
+com08
+choice3 <shift> # じゃあ『愛してください』で
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 3
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ『おぼえてください』で」
+display
+com11 0 2
+sound 214
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……ストレートでいいかも、しれませんね。
+line2 <shift> # では、行ってきます！」
+display
+com20 0 30
+com11 0 2
+sound 215
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「聴いてくれて、ありがとうございました」
+display
+com11 0 2
+sound 216
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「私の顔と名、おぼえてください」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （抜群の歌唱力と、クールなあいさつ。この
+line2 <shift> # カッコよさは……誰にも、マネできないな）
+com09 0 69
+display
+location 51
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ『かかってきなさい』で」
+display
+com11 0 2
+sound 217
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そんな挑戦的なやつを？　まちがいなく、
+line2 <shift> # 印象には残ると思いますけど……」
+display
+com11 0 2
+sound 218
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「わかりました。それでは、言う通りに、
+line2 <shift> # 決めてきます！」
+display
+com20 0 30
+com11 0 2
+sound 219
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「私の歌、いかがでしたか？　歌唱力で
+line2 <shift> # 勝てると思う人、かかってきなさい」
+display
+com11 0 2
+sound 220
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……あ、カメラの人、どうして逃げるん
+line2 <shift> # です？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うーん、カッコいいけど、すこし怖かったな。
+line2 <shift> # でも、目立たないよりは、いいか）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ『愛してください』で」
+display
+com11 0 2
+sound 221
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「えっ？　そんなこと、全国ネットで言うん
+line2 <shift> # ですか？　で、でも……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「言い慣れてない言葉の方が、表情に動きが
+line2 <shift> # 出ると思うから」
+display
+com11 0 2
+sound 222
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「わかりました。……努力……してみます」
+display
+com20 0 30
+com11 0 2
+sound 223
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「聴いてくれて、ありがとうございました……。
+line2 <shift> # 全国のみなさん、あ、あ、あ……」
+display
+com11 0 2
+sound 224
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……ありがとうございました」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （なぜ、お礼を二度、繰り返す？　歌が最高だっ
+line2 <shift> # ただけに、最後が決まらなかったのは、痛いな）
+com09 0 69
+display
+location 69
+unk02

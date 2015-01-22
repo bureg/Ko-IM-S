@@ -1,0 +1,345 @@
+com2d 0 61
+com2c 0 57
+com2c 0 25
+com32 0 0
+location 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「買い物に行ったんなら、きっと、この辺に
+line2 <shift> # いると思うけど……。あっ、いた！」
+display
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「うう、ぐすっ。あの犬、ほえたりしない
+line2 <shift> # かなぁ。ここ通らないと、帰れないのに……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……って、あの犬、チワワじゃないか。
+line2 <shift> # あんなのが、そんなにコワいのか！？）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やあ、君、ちょっといいかな？」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「え！？　は、はい……。あ、すみません。
+line2 <shift> # ここに立っていると、ジャマですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、そういうワケじゃないよ。あいさつ
+line2 <shift> # しておかなきゃと、思って」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あの〜、あなた……、どなたでしょう？
+line2 <shift> # もしかして……、な、なっ、ナンパ屋さん？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんな風に、見えるか？　ちがうよ。
+line2 <shift> # 俺は……」
+com03 0 3
+choice1 <shift> # 君のプロデューサーだ　
+line2
+com09 0 10
+com08
+choice2 <shift> # あの犬の飼い主だ　
+line2
+com09 0 11
+com08
+choice3 <shift> # 通り魔だ　
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「君のプロデューサーだ」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あの犬の飼い主だ」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ、そうだったんですか……。あの、えと、
+line2 <shift> # かわいいワンちゃん、ですねっ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よく言うよ。あんなに、コワがってたじゃ
+line2 <shift> # ないか」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ぁ、見てたんですね〜。ううう、
+line2 <shift> # すみません……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ははは、飼い主っていうのは、ウソだよ。
+line2 <shift> # 俺は……、君のプロデューサーだ」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「通り魔だ」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「えっ！？　それって、ナンパ屋さんよりも、
+line2 <shift> # 危険な人じゃ……。ぁ、ぁ、ぁ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「こ、こら、かたまるな。ごめんごめん。
+line2 <shift> # ウソだって！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺は、ナンパ師でも、通り魔でもない。
+line2 <shift> # ……君のプロデューサーだ！」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ぷろでゅーさー？　ええっ、それじゃ、
+line2 <shift> # 私、デビューすることになったんですか！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、そうだ。社長に言われて、ここまで、
+line2 <shift> # 迎えにきたんだよ」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ううう、どうしよぉ。やめにしませんか？
+line2 <shift> # やっぱり私なんか、成功できるはずは……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おいおい、いきなり弱気になるなよっ。
+line2 <shift> # 君だって、アイドルになりたいんだろ？」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「それは、もちろん。わ、わかりました。
+line2 <shift> # なんとか、ついていくことにします！」
+com37 0 0
+com1e 0 0
+com09 0 25
+com3b
+com38 0 1
+com1e 0 0
+com09 0 26
+com3b
+display
+location 25
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし。じゃあ、まずは全国デビューするための、
+line2 <shift> # 君の芸名を決めよう。えーと……」
+display
+location 26
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし。じゃあ、まずは全国デビューするための、
+line2 <shift> # ユニット名を決めよう。えーと……」
+display
+location 30
+com11 0 0
+sound 10009
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「その名前で、いくんですね。うう、
+line2 <shift> # 名前負けしそうですけど、がんばりますぅ」
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よろしく頼むぞ！
+line2 <shift> # さあ、いよいよ活動開始だ！」
+display
+location 40
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今日のスケジュールは……、と）
+display
+location 50
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やはり最初はレッスンだ！　いこう、雪歩！
+line2 <shift> # 早速、事務所に戻って、活動開始だ！」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい……。でも、犬がいて、この道は、
+line2 <shift> # 通れません……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「う、わかったよ。それじゃ、背中を貸すから、
+line2 <shift> # 隠れて、ついてくるように」
+display
+com4a 0 0
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ありがとうございます〜。その分、トレー
+line2 <shift> # ニング、がんばりますから。うう、ぐすっ」
+display
+location 60
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （トップアイドルになるため、今後は流行を
+line2 <shift> # 意識していこう！　まずは育成方針として）
+display
+location 61
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （流行１位イメージであるボーカルの
+line2 <shift> # イメージをＵＰさせていこう！）
+display
+location 62
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （流行１位イメージであるダンスの
+line2 <shift> # イメージをＵＰさせていこう！）
+display
+location 63
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （流行１位イメージであるビジュアルの
+line2 <shift> # イメージをＵＰさせていこう！）
+display
+location 64
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （流行１位のイメージはオーディションでの
+line2 <shift> # ウケが良く、合格しやすい！　絶対に有利だ！）
+display
+location 65
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しかし流行は変化しやすい。常に先の先を
+line2 <shift> # 考えながらイメージ作りをしていくぞ！！）
+display
+location 66
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （明日の流行１位ではない！
+line2 <shift> # 最終的には、人数の増加傾向を考慮して……）
+display
+location 67
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （無駄のないレッスンができるように
+line2 <shift> # なろう！！）
+display
+display
+location 100
+com32 0 1
+com11 0 0
+sound 10012
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「社長、呼び出しがあったってきいて……。
+line2 <shift> # きゃっ！　あ、あの、こ、この人は……？」
+display
+com11 0 0
+sound 10016
+name 0 2 <names:3>  # President
+line1 <shift> # 「ああ、萩原君、大丈夫だ。安心したまえ。
+line2 <shift> # 彼は君のプロデューサーだよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「初めまして。今日から俺が君の担当
+line2 <shift> # プロデューサーだ」
+display
+com11 0 0
+sound 10013
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ぷろでゅーさー？　ええっ、それじゃ、
+line2 <shift> # 私、デビューすることになったんですか！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだ。これからよろしく。
+line2 <shift> # しかし、なぜそんな遠くに立っているんだ？」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そ、それはその……、あの……」
+display
+com11 0 0
+sound 10017
+name 0 2 <names:3>  # President
+line1 <shift> # 「彼女……、萩原雪歩君は、少し臆病な子なんだ。
+line2 <shift> # これからしっかり支えてやってくれ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「はい、わかりました。雪歩、これから少しず
+line2 <shift> # つ打ち解けていこう。とりあえずよろしくな」
+display
+com4a 0 0
+com11 0 0
+sound 10015
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「は、はいぃ。何とかついていきます。
+line2 <shift> # よ、よろしくお願いしますぅ」
+display
+location 200
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （大事なスケジュールには、オススメマークを、
+line2 <shift> # 事務員の音無さんが、つけてくれている）
+display
+location 201
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今は、レッスンと営業が重要らしい。ステップ
+line2 <shift> # アップのため必要なスケジュールってことだな）
+display
+location 202
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （いきなり、オススメを無視するのは、怖いな。
+line2 <shift> # ここは素直に、したがったほうがいい気がする）
+display
+location 210
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やはり最初は営業だ！　いこう、雪歩！
+line2 <shift> # 早速、事務所に戻って、活動開始だ！」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい……。でも、犬がいて、この道は、
+line2 <shift> # 通れません……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「う、わかったよ。それじゃ、背中を貸すから、
+line2 <shift> # 隠れて、ついてくるように」
+display
+com4a 0 0
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ありがとうございます〜。その分、トレー
+line2 <shift> # ニング、がんばりますから。うう、ぐすっ」
+display
+location 300
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「続いて、衣装を決めよう」
+display
+location 301
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「続いてデビュー曲を決めよう」
+display
+location 302
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「喜んでくれて俺もうれしいよ！」
+display
+unk02

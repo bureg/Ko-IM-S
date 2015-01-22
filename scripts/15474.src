@@ -1,0 +1,283 @@
+com2c 0 75
+com2d 0 31
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうして、俺が、学校の面談に？」
+display
+com11 0 1
+sound 100
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えへへ。私の今の生活、一番知ってるの、
+line2 <shift> # プロデューサーですから！」
+com03 0 3
+choice1 <shift> # まあ、たしかにな
+line2
+com09 0 10
+com08
+choice2 <shift> # 親代わりってわけか
+line2
+com09 0 11
+com08
+choice3 <shift> # 頼りすぎだって
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まあ、たしかにな」
+display
+com11 0 1
+sound 101
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「最近、お母さんより、プロデューサーといる
+line2 <shift> # 時間のが長いですし！」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「親代わりってわけか」
+display
+com11 0 1
+sound 102
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「お父さんもお母さんもこられないって言うから。
+line2 <shift> # ……迷惑ですかっ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、そんなこともないけど」
+display
+com11 0 1
+sound 103
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ああ、よかった。もしかしたら、
+line2 <shift> # 面倒なのかなあって」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「頼りすぎだって」
+display
+com11 0 1
+sound 104
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ええええ、でも、これくらい、いいですよね？
+line2 <shift> # もう半分、家族みたいなものだし」
+display
+com11 0 1
+sound 105
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「今じゃ、お母さんといるより、
+line2 <shift> # プロデューサーといる方が長いですし」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それは、そうかもしれないけどな」
+com09 0 19
+display
+location 19
+com11 0 1
+sound 106
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「面談でー、言って下さいっ。私、すごーく
+line2 <shift> # 忙しいから、しょうがないんだって！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なにが？」
+display
+com11 0 1
+sound 107
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えっと、その〜いろいろ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やよい、もしかして……」
+com03 0 3
+choice1 <shift> # 成績、悪いのか？
+line2
+com09 0 20
+com08
+choice2 <shift> # 出欠、悪いのか？
+line2
+com4f 0 2
+com09 0 21
+com08
+choice3 <shift> # 素行、悪いのか？
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「成績、悪いのか？」
+display
+com11 0 1
+sound 108
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うう〜、お見通しですか？
+line2 <shift> # 勉強、むずかしくってー」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「出欠、悪いのか？」
+display
+com11 0 1
+sound 109
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「しゅ、出欠はしかたないんですけどー、
+line2 <shift> # それより、成績が……」
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「素行、悪いのか？」
+display
+com11 0 1
+sound 110
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そこうって……、あ」
+display
+com11 0 1
+sound 111
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「わ、私、不良じゃありません……。
+line2 <shift> # ただ、成績が……」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ＴＶじゃ、スーパーアイドルなのになあ」
+display
+com11 0 1
+sound 112
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「成績に、人気は関係ないです〜」
+display
+com11 0 1
+sound 113
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あ、プロデューサーが、仕事の合間に、
+line2 <shift> # 勉強、教えてくれるっていう手も！」
+com03 0 3
+choice1 <shift> # いいかもな
+com09 0 30
+com08
+choice2 <shift> # 考えとくよ
+com4f 0 0
+com09 0 31
+com08
+choice3 <shift> # それは、ちょっと
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いいかもな」
+display
+com11 0 1
+sound 114
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えっ、ほんとですかーっ？
+line2 <shift> # よーし、いっしょにがんばろーっ！」
+display
+com11 0 1
+sound 115
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「宿題も、二人でやろーっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……こらっ」
+display
+com11 0 1
+sound 116
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （多忙な日々が続いてるし……。私生活も、
+line2 <shift> # できる限り、サポートしてやらないとな）
+com09 0 39
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「考えとくよ」
+display
+com11 0 1
+sound 117
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あ、えーと、いつまでにっ？
+line2 <shift> # ご、５秒くらいですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そんなにすぐ？」
+display
+com11 0 1
+sound 118
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「だってー、先生に、これからは大丈夫ですって
+line2 <shift> # 言いたいから……。あの〜、どうでしょう？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わ、わかったよ。それじゃ、たまにな」
+display
+com11 0 1
+sound 119
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「わ、ほんとですね！
+line2 <shift> # よーし、がんばろーっと！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……押し切られてしまった。これなら、
+line2 <shift> # すんなりＯＫしておくべきだったか？）
+com09 0 39
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それは、ちょっと……」
+display
+com11 0 1
+sound 120
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「だ、ダメですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今のスケジュールじゃ、そんな時間、
+line2 <shift> # とてもつくれないだろ？」
+display
+com11 0 1
+sound 121
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うう、そうかも〜。
+line2 <shift> # いいアイディアだと思ったのに……」
+display
+com11 0 1
+sound 122
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「これから内容、ドンドンむずかしくなるし、
+line2 <shift> # すこし不安で〜……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんとか、乗り切ろう」
+display
+com11 0 1
+sound 123
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はーい。努力します〜……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （言葉だけでしか、励ましてやれないのが、
+line2 <shift> # すこし情けないな……）
+com09 0 39
+display
+location 39
+unk02

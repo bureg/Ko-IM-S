@@ -1,0 +1,243 @@
+com2c 0 49
+com2d 0 11
+com32 0 0
+com11 0 3
+sound 100
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「一日署長、ですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。交通安全キャンペーンの看板として、
+line2 <shift> # 春香が抜擢されたよ」
+display
+com11 0 3
+sound 101
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「わぁ、なんだか嬉しいですね♪　でも、
+line2 <shift> # どうして私が選ばれたのかなぁ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだなあ、それは春香が……」
+com03 0 3
+choice1 <shift> # 平和そうだから
+line2
+com09 0 10
+com08
+choice2 <shift> # 安全そうだから
+line2
+com09 0 11
+com08
+choice3 <shift> # 危険そうだから
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「春香が平和そうな、みんなをなごませる
+line2 <shift> # イメージを持ってるからじゃないかなぁ」
+display
+com11 0 3
+sound 102
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「えっ……、平和そう？
+line2 <shift> # 私、そんな感じします？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「少なくとも、おっかない感じはしないよ。
+line2 <shift> # それでいて、おとなしいわけではないし」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それから、たとえ転んでも泣かない。
+line2 <shift> # 怪我しない。大事故とは無縁……だろう？」
+display
+com11 0 3
+sound 103
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「えへへ……転んでも平気ってことには、
+line2 <shift> # ちょっと自信があります！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （自信あったのか……）
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「春香が安全そうな、とても事故なんか
+line2 <shift> # 起こしそうにないイメージだからかな」
+display
+com11 0 3
+sound 104
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ええっ、そ、そうですか？
+line2 <shift> # 私、時々転んだりしますよ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ま、まあ、たまには派手に転ぶが……、
+line2 <shift> # 大ケガはしないだろう？　つまり安全だ！」
+display
+com11 0 3
+sound 105
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ああ、なるほどぉ……確かに、
+line2 <shift> # ケガしないのには自信があります！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「安全さを訴えるキャンペーンには
+line2 <shift> # 春香がうってつけというわけだよ」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、春香が危険そうだからじゃ
+line2 <shift> # ないかなぁ……」
+display
+com11 0 3
+sound 106
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ぷ、プロデューサーさんっ！？
+line2 <shift> # 何で私が危険なんですか！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ……危険は言い過ぎだ。スマン。
+line2 <shift> # 危なっかしいって感じだよ。よく転ぶし」
+display
+com11 0 3
+sound 107
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「むっ、よく転んですみませんねっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、いや……転んだって大怪我したりしない
+line2 <shift> # ってこと。危なっかしいけど平気だ。安全だ」
+display
+com11 0 3
+sound 108
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「うーん、なんだか納得したような、
+line2 <shift> # しないような」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「な？　そういう意味で、交通安全キャンペーン
+line2 <shift> # には、春香がぴったりだと思うけどなぁ」
+com09 0 29
+display
+location 29
+com11 0 3
+sound 109
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あの、ところで……一日署長って、
+line2 <shift> # 何をしたらいいんでしょう？」
+display
+com11 0 3
+sound 110
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「警察署長さんの仕事、大変じゃないですか。
+line2 <shift> # ちゃんと私に、できるのかなぁ？」
+com03 0 2
+choice1 <shift> # 格好だけでかまわないよ
+line2
+com09 0 30
+com08
+choice2 <shift> # 無理っぽいなぁ
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それは、あんまり気にしなくても……。
+line2 <shift> # 格好だけで、かまわないと思うよ」
+display
+com11 0 3
+sound 111
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「格好だけで、いいんでしょうか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「一日署長といっても、丸一日、本物の署長の
+line2 <shift> # 仕事をさせられるわけじゃないんだぞ？」
+display
+com11 0 3
+sound 112
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「えっ！　そうなんですかっ！？」
+display
+com11 0 3
+sound 113
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「書類にハンコとか、押さなきゃ
+line2 <shift> # いけないのかと思ってましたよ、私」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ははは……交通安全キャンペーンのアピールが
+line2 <shift> # きちんとできれば、問題ないよ」
+display
+com11 0 3
+sound 114
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そうだったんですか。ああ、なんだ……。
+line2 <shift> # それならばっちり、できそうです！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （少し緊張していたようだったけど、
+line2 <shift> # 春香は自信を持ってくれたみたいだ）
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ははは、それは無理っぽいなぁ」
+display
+com11 0 3
+sound 115
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「わ、笑わないでくださいよっ！
+line2 <shift> # 確かに、無理かもしれませんけどぉ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、ゴメンゴメン。でも、そんなに
+line2 <shift> # 気にすることないんじゃないかなぁ」
+display
+com11 0 3
+sound 116
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「どうしてですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「別に本物の署長さんの仕事を
+line2 <shift> # 真似する必要はないんだしさ」
+display
+com11 0 3
+sound 117
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ええっ、でも……、いい加減な仕事したら、
+line2 <shift> # 署長さんに申し訳ないですよっ」
+display
+com11 0 3
+sound 118
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「たとえば犯人タイホーってときとか！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、春香は交通安全のアピールさえ
+line2 <shift> # できればいいんだって……」
+display
+com11 0 3
+sound 120
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「うまくいかなくて、警察のイメージダウンに
+line2 <shift> # なったりしたら、困るじゃないですかぁ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うーん、春香を少々怒らせてしまったか。
+line2 <shift> # 仕事に悪影響が出てしまいそうだよ……）
+com09 0 49
+display
+location 49
+unk02

@@ -1,0 +1,777 @@
+com2c 0 119
+com2c 0 118
+com2d 0 23
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よくやったぞ、伊織！
+line2 <shift> # ついに、ＩＵ本選への切符、手に入れたな！」
+display
+com11 0 0
+sound 10000
+com4c 0 1
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ま、やっぱり私は、すごいってことが、
+line2 <shift> # 証明されたわね！　にひひっ♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、伊織……」
+com03 0 3
+choice1 <shift> # このまま突っ走るぞ！
+line2
+com09 0 10
+com08
+choice2 <shift> # 本選も楽勝だな！
+line2
+com09 0 11
+com08
+choice3 <shift> # 油断は大敵だ！
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「このまま突っ走るぞ！
+line2 <shift> # もちろん目標は、ＩＵ優勝、それだけだ！」
+display
+com11 0 0
+sound 10001
+com4c 0 1
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そうね。私達は、２人ですものね。
+line2 <shift> # アイツとは違う……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （伊織、少しは自分を取り戻してるけど、
+line2 <shift> # まだいつもの調子には、ほど遠いな……）
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「本選も楽勝だな！」
+display
+com11 0 0
+sound 10002
+com4c 0 1
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……アンタが言うほど、甘くないでしょうね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （伊織、やはり貴音のことを、
+line2 <shift> # 気にしているのか……）
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「油断は大敵だ！　突破したのは予選で、
+line2 <shift> # 大事なのは本選なんだぞ！」
+display
+com11 0 0
+sound 10003
+com4c 0 1
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……そんなこと、アンタに言われなくても、
+line2 <shift> # 百も承知よ」
+display
+com11 0 0
+sound 10004
+com4c 0 1
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「せっかく、勝って、少しはいい気分だったのに、
+line2 <shift> # ヘコんじゃうじゃない……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （くっ、伊織のやる気を、思いっきりそいで
+line2 <shift> # しまった……。こんなはずじゃなかったのに）
+com09 0 19
+display
+location 19
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「伊織……。やっぱり、まだ貴音のことが、
+line2 <shift> # 気にかかるんだな？」
+display
+com11 0 0
+sound 10005
+com4c 0 1
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……そうね。オーディション前の、
+line2 <shift> # アイツの言葉と自信」
+display
+com11 0 0
+sound 10006
+com4c 0 1
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「私も自分が自信家なことは、
+line2 <shift> # 薄々、感づいていたけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「う、薄々なんだ……」
+display
+com11 0 0
+sound 10007
+com4c 0 1
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ＩＵ優勝に関して、アイツほどの自信はないわ。
+line2 <shift> # ……早く、自信を取り戻したいんだけどね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （せっかく、本選進出が決まったのに、
+line2 <shift> # このままじゃ……。よし！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「伊織、ＩＵ本選出場祝いだ！　何でもごちそう
+line2 <shift> # してやるから、元気を出そう！　な？」
+display
+com11 0 0
+sound 10008
+com4c 0 1
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……本当！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、でも、やっぱり何でもというのは、
+line2 <shift> # ナシの方向で……」
+display
+com11 0 0
+sound 10009
+com4c 0 1
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ふふふ……。一度言った言葉をひっこめるのは、
+line2 <shift> # プロデューサー失格よ♪　さ、行きましょう！」
+display
+com11 0 0
+sound 10010
+com4c 0 1
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そうねえ、まあ、給料３ヶ月分くらいの
+line2 <shift> # オゴリで、許してあげるわ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……こ、婚約指輪級の飯って、一体どんな飯
+line2 <shift> # なんだ！　俺は、どうなってしまうんだ！？）
+display
+com22 0 30
+com21 0 30
+com32 0 1
+com11 0 0
+sound 10011
+com4c 0 2
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ぷは〜、おいしかったわね！
+line2 <shift> # あのスッポンのスープは絶品だったわ〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「本当に、この世の中には、
+line2 <shift> # あんな値段の食い物屋が存在するんだな……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「一体、今日の予算で、俺は、
+line2 <shift> # 何杯の牛丼が食えたんだろう……」
+display
+com11 0 0
+sound 10012
+com4c 0 2
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「もう〜、おいしいものが食べられたんだから、
+line2 <shift> # いつまでも、しんきくさい顔しないでよね」
+display
+com11 0 0
+sound 10013
+com4c 0 2
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「この程度の食べ物でビビッてたら、とても、
+line2 <shift> # 水瀬家の一員には……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ん？　伊織の家が、どうかしたのか？」
+display
+com11 0 0
+sound 10014
+com4c 0 2
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「あ、ううん、何でもないわ、何でも……。
+line2 <shift> # それより、そろそろ事務所に戻りましょ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、その前に……、その、トイレに……」
+display
+com11 0 0
+sound 10015
+com4c 0 2
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ええ〜っ！？　アンタって、ホンッとデリカ
+line2 <shift> # シーないのね！　もう、早く行きなさいよ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それじゃあ、向こうの公衆トイレに、
+line2 <shift> # 行ってくる。……あ、あれ？」
+display
+com11 0 0
+sound 10016
+com4c 0 2
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「どうしたの？　もしかして、
+line2 <shift> # もらしちゃったんじゃないでしょうね！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなことあるわけないだろ！　……ほら、
+line2 <shift> # あそこの人影。あれってさ、もしかして……」
+display
+com11 0 0
+sound 10017
+com4c 0 0
+name 0 3 <names:3>  # President Kuroi
+line1 <shift> # 「どういうことだい、貴音ちゃん？」
+display
+com11 0 0
+sound 10018
+com4c 0 4
+name 0 0 <names:4>  # Takane
+line1 <shift> # 「水瀬伊織と私の実力は、ほぼ同じ、と、
+line2 <shift> # お話ししたはずです」
+display
+com11 0 0
+sound 10019
+com4c 0 2
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「黒井社長と四条貴音……！
+line2 <shift> # どうして、こんなところに……」
+display
+com22 0 30
+com21 0 30
+com32 0 1
+com11 0 0
+sound 10020
+com4c 0 0
+name 0 3 <names:3>  # President Kuroi
+line1 <shift> # 「まったく、予定外だよ……。本来ならば、
+line2 <shift> # ７６５プロなど、とっくに予選落ちのはず」
+display
+com11 0 0
+sound 10021
+com4c 0 0
+name 0 3 <names:3>  # President Kuroi
+line1 <shift> # 「私は、どんな汚い手を使っても、
+line2 <shift> # やつらを蹴落とせと言ったはずだよ？」
+display
+com11 0 0
+sound 10022
+com4c 0 4
+name 0 0 <names:4>  # Takane
+line1 <shift> # 「そのようなこと、私の誇りが許しません」
+display
+com11 0 0
+sound 10023
+com4c 0 4
+name 0 0 <names:4>  # Takane
+line1 <shift> # 「汚い手を使わなくとも、実力で、
+line2 <shift> # 退けてみせます」
+display
+com11 0 0
+sound 10024
+com4c 0 0
+name 0 3 <names:3>  # President Kuroi
+line1 <shift> # 「貴音ちゃん……。私は君を買っている。
+line2 <shift> # いや、崇拝していると言ってもいい」
+display
+com11 0 0
+sound 10025
+com4c 0 0
+name 0 3 <names:3>  # President Kuroi
+line1 <shift> # 「ルックス、ダンス、歌、そして生まれ。
+line2 <shift> # 君は、まさに、プリンセスの名にふさわしい！」
+display
+com11 0 0
+sound 10026
+com4c 0 0
+name 0 3 <names:3>  # President Kuroi
+line1 <shift> # 「だが……、それもすべて『勝てば』の話だ。
+line2 <shift> # もし、負けるようなことがあれば……」
+display
+com11 0 0
+sound 10027
+com4c 0 4
+name 0 0 <names:4>  # Takane
+line1 <shift> # 「……私は、負けません」
+display
+com11 0 0
+sound 10028
+com4c 0 0
+name 0 3 <names:3>  # President Kuroi
+line1 <shift> # 「そう願うよ。なんせ、負ければ君は……」
+display
+com11 0 0
+sound 10029
+com4c 0 4
+name 0 0 <names:4>  # Takane
+line1 <shift> # 「黒井殿」
+display
+com11 0 0
+sound 10030
+com4c 0 0
+name 0 3 <names:3>  # President Kuroi
+line1 <shift> # 「おっと、これは私が言わなくても、
+line2 <shift> # 君が一番、よくわかっていることだったな」
+display
+com11 0 0
+sound 10031
+com4c 0 0
+name 0 3 <names:3>  # President Kuroi
+line1 <shift> # 「君の勝利と、７６５プロの惨敗を、
+line2 <shift> # 心から願っているよ」
+display
+com11 0 0
+sound 10032
+com4c 0 0
+name 0 3 <names:3>  # President Kuroi
+line1 <shift> # 「あと、君の大切な、故郷の民のためにもね」
+display
+com11 0 0
+sound 10033
+com4c 0 4
+name 0 0 <names:4>  # Takane
+line1 <shift> # 「……っ！？」
+display
+com22 0 30
+com21 0 30
+com32 0 1
+com11 0 0
+sound 10034
+com4c 0 2
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「な、なんなのよ、あれは？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わからない……。でも、どうやら黒井社長と
+line2 <shift> # 貴音は、上手くやっている訳でもないみたいだ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （貴音は、黒井社長に俺達を妨害するよう指示
+line2 <shift> # されていたのに、それを無視していたのか……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （貴音、俺達のために……、
+line2 <shift> # あんなに責められて……）
+display
+com11 0 0
+sound 10035
+com4c 0 4
+name 0 0 <names:5>  # ???
+line1 <shift> # 「……うっ、ぐすっ……！」
+display
+com11 0 0
+sound 10036
+com4c 0 2
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……えっ？　こ、この泣き声って……」
+display
+com22 0 30
+com21 0 30
+com32 0 1
+com11 0 0
+sound 10037
+com4c 0 4
+name 0 0 <names:4>  # Takane
+line1 <shift> # 「ぐすっ……。次は、もう本選……。
+line2 <shift> # 私は……、勝てないかもしれません……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あれは……、貴音が、泣いている……）
+display
+com11 0 0
+sound 10038
+com4c 0 4
+name 0 0 <names:4>  # Takane
+line1 <shift> # 「負ければ、私の活躍を期待している、
+line2 <shift> # 故郷の皆の期待を裏切ることになってしまう」
+display
+com11 0 0
+sound 10039
+com4c 0 4
+name 0 0 <names:4>  # Takane
+line1 <shift> # 「負けてしまったら、私は……。
+line2 <shift> # 私は、どうすれば……」
+display
+com11 0 0
+sound 10040
+com4c 0 4
+name 0 0 <names:4>  # Takane
+line1 <shift> # 「情けない……。水瀬伊織に、あれだけのことを
+line2 <shift> # 言っておいて、本当は、こんなにも……」
+display
+com11 0 0
+sound 10041
+com4c 0 4
+name 0 0 <names:4>  # Takane
+line1 <shift> # 「階段をのぼるごとに、不安がつのってゆく……。
+line2 <shift> # でも、私は１人で、のぼらなければ……」
+display
+com11 0 0
+sound 10042
+com4c 0 4
+name 0 0 <names:4>  # Takane
+line1 <shift> # 「うう……。いけ、ない……。
+line2 <shift> # こんなところ、誰かに……、見られては……！」
+display
+com22 0 30
+com21 0 30
+com32 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （貴音は、立ち去ったみたいだ……）
+display
+com11 0 0
+sound 10043
+com4c 0 2
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「…………」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （伊織は驚いて、声も出ないようだな。
+line2 <shift> # 無理もない……。俺も驚いた……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……いや、俺は、はじめて貴音に会った時から、
+line2 <shift> # わかっていたんだ。本当は）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （貴音がギリギリでやっているってことを。
+line2 <shift> # 貴音が、孤独な王女であることを……）
+display
+com11 0 0
+sound 10044
+com4c 0 2
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……ふ、ふん！　アイツ、本当は全然、
+line2 <shift> # 余裕なんか、ないんじゃない」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……伊織）
+display
+com11 0 0
+sound 10045
+com4c 0 2
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「普段から、しれーっとした顔してるから、
+line2 <shift> # 怪しいと思ってたのよねっ！」
+display
+com11 0 0
+sound 10046
+com4c 0 2
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「きっと、私が迫ってくるプレッシャーに、
+line2 <shift> # 耐えられなくなったのね。にひひっ♪」
+display
+com11 0 0
+sound 10047
+com4c 0 2
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「プロデューサー、これで私達の勝利は、間違い
+line2 <shift> # ないわ！　はぁ〜、怖がってて損しちゃった」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……伊織。そんな態度じゃ、
+line2 <shift> # 間違いなく、お前は負けるぞ」
+display
+com11 0 0
+sound 10048
+com4c 0 2
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……どうしてよ。だって、アイツは、
+line2 <shift> # 私達をダマしてたのよ！？」
+display
+com11 0 0
+sound 10049
+com4c 0 2
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「本当は、アイツ、あんなにいっぱいいっぱいで、
+line2 <shift> # あんななのに、私に、いつも偉そうに……！」
+display
+com11 0 0
+sound 10050
+com4c 0 2
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「自分に負けてるようなヤツに、
+line2 <shift> # 私は絶対に負けないわ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……あの貴音の涙を見て、伊織は、
+line2 <shift> # それだけしか感じなかったのか？」
+display
+com11 0 0
+sound 10051
+com4c 0 2
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……え」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「伊織、あの涙は……」
+com03 0 3
+choice1 <shift> # 必死の覚悟の表れだ！
+line2
+com09 0 20
+com08
+choice2 <shift> # ＩＵへの恐れの表れだ！
+line2
+com09 0 21
+com08
+choice3 <shift> # 腹痛だったんだ！
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「必死の覚悟の表れだ！　貴音は、それだけの
+line2 <shift> # 思いを持って、このＩＵを戦っているんだ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「背負っているものが重いからこそ、
+line2 <shift> # 余裕なんて何もないからこそ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なりふりかまわず、全力を出してくる！
+line2 <shift> # あの涙は弱さだけじゃなくて……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「決意の表れでもあるんだ！」
+display
+com11 0 0
+sound 10052
+com4c 0 2
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「決意……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺の言葉は、素直に伊織に届いたみたいだ）
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ＩＵへの恐れの表れだ！　ＩＵには、
+line2 <shift> # 魔物が住んでいると言われる」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あの貴音ですら、恐怖しているんだ。
+line2 <shift> # もっと危機感を持たないと！」
+display
+com11 0 0
+sound 10053
+com4c 0 2
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そ、そうだったの？」
+display
+com11 0 0
+sound 10054
+com4c 0 2
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「でもアイツ、黒井社長になにか言われてて、
+line2 <shift> # 泣いてた気がしたけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああっ！　そ、そうか。ええと……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「き、きっと、黒井社長も、ＩＵの恐さを知って
+line2 <shift> # いるから、ああいうことを言ったんだ！」
+display
+com11 0 0
+sound 10055
+com4c 0 2
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「と、とりあえず、あの涙は、それでもＩＵに、
+line2 <shift> # 出ようとする、貴音の決意の涙でもある」
+display
+com11 0 0
+sound 10056
+com4c 0 2
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「決意の涙……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ちょっと失敗したけど、最後には伊織に、
+line2 <shift> # 俺の言いたいこと、伝わったみたいだ）
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「腹痛だったんだ！」
+display
+com11 0 0
+sound 10057
+com4c 0 2
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「え……？　アンタ、
+line2 <shift> # それ自分のこと言ってるんじゃないの？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「はっ！　つ、つい自分の思いが、
+line2 <shift> # 口をついて……！　いや、腹痛ではなくて」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あの涙は、耐える時の苦しみからくる涙だ。
+line2 <shift> # つまり、それだけの決意を秘めた涙なんだ！」
+display
+com11 0 0
+sound 10058
+com4c 0 2
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「決意の涙……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、そうだ」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 10059
+com4c 0 2
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「アイツの気持ち、わからなくもないわ。
+line2 <shift> # 私も、昔はよく１人で涙を流していたから……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「い、伊織……」
+display
+com11 0 0
+sound 10060
+com4c 0 2
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「アンタには、きいて欲しいの。……私はね、
+line2 <shift> # 家ではいつも、兄さん達と比較されてたわ」
+display
+com11 0 0
+sound 10061
+com4c 0 2
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「兄さんは出来が良いわね、とか、兄さんは、
+line2 <shift> # 家を継ぐから気をつけてね、とか」
+display
+com11 0 0
+sound 10062
+com4c 0 2
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「私は『私の方がスゴイのに』って思って、子ど
+line2 <shift> # もの頃はベッドで声を殺しながらよく泣いてた」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……伊織」
+display
+com11 0 0
+sound 10063
+com4c 0 2
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「その度に、絶対負けないって、何度も何度も、
+line2 <shift> # 心の中で誓ってた。ずっと、誓ってた……」
+display
+com11 0 0
+sound 10064
+com4c 0 2
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「アイツのことが、何となく気になってたのは、
+line2 <shift> # アイツが、実は……」
+display
+com11 0 0
+sound 10065
+com4c 0 2
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「私と一緒で、余裕も威厳もない、ニセモノの
+line2 <shift> # 王女だったから、かもしれないわね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなことはないさ。俺には、
+line2 <shift> # ひたすらまっすぐに頂点を目指していて……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「時々、泣いたりしたとしても、それでも、
+line2 <shift> # その瞳が見ている方向が、上なのならば……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「立派な王女候補だと思うぞ。
+line2 <shift> # 伊織も、そして貴音も……」
+display
+com11 0 0
+sound 10066
+com4c 0 2
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「伊織が本物の王女になれるかどうかは、
+line2 <shift> # まだまだ、これからだと思う」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もっとも、今でも伊織は、俺から見れば、手の
+line2 <shift> # 届かないところにいる、まるで月のような……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「王女さまみたいなものだけどな」
+display
+com11 0 0
+sound 10067
+com4c 0 2
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……なんだか、ちょっとキザなこと、言い過ぎ
+line2 <shift> # じゃない？　熱でもあるんじゃないの？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「熱なんてないさ……。あ、でも……、
+line2 <shift> # トイレに行きたかったんだった……」
+display
+com11 0 0
+sound 10068
+com4c 0 2
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「うう、デリカシーなさすぎ……。
+line2 <shift> # もう〜、ほら、それじゃあ帰るわよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うう、は、はい……」
+display
+com11 0 0
+sound 10069
+com4c 0 2
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……ふふ、なんだか、昔のことを、
+line2 <shift> # 思い出したら、アイツが怖くなくなったわ」
+display
+com11 0 0
+sound 10070
+com4c 0 2
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「私に足りなかったのは決意……。そう、
+line2 <shift> # 世界に味方は自分しかいなかった時の決意」
+display
+com11 0 0
+sound 10071
+com4c 0 2
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「私、ＩＵで優勝するわ。……きっと！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （伊織は、そう言うと、ずっと月を眺めていた。
+line2 <shift> # 昔の自分に出会って話しかけているように……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （何だか、月を眺めている伊織を見ていると、
+line2 <shift> # 俺は伊織にとって必要がないみたいな気が……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……いや、俺は俺のできることをするだけだ。
+line2 <shift> # だって俺は、伊織の下僕なんだから）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……うう、いつの間にか俺、
+line2 <shift> # すっかり教育されている気がしてきた）
+com09 0 99
+display
+location 99
+unk02

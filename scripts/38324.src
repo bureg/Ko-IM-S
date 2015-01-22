@@ -1,0 +1,330 @@
+com2c 0 24
+com2d 0 71
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「『クラス委員にしたいアイドルＮｏ．１』
+line2 <shift> # に、選ばれたそうだな……。受賞おめでとう」
+display
+com11 0 1
+sound 700
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ええっ？　あ、ありがとうございます……、っ
+line2 <shift> # て、一体どんな賞なんですかそれはっ。変なの」
+display
+com11 0 1
+sound 701
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「まぁ、実際、学校でもクラス委員だけど……。
+line2 <shift> # なんで、こんな賞に選ばれちゃったんだろ、私」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そりゃもちろん、アイドルとしての律子も、
+line2 <shift> # クラス委員っぽい雰囲気だからだろう」
+display
+com11 0 1
+sound 702
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「だ、だからっ、それっていったい、
+line2 <shift> # どんな雰囲気なんですかぁ」
+com03 0 2
+choice1 <shift> # しっかり者の雰囲気
+line2
+com09 0 10
+com08
+choice2 <shift> # 口うるさい雰囲気
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「しっかり者の雰囲気だ」
+display
+com11 0 1
+sound 703
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そうかな？　人から頼られたり信頼されたり
+line2 <shift> # する感じには、思われてなさそうだけど……」
+display
+com11 0 1
+sound 704
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ほら、私って、人当たりきついときあるし、
+line2 <shift> # 結構、わがままなところもあるから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、ひとまず、仕事の現場は任せて安心、
+line2 <shift> # ってイメージじゃないか？　律子って」
+display
+com11 0 1
+sound 705
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「う〜ん、『ひとまず』が引っかかるけど、
+line2 <shift> # プロデューサーから、おほめに預かり光栄です」
+display
+com11 0 1
+sound 706
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「仕事に関しては、ばっちりしっかりがモットー
+line2 <shift> # だから、それが評価されてるなら、嬉しいかな」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「口うるさそうな雰囲気だな」
+display
+com11 0 1
+sound 707
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「わ、悪かったですねぇ、口うるさくて」
+display
+com11 0 1
+sound 708
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「私って、周りからも、小言が得意そうな
+line2 <shift> # イメージで見られてるのか……。はぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そう、しょげるなって」
+display
+com11 0 1
+sound 709
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「しょげてませんっ！　プロデューサー、
+line2 <shift> # ときどき、ひと言多いですよ？」
+display
+com11 0 1
+sound 732
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ナイーブなアイドルを扱うならもっと優しく！
+line2 <shift> # 厳しさは、あくまで愛のムチ的に使わなきゃ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。やっぱりそれだ、その雰囲気だ、律子。
+line2 <shift> # 見事な説教を繰り出すその様が委員長的なんだ」
+display
+com11 0 1
+sound 711
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ええっ！？　む、むむむ……。
+line2 <shift> # ああ、否定できないかもっ」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それでは律子、これからも、
+line2 <shift> # 芸能界の学級委員として、がんばれ」
+display
+com11 0 1
+sound 712
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ど、どんな役目なんですか、いったいそれはっ。
+line2 <shift> # 聞いたことないですよぉ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まぁ、ぶつぶつ文句を言うな。それが律子の、
+line2 <shift> # 芸能界での、生きる道かもしれないんだぞ？」
+display
+com11 0 1
+sound 713
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「学級委員ねぇ……。いい加減、
+line2 <shift> # そういう役職から、離れたい気もするんだけど」
+display
+com11 0 1
+sound 714
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「で、プロデューサーの考える『芸能界の
+line2 <shift> # 学級委員』って、つまり、なんなんです？」
+com03 0 3
+choice1 <shift> # 一番仕切る役
+line2
+com09 0 30
+com08
+choice2 <shift> # 一番目立つ役
+line2
+com09 0 31
+com08
+choice3 <shift> # 一番地味な裏方
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そりゃ、委員だからな。仕切る役だ」
+display
+com11 0 1
+sound 715
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「まぁ、多少はね。でも、仕切るって言っても、
+line2 <shift> # たかがしれてるけど……」
+display
+com11 0 1
+sound 716
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「仲間内で、ちょっとものが決まらないときに、
+line2 <shift> # 決定を促してみるくらいですよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「つまり、それって、律子が、
+line2 <shift> # 俺に対して、よくすることだな」
+display
+com11 0 1
+sound 717
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「え〜っ。私、別に、プロデューサーの意見を、
+line2 <shift> # 仕切ってるわけじゃないですよ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、俺が迷ったりしたときに、律子が、
+line2 <shift> # 背中を押してくれるのは、むしろありがたいぞ」
+display
+com11 0 1
+sound 718
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そ、そうかなぁ？　その程度のことでいいって
+line2 <shift> # いうなら、これからも、続けてもいいけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「これからも、よろしくな。
+line2 <shift> # 頼りにしてますよ、律子委員長どの？」
+display
+com11 0 1
+sound 719
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「はいはい、まかせなさいって」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （呆れたように見せながら、律子はまんざらでも
+line2 <shift> # ないようだ……。本当、頼りにしてるからな）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「委員といえば偉い、目立つ役だ」
+display
+com11 0 1
+sound 720
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そんな、肩書きだけでしょ。委員長なんて、
+line2 <shift> # 立派な言われ方をしても、実際は雑用よ」
+display
+com11 0 1
+sound 721
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「クラスの決め事をまとめたり、連絡事を、
+line2 <shift> # 伝えたり……、あとは形ばかりの責任者、かな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いわば、中間管理職か。
+line2 <shift> # ははは。まるで、俺のようだ」
+display
+com11 0 1
+sound 722
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「え？　プロデューサーは、
+line2 <shift> # うちらの仕事上のトップでしょ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、俺は、社長から雇われの身だし、
+line2 <shift> # 大手クライアントと関われば、板ばさみだ」
+display
+com11 0 1
+sound 723
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あはは、確かにね。いろいろ大変そうねぇ……。
+line2 <shift> # お互い、苦労が絶えないって感じかな？」
+display
+com11 0 1
+sound 724
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「でも、お互い、がんばりますかぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだな。お互い、がんばろう。
+line2 <shift> # 俺がサボってたら、律子、しかってくれ」
+display
+com11 0 1
+sound 725
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「まかせなさいって。プロデューサーも、
+line2 <shift> # 私がサボってたら、ちゃんと怒って下さいね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そりゃあ……、で、できれば、
+line2 <shift> # そうしようかな？」
+display
+com11 0 1
+sound 726
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「な、なんで、そこで言いよどむんですかぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （むくれてみせながらも、律子は、
+line2 <shift> # 受賞には、まんざらでもないようだな……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今後も頼りにしてるぞ、律子委員長）
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「委員とはつまり、多少、損なところも、
+line2 <shift> # 周りから引き受ける、裏方だな」
+display
+com11 0 1
+sound 727
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「それって、委員に対する見識が、
+line2 <shift> # 微妙に間違ってますよ、プロデューサー……」
+display
+com11 0 1
+sound 728
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「もっとも、学級委員なんて、面倒な決め事の、
+line2 <shift> # 取りまとめとか、連絡くらいしかしないけどさ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そういう取りまとめとかで、人からうとまれる
+line2 <shift> # こともあるだろう？　損な役回りと感じないか」
+display
+com11 0 1
+sound 729
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「まぁ、他人の手間を背負って、損なこともある
+line2 <shift> # けど、一応、責任のある仕事だと思うな、私は」
+display
+com11 0 1
+sound 730
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「めんどくさいと思うことはあっても、
+line2 <shift> # 別に、イヤとは思わないですよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そっか。きっと性格的に、
+line2 <shift> # 委員に向いてるんだろうなぁ、律子は……」
+display
+com11 0 1
+sound 731
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「プロデューサーは、性格的に、委員に向いて
+line2 <shift> # ないの？　プロデューサーなのに？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、どうなんだろう。自分のことは、
+line2 <shift> # 意外と、俺自身にも、わからないもんだな……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ふたりして、しばらく腕組みして、学級委員と
+line2 <shift> # いうものについて、考えこんでしまった……）
+com09 0 49
+display
+location 49
+unk02

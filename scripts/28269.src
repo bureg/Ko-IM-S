@@ -1,0 +1,375 @@
+com2c 0 48
+com2d 0 41
+com32 0 0
+com11 0 5
+sound 500
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「必要なものの、買い出しですね。でも、
+line2 <shift> # ファンデーションなんて、なんのために？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「撮影とかに、必要だから。
+line2 <shift> # 千早は、化粧とかは？」
+display
+com11 0 5
+sound 501
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「しないです。興味もないので……。
+line2 <shift> # 見た目でごまかすのって、好きになれなくて」
+com03 0 3
+choice1 <shift> # スッピンが、一番？
+line2
+com09 0 10
+com08
+choice2 <shift> # スッポンが、一番？
+line2
+com09 0 11
+com08
+choice3 <shift> # スッテンが、一番？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「スッピンが、一番？」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「スッポンが、一番？」
+display
+com11 0 5
+sound 502
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「は？　スッポン……。亀？」
+com09 0 91
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「スッテンが、一番？」
+display
+com11 0 5
+sound 503
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「は？　スッテン……。ころり？」
+com09 0 91
+display
+location 91
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あああ、まちがえた。スッピンが一番？」
+com09 0 29
+display
+location 29
+com11 0 5
+sound 504
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そう思います。
+line2 <shift> # 勝負は顔ではなくて、やはり歌ですから」
+display
+com11 0 5
+sound 505
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「それに、私、すこし前まで肌荒れがひどかった
+line2 <shift> # んです。だから、化粧どころじゃ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうなのか？　じゃあ、今も？」
+display
+com11 0 5
+sound 506
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「歌の仕事をはじめてからは、だいぶ、
+line2 <shift> # よくなりました。けど、まだ、すこし……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……心配だな。たしかめてみて、いいか？
+line2 <shift> # ちょっと、動かないで」
+com0e 1 146
+com44
+com09 0 30
+com45
+com44
+com09 0 31
+com45
+com44
+com09 0 32
+com45
+com44
+com09 0 33
+com45
+com44
+com09 0 34
+com45
+com44
+com09 0 35
+com45
+com44
+com09 0 36
+com45
+display
+location 30
+com34 0 1
+com11 0 5
+sound 507
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「…………どう？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「気にするほどじゃないよ。これぐらいなら、
+line2 <shift> # 仕事上も問題はないし、すぐよくなる」
+display
+com11 0 5
+sound 508
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そうですか。ありがとうございます」
+com09 0 92
+display
+location 31
+com11 0 5
+sound 509
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……そんな一瞬で、わかりますか？
+line2 <shift> # 遠慮してくれました？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あまりベタベタされるのも、気分が悪いだろ？
+line2 <shift> # 大丈夫。これぐらいなら、すぐよくなる」
+display
+com11 0 5
+sound 510
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「仕事で必要なことなら、別に、気には……。
+line2 <shift> # でも、ありがとうございました」
+com09 0 92
+display
+location 32
+com11 0 5
+sound 511
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサー？
+line2 <shift> # 化粧に、髪は関係ないのでは？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、ヘアコンディションも、大事かと思った
+line2 <shift> # から。肌の方も……、見た感じは、平気だよ」
+display
+com11 0 5
+sound 512
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そうですか。できれば、しっかりと見て……」
+display
+com11 0 5
+sound 513
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「まあ、いいです。別に、
+line2 <shift> # さわってほしいわけでは、ありませんから」
+com09 0 92
+display
+location 33
+com11 0 5
+sound 514
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「う……。プロデューサー、いたい、です」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あああ、ごめん！　手がすべって……」
+display
+com11 0 5
+sound 515
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「気にしないでください。これくらい……。
+line2 <shift> # その、肌の方は、どう見えますか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「見た限りは、大丈夫そうだよ。ごめんな。
+line2 <shift> # 念のため、肌荒れ用のクリームも買っていこう」
+com09 0 93
+display
+location 34
+com11 0 5
+sound 516
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサー？
+line2 <shift> # くちびるも荒れてますか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、そういうわけじゃないけど、
+line2 <shift> # すこし気になって。……お、怒った？」
+display
+com11 0 5
+sound 517
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……別に。た、ただ、肌の方は、どうです？
+line2 <shift> # そっちの方が、気になります」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、見た感じは、平気そうだよ。
+line2 <shift> # 念のため、肌荒れ用のクリームも買っていこう」
+com09 0 93
+display
+location 35
+com11 0 5
+sound 518
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサー？
+line2 <shift> # そんなところは、肌荒れとは関係が……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ご、ごめん。つい寄り道を……」
+display
+com11 0 5
+sound 519
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「いいですけど、肌の方はどうです？
+line2 <shift> # 見ても、わかりませんか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、この感じなら、平気だとは思うよ。
+line2 <shift> # 念のため、肌荒れ用のクリームも買っていこう」
+com09 0 93
+display
+location 36
+com11 0 5
+sound 520
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサー、たしかめるのでは？
+line2 <shift> # もしかして、遠慮して……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う……、ああ。さわって、たしかめるのは、
+line2 <shift> # やりすぎかなって……」
+display
+com11 0 5
+sound 521
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「仕事で必要なことなら、私、気には……。
+line2 <shift> # 見た感じ、どうでしょう？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、この感じなら、平気だとは思うよ。
+line2 <shift> # 念のため、肌荒れ用のクリームも買っていこう」
+com09 0 93
+display
+location 92
+com11 0 5
+sound 522
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「たまには、こうして買い物もいいですね。
+line2 <shift> # 私、誰かと出かけることなんて、ないので……」
+com09 0 49
+display
+location 93
+com11 0 5
+sound 523
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はい……。たまには、こうして買い物もいいで
+line2 <shift> # すね。私、誰かと出かけること、ないから……」
+com09 0 49
+display
+location 49
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「友達とか、家族とかとも？」
+display
+com11 0 5
+sound 524
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ないです。プライベートは、いつもひとりで。
+line2 <shift> # これ、歌手としては、よくないですか？」
+com03 0 3
+choice1 <shift> # そこまで、干渉はしないよ
+line2
+com09 0 50
+com08
+choice2 <shift> # 悪くはないけど……
+line2
+com09 0 51
+com08
+choice3 <shift> # 正直、よくないと思う
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 2
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そこまで、干渉はしないよ」
+display
+com11 0 5
+sound 525
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そう言ってもらえると、うれしいです。
+line2 <shift> # 自分の時間は、すべて歌のために使いたいので」
+display
+com11 0 5
+sound 526
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「遊んでいるヒマは、ないです。
+line2 <shift> # 私、一刻も早く、歌で身を立てて……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （決意を、新たにしている。
+line2 <shift> # ここは、ヘンに口出ししないで、正解かな）
+com09 0 69
+display
+location 51
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「悪くはないけど……。息、つまらないか？
+line2 <shift> # すこしは、人づきあいもした方が……」
+display
+com11 0 5
+sound 527
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「合わせるの、苦手なんです。だったら、
+line2 <shift> # ひとりでいた方が、ずっとラクで……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そうか。
+line2 <shift> # まあ、ムリをしてつき合えとは、言わないけど」
+display
+com11 0 5
+sound 528
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「すみません。こればかりは、
+line2 <shift> # 思うようには、いかなくて……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （瞳を暗くしている。まあ、
+line2 <shift> # 助言は、したわけだから、義務は果たせたか）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「正直、よくないと思う。生活に、
+line2 <shift> # うるおいがないと、歌も枯れてしまいそうだし」
+display
+com11 0 5
+sound 529
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……かもしれませんね。でも、私のまわりには、
+line2 <shift> # 話したいって思う人、そんなにいなくて」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、そうか？
+line2 <shift> # 自分から、距離をとったりしてないか？」
+display
+com11 0 5
+sound 530
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「しています。けど、その方が、落ち着くんです。
+line2 <shift> # 本当は、いけないのかもしれないですけど……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （瞳をそらし、顔を暗くしている。立ち入った
+line2 <shift> # 発言を、しすぎてしまったかもしれない）
+com09 0 69
+display
+location 69
+unk02

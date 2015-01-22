@@ -1,0 +1,287 @@
+com2c 0 32
+com2d 0 73
+com32 0 0
+com11 0 4
+sound 400
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「プロデューサー、これじゃ困りますよ！
+line2 <shift> # たくさんお客が集まったのは、いいけど……」
+display
+com11 0 4
+sound 401
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「人が殺到しすぎ。まともにサイン会の、
+line2 <shift> # 進行なんて、できないですよ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「確かにいかんな……列が乱れてぐちゃぐちゃ
+line2 <shift> # だ、お客さんもかなり騒ぎ始めてる」
+display
+com11 0 4
+sound 402
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「この会場の狭さ、整列のテキトーさ、段取りの
+line2 <shift> # 悪さ。待ってるみんな、イライラして……」
+display
+com11 0 4
+sound 403
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「このままだと、パニックになっちゃいますよ。
+line2 <shift> # ちょっと見込みが甘かったんじゃないですか？」
+com03 0 2
+choice1 <shift> # そうだな、誤算だ
+line2
+com09 0 10
+com08
+choice2 <shift> # 俺のせいじゃないぞ
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだな、誤算だ」
+display
+com11 0 4
+sound 404
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「でしょ？　ミスったでしょ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「しかし、嬉しい誤算でもあるんだ」
+display
+com11 0 4
+sound 405
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「まぁ、それは認めるけど……。お客がこんなに
+line2 <shift> # 集まってくれたのは、ほんと、幸いなんだけど」
+display
+com11 0 4
+sound 406
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「でも、このままじゃマズいでしょ？」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、俺のせいじゃないぞ！」
+display
+com11 0 4
+sound 407
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「あのねぇ……。いいのかプロデューサー君、
+line2 <shift> # そんな、いい加減なことで」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「すまん。でも、予想外の盛況なんだ。
+line2 <shift> # 対策は立ててなかった」
+display
+com11 0 4
+sound 408
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「まぁ、予測を超えてるのは確かね。
+line2 <shift> # 私も、まさかここまでとは、思ってなくて……」
+display
+com11 0 4
+sound 409
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「驚いて、そして、ちょっと嬉しくて……。
+line2 <shift> # ああ、でも、どうにかしないと！」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そもそも、なんでこんなに整列が、
+line2 <shift> # ぐちゃぐちゃなってるんだ」
+display
+com11 0 4
+sound 410
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「人が集まり始めたときに、ちゃんと、
+line2 <shift> # 仕切ってないからじゃないの？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「むむ……。しかし、サインがすぐにさばければ、
+line2 <shift> # 列も自然と流れるから、大丈夫なんじゃ……？」
+display
+com11 0 4
+sound 411
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「でも、そのサインが、全然進まないの。
+line2 <shift> # いくら書いても、来るお客の数が多すぎて」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか、しまったな……。
+line2 <shift> # じり貧に陥るわけだ」
+display
+com11 0 4
+sound 412
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「事前にじゅうぶんな数の色紙用意して、書き
+line2 <shift> # ためておくとか、しておけばよかったのに……」
+display
+com11 0 4
+sound 413
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そのくらいの策は、立てられたでしょ？
+line2 <shift> # ああっ、お待たせしてすみません、お客さん」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「このままだと、状況は悪化するばかりだ。
+line2 <shift> # ひとまず、なんとかしなくちゃな……」
+com03 0 3
+choice1 <shift> # とにかくサインだ
+line2
+com09 0 30
+com08
+choice2 <shift> # とにかく整列だ
+line2
+com09 0 31
+com08
+choice3 <shift> # いったん休けいだ
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「とにかくサインだ。
+line2 <shift> # 律子は、サインと握手に専念してくれ」
+display
+com11 0 4
+sound 414
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「当然！　まかせて下さいよっ。
+line2 <shift> # 片っ端から、どんどんさばきますよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「列整理は、俺が、なんとかする。
+line2 <shift> # 説得して、きれいに並び直してもらうから」
+display
+com11 0 4
+sound 415
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「頼みますよ？　お客の評判、
+line2 <shift> # 落とさないためにも、ここが正念場です」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、俺やスタッフは即座に行動し、サイン
+line2 <shift> # する律子がパンクする前に、再整列が完了した）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （こちらの対応の早さが認められたか、お客さん
+line2 <shift> # の不満も消えたみたいだ。よかった……）
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「とにかく整列が先だ。律子、手伝ってくれ！」
+display
+com11 0 4
+sound 416
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ええっ？　な、なんで私がっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「い、いや、整列指示とか、手馴れてるかもって、
+line2 <shift> # 思って。俺ひとりでは、どうにもならん」
+display
+com11 0 4
+sound 417
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ああもう！　こっちはサインで、
+line2 <shift> # 手一杯だっていうのに……。仕方ないなぁ」
+display
+com11 0 4
+sound 418
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「みなさん、整列にご協力を！　お願いします！
+line2 <shift> # そこから３列に、そっちが最後尾で！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おお、見事な手際！
+line2 <shift> # さすが仕切りがうまいな」
+display
+com11 0 4
+sound 419
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「このくらい、どうってことないですよ。
+line2 <shift> # ……って、見てないで、手伝って下さい！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああっと、いかんいかん。
+line2 <shift> # つい、律子の手腕に見とれた……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （律子のおかげで、スムーズな再整列が完了した。
+line2 <shift> # お客さんからの不満も、特になかったが……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （肝心のサインに手間取り、
+line2 <shift> # サイン会の進行は、かなり遅れてしまった……）
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だ、だめだ。いったん休けいにしよう！」
+display
+com11 0 4
+sound 420
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ええっ！　休んじゃうんですか！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「このままだと、いずれ収拾がつかなくなる。
+line2 <shift> # 一度、あえてサインを止めて、列を作らせよう」
+display
+com11 0 4
+sound 421
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「進行をとめて、お客に、
+line2 <shift> # 自分たちで並んでもらうってこと？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、そうでないと続けられないよ」
+display
+com11 0 4
+sound 422
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「無責任な！　逃げないで下さい。きちんと、
+line2 <shift> # 進行しないと、お客からも呆れられますよ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「責任逃れと言われても仕方ないけど……、下手
+line2 <shift> # にかき回して騒ぎを大きくするよりいいはずだ」
+display
+com11 0 4
+sound 423
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そんなの私、納得できませんよ！」
+display
+com11 0 4
+sound 424
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「もういいです、私が仕切りますから。
+line2 <shift> # 自称プロデューサーさまは、引っ込んでて！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （律子は俺を隅に突き飛ばすと、色紙を放り出し、
+line2 <shift> # 自分ひとりで列整理を、やりはじめた）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （やがて列は整い、お客さんの騒ぎは収まったが
+line2 <shift> # ……、サイン会の進行は大幅に遅れてしまった）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （まずかったな。律子は相当疲れてしまったし、
+line2 <shift> # しばらく俺と、口をきいてくれそうにない……）
+com09 0 49
+display
+location 49
+unk02

@@ -1,0 +1,266 @@
+com2c 0 118
+com2d 0 21
+com32 0 0
+location 0
+com11 0 6
+sound 16000
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ふぅ、今日のコンサート、ホントに最高のデキ
+line2 <shift> # だったわね。持ってる力、全部出し切れたし」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺も、見てて、そう思ったよ。これまででも
+line2 <shift> # 指折りの、素晴らしいステージだった」
+com38 0 3
+com1e 0 0
+com09 0 10
+com3b
+com37 0 2
+com1e 0 0
+com09 0 11
+com3b
+com39 0 1
+com1e 0 0
+com09 0 12
+com3b
+display
+location 10
+com11 0 6
+sound 16001
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「でも正直、今の人気だったら、場所は、
+line2 <shift> # もっと大きなホールでも、イケたんじゃない？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う、たしかに……。実は、惜しいことした
+line2 <shift> # かなって、すこし反省してる……」
+com09 0 19
+display
+location 11
+com11 0 6
+sound 16002
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「歌い終わって、ジーンときちゃったわ。
+line2 <shift> # これだけのライブできるなんて」
+com09 0 19
+display
+location 12
+com11 0 6
+sound 16003
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「まさか、今の人気で、この大きさのホールを、
+line2 <shift> # わかせられるなんて、思ってなかったわー」
+display
+com11 0 6
+sound 16004
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「正直、アンタのこと、ほんのすこし見直した！
+line2 <shift> # 私が思ってる以上の、スゴ腕だったのね♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そう思ってもらえたんなら、なによりだ」
+com09 0 19
+display
+location 19
+com11 0 6
+sound 16005
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「アンタ、この間、言ってたわよね？　『今の
+line2 <shift> # ままじゃ、これ以上の成功は望めない』って」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、言ったけど？」
+display
+com11 0 6
+sound 16006
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「それ、当たってると思うわ。多分、今日以上の
+line2 <shift> # ステージをやるのは、このままじゃ、ムリ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「伊織、それじゃあ……」
+display
+com11 0 6
+sound 16007
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「決めたわっ！　アンタの言う通り、
+line2 <shift> # ここで、いったんオシマイにする！」
+display
+com11 0 6
+sound 16008
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「引退する気は全然ないけど、一息入れるには、
+line2 <shift> # 最高のタイミングよねっ♪」
+display
+com1c 0 3
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わかってくれたか。
+line2 <shift> # 受け入れてくれて、うれしいよ」
+display
+com11 0 6
+sound 16009
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「冷静に考えてみると、今日のホールは、この
+line2 <shift> # 私が最後を飾る場所にしては、オソマツだし〜」
+display
+com11 0 6
+sound 16010
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「いつか、本当の引退コンサートする時には、
+line2 <shift> # バカみたいに、お金かけたいわ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ははは、伊織らしいな。それじゃ、
+line2 <shift> # これからも、その調子で、がんばってな」
+display
+com11 0 6
+sound 16011
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……言うコトは、それだけ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「は？」
+display
+com11 0 6
+sound 16012
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「今日で、私と会うのは、最後なのよっ？
+line2 <shift> # もっとほかに、言うコト、あるでしょ〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、えーと、そうだな。伊織……」
+com03 0 3
+choice1 <shift> # これまで、ありがとう　
+line2
+com09 0 20
+com08
+choice2 <shift> # これまで、よくもやってくれたな！　
+line2
+com09 0 21
+com08
+choice3 <shift> # これまで、だな　
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「これまで、ありがとう」
+display
+com11 0 6
+sound 16013
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そーそー！　がんばったアイドルに、
+line2 <shift> # お礼ぐらい、言わなくちゃね♪」
+display
+com11 0 6
+sound 16014
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「それじゃ、アンタも元気で！　今度は、どこか
+line2 <shift> # で、ライバルとして、会うかもしれないわね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。その時は、お互い、
+line2 <shift> # もっとビッグに、なっていたいよな」
+display
+com1c 0 2
+com4a 0 0
+com11 0 6
+sound 16015
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「うんっ！　せいぜい、この私に、
+line2 <shift> # 小指で、ひねられないようにね。……じゃ！」
+display
+location 110 129 92 129 92 130 177 130 164 130 181 130 196 129 65 137 180 130 170 136 231 130 196 130 189 131 143 131 75 131 125 131 125 150 186 130 205 129 65
+line2 <shift> # 笑顔で、憎まれ口をたたきながら、去っていった。
+display
+location 111 149 202 130 234 141 219 130 201 129 65 151 220 130 205 130 200 130 169 130 193 130 189 129 66 136 201 144 68 130 204 138 231 130 201 130 205 129 65
+line2 <shift> # 一人立ちした自信が、満ちあふれていて……。
+display
+location 112 130 187 130 204 139 173 130 179 130 177 130 187 129 65 137 180 130 198 130 204 138 136 147 174 130 204 146 134 130 197 129 65
+line2 <shift> # 身についたもの。――そう、信じたい。
+com09 0 30
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「これまで、よくもやってくれたな！」
+display
+com11 0 6
+sound 16016
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なんで、最後にケンカ売ってくるのよ〜。やる
+line2 <shift> # 気なら、財力の限りを尽くして、受けて立つわ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、それは反則だよ。……よし。勝負は、これ
+line2 <shift> # からの、お互いの活動で、つけようじゃないか」
+display
+com11 0 6
+sound 16017
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あ、それ、いいわね！　次会う時は、ライバ
+line2 <shift> # ルね。アンタなんか、小指でひねってあげる！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「できるもんなら、やってみろ。まあ、再会する
+line2 <shift> # 時には、お互い、もっと成長していたいよな」
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「これまで、だな」
+display
+com11 0 6
+sound 16018
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「はぁ？　アンタ、なに、ボケかましてるワケ？
+line2 <shift> # これまでなのは、わかりきってるでしょ！」
+display
+com11 0 6
+sound 16019
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「私が聞きたいのは、そんなのじゃないわ。たと
+line2 <shift> # えば、ほら、お礼とか、お礼とか、お礼とか！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、お礼ね。……ま、そのうちな」
+display
+com11 0 6
+sound 16020
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「むっか〜！　いいわよっ。アンタがその気なら、
+line2 <shift> # 明日から、私達は敵同士だわっ」
+display
+com11 0 6
+sound 16021
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「次会う時は、私が、アンタの担当アイドルを、
+line2 <shift> # ケチョンケチョンにしてあげる♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、望むところだ。再会する時には、
+line2 <shift> # お互い、もっとビッグに、なっていたいよな」
+com09 0 29
+display
+location 29
+com4a 0 0
+com11 0 6
+sound 16022
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「うんっ！　対決、楽しみにしてるわ。
+line2 <shift> # ……じゃ！」
+display
+location 100 129 92 129 92 130 177 130 164 130 181 130 196 129 65 137 180 130 170 136 231 130 196 130 189 131 143 131 75 131 125 131 125 150 186 130 205 129 65
+line2 <shift> # 笑顔で、挑戦状をたたきつけて、去っていった。
+display
+location 101 149 202 130 234 141 219 130 201 129 65 151 220 130 205 130 200 130 169 130 193 130 189 129 66 136 201 144 68 130 204 138 231 130 201 130 205 129 65
+line2 <shift> # 一人立ちした自信が、満ちあふれていて……。
+display
+location 102 130 187 130 204 139 173 130 179 130 177 130 187 129 65 137 180 130 198 130 204 138 136 147 174 130 204 146 134 130 197 129 65
+line2 <shift> # 身についたもの。――そう、信じたい。
+display
+location 30
+unk02

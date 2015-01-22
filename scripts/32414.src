@@ -1,0 +1,246 @@
+com2c 0 17
+com2d 0 63
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さて、トーク番組の出番までまだしばらく
+line2 <shift> # 時間あるけど、準備すすんでるかな？」
+display
+com11 0 1
+sound 200
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あぅあぅ……、はらひれほれはれ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ど、どうしたっ雪歩！
+line2 <shift> # 何をそんなに悶えてるんだ」
+display
+com11 0 1
+sound 201
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「し、したがいたいのれすぅ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「舌？」
+com03 0 3
+choice1 <shift> # かんだのか
+com09 0 10
+com08
+choice2 <shift> # ぶつけたのか
+line2
+com09 0 11
+com08
+choice3 <shift> # 辛いものでも食べた？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「か、かんだのか！」
+display
+com11 0 1
+sound 202
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい、噛みました……、いたた」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ぶつけたのか！」
+display
+com11 0 1
+sound 203
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ぶ、ぶつけないですよ……いたた。
+line2 <shift> # ろこにろうやって、ぶつけうんですかぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ははは、なんか微妙に舌足らずだな。
+line2 <shift> # ちょっと面白いな」
+display
+com11 0 1
+sound 204
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「わ、笑わないでくらさい……
+line2 <shift> # 舌噛んだんですよぉ……」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「辛いものでも食べた？」
+display
+com11 0 1
+sound 205
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ち、違いますおぉ……あいたた」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「とうがらしを丸呑みとか、カレーの辛さに
+line2 <shift> # 挑戦しすぎたとか、塩と砂糖を間違えたとか」
+display
+com11 0 1
+sound 206
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「な、なんで知ってるんれすか！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええっ！？　あ、当たってたのか！？」
+display
+com11 0 1
+sound 207
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「いえその、昔そんなことも、いろいろ、
+line2 <shift> # ありましたけろぉ……」
+display
+com11 0 1
+sound 208
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「で、でも、今は違うんれすよ……
+line2 <shift> # 舌噛んだんれす……」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか、とりあえず落ち着け。しかしいったい
+line2 <shift> # なにをやったんだ？　舌噛むなんて」
+display
+com11 0 1
+sound 209
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ、はい。実は早口言葉を練習していて……、
+line2 <shift> # ミスってしまいました」
+display
+com11 0 1
+sound 210
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「私も司会の方のマシンガントークに、ついて
+line2 <shift> # いけるようにって……、思ったんですけど」
+com03 0 2
+choice1 <shift> # その心意気はよし
+line2
+com09 0 30
+com08
+choice2 <shift> # 早口を練習しなくても
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか、その心意気はよし、買った」
+display
+com11 0 1
+sound 211
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ありがとうございます、その、私……、
+line2 <shift> # しゃべりは結構、苦手なので」
+display
+com11 0 1
+sound 212
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「だから、少しでも、
+line2 <shift> # きちんとしゃべれるようになりたくて」
+display
+com11 0 1
+sound 213
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「でも、そう簡単には
+line2 <shift> # うまくいかないですね……、ううっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まあまあ、別に早くなくていいんだ。
+line2 <shift> # 丁寧に、自分の気持ちで話せば」
+display
+com11 0 1
+sound 214
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そうですか……？　うーん、
+line2 <shift> # でも確かに、無理はよくないのかも」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「司会のひとも無理なく
+line2 <shift> # 雪歩に合わせてくれるよ」
+display
+com11 0 1
+sound 215
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そうですね……。わかりました。
+line2 <shift> # 私、マイペースでやってみます」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そして、いざ本番……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （雪歩はけして喋り上手ではなかったが、素直な
+line2 <shift> # 語りで多くの人のハートを、つかんだみたいだ）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ははは……。別に、いま早口言葉を
+line2 <shift> # 練習しなくてもいいじゃないか」
+display
+com11 0 1
+sound 216
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「で、でも、すっきりはっきり
+line2 <shift> # しゃべれるようになりたいんです！」
+display
+com11 0 1
+sound 217
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「私、トークとか苦手だから……。少しでも、
+line2 <shift> # 早くしゃべったほうがいいかなって、思って」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「雪歩が早口でしゃべらなくても大丈夫だろう、
+line2 <shift> # 司会のひとがゆっくり合わせてくれるよ」
+display
+com11 0 1
+sound 218
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「うー、でもそれだと申し訳ないですよ。私が
+line2 <shift> # のんびりなせいで、話のテンポが悪くなったら」
+display
+com11 0 1
+sound 219
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そしたら番組も、退屈に
+line2 <shift> # なっちゃうんじゃないかなって……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そこはなんとかなるさ、
+line2 <shift> # 相手はしゃべりのプロだし」
+display
+com11 0 1
+sound 220
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「でも、だからこそっ……、私もしゃべらないと、
+line2 <shift> # 失礼になるんじゃないかって……、気になります」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「考えすぎだと思うけどなぁ」
+display
+com11 0 1
+sound 221
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「お願いですっ、もう少し
+line2 <shift> # 練習させてください……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （どうしても雪歩は気になるらしく、その後も、
+line2 <shift> # しばらく活舌の練習を続けていた）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そして舌を噛みまくっていた……。おかげで本番も
+line2 <shift> # いつも以上にしゃべれなかったみたいだ……）
+com09 0 49
+display
+location 49
+unk02

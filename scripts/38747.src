@@ -1,0 +1,324 @@
+com2c 0 63
+com2d 0 71
+com32 0 0
+com11 0 2
+sound 900
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「今度の新しいＰＶですけど……、この公園で、
+line2 <shift> # ダンスをするのを撮影するんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、ハンディカメラで、ダンスしてる
+line2 <shift> # 所を、撮ってみたいんだ」
+display
+com11 0 2
+sound 901
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「なるほどねぇ。あ、ちょっと
+line2 <shift> # 撮影プランとコンテ、見せてくださいね」
+display
+com11 0 2
+sound 902
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ふんふんふむふむ……う〜ん、悪くないけど
+line2 <shift> # 少し地味なんじゃないかなあ、このコンテ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうかな？　ドキュメント風に撮りたくて
+line2 <shift> # あえて地味めにしたんだけど」
+display
+com11 0 2
+sound 903
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「でも、なんというか、
+line2 <shift> # 華がないっていうか……」
+com03 0 2
+choice1 <shift> # 派手な要素を加える？
+line2
+com09 0 10
+com08
+choice2 <shift> # このプランで撮りたい
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なら、派手な要素をどこかに
+line2 <shift> # ちょっと加えてみるか……？」
+display
+com11 0 2
+sound 904
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「うんうん、多少は目を惹く要素が欲しいです
+line2 <shift> # よね。プロモーション映像なんだから」
+display
+com11 0 2
+sound 905
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ああっと、プランを全否定するわけじゃ
+line2 <shift> # ないですよ。ただ、スパイスは欲しいかなって」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「このプランのまま撮りたいな。手作り感を
+line2 <shift> # 出したくて、ハンディ使うことにしたんだし」
+display
+com11 0 2
+sound 906
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そっかぁ、手作り感ね。そういう狙いが
+line2 <shift> # あるなら、地味なコンテにも納得するかな」
+display
+com11 0 2
+sound 907
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「でもこのままだと、映像の出来上がりも
+line2 <shift> # 地味になりすぎるかも」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ん、そうか？　そう言われると確かに
+line2 <shift> # ちょっと演出を控えめにしすぎたかもな」
+display
+com11 0 2
+sound 908
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「多少は目を惹く要素が欲しいですよ、
+line2 <shift> # プロモーション映像なんだから」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだな。じゃあ撮り方は抑えめで、
+line2 <shift> # 振り付けが派手めなら、バランス取れそうか？」
+display
+com11 0 2
+sound 909
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ええ、たぶん。振りをアレンジしてみるか……。
+line2 <shift> # さて、どう動こうかなぁ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「しかしあまりバタバタ動かれると
+line2 <shift> # ハンディカメラじゃ追いきれないぞ」
+display
+com11 0 2
+sound 910
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「バタバタはしませんってば。う〜ん、
+line2 <shift> # だけど、どう振りを変えるか……」
+display
+com11 0 2
+sound 911
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ああ、結構ダンス考えるって難しいな」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なぁ、やっぱりカメラのほうも工夫しないか。
+line2 <shift> # ハンディを使うのは変えないとして……」
+display
+com11 0 2
+sound 912
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「あっ、撮り方を少し変えるってこと？　それで
+line2 <shift> # 絵の見た目が多少派手になるなら、いいかな」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうそう、撮り方と編集次第で印象は
+line2 <shift> # 変えられるはずさ。工夫してみよう」
+com03 0 3
+choice1 <shift> # カットを速く
+line2
+com09 0 30
+com08
+choice2 <shift> # アングルを攻撃的に
+line2
+com09 0 31
+com08
+choice3 <shift> # 律子、何かいい提案は？
+line2
+com09 0 32
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「カット割りを一部速く、メリハリつけて
+line2 <shift> # スピーディーにしてみるか」
+display
+com11 0 2
+sound 913
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ふむふむ、速いダンスに速いカット、
+line2 <shift> # スリル満点！」
+display
+com11 0 2
+sound 914
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ゆったりとしたダンスと速いカットを
+line2 <shift> # 組み合わせても、面白そうっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「派手な画面効果がなくても
+line2 <shift> # 編集次第で目が惹けると思うぞ」
+display
+com11 0 2
+sound 915
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「映像のコンセプトを変えずに、印象はがらっと
+line2 <shift> # 変わりそうですね。よし、それに決定っ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （なにか律子に決定されてしまったが、
+line2 <shift> # 俺自身もこの方法を採用することにした）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （律子も撮影のアイディア出しに積極的だ。
+line2 <shift> # いいＰＶになるよう、がんばろう）
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「カメラのアングルとかパースを
+line2 <shift> # 攻撃的にしてみようか」
+display
+com11 0 2
+sound 916
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ふむふむ、鋭角的なパースで
+line2 <shift> # 映像はスリル満点にっ」
+display
+com11 0 2
+sound 917
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ん〜、でも使いどころを考えないと
+line2 <shift> # やたら不安な画面になっちゃいません？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「撮りっぱなしの地味なままよりは、
+line2 <shift> # いいだろう？」
+display
+com11 0 2
+sound 918
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「まぁ、ベタで撮ったのと、特殊アングルを
+line2 <shift> # うまく混ぜれば面白いかな？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだな……。ところで攻撃的なアングルって、
+line2 <shift> # どう撮ったらそう見える？」
+display
+com11 0 2
+sound 919
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ええっ！？　知らずに提案してたんですかっ。
+line2 <shift> # 仕方ないなぁ……」
+display
+com11 0 2
+sound 920
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ひとまずカメラ持って、いろいろ撮り方
+line2 <shift> # 試してみたらどうです？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そうだな。しかしアクロバットな角度で
+line2 <shift> # 撮るには、撮影者にも特殊さが要りそうだなぁ」
+display
+com11 0 2
+sound 921
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「はいはい、カメラの実験するなら、私も
+line2 <shift> # 付き合いますよ？　ったく世話の焼ける……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後はああだこうだと、俺と律子は撮影方法の
+line2 <shift> # 研究にいそしんだ。が……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （カメラアングルにこりすぎて、ＰＶ撮影は、
+line2 <shift> # いっこうに進まなくなってしまった……）
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「律子、何かいい提案はないか、いい工夫は」
+display
+com11 0 2
+sound 922
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「……って、ええっ！？
+line2 <shift> # それも私が考えるんですか？」
+display
+com11 0 2
+sound 923
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「う〜ん、私も案がないわけじゃないけど、
+line2 <shift> # プロデューサーが考えるべきだと思うなぁ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「すまん、でも律子なら、既に名案を
+line2 <shift> # 思いついてるかもと思ってね、きいてみたい」
+display
+com11 0 2
+sound 924
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そうねぇ、私なら……、絵がまったりしすぎない
+line2 <shift> # ように時々カメラアングルやカットを攻撃的に」
+display
+com11 0 2
+sound 925
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「それと、ハンディで撮った手ブレした映像も
+line2 <shift> # 変に修正で直さず、そのまま生かして使うかな」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なるほど、じゃあそのテで行くかな……。
+line2 <shift> # 律子の案でやることに決めよう」
+display
+com11 0 2
+sound 926
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「って、私の思うとおりにやるんですか？
+line2 <shift> # プロデューサーの考えは？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、いい案だから、俺は律子の
+line2 <shift> # アイディアをそのままいただくよ」
+display
+com11 0 2
+sound 927
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ず、ずるいっ。そのまま丸パクリだなんて！」
+display
+com11 0 2
+sound 928
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「プロデューサー、たまにはプロデュース業を、
+line2 <shift> # きちんとやってくださいよぉ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おいおい人聞きの悪い、まるで俺がいつも
+line2 <shift> # サボってるみたいな言い方じゃないか」
+display
+com11 0 2
+sound 929
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ふ〜ん、どうだか……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （なんだか律子に怪訝な目で見られてしまった。
+line2 <shift> # 信用されてないんだろうか、俺）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （あくまで律子の考えを生かして、と思ったんだが
+line2 <shift> # ＰＶ撮影は何かトラブルの予感がするな……）
+com09 0 49
+display
+location 49
+unk02

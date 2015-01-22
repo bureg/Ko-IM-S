@@ -1,0 +1,302 @@
+com2c 0 38
+com2d 0 91
+com2e 0 101
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「老人ホームでのライブ、好評だったな。
+line2 <shift> # さあ、帰ろうか」
+display
+com11 0 4
+sound 600
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「兄ちゃん兄ちゃんー！　あっちにね、
+line2 <shift> # 双子のおばあちゃんが、いたよっ！」
+display
+com11 0 4
+sound 601
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「とっても、なかよしなの！
+line2 <shift> # 真美達のこと、他人とは思えないって！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか。真美達も……」
+com03 0 2
+choice1 <shift> # 負けずに、なかよくな
+line2
+com09 0 10
+com08
+choice2 <shift> # 将来、そうなれるといいな
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「負けずに、なかよくな」
+display
+com11 0 4
+sound 602
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「うん、そうするー！
+line2 <shift> # なるべくケンカしないようにするねっ！」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「将来、そうなれるといいな」
+display
+com11 0 4
+sound 603
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「え？　真美達、おばあちゃんには、
+line2 <shift> # ならないよ？　だって、アイドルだし！」
+display
+com11 0 4
+sound 604
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「そーだよー！　アイドルは、えいえんの
+line2 <shift> # １６歳だって、パパが言ってたもん！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「い、いや、そういう意味じゃなくて、
+line2 <shift> # いつまでも、なかよく……。ま、いいけどな」
+com09 0 29
+display
+location 29
+com11 0 4
+sound 605
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ねえ、兄ちゃん。あのおばあちゃん達って、
+line2 <shift> # ずっとここにいて、ヒマヒマじゃないのかなあ」
+display
+com11 0 4
+sound 606
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「そうだよね〜。真美達が来てない時とかって、
+line2 <shift> # なにしてるんだろ？」
+com03 0 3
+choice1 <shift> # おじいちゃんと恋愛、かな
+line2
+com09 0 30
+com08
+choice2 <shift> # ゲートボールとか、かな
+line2
+com09 0 31
+com08
+choice3 <shift> # 詩の朗読会とか、かな
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おじいちゃんと恋愛、かな」
+display
+com11 0 4
+sound 607
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「あ〜！　ラブラブしてるの〜？
+line2 <shift> # だったら、あんまり退屈じゃないかも〜！」
+display
+com11 0 4
+sound 608
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「んっふっふ〜。おばあちゃん達も、
+line2 <shift> # けっこう、燃えてるんだね〜！」
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ゲートボールとか、かな」
+display
+com11 0 4
+sound 609
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「なんかそれ、つまんなそーだね。
+line2 <shift> # 真美、よくルール知らないけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やれば、案外、おもしろいかもしれないぞ」
+com09 0 91
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「詩の朗読会とか、かな」
+display
+com11 0 4
+sound 610
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ええええ、どうして、そんな授業みたいなコト、
+line2 <shift> # やらなきゃいけないの〜！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ご老人達にとっては、それも娯楽なんだよ」
+com09 0 91
+display
+location 91
+com11 0 4
+sound 611
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「もっと楽しいこと、外にはたくさんあるのに〜。
+line2 <shift> # やっぱり、かわいそうかも……」
+com09 0 49
+display
+location 49
+com11 0 4
+sound 612
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「あ、そーだ！　帰り道に買い物してもいーい？
+line2 <shift> # おばあちゃんに、おこづかい、もらったから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え、本当か？　仕事で来てるんだから、あまり、
+line2 <shift> # そういうのは……。いくら、もらったんだ？」
+display
+com11 0 4
+sound 613
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「んっとね、ひとり１万円ずつ！
+line2 <shift> # 『遠慮しなくていいよ』って！　超ラッキ〜☆」
+com03 0 3
+choice1 <shift> # 半分、返しておいで
+line2
+com09 0 50
+com08
+choice2 <shift> # 大事に使うんだぞ？
+line2
+com09 0 51
+com08
+choice3 <shift> # 返してこい！
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「半分、返しておいで。
+line2 <shift> # それは、さすがに、もらいすぎだよ」
+display
+com11 0 4
+sound 614
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「え、でも、おばあちゃん、
+line2 <shift> # ニコニコしながら、くれたんだよ〜？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「アイドルなら、仕事で稼げるようにならないと。
+line2 <shift> # 亜美達は、普通の小学生じゃないんだから」
+display
+com11 0 4
+sound 615
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「あ、そっか。スーパー小学生だもんねっ。
+line2 <shift> # わかった〜、じゃあ、半分だけにしとく〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （好意を無にするのも悪いし、これぐらいが、
+line2 <shift> # ちょうどいいよな。ふたりも納得してくれたし）
+com09 0 69
+display
+location 51
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「大事に使うんだぞ？」
+display
+com11 0 4
+sound 616
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「え、１万円だよ？　そんなに持たないよ〜。
+line2 <shift> # 欲しい物、ぜーんぶ買ったら、すぐなくなるし」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、ぜんぶ買う必要はないだろ？
+line2 <shift> # すこしずつ、使うようにしよう」
+display
+com11 0 4
+sound 617
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「それじゃあ、つまらないよ〜。
+line2 <shift> # こんなこと、めったにないのに……」
+display
+com11 0 4
+sound 618
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「洋服とかも、けっこう高いし。ちょびちょび
+line2 <shift> # じゃ、あんまりかわいいの、買えないかも……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ふたりとも、ブツブツ言っている。でも、まあ、
+line2 <shift> # 豪遊させるわけにもいかないし、しかたないか）
+com09 0 69
+display
+location 52
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「返してこい！
+line2 <shift> # いくらなんでも、それは、もらいすぎだ！」
+display
+com11 0 4
+sound 619
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「え、どうして〜？　亜美達、
+line2 <shift> # 『ちょうだい』って、言ったわけじゃないよ？」
+display
+com11 0 4
+sound 620
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「兄ちゃん、きびし〜よ〜。真美達、真美達、
+line2 <shift> # せっかぅ、もらぅ、うぁうううううっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ほ、ほら、ワケわかんないこと言ってないで、
+line2 <shift> # 行ってこい。待っててあげるから」
+display
+com11 0 4
+sound 621
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ぜんぶ返すなんて、やだ、やだ、やだ〜！
+line2 <shift> # おばあちゃんはぁううううっ」
+display
+com11 0 4
+sound 622
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「あ！　真美のおさいふ、さっきチャックこわれ
+line2 <shift> # ちゃった！　だ、だから〜、ひ、開かないよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （抵抗されたが、なんとか返させた。けど、
+line2 <shift> # しばらく、ふたりは、ふくれっ面のままだった）
+com09 0 69
+display
+location 69
+unk02

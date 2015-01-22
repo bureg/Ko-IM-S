@@ -1,0 +1,433 @@
+com2c 0 113
+com2c 0 4
+com2c 0 1
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今日は、めずらしく早く目が覚めたぞ。
+line2 <shift> # こんな日は、仕事が、はかどりそうだ！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （事務所へ行く前に、どこかに寄り道して、
+line2 <shift> # 一仕事、終えていこうかな！？）
+com03 0 2
+choice1 <shift> # どこかに寄り道する
+line2
+com09 0 10
+com08
+choice2 <shift> # まっすぐ事務所に行く
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よし！　寄り道して、新しいプロモーション
+line2 <shift> # 資料を、ＴＶ局に届けに行こう）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （トップアイドルの座を獲得するため、
+line2 <shift> # 出来ることは、全部、やらないとな！）
+display
+com22 0 30
+com21 0 30
+com32 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （局の人に新しい資料を見てもらえれば、
+line2 <shift> # 仕事も、もっと増えるだろう。頑張るぞー！）
+display
+com22 0 30
+com21 0 30
+com32 0 2
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （おや。あれは、ＴＶ局の制作局長じゃないか？
+line2 <shift> # 一緒にいるのは……！？）
+display
+com11 0 0
+sound 10000
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「……では、失礼。今後とも９６１プロの、
+line2 <shift> # 『Ｐｒｏｊｅｃｔ　Ｆａｉｒｙ』を頼みます」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「黒井社長！！」
+display
+com11 0 0
+sound 10001
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「おや、高木の所の飼い犬君じゃないか。
+line2 <shift> # フフン。君も、ＴＶ局に差し入れかい？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「差し入れ……？　黒井社長！　あなた、まさか、
+line2 <shift> # ＴＶ局の上層部に、渡しているんですか！？」
+com03 0 3
+choice1 <shift> # ワイロを！
+com09 0 20
+com08
+choice2 <shift> # 菓子折りを！
+line2
+com09 0 21
+com08
+choice3 <shift> # 小判入りの重箱を！
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （いや、まっすぐ、事務所に行こうかな。
+line2 <shift> # ムリしても、ロクなことはないし……）
+com09 0 99
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ワイロを！」
+display
+com11 0 0
+sound 10002
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「ノン。いくら私でも、そこまでロコツなことは、
+line2 <shift> # しないよ。警察ざたになるのはゴメンだからね」
+display
+com11 0 0
+sound 10003
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「まあ、バレなければ、それぐらいのことは、
+line2 <shift> # やってもいいとは思っているけれど」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「菓子折りを！」
+display
+com11 0 0
+sound 10004
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「そんなもの……。ご近所に、
+line2 <shift> # あいさつに行くのとは、ワケが違うのだよ？」
+display
+com11 0 0
+sound 10005
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「私のする差し入れは、もっと価値が高く、
+line2 <shift> # 意味のあるものだよ、飼い犬君。フフフ！」
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「小判入りの重箱を！」
+display
+com11 0 0
+sound 10006
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「そうそう。……越後屋、お主もワルよのぅ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お代官様のお仕込みで！」
+display
+com11 0 0
+sound 10007
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「はっはっはっ！　……って、この私に、何を
+line2 <shift> # やらせるのかねっ！　失礼千万な男だなっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ノリノリで、やってたじゃないですか……」
+display
+com11 0 0
+sound 10008
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「フンッ！　飼い犬君には、想像もつくまい。
+line2 <shift> # 私の差し入れが、どんなに素晴らしいものか」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「黒井社長。あなたという人は……」
+display
+com11 0 0
+sound 10009
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「では、失礼。君なんかと話しても、ムダだ。
+line2 <shift> # 何も得るものが、なさそうだからね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「待って下さいっ！　俺は、あなたに会ったら、
+line2 <shift> # 言おうと思っていたことが、あるんです！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「響に対する、あなたの育成方針のことですよ。
+line2 <shift> # あなたのアイドル教育は、間違ってる！」
+display
+com11 0 0
+sound 10010
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「ほほう。９６１プロ社長たる私に、一介の
+line2 <shift> # プロデューサーの君が、意見する気かね？」
+display
+com11 0 0
+sound 10011
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「面白い。この私の、どこが間違っているのか、
+line2 <shift> # きかせてもらおうじゃないか！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「『勝つためには何をしてもいい』
+line2 <shift> # あなたは、響に、こう教えているそうですね？」
+display
+com11 0 0
+sound 10012
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「いかにも。ごく真っ当な教えだと思うが？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「確かに、勝ちにこだわるのは大切なことです。
+line2 <shift> # でも、『何をしてもいい』は、言いすぎですよ」
+display
+com11 0 0
+sound 10013
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「そのぐらい強く言わないと、響にはわからない
+line2 <shift> # のでね。彼女、才能はあるのだが、少々、弱い」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「弱い？　オーディションでは、いつも力を発揮
+line2 <shift> # していて、そんな風には見えませんが……」
+display
+com11 0 0
+sound 10014
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「心が、だよ。彼女、口では私の教えに従うと
+line2 <shift> # 言っているが、実行となると難しいようでね」
+display
+com11 0 0
+sound 10015
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「どうしても勝ちたいと思えば、ライバルに下剤
+line2 <shift> # をもるぐらいのことは、わけないはずだが……」
+display
+com11 0 0
+sound 10016
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「響は、そういった行為に、抵抗があるようだ。
+line2 <shift> # 生ぬるい考えの子どもで、苦労させられるよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんな！　ひきょうなマネができないことを、
+line2 <shift> # あなたは『弱い』と言うんですかっ！？」
+display
+com11 0 0
+sound 10017
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「そうだ。勝つために手段を選ばないというのは、
+line2 <shift> # そういうことなのだよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなのは、間違っていますっ！」
+display
+com11 0 0
+sound 10018
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「たとえ間違っていようと、勝った者が正義だ。
+line2 <shift> # 負けた者の正論ほど、説得力のない言葉はない」
+display
+com11 0 0
+sound 10019
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「君だって、私の考えに賛同はできなくとも、
+line2 <shift> # 理解は、できるだろう？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「むう……。で、では、これはどうです？　あな
+line2 <shift> # たは響に、こういうことも教えていますよね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「『トップアイドルになるためには……』」
+com03 0 3
+choice1 <shift> # 孤独でなければならない
+line2
+com09 0 30
+com08
+choice2 <shift> # 努力しなければならない
+line2
+com09 0 31
+com08
+choice3 <shift> # 体力がなければならない
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「『トップアイドルになるためには、
+line2 <shift> # 孤独でなければならない』って」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「これは完全に間違っていますよ。
+line2 <shift> # どんな言い逃れも、できないはずだ！」
+com09 0 39
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「『トップアイドルになるためには、
+line2 <shift> # 努力しなければならない』って」
+com09 0 38
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「『トップアイドルになるためには、
+line2 <shift> # 体力がなければならない』って」
+com09 0 38
+display
+location 38
+com11 0 0
+sound 10020
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「……当然のことだろう？
+line2 <shift> # 君は、そんなことにまで異論を唱えるのか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、そうですね。これは、当たり前だな……。
+line2 <shift> # すみません、間違えました！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、『トップアイドルになるためには、孤独
+line2 <shift> # でなければならない』というのは間違ってます」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「これに関しては、
+line2 <shift> # 言い逃れできないんじゃないですか？」
+com09 0 39
+display
+location 39
+com11 0 0
+sound 10021
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「フフン……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「な、何を笑っているんです？　どうしてこんな
+line2 <shift> # ことを響に教えているのか、説明して下さい！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「響は、あなたの教えを信じて、友達も作らず、
+line2 <shift> # たった一人で、孤独に耐えているんですよ！？」
+display
+com11 0 0
+sound 10022
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「君に教えてやる義理などない。だが……」
+display
+com11 0 0
+sound 10023
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「私の教えを信じ込んでいる響から、そこまで
+line2 <shift> # 聞き出した努力に免じて、教えてやるとしよう」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「こんな意味のわからない教えに、何か理由が、
+line2 <shift> # あるっていうのなら、言って下さい！」
+display
+com11 0 0
+sound 10024
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「決まっているだろう。
+line2 <shift> # ９６１プロに響を、しばりつけておくためだよ」
+display
+com11 0 0
+sound 10025
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「響ほどの才能がある子なら、他の事務所から、
+line2 <shift> # 声がかかっても、おかしくない。その予防だよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「トップになるためっていうのは……、
+line2 <shift> # ウソなんですね？」
+display
+com11 0 0
+sound 10026
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「あの子には、金がかかっている。ＩＵを
+line2 <shift> # 獲るまでは、よそに行かれては困るのでね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなことのため……、ですか？　そのために、
+line2 <shift> # 響を一人ぼっちにさせているんですかっ！？」
+display
+com11 0 0
+sound 10027
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「私が響に教えていることの大半は、
+line2 <shift> # 一流になるために、本当に必要なことだ」
+display
+com11 0 0
+sound 10028
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「あんな子どもに、ここまでしてやっているのだ
+line2 <shift> # から、それぐらいのウソは許されるだろう」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうですか。よくわかりました……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あなたが、とてもひきょうで、
+line2 <shift> # 下らない考えの持ち主だっていうことがね！」
+display
+com11 0 0
+sound 10029
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「言っておくが、君が何を言おうと、
+line2 <shift> # 響は、私を信じるよ？　フフフフ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あなたのような自分勝手な人の言葉を、
+line2 <shift> # 素直に信じている響が、かわいそうですっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あなたはなぜ、そこまでして、勝とうとするん
+line2 <shift> # です？　そうまでして勝つ意味、ありますか？」
+display
+com11 0 0
+sound 10030
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「……愚問だねえ。答える気にもならない。
+line2 <shift> # さて、そろそろ、本当に失礼するよ」
+display
+com11 0 0
+sound 10031
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「あ、そうそう。最近の７６５プロは、
+line2 <shift> # 目ざわりだ。悪いが、つぶさせてもらうよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あなたなんかに、７６５プロは、
+line2 <shift> # つぶせません！」
+display
+com11 0 0
+sound 10032
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「……君のように、きれいごとばかり並べる
+line2 <shift> # プロデューサーが、昔、いたな」
+display
+com11 0 0
+sound 10033
+name 0 3 <names:2>  # President Kuroi
+line1 <shift> # 「プロデューサーとして勝ち残れなかった、
+line2 <shift> # 下らない男だったがね。フフン」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （なんなんだ、あの人は！？　おかげで朝から、
+line2 <shift> # 気分が最悪になったぞ。顔を洗って、出直そう）
+com09 0 99
+display
+location 99
+unk02

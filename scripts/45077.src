@@ -1,0 +1,265 @@
+com2c 0 28
+com2d 0 83
+com32 0 0
+com11 0 2
+sound 1400
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はぁー、この仕事は、これで終わりかな。
+line2 <shift> # プロデューサー、次は？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いろいろ、詰まってるぞ。いったん事務所に
+line2 <shift> # 戻ってから、立て続けに２件。それから……」
+display
+com11 0 2
+sound 1401
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うっはー。ランクＣともなると、忙しさも
+line2 <shift> # これまでとは、比べ物になりませんねー」
+display
+com11 0 2
+sound 1402
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「もう気分は、完全にメジャーアイドルかな。
+line2 <shift> # へへっ、やーりぃ！」
+com03 0 2
+choice1 <shift> # よろこんでるヒマはないぞ
+line2
+com09 0 10
+com08
+choice2 <shift> # よく、がんばったな
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よろこんでるヒマはないぞ。すぐ移動だ」
+display
+com11 0 2
+sound 1403
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「っと、そうでしたね！　もっと上へ
+line2 <shift> # 行くためには、バリバリ仕事しないと！」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よく、がんばったな」
+display
+com11 0 2
+sound 1404
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ありがとうございます！　って、まさか、
+line2 <shift> # それ、もうお別れって意味じゃ……！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ち、ちがうよ。単純に、ここまでのがんばりを
+line2 <shift> # ほめただけ」
+display
+com11 0 2
+sound 1405
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「なら、よかった。これぐらいで、満足してちゃ、
+line2 <shift> # ダメですよね！　もっと上、めざせるはずだし」
+com09 0 29
+display
+location 29
+com11 0 2
+sound 1406
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「……父さんにも、大ミエ切っちゃたしな。ボク
+line2 <shift> # の女の子としての魅力、結果で証明するって」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え？　真、ついに親にバレたのか？」
+display
+com11 0 2
+sound 1407
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あはは……。雑誌、目の前に突きつけられて、
+line2 <shift> # 『このチャラチャラしたのは、お前か？』って」
+com03 0 3
+choice1 <shift> # で、開き直ったと……
+line2
+com09 0 30
+com08
+choice2 <shift> # で、謝ったと……
+line2
+com09 0 31
+com08
+choice3 <shift> # ごまかせば、よかったのに
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「で、開き直ったと……」
+display
+com11 0 2
+sound 1408
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はい。ボクもそろそろ限界だと思ってたから、
+line2 <shift> # 『ああ、そうだ』って、言ってやりました」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「で、謝ったと……」
+display
+com11 0 2
+sound 1409
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「謝るまでは、しなかったです。隠してたのは
+line2 <shift> # マズいですけど、悪いことしたわけじゃないし」
+display
+com11 0 2
+sound 1410
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「逆に胸はって、アイドル宣言しちゃいました。
+line2 <shift> # 『ああ、そうだよ。ビックリした？』って」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ごまかせば、よかったのに」
+display
+com11 0 2
+sound 1411
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ムリですよ〜。名前もバッチリ載っちゃってる
+line2 <shift> # し、今の人気じゃ、いずれバレちゃいますから」
+display
+com11 0 2
+sound 1412
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ハラくくって、アイドル宣言しちゃいました。
+line2 <shift> # 『なに言われようと、やめる気はない』って」
+com09 0 49
+display
+location 49
+com11 0 2
+sound 1413
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ここまできたら、成功して、とびっきりかわい
+line2 <shift> # い女の子になるまで、後にはひけませんよね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……でもさ、アイドルとしての地位が、
+line2 <shift> # 女の子らしさとイコールかは、微妙だよな」
+display
+com11 0 2
+sound 1414
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「え？　な、なんてことをっ。イコールですよ〜。
+line2 <shift> # しおらしくないアイドルは、絶対、人気者には」
+display
+com11 0 2
+sound 1415
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「なれない……ですよね？　今のボクのままじゃ、
+line2 <shift> # さすがに、トップには立てないですよね？」
+com03 0 3
+choice1 <shift> # 立たせてやろう
+line2
+com09 0 50
+com08
+choice2 <shift> # 立てちゃったりして
+line2
+com09 0 51
+com08
+choice3 <shift> # このままなら、立てない方がいい？
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「立たせてやろう。あるがままの真を、
+line2 <shift> # 認めさせるってのも、気持ちよくないか？」
+display
+com11 0 2
+sound 1416
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あるがままの、ボクを……？　デビューした頃、
+line2 <shift> # 見てた夢とはちがうけど、でも……」
+display
+com11 0 2
+sound 1417
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「いっしょに、突き抜けられるなら、それでも
+line2 <shift> # いいかな！　勢いで、行っちゃいましょう！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （真の完成形、見えてきた気がする。どうせなら、
+line2 <shift> # 真にしか出せない色で、咲かせてやりたいな！）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「立てちゃったりして」
+display
+com11 0 2
+sound 1418
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ありえるのかなあ、そんなコト。だって、アイ
+line2 <shift> # ドルって言えば、かわいいものって昔から……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「このままで行けば、その考え方を、真が
+line2 <shift> # 変えることになるかも……」
+display
+com11 0 2
+sound 1419
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うれしいような、悲しいような。成功か、かわ
+line2 <shift> # いさかって言われたら、どっちを取れば……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （考え込んでいる。ま、そろそろ、もっと明確な
+line2 <shift> # 将来像を探ってみるのも、悪くはないか）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「このままなら、立てない方がいい？」
+display
+com11 0 2
+sound 1420
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そんなコトはないです！　トップに立つのは、
+line2 <shift> # いっつも一番の目標……！　あ、あれ？」
+display
+com11 0 2
+sound 1421
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「でも、女の子らしくなることも、大切な……。
+line2 <shift> # ふたつが食い違うことって、あるのかな」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ま、そろそろ時期も時期だし、いろいろ考えて
+line2 <shift> # みるといい。とりあえず、次の仕事へ……」
+display
+com11 0 2
+sound 1422
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ちょ、ちょっと待ってください。なんか、頭、
+line2 <shift> # グチャグチャで。そもそもボクの目標って……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （考えるのを通り越して、混乱している。うーん、
+line2 <shift> # これは整理がつくまで、時間かかりそうだな）
+com09 0 69
+display
+location 69
+unk02

@@ -1,0 +1,247 @@
+com2c 0 19
+com2d 0 61
+com32 0 0
+com11 0 5
+sound 1000
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「社長からお達しがきてしまいました。
+line2 <shift> # もっと身体を動かす練習をするようにって……」
+display
+com11 0 5
+sound 1001
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「私、ダンスがうまく踊れないんです。
+line2 <shift> # 元々、運動神経も鈍いし」
+display
+com11 0 5
+sound 1002
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ああっ、どうしよう……。
+line2 <shift> # このままじゃアイドル失格です」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「雪歩はステージでは時々勘のいい動きをしてる
+line2 <shift> # と思うよ。そんなに悲観することないってば」
+display
+com11 0 5
+sound 1003
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「そ、そうですか？　だ、だけど私、
+line2 <shift> # やっぱり、体力がないから……」
+display
+com11 0 5
+sound 1004
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ちょっと頑張ったって、長続きしないんです。
+line2 <shift> # それで、いつも失敗してしまって」
+com03 0 2
+choice1 <shift> # もっと持久力を
+line2
+com09 0 10
+com08
+choice2 <shift> # もっと自信を
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それなら、いい動きを維持できるようにすれば
+line2 <shift> # いいんだ。もっと持久力をつければいいのさ」
+display
+com11 0 5
+sound 1005
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「うーん、でも……。じ、持久力ですか」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「雪歩のダンスも、リズムや勘はそう悪くない。
+line2 <shift> # あとは基礎体力と慣れの問題だ」
+display
+com11 0 5
+sound 1006
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「慣れかぁ……。そうですね、ううっ、
+line2 <shift> # だんだん慣れることにします」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もっと自信を持とうよ！」
+display
+com11 0 5
+sound 1007
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「うーん、でも……、私、下手だから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いやいや、ダンスも、リズムや勘はそんなに
+line2 <shift> # 悪くないんだ。あとは基礎体力と慣れの問題さ」
+display
+com11 0 5
+sound 1008
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「でも、その、体力がないから……、
+line2 <shift> # ダンスに慣れるって言われても、なかなか」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それなら、これからちょっとずつ、
+line2 <shift> # もうちょっとだけ鍛えればいいんだ」
+display
+com11 0 5
+sound 1009
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ううっ、ど、努力します……、ぐすっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「泣くことないさ。まあまあ、頑張ろうよ」
+com09 0 29
+display
+location 29
+com11 0 5
+sound 1010
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ですけど……そのためにはいったい、
+line2 <shift> # どんなトレーニングをすれば？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「初歩から体力づくりのトレーニングと言えば、
+line2 <shift> # やっぱり地道な走りこみかな。軽くマラソンだ」
+display
+com11 0 5
+sound 1011
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「うわあっ！　や、やっぱり……、そう、ですか。
+line2 <shift> # 走らなきゃですよね。で、でもっ」
+display
+com11 0 5
+sound 1012
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「元々のスタミナがないから、私、あんまり
+line2 <shift> # 長く走れないかもしれないですぅ……」
+display
+com11 0 5
+sound 1013
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「こまったな、体力をつけるために、ちゃんと
+line2 <shift> # トレーニングしなきゃいけないのにっ」
+com03 0 2
+choice1 <shift> # とにかく走ろう
+line2
+com09 0 30
+com08
+choice2 <shift> # スタミナの補給が先かな
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「とにかく走ろう！　何かしないことには
+line2 <shift> # 話がはじまらない、あれこれ考えるより行動だ」
+display
+com11 0 5
+sound 1014
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「え、ええっ、は、はい！　だ、だけどっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「さぁ行くぞ！　ついてこいっ」
+display
+com11 0 5
+sound 1015
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「あ、あわわわ……。ま、待って！
+line2 <shift> # 待ってください、プロデューサーっ」
+display
+com11 0 5
+sound 1016
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「あ、あのっ、そのっ、私の手を……
+line2 <shift> # 引っ張って、連れて行ってくださいっ！」
+display
+com11 0 5
+sound 1017
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「お願いしますっ。で、でないと私、
+line2 <shift> # 不安で……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わかった、それじゃあ手を繋いで走ろう。
+line2 <shift> # しっかり握って、離すなよ」
+display
+com11 0 5
+sound 1018
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「はいっ！！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （俺が手を引きながらゆっくりと先導すると、
+line2 <shift> # 雪歩は懸命に走ってついて来てくれた）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （まだ息切れが多いみたいだけど……、
+line2 <shift> # 少しずつ激しい運動にも慣れてくれるといいな）
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「スタミナの補給が先かな」
+display
+com11 0 5
+sound 1019
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「は、はい、栄養補給です。やっぱり、
+line2 <shift> # 体力面があまりに、自分で不安なのでっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「手っ取り早く補給なら、俺がなにか
+line2 <shift> # ドリンクでも買ってこようか……」
+display
+com11 0 5
+sound 1020
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「いえ、スタミナといえば、焼肉ですよ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ええっ、今から食べるのか？」
+display
+com11 0 5
+sound 1021
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「い、いけませんか……。そ、その、
+line2 <shift> # 食べたら、ちゃんと走りますからっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う、うーん、この際仕方ないか」
+display
+com22 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （そうして何故か雪歩と、
+line2 <shift> # 焼肉を食べに行く羽目になってしまい……）
+display
+com11 0 5
+sound 1022
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ごちそうさまでした！　おいしかった〜っ！
+line2 <shift> # ですけどぉ、あの、その……」
+display
+com11 0 5
+sound 1023
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ご、ごめんなさい。食べたすぐ後の運動は、
+line2 <shift> # ちょっと……、無理そうですぅ、すみません」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （案の定と言うべきか、運動は中止だ……。
+line2 <shift> # これは気長に訓練するしかなさそうだなぁ）
+com09 0 49
+display
+location 49
+unk02

@@ -1,0 +1,369 @@
+com2c 0 49
+com2d 0 91
+com2e 0 101
+com32 0 0
+com11 0 3
+sound 100
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うぇっへん！　今日は、亜美が署長さんだよ〜。
+line2 <shift> # どーお、えらそー？」
+display
+com11 0 3
+sound 101
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「いいなあ、亜美……。真美も、やりたかったな。
+line2 <shift> # ジャンケンで負けたから、しょうがないけど」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「ふたり同時に出すわけには、いかないしな。
+line2 <shift> # ここは、ガマンしてくれ」
+display
+com11 0 3
+sound 102
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「うん。でも、気分だけでも、なにかやりたいよ。
+line2 <shift> # 兄ちゃん、真美には、なに役が似合うかなあ？」
+com03 0 3
+choice1 <shift> # 大ドロボウとか、どうかな？
+line2
+com09 0 10
+com08
+choice2 <shift> # 刑事長とか、どうかな？
+line2
+com09 0 11
+com08
+choice3 <shift> # 婦警さんとか、どうかな？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「大ドロボウとか、どうかな？」
+display
+com11 0 3
+sound 103
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「あ、それなら、署長さんに負けないね！
+line2 <shift> # 亜美〜、カンタンには、つかまらないよっ？」
+display
+com11 0 3
+sound 104
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「出たな〜、怪盗・真美〜！
+line2 <shift> # アイサツ済ませたら、対決だからねっ！」
+com09 0 29
+display
+location 11
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「刑事長とか、どうかな？」
+display
+com11 0 3
+sound 105
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「デカチョウって、なに？　大きなノート？」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「ち、ちがうよ。つまり、刑事のリーダーだ。
+line2 <shift> # なかなか、いい役どころだと、思うけど」
+display
+com11 0 3
+sound 106
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ん〜、でも、それだと、亜美の方が、
+line2 <shift> # えらそうだね……。ちょっと負けたかも〜」
+com09 0 29
+display
+location 12
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「婦警さんとか、どうかな？」
+display
+com11 0 3
+sound 132
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ええええ、亜美は署長さんなのに、真美は、
+line2 <shift> # ヒラ社員なのっ？　そんなの、ひどいよ〜！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「で、でも、婦警さんの方が、人気は高いよ？
+line2 <shift> # 男の人にも、もてるし」
+display
+com11 0 3
+sound 108
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「もてなくたって、えらい方がいいもん。
+line2 <shift> # 真美、超署長さんとかのが、よかったな……」
+com09 0 29
+display
+location 29
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「……ところで、亜美。アイサツの内容って、
+line2 <shift> # もう考えたのか？」
+display
+com11 0 3
+sound 109
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「え？　あ、んっとね、まだ考え中！
+line2 <shift> # なんか、おもしろいやり方、ないかなあ」
+display
+com11 0 3
+sound 133
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「う〜ん、う〜んっ……、オデコの辺りに、
+line2 <shift> # モヤモヤってしてるんだけど〜……」
+display
+com11 0 3
+sound 137
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「に、兄ちゃん、オデコつついてみて。
+line2 <shift> # ピカッて、ひらめくかもっ」
+com0e 3 46
+com44
+com09 0 30
+com45
+com44
+com09 0 31
+com45
+com44
+com09 0 32
+com45
+com44
+com09 0 33
+com45
+com44
+com09 0 34
+com45
+com44
+com09 0 35
+com45
+display
+location 30
+com11 0 3
+sound 111
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うっ、キラリ〜ン☆★　ひらめいた〜っ！
+line2 <shift> # 刑事ドラマとかのモノマネ、やってみよー！」
+display
+com11 0 3
+sound 112
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「あ、それ、おもしろそう。そういうのやれば、
+line2 <shift> # きっと大ウケ、まちがいなしだね！」
+com09 0 49
+display
+location 31
+com11 0 3
+sound 113
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うっ……。兄ちゃん〜、すこしズレたよ〜。
+line2 <shift> # それじゃあ、なんにも……。ううっ……」
+com09 0 91
+display
+location 32
+com11 0 3
+sound 134
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「わあっ、危ないよ、兄ちゃん。もう、
+line2 <shift> # びっくりして、モヤモヤ消えちゃったよ〜」
+com09 0 91
+display
+location 33
+com09 0 91
+display
+location 34
+com11 0 3
+sound 135
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「え？　兄ちゃん、なんで、そんなとこ、
+line2 <shift> # つつくの？　それじゃなにも思い浮かばないよ」
+com09 0 91
+display
+location 35
+com11 0 3
+sound 117
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「なんで、黙って見てるの〜？　亜美に協力して
+line2 <shift> # くれても、いいでしょ〜？　いじわる〜」
+com09 0 91
+display
+location 91
+com11 0 3
+sound 118
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ねえ、亜美。刑事ドラマのモノマネとか、
+line2 <shift> # やっちゃうっていうの、どうかな？」
+display
+com11 0 3
+sound 119
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「あ！　いいかも〜！　真美、さえてる〜。
+line2 <shift> # それ、いただきねっ」
+com09 0 49
+display
+location 49
+com11 0 3
+sound 120
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「でも、刑事モノって、けっこういろいろ、ある
+line2 <shift> # よね。どんなセリフ言うのが、一番いいかなあ」
+display
+com11 0 3
+sound 121
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「兄ちゃん、なんか思いつく？　みんなが知って
+line2 <shift> # て、笑いが、ドッカンドッカンきそうなやつ！」
+com03 0 3
+choice1 <shift> # 『事故は、現場で起きてるんだー』
+line2
+com09 0 50
+com08
+choice2 <shift> # 『なんじゃ、そりゃあああ』
+line2
+com09 0 51
+com08
+choice3 <shift> # 『うちのカミサンがね……』
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「『事故は、現場で起きてるんだー』かな。
+line2 <shift> # たしか、そんなセリフ、あったよな？」
+display
+com11 0 3
+sound 136
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「あ！　亜美、そのドラマ、見たことあるー！
+line2 <shift> # えーと、言い方はっと……。よーし！」
+display
+com22 0 30
+com21 0 30
+com11 0 3
+sound 123
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「事故は、会議ルームで起きてるんじゃないっ。
+line2 <shift> # 現場で、起きてるんだぁっ！」
+display
+com11 0 3
+sound 124
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「え、似てる？　ほんとほんと〜？
+line2 <shift> # んじゃ、今度、学校でもやってみよー！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （警官にほめられて、すっかり上機嫌。
+line2 <shift> # 一日署長のイベントは、大成功だった！）
+com09 0 69
+display
+location 51
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「『なんじゃ、そりゃあああ』かな。
+line2 <shift> # たしか、そんなセリフが、あったよな？」
+display
+com11 0 3
+sound 125
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「なんじゃ、そりゃって、なんじゃ、そりゃ？
+line2 <shift> # 亜美、そんなドラマ、見たことないけど……」
+display
+com11 0 3
+sound 126
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「でも、ヘンなセリフで、おもしろいね！
+line2 <shift> # よくわからないけど、やってみるー！」
+display
+com22 0 30
+com21 0 30
+com11 0 3
+sound 127
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「なんじゃ、そりゃ？　こ、これでいいの
+line2 <shift> # かなあ。もう１回……、なんじゃ、そりゃ？」
+display
+com11 0 3
+sound 128
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「え、もっとオーバーにやるの？
+line2 <shift> # おなかに手を当てて〜、ふんふん……」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （最前列の警官に、レクチャーされている。
+line2 <shift> # ま、こんな微笑ましいのも、悪くはないか）
+com09 0 69
+display
+location 52
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「『うちのカミサンがね……』かな。
+line2 <shift> # たしか、そんなセリフが、あったよな？」
+display
+com11 0 3
+sound 129
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「なに、それ？　亜美、知らないよ？
+line2 <shift> # どんな風に、言えばいいの〜？」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「こう、すこし、くたびれた感じで、
+line2 <shift> # 『うちのカミサンがねぇ……』。言ってみて」
+display
+com11 0 3
+sound 130
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うちの……、か、カミサンがねぇ……。
+line2 <shift> # これで、いーい？」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「そ、それは、くたびれた感じじゃなくて、
+line2 <shift> # 本当に、くたびれてるだけだよ」
+display
+com11 0 3
+sound 131
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「う、うちのカミサンがね♪　ち、ちがうかな。
+line2 <shift> # うちのカミサンがねーっ！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （コツがつかめず、ヤケになって、どなっている。
+line2 <shift> # このモノマネは、亜美には、むずかしすぎたか）
+com09 0 69
+display
+location 69
+unk02

@@ -1,0 +1,296 @@
+com2c 0 26
+com2d 0 61
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さて、そろそろ開演だな。小さなステージ
+line2 <shift> # ながら、お客さんの入りはまずまずか」
+display
+com11 0 5
+sound 300
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい。それにしても、今日は
+line2 <shift> # 日差しが気持ちいいですねっ」
+display
+com11 0 5
+sound 301
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「なんだか、つい、日向ぼっことか、
+line2 <shift> # したくなりますねぇ……」
+com03 0 2
+choice1 <shift> # そうだなぁ
+com09 0 10
+com08
+choice2 <shift> # そんな場合じゃ……
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだな……いい陽気だ。一瞬、
+line2 <shift> # 仕事を忘れてしまいそうなくらいだよ」
+display
+com11 0 5
+sound 302
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「こんな陽気だから、のびのび、
+line2 <shift> # のんびりしましょうーっ……、くぅくぅ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「い、いや！　もうステージの時間
+line2 <shift> # なんだってば！　居眠りするなっ」
+display
+com11 0 5
+sound 303
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ええっ！　もうそんな時間
+line2 <shift> # だったんですか！　いけないっ」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんな場合じゃないんだけどなぁ」
+display
+com11 0 5
+sound 304
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「寂しいこと言わないで下さいよ。ほら、
+line2 <shift> # みんな気持ちよさそうじゃないですかぁ」
+display
+com11 0 5
+sound 305
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「お茶飲んでるお年寄りとか、
+line2 <shift> # 駆け回ってる、子どもたちとか……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、確かに……、いい陽気だ。
+line2 <shift> # 俺も仕事じゃなかったらなぁ」
+display
+com11 0 5
+sound 306
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「太陽の下で、のびのび、のんびりです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「って、おいおい！　もう
+line2 <shift> # ステージ始まる時間だよ！」
+display
+com11 0 5
+sound 307
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ええっ！　もうそんな時間だったんですか！
+line2 <shift> # そ、そんな！　言ってくれれば……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「い、いや、言った、言ったさ」
+display
+com11 0 5
+sound 308
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ああっ、すぐに支度しないとっ」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「とにかく、出られるか？　そろそろ
+line2 <shift> # 進行スタッフから合図が来る」
+display
+com11 0 5
+sound 326
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「は、はい！　ばっちり出られ……、ああっ！
+line2 <shift> # ま、マズいですぅっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「マズい？　ど、どうしたっ」
+display
+com11 0 5
+sound 310
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「わ、私まだちゃんと着替えしてないし、メイク
+line2 <shift> # もまだで、これじゃあ、ああっ、どうしようっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うわっ本当だ！　リハのときのラフな格好の
+line2 <shift> # ままじゃないか……、いや待て、落ち着け雪歩」
+display
+com11 0 5
+sound 311
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「だからその、ああっ、もう！　どうすればっ！
+line2 <shift> # い、いきなりこのまま歌うしかないっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （雪歩はあわてまくっていて、落ち着く気配ゼロ
+line2 <shift> # だ。むう……。いっそこのまま行くか？）
+com03 0 3
+choice1 <shift> # 勢いでやらせる
+line2
+com09 0 30
+com08
+choice2 <shift> # とにかく深呼吸
+line2
+com09 0 31
+com08
+choice3 <shift> # だめだ、出すわけには
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いいや、このまま行け雪歩！
+line2 <shift> # 背中は俺が押してやる」
+display
+com11 0 5
+sound 313
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ええっ！」
+display <shift> # どんっ！
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺は、無理やり雪歩をステージ上に、
+line2 <shift> # 突き飛ばした）
+display
+com20 0 30
+com11 0 5
+sound 314
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「わっわわわ！　み、みなさんこんにちはっ！
+line2 <shift> # ごきげんよろしゅう！」
+display
+com11 0 5
+sound 315
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「それでは早速１曲目です……、って、あのその、
+line2 <shift> # プロデューサーっ、もう始めていいんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、いいぞ。緊張が吹き飛んで、なかなか
+line2 <shift> # 威勢のいい感じだ、その調子で頼むぞ」
+display
+com11 0 5
+sound 316
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そ、そんな！　私、恥ずかしいですよぉ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お客さんにも好評だ、拍手も来てるぞ、
+line2 <shift> # そのまま頑張れ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （なかば強引に雪歩のＭＣで始まったステージは、
+line2 <shift> # 非常にテンションの高い面白いものになった！）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「仕方ない、時間がない。衣装メイクとも、
+line2 <shift> # このままでステージに行こう」
+display
+com11 0 5
+sound 317
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「す、すみません！　わかりました」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「しかしさて、その前に深呼吸だ、雪歩。
+line2 <shift> # 取り乱すとトラブルの元だからね」
+display
+com11 0 5
+sound 318
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい、深呼吸、深呼吸……、吸ってはいて、
+line2 <shift> # 吸ってはいて、吸って吸ってはいて吸って」
+display
+com11 0 5
+sound 319
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あうぅ、けほけほっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「い、息を、つまらせちゃったのか？
+line2 <shift> # 冷静に、ゆっくり、慌てずにっ」
+display
+com11 0 5
+sound 320
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ううっ、なんとか平気ですっ、
+line2 <shift> # いってきます……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「が、頑張れよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （雪歩はステージ上でけなげな頑張りを見せたが、
+line2 <shift> # ちょっと無理をさせちゃったかもしれない……）
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああもう、そんな状態では、
+line2 <shift> # とてもステージにはあげられないな」
+display
+com11 0 5
+sound 321
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そ、そうですね……、すみません」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、多少開演延期してでも、
+line2 <shift> # きちんとしなきゃってことさ」
+display
+com11 0 5
+sound 322
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ううっ、私がのんびりなせいで、
+line2 <shift> # みんなに迷惑かけて……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうじゃないって！　雪歩にきちんと準備
+line2 <shift> # してもらって、いいステージにしたいんだ」
+display
+com11 0 5
+sound 323
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ああっ、は、はい！　わかりましたっ。
+line2 <shift> # そして、お客さんにいいステージを、ですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだ、だから頼むぞ、今から、
+line2 <shift> # すぐ楽屋に戻って、準備をしてきてくれ」
+display
+com11 0 5
+sound 324
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「が、頑張ります……。
+line2 <shift> # ううっ、で、でも、プレッシャーが……」
+display
+com11 0 5
+sound 325
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「それに、時間が、あんまり押したら、
+line2 <shift> # やっぱり私のせいで、ぐすっ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いいから！　余計なことは、
+line2 <shift> # 気にしないで行ってくれ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後、遅れてステージが始まった。雪歩は、
+line2 <shift> # きちんと衣装やメイクを整えて現れたが……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （緊張は拭えなかったようで、動きはぎこちな
+line2 <shift> # かった。残念なステージになってしまった……）
+com09 0 49
+display
+location 49
+unk02

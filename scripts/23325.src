@@ -1,0 +1,321 @@
+com2c 0 193
+com2d 0 51
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ロケの合間に、ウィンターリゾートに、
+line2 <shift> # やってきた。辺りは白い雪に満ちている）
+display
+com11 0 0
+sound 400
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「見渡す限り、一面の銀世界です」
+display
+com11 0 0
+sound 401
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「一年中、雪のあるような場所が、
+line2 <shift> # 案外、近くにあったんですね……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええ、簡単に日帰りできる場所にあるのは、
+line2 <shift> # 意外でした。ところで……」
+com03 0 3
+choice1 <shift> # 雪は好きですか？
+line2
+com09 0 10
+com08
+choice2 <shift> # 雪はスキーですか？
+line2
+com09 0 11
+com08
+choice3 <shift> # 雪は苦手ですか？
+line2
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あずささん、雪は好きですか？」
+display
+com11 0 0
+sound 402
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「はい。見るのも、触るのも。
+line2 <shift> # きれいな雪景色、好きですね」
+display
+com11 0 0
+sound 403
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「雪山でのスポーツ、スキーや、
+line2 <shift> # スノーボードも好きですよ」
+display
+com11 0 0
+sound 404
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「上手ではない……、ですけど。
+line2 <shift> # でも、楽しいです」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あずささん、雪はスキーですか？　……って、
+line2 <shift> # 何言ってるんだろうな、俺は」
+display
+com11 0 0
+sound 405
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ふふふ。スキーやスノーボードも、
+line2 <shift> # 好きですよ、私」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、そうなんですか？」
+display
+com11 0 0
+sound 406
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「友達に誘われて、何度かやってみました。
+line2 <shift> # けっこう、楽しかったです」
+display
+com11 0 0
+sound 407
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あんまり上達は……、しなかったですけど。
+line2 <shift> # でも、雪の中で遊ぶの、好きですね」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あずささん、雪は苦手ですか？」
+display
+com11 0 0
+sound 408
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あ、いえ。好きなほうです。
+line2 <shift> # 見るのも、触るのも」
+display
+com11 0 0
+sound 409
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「雪が降っているところを眺めるのが、
+line2 <shift> # 一番好き、でしょうか」
+display
+com11 0 0
+sound 410
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「子どもの頃は、雪が降ると、外に出て……」
+display
+com11 0 0
+sound 411
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「手の中に降ってきた雪を、思わず、
+line2 <shift> # 食べてしまったこともありますね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「へー、あずささんが、そんなことするなんて、
+line2 <shift> # なんとなく、意外ですね」
+display
+com11 0 0
+sound 412
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「もちろん、今は、そんなこと、
+line2 <shift> # しませんけど……、ふふっ」
+com09 0 19
+display
+location 19
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それにしても、年中通して、
+line2 <shift> # 雪があるなんて、珍しいですね」
+display
+com11 0 0
+sound 413
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「素敵ですよね。一面、白くて。
+line2 <shift> # それに、静かで」
+display
+com11 0 0
+sound 414
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「雪のある風景って、しんとして、
+line2 <shift> # 透き通ったような感じがして……」
+com03 0 3
+choice1 <shift> # ロマンを感じますね
+line2
+com09 0 20
+com08
+choice2 <shift> # でも雪国は苦労が多い
+line2
+com09 0 21
+com08
+choice3 <shift> # ここ、寒くないですか？
+line2
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんだか、ロマンを感じますね」
+display
+com11 0 0
+sound 415
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「そうですね。この雪の向こうにある何かに、
+line2 <shift> # 思いをはせる、みたいな……」
+display
+com11 0 0
+sound 416
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「うまく言えないですけど。ただ、ウィンター
+line2 <shift> # スポーツで遊ぶのもいいけど、今は……」
+display
+com11 0 0
+sound 417
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「今は、こうやって、静かな雪景色を、
+line2 <shift> # ずっと眺めていたい、そんな気持ちです」
+display
+com11 0 0
+sound 418
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「もうしばらく、ここにいてもいいですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええ、ゆっくりしていきましょう。
+line2 <shift> # あ、でも……、寒くないですか？」
+display
+com11 0 0
+sound 419
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あ……、すみません。少し手が、かじかんで。
+line2 <shift> # あたためて、もらえませんか……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺は、あずささんの手をとり、
+line2 <shift> # そのままじっと、雪を眺めた）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あずささんは、雪景色から何かを、
+line2 <shift> # 感じとることが、できたみたいだ……）
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、雪国は苦労が多いんじゃないでしょうか。
+line2 <shift> # ロマンばかりでなくて……」
+display
+com11 0 0
+sound 420
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「それは……、そうですね。
+line2 <shift> # 楽しいことばかりでは、ないかもしれません」
+display
+com11 0 0
+sound 421
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「積もりすぎた雪に、苦しい思いをすることも、
+line2 <shift> # 時には、あるのかも……」
+display
+com11 0 0
+sound 422
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あ、それでも、いいことも、
+line2 <shift> # たくさんあるって、私は思うんです」
+display
+com11 0 0
+sound 423
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「こんな雪の静けさ、きれいさって、
+line2 <shift> # 雪のあるところでしか、見られないですし」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか、ここに雪がある……、
+line2 <shift> # そのこと自体が、『いい』んですね？」
+display
+com11 0 0
+sound 424
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あっ、はい。そうです。そう思います。
+line2 <shift> # だから、もう少しだけ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もう少しだけ、ゆっくり、
+line2 <shift> # 見ていきましょうか、この雪を」
+display
+com11 0 0
+sound 425
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「はい、一緒に。お願いします」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そのまま、あずささんと俺は、
+line2 <shift> # 黙ってしばらく、雪を眺めた）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （たまには、街や仕事の騒がしさから、
+line2 <shift> # 離れて過ごすのもいいな……）
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ここ、寒くないですか？
+line2 <shift> # 長居すると、冷えそうで……」
+display
+com11 0 0
+sound 426
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「え？　あ、いえ……。
+line2 <shift> # そんなに、気になりませんけど」
+display
+com11 0 0
+sound 427
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「全然寒くないって言ったら、
+line2 <shift> # うそになってしまいますけど」
+display
+com11 0 0
+sound 428
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あ、プロデューサーさんは、
+line2 <shift> # もしかして、寒かったですか」
+display
+com11 0 0
+sound 429
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「それとも、もうそろそろ帰ったほうが、
+line2 <shift> # いいんでしょうか……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、そういうわけでは。ただ、あずささんが、
+line2 <shift> # カゼでも、ひかないだろうかと……」
+display
+com11 0 0
+sound 430
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ふふっ、大丈夫です。
+line2 <shift> # お気遣いは、うれしいですけど」
+display
+com11 0 0
+sound 431
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「でも、今は、もう少しだけ、ここにいても、
+line2 <shift> # いいですか？　雪を、見ていたくて」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええ。でも、少しだけですよ」
+display
+com11 0 0
+sound 432
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「わかっています。プロデューサーさんも、
+line2 <shift> # 一緒にいますし、無理はしません」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あずささんは、しばらく、
+line2 <shift> # 雪景色を、じっと眺めていた）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （雪から色々、感じるものもあるんだろうな……。
+line2 <shift> # でも、少し、あずささんの体調が気にかかった）
+com09 0 29
+display
+location 29
+unk02

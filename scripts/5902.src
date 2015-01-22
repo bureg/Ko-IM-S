@@ -1,0 +1,404 @@
+com2c 0 51
+com2d 0 11
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「すっかり、ロケが長引いてしまったな。
+line2 <shift> # 春香、大丈夫か？」
+display
+com11 0 0
+sound 0
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい、大丈夫です。まだまだ頑張れます♪」
+display
+com11 0 0
+sound 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「スタッフの皆さんも、疲れてるんです。
+line2 <shift> # 私一人だけ、弱音を吐くわけにはいきません！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うん、頼もしいな。もう少しの辛抱だぞ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あとは、夜のシーンを撮ったら、撮影終了だ。
+line2 <shift> # しかし、こんなに夜遅くなると……」
+com03 0 3
+choice1 <shift> # お腹が空いただろう
+line2
+com09 0 10
+com08
+choice2 <shift> # お母さんが心配する？
+line2
+com09 0 11
+com08
+choice3 <shift> # おばけでも出そうだな
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お腹が空いただろう？」
+display
+com11 0 0
+sound 2
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、それなら、大丈夫です。さっき、
+line2 <shift> # ちょこっと、お菓子をつまんじゃいましたから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「む……。抜け目のないやつだな」
+display
+com11 0 0
+sound 3
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「えへへ。プロデューサーさんも食べますか？
+line2 <shift> # たくさんありますから、いつでもどうぞ〜」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お母さんが心配するかな？」
+display
+com11 0 0
+sound 4
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、そうですね。いつもよりちょっと
+line2 <shift> # 遅くなっちゃうかも……」
+display
+com11 0 0
+sound 5
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「今のうちに、お母さんにメールして、
+line2 <shift> # 心配しないでって、連絡しておきますね！」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おばけでも出そうだな」
+display
+com11 0 0
+sound 6
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ええーっ！　や、やめてくださいよぉ……。
+line2 <shift> # プロデューサーさんっ！」
+display
+com11 0 0
+sound 7
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そういうこと言うと、後で一人になった時、
+line2 <shift> # 思い出しちゃうじゃないですか〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「はは、冗談だよ。ごめん、ごめん！」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 8
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「だけど、夜のロケって、なんだか新鮮ですね。
+line2 <shift> # 雰囲気も、昼と全然違いますし」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。この辺りは昼間は人が多いけど、
+line2 <shift> # 夜は静かだし、ロケにはいい場所だな」
+display
+com11 0 0
+sound 9
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「何か、夜の撮影ならではのアイディアを、プロ
+line2 <shift> # モーションビデオに取り入れられないかな……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、そうだな。それじゃあ……」
+com03 0 3
+choice1 <shift> # 照明で遊んでみる？
+line2
+com09 0 20
+com08
+choice2 <shift> # 流れ星を映してみる？
+line2
+com09 0 21
+com08
+choice3 <shift> # 幽霊を映してみる？
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「照明で遊んでみる？」
+display
+com11 0 0
+sound 10
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、それって面白そうです！
+line2 <shift> # 照明の色とかで、幻想的な感じにできそうだし」
+display
+com11 0 0
+sound 11
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ちょっと別世界っぽくしたりもできますよね。
+line2 <shift> # 私、やってみたいです！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わかった。後で監督に相談してみよう。
+line2 <shift> # 結構、いけるかもしれないぞ」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「流れ星を映してみる？」
+display
+com11 0 0
+sound 12
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「わあ、ロマンチック！　あ……でも、流れ星が
+line2 <shift> # 流れるまで、ずっと待機するんですか？」
+display
+com11 0 0
+sound 13
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「流れないかもしれないし……。ちょっと、
+line2 <shift> # そのへんが不安ですよね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、確かに。ちょっと軽率なアイディア
+line2 <shift> # だったかもしれないな……」
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「幽霊を映してみる？」
+display
+com11 0 0
+sound 14
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「もう、やめてください、プロデューサーさん！
+line2 <shift> # そういう悪い冗談、本気で怒りますよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、だけどそういうのが映ってるって
+line2 <shift> # 噂になると、結構売れるんだけどな」
+display
+com11 0 0
+sound 15
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「絶ーーーっ対に、ダメですっ！
+line2 <shift> # プロデューサーさんのイジワルっ……！！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうやら、本気で怒らせちゃったらしいな。
+line2 <shift> # ごめん、春香。もう言わないから」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 16
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「……あれ？　あれあれあれっ？」
+display
+com11 0 0
+sound 17
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「大変ですっ！　私、さっきのロケ場所に、
+line2 <shift> # 大事なものを、忘れてきたみたいで……」
+display
+com11 0 0
+sound 18
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「プロデューサーさん。ちょっと行って、
+line2 <shift> # 取って来てもいいですか？　すぐ戻りますから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さっきのロケ場所って、暗がりの向こうの花壇
+line2 <shift> # だろ？　ひとりじゃ危ないから、一緒に行こう」
+display
+com11 0 0
+sound 19
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「すみません、ありがとうございます。
+line2 <shift> # ……え？　キャッ……！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ん？　どうしたんだ、春香」
+display
+com11 0 0
+sound 20
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「い、今……、そこの茂みで、
+line2 <shift> # 何か動いたみたいに、見えたんですけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか？　どれどれ……」
+display
+com11 0 0
+sound 21
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ほ、ほらっ、あそこに何か……！　うう、
+line2 <shift> # プロデューサーさん……、私、怖いです！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （むう。どうやら、花壇の中にヘビがいるようだ。
+line2 <shift> # 春香が怖がるから、こっそり追い払わないとな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （花壇の近くに石を投げてみるか。でも、
+line2 <shift> # 花壇の右側と左側、どちらに投げるべきかな？）
+com03 0 2
+choice1 <shift> # 右側
+com09 0 30
+com08
+choice2 <shift> # 左側
+com09 0 31
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （右側でいいだろう……。えいっ！）
+com37 0 1
+com1e 0 0
+com09 0 38
+com3b
+com37 0 0
+com1e 0 0
+com09 0 39
+com3b
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （左側でいいだろう……。えいっ！）
+com37 0 1
+com1e 0 0
+com09 0 38
+com3b
+com37 0 0
+com1e 0 0
+com09 0 39
+com3b
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （適当に石を投げれば逃げるだろう……。
+line2 <shift> # えいっ！）
+com09 0 39
+display
+location 38 130 170 130 179 130 179 130 193 129 73
+display
+com11 0 0
+sound 22
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ど、どうしたんですか？
+line2 <shift> # プロデューサーさん。急に石なんか投げて」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、いや……なんでもない。
+line2 <shift> # どうやら、うまくいったらしいな……」
+display
+com11 0 0
+sound 23
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「えっ、何がですか……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、いいんだ。もう大丈夫だから。
+line2 <shift> # さあ、急ごう、春香」
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 24
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ……、忘れ物、ありました！
+line2 <shift> # ああ、よかった……大切なものだったから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「一体、何を忘れたんだ？」
+display
+com11 0 0
+sound 25
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「おばあちゃんにもらったお守りです。大事な
+line2 <shift> # 仕事の時なんかは、持ち歩くようにしてて……」
+display
+com11 0 0
+sound 26
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「さっきも、今日の撮影が成功しますように
+line2 <shift> # って、お守りにお願いしていたんです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか。見つかってよかったな」
+display
+com11 0 0
+sound 27
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい。ありがとうございました。
+line2 <shift> # これで残りの撮影も、うまくいく気がします！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （春香をおびえさせずにすんだし、ヘビも
+line2 <shift> # 傷つけずに、うまく追い払えたぞ。良かった！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……その後、春香は順調にロケを終えた。
+line2 <shift> # これも、お守りの効果かもしれないな！）
+com4b 0 0
+com09 0 69
+display
+location 39 130 170 130 179 130 179 130 193 129 73
+display
+com11 0 0
+sound 28
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ど、どうしたんですか……？　きゃああっ！
+line2 <shift> # ……へ、ヘビ！？　ヘビがいますっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しまった！　失敗したようだ……。
+line2 <shift> # 春香の足元を、ヘビが通り過ぎていく！）
+display
+com11 0 0
+sound 29
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ううううっ。こ、怖い……。
+line2 <shift> # プロデューサーさん。もう私、帰りたい……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ！？
+line2 <shift> # だ、だけど、忘れ物はどうするんだ？」
+display
+com11 0 0
+sound 30
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「も、もういいですっ。明るくなってから
+line2 <shift> # 改めて、探しに来ますから……」
+display
+com11 0 0
+sound 31
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「それより、早く撮影しちゃいましょう。
+line2 <shift> # ここは、もうイヤです……。ううう……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後、春香がずっと脅えていたせいで、
+line2 <shift> # 残りの撮影はぎこちないものとなってしまった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （忘れ物は、他のスタッフが拾ってくれたらし
+line2 <shift> # い。大切な忘れ物って、何だったんだろう……）
+com4b 0 2
+com09 0 69
+display
+location 69
+unk02

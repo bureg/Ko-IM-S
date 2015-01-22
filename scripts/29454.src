@@ -1,0 +1,218 @@
+com2c 0 118
+com2d 0 41
+com32 0 0
+location 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……どうだ、千早？
+line2 <shift> # だいぶ経ったけど、そろそろ落ち着いたか？」
+display
+com11 0 6
+sound 1500
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……………………」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「返事もできないのか？
+line2 <shift> # そんなに子どもだとは、思わなかったけど」
+display
+com11 0 6
+sound 1501
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「できます。でも、今、口を開いてしまうと、
+line2 <shift> # すべて言い訳になってしまいそうで……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「言い訳ぐらい、したっていいじゃないか。
+line2 <shift> # ほら、言ってみろよ。スッキリするから」
+display
+com11 0 6
+sound 1502
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「重さに耐えられなかったんです。今日のライブ
+line2 <shift> # が集大成ならいつも通りのデキでは許されない」
+display
+com11 0 6
+sound 1503
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そう思えば思うほど、ノドは締まり、背筋は
+line2 <shift> # 凍って、リズムの取り方に微妙なズレが。くっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「人間なんだから、それは当然の反応だよ。
+line2 <shift> # いい勉強になったじゃないか」
+display
+com11 0 6
+sound 1504
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「でも私、こんな弱い存在をめざして、時間を
+line2 <shift> # 重ねてきたわけではありません」
+display
+com11 0 6
+sound 1505
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「めざす場所すら、かすんできました。もう私には、
+line2 <shift> # 人前で歌う資格、ないのかも……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「な、なんだって！？　なにをバカなことを。
+line2 <shift> # まさか引退するつもりか！？」
+display
+com11 0 6
+sound 1506
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「他に、どうやって責任とれっていうんですか？
+line2 <shift> # 私にはわかりません。だから……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「千早、頭を冷やせ！　これぐらいのミスで
+line2 <shift> # 引退なんて、正気で言ってるのか？」
+display
+com11 0 6
+sound 1507
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「プロデューサー、でも！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なにが『歌う資格』だ！　人前で歌うのに、
+line2 <shift> # 資格なんて必要ない！　歌うってのは……」
+com03 0 3
+choice1 <shift> # 権利なんだよ！
+line2
+com09 0 10
+com08
+choice2 <shift> # 義務なんだよ！
+line2
+com09 0 11
+com08
+choice3 <shift> # 基本的人権なんだよ！
+line2
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「権利なんだよ！」
+display
+com11 0 6
+sound 1508
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「権利、ですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだ。誰かが許可するものでもなければ、
+line2 <shift> # 誰かが禁止できるものでもない」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「義務なんだよ！」
+display
+com11 0 6
+sound 1509
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「義務、ですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだ。千早ぐらいの才能を持った人間は、
+line2 <shift> # その力を役立てるために、歌い続ける義務がある」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「基本的人権なんだよ！　それを奪おうとする人
+line2 <shift> # は、たちまち捕らえられ監獄にぶち込まれる！」
+display
+com11 0 6
+sound 1510
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はあ……？　プロデューサーの話、
+line2 <shift> # すこし大げさすぎませんか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「う……。まあ多少、尾ヒレはつけたけど、
+line2 <shift> # ともかく歌うことは誰にも止められないんだ」
+com09 0 19
+display
+location 19
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なのに『資格がない』なんて言って、
+line2 <shift> # マイクを置こうとするのは、ただの逃げだ」
+display
+com11 0 6
+sound 1511
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「逃げ……。そうです、その通りです。でも私」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なあ千早。歌うことが、きらいになったのか？」
+display
+com11 0 6
+sound 1512
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そんなわけないです。
+line2 <shift> # 嫌いになんて、なれるはずが……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だったら、歌を捨てるんじゃない。好きなもの
+line2 <shift> # を捨てて、得るものなんて、なにもないんだ」
+display
+com11 0 6
+sound 1513
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「プロデューサー……。わかりました。これしき
+line2 <shift> # の失敗でムキになるなんて子どもの証ですよね」
+display
+com11 0 6
+sound 1514
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「舞台の上での失敗は、舞台で返すことにします。
+line2 <shift> # ……歌い続けて、いつかかならず！」
+display
+com1c 0 3
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そう、それでいい。千早なら、それができる
+line2 <shift> # はずだから」
+display
+com11 0 6
+sound 1515
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「では私、行きます。プロデューサー、これまでの
+line2 <shift> # ご指導、ご鞭撻（べんたつ）、感謝します」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。最後に握手ぐらいしておくか？」
+display
+com11 0 6
+sound 1516
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「いえ、それは……、取っておきます。次に」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「次？」
+display
+com11 0 6
+sound 1517
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。私、自分をきたえ直して、またいつか、
+line2 <shift> # プロデューサーのところへ帰ってきます」
+display
+com11 0 6
+sound 1518
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ねぎらいは、その時までとっておいてください。
+line2 <shift> # では」
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わかった、待ってるよ」
+display
+location 100 129 92 129 92 130 177 130 164 130 181 130 196 144 231 145 129 130 205 129 65 131 137 131 88 131 103 131 137 131 67 131 117 142 184 148 115 130 204
+line2 <shift> # 衝撃から、どうにか立ち直り、去っていった。
+display
+location 101 137 180 130 198 130 204 143 111 137 239 130 162 130 169 130 231 130 205 130 182 130 220 130 193 130 189 129 65 144 231 145 129 130 204 146 167 144 237 130 205 143 73 130 237
+line2 <shift> # らない。もし、また出会う機会があったなら――、
+display
+location 102 130 187 130 204 142 158 130 205 129 65 130 179 130 231 130 200 130 233 141 130 130 221 130 214 130 198 148 242 130 215 130 233 130 190 130 235 130 164 129 66 142 159 130 177
+line2 <shift> # そは、その比類なき才能の本格開花を見てみたい。
+display
+unk02

@@ -1,0 +1,405 @@
+com2c 0 88
+com2d 0 21
+com32 0 0
+com11 0 3
+sound 800
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「疲れをとりたいって言ったのに……。
+line2 <shift> # どうして、エステに連れてくるわけ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「寝っころがりながら、キレイになれるんだから、
+line2 <shift> # 一石二鳥だろ？」
+display
+com11 0 3
+sound 801
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「これ以上、キレイになる必要なんてないわー。
+line2 <shift> # 私、今でも日本一の美少女だもーん」
+com03 0 3
+choice1 <shift> # 世界一をめざそう
+line2
+com09 0 10
+com08
+choice2 <shift> # それは、うぬぼれだよ
+line2
+com09 0 11
+com08
+choice3 <shift> # 宇宙一をめざそう
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「世界一をめざそう」
+display
+com11 0 3
+sound 802
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「んー、そうね！　その座も、
+line2 <shift> # 手に届く位置にいるわけだし！」
+display
+com11 0 3
+sound 803
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「じゃ、お昼寝気分で、
+line2 <shift> # ちょっと見てもらってくるわ」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それは、うぬぼれだよ」
+display
+com11 0 3
+sound 804
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「な、なによー。人気は中くらいでも、顔は、
+line2 <shift> # 他のアイドルに負けてないんだから……」
+com09 0 18
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「宇宙一をめざそう」
+display
+com11 0 3
+sound 805
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「大げさー。めざすんなら、
+line2 <shift> # 世界一で、じゅうぶんでしょー」
+display
+com11 0 3
+sound 806
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「それとも、なあに？　私、なんとかグレイ
+line2 <shift> # とかに、見た目で負けてるってわけ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そんなことはないけど……」
+com09 0 18
+display
+location 18
+com11 0 3
+sound 807
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「まあ、いいわ。せっかくきたんだし、
+line2 <shift> # 昼寝しながら、見てもらってくる！」
+com09 0 19
+display
+location 19
+com22 0 30
+com21 0 30
+com11 0 3
+sound 808
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ふぅ〜、いってきたわ。
+line2 <shift> # どう？　ピッカピカでしょっ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだね。なんか湯上がりみたいだ」
+display
+com11 0 3
+sound 809
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「もっと、気のきいた言葉でほめなさいよー」
+display
+com11 0 3
+sound 810
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ん〜、エステ前とエステ後、
+line2 <shift> # どれくらいちがってみえる？」
+com03 0 3
+choice1 <shift> # 星と太陽ぐらい
+line2
+com09 0 20
+com08
+choice2 <shift> # 月とスッポンぐらい
+line2
+com09 0 21
+com08
+choice3 <shift> # ルビーとサファイアぐらい
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「星と太陽ぐらい」
+display
+com11 0 3
+sound 811
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あら、そーお？　もうみんな、うっかり目も
+line2 <shift> # 向けられないって感じね！　ふふっ」
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「月とスッポンぐらい」
+display
+com11 0 3
+sound 812
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……それって、エステに行く前は、
+line2 <shift> # スッポンだったってこと？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ！　……いや、
+line2 <shift> # とにかく見ちがえたってことだよ」
+display
+com11 0 3
+sound 813
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なに、あわててんのよ。
+line2 <shift> # ほんと、考えが浅いんだから……」
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ルビーとサファイアぐらい」
+display
+com11 0 3
+sound 814
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「それ、どっちの方が高いの？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「さ、さあ……。同じくらいかな……？」
+display
+com11 0 3
+sound 815
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「それじゃ、ホメてないじゃないのー。
+line2 <shift> # 無理なたとえ、しないでよね……」
+com09 0 29
+display
+location 29
+com11 0 3
+sound 816
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ほら、もっとよく見て！　頬なんかつるっつる
+line2 <shift> # でしょ！　すこしだけなら、さわってもいいわ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いいのか？」
+display
+com11 0 3
+sound 836
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「普段なら、絶対に、さわらせたりしないけど」
+display
+com11 0 3
+sound 837
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「でも、今日は仕事で来たんだもの。
+line2 <shift> # ほら、エステの効果、確かめなさいよ」
+com0e 0 111
+com44
+com09 0 30
+com45
+com44
+com09 0 31
+com45
+com44
+com09 0 32
+com45
+com44
+com09 0 33
+com45
+com44
+com09 0 34
+com45
+com44
+com09 0 35
+com45
+com44
+com09 0 36
+com45
+display
+location 30
+com11 0 3
+sound 817
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ふふっ、気持ちいいでしょ〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。こんなやわらかい頬、
+line2 <shift> # さわったことがないよ」
+display
+com11 0 3
+sound 818
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ん〜、なんか体もスッキリしたし、
+line2 <shift> # たまにはエステってのも、悪くないわね♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （けっこう気に入ってもらえたようだ。
+line2 <shift> # 連れてきて、よかったな）
+com09 0 39
+display
+location 31
+com11 0 3
+sound 838
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「え？　ほんのちょっとしか、
+line2 <shift> # さわってないじゃない」
+display
+com11 0 3
+sound 839
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「もっと、ちゃんとさわらないと、
+line2 <shift> # わからないでしょ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「せっかくスベスベになったんだ、
+line2 <shift> # あまりベタベタさわるのも、どうかと思って」
+display
+com11 0 3
+sound 840
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なによー、せっかくいいって言ってるのに。
+line2 <shift> # 素直じゃないわねー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うーん、もっとちゃんと触って、
+line2 <shift> # ほめてあげたほうが、良かったかもな）
+com09 0 39
+display
+location 32
+com11 0 3
+sound 822
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なんで、鼻の頭なんて、なでるわけ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、こっちもスベスベかなって。
+line2 <shift> # たしかに、皮膚にハリが出た感じかな」
+display
+com11 0 3
+sound 823
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「まあ、鼻でもほっぺたでも、同じようなもの
+line2 <shift> # だけど……。あんた、アマノジャクな性格ねー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （どうも、素直に言うことききたくないんだよな。
+line2 <shift> # でも、エステが効果満点だったのは、わかった）
+com09 0 39
+display
+location 33
+com11 0 3
+sound 841
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「えっ？　口はエステなんて、してもらってない
+line2 <shift> # わよ。だいたい口のエステって、何やるのよ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「トゲトゲしいことを言わない、
+line2 <shift> # 柔らかな口調になるとか」
+display
+com11 0 3
+sound 842
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「へぇ〜。それじゃあ普段の私は、トゲトゲしい
+line2 <shift> # キッツーイ口調だって言いたいわけね？」
+display
+com11 0 3
+sound 843
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「でも……、誰がそんなこと言わせてると
+line2 <shift> # 思ってるのよっ！　きぃーっ！！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （怒られてしまった……。軽口を叩くにしても、
+line2 <shift> # もう少し気をつかうべきだったな）
+com09 0 39
+display
+location 34
+com11 0 3
+sound 844
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ちょ、ちょっと。まつげじゃなくて、
+line2 <shift> # ほっぺたをさわりなさいよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、こっちもキレイになったと思って」
+display
+com11 0 3
+sound 845
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そりゃ、目元もキレイにしてもらったけど、
+line2 <shift> # そんな所さわっても、わからないでしょー？」
+display
+com11 0 3
+sound 846
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「まったく、あんたってホント、
+line2 <shift> # ダメダメよねー。時々、ビックリしちゃうわ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （あきれられてしまった。素直に
+line2 <shift> # ほっぺたをさわって、ほめるべきだったか……）
+com09 0 39
+display
+location 35
+com11 0 3
+sound 830
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……で、なんで髪をさわるわけ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え？　こっちもスベスベかなって、
+line2 <shift> # 思ったんだけど……」
+display
+com11 0 3
+sound 847
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あのねえ、エステは美容院とは、
+line2 <shift> # ちがうんだから、関係ないでしょ……」
+display
+com11 0 3
+sound 848
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そんなことの区別もつかないくせに、
+line2 <shift> # エステに連れてきたわけ？　はあーあ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （やや機嫌をそこねてしまった。
+line2 <shift> # なんで髪なんか、さわったんだ？　俺……）
+com09 0 39
+display
+location 36
+com11 0 3
+sound 833
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ちょっとー。ほっぺたさわってもいいって、
+line2 <shift> # 言ったのにー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、そうだったな。ごめんごめん」
+display
+com11 0 3
+sound 834
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ここに連れてきたの、あんたでしょ？
+line2 <shift> # 効果、確かめなくていいわけ？」
+display
+com11 0 3
+sound 835
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「フンっ、そんなに頬さわりたくないなら、
+line2 <shift> # いいわよーだ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （不機嫌になってしまった。あーあ、
+line2 <shift> # ちゃんと言うこと、聞いておけばよかったかな）
+com09 0 39
+display
+location 39
+unk02

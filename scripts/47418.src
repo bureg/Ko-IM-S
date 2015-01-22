@@ -1,0 +1,350 @@
+com2c 0 119
+com2d 0 83
+com2e 0 113
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「準々決勝は、これで終了だな。真、
+line2 <shift> # バッチリだったぞ。次も、この調子でいこう」
+display
+com11 0 0
+sound 10000
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「はいっ！　まだあと２週、あるんですよね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「勝負はこれから、ってことだ」
+display
+com11 0 0
+sound 10001
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「でも響のダンス、すごかったな。
+line2 <shift> # 直接、見たわけじゃないんですけど……」
+display
+com11 0 0
+sound 10002
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「響が踊り出した瞬間に、会場の空気が、
+line2 <shift> # ガラッと変わった、って感じでした」
+display
+com11 0 0
+sound 10003
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ボク、その雰囲気に、のまれちゃいそう
+line2 <shift> # でしたよ。審査員も皆、響に注目してたし」
+display
+com11 0 0
+sound 10004
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あれほどのダンスができるアイドルって、
+line2 <shift> # ほとんど、いないと思います」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それが、響の……」
+com03 0 3
+choice1 <shift> # 本気か
+com09 0 10
+com08
+choice2 <shift> # 必殺技か
+com09 0 11
+com08
+choice3 <shift> # 脳天気か
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「『本気』か……」
+display
+com11 0 0
+sound 10005
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「そういうことだぞ！」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「必殺技か……」
+display
+com11 0 0
+sound 10006
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「うわぁ。その言い方は、どうかと……」
+display
+com11 0 0
+sound 10007
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「必殺技か！　その言い方、気に入ったぞ！」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「脳天気か……」
+display
+com11 0 0
+sound 10008
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ええっ？　プロデューサー、何を……？」
+display
+com11 0 0
+sound 10009
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「自分は、脳天気じゃないぞ！
+line2 <shift> # 本気を出したんだ！　さっきそう言っただろ！」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10010
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「響！　今日は、お疲れさま！」
+display
+com11 0 0
+sound 10011
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「真も、お疲れっ！　ねえねえ、自分と戦って
+line2 <shift> # みて、どうだった？　勝てる気しない？」
+display
+com11 0 0
+sound 10012
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「……ううん。ボク、むしろ闘志が、
+line2 <shift> # ガンガンわいてきてるよ！」
+display
+com11 0 0
+sound 10013
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「そっか！　安心したぞっ！」
+display
+com11 0 0
+sound 10014
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「自分のカンペキなダンス見て、真が、
+line2 <shift> # やる気なくしてたら、ガッカリだったからな！」
+display
+com11 0 0
+sound 10015
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「真のダンスも、よかったぞ。でも、
+line2 <shift> # 勝つのは自分だからね！　じゃ、バイバイ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「真、よく言い返した。
+line2 <shift> # 気持ちでは、負けてないみたいだな！」
+display
+com11 0 0
+sound 10016
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「もちろんですよ！」
+display
+com11 0 0
+sound 10017
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「……響のすごさを直接体験して、怖いって、
+line2 <shift> # 思いました。体が、ふるえちゃいそうでした」
+display
+com11 0 0
+sound 10018
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「なのに、響と一緒に、もっと踊っていたいって
+line2 <shift> # いう気持ち、どんどん高まってきてるんです」
+display
+com11 0 0
+sound 10019
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「怖いのに、ワクワクしてる、っていうか……」
+display
+com11 0 0
+sound 10020
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ああ、うまく言葉で表せないなあ。とにかく、
+line2 <shift> # 今までに味わったことがないような気持ちで」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それって、つまり……」
+com03 0 3
+choice1 <shift> # 楽しいんだろう？
+line2
+com09 0 20
+com08
+choice2 <shift> # こわいもの見たさ？
+line2
+com09 0 21
+com08
+choice3 <shift> # ランナーズ・ハイ？
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「楽しい、っていうことだろう？」
+display
+com11 0 0
+sound 10021
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「……なるほど。そうか、そうですよね！
+line2 <shift> # ボク、楽しいんだ！」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「こわいもの見たさ、とか？
+line2 <shift> # お化け屋敷に入る気分と、似ているかもな」
+display
+com11 0 0
+sound 10022
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「お化け屋敷にたとえるのは、どうかと……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃあ、ジェットコースターの方か？」
+display
+com11 0 0
+sound 10023
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あっ、そっちの方が、近いですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いずれにせよ、楽しいってことだと思うぞ」
+display
+com11 0 0
+sound 10024
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「なるほど。結局は、そこなんですよね！
+line2 <shift> # ボク、楽しいんだ！」
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ランナーズ・ハイっていうやつか？」
+display
+com11 0 0
+sound 10025
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「マラソンなんかで、長い時間走り続けると、
+line2 <shift> # 気分が高まってくるっていう、あれですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「真の頭の中では今、脳内物質が、
+line2 <shift> # ドバドバ分泌されているに違いない」
+display
+com11 0 0
+sound 10026
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「な、何だか、言い方に、
+line2 <shift> # ロマンのカケラもないですね……」
+display
+com11 0 0
+sound 10027
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「それに、もしそうだったとして、
+line2 <shift> # 何で、ドバドバ分泌されてるんでしょう？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「う〜ん……。何となく、その言葉を使って
+line2 <shift> # みたかっただけで、理由は、わからない……」
+display
+com11 0 0
+sound 10028
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「うわぁ、プロデューサー、テキトーすぎ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうか？　ええっと、要するに、真は、
+line2 <shift> # 楽しかったっていうことだろう！？」
+display
+com11 0 0
+sound 10029
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「……あ、なるほど。そうですね！
+line2 <shift> # 結局、ボクは、楽しかったんだ」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それが、真の夢だったもんな」
+display
+com11 0 0
+sound 10030
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「いえ、違いますよ、プロデューサー」
+display
+com11 0 0
+sound 10031
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ボクの夢は、ボクも、響も、ファンの皆も、
+line2 <shift> # 楽しむことができるステージです！」
+display
+com11 0 0
+sound 10032
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「でも、今日、ファンの皆は響だけを見てました。
+line2 <shift> # だから、次は……」
+display
+com11 0 0
+sound 10033
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ボクの方も、見てもらわなきゃ！
+line2 <shift> # ボクも、皆を楽しませられるようにしなきゃ！」
+display
+com11 0 0
+sound 10034
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ボクと、響と、ファンと。会場が、
+line2 <shift> # 一体になるような、そんなステージにしたい！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「次は、存在感を見せつけてやろう。そうすれば、
+line2 <shift> # きっと真が望んだステージにできる」
+display
+com11 0 0
+sound 10035
+com4c 0 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「はいっ。ボク、勝ちたい！
+line2 <shift> # あれだけすごい響に、勝ちたいですっ！」
+com09 0 99
+display
+location 99
+unk02

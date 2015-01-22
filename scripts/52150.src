@@ -1,0 +1,353 @@
+com2c 0 37
+com2d 0 92
+com2e 0 102
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さあ、亜美、真美。基礎体力のトレーニング、
+line2 <shift> # はじめよう」
+display
+com11 0 5
+sound 1000
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「真美真美ー。あっちでね〜、すっごい
+line2 <shift> # レオタード着たお姉さんが、踊ってたよっ」
+display
+com11 0 5
+sound 1001
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ほんとー？　見る見るー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「こらこら、ふたりとも！」
+com03 0 3
+choice1 <shift> # 迷惑が、かかるぞ
+line2
+com09 0 10
+com08
+choice2 <shift> # フマジメすぎないか？
+line2
+com09 0 11
+com08
+choice3 <shift> # たるんでないか？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「迷惑が、かかるぞ」
+display
+com11 0 5
+sound 1002
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「そーお？　だったら、見に行くの、
+line2 <shift> # 止めた方がいいかなあ」
+display
+com11 0 5
+sound 1003
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「じゃあ、別のところに行こうよ！　あっちに、
+line2 <shift> # お風呂みたいなところ、あったよ！」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「フマジメすぎないか？」
+display
+com11 0 5
+sound 1004
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「そんなこと、ないよ〜。だって亜美達、
+line2 <shift> # マジメにお姉さん、見に行くんだもん」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、そういうことじゃなくて、見に行く
+line2 <shift> # こと自体が、フマジメだろ？」
+display
+com11 0 5
+sound 1005
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「だったら、真美、別のところ行こうよ。
+line2 <shift> # あっちにお風呂みたいなところ、あったよ！」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「たるんでないか？」
+display
+com11 0 5
+sound 1006
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「全然、そんなことないよ〜。あのお姉さん、
+line2 <shift> # 体、ムキッと引きしまってたもーん」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お姉さんの話じゃなくて、亜美達の話！
+line2 <shift> # そんなの、見てる場合じゃないだろ？」
+display
+com11 0 5
+sound 1007
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「お姉さんはダメ？　だったら、別のところ行こ
+line2 <shift> # うよ。あっちに、お風呂みたいなところが……」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、それよりも、まずはトレーニングを……
+line2 <shift> # だな」
+display
+com11 0 5
+sound 1008
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「運動は〜楽しみながらやらないと、皮肉になら
+line2 <shift> # ないんだよ？　体育の先生が言ってたもん」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「皮肉じゃなくて、血肉だろ……。遊んでばかり
+line2 <shift> # いたら、トップアイドルになれないぞ？」
+display
+com11 0 5
+sound 1009
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「もし、遊んでばかりいて、トップアイドルに
+line2 <shift> # なれたら、すっごくラッキーだよね？」
+com03 0 2
+choice1 <shift> # そんなこと、ありえないよ
+line2
+com09 0 30
+com08
+choice2 <shift> # それじゃ、つまらないだろ
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなこと、ありえないよ」
+display
+com11 0 5
+sound 1010
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「そっかー。じゃあ、つらいこともガマンする
+line2 <shift> # しかないんだね〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さ、わかったら、トレーニング開始しよう。
+line2 <shift> # がんばらないと、せっかくのウェアが泣くぞ」
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それじゃ、つまらないだろ？」
+display
+com11 0 5
+sound 1011
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「そんなことないよ〜。だって、苦労しないで、
+line2 <shift> # 人気者になれた方が、うれしいもん！」
+display
+com11 0 5
+sound 1012
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「真美も真美もー！　んっとね、楽しいことだけ
+line2 <shift> # やって、トップになりたいー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そう、うまくはいかないよ。さ、トレーニング
+line2 <shift> # はじめないと、せっかくのウェアが泣くぞ」
+com09 0 49
+display
+location 49
+com11 0 5
+sound 1013
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「あ、兄ちゃん！　亜美と真美のトレーニング
+line2 <shift> # ウェア、すこしだけちがうの、わかる〜？」
+display
+com11 0 5
+sound 1014
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ちがうとこ、当ててみてー！　もし、
+line2 <shift> # わかったら、真美達、すぐ運動はじめるー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まったく、次から次へと……。
+line2 <shift> # ちがうところは、えっと……、ここか？」
+com0e 3 39
+com44
+com09 0 50
+com45
+com44
+com09 0 51
+com45
+com44
+com09 0 52
+com45
+com44
+com09 0 53
+com45
+com44
+com09 0 54
+com45
+com44
+com09 0 55
+com45
+com44
+com09 0 56
+com45
+com44
+com09 0 57
+com45
+display
+location 50
+com11 0 5
+sound 1015
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「当ったり〜！　そう、バッチだけ、ちがうの〜。
+line2 <shift> # カンタンに、わかっちゃったね！」
+display
+com11 0 5
+sound 1016
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「それじゃ、亜美。運動、はじめよっか〜。
+line2 <shift> # んーと、まずは、ラジオ体操からね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よし！　やっと言うこと、きいてくれたな。
+line2 <shift> # トレーニングひとつさせるのも、大変だ）
+com09 0 69
+display
+location 51
+com11 0 5
+sound 1017
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「髪かざりは、服じゃないもんっ。そこは、
+line2 <shift> # ちがっても、関係ないよ〜」
+com09 0 91
+display
+location 52
+com11 0 5
+sound 1018
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「エリのところは、亜美も真美も、同じだよ？
+line2 <shift> # 兄ちゃん、よく探してくれた？」
+com09 0 91
+display
+location 53
+com11 0 5
+sound 1019
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ソデのところは、亜美も真美も、同じだよ？
+line2 <shift> # 兄ちゃん、よく探してくれた？」
+com09 0 91
+display
+location 54
+com11 0 5
+sound 1020
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「チャックは、亜美のも真美のも、同じだよ？
+line2 <shift> # 兄ちゃん、ほんとに、よく見てくれた？」
+com09 0 91
+display
+location 55
+com11 0 5
+sound 1021
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「そこは〜、亜美のも真美のも、変わらないよ？
+line2 <shift> # 兄ちゃん、ほんとによく探してくれた？」
+com09 0 91
+display
+location 56
+com11 0 5
+sound 1022
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「そんなところ、服なんて、着てないもーん。
+line2 <shift> # 兄ちゃん、わからないから、ごまかしたでしょ」
+com09 0 91
+display
+location 91
+com11 0 5
+sound 1023
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「亜美〜、体操するのは、やっぱりお風呂見て
+line2 <shift> # きてからにしよ！　さっ、行こー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「こ、こら！　行っちゃダメだよ。しっかり、
+line2 <shift> # 運動を……」
+display
+com11 0 5
+sound 1024
+com4c 0 3
+name 0 0 <names:4>  # Ami and Mami
+line1 <shift> # 「あーとーでー！！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （はしゃぎながら、行ってしまった……。
+line2 <shift> # 運動ひとつ、まともにさせられないとは……）
+com09 0 69
+display
+location 57
+com11 0 5
+sound 1025
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「兄ちゃん、ここって、どこ？　見てるだけじゃ、
+line2 <shift> # わからないよ〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「その……ほら、わかるだろ？　今、俺が
+line2 <shift> # 見てるところだよ」
+display
+com11 0 5
+sound 1026
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「あ〜、わからないから、そんなこと言って、
+line2 <shift> # ごまかしてるんでしょ〜。兄ちゃん、ずる〜い」
+display
+com11 0 5
+sound 1027
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「やっぱり、運動は後だね！　さ、亜美、
+line2 <shift> # あっちのお風呂、見に行こー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （結局、逃げられてしまった……。うーん、視線
+line2 <shift> # じゃなくて、指でズバッと指摘すればよかった）
+com09 0 69
+display
+location 69
+unk02

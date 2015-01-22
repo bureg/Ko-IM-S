@@ -1,0 +1,304 @@
+com2c 0 32
+com2d 0 93
+com2e 0 103
+com32 0 0
+com11 0 4
+sound 1000
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「今日は、ＣＤ屋さんの中で、ライブやるん
+line2 <shift> # だねっ！　おしゃれで、メチャイケ〜！」
+display
+com11 0 4
+sound 1001
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「こういうイベントなら、きっとカップルとかも、
+line2 <shift> # たくさん来てくれるよね！」
+display
+com11 0 4
+sound 1002
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「ライブ見て〜、お茶して〜、日が暮れたら、
+line2 <shift> # いい雰囲気になって……。で、んっふっふ〜」
+com03 0 3
+choice1 <shift> # ふたりの世界へＧＯ、と
+line2
+com09 0 10
+com08
+choice2 <shift> # そのまま帰る、と
+line2
+com09 0 11
+com08
+choice3 <shift> # そ、そこまでっ！
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「ふたりの世界へＧＯ、と」
+display
+com11 0 4
+sound 1003
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「だよねー！
+line2 <shift> # 公園とかで、手握って、顔近づけて〜♪」
+display
+com11 0 4
+sound 1004
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ちゅー♪　とか、しちゃうんだろーなー。
+line2 <shift> # ちょっと、うらやましいかも〜」
+com09 0 29
+display
+location 11
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「そのまま帰る、と」
+display
+com11 0 4
+sound 1005
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「ええええ〜、そんなの、つまらないよ〜。
+line2 <shift> # やること、やらないと〜」
+display
+com11 0 4
+sound 1006
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「そーだよ。カップルは、手握って、
+line2 <shift> # ちゅーとか、するんだから〜」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「ま、まあ、その程度なら、いいか。
+line2 <shift> # ふぅ〜、あせった……」
+com09 0 29
+display
+location 12
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「そ、そこまでっ！　それ以上、話進めると、
+line2 <shift> # アイドル失格になるっ！」
+display
+com11 0 4
+sound 1007
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「え〜、どうして〜？　別に、ちゅーの話ぐらい、
+line2 <shift> # してもいいでしょ〜？」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「ちゅーって……、あ、キスか。
+line2 <shift> # その程度なら、まあ、いいけどな」
+display
+com11 0 4
+sound 1008
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「……兄ちゃん、なんの話だと、思ったの？
+line2 <shift> # 今度、ゆっくりきかせてねっ」
+com09 0 29
+display
+location 29
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「さて、じゃあ、そろそろスタンバイを。
+line2 <shift> # 今日は、どっちが歌うんだ？」
+display
+com11 0 4
+sound 1009
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「んっとね、真美が歌う方ー！」
+display
+com11 0 4
+sound 1010
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「そんで、亜美は見張る方ー！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「え？　見張るって……、
+line2 <shift> # いったい、なにをだ？」
+display
+com11 0 4
+sound 1011
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「客席、せまいでしょ？　だから、きてくれた
+line2 <shift> # カップルが、Ｈなことしないか、観察するのっ」
+com03 0 2
+choice1 <shift> # よし、俺もつき合おう
+line2
+com09 0 30
+com08
+choice2 <shift> # 変な遊びするなよ
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「よし、俺もつき合おう」
+display
+com11 0 4
+sound 1012
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「あ、兄ちゃんも、いっしょにやる？
+line2 <shift> # じゃあ、亜美と来て！　真美、がんばってねー」
+com09 0 49
+display
+location 31
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「変な遊びするなよ。
+line2 <shift> # もっと真面目にステージを……」
+display
+com11 0 4
+sound 1013
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ちがうもーん。これは〜、そーごー学習なの！
+line2 <shift> # 勉強は、大切なんだからっ！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「よく言うよ。まったく……」
+display
+com11 0 4
+sound 1014
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ほら、兄ちゃんも、いっしょに来て。
+line2 <shift> # それじゃ、真美、がんばってねー」
+com09 0 49
+display
+location 49
+com22 0 30
+com32 0 0
+com21 0 30
+com11 0 4
+sound 1015
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「結局、カップルなんて、ほとんど来なかった
+line2 <shift> # ね〜。亜美、楽しみにしてたのに……」
+display
+com11 0 4
+sound 1016
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ねえ、兄ちゃん。どうして今日のライブ、
+line2 <shift> # デートコースに、選ばれなかったの？」
+com03 0 3
+choice1 <shift> # 酔わせる魅力が、ないからだ
+line2
+com09 0 50
+com08
+choice2 <shift> # 見張ってるの、バレたのかも
+line2
+com09 0 51
+com08
+choice3 <shift> # アイドルのライブだから、かな
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「酔わせる魅力が、ないからだ。今のレベルじゃ、
+line2 <shift> # 目の肥えたカップルには、通じないよ」
+display
+com11 0 4
+sound 1017
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「そっか〜。デートで、いろんな人のライブ
+line2 <shift> # 見てるから、比べられちゃうんだね。よ〜し！」
+display
+com11 0 4
+sound 1018
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ちょっと、真美と相談してくる！　作戦
+line2 <shift> # 立てて、次はカップルにも来てもらわないと」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （動機はともかく、客層を広げる努力は大切だ。
+line2 <shift> # 存分に話し合って、今後に、つなげてほしいな）
+com09 0 69
+display
+location 51
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「見張ってるの、バレたのかも」
+display
+com11 0 4
+sound 1024
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「う、ウソ〜？　亜美、絶対気付かれないって
+line2 <shift> # 思ったのに……。カップルって、鋭いんだね」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「わかったら、今度は客席じゃなくて、
+line2 <shift> # ステージの方を観察して、勉強しよう」
+display
+com11 0 4
+sound 1020
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「よーし、次は、もっとがんばるっ。真美と
+line2 <shift> # いっしょに、うまく隠れる練習しないとっ！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （きいちゃいない。なんか、別方向に、
+line2 <shift> # 燃えているけど……、ま、いいか）
+com09 0 69
+display
+location 52
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「アイドルのライブだから、かな。カップルは、
+line2 <shift> # 普通、こういうの、見に来ないんじゃないか？」
+display
+com11 0 4
+sound 1021
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ええええ、そうなの〜？　すっごく、
+line2 <shift> # 歌うまくなって、すっごい有名になっても？」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「可能性は、あまりないだろうな。いいじゃ
+line2 <shift> # ないか。カップルだけが、お客じゃないし」
+display
+com11 0 4
+sound 1022
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「でも、カップルにも、きてほしいよ〜！
+line2 <shift> # お客さんは多い方がいいし、勉強もしたいし！」
+display
+com11 0 4
+sound 1023
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「アイドルって、そういう目で見られるんだね。
+line2 <shift> # 亜美、くやしいかも……」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （鼻を、グスグスならしている。アイドルを
+line2 <shift> # 見下すような発言は、よくなかったようだ）
+com09 0 69
+display
+location 69
+unk02

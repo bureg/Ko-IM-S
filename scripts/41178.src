@@ -1,0 +1,335 @@
+com2c 0 118
+com2d 0 71
+com32 0 0
+location 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「こら、律子！　落ち着け。
+line2 <shift> # どこへ行くんだよ？」
+display
+com11 0 6
+sound 1500
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「プロデューサーのいないところ！
+line2 <shift> # 放っておいて！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺のいない……？
+line2 <shift> # なんでだよ！　止まれって」
+display
+com11 0 6
+sound 1501
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「……もう、なんでついてくるかなぁ。
+line2 <shift> # 私の気持ち、わからない？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わからないよ。俺の段取りがよくなかったから、
+line2 <shift> # ハラを立ててるのか？」
+display
+com11 0 6
+sound 1502
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「……はい、不正解。さよなら！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「待てってば。せめて答えを教えろよ」
+display
+com11 0 6
+sound 1503
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「もう、しつこいなあ。……正解は、今、誰かと
+line2 <shift> # いると、その人に当たっちゃいそうだから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんだ、そんなことか。
+line2 <shift> # いいじゃないか、それぐらいしたって」
+display
+com11 0 6
+sound 1504
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「……よくない。アイドルとして、大した実績も
+line2 <shift> # 残せなかった上に、八つ当たりなんて最低だし」
+display
+com11 0 6
+sound 1505
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「はあーあ。今夜はきっと、プチ祭りね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「は？　プチ祭り？」
+display
+com11 0 6
+sound 1506
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そう。某掲示板の私のスレッドに、
+line2 <shift> # ひどい悪口、さんざん書かれると思う」
+display
+com11 0 6
+sound 1507
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「まあ、いいけど。もう私、そういうのを
+line2 <shift> # 気にする表舞台とは、今日でサヨナラするから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さよならって……。おい、律子、まさか！」
+display
+com11 0 6
+sound 1508
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「もともと不向きだったのよ。これ位のライブ、
+line2 <shift> # 才能で乗り切れないんじゃ先行きも知れてるし」
+display
+com11 0 6
+sound 1509
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そもそも私みたいなタイプは、ニーズもないん
+line2 <shift> # だと思う。自分でも、何期待してたんだか……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなこと、いうなよ。律子らしくないぞ。
+line2 <shift> # たいした根拠もなく、決めつけるだなんて」
+display
+com11 0 6
+sound 1510
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「根拠はある！　世の中のアイドルファンは、た
+line2 <shift> # いてい、物言わないおとなしい子が好きなの！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「う。それはそうかもしれないが、つまらないだ
+line2 <shift> # ろ？　おとなしいアイドルだけの芸能界なんて」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もう１回やる気を出してくれよ！　これからの
+line2 <shift> # アイドル界には必要なんだ。律子のような……」
+com03 0 3
+choice1 <shift> # タカ派が！
+com09 0 10
+com08
+choice2 <shift> # 印象派が！
+com09 0 11
+com08
+choice3 <shift> # 飛び道具が！
+line2
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「タカ派が！」
+display
+com11 0 6
+sound 1511
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「タカ派って、私、政治家じゃないんだから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、まあ、言い方はともかく、律子のような、
+line2 <shift> # 強気な子がブームになる日は、必ず来る！」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「印象派が！」
+display
+com11 0 6
+sound 1512
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「印象派って、私、油絵じゃないんだから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、まあ、言い方はともかく、律子のような、
+line2 <shift> # 強気な子がブームになる日は、必ず来る！」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「飛び道具が！」
+display
+com11 0 6
+sound 1514
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「飛び道具って、あのねえ。私はライフルやら、
+line2 <shift> # マシンガンと同じ扱いなわけ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、たとえ話だよ。俺は信じてるぞ、律子の
+line2 <shift> # 強烈な個性が火を噴く日は、必ず来ると！」
+com09 0 19
+display
+location 19
+com11 0 6
+sound 1515
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「本心から言ってる？　それが、
+line2 <shift> # プロデューサーとしての今後の業界の展望？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。今回は残念ながら、力も足りなかったし、
+line2 <shift> # 追い風も吹かなかった。でも、いつか……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「律子の時代はくる！　こなけりゃ、つくれば
+line2 <shift> # いい！　だから、結論を急がないでくれ」
+display
+com11 0 6
+sound 1516
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「……ふーん、プロデューサーもけっこう
+line2 <shift> # 成長してるのね。私、正直おどろいた」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お？　俺の観察眼の鋭さ、
+line2 <shift> # 認めてくれるのか？」
+display
+com11 0 6
+sound 1517
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ううん。私がビックリしたのは、口説くのが、
+line2 <shift> # うまくなったってこと。今、言われて……」
+display
+com11 0 6
+sound 1518
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そうなのかも、って、すこし思っちゃった。
+line2 <shift> # デマカセなんだろうけど。ふふっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「デマカセなんかじゃないよ！」
+display
+com11 0 6
+sound 1519
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「はいはい。でも今回は、その口の達者さに、
+line2 <shift> # のせられてみるかな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え？　じゃあ……！！」
+display
+com11 0 6
+sound 1520
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「うん、アイドル続けてみる。この世界の入口を
+line2 <shift> # 開いてくれたプロデューサーに敬意を表して！」
+display
+com1c 0 3
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そう言ってくれると、俺もうれしいよ。
+line2 <shift> # 律子なら、いつかきっとトップを取れる」
+display
+com11 0 6
+sound 1521
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「まあ、話半分に聞いておく。いつかまた、
+line2 <shift> # 力を貸してもらうから、腕みがいておいてね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、そうしておくよ」
+display
+com11 0 6
+sound 1522
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「それじゃ、私、行くから。今日まで、
+line2 <shift> # お世話さま……。って、ああああっ！！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「な、なんだよ？　大きな声出して」
+display
+com11 0 6
+sound 1523
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「プロデューサー、髪ボサボサ！
+line2 <shift> # もう、だらしないなぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「しかたないだろ。律子を追って、
+line2 <shift> # ここまで走ってきたんだから」
+display
+com11 0 6
+sound 1524
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「まったく、最後まで世話焼かせるんだから。
+line2 <shift> # ほら、直すから、じっとしてて」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いいよ。それより律子こそ、じっとしてろ。
+line2 <shift> # 走ったせいで、髪ほつれてるから直してやる」
+display
+com11 0 6
+sound 1525
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「えっ。……い、いい。私は」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そう言うなって。キレイにして、送り出して
+line2 <shift> # やるよ。こういう時ぐらい、らしい事させろ」
+display
+com11 0 6
+sound 1526
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「う、うん……。じゃあ、はい」
+com0e 2 98
+com44
+com09 0 20
+com45
+com44
+com09 0 21
+com45
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、これでＯＫだ。キレイになったぞ」
+display
+com11 0 6
+sound 1527
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「……ありがと。で、でもっ、ケアのしかたは、
+line2 <shift> # イマイチね。気持ちだけは、伝わってきたけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ちぇっ。最後まで、キツイなあ」
+display
+com4a 0 0
+com11 0 6
+sound 1528
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「なによ、ありがとうってちゃんと言ったのに。
+line2 <shift> # 次までに、お互い色々勉強しておこう。じゃ」
+com09 0 29
+display
+location 21
+com11 0 6
+sound 1529
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「プロデューサー？
+line2 <shift> # とかすんなら、ちゃんと……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、まあ、今日のところは許してやる。
+line2 <shift> # ……急に照れくさくなってきた」
+display
+com11 0 6
+sound 1530
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「なに、それ？　中途半端だなぁ。
+line2 <shift> # そんなことじゃ、プロデューサー失格！」
+display
+com4a 0 0
+com11 0 6
+sound 1531
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「……と言いたいところだけど、
+line2 <shift> # 今回は保留にしておく。それじゃ！」
+com09 0 29
+display
+location 29
+location 100 129 92 129 92 130 177 130 164 130 181 130 196 151 165 142 113 130 205 129 65 130 183 130 177 130 181 140 168 130 240 130 183 130 173 130 223 130 200 130 170 130 231 129 65
+line2 <shift> # せかせかした足どりで、俺の前から去っていった。
+display
+location 101 141 161 137 241 130 204 131 118 131 141 131 102 131 133 129 91 131 88 130 197 130 205 129 65 151 165 142 113 130 204 150 202 147 124 130 240 130 221 130 189 130 198
+line2 <shift> # いうより、逆に面倒をみられていたな。でも……、
+display
+location 102 142 159 130 204 139 64 137 239 130 170 130 160 130 234 130 206 129 65 141 161 147 120 130 177 130 187 151 167 143 234 130 205 139 116 147 93 130 197 130 171 130 233 129 66
+line2 <shift> # そしてその時こそ、ラストライブを成功させたい。
+display
+unk02

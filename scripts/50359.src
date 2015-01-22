@@ -1,0 +1,623 @@
+com2c 0 24
+com2d 0 91
+com2e 0 101
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それじゃ、ミーティング始めるぞ！
+line2 <shift> # 最近、変わったこととかは、ないか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「売れっ子なのは良いことだけど、仕事ばかりで、
+line2 <shift> # 疲れたりしてないかな？」
+display
+com11 0 0
+sound 10000
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「そんなの全然ヘッチャだよ〜。亜美達、
+line2 <shift> # 二人でやってるし！　双子パワー全開だよっ！」
+display
+com11 0 0
+sound 10001
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「それに、お仕事、おもしろいもん。
+line2 <shift> # もう、どんどん来ちゃっていいよ〜っ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうなのか？　それなら、いいんだけど」
+display
+com11 0 0
+sound 10002
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「あ、でも……、今、亜美達って、
+line2 <shift> # ほとんど毎週、ＴＶに出ちゃってるよね？」
+display
+com11 0 0
+sound 10003
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ガッコの友達、亜美達の出てる番組は、
+line2 <shift> # よく観ててくれるんだけど……」
+display
+com11 0 0
+sound 10004
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「最近は、出すぎちゃってて、
+line2 <shift> # 『ちょっと飽きたかも』って言われちゃった」
+display
+com11 0 0
+sound 10005
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「あっ。それ、真美も言われた〜！
+line2 <shift> # ねえ、兄ちゃん、どうすればいいかなー？」
+com03 0 3
+choice1 <shift> # 飽きさせないようにしよう
+line2
+com09 0 10
+com08
+choice2 <shift> # 気にしない
+com09 0 11
+com08
+choice3 <shift> # 仕事を減らそう
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「飽きさせないようにしよう。たとえば、
+line2 <shift> # イメージチェンジするとかしてな」
+display
+com11 0 0
+sound 10006
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「それって、ハリウッドスターの名前みたいだね。
+line2 <shift> # 『主演！　イメージ・チェンジ』とか！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、スターの名前じゃないよ……。
+line2 <shift> # イメチェンっていうのはな……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いつもと違うことをしてみるってことだよ。
+line2 <shift> # そうすれば飽きないだろ？」
+display
+com11 0 0
+sound 10007
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「んーと、毎日ハンバーグだと飽きちゃうから、
+line2 <shift> # たまにはカレーにする、みたいなこと？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うん。まあ、そんな感じかな！」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「気にしないでおこう。
+line2 <shift> # 考えても、しょうがないだろ？」
+display
+com11 0 0
+sound 10008
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「え〜っ？　でも、気になるよ〜！」
+display
+com11 0 0
+sound 10009
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「うんうん、気になる〜。
+line2 <shift> # だって、飽きられちゃうのはヤだし！」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それなら、少し、仕事を減らそうか？」
+display
+com11 0 0
+sound 10010
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「えええっ！？　それはヤだよ〜！
+line2 <shift> # 亜美達、いっぱい仕事したいのにー！」
+display
+com11 0 0
+sound 10011
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「仕事ちょびっとだったのが、せっかく
+line2 <shift> # たくさんになったのに〜。また減らすの？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん……。俺としても、仕事を減らすのは、
+line2 <shift> # うれしいことじゃないけど……」
+display
+com11 0 0
+sound 10012
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「仕事減らす以外に、なんか無いの？
+line2 <shift> # めちゃイケな作戦、考えてよ、兄ちゃん！」
+com09 0 19
+display
+location 19
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そういうことなら、イメージチェンジ……、
+line2 <shift> # つまりイメチェンをするしかないかな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いつもと違うキャラクターで売り出すんだ。
+line2 <shift> # そうすれば飽きられないだろ？」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 10013
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「それって楽しそうだねっ！
+line2 <shift> # よーし、イメチェンしちゃおー！　お〜っ！」
+display
+com11 0 0
+sound 10014
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「お〜っ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お、やる気まんまんだな。でも、変な
+line2 <shift> # イメチェンは逆効果だから、慎重に考えないと」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「亜美と真美に似合ってて、ムリのない
+line2 <shift> # キャラクターでないとな。けっこう難しいぞ？」
+display
+com11 0 0
+sound 10015
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ん〜と……。じゃあ亜美、おじょーさまに
+line2 <shift> # しよーっと。亜美に、ぴったりっぽいよー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……えーと。俺の話、ちゃんときいてたか？」
+display
+com11 0 0
+sound 10016
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「真美は物知りな人〜！　真美博士って感じ！」
+display
+com11 0 0
+sound 10017
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「あ、でもオトナなのもいいなー。
+line2 <shift> # 亜美達、もうじき中学生だしね！」
+display
+com11 0 0
+sound 10018
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「うんうん、アダルトな大人のミリョクで、
+line2 <shift> # みんなをとりこにしちゃうよ。んっふっふ〜♪」
+display
+com11 0 0
+sound 10019
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「う〜ん、迷っちゃうなー。
+line2 <shift> # ねえ、兄ちゃんは、どれがいいと思う？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どれって、その３つから選ぶのか？
+line2 <shift> # かなり厳しい選択だけど……」
+com03 0 3
+choice1 <shift> # お嬢様路線
+com09 0 30
+com08
+choice2 <shift> # 物知り路線
+com09 0 31
+com08
+choice3 <shift> # アダルト路線
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「その中なら、お嬢様かな。
+line2 <shift> # 試しに、お嬢様っぽく、話してみてくれよ」
+display
+com11 0 0
+sound 10020
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「んっふっふ〜♪　亜美達の
+line2 <shift> # おじょーさまっぷり、見ててよね〜！」
+display
+com11 0 0
+sound 10021
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「オホン……。わらわは亜美姫じゃ。
+line2 <shift> # ごきげんよう、真美〜」
+display
+com11 0 0
+sound 10022
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「あら、亜美〜。超おひさーで、
+line2 <shift> # ござりまするる〜！」
+display
+com11 0 0
+sound 10023
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「真美、お茶でも、おいっしょに、
+line2 <shift> # お飲みに、おなりませんですます？」
+display
+com11 0 0
+sound 10024
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「それは、おステキで、おますわ〜。
+line2 <shift> # オーッホッホッホ〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……ストップ。とりあえず、二人ともお嬢様が
+line2 <shift> # 全然わかってないってことは、わかったよ……」
+display
+com11 0 0
+sound 10025
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「え〜っ？　カンペキなおじょーさまっぷり
+line2 <shift> # だと思ったのに〜！」
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「その中なら、物知りキャラかな。
+line2 <shift> # 試しに、ちょっとやってみてくれよ」
+display
+com11 0 0
+sound 10026
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「んっふっふ〜♪　真美博士に任せなさい〜！」
+display
+com11 0 0
+sound 10027
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「真美の物知りっぷりは、マジスゴだよ。
+line2 <shift> # たとえばね〜……」
+display
+com11 0 0
+sound 10028
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「……えーと、えーと。
+line2 <shift> # どんなこと言えば、物知りっぽいかな？」
+display
+com11 0 0
+sound 10029
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「あっ、そうだ！　７の段のかけ算しまーす！
+line2 <shift> # ７×１が７、７×２が１４！　どお！？」
+display
+com11 0 0
+sound 10030
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「真美、やっる〜！　７の段は結構ムズいよね！
+line2 <shift> # じゃあ、亜美も行くよ〜！」
+display
+com11 0 0
+sound 10031
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「えーと、古い毛や〜、
+line2 <shift> # カエルぴょこぴょこ、みぴょこぴょこ〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……もういいよ。やっぱり小学生に、
+line2 <shift> # 物知りキャラはムリだよな……」
+display
+com11 0 0
+sound 10032
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「え〜っ？　真美、がんばったのに〜っ！」
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「その中なら、アダルト路線……、かな。
+line2 <shift> # 試しに何かアダルトなトークをしてみてくれ」
+display
+com11 0 0
+sound 10033
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「んっふっふ〜♪　兄ちゃん、亜美達の
+line2 <shift> # オトナっぷりに、びっくりしちゃうよ！」
+display
+com11 0 0
+sound 10034
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「んっふっふ〜♪　せくしートークさくれつ！
+line2 <shift> # だよ〜っ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうか。期待してるぞ！
+line2 <shift> # さあ、やってみてくれ」
+display
+com11 0 0
+sound 10035
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「真美さんやー、夏といえば、
+line2 <shift> # やっぱり海に限りますなぁ！」
+display
+com11 0 0
+sound 10036
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「水着のお姉ちゃん達が、
+line2 <shift> # 目にまぶしいですなぁ！」
+display
+com11 0 0
+sound 10037
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ぼんきゅっぼーん、でたまりませんなぁ。
+line2 <shift> # んっふっふ〜♪」
+display
+com11 0 0
+sound 10038
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「目のほよーってやつですなぁ、
+line2 <shift> # んっふっふ〜♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……ちょっと待て。それはアダルトトーク
+line2 <shift> # じゃなくて、おやじトークだろ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「別にセクシーでもない上に、
+line2 <shift> # いつもと全然変わってないし……」
+display
+com11 0 0
+sound 10039
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「え〜っ？　思いっきり、
+line2 <shift> # オトナな話、したつもりなのに〜っ！」
+display
+com11 0 0
+sound 10040
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「オトナって奥が深いんだねー、亜美〜……」
+com09 0 49
+display
+location 49
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「とにかく、だ。今のは、選んだキャラクター
+line2 <shift> # にも、問題はあったけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そもそも、亜美と真美に、イメチェンなんて
+line2 <shift> # 器用なことは、まだムリだったのかもな」
+display
+com11 0 0
+sound 10041
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ええええ〜っ！？　そんなー。
+line2 <shift> # 亜美達、イメチェンしたいよ〜っ！」
+display
+com11 0 0
+sound 10042
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「そーだよー、飽きられたくないよ〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そう言われてもなあ。二人にもできそうな、
+line2 <shift> # 簡単なイメチェンとなると……」
+com03 0 3
+choice1 <shift> # モノマネをする
+line2
+com09 0 50
+com08
+choice2 <shift> # 外見を変える
+line2
+com09 0 51
+com08
+choice3 <shift> # 言葉づかいを変える
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「モノマネをするのが、手っ取り早いかな。
+line2 <shift> # それなら、二人の得意分野だろうし」
+display
+com11 0 0
+sound 10043
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「モノマネでいいの？
+line2 <shift> # じゃ、亜美達、ちょこっとやってみるね」
+display
+com11 0 0
+sound 10044
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「プロデューサー、おはようございますー！
+line2 <shift> # うっうー！　ハイ、ターッチ！　いぇいっ！」
+display
+com11 0 0
+sound 10045
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「んもう、プロデューサーったら。そんな頼りに
+line2 <shift> # ならないこと言ってちゃ、困りますよっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おおっ！　やっぱり上手いな。これを足がかり
+line2 <shift> # に、自分達なりのイメージを固めていこう！」
+display
+com11 0 0
+sound 10046
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「よ〜し、今日のお仕事で、
+line2 <shift> # さっそくイメチェンしちゃうよ〜っ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そして二人は、次の仕事で色々な
+line2 <shift> # モノマネを披露し、拍手を独り占めにした）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （イメチェンとは少し違うけど、この分なら、
+line2 <shift> # ファンに飽きられることなんて無いだろうな！）
+com09 0 69
+display
+location 51
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「外見を変えるのがいいかな。髪形が違う
+line2 <shift> # だけでも、けっこう印象が変わるもんだし」
+display
+com11 0 0
+sound 10047
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「んー……、じゃあ亜美、今日は髪飾りを左に
+line2 <shift> # してみよーっと。飾りも真美と交換しよっ？」
+display
+com11 0 0
+sound 10048
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「いいよ！　じゃ、真美は髪飾りを右にするー。
+line2 <shift> # どうせなら、服も交換しようよ、亜美ー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ん？　もしかして、それじゃ……」
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 10049
+com4c 0 2
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「じゃ〜ん！　どう？
+line2 <shift> # 亜美、いつもと違って見える〜？」
+display
+com11 0 0
+sound 10050
+com4c 0 1
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「真美も違うよね〜？
+line2 <shift> # めっちゃイメチェンできてるっぽい？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーむ。確かに亜美は、いつもの亜美と違うし、
+line2 <shift> # 真美は、いつもの真美と違うけど……」
+display
+com11 0 0
+sound 10051
+com4c 0 2
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「やった〜！
+line2 <shift> # じゃあ、イメチェン大成功だ〜！」
+display
+com11 0 0
+sound 10052
+com4c 0 1
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「これで真美達、飽きられたりしないよねっ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （亜美が真美と、真美が亜美と同じになった
+line2 <shift> # だけで、結局、何も変わってないよな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （まあ、本人達が満足してるから、
+line2 <shift> # 別にいい、のかな……？）
+com09 0 69
+display
+location 52
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「言葉づかいを変えるのがいいかな。
+line2 <shift> # そんなことでも、けっこう新鮮に見えるもんだ」
+display
+com11 0 0
+sound 10053
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「言葉づかい……。じゃあ、今日から亜美、
+line2 <shift> # あみあみ語を使うね〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……え？　なんだ、その、あみあみ語って？」
+display
+com11 0 0
+sound 10054
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「亜美が、今、作った言葉〜。
+line2 <shift> # アとミだけ使って、しゃべるんだよ」
+display
+com11 0 0
+sound 10055
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「あみあみあみ、あみみ〜」
+display
+com11 0 0
+sound 10056
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「じゃあ、真美は、まみまみ語しゃべるね。
+line2 <shift> # まみみみみ〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、言葉づかいって、
+line2 <shift> # そういう意味じゃないんだけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しかし、二人は、その後しばらく、
+line2 <shift> # あみあみ語とまみまみ語を使っていた）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （確かに新鮮ではあったかもしれないが、
+line2 <shift> # 会話が成立しない。……ダメだな、これは）
+com09 0 69
+display
+location 69
+unk02

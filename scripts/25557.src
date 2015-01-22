@@ -1,0 +1,324 @@
+com2c 0 43
+com2d 0 43
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （作曲家へのあいさつも兼ね、スタジオへ歌の仮
+line2 <shift> # 収録にやってきた。アイドルとしての初仕事だ）
+display
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あの、プロデューサー。私、本当に
+line2 <shift> # この格好のままで、歌うんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。慣れるためにも、その方がいいだろう。
+line2 <shift> # じゃあ、準備してくれ」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「待って下さい！　私、とても、
+line2 <shift> # できません！」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「こんなおかしな姿を、スタッフにさらしながら
+line2 <shift> # 歌うなんて、恥ずかしすぎます！」
+com03 0 3
+choice1 <shift> # 試練だ、耐えろ　
+line2
+com09 0 10
+com08
+choice2 <shift> # かわいいと、思うけどなあ　
+line2
+com09 0 11
+com08
+choice3 <shift> # ハダカより、マシだろ？　
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「試練だ、耐えろ。ファンの目線に耐えられ
+line2 <shift> # なければ、アイドル活動なんて、できないよ？」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「それは、まあ……。でも、この衣装では、
+line2 <shift> # 気が散って、歌に集中できないと思うんです」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「かわいいと、思うけどなあ」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「気休めは、やめて下さい！　こんな服で
+line2 <shift> # 町を歩いている人、私、見たことありません」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「普通の人と、比べちゃダメだよ。アイドルの
+line2 <shift> # 衣装は、ショーアップの一環なんだから」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「それは、まあ……。でも、この服では、気が
+line2 <shift> # 散って、歌に集中できないと思うんです」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ハダカより、マシだろ？」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「それは、どういう理屈ですか？　もしかして、
+line2 <shift> # イヤがらせですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そういうワケじゃないよ。けど、衣装で
+line2 <shift> # 気後れしてたら、アイドル活動はできないよ？」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「それは、たしかに……。でも、この服では気が
+line2 <shift> # 散って、歌に集中できないと思うんです」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10008
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そもそも、私がめざしているのは歌手で、
+line2 <shift> # 見せ物ではありませんし……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん。とはいっても、アイドルは……」
+com03 0 2
+choice1 <shift> # 見た目も、大切だし　
+line2
+com09 0 20
+com08
+choice2 <shift> # しょせん、見せ物だし　
+line2
+com09 0 21
+com08
+com07
+com09 0 21
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「見た目も、大切だし。外見と中身がそろって、
+line2 <shift> # はじめて評価されるものだろ？」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「言っていることは、その通りだと思います。
+line2 <shift> # けど、いきなりで、この衣装は、つらすぎます」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「しょせん、見せ物だし。そう思って、
+line2 <shift> # 開き直った方が……」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そんな簡単には、割り切れません！　プロ
+line2 <shift> # デューサー、あんまりです！　そんな言い方！」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「いきなり、こんな衣装で歌うのは、私には重荷
+line2 <shift> # すぎます。これでは、まるでピエロ……」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「がんばれ、千早！　たかが服に振り回されて
+line2 <shift> # いるようじゃ、とてもプロとは、呼べないぞ？」
+display
+com11 0 0
+sound 10012
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「く……。そこまで言われては、引き下がれ
+line2 <shift> # ませんね。わかりました。挑戦してみます！」
+display
+com32 0 0
+com22 0 30
+com21 0 30
+com11 0 0
+sound 10013
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はぁ……、なんとか、歌いきりました。
+line2 <shift> # でも、とても恥ずかしかったです……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おつかれさま。うわ、顔、汗びっしょりだな。
+line2 <shift> # よし、タオルで、汗ふいてやろう」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「え？　プロデューサー、そ、そこまでして
+line2 <shift> # もらっては……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まあ、いいじゃないか。さ、顔、出して」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （さて、うまく、ふいてあげないとな）
+com0e 1 165
+com44
+com09 0 30
+com45
+com44
+com09 0 31
+com45
+com44
+com09 0 32
+com45
+com44
+com09 0 33
+com45
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ふぅ〜、これで、よしと！　全部ふいたぞ。
+line2 <shift> # サッパリしただろ？」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい、ありがとうございます……。
+line2 <shift> # 心づかい、感謝します」
+display
+com11 0 0
+sound 10016
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「これで、どうにか初仕事クリアですね。
+line2 <shift> # では、引き上げましょう。……ふふっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （手際よく、汗をふいてあげることができた！
+line2 <shift> # 初仕事の苦労に、バッチリ報いてあげられたな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……その後、千早と、歌に関するいろいろな
+line2 <shift> # 話をしながら、事務所へと戻った）
+com09 0 39
+display
+location 31
+com11 0 0
+sound 10017
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「全部は、とても、ふききれませんよね？
+line2 <shift> # そろそろ、いいです……。後は、自分で」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか？　くっ、あとすこし時間が
+line2 <shift> # あれば……」
+display
+com11 0 0
+sound 10018
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「元々、こんなことまで、プロデューサーに
+line2 <shift> # やらせる方がおかしいんです。それに……」
+display
+com11 0 0
+sound 10019
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「汗をかくなんて、自分の身体をコントロール
+line2 <shift> # できていない証拠です。……反省しないと」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （残念。あと一歩、力が足らなかった。全部
+line2 <shift> # ふいて、手際のよさ、見せてやりたかったな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後、いっしょに事務所に帰ったが、千早は
+line2 <shift> # 物思いにふけっていて、会話ははずまなかった）
+com09 0 39
+display
+location 32
+com11 0 0
+sound 10020
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「痛っ！　プロデューサー、タオルが目に……。
+line2 <shift> # ううっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ご、ごめんっ！　悪気はなかったんだ！
+line2 <shift> # ちょっと、手がすべって」
+display
+com11 0 0
+sound 10021
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「だから、いいって、言ったんです。こんな
+line2 <shift> # ことまで、やってもらう必要は……」
+display
+com11 0 0
+sound 10022
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……タオル、貸して下さい。あとは、自分で
+line2 <shift> # やりますから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うーん、痛い思いをさせてしまった。
+line2 <shift> # どうせやるなら、注意深く、やらないとな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……その後、事務所へ帰る途中、俺は、千早に
+line2 <shift> # 何度もあやまり、機嫌を直してもらった）
+com09 0 39
+display
+location 33
+com11 0 0
+sound 10023
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「プロデューサー、なぜ、じっと見てるんです？
+line2 <shift> # 私、いつまで、こうしていれば？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ご、ごめん。つい、顔をマジマジと
+line2 <shift> # 見ちゃったよ。そうだ、汗、ふかないと！」
+display
+com11 0 0
+sound 10024
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「もう、いいです。そんなノンビリしたペースで
+line2 <shift> # やっていたら、日が暮れてしまいますから」
+display
+com11 0 0
+sound 10025
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「タオル、貸して下さい。
+line2 <shift> # ……はじめから、自分でやれば、よかったです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （結局、汗のひと粒も、ふいてやれなかった……。
+line2 <shift> # こういう時は、即座に行動しないとな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……その後、千早といっしょに事務所に帰った
+line2 <shift> # が、道中、会話ははずまなかった）
+com09 0 39
+display
+location 39
+unk02

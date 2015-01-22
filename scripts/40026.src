@@ -1,0 +1,294 @@
+com2c 0 63
+com2d 0 72
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「『運動面に不安がある、このままではライブに
+line2 <shift> # 支障が！』……と社長からずばり指摘が来た」
+display
+com11 0 5
+sound 1000
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「う〜ん、そうですか？　でも、
+line2 <shift> # 確かに、万全とは言えないかなぁ」
+display
+com11 0 5
+sound 1001
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「今後、長時間のステージがあるとしたら、
+line2 <shift> # ちょっぴり体力不足かもしれないですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「『特に持久力に不安が！』と」
+display
+com11 0 5
+sound 1002
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「うっ、ま、マジですか？」
+com03 0 2
+choice1 <shift> # マジです
+com09 0 10
+com08
+choice2 <shift> # 持久力に限らず……
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「マジです、本当です」
+display
+com11 0 5
+sound 1003
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「う〜ん、意外としっかりチェックされてるな。
+line2 <shift> # 手を抜くとバレるのか……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「何か言ったかな？」
+display
+com11 0 5
+sound 1004
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「い、いえ！　なんでもありません」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「持久力に限らず……運動能力については、
+line2 <shift> # まだまだ鍛える余地がありそうな感じだけど」
+display
+com11 0 5
+sound 1005
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ですよねぇ。まだまだアイドル修業は
+line2 <shift> # これからでしょ」
+display
+com11 0 5
+sound 1006
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「だから……それなら私の持久力の
+line2 <shift> # ことだけを、そんなに強調しなくても」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「しかし社長は、特に持久力が、と
+line2 <shift> # 念を押してるみたいなんだけど？」
+display
+com11 0 5
+sound 1007
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「た、たぶん気のせいですよ……」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「持久力アップが急務なら、走りこみをするのが
+line2 <shift> # 一番だな、律子。ランニングをしよう！」
+display
+com11 0 5
+sound 1008
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「う、運動ならレッスンで充分！
+line2 <shift> # 間に合ってますよぉ！」
+display
+com11 0 5
+sound 1009
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そ、それに今は身体動かす気分でもないし、
+line2 <shift> # 調子もそんなによくないし……」
+display
+com11 0 5
+sound 1010
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ほら、無理したら、
+line2 <shift> # 逆に身体によくないでしょ？」
+display
+com11 0 5
+sound 1011
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「走るのは別にかまわないですけど……
+line2 <shift> # できれば、また今度にしてくれませんか？」
+com03 0 3
+choice1 <shift> # なら、今度必ずな
+line2
+com09 0 30
+com08
+choice2 <shift> # ダメダメ、今走るんだ
+line2
+com09 0 31
+com08
+choice3 <shift> # 確かに無理はよくないな
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なら今回はやめとくか」
+display
+com11 0 5
+sound 1012
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ほっ……よかったぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、今度必ず、な。いつかは鍛えて
+line2 <shift> # おかないと、困ることがあるかもしれない」
+display
+com11 0 5
+sound 1013
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「えっ！？　あ、そ、そうですね……ステージで
+line2 <shift> # 体力不足でぶっ倒れたりしたら、困りますよね」
+display
+com11 0 5
+sound 1014
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そんな長いステージの出番がくるまでには、
+line2 <shift> # なんとかしなくちゃだなぁ〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ほんとに大丈夫か？　次からのトレーニング、
+line2 <shift> # 頼むぞ？」
+display
+com11 0 5
+sound 1015
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ま、まかせてくださいよぉ。は、はははっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （なんだか乾いた笑い声だなぁ。ま、いいか。
+line2 <shift> # やる気はあるようだから……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （次回は、律子にしっかり運動してもらおう）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ダメダメ、今走るんだ。さあ準備して！」
+display
+com11 0 5
+sound 1016
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そ、そんなぁ。あっ！　私、急に
+line2 <shift> # お腹が痛く……あいたたた」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんか嘘っぽいな」
+display
+com11 0 5
+sound 1017
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「う、運動したくないわけじゃないですよ！
+line2 <shift> # ほんとに腹痛だし、あいたた」
+display
+com11 0 5
+sound 1018
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「でも、急に無理やり走ったって、
+line2 <shift> # 効果があがるわけないし」
+display
+com11 0 5
+sound 1019
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「それにその……レッスンの運動メニューだって
+line2 <shift> # まだちゃんとこなせてないから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、つまり……基礎の基礎がまだ足りて
+line2 <shift> # ないから、走りこみは無駄かも、と？」
+display
+com11 0 5
+sound 1020
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そ、そうですそうです！
+line2 <shift> # そういう、ことです……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「仕方ないな。それじゃ、まずは基本的な
+line2 <shift> # 運動メニューの復習からしないとな！」
+display
+com11 0 5
+sound 1021
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「えええっ！？　わ、わかりましたよぉ……
+line2 <shift> # 走ります、走りますってば」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （律子はその後、渋々ロードワークに参加した。
+line2 <shift> # 確かに調子はよくないみたいだったけど……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （でも走っている間に、腹が痛いのは治った
+line2 <shift> # みたいだ。さて、頑張ってもらわないとな）
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「確かに無理はよくないな。無理やり走っても
+line2 <shift> # トレーニング効果はあがらないし」
+display
+com11 0 5
+sound 1022
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そうそう、身体の調子が悪くなって、
+line2 <shift> # 逆効果になるかもしれないですよ？」
+display
+com11 0 5
+sound 1023
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ですから、日を改めて、
+line2 <shift> # お願いしますね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだな、またの機会にしようか」
+display
+com11 0 5
+sound 1024
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「はい。ああ、よかった……
+line2 <shift> # ほっとしたわぁ」
+display
+com11 0 5
+sound 1025
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「さてと、ちょっと時間もあるし、なにか
+line2 <shift> # おいしいものでも食べに行こうかな？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あれ、さっき調子が悪いとか
+line2 <shift> # 言ってなかったか？」
+display
+com11 0 5
+sound 1026
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ええっ！？　あ……い、いや、その、ご飯
+line2 <shift> # 食べてなかったから、調子が悪かったんです！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ちゃんと食べないと
+line2 <shift> # ダメじゃないか……ま、いいか」
+display
+com11 0 5
+sound 1027
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あっははは……そ、それじゃ、
+line2 <shift> # 私急ぐので！　失礼しまーす！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そして律子は元気よく、どこかへ
+line2 <shift> # 走り去って行ってしまった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （やれやれ、俺も甘いなぁ。とりあえず
+line2 <shift> # 問題は先延ばしになってしまったわけだ……）
+com09 0 49
+display
+location 49
+unk02

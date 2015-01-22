@@ -1,0 +1,337 @@
+com2c 0 38
+com2d 0 33
+com2e 0 33
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おつかれさま、やよい。いい感じだったよ」
+display
+com11 0 4
+sound 600
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「う〜ん、盛り上がり、いまいちかも……。
+line2 <shift> # みんな、ニコニコ聞いてるだけだし〜……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「慰問（いもん）とライブは、別物だしな」
+display
+com11 0 4
+sound 601
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あ！　でも、３０曲ぐらいアンコールで歌えば、
+line2 <shift> # みんな、騒いでくれるかもっ！」
+com03 0 3
+choice1 <shift> # ノドがつぶれるよ
+line2
+com09 0 10
+com08
+choice2 <shift> # サービスしすぎだ
+line2
+com09 0 11
+com08
+choice3 <shift> # 客が持たないよ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ノドがつぶれるよ」
+display
+com11 0 4
+sound 602
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「わ、私、平気ですっ。それぐらい！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「万が一、歌えなくなったら……、
+line2 <shift> # 他のファンが、悲しむだろ？」
+display
+com11 0 4
+sound 603
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あ……、そうですね……。元気は、
+line2 <shift> # 別の人のためにも、とっておかなくちゃ！」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「サービスしすぎだ」
+display
+com11 0 4
+sound 604
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ええええ。でも私、もっと歌いたいですっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やりすぎると、かえって迷惑になるよ。
+line2 <shift> # ご飯だって、食べ過ぎるとおいしくないだろ？」
+display
+com11 0 4
+sound 605
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「腹三分目？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「八分目だけどな」
+display
+com11 0 4
+sound 606
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「わかりました……。
+line2 <shift> # じゃあ、ここまでにしておきます」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「客が持たないよ。
+line2 <shift> # 歌をきくのだって、けっこう体力がいるからな」
+display
+com11 0 4
+sound 607
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「も、持たないって、どういう……。
+line2 <shift> # 倒れたりとか、気絶しちゃったりとか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、するかも」
+display
+com11 0 4
+sound 608
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「救急車が来たり、とかっ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もう１ランク上の車が来るかも」
+display
+com11 0 4
+sound 609
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「れ、れ……？　や、やめますっ！
+line2 <shift> # 私、ここまでにしておきますっ！」
+com09 0 19
+display
+location 19
+com11 0 4
+sound 610
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あ、プロデューサー。あそこのおじいちゃんに、
+line2 <shift> # 『ゴハン、食べてけ』って言われたんですけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まあ、それぐらいの時間は、あるかな」
+display
+com11 0 4
+sound 611
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「わー、よかったっ。
+line2 <shift> # お腹すいちゃって。えへへ」
+display
+com22 0 30
+com21 0 30
+com11 0 4
+sound 612
+com4c 0 2
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ふー、おいしかったーっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……やよい、ちょっとこっちへ」
+display
+com11 0 4
+sound 613
+com4c 0 2
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「え！？　な、なんです？」
+com0e 0 205
+com44
+com09 0 20
+com45
+com44
+com09 0 21
+com45
+com44
+com4f 0 1
+com09 0 22
+com45
+com44
+com09 0 23
+com45
+com44
+com09 0 24
+com45
+display
+location 20
+com11 0 4
+sound 614
+com4c 0 2
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あ、なんか……、ついてました？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ご飯粒」
+display
+com11 0 4
+sound 615
+com4c 0 2
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あああ……。い、急いで食べたからっ。
+line2 <shift> # プロデューサー、ごめんなさいー！」
+display
+com11 0 4
+sound 616
+com4c 0 2
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ちょ、ちょっと恥ずかしいかも……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ご飯粒つけたアイドルを、
+line2 <shift> # 人に見せるわけには、いかないからな）
+com09 0 29
+display
+location 21
+com11 0 4
+sound 631
+com4c 0 2
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「わっ！　プロデューサー。今、目の近く、
+line2 <shift> # さわろうとしませんでしたか！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うん。まつげにゴミがついてたような、
+line2 <shift> # 気がしたから」
+display
+com11 0 4
+sound 632
+com4c 0 2
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えっ？　と、とれましたか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、よく見たら、ないな。
+line2 <shift> # 気のせいだったのかも……」
+display
+com11 0 4
+sound 633
+com4c 0 2
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そうですか。突然、目の近くにプロデューサー
+line2 <shift> # の手がきたから、びっくりしました〜……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うーん、意味なく驚かせちゃったな。
+line2 <shift> # ……おや？　口元に何かついているような？）
+com09 0 29
+display
+location 22
+com11 0 4
+sound 621
+com4c 0 2
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「え？　髪に、なにか……、ついてましたか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、ちゃんと手入れしてるかと思って。
+line2 <shift> # ……リンス、つけてる？」
+display
+com11 0 4
+sound 622
+com4c 0 2
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そ、そんなの、つけてないですー。
+line2 <shift> # で、でも、ちゃんとシャンプーは……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「できれば、リンスもした方が、いいかな。
+line2 <shift> # アイドルなんだし」
+display
+com11 0 4
+sound 623
+com4c 0 2
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ううう。はいー、気をつけまーす」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （気構えを、教えてあげられたかな？
+line2 <shift> # ……偶然かもしれないけど）
+com09 0 29
+display
+location 23
+com11 0 4
+sound 624
+com4c 0 2
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あ！？　……な、なんです？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、ちょっと、さわってみたくなったんだ」
+display
+com11 0 4
+sound 625
+com4c 0 2
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「へ、ヘンなプロデューサー……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、ご飯粒……」
+display
+com11 0 4
+sound 626
+com4c 0 2
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「え？　ゴハン……？
+line2 <shift> # ど、どこですか？　と、とらないと〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まあ、いいか。そのうち、とれるだろう」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （どうして、あんなところをさわったんだろう。
+line2 <shift> # ちょっと意味不明なこと、しちゃったな）
+com09 0 29
+display
+location 24
+com11 0 4
+sound 627
+com4c 0 2
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あの……。私の顔、なにか……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……」
+display
+com11 0 4
+sound 628
+com4c 0 2
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「プロデューサー、きいてますか？
+line2 <shift> # や、やっほ〜……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……なるほどな」
+display
+com11 0 4
+sound 629
+com4c 0 2
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「な、なにがです？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、自分の担当アイドルの顔は、
+line2 <shift> # よく知っておかないと」
+display
+com11 0 4
+sound 630
+com4c 0 2
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はあ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （つい、見入ってしまった……。
+line2 <shift> # ムダに時間を、使ってしまったかな）
+com09 0 29
+display
+location 29
+unk02

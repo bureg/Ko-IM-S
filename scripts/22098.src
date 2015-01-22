@@ -1,0 +1,299 @@
+com2c 0 47
+com2d 0 51
+com32 0 0
+com11 0 3
+sound 900
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「これから、地方のＴＶに生出演ですか？　すご
+line2 <shift> # いです！　到着まで、どのくらいでしょうか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「渋滞がなければ、２時間ぐらいかと。せっかく
+line2 <shift> # のチャンスですから、生かしたいですね」
+display
+com11 0 3
+sound 901
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あのー、私、乗り物酔いするので、もし
+line2 <shift> # よかったら、寝てしまってもいいですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もちろんです。その方が、体力ムダにせずに
+line2 <shift> # 済みますし。えーと……」
+com03 0 3
+choice1 <shift> # じゃあ、いい夢を
+line2
+com09 0 10
+com08
+choice2 <shift> # じゃあ、おやすみなさい
+line2
+com09 0 11
+com08
+choice3 <shift> # 添い寝しましょうか？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ、いい夢を」
+display
+com11 0 3
+sound 902
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ふふっ、はい。着いてから、元気に歌えるよう、
+line2 <shift> # ステキな夢が見られたらと、思います」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ、おやすみなさい」
+display
+com11 0 3
+sound 903
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はい、おやすみなさい。……すみません、
+line2 <shift> # ほんとなら車内で打ち合わせとか、できれば」
+display
+com11 0 3
+sound 904
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、話していたら、バス、動き出してしまい
+line2 <shift> # ますね。いけない、私ったら……」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「添い寝しましょうか？」
+display
+com11 0 3
+sound 905
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「え？　い、いいです。たとえバスの中でも、
+line2 <shift> # そういうのは、誤解のもとに……」
+display
+com11 0 3
+sound 906
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「もし、お仕事があれば、どうぞ。私は、
+line2 <shift> # ひとりでも眠れますので……」
+com09 0 29
+display
+location 29
+com22 0 30
+com21 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あずささん、あずささん、着きましたよ？
+line2 <shift> # う、弱ったな。ぐっすり寝てる……」
+display
+com11 0 3
+sound 907
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「んんん、ん……。お別れなんて、ぃゃ。
+line2 <shift> # んん……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あずささん、いったい、どんな夢見て……？
+line2 <shift> # あ、早く起こさないと」
+com0e 1 55
+com44
+com09 0 30
+com45
+com44
+com09 0 31
+com45
+com44
+com09 0 32
+com45
+com44
+com09 0 33
+com45
+com44
+com09 0 34
+com45
+display
+location 30
+com34 0 1
+com11 0 3
+sound 908
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ん、は！　プロデューサーさん、着いたん
+line2 <shift> # ですね。すみません、起こしてもらってしまって」
+display
+com11 0 3
+sound 909
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、あら？　私、涙……。もしかして、
+line2 <shift> # ふいて……。あ、ありがとうございます」
+com09 0 49
+display
+location 31
+com11 0 3
+sound 910
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ん、は！　ぷ、プロデューサーさん、着いたん
+line2 <shift> # ですね。いま、口に……。えっ！」
+display
+com11 0 3
+sound 911
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「まさかー。き、気のせいですね。プロデュー
+line2 <shift> # サーさんが、そんなことするわけ……」
+com09 0 91
+display
+location 32
+com11 0 3
+sound 912
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「んんっ……は！　ぷ、プロデューサーさん、
+line2 <shift> # 着いたんですね。いま、こう、胸に……」
+display
+com11 0 3
+sound 913
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「え、ゃ！　プロデューサーさん、そんなこと、
+line2 <shift> # しないですよね。私、信じて……」
+com09 0 91
+display
+location 33
+com11 0 3
+sound 914
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ん、は！　プロデューサーさん、着いたん
+line2 <shift> # ですね。すみません、起こしてもらってしまって」
+com09 0 91
+display
+location 91
+com11 0 3
+sound 915
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、あら？　涙……。やだ、寝ている間に、
+line2 <shift> # 目にゴミでも。す、すぐ、ふきますから」
+com09 0 49
+display
+location 34
+com11 0 3
+sound 916
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「すー、すー。ん、んんん？　プロデューサー
+line2 <shift> # さん、もう……着いたのですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「はい。起こそうと思ったんですけど、あまりに
+line2 <shift> # よく寝ていたので、つい……」
+display
+com11 0 3
+sound 917
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「すみません。全然、気がつかなくて。あら、
+line2 <shift> # 涙……？　やだ。す、すぐ、ふきますから」
+com09 0 49
+display
+location 49
+com22 0 30
+com21 0 30
+com11 0 3
+sound 918
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あのー、もしかして私、おかしな寝言とかも、
+line2 <shift> # 言っていたのでは……？」
+com03 0 3
+choice1 <shift> # たしか『ＴＶ出演がんばろう』って
+line2
+com09 0 50
+com08
+choice2 <shift> # イビキは、かいてました
+line2
+com09 0 51
+com08
+choice3 <shift> # たしか『お別れはイヤ』って
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 2
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「たしか『ＴＶ出演がんばろう』って。
+line2 <shift> # たとえ寝言でも、約束は守ってくださいね」
+display
+com11 0 3
+sound 919
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、そんなことを。寝ながら、これからのこと、
+line2 <shift> # イメージしていたのでしょうか」
+display
+com11 0 3
+sound 920
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「わかりました。ウソつきって言われないよう、
+line2 <shift> # しっかり歌います。では、外へ！　ふふっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ここは突っ込まないのが、ベストだな。
+line2 <shift> # 触れられたくないことは、誰にだってあるし）
+com09 0 69
+display
+location 51
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「イビキは、かいてました」
+display
+com11 0 3
+sound 921
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「え？　あ、あ、すみません〜。私、普段は
+line2 <shift> # そんな……。耳ざわりだったでしょうか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、たいしたことはなかったですけど……」
+display
+com11 0 3
+sound 922
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「アイドル失格ですね。人前で、そんなことして
+line2 <shift> # しまうなんて。あの〜、このことは秘密に……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （恥ずかしそうな顔をしている。寝言の話題は
+line2 <shift> # 避けられたけど、品のないかわし方だったか？）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「たしか、『お別れはイヤ』って」
+display
+com11 0 3
+sound 923
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「えっ！？　ぁ、そんなことを……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「夢、見てたんですよね？　なにか、悲しいこと
+line2 <shift> # でも、思い出していたとか？」
+display
+com11 0 3
+sound 924
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「……すみません。そういうのではないんです。
+line2 <shift> # ただ」
+display
+com11 0 3
+sound 925
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「つまらない話ですから、い、いいですよね。
+line2 <shift> # 私、その……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （表情が、みるみるくもっていく……。うーん、
+line2 <shift> # 気にはなるけど、触れない方が親切だったかも）
+com09 0 69
+display
+location 69
+unk02

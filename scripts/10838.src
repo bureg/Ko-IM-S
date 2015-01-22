@@ -1,0 +1,340 @@
+com2c 0 42
+com2d 0 23
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「伊織。そろそろライブの準備、しておこう」
+display
+com11 0 4
+sound 200
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「プロデューサ〜……、おえ〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「な、なんだよ。いきなり……」
+com03 0 2
+choice1 <shift> # 体調でも、悪いのか？
+line2
+com09 0 10
+com08
+choice2 <shift> # 俺の顔、気持ち悪いか？
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「体調でも、悪いのか？」
+display
+com11 0 4
+sound 201
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「うん……。さっき食べた天ぷら弁当が、
+line2 <shift> # よくなかったみたい……」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺の顔、気持ち悪いか？」
+display
+com11 0 4
+sound 202
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ちがうわよ〜……。
+line2 <shift> # なんかオナカが、むかむかして……」
+display
+com11 0 4
+sound 203
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「さっき食べた天ぷら弁当が、
+line2 <shift> # よくなかったみたい……」
+com09 0 19
+display
+location 19
+com11 0 4
+sound 204
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「あんな油っこいもの、普段食べないから。
+line2 <shift> # できれば、別のやつのがよかったわ……」
+com03 0 3
+choice1 <shift> # サンドイッチとか？
+line2
+com09 0 20
+com08
+choice2 <shift> # 冷し麺とか？
+line2
+com09 0 21
+com08
+choice3 <shift> # フライ弁当とか？
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「サンドイッチとか？」
+display
+com11 0 4
+sound 205
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そうね。そういう方が食べ慣れてるし。あ、
+line2 <shift> # でもローストビーフサンドはダメ。苦手だから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いろいろ、細かいんだな……」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「冷し麺とか？」
+display
+com11 0 4
+sound 206
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そんなの、やだ〜。つゆとか、
+line2 <shift> # お洋服にはねたら、シミになるし……」
+display
+com11 0 4
+sound 207
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「家でパンでも焼いてもらって、
+line2 <shift> # 持ってくれば、よかったかしら」
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「フライ弁当とか？」
+display
+com11 0 4
+sound 208
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「な、なによ、それーっ！
+line2 <shift> # 天ぷらと、たいして変わらないじゃないのー」
+display
+com11 0 4
+sound 209
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「うっぷ……。大きな声、出させないでよね。
+line2 <shift> # ほんと、つらいんだから〜……」
+com09 0 29
+display
+location 29
+com11 0 4
+sound 210
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ねえ、今日のライブ、おやすみしてもいーい？
+line2 <shift> # こんな気分じゃ、歌どころじゃないわ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん……。とにかく、もうすこし、
+line2 <shift> # 様子を見てみよう」
+display
+com11 0 4
+sound 211
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「イジワル〜……。う、また、ちょっと……。
+line2 <shift> # プロデューサ〜、背中さすって……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。それぐらいなら……」
+com0e 0 104
+com44
+com09 0 30
+com45
+com44
+com09 0 31
+com45
+com44
+com09 0 32
+com45
+com44
+com09 0 33
+com45
+com44
+com09 0 34
+com45
+display
+location 30
+com11 0 4
+sound 212
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ありがと……。
+line2 <shift> # すこしだけ、楽になったみたい……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今のうちに、休んでおこう。
+line2 <shift> # 開演時間、遅らせるよう、言っておくから」
+display
+com11 0 4
+sound 213
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「うん……。はあ〜、この私が、あんたから、
+line2 <shift> # 哀れみを受けるなんて……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いつもこれぐらい、おとなしければ、
+line2 <shift> # やりやすいんだけどな」
+display
+com11 0 4
+sound 214
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……フンだ。立ち直ったら、
+line2 <shift> # こうはいかないもーん」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （なんとか回復してくれるといいな。
+line2 <shift> # 苦しくなったら、また背を、さすってやろう）
+com09 0 39
+display
+location 31
+com11 0 4
+sound 215
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「なんで、ずっとさわってるわけ？
+line2 <shift> # さすってよー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あんまり刺激を加えると、
+line2 <shift> # かえって、よくないかと思って……」
+display
+com11 0 4
+sound 216
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そ、そうなの？　じゃあ、このまま、
+line2 <shift> # ガマンしてた方が……。うっぷ……」
+display
+com11 0 4
+sound 217
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「うそつきー。なにもしないで、
+line2 <shift> # よくなるわけないでしょー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やっぱり、さすった方がよかったか……」
+display
+com11 0 4
+sound 218
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「うっぷ……。い、いまさらなによ〜。
+line2 <shift> # すぐテキトーなこと、言うんだから……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （素直に、言われた通りにしてやるんだったな。
+line2 <shift> # 本当に、つらそうだ……）
+com09 0 39
+display
+location 32
+com11 0 4
+sound 219
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「きゃ。な、なにすんのよー。
+line2 <shift> # そんな強く……、うっぷ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ご、ごめん……。
+line2 <shift> # なんか、叩いたみたいに、なっちゃったか」
+display
+com11 0 4
+sound 220
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「あんた、私が、どうなってもいいと、
+line2 <shift> # 思ってるのね！　許せなーい！」
+display
+com11 0 4
+sound 221
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「もうライブなんて……、うっぷ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おい、大丈夫か……。怒鳴ったりするから」
+display
+com11 0 4
+sound 222
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そうさせたのは、あんたでしょ！　うっぷ。
+line2 <shift> # く、薬もらってきて……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （力まかせに、やりすぎたな。……開演時間、
+line2 <shift> # すこしのばして、なんとか乗り切るしかない）
+com09 0 39
+display
+location 33
+com11 0 4
+sound 223
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「どこ、さわってんのよー。
+line2 <shift> # あんた、そこが、背中に見えるわけ〜っ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ごめん。こっちの方が、効果があるかと……」
+display
+com11 0 4
+sound 224
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そんなわけないでしょ！？
+line2 <shift> # 頭なんかさすって、どうして楽になるのー？」
+display
+com11 0 4
+sound 225
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「もうライブなんて……、うっぷ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おい、大丈夫か……。怒鳴ったりするから」
+display
+com11 0 4
+sound 226
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そうさせたのは、あんたでしょ！　うっぷ。
+line2 <shift> # く、薬もらってきて……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （見当ハズレのところを、さわってしまった。
+line2 <shift> # い、急いで、薬、取りにいかないと……）
+com09 0 39
+display
+location 34
+com11 0 4
+sound 227
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……なんで、じっとしてるの？
+line2 <shift> # 背中、さすってって……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、下手に触れたら、
+line2 <shift> # かえって悪くなる気がして……」
+display
+com11 0 4
+sound 228
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「乱暴にやらなければ、大丈夫よー……。
+line2 <shift> # どうしてこんな時に、ヘンな遠慮するわけ？」
+display
+com11 0 4
+sound 229
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「それとも、このままガマンしろって……、
+line2 <shift> # うっぷ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だ、大丈夫か？　薬、もらってこようか？」
+display
+com11 0 4
+sound 230
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「お、おねがい……。
+line2 <shift> # このままじゃ、私、倒れちゃうわ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ボンヤリしてないで、さすってやるべき
+line2 <shift> # だったな。とにかく、薬を、もらってこよう）
+com09 0 39
+display
+location 39
+unk02

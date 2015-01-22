@@ -1,0 +1,567 @@
+com2c 0 25
+com2d 0 61
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ふう、ずっとミーティングってのも
+line2 <shift> # 疲れるな。少し休憩しようか」
+display
+com11 0 0
+sound 0
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ、はい。それじゃ、お茶でもいれますね。
+line2 <shift> # 待っててください、プロデューサー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、ありがとう。じゃあ、頼むよ」
+display
+com11 0 0
+sound 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい。とびっきり美味しいお茶、
+line2 <shift> # いれますから……」
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 2
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「……うあぁっきゃあ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ど、どうした、雪歩っ！？」
+display
+com11 0 0
+sound 3
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ぷ、プロデューサー、大変です！
+line2 <shift> # 茶柱が、２本も立ちましたぁっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんだ……。ビックリさせるなよ」
+display
+com11 0 0
+sound 4
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ええっ！　ビックリして下さいぃ。だって
+line2 <shift> # 茶柱２本ですよ？　二人分、両方とも！」
+display
+com11 0 0
+sound 5
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「こんなの初めてです。
+line2 <shift> # これは……なにかの前触れでしょうか？」
+com03 0 3
+choice1 <shift> # 雪歩、大ブレイクの予感！
+line2
+com09 0 20
+com08
+choice2 <shift> # ダメ街道まっしぐらの予感？
+line2
+com09 0 21
+com08
+choice3 <shift> # 前触れとか気にするな！
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「きっと、雪歩が大ブレイクするんだろう。
+line2 <shift> # その前兆に決まっているさ」
+display
+com11 0 0
+sound 6
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ええ？　本当ですかっ？　うれしいですぅ！
+line2 <shift> # 大ブレイクなんて……夢みたいですっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おいおい、そんなに浮かれるな。
+line2 <shift> # 前兆の話をしているだけだぞ」
+display
+com11 0 0
+sound 7
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はっ、そうでした。落ち着かないと。
+line2 <shift> # ……で、でも、やっぱりうれしいです！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （おっ、テンションがあがったようだ。
+line2 <shift> # いい傾向だな）
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ダメ街道まっしぐらの前兆？」
+display
+com11 0 0
+sound 8
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「うう……ぐすっ。ダメ街道ですか……。
+line2 <shift> # ♪　雪歩にお似合い、ダメ街道〜……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わわわ、泣くな、歌うな、雪歩！
+line2 <shift> # 最後まで聞け！　誤解するな！」
+display
+com11 0 0
+sound 9
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「いいえ、私はダメなんですから、
+line2 <shift> # 私の歩く道は、みんなダメダメ街道です」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「辛いことを乗り越えて、その後には、必ず、
+line2 <shift> # 素晴らしい未来が……って、続くんだぞ」
+display
+com11 0 0
+sound 10
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「……そ、そうなんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「人生はそんなものだ。つらいことが多くても、
+line2 <shift> # 後でその分、幸せがやってくる！　……たぶん」
+display
+com11 0 0
+sound 11
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「……わかりました、プロデューサー。
+line2 <shift> # ダメ街道、つらくても耐えぬきます！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （おっ、キリッとした顔になった。
+line2 <shift> # そんなに心配しなくても、よさそうだな）
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……前触れとか気にするな！
+line2 <shift> # なにかある度に、一喜一憂してたらダメだぞ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「気持ちを常に安定させるように、しないとな」
+display
+com11 0 0
+sound 12
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「は、はい！　すみません……。そうですよね、
+line2 <shift> # 私なんかが、茶柱に期待なんかしちゃダメ」
+display
+com11 0 0
+sound 13
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「いいことなんて、あるわけないんだ。茶柱ぐら
+line2 <shift> # いで、いいことなんか……ううっ……ぐすっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ああっ！　気持ちは安定したみたいだけど、
+line2 <shift> # すごく低いテンションで安定してしまった……）
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お？　電話みたいだ。
+line2 <shift> # 雪歩、ちょっと待っててくれ」
+display
+com22 0 30
+com21 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「雪歩、喜べ！　な、なんと！
+line2 <shift> # 映画出演が決まったぞ！」
+display
+com11 0 0
+sound 14
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「えっ……ええええっ！？　そんな突然、
+line2 <shift> # ハリウッドだなんて言われても！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、言ってない。日本の映画だよ。
+line2 <shift> # でも……主演だぞ！」
+display
+com11 0 0
+sound 15
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そ、そんなっ！　す、すごいです……。
+line2 <shift> # これは、茶柱効果に間違いありませんっ！」
+display
+com11 0 0
+sound 16
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ、でも私……内気だし、ひんそーだし。
+line2 <shift> # 映画なんて、無理ですぅ……あうう……」
+display
+com11 0 0
+sound 17
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「それに、主演って真ん中ですよね？　私、端っ
+line2 <shift> # こでいいんです。むしろ、端が好きですぅ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今の雪歩なら、この仕事は受けられるはずだ。
+line2 <shift> # だが、まずは本人にやる気を出させないと……）
+com03 0 3
+choice1 <shift> # 主演は雪歩がいいんだ
+line2
+com09 0 30
+com08
+choice2 <shift> # じゃあ、断ろうか？
+line2
+com09 0 31
+com08
+choice3 <shift> # 主演は雪歩でいいんだ
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「主演は雪歩がいいんだ。そう思われたから、
+line2 <shift> # この話が来たんだぞ！　雪歩が選ばれたんだ！」
+display
+com11 0 0
+sound 18
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「私……が？　本当でしょうか……？
+line2 <shift> # ちょっと、信じられないですけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だが、選ばれたのは雪歩なんだぞ。
+line2 <shift> # とびあがって喜ぶべきなんじゃないか！？」
+display
+com11 0 0
+sound 19
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「は、はい。それじゃ……ピョン。
+line2 <shift> # っとと……ふらふらしちゃいましたぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ははっ。もっとピョンピョンしてもいいぞ。
+line2 <shift> # 雪歩、主演に選ばれて本当によかったな」
+display
+com11 0 0
+sound 20
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい。うれしいですぅ。私……、
+line2 <shift> # 思いっきり頑張ってみまぁす！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よし、ポジティブモードに、入ったな。
+line2 <shift> # この仕事、きっと成功するだろう）
+com09 0 39
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃあ、残念だけど……この話は断ろうか？」
+display
+com11 0 0
+sound 21
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ええっ！　な、なにも断らなくても……」
+display
+com11 0 0
+sound 22
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ、あの……、真ん中を端っこに変えてもらう
+line2 <shift> # だけでいいんですけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも先方は、真ん中をぜひ雪歩に……
+line2 <shift> # って言ってくれてるんだ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「出演するなら、真ん中しかありえないだろう？
+line2 <shift> # 雪歩が端っこなんて、もったいないよ」
+display
+com11 0 0
+sound 23
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ……う……。もったいない……ですか。
+line2 <shift> # それこそ、もったいない気がしますぅ」
+display
+com11 0 0
+sound 24
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「でもでも、嬉しいです……。
+line2 <shift> # 私、やってみようかな……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よし、やる気が出てきたな。雪歩にやる気さえ
+line2 <shift> # あれば、この仕事、きっと成功するだろう）
+com09 0 39
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「主演は雪歩でいいんだ。今のままの雪歩、
+line2 <shift> # それが選ばれたなんて、嬉しいじゃないか！」
+display
+com11 0 0
+sound 25
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「私……で？　それって、なんとなく、私じゃ
+line2 <shift> # なくても、いいような感じが……あれ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、そういう意味じゃなくて。
+line2 <shift> # とにかく主演なんだ、胸を張ってだな……」
+display
+com11 0 0
+sound 26
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「私、主演じゃなくてもいいんですけど……
+line2 <shift> # それに、張る胸もありませぇん……」
+display
+com11 0 0
+sound 27
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「プロデューサーがどうしてもやれと言うなら
+line2 <shift> # やりますけど……。うう、つらそうですぅ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ダメだ、ネガティブモードに入ってしまった。
+line2 <shift> # ちょっと、しくじったかな……）
+com09 0 39
+display
+location 39
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「とにかく、自信を持ってやっていこう。
+line2 <shift> # またとないチャンスなんだから」
+display
+com11 0 0
+sound 28
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい。そうですね、やるからには……
+line2 <shift> # ちゃんとやらなきゃいけないなって、思います」
+display
+com11 0 0
+sound 29
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「私、成功するようにがんばりまぁす！
+line2 <shift> # あ、でも……もし、失敗しちゃったら？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「失敗しないように、練習すればいい。
+line2 <shift> # イメージトレーニングも大切だぞ」
+display
+com11 0 0
+sound 30
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「わ、わかりましたぁ。
+line2 <shift> # 失敗はダメ、失敗キライ、がんばれ雪歩……」
+display
+com11 0 0
+sound 31
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「う……ダメですぅ。失敗するシーンしか
+line2 <shift> # イメージできませんでした……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （困ったな。雪歩の場合、メンタル面が
+line2 <shift> # 特に大切だから……）
+display
+com11 0 0
+sound 32
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あの……あみだ占い、やってもいいですか？
+line2 <shift> # いい結果が出たら、私、頑張れるかもしれません」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか。そういうことなら、ぜひやろう」
+display
+com11 0 0
+sound 33
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「よかった。じゃあ、３本の線のうち、
+line2 <shift> # １本を選んでください」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （この仕事の成否、この選択にかかっているぞ！
+line2 <shift> # 全てのカンを働かせて俺が選ぶのは……！）
+com03 0 3
+choice1 <shift> # 右の線だっ！
+line2
+com09 0 40
+com08
+choice2 <shift> # 左の線だっ！
+line2
+com09 0 41
+com08
+choice3 <shift> # 真ん中の線だっ！
+line2
+com09 0 42
+com08
+com07
+com09 0 43
+com08
+display
+location 40
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「右の線だっ！」
+display
+com11 0 0
+sound 34
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「右ですね、わかりました。
+line2 <shift> # それじゃ、いきます！」
+com09 0 44
+display
+location 41
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「左の線だっ！」
+display
+com11 0 0
+sound 35
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「左ですね、わかりました。
+line2 <shift> # それじゃ、いきます！」
+com09 0 44
+display
+location 42
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「真ん中の線だっ！」
+display
+com11 0 0
+sound 36
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「真ん中ですね、わかりました。
+line2 <shift> # それじゃ、いきます！」
+com09 0 44
+display
+location 43
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「この線だっ！」
+display
+com11 0 0
+sound 37
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「この線ですね、わかりました。
+line2 <shift> # それじゃ、いきます！」
+com09 0 45
+display
+location 44
+com11 0 0
+sound 38
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「どっちにしようかカンガルー。
+line2 <shift> # 迷って迷って困っチャウチャウ」
+display
+com11 0 0
+sound 39
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あみだの神様、あみだの神様、
+line2 <shift> # どうか答えを教えてくだサル？」
+com37 0 1
+com1e 0 0
+com09 0 48
+com3b
+com37 0 0
+com1e 0 0
+com09 0 49
+com3b
+display
+location 45
+com11 0 0
+sound 38
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「どっちにしようかカンガルー。
+line2 <shift> # 迷って迷って困っチャウチャウ」
+display
+com11 0 0
+sound 39
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あみだの神様、あみだの神様、
+line2 <shift> # どうか答えを教えてくだサル？」
+com09 0 49
+display
+location 48
+com11 0 0
+sound 40
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「……でました！」
+display
+com11 0 0
+sound 41
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「やったぁ！　当たりです、プロデューサー！
+line2 <shift> # これで、勇気１０倍ですっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「１０倍って……微妙に少ないな。
+line2 <shift> # １００倍にはならないんだ？」
+display
+com11 0 0
+sound 42
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「さすがに、そこまでは……。
+line2 <shift> # でも、１０倍でじゅうぶんですよ？」
+display
+com11 0 0
+sound 43
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「今度のお仕事、きっと上手くいくと思います。
+line2 <shift> # プロデューサーも、ついていてくれるし……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後、雪歩からは迷いが消え、
+line2 <shift> # いい状態で撮影は進んだ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （映画の前評判も悪くない。
+line2 <shift> # あみだの神様、ありがとう！）
+com4b 0 0
+com09 0 59
+display
+location 49
+com11 0 0
+sound 44
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「……でました！」
+display
+com11 0 0
+sound 45
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あぁ〜、残念。『ハズレ』です……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わあ、どうしよう……」
+display
+com11 0 0
+sound 46
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「どうしようもなにもないですよ……。
+line2 <shift> # これがあみだの神様の、答えですぅ……」
+display
+com11 0 0
+sound 47
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「私が失敗するのは、運命なんです。
+line2 <shift> # ううっ……ぐすっ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「待て待て！　まだ失敗すると
+line2 <shift> # 決まったわけじゃないだろ！」
+display
+com11 0 0
+sound 48
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「でも、絶対に失敗します……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後、雪歩の失った自信を回復させるのに
+line2 <shift> # 時間がかかり、撮影は一向に進まない……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （この映画、いつかは出来上がるのかな……？
+line2 <shift> # 激しく不安だ……）
+com4b 0 2
+com09 0 59
+display
+location 59
+unk02

@@ -1,0 +1,388 @@
+com2c 0 19
+com2c 0 113
+com2d 0 131
+com32 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （たまには、寄り道して、ちょっと、
+line2 <shift> # 運動でもしてから帰ろうかな？）
+com03 0 2
+choice1 <shift> # どこかに寄り道する
+line2
+com09 0 10
+com08
+choice2 <shift> # まっすぐ帰る
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+com22 0 30
+com21 0 30
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よーし、事務所の周りを走るぞー！
+line2 <shift> # ダッシュだーっ！）
+display
+com11 0 0
+sound 10000
+com4c 0 1
+name 0 0 <names:2>  # Miki
+line1 <shift> # 「くぅ……、すぅ……。痛っ！
+line2 <shift> # むー。ミキの足、けっとばしちゃ、や！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うわっ！　ごめん、ごめん！　こんな所に人が
+line2 <shift> # 寝てるなんて思わなくて……、って、君は！？」
+display
+com11 0 0
+sound 10001
+com4c 0 1
+name 0 0 <names:2>  # Miki
+line1 <shift> # 「あ、プロデューサー！　寝てるミキを起こして
+line2 <shift> # くれたのが、プロデューサーだったなんて……」
+display
+com11 0 0
+sound 10002
+com4c 0 1
+name 0 0 <names:2>  # Miki
+line1 <shift> # 「童話のストーリーみたいで、ロマンチックなの。
+line2 <shift> # ねえねえ、これって運命かなあ？　あはっ☆」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、寝てた美希に、俺がけつまずいただけで、
+line2 <shift> # 全くロマンチックではないと思うけど……」
+com03 0 3
+choice1 <shift> # 足、大丈夫か？
+line2
+com09 0 20
+com08
+choice2 <shift> # 運命かも
+com09 0 21
+com08
+choice3 <shift> # 運命という可能性はある
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （いや、そんなことしても、疲れるだけだよな。
+line2 <shift> # このまま帰ろう）
+com09 0 99
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、そんなことより、足、大丈夫か？」
+display
+com11 0 0
+sound 10003
+com4c 0 1
+name 0 0 <names:2>  # Miki
+line1 <shift> # 「うん。大丈夫なの。ちょっとぶつかっただけだ
+line2 <shift> # し。心配してくれて、ありがと。優しいんだね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「女の子が、こんな所で寝てちゃ、あぶないぞ」
+display
+com11 0 0
+sound 10004
+com4c 0 1
+name 0 0 <names:2>  # Miki
+line1 <shift> # 「ベンチで、うとうとしてただけだよ。
+line2 <shift> # 本気では寝てないもん」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そうかな？　寝息がきこえてたような、
+line2 <shift> # 気がするけど……）
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「運命かも。すごい偶然だもんな」
+display
+com11 0 0
+sound 10005
+com4c 0 1
+name 0 0 <names:2>  # Miki
+line1 <shift> # 「そうだよね。ミキも、そう思うな。
+line2 <shift> # ミキ達、気が合うかもしれないの！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうかもな。あはは……」
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「運命という可能性はある、かな」
+display
+com11 0 0
+sound 10006
+com4c 0 1
+name 0 0 <names:2>  # Miki
+line1 <shift> # 「むー。もう、運命でいいって思うな。
+line2 <shift> # 素直に認めればいいのに……」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、そんなことより……、知ってるのか？
+line2 <shift> # 美希のせいで、７６５プロは大騒ぎだぞ！？」
+display
+com11 0 0
+sound 10007
+com4c 0 1
+name 0 0 <names:2>  # Miki
+line1 <shift> # 「……あふぅ。ふーん、そうなんだー。
+line2 <shift> # なんで？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「な、なんでって、決まってるじゃないか」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「美希が、急に７６５プロを裏切って、
+line2 <shift> # ９６１プロからデビューしたからだよ！」
+display
+com11 0 0
+sound 10008
+com4c 0 1
+name 0 0 <names:2>  # Miki
+line1 <shift> # 「ミキが裏切ったんじゃないよ。
+line2 <shift> # 高木社長が悪い人だから、しょうがなかったの」
+display
+com11 0 0
+sound 10009
+com4c 0 1
+name 0 0 <names:2>  # Miki
+line1 <shift> # 「社長ってね、良い人そうに見えるけど、
+line2 <shift> # 本当は、すっごく悪い人なんだって」
+display
+com11 0 0
+sound 10010
+com4c 0 1
+name 0 0 <names:2>  # Miki
+line1 <shift> # 「ミキにも、いっぱいヒドイことしたし、ミキ的
+line2 <shift> # には許せないってカンジ！　ありえないの！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「社長に、ヒドイことを……？　そういえば、
+line2 <shift> # 前に事務所で会った時、美希、泣いてたよな？」
+display
+com11 0 0
+sound 10011
+com4c 0 1
+name 0 0 <names:2>  # Miki
+line1 <shift> # 「そうそう！　あの時もヒドかったし、なかなか
+line2 <shift> # デビューさせてくれないし、サイテーなの！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「むう。今ひとつ、事情が見えないんだけど、
+line2 <shift> # 高木社長は、そんなに悪い人じゃないと思うぞ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「何か、誤解があるんじゃないのかな？」
+display
+com11 0 0
+sound 10012
+com4c 0 1
+name 0 0 <names:2>  # Miki
+line1 <shift> # 「そんなことないもん！　ミキ、ホントに、
+line2 <shift> # 高木社長に、ヒドイこと言われたよ！」
+display
+com11 0 0
+sound 10013
+com4c 0 1
+name 0 0 <names:2>  # Miki
+line1 <shift> # 「今の事務所は、すぐデビューさせてくれたし、
+line2 <shift> # ミキの相談にものってくれるし、最高なの」
+display
+com11 0 0
+sound 10014
+com4c 0 1
+name 0 0 <names:2>  # Miki
+line1 <shift> # 「だから、プロデューサーも９６１プロに、
+line2 <shift> # 来ればいいって思うな。ねえ、そうしよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ！　俺が、９６１プロに……？」
+com03 0 3
+choice1 <shift> # 悪いけど……
+line2
+com09 0 30
+com08
+choice2 <shift> # イヤだ！
+com09 0 31
+com08
+choice3 <shift> # 行きます！
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「せっかく誘ってくれたのに、悪いけど……、
+line2 <shift> # 俺は７６５プロで、がんばるつもりなんだ」
+display
+com11 0 0
+sound 10015
+com4c 0 1
+name 0 0 <names:2>  # Miki
+line1 <shift> # 「え……。誘ったら、来てくれると思ってた
+line2 <shift> # のにな。どうしても、ダメ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。ごめんな」
+com09 0 39
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「イヤだ！　そんな、よく知らない事務所には、
+line2 <shift> # 行きたくないよ！」
+display
+com11 0 0
+sound 10016
+com4c 0 1
+name 0 0 <names:2>  # Miki
+line1 <shift> # 「よく知らなくないよ！　ミキがいるでしょ？
+line2 <shift> # ９６１プロのことは、ミキが教えてあげるの」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、それでも、行くつもりはないよ。
+line2 <shift> # 俺には、もう、担当してるアイドルがいるしな」
+display
+com11 0 0
+sound 10017
+com4c 0 1
+name 0 0 <names:2>  # Miki
+line1 <shift> # 「ええーっ！　誘ったら、来てくれるかと
+line2 <shift> # 思ってたのに、そんなのないよ〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなこと言われても……。
+line2 <shift> # とにかく、ゴメンな」
+com09 0 39
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「行きます！　行かせて下さいっ！」
+display
+com11 0 0
+sound 10018
+com4c 0 1
+name 0 0 <names:2>  # Miki
+line1 <shift> # 「あはっ☆　そう言ってくれると思ってたの。
+line2 <shift> # じゃミキのプロデュースしてくれるんだよね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え……。でも俺、７６５プロで、
+line2 <shift> # 担当アイドルが、もう決まってるんだけど」
+display
+com11 0 0
+sound 10019
+com4c 0 1
+name 0 0 <names:2>  # Miki
+line1 <shift> # 「んー。でも、９６１プロに来るなら、
+line2 <shift> # それは、関係ないってカンジ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「い、いや、そういうわけには……。
+line2 <shift> # ごめんな。やっぱり俺、行けないよ」
+display
+com11 0 0
+sound 10020
+com4c 0 1
+name 0 0 <names:2>  # Miki
+line1 <shift> # 「ええーっ！　期待させといて、
+line2 <shift> # そんなのヒドイの。ガッカリだよ……」
+com09 0 39
+display
+location 39
+com11 0 0
+sound 10021
+com4c 0 1
+name 0 0 <names:2>  # Miki
+line1 <shift> # 「うう、ショックなの……。
+line2 <shift> # プロデューサーに、来てほしかったな」
+display
+com11 0 0
+sound 10022
+com4c 0 1
+name 0 0 <names:2>  # Miki
+line1 <shift> # 「９６１プロなら、宣伝とか、いっぱいして
+line2 <shift> # くれるし、ファンクラブも作ってくれるし……」
+display
+com11 0 0
+sound 10023
+com4c 0 1
+name 0 0 <names:2>  # Miki
+line1 <shift> # 「ミキ、すぐ人気者になっちゃうと思うよ？
+line2 <shift> # 今のうちにキープしとかないと、大変だよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「本当に、ごめん。何と言われても、
+line2 <shift> # 俺は７６５プロを離れることはできないよ」
+display
+com11 0 0
+sound 10024
+com4c 0 1
+name 0 0 <names:2>  # Miki
+line1 <shift> # 「うう。そうなんだ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それより、提案なんだけど、美希、７６５プロ
+line2 <shift> # に帰って来ないか？　高木社長も心配してるし」
+display
+com11 0 0
+sound 10025
+com4c 0 1
+name 0 0 <names:2>  # Miki
+line1 <shift> # 「……むー。ミキ達、おまじないで結ばれてる仲
+line2 <shift> # のハズなのに、結構、障害が多いってカンジ」
+display
+com11 0 0
+sound 10026
+com4c 0 1
+name 0 0 <names:2>  # Miki
+line1 <shift> # 「でも、ミキが本当に人気出たら、きっと、
+line2 <shift> # プロデューサーも、気持ち、変わるよね……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おーい、もしもーし、美希？
+line2 <shift> # 俺の提案は、きいてくれてるか？　おーい？」
+display
+com11 0 0
+sound 10027
+com4c 0 1
+name 0 0 <names:2>  # Miki
+line1 <shift> # 「ミキ、がんばらなくても何でもできる方だから、
+line2 <shift> # 今まで、あんまがんばったことないけど……」
+display
+com11 0 0
+sound 10028
+com4c 0 1
+name 0 0 <names:2>  # Miki
+line1 <shift> # 「レッスン、がんばってみようかな。
+line2 <shift> # よーし……！　じゃあねっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あっ、美希！　……俺の話もきかずに、
+line2 <shift> # 勝手に闘志を燃やして、いなくなっちゃったぞ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しかし、９６１プロは、美希の売り出しに、
+line2 <shift> # かなり力をいれている様子だな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （それに、美希の才能と努力が加わると……。
+line2 <shift> # これは、俺達も、うかうかしていられないぞ！）
+com09 0 99
+display
+location 99
+unk02

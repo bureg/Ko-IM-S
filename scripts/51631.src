@@ -1,0 +1,257 @@
+com2c 0 32
+com2d 0 93
+com2e 0 103
+com32 0 0
+com11 0 4
+sound 400
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「さ〜いん！　さ〜いん！　サイン会なんて、
+line2 <shift> # 楽しいねっ。アイドルになって、よかった！」
+display
+com11 0 4
+sound 401
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「兄ちゃん、気をつけなくちゃね！　もしかし
+line2 <shift> # たら、てんばい屋も、くるかもしれないよっ！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「てんばい屋って……あ、転売屋か」
+display
+com11 0 4
+sound 402
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「あの人たち、血も涙もないんだよっ。兄ちゃん、
+line2 <shift> # 真美のサインって、いくらぐらいで売れるの？」
+com03 0 3
+choice1 <shift> # とても、言えない額だよ
+line2
+com09 0 10
+com08
+choice2 <shift> # １万円ぐらいかな
+line2
+com09 0 11
+com08
+choice3 <shift> # 正直、１０円ぐらいだよ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「とても、言えない額だよ」
+display
+com11 0 4
+sound 403
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「そんなに、高く売れるんだー！　なんか、
+line2 <shift> # すこし、えらくなった気がするー！」
+com09 0 19
+display
+location 11
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「１万円ぐらいかな」
+display
+com11 0 4
+sound 404
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「ええええ〜、ライブの券より、ずっと
+line2 <shift> # 高いの〜？　それ、おかしいよ〜」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「そ、そうかな？　高く、見積もりすぎたか」
+display
+com11 0 4
+sound 405
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「サインだけしてた方が、お金がたくさん
+line2 <shift> # 入るなんて……アイドルって、ヘンなの〜」
+com09 0 19
+display
+location 12
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「正直、１０円ぐらいだよ」
+display
+com11 0 4
+sound 406
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「そ、そんなに安いの〜！？　どうして〜！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「まだ、たいして知名度もないからなあ。
+line2 <shift> # それが、現実だよ」
+display
+com11 0 4
+sound 407
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「１０円じゃ、メール、何回か出しただけで、
+line2 <shift> # 終わっちゃうね。ちょっと、ショック〜……」
+com09 0 19
+display
+location 19
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「ところで、ふたりは、サインの練習とか、
+line2 <shift> # ちゃんと、してきたのか？」
+display
+com11 0 4
+sound 408
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「もっちろん！　ふたりで書く合体サイン、
+line2 <shift> # 家で考えてきたよ！」
+display
+com11 0 4
+sound 409
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「亜美が、字を書いてー、その横に、真美が絵を
+line2 <shift> # 描くのっ。かわいくて、メチャイケなんだから」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「って、それ、マズくないか？　ふたり同時に
+line2 <shift> # 顔を出さないと、書けないんじゃ……」
+display
+com11 0 4
+sound 410
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ああああっ、そっか〜！　ん〜、だったら、
+line2 <shift> # 亜美がひとりで、字だけ書くしかないかなあ」
+display
+com11 0 4
+sound 411
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「ええええっ、そんじゃ、真美はおやすみ〜？
+line2 <shift> # ひどいよ〜、一生懸命、絵の練習したのに〜」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「ここは、こらえてくれ。真美」
+display
+com11 0 4
+sound 412
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「やだやだや〜だ〜。真美も色紙に、
+line2 <shift> # 書きたい〜〜〜」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「しかたないなぁ。いい打開策は……。
+line2 <shift> # あ、そうだ！」
+com03 0 3
+choice1 <shift> # 絵だけ、先に描いておこう
+line2
+com09 0 20
+com08
+choice2 <shift> # ふたり交代で、書こう
+line2
+com09 0 21
+com08
+choice3 <shift> # 亜美が、おやすみしよう
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「絵だけ、先に描いておこう。真美が、会場の裏
+line2 <shift> # で絵を描いて――それを、表の亜美に渡す、と」
+display
+com11 0 4
+sound 413
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「あっ、それなら、ふたりでファンの前に出なく
+line2 <shift> # ても、合体サイン書けるねっ。さっすが〜！」
+display
+com11 0 4
+sound 414
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「わ〜いわ〜い、その作戦で、いこー！　まずは
+line2 <shift> # 真美が、裏でお絵描き開始ねっ！　ご〜！！」
+display <shift> # （よし、これなら公平な上、ふたりの努力を
+line2 <shift> # ムダにせずに済む。最高のアイデアだな！）
+com09 0 29
+display
+location 21
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「ふたり交代で、書こう。休憩時間の間に、
+line2 <shift> # こっそり入れ代わって……」
+display
+com11 0 4
+sound 415
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「あ、それがいいかもっ！　……でも、真美、
+line2 <shift> # 真美は字の方の練習、してないよね？　平気？」
+display
+com11 0 4
+sound 416
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「え？　んっと、だ、大丈夫！　だって、
+line2 <shift> # なんにも書けないのは、さびしいし〜」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「ホントに、平気か？　……かといって、真美に、
+line2 <shift> # 絵だけ描かせるわけには、いかないしな」
+display
+com11 0 4
+sound 417
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「なんとか、なるよっ！　交代の時間まで、
+line2 <shift> # 裏で練習するしっ。そいじゃ、がんばろー！」
+display <shift> # （その後、真美は努力したが、ふたりのサイン
+line2 <shift> # のデキには、ハッキリと差が……。く、失敗か）
+com09 0 29
+display
+location 22
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「亜美が、おやすみしよう。それなら、
+line2 <shift> # 真美は、悲しくないだろ？」
+display
+com11 0 4
+sound 418
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「え〜〜〜、そしたら、亜美はどうなるの〜？
+line2 <shift> # 亜美だって、サイン書きたいも〜〜〜ん」
+display
+com11 0 4
+sound 419
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「それに、真美は、字書く練習、してないん
+line2 <shift> # だよ？　ちゃんとサインできるわけないよ〜」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「う、そういえば、そうか……。じゃあ、ここは、
+line2 <shift> # やっぱり亜美に任せた方が……」
+display
+com11 0 4
+sound 420
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「や〜だ〜、や〜だ〜、や〜だ〜！　真美、
+line2 <shift> # ぶっちゃけ本番でも、サインできるも〜ん！」
+display <shift> # （その後……どっちも引かず、サイン会はドタバ
+line2 <shift> # タのうちに終了。最悪の結果になってしまった）
+com09 0 29
+display
+location 29
+unk02

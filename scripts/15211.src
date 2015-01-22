@@ -1,0 +1,212 @@
+com2c 0 32
+com2d 0 31
+com32 0 0
+com11 0 0
+sound 1400
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「プロデューサー、見て下さい！
+line2 <shift> # シングル、アルバム、両方売り上げ１位！」
+display
+com11 0 0
+sound 1401
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「信じられません……。ランクＡになると、
+line2 <shift> # こんな奇跡まで、起きちゃうんですね！」
+com03 0 2
+choice1 <shift> # おめでとう
+com4f 0 2
+com09 0 11
+com08
+choice2 <shift> # やったな、俺達
+line2
+com4f 0 2
+com09 0 10
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やったな、俺達」
+display
+com11 0 0
+sound 1402
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はいっ。まさか、ここまで……。
+line2 <shift> # これも全部、プロデューサーの……」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おめでとう」
+display
+com11 0 0
+sound 1403
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ありがとうございます……。
+line2 <shift> # プロデューサーがいなかったら、私……」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 1404
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うう、ううう……、う……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「な、泣くなよ……」
+display
+com11 0 0
+sound 1405
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「いいですよね？　プロデューサーになら、
+line2 <shift> # もう、こんな顔見せても……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もしかして、これまでも……？」
+display
+com11 0 0
+sound 1406
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はい。でも、弱いとこ、
+line2 <shift> # 見せちゃダメだって……。ううう……」
+com03 0 2
+choice1 <shift> # バカだなあ
+com09 0 20
+com08
+choice2 <shift> # 知らなかったよ
+line2
+com09 0 21
+com08
+com07
+com09 0 21
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「バカだなあ。遠慮することなんてないのに」
+display
+com11 0 0
+sound 1407
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ぷ、プロデューサー……？」
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「知らなかったよ」
+display
+com11 0 0
+sound 1408
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「きょ、今日はちょっと、さすがに……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「気にすることないよ。
+line2 <shift> # 俺には、弱さを隠す必要なんてないんだから」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 1409
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ、えへへ……。じゃあ、これからは、
+line2 <shift> # たくさん泣いちゃいます……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……ほら、顔出して」
+display
+com11 0 0
+sound 1410
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「は、はい……」
+com0e 0 221
+com44
+com09 0 30
+com45
+com44
+com09 0 31
+com45
+com44
+com09 0 32
+com45
+display
+location 30
+com11 0 0
+sound 1411
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ、ありがとうございます……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どれだけ泣いたって、ふいてあげるから」
+display
+com11 0 0
+sound 1412
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「……はいっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ずいぶん高いところまで来たな、俺達……。
+line2 <shift> # これからも、やよいを支えていこう……！！）
+com09 0 39
+display
+location 31
+com11 0 0
+sound 1413
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「き、キレイに……、なりましたか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、今ひとつかな」
+display
+com11 0 0
+sound 1414
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「でも、いいです。このままで。せっかく
+line2 <shift> # 泣いてもいいって、言ってくれたんだし……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「しばらく、泣いてる？」
+display
+com11 0 0
+sound 1415
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はい。ううう……、うう……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （まあ、いいか。うれし涙なんだし、
+line2 <shift> # あわてて、ぬぐうこともないよな……）
+com09 0 39
+display
+location 32
+com11 0 0
+sound 1416
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ぷ、プロデューサー……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、せっかくの泣き顔だし、
+line2 <shift> # しばらくながめてようと思って……」
+display
+com11 0 0
+sound 1417
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ、えへへ……。おもしろいですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「めったに見られるものじゃないしね」
+display
+com11 0 0
+sound 1418
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ちょっと、イジワルです〜っ。どうしよう……。
+line2 <shift> # 涙、当分、止まらないかも」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （次の予定、遅れそうだな……。でも、まあ、
+line2 <shift> # こうして勝利の余韻にひたるのも、悪くないか）
+com09 0 39
+display
+location 39
+unk02

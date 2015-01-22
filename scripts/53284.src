@@ -1,0 +1,234 @@
+com2c 0 118
+com2d 0 91
+com2e 0 101
+com32 0 0
+location 0
+com11 0 6
+sound 14000
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「わーい♪　今日は、兄ちゃんが、お家まで
+line2 <shift> # 送ってくれるんだね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、最後の日なんだから、これぐらい、して
+line2 <shift> # やらないとな。……ライブ、楽しかったか？」
+com38 0 4
+com1e 0 0
+com09 0 10
+com3b
+com39 0 3
+com1e 0 0
+com09 0 11
+com3b
+display
+location 10
+com11 0 6
+sound 14001
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うん！　やっぱ、ドームは超広くて、
+line2 <shift> # 気持ちいいよねっ。亜美、だーい好き！」
+display
+com11 0 6
+sound 14002
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「真美もー！　今日は、亜美にゆずったけど、
+line2 <shift> # 今度は、真美が、あそこで歌うー！」
+com09 0 19
+display
+location 11
+com11 0 6
+sound 14003
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「もっちろんだよ！　亜美ねー、
+line2 <shift> # ドームでライブやるの、夢だったんだー」
+display
+com11 0 6
+sound 14004
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「今の人気じゃ、ムリかなあって思ってたけど、
+line2 <shift> # 最後にかなえてくれて、ありがと！　兄ちゃん」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どういたしまして。たしかに、冒険では
+line2 <shift> # あったけど、すこしは、背伸びもしないとな」
+display
+com11 0 6
+sound 14005
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「いいなあ、亜美……。今日は、亜美にゆずった
+line2 <shift> # けど、今度は、真美が、あそこで歌うー！」
+com09 0 19
+display
+location 19
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだな、次は真美の番だ。ん？　次の話が
+line2 <shift> # 出るって事は、二人はアイドル続けるのか？」
+display
+com11 0 6
+sound 14006
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「あ、話す前にバレちゃったね！　当ったりー！
+line2 <shift> # 相談して決めたの。引退なんてもったいないし」
+display
+com11 0 6
+sound 14007
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「学校で友達と遊ぶのも面白いけど、アイドル
+line2 <shift> # やるのはもっと面白いもんね。だから続けるー」
+display
+com1c 0 3
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか。俺も、亜美と真美は、まだまだ活躍
+line2 <shift> # できると思うよ。がんばってくれ」
+display
+com11 0 6
+sound 14008
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「うんっ！　そんで〜、できれば、これから先も、
+line2 <shift> # 兄ちゃんにプロデュースしてほしいんだけどー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「えっ？　それはダメだよ。ここでお別れって、
+line2 <shift> # 約束だろ？」
+display
+com11 0 6
+sound 14009
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「そっかー、そうだよね……。
+line2 <shift> # でも、真美、さびしいよ〜」
+display
+com11 0 6
+sound 14010
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うううっ、亜美も〜……。兄ちゃん、
+line2 <shift> # これっきりなんて言わないで、また遊んでよ〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そうだな。プロデュースは、今日で
+line2 <shift> # 終わりだけど、今度……」
+com03 0 3
+choice1 <shift> # 買い物にでも、いこう！　
+line2
+com09 0 20
+com08
+choice2 <shift> # 遊園地にでも、いこう！　
+line2
+com09 0 21
+com08
+choice3 <shift> # 現場で会ったら、遊ぼう！　
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「買い物にでも、いこう！」
+display
+com11 0 6
+sound 14011
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ホント？　亜美達といっしょに、
+line2 <shift> # ショップめぐり、してくれる？」
+com09 0 28
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「遊園地にでも、いこう！」
+display
+com11 0 6
+sound 14012
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ホント？　亜美達と１日中、遊んで
+line2 <shift> # くれる？」
+com09 0 28
+display
+location 28
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、約束する。いつでもケータイに、
+line2 <shift> # 連絡してくれ」
+display
+com11 0 6
+sound 14013
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「わかったー！　兄ちゃんも、真美達の声、
+line2 <shift> # ききたい時は、いつでも電話してね！」
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「現場で会ったら、遊ぼう！」
+display
+com11 0 6
+sound 14014
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ホント？　あ、でも、もし会えなかったら、
+line2 <shift> # どうするの？　遊んでくれないの〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う、それは……。だ、大丈夫だって。
+line2 <shift> # お互いに仕事を続けてれば、必ず会えるよ」
+display
+com11 0 6
+sound 14015
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「わかった。んじゃ、信じる。スタジオとかで
+line2 <shift> # バッタリ会ったら、たくさん遊ぼーね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、約束する」
+com09 0 29
+display
+location 29
+com11 0 6
+sound 14016
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ほいじゃ、亜美達、そろそろ行くね……。
+line2 <shift> # 今日まで、ありがと。兄ちゃん」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、こちらこそ。元気でな」
+display
+com11 0 6
+sound 14017
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「うん！　真美達とつくった、たくさんの
+line2 <shift> # 思い出、忘れないでね。じゃ、兄ちゃん……！」
+display
+com4a 0 0
+com11 0 6
+sound 14018
+com4c 0 3
+name 0 0 <names:4>  # Ami and Mami
+line1 <shift> # 「ばいばーい！」
+display
+location 100 129 92 129 92 130 177 130 164 130 181 130 196 129 65 137 180 130 170 136 231 130 196 130 189 145 111 142 113 130 205 129 65
+line2 <shift> # なごり惜しそうに、去っていった。
+display
+location 101 137 180 130 190 130 193 130 196 129 65 149 202 130 234 130 205 130 194 130 231 130 162 129 66 130 175 130 199 129 65 137 180 136 200 143 227 130 201 129 65
+line2 <shift> # 亜美と真美が、さびしがってくれたのは……、
+display
+location 102 130 187 130 234 130 190 130 175 129 65 141 68 130 169 130 234 130 196 130 162 130 189 130 177 130 198 130 204 143 216 150 190 130 200 130 204 130 190 130 235 130 164 129 66
+line2 <shift> # 誇らしい気持ちで、俺は二人に背を向けた。
+display
+unk02

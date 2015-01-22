@@ -1,0 +1,239 @@
+com2c 0 46
+com2d 0 63
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さすがにドームスタジアムは大きいなぁ。
+line2 <shift> # 客席の向こうがかすんで見えそうだ」
+display
+com11 0 1
+sound 300
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい、すごく……、大きいです。で、でも、
+line2 <shift> # こんなに大きくて、いいのかな？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ？」
+display
+com11 0 1
+sound 301
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「向こうのお客さんが見えないほど
+line2 <shift> # 大きい場所でのライブだなんて……」
+com03 0 2
+choice1 <shift> # 遠くが見えず不安かな？
+line2
+com09 0 10
+com08
+choice2 <shift> # 大きいことはいいことだ
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「客席の様子が見えないと、不安かな？
+line2 <shift> # お客さんがこっち見てるか、わからないもんな」
+display
+com11 0 1
+sound 302
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ、いえ、それは気にしないんですけど……
+line2 <shift> # それよりも……私、お客さんが心配で」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「心配って？」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「大きいことはいいことじゃないか。
+line2 <shift> # たくさんお客さんも入るし」
+display
+com11 0 1
+sound 303
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そうですね。だ、だけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なにか不満かな？」
+display
+com11 0 1
+sound 304
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「不満というほどもないのかもしれない
+line2 <shift> # ですけど……いえ、私、心配なんです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「心配？」
+com09 0 29
+display
+location 29
+com11 0 1
+sound 305
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「遠くのお客さんからは、その、ステージが
+line2 <shift> # よく見えないんじゃないかな、って……」
+display
+com11 0 1
+sound 306
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ほら、ステージから客席だって、
+line2 <shift> # あんな豆粒みたいに小さく見えるんですよ？」
+display
+com11 0 1
+sound 307
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「それに音だって、きっと聞こえないし……
+line2 <shift> # ステージと客席が、あまりにも遠すぎて」
+display
+com11 0 1
+sound 308
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そんなライブ見ても、お客さん、
+line2 <shift> # 楽しいのかなぁって……」
+display
+com11 0 1
+sound 309
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「私、どうしても気になってしまって……」
+com03 0 2
+choice1 <shift> # もっと近くで歌えればなぁ
+line2
+com09 0 30
+com08
+choice2 <shift> # 大画面あるし心配ないよ
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もっと近くで歌えればなぁ……」
+display
+com11 0 1
+sound 310
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そう、思いますよね？　生で聴けるくらいの
+line2 <shift> # 距離がほんとは、一番いいと思うんです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。だけど、ライブを見たいひとは、
+line2 <shift> # このドームを埋めるくらいたくさんいるんだ」
+display
+com11 0 1
+sound 311
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そうですね、たくさんのひとに見てもらう
+line2 <shift> # ためには……、やっぱり、仕方ないのかな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだなぁ」
+display
+com11 0 1
+sound 312
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あっでも私、たくさんのひとが一緒に
+line2 <shift> # 盛り上がってくれるのは……、それは嬉しくて」
+display
+com11 0 1
+sound 313
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ただ……、マイクやアンプの力を使わないで、
+line2 <shift> # みんなで一緒に歌えたらなぁ、って」
+display
+com11 0 1
+sound 314
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そしたら、もしかしたら歌が、ずっと遠くまで
+line2 <shift> # 届くんじゃないかな……、って思ってるんです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そんな雪歩の気持ちを生かして、ライブで
+line2 <shift> # アンプラグドを１曲やってみることにした）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （アンプの大音響に慣れたお客さんには逆に
+line2 <shift> # 新鮮で、好評を得ることができたみたいだぞ！）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「中継の大画面もあるし、スピーカーも
+line2 <shift> # 超特大だし、心配いらないよ」
+display
+com11 0 1
+sound 315
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ライブを見に来て、画面の私たちを
+line2 <shift> # 見るんですか？」
+display
+com11 0 1
+sound 316
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「それって、お客さん、
+line2 <shift> # つまらなくないかなぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうだろうね……。生でライブを
+line2 <shift> # 見ていることに変わりはないんだけど」
+display
+com11 0 1
+sound 317
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「うーん、仕方ないのかな……。
+line2 <shift> # でも私、やっぱりほんとは……」
+display
+com11 0 1
+sound 318
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「小さなライブハウスで、生で聴けるくらいの
+line2 <shift> # 音でやってみたいです」
+display
+com11 0 1
+sound 319
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「お客さんが触れるくらい、近くにいるような
+line2 <shift> # ところで、一緒に歌いたいですね……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうかぁ……。しかし、ライブを見たいって
+line2 <shift> # お客さん、このドーム一杯くらいいるんだぞ？」
+display
+com11 0 1
+sound 320
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「むぅ……。すると、みんなに見てもらうには、
+line2 <shift> # すごい長いツアーすることになっちゃいますね」
+display
+com11 0 1
+sound 321
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ああ、どうすればいいんだろう？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いまはとにかく、ここで歌えることを
+line2 <shift> # 喜ぼうよ、な？」
+display
+com11 0 1
+sound 322
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そうですね……。すみません。せっかくの、
+line2 <shift> # 大舞台なんだし……、私、がんばります」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （雪歩はライブ自体に決して不満があるわけじゃ
+line2 <shift> # ないし、実際、その後の本番では大活躍だった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （でも、ちょっと寂しそうな
+line2 <shift> # 表情だったかもしれない……）
+com09 0 49
+display
+location 49
+unk02

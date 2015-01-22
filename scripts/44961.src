@@ -1,0 +1,378 @@
+com2c 0 18
+com2d 0 83
+com32 0 0
+com11 0 2
+sound 800
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサー、意外な発見しました！
+line2 <shift> # ＴＶ局のセットって、けっこう、もろいんです」
+display
+com11 0 2
+sound 801
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ハデにダンスして足ぶつけたら、大きな穴が！
+line2 <shift> # か、感動の……、新発見ですねっ！」
+com03 0 3
+choice1 <shift> # ……バカ
+com09 0 10
+com08
+choice2 <shift> # バカ？
+com09 0 11
+com08
+choice3 <shift> # バカッ！！
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……バカ」
+display
+com11 0 2
+sound 802
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あはは、すみません……。
+line2 <shift> # スタッフには、謝って、許してもらいました」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「バカ？」
+display
+com11 0 2
+sound 803
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ちがいますよ〜。ただ、ちょっと、
+line2 <shift> # オチャメっていうか、考えナシっていうか……」
+display
+com11 0 2
+sound 804
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「つまりは、バカですけど……。
+line2 <shift> # スタッフには、謝って、許してもらいました」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「バカッ！！」
+display
+com11 0 2
+sound 805
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うあっ、すみませんっ！
+line2 <shift> # なにも怒鳴らなくても〜」
+display
+com11 0 2
+sound 806
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「リハで、はじけないと、本番でも調子出ない
+line2 <shift> # から。スタッフには、謝りました……」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「で、セットとぶつかって、
+line2 <shift> # 真の方は、なんともないのか？」
+display
+com11 0 2
+sound 807
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ボクも、転んで、肩、打ちました。
+line2 <shift> # でも、たいしたことはないです！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「心配だな。……ちょっと見せて。
+line2 <shift> # 軽く押してみるから、痛かったら言うんだぞ」
+com0e 2 203
+com44
+com09 0 30
+com45
+com44
+com09 0 31
+com45
+com44
+com09 0 32
+com45
+com44
+com09 0 33
+com45
+com44
+com09 0 34
+com45
+com44
+com09 0 35
+com45
+com44
+com09 0 36
+com45
+com44
+com09 0 37
+com45
+display
+location 30
+com11 0 2
+sound 809
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「う……、あれ？　ちょっと痛いや。
+line2 <shift> # 気、張ってたから、わからなかったんだ……」
+display
+com11 0 2
+sound 836
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「リハ、終わったら、冷やしておきますね！」
+com09 0 49
+display
+location 31
+com11 0 2
+sound 837
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あの、プロデューサー？　そんなに軽くだと、
+line2 <shift> # 何もわからないんじゃ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、痛いところを強くさわっちゃ、
+line2 <shift> # まずいと思って。どんな感じだ？」
+display
+com11 0 2
+sound 838
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「う〜ん……。あ、意識したらなんだか痛くなっ
+line2 <shift> # てきた。……でも、これぐらいなら平気です！」
+com09 0 49
+display
+location 32
+com11 0 2
+sound 839
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサー！？　なんで、頭触って……」
+com09 0 91
+display
+location 33
+com11 0 2
+sound 840
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサー！？
+line2 <shift> # なんで、顔を触るんですか！？」
+com09 0 91
+display
+location 91
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、他にもケガしているところが、
+line2 <shift> # ないかと思って……」
+display
+com11 0 2
+sound 841
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「でも、そんな目立つ場所をケガしてたら、
+line2 <shift> # 見ただけでわかるような気がしますよ……？」
+display
+com11 0 2
+sound 842
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ま、いいですけど。どうせ、どこも……。ん？
+line2 <shift> # イテテッ！　な、なんだ？　急に肩が痛く……」
+com09 0 92
+display
+location 34
+com11 0 2
+sound 816
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うわわっ。プロデューサー、
+line2 <shift> # どうして、そんなところ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、ここも、打ったんじゃないかと。
+line2 <shift> # はれてるし」
+display
+com11 0 2
+sound 817
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そんな、ムチャクチャな〜。あ、あれ、
+line2 <shift> # イテテ。なんか急に肩が。おかしいな……」
+com09 0 92
+display
+location 35
+com11 0 2
+sound 818
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「え？　プロデューサー、下過ぎですよ。
+line2 <shift> # 打った場所は、もっと上……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ご、ごめん。手元がくるった……。
+line2 <shift> # 痛かったか？」
+display
+com11 0 2
+sound 819
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「いえ、別に……。ん、イテ、イテテテッ！　な、
+line2 <shift> # なんだ〜、急に肩の打ったところが、痛く……」
+com09 0 92
+display
+location 36
+com11 0 2
+sound 820
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサー？　どうして、そんなところ、
+line2 <shift> # さわるんです？　打ったのは、肩だって……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ご、ごめん、そうだったな。つい……」
+display
+com11 0 2
+sound 843
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「まあ、いいですけど。別にケガなんて……。ん、
+line2 <shift> # イテテッ！　な、なんだ？　急に肩が痛く……」
+com09 0 92
+display
+location 92
+com11 0 2
+sound 844
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「もしかして、緊張してたから、気づかなかった
+line2 <shift> # だけか。ああっ、もう！　でも、これぐらい！」
+com09 0 49
+display
+location 37
+com11 0 2
+sound 823
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサーどうしたんです？　別に遠慮は
+line2 <shift> # ……、ん、イテッ！　なんだ？　急に肩が……」
+display
+com11 0 2
+sound 845
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うわっ、気張ってたから、気づかなかっただけ
+line2 <shift> # かも。お、押されなくて、よかった〜」
+com09 0 49
+display
+location 49
+com11 0 2
+sound 825
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、セット直ったみたいですね。リハ再開かな。
+line2 <shift> # 今度こそ、さっきの動き、ちゃんと……！」
+display
+com11 0 2
+sound 826
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「せっかくのＴＶ番組なんだ。縮こまってなんて、
+line2 <shift> # いられないですよね。よーし！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、真……！」
+com03 0 3
+choice1 <shift> # ムリしすぎるなよ！
+line2
+com09 0 50
+com08
+choice2 <shift> # 痛めたところは、動かすな！
+line2
+com09 0 51
+com08
+choice3 <shift> # セットは、大切にな！
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ムリしすぎるなよ！」
+display
+com11 0 2
+sound 827
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「わかってます！　痛めたところ、カバーしな
+line2 <shift> # がら踊るくらい、今のボクなら……！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「セットは直せても、真に代わりは、
+line2 <shift> # いないんだからな」
+display
+com11 0 2
+sound 828
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、は、はい……。ちょっと感動……。
+line2 <shift> # へへへへっ、行ってきますっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （照れ笑いしながら、元気に走っていった。
+line2 <shift> # なにげない一言が、かなり効いたみたいだな）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「痛めたところは、動かすな！」
+display
+com11 0 2
+sound 829
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「え？　ええええっ！？　そんなの、ムリ
+line2 <shift> # ですよ〜。肩、動かさないで、ダンスなんて」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、より痛めたら、大変なことに……」
+display
+com11 0 2
+sound 830
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「心配してくれるのは、うれしいですけど、
+line2 <shift> # それじゃ、リハなんて、できません！」
+display
+com11 0 2
+sound 831
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あああ、もう行かないと！　とにかく、ボク、
+line2 <shift> # やります！　止めても、ムダですから！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （バタバタと、行ってしまった。あわてさせて
+line2 <shift> # しまったけど、気持ちだけは伝わったかな……）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「セットは、大切にな！」
+display
+com11 0 2
+sound 832
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「わかってますよ〜。いくらボクでも、
+line2 <shift> # 続けて同じ失敗するほど、バカじゃ……」
+display
+com11 0 2
+sound 833
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「しかも、一度やって、ケガまでしてるんです
+line2 <shift> # よ？　そんなに、信用ないですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、ほら、熱くなると、
+line2 <shift> # けっこうまわりが見えなくなるもんだし……」
+display
+com11 0 2
+sound 834
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「昔のボクだったら、そうかもしれませんけど、
+line2 <shift> # 今は、すこしは成長してますよ〜」
+display
+com11 0 2
+sound 835
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「どうせ心配するなら、セットより、
+line2 <shift> # ボクの体のコト……。冷たいよな」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （口を、とがらせている。かるい注意のつもり
+line2 <shift> # だったけど、ごきげん斜めにしてしまった……）
+com09 0 69
+display
+location 69
+unk02

@@ -1,0 +1,339 @@
+com2c 0 24
+com2d 0 71
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （他の事務所のアイドルと一緒に、メジャー芸能
+line2 <shift> # 誌の表紙を律子が飾ることになった。やったぞ）
+display
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「プロデューサー、お茶が入りましたよ。
+line2 <shift> # ……って、あれ？　なんかあったんですか？」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ひとりで携帯握り締めて、
+line2 <shift> # しかもガッツポーズなんかして……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おおっと。律子、いたのか。ちょうど今、
+line2 <shift> # 雑誌社から連絡が入ったところなんだ」
+com03 0 2
+choice1 <shift> # 喜べ、律子！実はな……
+line2
+com09 0 10
+com08
+choice2 <shift> # まぁ冷静に聞いてくれ
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「喜べ、律子！　実はな……、ごにょごにょ」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「お〜、メジャー誌の表紙！　それは、
+line2 <shift> # またとない注目されるチャンスですね！」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「さて、それじゃ、
+line2 <shift> # 表紙撮影にあたっての作戦を練らないと……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「冷静だなぁ、律子は。他の事務所のアイドル
+line2 <shift> # ふたりと一緒とはいえ、大きな仕事なのに」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「まぁ、この際、いちいち驚かない、驚かない。
+line2 <shift> # 私だって、もはや一流アイドルなんですよ？」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ま、まぁ冷静に聞いてくれよ。
+line2 <shift> # 律子、実はな……」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「な、なんですかプロデューサー、
+line2 <shift> # その真剣な面持ちはっ……！？」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ま、まさか、雑誌社と取引中止に？　それとも、
+line2 <shift> # 一大ガセスキャンダルの罠にはめられた？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああっと、そうじゃない、そうじゃないんだ。
+line2 <shift> # いいニュースだ」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「だったら、もっと普通に話してくださいよぉ。
+line2 <shift> # 身構えちゃうじゃないですか。それで？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「律子が、有名芸能雑誌の表紙に、抜擢された
+line2 <shift> # んだ。どうだ、嬉しいニュースだろう？」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ええ〜っうっそ〜！　わ〜い、
+line2 <shift> # やったぁ〜チャンスだラッキ〜！」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「……なんて今更、
+line2 <shift> # はしゃがないですよ、私は？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうか！？　表紙だぞ？　他の事務所のア
+line2 <shift> # イドルふたりと一緒とはいえ、大きな仕事だよ」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「だって私、もういい加減、メジャーアイドル
+line2 <shift> # なんですから。冷静に仕事に取り組まないと」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「もちろん、表紙抜擢は嬉しいけどね。
+line2 <shift> # いやというほど目立てるし！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだな。メジャーを大メジャーに押し上げる、
+line2 <shift> # さらなるアピールチャンスだ」
+display
+com11 0 0
+sound 10012
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ああっと、でもちょっと問題がありませんか？
+line2 <shift> # 他のアイドルも含めて、３人での表紙だと」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「問題？　なんだ？」
+display
+com11 0 0
+sound 10013
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「その雑誌の表紙って、スペース狭そう
+line2 <shift> # だから……。３人、並べるのかな？　って」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「３人横並びで表紙に写ろうと思ったら、
+line2 <shift> # やたら小さくなっちゃう可能性があるかも」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「むむむ、言われてみれば、確かにそうだな。
+line2 <shift> # 工夫して写らないとな……」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「その……、ちょっとずれます？
+line2 <shift> # ３人での並び、少し斜め前後に」
+display
+com11 0 0
+sound 10016
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「どういう順にするかは、他のふたりが良ければ、
+line2 <shift> # プロデューサーに、任せますけどぉ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだな。一応、俺達の要望として、斜めに並
+line2 <shift> # んだ場合の、律子の位置を決めておこうか……」
+com03 0 3
+choice1 <shift> # 律子は真ん中かな
+line2
+com09 0 30
+com08
+choice2 <shift> # 律子が列の前だな
+line2
+com09 0 31
+com08
+choice3 <shift> # 律子は１番後ろだな
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「律子は真ん中がいいかな？」
+display
+com11 0 0
+sound 10017
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「うん、私も真ん中がいいな」
+display
+com11 0 0
+sound 10018
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「にぎやかな表紙だと、ロゴに埋まりそうな
+line2 <shift> # 前や後ろよりは、真ん中のほうが目をひくし」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「他のアイドルふたりより、律子の方が人気は上
+line2 <shift> # だと思うし、真ん中にいるのが安定しそうだな」
+display
+com11 0 0
+sound 10019
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そ、そうかな？
+line2 <shift> # まぁ、そう言ってもらえると嬉しいかな」
+display
+com11 0 0
+sound 10020
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「昔は、写真やなんかに写る時、真ん中は自信な
+line2 <shift> # かったけど……。今なら、中央もいいかもねっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （なんだかんだと言いつつ、
+line2 <shift> # 律子は表紙起用が、相当、嬉しいみたいだ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （撮影の時には。きっと、いい仕事をしてくれる
+line2 <shift> # だろう。ますますの人気アップが望めそうだ！）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「律子は、目立つように前だな」
+display
+com11 0 0
+sound 10021
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「え〜っ、１番前ですか？　表紙の派手なロゴや
+line2 <shift> # キャプションに、埋まりそうな気がするなぁ」
+display
+com11 0 0
+sound 10022
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「それにほら、私ってそんなに、
+line2 <shift> # 目ひく顔立ちってわけじゃないから……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「表紙のロゴに負けないくらい、
+line2 <shift> # 律子も派手に飾って、目立てばいいじゃないか」
+display
+com11 0 0
+sound 10023
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「派手な中で派手さを強調したら、ケバケバで、
+line2 <shift> # うるさい印象になっちゃうじゃないですかぁ」
+display
+com11 0 0
+sound 10024
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「だいいち、私、そうやって前で目立つのは、
+line2 <shift> # あんまり好きじゃないし……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （結局、表紙用写真の撮影寸前まで、
+line2 <shift> # 文句を言い続けた律子……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （少々ふてくされた顔のまま、
+line2 <shift> # 表紙を飾ってしまったようだな……）
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「律子はしんがり、１番後ろだな」
+display
+com11 0 0
+sound 10025
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「後ろかぁ。まぁ、いいけど……」
+display
+com11 0 0
+sound 10026
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「でも、芸能誌の表紙って込み入ってるからなぁ。
+line2 <shift> # 私、ロゴに隠れちゃわないかな？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、さすがに、顔が隠れないような
+line2 <shift> # レイアウトには編集してくれるんじゃないか？」
+display
+com11 0 0
+sound 10027
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「でも、窮屈そうな予感……。とはいえ、窮屈な
+line2 <shift> # のは、うちらがどう並んでも、変わらないか」
+display
+com11 0 0
+sound 10028
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「仕方ない。後ろで、小さくちいさーく、
+line2 <shift> # 写りますね、私は」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いやいや、別にそんな小さくならなくても。
+line2 <shift> # せっかく表紙なんだし」
+display
+com11 0 0
+sound 10029
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「小さくというか、レイアウトの邪魔に、
+line2 <shift> # ならないようにってことよ……」
+display
+com11 0 0
+sound 10030
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「それと、３人の中でのバランスね。前にいる
+line2 <shift> # ふたりが、うまく映えるようにしないと」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「律子も一緒に、
+line2 <shift> # ３人で目立てばいいじゃないか」
+display
+com11 0 0
+sound 10031
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ただでさえ派手な表紙の中で、派手さをあまり
+line2 <shift> # 増やしたくないのよ。濃くなっちゃうから」
+display
+com11 0 0
+sound 10032
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「さりげなく写って、『あっ、こんな所に人が』
+line2 <shift> # って感じになったほうが、逆に目立つかも……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （律子は、ちょっとスネてしまったのか、
+line2 <shift> # やたらと、小さく写ることにこだわり……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （結局、せっかくのメジャー誌表紙に、
+line2 <shift> # 豆つぶのように小さく写ることになった……）
+com09 0 49
+display
+location 49
+unk02

@@ -1,0 +1,196 @@
+com2d 0 91
+com2e 0 101
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あっという間に１日が終ってしまった……」
+display
+location 0
+com11 0 0
+sound 10000
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「兄ちゃん、今日は、もう帰っちゃうの〜？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、またな。ところで、その『兄ちゃん』
+line2 <shift> # って呼び方、どうにかならないか？」
+display
+com11 0 0
+sound 10001
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ん〜、これが一番、ピッタシだと思うん
+line2 <shift> # だけどー。んじゃ、なんて呼べばいーの？」
+com03 0 3
+choice1 <shift> # 『兄ちゃん』で、いいや
+line2
+com09 0 10
+com08
+choice2 <shift> # 『プロデューサー』に、しよう
+line2
+com09 0 11
+com08
+choice3 <shift> # 『プロデューサーさん』に、しよう
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「『兄ちゃん』で、いいや。ふたりが
+line2 <shift> # 呼びやすいなら、それに越したことはないし」
+display
+com11 0 0
+sound 10002
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「わーい、ありがとー！　そんじゃまたね、
+line2 <shift> # 兄ちゃん！」
+com4a 0 0
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「『プロデューサー』にしよう」
+display
+com11 0 0
+sound 10003
+com4c 0 3
+name 0 0 <names:4>  # Ami and Mami
+line1 <shift> # 「ええええ、そんなの、や〜だ〜！
+line2 <shift> # なんか、かたっくるしい〜〜〜！」
+com09 0 18
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「『プロデューサーさん』にしよう」
+display
+com11 0 0
+sound 10004
+com4c 0 3
+name 0 0 <names:4>  # Ami and Mami
+line1 <shift> # 「ええええ、そんなの、や〜だ〜！
+line2 <shift> # 長くて、いいづらい〜〜〜！」
+com09 0 18
+display
+location 18
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うわ、わ、わかったよ……。
+line2 <shift> # じゃあ、兄ちゃんでいいよ、兄ちゃんで」
+display
+com4a 0 0
+com11 0 0
+sound 10005
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「やっぱ、それが一番だよねっ。
+line2 <shift> # ほんじゃ、またね！　兄ちゃん！」
+display
+location 19
+location 100
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あっという間に１日が終ってしまった……」
+display
+location 101
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もっと早く色々片付けていれば
+line2 <shift> # もう１レッスンできたかも……」
+display
+location 102
+com11 0 0
+sound 10006
+name 0 2 <names:5>  # President
+line1 <shift> # 「初日から、遅くまでご苦労だったな！」
+display
+com11 0 0
+sound 10007
+name 0 2 <names:5>  # President
+line1 <shift> # 「まずは、キミにプロデューサーカードを
+line2 <shift> # 渡しておこう」
+display
+com4a 0 0
+com11 0 0
+sound 10008
+name 0 2 <names:5>  # President
+line1 <shift> # 「カードをとってくれたまえ」
+display
+location 104
+com11 0 0
+sound 10009
+name 0 2 <names:5>  # President
+line1 <shift> # 「そのカードにはキミの活動が記録されていく。
+line2 <shift> # 大事に扱いたまえよ」
+display
+com11 0 0
+sound 10010
+name 0 2 <names:5>  # President
+line1 <shift> # 「もう１枚の、『ユニットカード』は、活動
+line2 <shift> # 終了時に渡すから、忘れないようにな！」
+display
+com11 0 0
+sound 10011
+name 0 2 <names:5>  # President
+line1 <shift> # 「オホン！　一日の最後には、
+line2 <shift> # 私が毎回、アイドルランクを報告するぞ」
+display
+com11 0 0
+sound 10012
+name 0 2 <names:5>  # President
+line1 <shift> # 「アイドルランクとは、ファンの数で決まる。
+line2 <shift> # いわばキミ達の活動の証だ」
+display
+com4a 0 0
+com11 0 0
+sound 10013
+name 0 2 <names:5>  # President
+line1 <shift> # 「ではキミ達のアイドルランク報告だ！」
+display
+location 200
+com11 0 0
+sound 10014
+name 0 2 <names:5>  # President
+line1 <shift> # 「ＴＶに出るまでは、素人と何ら違わない。
+line2 <shift> # 活動３週目にＴＶ出演を果たしたまえ！」
+display
+com4a 0 0
+com11 0 0
+sound 10015
+name 0 2 <names:5>  # President
+line1 <shift> # 「そして、まずはランクＦアイドルを
+line2 <shift> # 目指すのだ！」
+display
+location 103
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ファンからのプレゼントをチェックして帰るか」
+display
+location 201
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （次の活動では、ステージ衣装を決めよう！）
+display
+location 202
+com11 0 0
+sound 10006
+name 0 2 <names:5>  # President
+line1 <shift> # 「初日から、遅くまでご苦労だったな！」
+display
+com11 0 0
+sound 10011
+name 0 2 <names:5>  # President
+line1 <shift> # 「オホン！　一日の最後には、
+line2 <shift> # 私が毎回、アイドルランクを報告するぞ」
+display
+com11 0 0
+sound 10012
+name 0 2 <names:5>  # President
+line1 <shift> # 「アイドルランクとは、ファンの数で決まる。
+line2 <shift> # いわばキミ達の活動の証だ」
+display
+com4a 0 0
+com11 0 0
+sound 10013
+name 0 2 <names:5>  # President
+line1 <shift> # 「ではキミ達のアイドルランク報告だ！」
+display
+unk02

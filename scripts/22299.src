@@ -1,0 +1,342 @@
+com2c 0 25
+com2d 0 51
+com32 0 0
+com11 0 4
+sound 500
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「これから『月刊ビオラ』の取材ですね。
+line2 <shift> # ……どきどきします」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「売れてないマイナー女性誌の、小さな記事です
+line2 <shift> # よ？　緊張するようなものでも……」
+display
+com11 0 4
+sound 501
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「じつは、と、とても好きな雑誌なんです。
+line2 <shift> # そこの占い、すごくよく当たるので」
+com03 0 3
+choice1 <shift> # わりとミーハーなんですね
+line2
+com09 0 10
+com08
+choice2 <shift> # わりと女性らしいんですね
+line2
+com09 0 11
+com08
+choice3 <shift> # わりとオカルト好きなんですね
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わりとミーハーなんですね」
+display
+com11 0 4
+sound 502
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ふふっ、そうかもしれませんね。けれど、
+line2 <shift> # いいことが書いてあると、つい、うれしくて」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わりと女性らしいんですね」
+display
+com11 0 4
+sound 503
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「わりとって……こういうの、私には不似合い
+line2 <shift> # ですか？」
+display
+com11 0 4
+sound 504
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「プロデューサーさん、私のことを……。
+line2 <shift> # べ、別にいいのですけれど」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わりとオカルト好きなんですね」
+display
+com11 0 4
+sound 505
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「占いは、オカルトではないですよね？
+line2 <shift> # ちゃんとした根拠がありますし……」
+display
+com11 0 4
+sound 506
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「んー、男の人にとっては、そうなのかしら。
+line2 <shift> # 私は信じているのですけれど」
+com09 0 29
+display
+location 29
+com11 0 4
+sound 507
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「今月号の人相占いには、ここの細い人は、おと
+line2 <shift> # なしい性格って。ズバリで驚いてしまいました」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あずささんの顔で、細いとこっていえば……」
+com0e 1 49
+com44
+com09 0 30
+com45
+com44
+com09 0 31
+com45
+com44
+com09 0 32
+com45
+com44
+com09 0 33
+com45
+com44
+com09 0 34
+com45
+com44
+com09 0 35
+com45
+com44
+com09 0 36
+com45
+com44
+com09 0 37
+com45
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ここ？」
+display
+com11 0 4
+sound 508
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そうです。マユの細い人は、おとなしいって。
+line2 <shift> # やはり、カンタンにわかってしまいましたね」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ここ？」
+display
+com11 0 4
+sound 509
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「んー、髪、たしかに細いですけれど、それは
+line2 <shift> # 人相に入らないのでは？」
+com09 0 91
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ここ？」
+display
+com11 0 4
+sound 510
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「目、細いでしょうか？　そういう風に言われた
+line2 <shift> # こと、これまでなかったです」
+com09 0 91
+display
+location 33
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ここ？」
+display
+com11 0 4
+sound 511
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「鼻って、細いとか、太いとか言うのでしょう
+line2 <shift> # か？　たぶん、高い低い、ですよね？」
+com09 0 91
+display
+location 34
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ここ？」
+display
+com11 0 4
+sound 512
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「口、細いですか？　そうかもしれませんね。
+line2 <shift> # でも今月号は、別のところの特集でした」
+com09 0 91
+display
+location 35
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ここ？　顔のりんかくですか？」
+display
+com11 0 4
+sound 513
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、言われてみれば、そこも細めかもしれませ
+line2 <shift> # んね。でも今月号は、別のところの特集でした」
+com09 0 91
+display
+location 91
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ、どこなんです？」
+com09 0 92
+display
+location 36
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ここ？」
+display
+com11 0 4
+sound 514
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ぷ、プロデューサーさん？　そこ、顔ではない
+line2 <shift> # ですよね？　人相があるわけは……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それもそうですね。なに、寝ぼけてるんだか。
+line2 <shift> # じゃあ、どこなんです？」
+com09 0 92
+display
+location 37
+com11 0 4
+sound 515
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「プロデューサーさん？　なにをじっと
+line2 <shift> # 見つめて……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、あちこち細いようで、そうでもない
+line2 <shift> # ようで……」
+display
+com11 0 4
+sound 516
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「わかりませんか？　けっこうカンタンだと
+line2 <shift> # 思ったのですけれど」
+com09 0 92
+display
+location 92
+com11 0 4
+sound 517
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「書いてあったのはー、マユについてです。
+line2 <shift> # 逆に太い人は、とても積極的なんですって」
+com09 0 49
+display
+location 49
+com11 0 4
+sound 518
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あのー、プロデューサーさん。記者の人に、
+line2 <shift> # 来月号の占いの事、聞いてもいいでしょうか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いいですけど、そんなの知ってますかね？　あ
+line2 <shift> # ずささんって、どんな運勢が気になるんです？」
+display
+com11 0 4
+sound 519
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「え、あ、その、普通のやつです。き、きっと、
+line2 <shift> # 聞いてもつまらないです……」
+com03 0 3
+choice1 <shift> # 仕事運、とかですか？
+line2
+com09 0 50
+com08
+choice2 <shift> # やっぱり金運？
+line2
+com09 0 51
+com08
+choice3 <shift> # もしかして……恋愛運？
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 2
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「仕事運、とかですか？」
+display
+com11 0 4
+sound 520
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「…………そ、そうですー。あ、アイドルとして
+line2 <shift> # 成功できるかどうかが、一番、気になって」
+display
+com11 0 4
+sound 521
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ふふっ、それでは、行ってきますね。
+line2 <shift> # プロデューサーさん」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （あの様子は、絶対、別のなにかだな。ズバリ指
+line2 <shift> # 摘すると照れるかもしれないから、これでいい）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やっぱり金運？」
+display
+com11 0 4
+sound 522
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「お金、ですか？　今はそれほど稼げていない
+line2 <shift> # ですけど、そういうのは、とくに……」
+display
+com11 0 4
+sound 523
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「私、お金欲しがっているように見えますか？
+line2 <shift> # だとしたら、マイナス……」
+display
+com11 0 4
+sound 524
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、も、もう行きますね。記者の人、
+line2 <shift> # 待たせてしまうと、悪いですから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （そそくさと行ってしまった。思いつきで
+line2 <shift> # 言っただけなのに……すこし気にしてたな）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もしかして……恋愛運？」
+display
+com11 0 4
+sound 525
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「え…………そ、そんなことはないです。
+line2 <shift> # そんなの、すこしも興味はなくて」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「別に、隠さなくてもいいですよ」
+display
+com11 0 4
+sound 526
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ち、ち、ちがうんです。
+line2 <shift> # 私、恋愛には、あの、うう……」
+display
+com11 0 4
+sound 527
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「プロデューサーさん、どうして、そんな顔……。
+line2 <shift> # わ、私、行ってきますっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （顔を赤くして、走っていってしまった。うーん、
+line2 <shift> # ここは突っ込まないのが、礼儀だったかな）
+com09 0 69
+display
+location 69
+unk02

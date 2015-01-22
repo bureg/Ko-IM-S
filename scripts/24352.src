@@ -1,0 +1,400 @@
+com2c 0 119
+com2d 0 53
+com2e 0 133
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やりましたね！　また合格ですよ、
+line2 <shift> # あずささん！　これで予選は、あと１回です」
+display
+com11 0 0
+sound 10000
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「はいっ。反省点もありますが、
+line2 <shift> # まずは合格できて、よかったです〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ＴＶ中継も盛り上がったし、
+line2 <shift> # これでまた、ファンが増えますね」
+display
+com11 0 0
+sound 10001
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「私の歌、少しでも気に入ってくれた人が、
+line2 <shift> # いてくれたら、嬉しいのですけれど」
+display
+com11 0 0
+sound 10002
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「……あずさも合格したんだ。やっぱ、
+line2 <shift> # ミキのこと、ジャマする気なんだね」
+display
+com11 0 0
+sound 10003
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ジャマだなんて……。美希ちゃん、私は、
+line2 <shift> # 決してそんなつもりは、ないのよ？」
+display
+com11 0 0
+sound 10004
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「じゃあ、ミキとプロデューサーのこと、
+line2 <shift> # 応援してくれるの？」
+display
+com11 0 0
+sound 10005
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「プロデューサーとのコンビ、
+line2 <shift> # 解消してくれるの？」
+display
+com11 0 0
+sound 10006
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「それは……、プロデューサーさんとのコンビは、
+line2 <shift> # 解消できないわ」
+display
+com11 0 0
+sound 10007
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「そんなこと、私の意思だけで、
+line2 <shift> # 決められることじゃないのよ、美希ちゃん」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだぞ、美希。あずささんが、
+line2 <shift> # どんなに俺をキライでも、コンビ解消はムリだ」
+display
+com11 0 0
+sound 10008
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「き、キライだなんて、そんなことは、
+line2 <shift> # ありません、プロデューサーさん！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃあ、あずささんは、俺のこと……」
+com03 0 3
+choice1 <shift> # 好きですか？
+line2
+com09 0 10
+com08
+choice2 <shift> # 愛してるんですか？
+line2
+com09 0 11
+com08
+choice3 <shift> # どう思ってるんですか？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「好きですか？
+line2 <shift> # キライじゃないなら、好きでしょう？」
+display
+com11 0 0
+sound 10009
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「え……。あの、その、それは〜……」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「愛してるんですか？」
+display
+com11 0 0
+sound 10010
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ええっ！？　愛だなんて、そんなに強い気持ち
+line2 <shift> # は、ありません。す、すみません〜」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どう思ってるんですか？
+line2 <shift> # この際、ハッキリさせて下さい！」
+display
+com11 0 0
+sound 10011
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「うう……。プロデューサーさんまで、
+line2 <shift> # そんな怖い顔で、つめよらないで下さい」
+display
+com11 0 0
+sound 10012
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「もう、私、どうしたら、いいんでしょうかー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ま、マズイ！　ちょっと、あずささんを、
+line2 <shift> # 追いつめすぎてしまったか？）
+com09 0 19
+display
+location 19
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あはは。冗談ですよ！　あずささんと美希があ
+line2 <shift> # んまり深刻な顔してるから、からかったんです」
+display
+com11 0 0
+sound 10013
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「えっ。そうだったんですか？
+line2 <shift> # もう。プロデューサーさんったら〜……」
+display
+com11 0 0
+sound 10014
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「むー！　ミキの前でラブラブしないでってば！
+line2 <shift> # ……ねえねえ、プロデューサーっ！！」
+display
+com11 0 0
+sound 10015
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「これから、ミキと二人で、お出かけ、しよ？
+line2 <shift> # あずさは置いてって。ね、いいでしょ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そういうわけには、いかないよ。
+line2 <shift> # あずささんを置いて、遊びになんか行けない」
+display
+com11 0 0
+sound 10016
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「……どうして？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ？」
+display
+com11 0 0
+sound 10017
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「どうして、ミキのお願いは、きいてくれない
+line2 <shift> # の？　……あずさのお願いは、きくクセに」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「美希。俺は別に、美希に、
+line2 <shift> # いじわるをしているわけじゃないんだ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今は、あずささんにとっても、美希にとっても、
+line2 <shift> # とても大事な時期なんだ。だから……」
+display
+com11 0 0
+sound 10018
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「もう……、いい」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「美希……？」
+display
+com11 0 0
+sound 10019
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「プロデューサーは、あずさが大事で、
+line2 <shift> # ミキのことは、どうでもいいんでしょ！？」
+display
+com11 0 0
+sound 10020
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「美希ちゃん、そんなことはないわ。
+line2 <shift> # プロデューサーさんは、美希ちゃんのこと……」
+display
+com11 0 0
+sound 10021
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「や！　プロデューサーを独り占めしてる
+line2 <shift> # あずさの話なんて、ききたくないの！」
+display
+com11 0 0
+sound 10022
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「あずさなんて……。
+line2 <shift> # あずさなんて、キライなの！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あっ、おい！　美希っ！？」
+display
+com11 0 0
+sound 10023
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あの、のんびりしていて優しい美希ちゃんが、
+line2 <shift> # あんなに声を、荒げるなんて……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あずささん、かなりショックを受けたみたいだ。
+line2 <shift> # 当然だよな……）
+com03 0 3
+choice1 <shift> # きっと仲直りできますよ
+line2
+com09 0 20
+com08
+choice2 <shift> # あずささんのせいではないです
+line2
+com09 0 21
+com08
+choice3 <shift> # いずれ、時が解決してくれます
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「きっと仲直り、できますよ。美希も、
+line2 <shift> # 興奮してしまっただけだと思います」
+display
+com11 0 0
+sound 10024
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「そう……、でしょうか。知らないうちに、
+line2 <shift> # 私が、美希ちゃんを傷つけていたとしたら……」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あずささんのせいでは、ないです。
+line2 <shift> # 少し落ちつけば、美希もわかってくれます」
+display
+com11 0 0
+sound 10025
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「でも……。いえ、わかりました。
+line2 <shift> # ありがとうございます、プロデューサーさん」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あずささん、納得はしてないみたいだ。
+line2 <shift> # 悩みを背負い込んでしまうタイプだからな）
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いずれ、時が解決してくれます。
+line2 <shift> # 放っておいて平気ですよ」
+display
+com11 0 0
+sound 10026
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「そんなこと、できません。あんなに悲しそうな
+line2 <shift> # 美希ちゃんを、放っておくなんて……」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 10027
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「美希ちゃん、ずっとひとりで戦ってきて、
+line2 <shift> # 追いつめられているのかもしれません」
+display
+com11 0 0
+sound 10028
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ずっと黒井社長の下で働いていて、そばで、
+line2 <shift> # 支えてくれる人もいない……」
+display
+com11 0 0
+sound 10029
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「なのに、目の前には、いつも、プロデューサー
+line2 <shift> # さんと、一緒にいる、私がいて……」
+display
+com11 0 0
+sound 10030
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「そんな状況、もし、私だったら……、
+line2 <shift> # すごくつらいと思います」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それは……、そうですね」
+display
+com11 0 0
+sound 10031
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「……プロデューサーさん。プロデューサーさん
+line2 <shift> # は、美希ちゃんのこと、どう思いますか？」
+display
+com11 0 0
+sound 10032
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「美希ちゃんを……、好きですか？
+line2 <shift> # プロデュースしたいと、思いますか？」
+display
+com11 0 0
+sound 10033
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「もし、そうなら、私は……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「この際だから、ハッキリ言いますね。
+line2 <shift> # いいですか、あずささん……」
+display
+com11 0 0
+sound 10034
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「は、はい。そうして下さい。どんなに、
+line2 <shift> # ツラい言葉でも、私、受け止めてみせます」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……今の俺は、あずささん以外をプロデュース
+line2 <shift> # する気は、ありません。それに！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「美希に好感は持っていますが、
+line2 <shift> # 恋愛対象じゃない。美希は、まだ子どもですよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だから、あずささんは、余計なことを、
+line2 <shift> # 気にしないで、アイドル活動に専念して下さい」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いいですね！？」
+display
+com11 0 0
+sound 10035
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「は、はい……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あずささん、ちゃんと納得してくれたかな？
+line2 <shift> # でも、今、俺に言えることは、全て言ったぞ）
+com09 0 99
+display
+location 99
+unk02

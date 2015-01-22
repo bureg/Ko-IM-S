@@ -1,0 +1,302 @@
+com2c 0 24
+com2d 0 21
+com32 0 0
+com11 0 3
+sound 500
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「今回の取材記事、白黒なんですって？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、扱いは大きいよ。見開きだし」
+display
+com11 0 3
+sound 501
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あーあ。このステキな顔が、モノクロでしか
+line2 <shift> # 見られないなんて、読者がかわいそう……」
+com03 0 3
+choice1 <shift> # 今回は、ガマンしてもらおう
+line2
+com09 0 10
+com08
+choice2 <shift> # オトナっぽく見えるかもよ
+line2
+com09 0 11
+com08
+choice3 <shift> # クロクロのが、よかったか？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「今回は、ガマンしてもらおう」
+display
+com11 0 3
+sound 502
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そうね。もうちょっと売れないと、カラー
+line2 <shift> # グラビアはムリかしら」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「オトナっぽく見えるかもよ」
+display
+com11 0 3
+sound 503
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そんなの、言い訳だわー。
+line2 <shift> # 白黒は、逆立ちしたって、白黒っ！」
+display
+com11 0 3
+sound 504
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「つまんないこと言ってないで、カラー記事
+line2 <shift> # 取ってこられるよう、努力してよね」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「クロクロのが、よかったか？」
+display
+com11 0 3
+sound 505
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「真っ黒にぬりつぶして、どうするのよ〜！」
+display
+com11 0 3
+sound 506
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「すぐ、そういう冗談言うんだから……。
+line2 <shift> # あんたの顔に、イカスミかけてやろうかしら」
+com09 0 19
+display
+location 19
+com11 0 3
+sound 507
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あ、ページが地味なら、せめてタイトルぐらい、
+line2 <shift> # インパクトあるのにしたいわね！」
+display
+com11 0 3
+sound 508
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「『セレブ・アイドルの○○スマッシュ！』
+line2 <shift> # とか、どう？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「今っぽくて、いいんじゃないか」
+display
+com11 0 3
+sound 509
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「んー、なにスマッシュに、してもらおう
+line2 <shift> # かなー」
+com03 0 3
+choice1 <shift> # わがままスマッシュ！
+line2
+com09 0 20
+com08
+choice2 <shift> # そよ風スマッシュ！
+line2
+com09 0 21
+com08
+choice3 <shift> # 惨殺スマッシュ！
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わがままスマッシュ！」
+display
+com11 0 3
+sound 510
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あ！　なかなか、かわいいわね！
+line2 <shift> # それで行こうかしら」
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そよ風スマッシュ！」
+display
+com11 0 3
+sound 511
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……なあに、そのセンス。古くさーい」
+display
+com11 0 3
+sound 512
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なんか百年前のアイドルって感じー。
+line2 <shift> # ……いいわ、自分で考えるから」
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「惨殺スマッシュ！」
+display
+com11 0 3
+sound 513
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「くっ、くっ、く〜！　なによそれ〜！」
+display
+com11 0 3
+sound 514
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「すこしはマジメに考えないと、惨殺するわよっ。
+line2 <shift> # フンっ、いいわ。自分で考えるから……」
+com09 0 29
+display
+location 29
+com11 0 3
+sound 515
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「じゃ、そろそろ応接室、行くわね。にひひっ♪
+line2 <shift> # 記者の人、たっぷり、もてなしてあげないと！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……い、いやな予感がするな」
+display
+com11 0 3
+sound 516
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なによ、心配なの？　あんたは、どんな風に
+line2 <shift> # 話してきてほしいわけ？」
+com03 0 3
+choice1 <shift> # 甘えるように
+line2
+com09 0 30
+com08
+choice2 <shift> # すねるように
+line2
+com09 0 31
+com08
+choice3 <shift> # 恥じるように
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「甘えるように」
+display
+com11 0 3
+sound 517
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「うーん、そんなベタなので、いいのかしら？
+line2 <shift> # ま、やってみるわ」
+display
+com22 0 30
+com21 0 30
+com11 0 3
+sound 518
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あははー、おっかし〜い！　記者の人、みんな
+line2 <shift> # テロンテロンになって、帰っていったわー！」
+display
+com11 0 3
+sound 519
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「オトナって、単純〜。この調子でドンドン
+line2 <shift> # 私の信者、増やしていかないとっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （記者達は、みな伊織のワナにはまったようだ。
+line2 <shift> # これなら、よく書いてくれるだろう）
+com09 0 39
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「すねるように」
+display
+com11 0 3
+sound 520
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「こう、『聞きたくなーい』とか『つまんない人、
+line2 <shift> # きらーい』とか、そんな感じかしら」
+display
+com11 0 3
+sound 521
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「わかったわ！　これできっと、みんな、私の
+line2 <shift> # トリコね！」
+display
+com22 0 30
+com21 0 30
+com11 0 3
+sound 522
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ただいまー。なんか記者の人、すこし
+line2 <shift> # あきれてたー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あんまり、うまくいかなかった？」
+display
+com11 0 3
+sound 523
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「もうちょっと、素直にやった方が、おもしろい
+line2 <shift> # インタビューになったかもね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （方向としては、悪くなかったと思うんだけど。
+line2 <shift> # もう一工夫といったところか……）
+com09 0 39
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「恥じるように」
+display
+com11 0 3
+sound 524
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「えーと、もじもじするような感じ？
+line2 <shift> # 『あの……その……、やだっ』。こうね？」
+display
+com11 0 3
+sound 525
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「フフン。じゃあ、この作戦でいってみる！」
+display
+com22 0 30
+com21 0 30
+com11 0 3
+sound 526
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ただいまッ！　アッタマきたわっ！
+line2 <shift> # んも〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なに荒れてるんだよ！？」
+display
+com11 0 3
+sound 527
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……声が小さすぎて、よく聞こえないって。
+line2 <shift> # 本音トークに切り替えたら、逃げちゃったわ！」
+display
+com11 0 3
+sound 528
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なによなによ。大のオトナがあれぐらい
+line2 <shift> # 言われたからって、泣くんじゃないわよ〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （な、なにを言ったんだ？　雑誌社に電話して、
+line2 <shift> # 謝罪しないと！）
+com09 0 39
+display
+location 39
+unk02

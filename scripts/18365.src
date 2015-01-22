@@ -1,0 +1,342 @@
+com2c 0 119
+com2d 0 33
+com2e 0 113
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お帰り、やよい！　なんとか勝てたな！」
+display
+com11 0 0
+sound 10000
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ただいまです、プロデューサー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今回も、いつものアレ、やるか？」
+display
+com11 0 0
+sound 10001
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あっと……、今回は、いいです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ、めずらしいな。どうしたんだ？」
+display
+com11 0 0
+sound 10002
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えーっと、次にやる時は、ＩＵの決勝戦で、
+line2 <shift> # 勝った時がいいかなーって。ダメですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだな……」
+com03 0 3
+choice1 <shift> # 決勝戦後だな
+line2
+com09 0 10
+com08
+choice2 <shift> # わがままだな
+line2
+com09 0 11
+com08
+choice3 <shift> # 今やろう！
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃあ、決勝戦後にやろう！
+line2 <shift> # とびきりのハイタッチをな！」
+display
+com11 0 0
+sound 10003
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はいっ、プロデューサー！
+line2 <shift> # ありがとうございます！」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わがままだなあ、やよいは」
+display
+com11 0 0
+sound 10004
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うう、ごめんなさい……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、そういうわがままは頼もしいぞ。だって、
+line2 <shift> # 決勝まで、絶対に残る覚悟だってことだからな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃあ、きっとやろうな、決勝のあとで！」
+display
+com11 0 0
+sound 10005
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はいっ、プロデューサー！」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、今やろう！
+line2 <shift> # 決勝まで勝ち抜ける保証も、ないしな……」
+display
+com11 0 0
+sound 10006
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そ、そうですよね……。もしかしたら、
+line2 <shift> # これが最後のタッチかもですよね……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、そんなにへこまないでくれ！
+line2 <shift> # 変なこと言ったりして、俺が悪かった！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それが、やよいの覚悟なんだよな。
+line2 <shift> # じゃあ、決勝のあとで必ずやろう！　約束だ！」
+display
+com11 0 0
+sound 10007
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はいっ、プロデューサー！」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10008
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ところで、どうでしたか？　私のステージ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今日も、ばっちり盛り上がってたぞ！　やよい
+line2 <shift> # は、何か気になることでも、あったのか？」
+display
+com11 0 0
+sound 10009
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はい……。ファンの皆さんの反応って、
+line2 <shift> # 正直なんだなって、今日は思いました」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうして？」
+display
+com11 0 0
+sound 10010
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「響さんのステージが、私の時とは全然違って、
+line2 <shift> # ものすっごく盛り上がってたんですよー！」
+display
+com11 0 0
+sound 10011
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「それを見てたら、応援に来てくれた家族に、
+line2 <shift> # 申し訳なくって……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そんなに差があったかな？
+line2 <shift> # 気にしすぎだと思うけど……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （響に勝ちたいって思う気持ちが、
+line2 <shift> # プレッシャーに、なってるのかもしれないな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「何を言ってるんだ！　それは違うぞ！
+line2 <shift> # 俺の目から見て……」
+com03 0 3
+choice1 <shift> # 響とは互角だ
+line2
+com09 0 20
+com08
+choice2 <shift> # やよいは勝ってたよ
+line2
+com09 0 21
+com08
+choice3 <shift> # ファンが悪かった
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「正直なところ、響とやよいは互角だったと思う。
+line2 <shift> # 今までは、ずっと響を追ってここまで来たけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今は同じステージに立ってるし、やよいは、
+line2 <shift> # ファンに元気をあげようと、がんばっている」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「盛り上がりも、同じくらいだったよ。
+line2 <shift> # 俺は、そう思う」
+display
+com11 0 0
+sound 10012
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「でも……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やよいは、これからもっと多くのファンに、
+line2 <shift> # 元気をあげられるように、なりたいんだよな？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だったら、今日どうだったかなんて、そんなに
+line2 <shift> # 細かく気にするな。勝負は、これからだよ」
+display
+com11 0 0
+sound 10013
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「これから……。そうですね！」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「実は、やよいは勝ってたよ！」
+display
+com11 0 0
+sound 10014
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ほんとですか！？　私には、響さんの方が、
+line2 <shift> # 盛り上がってたように見えたんですけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ほら、あれだ。試合に負けて勝負に勝った、
+line2 <shift> # みたいなさ……。わかるだろ？」
+display
+com11 0 0
+sound 10015
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うう、ゼンゼンわかりません……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「むう。わからなくてもいいよ。とにかく俺の目
+line2 <shift> # から見たら、やよいは何も負けてなかったぞ」
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ファンが悪かったな。元気がなかったんだ」
+display
+com11 0 0
+sound 10016
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そ、そういう言い方は、
+line2 <shift> # よくないかなって思うんですけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だから、次はもっともっと、元気をあげられる
+line2 <shift> # ようにしよう。やよいなら、きっとできる」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ファンだけじゃなく、響も元気にするんだろ？
+line2 <shift> # もっと、パワー全開でいこう！」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 10017
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「わかりました、プロデューサー！　そういう
+line2 <shift> # ことなら私、次は、もっともーっと……」
+display
+com11 0 0
+sound 10018
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「みんなにあげられるように、
+line2 <shift> # たっくさん、元気を、ためておきますねっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、どんどんためておいてくれ！」
+display
+com11 0 0
+sound 10019
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「……」
+display
+com11 0 0
+sound 10020
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あ、響さんっ！　……一言も話してくれません
+line2 <shift> # でしたね。すごくピリピリしてました」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やよいのステージを見たからじゃないか？　自
+line2 <shift> # 分の時より盛り上がってる、って思ったんだよ」
+display
+com11 0 0
+sound 10021
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「わ、私のステージが、ですか！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「近くで見ているから、ついつい相手の方が、
+line2 <shift> # すごいって思っちゃうんだよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やよいと同じだな、きっと！」
+display
+com11 0 0
+sound 10022
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あ、それって、たしか、こう言うんですよね、
+line2 <shift> # 『隣の芝田は青木』って！」
+display
+com11 0 0
+sound 10023
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「……あれ？　隣の人は、芝田さんですか？
+line2 <shift> # 青木さんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……いや、ものすごく盛大に間違ってるぞ。
+line2 <shift> # それを言うなら、『隣の芝生は青い』だ」
+display
+com11 0 0
+sound 10024
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えへへー、それです、芝生です！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「納得したか？
+line2 <shift> # じゃあ、そろそろ、事務所に戻るか！」
+display
+com11 0 0
+sound 10025
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はいっ！」
+com09 0 99
+display
+location 99
+unk02

@@ -1,0 +1,289 @@
+com2c 0 38
+com2d 0 41
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「老人ホームの、慰問（いもん）ライブ、
+line2 <shift> # けっこう、好評だったな」
+display
+com11 0 4
+sound 600
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。ひとり、私の歌、すごい気に入ってくれ
+line2 <shift> # た人がいました。昔、楽器職人だったそうで」
+display
+com11 0 4
+sound 601
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「私の声に勝る楽器は、世界中のどこにもない、
+line2 <shift> # って。最高の、ほめ言葉を……」
+com03 0 3
+choice1 <shift> # さすがに、照れただろ？
+line2
+com09 0 10
+com08
+choice2 <shift> # おせじのうまい人だな
+line2
+com09 0 11
+com08
+choice3 <shift> # 俺も、そう思うよ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さすがに、照れただろ？」
+display
+com11 0 4
+sound 602
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……すこし。どこを見ていいか、わからなく
+line2 <shift> # なりました」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おせじのうまい人だな」
+display
+com11 0 4
+sound 603
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「私も、半分はそうだって思いました。
+line2 <shift> # 面と向かって言われると、困りますよね」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺も、そう思うよ」
+display
+com11 0 4
+sound 604
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「やめてください、プロデューサーまで。
+line2 <shift> # 私、慢心したくありませんから」
+display
+com11 0 4
+sound 605
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「それに、歌は、声質だけで決まるものじゃ
+line2 <shift> # ないです。深い部分を、みがかないと……」
+com09 0 29
+display
+location 29
+com11 0 4
+sound 606
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「その人、『自分が旅立つ時には、ぜひあなたの
+line2 <shift> # 歌で送り出してほしい』と、まで」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか。相当、気に入ってくれたんだな。
+line2 <shift> # 千早の歌」
+display
+com11 0 4
+sound 607
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「光栄です。けど、旅立つ時に歌っても、肝心の
+line2 <shift> # 本人には聴いてもらえないのが、残念ですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなことはないよ。声は届くさ」
+com03 0 3
+choice1 <shift> # 思いを込めれば、ね
+line2
+com09 0 30
+com08
+choice2 <shift> # 大声で歌えば、ね
+line2
+com09 0 31
+com08
+choice3 <shift> # カンオケに、首突っ込めばね
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+com34 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「思いを込めれば、ね」
+display
+com11 0 4
+sound 608
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ふふっ、意外にロマンチストですね。でも、
+line2 <shift> # そういう考え方、きらいではないです」
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「大声で歌えば、ね」
+display
+com11 0 4
+sound 609
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「それで、届きますか？　あやしい気がします
+line2 <shift> # けど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか？　小声で歌うよりは、可能性あるよ。
+line2 <shift> # きっと、遠いだろうから」
+display
+com11 0 4
+sound 610
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「距離の問題では……。まあ、いいです」
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「カンオケに、首突っ込めばね」
+display
+com11 0 4
+sound 611
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……それ、冗談にしては、笑えないと
+line2 <shift> # 思います」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「う、そうか？　こういう場所じゃ、あまり
+line2 <shift> # 笑えない話だったか」
+display
+com11 0 4
+sound 612
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「違う場所なら、おもしろいか、どうかも、
+line2 <shift> # 疑問ですけど。……まあ、いいです」
+com09 0 49
+display
+location 49
+com11 0 4
+sound 613
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……ほんとに向こうの世界まで、声、届いたら
+line2 <shift> # いいですね」
+display
+com11 0 4
+sound 614
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「今なら、昔よりきっと、うまく歌えるだろう
+line2 <shift> # から……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「千早……？　もしかして、おじいちゃんとか、
+line2 <shift> # おばあちゃんとか、亡くなってるのか？」
+display
+com11 0 4
+sound 615
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……………………」
+com03 0 3
+choice1 <shift> # いつか気が向いたら、聞かせて
+line2
+com09 0 50
+com08
+choice2 <shift> # 聞かせてくれると、うれしいな
+line2
+com09 0 51
+com08
+choice3 <shift> # ……俺のこと、信頼してる？
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 2
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いつか気が向いたら、聞かせてくれよな」
+display
+com11 0 4
+sound 616
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……わかりました。気が向くことなんて、
+line2 <shift> # ない気もしますけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ま、それなら、それでもいいよ。
+line2 <shift> # さ、事務所に帰ろうか」
+display
+com11 0 4
+sound 617
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あ……はい。プロデューサー……ありがとう
+line2 <shift> # ございます」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ほっとした顔をしている。あまり急がず、
+line2 <shift> # しっかりとした信頼関係を、築いていこう）
+com09 0 69
+display
+location 51
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「聞かせてくれると、うれしいな」
+display
+com11 0 4
+sound 618
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……あまり、話したくありません」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「う……。どうしてもイヤなら、いいけど」
+display
+com11 0 4
+sound 619
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……金魚。飼ってた金魚が、死んだんです。
+line2 <shift> # つい、思い出してしまって」
+display
+com11 0 4
+sound 620
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ただ、それだけです。
+line2 <shift> # ……そろそろ、事務所に帰る時間ですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そうか。千早は、金魚に歌を……。
+line2 <shift> # ん、ごまかされたのか？）
+com09 0 69
+display
+location 52
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……俺のこと、信頼してる？」
+display
+com11 0 4
+sound 621
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……ある程度は。けど、プロデューサーと
+line2 <shift> # してと、個人としては、別です」
+display
+com11 0 4
+sound 622
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「それに、そういう言い方、好きじゃありません。
+line2 <shift> # まるで、おどされてる気分……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、そんな気はないよ。ただ、その、
+line2 <shift> # 確認してみたかったというか……」
+display
+com11 0 4
+sound 623
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「なら、目的は、達しましたよね？
+line2 <shift> # ……そろそろ、事務所に引き上げましょう」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （とりつくしまのない、返事……。
+line2 <shift> # どうも、最悪の聞き方、してしまったようだ）
+com09 0 69
+display
+location 69
+unk02

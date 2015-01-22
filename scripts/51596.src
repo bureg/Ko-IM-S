@@ -1,0 +1,395 @@
+com2c 0 114
+com2d 0 93
+com2e 0 103
+com32 0 0
+com11 0 4
+sound 300
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「市民ホールで、ライブだね！
+line2 <shift> # 今日は、真美の番だから、がんばらなきゃ！」
+display
+com11 0 4
+sound 301
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ねえ、兄ちゃん。今、亜美、入り口につくった
+line2 <shift> # グッズショップ、見てきたんだけど……」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「どうした？　むずかしそうな顔して」
+com03 0 2
+choice1 <shift> # 気に入らないことでも？
+line2
+com09 0 10
+com08
+choice2 <shift> # なにか、欲しい物でも？
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「気に入らないことでも？」
+display
+com11 0 4
+sound 302
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「うん。あのね、あんなさびしい売り場じゃ、
+line2 <shift> # 誰もきてくれないと思うの……」
+com09 0 29
+display
+location 11
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「なにか、欲しい物でも？」
+display
+com11 0 4
+sound 303
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ううん、そうじゃないの。欲しいんじゃなくて、
+line2 <shift> # 逆に、なんにも買いたくないなって……」
+display
+com11 0 4
+sound 304
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「だって、あの売り場、さびしいんだもん。長い
+line2 <shift> # テーブルの上に、グッズ並べてあるだけで……」
+com09 0 29
+display
+location 29
+com11 0 4
+sound 305
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「とくに、亜美達と同じくらいの子は、
+line2 <shift> # あれじゃ、買い物する気になれないよ〜」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「そうか。亜美達の世代をひきつけるには、
+line2 <shift> # ここにうったえかけなきゃだめだよな、亜美？」
+com0e 3 41
+com44
+com09 0 30
+com45
+com44
+com09 0 31
+com45
+com44
+com09 0 32
+com45
+com44
+com09 0 33
+com45
+com44
+com09 0 34
+com45
+com44
+com09 0 35
+com45
+com44
+com09 0 36
+com45
+display
+location 30
+com11 0 4
+sound 306
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「そうそう！　見た目で、わー、楽しそうな
+line2 <shift> # お店ーって思わないと、飛びつかないもん」
+display
+com11 0 4
+sound 307
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「いつもアクセサリー買うお店とかも、そうだよ
+line2 <shift> # ね。見てるだけで、なんかドキドキするし！」
+com09 0 49
+display
+location 31
+com11 0 4
+sound 308
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「え？　亜美達、買う時って、あんまり
+line2 <shift> # 頭なんかで、考えないよ？」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「そ、そうか？　でも買う前に、一度は
+line2 <shift> # どうしようか、悩むだろ？」
+display
+com11 0 4
+sound 309
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「そんなこと、ないよ〜。見た目が楽しそうな
+line2 <shift> # お店だと、飛びついちゃうもん！」
+com09 0 49
+display
+location 32
+com11 0 4
+sound 310
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「え？　どうして、鼻が関係あるの？　食べ物の
+line2 <shift> # お店じゃないんだよ？」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「いや、こう欲しい物を、かぎわける感覚が発達
+line2 <shift> # しているんじゃないか？　今の子どもは……」
+display
+com11 0 4
+sound 311
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「真美達、犬じゃないもん。それより、見た目
+line2 <shift> # だよ。楽しそうなお店には、飛びついちゃうし」
+com09 0 91
+display
+location 33
+com11 0 4
+sound 312
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「え？　どうして、耳が関係あるの？　音楽を
+line2 <shift> # 流すとか、そういうこと？」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「こう、にぎやかだと、買う意欲も増すんじゃ
+line2 <shift> # ないか？」
+display
+com11 0 4
+sound 313
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「それはそうだけど、音より、見た目の方が大切
+line2 <shift> # だよ。楽しそうなお店には、飛びついちゃうし」
+com09 0 91
+display
+location 34
+com11 0 4
+sound 314
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「心？　な、なんか、むずかしそーな話だね。
+line2 <shift> # どういうこと？」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「つまり、こう、深く心にしみるような、
+line2 <shift> # 店づくりっていうか……」
+display
+com11 0 4
+sound 315
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「真美達、そんな風には考えないよ？　見た目
+line2 <shift> # が楽しいお店なら、それで飛びついちゃうし〜」
+com09 0 91
+display
+location 35
+com11 0 4
+sound 316
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「そんなところと、お店と、どういう関係が
+line2 <shift> # あるの？　亜美、よくわからないよ……」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「いや、そこの肌から、しみじみと味わいが
+line2 <shift> # しみてくるような、そんな店を、だな……」
+display
+com11 0 4
+sound 317
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「兄ちゃん、ムチャクチャだよ〜。見た目さえ
+line2 <shift> # 楽しければ、真美達、すぐ飛びつくよ？」
+com09 0 91
+display
+location 36
+com11 0 4
+sound 318
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「兄ちゃん？　ここって、どこ？
+line2 <shift> # どうして、考え込んでるの？」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「うーん、いまいち、自信が持てないな……。
+line2 <shift> # そうだ、亜美達の考え、きかせてくれよ」
+display
+com11 0 4
+sound 319
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「んっとね、真美達は、見た目が楽しいお店が
+line2 <shift> # 好き〜。そういうとこなら、飛びついちゃうし」
+com09 0 91
+display
+location 91
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「とすると、ポイントは目か。
+line2 <shift> # そこにうったえかけないと、ダメなんだな……」
+com09 0 49
+display
+location 49
+com11 0 4
+sound 320
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ねえ、早くなんとかした方が、いいよ〜。あれ
+line2 <shift> # じゃ、ライブ成功しても、グッズ売れないよ？」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「わかった。できる範囲で、手をうとう！」
+display
+com11 0 4
+sound 321
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「わ！　秘密の作戦とか、考えるんだね！
+line2 <shift> # ね、ね、兄ちゃん、どうするの！？」
+display
+com11 0 4
+sound 322
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「兄ちゃんなら、すごい手、思いつくよねっ。
+line2 <shift> # どんな作戦？　教えて教えて〜！」
+com03 0 3
+choice1 <shift> # 売り場を、ショーアップだ！
+line2
+com09 0 50
+com08
+choice2 <shift> # グッズの並べ方を、工夫しよう
+line2
+com09 0 51
+com08
+choice3 <shift> # 商品の総入れ替えだ！
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「売り場を、ショーアップだ！　あまった舞台
+line2 <shift> # 装置とかで、なるべくハデにしよう」
+display
+com11 0 4
+sound 323
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「あ、いいかも〜。じゃあ、出番のない亜美は、
+line2 <shift> # 裏で手伝うね！　いこ、兄ちゃん！」
+display
+com22 0 30
+com21 0 30
+com11 0 4
+sound 324
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「わーいわーい！　うまく、いったね〜！
+line2 <shift> # お客さん、たくさん買ってくれたよ〜」
+display
+com11 0 4
+sound 325
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「兄ちゃん、飾りつけのセンスもあるんだね！
+line2 <shift> # さっすが〜！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （外装をいじるだけで、こうも、売れるとは……。
+line2 <shift> # 亜美が気づいたこと、しっかり活かせたな！）
+com09 0 69
+display
+location 51
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「グッズの並べ方を、工夫しよう。そうすれば、
+line2 <shift> # すこしはハデに見えるだろう」
+display
+com11 0 4
+sound 326
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「それなら、道具とか使わなくても、できるね！
+line2 <shift> # じゃ、亜美、並べ方、考える〜っ！」
+display
+com22 0 30
+com21 0 30
+com11 0 4
+sound 327
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「兄ちゃん〜、そんなには、お客さん、
+line2 <shift> # こなかったね。亜美の並べ方、悪かったのかな」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「短い時間でできることって、あんなもんだろ？
+line2 <shift> # 多少は、効果あったと思うよ」
+display
+com11 0 4
+sound 328
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「ライブは大成功だったし〜、これで、グッズが
+line2 <shift> # 売れれば、もっとよかったのにね〜」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （うれしさも半分、といったところか。
+line2 <shift> # まあ、急だったし、これでよしとしよう）
+com09 0 69
+display
+location 52
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「商品の総入れ替えだ！　とにかく、目立つ
+line2 <shift> # 商品を、ズラリと並べてやろう！」
+display
+com11 0 4
+sound 329
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「うわ〜、兄ちゃん、思い切りがい〜い！
+line2 <shift> # それぐらいしないと、きっとダメだよね〜」
+display
+com11 0 4
+sound 330
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「かわいいの、たくさん、そろえよう！
+line2 <shift> # みんな、大よろこびで買ってくれるよっ！」
+display
+com11 0 4
+sound 331
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「で、その入れ替えるグッズは、どこにあるの？
+line2 <shift> # 事務所？」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「え？　そ、それは……。い、今から、
+line2 <shift> # つくっても、間に合わないよな？」
+display
+com11 0 4
+sound 332
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「当たり前だよ〜。兄ちゃん、ただの思いつきで
+line2 <shift> # そんなこと、言ったの〜？」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （一転して、白い目で見られてしまった……。
+line2 <shift> # 不可能なこと言っても、しょうがないよな）
+com09 0 69
+display
+location 69
+unk02

@@ -1,0 +1,335 @@
+com2c 0 47
+com2d 0 51
+com32 0 0
+com11 0 5
+sound 700
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「地方への移動って、車で、なんですね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「はい。目的のスタジオ、電車だと行きにくい
+line2 <shift> # とこなんで。気晴らしに、運転したいですか？」
+display
+com11 0 5
+sound 701
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「わ、私、免許持ってないです。に、２年、
+line2 <shift> # 教習所に通ったんですけれど、取れなくて……」
+com03 0 2
+choice1 <shift> # ど、どうして、そんなことに？
+line2
+com09 0 10
+com08
+choice2 <shift> # マジメに通ってました？
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ど、どうして、そんなことに？」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「マジメに通ってました？」
+display
+com11 0 5
+sound 702
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「もちろんです！　受講料、ムダにしては
+line2 <shift> # いけないって、一生懸命！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なら、どうして取れなかったんです？」
+com09 0 29
+display
+location 29
+com11 0 5
+sound 703
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「私、ハンドル切るの遅くて、何度もぶつけて
+line2 <shift> # しまって。結局、仮免すら……」
+display
+com11 0 5
+sound 704
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「『こんなニブい人、見たことない』って。でも、
+line2 <shift> # アイドルに反射神経は、いらないですよね？」
+com03 0 3
+choice1 <shift> # 多少は必要ですよ
+line2
+com09 0 30
+com08
+choice2 <shift> # 歌唱力がバツグンなら
+line2
+com09 0 31
+com08
+choice3 <shift> # ……いるに決まってます
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「多少は必要ですよ」
+display
+com11 0 5
+sound 705
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「う、やはり、そうですか……。ダンスとか、
+line2 <shift> # 相当レッスンしないと、つらいですねー」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「歌唱力がバツグンなら」
+display
+com11 0 5
+sound 706
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「それはそれで、重い注文ですねー。せめて、
+line2 <shift> # 足だけは、引っ張らないようにしないと」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……いるに決まってます」
+display
+com11 0 5
+sound 707
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はあー……やはり、そうですよね。
+line2 <shift> # ダンスとかは、とくに」
+display
+com11 0 5
+sound 708
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「これだけは、努力しても限界があるし。
+line2 <shift> # なんとか、切り抜けていけるかしら……」
+com09 0 49
+display
+location 49
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、そんな深く考え込まずに……。そろそろ
+line2 <shift> # 出発です。着くまで、くつろいでいて下さい」
+display
+com22 0 30
+com21 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うわ！　や、やけに揺れますね。この辺の
+line2 <shift> # 道路は、まだ舗装も……。ん、あずささん？」
+display
+com11 0 5
+sound 709
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「う、わ、忘れてましたー。私、乗り物酔いも、
+line2 <shift> # かなり……。うううっ」
+display
+com11 0 5
+sound 710
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はあー、はあー。プロデューサーさん、
+line2 <shift> # すみませんが、すこしさすってもらえると……」
+com0e 1 46
+com44
+com09 0 50
+com45
+com44
+com09 0 51
+com45
+com44
+com09 0 52
+com45
+com44
+com09 0 53
+com45
+com44
+com09 0 54
+com45
+com44
+com09 0 55
+com45
+com44
+com09 0 56
+com45
+com44
+com09 0 57
+com45
+display
+location 50
+com34 0 2
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「これで、どうです？」
+display
+com11 0 5
+sound 711
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ありがとうございます……。情けないです。
+line2 <shift> # 私、もっと、しっかりしなくてはいけないのに」
+display
+com11 0 5
+sound 712
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「で、でもっ、あのー。できたら着くまで、
+line2 <shift> # ずっと、さすっていてもらえると……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （それくらい、お安いご用だ。顔色を見る限り、
+line2 <shift> # このまま行けば、なんとか現場まで持ちそうだ）
+com09 0 69
+display
+location 51
+com11 0 5
+sound 713
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ぷ、プロデューサーさん、た、たたかないで
+line2 <shift> # 下さい。もっと、やさしく……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、強すぎましたか？」
+com09 0 91
+display
+location 52
+com11 0 5
+sound 714
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ぷ、プロデューサーさん？　ど、どうして髪
+line2 <shift> # なんか、なでて……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あああ、すみません。背中ですよね？」
+com09 0 91
+display
+location 91
+com11 0 5
+sound 715
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「う、また気分が……。も、もう持ちそうに」
+display
+com11 0 5
+sound 716
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「できれば、どこかへ車、止めてもらえると。
+line2 <shift> # 涼しい風に当たれば、きっと……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （しかたない。休み休みいくしかないか。
+line2 <shift> # 到着、相当遅れてしまいそうだな……）
+com09 0 69
+display
+location 53
+com11 0 5
+sound 717
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「痛っ！　ぷ、プロデューサーさん、
+line2 <shift> # どうして頭、たたくんですか？」
+com09 0 92
+display
+location 54
+com11 0 5
+sound 718
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ぷ、プロデューサーさん？
+line2 <shift> # そ、そこ腕ですよ？　や、くすぐった……」
+com09 0 92
+display
+location 55
+com11 0 5
+sound 719
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「痛っ！　ぷ、プロデューサーさん、
+line2 <shift> # どうして腕たたくんです？」
+com09 0 92
+display
+location 92
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、こう……刺激を与えれば、そっちに
+line2 <shift> # 気を取られるかなって」
+display
+com11 0 5
+sound 720
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そ、そんな……。う、なんか余計に気分が。
+line2 <shift> # わ、私、もう」
+display
+com11 0 5
+sound 721
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「お願いです。車から、降ろして下さい。
+line2 <shift> # このままでは……うっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （かなり、つらそうだ……。変なことして
+line2 <shift> # ないで、背中をさすってやればよかった）
+com09 0 69
+display
+location 56
+com11 0 5
+sound 722
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「きゃっ！！　ど、どこ、なでてるんです！？」
+display
+com11 0 5
+sound 723
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、あんまりです。私、動けないからって、
+line2 <shift> # そんな、そん……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「す、すみません！　つい……じゃなくて、手が
+line2 <shift> # すべって」
+display
+com11 0 5
+sound 724
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「うう、き、気分がまた。
+line2 <shift> # もう、持ちそうに……」
+display
+com11 0 5
+sound 725
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「お願いです。車、止めて下さい。
+line2 <shift> # か、かなりつら……うっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （とんでもないことを、してしまった。この状態
+line2 <shift> # じゃ、向こうへ着いても、仕事どころじゃない）
+com09 0 69
+display
+location 57
+com11 0 5
+sound 726
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ぷ、プロデューサーさん。あのー、背を？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「で、できませんよ。女性の体、さするなんて、
+line2 <shift> # 礼儀違反ですし」
+display
+com11 0 5
+sound 727
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「私、そんなこと、気にしたりは……。
+line2 <shift> # うっ、はぁ、はぁ」
+display
+com11 0 5
+sound 728
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「く、車、止めてもらえないでしょうか？　道、
+line2 <shift> # もっと悪くなってきたみたいですし……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （酔いが、ひどくなってきたみたいだ。く、
+line2 <shift> # 体裁なんか気にせず、さすってやるべきだった）
+com09 0 69
+display
+location 69
+unk02

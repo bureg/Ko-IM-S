@@ -1,0 +1,265 @@
+com2c 0 32
+com2d 0 43
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「千早！　なんだよっ、最後に歌った、あの
+line2 <shift> # ヘヴィメタみたいな曲！？　客、引いてたぞ！」
+display
+com11 0 4
+sound 1000
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……知りませんか？　アイアン・カヴァーンの
+line2 <shift> # 『グレゴリオ』。名曲ですけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「曲名なんか、聞いてるんじゃない！　どうして、
+line2 <shift> # あんな予定にない歌、歌ったんだっ！？」
+com03 0 3
+choice1 <shift> # なにが『グレゴリオ』だ！
+line2
+com09 0 10
+com08
+choice2 <shift> # なにが『グレゴリラ』だ！
+line2
+com09 0 11
+com08
+choice3 <shift> # なにが『クレモリオ』だ！
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なにが『グレゴリオ』だ！」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なにが『グレゴリラ』だ！」
+display
+com11 0 4
+sound 1001
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ゴリラ？　『グレゴリオ』です」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「う……、どっちでもいい。とにかく、理由を
+line2 <shift> # 聞かせてくれ」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なにが『クレモリオ』だ！」
+display
+com11 0 4
+sound 1002
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「クレ……モリオ？　誰です、それ。
+line2 <shift> # 『グレゴリオ』です」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「う……、なんだって、いい。とにかく、理由を
+line2 <shift> # 聞かせてくれ」
+com09 0 29
+display
+location 29
+com11 0 4
+sound 1003
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……つまらなかったから。同じような曲ばかり、
+line2 <shift> # 並んでいて」
+display
+com11 0 4
+sound 1004
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ＣＤショップでのライブなんて、正式なライブ
+line2 <shift> # じゃないですよね？　だから、冒険を……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「気持ちはわかる。あんな歌、歌いこなせるのも、
+line2 <shift> # すごいと思う。けど、客は求めてないだろ？」
+display
+com11 0 4
+sound 1005
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「私に……ポップスのワクに、とどまれ、と？」
+com03 0 2
+choice1 <shift> # しばらくは、な
+line2
+com09 0 30
+com08
+choice2 <shift> # そうは言わない
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+com34 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「しばらくは、な。たいした人気もない今は、
+line2 <shift> # 土台を固める方が、先だろ？」
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうは言わないよ。けど……」
+display
+com11 0 4
+sound 1006
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「なら、すこしくらいは、認めてくれても。
+line2 <shift> # 私、自分の幅を、せばめたくないんです！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「聞き分けろよ。たいした人気もない今は、
+line2 <shift> # 土台を固める方が、先だろ？」
+com09 0 49
+display
+location 49
+com11 0 4
+sound 1007
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はあ……、わかりました、すみません。私も
+line2 <shift> # 歌い終わった後、しまったとは思ったんです」
+display
+com11 0 4
+sound 1008
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「まだ、アンコール、残ってますよね？
+line2 <shift> # これから、ステージにあがって……」
+display
+com11 0 4
+sound 1009
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「その時……客席に、頭を下げればいい
+line2 <shift> # ですか？」
+com03 0 3
+choice1 <shift> # 謝る必要はないよ
+line2
+com09 0 50
+com08
+choice2 <shift> # そうしてこい
+line2
+com09 0 51
+com08
+choice3 <shift> # ステージにあがる必要はない
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 2
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「謝る必要はないよ。そんなことをしても、
+line2 <shift> # 会場のムード、沈むだけだし」
+display
+com11 0 4
+sound 1010
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「でも、なにかはしないと、示しが……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「千早は、歌手だよな。だったら、歌のミスは、
+line2 <shift> # なにで取り返す？」
+display
+com11 0 4
+sound 1011
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「プロデューサー……。わかりました。
+line2 <shift> # 私にできることは……ひとつ」
+display
+com11 0 4
+sound 1012
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「最高のポップスで、締めくくってきます！
+line2 <shift> # 聴いていてください」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （納得して、ステージへ……。その後の、アン
+line2 <shift> # コールの歌は、震えがくるほどのデキだった！）
+com09 0 69
+display
+location 51
+com34 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうしてこい。あやまるなら、心から、だぞ？
+line2 <shift> # 口先だけじゃ、伝わらないから」
+display
+com11 0 4
+sound 1013
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「わかってます。やる以上は、中途半端なことは
+line2 <shift> # しません。では」
+display
+com22 0 30
+com21 0 30
+com11 0 4
+sound 1014
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「プロデューサー、あやまりましたけど、
+line2 <shift> # かえって空気、重くなりませんでしたか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ……。みんな居心地、悪そうな
+line2 <shift> # 顔してたな」
+display
+com11 0 4
+sound 1015
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「元をつくったのは、私です。だけど、失敗でし
+line2 <shift> # たね。でも、あれ以外、どうすれば……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （千早とふたり、かるく考え込む。うーん、
+line2 <shift> # 節度ある対応だったけど、賢くはなかったか）
+com09 0 69
+display
+location 52
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ステージにあがる必要はないよ。アンコールは、
+line2 <shift> # 取り止めだ」
+display
+com11 0 4
+sound 1016
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「どういう意味、ですか……？　私には、黙って
+line2 <shift> # 反省してろ、とでも？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そういうこと。出ていくと、かえって客が
+line2 <shift> # ビビるかもしれないし」
+display
+com11 0 4
+sound 1017
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あんまりです。私から……。私から、歌う
+line2 <shift> # 機会を取り上げて……」
+display
+com11 0 4
+sound 1018
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「自分のミスを、自分でどうにかすることすら
+line2 <shift> # 許されないんですか？」
+display
+com11 0 4
+sound 1019
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「こんな責任の取らせ方、ひどすぎます。
+line2 <shift> # 私、……くっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （顔をゆがめ、うつむいている。これは、いくら
+line2 <shift> # なんでも、厳しすぎるペナルティだったか）
+com09 0 69
+display
+location 69
+unk02

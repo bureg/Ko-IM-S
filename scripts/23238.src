@@ -1,0 +1,287 @@
+com2c 0 87
+com2c 0 24
+com2d 0 51
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （仕事の合間のオフタイムを利用して、
+line2 <shift> # 海辺へ散策に出た）
+display
+com11 0 0
+sound 100
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「んーっ、風が気持ちいいです……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ここなら短い時間でも、ちょっとは、
+line2 <shift> # 息抜きができるかな、って思って」
+display
+com11 0 0
+sound 101
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ありがとうございます。スタジオごもりが、
+line2 <shift> # 続いてたから、なんだかお日様が新鮮で」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そう言ってもらえると、
+line2 <shift> # 連れてきたかいがあります」
+display
+com11 0 0
+sound 102
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「潮の香り……。
+line2 <shift> # カモメも気分よさそうに飛んでるし」
+display
+com11 0 0
+sound 103
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「しばらく、こうやって海を眺めていても、
+line2 <shift> # いいですか？」
+com03 0 2
+choice1 <shift> # どうぞどうぞ
+line2
+com09 0 10
+com08
+choice2 <shift> # 眺めるだけは退屈じゃ？
+line2
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええ、どうぞどうぞ。時間いっぱい」
+display
+com11 0 0
+sound 104
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「はい。
+line2 <shift> # ……海〜♪　波達が、きらめく海〜♪」
+display
+com11 0 0
+sound 105
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「空の青さと海とが〜♪
+line2 <shift> # どこかかなたで〜溶けていく〜♪」
+display
+com11 0 0
+sound 106
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ふふっ、なんだか自然と歌が、
+line2 <shift> # 出てきちゃいますね」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「眺めてるだけだと、退屈じゃないですか？」
+display
+com11 0 0
+sound 107
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「いえ、私はこれでも楽しくて。
+line2 <shift> # 波間に船の行きかうのを、見ているだけでも」
+display
+com11 0 0
+sound 108
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あ、もしかして……、
+line2 <shift> # プロデューサーさんは、退屈でしたか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああっと、そういうわけではないんです。
+line2 <shift> # ただ、楽しんでもらえれば、と」
+display
+com11 0 0
+sound 109
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ふふっ、大丈夫ですよ♪」
+com09 0 19
+display
+location 19
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しかし、だんだん陽が高くなってきたな。
+line2 <shift> # 暑さと日差しが増してきた……）
+com03 0 2
+choice1 <shift> # あずささんに冷たいものを
+line2
+com09 0 20
+com08
+choice2 <shift> # あずささん、肌焼けますよ
+line2
+com09 0 21
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ちょっと日差しが強くなってきましたね。
+line2 <shift> # 冷たいものでもひとつ、どうですか？」
+display
+com11 0 0
+sound 110
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あっ、はーい。じゃあ、向こうの、
+line2 <shift> # パラソルのところに、行きましょうか」
+display
+com11 0 0
+sound 111
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ここ、気持ちいいですけど、
+line2 <shift> # あんまり陽に当たると、焼けちゃいそうですし」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうですね。そうだ、なに飲みます？
+line2 <shift> # ジュースか、アイスティーかな。用意しますよ」
+display
+com11 0 0
+sound 112
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ふふっ、おまかせします。
+line2 <shift> # プロデューサーさん」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あずささん、お楽しみのところ悪いんですけど、
+line2 <shift> # そのままそこにいると、肌焼けますよ」
+display
+com11 0 0
+sound 113
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あっ！　そうですね。いけない……。
+line2 <shift> # 日焼け、気をつけないと」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「日差し、だんだんきつくなって
+line2 <shift> # きましたからね」
+display
+com11 0 0
+sound 114
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「潮風に当たりすぎるのも、
+line2 <shift> # よくないんですよね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええ。向こうのパラソルで休みますか。
+line2 <shift> # 日除けになると思います」
+display
+com11 0 0
+sound 115
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「そうしましょうか。すみません、
+line2 <shift> # わざわざ、気をつかっていただいて」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「い、いや。ここに連れてきたのは、
+line2 <shift> # 俺のほうだし……、こちらこそ」
+display
+com11 0 0
+sound 116
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「私も、もうちょっと早く、
+line2 <shift> # 気がつけばよかったですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……むう。せっかくのオフタイムなのに、
+line2 <shift> # 少しぎくしゃくとしてしまったかな）
+com09 0 29
+display
+location 29
+com11 0 0
+sound 117
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「それにしても……、こんなゆったりとした
+line2 <shift> # 時間が、いつまでも続いてくれればいいのに」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ？」
+display
+com11 0 0
+sound 118
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あ、いえ、すみません。あんまりのんびり
+line2 <shift> # しすぎても、あとで困っちゃいますね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いいんですよ、あずささん。
+line2 <shift> # 今は、ゆっくり……」
+com03 0 2
+choice1 <shift> # ゆっくり休みましょう
+line2
+com09 0 30
+com08
+choice2 <shift> # ゆっくり寝ましょう
+line2
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ゆっくり休みましょう。仕事は忘れて。
+line2 <shift> # オフなんですから」
+display
+com11 0 0
+sound 119
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あっ……、はい！　そうですね。
+line2 <shift> # お休みは、お休みらしく！」
+display
+com11 0 0
+sound 120
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「プロデューサーさんも、休んで下さいね。
+line2 <shift> # お疲れでしょう。肩、おもみしましょうか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え？　いやいや、お気遣い無用ですよ。
+line2 <shift> # ほら、休けいしましょう、休けい」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後はのんびりと、じゅうぶんにリラックス
+line2 <shift> # した時間を、あずささんと過ごすことができた）
+com09 0 39
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ゆっくり寝ましょう！　オフですし」
+display
+com11 0 0
+sound 121
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「そうですね。それでは、
+line2 <shift> # お言葉に甘えて……、お休みしますね」
+display
+com11 0 0
+sound 122
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ここ、日差しが和らいで、
+line2 <shift> # ちょうどいいですね……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええ、いい心地ですね……。むにゃむにゃ」
+display
+com22 0 30
+com32 0 1
+com11 0 0
+sound 123
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「プロデューサーさん、そんなところで眠ったら、
+line2 <shift> # 頭が、痛くありませんか？」
+display
+com11 0 0
+sound 124
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ヒザまくらでも、しましょうか……」
+display
+com21 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……はっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （気づいた時には、もう、
+line2 <shift> # あずささんは、事務所に戻っていたみたいだ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （夢心地をすごしたような、本当の夢だった
+line2 <shift> # ような……。不思議な時間だったな）
+com09 0 39
+display
+location 39
+unk02

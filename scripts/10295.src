@@ -1,0 +1,268 @@
+com2c 0 67
+com2d 0 21
+com32 0 0
+com11 0 2
+sound 1400
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あ、ほらプロデューサー、あの街頭スクリー
+line2 <shift> # ン。私のミュージッククリップが、流れてるわ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、本当だ。ランクＣともなると、露出度も
+line2 <shift> # 全然ちがうな。もう完全にメジャーアイドルだ」
+display
+com11 0 2
+sound 1401
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ふふっ、私がこんなとこ歩いてるって、
+line2 <shift> # 誰も気づいてないみたいねー♪」
+display
+com11 0 2
+sound 1402
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ねえ。ためしに『あ、アイドルがいる！』
+line2 <shift> # って、叫んでみてくれる？」
+com03 0 3
+choice1 <shift> # そんな危険なこと、できないよ
+line2
+com09 0 10
+com08
+choice2 <shift> # パニックになるけど、いいのか？
+line2
+com09 0 11
+com08
+choice3 <shift> # あ、スイガラが落ちてる！
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんな危険なこと、できないよ」
+display
+com11 0 2
+sound 1403
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「大丈夫よ〜。だって、いざとなったらあんたが
+line2 <shift> # 守ってくれるでしょ？」
+display
+com11 0 2
+sound 1404
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ここで大騒ぎ起こせば、ニュースになるわ。
+line2 <shift> # 私の人気、パパに思い知らせてやるんだからっ」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「パニックになるけど、いいのか？」
+display
+com11 0 2
+sound 1405
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そういうのも、楽しくていいんじゃない？
+line2 <shift> # この位置までこなきゃ、できないことだし！」
+display
+com11 0 2
+sound 1406
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「それに、ここで騒ぎを起こせばニュースになる
+line2 <shift> # わ。私の人気を知れば、パパもあんなこと……」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、スイガラが落ちてる！」
+display
+com11 0 2
+sound 1407
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なによ、それーっ。なんで頼んだ通りに、
+line2 <shift> # 言ってくれないの〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だって、気づかれたら、大騒ぎに……」
+display
+com11 0 2
+sound 1408
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「いいの、それが目的なんだから。そのニュース
+line2 <shift> # 見れば、パパも私の人気ぶり、思い知るでしょ」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もしかして……なにか言われたのか？」
+display
+com11 0 2
+sound 1409
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……昨日の夜、『もう十分やったんだから、
+line2 <shift> # 引退しろ』って。私、くやしくって……」
+display
+com11 0 2
+sound 1410
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「アッタマきたから、今朝、家出して
+line2 <shift> # きてやったわ！！」
+com03 0 3
+choice1 <shift> # ……冗談だろ！？
+line2
+com09 0 30
+com08
+choice2 <shift> # それは、マズいよ！
+line2
+com09 0 31
+com08
+choice3 <shift> # どうやって、暮らしていくんだ？
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……冗談だろ！？」
+display
+com11 0 2
+sound 1411
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なにが冗談なもんですかっ。本気の大マジメ！
+line2 <shift> # ちゃーんと、書き置きも残してきたんだから」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それは、マズいよ！」
+display
+com11 0 2
+sound 1412
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なにがマズいもんですかっ！　強引に引退させ
+line2 <shift> # られるほど、マズいもんはないわっ！」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうやって、暮らしていくんだ？」
+display
+com11 0 2
+sound 1413
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そんなの、どうとでもなるわ。今の私、普通の
+line2 <shift> # 会社員の人より、ずっと稼いでるし！」
+com09 0 49
+display
+location 49
+com11 0 2
+sound 1414
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「まあ、多分、明日には、パパも折れると思うわ。
+line2 <shift> # それまでに、自由を楽しんでおかなくちゃ♪」
+display
+com11 0 2
+sound 1415
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「問題は、今晩、寝るところだけね。メジャーア
+line2 <shift> # イドルがステイするなら、どんなとこがいい？」
+com03 0 3
+choice1 <shift> # 月極めで、ひと部屋借りとくか
+line2
+com09 0 50
+com08
+choice2 <shift> # ……俺の家、くるか？
+line2
+com09 0 51
+com08
+choice3 <shift> # ホテルの最上階かな
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「月極めで、ひと部屋借りとくか。これから
+line2 <shift> # 多忙になってくると、便利かもよ」
+display
+com11 0 2
+sound 1416
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あ、そうねっ！　事務所のそばにそういう
+line2 <shift> # 場所があれば、すっごい使えるわ！」
+display
+com11 0 2
+sound 1417
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「スーパーメジャーまで、後一歩……。そこを拠
+line2 <shift> # 点にして、登り詰めるわよ。私と、あんたで！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、水瀬家の執事から電話があり、家出話
+line2 <shift> # はナシに。けど、部屋は借りることにした！）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……俺の家、くるか？」
+display
+com11 0 2
+sound 1418
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「え……？　あんたの……家へ……？
+line2 <shift> # えっと、んと……せ、狭いんじゃない？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「狭いけど、ほら、これからの活動の
+line2 <shift> # 方向性とか、じっくり話し合えるだろ？」
+display
+com11 0 2
+sound 1419
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「た、たまにはそういうのも、いいかもしれない
+line2 <shift> # わね……。でも……な、なんか……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ちょっと気兼ねしている。その後、水瀬家の
+line2 <shift> # 執事から電話があり、家出話はナシになった）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ホテルの最上階かな」
+display
+com11 0 2
+sound 1420
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「んー、そういうとこは昔から泊まってるから、
+line2 <shift> # 新鮮味がないわ〜。ちがう場所なーい？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「後は、そうだな。カプセルホテルとか……」
+display
+com11 0 2
+sound 1421
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そんなの、イーヤーっ！　カプセル入り
+line2 <shift> # アイドルなんて、お笑いじゃないの〜」
+display
+com11 0 2
+sound 1422
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……しょうがないわね。行きつけのホテルに
+line2 <shift> # するわ。はあ〜あ、家出もつまんないわね……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ガッカリしている……。その後、水瀬家の
+line2 <shift> # 執事から電話があり、家出話はナシになった）
+com09 0 69
+display
+location 69
+unk02

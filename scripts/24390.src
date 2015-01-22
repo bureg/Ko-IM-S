@@ -1,0 +1,421 @@
+com2c 0 119
+com2d 0 51
+com2e 0 131
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ＩＵの予選も３回目ですけど、
+line2 <shift> # あずささん、少しは慣れましたか？」
+display
+com11 0 0
+sound 10000
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「それが、なかなか……」
+display
+com11 0 0
+sound 10001
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「私、普段はのんびりした性格なのですけれど、
+line2 <shift> # 気が小さいところがあるみたいで……」
+display
+com11 0 0
+sound 10002
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「つい、周りを気にしてしまうというか、
+line2 <shift> # 雰囲気に、のまれそうになってしまうんです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ＩＵは、数あるオーディションの中でも最高峰
+line2 <shift> # のオーディションですから、無理ないですよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、あずささんは、初回の予選から、
+line2 <shift> # 緊張しっぱなしみたいですから……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「できれば、そろそろ、『ここまできたら、
+line2 <shift> # なるようになれ！』ぐらいの気持ちで……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どーんと構えていた方が、いい結果に、
+line2 <shift> # 結びつくと思うんですけどね」
+display
+com11 0 0
+sound 10003
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「どーん、ですか。どんな感じなのかしら。
+line2 <shift> # ん〜……。ふふっ！　……あ。すみません」
+display
+com11 0 0
+sound 10004
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「どーんと構えている人を、
+line2 <shift> # 想像しようとしたら……」
+display
+com11 0 0
+sound 10005
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あくびしている美希ちゃんの姿が、
+line2 <shift> # 浮かんできてしまって。ふふっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、そうですね。美希は、どーんと構えてい
+line2 <shift> # そうですよね。妙に、余裕があるというか……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、美希の場合、落ち着いているというより、
+line2 <shift> # 勝負の怖さを知らないだけという気がしますが」
+display
+com11 0 0
+sound 10006
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「怖さを知らないだけだとしても、立派に、
+line2 <shift> # 勝ち抜いているんですから、うらやましいです」
+display
+com11 0 0
+sound 10007
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「美希ちゃんは先週、ＩＵの三次予選を突破した
+line2 <shift> # そうですよ。また先を越されてしまいました〜」
+display
+com11 0 0
+sound 10008
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「プロデューサー！　あずさ！
+line2 <shift> # 今、また、ミキの話、してたでしょ！？」
+display
+com11 0 0
+sound 10009
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「そんなにミキのこと、気になる？　今日は、
+line2 <shift> # 黒井社長いないから、ちょっとは話せるよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうなのか？　じゃあ、少し話そう……」
+com03 0 3
+choice1 <shift> # 移籍の理由を教えてくれ
+line2
+com09 0 10
+com08
+choice2 <shift> # 黒井社長にダマされてるぞ
+line2
+com09 0 11
+com08
+choice3 <shift> # 別に話したいことはない
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「できれば、９６１プロに移籍した理由を、
+line2 <shift> # 教えて欲しいんだけどな」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「美希、黒井社長にダマされてるぞ」
+display
+com11 0 0
+sound 10010
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「むー。そんなことないもん！　黒井社長は
+line2 <shift> # 良い人だよ。ミキを、デビューさせてくれたし」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「デビューしたいから、
+line2 <shift> # ９６１プロへ移籍したのか？」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……と思ったけど、
+line2 <shift> # 別に話したいことはないな」
+display
+com11 0 0
+sound 10011
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「な、何を言ってるんですか、
+line2 <shift> # プロデューサーさん」
+display
+com11 0 0
+sound 10012
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「美希ちゃんには、
+line2 <shift> # ききたいことだらけじゃありませんか〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうですか？　じゃあ、あずささんが、
+line2 <shift> # 美希と話して下さい」
+display
+com11 0 0
+sound 10013
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「わかりました。ねえ、美希ちゃん。９６１プロ
+line2 <shift> # に移籍した理由、教えてくれないかしら？」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10014
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「え、それは……。この前も、言ったの」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ごめん。この前は、途中で、
+line2 <shift> # 黒井社長が、話に割り込んできただろ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そのせいで、美希の言葉の意味、
+line2 <shift> # よくわからないままになってたんだ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だから、もう一度、ちゃんときかせてほしい」
+display
+com11 0 0
+sound 10015
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「……あずさも、ききたいの？　あずさがきいた
+line2 <shift> # ら、きかない方が良かったって、思うかも……」
+display
+com11 0 0
+sound 10016
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「え？　どういうことか、よくわからないけれど、
+line2 <shift> # できれば、私にも、きかせてほしいわ」
+display
+com11 0 0
+sound 10017
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「じゃあ、言うね。あのね……」
+display
+com11 0 0
+sound 10018
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ミキは、プロデューサーのことが、
+line2 <shift> # 好きなの！　ずっとそばにいてほしいの！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え……、ええっ！？」
+display
+com11 0 0
+sound 10019
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ミキのことプロデュースしてほしいし、ミキと
+line2 <shift> # 付き合ってほしいし、ミキだけ見てほしい……」
+display
+com11 0 0
+sound 10020
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「でも、プロデューサーは、ミキの気持ち、
+line2 <shift> # 全然気が付いてくれないから……」
+display
+com11 0 0
+sound 10021
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「９６１プロに移って、ミキの魅力、いっぱいア
+line2 <shift> # ピールして好きになってもらおうって思ったの」
+display
+com11 0 0
+sound 10022
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「で、でも……。プロデュースなら、
+line2 <shift> # 美希ちゃんが、７６５プロにいた方が……」
+display
+com11 0 0
+sound 10023
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「プロデューサーさんに、
+line2 <shift> # 担当してもらいやすいと思うのだけれど〜」
+display
+com11 0 0
+sound 10024
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ミキも最初は、そう思ったけど、高木社長が、
+line2 <shift> # ジャマしてくるんだもん」
+display
+com11 0 0
+sound 10025
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ミキはまだ、デビューできる状態じゃない、
+line2 <shift> # 心構えができてない、とか言っちゃって……」
+display
+com11 0 0
+sound 10026
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「その上、あんなことされたら、もう、
+line2 <shift> # ７６５プロになんか、いられないってカンジ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あんなこと？　それって、高木社長との、
+line2 <shift> # ケンカの原因か？」
+display
+com11 0 0
+sound 10027
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「あー、思い出したら、
+line2 <shift> # また腹が、立ってきちゃったの！　とにかく！」
+display
+com11 0 0
+sound 10028
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ミキは、プロデューサーと会うために、ＩＵに
+line2 <shift> # 参加したの！　そして、移籍の理由は……」
+display
+com11 0 0
+sound 10029
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「プロデューサーに、もっとラブアタックした
+line2 <shift> # かったからってこと！　わかった、あずさ！？」
+display
+com11 0 0
+sound 10030
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「え、ええ……」
+display
+com11 0 0
+sound 10031
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ミキ、あずさには、負けないからね！
+line2 <shift> # じゃ、さよならなの！」
+display
+com11 0 0
+sound 10032
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「お、驚きました……。美希ちゃんが、
+line2 <shift> # プロデューサーさんのことを……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺だって、驚きましたよ。
+line2 <shift> # 美希が、そんな風に思ってくれてたなんて……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それにしても美希、やたらとあずささんにつっ
+line2 <shift> # かかってましたけど、なんのつもりでしょうね」
+display
+com11 0 0
+sound 10033
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「……ライバルだと思ってるんですよ〜、きっと。
+line2 <shift> # 何か、感じる所があるんだと思います」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え？　ライバルって、
+line2 <shift> # ＩＵでのライバルですか？」
+display
+com11 0 0
+sound 10034
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「違います……」
+display
+com11 0 0
+sound 10035
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「でも、ＩＵでも、美希ちゃんに勝たなきゃ
+line2 <shift> # いけないことには、変わりありませんけれど」
+display
+com11 0 0
+sound 10036
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「私の将来のためにも、プロデューサーさんと
+line2 <shift> # した、トップアイドルになるという約束を……」
+display
+com11 0 0
+sound 10037
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「きちんと果たすためにも……、
+line2 <shift> # 私には、ＩＵ優勝が、どうしても必要ですから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん。今ひとつ話が見えませんが、あずささ
+line2 <shift> # んが勝つ気になってくれているのは嬉しいです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それと、１つ忘れてますよ。
+line2 <shift> # 美希を、７６５プロに連れ戻すためにも……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あずささんの優勝は、必要なんです！」
+display
+com11 0 0
+sound 10038
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「はい。９６１プロのやり方は、ヒドイですから、
+line2 <shift> # 連れ戻すのが、美希ちゃんのためですよね」
+display
+com11 0 0
+sound 10039
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ただ、美希ちゃんが、それを望まない気持ちも、
+line2 <shift> # わかるような気が、してきましたけれど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え？」
+display
+com11 0 0
+sound 10040
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「いえ、なんでもありません。とにかく、今は、
+line2 <shift> # オーディションに全力投球します」
+display
+com11 0 0
+sound 10041
+com4c 0 1
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「勝たなければ、私は、何もかも失って
+line2 <shift> # しまいそうな気がしますから……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あずささんは、何か決意したような目をして
+line2 <shift> # いる。美希の話、ショックだったのかな……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （おっと。俺もオーディションに集中しなければ。
+line2 <shift> # あずささんのために、この戦い、勝つぞ！）
+com09 0 99
+display
+location 99
+unk02

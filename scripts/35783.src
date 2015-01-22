@@ -1,0 +1,621 @@
+com2c 0 119
+com2c 0 105
+com2d 0 63
+com2e 0 121
+com32 0 0
+com11 0 0
+sound 10000
+com4c 0 1
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「プロデューサー！
+line2 <shift> # オーディション……、合格しました！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「良くやったな、雪歩！　えらかったぞ！」
+display
+com11 0 0
+sound 10001
+com4c 0 1
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「オーディション中、本当は、もうダメかもって、
+line2 <shift> # 何度も思っちゃいましたけど……」
+display
+com11 0 0
+sound 10002
+com4c 0 1
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「四条さんと、お話しないと、私、もう、
+line2 <shift> # 頑張れないかもって思ったから……、うう」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「こらこら、勝ったところなのに、
+line2 <shift> # 泣いてどうする！？」
+display
+com11 0 0
+sound 10003
+com4c 0 1
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「うう、だって……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「しょうがないヤツだな。ほら、貴音を、
+line2 <shift> # 探しに行かないと。着替えてくるか？」
+display
+com11 0 0
+sound 10004
+com4c 0 1
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「……あの、その前に私、四条さんに会って、
+line2 <shift> # 何を話せばいいんでしょうか？」
+display
+com11 0 0
+sound 10005
+com4c 0 1
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「あの時みたいに、失敗しちゃったら、
+line2 <shift> # 今度は立ち直れないかもです……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う〜ん、そうだなあ。とりあえず、素直に、
+line2 <shift> # 話したいことを話すのが、１番だと思うぞ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「たとえば……」
+com03 0 3
+choice1 <shift> # 貴音の強さについて
+line2
+com09 0 10
+com08
+choice2 <shift> # 貴音と月の話
+line2
+com09 0 11
+com08
+choice3 <shift> # 雪歩の恥ずかしい過去
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「雪歩は、貴音みたいに、なりたいんだろ？　な
+line2 <shift> # ら、貴音の強さの秘密をきいてみたらどうだ？」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだなあ……、
+line2 <shift> # 月の話なんか、いいんじゃないか？」
+display
+com11 0 0
+sound 10006
+com4c 0 1
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「月、ですか……？　でも、どうして？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、なんか貴音って、月が好きみたいだから、
+line2 <shift> # 話が盛り上がるかなって」
+display
+com11 0 0
+sound 10007
+com4c 0 1
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「でも私、月のことなんて、
+line2 <shift> # そんな知らないから、話、続かないかも……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、そうか……。それじゃ意味ないよな。
+line2 <shift> # なら……」
+com09 0 18
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、雪歩の恥ずかしい過去の話なんか、
+line2 <shift> # どうだ？　いい話題だろう」
+display
+com11 0 0
+sound 10008
+com4c 0 1
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「え？　そ、そうですか……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、ちょっとドジで笑える話をふれば、
+line2 <shift> # 場もなごんで、会話も弾むぞ！　たぶん……」
+display
+com11 0 0
+sound 10009
+com4c 0 1
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ホ、ホントですか……？　でも、
+line2 <shift> # 私の話なんか、きいててもつまらないですよ」
+display
+com11 0 0
+sound 10010
+com4c 0 1
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「それに、もし呆れられたらって思うと……、
+line2 <shift> # ううっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う〜ん、これはダメか。じゃあ……」
+com09 0 18
+display
+location 18
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「素直に、貴音の強さの秘密を教えてくれって、
+line2 <shift> # きいてみるのが、１番なんじゃないかな？」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10011
+com4c 0 1
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「確かに、それが１番ですけど……。私、
+line2 <shift> # 四条さんみたいになりたいって言ったら……」
+display
+com11 0 0
+sound 10012
+com4c 0 1
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「悪い冗談です、って、
+line2 <shift> # 返されちゃったんですよ？」
+display
+com11 0 0
+sound 10013
+com4c 0 1
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「それって、『お前みたいなヤツは生意気だ！』
+line2 <shift> # ってことじゃないんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「貴音の言葉の真意は、わからないけど、
+line2 <shift> # ウソをついてまで話をしても、仕方ないさ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「本当に、ききたいことをきいて、
+line2 <shift> # それでもダメなら、あきらめもつくって」
+display
+com11 0 0
+sound 10014
+com4c 0 1
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「……そうですね。でも、私、
+line2 <shift> # あきらめたくない……。うう、ひっく」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「こらこら、泣いちゃダメだってば〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （でも、ここでこんなことを話していても、
+line2 <shift> # 貴音に会えなければ、何も意味がないよな……）
+display <shift> # ガサガサッ……
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うん？　……あそこで、こちらをうかがう
+line2 <shift> # ように見ているのは、もしかして！？）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「貴音！　おい、そこにいるんだろう！？」
+display
+com11 0 0
+sound 10015
+com4c 0 1
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「え？　プロデューサー、ひっく、
+line2 <shift> # 突然、どうしたんですか……？」
+display
+com11 0 0
+sound 10016
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「…………」
+display
+com11 0 0
+sound 10017
+com4c 0 1
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「……四条さん！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （何だか、視線を感じたと思ったら、
+line2 <shift> # 本当に貴音だったとはな）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「貴音、俺達に何か用でもあるのか？」
+display
+com11 0 0
+sound 10018
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「……無事、ＩＵは合格されたようですね」
+display
+com11 0 0
+sound 10019
+com4c 0 1
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「は、はい！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （……もしかして、貴音は雪歩が合格するか
+line2 <shift> # どうかを、気にしていたのか？）
+display
+com11 0 0
+sound 10020
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「ききたいことは、それだけです。では、また」
+display
+com11 0 0
+sound 10021
+com4c 0 1
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「あ、あの、待って下さい、四条さん！
+line2 <shift> # 私、四条さんに、ききたいことが……」
+display
+com11 0 0
+sound 10022
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「……あなたは、また泣いていましたね」
+display
+com11 0 0
+sound 10023
+com4c 0 1
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「えっ？」
+display
+com11 0 0
+sound 10024
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「あなたは、私に強くなりたい、
+line2 <shift> # と、おっしゃいましたが……」
+display
+com11 0 0
+sound 10025
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「そのように、人前で泣いてばかりのあなたに、
+line2 <shift> # 強くなることなど、できようもありません」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「貴音、雪歩は、これでも一生懸命、
+line2 <shift> # 話をしようとしてるんだぞ？」
+display
+com11 0 0
+sound 10026
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「……彼女の気持ちが、どうであれ、
+line2 <shift> # 強さとは関係がありません」
+display
+com11 0 0
+sound 10027
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「萩原雪歩……。あなたはトップアイドルに、
+line2 <shift> # なりたくないのですか？」
+display
+com11 0 0
+sound 10028
+com4c 0 1
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「わ、私は……」
+display
+com11 0 0
+sound 10029
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「私は、必ず頂点に立つつもりです。
+line2 <shift> # あなたには、その決意はありますか？」
+display
+com11 0 0
+sound 10030
+com4c 0 1
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「わ、私にもあります！
+line2 <shift> # 私は、自分を変えたいから……」
+display
+com11 0 0
+sound 10031
+com4c 0 1
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「四条さんみたいに、強くなりたいんです！」
+display
+com11 0 0
+sound 10032
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「……であれば、せめて人前で泣くことくらい、
+line2 <shift> # 止めてはいかがですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、おい、貴音！　それはちょっと……」
+display
+com11 0 0
+sound 10033
+com4c 0 1
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「そ、そうですよね。泣いてばかりの私なんて、
+line2 <shift> # ……ダメダメアイドルですよね。……ぐすっ」
+display
+com11 0 0
+sound 10034
+com4c 0 1
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「あうっ。私、また泣いちゃって……。
+line2 <shift> # あの、失礼します……！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あっ、雪歩！　おい……！
+line2 <shift> # くっ、追いかけないと……！」
+display
+com11 0 0
+sound 10035
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「これでいいのです。私に憧れるなど……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ん？　……貴音、今、何か言ったのか？
+line2 <shift> # 小声すぎて、よくきこえなかったけど）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「貴音、俺からもききたいことがあるけど、
+line2 <shift> # 今日のところは、とりあえず……」
+display
+com11 0 0
+sound 10036
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「……お待ち下さい。
+line2 <shift> # あなた様に、お話したいことがあります」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え？」
+display
+com11 0 0
+sound 10037
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「私が見る彼女は、いつも泣き顔です」
+display
+com11 0 0
+sound 10038
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「……彼女は、頂点を目指すのに、
+line2 <shift> # 向いていないのではないかと思うのです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……それは、とっととＩＵを止めて、
+line2 <shift> # おとなしくしていろってことか？」
+display
+com11 0 0
+sound 10039
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「…………」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうして、貴音がそんなことを言うのか、
+line2 <shift> # 俺には、わからないけど……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「せめて、雪歩を誤解しないでくれ。
+line2 <shift> # 雪歩は……」
+com03 0 3
+choice1 <shift> # トップアイドルになれる
+line2
+com09 0 20
+com08
+choice2 <shift> # 世界一の泣き虫だ
+line2
+com09 0 21
+com08
+choice3 <shift> # 優しいヤツなんだ
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「雪歩は、トップアイドルになれる」
+display
+com11 0 0
+sound 10040
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「……オーディションのたびに、
+line2 <shift> # 泣いているのに、ですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「確かに泣き虫だけど……。雪歩は、
+line2 <shift> # 強くなるって、俺と、約束をしたんだ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「雪歩は、ああ見えても、意外と芯があるんだ。
+line2 <shift> # きっと、俺との約束を守ってくれる」
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「雪歩は世界一の泣き虫なんだ」
+display
+com11 0 0
+sound 10041
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「世界一であれば、何でも良いということでも、
+line2 <shift> # ないと思いますが」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、それはそうだけど……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、俺は信じてるんだ。泣き虫だけど、
+line2 <shift> # 雪歩はきっとトップアイドルになれるって！」
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「雪歩は優しいヤツなんだ」
+display
+com11 0 0
+sound 10042
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「優しさだけで、頂点に立つことは、
+line2 <shift> # できないのではありませんか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……かもしれない。けれど、頂点に立つには、
+line2 <shift> # 優しさも必要だと思うんだ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺は信じてる。雪歩は、
+line2 <shift> # きっとトップアイドルになれるって……！」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 10043
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「……そうですか」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「貴音、何だか変だぞ。
+line2 <shift> # いつも冷静な貴音が、まるで……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （まるで……。貴音は、
+line2 <shift> # 雪歩のことを心配しているようだ……）
+display
+com11 0 0
+sound 10044
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「私は必ず、彼女を裏切ることになる……。
+line2 <shift> # だから、これでいいのです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （……貴音。やっぱり、何か彼女なりの理由で、
+line2 <shift> # あんな態度をとったのか？）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （色々と気になるけど、とにかく今は、
+line2 <shift> # 早く雪歩を探しにいかないと！）
+display
+com22 0 30
+com21 0 30
+com32 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「雪歩〜っ！　……あっ、雪歩！
+line2 <shift> # 大丈夫か！？」
+display
+com11 0 0
+sound 10045
+com4c 0 1
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ううっ……。
+line2 <shift> # ぷ、プロデューサー、……ぐすん」
+display
+com11 0 0
+sound 10046
+com4c 0 1
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「私って、ほんとダメダメです……。
+line2 <shift> # 四条さんに、嫌われちゃいましたよね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、そんなことはないぞ。
+line2 <shift> # 多分、貴音は雪歩のことを……」
+display
+com11 0 0
+sound 10047
+com4c 0 1
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「え？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、あんまり気にするなよ。
+line2 <shift> # ほら、涙をふいて」
+display
+com11 0 0
+sound 10048
+com4c 0 1
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ぐすっ……。いえ、泣いてばっかりじゃ
+line2 <shift> # ダメなのは、本当のことですし……」
+display
+com11 0 0
+sound 10049
+com4c 0 1
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「私、これから泣かないように頑張ります。
+line2 <shift> # このままじゃ、本当に……」
+display
+com11 0 0
+sound 10050
+com4c 0 1
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「自分のことが、嫌いになっちゃうから……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……雪歩は頑張りやさんだな。よし、今度は、
+line2 <shift> # 貴音にお前のスゴイところを見せてやろうな！」
+display
+com11 0 0
+sound 10051
+com4c 0 1
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「……はい」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「さてと、今日は、おいしいお茶でも飲んで、
+line2 <shift> # 帰ろうかな！　雪歩オススメの店はないのか？」
+display
+com11 0 0
+sound 10052
+com4c 0 1
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「え！？　お茶のお店ですか？　だったら、
+line2 <shift> # 長寿庵のお団子とお抹茶のセットがいいです！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、それじゃ、そこに寄って帰ろう！
+line2 <shift> # ほら、帰る準備をしてこい！」
+display
+com11 0 0
+sound 10053
+com4c 0 1
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「……はい！　えへへ……。
+line2 <shift> # ありがとうございます、プロデューサー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （確かに、雪歩は泣いてばかりいるけど、
+line2 <shift> # この笑顔を忘れさえしなければ……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （必ず、貴音も雪歩のことを認めてくれる。
+line2 <shift> # そして、俺が必ず……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （雪歩をトップアイドルにしてみせる……！）
+com09 0 99
+display
+location 99
+unk02

@@ -1,0 +1,319 @@
+com2c 0 18
+com2d 0 81
+com32 0 0
+com11 0 1
+sound 200
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「今日は、歌番組じゃなくて、トーク番組に
+line2 <shift> # 出演するんですね！」
+display
+com11 0 1
+sound 201
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「この『ウーマンズ・スタイル』って、どういう
+line2 <shift> # 番組なんです？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「毎週、スタイリッシュな女性を、ゲストに
+line2 <shift> # 呼んで、カッコよさの秘密を聞いてるらしい」
+display
+com11 0 1
+sound 202
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「すたいりっしゅ……。すっごい言葉……。
+line2 <shift> # なんか、ボクには、あまり似合わない気が」
+com03 0 2
+choice1 <shift> # まったくだ！
+line2
+com09 0 10
+com08
+choice2 <shift> # そうでも、ないだろ？
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まったくだ！」
+display
+com11 0 1
+sound 203
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ですよねえ。別にオシャレもしてないし、
+line2 <shift> # まわりが、持ち上げてくれてるだけですから」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうでも、ないだろ？」
+display
+com11 0 1
+sound 204
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「え〜、似合わないですよ〜。別に、そんな
+line2 <shift> # オシャレしてるわけでもないし……」
+display
+com11 0 1
+sound 205
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「有名アイドルって、トクですよね。なにもしな
+line2 <shift> # くても、勝手に持ち上げてくれるんですから」
+com09 0 29
+display
+location 29
+com11 0 1
+sound 206
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「カッコよさの秘密、か……。スマートに見える
+line2 <shift> # 歩き方の話とかなら、ボクでも、できるかな」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなコツ、あるのか？」
+display
+com11 0 1
+sound 207
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はい。あるところに、意識を置くと、歩いてて、
+line2 <shift> # とてもカッコよく見えるんです！」
+display
+com11 0 1
+sound 208
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサーなら、見当ついちゃうかも。
+line2 <shift> # どこだと、思います？」
+com0e 2 211
+com44
+com09 0 30
+com45
+com44
+com09 0 31
+com45
+com44
+com09 0 32
+com45
+com44
+com09 0 33
+com45
+com44
+com09 0 34
+com45
+com44
+com09 0 35
+com45
+com44
+com09 0 36
+com45
+com44
+com09 0 37
+com45
+display
+location 30
+com11 0 1
+sound 209
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そう！　腰です。クッと力を入れると、
+line2 <shift> # 不思議と背筋も伸びるんですよね」
+display
+com11 0 1
+sound 210
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「やっぱり、すぐわかっちゃったか。
+line2 <shift> # さっすが、プロデューサー！」
+com09 0 49
+display
+location 31
+com11 0 1
+sound 211
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「手、ですか？　ブンブン振って歩いても、
+line2 <shift> # カッコよくないですよ？　行進じゃないんだし」
+com09 0 91
+display
+location 32
+com11 0 1
+sound 212
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「肩、ですか？　うーん、風を切って歩くとか
+line2 <shift> # 言うけど、そこ意識したら、力んじゃいますね」
+com09 0 91
+display
+location 33
+com11 0 1
+sound 213
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「胸、ですか？　たしかに、カッコよくはなるん
+line2 <shift> # ですけど、そこだと、力んじゃうんですよね」
+com09 0 91
+display
+location 34
+com11 0 1
+sound 214
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「おなか、ですか？　歌う時は、そこ、大切です
+line2 <shift> # けど、歩く時は、あまり関係が……」
+com09 0 91
+display
+location 35
+com11 0 1
+sound 215
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「足、ですか？　たしかにそこは大事ですけど、
+line2 <shift> # 動きのカッコよさには、あまり影響は……」
+com09 0 91
+display
+location 36
+com11 0 1
+sound 216
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ええっ、そこですか？　そんなところ、
+line2 <shift> # 意識したって、歩き方には、なんの関係も……」
+com09 0 91
+display
+location 91
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……ちがったか。じゃあ、どこなんだ？」
+com09 0 92
+display
+location 37
+com11 0 1
+sound 217
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あの……わかりませんか？　それとも、
+line2 <shift> # こんな質問、くだらないとか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そんなことはないよ！　ただ、わから
+line2 <shift> # なかっただけ。で、どこなんだ？」
+com09 0 92
+display
+location 92
+com11 0 1
+sound 218
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ボクは、腰を意識するようにしてます。そう
+line2 <shift> # すると、不思議と背筋がピンと伸びるんです！」
+com09 0 49
+display
+location 49
+com11 0 1
+sound 219
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「歩き方をカッコよくするのは、カンタンだけど、
+line2 <shift> # 中身は、なかなか、そうはいきませんよね」
+display
+com11 0 1
+sound 220
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ボク、思うんです。カッコよくなろうとしない
+line2 <shift> # ことが、カッコよさの第１歩なんだって」
+display
+com11 0 1
+sound 221
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「これ、じつは、かわいさも同じで……。あはは、
+line2 <shift> # 苦い思いしてきて、やっと気づきました！」
+com03 0 3
+choice1 <shift> # だから、最近かわいいのか！
+line2
+com09 0 50
+com08
+choice2 <shift> # それ、話してくるといいよ
+line2
+com09 0 51
+com08
+choice3 <shift> # すべては、いい思い出だよな
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だから、最近かわいいのか！　見ちがえたと
+line2 <shift> # 思ったら、そんな発見が！」
+display
+com11 0 1
+sound 222
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「え？　ま、また、ベタなおせじを……。
+line2 <shift> # 成長したボクの目は、ごまかせませんよっ？」
+display
+com11 0 1
+sound 223
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「さ、トークトーク！　がんばるぞ〜！
+line2 <shift> # お〜！　ふっふふのふん、ふん♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （お世辞と見切っても、これか。この分なら、
+line2 <shift> # 最後まで上機嫌で、しゃべってくれるだろう）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それ、話してくるといいよ」
+display
+com11 0 1
+sound 224
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、こういうのも、ＴＶ見てる人には、
+line2 <shift> # 参考になりますか？　だったら！」
+display
+com11 0 1
+sound 225
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「けど……通じるのかな？　カッコよくなるには、
+line2 <shift> # カッコよくならないこと、なんて……」
+display
+com11 0 1
+sound 226
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「こむずかしい説明、苦手なんだよな。でも、
+line2 <shift> # なんとか伝えないと。う〜ん……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （言葉を探しながら、歩いていった。苦労しそう
+line2 <shift> # だけど、ま、なんとか、まとめてくれるだろう）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「すべては、いい思い出だよな。そういう苦労が
+line2 <shift> # あったから、今の真があるんだ」
+display
+com11 0 1
+sound 227
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「まったく、そうですよね！　おかげでボク、
+line2 <shift> # こんなに大きく……」
+display
+com11 0 1
+sound 228
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「でも、いい思い出ってのは、どうかなあ。
+line2 <shift> # 男とまちがえられて、さんざんひどい目に……」
+display
+com11 0 1
+sound 229
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あのディレクターに、それから、あの時の記者。
+line2 <shift> # あのファンも……。ううう〜」
+display
+com11 0 1
+sound 230
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「やっぱり、感謝はしたくないです！
+line2 <shift> # く〜、思い出しただけで、なんか悲しく……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （一転して、顔がゆがんでしまった。うーん、
+line2 <shift> # これじゃ、にこやかにトークは、むずかしいか）
+com09 0 69
+display
+location 69
+unk02

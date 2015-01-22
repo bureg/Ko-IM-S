@@ -1,0 +1,334 @@
+com2c 0 112
+com2d 0 111
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ふあ〜あ！　なんだか眠いぞ。事務所へ行く前
+line2 <shift> # に寄り道して、ウォーキングでもしようかな？）
+com03 0 2
+choice1 <shift> # どこかに寄り道する
+line2
+com09 0 10
+com08
+choice2 <shift> # まっすぐ事務所に行く
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （寄り道しよう。身体を動かせば、スッキリ目も
+line2 <shift> # 覚めるだろう！　いっちに、いっちに！　っと）
+display <shift> # ぴょん！　ぴょん！
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （えっ？　今、耳の長い何かが、
+line2 <shift> # 全速力で足元を跳ねていったような……）
+display <shift> # ぴょーんっ！　ドカッ！
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ぐわぁ！　ウサギがみぞおちに、飛びげりを
+line2 <shift> # してきたぞ！　い、息ができない……」
+display <shift> # がさがさっ！
+display
+com11 0 0
+sound 0
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「うさ江ー！？　どこ行った、うさ江ー！！
+line2 <shift> # 自分が悪かった！　帰って来い、うさ江ーっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今度は何を、ウサギに隠れて食べたんだ？」
+display
+com11 0 0
+sound 1
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「えっとね、にんじんっ！　うさ江が、あんまり
+line2 <shift> # ガツガツ食べるから、つい味見したくなって！」
+display
+com11 0 0
+sound 2
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「……って、また７６５プロか！　でも今朝は、
+line2 <shift> # 構ってやれないぞっ！　自分、忙しいから」
+display
+com11 0 0
+sound 3
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「うさ江の散歩しながら、
+line2 <shift> # 自主トレ中なんだもんね！　あっははは！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「散歩？　単に、ウサギに逃げられていた
+line2 <shift> # だけのように、見えたけど……」
+display
+com11 0 0
+sound 4
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「う……。それは、ちょっと、リードが外れて、
+line2 <shift> # 途中から、追いかけっこになっただけだよっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか。とにかく、ウサギは返すよ。それに
+line2 <shift> # しても、こんなに朝早くから自主トレとは……」
+com03 0 3
+choice1 <shift> # エライな！
+com09 0 20
+com08
+choice2 <shift> # 日にやけるぞ
+line2
+com09 0 21
+com08
+choice3 <shift> # 早起きだな！
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （いや、必要ないな。
+line2 <shift> # まっすぐ、事務所に出勤しよう！）
+com09 0 99
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「エライな！」
+display
+com11 0 0
+sound 5
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「まあねっ！　自分、カンペキだけど、トップ
+line2 <shift> # になるには、このぐらいしないとダメだし」
+display
+com11 0 0
+sound 6
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「圧倒的な力でライバルをねじふせて、二度と
+line2 <shift> # 立ち上がれないぐらい、やっつけるんだ！」
+display
+com11 0 0
+sound 7
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「トップになる人は、皆そうやって、
+line2 <shift> # 勝ち上がっていくって、きいたぞっ！」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「日にやけるぞ」
+display
+com11 0 0
+sound 8
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「地黒だから、関係ないさー。
+line2 <shift> # 自分、普段は、あんまり外で運動しないしね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え、そうなのか？　沖縄の太陽の下で、
+line2 <shift> # はつらつと運動していそうなイメージだけど」
+display
+com11 0 0
+sound 9
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「うーん、スポーツは、まあまあ得意だけど、
+line2 <shift> # 一番得意なのは、卓球と器械体操かなっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「インドアスポーツ派なのか。
+line2 <shift> # 響のファンがきいたら、意外に思うかもな」
+display
+com11 0 0
+sound 10
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「皆、見た目のイメージだけで、判断してるから
+line2 <shift> # ね。でも別に、それでいいんだよっ！」
+display
+com11 0 0
+sound 11
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「本当の自分より、イメージの自分の方が、大事
+line2 <shift> # だから。見える所だけ、飾ってればいいんだ」
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「早起きだな！」
+display
+com11 0 0
+sound 12
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「好きで早く起きてるんじゃないよーっ！　自主
+line2 <shift> # トレしなきゃいけないから、ムリしてるんだぞ」
+display
+com11 0 0
+sound 13
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「７６５プロは、のんきでいいよなー！　事務所
+line2 <shift> # で友達ごっこしてれば、それでいいんだからさ」
+display
+com11 0 0
+sound 14
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「でも、真剣にトップを目指すなら、自分みたい
+line2 <shift> # に、一人ぼっちで戦わなきゃいけないんだよ！」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん。俺は、必ずしも、そうじゃないと思う
+line2 <shift> # けど。もしかして、それも黒井社長の教えか？」
+display
+com11 0 0
+sound 15
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「もちろん！　黒井社長は、自分のこと思って、
+line2 <shift> # アドバイスしてくれてるんだっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そう……、なのかなあ？
+line2 <shift> # ちょっと違うような気もするぞ」
+display
+com11 0 0
+sound 16
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「違わないよっ！　９６１プロは、一流の事務所
+line2 <shift> # だぞ。黒井社長のアドバイスも、一流だよ！」
+display
+com11 0 0
+sound 17
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「自分のこと考えてくれてる社長のためにも、
+line2 <shift> # 自主トレとかレッスンとか、頑張らないとっ！」
+display
+com11 0 0
+sound 18
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「レッスンで勉強してから、オーディションを
+line2 <shift> # 受ければ、勝てる可能性、高くなるからね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「むう、なるほど。黒井社長の考え方には、
+line2 <shift> # 賛成できないけど、戦略は参考になるな」
+display
+com11 0 0
+sound 19
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「でしょ？　トップになるには営業も大事だけど、
+line2 <shift> # まずはオーディションに勝たないとねっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「確かにな。プロデュースに役立つ情報、
+line2 <shift> # どうもありがとう！」
+display
+com11 0 0
+sound 20
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「どういたしまし……、ああっ、敵に優しくし
+line2 <shift> # ちゃった！　ヘコむー！　ばっぺーたっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ばっぺーた？　それって、どういう意味だ？
+line2 <shift> # あ、待った！　当ててみせるよ」
+com03 0 3
+choice1 <shift> # 間違えた、だ！
+line2
+com09 0 30
+com08
+choice2 <shift> # 落ち込んだ、だ！
+line2
+com09 0 31
+com08
+choice3 <shift> # 愛してる、だ！
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「間違えた、だ！
+line2 <shift> # 沖縄の言葉で、そういう意味なんじゃないか？」
+display
+com11 0 0
+sound 21
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「おおっ。スゴイよ、当たりだよ！　７６５プロ、
+line2 <shift> # 自分の言葉、わかるようになってきたねっ！」
+display
+com11 0 0
+sound 22
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「……って、何、喜んでんだ、自分っ？
+line2 <shift> # 敵にわかってもらう必要なんか、ないさー！」
+com09 0 39
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「落ち込んだ、だ！
+line2 <shift> # 沖縄の言葉で、そういう意味なんじゃないか？」
+display
+com11 0 0
+sound 23
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「ちっがうよ！　もーっ、７６５プロは、自分の
+line2 <shift> # 言葉、ゼンゼンわかってくれてないなあっ！」
+display
+com11 0 0
+sound 24
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「……あ。別に敵にわかってもらう必要なんか、
+line2 <shift> # ないさー。何、言ってるんだよ、自分っ！」
+com09 0 39
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「愛してる、だ！
+line2 <shift> # 沖縄の言葉で、そういう意味なんじゃないか？」
+display
+com11 0 0
+sound 25
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「うげっ！　そ、そんな意味なわけ、ないさー！
+line2 <shift> # 自分、７６５プロなんかキライだし……」
+display
+com11 0 0
+sound 26
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「うわっ！　今、ちょっと本気で照れちゃった。
+line2 <shift> # 自分キモいー！　７６５プロ相手にキモいー！」
+com09 0 39
+display
+location 39
+com11 0 0
+sound 27
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「トレーニングしすぎで、疲れてるのかもっ！？
+line2 <shift> # そうだ、きっとそうだ！　あー、ヘコむーっ！」
+display
+com11 0 0
+sound 28
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「今日は、帰ろう。そうしよう！　それがいい！
+line2 <shift> # それしかない！　じゃ、バイバイっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「むう、落ち込んでても、にぎやかなヤツ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （でも、憎まれ口ばっかり言ってるわりには、
+line2 <shift> # なんとなく憎めないヤツだな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （さてと。そろそろ出勤して、
+line2 <shift> # プロデュースの準備をするか！）
+com09 0 99
+display
+location 99
+unk02

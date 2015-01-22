@@ -1,0 +1,313 @@
+com2c 0 43
+com2d 0 91
+com2e 0 101
+com32 0 0
+com11 0 2
+sound 400
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「兄ちゃん、聞いて〜！　今からやるレコー
+line2 <shift> # ディングで、亜美とデュエットするの〜！」
+display
+com11 0 2
+sound 401
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「機械いじる人が、そういう部分も、こっそり
+line2 <shift> # 混ぜてみようって！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「そうか。ま、聴く人は、ふたりいるんじゃなく
+line2 <shift> # て、合成したと思うもんな。いいんじゃないか」
+display
+com11 0 2
+sound 402
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ね、兄ちゃん。あの機械いじって、
+line2 <shift> # 音まぜまぜする人って、なんて言ったっけ？」
+com03 0 3
+choice1 <shift> # まぜまぜさん、だよ
+line2
+com09 0 10
+com08
+choice2 <shift> # ミキサー、だよ
+line2
+com09 0 11
+com08
+choice3 <shift> # ディレクター、だよ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「まぜまぜさん、だよ」
+display
+com11 0 2
+sound 403
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「あははっ、兄ちゃんのうそつき〜。
+line2 <shift> # でも、それ、おっもしろいねっ！」
+display
+com11 0 2
+sound 404
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「あのまぜまぜさん、いろいろ楽しいこと、
+line2 <shift> # やらせてくれるから、好き〜♪」
+com09 0 29
+display
+location 11
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「ミキサー、だよ」
+display
+com11 0 2
+sound 405
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「あ、そーそー！　亜美、ど忘れしちゃったー。
+line2 <shift> # 教えてくれて、ありがと。兄ちゃん！」
+display
+com11 0 2
+sound 406
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「アイドルやって、いろいろなお仕事の名前、
+line2 <shift> # おぼえたけど、たまにポロって、忘れちゃうね」
+com09 0 29
+display
+location 12
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「ディレクター、だよ」
+display
+com11 0 2
+sound 407
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「え？　ちがうんじゃ……。だって、
+line2 <shift> # ディレクターさんは、別のイスに座ってるよ？」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「そ、そうか。えーと、コーディネイターじゃ
+line2 <shift> # なくて、コンダクターじゃなくて……」
+display
+com11 0 2
+sound 408
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「兄ちゃんも、ど忘れしちゃった？　じゃあ、
+line2 <shift> # いいよ。後で、他の人に聞いてみるから」
+com09 0 29
+display
+location 29
+com11 0 2
+sound 409
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「で、亜美。レコーディングで、どっちのパート、
+line2 <shift> # 歌う？　上？　下？」
+display
+com11 0 2
+sound 410
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ん〜、多分、亜美が上、歌った方がいいよね。
+line2 <shift> # 真美は下、歌って！」
+display
+com11 0 2
+sound 411
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「わかった！　真美もね、それがいいかなーっ
+line2 <shift> # て思ってたんだ！　ＯＫだよね、兄ちゃん？」
+com03 0 2
+choice1 <shift> # どっちでも、同じ気がするけど？
+line2
+com09 0 30
+com08
+choice2 <shift> # 好きな方、やっていいよ
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「どっちでも、同じ気がするけど？」
+display
+com11 0 2
+sound 412
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「んっふっふ〜、そんなこと、ないよ〜。最近、
+line2 <shift> # 亜美と真美、得意な部分が少しちがってきたの」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「へー、そうなのか。やってるうちに、自然と
+line2 <shift> # 個性が出てきたのかもしれないな」
+com09 0 49
+display
+location 31
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「好きな方、やっていいよ。質は変わらない
+line2 <shift> # だろうから、好み優先ってことで」
+display
+com11 0 2
+sound 413
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「亜美達、好き嫌いで決めてるわけじゃ
+line2 <shift> # ないよ？　得意な方、選んでるんだよ？」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「え？　そうなのか？　でも、得意なところは、
+line2 <shift> # ふたりとも、同じはずじゃ……」
+display
+com11 0 2
+sound 414
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「最近、亜美と真美、ほんのすこし、ちがって
+line2 <shift> # きたの。だから、ちゃんと考えて決めないと！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「そうだったのか……。アイドル続けてる
+line2 <shift> # うちに、自然と個性が出てきたのかもな」
+com09 0 49
+display
+location 49
+com11 0 2
+sound 415
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「もしかしたら、真美達、そのうち、顔まで
+line2 <shift> # ちがってきちゃうのかなあ」
+display
+com11 0 2
+sound 416
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「そしたら、ビックリだよねっ。ねえ、兄ちゃん。
+line2 <shift> # 亜美達、別の顔になった方がいいと思う？」
+com03 0 3
+choice1 <shift> # いいけど、すこし、さびしいな
+line2
+com09 0 50
+com08
+choice2 <shift> # ああ、大歓迎だ
+line2
+com09 0 51
+com08
+choice3 <shift> # 遺伝的にありえないよ
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「いいけど、すこし、さびしいな。そうなったら、
+line2 <shift> # これまで通り、二人一役はできなくなるし」
+display
+com11 0 2
+sound 417
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「だよね〜。でも、それはそれで、おもしろい
+line2 <shift> # かもっ。これまで、できなかった事もできるし」
+display
+com11 0 2
+sound 418
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「さびしがること、ないよ！　別の顔になっても、
+line2 <shift> # 真美も亜美も、ずっと兄ちゃんと一緒だよっ！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （言いながら、俺の手を握り、ブンブンと振り
+line2 <shift> # 回している。この関係は、変えずにいきたいな）
+com09 0 69
+display
+location 51
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「ああ、大歓迎だ。そうなった方がおもしろいし、
+line2 <shift> # 見分けもつきやすくなる」
+display
+com11 0 2
+sound 419
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ええええ、兄ちゃん、亜美達のこと、まだ
+line2 <shift> # 見た目でわけてるの〜？　中身で見分けてよ〜」
+display
+com11 0 2
+sound 420
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「それに、いいことばっかじゃないよ。別の顔に
+line2 <shift> # なったら、二人一役続けられなくなるし〜」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「あ、それはそれで、問題だな」
+display
+com11 0 2
+sound 421
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「でも、できることも、きっと増えるよね。
+line2 <shift> # 実際、そうなったら、どんな気分なんだろー」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （大歓迎ってのは、言い過ぎか。でも、まあ、
+line2 <shift> # 一長一短ってところかもしれないな）
+com09 0 69
+display
+location 52
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「遺伝的にありえないよ。一卵性双生児は、
+line2 <shift> # 同じ遺伝子を持ってるんだから」
+display
+com11 0 2
+sound 422
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「いちらんせい、ソーセージ？？？
+line2 <shift> # なに、それ？　おいしいの？」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「ちがうよ。食べ物のソーセージの話じゃない。
+line2 <shift> # 一卵性ってのは、つまり、卵が……」
+display
+com11 0 2
+sound 423
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「卵なの？　ソーセージじゃなくて？」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「ちがーう。つ、つまりー、ほら、学校の授業で、
+line2 <shift> # 植物の遺伝とかについて、勉強しただろ？」
+display
+com11 0 2
+sound 424
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「そんなの、してないよ〜。わかりやすく話して
+line2 <shift> # くれないと、頭グニャグニャになっちゃう〜」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （結局、まったく会話にならなかった。そうか、
+line2 <shift> # 小学校じゃ、まだ遺伝の法則は学ばないのか）
+com09 0 69
+display
+location 69
+unk02

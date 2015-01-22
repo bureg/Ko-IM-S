@@ -1,0 +1,280 @@
+com2c 0 24
+com2d 0 41
+com32 0 0
+com11 0 5
+sound 100
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサー、来ました。
+line2 <shift> # たずねたいことって、なんでしょうか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いま、経歴書を見てたんだけど、歌のコン
+line2 <shift> # クールで優勝したことがあるって、本当？」
+display
+com11 0 5
+sound 101
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はい。ロックと民謡で、日本一に。童謡でも
+line2 <shift> # 地区大会で、優勝しました」
+com03 0 3
+choice1 <shift> # 輝かしい実績だなあ
+line2
+com09 0 10
+com08
+choice2 <shift> # サラブレッドなんだな
+line2
+com09 0 11
+com08
+choice3 <shift> # 思い上がりは、よくないよ？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「輝かしい実績だなあ」
+display
+com11 0 5
+sound 102
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あ、ありがとうございます。でも、しょせん
+line2 <shift> # アマチュアのコンクールですから、自慢には」
+display
+com11 0 5
+sound 103
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「その事は忘れて、きびしい目で、見て
+line2 <shift> # もらえればと」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「サラブレッドなんだな」
+display
+com11 0 5
+sound 104
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「買いかぶりです。私、２世とかじゃありま
+line2 <shift> # せんし、英才教育を受けたわけでも……」
+display
+com11 0 5
+sound 105
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「優勝といっても、しょせんアマチュアのコン
+line2 <shift> # クールです。プロとは、全然ちがいますよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、そうかもしれないな」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「思い上がりは、よくないよ？」
+display
+com11 0 5
+sound 106
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「私、テングになんてなりません。優勝したのは、
+line2 <shift> # しょせん、アマチュアのコンクールですし……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そうか。いらない心配だったかな？」
+display
+com11 0 5
+sound 107
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「忠告は感謝します。けど、プロのきびしさは
+line2 <shift> # わかっていますから。油断なんて、とても……」
+com09 0 29
+display
+location 29
+com11 0 5
+sound 108
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あっ、プロデューサー。私からも、たずねたい
+line2 <shift> # 事が。『アイドル』という呼び名なんですけど」
+display
+com11 0 5
+sound 109
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「要は、歌手ですよね？　呼び名、変更できま
+line2 <shift> # せんか？　私、やりにくいというか」
+com03 0 3
+choice1 <shift> # 納得いかない？
+line2
+com09 0 30
+com08
+choice2 <shift> # 恥ずかしい？
+line2
+com09 0 31
+com08
+choice3 <shift> # 軽く見られる気がする？
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「納得いかない？」
+display
+com11 0 5
+sound 110
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はい。一流のボーカリストをめざしている身と
+line2 <shift> # しては、ふさわしくない言葉だと」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「恥ずかしい？」
+com09 0 91
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「軽く見られる気がする？」
+com09 0 91
+display
+location 91
+com11 0 5
+sound 111
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「というのとは、すこしちがうんですけど。
+line2 <shift> # ただ、しっくりこなくて……」
+display
+com11 0 5
+sound 112
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「一流のボーカリストをめざしている身には、
+line2 <shift> # ふさわしくない言葉だと、思うんです」
+com09 0 49
+display
+location 49
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「かといって、ボーカリストなんて言葉は、
+line2 <shift> # 一般的じゃないしなあ」
+display
+com11 0 5
+sound 113
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「私は、まだ卵かもしれません。けど、アイドル
+line2 <shift> # の卵じゃなくて、歌手の卵でありたいんです」
+display
+com11 0 5
+sound 114
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「自分の中で、うまく消化できなくて。これは、
+line2 <shift> # あきらめるしかないですか？」
+com03 0 3
+choice1 <shift> # 呼び名には、意味なんてないよ
+line2
+com09 0 50
+com08
+choice2 <shift> # 行動で、呼び名を変えていこう
+line2
+com09 0 51
+com08
+choice3 <shift> # 世間的には、アイドルだしなあ
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「呼び名には、意味なんてないよ。やることは、
+line2 <shift> # 同じなんだから」
+display
+com11 0 5
+sound 115
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「それは、そうですね。私にできるのは、歌う
+line2 <shift> # ことだけ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あまり気にせず、中身に集中してほしいって、
+line2 <shift> # 思うけど？」
+display
+com11 0 5
+sound 116
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はい、そうします。こんな事聞くの、どうかっ
+line2 <shift> # て思いましたけど、話して、よかったです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （小さく笑って、うなづいてくれた。
+line2 <shift> # いい言葉、かけてあげられたかな）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「行動で、呼び名を変えていこう。認められれば、
+line2 <shift> # 自然にボーカリストと呼ばれるよ」
+display
+com11 0 5
+sound 117
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「もちろん、そうしていくつもりです。けど、
+line2 <shift> # 私が気にしているのは、今の立場で……」
+display
+com11 0 5
+sound 118
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「トップアイドルをめざせって言われても、心が
+line2 <shift> # 奮い立たないんです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか。ま、まあ、ガマンするしかないんじゃ
+line2 <shift> # ないか？」
+display
+com11 0 5
+sound 119
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そうですね。こんなつまらないこと、自分でも
+line2 <shift> # 気にしたくはないんですけど……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ため息をついている。前向きな助言はできな
+line2 <shift> # かったけど、ま、割り切ってもらうしかない）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「世間的には、アイドルだしなあ」
+display
+com11 0 5
+sound 120
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「それは、わかります。私がなんと言っても、
+line2 <shift> # 見方は変わらないというのも」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「受け入れていくしかないんじゃないか？
+line2 <shift> # いいじゃないか。目標トップアイドルでも」
+display
+com11 0 5
+sound 121
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……それは、できません。いるじゃないです
+line2 <shift> # か？　人気だけで、トップにいる人達とか」
+display
+com11 0 5
+sound 122
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「私、もっと強くて揺るぎない、本当のプロフェ
+line2 <shift> # ッショナルになりたくて。だから……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （くちびるを、キュッとかみしめている。
+line2 <shift> # そう簡単には、割り切ってくれないか）
+com09 0 69
+display
+location 69
+unk02

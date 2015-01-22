@@ -1,0 +1,369 @@
+com2c 0 148
+com2d 0 31
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （オフの時間に、やよいの希望で、
+line2 <shift> # 近くの学園祭に、やってきた）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ここか、やよいが来たいって言ってた、
+line2 <shift> # 学園祭は」
+display
+com11 0 0
+sound 300
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はい。違う学校の友達に、今日は、
+line2 <shift> # 久しぶりに会えますっ」
+display
+com11 0 0
+sound 301
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「行くって、前から約束してたけど……、
+line2 <shift> # ちゃんと守れて、よかったです！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今日がオフで、よかったなぁ」
+display
+com11 0 0
+sound 302
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そうですね。そうじゃなかったら、
+line2 <shift> # 約束、破っちゃうとこでした！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、もし仕事だったら、約束守れなくても、
+line2 <shift> # 不可抗力だし、許してくれるんじゃない？」
+display
+com11 0 0
+sound 303
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そうかもしれないですけど……、私、
+line2 <shift> # どうしても、来たかったから！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか。友達との学園祭、楽しみだな。
+line2 <shift> # さてと……」
+com03 0 2
+choice1 <shift> # じゃ、一緒に行こうか
+line2
+com09 0 10
+com08
+choice2 <shift> # 行ってらっしゃい
+line2
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃ、一緒に行こうか、やよい」
+display
+com11 0 0
+sound 304
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「わ、やった！　友達にプロデューサーのこと、
+line2 <shift> # 紹介したかったんですよ！」
+display
+com11 0 0
+sound 305
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そしたら、三人で仲良く、いろいろ
+line2 <shift> # 見てまわりましょう〜！　うっうー、楽しみ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ははは……。あ、でも友達の方は、
+line2 <shift> # それを知ってるのか？」
+display
+com11 0 0
+sound 306
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あ、いえ。まだです。
+line2 <shift> # いきなりの方が、びっくりするかな〜って」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それじゃ、もしかしたら、俺に気をつかっちゃ
+line2 <shift> # うかもしれないな。やっぱり行くのやめとくよ」
+display
+com11 0 0
+sound 307
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えっ、大丈夫ですよ！　絶対、平気です。
+line2 <shift> # だから、一緒に行きましょう〜」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「行ってらっしゃい。俺は、ここで待つよ」
+display
+com11 0 0
+sound 308
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えっ、プロデューサー、
+line2 <shift> # 一緒に行ってくれないんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺が行くと、友達との再会の、
+line2 <shift> # おジャマになるかもしれないし……」
+display
+com11 0 0
+sound 309
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そんな、気にしないで下さいよー。
+line2 <shift> # 学園祭、一緒に見ましょうよ。楽しいですよ？」
+display
+com11 0 0
+sound 310
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「それに私、友達にプロデューサーを、
+line2 <shift> # 紹介したいです！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、でも、友達の方も、
+line2 <shift> # 気をつかっちゃうと思うよ……」
+display
+com11 0 0
+sound 311
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「大丈夫ですよ〜、プロデューサー！
+line2 <shift> # だから、ね！　行きましょうよ〜」
+com09 0 19
+display
+location 19
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「けど、やっぱりなぁ……」
+display
+com11 0 0
+sound 312
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ほんとに、その子、全然人見知りとか、
+line2 <shift> # しない子なんで……。大丈夫ですから！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やよい……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （このままだと、時間ばかりが過ぎてしまうな。
+line2 <shift> # なんとかして、やよいを行かせよう）
+com03 0 3
+choice1 <shift> # とにかく行っておいで
+line2
+com09 0 20
+com08
+choice2 <shift> # 派手に１曲歌ってこい
+line2
+com09 0 21
+com08
+choice3 <shift> # あ、そう言えば……
+line2
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「とにかく、行っておいで。俺はちょっと、
+line2 <shift> # ここで電話一本、待たなきゃいけないから……」
+display
+com11 0 0
+sound 313
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えっ、そうだったんですか。うーん……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ほらほら、友達を待たせて、
+line2 <shift> # がっかりさせちゃいけないと思うぞ。急げ！」
+display
+com11 0 0
+sound 314
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あっ！　そ、そうですね……。
+line2 <shift> # わかりました。私、行きますっ！」
+display
+com11 0 0
+sound 315
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あ！　プロデューサー！
+line2 <shift> # おみやげもってきますね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ははは、わかった。楽しみにする」
+display
+com11 0 0
+sound 316
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あっ、それとっ、友達にはプロデューサーも、
+line2 <shift> # そこまで、一緒に来てもらったって、話します」
+display
+com11 0 0
+sound 317
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えと、それに、それに、今度、
+line2 <shift> # 友達を私のライブに呼べたら……」
+display
+com11 0 0
+sound 318
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「その時はプロデューサー、一緒に、
+line2 <shift> # 会ってもらっていいですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、約束しよう。
+line2 <shift> # 友達にバックステージパス、出してあげるよ」
+display
+com11 0 0
+sound 319
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ありがとうございますっ！　それでは、
+line2 <shift> # あらためて！　いってきまーす！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （いい思い出、作ってこられるといいな。
+line2 <shift> # 俺は期待しつつ、やよいを見送った）
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだ、友達に会うついでだ、やよい。
+line2 <shift> # 派手に１曲、歌ってこい！」
+display
+com11 0 0
+sound 320
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ええっ、歌うんですかっ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「行けないのは残念だけど、俺、
+line2 <shift> # ここでやよいの歌を、きくよ」
+display
+com11 0 0
+sound 321
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「どうしようっ、歌うなんて。
+line2 <shift> # 私、そんな心の準備、してないですよー」
+display
+com11 0 0
+sound 322
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「な、なに歌ったらいいんだろ。
+line2 <shift> # 友達の前で……？」
+display
+com11 0 0
+sound 323
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そ、それに、勝手に歌ったら、
+line2 <shift> # 学校の先生とかに怒られちゃいませんか？」
+display
+com11 0 0
+sound 324
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そしたらきっと、友達も、
+line2 <shift> # 困っちゃいます……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、別に、ステージジャックするわけじゃ
+line2 <shift> # なくて。友達に、ちょっときかせる程度なら」
+display
+com11 0 0
+sound 325
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そのくらいなら、いいのかな。
+line2 <shift> # でっ、でも、驚かせちゃうかも」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「その位は驚かせても、いいんじゃないかなぁ。
+line2 <shift> # せっかく久々に会うんだし」
+display
+com11 0 0
+sound 326
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「う〜ん、でも、でも〜っ」
+display
+com11 0 0
+sound 327
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「学園祭の盛り上がってるところの、
+line2 <shift> # おジャマには、なりたくないですよぉ」
+display
+com11 0 0
+sound 328
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「い、一応、行って、きいてみます……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （軽い提案のつもりだったのに、やよいは、
+line2 <shift> # 気にしすぎて、悩んでしまったようだ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あの様子で友達に会わせて、大丈夫だろうか。
+line2 <shift> # 俺が余計なことを言ったばかりに……、心配だ）
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、そう言えば……、
+line2 <shift> # ふっと気になったんだが」
+display
+com11 0 0
+sound 329
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はっ、はい。なんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やよいの通ってる学校の学園祭は？　友達を招
+line2 <shift> # 待してみたらどうかな。その時、俺も会おうか」
+display
+com11 0 0
+sound 330
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あ、そ、それは……、うう」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ん、どうした？　急に暗い顔して」
+display
+com11 0 0
+sound 331
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「私の学校の学園祭も、もうすぐ、
+line2 <shift> # あるんです、けど……」
+display
+com11 0 0
+sound 332
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「最近、仕事のスケジュールが重なって、
+line2 <shift> # 準備に、ちゃんと参加できなくって……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ、そ、そうだったのか……、すまん。
+line2 <shift> # 当日のやよいの予定は、あけておくよ」
+display
+com11 0 0
+sound 333
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あんまり準備に出なかったから、
+line2 <shift> # クラスの出し物も、私、よく知らないし」
+display
+com11 0 0
+sound 334
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そんなだと、友達も招待しにくいん
+line2 <shift> # ですよね……、うう」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まあまあ、そんな泣きそうな顔しなくても。
+line2 <shift> # それより、今は、ここの学園祭を見るんだろ？」
+display
+com11 0 0
+sound 335
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あっ、は、はい！　そうですよね。これから、
+line2 <shift> # 友達に、会いに行くんだった……、えへへ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （なんとか笑顔を作って、
+line2 <shift> # やよいは学校の中へと駆けていった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （友達と楽しんで、元気出してくれると、
+line2 <shift> # いいんだが……。俺は、祈るしかなかった）
+com09 0 29
+display
+location 29
+unk02

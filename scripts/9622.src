@@ -1,0 +1,251 @@
+com2c 0 17
+com2d 0 21
+com32 0 0
+com11 0 0
+sound 1400
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「プロデューサ〜、今、局のスタッフから握手
+line2 <shift> # 攻めに……！　な、なにが起きたのよ〜！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか、みんな、もう知ってるんだ。伊織の
+line2 <shift> # アルバム、トリプル・ミリオン達成だって！」
+display
+com11 0 0
+sound 1401
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「トリプル……？　さ、３００万枚〜〜〜っ！？
+line2 <shift> # それ、ほんと！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、すごい騒ぎだよ。さっきチェックしたら、
+line2 <shift> # お祝いのメールも、１００件近く！」
+display
+com11 0 0
+sound 1402
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「これが……、ランクＡの破壊力なのね。私……
+line2 <shift> # 私達……、とうとう、最高峰まで……！」
+com03 0 3
+choice1 <shift> # 歴史に名を残したな
+line2
+com09 0 10
+com08
+choice2 <shift> # 最高の気分？
+line2
+com09 0 11
+com08
+choice3 <shift> # 俺もうれしいよ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「歴史に名を残したな」
+display
+com11 0 0
+sound 1403
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ふふっ、ふふふふっ……。これで、私の
+line2 <shift> # 功績は、未来永劫に語り継がれるわけねっ」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「最高の気分？」
+display
+com11 0 0
+sound 1404
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ふふっ、ふふふふっ……決まってるじゃない
+line2 <shift> # のー！！　この場で高笑いしたいわっ！！」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺もうれしいよ」
+display
+com11 0 0
+sound 1405
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ふふっ、ふふふふっ……。プロデューサー、
+line2 <shift> # よろこび方が足りないわっ。ほーら、笑って！」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 1406
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「今じゃ、大金持ちのパパも、もうはるか足元
+line2 <shift> # ね。ふふっ、あはははッ、んふふふふふッ！！」
+com03 0 2
+choice1 <shift> # 伊織、こわいって……
+line2
+com09 0 30
+com08
+choice2 <shift> # 伊織、ブッ壊れた？
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「伊織、こわいって……」
+display
+com11 0 0
+sound 1407
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あら、そーう？　今はどう思われても、気にな
+line2 <shift> # らないわ！　支配者は、おおらかなんだから♪」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「伊織、ブッ壊れた？」
+display
+com11 0 0
+sound 1408
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そう思ーう？　今は、どう見られたって、かま
+line2 <shift> # わないわ！　支配者は、おおらかなんだから♪」
+com09 0 49
+display
+location 49
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ははは、さすがだな。よっ、伊織女王様！」
+display
+com11 0 0
+sound 1409
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ふっふふ〜ん♪　って、その女王様っての、ど
+line2 <shift> # うにかならない？　別のやつのが、うれしいわ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか？　じゃあ、なにがいいんだ？
+line2 <shift> # 女帝？　女神様？」
+display
+com11 0 0
+sound 1410
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そ、そういうのも悪くないけど……私、そ
+line2 <shift> # の……。お、王妃様がいいわ。そっちのが……」
+com03 0 3
+choice1 <shift> # わかった。じゃ、王妃様な
+line2
+com09 0 50
+com08
+choice2 <shift> # めずらしく謙虚だな
+line2
+com09 0 51
+com08
+choice3 <shift> # 遠慮するなよ、女王様！
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わかった。じゃ、王妃様な」
+display
+com11 0 0
+sound 1411
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ふふ……あ、ありがと……。お、王様は
+line2 <shift> # あんたね……」
+display
+com11 0 0
+sound 1412
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「お、男の人、あんたしかいないんだから、が、
+line2 <shift> # ガマン、ガマン……」
+display
+com11 0 0
+sound 1413
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「今晩は、盛大にパーティーしなくっちゃ♪
+line2 <shift> # あんたと私の建国記念日だわっ。ふふふふっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （玉座に、伊織とふたり……。できることなら、
+line2 <shift> # この陶酔感を、いつまでも味わっていたいな）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「めずらしく謙虚だな」
+display
+com11 0 0
+sound 1414
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「別に、気持ちおさえてるわけじゃないわよ〜。
+line2 <shift> # ほんとに王妃様のが、いいのーっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうして？　だって、女王様のが、えらそう
+line2 <shift> # じゃないか？」
+display
+com11 0 0
+sound 1415
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「や〜だ〜！　王妃様、王妃様、
+line2 <shift> # 王妃様なの〜！！」
+display
+com11 0 0
+sound 1416
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「どうしても、女王様にしたいなら、あんたを
+line2 <shift> # 今日一日、くすぐりの刑にしちゃうんだから〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （それは許してほしい。でも、文句いいつつも、
+line2 <shift> # 伊織の顔は、全然怒ってるようには見えないな）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「遠慮するなよ、女王様！」
+display
+com11 0 0
+sound 1417
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「う、ううう〜……。王妃様のがいいって
+line2 <shift> # 言ってるでしょ〜！　んも〜〜〜！！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、怒るなよ。支配者はおおらかなんだろ？」
+display
+com11 0 0
+sound 1418
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ふふ〜ん、支配者はやめたもーん！　もう王妃
+line2 <shift> # 様なんだから、おおらかじゃなくてもいーの！」
+display
+com11 0 0
+sound 1419
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「王様の役は、あんたにチェンジね。さあ、
+line2 <shift> # どうしてやろうかしら？」
+display
+com11 0 0
+sound 1420
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「支配者は、なにされても、文句言っちゃ、
+line2 <shift> # ダメよ♪　カ・ク・ゴしなさーい！！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うわ、どうして俺が王様になるんだ？
+line2 <shift> # 素直に『王妃様』って、呼んでやればよかった）
+com09 0 69
+display
+location 69
+unk02

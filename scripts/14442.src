@@ -1,0 +1,1106 @@
+com2d 0 32
+display
+location 1015
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （やよい、ここは、こう言っておくんだ！）
+com03 0 3
+com48 143 137 130 223 130 196 130 197 130 183 130 175
+line2 <shift> # ど、頑張ります
+com09 3 248
+com08
+com48 143 137 143 111 143 234 129 65 143 137 141 135
+line2 <shift> # 格目指します
+com09 3 249
+com08
+com48 141 161 147 250 130 220 130 197 145 242 142 82
+line2 <shift> # 練習しました
+com09 3 250
+com08
+com48 142 132 130 204 138 231 129 65 138 111 130 166
+line2 <shift> # て下さい
+com09 3 251
+com08
+com48 143 137 130 223 130 196 130 197 139 217 146 163
+line2 <shift> # してます
+com09 3 252
+com08
+display
+location 1016
+com4a 0 1
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「初めてですけど、頑張りますっ！」
+display
+location 1017
+com4a 0 1
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「初出場、初合格目指しまーす！」
+display
+location 1018
+com4a 0 1
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「今日まで沢山練習しました！」
+display
+location 1019
+com4a 0 1
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「私の顔、覚えて下さい！」
+display
+location 1020
+com4a 0 1
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「初めてで緊張してまーす」
+display
+location 1200
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はい！　ありがとうございますっ！」
+display
+location 1201
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「は、はい……、ごめんなさい」
+display
+location 1202
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よし、テンションもあがったようだ！）
+display
+location 1203
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あぁ……、テンションが下がってしまった）
+display
+location 1400
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺ができることは応援することだけだ！）
+com03 0 2
+choice1 <shift> # 初めてだから気楽にな
+line2
+com09 5 121
+com08
+choice2 <shift> # 遠慮は要らない、飛ばして行け！
+line2
+com09 5 122
+com08
+com07
+com09 5 122
+com08
+display
+location 1401
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「初めてだから気楽にな」
+display
+location 1402
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「最初から飛ばして行け！」
+display
+location 1500
+com11 0 0
+sound 10007
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はーい、練習のつもりで楽にやりまーすっ！」
+display
+com11 0 0
+sound 10008
+com4a 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「じゃ、行ってきますね、プロデューサー」
+display
+location 1501
+com11 0 0
+sound 10009
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そ、そんな事言われても、勝手に体に力が〜」
+display
+com11 0 0
+sound 10010
+com4a 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ああっ、もう時間〜っ！
+line2 <shift> # それじゃ、行ってきまーす」
+display
+location 1502
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はい！　ばんばん飛ばしていきまーす！」
+display
+com11 0 0
+sound 10012
+com4a 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「じゃ、行ってきますね、プロデューサー」
+display
+location 1503
+com11 0 0
+sound 10013
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「と、と、飛ばすってこれ以上ですか〜？
+line2 <shift> # わたし、目の前がくらくらして……」
+display
+com11 0 0
+sound 10014
+com4a 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ああっ、もう時間です〜っ！
+line2 <shift> # 行ってきまーす」
+display
+location 2015
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （やよい、ここは、こう言っておくんだ！）
+com03 0 3
+com48 136 234 144 182 140 156 150 189 129 65 138 230
+line2 <shift> # 張りまーすっ！
+com09 7 224
+com08
+com48 142 169 144 77 130 170 130 160 130 232 130 220
+line2 <shift> # すっ！
+com09 7 225
+com08
+com48 142 132 130 240 130 181 130 193 130 169 130 232
+line2 <shift> # 見て下さい！
+com09 7 226
+com08
+com48 130 189 130 173 130 179 130 241 151 251 143 75
+line2 <shift> # しましたっ！
+com09 7 227
+com08
+com48 130 171 130 193 130 198 141 135 138 105 130 181
+line2 <shift> # てみせますっ！
+com09 7 228
+com08
+display
+location 2016
+com4a 0 1
+com11 0 0
+sound 10015
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「一生懸命、頑張りまーすっ！」
+display
+location 2017
+com4a 0 1
+com11 0 0
+sound 10016
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「自信がありますっ！」
+display
+location 2018
+com4a 0 1
+com11 0 0
+sound 10017
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「私をしっかり見て下さい！」
+display
+location 2019
+com4a 0 1
+com11 0 0
+sound 10018
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「たくさん練習しましたっ！」
+display
+location 2020
+com4a 0 1
+com11 0 0
+sound 10019
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「きっと合格してみせますっ！」
+display
+location 2021
+com4a 0 1
+com11 0 0
+sound 10051
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ボーカルには自信がありますっ！」
+display
+location 2022
+com4a 0 1
+com11 0 0
+sound 10052
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ビジュアルには自信がありますっ！」
+display
+location 2200
+com11 0 0
+sound 10020
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はい！　ありがとうございまーすっ！」
+display
+location 2201
+com11 0 0
+sound 10021
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「は、はい……」
+display
+location 2202
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よし、テンションもあがったようだ！）
+display
+location 2203
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あぁ……、テンションが下がってしまった）
+display
+location 2400
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺ができることは応援することだけだ！）
+com03 0 3
+choice1 <shift> # 絶対勝てるぞ！
+line2
+com09 9 97
+com08
+choice2 <shift> # 気を引き締めて行け
+line2
+com09 9 98
+com08
+choice3 <shift> # とにかく頑張れ
+line2
+com09 9 99
+com08
+com07
+com09 9 97
+com08
+display
+location 2401
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「絶対勝てるぞ！」
+display
+location 2402
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「気を引き締めて行け」
+display
+location 2403
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「とにかく頑張れ」
+display
+location 2404
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「普段どおりに」
+display
+location 2405
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「勝ったらカツ丼だ」
+display
+location 2500
+com11 0 0
+sound 10022
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はい！　ありがとうございます、
+line2 <shift> # プロデューサー」
+display
+com4a 0 1
+com11 0 0
+sound 10023
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「じゃ、行ってきますね、プロデューサー」
+display
+location 2501
+com11 0 0
+sound 10024
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「え、え？　でも他の人も頑張ってるし、
+line2 <shift> # 絶対って言われても〜」
+display
+com4a 0 1
+com11 0 0
+sound 10025
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ああっ、もう時間〜っ！
+line2 <shift> # それじゃ、行ってきまーす」
+display
+location 2502
+com11 0 0
+sound 10026
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はい！　失敗しないように注意しまーす！」
+display
+com4a 0 1
+com11 0 0
+sound 10027
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「じゃ、行ってきますね」
+display
+location 2503
+com11 0 0
+sound 10028
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あわわ、失敗したら大変〜。
+line2 <shift> # 注意しなくちゃ、注意しなくちゃ〜！！」
+display
+com4a 0 1
+com11 0 0
+sound 10029
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ああっ、もう時間〜っ！
+line2 <shift> # それじゃ、行ってきまーす」
+display
+location 2504
+com11 0 0
+sound 10030
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はい！　気合い全開でいってきまーすっ！
+line2 <shift> # プロデューサー、ハイ、ターッチ！」
+display
+com4a 0 1
+com11 0 0
+sound 10031
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「じゃ、行ってきます！」
+display
+location 2505
+com11 0 0
+sound 10032
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「と、とにかくって、どう頑張れば〜？？」
+display
+com4a 0 1
+com11 0 0
+sound 10033
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ああっ、もう時間〜っ！
+line2 <shift> # それじゃ、行ってきまーす」
+display
+location 2506
+com11 0 0
+sound 10034
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「わかりましたっ！　プロデューサーの
+line2 <shift> # レッスンを思い出してやりますっ！」
+display
+com4a 0 1
+com11 0 0
+sound 10035
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「じゃ、行ってきます！」
+display
+location 2507
+com11 0 0
+sound 10036
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ふ、普段ですか〜？　お掃除したり、ご飯？
+line2 <shift> # それをステージで？　え？　ええ？」
+display
+com4a 0 1
+com11 0 0
+sound 10037
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ああっ、もう時間〜っ！
+line2 <shift> # それじゃ、行ってきまーす」
+display
+location 2508
+com11 0 0
+sound 10038
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ええっ！　本当ですか〜！！　わーいっ。
+line2 <shift> # 絶対勝てるように、頑張りまーす！」
+display
+com4a 0 1
+com11 0 0
+sound 10039
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「じゃ、行ってきます！」
+display
+location 2509
+com11 0 0
+sound 10040
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えっ？　か、カツ丼作るんですかっ？
+line2 <shift> # えと、お肉あったかなぁ？　あと卵と……」
+display
+com4a 0 1
+com11 0 0
+sound 10041
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ああっ、もう時間〜っ！
+line2 <shift> # それじゃ、行ってきまーす」
+display
+location 1050
+com11 0 0
+sound 10042
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うっう〜、残念です〜。あと少しで合格だった
+line2 <shift> # んですけど〜」
+display
+com11 0 0
+sound 10043
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「次回こそは、絶対に合格しますっ！
+line2 <shift> # プロデューサー、また応援して下さいっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （やよいは次回への闘志を燃やしている。
+line2 <shift> # オーディション落選も無駄では無かったな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだな。よし、事務所に帰ろうか」
+display
+com4a 0 1
+com11 0 0
+sound 10044
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はい！」
+display
+location 1055
+com11 0 0
+sound 10045
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うう、残念です。まだ実力的に無理だったん
+line2 <shift> # でしょうか〜」
+display
+com11 0 0
+sound 10046
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「でもっ、プロデューサー、もっとレッスンして、
+line2 <shift> # 今度こそ合格しましょうねっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （落選は痛いが、実力を知る事が出来た。
+line2 <shift> # この教訓を活かしたいな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、その意気だ。事務所に帰ろうか」
+display
+com4a 0 1
+com11 0 0
+sound 10047
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はい！」
+display
+location 1060
+com11 0 0
+sound 10048
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ううっ、また落ちちゃいました〜。
+line2 <shift> # プロデューサー、ごめんなさい」
+display
+com11 0 0
+sound 10049
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「わたし、何がいけないんですか〜？
+line2 <shift> # もう合格って出来ないんですか〜？　ううっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （やよいは落ち込んでしまった。これは
+line2 <shift> # オーディション対策を考えないといけないな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「と、ともかく事務所に帰ろう」
+display
+com4a 0 1
+com11 0 0
+sound 10050
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はいぃ……」
+display
+location 1046
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「やったー！」
+display
+location 1047
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よし！　これでファン数大幅ＵＰだ！）
+display
+location 1048
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ＴＶ出演の前に、今日のパート担当を
+line2 <shift> # 決めよう！　少し待っておいてくれ！」
+display
+location 1049
+com4a 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はい！」
+display
+location 5001
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし！　今日はやよいを信じて、
+line2 <shift> # オーディションをまかせるよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺はその間、少し用事をすませて
+line2 <shift> # くるけどいいかな？」
+display
+com11 0 0
+sound 10047
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はい！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あまり早く帰ってきても、
+line2 <shift> # 信用してないみたいで、逆効果だろうな）
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （なるべくゆっくりして、かつ、
+line2 <shift> # 時間ピッタリに帰ることができれば……！）
+display
+location 5002
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やよい、この時間に戻ってくるからな」
+display
+location 5005
+com11 0 0
+sound 10051
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「私もがんばりますから、プロデューサーも、
+line2 <shift> # がんばってきて下さいね！！」
+display
+location 5006
+com11 0 0
+sound 10052
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ちょっと長めの用事なんですね！
+line2 <shift> # がんばって待ってまーす！」
+display
+location 5007
+com11 0 0
+sound 10053
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ううー、だいぶ長いですねー。
+line2 <shift> # でも１人で、がんばっておきま〜す！」
+display
+location 5008
+com11 0 0
+sound 10054
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「それじゃあ、いってらっしゃい、
+line2 <shift> # プロデューサー！」
+display
+location 5009
+com11 0 0
+sound 10055
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うわ、結構長いんですね！　プロデューサーも、
+line2 <shift> # 気をつけて用事してきて下さい！」
+display
+location 5010
+com11 0 0
+sound 10056
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「長く１人でいるのは慣れないですけど、
+line2 <shift> # がんばって待ってまーす！」
+display
+location 5011
+com11 0 0
+sound 10057
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ちゃんとレッスンして待ってますから、
+line2 <shift> # 迎えに来て下さいね、プロデューサー」
+display
+location 5012
+com11 0 0
+sound 10058
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あの、いってらっしゃい、プロデューサー。
+line2 <shift> # 私、しっかりと待ってますね！」
+display
+location 5013
+com11 0 0
+sound 10059
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「何だか、ちょっぴり寂しいかも……。
+line2 <shift> # えへへ、でも、がんばってレッスンしてます！」
+display
+location 5014
+com4a 0 0
+com11 0 0
+sound 10060
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うっうー！　プロデューサー、
+line2 <shift> # おかえりなさーい！　るんるるんるるん♪」
+display
+location 5015
+com4a 0 0
+com11 0 0
+sound 10061
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「プロデューサー、おかえりなさい！」
+display
+location 5016
+com4a 0 0
+com11 0 0
+sound 10062
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「おかえりなさい、コウジ……、じゃなかった、
+line2 <shift> # プロデューサー！」
+display
+location 5017
+com4a 0 0
+com11 0 0
+sound 10063
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うわあ！　プロデューサー、
+line2 <shift> # おかえりなさい！　早かったですね！」
+display
+location 5018
+com4a 0 0
+com11 0 0
+sound 10064
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「おかえりなさい、プロデューサー！
+line2 <shift> # えへへ、予定より早かったんですね！」
+display
+location 5019
+com4a 0 0
+com11 0 0
+sound 10065
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あ、プロデューサー、おかえりなさい。
+line2 <shift> # もうこんな時間だったんですね」
+display
+location 5020
+com11 0 0
+sound 10060
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うっうー！　プロデューサー、
+line2 <shift> # おかえりなさーい！　るんるるんるるん♪」
+display
+location 5021
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ははは、元気いっぱいだな。遅くなって、
+line2 <shift> # すまん。で、やよい、結果はどうだった？」
+display
+location 5022
+com11 0 0
+sound 10067
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うう〜、プロデューサー、遅刻です！
+line2 <shift> # 遅刻は、ないしんに響くんですよー」
+display
+location 5023
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「な、内申！？　それはそれで気がかりだが、
+line2 <shift> # やよい、結果はどうだった？」
+display
+location 5024
+com11 0 0
+sound 10068
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あ、プロデューサー！　ふぅ、あんまり
+line2 <shift> # 遅いから、何かあったかと思いました〜」
+display
+location 5025
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか……、心配かけてすまない。
+line2 <shift> # それよりやよい、結果はどうだった？」
+display
+location 5026
+com11 0 0
+sound 10069
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「……時間を守らないのはいけないことだって、
+line2 <shift> # 学校の先生が言ってました」
+display
+location 5027
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ご、ごめん。次は時間を守るから。
+line2 <shift> # それよりやよい、結果はどうだった？」
+display
+location 5028
+com4a 0 0
+com11 0 0
+sound 10070
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あああっ、プロデューサー！　ちょうど、
+line2 <shift> # 終わったところです！　いぇい！」
+display
+location 5029
+com4a 0 0
+com11 0 0
+sound 10071
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「むにゃ……。もうお腹いっぱいです……。
+line2 <shift> # ふにゃっ！　あ、お、おひゃようございまふ！」
+display
+location 5100
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ただいま、やよい。
+line2 <shift> # ところで、オーディションの結果は……？」
+display
+location 5106
+com4a 0 0
+com11 0 0
+sound 10072
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あ、ちょうど始まりますよ！　早く早く！」
+display
+location 5101
+com11 0 0
+sound 10073
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「プロデューサー、１位通過です！
+line2 <shift> # 合格のハイ、ターッチ、いぇい！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「すごいぞ、やよい！　１人でよく頑張ったな。
+line2 <shift> # ＴＶ出演、胸を張って行ってこい！」
+display
+com4a 0 0
+com11 0 0
+sound 10074
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はい！」
+display
+location 5102
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ただいま、やよい。
+line2 <shift> # ところで、オーディションの結果は……？」
+display
+location 5107
+com4a 0 0
+com11 0 0
+sound 10075
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あ、ちょうど始まりますよ！　早く早く！」
+display
+location 5103
+com11 0 0
+sound 10076
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「プロデューサー！　やりました、合格です！
+line2 <shift> # うう〜、感動です！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺はやよいを信じていたぞ！
+line2 <shift> # さあ、ＴＶ出演、胸を張って行ってこい！」
+display
+com4a 0 0
+com11 0 0
+sound 10077
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はい！」
+display
+location 5104
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ただいま、やよい。
+line2 <shift> # ところで、オーディションの結果は……？」
+display
+location 5108
+com4a 0 0
+com11 0 0
+sound 10078
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あ、ちょうど始まりますよ！　早く早く！」
+display
+location 5105
+com11 0 0
+sound 10079
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あ、あう……、ごめんなさい。
+line2 <shift> # 不合格に、なっちゃいました……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「気にするな。また次の機会があるさ！
+line2 <shift> # さあ、事務所に戻ろうっ！」
+display
+com4a 0 0
+com11 0 0
+sound 10080
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「……はいー」
+display
+location 1600
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そういえば、今日は事務所の娘が、
+line2 <shift> # オーディションに参加しているみたいだ）
+display
+com11 0 0
+sound 10081
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「プ、プロデューサー！
+line2 <shift> # あの、さっき控室で……！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もしかして、αのことか？
+line2 <shift> # 事務所の仲間も会場ではライバルだ」
+com03 0 3
+choice1 <shift> # 気合いを入れるんだ！
+line2
+com09 6 65
+com08
+choice2 <shift> # 気にするな
+com09 6 66
+com08
+choice3 <shift> # 勝ちに行くぞ！
+line2
+com09 6 67
+com08
+com07
+com09 6 65
+com08
+display
+location 1601
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「気合いを入れるんだ！」
+display
+location 1610
+com11 0 0
+sound 10082
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はい！　プロデューサー、
+line2 <shift> # それじゃ、いつものお願いします！」
+display
+com4a 0 0
+com11 0 0
+sound 10083
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うっうー、ハイ、ターッチ！　いぇい！
+line2 <shift> # それじゃあプロデューサー、行ってきま〜す！」
+display
+location 1601
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「気合いを入れるんだ！」
+display
+location 1611
+com11 0 0
+sound 10084
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えっ！？　き、気合いを入れる……、
+line2 <shift> # ど、どこに入れたら……！」
+display
+com4a 0 0
+com11 0 0
+sound 10085
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ああ！　もうこんな時間ですー！
+line2 <shift> # い、行ってきまーす！」
+display
+location 1602
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「気にするな。こういうことは、
+line2 <shift> # よくあることだからな」
+display
+location 1612
+com11 0 0
+sound 10086
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はい、わかりました！
+line2 <shift> # 気にすると、失敗しちゃうかもですしね」
+display
+com4a 0 0
+com11 0 0
+sound 10087
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「それじゃあ、プロデューサー、
+line2 <shift> # 行ってきま〜す！」
+display
+location 1602
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「気にするな」
+display
+location 1613
+com11 0 0
+sound 10088
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えっ、気にしないためには、どうしたら、
+line2 <shift> # いいですか？　目を閉じてるとか？」
+display
+com11 0 0
+sound 10089
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「…………」
+display
+com4a 0 0
+com11 0 0
+sound 10090
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ああ！　もうこんな時間ですー！
+line2 <shift> # 行ってきます！」
+display
+location 1603
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「勝ちに行くぞ！」
+display
+location 1614
+com11 0 0
+sound 10091
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はいっ！　一世一代の真剣勝負、
+line2 <shift> # がんばります！」
+display
+com4a 0 0
+com11 0 0
+sound 10092
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「それじゃあ、プロデューサー、
+line2 <shift> # 行ってきま〜す！」
+display
+location 1603
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「勝ちにいくぞ！」
+display
+location 1615
+com11 0 0
+sound 10093
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あうー、そんな簡単に言われても、
+line2 <shift> # 困りますー。準備も、あんまりしてないし……」
+display
+com4a 0 0
+com11 0 0
+sound 10094
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ああ！　もうこんな時間ですー！
+line2 <shift> # い、行ってきます！」
+display
+location 1700
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今回は９６１プロのアイドルがいるから、
+line2 <shift> # いつもより気合いを入れて応援しないと）
+com03 0 3
+choice1 <shift> # フレーフレー！　やよい！
+line2
+com09 6 165
+com08
+choice2 <shift> # 遠くから見守っているぞ！
+line2
+com09 6 166
+com08
+choice3 <shift> # 俺達は一心同体だ！
+line2
+com09 6 167
+com08
+com07
+com09 6 165
+com08
+display
+location 1701
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「フレーフレー！　やよい！」
+display
+location 1710
+com11 0 0
+sound 10095
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あの、私もやります！
+line2 <shift> # フレーフレー！　プロデューサー！」
+display
+com4a 0 0
+com11 0 0
+sound 10096
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「エールの交換ですね。えへへ……。
+line2 <shift> # プロデューサー、一緒にがんばりましょー！」
+display
+location 1701
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「フレーフレー！　やよい！」
+display
+location 1711
+com11 0 0
+sound 10097
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「え？　何をふれば、いいんですか？
+line2 <shift> # は、ハタとか？　そ、それとも手ですか？」
+display
+com4a 0 0
+com11 0 0
+sound 10098
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あうー、もう何が何だかです〜。
+line2 <shift> # あっ、もう時間！　い、行ってきます！」
+display
+location 1702
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やよい、俺は遠くから見守っているぞ！」
+display
+location 1712
+com11 0 0
+sound 10099
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はい！　私、目がいいから、
+line2 <shift> # プロデューサーが遠くでも平気です！」
+display
+com4a 0 0
+com11 0 0
+sound 10100
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えへへ、それじゃ行ってきまーす！」
+display
+location 1702
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やよい、俺は遠くから見守っているぞ！」
+display
+location 1713
+com11 0 0
+sound 10101
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「遠いんですか？
+line2 <shift> # 遠くは寂しいですけど……」
+display
+com4a 0 0
+com11 0 0
+sound 10102
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「でもでも、仕方ないかもです……。
+line2 <shift> # がんばって行って来ます」
+display
+location 1703
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺達は、一心同体だ！」
+display
+location 1714
+com11 0 0
+sound 10103
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「一心合体……？　何だか、
+line2 <shift> # ロボットみたいで、カッコいいですね！」
+display
+com4a 0 0
+com11 0 0
+sound 10104
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「オーディションは、
+line2 <shift> # 合体パワーで、がんばりまーす！」
+display
+location 1703
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺達は、一心同体だ！」
+display
+location 1715
+com11 0 0
+sound 10105
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「一心同体……？
+line2 <shift> # じ、時代劇のことでしょうか！？」
+display
+com4a 0 0
+com11 0 0
+sound 10106
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「私、あんまり詳しくなくて……。
+line2 <shift> # あうう、とにかく行ってきます〜」
+display
+unk02

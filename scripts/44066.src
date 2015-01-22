@@ -1,0 +1,447 @@
+com2c 0 24
+com2d 0 81
+com32 0 0
+com11 0 0
+sound 10000
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサー、ひどいですよぉ〜！
+line2 <shift> # こんなのって、あんまりです！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうしたんだ真、やぶから棒に」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「どうしたんだじゃないですよ！
+line2 <shift> # プロデューサー、わかっててやったんですか？」
+com03 0 3
+choice1 <shift> # まるでわからない
+line2
+com09 0 10
+com08
+choice2 <shift> # 落ち着け、真
+line2
+com09 0 11
+com08
+choice3 <shift> # ああ、わかっていたぞ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まるでわからない。何の話だ？
+line2 <shift> # どうして真は怒っているんだよ？」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「だから……！　あれ？　そういえばボク、
+line2 <shift> # 理由話してませんでしたっけ？」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「落ち着け、真」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「落ち着いてなんていられません！
+line2 <shift> # ボク、もうカンカンです！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だから、そのカンカンの理由を
+line2 <shift> # ちゃんと話してくれないと、わからないよ」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「だから……！　あれ？　そういえばボク、
+line2 <shift> # まだ理由、話してませんでしたっけ？」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、わかっていたぞ」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ひ、ひどい……！　わかっててやったなんて、
+line2 <shift> # プロデューサー、最低です……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ちょ、ちょっと待て！
+line2 <shift> # なんでそんなに落ち込むんだよ？」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「自分の胸に手を当てて、きいてみて下さい。
+line2 <shift> # ボク、なんだかガッカリです……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「えーっと……。実は、わかっていたというのは、
+line2 <shift> # ウソなんだ。だから理由を教えてくれ」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「えーっ！？
+line2 <shift> # もう、なんでウソなんてつくんですか！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「す、すまん。何の話か、わからなかったから、
+line2 <shift> # つい適当に……。で、いったい何なんだ？」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 10008
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ほら、ボク、ＴＶ局開局５０周年記念の、スペ
+line2 <shift> # シャル時代劇に出演が決まったじゃないですか」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ボクが時代劇！？　って、メチャメチャ喜んで
+line2 <shift> # たんですけど、届いた台本を読んでみたら……」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ちょっとストーリーが……。ボク、主人公の息
+line2 <shift> # 子役だし。プロデューサー、どう思いますか？」
+com03 0 3
+choice1 <shift> # 真にぴったりだな
+line2
+com09 0 30
+com08
+choice2 <shift> # 娘役のほうがいいな
+line2
+com09 0 31
+com08
+choice3 <shift> # 主役のほうがいいな
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「真にぴったりじゃないか」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なんだよ、その顔は。りりしくも美しい若武者。
+line2 <shift> # 俺は、この役は真にしかできないと思うがなあ」
+display
+com11 0 0
+sound 10012
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「りりしくも美しい……。それって、
+line2 <shift> # 『カッコかわいい』みたいな感じですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうそう。普通の男性俳優じゃ、難しい役だよ
+line2 <shift> # な。女性である真に、依頼が来るのは当然だよ」
+display
+com11 0 0
+sound 10013
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そっか。ボクが女性だからこそ、この役が回っ
+line2 <shift> # てきたんですね。そういうことか！　へへっ！」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、でも、男役だってことを怒ってるわけじゃ
+line2 <shift> # ないんです。気に入らないのはストーリーで」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ストーリー？
+line2 <shift> # どんな所が気に入らないんだ？」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺は、息子役より、娘役のほうがいいなあ。
+line2 <shift> # 真も、それが不満なんだろ？」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「いえ、そうじゃないです。
+line2 <shift> # 今さら男の子役がイヤだなんて思いません」
+display
+com11 0 0
+sound 10016
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「というか、男の子役っぽいことは、
+line2 <shift> # これまで、さんざんやらされてきましたから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それじゃ、何が不満なんだ？」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺は、息子役より、主役のほうがいいなあ。
+line2 <shift> # もちろん、真も、そこが不満なんだろ？」
+display
+com11 0 0
+sound 10017
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ええっ！？　そ、そうじゃないですよ！
+line2 <shift> # ボク、主役なんて、まだできませんから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、ファンを目の前にした時の、
+line2 <shift> # りりしい真なら、主役もできそうだぞ」
+display
+com11 0 0
+sound 10018
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あれは、あくまでファンサービスですから。
+line2 <shift> # 主役なんてムリムリムリ、ムリですよ〜」
+display
+com11 0 0
+sound 10019
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「普段のボクは、別にりりしくなんかないの、
+line2 <shift> # プロデューサーは良く知ってるじゃないですか」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、そうだな……」
+display
+com11 0 0
+sound 10020
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そうですよ！　それに、息子役だってことには、
+line2 <shift> # そんなに不満はないんです。けど……」
+com09 0 49
+display
+location 49
+com11 0 0
+sound 10021
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「実はですね、お話の中で、ボク……、
+line2 <shift> # 女装するんです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……は？」
+display
+com11 0 0
+sound 10022
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「だから、女装です」
+display
+com11 0 0
+sound 10023
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「主人公である父親を助けるために、お姫様に変
+line2 <shift> # 装して、敵の城に忍び込むシーンがあって……」
+display
+com11 0 0
+sound 10024
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「しかも相手役のセリフが『若様、まるで本物の
+line2 <shift> # おなごのようでござりまするな』ですよ！？」
+display
+com11 0 0
+sound 10025
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「お芝居でも、そんなこと言われるのはくやしい
+line2 <shift> # です。ボクは正真正銘、本物の女の子なのに！」
+com03 0 3
+choice1 <shift> # お姫様役もやれてお得だな
+line2
+com09 0 50
+com08
+choice2 <shift> # セリフを変えさせよう
+line2
+com09 0 51
+com08
+choice3 <shift> # ワガママを言うな！
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「息子役だけじゃなくて、
+line2 <shift> # お姫様役もやれるなんて、お得だな」
+display
+com11 0 0
+sound 10026
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「えっ？　そ、そうですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。そのシーン、かなりの見せ場なんじゃ
+line2 <shift> # ないか？　きっと衣装とかも豪華だろうな」
+display
+com11 0 0
+sound 10027
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「は、はい。確かに、お姫様の衣装は、
+line2 <shift> # スゴイのを着ることになるみたいです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ、お得じゃないか。若様の衣装と
+line2 <shift> # お姫様の衣装、２つ着られるなんてなあ」
+display
+com11 0 0
+sound 10028
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そっか。ボク、普通ならお姫様役なんて来ない
+line2 <shift> # から、これって実は、チャンスなのかも……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お姫様の格好をした真か。
+line2 <shift> # 今から楽しみだな！」
+display
+com11 0 0
+sound 10029
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサー……」
+display
+com11 0 0
+sound 10030
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はいっ、楽しみにしてて下さい！
+line2 <shift> # ガツーンと、かわいく演じてみせますよ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （真は、やる気を取り戻してくれたみたいだ。
+line2 <shift> # 若様もお姫様も、きっちり演じてくれるだろう）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （『ガツーンとかわいく』っていうのが、
+line2 <shift> # どんなものなのか楽しみだな！）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ、セリフを変えさせよう。
+line2 <shift> # 台本を書き換えさせればいいことだしな」
+display
+com11 0 0
+sound 10031
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「えっ？　でも、そんなことしたら、ワガママ
+line2 <shift> # だって思われちゃうんじゃないですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「思われるだろうけど、今や真はトップアイドル
+line2 <shift> # なんだ。それぐらいのワガママ、通せるぞ」
+display
+com11 0 0
+sound 10032
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「で、でも、セリフが変わっても、女装をする
+line2 <shift> # ことに、変わりはないわけですよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なんなら、そこも変えさせるか？
+line2 <shift> # イヤなら出ないぞって言えば、なんとかなる」
+display
+com11 0 0
+sound 10033
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ええっ！？　それはやりすぎですよ！　共演者
+line2 <shift> # やスタッフに、迷惑が、かかっちゃいます」
+display
+com11 0 0
+sound 10034
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「それに、なんだかそれって、
+line2 <shift> # ズルしてるみたいで、イヤです」
+display
+com11 0 0
+sound 10035
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「……やっぱり、ボク、今のままの台本で、
+line2 <shift> # がんばります。せっかくもらった役だし」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （結局、真は、セリフもお話も一切変えずに、
+line2 <shift> # 演じることにしたようだ）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （しかし、真の顔が、少しくもっていたのが
+line2 <shift> # 気になる。言い方が、まずかったかな……）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ワガママを言うな！」
+display
+com11 0 0
+sound 10036
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「えっ！　プロデューサー、
+line2 <shift> # 何も、そんなキツイ言い方、しなくても……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うるさい！　駆け出しのころならともかく、
+line2 <shift> # 真は、もうトップアイドルじゃないか」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「今さら、こんな子どもじみたワガママを
+line2 <shift> # 言うなんて、どうかしているぞ！」
+display
+com11 0 0
+sound 10037
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「それは……。そうですね、プロデューサーの
+line2 <shift> # 言う通りだと思います。すみません」
+display
+com11 0 0
+sound 10038
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「でも、プロデューサーにだけは、
+line2 <shift> # ボクの本当の気持ち、わかってほしくて……！」
+display
+com11 0 0
+sound 10039
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「……いえ、やっぱり、ボクのワガママですね。
+line2 <shift> # すみませんでした。もう言いません」
+display
+com11 0 0
+sound 10040
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はあー。トップアイドルになっても、
+line2 <shift> # やることは、あんまり変わらないんだな」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （真は、がっくりと肩を落としている……。
+line2 <shift> # 言い方、少しキツすぎたかな）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （結局、撮影本番でも真のテンションは上がらず、
+line2 <shift> # 完成したドラマの評判は、さんざんだった）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （もう少し、真の気持ちを考えてあげるべき
+line2 <shift> # だったな……）
+com09 0 69
+display
+location 69
+unk02

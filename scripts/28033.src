@@ -1,0 +1,338 @@
+com2c 0 57
+com2d 0 41
+com32 0 0
+com11 0 4
+sound 800
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「路上で、ライブ……？　本気ですか？
+line2 <shift> # こんなの、まちがってます！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ど、どうしてだ？　アピールするためには、
+line2 <shift> # うってつけだろ？」
+display
+com11 0 4
+sound 801
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「道端じゃ、音の響きが悪いです。どうして私が、
+line2 <shift> # 大切な歌を、おとしめるようなこと……」
+display
+com11 0 4
+sound 802
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「それに、聴きたくない人に、むりやり歌を
+line2 <shift> # 聴かせても、得るものがあるとは、思えません」
+com03 0 3
+choice1 <shift> # 宣伝と、割り切ってくれ
+line2
+com09 0 10
+com08
+choice2 <shift> # 発声訓練には、なるよな？
+line2
+com09 0 11
+com08
+choice3 <shift> # きっと、いい経験になるよ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「宣伝と、割り切ってくれ」
+display
+com11 0 4
+sound 803
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……正直ですね、プロデューサー。
+line2 <shift> # ヘンな言い訳されるより、いいですけど……」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「発声訓練には、なるよな？」
+com09 0 91
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「きっと、いい経験になるよ」
+com09 0 91
+display
+location 91
+com11 0 4
+sound 804
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「目的は……宣伝ですよね？　そんな、とって
+line2 <shift> # つけたような理由……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う……、悪かったよ。認めるから、ここは
+line2 <shift> # 将来のためと思って……」
+com09 0 29
+display
+location 29
+com11 0 4
+sound 805
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「すこし、気持ちを整理する時間をください。
+line2 <shift> # いきなり、こんなこと……。くっ」
+display
+com22 0 30
+com21 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「千早……。そろそろ、いけそうか？
+line2 <shift> # もう準備は出来てるんだが……」
+display
+com11 0 4
+sound 806
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「…………はあ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ほら、背、向けてないでさ……。
+line2 <shift> # こっちを……」
+com0e 1 148
+com44
+com09 0 30
+com45
+com44
+com09 0 31
+com45
+com44
+com09 0 32
+com45
+com44
+com09 0 33
+com45
+com44
+com09 0 34
+com45
+com44
+com09 0 35
+com45
+display
+location 30
+com11 0 4
+sound 807
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あ、はい、そうですね。いつまでも、ここで
+line2 <shift> # 立ち止まっていたって」
+com09 0 49
+display
+location 31
+com11 0 4
+sound 808
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あ、やめてくださいっ。髪、さわってほしく
+line2 <shift> # ないです」
+com09 0 92
+display
+location 32
+com11 0 4
+sound 809
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あ、やめてくださいっ。髪なんて、なでて
+line2 <shift> # ほしくないです。なにを、考えて……」
+com09 0 92
+display
+location 33
+com11 0 4
+sound 810
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「は、やめてくださいっ。そんなところ、
+line2 <shift> # いきなり、さわるなんて」
+com09 0 92
+display
+location 34
+com11 0 4
+sound 811
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はっ、や、やめてくださいっ。そんなところ、
+line2 <shift> # いきなり、なでるなんて。なにを、考えて……」
+com09 0 92
+display
+location 92
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ご、ごめん。振り向いてほしかったから。
+line2 <shift> # どうだ？　腹、くくれそうか？」
+display
+com11 0 4
+sound 812
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……そうですね。いつまでも、ここで
+line2 <shift> # 立ち止まっていたって、しかたないですし」
+com09 0 49
+display
+location 35
+com11 0 4
+sound 813
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はあ……。どうしてもやらなきゃ、先へは
+line2 <shift> # 進めないんですよね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「今は、ガマンしてくれ。人気が出るまでの、
+line2 <shift> # 辛抱だから」
+display
+com11 0 4
+sound 814
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……はい。いつまでも、ここで立ち止まって
+line2 <shift> # いるわけにも、いきませんし」
+com09 0 49
+display
+location 49
+com11 0 4
+sound 815
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ふぅー、行きます！　どうせ歌うなら、
+line2 <shift> # ハンデを吹き飛ばすくらいの、最高の歌を！」
+display
+com11 0 4
+sound 816
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサー、曲数は？
+line2 <shift> # やると決めた以上、私、何曲でも」
+com03 0 3
+choice1 <shift> # １コーラスだけで、ＯＫだ
+line2
+com09 0 50
+com08
+choice2 <shift> # １曲勝負でいこう
+line2
+com09 0 51
+com08
+choice3 <shift> # ５曲、いけるか？
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 2
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「１コーラスだけで、ＯＫだ。
+line2 <shift> # そのかわり、全力投球してくれ」
+display
+com11 0 4
+sound 817
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「たった、それだけで？　わかりました。
+line2 <shift> # なら、そこに、持てる限りの力を！」
+display
+com20 0 30
+com1f 0 30
+com11 0 4
+sound 818
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサー、歌い終わりましたけど、
+line2 <shift> # こんなに、人だかりが……！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「パーフェクトだ！　あんなすごい歌、耳に
+line2 <shift> # したら、立ち止まらない奴はいないよ」
+display
+com11 0 4
+sound 819
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「この条件で、あそこまでできるとは、自分でも
+line2 <shift> # 思わなかったです。囲まれる前に、脱出を！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （インパクト満点、最高の結果だ！　あと少しで
+line2 <shift> # も、長くやらせたら、パニック起きてたかもな）
+com09 0 69
+display
+location 51
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「１曲勝負でいこう。それくらいの方が、
+line2 <shift> # 道行く人も飽きないと思うから」
+display
+com11 0 4
+sound 820
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「わかりました。では、持てる限りの力を、
+line2 <shift> # その１曲に！」
+display
+com20 0 30
+com1f 0 30
+com11 0 4
+sound 821
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサー……。歌い終わりましたけど、
+line2 <shift> # なんです、この人だかり？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あんなすごい歌、聴かされたら、立ち止まら
+line2 <shift> # ない奴はいないよ。にしても、この人数は……」
+display
+com11 0 4
+sound 822
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「大丈夫でしょうか？　向こうの方から、まだ、
+line2 <shift> # たくさん駆けてきてますけど……」
+display
+com11 0 4
+sound 823
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ここまでの、騒ぎになるなんて……。
+line2 <shift> # かえって、まずい気が……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、人波をかき分けて、脱出。宣伝効果は
+line2 <shift> # 満点だったけど、騒動を起こしてしまったな）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「５曲、いけるか？　大変かもしれないけど」
+display
+com11 0 4
+sound 824
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「平気です。やるなら、徹底的にやった方が、
+line2 <shift> # いいと思いますし」
+display
+com11 0 4
+sound 825
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「普段のライブ以上の集中力と、気合で……
+line2 <shift> # この通りを、熱狂の渦に！」
+display
+com20 0 30
+com1f 0 30
+com11 0 4
+sound 826
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサー。なんです？　この人だかり。
+line2 <shift> # まだ２曲しか、歌ってないのに……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、当たり前だ。あんなすごい歌、
+line2 <shift> # 聴かされたら、立ち止まらない奴はいないよ」
+display
+com11 0 4
+sound 827
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「これでは、続けるどころか、下手すると
+line2 <shift> # 暴動に……」
+display
+com11 0 4
+sound 828
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「なんとか、抜け出せますか？　こんな人数が
+line2 <shift> # 押し寄せたら、誰かは大ケガを……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、駆けつけてきた警官に、こっぴどく
+line2 <shift> # しかられた。……一撃離脱にすべきだったか）
+com09 0 69
+display
+location 69
+unk02

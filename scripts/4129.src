@@ -1,0 +1,258 @@
+com2c 0 44
+com2d 0 11
+com11 0 1
+sound 400
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ドラマの主題歌に抜擢されるなんて、
+line2 <shift> # なんだか、夢みたいです！」
+display
+com11 0 1
+sound 401
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ところで、どんなドラマなんですか？
+line2 <shift> # あっ、もしかして内容は内緒なのかなぁ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、俺も仮題しか、きいてないし。
+line2 <shift> # まだ内容は、決まってないんじゃないか」
+display
+com11 0 1
+sound 402
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そうなんですかぁ。
+line2 <shift> # でも、私が、主題歌をやるってことはぁ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだな、春香が主題歌をやるような、
+line2 <shift> # ドラマなんだから……」
+com03 0 3
+choice1 <shift> # 恋愛ドラマだといいな
+line2
+com09 0 10
+com08
+choice2 <shift> # ホームコメディだといいな
+line2
+com09 0 11
+com08
+choice3 <shift> # サスペンスだといいな
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「１０代の女の子が主人公の、
+line2 <shift> # 楽しい雰囲気の恋愛ドラマなんかだといいな」
+display
+com11 0 1
+sound 403
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あ、いいですね、それ！
+line2 <shift> # 私も、そういうドラマ、好きなんです」
+display
+com11 0 1
+sound 404
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そうだなぁ。恋愛ドラマの主題歌だと、
+line2 <shift> # いいなぁ……♪」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ほのぼの明るい、ホームコメディだといいな」
+display
+com11 0 1
+sound 405
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あ、そういうの私、好きなんです。
+line2 <shift> # あったかい感じのドラマって、いいですよね」
+display
+com11 0 1
+sound 406
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ホームコメディの主題歌かぁ……。
+line2 <shift> # どんな風に、歌ったらいいかな？」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ちょっとドキッとするような感じの、
+line2 <shift> # サスペンスドラマなんかがいいな」
+display
+com11 0 1
+sound 407
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そ、そうですか？」
+display
+com11 0 1
+sound 408
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「怖いドラマも嫌いじゃないけど……、私が、
+line2 <shift> # その主題歌を歌って、似合うのかなぁ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「むむむ……。どうだろうね。
+line2 <shift> # ちょっと合わないかも……」
+com09 0 29
+display
+location 29
+com11 0 1
+sound 409
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「うーん、それにしても……、
+line2 <shift> # ドラマ、かぁ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ん、どうした春香？
+line2 <shift> # 何か気になることが、あるのかな？」
+display
+com11 0 1
+sound 410
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あの、プロデューサーさん。私、演技は、
+line2 <shift> # あんまり得意なほうじゃないけど……」
+display
+com11 0 1
+sound 424
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「実は……、そのドラマにちょっぴり、
+line2 <shift> # 出てみたいなあっ！」
+display
+com11 0 1
+sound 412
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「……なーんて言ったら、どうします？
+line2 <shift> # あっ、いえ、たとえば、ですけどぉ♪」
+com03 0 2
+choice1 <shift> # よし、交渉してみよう
+line2
+com09 0 30
+com08
+choice2 <shift> # さすがにムリだろう
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よしわかった、早速交渉してみよう！」
+display
+com11 0 1
+sound 413
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「えっ？　ええっ！？　ほんとにですかっ？
+line2 <shift> # そ、そんな！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ドラマのディレクターに軽く電話して、
+line2 <shift> # きいてみるけど……。ん、嫌なのか？　春香」
+display
+com11 0 1
+sound 414
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あっ、その、まさか……、
+line2 <shift> # 本当に交渉してもらえるとは思わなかったので」
+display
+com11 0 1
+sound 415
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「私、冗談ぽく考えてたから……。ほ、ほんとに、
+line2 <shift> # ドラマに出るようなことになったらっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ははは、とりあえず交渉だけは、してみるよ。
+line2 <shift> # うまくいくかどうかは、お楽しみに」
+display
+com11 0 1
+sound 416
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「はっ、はい！　お願いしますっ！
+line2 <shift> # わわ、どうしよう、どきどきですね……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （顔赤くして動揺してるけど、
+line2 <shift> # 春香は、ちょっぴり期待してるみたいだ）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （気持ちは裏切りたくないよな……、よし！
+line2 <shift> # できる限りのことはしてやろう）
+com09 0 99
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうかな。さすがにそれは
+line2 <shift> # ムリなんじゃないかなぁ……」
+display
+com11 0 1
+sound 425
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そ、そうですよね。いきなり、
+line2 <shift> # こんなこと言っても、ムリですよねぇ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうしても、出たいか？　なんなら、
+line2 <shift> # ドラマのディレクターに連絡とってみようか」
+display
+com11 0 1
+sound 418
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そ、そんな！　申し訳ないですよぉ！」
+display
+com11 0 1
+sound 419
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「私、歌なら少しはできるようになったかもしれ
+line2 <shift> # ないけど……、他のことは、からきしだから」
+display
+com11 0 1
+sound 426
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「元々、ちょっとした思い付きだし、
+line2 <shift> # そんなに、ムリしてもらうことじゃ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、せっかくだし、やるだけやってみるのも、
+line2 <shift> # いいんじゃないか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もしかしたら、ファンだった俳優と、
+line2 <shift> # 共演なんてことにも、なるかもしれないぞ」
+display
+com11 0 1
+sound 427
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ええっ！？　そんな、ドラマに出るだけでも、
+line2 <shift> # どきどきな話なのに……」
+display
+com11 0 1
+sound 428
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そんなことになったら、もうあがっちゃって、
+line2 <shift> # どうなっちゃうか、わかんないですよぉ！」
+display
+com11 0 1
+sound 422
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あはは……、冗談です、冗談♪　ドラマのこと
+line2 <shift> # は、もう忘れて下さい、プロデューサーさん」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それなら、まぁ……、わかった。
+line2 <shift> # 春香がそう言うなら、忘れるよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （でも、春香は、心なしか残念そうだ）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （自信がなくても、気持ちとしてはやりたかった
+line2 <shift> # のかも。もっと後押しすべきだったかな……）
+com09 0 99
+display
+location 99
+unk02

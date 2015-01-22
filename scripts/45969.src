@@ -1,0 +1,293 @@
+com2c 0 24
+com2d 0 81
+com32 0 0
+com11 0 4
+sound 1400
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサー、聞いてくださいよっ。
+line2 <shift> # 新記録、新記録ー！」
+display
+com11 0 4
+sound 1401
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ボクあてのファンレター、ついに３通を
+line2 <shift> # 突破したんです！　へへっ、やーりぃ！」
+com03 0 3
+choice1 <shift> # すごいなっ！
+line2
+com09 0 10
+com08
+choice2 <shift> # そりゃ、よかったな
+line2
+com09 0 11
+com08
+choice3 <shift> # すごすぎるなっ！
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「すごいなっ！」
+display
+com11 0 4
+sound 1402
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「でしょ〜これでやっと新人卒業ですね。
+line2 <shift> # ランクＥにあがった効果、早速出てきました！」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そりゃ、よかったな」
+display
+com11 0 4
+sound 1403
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「もっと、よろこんでくださいよ〜。
+line2 <shift> # せっかく、報告にきたのに……」
+display
+com11 0 4
+sound 1404
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「これでやっと、新人を卒業って感じですよね！
+line2 <shift> # ランクＥにあがった効果、早速出てきました！」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「すごすぎるなっ！」
+display
+com11 0 4
+sound 1405
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ちょっと……大げさじゃないですか？　３通で
+line2 <shift> # すごすぎるとは、思いませんけど……」
+display
+com11 0 4
+sound 1406
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「でも、これでようやく、新人卒業ですね。
+line2 <shift> # ランクＥにあがった効果、早速出てきました！」
+com09 0 29
+display
+location 29
+com11 0 4
+sound 1407
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「よーし、これから、もっとがんばって、
+line2 <shift> # 有名に……！　あ、でも、そうすると……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ん、急に、どうしたんだ？　なにか、
+line2 <shift> # 気がかりでも？」
+display
+com11 0 4
+sound 1408
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「い、いつかは親にバレちゃうかなって。じつは、
+line2 <shift> # アイドルやってるって、言ってないんですよね」
+display
+com11 0 4
+sound 1409
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「とくに父さんは、ボクを男っぽく育てようと
+line2 <shift> # してるから、とても言えなくて。あはは……」
+com03 0 3
+choice1 <shift> # この先、大変そうだな
+line2
+com09 0 30
+com08
+choice2 <shift> # 話した方が、よくないか？
+line2
+com09 0 31
+com08
+choice3 <shift> # 今日、帰ったら、話せ！
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「この先、大変そうだな」
+display
+com11 0 4
+sound 1410
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「か、覚悟の上です。それでも今は、こうして
+line2 <shift> # おくのが、一番いいと思うんで……」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「話した方が、よくないか？」
+display
+com11 0 4
+sound 1411
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「それは、許してください〜。こんなこと
+line2 <shift> # 話したら、大ゲンカになっちゃいます！」
+display
+com11 0 4
+sound 1412
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「今は、このままが一番いいと思うんです。
+line2 <shift> # いざとなったら、ハラくくりますけど……」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「今日、帰ったら、話せ！」
+display
+com11 0 4
+sound 1413
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「イヤですよ〜！　そんなことしたら、
+line2 <shift> # 今日限りで、サヨナラになっちゃいます！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、それは困るな。でも、黙ったままって
+line2 <shift> # ワケにも、いかないだろ？」
+display
+com11 0 4
+sound 1414
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「いざとなったら、ハラくくります。でも、
+line2 <shift> # 今はこのままが、一番いいと思うんです」
+com09 0 49
+display
+location 49
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「で、親には、出かける時、なんて言って
+line2 <shift> # きてるんだ？」
+display
+com11 0 4
+sound 1415
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「運送屋で、バイトしてるコトにしてるんです。
+line2 <shift> # 父さんも『それなら、許す』って」
+display
+com11 0 4
+sound 1416
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ありえないとは思いますけど、万が一、家から
+line2 <shift> # 連絡があったら、話、合わせてもらえますか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「しかたないな。
+line2 <shift> # わかったよ。そのかわり……」
+com03 0 3
+choice1 <shift> # 荷物運び、手伝ってくれる？
+line2
+com09 0 50
+com08
+choice2 <shift> # いつかは、話すんだぞ？
+line2
+com09 0 51
+com08
+choice3 <shift> # しくじったら、ごめんな
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「荷物運び、手伝ってくれる？　別の部屋に
+line2 <shift> # 移さなきゃいけない物が、あるんだけど」
+display
+com11 0 4
+sound 1417
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「お安いご用です！　へへ〜、だってボク、
+line2 <shift> # 運送屋ですから！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いいのか？　けっこう重いし、量もあるけど」
+display
+com11 0 4
+sound 1418
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「任せてくださいっ！　新人から脱出したボクの
+line2 <shift> # 力、見せてあげます！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （気持ちよく、手伝ってくれた！　このチーム
+line2 <shift> # ワークで、さらに上を、めざしていきたいな）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いつかは、話すんだぞ？」
+display
+com11 0 4
+sound 1419
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「『いつかは』で、よければ、もちろん！
+line2 <shift> # な、何十年か後でも、いいわけですよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そこまで、遅らせるのは、ムリだろ？
+line2 <shift> # もっと有名になってもらわきゃ、困るし」
+display
+com11 0 4
+sound 1420
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「それも、そうか……。有名になっても、
+line2 <shift> # 知られない方法、考えておいた方が……」
+display
+com11 0 4
+sound 1421
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「口封じ……？　って、誰の口を……？
+line2 <shift> # あああ、そんなのムリだよな〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ひとりで悩み、ひとりで突っ込んでいる。
+line2 <shift> # まあ、放っておくか。本人の問題だしな）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「しくじったら、ごめんな」
+display
+com11 0 4
+sound 1422
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そんなこと、言わないでくださいよ〜！
+line2 <shift> # しくじられたら、困るんです〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、電話とかかかってきたら、いきなり
+line2 <shift> # 『運送屋です』って、言うわけには……」
+display
+com11 0 4
+sound 1423
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そこを、なんとか！　あ、ボクの父さんと
+line2 <shift> # 母さんの声、吹き込んだテープ、持ってきます」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなの、持ってきて、どうするんだ？」
+display
+com11 0 4
+sound 1424
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ほら、聞いておけば、いきなり運送屋のフリ、
+line2 <shift> # できますよね？　そ、そうしましょう！　ね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （メチャクチャなコトを言いながら、震えている。
+line2 <shift> # おどかすような事、言わなきゃよかったか……）
+com09 0 69
+display
+location 69
+unk02

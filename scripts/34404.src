@@ -1,0 +1,457 @@
+com2c 0 57
+com2d 0 61
+com32 0 0
+com11 0 0
+sound 0
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「あ……プロデューサー。
+line2 <shift> # 今から事務所に戻るところですか……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あれ、雪歩。先に戻ってると思ってたのに、
+line2 <shift> # こんな所で何やってるんだ？」
+display
+com11 0 0
+sound 1
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ちょうどいいところで、お会いできたかも
+line2 <shift> # です。あの……これ、良かったらどうぞ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「これって……トイレットペーパー？　雪歩、
+line2 <shift> # こういうの配る、バイトしてるのか！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも普通、道で配ってるのはティッシュだな。
+line2 <shift> # トイレットペーパー配りって、変わってるなあ」
+display
+com11 0 0
+sound 2
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「あ、ち、違います。バイトじゃないですぅ。
+line2 <shift> # ただ、たくさんあるから、おすそわけです」
+com03 0 3
+choice1 <shift> # ありがとう、うれしいよ
+line2
+com09 0 10
+com08
+choice2 <shift> # ちょうど腹の具合が……
+line2
+com09 0 11
+com08
+choice3 <shift> # ……いや、いらない
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ありがとう、うれしいよ」
+display
+com11 0 0
+sound 3
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「いえ、こちらこそ助かりましたぁ。
+line2 <shift> # 段ボール一箱分もあって、困ってたんです」
+display
+com11 0 0
+sound 4
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「私このまま、トイレットペーパーに
+line2 <shift> # 埋もれていくのかなって思ってたので……」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ちょうど腹の具合がよくなくて……。
+line2 <shift> # 助かるよ、雪歩。気がきくなあ」
+display
+com11 0 0
+sound 5
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「あ、そう言ってもらえると嬉しいです……。
+line2 <shift> # でも、早くお腹、治して下さいね？」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、いらない……」
+display
+com11 0 0
+sound 6
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「あ……そうですよね、ごめんなさい。
+line2 <shift> # やっぱり私が全部持って帰ります」
+display
+com11 0 0
+sound 7
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「でも段ボール一箱、持って帰れるでしょうか。
+line2 <shift> # 意外と重いし、どうすれば？　うう……」
+display
+com11 0 0
+sound 8
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ぐすっ。こんなにいっぱい、トイレの紙……。
+line2 <shift> # トイレの紙ばっかり……、あうう」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なんでまた、そんなにたくさん、
+line2 <shift> # トイレットペーパーを持ってるんだ？」
+display
+com11 0 0
+sound 9
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「実はこれ、全部福引きで当てたんですよ。
+line2 <shift> # 当てたというか、これしか当たらないというか」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、全部ハズレってことか。
+line2 <shift> # で、欲しかったのは別の物なんだな？」
+display
+com11 0 0
+sound 10
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「はい。本当は５等が欲しかったんです。
+line2 <shift> # でも、ちっとも当たらなくて……」
+display
+com11 0 0
+sound 11
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「やっぱり私なんかが、５等を当てようなんて、
+line2 <shift> # 夢見すぎなんでしょうか……？」
+com03 0 3
+choice1 <shift> # 確率の問題だから
+line2
+com09 0 30
+com08
+choice2 <shift> # そういう運命なんだろう
+line2
+com09 0 31
+com08
+choice3 <shift> # 日頃の行いが……
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「確率の問題だからな。
+line2 <shift> # 当たり玉の、何倍ハズレが入っているか……」
+display
+com11 0 0
+sound 12
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「あ、そうですよね。私の運が、
+line2 <shift> # 特別悪いわけじゃ、ないですよね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そりゃそうさ。誰がやったって、
+line2 <shift> # そうそう当たるもんじゃない」
+display
+com11 0 0
+sound 13
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「よかったぁ。私の運がダメダメなせいかと
+line2 <shift> # 思っちゃいました……」
+display
+com11 0 0
+sound 14
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「プロデューサーのおかげで、
+line2 <shift> # ちょっとだけ元気でてきたかも……」
+com09 0 39
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そういう運命なんだろう」
+display
+com11 0 0
+sound 15
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「やっぱり私、なにをやってもダメなんですね。
+line2 <shift> # こんな私ですみません、ううっ、ぐすっ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、たかが福引きで、そんなに深く
+line2 <shift> # 考え込まなくてもいいんじゃないか？」
+com09 0 39
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「日頃の行いが、悪いのかもしれないな」
+display
+com11 0 0
+sound 16
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「私の日頃の行いが……？　いつも泣いてばかり
+line2 <shift> # いるダメな子だから、ダメってことですかぁ？」
+display
+com11 0 0
+sound 17
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「私がいつもダメダメだから、福引きでも
+line2 <shift> # トイレットペーパーしか当たらないんだ」
+display
+com11 0 0
+sound 18
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ううっ、ぐすっ。
+line2 <shift> # プロデューサー、雪歩は悪い子です……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じ、冗談だってば！
+line2 <shift> # 雪歩は悪い子なんかじゃないよ！」
+display
+com11 0 0
+sound 19
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「いえ、当たっていると思います。
+line2 <shift> # いつもプロデューサーに迷惑ばかりかけて……」
+com09 0 39
+display
+location 39
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それより、なにかお目当ての賞品が
+line2 <shift> # あったんだろう？　何を狙ってたんだ？」
+display
+com11 0 0
+sound 20
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「あ、はい。５等のお茶セットです。
+line2 <shift> # でも、なかなか当たらなくて……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お茶セットか、雪歩らしいな」
+display
+com11 0 0
+sound 21
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「限定生産のお茶詰め合わせセット、
+line2 <shift> # プレミアム・エディションなんです」
+display
+com11 0 0
+sound 22
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「この機会を逃せば、もう二度と
+line2 <shift> # 手に入れることはできないらしいです……」
+display
+com11 0 0
+sound 23
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「あのぅ、プロデューサー。
+line2 <shift> # 実はまだ、福引き券が残ってるんです」
+display
+com11 0 0
+sound 24
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「これが最後の１枚で……。プロデューサー、
+line2 <shift> # 私のかわりに、引いてくれませんか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そりゃいいけど。
+line2 <shift> # でも、俺が引いても、当たりが出るとは……」
+display
+com11 0 0
+sound 25
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「それでもいいんです。おまかせします。
+line2 <shift> # でも、できれば５等のお茶セットを……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よーし、わかった。
+line2 <shift> # ５等を狙えばいいんだな？」
+display
+com11 0 0
+sound 26
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「お願いします、プロデューサー。
+line2 <shift> # なんとか、５等のお茶セットを……！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （雪歩が本気で欲しがっているお茶だ。
+line2 <shift> # なんとしても、当たりを引いてやる！）
+com03 0 3
+choice1 <shift> # （無心で）回す！
+line2
+com09 0 40
+com08
+choice2 <shift> # （念を込めて）回す！
+line2
+com09 0 40
+com08
+choice3 <shift> # （全身全霊で）回す！
+line2
+com09 0 40
+com08
+com07
+com09 0 41
+com08
+display
+location 40 131 75 131 137 131 75 131 137 129 99 129 99
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし！　手応えあり！」
+com37 0 1
+com1e 0 0
+com09 0 47
+com3b
+com37 0 0
+com1e 0 0
+com09 0 48
+com3b
+display
+location 41 131 75 131 137 131 75 131 137 129 99 129 99
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし！　手応えあり！」
+com09 0 49
+display
+location 47
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「緑色の玉……これは？」
+display
+com11 0 0
+sound 27
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ああっ、当たりです！
+line2 <shift> # ５等のお茶セットが当たりました！」
+display
+com11 0 0
+sound 28
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「やっぱりプロデューサーはすごいですぅ！
+line2 <shift> # ありがとうございました！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、喜んでくれて、俺も嬉しいよ！」
+display
+com11 0 0
+sound 29
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「そうだ、このお茶、一緒に飲みませんかぁ？
+line2 <shift> # 私、事務所でいれますから……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いいのか？
+line2 <shift> # せっかく当たったお茶セットなのに」
+display
+com11 0 0
+sound 30
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「もちろんです。せっかく当たったんだから、
+line2 <shift> # 飲まないともったいないですよ」
+display
+com11 0 0
+sound 42
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「あっ。お茶うけの和菓子も、買って行きましょ
+line2 <shift> # う。お礼に私が、ごちそうしますから……」
+display
+com11 0 0
+sound 43
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「良いお茶に、お菓子。
+line2 <shift> # そして隣には、プロデューサーかぁ……」
+display
+com11 0 0
+sound 33
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ふふっ、なんだかとっても幸せ気分です。
+line2 <shift> # あー、プロデューサーに会えてよかったぁ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （雪歩は、信頼にあふれた目で俺を見ている。
+line2 <shift> # これが、仕事に好影響を与えるといいな）
+com4b 0 0
+com09 0 59
+display
+location 48
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「青色の玉……これは？」
+display
+com11 0 0
+sound 34
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ああっ、惜しい！　４等です。
+line2 <shift> # えーと、４等は……」
+display
+com11 0 0
+sound 35
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「がーん！　４等は、
+line2 <shift> # トイレットペーパー１年分だそうです……」
+display
+com11 0 0
+sound 36
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「こ、困りましたぁ。
+line2 <shift> # どうしましょう、プロデューサー？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、ウチの事務所の広告を入れて、宣材
+line2 <shift> # にでもするとか……？　ムリだよなあ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （大量のトイレットペーパーの置き場所に、
+line2 <shift> # しばらく頭を悩まされそうだ……）
+com4b 0 2
+com09 0 59
+display
+location 49
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「赤色の玉……これは？」
+display
+com11 0 0
+sound 37
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ああ、またトイレットペーパーです。
+line2 <shift> # やっぱり、私の運はその程度……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そんなに落ち込むなよ！
+line2 <shift> # 仕事じゃ、ないわけだし」
+display
+com11 0 0
+sound 38
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「でも、トップアイドルになるには、
+line2 <shift> # 運も必要じゃないですかぁ……」
+display
+com11 0 0
+sound 39
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「それが私には欠けているのかも……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、今は俺が引いたから、俺の運だ。
+line2 <shift> # 雪歩が気にすることじゃないぞ！」
+display
+com11 0 0
+sound 40
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「いいえ……、お願いしたのは私です。
+line2 <shift> # だから、私の運が悪いんですぅ……」
+display
+com11 0 0
+sound 41
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ああ……悲しくなってきました。
+line2 <shift> # あ、このトイレ紙で、涙をふこうかなぁ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （雪歩は、ずーんと落ち込んでしまった。
+line2 <shift> # やっぱり俺のせいだよな……）
+com4b 0 2
+com09 0 59
+display
+location 59
+unk02

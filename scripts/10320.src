@@ -1,0 +1,286 @@
+com2c 0 95
+com2d 0 21
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「い、伊織の家の庭で……ミーティング
+line2 <shift> # なのか？」
+display
+com11 0 2
+sound 1100
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そーよ。野外っていうのも、いいでしょ？
+line2 <shift> # 後で、パパにもちゃーんと会わせてあげる」
+display
+com11 0 2
+sound 1101
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「新堂ーっ！　お茶とお菓子ー！　ねえ、
+line2 <shift> # ザッハトルテとダックワーズ、どっちが好き？」
+com03 0 3
+choice1 <shift> # ダックワーズ
+line2
+com09 0 10
+com08
+choice2 <shift> # ザッハトルテ
+line2
+com09 0 11
+com08
+choice3 <shift> # イモヨウカン
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ダックワーズ」
+display
+com11 0 2
+sound 1102
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「あら、気が合うわね。やっぱりお茶には、
+line2 <shift> # フランス菓子が一番よね♪」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ザッハトルテ」
+display
+com11 0 2
+sound 1103
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「あんた……意外と甘党なのね。お茶に
+line2 <shift> # チョコ菓子なんて……」
+display
+com11 0 2
+sound 1104
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「じゃ、あんたはザッハトルテ、私はダック
+line2 <shift> # ワーズね♪」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「イモヨウカン」
+display
+com11 0 2
+sound 1105
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ぐ……とことんムチャな注文したいわけね。
+line2 <shift> # ……ないと思ってるんなら、甘いわ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あるのか？」
+display
+com11 0 2
+sound 1106
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「当たり前でしょ！　イモヨウカンでも、
+line2 <shift> # クズきりでも、好きな物、出してあげる……」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……それにしても、すごい豪邸だな。
+line2 <shift> # 庭の広さもハンパじゃないし……」
+display
+com11 0 2
+sound 1107
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「かたくなることないわよ。家は家だし、庭は庭。
+line2 <shift> # えらくも、なんともないんだから……」
+display
+com11 0 2
+sound 1108
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「私にとっては、ここはつまんない場所。どんな
+line2 <shift> # すごくたって、ぜーんぶ、パパの物だもん」
+display
+com11 0 2
+sound 1109
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「物は、自分で手に入れるから、おもしろいの。
+line2 <shift> # 私、アイドルやって、そう気づいたわ！」
+com03 0 3
+choice1 <shift> # たしかに、そうかもな
+line2
+com09 0 30
+com08
+choice2 <shift> # おおむね、満足した？
+line2
+com09 0 31
+com08
+choice3 <shift> # 理解できないなあ……
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「たしかに、そうかもな」
+display
+com11 0 2
+sound 1110
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「自分で欲しいと思った物を、自分でつかむ！
+line2 <shift> # これが、やっぱり最高よねっ」
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おおむね、満足した？」
+display
+com11 0 2
+sound 1111
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ふふっ、そんなわけないでしょ！　私は、
+line2 <shift> # もっともっと高いとこに行きたいの！」
+display
+com11 0 2
+sound 1112
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「この程度で満足するほど、お手軽じゃないわ。
+line2 <shift> # まだまだ、いくらでもつかめるんだからっ」
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「理解できないなあ……」
+display
+com11 0 2
+sound 1113
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「あんたは、はじめからなにも持ってないから、
+line2 <shift> # そう思えるのよ……」
+display
+com11 0 2
+sound 1114
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「欲しくもないのに、ゴロゴロ転がってる物
+line2 <shift> # なんて、サイテーなんだから」
+com09 0 49
+display
+location 49
+com11 0 2
+sound 1115
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「やっと、パパのものでも、ママのものでもない
+line2 <shift> # 物を、手に入れたわ……」
+display
+com11 0 2
+sound 1116
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「私の歌、私の仕事、私の仲間……。
+line2 <shift> # わ、私の……プロデューサーもね……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺やまわりのスタッフは……家や庭と同じ、
+line2 <shift> # 所有物か？」
+display
+com11 0 2
+sound 1117
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「他のみんなはともかく……あんたはそう！
+line2 <shift> # …………な、なーに、イヤなわけ？」
+com03 0 3
+choice1 <shift> # いや、うれしいよ
+line2
+com09 0 50
+com08
+choice2 <shift> # いえ、光栄です
+line2
+com09 0 51
+com08
+choice3 <shift> # じゃ、雇い主変更だな
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、うれしいよ」
+display
+com11 0 2
+sound 1118
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そう……。な、なら、パパと話す時、ヘンな
+line2 <shift> # ミスするんじゃないわよ……」
+display
+com11 0 2
+sound 1119
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「とにかく、心象よくねっ！　でないと、また
+line2 <shift> # ケンカになるから……。じゃ、呼んでくる！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （多分、よろこんでるんだよな？　……パパの
+line2 <shift> # 心象がなんで関係あるのかは、謎だけど）
+com09 0 69
+display
+location 51
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いえ、光栄です」
+display
+com11 0 2
+sound 1120
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「や、やめてよね……その口調……。なんか
+line2 <shift> # めしつかいみたいじゃないのよ〜」
+display
+com11 0 2
+sound 1121
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そういう機械的なのじゃなくて……もっと
+line2 <shift> # こう……」
+display
+com11 0 2
+sound 1122
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「…………なに言ってのよ、私。バカみたい」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （急にうつむいてしまった。別に、手下みたいな
+line2 <shift> # 返事しなくても、よかったかな）
+com09 0 69
+display
+location 52
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃ、雇い主変更だな。伊織から、給料
+line2 <shift> # もらうか」
+display
+com11 0 2
+sound 1123
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「えっ？　ま、まあいいけど……。で、でも私、
+line2 <shift> # あんたの上司やボスになりたいわけじゃ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「給料払ってくれないのに、所有物なのか？」
+display
+com11 0 2
+sound 1124
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「く、くぅ〜、そうよ！　あんたは無料で死ぬ
+line2 <shift> # まで、私に奉仕する小間使いなのっ！」
+display
+com11 0 2
+sound 1125
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「…………ふんっ、イヤならイヤって言えば
+line2 <shift> # いいじゃないっ。……死んじゃえー！！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （突然、大荒れムードになってしまった……。
+line2 <shift> # そんなに機嫌をそこねること、言ったかな？）
+com09 0 69
+display
+location 69
+unk02

@@ -1,0 +1,261 @@
+com2c 0 24
+com2d 0 71
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「『歌唱に、もうちょっと安定性がほしい……』
+line2 <shift> # と、例によって社長から通達が来ているぞ」
+display
+com11 0 2
+sound 100
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「もうちょっとの安定性か……。う〜ん確かに、
+line2 <shift> # 時々奇跡的に、すごい歌ができるんだけど……」
+display
+com11 0 2
+sound 101
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「でも、いつもうまくいくわけじゃないからなぁ。
+line2 <shift> # コツをなんとか、モノにしたいな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、ならば、さっそく特訓だ！」
+display
+com11 0 2
+sound 102
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ええ〜っ。と、特訓〜っ！？
+line2 <shift> # またまた、そんな……。気が進まないな」
+display
+com11 0 2
+sound 103
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「だいたい、どんな特訓なんです？」
+com03 0 3
+choice1 <shift> # 基礎トレの強化だ
+line2
+com09 0 10
+com08
+choice2 <shift> # 気合いと根性で……
+line2
+com09 0 11
+com08
+choice3 <shift> # これから考えるけど
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そりゃもちろん、基礎トレーニングの強化だ」
+display
+com11 0 2
+sound 104
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「これ以上、強化するんですか？」
+display
+com11 0 2
+sound 105
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「トレーニング自体は、じゅうぶん、
+line2 <shift> # 足りてると思うけどなぁ。量も、内容も」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そりゃ、気合いと根性で、
+line2 <shift> # ハードトレーニングをだな……」
+display
+com11 0 2
+sound 106
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「やたらに厳しく、なにかをすれば上達する、
+line2 <shift> # ってわけでも、ないでしょうに」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「むむ、そうかな。そうだな……。
+line2 <shift> # あまりにハードだと、疲れがたまるか」
+display
+com11 0 2
+sound 107
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「普通のトレーニングを、念入りにやったほうが、
+line2 <shift> # いいんじゃないかなぁ？」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そりゃ……、これから考えるけど」
+display
+com11 0 2
+sound 108
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「これから？　いい加減だなぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「弱点を見つけ出して、対策練らなきゃだろ？
+line2 <shift> # テキトーな思いつきで、やるわけにはいかない」
+display
+com11 0 2
+sound 109
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「それはそうだけど……。
+line2 <shift> # 弱点強化よりは、長所を伸ばしたらどうかな？」
+display
+com11 0 2
+sound 110
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「コツさえつかめれば、調子のいいときの歌が、
+line2 <shift> # いつでもできるかもしれないんだから」
+com09 0 29
+display
+location 29
+com11 0 2
+sound 111
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「とにかく、無闇な特訓には、
+line2 <shift> # 私、賛成できかねるかな」
+display
+com11 0 2
+sound 112
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そもそも、スケジュールが、
+line2 <shift> # もう、ぎっちりなんだし」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、何かしたほうが、いいだろう？」
+display
+com11 0 2
+sound 113
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「もちろん、何もしないわけじゃないけど、
+line2 <shift> # メインの仕事の負担にならない方法がいいな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「負担にならない解決方法ねぇ……。
+line2 <shift> # なにかあるだろうか？」
+display
+com11 0 2
+sound 114
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そうだ！　科学の力で、なんとかしたら？」
+display
+com11 0 2
+sound 115
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「録音した歌声を機械できれいに修正したり……。
+line2 <shift> # 最近は、簡単にできるんでしょ？　そういうの」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「整音か。しかし、それって歌の強化というより、
+line2 <shift> # 録音技術の問題じゃ……？　解決になるのか？」
+display
+com11 0 2
+sound 116
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「整った音が好きなお客も、今は多いわけだし。
+line2 <shift> # 技術で歌を直しても、別に問題はないですよ」
+com03 0 2
+choice1 <shift> # それより歌の科学的特訓を
+line2
+com09 0 30
+com08
+choice2 <shift> # よし、整音を極めよう
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、それより、歌の、
+line2 <shift> # 科学的な特訓方法を探してみないか？」
+display
+com11 0 2
+sound 117
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「科学的特訓〜？　ど、どんな？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「マイクに効果的にのる声の出し方を研究するん
+line2 <shift> # だよ。発声や響かせ方にコツがあるに違いない」
+display
+com11 0 2
+sound 118
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「つまり音声学とか音響のこと？　そっか、
+line2 <shift> # 歌の『コツ』を分析してやろうってことね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そのとおり。がむしゃらな特訓よりは、
+line2 <shift> # 意味があるぞ。整音との相乗効果も期待できる」
+display
+com11 0 2
+sound 119
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「なるほど。それなら、隙ナシですね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （知識欲に火がついたかな？　前向きに歌の改善
+line2 <shift> # に取り組んでくれそうだ。期待しよう！）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、ならば整音技術を極めよう」
+display
+com11 0 2
+sound 120
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「き、極めるって言うと、なんだかうちらが、
+line2 <shift> # エンジニアになるみたいな感じよね……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「しかし、せめて耳はよくないと、科学の力での、
+line2 <shift> # 歌の修正とやらも、うまくいかないだろうな」
+display
+com11 0 2
+sound 121
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「それはそうか。それと、エンジニアと仲良く、
+line2 <shift> # スムーズに仕事するためにも、知識も必要よね」
+display
+com11 0 2
+sound 122
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「機材の扱い方覚えたり、ミックスした音の、
+line2 <shift> # 聞き分けの練習もしようかな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだな。そう考えると、
+line2 <shift> # きちんと整音するのも、なかなか大変だな……」
+display
+com11 0 2
+sound 123
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「意外と、やらなきゃならないことが多いですね。
+line2 <shift> # 楽は、できないってことか」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ＯＫ、決まりだ。さっそく特訓しよう！」
+display
+com11 0 2
+sound 124
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「うわっ。結局、特訓なのっ！？　仕方ないな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （律子は、渋々ながら、
+line2 <shift> # ミックス音の聞き分けの、特訓を始めた）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （こりゃ、整音をマスターするまでは、相当長く、
+line2 <shift> # かかりそうだな……。しかし、頑張ってみるか）
+com09 0 49
+display
+location 49
+unk02

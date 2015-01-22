@@ -1,0 +1,282 @@
+com2c 0 40
+com2d 0 81
+com32 0 0
+com11 0 1
+sound 500
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「今日は、腕時計のＣＭタレントかー。ここの
+line2 <shift> # ところ、ＣＭの格もグーンとアップですね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。高級ブランドの男女兼用モデルだから、
+line2 <shift> # なるべくスマートに、決めてくれよな」
+display
+com11 0 1
+sound 501
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「わかってます！　あ、宣伝する時計の値段、
+line2 <shift> # 聞きました？　２０万円近く、するらしいです」
+display
+com11 0 1
+sound 502
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そんなの、実際、買ってつける人がいるなんて、
+line2 <shift> # 信じられないよな〜」
+com03 0 3
+choice1 <shift> # 真にだって、買えるだろ？
+line2
+com09 0 10
+com08
+choice2 <shift> # 真は、どんな時計、好きなんだ？
+line2
+com09 0 11
+com08
+choice3 <shift> # 真には、早すぎる、か
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「真にだって、買えるだろ？」
+display
+com11 0 1
+sound 503
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「まあ、買おうと思えば。プロデューサーが
+line2 <shift> # たくさん仕事、もってきてくれるから……」
+display
+com11 0 1
+sound 504
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「でも、時計よりも、どんな時間過ごしてるかの
+line2 <shift> # 方が、大切ですよね！」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「真は、どんな時計、好きなんだ？」
+display
+com11 0 1
+sound 505
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「じつは、あんまり腕時計って、しないんです
+line2 <shift> # よね。してると、汗かいちゃうから……」
+display
+com11 0 1
+sound 506
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「それに、どんなすごい時計してたって、時間
+line2 <shift> # 自体が楽しくなるわけじゃないし。あはは」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「真には、早すぎる、か」
+display
+com11 0 1
+sound 507
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「早いもなにも、ないです〜。ボク、こんな時計、
+line2 <shift> # 将来も、絶対に買う気……！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、おい！　小さな声でな」
+display
+com11 0 1
+sound 508
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あああ、すみません。でも、時計より、どんな
+line2 <shift> # 時間過ごすかの方が大事ですよね。あはは……」
+com09 0 29
+display
+location 29
+com11 0 1
+sound 509
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ふぅ、それにしても、最近、時間、ものすごい
+line2 <shift> # 勢いで、かっ飛んでるよなあ……」
+display
+com11 0 1
+sound 510
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「朝起きて、仕事仕事仕事、そんで、バッタン。
+line2 <shift> # もう、目まわりそうです。グルグルグルって」
+com03 0 2
+choice1 <shift> # きつすぎる時は、言えよ
+line2
+com09 0 30
+com08
+choice2 <shift> # 時計の針みたいに、か？
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「きつすぎる時は言えよ。倒れられたら、
+line2 <shift> # 元も子もないから」
+display
+com11 0 1
+sound 511
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ありがとうございます。でも、そう言われると、
+line2 <shift> # 余計がんばらなきゃって気に、なるんですよね」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「時計の針みたいに、か？」
+display
+com11 0 1
+sound 512
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そうです！　毎日毎日、グルグルグル……。
+line2 <shift> # って、ちょっとは心配してくださいよ〜」
+display
+com11 0 1
+sound 513
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「きつい時ほど、あったかい言葉って効くんです。
+line2 <shift> # これまで、それで何度、支えられてきたか……」
+com09 0 49
+display
+location 49
+com11 0 1
+sound 514
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「考えると……今のボクに時計はいらないですね。
+line2 <shift> # プロデューサーが、その役目してくれてるから」
+display
+com11 0 1
+sound 515
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「正確な時間、教えてくれるし、移動時間に
+line2 <shift> # なると、しっかりお尻、たたいてくれるし！」
+display
+com11 0 1
+sound 516
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ついでに、めざまし機能とかもあると、
+line2 <shift> # うれしかったりして！　あはは……」
+com03 0 3
+choice1 <shift> # コンパス機能じゃ、ダメか？
+line2
+com09 0 50
+com08
+choice2 <shift> # 毎朝、電話しようか？
+line2
+com09 0 51
+com08
+choice3 <shift> # たよると、離れられなくなるぞ
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「コンパス機能じゃ、ダメか？　これからも
+line2 <shift> # 歩く方向は示していきたいって、思うけど」
+display
+com11 0 1
+sound 517
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、芸能界を歩いてこられたのは、その機能の
+line2 <shift> # おかげですよね！」
+display
+com11 0 1
+sound 518
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「とうとう、ボク、こんないい仕事まで、もら
+line2 <shift> # えるように……。もう、最っ高の時計です！」
+display
+com11 0 1
+sound 519
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「これからも、ぶらさがって、ついていこっ！
+line2 <shift> # へへ〜プロデューサー、腕、出してください！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （言いながら、真は俺の腕に、ぶら下がってきた。
+line2 <shift> # この重さは……信頼の重みってやつかな）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「毎朝、電話しようか？」
+display
+com11 0 1
+sound 520
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「おはようコールですか？　でも、ボク、
+line2 <shift> # 電話ぐらいじゃ、起きないかも……」
+display
+com11 0 1
+sound 521
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「それよりも、その〜、朝、できれば迎えに
+line2 <shift> # きてほしいかなーなんて」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「毎朝か？　そりゃ、どうしても来いっていう
+line2 <shift> # なら、行くけど……」
+display
+com11 0 1
+sound 522
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「の、望みすぎですねっ。プロデューサーの
+line2 <shift> # 都合もあるし。　さ、撮影、行ってきます！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （頭をかきながら、歩いていってしまった。
+line2 <shift> # まあ、本人がいいって言うなら、いいか）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「たよると、離れられなくなるぞ」
+display
+com11 0 1
+sound 523
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「いいですよっ。だって、ボク、全然、離れる気
+line2 <shift> # ないしっ！　……って、まさか」
+display
+com11 0 1
+sound 524
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そんな予定、ないですよね！？
+line2 <shift> # 別の事務所、行っちゃうとか！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「今のところはないよ。
+line2 <shift> # ……そ、そんな顔するなって。本当だよ」
+display
+com11 0 1
+sound 525
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「な〜んだ……よかった〜。だ、ダメです
+line2 <shift> # からね。いなくなるなんて、絶対に！」
+display
+com11 0 1
+sound 526
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、そろそろ、撮影、行かなきゃ。顔、元に
+line2 <shift> # 戻して、スマートに、スマートに……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （動揺を隠しながら、歩いていった。うーん、
+line2 <shift> # 大事な撮影の前に、冷や汗をかかせてしまった）
+com09 0 69
+display
+location 69
+unk02

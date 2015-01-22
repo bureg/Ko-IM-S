@@ -1,0 +1,261 @@
+com2c 0 47
+com2d 0 71
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「長引いたロケもやっと終わって、のんびり
+line2 <shift> # 帰還か……それにしても眠そうだな、律子」
+display
+com11 0 3
+sound 900
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「なぁに、まだまだ仕事も残ってるし、
+line2 <shift> # 居眠りなんてしないですよ、私は……」
+display
+com11 0 3
+sound 901
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「私はまだ、やることが、むぅ……、
+line2 <shift> # くぅくぅ、ぐぅぐぅ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「と言いながら寝てるじゃないか、
+line2 <shift> # 船漕ぐみたいに頭揺らして」
+display
+com11 0 3
+sound 902
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「むにゃ……む？　はう！
+line2 <shift> # し、しまった！　起きなきゃっ」
+display <shift> # がんっ！
+display
+com11 0 3
+sound 903
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あいたた！　うう、頭打ったぁ。
+line2 <shift> # バスの天井低すぎぃ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ったく、慌てて飛び起きるからだ」
+com03 0 3
+choice1 <shift> # ははは、うっかりだな
+line2
+com09 0 10
+com08
+choice2 <shift> # 大丈夫か？
+com09 0 11
+com08
+choice3 <shift> # おとなしく寝てれば……
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ははは、うっかりなやつだな」
+display
+com11 0 3
+sound 904
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「わ、笑うなぁ！　ううう……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「膨れながらの涙目なのが
+line2 <shift> # さらに笑いを誘うね」
+display
+com11 0 3
+sound 905
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「だ、だから笑わないでください。
+line2 <shift> # あーあ、かっこわるぅ……」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「大丈夫か？　変なところぶつけなかった？」
+display
+com11 0 3
+sound 906
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「へ、平気ですよ、気遣い無用……
+line2 <shift> # あ〜、たんこぶできるかなぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「たんこぶ？　そりゃ困るな、
+line2 <shift> # なにか薬でもつけるか、医者行くか？」
+display
+com11 0 3
+sound 907
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そ、そんな大げさな。平気ですってば！
+line2 <shift> # ほっとけば治ります」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「しかし気になるじゃないか、
+line2 <shift> # ケガしたとなれば仕事に影響が……」
+display
+com11 0 3
+sound 908
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ああもう、あんまり構わないでくださいよぉ。
+line2 <shift> # ああ、かっこわるぅ……」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おとなしく寝てればいいのに……」
+display
+com11 0 3
+sound 909
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「居眠りしないと決めたからには、
+line2 <shift> # ちゃんと起きてないと」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「無理するなよ、余計な疲れが溜まるぞ？」
+display
+com11 0 3
+sound 910
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「う〜ん、でもどのみち、
+line2 <shift> # 車の中じゃろくに休めないし」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ところでぶつけた頭のほうは平気か？」
+display
+com11 0 3
+sound 911
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ちょっとこぶになってるっぽいけど、
+line2 <shift> # まぁほっときゃ治りますよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ほんとか？　見せてみな」
+display
+com11 0 3
+sound 912
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「へ、平気ですってば。ほっといてください」
+com09 0 29
+display
+location 29
+com22 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しかし、その後も律子はうとうととしたまま、
+line2 <shift> # 気を張って無理に起きてるようだ……）
+display
+com21 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あんまり眠いなら、
+line2 <shift> # いまのうちに休んでおけば？」
+display
+com11 0 3
+sound 913
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ん……大丈夫ですってば。言ったでしょ？
+line2 <shift> # 私は居眠りなんかしないって」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうむくれるなよ、それになんだか
+line2 <shift> # 辛そうにも見えるからさ」
+display
+com11 0 3
+sound 914
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「う〜ん、本音を言うと、確かに
+line2 <shift> # 眠いんだけど……でも、仕事帰りだから」
+display
+com11 0 3
+sound 915
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「眠いけど、眠らなきゃって思うけど……、
+line2 <shift> # テンションあがってて眠れないのよ」
+com03 0 2
+choice1 <shift> # なら仕事の準備でも
+line2
+com09 0 30
+com08
+choice2 <shift> # 無理やりでも寝ておけ
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なら軽く、次の仕事の準備でもしておくか。
+line2 <shift> # 気分転換にもなるかもよ」
+display
+com11 0 3
+sound 916
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あ、はい。そうね、スケジュールの確認と
+line2 <shift> # 軽い予習くらいならいいかな……」
+display
+com11 0 3
+sound 917
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「やっといて負担もないし、損もないでしょ。
+line2 <shift> # プロデューサー、手伝ってくれません？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし。じゃ、一緒に確認しようか」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺と律子は仕事のスケジュールを大雑把に
+line2 <shift> # まとめなおし、確認し、メモを取った）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そのうち律子も楽な気分になって、車内で
+line2 <shift> # 仮眠につけたようだ……、よかった）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「無理やりにでも寝ておけ。ロケバスの中でも
+line2 <shift> # 休めるように練習しといたほうがいいぞ？」
+display
+com11 0 3
+sound 918
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ま、まぁね。今後もっと忙しくなれば、どこで
+line2 <shift> # も寝られるようにしとかないと、辛そうだけど」
+display
+com11 0 3
+sound 919
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「う〜ん、でも気分じゃないし……、
+line2 <shift> # 半端に寝たら、余計疲れそうで」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「言うより先に休けいだ、次の仕事のためには
+line2 <shift> # 休みも取らなきゃだぞ？」
+display
+com11 0 3
+sound 920
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「わ、わかってますよぉ。でも、休んで
+line2 <shift> # テンションさげたくないんだよなぁ……」
+display
+com11 0 3
+sound 921
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「今いい調子っぽいから、
+line2 <shift> # 起きてたいなぁ……。むにゃ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （結局眠ったか。でも車内で寝るのに慣れてない
+line2 <shift> # せいか、ちょっと寝息も姿勢も苦しそうだ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ストレスなく寝て起きて、次の仕事も
+line2 <shift> # 活躍してほしいけど、少々心配だなぁ……）
+com09 0 49
+com09 0 49
+display
+location 49
+unk02

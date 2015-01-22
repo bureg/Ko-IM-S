@@ -1,0 +1,765 @@
+com2c 0 63
+com2c 0 113
+com2d 0 121
+com32 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うーん。昨晩は、どうも寝つきが悪くて、
+line2 <shift> # 寝られないまま朝になってしまった……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （まだ早いけど、どこかに寄り道してから、
+line2 <shift> # 出社してしまおうかな？）
+com03 0 2
+choice1 <shift> # どこかに寄り道する
+line2
+com09 0 10
+com08
+choice2 <shift> # まっすぐ事務所に行く
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よし。こんな時は、寄り道しつつ、出社しよう。
+line2 <shift> # 早朝の空気は、気持ちがいいからな！）
+display
+com22 0 30
+com21 0 30
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （何て静かな朝なんだ……。
+line2 <shift> # ふふ、何となくエレガントな気分になるな）
+display
+com11 0 0
+sound 10000
+com4c 0 1
+name 0 0 <names:2>  # ???
+line1 <shift> # 「無礼者！！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うわあっ！！　な、なんだ！？）
+display
+com11 0 0
+sound 10001
+com4c 0 1
+name 0 0 <names:2>  # ???
+line1 <shift> # 「今すぐ、そこになおれ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （こ、この声は、貴音？
+line2 <shift> # 何だか、誰かと対決しているような……）
+display
+com11 0 0
+sound 10002
+com4c 0 1
+name 0 0 <names:2>  # ???
+line1 <shift> # 「私が、成敗いたします！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うわ、間違いない！？　貴音！
+line2 <shift> # 俺も加勢するぞ！」
+display
+com11 0 0
+sound 10003
+com4c 0 1
+name 0 0 <names:2>  # ???
+line1 <shift> # 「え……、その声は？」
+display
+com11 0 0
+sound 10004
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「やはり、あなた様でしたか。ごきげんよう。
+line2 <shift> # こんな早朝にお会いするとは奇遇ですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「貴音！　大丈夫か！？」
+display
+com11 0 0
+sound 10005
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「……はい？　何がでしょうか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ？　だって、さっきから、無礼者とか、
+line2 <shift> # 大きな声で言ってたから……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もしかしたら、
+line2 <shift> # 犯罪者と対決してたのかなって……」
+display
+com11 0 0
+sound 10006
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「ああ……。いえ、それは誤解です。
+line2 <shift> # 実は先程のセリフは、ドラマの台本なのです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ドラマ？」
+display
+com11 0 0
+sound 10007
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「はい。ドラマの主役に選んでいただいたので、
+line2 <shift> # その練習を、と思いまして……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか。貴音は着々と、
+line2 <shift> # ステップアップをしているんだな」
+display
+com11 0 0
+sound 10008
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「はい。あの……、それで、ここでお会い
+line2 <shift> # しましたのも、何かの縁ということで……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うん？　貴音、何か用でもあるのか」
+display
+com11 0 0
+sound 10009
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「あの、実に申し上げにくいのですがしばしの間、
+line2 <shift> # 周囲を見張っていてはいただけないでしょうか」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え？　見張り？」
+display
+com11 0 0
+sound 10010
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「はい。実は、よほど怪しいと思われるのか、
+line2 <shift> # 先程からすでに何人もの方が来て下さり……」
+display
+com11 0 0
+sound 10011
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「もう、恥ずかしいやら、申し訳ないやらで、
+line2 <shift> # いっぱいなのです……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なるほど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （まあ、貴音のことを調べるのは、
+line2 <shift> # 社長の、命令でもあるしな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （少しくらいだったら、
+line2 <shift> # バチも、当たらないだろう）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし！　それじゃ、しばらく、
+line2 <shift> # 貴音のけいこを、見物していくよ」
+display
+com11 0 0
+sound 10012
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「はい、ありがとうございます。
+line2 <shift> # それでは……」
+display
+com11 0 0
+sound 10013
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「『馬車を出せないとは、何故！？
+line2 <shift> # 私が出せと言っているのですよ！』」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （さすが貴音、こういう言葉づかいは、
+line2 <shift> # お手の物だなあ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （これは、若い王女の役かな？）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ここまで板に付いているとは……。
+line2 <shift> # やっぱり、貴音は、箱入り娘なのかなあ）
+display
+com11 0 0
+sound 10014
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「『従者の分際で、私の頼みを、
+line2 <shift> # 断るとは……、この無礼者が！』」
+display
+com11 0 0
+sound 10015
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「ふう……、先程までとは違い、
+line2 <shift> # やはり、安心して演技ができます」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それは良かった」
+display
+com11 0 0
+sound 10016
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「ところで……。あなた様に伺うのは、
+line2 <shift> # 大変心苦しいのですが……」
+display
+com11 0 0
+sound 10017
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「今の、私の芝居は、どうだったでしょうか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ちょっと、言い方がキツすぎる気がするなあ。
+line2 <shift> # なんていえば、貴音に伝わるかな？）
+com03 0 3
+choice1 <shift> # かわいく怒って
+line2
+com09 0 20
+com08
+choice2 <shift> # 甘えた感じで
+line2
+com09 0 21
+com08
+choice3 <shift> # 自信なく、おどおどした感じで
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （やめよう。なんとかして、一眠りしてから、
+line2 <shift> # まっすぐ、事務所に行けば、いいよな……）
+com09 0 99
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もう少し、かわいく怒ったほうが、
+line2 <shift> # いいんじゃないかな？」
+display
+com11 0 0
+sound 10018
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「かわいく怒る……。
+line2 <shift> # なにか、矛盾した物言いにきこえますが」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「怒りかたの問題だよ。貴音の言い方だと、
+line2 <shift> # 少しエラそうすぎるんだ」
+display
+com11 0 0
+sound 10019
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「そう……、なのですか」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もっと、かんしゃくを起こしたように怒れば、
+line2 <shift> # 少し幼く、かわいく見えるんじゃないかな」
+display
+com11 0 0
+sound 10020
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「なるほど……。その通りかもしれません。
+line2 <shift> # では、さっそく……」
+display
+com11 0 0
+sound 10021
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「『従者の分際で、私の頼みを断るとは……！
+line2 <shift> # キーッ！　この無礼者っ！』」
+display
+com11 0 0
+sound 10022
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「こ、これで、良いのでしょうか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うん、悪くないな」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もう少し、甘えた感じでやった方が、
+line2 <shift> # いいかもしれないぞ」
+display
+com11 0 0
+sound 10023
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「甘えた感じ……、ですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うん。今の言い方だと、キツすぎるから、
+line2 <shift> # 少しやわらげた方が、いいかなって」
+display
+com11 0 0
+sound 10024
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「おっしゃらんとしていることは、わかるような
+line2 <shift> # 気がいたします。しかし、甘えた感じとは……」
+display
+com11 0 0
+sound 10025
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「『従者の分際でぇ、私の頼みを断るのっ？
+line2 <shift> # この、無礼者め〜！』」
+display
+com11 0 0
+sound 10026
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「こ、これで、いいのでしょうか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ちょ、ちょっと違ったかもしれないな。
+line2 <shift> # ごめん、うまくアドバイスできなくて……」
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もう少し、自信なく、おどおどした感じで
+line2 <shift> # やれば、もっと良くなると思うよ」
+display
+com11 0 0
+sound 10027
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「自信なく、おどおど……、ですか？　しかし、
+line2 <shift> # それでは、役と、かけ離れてしまいますが」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それはそうなんだけど、今のままだと、
+line2 <shift> # キツすぎる気がするんだ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ダマされたと思って、一度、
+line2 <shift> # やってみてもらえないかな？」
+display
+com11 0 0
+sound 10028
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「はい。自信なく、おどおど、となれば……」
+display
+com11 0 0
+sound 10029
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「『じゅ、従者の分際で、私の頼みを、
+line2 <shift> # 断っちゃうの……、ですか？』」
+display
+com11 0 0
+sound 10030
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「『こっ、この、無礼者……。
+line2 <shift> # い、いえ、なんでも、ありません……』」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……」
+display
+com11 0 0
+sound 10031
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「これは、あきらかに違うのでは……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （貴音の視線が冷たい……。なんでこんな
+line2 <shift> # アドバイス、しちゃったんだろう）
+com09 0 29
+display
+location 29
+com11 0 0
+sound 10032
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「ともあれ、このシーンは、
+line2 <shift> # まだなんとかなると思うのですが……」
+display
+com11 0 0
+sound 10033
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「ひとつ、どうしても、
+line2 <shift> # うまくできぬところがあって、困っております」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうしても、うまくできないところ？
+line2 <shift> # いったい、どんなシーンなんだ？」
+display
+com11 0 0
+sound 10034
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「その……。告白の、シーンなのですが」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「こっ、告白か。それは……、難しそうだな」
+display
+com11 0 0
+sound 10035
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「お恥ずかしながら、私、この手の、
+line2 <shift> # 男女の機微というものに、うとく……」
+display
+com11 0 0
+sound 10036
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「このような時は、どのように殿方に、
+line2 <shift> # 思いを伝えるのか、想像がつかないのです……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか……。えっと、ちなみに、
+line2 <shift> # どんなセリフなんだ」
+display
+com11 0 0
+sound 10037
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「『なぜ、このような気持ちになったのか、
+line2 <shift> # 私にもわからない』」
+display
+com11 0 0
+sound 10038
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「『でも、これだけは本当。
+line2 <shift> # ……あなたを、愛しています』」
+display
+com11 0 0
+sound 10039
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「と、いうものです。……今の言い方では、
+line2 <shift> # 少々、難がありますよね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （う〜ん、今の貴音の言い方だと、だいぶ、
+line2 <shift> # カタくきこえるな。どう言えば良くなるかな？）
+com03 0 3
+choice1 <shift> # 呆然として、言ってみて
+line2
+com09 0 30
+com08
+choice2 <shift> # 家族に言うように、話してみて
+line2
+com09 0 31
+com08
+choice3 <shift> # 俺に向かって、告白するつもりで
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「呆然として、言ってみてくれ」
+display
+com11 0 0
+sound 10040
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「呆然と、ですか？　気持ちをお伝えするのに、
+line2 <shift> # それでよいのでしょうか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、この女の子は、どうして自分が、そんな
+line2 <shift> # 気持ちになったのか、わからないんだよな？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なら、好きってことより、とまどいのほうが、
+line2 <shift> # 強いんじゃないかな？」
+display
+com11 0 0
+sound 10041
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「なるほど！　よく考えてみれば、
+line2 <shift> # その通りです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「できそうかい？」
+display
+com11 0 0
+sound 10042
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「はい、挑戦してみます」
+display
+com11 0 0
+sound 10043
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「『なぜ、このような気持ちになったのか、
+line2 <shift> # 私にもわからない……』」
+display
+com11 0 0
+sound 10044
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「『でも、これだけは本当。
+line2 <shift> # ……あなたを、愛しています』」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うん、いい感じだ！
+line2 <shift> # すごくかわいかったぞ、貴音！」
+display
+com11 0 0
+sound 10045
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「えっ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ？　俺、なにかヘンなこと言ったか？
+line2 <shift> # かわいく演技、できてたって言ったんだけど」
+display
+com11 0 0
+sound 10046
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「あ、ああ、そういうことですね。
+line2 <shift> # 動転してしまいそうに、なりました……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え？　今、何か言った？」
+display
+com11 0 0
+sound 10047
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「ああ、いえ。実に参考になりました。
+line2 <shift> # ありがとうございます」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （役に立てたなら、うれしいが……。なんだか、
+line2 <shift> # 貴音、顔が赤いな。そんなにうれしいのか？）
+com09 0 39
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「家族に言うように、話してみてくれ」
+display
+com11 0 0
+sound 10048
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「家族……、ですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そう。親兄弟や、近しい人に話すように、
+line2 <shift> # 優しく語りかけるんだ」
+display
+com11 0 0
+sound 10049
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「ですが、私の親は、すでに……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あ……。もしかして、貴音の両親は……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「貴音、大丈夫か？」
+display
+com11 0 0
+sound 10050
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「あっ、いえ……、やってみます。
+line2 <shift> # 優しさを、心がけて、ですね」
+display
+com11 0 0
+sound 10051
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「『なぜ、このような気持ちになったのか、
+line2 <shift> # 私にもわからない』」
+display
+com11 0 0
+sound 10052
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「『でも、これだけは本当。
+line2 <shift> # ……あなたを、愛しています』」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「う〜ん……確かに、優しくはあるけど、
+line2 <shift> # 愛するって感じでは、ないかなあ」
+display
+com11 0 0
+sound 10053
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「そうですか……さすがに、一筋縄では、
+line2 <shift> # いかぬものですね」
+display
+com11 0 0
+sound 10054
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「ですが、一度、練習したことで、
+line2 <shift> # 多少の自信は、つきました」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （貴音は少し笑顔になった。
+line2 <shift> # ささやかだけど、力には、なれたのかな？）
+com09 0 39
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺に向かって、告白するつもりで、
+line2 <shift> # 本気でやってみてくれ」
+display
+com11 0 0
+sound 10055
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「え……。ええっ！？　そ、それは……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そんなに驚かなくても……」
+display
+com11 0 0
+sound 10056
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「い、いえ、決して嫌というわけではなくて、
+line2 <shift> # その、突然のことに、驚いてしまいまして……」
+display
+com11 0 0
+sound 10057
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「で、では、あなた様に、言うつもりで、
+line2 <shift> # がんばって、みます……」
+display
+com11 0 0
+sound 10058
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「『な、なぜっ、このような、気持ちに、
+line2 <shift> # なったのか……、私にも、わかりません』」
+display
+com11 0 0
+sound 10059
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「『ですが、こ、これだけは言えます。
+line2 <shift> # あ、あな、あなた様を……、あい、し……』」
+display
+com11 0 0
+sound 10060
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「あい、あいし……、ううっ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「た、貴音！？　どうしたんだ、急に！？」
+display
+com11 0 0
+sound 10061
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「い、言えません……。あまりに、恥ずかしくて、
+line2 <shift> # うう……、ムリです！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うわあ！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後、貴音の気持ちをなだめるのに、
+line2 <shift> # 結構、時間が、かかってしまった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （なんだか、俺、貴音のジャマを、
+line2 <shift> # してしまっただけなんじゃ……？）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そして、相変わらず、９６１プロのことも、
+line2 <shift> # 貴音のこともよくわからないままだったし）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （はあ。気をとりなおして、今日の
+line2 <shift> # プロデュースは、いつもより、頑張らないと！）
+com09 0 99
+display
+location 39
+com22 0 50
+com21 0 50
+com11 0 0
+sound 10062
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「あなた様との練習のおかげで、
+line2 <shift> # だいぶ、自信がつきました」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それはよかった。……っと、ごめん。
+line2 <shift> # そろそろ事務所に行かないと」
+display
+com11 0 0
+sound 10063
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「私も、そろそろ、仕事の時間です。
+line2 <shift> # それでは、お開きといたしましょう」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ」
+display
+com11 0 0
+sound 10064
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「重ねて、お礼申し上げます。
+line2 <shift> # ありがとうございました」
+display
+com11 0 0
+sound 10065
+com4c 0 1
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「では、ごきげんよう」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （相変わらず、９６１プロのことも……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （貴音のことも、今ひとつ、
+line2 <shift> # よく、わからないことが多いけど……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （努力している姿を見せられると、
+line2 <shift> # こちらも、うかうかしていられないな！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よ〜し、すぐに事務所に行って、
+line2 <shift> # 一刻も早く、プロデュースしないとな！）
+com09 0 99
+display
+location 99
+unk02

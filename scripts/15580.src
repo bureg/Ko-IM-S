@@ -1,0 +1,278 @@
+com2c 0 43
+com2d 0 31
+com32 0 0
+com11 0 1
+sound 400
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「これから収録する歌、ドラマの主題歌に
+line2 <shift> # なるんですね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。月９の恋愛物と、タイアップ予定だ」
+display
+com11 0 1
+sound 401
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うーん。って言われても、ピンとこなかったり
+line2 <shift> # してっ。私、そういうのあんまり見ないしー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「恋愛ドラマ、見ないのか。どうして？」
+display
+com11 0 1
+sound 402
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「えへへ、どうしてだと思いますか？」
+com03 0 3
+choice1 <shift> # 単に見る気がしないから？
+line2
+com09 0 10
+com08
+choice2 <shift> # 家にＴＶがないから？
+line2
+com09 0 11
+com08
+choice3 <shift> # 恋愛に興味がないから？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「単に見る気がしないから？」
+display
+com11 0 1
+sound 403
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「すっごーい！　なんで、わかったんですか？」
+display
+com11 0 1
+sound 404
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「そういう時間あるんだったら、歌ったり、
+line2 <shift> # おしゃべりしてる方が、楽しいですもんね！」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「家にＴＶがないから？」
+display
+com11 0 1
+sound 405
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ありますー、ＴＶぐらい〜。この間、前のより
+line2 <shift> # ちょっと大きいの、買いましたっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ、ドラマ見ればいいじゃないか」
+display
+com11 0 1
+sound 406
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「お仕事いそがしいから、あんまり見てる時間
+line2 <shift> # ないですよね？」
+display
+com11 0 1
+sound 407
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「それに、そういうの見るより、プロデューサー
+line2 <shift> # やまわりのみんなと話してる方が楽しいしっ！」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「恋愛に興味がないから？」
+display
+com11 0 1
+sound 408
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うう〜、そんなことないです……。
+line2 <shift> # 私のこと、子どもだって思ってませんかっ？」
+display
+com11 0 1
+sound 409
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「私がドラマ見ないのは、ただ興味が
+line2 <shift> # ないだけでー……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……じゃあ、当たりじゃないか」
+display
+com11 0 1
+sound 410
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ちがいますー。恋愛には興味あるけど、
+line2 <shift> # ドラマにはないって意味……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、そっちか。なるほど」
+com09 0 19
+display
+location 19
+com11 0 1
+sound 411
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ！　ドラマの主題歌なら……そのお話の
+line2 <shift> # テーマに、歌い方、合わせた方がいいかなあ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「できるのか、そんなこと？」
+display
+com11 0 1
+sound 412
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はい……。でもそうしたら、自分の歌っぽく
+line2 <shift> # なくなっちゃうかも。どうしよ〜？」
+com03 0 3
+choice1 <shift> # テーマは気にせずに
+line2
+com09 0 20
+com08
+choice2 <shift> # ドラマを立てようか
+line2
+com09 0 21
+com08
+choice3 <shift> # ちょっと合わせてみる？
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「テーマは、気にせずにいこう」
+display
+com11 0 1
+sound 413
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「考えなくていいですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ」
+display
+com11 0 1
+sound 414
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「私っぽさ重視？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それでいいと思う」
+display
+com11 0 1
+sound 415
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「……わかりましたっ！　そうですよね、ヘンに
+line2 <shift> # 合わせたら、勢いなくなっちゃうし！」
+display
+com11 0 1
+sound 416
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「よーしっ、それじゃいつも通り、元気全開で
+line2 <shift> # いこーっと！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （遠慮したり、小技に走ったりすると、やよいの
+line2 <shift> # よさが消えちゃうからな）
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ドラマを立てようか」
+display
+com11 0 1
+sound 417
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「そっちの方がいいですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。マッチングが悪いと、視聴率にも響く
+line2 <shift> # だろうし」
+display
+com11 0 1
+sound 418
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「わかりましたっ。せっかくのタイアップ、
+line2 <shift> # ムダにしたくないですもんね！」
+display
+com11 0 1
+sound 419
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「んーと、恋愛物なら、私はすこしおとなしめに
+line2 <shift> # 歌った方がいいかなあ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え、そうなのか？」
+display
+com11 0 1
+sound 420
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はい……。私がバーって歌っちゃうと、
+line2 <shift> # しっとり感、なくなっちゃうし」
+display
+com11 0 1
+sound 421
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ちょっと物足りないけど〜、今回は、
+line2 <shift> # ひかえめにがんばろーっと」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うーん、主題歌としてはよくても、それが
+line2 <shift> # やよいのためになるかは、微妙な線か？）
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ちょっとだけ合わせてみる？」
+display
+com11 0 1
+sound 422
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ちょっとですか？　ドラマ重視でもなく、
+line2 <shift> # 私っぽさ重視でもなく？」
+display
+com11 0 1
+sound 423
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ううう〜、中途半端になっちゃうかも……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「できない？」
+display
+com11 0 1
+sound 424
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「いえっ、できなくはないですけど……」
+display
+com11 0 1
+sound 425
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「恋愛のしっとり感と、私のはじけ具合。
+line2 <shift> # これを混ぜると……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なんか、すごい歌になりそうな……」
+display
+com11 0 1
+sound 426
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ですよね。これは大きな賭けかも！
+line2 <shift> # 大失敗するか……それとも大惨敗するかっ」
+display
+com11 0 1
+sound 427
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「とにかくやってみまーすっ。テイク重ねれば、
+line2 <shift> # おもしろい歌に仕上がるかもしれないし！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （助言としては、切れ味がなかったな。今の
+line2 <shift> # 技量なら、なんとかなるとは思うけど……）
+com09 0 29
+display
+location 29
+unk02

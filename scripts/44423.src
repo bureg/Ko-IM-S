@@ -1,0 +1,326 @@
+com2c 0 100
+com2d 0 81
+com32 0 0
+com11 0 1
+sound 300
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うおおおおっ！　きたぞー、ドームへ！
+line2 <shift> # いよいよ、ここでライブかー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「収容人数、約５万人……。
+line2 <shift> # チケットは、即日ソールドアウトだ」
+display
+com11 0 1
+sound 301
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「前、父さんに連れられて、ここに野球の試合、
+line2 <shift> # 見にきたことがあります。もう、すごい歓声で」
+display
+com11 0 1
+sound 302
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「でも、今日くる５万人の声援は、みんな、
+line2 <shift> # ボクに、向けられるんですね！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうとも。今日は、真が……」
+com03 0 3
+choice1 <shift> # エースだ！
+com09 0 10
+com08
+choice2 <shift> # ４番だ！
+com09 0 11
+com08
+choice3 <shift> # マスコットガールだ！
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「エースだ！」
+display
+com11 0 1
+sound 303
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「へへへっ、よーし、期待に応えて、
+line2 <shift> # バシバシ三振の山、築いちゃいます！」
+com09 0 91
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「４番だ！」
+display
+com11 0 1
+sound 304
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「え、４番？
+line2 <shift> # 前座が３組も、前に歌うんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ち、ちがうよ。４番バッター、つまり、
+line2 <shift> # チームの主砲ってこと」
+display
+com11 0 1
+sound 329
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あああ、そっか。なに、
+line2 <shift> # 寝ぼけたコト言ってるんだか。あはは……」
+display
+com11 0 1
+sound 306
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ボクが４番バッターなら、ここまで引っ張って
+line2 <shift> # きてくれたプロデューサーは、名監督ですね！」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「マスコットガールだ！」
+display
+com11 0 1
+sound 307
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「それって、野球じゃ、わき役ですよね？　かわ
+line2 <shift> # いいのはいいけど、今日は主役になりたいな」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そうか。じゃあ、エースにしておこう。
+line2 <shift> # それなら、いいだろ？」
+display
+com11 0 1
+sound 308
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はい！　その方が、なんか気分、のります。
+line2 <shift> # よーし、三振の山、バシバシ築いてやるぞー！」
+com09 0 91
+display
+location 91
+com11 0 1
+sound 309
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、ボクがエースなら、ここまで引っ張って
+line2 <shift> # きてくれたプロデューサーは、名監督ですね！」
+com09 0 29
+display
+location 29
+com11 0 1
+sound 310
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサーなら、どんな女の子でも、
+line2 <shift> # ここまで、連れてこられるのかも……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなことは、ないって。夢が、
+line2 <shift> # かなえられたのは、選手と監督の間に……」
+com03 0 3
+choice1 <shift> # 深い信頼があったからだよ
+line2
+com09 0 30
+com08
+choice2 <shift> # 深い友情があったからだよ
+line2
+com09 0 31
+com08
+choice3 <shift> # 深い愛情があったからだよ
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「深い信頼があったからだよ」
+display
+com11 0 1
+sound 311
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そう思ってもらえてるなら、うれしいです！
+line2 <shift> # 一方通行じゃなかったんですね。へへっ」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「深い友情があったからだよ」
+display
+com11 0 1
+sound 312
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「友達……、ですか？　ボクとプロデューサーが。
+line2 <shift> # うわっ、な、なんか落ち着きませんね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「けど、そういう部分もあるだろ？」
+display
+com11 0 1
+sound 313
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「まあ、それは……。でも、命令されてた方が、
+line2 <shift> # ラクかな。これまで、ずっとそうでしたから」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「深い愛情があったからだよ」
+display
+com11 0 1
+sound 314
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「え！？　そ、そうなんですか！？
+line2 <shift> # い、いきなり！　ぼぼ、ボク、ビックリ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あああ、ごめん。ほら、あるだろ。
+line2 <shift> # 師弟愛っていうか、そういうやつ」
+display
+com11 0 1
+sound 315
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、なんだ、そっちか……。ま、まあ、いいや。
+line2 <shift> # これから先は、まだわからないし……」
+com09 0 49
+display
+location 49
+com11 0 1
+sound 316
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「さーて、それじゃ、そろそろ行きましょう！
+line2 <shift> # ……っと、その前に、コブシをガツンと！」
+display
+com11 0 1
+sound 317
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「せっかくのドームだし、でっかさに負けない
+line2 <shift> # よう、両手で！　はいっ、プロデューサー！」
+com0e 2 210
+com44
+com09 0 50
+com45
+com44
+com09 0 51
+com45
+com44
+com09 0 52
+com45
+com44
+com09 0 53
+com45
+display
+location 50
+com11 0 1
+sound 318
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ダーン！　へへっ、気分、最っ高！！
+line2 <shift> # う〜、燃えてきた〜！」
+display
+com11 0 1
+sound 319
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「なんか体中に、火がついたみたいですっ。
+line2 <shift> # よーし、歌って歌って、歌いまくってやる！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （身をブルブルとふるわせている。その後、
+line2 <shift> # ドームは、歌声と歓声で、熱狂の渦となった！）
+com09 0 69
+display
+location 51
+com11 0 1
+sound 320
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、あれ？　あんまり、うまくいかなかった
+line2 <shift> # ですね。両手は、やっぱりむずかしいな……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ちょっとタイミング、ずれたか？
+line2 <shift> # いきなりだったからな」
+display
+com11 0 1
+sound 321
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「でも、いいです！　ライブ成功させた時に、
+line2 <shift> # もう一度やりましょう！」
+display
+com11 0 1
+sound 330
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「さ、準備準備！
+line2 <shift> # プロデューサー、楽屋へ行きましょう！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （やってはみたけど、カンペキとはいかなかった
+line2 <shift> # な。ま、終わった後に、ちゃんとやってやろう）
+com09 0 69
+display
+location 52
+com11 0 1
+sound 323
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「え？　ど、どこさわってるんです〜？　わかっ
+line2 <shift> # てると思いますけど、そこはコブシじゃ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、機嫌よさそうだから、
+line2 <shift> # 今なら、許してもらえるかと思って」
+display
+com11 0 1
+sound 324
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そ、それは許しますけど、コブシ、ちゃんと
+line2 <shift> # やって下さいよ〜。せっかく燃えてたのに〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「その……、さ。ドームは大きいけど、
+line2 <shift> # 真のは、それほどでもないな」
+display
+com11 0 1
+sound 325
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、すみません……。って、なんてこと、
+line2 <shift> # 言うんですか〜。放っておいて下さいよ〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （水を差した上に、追い打ちをかけてしまった。
+line2 <shift> # とんだセクハラ監督を、演じてしまったな）
+com09 0 69
+display
+location 53
+com11 0 1
+sound 331
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、あの〜、コブシ両方、なんですけど。
+line2 <shift> # もしかして、意味、わかりませんでしたか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、そうか。そうだよな。ついドームに
+line2 <shift> # 見とれて、ボーッとしてたから……」
+display
+com11 0 1
+sound 332
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサーでも、そんな風になるんですね。
+line2 <shift> # まあ、別にやらなくてもいいですけど……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、コブシをダーン、だろ？
+line2 <shift> # よろこんで、つきあうよ！」
+display
+com11 0 1
+sound 328
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「もう時間もないし、後でいいです。
+line2 <shift> # ライブ成功させたら、その時は、ちゃんと……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （あきらかに、ガッカリした顔をしている。うー
+line2 <shift> # ん。気持ちに、しっかり応えてやりたかったな）
+com09 0 69
+display
+location 69
+unk02

@@ -1,0 +1,280 @@
+com2c 0 96
+com2d 0 21
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「い、伊織、どうして空港に？　ビデオクリップ
+line2 <shift> # の撮影って、ここの予定だったか？」
+display
+com11 0 1
+sound 1100
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そんなわけないでしょ♪　さ、ニースへ行くわ。
+line2 <shift> # たまには思いっ切り、ハネを伸ばさなきゃ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……って、遊びに行く気か！？
+line2 <shift> # もしかして、今、乗ってきた車は、伊織の……」
+display
+com11 0 1
+sound 1101
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「こーんなパンパンのスケジュールで、
+line2 <shift> # 仕事してたら、おかしくなっちゃうんだからっ」
+display
+com11 0 1
+sound 1102
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……なに、汗タラタラ流してるのよ？
+line2 <shift> # 私と、海外行くの……、イヤ？」
+com03 0 3
+choice1 <shift> # イヤじゃないけど……
+line2
+com09 0 10
+com08
+choice2 <shift> # 日帰りじゃ、ムリだろ？
+line2
+com09 0 11
+com08
+choice3 <shift> # パスポート、持ってきてないよ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「イヤじゃないけど……」
+display
+com11 0 1
+sound 1103
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「じゃ、ＯＫね。出発ー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ちょっと待ってくれって！　突然、
+line2 <shift> # 日本から消えたら、大問題になっちゃうよ！」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「日帰りじゃ、ムリだろ？」
+display
+com11 0 1
+sound 1104
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ふふっ、それはそうよ。でも、安心してっ！
+line2 <shift> # ホテルも三つ星のいいとこ、おさえるわ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうじゃないよ。仕事に大穴開けちゃうと、
+line2 <shift> # 事務所的にも、やっかいなことに……」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「パスポート、持ってきてないよ」
+display
+com11 0 1
+sound 1105
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「もー、備えがなってないわねー。わかったわ。
+line2 <shift> # 家に電話して、誰かに取りにやらせるっ」
+display
+com11 0 1
+sound 1106
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「カギ、貸して！
+line2 <shift> # それから、あんたの家の住所を……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いいって……。もし本当に行っちゃったら、
+line2 <shift> # 関係者は、みんな、大騒ぎするぞ？」
+com09 0 29
+display
+location 29
+com11 0 1
+sound 1107
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ううう〜、じゃ、じゃあ、あきらめないと、
+line2 <shift> # ダメなの？　なんとかならないわけっ！？」
+display
+com11 0 1
+sound 1108
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「私ほどのアイドルが、望みを、
+line2 <shift> # かなえられないなんて、おかしいわよ〜……」
+com03 0 3
+choice1 <shift> # 人気者には、責任もあるしな
+line2
+com09 0 30
+com08
+choice2 <shift> # ニースを夢見てたのか？
+line2
+com09 0 31
+com08
+choice3 <shift> # 海外なんか、行き慣れてるだろ？
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「人気者には、責任もあるしな。
+line2 <shift> # ファンの声援に応えるっていう……」
+display
+com11 0 1
+sound 1109
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そんなの、わかってるわよ……。
+line2 <shift> # でも、どうしても、行きたかったんだもん……」
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ニースを夢見てたのか？」
+display
+com11 0 1
+sound 1110
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……ちがうわよ〜。ニースなんて、
+line2 <shift> # 子どもの頃から、何度も行ってるもん」
+display
+com11 0 1
+sound 1111
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ただ、か、家族以外の人と、行ってみたかった
+line2 <shift> # の！　ど、どうしても……、その……」
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「海外なんか、行き慣れてるだろ？」
+display
+com11 0 1
+sound 1112
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「当たり前でしょ〜。でも、ここのところ、さっ
+line2 <shift> # ぱりだし、それに今回は家族とじゃなくて……」
+display
+com11 0 1
+sound 1113
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「同じ旅行でも、誰と行くかで、
+line2 <shift> # 全然ちがうんだから……」
+com09 0 49
+display
+location 49
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……今はガマンしよう。一段落したら、
+line2 <shift> # その時は、好きなだけ、つき合うから」
+display
+com11 0 1
+sound 1114
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ほんとね？　じゃ、じゃあ１０年……。
+line2 <shift> # い、１年ぐらいは、行くんだからね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、ああ、そうしよう。
+line2 <shift> # 今日のところは、旅行のかわりに……」
+com03 0 3
+choice1 <shift> # 空港見学して、帰ろう
+line2
+com09 0 50
+com08
+choice2 <shift> # フランス料理でも、食べていこう
+line2
+com09 0 51
+com08
+choice3 <shift> # 免税店で、なんか買ってあげる
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「空港見学して、帰ろう。
+line2 <shift> # ……あ、でも、そんなの、つまらないか？」
+display
+com11 0 1
+sound 1115
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ううん、それでいい！
+line2 <shift> # 見慣れてるけど、でも……」
+display
+com11 0 1
+sound 1116
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「今は近場で精一杯だけど……、夢は、かなうわ
+line2 <shift> # よね。有名なアイドルにだってなれたんだし！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ようやく、笑顔に戻ってくれた。いつか、
+line2 <shift> # 仕事抜きの骨休みってのも、いいかもな……）
+com09 0 69
+display
+location 51
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「フランス料理でも、食べていこう」
+display
+com11 0 1
+sound 1117
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そうね……。なんか、急に、
+line2 <shift> # 食欲なくなっちゃったけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「大丈夫か？　ハードな日が続いてるし、
+line2 <shift> # 食事だけは、しっかりとらないと……」
+display
+com11 0 1
+sound 1118
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「わかってるわー。おなかだけでも、
+line2 <shift> # フランス気分にしてから、戻りましょ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （すこし、さびしげに、笑っている。でも、
+line2 <shift> # このまま、なにもしないで帰るよりは、マシか）
+com09 0 69
+display
+location 52
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「免税店で、なんか買ってあげるよ」
+display
+com11 0 1
+sound 1119
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「えっ！？　わ、わかってると思うけど、飛行機
+line2 <shift> # に乗らないんじゃ、免税店には、入れないわ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……………………あ」
+display
+com11 0 1
+sound 1120
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「も〜、しっかりしてよね。
+line2 <shift> # ガクっと肩の力、抜けちゃうじゃないの〜……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そういえば、そうだったな。力づけるつもりが、
+line2 <shift> # 見当ハズレのことを言ってしまった……）
+display
+com11 0 1
+sound 1121
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「なんか買ってくれるんなら、
+line2 <shift> # 免税店じゃなくても、うれしいけど……」
+com09 0 69
+display
+location 69
+unk02

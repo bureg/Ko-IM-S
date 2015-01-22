@@ -1,0 +1,376 @@
+com2c 0 24
+com2d 0 21
+com32 0 0
+com11 0 0
+sound 0
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「プロデューサー！
+line2 <shift> # 大変！　大変なのよーっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうした？　えらく慌てて」
+display
+com11 0 0
+sound 1
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「写真週刊誌に、私の写真が載ってるらしいの！
+line2 <shift> # それも、スキャンダルのページに！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ええっ？
+line2 <shift> # 事務所にそんな話は来てないけどな」
+display
+com11 0 0
+sound 2
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「とりあえず、その雑誌買ってきたから、
+line2 <shift> # 見てみましょっ！」
+display
+com22 0 30
+com21 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （雑誌には、顔は判別できないものの
+line2 <shift> # 確かに伊織と思われる写真が掲載されている）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （しかも、その隣りには楽しそうに笑う
+line2 <shift> # 有名男性俳優Ｓが写っている……！）
+display
+com11 0 0
+sound 3
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「な、な、なによー、これー！！
+line2 <shift> # 『人気俳優Ｓに恋人発覚！？』ですってー！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「この写真を見る限り、ずいぶん親密そうに
+line2 <shift> # 見えるけど、二人の関係はもしかして……」
+com03 0 3
+choice1 <shift> # 友達か？
+com09 0 10
+com08
+choice2 <shift> # 恋人か？
+com09 0 11
+com08
+choice3 <shift> # 兄弟か？
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「友達か？　いつの間に仲良くなったんだ？」
+display
+com11 0 0
+sound 4
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「友達ってほどじゃないわ。前にＴＶ局で会って
+line2 <shift> # 顔見知りだっただけ」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「恋人か？　こんなことになって、俺は伊織の
+line2 <shift> # ご家族に顔向けできないよ……」
+display
+com11 0 0
+sound 5
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そんなわけないでしょっ！　この程度のヤツが
+line2 <shift> # 私の恋人やろうなんて、百万年早いのよ！」
+display
+com11 0 0
+sound 6
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「この人とは前にＴＶ局で会って、
+line2 <shift> # 顔見知りだっただけ！」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「兄弟か？　伊織のお兄さんなら、このぐらい
+line2 <shift> # 美形でもおかしくないが」
+display
+com11 0 0
+sound 7
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あら、ありがと♪」
+display
+com11 0 0
+sound 8
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「って、ふざけてんの！？　確かに美形の兄さん
+line2 <shift> # はいるけど、俳優じゃないわよ！」
+display
+com11 0 0
+sound 9
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「この人とは前にＴＶ局で会って、
+line2 <shift> # 顔見知りだっただけ！　赤の他人よっ！」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「その後、喫茶店で偶然会ったから、ちょこっと
+line2 <shift> # あいさつしたんだけど、その時に撮られたのね」
+display
+com11 0 0
+sound 11
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「でっちあげもいいとこ！　プロデューサー、
+line2 <shift> # 編集部と担当記者に抗議しといてよね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「はいはい……」
+display
+com11 0 0
+sound 12
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「むっかー！　気の無い返事ねっ！　もしかして
+line2 <shift> # アンタ、私の言うこと信じてないわけっ！？」
+com03 0 3
+choice1 <shift> # だいたい信じてる
+line2
+com09 0 20
+com08
+choice2 <shift> # もちろん信じてる
+line2
+com09 0 21
+com08
+choice3 <shift> # ぜんぜん信じてない
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だいたい信じてるよ。そして今の伊織はウソを
+line2 <shift> # ついてないってことも、ちゃんとわかってる」
+display
+com11 0 0
+sound 13
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……ふーん。な、ならいいのよ」
+display
+com11 0 0
+sound 14
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「完全に信じられても、ちょっとうっとおしいし
+line2 <shift> # 今ぐらい信じてくれてれば、ちょうどいいわ」
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もちろん信じてるよ！　伊織への信頼は海より
+line2 <shift> # も深く、山よりも高いんだ！」
+display
+com11 0 0
+sound 15
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「大げさねー！　そこまで言われると、かえって
+line2 <shift> # ウソくさいけど……ま、信じてるならいいわ」
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ぜんぜん信じてないよ！　普段の伊織の行いを
+line2 <shift> # 見てるんだから、信じられるわけないだろ？」
+display
+com11 0 0
+sound 16
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ひっどーいっ！　そりゃファンに対しては
+line2 <shift> # ほんの少ーしだけ、ブリッコしてるけど……」
+display
+com11 0 0
+sound 17
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「でも、今回は本当に本当のこと言ってるのに
+line2 <shift> # 信じてもらえないなんて、ショック……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、うそだよ。冗談だよ。
+line2 <shift> # 本当は信じてるって！」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 18
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……それにしても、この記事！
+line2 <shift> # もっとマシな書き方できないのかしら」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でたらめを書かれて怒るのはわかるけど、
+line2 <shift> # まあ、芸能界ではよくあることだからな」
+display
+com11 0 0
+sound 19
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「わかってないわね！　でたらめを書かれたこと
+line2 <shift> # だけを怒ってるんじゃないわよーっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え？　じゃあ、何を怒ってるんだよ？」
+display
+com11 0 0
+sound 20
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……聞きたい？
+line2 <shift> # 私が何を一番怒ってるか、聞きたぁい？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……なんか怖いような気もするけど。
+line2 <shift> # ああ、聞きたいよ」
+display
+com11 0 0
+sound 24
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「それなら私とカード勝負して、その結果
+line2 <shift> # で話すかどうか決める、ってことにしない？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そう言われちゃ、逃げるわけにはいかないよ。
+line2 <shift> # この勝負、受けてたつぞ！」
+display
+com11 0 0
+sound 25
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「にひひっ♪　そうこなくっちゃね！
+line2 <shift> # ２枚のカードのうち、どちらかを選んで」
+display
+com11 0 0
+sound 26
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「選んだカードがジョーカーだったら、アンタ
+line2 <shift> # の負け。ハートのＡだったら、アンタの勝ちよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （伊織は、負けたら不機嫌になるに決まってる。
+line2 <shift> # 運任せだが、できれば外れの方を選びたいな）
+com03 0 2
+choice1 <shift> # こっちだ！
+com09 0 30
+com08
+choice2 <shift> # そっちだ！
+com09 0 31
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「こっちだ！」
+com37 0 1
+com1e 0 0
+com09 0 38
+com3b
+com37 0 0
+com1e 0 0
+com09 0 39
+com3b
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そっちだ！」
+com37 0 1
+com1e 0 0
+com09 0 38
+com3b
+com37 0 0
+com1e 0 0
+com09 0 39
+com3b
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「時間がない！　テキトーだ！」
+com09 0 39
+display
+display
+location 38
+com11 0 0
+sound 27
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「おあいにくさま〜♪　私の勝ちね。
+line2 <shift> # 勝ったから、怒ってる理由は言わないわよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「むう……残念だが、仕方ない。まあ、あんまり
+line2 <shift> # 雑誌社に腹をたてないでおいてくれよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「記者だって、伊織があまりにカワイイから
+line2 <shift> # 人気俳優の恋人と思い込んだのかもしれないし」
+display
+com11 0 0
+sound 28
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ふふっ！　そうかもね〜。まあ、賭けに勝って
+line2 <shift> # 気分がいいから、もうどうでもいいわ〜」
+display
+com11 0 0
+sound 29
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「今後はプロデューサーも、もっとちゃんと
+line2 <shift> # 私を守ってよね！　私も気をつけるけど！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （伊織が怒っていた理由はわからずじまいだが、
+line2 <shift> # 代わりに機嫌を直してくれたからＯＫだな）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （この調子なら、これからも笑顔で気分良く
+line2 <shift> # 仕事をこなしてくれるだろう）
+com4b 0 0
+com09 0 49
+display
+location 39
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やった、大正解だ！　俺の勝ちだな、伊織！
+line2 <shift> # さ、何を一番怒ってるか聞かせてもらおうか？」
+display
+com11 0 0
+sound 30
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「きーっ！　スキャンダルで傷ついてる私の前で
+line2 <shift> # よく無神経に大喜びできるわね〜っ！」
+display
+com11 0 0
+sound 31
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そんなに聞きたきゃ教えてあげるわ。私が怒っ
+line2 <shift> # てるのは、記事の中に私のことを……」
+display
+com11 0 0
+sound 32
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「お相手は無名アイドルの女性、って書いてある
+line2 <shift> # ことよっ！　この水瀬伊織が無名……屈辱よ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （しまった！　つい喜びすぎて、伊織を余計に
+line2 <shift> # 怒らせてしまった！）
+display
+com11 0 0
+sound 33
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ちょっと、聞いてんのっ！？　私が無名なのは
+line2 <shift> # 全てアンタの責任なんだからーっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （伊織の怒りは当分収まりそうにない。うまく
+line2 <shift> # 負けてあげていれば、こんなことには……）
+com4b 0 2
+com09 0 49
+display
+location 49
+unk02

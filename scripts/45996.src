@@ -1,0 +1,328 @@
+com2c 0 59
+com2c 0 24
+com2d 0 81
+com32 0 0
+com14 0 0
+com29 0 1
+com15 0 20
+com16 0 21
+com11 0 4
+sound 1100
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ねえ、プロデューサー。さっき、サイン会の
+line2 <shift> # 会場を出た時から、おかしな気配が……」
+display
+com11 0 4
+sound 1101
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ボクたち、誰かに、つけられてません？
+line2 <shift> # 背中に、ミョ〜な視線、感じるんですけど」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じつは、俺も感じてる……」
+display
+com14 0 0
+com29 0 9
+com15 0 110
+com16 0 111
+com11 0 4
+sound 1102
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「もしかして、変質者！？　
+line2 <shift> # そ、そ、それとも、ストーカーとか！？」
+display
+com11 0 4
+sound 1103
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「突然、後ろから、襲いかかられたりしたら！
+line2 <shift> # な、な、なんとか、しましょうよ……」
+com03 0 3
+choice1 <shift> # よし、つかまえよう！
+line2
+com09 0 10
+com08
+choice2 <shift> # よし、怒鳴りつけてやる！
+line2
+com09 0 11
+com08
+choice3 <shift> # よし、ワナをかけよう！
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、つかまえよう！」
+display
+com14 0 0
+com29 0 10
+com15 0 101
+com15 0 102
+com11 0 4
+sound 1104
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「え、本気ですか？　危ないですよ！！
+line2 <shift> # 凶器とか、持ってるかもしれないし！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「見えない恐怖に、おびえるより、いいよ。
+line2 <shift> # ダッシュして、詰め寄るぞ！　行こう！」
+display
+com22 0 30
+com21 0 30
+com14 0 0
+com29 0 10
+com15 0 101
+com15 0 102
+com11 0 4
+sound 1105
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ま、待てっ、そ、そこの人っ！　
+line2 <shift> # え……女の子？　君は……塩田さん！？」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、怒鳴りつけてやる！」
+display
+com14 0 0
+com29 0 6
+com15 0 160
+com16 0 161
+com11 0 4
+sound 1106
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「大丈夫でしょうか？　もし、逆ギレして、
+line2 <shift> # 刃物とか、振りかざしてきたら……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「見えない恐怖に、おびえるより、いいよ。
+line2 <shift> # ダッシュして、詰め寄るぞ！　行こう！」
+com09 0 91
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、ワナをかけよう！　細い路地に
+line2 <shift> # ロープでも張って、転ばせてやる！」
+display
+com14 0 0
+com29 0 4
+com15 0 11
+com11 0 4
+sound 1107
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そんなの、ムリですよ〜！　それに、もし
+line2 <shift> # 相手に大ケガさせたら、どうするんです〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そうか。じゃあ、叱るだけで、許して
+line2 <shift> # やろう。ダッシュして、詰め寄るぞ。行こう！」
+com09 0 91
+display
+location 91
+com22 0 30
+com21 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺たちに、なんの用だッ！！　
+line2 <shift> # あまりナメたことすると、タダじゃ……！！」
+display
+com14 0 0
+com29 0 10
+com15 0 101
+com15 0 102
+com11 0 4
+sound 1108
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ぷ、プロデューサー、待った！　この子、
+line2 <shift> # 女の子です！　あれ……君、塩田さん！？」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なんだ、真、知り合いか？」
+display
+com14 0 0
+com29 0 0
+com16 0 1
+com11 0 4
+sound 1109
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ボクの高校の、下級生です。ちょうど１学年
+line2 <shift> # 下で……。こんなところで、なにしてるの？」
+display
+com14 0 0
+com29 0 4
+com15 0 11
+com11 0 4
+sound 1110
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「え、『私だけのアイドルで、いてください』？
+line2 <shift> # そ、そんなコト、言われても〜！」
+display
+com14 0 0
+com29 0 1
+com15 0 20
+com16 0 21
+com11 0 4
+sound 1111
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサー。この子、学校でも、たまに
+line2 <shift> # ボクの様子、物陰から、うかがってるんです」
+display
+com11 0 4
+sound 1112
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「この間、学食で昼ご飯、食べてる時も……。
+line2 <shift> # どうにか、あきらめさせてもらえませんか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （……この子、あぶない目、してるな。
+line2 <shift> # よし、ここは真のためにも、厳しめに！）
+com03 0 3
+choice1 <shift> # 身分は、わきまえような
+line2
+com09 0 30
+com08
+choice2 <shift> # 警察に、突き出されたいか？
+line2
+com09 0 31
+com08
+choice3 <shift> # 君も、なにかをめざせ！
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+com34 0 3
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「身分は、わきまえような。
+line2 <shift> # もう真は、君と同じ世界の住人じゃないんだ」
+display
+com11 0 4
+sound 1113
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そうそう！　だから、学校の中だけには、
+line2 <shift> # いられない。……わかるよね？」
+display
+com22 0 30
+com32 0 1
+com21 0 30
+com14 0 0
+com29 0 1
+com15 0 20
+com16 0 21
+com11 0 4
+sound 1114
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ふぅー、助かりました。プロデューサーの言葉、
+line2 <shift> # 相当効いたみたいです。あの分なら、もう……」
+display
+com14 0 0
+com29 0 2
+com15 0 31
+com15 0 32
+com11 0 4
+sound 1115
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「お礼に、学食でなにか、おごりましょうか？
+line2 <shift> # カツカレーとか、かなりいけますよ。へへ」
+display <shift> # （無事、解決できて、なによりだ。そうか。真の
+line2 <shift> # 学校の学食は、カツカレーがうまいのか）
+com09 0 49
+display
+location 31
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「警察に、突き出されたいか？　
+line2 <shift> # 君の出方によっては、こっちにも考えがある」
+display
+com14 0 0
+com29 0 9
+com15 0 110
+com16 0 111
+com11 0 4
+sound 1116
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ぷ、プロデューサー！？　そこまで、
+line2 <shift> # 話、大きくしなくても……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「黙っててくれ。俺には、タレントを守る義務が
+line2 <shift> # ある。さ、塩田さんだっけ？　どうなんだっ！」
+display
+com22 0 30
+com32 0 1
+com21 0 30
+com14 0 0
+com29 0 2
+com15 0 70
+com16 0 71
+com11 0 4
+sound 1117
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「泣きながら、帰っていきましたね。あれなら、
+line2 <shift> # もう、つきまとってこないと思います」
+display
+com11 0 4
+sound 1118
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「けど、プロデューサーって、意外とこわいとこ、
+line2 <shift> # あるんですね。ボク、ビックリしました……」
+display <shift> # （責任は果たしたけど、やや、やりすぎたか？　
+line2 <shift> # 真まで、こわがらせてしまったようだ……）
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「君も、なにかをめざせ！　ストーカーなんか
+line2 <shift> # してるヒマがあるなら、真を見習えよ！」
+display
+com14 0 0
+com29 0 0
+com16 0 1
+com11 0 4
+sound 1119
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そ、そうだよ。塩田さんも、なにかはじめると
+line2 <shift> # いい。きっと、世界が変わるはずだからっ！」
+display
+com11 0 4
+sound 1120
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「え、めざすものは……もう決まってる？
+line2 <shift> # そ、それって、まさか……！」
+display
+com22 0 30
+com32 0 1
+com21 0 30
+com14 0 0
+com29 0 2
+com15 0 70
+com16 0 71
+com11 0 4
+sound 1121
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うう……どうしよう〜。ボクの恋人になりたい
+line2 <shift> # なんて、あきらかに正気を失って……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……ごめん。ああいえば、すこしは考えを
+line2 <shift> # 変えられると思ったんだけど……」
+display
+com11 0 4
+sound 1122
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「今度から、学食、行かない方がいいかな。
+line2 <shift> # 早起きして、自分でお弁当つくるしか……」
+display <shift> # （塩田さん撃退作戦は、大失敗……。もっと
+line2 <shift> # きつい言葉、ぶつけるべきだったかな）
+com09 0 49
+display
+location 49
+unk02

@@ -1,0 +1,341 @@
+com2c 0 106
+com2c 0 57
+com2d 0 91
+com2e 0 101
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ここが、亜美達の家の、キッチンか……。
+line2 <shift> # ふたりの親は、今、留守なんだな？」
+display
+com11 0 1
+sound 1100
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「うん、そう！　じゃあ、兄ちゃん、
+line2 <shift> # 音を立てずに、ついてきてねっ」
+display
+com11 0 1
+sound 1101
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「おかしゲット作戦、開始っ！　ママが帰って
+line2 <shift> # くる前に、家にあるの、ぜんぶ食べちゃお〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、だけど、一流アイドルが、自宅に
+line2 <shift> # 忍び込んで、盗み食いなんて……」
+com03 0 3
+choice1 <shift> # 笑っちゃうよな
+line2
+com09 0 10
+com08
+choice2 <shift> # あさましいよな
+line2
+com09 0 11
+com08
+choice3 <shift> # 恥ずかしいよな
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「笑っちゃうよな」
+display
+com11 0 1
+sound 1102
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「そっかな〜。でも、しかたないよ。ママ、
+line2 <shift> # おやつの量、なかなか増やしてくれないし〜」
+display
+com11 0 1
+sound 1103
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「兄ちゃんも、手貸してね。そのかわり、
+line2 <shift> # うまくいったら、山分けだよっ♪」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あさましいよな」
+display
+com11 0 1
+sound 1104
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「アサメシじゃないよ？　おやつだよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だ、誰も朝飯とは、言ってないだろ。
+line2 <shift> # あさましいってのは、いやしいってこと」
+display
+com11 0 1
+sound 1105
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「そっかな〜。でも、しかたないよ。ママ、
+line2 <shift> # おやつの量、増やしてくれないんだもん」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「恥ずかしいよな」
+display
+com11 0 1
+sound 1106
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「そ〜お？　真美達、別にそんなの、
+line2 <shift> # 気にしないけど〜」
+display
+com11 0 1
+sound 1107
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「人気者になったって、おなかが減るのは、
+line2 <shift> # かわらないし〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ま、それは、そうだけどな」
+com09 0 29
+display
+location 29
+com11 0 1
+sound 1108
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「んで、ターゲットは、なんにする？
+line2 <shift> # 兄ちゃんは、どんなお菓子、食べたい？」
+com03 0 3
+choice1 <shift> # チョコが、いいな
+line2
+com09 0 30
+com08
+choice2 <shift> # ケーキが、いいな
+line2
+com09 0 31
+com08
+choice3 <shift> # 松阪牛が、いいな
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「チョコが、いいな」
+display
+com11 0 1
+sound 1109
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「あ、チョコなら、たしか一番上の棚に……。
+line2 <shift> # よーし、亜美、イス持ってくる！」
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ケーキが、いいな」
+display
+com11 0 1
+sound 1110
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ん〜、それはさすがに、あるかなあ……？
+line2 <shift> # ママ、つくり置きとか、あんまりしないし」
+display
+com11 0 1
+sound 1111
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「でも、一応、冷蔵庫、のぞいてみよっか。
+line2 <shift> # もしかしたら……」
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「松阪牛が、いいな」
+display
+com11 0 1
+sound 1112
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ええええ、おやつに牛肉、食べるの〜？
+line2 <shift> # それ、おかしいよ〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうか？　腹持ちがよくて、いいかと
+line2 <shift> # 思ったんだけど」
+display
+com11 0 1
+sound 1113
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「んじゃ、冷凍庫、探してみよっか。マツザカ
+line2 <shift> # って書いてある、牛肉見つければいいんだね」
+com09 0 49
+display
+location 49
+com11 0 1
+sound 1114
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「あ、あれ？　亜美、今、玄関で音したよ。
+line2 <shift> # ただいまーって、声も……。まさか〜」
+display
+com11 0 1
+sound 1115
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「うそ〜〜〜！　ママ、帰ってきちゃったの？
+line2 <shift> # どうしよう〜〜〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お、落ち着けって。こういう時は、あせったら
+line2 <shift> # 負けだ！」
+display
+com11 0 1
+sound 1116
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「早くなんとかしないと、見つかっちゃう〜！
+line2 <shift> # 兄ちゃん、どこに隠れるっ？」
+com03 0 3
+choice1 <shift> # 隠れないで、立っていよう
+line2
+com09 0 50
+com08
+choice2 <shift> # よし、テーブルの下だ！
+line2
+com09 0 51
+com08
+choice3 <shift> # 外へ、逃げよう！
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「隠れないで、立っていよう。ヘンに動くと、
+line2 <shift> # かえって、怪しまれる！」
+display
+com11 0 1
+sound 1117
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「わ、わかった〜。じゃあ、普通の顔で……。
+line2 <shift> # あ、ママおかえり〜。お客さん、連れてきたよ」
+display
+com22 0 30
+com32 0 1
+com21 0 30
+com11 0 1
+sound 1118
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ふぅ〜、食べた、食べた〜！　兄ちゃんの事
+line2 <shift> # 話したら、おやつたくさん出してくれたね！」
+display
+com11 0 1
+sound 1119
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「はじめから、こうしとけば、よかった〜。
+line2 <shift> # 兄ちゃん、これからは毎日遊びにきてね♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ふたりのママは、俺を、あたたかくもてなして
+line2 <shift> # くれた。ふぅ、腹も心も、ふくれた感じかな）
+com09 0 69
+display
+location 51
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、テーブルの下だ！　ふたりとも、
+line2 <shift> # もぐれ！」
+display
+com11 0 1
+sound 1120
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ええええ、そんなとこ隠れたって、丸見え
+line2 <shift> # だよ〜。亜美のママ、地震じゃないんだよ？」
+display
+com11 0 1
+sound 1121
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「もっと、どっか見えないところにっ！
+line2 <shift> # 冷蔵庫の中とか……。……あ、ママ。やっほ〜」
+display
+com22 0 30
+com32 0 1
+com21 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「結局、見つかって、大笑いされちゃったな。
+line2 <shift> # おやつは食べさせてくれたから、よかったけど」
+display
+com11 0 1
+sound 1122
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「これなら、はじめから正々堂々、行った方が、
+line2 <shift> # ラクだったね。なんかムダボネだったかも……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （隠れそこねて、恥をかいてしまった。
+line2 <shift> # けど……ふたりのママに会えて、よかったな）
+com09 0 69
+display
+location 52
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「外へ、逃げよう！」
+display
+com11 0 1
+sound 1123
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ええええ、うまく抜け出せるかなあ？　足音で
+line2 <shift> # 見つかっちゃうかも……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ここにいたって、いつかは見つかるよ。
+line2 <shift> # 玄関まで忍び足で、そこからダッシュだ！」
+display
+com22 0 30
+com32 0 1
+com21 0 30
+com11 0 1
+sound 1124
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「はぁ、ふぅ、はぁ……、兄ちゃ〜ん、真美、
+line2 <shift> # 走りすぎで、余計おなかすいちゃった〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ふぅ〜、ガマンしろよ。おやつ食べに戻るわけ
+line2 <shift> # にはいかないし。後で、なんか買ってやるから」
+display
+com11 0 1
+sound 1125
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「どうして、自分の家から、逃げなきゃいけない
+line2 <shift> # の〜。これじゃ、本物のドロボウみたーい……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ここまで、過剰に反応することは、なかった
+line2 <shift> # かもな。ふたりとも、疲れ切った顔している）
+com09 0 69
+display
+location 69
+unk02

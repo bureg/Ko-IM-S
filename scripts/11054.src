@@ -1,0 +1,372 @@
+com2c 0 32
+com2d 0 23
+com32 0 0
+com14 0 0
+com29 0 4
+com15 0 11
+com11 0 4
+sound 1000
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ＣＤショップでライブなんて、しょぼいコト
+line2 <shift> # やるのね〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか？　こういうのも、オシャレでいいと
+line2 <shift> # 思うけど？」
+display
+com14 0 0
+com29 0 12
+com15 0 51
+com16 0 52
+com11 0 4
+sound 1001
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「せせこましいだけじゃないの。見なさいよ、
+line2 <shift> # このギュウギュウの人。まるでイモ洗い……」
+com03 0 3
+choice1 <shift> # つらそうだな
+line2
+com09 0 10
+com08
+choice2 <shift> # おいしそうだね
+line2
+com09 0 11
+com08
+choice3 <shift> # 失礼だな……
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「つらそうだな」
+display
+com14 0 0
+com29 0 0
+com16 0 1
+com11 0 4
+sound 1002
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「まあ、いいけど……。どうせ覚悟の上で、
+line2 <shift> # 見にきてるんだろうから」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おいしそうだね」
+display
+com14 0 0
+com29 0 12
+com15 0 51
+com16 0 52
+com11 0 4
+sound 1003
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そんなわけないでしょ！　本物の
+line2 <shift> # イモじゃないんだからーっ！」
+display
+com14 0 0
+com29 0 0
+com16 0 1
+com11 0 4
+sound 1004
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……だいたい、私、おイモ嫌いなの！
+line2 <shift> # 口当たり、ボソボソしてるし……」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「失礼だな……」
+display
+com14 0 0
+com29 0 18
+com15 0 140
+com16 0 141
+com11 0 4
+sound 1005
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なによ〜……。ほんとのこと言って、
+line2 <shift> # どこが悪いのよー」
+display
+com11 0 4
+sound 1006
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ジャガイモ、ゴロゴロ、ゴツンゴツンって感じ。
+line2 <shift> # 見てるだけで、息苦しくなってくるわ」
+com09 0 19
+display
+location 19
+com14 0 0
+com29 0 0
+com16 0 1
+com11 0 4
+sound 1007
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あ、ねえ。こんな小さいライブなら、ちょっと
+line2 <shift> # 冒険してみても、いいと思わない？」
+display
+com11 0 4
+sound 1008
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「私、前から、あの曲、英語バージョンで
+line2 <shift> # 歌ってみたかったのー♪」
+com03 0 3
+choice1 <shift> # 日本語じゃ、物足りない？
+line2
+com09 0 20
+com08
+choice2 <shift> # あの曲、嫌いなのか？
+line2
+com09 0 21
+com08
+choice3 <shift> # 目立ちたがりだな
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「日本語じゃ、物足りない？」
+display
+com14 0 0
+com29 0 0
+com15 0 80
+com16 0 81
+com11 0 4
+sound 1009
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「やっぱり、そこまでやってこそ、真のアイドル
+line2 <shift> # じゃない？　どんな気分か、試してみたいわ」
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あの曲、嫌いなのか？」
+display
+com11 0 4
+sound 1010
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「別にそういうわけじゃないけど。でも、わかる
+line2 <shift> # でしょ？　私の力、見せつけてやりたいの！」
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「目立ちたがりだな」
+display
+com14 0 0
+com29 0 12
+com15 0 51
+com16 0 52
+com11 0 4
+sound 1011
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そんな言い方、ないでしょ！　このくらい、
+line2 <shift> # 真のアイドルなら、やって当然よっ」
+display
+com14 0 0
+com29 0 18
+com15 0 140
+com16 0 141
+com11 0 4
+sound 1012
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「人を、まるでわがまま放題みたいに言うの……
+line2 <shift> # やめてよねっ」
+com09 0 29
+display
+location 29
+com14 0 0
+com29 0 0
+com16 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「挑戦して失敗したら……恥かく上、ボロボロに
+line2 <shift> # なるぞ？　力量的にも、かなり……」
+display
+com11 0 4
+sound 1013
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「大丈夫よ！　レッスンじゃ、何度も
+line2 <shift> # 練習してるんだし！」
+display
+com14 0 0
+com29 0 1
+com15 0 20
+com16 0 21
+com11 0 4
+sound 1014
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「どうせちっぽけな仕事しかこないんなら、
+line2 <shift> # 楽しみは自分でつくるわ！　ね、いいわよね？」
+com03 0 3
+choice1 <shift> # わかった、ダメで元々だ
+line2
+com09 0 30
+com08
+choice2 <shift> # わかった、信じるよ
+line2
+com09 0 31
+com08
+choice3 <shift> # やめておくのが、身のためだ
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+com34 0 3
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わかった、ダメで元々だ」
+display
+com14 0 0
+com29 0 4
+com15 0 11
+com11 0 4
+sound 1015
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「バカにしないでよ、ダメ元なんて……！　
+line2 <shift> # 見てなさい！　ぎゃふんと言わせてやるわ♪」
+display
+com22 0 30
+com21 0 30
+com14 0 0
+com29 0 2
+com15 0 70
+com16 0 71
+com11 0 4
+sound 1016
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「…………ぎゃふん」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「さんざんだったな……。でも、いいだろ？
+line2 <shift> # ダメで元々なんだから」
+display
+com11 0 4
+sound 1017
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……そうね。気にしすぎないようにするわ……。
+line2 <shift> # けどっ、いつか、見てなさいよっ！　く〜！」
+display
+com14 0 0
+com29 0 12
+com15 0 60
+com16 0 61 129 105 130 177 130 234 130 197 130 162 130 162 129 66 131 137 131 67 131 117 130 205 131 129 131 96 131 131 131 129 131 96 131 131 130 190 130 193 130 189 130 175 130 199 129 65
+line2 <shift> # いい勉強になったみたいだしな）
+com09 0 39
+display
+location 31
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わかった、信じるよ」
+display
+com14 0 0
+com29 0 2
+com15 0 31
+com15 0 32
+com11 0 4
+sound 1018
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ありがと♪　まあ、見てて！　任せて
+line2 <shift> # よかったって、絶対に言わせてみせるから！」
+display
+com22 0 30
+com21 0 30
+com14 0 0
+com29 0 12
+com15 0 60
+com16 0 61
+com11 0 4
+sound 1019
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「…………く。レッスンと本番が、あんなに
+line2 <shift> # ちがうなんて……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いけると思ったんだけどな……」
+display
+com11 0 4
+sound 1020
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あ、あんたが悪いのよっ。どうしてやる前に、
+line2 <shift> # 止めてくれなかったのよ〜？」
+display
+com14 0 0
+com29 0 2
+com15 0 70
+com16 0 71
+com11 0 4
+sound 1021
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……フン、笑いたければ、笑えばいいじゃない。
+line2 <shift> # 私なんて、どうせこの程度だわ……」
+display <shift> # （落ち込んでしまった……。挑戦することは、
+line2 <shift> # 決して悪いこととは、思わないけどな）
+com09 0 39
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やめておくのが、身のためだ」
+display
+com14 0 0
+com29 0 12
+com15 0 51
+com16 0 52
+com11 0 4
+sound 1022
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なんで、そんな風に思うわけ？　せっかく
+line2 <shift> # チャレンジしたいって言ってるのに〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どう考えたって、しくじるのは目に見えてる
+line2 <shift> # だろ？　俺は伊織のためを思って……」
+display
+com14 0 0
+com29 0 18
+com15 0 140
+com16 0 141
+com11 0 4
+sound 1023
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……わかったわよ。やめればいいんでしょ、
+line2 <shift> # やめれば……。じゃ、普通にやってくるわ」
+display
+com22 0 30
+com21 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……なんか、テンション低かったな」
+display
+com14 0 0
+com29 0 0
+com16 0 1
+com11 0 4
+sound 1024
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「いいでしょ！　失敗したわけじゃないんだし。
+line2 <shift> # 無難にやって、無難に終わらせて……」
+display
+com14 0 0
+com29 0 18
+com15 0 131
+com15 0 132
+com11 0 4
+sound 1025
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あ〜あ、こんなアイドル生活、つまんない〜。
+line2 <shift> # つまんない、つまんない、つまんない〜っ！」
+display <shift> # （フラストレーションをためてしまった……。
+line2 <shift> # 失敗覚悟で、やらせてみても、よかったか）
+com09 0 39
+display
+location 39
+unk02

@@ -1,0 +1,469 @@
+com2c 0 53
+com2c 0 113
+com2d 0 131
+com2e 0 111
+com32 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今朝は、早起きできたぞ。せっかくだから、
+line2 <shift> # 寄り道でもしながら、事務所へ行こうかな？）
+com03 0 2
+choice1 <shift> # どこかに寄り道する
+line2
+com09 0 10
+com08
+choice2 <shift> # まっすぐ事務所に行く
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+com22 0 30
+com21 0 30
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （早起きは三文の得、なんて言うけど、
+line2 <shift> # 何か得するような出来事、起こらないかな）
+display
+com11 0 0
+sound 10000
+com4c 0 1
+name 0 0 <names:2>  # ???
+line1 <shift> # 「くぅ……、すぅ……。うわぁ、
+line2 <shift> # いちごババロアのタワーなの。……むにゃ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ん？　誰か寝ているみたいだぞ。
+line2 <shift> # まさかとは思うけど……」
+display
+com11 0 0
+sound 10001
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「くぅ……、すぅ……。
+line2 <shift> # すごーい、いただきまーす……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やっぱり、美希か……。どこででも寝てるなあ。
+line2 <shift> # おい、こんな所で寝るな。起きろって！」
+display
+com11 0 0
+sound 10002
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「……あふぅ。あ、プロデューサー！
+line2 <shift> # おはようなの。早起きすると眠いね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「寝てたんだから、早起きしてないじゃないか。
+line2 <shift> # まあ、いいけど。なあ、美希……」
+com03 0 3
+choice1 <shift> # 何故ここで寝てるんだ？
+line2
+com09 0 20
+com08
+choice2 <shift> # 何故９６１プロに移ったんだ？
+line2
+com09 0 21
+com08
+choice3 <shift> # 何故金髪なんだ？
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （いや、そんなヒマがあったら、仕事、仕事！
+line2 <shift> # すぐ事務所へ行くとしよう！）
+com09 0 99
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「何故ここで寝てるんだ？」
+display
+com11 0 0
+sound 10003
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「んー、なんかね、９６１プロのアイドル候補生
+line2 <shift> # の子に、探し物手伝ってって、頼まれたの」
+display
+com11 0 0
+sound 10004
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「そしたら、プロデューサーに会えちゃった！
+line2 <shift> # ラッキー！　早起きして良かったの。あはっ☆」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だから、起きてなかったじゃないか……」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「何故９６１プロに移ったんだ？」
+display
+com11 0 0
+sound 10005
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「えー、起きてすぐ、そんな難しい話するの？
+line2 <shift> # ミキ、まだ頭が起きてないから待ってほしいな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか、わかったよ。
+line2 <shift> # で、どのくらい待てばいいんだ？」
+display
+com11 0 0
+sound 10006
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「んー、１２時間くらい？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ぶっ！　そんなに待ったら、夜じゃないか！」
+display
+com11 0 0
+sound 10007
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「うん。その頃には、そろそろまた、
+line2 <shift> # 眠くなってるかもしれないの」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「結局、美希って、
+line2 <shift> # １日中、ずっと眠いんだな……」
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「何故金髪なんだ？
+line2 <shift> # その色、地毛じゃないよな？」
+display
+com11 0 0
+sound 10008
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「あ、ミキの髪、気になる？　あのね、これは、
+line2 <shift> # オシャレで、この色にしてるの」
+display
+com11 0 0
+sound 10009
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ミキの学校、校則とか自由なんだよ。
+line2 <shift> # だから、似合うかなーと思って、やってみたの」
+display
+com11 0 0
+sound 10010
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「でも、この髪のせいで『派手な子』って、
+line2 <shift> # 思われることがあって、むーってカンジ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そっか。見た目で判断されたくないわけだな。
+line2 <shift> # ……あ」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなことより美希、事務所の皆が心配してる
+line2 <shift> # ぞ。７６５プロに戻って来る気、ないのか？」
+display
+com11 0 0
+sound 10011
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「え……。だって、ミキ……」
+display
+com11 0 0
+sound 10012
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「モモ次郎ー！？　どこ行った、モモ次郎ー！！
+line2 <shift> # 自分が悪かった！　帰って来い、モモ次郎ー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「く……。大事な話をしている時に、
+line2 <shift> # 能天気な大声を出しているのは、誰だ！？」
+display
+com11 0 0
+sound 10013
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「モモ次郎、ここかっ！？　……なーんだ、
+line2 <shift> # 美希か。えーと、そっちの人は？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （おおっ。元気で、なかなか魅力的な子だな。
+line2 <shift> # ９６１プロの子か？）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「こんにちは。俺は……」
+com03 0 3
+choice1 <shift> # ７６５プロの者だよ
+line2
+com09 0 30
+com08
+choice2 <shift> # プロデューサーだよ
+line2
+com09 0 31
+com08
+choice3 <shift> # 美希の恋人だよ
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「７６５プロの者だよ。はじめまして」
+display
+com11 0 0
+sound 10014
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「えっ。７６５プロ！？　あの、黒井社長が、
+line2 <shift> # いつも言ってる変態事務所の７６５プロ！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「へ、変態事務所！？
+line2 <shift> # 何か、大きな誤解があるようだけど……」
+display
+com11 0 0
+sound 10015
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「そうだよー。いつも言ってるでしょ。変態は、
+line2 <shift> # 高木社長だけだってば、響。事務所は普通なの」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それも、違うと思うけど……、たぶん」
+com09 0 39
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「プロデューサーだよ。はじめまして」
+display
+com11 0 0
+sound 10016
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「ふーん、９６１プロにも、
+line2 <shift> # プロデューサーいたんだ？　ビックリだぞ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、９６１プロじゃなくて、
+line2 <shift> # ７６５プロのプロデューサーなんだよ」
+display
+com11 0 0
+sound 10017
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「ええーっ！　自分、７６５プロなんかと、しゃ
+line2 <shift> # べっちゃったのか！　ううっ、やっちゃった！」
+display
+com11 0 0
+sound 10018
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「７６５プロは敵なのに！　黒井社長に怒られる
+line2 <shift> # よーっ！　ううう、ヘコむーっ！」
+display
+com11 0 0
+sound 10019
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「黒井社長には、黙っとけばわからないって
+line2 <shift> # 思うな。……あふぅ」
+display
+com11 0 0
+sound 10020
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「それより響、朝からうるさすぎなの。ヘコむ時
+line2 <shift> # くらい、静かにヘコんでほしいってカンジ！」
+display
+com11 0 0
+sound 10021
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「ぶー。悪かったねっ！」
+com09 0 39
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「美希の恋人だよ。はじめまして。
+line2 <shift> # ……なーんて」
+display
+com11 0 0
+sound 10022
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「うんっ、そうなの☆
+line2 <shift> # ミキのハニーだから、とっちゃダメだよ、響？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「こ、こらっ！　そこは『ちがーう！』とか、
+line2 <shift> # ツッコむところだろ！　事実じゃないんだから」
+display
+com11 0 0
+sound 10023
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ミキは、事実ってことにしても、別にいいよ？
+line2 <shift> # 彼氏欲しいし。あはっ☆」
+display
+com11 0 0
+sound 10024
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「んーと、じゃ結局、本当に恋人ってことで、
+line2 <shift> # いいのかな！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ち、ちがーう！　さっきのは冗談。俺は、
+line2 <shift> # ７６５プロ所属の、ただのプロデューサーだよ」
+display
+com11 0 0
+sound 10025
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「ええっ！　７６５プロ！？
+line2 <shift> # ９６１プロの宿敵の、あの、７６５プロっ！？」
+display
+com11 0 0
+sound 10026
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「そうだけど、宿敵なのは高木社長だよ。
+line2 <shift> # プロデューサーは、ミキの恋人候補だもん」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だから、違うというのに！」
+com09 0 39
+display
+location 39
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、それで……、
+line2 <shift> # 君は、９６１プロの子なのかい？」
+display
+com11 0 0
+sound 10027
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「うん。自分、我那覇響！　１５歳！　クールな
+line2 <shift> # イメージで売り出し中のアイドルだぞっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「クール！？　どっちかというと君は、
+line2 <shift> # かなり、にぎやかな雰囲気だと思うけどなあ」
+display
+com11 0 0
+sound 10028
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「でも自分、だまってたらクールに見えなくもな
+line2 <shift> # いし！　その方が皆、喜ぶんだから仕方ないよ」
+display
+com11 0 0
+sound 10029
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「それが、９６１プロのやり方だからね！
+line2 <shift> # ま、それはさておき、モモ次郎見なかった！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「モモ次郎？　……って何だい？」
+display
+com11 0 0
+sound 10030
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「自分が飼ってる、モモンガのモモ次郎だよ！
+line2 <shift> # カゴをあけたら、うっかり逃がしちゃって！」
+display
+com11 0 0
+sound 10031
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「さっきからずっと、探してるんだよ。モモンガ
+line2 <shift> # って飛ぶから、逃げると、やっかいなんだぞ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ふーん。いや、見てないなあ、モモンガは」
+display
+com11 0 0
+sound 10032
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「そっか！　ありがとう！　じゃ、自分、
+line2 <shift> # 別の所を探すから、行くね。バイバイっ！」
+display
+com11 0 0
+sound 10033
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「モモ次郎ー！？　どこ行った、モモ次郎ー！！
+line2 <shift> # 自分が悪かった！　帰って来い、モモ次郎ー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「元気な子だなあ……」
+display
+com11 0 0
+sound 10034
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「だよね〜。響って、飼ってる動物よく逃がして、
+line2 <shift> # その度に追いかけ回してるんだよ。ウルサイの」
+display
+com11 0 0
+sound 10035
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ミキは、どうせ追いかけるなら、別のものが
+line2 <shift> # いいな……。愛・す・る・ハ・ニーとか☆」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ……」
+display
+com11 0 0
+sound 10036
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「こら、美希っ！　サボるなっ！　美希も、
+line2 <shift> # モモ次郎探し、手伝いにきたんでしょ！？」
+display
+com11 0 0
+sound 10037
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「ちゃんと手伝わないと、レッスンの時、
+line2 <shift> # 寝てたこと、黒井社長に言っちゃうぞ！」
+display
+com11 0 0
+sound 10038
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「うわあ。それはマズいの！　今、行くから！
+line2 <shift> # じゃあね、プロデューサー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （我那覇響か……。美希もだけど、響も、華の
+line2 <shift> # ある、アイドルとしての才能にあふれた子だな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （９６１プロ所属のアイドル達は、かなりの強敵
+line2 <shift> # のようだ。気を引き締めて、がんばらないと！）
+com09 0 99
+display
+location 99
+unk02

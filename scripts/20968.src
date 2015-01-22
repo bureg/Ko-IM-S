@@ -1,0 +1,461 @@
+com2c 0 24
+com2c 0 25
+com2d 0 51
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あずささん、今度の特番ドラマの台本、
+line2 <shift> # もう読みましたか？」
+display
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「それが、実はまだ１ページも……。
+line2 <shift> # 怪奇ドラマですから、怖くって、つい……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「つい、じゃ困りますよ。本番も近いんですから、
+line2 <shift> # ちゃんと読んでおいて下さいね」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「す、すみません。でも、夜、ひとりで読んだり
+line2 <shift> # したら、お化けが、出てきそうな気がして……」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「私、一人暮らしですから、夜に
+line2 <shift> # ひとりっきりだと、本当に怖いんです〜」
+com03 0 3
+choice1 <shift> # 幽霊なんていません
+line2
+com09 0 10
+com08
+choice2 <shift> # 何とか、頑張って下さい
+line2
+com09 0 11
+com08
+choice3 <shift> # たしかに出るかも……
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「幽霊なんていません。ドラマの台本にあるよう
+line2 <shift> # なことは、現実には、ありえませんから」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「そ、そうでしょうか？　この番組に出演したら
+line2 <shift> # 最後、呪われてしまったり、しませんか〜？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「怪奇ドラマやホラー映画に出るたびに、いちい
+line2 <shift> # ち呪われてたら、役者がいなくなりますよ……」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あ……。言われてみれば、
+line2 <shift> # 確かに、そうかもしれません」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「怪奇ドラマに出演しても、元気な方は、
+line2 <shift> # たくさんいらっしゃいますものね」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「……でも、台本を読むと、やっぱりどうしても、
+line2 <shift> # 背筋が、ぞわわ〜っと、してしまうんです〜」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「何とか、頑張って下さい。
+line2 <shift> # 本番は、もうすぐなんですから」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「何とかと言われましても……。
+line2 <shift> # すみません。やっぱり、怖いものは怖いです」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「お化けを怖がって、お仕事が手につかないなん
+line2 <shift> # て、良くないとは、わかっているのですけれど」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「でも、もし、ドアのすきまから、お化けが、
+line2 <shift> # にゅっと顔を出したらと思うと……。ううっ」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「たしかに出るかも……」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「で、出る……、と、言いますと？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ほら、よく怪談話をしてると、
+line2 <shift> # 霊が集まるとか、言うじゃないですか……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もしかしたら、今、この瞬間も、誰か、
+line2 <shift> # 人でないモノが、見つめているのかも……」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「や、やめて下さい！
+line2 <shift> # そんなこと、言わないで下さいぃー……」
+display
+com11 0 0
+sound 10012
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ううっ。もう、お家に帰れません。
+line2 <shift> # しばらく、事務所に泊まっていいでしょうか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、それはさすがに、ちょっと……」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、困りましたね……。あずささん、
+line2 <shift> # いつまでも怖がっていちゃ、仕方ないですよ」
+display
+com11 0 0
+sound 10013
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「そ、そうですね。なんとかして気持ち、
+line2 <shift> # 切り替えないと。わかっては、いるんですよ？」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「でも、一人で読むのはムリそうですから、
+line2 <shift> # ここで読んでいっても、いいでしょうか？」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「プロデューサーさんの勇気、少しだけ、貸して
+line2 <shift> # いただきたいんです〜。……ダメですか？」
+com03 0 3
+choice1 <shift> # お安い御用です
+line2
+com09 0 30
+com08
+choice2 <shift> # ダメです！
+com09 0 31
+com08
+choice3 <shift> # 甘えん坊だなあ
+line2
+com09 0 32
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いえ、お安い御用ですよ。あずささんの
+line2 <shift> # ためなら、俺は、どんなことだってします！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……というわけで、さっそく、
+line2 <shift> # 一緒に台本、読んでみましょう！」
+display
+com11 0 0
+sound 10016
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「プロデューサーさん……。
+line2 <shift> # はいっ！　よろしくお願いします〜。ふふっ」
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ダメです！　あずささんは、もう一流のアイド
+line2 <shift> # ルなんですから、少しは、ひとり立ちしないと」
+display
+com11 0 0
+sound 10017
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「はあ……。やっぱりそうですよね。いつまでも
+line2 <shift> # プロデューサーさん頼みでは、いけませんよね」
+display
+com11 0 0
+sound 10018
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「わかりました〜。今夜、勇気をふりしぼって、
+line2 <shift> # 読んできます。うう、くすんっ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「な、何も、泣かなくたっていいじゃないですか。
+line2 <shift> # こ、困ったなあ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……仕方ない。あずささんには負けましたよ。
+line2 <shift> # ここで読んでいって下さい。俺も付き合います」
+display
+com11 0 0
+sound 10019
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「えっ、本当ですか？　……プロデューサーさん、
+line2 <shift> # やっぱり優しいですね。ふふっ。うれしいです」
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「甘えん坊だなあ、あずささんは……。
+line2 <shift> # それじゃまるで、ダダっ子ですよ」
+display
+com11 0 0
+sound 10020
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「えっ！　そ、そうでしょうか〜？　でも別に、
+line2 <shift> # ダダをこねているつもりはないんです」
+display
+com11 0 0
+sound 10021
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「本当に怖いだけなのですけれど。プロデュー
+line2 <shift> # サーさんなら、わかって下さるとばかり……」
+display
+com11 0 0
+sound 10022
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ちょっと、考えが甘かったようですね。
+line2 <shift> # 申し訳ありませんでした〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、いえ。俺も、ちょっと言い過ぎたような
+line2 <shift> # 気も……。こちらこそ、すみませんでした！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなに怖いなら、ここで台本、
+line2 <shift> # 読んでいって下さい。俺も付き合いますから」
+display
+com11 0 0
+sound 10023
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「え……。いいんですか？
+line2 <shift> # すみません。ムリをお願いしてしまって」
+com09 0 49
+display
+location 49
+com22 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そして、ようやく、
+line2 <shift> # あずささんは台本を読み始めた……）
+display
+com21 0 30
+com11 0 0
+sound 10024
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あらあら。私、幽霊役ですか？
+line2 <shift> # 怖がらせる側だったんですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「う……。本当に１ページも読んでなかったん
+line2 <shift> # ですね、台本……。そうですよ、幽霊役です」
+display
+com11 0 0
+sound 10025
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「んー。これは、お化けを怖がっている場合では、
+line2 <shift> # ありませんね。うまく役作りしないと」
+display
+com11 0 0
+sound 10026
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「恨みを抱いたまま亡くなった、かわいそうな
+line2 <shift> # 女性の演技……、とても難しそうです〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええ。でも、すごく大切な役ですよ。
+line2 <shift> # しっかり、幽霊のイメージ、つかんで下さい」
+display
+com11 0 0
+sound 10027
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「はい。でも、幽霊のイメージって、
+line2 <shift> # どうすれば、つかめるのかしら……」
+com03 0 3
+choice1 <shift> # ホラー映画を観ましょう
+line2
+com09 0 50
+com08
+choice2 <shift> # お化け屋敷で特訓しましょう
+line2
+com09 0 51
+com08
+choice3 <shift> # 心霊スポットに行きましょう
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ホラー映画を、観ましょう」
+display
+com11 0 0
+sound 10028
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「うぅ……。なんとなく、そう言われるような
+line2 <shift> # 気は、していました。はあ〜……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「気がすすまないみたいですね……。あずささん、
+line2 <shift> # 普段、ホラー映画って、どれくらい観てます？」
+display
+com11 0 0
+sound 10029
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「実は、あまり観たことがないんです。
+line2 <shift> # 怖いのは、本当に苦手で……」
+display
+com11 0 0
+sound 10030
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「プロデューサーさん、お願いです。
+line2 <shift> # 事務所で一緒に、観てもらえませんか……？」
+display
+com11 0 0
+sound 10031
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「私ひとりでは、とても……。
+line2 <shift> # お願いします！　役作りのために」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わかりました。そういうことなら、
+line2 <shift> # 今日さっそく、一緒に観ましょう！」
+display
+com22 0 30
+com21 0 30
+com32 0 1
+com11 0 0
+sound 10032
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「きゃあああー！　で、出ました、
+line2 <shift> # プロデューサーさん！　ううっ、助けて〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あずささん、落ち着いて！　ただの映画ですよ。
+line2 <shift> # そんなに、抱きつかないで下さいーっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （最初は怖がって画面を見もしなかったあずささ
+line2 <shift> # んだったが、次第にポイントをつかみ始め……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ドラマ本番では、怖くて悲しい幽霊の役を、
+line2 <shift> # 見事に演じきった！　うまくいったな！）
+com09 0 69
+display
+location 51
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お化け屋敷で、特訓しましょう」
+display
+com11 0 0
+sound 10033
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「お化け屋敷、ですか。怖いウワサをきいて以来、
+line2 <shift> # 入ったことがないのですけれど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「怖いウワサ？」
+display
+com11 0 0
+sound 10034
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「はい。お化け屋敷に出るお化けのうち、
+line2 <shift> # １体は本物だと、友達から、きいたんです〜」
+display
+com11 0 0
+sound 10035
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「それ以来、本物のお化けが出たらと思うと、
+line2 <shift> # 怖くて……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「願ったりかなったりじゃないですか！　もし
+line2 <shift> # 本当に出たら、演技指導してもらいましょう」
+display
+com11 0 0
+sound 10036
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「えええっ！　そ、そんなこと、絶対にムリです。
+line2 <shift> # それが目的なら、私は、行きませんから〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （結局、あずささんは、お化け屋敷での特訓を、
+line2 <shift> # かたくなに拒否し続け……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ドラマ本番では自分なりの解釈で幽霊を演じた。
+line2 <shift> # でも、もっといい演技、できそうだったな……）
+com09 0 69
+display
+location 52
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「心霊スポットに、行きましょう」
+display
+com11 0 0
+sound 10037
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「えええっ！？　それは、いくらなんでも、
+line2 <shift> # やりすぎじゃないでしょうか？」
+display
+com11 0 0
+sound 10038
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「心霊スポットって、実際に、その、ゆ、幽霊達
+line2 <shift> # が住んでいるかもしれない場所ですよね？」
+display
+com11 0 0
+sound 10039
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「そんな所に行ったら私、
+line2 <shift> # 怖くて、もう演技どころじゃないと思います〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、そうするのが、一番いい方法だと、
+line2 <shift> # 思いますけど……。どうしてもムリですか？」
+display
+com11 0 0
+sound 10040
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「はい、すみません……。私に幽霊の役なんて、
+line2 <shift> # 最初から荷が重かったのかもしれませんね……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （すっかり落ち込んでしまったあずささんは、
+line2 <shift> # 結局、ドラマの話を断ってしまった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （せっかくのチャンスだったのに……。
+line2 <shift> # もったいないこと、しちゃったな）
+com09 0 69
+display
+location 69
+unk02

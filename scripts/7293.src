@@ -1,0 +1,460 @@
+com2c 0 119
+com2d 0 13
+com2e 0 113
+com32 0 0
+com11 0 0
+sound 0
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「やりましたよ、プロデューサーさんっ！
+line2 <shift> # 予選通過です！　見ててくれましたか！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、もちろん！　やったな、春香！
+line2 <shift> # ＩＵへの道、少しずつ開けてきてるぞ！」
+display
+com11 0 0
+sound 1
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「……」
+display
+com11 0 0
+sound 2
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「待ってくれ、響！　このまま……、
+line2 <shift> # 気まずいまま、帰らないでくれ」
+display
+com11 0 0
+sound 3
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「別に何も気まずくなんか、ないけど。
+line2 <shift> # なんか、用？」
+display
+com11 0 0
+sound 4
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あ、あの。響ちゃんのこと『バカ』とか言っ
+line2 <shift> # ちゃったこと、謝りたくて。ゴメンなさい！」
+display
+com11 0 0
+sound 5
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ケンカ腰に、あんなこと言っちゃうなんて、
+line2 <shift> # 私らしくないし、最低だったと思う……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「確かに、らしくなかったけど、春香は、ただ
+line2 <shift> # 単に腹が立ったから、怒ったわけじゃないんだ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「響のためになる忠告を、キチンと
+line2 <shift> # 聞いてほしいって思ったから、怒ったんだよ」
+display
+com11 0 0
+sound 6
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「そんなの、大きなお世話だぞ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そう言うと思ったよ。だから、俺は、
+line2 <shift> # 謝らなくてもいいかと思ったんだけど……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「春香が、どうしても謝りたいって言うからさ」
+display
+com11 0 0
+sound 7
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ほんとにゴメンね、響ちゃん。
+line2 <shift> # ヒドイこと言っちゃって」
+display
+com11 0 0
+sound 8
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「いいよ、別に。ケンカは沖縄の兄貴と、しょっ
+line2 <shift> # ちゅうやってたし、ゼンゼン気にしてない」
+display
+com11 0 0
+sound 9
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「でも、忠告とかアドバイスは、自分には必要
+line2 <shift> # ないから。そういうのは、黒井社長にもらう」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「響にとって、そこまで、
+line2 <shift> # 黒井社長は絶対なのか。それは……」
+com03 0 3
+choice1 <shift> # 恩があるからか？
+line2
+com09 0 10
+com08
+choice2 <shift> # 好きだからか？
+line2
+com09 0 11
+com08
+choice3 <shift> # お父さんだからか？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それはやっぱり、黒井社長に、
+line2 <shift> # 恩があるからか？」
+display
+com11 0 0
+sound 10
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「もちろん、そうだよっ！」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それはやっぱり、響が、
+line2 <shift> # 黒井社長のことを好きだからか？」
+display
+com11 0 0
+sound 11
+com4c 0 3
+name 0 0 <names:4>  # Haruka's voice
+line1 <shift> # 「いや、それはありえないっ！」
+display
+com11 0 0
+sound 13
+com4c 0 3
+name 0 0 <names:4>  # Haruka's voice
+line1 <shift> # 「ねえ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うわっ。ここまで女の子達から全否定される
+line2 <shift> # なんて、黒井社長が、ちょっとかわいそうだ！）
+display
+com11 0 0
+sound 15
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「でも、黒井社長は自分の恩人だぞっ！
+line2 <shift> # 色んなこと、すごく感謝してる」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それはやっぱり、黒井社長が、
+line2 <shift> # 響のお父さんだからか？」
+display
+com11 0 0
+sound 16
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「違うよっ！
+line2 <shift> # そうだったら良かったんだけど、でも、違う！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだったら良かった、って、どうしてだ？」
+display
+com11 0 0
+sound 17
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「だって、黒井社長は生きてるから。
+line2 <shift> # 自分の父さんは、自分が小さい時に……」
+display
+com11 0 0
+sound 18
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「え……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「す、すまん！　無神経なこと言っちゃったな。
+line2 <shift> # 知らなかったこととはいえ、許してくれ」
+display
+com11 0 0
+sound 19
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「別にいい！　しめっぽい話はキライなんだ。
+line2 <shift> # だから、これで終わりっ！」
+display
+com11 0 0
+sound 20
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「黒井社長は、自分の恩人なんだっ！　だから、
+line2 <shift> # 言うこと、ちゃんときかなきゃいけないと思う」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 21
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そういえば、前に、スカウトしてくれたのは、
+line2 <shift> # 黒井社長だって、言ってたよね？」
+display
+com11 0 0
+sound 22
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「うんっ！　ほら、自分、歌もダンスも見た目も、
+line2 <shift> # この通り、カンペキでしょ？」
+display
+com11 0 0
+sound 23
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「だからいつか、自分の才能、
+line2 <shift> # 思いっきり試してみたいって思ってたんだ」
+display
+com11 0 0
+sound 24
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「う、うーん。すごい自信だね。あはは……」
+display
+com11 0 0
+sound 25
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「そんな自分に、チャンスをくれたのが黒井社長
+line2 <shift> # だよ。才能を、初めて認めてくれた人なんだ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それは、響に最初に出会った事務所社長が、
+line2 <shift> # たまたま黒井社長だったってだけだと思うけど」
+display
+com11 0 0
+sound 26
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「え……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （一目見れば、響にアイドルの才能があることは、
+line2 <shift> # わかるからな。黒井社長はラッキーだったんだ）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「くっ。高木社長が、
+line2 <shift> # 先に出会っていてくれればなあ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あの人、あんなに日焼けしているくせに、
+line2 <shift> # 沖縄には行ってなかったのか！？」
+display
+com11 0 0
+sound 27
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あ、あのー、プロデューサーさん。途中から、
+line2 <shift> # 心の声が、言葉に出ちゃってますよ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか。すまん！　で、最初に才能を認めてく
+line2 <shift> # れたから、義理堅く、教えを守ってるわけか？」
+display
+com11 0 0
+sound 28
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「うんっ！　それに自分、いつも言ってる通り、
+line2 <shift> # どうしてもトップアイドルになりたいからね！」
+display
+com11 0 0
+sound 29
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「自分には、どうしてもトップアイドルに
+line2 <shift> # ならなきゃいけない、理由があるんだよ……」
+display
+com11 0 0
+sound 30
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「どうしても、ならなきゃいけない理由……？」
+display
+com11 0 0
+sound 31
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「うげっ！　７６５プロ相手に、
+line2 <shift> # またしゃべりすぎたっ！　またやっちゃった！」
+display
+com11 0 0
+sound 32
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「じゃ、自分、帰りまーっす！　バイバイっ！」
+display
+com11 0 0
+sound 33
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あ、響ちゃんっ！　……むぅ。
+line2 <shift> # 理由、教えてくれませんでしたね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いつか、教えてくれるといいな。
+line2 <shift> # ……ところで、春香にも１つきいていいか？」
+display
+com11 0 0
+sound 34
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「え？　はい、どうぞっ！」
+com03 0 3
+choice1 <shift> # トップアイドルになりたいか？
+line2
+com09 0 20
+com08
+choice2 <shift> # 響のこと、どう思う？
+line2
+com09 0 21
+com08
+choice3 <shift> # 高木社長の教え、守ってるか？
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「春香も、トップアイドルになりたいか？」
+display
+com11 0 0
+sound 35
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「はいっ、なりたいです！　響ちゃんと同じくら
+line2 <shift> # い……、ううん！　響ちゃんより、もっと！」
+display
+com11 0 0
+sound 36
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「それが私の夢だし、プロデューサーさんとの
+line2 <shift> # 約束ですから。当たり前じゃないですか！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うん、それならいいんだ。響には悪いが、俺は、
+line2 <shift> # 春香にトップアイドルになって欲しいから」
+display
+com11 0 0
+sound 37
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ありがとうございますっ！　私も、
+line2 <shift> # プロデューサーさんと一緒なら、がんばれます」
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「響のこと、どう思う？」
+display
+com11 0 0
+sound 38
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「えーと、才能があって、なんでも上手にできて、
+line2 <shift> # すごい子だなって思います」
+display
+com11 0 0
+sound 39
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「時々、響ちゃんに勝ってＩＵ優勝なんて、
+line2 <shift> # ムリじゃないかと思うこともありますけど」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、おいおい。ずいぶん弱気だな。
+line2 <shift> # そんなことじゃ困るぞ？」
+display
+com11 0 0
+sound 40
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そうですよね。でも、私だって、トップアイ
+line2 <shift> # ドルになりたい気持ちは、誰にも負けませんよ」
+display
+com11 0 0
+sound 41
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そのために、がんばる気持ちも、
+line2 <shift> # 負けてないつもりですっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺も春香にトップアイドルになって欲しい。
+line2 <shift> # そのために、全力を注ぐつもりだよ」
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「春香も、響みたいに、
+line2 <shift> # 高木社長の教え、守ってるのか？」
+display
+com11 0 0
+sound 42
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ええっ！　高木社長の教えですかっ？
+line2 <shift> # ……何か、ありましたっけ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「えーっと、流行がどうとか、プロデュースは
+line2 <shift> # １日にしてどうとか、言ってたような……」
+display
+com11 0 0
+sound 43
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「プロデューサーさんも、ウロ覚えじゃないです
+line2 <shift> # か！　それじゃ、私が覚えてるわけないですよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……俺達って、響の義理堅さを、
+line2 <shift> # 少し学ぶべきなのかもな」
+display
+com11 0 0
+sound 44
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そうかもしれませんね……。はあ、落ち込んで
+line2 <shift> # きました。せっかく予選に合格したのになぁ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだったな！　何もわざわざ今、
+line2 <shift> # 落ち込むような話をする必要、なかったなあ」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、また次のＩＵ予選に向けて、
+line2 <shift> # がんばっていこうな。じゃ、事務所に戻るぞ？」
+display
+com11 0 0
+sound 45
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「はいっ！」
+com09 0 99
+display
+location 99
+unk02

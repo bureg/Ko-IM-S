@@ -1,0 +1,341 @@
+com2c 0 24
+com2d 0 61
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おーい雪歩、今度の辛口インタビューの予定、
+line2 <shift> # 送られてきてるぞ。見てみなよ、ほら」
+display
+com11 0 3
+sound 500
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「は、はい……。あ、質問の予定の内容、
+line2 <shift> # 書いてあるんですね」
+display
+com11 0 3
+sound 501
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ふむふむ……。
+line2 <shift> # えと、あっ……。ど、どうしよう」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ん、何か困ったことでもあるかな」
+display
+com11 0 3
+sound 502
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「うーん、なんというか、
+line2 <shift> # さすが辛口と言うだけあるというか……」
+display
+com11 0 3
+sound 503
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「厳しい追及というか、根掘り葉掘りというか、
+line2 <shift> # その、なんて言ったらいいのか」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もしかして、答えにくい質問があるのかな？」
+com03 0 2
+choice1 <shift> # 確かに困るよね
+line2
+com09 0 10
+com08
+choice2 <shift> # しかし仕事だからね
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「確かに困るよね。
+line2 <shift> # こう、答えに窮するようなことばかりだと」
+display
+com11 0 3
+sound 504
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい……。どうしたらいいのかな、って」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「半ば、わざとそういう、きつめの質問だったり
+line2 <shift> # するんだろうけどさ。本音をききたいんだろう」
+display
+com11 0 3
+sound 505
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「困るような質問をぶつけて、辛くさせる？
+line2 <shift> # うっかり口を滑らせるのを待ってる？」
+display
+com11 0 3
+sound 506
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ううっ、そ、そんなのは、いやですぅ。
+line2 <shift> # おっかないですよぉ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そこまで記者もいじわるではないよ……、
+line2 <shift> # たぶん。俺もいるし、安心してくれ」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「しかし仕事だからね。多少はムリな質問にも、
+line2 <shift> # 付き合わなきゃならないことはある」
+display
+com11 0 3
+sound 507
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そうなんですか……。
+line2 <shift> # ううっ、やっぱり芸能の世界は厳しいですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「質問されると、辛い？」
+display
+com11 0 3
+sound 508
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ほんというと、ちょっと……、怖い気もします。
+line2 <shift> # なんて答えたらいいのか、困るし」
+display
+com11 0 3
+sound 509
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「答えに詰まって困るところを、
+line2 <shift> # 面白おかしく記事にされるのも、また、困るし」
+display
+com11 0 3
+sound 510
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「うっかり何か言ったら、大げさな書かれ方を
+line2 <shift> # されるのも……。ああ、私、ど、どうすればっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ひとまず落ち着こう、な？　俺もいるし、
+line2 <shift> # 安心してくれ。いじわるなきき方はさせない」
+com09 0 29
+display
+location 29
+com11 0 3
+sound 511
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「それで、あの、その、特に、私……、
+line2 <shift> # 家のことはあまり、きかれたくないんです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「当たり障りのない範囲で答えれば？」
+display
+com11 0 3
+sound 512
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「で、でも、やっぱり言いにくいんです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、記者にも、
+line2 <shift> # クギをさしたほうがいいのかなぁ」
+display
+com11 0 3
+sound 513
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「だから……、私、
+line2 <shift> # 答えられることだけ答えれば、いいですよね？」
+com03 0 3
+choice1 <shift> # 家族構成とか？
+line2
+com09 0 30
+com08
+choice2 <shift> # 家の大きさとか？
+line2
+com09 0 31
+com08
+choice3 <shift> # きかれたことには答えなきゃ
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それってたとえば、家族構成とか？」
+display
+com11 0 3
+sound 514
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ、それは、答えても平気ですよ。
+line2 <shift> # うちは、父、母、私の、３人家族ですっ」
+display
+com11 0 3
+sound 515
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ、答えが、あっさりしすぎかな……。
+line2 <shift> # 無難って言われちゃうかもしれないですけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いやいや、答えられることから、答えるように
+line2 <shift> # すればＯＫさ。すると自然、無茶な質問は減る」
+display
+com11 0 3
+sound 516
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あっ、そうかも！　答えやすいことから、
+line2 <shift> # どんどん話を振っていけばいいんですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうそう、そして都合がよくない質問は、
+line2 <shift> # いっそ聞かなかったことにしてしまえっ」
+display
+com11 0 3
+sound 517
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「い、いいんですかっ、それで……。ああ、でも、
+line2 <shift> # それなら、なんとかなるかもしれないですっ」
+display
+com11 0 3
+sound 518
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「自分のペースになるように、やってみますね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （雪歩が、ちょっと笑った。どうやら、
+line2 <shift> # プレッシャーから開放されたみたいだ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （これなら、辛口インタビューにも、
+line2 <shift> # 安心して臨めそうだな）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それってたとえば、
+line2 <shift> # 家の大きさとか、間取りとかかな？」
+display
+com11 0 3
+sound 519
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「で、でも、私の家、
+line2 <shift> # しょっちゅう壊したり建て替わったりするから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええっ？　ど、どういうこと？」
+display
+com11 0 3
+sound 520
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「うちのお父さん……、よく家の壁を壊したり、
+line2 <shift> # 直したり、するから……」
+display
+com11 0 3
+sound 521
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「それに、ある日突然、食卓やお風呂を、
+line2 <shift> # 倍の大きさに改造してみたりとか……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「か、変わったお父さんだね。
+line2 <shift> # 日曜大工が趣味……、なのかな？」
+display
+com11 0 3
+sound 522
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「やっぱり、ちょっと変ですよね？
+line2 <shift> # 時々、友達にも笑われます……。ううっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、そんなに恥ずかしがることも、
+line2 <shift> # ないと思う、たぶん」
+display
+com11 0 3
+sound 523
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「で、でも、やっぱり私、家についてのことは、
+line2 <shift> # きかれても、うまく答えにくいんです」
+display
+com11 0 3
+sound 524
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「できれば、家や家族のことは、
+line2 <shift> # きかないで欲しいです……。ぐすっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「な、泣くなぁ！　わかったよ、
+line2 <shift> # 俺がなんとか、記者を説得してみよう」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （雪歩、結構困ってるみたいだな。
+line2 <shift> # 今後のインタビューが、少々心配だ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （もっとも、単にプライベートのことを話すのが、
+line2 <shift> # 苦手なのかもしれないけど……）
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも一応、きかれたことには答えなきゃ。
+line2 <shift> # 質問を誘導するにしてもさ」
+display
+com11 0 3
+sound 525
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そ、そんな、間取りとか答えられないです。
+line2 <shift> # 私、わからないし……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わからなければ、
+line2 <shift> # うまく質問をかわすのも、芸のうちさ」
+display
+com11 0 3
+sound 526
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「だ、だって私の家、しょっちゅう、
+line2 <shift> # 作りが変わるし……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そもそも間取りなんてそんなに細かく答える必
+line2 <shift> # 要も……、って、ええっ！？　どういうこと？」
+display
+com11 0 3
+sound 527
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「変な家なんです……。時々、庭に大きな穴が、
+line2 <shift> # 掘ってあったり、何か埋めてあったり」
+display
+com11 0 3
+sound 528
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「それに、部屋が増えたり、減ったりするし。
+line2 <shift> # それでお母さんも、ちょっと困ってるんです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「部屋が増えたり減ったりって……。
+line2 <shift> # なんかそれって……、ミステリーだな」
+display
+com11 0 3
+sound 529
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい、いつの間にかそんな風に……。
+line2 <shift> # だから、その、説明がしにくくて」
+display
+com11 0 3
+sound 530
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「うまく答えられないから……、できれば、
+line2 <shift> # 家や家族のことは、きかないで……。ぐすっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「な、泣くなぁ！
+line2 <shift> # わかった、その、俺もなんとかしよう」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （雪歩は、家のことで悩んでるみたいだ。
+line2 <shift> # 細かく追求しないほうがいいんだろうか）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （困ったな、このぶんではインタビューも、
+line2 <shift> # どう切り抜けるか、激しく心配だ……）
+com09 0 49
+display
+location 49
+unk02

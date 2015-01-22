@@ -1,0 +1,286 @@
+com2c 0 19
+com2d 0 71
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「また、待ち伏せの芸能記者に、捕まって
+line2 <shift> # しまったな……。質問攻めは、しんどいぞ」
+display
+com11 0 2
+sound 600
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ああもう！　次から次へと、
+line2 <shift> # 飽きない懲りない取材陣だなぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「このところ、激しい取材攻勢が続いてるね。
+line2 <shift> # こんな取材ラッシュは、経験したことがないな」
+display
+com11 0 2
+sound 601
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ほんと、どんなに仕事で疲れてても、
+line2 <shift> # 芸能記者達は、いつでも容赦なくて……」
+display
+com11 0 2
+sound 602
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「対応で、またヘトヘトに……。いっそ、
+line2 <shift> # 取材拒否でも、したくなりますよ。まったく」
+com03 0 2
+choice1 <shift> # 人気者は辛いよな
+line2
+com09 0 10
+com08
+choice2 <shift> # 辛くても笑顔、だぞ？
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんというか、人気者は辛いよな」
+display
+com11 0 2
+sound 603
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そうですね。それだけ注目されてる、って
+line2 <shift> # ことだから、悪い気はしないけど」
+display
+com11 0 2
+sound 604
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「でも、あまりにしつこく追われると、
+line2 <shift> # きついなぁ。人気を返上したくなっちゃう」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「返上！？　おいおい、そりゃ困る」
+display
+com11 0 2
+sound 605
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ま、辛抱が大事ですよね。多少イラつかされる
+line2 <shift> # ことがあっても、有名税と思って、ね」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「辛くても笑顔、だぞ？
+line2 <shift> # この商売、きつい時こそ、笑って対応だ」
+display
+com11 0 2
+sound 606
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「わ、わかってますって……。
+line2 <shift> # いや、わかっちゃいるけど……」
+display
+com11 0 2
+sound 607
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「それでも、ときどき、
+line2 <shift> # 記者を、ぶん殴りたくなるなぁ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お、抑えろよ、な？
+line2 <shift> # イライラしたら負けだぞ？」
+display
+com11 0 2
+sound 608
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ほ、ほんとに、引っ叩いたりは、しませんよぉ。
+line2 <shift> # 安心してくださいって」
+com09 0 29
+display
+location 29
+com11 0 2
+sound 609
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「しかし、それにしても、
+line2 <shift> # 最近の取材は、多すぎ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「このあとも数件、取材予約が入ってるぞ。
+line2 <shift> # 紛れて、アポなしの記者も来そうだな」
+display
+com11 0 2
+sound 610
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「もう、どれがどこの取材なんだか……。
+line2 <shift> # そのくせ、いつもいつも似たようなこと聞いて」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「確かに、取材もマンネリというか、
+line2 <shift> # パターンだよなぁ。ときどき呆れるね」
+display
+com11 0 2
+sound 611
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「これから先も、このマスコミ攻勢と、うまく
+line2 <shift> # つきあっていかないといけないか……。はぁ」
+com03 0 3
+choice1 <shift> # まだまだこんなもの
+line2
+com09 0 30
+com08
+choice2 <shift> # 大変だが、乗り切ろう
+line2
+com09 0 31
+com08
+choice3 <shift> # 油断はするなよ？
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「しかし、まだまだ。世界の大メジャーは、
+line2 <shift> # こんなものじゃないだろう？」
+display
+com11 0 2
+sound 612
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そ、そうですね。世界級の大スターは、
+line2 <shift> # こんな気苦労背負っても、平気で……」
+display
+com11 0 2
+sound 613
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ううん。取材なんて、少しも苦労と思わないで、
+line2 <shift> # サービスしつつ、さらっとこなすんだろうな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだなぁ。次元の違いを感じるよ」
+display
+com11 0 2
+sound 614
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「その境地には、まだ遠いですね……。
+line2 <shift> # ううっ、負けるものかっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （律子は、こぶしを固め、さらに上を目指して、
+line2 <shift> # 闘志を燃やし始めたようだ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （きっと、取材攻勢にも、へこたれることなく、
+line2 <shift> # 今後も、仕事に、まい進してくれるだろう）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「大変だが、頑張ろう。なんとか乗り切るんだ」
+display
+com11 0 2
+sound 615
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そうですね、乗り切りましょう。
+line2 <shift> # このぐらい、さらっと、しのがないとね」
+display
+com11 0 2
+sound 616
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「もっとも、ガマンの限界は、あるけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あまりガマンしすぎて、爆発するなよ？」
+display
+com11 0 2
+sound 617
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「平気ですってば！　私は冷静ですよ！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ほらほら、落ちつけってば。クールにな」
+display
+com11 0 2
+sound 618
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「むむ……。はいはい。クールに、ね。
+line2 <shift> # 大丈夫大丈夫」
+display
+com11 0 2
+sound 619
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「……にしても、小手先や口先で取材をさばくの
+line2 <shift> # も、あまりそればっかりじゃ、かっこ悪いなぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「場当たりで、かわすんじゃなく、
+line2 <shift> # 普段から、肝を据えて、かからないとね」
+display
+com11 0 2
+sound 620
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あ〜あ。いきなりの取材にも動じない貫禄、
+line2 <shift> # 身につけたいなぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （律子は、考えこみながら顔を上げた。
+line2 <shift> # 目指す理想は、まだ少し遠いようだな……）
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さらっと取材攻勢は流したいけど、決して、
+line2 <shift> # 油断は、するなよ？　挑発に乗らないように！」
+display
+com11 0 2
+sound 621
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「わかってますよ、そのくらい……。
+line2 <shift> # ああ。でも、イライラするっ」
+display
+com11 0 2
+sound 622
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「楽屋やオフにも押しかける、
+line2 <shift> # あまりに無遠慮な突撃記者にっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「落ちつけって。鼻息荒くなったら、向こうの、
+line2 <shift> # 思うツボだ。うっかり口を滑らせかねないぞ？」
+display
+com11 0 2
+sound 623
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「だ、大丈夫ですってば！
+line2 <shift> # 私、そんなに、口は軽くありませんよっ！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だ、だから、落ち着けと。
+line2 <shift> # クールダウン、クールダウン」
+display
+com11 0 2
+sound 624
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「むぅ、バカにするなぁ……。
+line2 <shift> # 私は、冷静ですってばぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「律子、時々、ムキになる性格、
+line2 <shift> # 自分でも気にしてるか？　もしかして」
+display
+com11 0 2
+sound 625
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「し、してませんよっ！　あっ……、っとと。
+line2 <shift> # たまに……、気になるかな。今みたいな時とか」
+display
+com11 0 2
+sound 626
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「でも、性分だからなぁ。あ〜あ、ちょっとや
+line2 <shift> # そっとで動じない貫禄を、身につけたいな……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （律子は、途方に暮れつつ、顔を上げた。
+line2 <shift> # 目指す理想は、まだまだ遠いようだな……）
+com09 0 49
+display
+location 49
+unk02

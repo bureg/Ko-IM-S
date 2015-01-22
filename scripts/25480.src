@@ -1,0 +1,337 @@
+com2d 0 41
+com2c 0 25
+com2c 0 25
+com32 0 0
+display
+location 0
+com22 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「この部屋か。ホント、真っ暗だな。
+line2 <shift> # 流れてる曲は……、クラシックか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「如月、千早……。どこにいるんだろう。
+line2 <shift> # あっ、あそこに、人影！」
+display
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「この曲……。ブラームスのロ短調に似ている。
+line2 <shift> # けど、抑揚の付け方と、振り幅が、やや大きい」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （なにか、こむずかしい事を、つぶやいている。
+line2 <shift> # 社長の言う通り、すごい子みたいだな）
+display
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あっ！？　誰、です！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、ごめん。おどろかせちゃったな。
+line2 <shift> # 今、電気をつけるよ……」
+display
+com21 0 30
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はじめて見る人ですね。なにか用でしょうか？
+line2 <shift> # 今、忙しいのですが」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そう、邪険にするなよ。俺は、君の面倒を
+line2 <shift> # 見ることになった、プロデューサーだ」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あなたが、私の？　……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「な、なんで、そんなキツイ目で、
+line2 <shift> # こっちを見るんだ？　もしかして……」
+com03 0 3
+choice1 <shift> # 関心、持ってくれてる？　
+line2
+com09 0 10
+com08
+choice2 <shift> # 好意、持ってくれてる？　
+line2
+com09 0 11
+com08
+choice3 <shift> # ケンカ、売ってる？　
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「関心、持ってくれてる？」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「もちろんです。これから、仕事上の
+line2 <shift> # パートナーになるわけですから」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「どうやら、悪い人ではなさそうですね。
+line2 <shift> # すこし安心しました」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そう思ってくれたなら、なによりだよ。
+line2 <shift> # さてと……」
+com37 0 0
+com1e 0 0
+com09 0 25
+com3b
+com38 0 1
+com1e 0 0
+com09 0 26
+com3b
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「好意、持ってくれてる？」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「会ったばかりで、そんなの、持つはず
+line2 <shift> # ありません。……私のこと、からかってます？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「い、いや、そういうわけじゃないけど……。
+line2 <shift> # ごめん」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……いえ、私もすこし、口が過ぎました。
+line2 <shift> # これから、よろしくお願いします」
+com37 0 0
+com1e 0 0
+com09 0 25
+com3b
+com38 0 1
+com1e 0 0
+com09 0 26
+com3b
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ケンカ、売ってる？」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……まさか。ただ、どんな人なのかと思った
+line2 <shift> # だけで。気にさわったのなら、あやまります」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、まあ……、
+line2 <shift> # 悪意がないのなら、いいけど」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「どうやら……、悪い人では、なさそうですね。
+line2 <shift> # これから、よろしくお願いします」
+com37 0 0
+com1e 0 0
+com09 0 25
+com3b
+com38 0 1
+com1e 0 0
+com09 0 26
+com3b
+display
+location 25
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。さて、それじゃまず全国デビューする
+line2 <shift> # ための、君の芸名を決めよう。えーと」
+display
+location 26
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。さて、それじゃまず全国デビューする
+line2 <shift> # ための、ユニット名を決めよう。えーと」
+display
+location 30
+com11 0 0
+sound 10010
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「それで、決定ですね。いい名だと思います。
+line2 <shift> # せいぜい、汚さないようにできれば、と」
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よろしく頼むぞ！
+line2 <shift> # さあ、いよいよ活動開始だ！」
+display
+location 40
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今日のスケジュールは……、と）
+display
+location 50
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やっぱり最初はレッスンだ！
+line2 <shift> # 初レッスン行くぞ！」
+display
+com4a 0 0
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「もちろんです！　思うままに、試して下さい。
+line2 <shift> # ……この私を」
+display
+location 60
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （トップアイドルになるため、今後は流行を
+line2 <shift> # 意識していこう！　まずは育成方針として）
+display
+location 61
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （流行１位イメージであるボーカルの
+line2 <shift> # イメージをＵＰさせていこう！）
+display
+location 62
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （流行１位イメージであるダンスの
+line2 <shift> # イメージをＵＰさせていこう！）
+display
+location 63
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （流行１位イメージであるビジュアルの
+line2 <shift> # イメージをＵＰさせていこう！）
+display
+location 64
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （流行１位のイメージはオーディションでの
+line2 <shift> # ウケが良く、合格しやすい！　絶対に有利だ！）
+display
+location 65
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しかし流行は変化しやすい。常に先の先を
+line2 <shift> # 考えながらイメージ作りをしていくぞ！！）
+display
+location 66
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （明日の流行１位ではない！
+line2 <shift> # 最終的には、人数の増加傾向を考慮して……）
+display
+location 67
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （無駄のないレッスンができるように
+line2 <shift> # なろう！！）
+display
+display
+location 100
+com32 0 0
+com11 0 0
+sound 10012
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「社長、お話って何でしょうか？
+line2 <shift> # ？　この方は？」
+display
+com11 0 0
+sound 10017
+name 0 2 <names:3>  # President
+line1 <shift> # 「お、来たね。彼女が如月千早君。
+line2 <shift> # うちでも飛びぬけた才能の持ち主だよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「初めまして。俺は、君の面倒を
+line2 <shift> # 見ることになった、プロデューサーだ」
+display
+com11 0 0
+sound 10013
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あなたが、私の？　……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「な、なんで、そんなキツイ目で、
+line2 <shift> # こっちを見るんだ？　俺では不満かな？」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「いえ、失礼しました。これから、仕事上の
+line2 <shift> # パートナーになると思ったら、つい」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「どうやら、悪い人ではなさそうですね。
+line2 <shift> # すこし安心しました」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そう思ってくれたなら、なによりだよ。
+line2 <shift> # これからよろしくな」
+display
+com4a 0 0
+com11 0 0
+sound 10016
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「こちらこそ、よろしくお願いします」
+display
+location 200
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （大事なスケジュールには、オススメマークを、
+line2 <shift> # 事務員の音無さんが、つけてくれている）
+display
+location 201
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今は、レッスンと営業が重要らしい。ステップ
+line2 <shift> # アップのため必要なスケジュールってことだな）
+display
+location 202
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （いきなり、オススメを無視するのは、怖いな。
+line2 <shift> # ここは素直に、したがったほうがいい気がする）
+display
+location 210
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「初めての営業に出発だ！
+line2 <shift> # 気合いいれていこう！」
+display
+com4a 0 0
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「もちろんです！　思うままに、試して下さい。
+line2 <shift> # ……この私を」
+display
+location 300
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「続いて、衣装を決めよう」
+display
+location 301
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「続いてデビュー曲を決めよう」
+display
+location 302
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「喜んでくれて俺もうれしいよ！」
+display
+unk02

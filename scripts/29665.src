@@ -1,0 +1,284 @@
+com2c 0 119
+com2c 0 90
+com2d 0 41
+com2e 0 131
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ＩＵ本選、決勝戦……。とうとう、
+line2 <shift> # 長かった戦いに決着がつくんだな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今日、この日のステージに立つことを、どれ
+line2 <shift> # ほど多くのアイドル達が、夢見てきただろう）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ここまで来られただけでも、すごいことだ。
+line2 <shift> # でも、それで満足するわけにはいかない）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ＩＵの優勝者、たった１人のトップアイドルに
+line2 <shift> # なるために、俺も千早も、戦ってきたのだから）
+display
+com11 0 0
+sound 10000
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「プロデューサー、本当に、たどり着いてしまい
+line2 <shift> # ましたね。今日という日の、この場所に……」
+display
+com11 0 0
+sound 10001
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「初めてお会いした頃、一緒に頂点を目指そうと
+line2 <shift> # 約束したこと、覚えていますか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「当然だろう。昨日のことのように、
+line2 <shift> # 覚えているよ……」
+display
+com20 0 30
+com1f 0 30
+com32 0 1
+com11 0 0
+sound 10002
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「歌でトップに立てないのなら、
+line2 <shift> # その程度の力しか、私にないのなら……」
+display
+com11 0 0
+sound 10003
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「私の存在など、歌の歴史から消えてしまった
+line2 <shift> # 方がいい。けれど、そうはなりません」
+display
+com11 0 0
+sound 10004
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「至高の座、必ずつかみとってみせます。
+line2 <shift> # 道は険しくても、この手で……、必ず！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、その決意、俺も全力でサポートする。
+line2 <shift> # 必ずＩＵで優勝して、トップに立とう、千早！」
+display
+com11 0 0
+sound 10005
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はいっ！　約束です、プロデューサー。共に行
+line2 <shift> # きましょう、誰も到達したことのない高みへ！」
+display
+com20 0 30
+com1f 0 30
+com32 0 0
+com11 0 0
+sound 10006
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「思えば、あれが、私とプロデューサーの、
+line2 <shift> # 初めての約束でしたね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだったなあ。最初は、ただの約束だった
+line2 <shift> # のに、本当に、ここまで来ちゃうなんて……」
+com03 0 3
+choice1 <shift> # 千早はスゴイよ
+line2
+com09 0 10
+com08
+choice2 <shift> # 俺ってスゴイな
+line2
+com09 0 11
+com08
+choice3 <shift> # ラッキーだったな
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「千早は、スゴイよ。素直に、尊敬する」
+display
+com11 0 0
+sound 10007
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そんな……。スゴイのは、プロデューサーです。
+line2 <shift> # 私は、的確な指導に導かれてきただけですから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか。じゃあ、二人ともスゴイってことで、
+line2 <shift> # いいんじゃないか？」
+display
+com11 0 0
+sound 10008
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ふふっ。そうですね。
+line2 <shift> # では、二人ともスゴイということに」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （千早、いい笑顔をするようになったな……）
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺ってスゴイな。
+line2 <shift> # 自分の才能が、自分で怖いよ」
+display
+com11 0 0
+sound 10009
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。プロデューサーは、本当にスゴイ指導者
+line2 <shift> # です。教えをうけられて、私は幸運でした」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ラッキーだったな。宝くじの１等に当たるより、
+line2 <shift> # すごい確率かもしれないぞ、これは」
+display
+com11 0 0
+sound 10010
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そうですね。運も、多少はあったと思います。
+line2 <shift> # でも、それだけではありませんよ」
+display
+com11 0 0
+sound 10011
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「プロデューサーの的確な指導があってこそ、
+line2 <shift> # です。胸をはって下さい、プロデューサー」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10012
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「プロデューサーと出会っていなくても、
+line2 <shift> # きっと、私は歌を志していたでしょう」
+display
+com11 0 0
+sound 10013
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「でも最終的な目的地は同じでも、そこへ至る道
+line2 <shift> # は、プロデューサーと出会うことによって……」
+display
+com11 0 0
+sound 10014
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ずいぶん変わったように思います。私１人なら、
+line2 <shift> # いばらの道や、がれきの道を行ったでしょう」
+display
+com11 0 0
+sound 10015
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「でも、プロデューサーと２人で通ってきた道は、
+line2 <shift> # 曲がりくねっていたり、花が咲いていたり……」
+display
+com11 0 0
+sound 10016
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「変化に富んでいて、
+line2 <shift> # 最高に面白くて、楽しい道でした」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それはつまり、
+line2 <shift> # 俺と出会って、良かったって、言いたいのか？」
+display
+com11 0 0
+sound 10017
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ふふっ。回りくどい言い方でしたか？　……そ
+line2 <shift> # うです。出会えて良かったと、言いたいんです」
+display
+com11 0 0
+sound 10018
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「これまで、ありがとうございました、
+line2 <shift> # プロデューサー。頂上まで、あと少しですね」
+display
+com11 0 0
+sound 10019
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「一緒に来て下さい、私のずっと目指していた
+line2 <shift> # 場所へ。私を、連れて行って下さい」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、行こう、千早。
+line2 <shift> # ２人で、頂上からの景色を見よう！」
+display
+com11 0 0
+sound 10020
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……はいっ！」
+display
+com11 0 0
+sound 10021
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「……」
+display
+com11 0 0
+sound 10022
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「美希！　……健闘を祈っているわ」
+display
+com11 0 0
+sound 10023
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「千早さん……。うん、ミキも！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （美希とは、これまで誤解やしがらみや、
+line2 <shift> # 色々なことがあったけど……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ここまで来たら、美希にも頑張ってほしいな。
+line2 <shift> # 千早も美希も、きっと、同じ気持ちなんだろう）
+display
+com11 0 0
+sound 10024
+com4c 0 3
+name 0 0 <names:4>  # Chihaya and Miki
+line1 <shift> # 「……でも、負けない！」
+display
+com11 0 0
+sound 10025
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「じゃ、本番でね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「千早も、そろそろ準備しておいで」
+display
+com11 0 0
+sound 10026
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい、着替えてきます。行ってきます！」
+com09 0 99
+display
+location 99
+unk02

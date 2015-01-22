@@ -1,0 +1,437 @@
+com2c 0 43
+com2d 0 81
+com32 0 0
+com11 0 1
+sound 400
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサー、今から収録する歌って、
+line2 <shift> # ＴＶドラマの主題歌になるんですよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。タイアップの話、まとめてきたよ。
+line2 <shift> # 出演者のリスト、もう見たか？」
+display
+com11 0 1
+sound 401
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はい！　超豪華キャストですよね。女優さん
+line2 <shift> # なんて、誰もが知ってる有名人ばっかりで！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「その人達全員、これから、ここにくるって。
+line2 <shift> # 真が歌うところ、生で見たいらしい」
+display
+com11 0 1
+sound 402
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ぜんいん……？　ええっ、ホントですか〜！？
+line2 <shift> # ぼ、ぼ、ボク、どんな顔して迎えれば？」
+com03 0 3
+choice1 <shift> # 満面の笑顔で
+line2
+com09 0 10
+com08
+choice2 <shift> # 普通の顔で、いいよ
+line2
+com09 0 11
+com08
+choice3 <shift> # えらそうな顔、してていいよ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「満面の笑顔で。女優さん達、真にいいイメー
+line2 <shift> # ジ持ってるようだから、裏切らないようにな」
+display
+com11 0 1
+sound 403
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うう〜、簡単に言いますね。
+line2 <shift> # ＴＶで歌うより、よっぽど緊張するなあ」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「普通の顔で、いいよ。
+line2 <shift> # ただ、遊びにくるだけなんだから」
+display
+com11 0 1
+sound 404
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ふ、普通の顔なんて、とてもできないですよ〜。
+line2 <shift> # そんな人達、前にしてっ！」
+display
+com11 0 1
+sound 405
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ＴＶで歌うより、よっぽど緊張しますね。
+line2 <shift> # な、なに話したら……」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「えらそうな顔、してていいよ。別にこっちから、
+line2 <shift> # 来てくれって頼んだワケじゃないし」
+display
+com11 0 1
+sound 406
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そんな顔、とてもできませんよ〜。
+line2 <shift> # ヘコヘコならできるけど、逆なんて……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そうか？　じゃあ、まあ、普通に、
+line2 <shift> # あたたかく、迎えてもいいけど？」
+display
+com11 0 1
+sound 407
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「それも、むずかしいです……。うう〜、
+line2 <shift> # ＴＶで歌うより、よっぽど緊張するなあ」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうして、そんなにかたくなるんだ？
+line2 <shift> # 真だって、もう……」
+com03 0 2
+choice1 <shift> # 一流の芸能人なんだぞ？
+line2
+com09 0 30
+com08
+choice2 <shift> # 一級の女の子なんだぞ？
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「一流の芸能人なんだぞ？」
+display
+com11 0 1
+sound 408
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、ありがとうございます。でも、そんなのは、
+line2 <shift> # まわりの見方で、ボクは、いつまでもボクだし」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「一級の女の子なんだぞ？」
+display
+com11 0 1
+sound 409
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「昔よりマシにはなりましたけど、あの豪華
+line2 <shift> # メンバーには、とうてい勝てないですよ〜」
+display
+com11 0 1
+sound 410
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ボクのデビュー前から、売れっ子だった人
+line2 <shift> # ばっかりだし、ビビるなって言われても……」
+com09 0 49
+display
+location 49
+com11 0 1
+sound 411
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「なんか、目合わせたら、震えちゃいそうだな。
+line2 <shift> # う、うつむいたまま、話してもいいですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おいおい、それじゃ怪しい人と思われるよ。
+line2 <shift> # 無意味に、暗い印象、与えることはないだろ？」
+display
+com11 0 1
+sound 412
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「け、けど……。あ、き、きちゃったみたい！
+line2 <shift> # どうしよう、ボク、トイレっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「待てって！　目を見て、話せそうもないなら、
+line2 <shift> # 相手の……、ここを、見ればいいからっ」
+com0e 2 209
+com44
+com09 0 50
+com45
+com44
+com09 0 51
+com45
+com44
+com09 0 52
+com45
+com44
+com09 0 53
+com45
+com44
+com09 0 54
+com45
+com44
+com09 0 55
+com45
+com44
+com09 0 56
+com45
+com44
+com09 0 57
+com45
+com44
+com09 0 58
+com45
+com44
+com09 0 59
+com45
+display
+location 50
+com11 0 1
+sound 413
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「マユの間？　そこを見れば……、
+line2 <shift> # 大丈夫なんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。向こうから見れば、視線を合わせて、
+line2 <shift> # しゃべってるように見えるから」
+display
+com11 0 1
+sound 414
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「へぇー、知らなかった〜。物知りなんですね。
+line2 <shift> # わかりました、試してみます！」
+display
+com11 0 1
+sound 415
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、いらっしゃい、みなさん。今日はようこそ。
+line2 <shift> # どうぞ、ゆっくり見学していってください！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （真は言われた通りに、うまく接待してくれた！
+line2 <shift> # 豆知識が、見事、役に立ったな！）
+com09 0 69
+display
+location 51
+com11 0 1
+sound 416
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「頭、ですか？　そんなところ見たって、
+line2 <shift> # 不自然なのは、変わらない気が……」
+com09 0 91
+display
+location 52
+com11 0 1
+sound 417
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「……って、そこ、目じゃないですか〜。
+line2 <shift> # からかわないでくださいよ〜」
+com09 0 92
+display
+location 53
+com11 0 1
+sound 418
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「鼻、ですか？　そんなところ見たって、
+line2 <shift> # 不自然なのは、変わらない気が……」
+com09 0 91
+display
+location 54
+com11 0 1
+sound 419
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「口、ですか？　そんなところ見てたら、
+line2 <shift> # ヘンな誤解されそうな気が……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「顔、そらしてるよりは、ずっといいよ。
+line2 <shift> # とにかく、言われた通り、接待を！」
+display
+com11 0 1
+sound 420
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「わ、わかりました。み、み、みなさん、よう
+line2 <shift> # こそ。どうぞ、ゆっくり見学していって……」
+display
+com22 0 30
+com21 0 30
+com11 0 1
+sound 421
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「どうしてくれるんです〜！　やっぱり、
+line2 <shift> # 誤解されちゃったじゃないですか〜！」
+display
+com11 0 1
+sound 422
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「『キスぐらい、ＯＫ♪』とか言われても、
+line2 <shift> # うれしくないです〜。こ、こ、こわい〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （もうすこしで、真をイケニエにしてしまう
+line2 <shift> # ところだった……。悪い指示、してしまったな）
+com09 0 69
+display
+location 55
+com11 0 1
+sound 423
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「顔の、そんなところ見て、話すんですか？
+line2 <shift> # どう見ても、不自然な気が……」
+com09 0 91
+display
+location 56
+com11 0 1
+sound 424
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そ、そんなところ見て、話すんですか？
+line2 <shift> # なんか、最悪の誤解、されそうな気が……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「床を見てるよりは、まだ、いいよ。
+line2 <shift> # とにかく、言われた通り、接待を！」
+display
+com11 0 1
+sound 425
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「わ、わかりました。み、み、みなさん、よう
+line2 <shift> # こそ。どうぞ、ゆっくり見学していって……」
+display
+com22 0 30
+com21 0 30
+com11 0 1
+sound 426
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「どうしてくれるんです〜！　やっぱり、
+line2 <shift> # 誤解されちゃったじゃないですか〜！」
+display
+com11 0 1
+sound 427
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「『さわりたいなら、どうぞ♪』とか言われても、
+line2 <shift> # うれしくないです〜。こ、こ、こわい〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その気があると、カン違いされてしまった……。
+line2 <shift> # もっと無難なところ、見させておけばよかった）
+com09 0 69
+display
+location 57
+com11 0 1
+sound 428
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「体の、そんなところ見て、話すんですか？
+line2 <shift> # どう見ても、不自然な気が……」
+com09 0 91
+display
+location 58
+com11 0 1
+sound 429
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「頭の上を見て、しゃべるんですか？
+line2 <shift> # それも、不自然な気がしますけど……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「下を見るよりは、上見た方が、印象は、いい
+line2 <shift> # はずだ！　とにかく、言われた通り、接待を！」
+display
+com11 0 1
+sound 430
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「わ、わかりました。み、み、みなさん、よう
+line2 <shift> # こそ。どうぞ、ゆっくり見学していって……」
+display
+com22 0 30
+com21 0 30
+com11 0 1
+sound 431
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はあ〜、やっぱり怪しまれちゃいましたね。
+line2 <shift> # それに……、ぐ、ぐぐ……っ」
+display
+com11 0 1
+sound 432
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ぷ、プロデューサ〜、首が痛いんですけど。
+line2 <shift> # ま、マッサージを……。ぐぐぐ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （痛みに顔をゆがめている。いい助言だと、
+line2 <shift> # 思ったんだけど、これは大失敗だったな……）
+com09 0 69
+display
+location 59
+com11 0 1
+sound 433
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサー？　ここって、どこです？
+line2 <shift> # まさか、引き止めるためテキトーなことを……」
+com09 0 92
+display
+location 91
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「床を見てるよりは、まだ、いいよ。
+line2 <shift> # とにかく、言われた通り、接待を！」
+display
+com11 0 1
+sound 434
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「わ、わかりました。み、み、みなさん、よう
+line2 <shift> # こそ。どうぞ、ゆっくり見学していって……」
+display
+com22 0 30
+com21 0 30
+com11 0 1
+sound 435
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はあ〜、やっぱり怪しまれちゃいましたね。
+line2 <shift> # なんか、疲れました……」
+display
+com11 0 1
+sound 436
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「芸能人の輪も大切だけど、ボクはプロデュー
+line2 <shift> # サーと、みんながいれば、いいです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （後ろ向きの発言をしている。
+line2 <shift> # ま、なにごとも起きなかっただけ、マシかな）
+com09 0 69
+display
+location 92
+com11 0 1
+sound 437
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ボクっ、やっぱりトイレ！
+line2 <shift> # す、す、すぐ、出てきますからっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、こら……！」
+display
+com22 0 30
+com21 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……やけに、長いトイレだったな。女優陣、
+line2 <shift> # 俺にブーブー文句言って、帰っていったよ」
+display
+com11 0 1
+sound 438
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「さ、最近、おなか冷え気味だったから……。
+line2 <shift> # うう、すみません、弱虫で〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （女優陣は怒るし、真は、うなだれてるし……。
+line2 <shift> # うーん、最悪の結果に終わってしまったな）
+com09 0 69
+display
+location 69
+unk02

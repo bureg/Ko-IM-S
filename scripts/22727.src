@@ -1,0 +1,246 @@
+com2c 0 46
+com2d 0 53
+com32 0 0
+com11 0 5
+sound 800
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「プロデューサーさん、出番、終わりましたー。
+line2 <shift> # すごい歓声で、もう、なにがなんだか」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「人気アイドルの前座ですからね。
+line2 <shift> # だ、大丈夫ですか？」
+display
+com11 0 5
+sound 801
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はい。えーと、これで引き上げて、問題はない
+line2 <shift> # のですよね？　でも、その、できればー」
+com03 0 3
+choice1 <shift> # ここで、見学していきますか？
+line2
+com09 0 10
+com08
+choice2 <shift> # 客席で、見学しますか？
+line2
+com09 0 11
+com08
+choice3 <shift> # もう１曲、歌いたいですか？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ここで、見学していきますか？」
+display
+com11 0 5
+sound 802
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はい！　メインをつとめる人の歌、聴いて
+line2 <shift> # みたいので」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「客席で、見学しますか？」
+display
+com11 0 5
+sound 803
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「い、いえ……ここから見られれば、十分です」
+display
+com11 0 5
+sound 804
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「メインの人達が、どんな歌を歌うのか、
+line2 <shift> # 間近で聴いてみたいので」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もう１曲、歌いたいですか？」
+display
+com11 0 5
+sound 805
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「い、いえ、もう限界です……。それより、
+line2 <shift> # メインの人達の歌、きいていっても？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、そっちですか。
+line2 <shift> # もちろん、かまいませんけど」
+com09 0 29
+display
+location 29
+com11 0 5
+sound 806
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、はじまりましたね。こんな特等席でなんて、
+line2 <shift> # ファンの人には、悪いですけれど。ふふっ」
+display
+com22 0 30
+com21 0 30
+com11 0 5
+sound 807
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はあー、さすがでしたね。私、思わず拍手を。
+line2 <shift> # こういうの、別格っていうのでしょうか？」
+com03 0 2
+choice1 <shift> # たしかに、別格ですよね
+line2
+com09 0 30
+com08
+choice2 <shift> # いえ、同格ですって
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「たしかに、別格ですよね」
+display
+com11 0 5
+sound 808
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「見ていて、とても楽しかったです。前座を
+line2 <shift> # やらせてもらって、幸せでしたね」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いえ、同格ですって」
+display
+com11 0 5
+sound 809
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そうでしょうか？　どう考えても、なにもかも
+line2 <shift> # 段違いっていう気が……」
+display
+com11 0 5
+sound 810
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「プロデューサーさん、ハッキリ言ってもらって、
+line2 <shift> # いいです。私、ちゃんとわかってますので」
+com09 0 49
+display
+location 49
+com11 0 5
+sound 811
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、帰りに、メインの人達のＣＤ、買って
+line2 <shift> # いきますね。気にいってしまいましたので」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……あずささん、こうメラメラっと、
+line2 <shift> # こないですか？　負けてたまるかって」
+display
+com11 0 5
+sound 812
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「えっ？　あ、すみません。そういう激しいの
+line2 <shift> # は……。ないと、アイドル失格でしょうか？」
+com03 0 3
+choice1 <shift> # 軽く意識してもらえれば
+line2
+com09 0 50
+com08
+choice2 <shift> # そんなことはないですけど
+line2
+com09 0 51
+com08
+choice3 <shift> # 失格です
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 2
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「軽く意識してもらえれば」
+display
+com11 0 5
+sound 813
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はい、わかりました。私も私なりに、感じた
+line2 <shift> # ところはあるので」
+display
+com11 0 5
+sound 814
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「……しっかり見極めていきたいですよね。
+line2 <shift> # 参考になることと、そうでないことと」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （おだやかだけど、強い目をしている。これが
+line2 <shift> # あずささん流の燃え方なのかもしれないな）
+com09 0 69
+display
+location 51
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなことはないですけど」
+display
+com11 0 5
+sound 815
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「は、よかったですー。競争するのは、
+line2 <shift> # どちらかというと、苦手で」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「かといって、無気力になったりはしないで
+line2 <shift> # くださいね？」
+display
+com11 0 5
+sound 816
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ふふっ、わかっています。まだまだ力不足です
+line2 <shift> # けれど、気持ちだけは、信じてほしいです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （すこし、さびしそうな顔をしている。のんびり
+line2 <shift> # していても、それなりに秘めた物はあるんだな）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「失格です」
+display
+com11 0 5
+sound 817
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「う。わ、私も、欲がないわけではないんです。
+line2 <shift> # ただ、あまりむき出しにするのも……」
+display
+com11 0 5
+sound 818
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「……甘いでしょうか？　このままだと、
+line2 <shift> # 上へはいけませんか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、目に見えるポジティブさも大事
+line2 <shift> # なんですけどね」
+display
+com11 0 5
+sound 819
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「だとすると、未来は暗いかもしれませんね。私、
+line2 <shift> # こういう性格ですし、そんな、いきなりは……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （たしかに変われないよなあ。バッサリ断言して、
+line2 <shift> # 型にはめるのは、よくないかもしれない）
+com09 0 69
+display
+location 69
+unk02

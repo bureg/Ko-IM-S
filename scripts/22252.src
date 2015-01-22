@@ -1,0 +1,235 @@
+com2c 0 41
+com2d 0 53
+com32 0 0
+com11 0 4
+sound 300
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「市民ホール……。ここの席、パイプイスなんで
+line2 <shift> # すね。お客さん、お尻痛くないでしょうか？」
+com03 0 2
+choice1 <shift> # 総立ちにしちゃいましょう
+line2
+com09 0 10
+com08
+choice2 <shift> # ガマンしてもらうしか……
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「総立ちにしちゃいましょう」
+display
+com11 0 4
+sound 301
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ふふっ、そうできたら、いいですよね。
+line2 <shift> # もう座ってるヒマもないくらい、盛り上げて！」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ガマンしてもらうしか……」
+display
+com11 0 4
+sound 302
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「これも、まだ売れてないからですね。もっと
+line2 <shift> # 人気があれば、大きなところで……」
+display
+com11 0 4
+sound 303
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「いつか、フカフカのイスがあるところで、やり
+line2 <shift> # たいです。気持ちよく、楽しんでほしいですし」
+com09 0 29
+display
+location 29
+com11 0 4
+sound 304
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「こう、ずら〜っと並んだパイプイスを見てると、
+line2 <shift> # 学校の体育館、思い出しませんか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、そういえば雰囲気、似てますね」
+display
+com11 0 4
+sound 305
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「私、学芸会で、吹奏楽部の演奏とか聴くの、
+line2 <shift> # とても好きでした」
+display
+com11 0 4
+sound 306
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「アイドルソングもいいですけど、歌がない曲の
+line2 <shift> # 生演奏もいいですよね？」
+com03 0 2
+choice1 <shift> # 昼寝にも、最適ですしね
+line2
+com09 0 30
+com08
+choice2 <shift> # 趣味、広いんですね
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「昼寝にも、最適ですしね」
+display
+com11 0 4
+sound 307
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「プロデューサーさんもですか？　あの誘惑には
+line2 <shift> # 逆らえないんですよね。ついウトウトと。ふふっ」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「趣味、広いんですね」
+display
+com11 0 4
+sound 308
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そうなんでしょうか？　とくに気にしたことも
+line2 <shift> # なかったのですけれど」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「他には、どんなのを聴きにいったりします？」
+display
+com11 0 4
+sound 309
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「んー、クラシック、ジャズ、その他にも……。
+line2 <shift> # な、なんでもいいのかもしれませんね、私」
+com09 0 49
+display
+location 49
+com11 0 4
+sound 310
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、今日のライブ、学芸会っぽい出し物とか、
+line2 <shift> # なにか混ぜてみませんか？　おもしろいかも」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いいですね。楽器の演奏とかはムリでも、
+line2 <shift> # カンタンなやつなら、いいアクセントに」
+display
+com11 0 4
+sound 311
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「……どんなのをやれば、お客さん、よろこぶ
+line2 <shift> # でしょうか？」
+com03 0 3
+choice1 <shift> # 童謡とか、どうですか？
+line2
+com09 0 50
+com08
+choice2 <shift> # お笑いとか、どうですか？
+line2
+com09 0 51
+com08
+choice3 <shift> # 客と輪唱とか、どうですか？
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 2
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「童謡とか、どうですか？」
+display
+com11 0 4
+sound 312
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あっ、ほのぼのしていて、いいかもしれません。
+line2 <shift> # それでは、ちょっと練習して……」
+display
+com20 0 30
+com1f 0 30
+com11 0 4
+sound 313
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「夕暮れーにー、君とぼくー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （う、うまいな、あずささん。もしかして、持ち
+line2 <shift> # 歌より？　客は感動して、聴き入っている……）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お笑いとか、どうですか？」
+display
+com11 0 4
+sound 314
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「で、できるかしら？　でも楽しそうですー。
+line2 <shift> # がんばって、やってみますね！」
+display
+com20 0 30
+com1f 0 30
+com11 0 4
+sound 315
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「おみゃー、そんなごつ言ったら、ダメです
+line2 <shift> # わんー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「な、なんだあれは？　ほ、方言？」
+display
+com11 0 4
+sound 316
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「なんでやねーん」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （超スローなツッコミが、炸裂……。
+line2 <shift> # 客はあきれかえって、天をあおいでいる）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「客と輪唱とか、どうですか？」
+display
+com11 0 4
+sound 317
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、みんなで歌いながら、追いかけていくやつ
+line2 <shift> # ですね。わかりました。では、それで！」
+display
+com20 0 30
+com1f 0 30
+com11 0 4
+sound 318
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「カーエールーのーマーチー。げろげろげろげろ、
+line2 <shift> # げろげろげろげろ、げろげろげろげろ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （客はあまりのだるさに、胸をかきむしっている。
+line2 <shift> # 長すぎだって、あずささん……）
+display
+com11 0 4
+sound 319
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「２番ー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うあ、だ、ダメだってっ！」
+com09 0 69
+display
+location 69
+unk02

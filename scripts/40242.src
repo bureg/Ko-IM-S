@@ -1,0 +1,584 @@
+com2c 0 18
+com2d 0 73
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今日はお料理バラエティー番組、
+line2 <shift> # 『Ｅａｔ　ｏｒ　Ｄｉｅ』の収録が進んでいる）
+display
+name 0 2 <names:2>  # Chairman
+line1 <shift> # 「……さぁ、究極のフランス料理と至高の
+line2 <shift> # 中華料理、全品目が出そろったわけですが……」
+display
+name 0 2 <names:2>  # Chairman
+line1 <shift> # 「芸能人の皆さんは今のところ
+line2 <shift> # どちらが食べたいか、プレートをどうぞ！」
+display <shift> # おおーっ
+display
+name 0 2 <names:2>  # Chairman
+line1 <shift> # 「ほうほう、フランス料理と中華料理、両者同数
+line2 <shift> # ですね！　……同数？　そんなはずは……」
+display
+com11 0 0
+sound 0
+name 0 0 <names:3>  # Ritsuko
+line1 <shift> # 「むむむ……！」
+display
+name 0 2 <names:2>  # Chairman
+line1 <shift> # 「あのー、もしもし、律子ちゃん？
+line2 <shift> # そろそろプレートをあげてもらえませんか？」
+display <shift> # わはははは……
+display
+com11 0 0
+sound 1
+name 0 0 <names:3>  # Ritsuko
+line1 <shift> # 「むむむむむ……ていっ！」
+display
+name 0 2 <names:2>  # Chairman
+line1 <shift> # 「あのー、もしもし、律子ちゃん？
+line2 <shift> # 両方上げるのはナシです」
+display <shift> # わはははは……
+display
+com11 0 0
+sound 2
+name 0 0 <names:3>  # Ritsuko
+line1 <shift> # 「で、でも、選べませんー！！」
+display <shift> # わはははは……
+display
+name 0 2 <names:2>  # Chairman
+line1 <shift> # 「人気アイドルをも悩ます難問！
+line2 <shift> # より多くの人が上げる料理を選ばなければ……」
+display
+name 0 2 <names:2>  # Chairman
+line1 <shift> # 「お食事ナッシングとなります！
+line2 <shift> # さぁ、勝つのはどっちだっ！！」
+display
+name 0 2 <names:2>  # Chairman
+line1 <shift> # 「『Ｅａｔ　ｏｒ　Ｄｉｅ』！
+line2 <shift> # 決戦は、この後すぐ！！」
+display
+name 0 2 <names:4>  # Ad
+line1 <shift> # 「はい、カットぉ！
+line2 <shift> # １０分間の休憩はいりまーす！！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お疲れさま、律子。プレートを両方あげて
+line2 <shift> # ウケを狙ったところ、よかったぞ！」
+display
+com11 0 0
+sound 3
+name 0 0 <names:3>  # Ritsuko
+line1 <shift> # 「うーん、いったいどっちを選べばいい
+line2 <shift> # の……！？　難しい問題だわ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……別にウケを狙ったわけじゃなくて、
+line2 <shift> # 普通に本気だったのか」
+display
+com11 0 0
+sound 4
+name 0 0 <names:3>  # Ritsuko
+line1 <shift> # 「この番組は好きで見てたし、
+line2 <shift> # ここ８週分の傾向も学習済みです」
+display
+com11 0 0
+sound 5
+name 0 0 <names:3>  # Ritsuko
+line1 <shift> # 「私のここ８週の勝率は、８７．５％！
+line2 <shift> # そう簡単に負けるはずがない！」
+display
+com11 0 0
+sound 6
+name 0 0 <names:3>  # Ritsuko
+line1 <shift> # 「……でも、今日だけはダメ！
+line2 <shift> # 出演者の空気が読めないわ……」
+display
+com11 0 0
+sound 7
+name 0 0 <names:3>  # Ritsuko
+line1 <shift> # 「プロデューサー！　どっちがおいしそうです
+line2 <shift> # か？　フランス料理と中華料理だったら……」
+com03 0 3
+choice1 <shift> # フランス料理
+line2
+com09 0 11
+com08
+choice2 <shift> # 中華料理
+com09 0 12
+com08
+choice3 <shift> # どっちでもいい
+line2
+com09 0 13
+com08
+com07 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64
+com09 0 13
+com08
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺はフランス料理だなあ。普段めったに
+line2 <shift> # お目にかかれない料理ばかりだし」
+display
+com11 0 0
+sound 8
+name 0 0 <names:3>  # Ritsuko
+line1 <shift> # 「確かに、非日常感はすごくあるわね。
+line2 <shift> # どんな味なんだろうと、食べてみたくなる」
+display
+com11 0 0
+sound 9
+name 0 0 <names:3>  # Ritsuko
+line1 <shift> # 「でも、それは諸刃の剣！　味が想像出来ない
+line2 <shift> # ものを頼むのって、度胸がいりますよ」
+display
+com11 0 0
+sound 10
+name 0 0 <names:3>  # Ritsuko
+line1 <shift> # 「それなら、食べ慣れて、味が想像できる
+line2 <shift> # 中華料理の方がいいと思いませんか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、この番組で紹介されたフランス料理は、
+line2 <shift> # 見た目からしておいしそうだったしな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「食べたことないから、正確な味はわからない
+line2 <shift> # けど、間違いなくおいしいことだけはわかるぞ」
+display
+com11 0 0
+sound 11
+name 0 0 <names:3>  # Ritsuko
+line1 <shift> # 「そう！　未知の素晴らしい味覚を体験できる
+line2 <shift> # かも……という期待をあおるんですよね！」
+com09 0 20
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺は中華料理だなあ。
+line2 <shift> # なじんでる味だし、食材も豪華だし」
+display
+com11 0 0
+sound 12
+name 0 0 <names:3>  # Ritsuko
+line1 <shift> # 「確かになじんでいる味というのは、
+line2 <shift> # 食べる時に安心感があるわ」
+display
+com11 0 0
+sound 13
+name 0 0 <names:3>  # Ritsuko
+line1 <shift> # 「でも、それは諸刃の剣！
+line2 <shift> # 新しい味に出会う新鮮味はないでしょう？」
+display
+com11 0 0
+sound 14
+name 0 0 <names:3>  # Ritsuko
+line1 <shift> # 「食べたことのない、未知の味……
+line2 <shift> # フランス料理に心ひかれるのでは？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、中華は普段食べてるものでも、
+line2 <shift> # じゅうぶんおいしいだろ？　」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それに、この番組で紹介されたような最高の
+line2 <shift> # 素材が加わったら……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まるで、全く新しい味に出会ったような
+line2 <shift> # 感動があるかもしれないぞ」
+display
+com11 0 0
+sound 15
+name 0 0 <names:3>  # Ritsuko
+line1 <shift> # 「ええ！　食べ慣れた味に未知の食材が加わった
+line2 <shift> # ら……という期待！　これは強力ですよね！」
+com09 0 20
+display
+location 13
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「別にどっちでもいいなあ。
+line2 <shift> # どっちもおいしそうだし」
+display
+com11 0 0
+sound 16
+name 0 0 <names:3>  # Ritsuko
+line1 <shift> # 「質問の答えになってません！
+line2 <shift> # どっちがいいのかを言ってください」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だ、だからどっちもおいしそうだなって……」
+display
+com11 0 0
+sound 17
+name 0 0 <names:3>  # Ritsuko
+line1 <shift> # 「はぁ……もういいです。
+line2 <shift> # 私ひとりで考えますから」
+com09 0 20
+display
+location 20
+com11 0 0
+sound 18
+name 0 0 <names:3>  # Ritsuko
+line1 <shift> # 「ううっ、どっちがいいんだろう！
+line2 <shift> # 本気でわからないわ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まあまあ、落ち着いて。
+line2 <shift> # ジュースでも飲んで休憩しよう」
+display
+com11 0 0
+sound 19
+name 0 0 <names:3>  # Ritsuko
+line1 <shift> # 「ジュースだなんて、とんでもない！　料理を食
+line2 <shift> # べるまで、何も口にいれるつもりはありません」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「食べる気マンマンだな……」
+display
+com11 0 0
+sound 20
+name 0 0 <names:3>  # Ritsuko
+line1 <shift> # 「なにせ今日は、朝から抜いてますから。
+line2 <shift> # 空腹は最高の調味料ってね」
+com03 0 3
+choice1 <shift> # やりすぎです
+line2
+com09 0 21
+com08
+choice2 <shift> # やる気があっていいな
+line2
+com09 0 22
+com08
+choice3 <shift> # お腹鳴ったりしない？
+line2
+com09 0 23
+com08
+com07
+com09 0 23
+com08
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やりすぎです。軽くなんか食べておきなさい」
+display
+com11 0 0
+sound 21
+name 0 0 <names:3>  # Ritsuko
+line1 <shift> # 「ええ〜っ！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あんまりお腹が減ってると、
+line2 <shift> # 冷静な判断が出来なくなるぞ」
+display
+com11 0 0
+sound 22
+name 0 0 <names:3>  # Ritsuko
+line1 <shift> # 「そ、そうか……。勝負に勝たないと、
+line2 <shift> # ごはんにありつけないんだものね」
+display
+com11 0 0
+sound 23
+name 0 0 <names:3>  # Ritsuko
+line1 <shift> # 「わかったわ、軽く食べる。ジュースと……
+line2 <shift> # このビスケット、もらいますよ」
+com09 0 30
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やる気があっていいな」
+display
+com11 0 0
+sound 24
+name 0 0 <names:3>  # Ritsuko
+line1 <shift> # 「当然です！　あれだけのごちそうを前にして、
+line2 <shift> # お腹いっぱいじゃ悲しすぎますから」
+display
+com11 0 0
+sound 25
+name 0 0 <names:3>  # Ritsuko
+line1 <shift> # 「それにほら、軽い空腹の時が一番頭が働くっ
+line2 <shift> # て、聞いたことありませんか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ふーん、そうなのか？
+line2 <shift> # 今の律子、獲物を狙うオオカミみたいだな」
+display
+com11 0 0
+sound 26
+name 0 0 <names:3>  # Ritsuko
+line1 <shift> # 「……あんまり、かわいくないですね。なんか
+line2 <shift> # こう、獲物を食らい尽くしそうな感じ……」
+com09 0 30
+display
+location 23
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お腹鳴ったりしない？」
+display
+com11 0 0
+sound 27
+name 0 0 <names:3>  # Ritsuko
+line1 <shift> # 「そ、それは……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まあ、生理現象だから、
+line2 <shift> # 自分ではどうにも出来ないけどな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、もし収録の最中に、大きな音で鳴ったり
+line2 <shift> # したら、腹ぺこアイドルというレッテルを……」
+display
+com11 0 0
+sound 28
+name 0 0 <names:3>  # Ritsuko
+line1 <shift> # 「不吉なことを言わないでくださいっ！」
+com09 0 30
+display
+location 30
+name 0 2 <names:4>  # Ad
+line1 <shift> # 「そろそろ開始しまーす！」
+display
+com11 0 0
+sound 29
+name 0 0 <names:3>  # Ritsuko
+line1 <shift> # 「うそっ！？　もうそんな時間なの！？」
+display
+com11 0 0
+sound 30
+name 0 0 <names:3>  # Ritsuko
+line1 <shift> # 「ああ……どっちにするか決めてない！
+line2 <shift> # どうしよう、どうしよう……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ほらほら、落ち着け律子」
+display
+com11 0 0
+sound 31
+name 0 0 <names:3>  # Ritsuko
+line1 <shift> # 「そうだ！　プロデューサー、決めて下さい！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お、俺が！？」
+display
+com11 0 0
+sound 32
+name 0 0 <names:3>  # Ritsuko
+line1 <shift> # 「大丈夫！　ハズレても恨みっこ……」
+display
+com11 0 0
+sound 33
+name 0 0 <names:3>  # Ritsuko
+line1 <shift> # 「……うーん、多少は恨むかもしれないけど、
+line2 <shift> # でも多少ですから！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……すごく拒否したいんだが」
+display
+name 0 2 <names:4>  # Ad
+line1 <shift> # 「本番入りまーっす！」
+display
+com11 0 0
+sound 34
+name 0 0 <names:3>  # Ritsuko
+line1 <shift> # 「プロデューサー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わ、わかったよ。えーっと……」
+com03 0 2
+choice1 <shift> # フランス料理
+line2
+com09 0 31
+com08
+choice2 <shift> # 中華料理
+com09 0 32
+com08
+com07 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64
+com09 0 33
+com08
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「フランス料理だ！」
+com1c 0 1
+com09 0 34
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「中華料理だ！」
+com1c 0 2
+com09 0 34
+display
+location 33
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、うーん……こっちの料理だ！」
+com1c 0 3
+com09 0 34
+display
+location 34
+com11 0 0
+sound 35
+name 0 0 <names:3>  # Ritsuko
+line1 <shift> # 「了解です！　それじゃ……行ってきますね」
+display
+name 0 2 <names:2>  # Chairman
+line1 <shift> # 「さぁ、いよいよジャッジメントターイム！！
+line2 <shift> # 皆さん、どちらのお料理がお気に召したか……」
+display
+name 0 2 <names:2>  # Chairman
+line1 <shift> # 「お料理の札を……オープンッ！！」
+display
+com11 0 0
+sound 36
+name 0 0 <names:3>  # Ritsuko
+line1 <shift> # 「お願い……！」
+com37 0 1
+com1e 0 0
+com09 0 35
+com3b
+com37 0 0
+com1e 0 0
+com09 0 36
+com3b
+display
+location 35
+name 0 2 <names:2>  # Chairman
+line1 <shift> # 「その差わずか１票！　フランス料理だっ！！」
+com37 0 1
+com1e 0 1
+com09 0 37
+com3b
+com37 0 1
+com1e 0 2
+com09 0 38
+com3b
+com37 0 1
+com1e 0 3
+com09 0 38
+com3b
+display
+location 36
+name 0 2 <names:2>  # Chairman
+line1 <shift> # 「その差わずか１票！　中華料理だっ！！」
+com37 0 1
+com1e 0 2
+com09 0 37
+com3b
+com37 0 1
+com1e 0 1
+com09 0 38
+com3b
+com37 0 1
+com1e 0 3
+com09 0 38
+com3b
+display
+location 37
+com11 0 0
+sound 37
+name 0 0 <names:3>  # Ritsuko
+line1 <shift> # 「やったーーーーーーーっ！！」
+display
+name 0 2 <names:2>  # Chairman
+line1 <shift> # 「勝者の方々の前には、
+line2 <shift> # 今、お料理が並べられました！」
+display
+com11 0 0
+sound 38
+name 0 0 <names:3>  # Ritsuko
+line1 <shift> # 「いっただっきまーす！」
+display
+name 0 2 <names:2>  # Chairman
+line1 <shift> # 「お味の方はどうですか？」
+display
+com11 0 0
+sound 39
+name 0 0 <names:3>  # Ritsuko
+line1 <shift> # 「すばらしいの一言です！」
+display
+com11 0 0
+sound 40
+name 0 0 <names:3>  # Ritsuko
+line1 <shift> # 「素材の良さが際だっていますね！
+line2 <shift> # 歯ごたえが、最高です！」
+display
+com11 0 0
+sound 41
+name 0 0 <names:3>  # Ritsuko
+line1 <shift> # 「そして素材の良さを殺さないよう、
+line2 <shift> # 細心の注意をはらって考えられた味付け！」
+display
+com11 0 0
+sound 42
+name 0 0 <names:3>  # Ritsuko
+line1 <shift> # 「熟練の腕を持つ料理人ならではの
+line2 <shift> # 繊細さと大胆さ……まさに芸術品です！」
+display
+name 0 2 <names:2>  # Chairman
+line1 <shift> # 「なるほど〜！　ですが、多くの言葉よりも、
+line2 <shift> # 見てくださいこの笑顔！」
+display
+name 0 2 <names:2>  # Chairman
+line1 <shift> # 「この笑顔ひとつだけで、いかに美味かが
+line2 <shift> # 伝わると思います！」
+display
+com11 0 0
+sound 43
+name 0 0 <names:3>  # Ritsuko
+line1 <shift> # 「せ、せっかく、たくさんしゃべったのに〜！」
+display <shift> # わはははは……
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （司会者にからかわれながらも、律子は嬉しそう
+line2 <shift> # だ。よっぽど食いたかったんだな、あはは……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （いやー、我ながら、いいカンだったな！　何事
+line2 <shift> # もこの調子で、スムーズに進めたいところだ）
+com4b 0 0
+com09 0 69
+display
+location 38
+com11 0 0
+sound 44
+name 0 0 <names:3>  # Ritsuko
+line1 <shift> # 「ええーーーーーーーーーーーーっ！？
+line2 <shift> # そ、そんなぁ！」
+display
+name 0 2 <names:2>  # Chairman
+line1 <shift> # 「勝者の方々の前には、
+line2 <shift> # 今、お料理が並べられました！」
+display
+com11 0 0
+sound 45
+name 0 0 <names:3>  # Ritsuko
+line1 <shift> # 「うわっ……。お、おいしそう……」
+display
+name 0 2 <names:2>  # Chairman
+line1 <shift> # 「では、ここで敗者にインタビューを！
+line2 <shift> # どうです、おいしそうでしょう？」
+display
+com11 0 0
+sound 46
+name 0 0 <names:3>  # Ritsuko
+line1 <shift> # 「はい……」
+display
+name 0 2 <names:2>  # Chairman
+line1 <shift> # 「食べられない今の悲しみを、
+line2 <shift> # 一言で表現すると！？」
+display
+com11 0 0
+sound 47
+name 0 0 <names:3>  # Ritsuko
+line1 <shift> # 「……恨みます。
+line2 <shift> # 恨んで恨んで、恨み抜いてやりますっ！！」
+display <shift> # わはははは……
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ああ……律子がすごい形相で、こっちを
+line2 <shift> # にらんでる……。この失敗は、かなり痛いな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （どうして外すかなぁ、俺……）
+com4b 0 2
+com09 0 69
+display
+location 69
+unk02

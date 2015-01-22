@@ -1,0 +1,463 @@
+com2c 0 21
+com2c 0 118
+com2d 0 31
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （はあ……。つ、疲れた……。
+line2 <shift> # 初日ってこともあって、緊張しちゃったな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （これからやよいをトップアイドルに育てるのか。
+line2 <shift> # やよいは、元気が魅力の女の子だけど……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺なんかが本当に、プロデュースしていけるの
+line2 <shift> # かな。今さらだけど、ちょっと自信ないよ……）
+display
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「んっしょ、んっしょ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うん？　あの後ろ姿はもしかして……、
+line2 <shift> # やよい！」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あっ、プロデューサー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうしたんだ？
+line2 <shift> # そんなにいっぱいの荷物を引きずって？」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えへへ。近くのスーパーで特売があったんで、
+line2 <shift> # いっぱい買っちゃいました！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ところで、そんなに大荷物を持って、
+line2 <shift> # 家まで帰れるのか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「その調子で家まで引きずっていったら、
+line2 <shift> # 袋が破けちゃうと思うぞ？」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あう、えーと、その……」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「私、今、元気があふれすぎちゃってるから、
+line2 <shift> # 持って帰れるかなーって思ったんですけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （いや、絶対ムリだろ……。
+line2 <shift> # ほっとけないな、これは）
+com03 0 3
+choice1 <shift> # 荷物持とうか？
+line2
+com09 0 10
+com08
+choice2 <shift> # 返品したらどうだ？
+line2
+com09 0 11
+com08
+choice3 <shift> # 買いすぎは良くないぞ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「荷物が多すぎて、大変だろう。
+line2 <shift> # 俺が荷物、持とうか？」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ええ！？　悪いですよ、プロデューサー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「遠慮するなって。その方が早く帰れるだろ？」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「でも……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「明日から忙しくなるからな。
+line2 <shift> # ゆっくり休んで、明日から、がんばってくれよ」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ホントにいいんですか……？　えへへー。
+line2 <shift> # じゃあ、お言葉に甘えて、お願いしまーすっ！」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「買ったばかりなら、返品したらどうだ？」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ええっ！？
+line2 <shift> # せっかく買ったのに、もったいないです！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、持って帰れないんじゃ、
+line2 <shift> # 同じことだろ？」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うう、でも……。タイムセールもあって、半額
+line2 <shift> # だったんですよ？　せっかく得したのに……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （落ち込んでいる。
+line2 <shift> # 無理に返品させるのは、かわいそうだな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、持って帰るの手伝うよ。
+line2 <shift> # やよい一人じゃ、ムリだろうし」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ええーっ！？　い、いいんですか！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もちろんだ。さあ、一緒に帰ろう」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ありがとうございます、プロデューサー！
+line2 <shift> # このご恩は、いつか返しますね！」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「自分で持てないほど買って、どうするんだ？
+line2 <shift> # 買いすぎは良くないぞ」
+display
+com11 0 0
+sound 10012
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「す、すみません、プロデューサー。
+line2 <shift> # ３つで５０円だったから、つい……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、謝る必要はないけど、
+line2 <shift> # これじゃ家に帰る頃には、夜が明けてしまうぞ」
+display
+com11 0 0
+sound 10013
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そうかもですけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「仕方ないなあ。俺も持つのを手伝うよ。
+line2 <shift> # 一緒に帰ろう」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ええーっ！？　い、いいんですか！？
+line2 <shift> # すっごく重たいんですよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やよいよりは俺の方が、力あるだろうから、
+line2 <shift> # 大丈夫だよ」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ありがとうございます、プロデューサー！」
+com09 0 19
+display
+location 19
+com22 0 30
+com21 0 30
+com32 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……それにしてもキャベツ１０玉とか、
+line2 <shift> # 買いすぎじゃないか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まさか……。１人で食べるのか？」
+display
+com11 0 0
+sound 10016
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「違いますよ〜、家族で食べるんです！　うちの
+line2 <shift> # 家族、みんな、キャベツ大好きなんですよ」
+display
+com11 0 0
+sound 10017
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「キャベツの千切りだけでご飯おかわりできちゃ
+line2 <shift> # いますから。おいしいですよねー、千切り！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ん？　まあ、そうだな。ははは……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （まさかとは思うけど、やよいの家では、おかず
+line2 <shift> # がキャベツだけってことは、ないよな……？）
+display <shift> # がさっ！
+display
+com11 0 0
+sound 10018
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ひゃっ！　い、今、
+line2 <shift> # 何か動きませんでしたか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ん？　そうかな？」
+display <shift> # がさっ！　がさっ！
+display
+com11 0 0
+sound 10019
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ま、またです！　ガサガサっていう音、
+line2 <shift> # きこえませんか、プロデューサー？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「確かに、何か、いるみたいだな。
+line2 <shift> # 黒い影が通り過ぎたような……」
+display
+com11 0 0
+sound 10020
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うう〜。お、お化けでしょうか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お化けだったら、
+line2 <shift> # 音は、しないんじゃないか？」
+display
+com11 0 0
+sound 10021
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あ。そ、そうですよね〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さっきの音は、お化けというより、
+line2 <shift> # 小さな生き物が動く音という感じかな」
+display
+com11 0 0
+sound 10022
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「小さな生き物ですかー……。
+line2 <shift> # あの、私、ちょっと、確かめて来ますね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え？」
+display
+com11 0 0
+sound 10023
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「迷子のペットとかなら、飼い主さんが探してる
+line2 <shift> # かもしれないかなーって！　行ってきまーす！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お、おい、やよい！　荷物は……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （やよいは、止める間もなく行ってしまった。
+line2 <shift> # 俺は、どうすべきなのかな……）
+com03 0 3
+choice1 <shift> # 一緒になって探す
+line2
+com09 0 20
+com08
+choice2 <shift> # 荷物を置いて探す
+line2
+com09 0 21
+com08
+choice3 <shift> # 荷物を使って探す
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やよい１人で行かせるのは心配だな。
+line2 <shift> # 一緒に探すか。さ、あとを追うぞ……」
+display <shift> # がさがさっ！　チューチュー！
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「は、ハムスター！？
+line2 <shift> # どうしてハムスターが、こんなところに？」
+com09 0 100
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「荷物は重いし、これを置いて探すか……」
+display <shift> # がさがさっ！　チューチュー！
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うぉう！　出たな！　って、ハムスター？」
+com09 0 100
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、やよいが買った、この食材をエサにして、
+line2 <shift> # 探すか。やよい、勝手に使うこと許してくれ！」
+display <shift> # がさがさっ！　チューチュー！
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「むっ！？　何やつ！
+line2 <shift> # ……って、こいつは、ハムスター！？」
+com09 0 100
+display
+location 100
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （さてと、やよいはまだ、
+line2 <shift> # どこかで探しているのかな……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やよいー！　やよいー！　どこだー？」
+display <shift> # がさがさ。
+display
+com11 0 0
+sound 10024
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「プロデューサー、見つかりませ〜んっ！！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うわ！　急に出てきて、驚かせるなよ」
+display
+com11 0 0
+sound 10025
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「す、すみません。あの、一生懸命、
+line2 <shift> # 探したんですけど、見つかりませんでした」
+display
+com11 0 0
+sound 10026
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あの黒い影は、なんだったのかなぁ」
+com03 0 3
+choice1 <shift> # ハムスターだったよ
+line2
+com09 0 40
+com08
+choice2 <shift> # 怪獣だったぞ
+line2
+com09 0 41
+com08
+choice3 <shift> # お化けだったなぁ
+line2
+com09 0 42
+com08
+com07
+com09 0 42
+com08
+display
+location 40
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、ハムスターだったよ」
+display
+com11 0 0
+sound 10027
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ハムスター！？　もしかして、
+line2 <shift> # プロデューサー、捕まえたんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「逃げ出したのを俺が捕まえてな。
+line2 <shift> # 飼い主の女の子が追いかけてきたから返したよ」
+com09 0 49
+display
+location 41
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「頭が３つに足が８本ある、怪獣だったぞ！」
+display
+com11 0 0
+sound 10028
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ええーっ！？　そんなすごい怪獣が、
+line2 <shift> # ほんとに、いるんですかっ！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「安心しろ、やよい。
+line2 <shift> # 怪獣使いの女の子が来て、連れて帰ったから」
+com09 0 49
+display
+location 42
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やよいの予想通り、お化けだったなぁ」
+display
+com11 0 0
+sound 10029
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ええーっ！？　もしかして、白いシーツかぶっ
+line2 <shift> # たような格好で、うらめしや〜、とか！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんだか、懐かしいタイプのお化けだな。まあ、
+line2 <shift> # 俺も姿は、はっきり見ていないんだが……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「偶然にも、お化け退治ができるっていう
+line2 <shift> # 女の子が来て、浄化してくれたよ」
+com09 0 49
+display
+location 49
+com11 0 0
+sound 10030
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そっか〜。良かったですー。
+line2 <shift> # これで安心して帰れますね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そう言えば、あの女の子、目に力があったな。
+line2 <shift> # なかなか才能のありそうな……）
+display
+com11 0 0
+sound 10031
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「どうしたんですか、プロデューサー？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「い、いや、何でもない。
+line2 <shift> # 明日から、がんばって活動しような、やよい！」
+display
+com11 0 0
+sound 10032
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はい！　私、がんばります！
+line2 <shift> # うっう〜、メラメラ〜って燃えてきました！」
+display
+com22 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後、やよいの荷物を持って、
+line2 <shift> # 家まで送ってあげた）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （自信ないなんて言ってられないぞ。
+line2 <shift> # 俺は、やよいのやる気に、応えなくちゃな！）
+com09 0 99
+display
+location 99
+unk02

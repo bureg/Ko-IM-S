@@ -1,0 +1,286 @@
+com2c 0 18
+com2d 0 21
+com32 0 0
+com11 0 2
+sound 800
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「プロデューサー、きいたっ？　リハーサル、
+line2 <shift> # 機材トラブルで、３時間も遅れるって！」
+display
+com11 0 2
+sound 801
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「たるんでるわよねー。売れっ子アイドルの、
+line2 <shift> # 貴重な時間、なんだと思ってるのかしら」
+com03 0 3
+choice1 <shift> # まあ、気長に待とう
+line2
+com09 0 10
+com08
+choice2 <shift> # 抗議してこようか？
+line2
+com09 0 11
+com08
+choice3 <shift> # 悪いな、伊織……
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、気長に待とう」
+display
+com11 0 2
+sound 802
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「はあ〜、そうするしかないわね。
+line2 <shift> # 相手が機材じゃ、キレたってしょうがないし」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「抗議してこようか？」
+display
+com11 0 2
+sound 803
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「いいわよ……。
+line2 <shift> # 出張ったら、あんたが、にらまれちゃうし」
+display
+com11 0 2
+sound 804
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ここは、おとなしくしておいて、
+line2 <shift> # 局に、恩を売りつけてあげましょっ」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「悪いな、伊織……」
+display
+com11 0 2
+sound 805
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あんたがあやまること、ないじゃない。
+line2 <shift> # ……ま、まさか、機材こわした犯人は！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、俺じゃないよ……」
+display
+com11 0 2
+sound 806
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そう……。なら、紛らわしいこと、
+line2 <shift> # 言わないでよね」
+com09 0 29
+display
+location 29
+com11 0 2
+sound 807
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「んー。こうなること、わかってたら、
+line2 <shift> # すこしでも、学校に顔出すんだったわー」
+display
+com11 0 2
+sound 808
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「最近、どうも同級生とか、よそよそしいのよね。
+line2 <shift> # 取り巻きも、すっかり減っちゃったし……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「嫌われてるのか？」
+display
+com11 0 2
+sound 809
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そこまで大げさじゃないわっ。でも、
+line2 <shift> # なんか話題とか、合わなくなってきてて……」
+display
+com11 0 2
+sound 810
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「芸能界には慣れたけど、今度は、学校が遠く
+line2 <shift> # なった感じ。これって、しかたないのかしら」
+com03 0 3
+choice1 <shift> # 体はひとつだからね
+line2
+com09 0 30
+com08
+choice2 <shift> # ある程度は、しかたないよ
+line2
+com09 0 31
+com08
+choice3 <shift> # 努力すれば、あるいは……
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「体はひとつだからね」
+display
+com11 0 2
+sound 811
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そうよね。両方いっぺんにやるわけには、
+line2 <shift> # いかないし……」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ある程度は、しかたないよ」
+display
+com11 0 2
+sound 812
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そうね。前は両立できてたのに、ここのところ、
+line2 <shift> # そうも行かなくなってきたし……」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「努力すれば、あるいは……」
+display
+com11 0 2
+sound 813
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「できる範囲じゃ、してるわよ。でも、
+line2 <shift> # これ以上、がんばる気には、なれないわ……」
+display
+com11 0 2
+sound 814
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「仕事だけだって、けっこう大変なのに、
+line2 <shift> # その上、プライベートまでなんて……」
+com09 0 49
+display
+location 49
+com11 0 2
+sound 815
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「はあーあ。アイドルになるって決めた時、
+line2 <shift> # 戻れない一歩、踏み出しちゃったのかも」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「後悔してるのか？」
+display
+com11 0 2
+sound 826
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そんなこと絶対ない！　ただ、思っただけ。
+line2 <shift> # 完全に、身も心もアイドルなんだなーって」
+display
+com11 0 2
+sound 817
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……あんたから見て、どう？
+line2 <shift> # もう私、普通の子とは……、全然ちがう？」
+com03 0 3
+choice1 <shift> # そんなの、どうでもいいだろ
+line2
+com09 0 50
+com08
+choice2 <shift> # 普通の子って、なんだ？
+line2
+com09 0 51
+com08
+choice3 <shift> # はじめから、ちがってた気が……
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなの、どうでもいいだろ。伊織は伊織。
+line2 <shift> # それでいいって思うけど？」
+display
+com11 0 2
+sound 818
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「まあ、そうかもねー。普通だろうが、そうで
+line2 <shift> # なかろうが、このまま、行くしかないわけだし」
+display
+com11 0 2
+sound 819
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「私は、どう転ぼうが私。それでＯＫかしら。
+line2 <shift> # ……ありがと。いい時間つぶしになったわ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うまい聞き役になれたかな。周囲との差なんか
+line2 <shift> # 気にせず、自由にやってほしいよな）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「普通の子って、なんだ？」
+display
+com11 0 2
+sound 820
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なんとなく……、こう、あるじゃない？
+line2 <shift> # 雰囲気っていうか、オーラっていうか」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうも、線引きがハッキリしないな。
+line2 <shift> # 意識しすぎなんじゃないか？」
+display
+com11 0 2
+sound 821
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……まあ、にぶいあんたに、きいても、
+line2 <shift> # しょうがないかしら」
+display
+com11 0 2
+sound 822
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「この差って、ドンドン広がっていくのかしら。
+line2 <shift> # はあ〜あ、これから、どうなっちゃうんだろ〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （伊織なりに、不安を抱いているようだ。なんか、
+line2 <shift> # スッキリしないみたいだけど、ま、いいか）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「はじめから、ちがってた気が……」
+display
+com11 0 2
+sound 823
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なんで、最後、口ごもるわけ？　……プロ
+line2 <shift> # デューサー、私達の間で隠しごとはなしよね？」
+display
+com11 0 2
+sound 824
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「さあ、ハッキリ教えてちょーだい。なにが、
+line2 <shift> # どのくらい、どんな風にちがってたのかしら？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや……、その……、凡人らしからぬというか、
+line2 <shift> # 超越してるっていうか……」
+display
+com11 0 2
+sound 825
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そんなあやふやな言葉じゃなくて、正確に♪
+line2 <shift> # 白状しないと、大変なことになるんだからーっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （白状しても、結果は同じでは……？
+line2 <shift> # もっと、真剣に答えれてやればよかったな）
+com09 0 69
+display
+location 69
+unk02

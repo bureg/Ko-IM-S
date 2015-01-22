@@ -1,0 +1,447 @@
+com2c 0 59
+com2c 0 57
+com2d 0 83
+com32 0 0
+com11 0 4
+sound 800
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「へへっ、路上ライブなんて、すっごく
+line2 <shift> # おもしろそうですね。よーし、やるぞー！」
+display
+com11 0 4
+sound 801
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「こういうところで、どんどん歌って、
+line2 <shift> # 実力を……。あ、あれ、プロデューサー！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうした？　真っ青な顔して」
+display
+com11 0 4
+sound 802
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「なんかボク達、目つきの悪い人に、囲まれて。
+line2 <shift> # どう見ても、ファンって感じじゃ……」
+com03 0 2
+choice1 <shift> # くっ、マズいな
+line2
+com09 0 10
+com08
+choice2 <shift> # 目立つのは、いいことだよ
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「くっ、マズいな。多分、
+line2 <shift> # ここでよく路上ライブやってる人達だ」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「目立つのは、いいことだよ」
+display
+com11 0 4
+sound 803
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「なに、寝ぼけたこと、言ってるんですか〜？
+line2 <shift> # まわりの人、余計に殺気立って！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う、本当だ……。こいつら、多分ここで、
+line2 <shift> # よく路上ライブやってる、常連達だな」
+com09 0 29
+display
+location 29
+com11 0 4
+sound 804
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ボク達、ジャマ者と思われてるんですか？
+line2 <shift> # そんなっ。同じ音楽をやってる、仲間なのに！」
+display
+com11 0 4
+sound 805
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「なんとか、しないと。
+line2 <shift> # こ、こ、こうなったら〜……！！」
+com03 0 3
+choice1 <shift> # 逃げろ、真！
+line2
+com09 0 30
+com08
+choice2 <shift> # 逃げよう、真！
+line2
+com09 0 31
+com08
+choice3 <shift> # 戦うか、真！
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「逃げろ、真！」
+display
+com11 0 4
+sound 806
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「で、できませんよっ、プロデューサーを置いて
+line2 <shift> # いくなんて。うあっ、や、やめろ、くるな〜」
+display
+com22 0 30
+com32 0 1
+com21 0 30
+com11 0 4
+sound 807
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「大丈夫ですか？　ありがとうございました。
+line2 <shift> # かばってくれて……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、まあ、これぐらいはな。
+line2 <shift> # あれ、真……、頬、すこし赤くなってるな？」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「逃げよう、真！」
+display
+com11 0 4
+sound 808
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そうですね。それが一番……！
+line2 <shift> # って、振り切れますか？　この人数」
+display
+com11 0 4
+sound 809
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「う……、や、やめろ。近づいてくるな〜！
+line2 <shift> # ぷ、プロデューサー、うあ〜あ〜あ〜っ」
+display
+com22 0 30
+com32 0 1
+com21 0 30
+com11 0 4
+sound 810
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うう、ひどい目にあいましたね。
+line2 <shift> # やっぱり、逃げきれるわけ……」
+com09 0 91
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「戦うか、真！」
+display
+com11 0 4
+sound 811
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ええええ、本気ですか！？　アイドルが、
+line2 <shift> # 人を叩きのめすのは、マズいんじゃ……？」
+display
+com11 0 4
+sound 812
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「う……、や、やめろ。近づいてくるな〜！
+line2 <shift> # ぷ、プロデューサー、うあ〜あ〜あ〜っ」
+display
+com22 0 30
+com32 0 1
+com21 0 30
+com11 0 4
+sound 813
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うう、ひどい目にあいましたね。それでも、
+line2 <shift> # やっぱり、やり返すなんて、できません」
+com09 0 91
+display
+location 91
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ごめん。真だけでも、さっさと逃がすべき
+line2 <shift> # だった。あ……、頬、少し赤くなってるな？」
+com09 0 49
+display
+location 49
+com11 0 4
+sound 814
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「こ、こんなの、平気ですっ。ドタバタの最中に、
+line2 <shift> # ちょっと、ぶつけただけですから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どれ……、見せてみろ」
+display
+com11 0 4
+sound 815
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ぼ、ボクのことより、自分の心配を……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いいから。
+line2 <shift> # たいしたことは、できないけど……」
+com0e 2 194
+com44
+com09 0 50
+com45
+com44
+com09 0 51
+com45
+com44
+com09 0 52
+com45
+com44
+com09 0 53
+com45
+com44
+com09 0 54
+com45
+com44
+com09 0 55
+com45
+com44
+com09 0 56
+com45
+com44
+com09 0 57
+com45
+display
+location 50
+com11 0 4
+sound 816
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、ありがとうございます……。
+line2 <shift> # 痛み、すこし、やわらいだ気が……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「悪かったな、こわい目にあわせて」
+display
+com11 0 4
+sound 817
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「いいんですっ！　これも、いい思い出……。
+line2 <shift> # とんだ思い出ですけど。へへっ、あははは！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （顔を見合わせて、しばらく大笑いした。
+line2 <shift> # オオゴトにならなくて、本当に、よかったな）
+com09 0 69
+display
+location 51
+com11 0 4
+sound 839
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「え、あの……、プロデューサー、
+line2 <shift> # なんで、ほっぺた、ツンってしたんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うん、傷になっているな。
+line2 <shift> # 早く事務所に戻って手当てしないと」
+display
+com11 0 4
+sound 840
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はぁ……。見ればわかると思うんですけど。傷
+line2 <shift> # の近く、不用意にさわらないで下さいよ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （あんまり意味のない行動だったか。もっと
+line2 <shift> # 真のケア、ちゃんとしてやるべきだったな）
+com09 0 69
+display
+location 52
+com11 0 4
+sound 821
+com11 0 4
+sound 841
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あの、プロデューサー？
+line2 <shift> # ケガしてるのは、そっちじゃないですけど」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、逆側もケガしてるんじゃないかと、
+line2 <shift> # ふと気になって」
+display
+com11 0 4
+sound 842
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「大丈夫ですよ。
+line2 <shift> # まったく、心配性だなあ、プロデューサーは」
+display
+com11 0 4
+sound 843
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「というか……、たまに謎なことしますよね。
+line2 <shift> # ワケがわからないというか」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （真を不安にさせただけだったか。
+line2 <shift> # もっとちゃんと、ケガ、診てやればよかった）
+com09 0 69
+display
+location 53
+com11 0 4
+sound 844
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「え……、どうして頭、ポンポンって？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「えらいぞ、真。手を出さず、よくこらえた」
+display
+com11 0 4
+sound 845
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はい、ありがとうございます。
+line2 <shift> # ……って、ええ〜っ！？」
+display
+com11 0 4
+sound 846
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ボクが相手に手を出すって、
+line2 <shift> # プロデューサー、本気で思ってたんですか！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「思ってたとも！　真は運動神経がいいから、
+line2 <shift> # ケンカも強そうだしなあ」
+display
+com11 0 4
+sound 847
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そりゃ、やれば強いかもしれませんけど、
+line2 <shift> # ボク、そんなことしません！　怖かったし……」
+display
+com11 0 4
+sound 848
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「それなのに、プロデューサーってば……。
+line2 <shift> # いくらなんでも、ひどすぎます！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （本気で怒っている……。真がケンカなんか
+line2 <shift> # するはずないのに、何言ってるんだ、俺）
+com09 0 69
+display
+location 54
+com11 0 4
+sound 827
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサー？
+line2 <shift> # どうして、頭なんて、なでてくれるんです？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、痛みに耐えてるから、
+line2 <shift> # ほめてやろうと思って」
+display
+com11 0 4
+sound 828
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、ありがとうございます……。でも、
+line2 <shift> # いいですよ。そんなこと、してくれなくても」
+display
+com11 0 4
+sound 853
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「う……。頬、少しヒリヒリしてきたな。
+line2 <shift> # 事務所に帰ったら、タオルで冷やさないと……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （頭なんかなでても、意味はなかったか。どうせ
+line2 <shift> # やるなら、痛い所をどうにかすべきだったな）
+com09 0 69
+display
+location 55
+com11 0 4
+sound 849
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「目の周りが、どうかしたんですか？
+line2 <shift> # まさか、そこにも傷が！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、気のせいだ。
+line2 <shift> # あったように見えたんだけど……」
+display
+com11 0 4
+sound 850
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ホッ……。もう、おどかさないで下さいよ」
+display
+com11 0 4
+sound 851
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「目の近くは少しの傷でも、はれるから、もし傷
+line2 <shift> # があったら、ライブどころじゃなくなりますよ」
+display
+com11 0 4
+sound 852
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「まあ……、気分としては、すでに、
+line2 <shift> # ライブどころじゃない感じですけど。はぁ〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （真を落ち込ませてしまった……。
+line2 <shift> # さわる場所、もっと考えるべきだったな）
+com09 0 69
+display
+location 56
+com11 0 4
+sound 833
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサー？　どうして、いきなり、
+line2 <shift> # そんなところ、さわるんです？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、他にぶつけたところはないかと
+line2 <shift> # 思って。そこは……、大丈夫か？」
+display
+com11 0 4
+sound 834
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はい……。とくに痛みは。別に赤くなったりも
+line2 <shift> # してませんよね？　自分じゃ見えないですけど」
+display
+com11 0 4
+sound 853
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「う……。頬、少しヒリヒリしてきたな。
+line2 <shift> # 事務所に帰ったら、タオルで冷やさないと……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （あんなところさわっても、意味なんてないか。
+line2 <shift> # どうせなら痛い場所をどうにかすべきだったな）
+com09 0 69
+display
+location 57
+com11 0 4
+sound 836
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサー？　なに、じっと見てるん
+line2 <shift> # です？　なにか……、わかるんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、別に。ただ、こうして見てる間に、
+line2 <shift> # 自然に治るかなって」
+display
+com11 0 4
+sound 837
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そんなの、見てても、見てなくても、同じ
+line2 <shift> # ですよ〜。早く、事務所に引き上げた方が……」
+display
+com11 0 4
+sound 838
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、いてて。頬、少しひりついてきました。
+line2 <shift> # タオルとかで、冷やした方がいいですね、これ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （意味もなく、時間を費やしてしまった。
+line2 <shift> # 見つめてる間に、何か、してやれた気がする）
+com09 0 69
+display
+location 69
+unk02

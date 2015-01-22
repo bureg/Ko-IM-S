@@ -1,0 +1,488 @@
+com2d 0 33
+com2c 0 43
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そろそろ曲の収録始まるけど、
+line2 <shift> # 今日はやけにリラックスできてるみたいだな」
+display
+com11 0 0
+sound 0
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えへへ、そうなんです！
+line2 <shift> # 今日は自信ありありなんですー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「へぇ〜、なにがあったんだ？」
+display
+com11 0 0
+sound 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えへへー。それはですね〜、
+line2 <shift> # プロデューサー……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （やけにうれしそうだな、やよい……）
+com03 0 3
+choice1 <shift> # 頭でも打ったのか？
+line2
+com09 0 10
+com08
+choice2 <shift> # トップアイドルになれたのか？
+line2
+com09 0 11
+com08
+choice3 <shift> # 金でもひろったのか？
+line2
+com09 0 12
+com08
+com07 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうしたんだ、やよい。頭でも打ったのか？」
+display
+com11 0 0
+sound 2
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「どうして知ってるんですかー？
+line2 <shift> # さっき、廊下でゴンって……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （からかったつもりだったが、
+line2 <shift> # 本当にそうだったとは……）
+display
+com11 0 0
+sound 3
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「でも、心配ありませんよ〜。
+line2 <shift> # 今の私は無敵モードですからー！」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうしたんだ、やよい。
+line2 <shift> # トップアイドルにでも、なれたのか？」
+display
+com11 0 0
+sound 4
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ううー。そんなのプロデューサーが、
+line2 <shift> # 一番よくわかってるじゃないですかー……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ご、ごめん。まあ、とりあえず聞くだけ
+line2 <shift> # 聞いてみようかなと思って……」
+display
+com11 0 0
+sound 5
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えへへー。でも、トップアイドルも、
+line2 <shift> # もう夢じゃないかもしれませんよ〜？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ？」
+display
+com11 0 0
+sound 6
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「だって、今の私は無敵モードですからー！」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうしたんだ、やよい。
+line2 <shift> # 金でもひろったのか？」
+display
+com11 0 0
+sound 7
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「よくわかりましたね〜！　プロデューサー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「な、なに！　いくらひろったんだ！？」
+display
+com11 0 0
+sound 8
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はい！　５０円ですっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （がくっ……。たったの５０円か……）
+display
+com11 0 0
+sound 9
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「でも、それだけじゃないんですよ〜！
+line2 <shift> # 今の私は無敵モードですからー！」
+com09 0 19
+display
+location 19
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「無敵モード？
+line2 <shift> # いったい、どういう意味なんだ？」
+display
+com11 0 0
+sound 10
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えへへ。今の私、ツイてツイて、
+line2 <shift> # ツキまくってるんでーす！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「へえ〜。どんなことがあったんだ？」
+display
+com11 0 0
+sound 11
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「道路に落ちてた５０円を、
+line2 <shift> # 警察に届けたんですよー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まさか、一割もらえたなんて
+line2 <shift> # 言うんじゃないだろうな……？」
+display
+com11 0 0
+sound 12
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「いえいえ、そんなもんじゃないですよ〜！」
+display
+com11 0 0
+sound 13
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「警察の人が『えらいねー』って、ごほうびに
+line2 <shift> # 自分のお財布から１００円くれたんですー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「１００円……」
+display
+com11 0 0
+sound 14
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「倍ですよ、倍！
+line2 <shift> # アメリカンどり〜むです〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （いまどき、こんなことを素直によろこぶ
+line2 <shift> # 中学生がいるだろうか……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （なんてフビン……いや純真な子なんだ……。
+line2 <shift> # うっ、うっ……）
+display
+com11 0 0
+sound 15
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「それだけじゃないんですよー！　なんと……」
+display
+com11 0 0
+sound 16
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「風に乗って飛んできた、おみくじが、
+line2 <shift> # 大吉だったんです〜！」
+display
+com11 0 0
+sound 17
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「他にも、当てずっぽうで書いた
+line2 <shift> # テストの答えが合ってたり……」
+display
+com11 0 0
+sound 18
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「卵の黄身が２つも入ってたり、
+line2 <shift> # 今の私は、本当にラッキーなんですー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うっ、うっ……。けなげだぞ、やよいっ！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （せっかくいい気分にひたっているんだから、
+line2 <shift> # このままうまく乗せてやろう）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃあ、次のオーディションも楽勝だなー！」
+display
+com11 0 0
+sound 19
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うあ〜、それは……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「無敵モードなら、まちがいないさ！
+line2 <shift> # よ〜し、もし合格できたら……」
+com03 0 3
+choice1 <shift> # 豪華ディナーをおごってやろう
+line2
+com09 0 20
+com08
+choice2 <shift> # ドレスを買ってあげよう
+line2
+com09 0 21
+com08
+choice3 <shift> # おでこにキスしてあげよう
+line2
+com09 0 22
+com08
+com07 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「豪華ディナーをおごってやろう！」
+display
+com11 0 0
+sound 20
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「う、うあ〜！　豪華ディナーって……
+line2 <shift> # 『ステーキセット』とかですか〜！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ま、まあな……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （どうやらファミレスの一番高いメニューが、
+line2 <shift> # やよいの想像力の限界みたいだな……）
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ドレスを買ってあげよう！」
+display
+com11 0 0
+sound 21
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「う、うあ〜！　ドレスだなんて〜！
+line2 <shift> # 私もとうとう大人の仲間入りですかー！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうだな……」
+display
+com11 0 0
+sound 22
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うあ〜！　ど、どうしよう〜！？
+line2 <shift> # 今から、ドキドキしてきましたー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ドレスを着た自分を想像して、
+line2 <shift> # かなり舞い上がってるようだ……）
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おでこにキスしてあげよう」
+display
+com11 0 0
+sound 23
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えええ〜っ！　そ、そんな〜！
+line2 <shift> # 私、中学生だし、まだ早すぎます〜！！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ちょっとからかっただけなのに、
+line2 <shift> # 真っ赤になって、あわててるぞ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺にもこんな時代が……、
+line2 <shift> # あったような、なかったような）
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「とにかく、今の無敵モードのやよいなら、
+line2 <shift> # 負けることなんて、ありえないよ」
+display
+com11 0 0
+sound 24
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はいっ！　どんな相手にも負ける気がしないで
+line2 <shift> # す〜！　でも私、ごほうびなくても頑張れます！」
+display
+com11 0 0
+sound 25
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「だから、今のごほうびの話は、ムリしないで
+line2 <shift> # 下さいね？　プロデューサー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。わかったよ、やよい」
+display
+com11 0 0
+sound 26
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「私、思うんですけど、今の私なら怪獣とも戦え
+line2 <shift> # そうかなーって！　試したいくらいですー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「か、怪獣との戦いは……試すの難しそうだな。
+line2 <shift> # 試すなら、もっと身近で普通な物のほうが……」
+display
+com11 0 0
+sound 27
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あっ！　じゃあ、プロデューサー！
+line2 <shift> # 私とジャンケンしてくださいよー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お、俺が……？」
+display
+com11 0 0
+sound 28
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はい！　無敵モードの私がどれだけすごいか、
+line2 <shift> # 試してみてください！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （こ、ここで俺が勝ってしまうと、せっかく
+line2 <shift> # ついた、やよいの自信が壊れてしまう……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （この笑顔を守るためにも、
+line2 <shift> # 絶対、やよいを勝たせてやるんだ！）
+display
+com11 0 0
+sound 29
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ジャーンケーン……」
+com03 0 3
+choice1 <shift> # グー！
+com09 0 30
+com08
+choice2 <shift> # チョキ！
+com09 0 31
+com08
+choice3 <shift> # パー！
+com09 0 32
+com08
+com07
+com09 0 33
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「グー！」
+com37 0 1
+com1e 0 0
+com09 0 40
+com3b
+com37 0 0
+com1e 0 0
+com09 0 41
+com3b
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「チョキ！」
+com37 0 1
+com1e 0 0
+com09 0 40
+com3b
+com37 0 0
+com1e 0 0
+com09 0 41
+com3b
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「パー！」
+com37 0 1
+com1e 0 0
+com09 0 40
+com3b
+com37 0 0
+com1e 0 0
+com09 0 41
+com3b
+display
+location 33
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ぽん！」
+com09 0 41
+display
+location 40
+com11 0 0
+sound 30
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うあ〜！　プロデューサーに勝てました〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ははっ、今のやよいには、誰もかなわないな」
+display
+com11 0 0
+sound 31
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はい！　このままの勢いで、
+line2 <shift> # トップアイドルまで登りつめちゃいますよ〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （自信に満ちたやよいは勢いにのり、収録での
+line2 <shift> # 出来は素晴らしいものだった！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今のやよいの『無敵モード』は、
+line2 <shift> # ただのカン違いかもしれないけど……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （これがいつか、本当の自信に変わる日が
+line2 <shift> # 来るような気がする……）
+com4b 0 0
+com09 0 69
+display
+location 41
+com11 0 0
+sound 32
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うあ〜、負けちゃいました〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっと……やよい、
+line2 <shift> # これは、その……なんというか……」
+display
+com11 0 0
+sound 33
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「む、無敵モードが終わっちゃいましたよー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、別にそういうわけじゃなくて……」
+display
+com11 0 0
+sound 34
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「どうしよう〜！　どうしよう〜！」
+display <shift> # ガシャーン！
+display
+com11 0 0
+sound 35
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うう〜！　バケツに足つっこんで
+line2 <shift> # 転んじゃいましたー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やよい！　とにかく一度、落ち着いて……！」
+display <shift> # ガンッ！
+display
+com11 0 0
+sound 36
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ううう〜！　マイクスタンドの角に足の小指、
+line2 <shift> # ぶつけちゃいましたー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （さっきのジャンケンが引き金になって、
+line2 <shift> # ガタガタとやよいの幸運が崩れ去っていく……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （もちろん、自信をなくしたやよいは、
+line2 <shift> # 収録でもミスを連発……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺がじゃんけんで、うまく負けられなかった
+line2 <shift> # ばっかりに……。かわいそうなことしたな……）
+com4b 0 2
+com09 0 69
+display
+location 69
+unk02

@@ -1,0 +1,354 @@
+com2c 0 82
+com2d 0 51
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ど、どうして、ビデオクリップのエキストラが、
+line2 <shift> # 俺なんです？」
+display
+com11 0 1
+sound 900
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ふふっ、こっそり考えて、決めたんです。
+line2 <shift> # 今回は、プロデューサーさんもいっしょにって」
+display
+com11 0 1
+sound 901
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「そこからでは、Ｑサイン、見えませんよね？
+line2 <shift> # 私が合図しますから、そうしたら鼻をツンって」
+com03 0 3
+choice1 <shift> # うまく、できるかなあ
+line2
+com09 0 10
+com08
+choice2 <shift> # か、軽くですね？
+line2
+com09 0 11
+com08
+choice3 <shift> # りょ、了解ッ！
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うまく、できるかなあ」
+display
+com11 0 1
+sound 902
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「大丈夫です。プロデューサーさん、カンがいい
+line2 <shift> # ですから。そろそろ……あ、Ｑです！　早く！」
+com0e 1 62
+com44
+com09 0 30
+com45
+com44
+com09 0 31
+com45
+com44
+com09 0 32
+com45
+com44
+com09 0 33
+com45
+com44
+com09 0 34
+com45
+com44
+com09 0 35
+com45
+com44
+com09 0 36
+com45
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「か、軽くですね？」
+display
+com11 0 1
+sound 903
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「もちろんです。あまり強くつつかれたら、赤く
+line2 <shift> # なってしまいますし」
+com09 0 91
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「りょ、了解ッ！」
+display
+com11 0 1
+sound 904
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「そんなに、力まなくていいですよ？　痛く
+line2 <shift> # されたら、私も困ってしまいますので……」
+com09 0 91
+display
+location 91
+com11 0 1
+sound 905
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「それでは、お願いしますね。３、２、１……。
+line2 <shift> # はい、今です！　早く！」
+com0e 1 62
+com44
+com09 0 30
+com45
+com44
+com09 0 31
+com45
+com44
+com09 0 32
+com45
+com44
+com09 0 33
+com45
+com44
+com09 0 34
+com45
+com44
+com09 0 35
+com45
+com44
+com09 0 36
+com45
+display
+location 30
+com11 0 1
+sound 906
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「んっ。……どうかしら。あ、丸印！
+line2 <shift> # ＯＫです。おつかれさまでしたー」
+com09 0 92
+display
+location 31
+com11 0 1
+sound 907
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ゃ、ぷ、プロデューサーさん、くちびるでは
+line2 <shift> # なくて、鼻ですよ？」
+display
+com11 0 1
+sound 908
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あら？　これはこれで、ムードいいから、
+line2 <shift> # ＯＫですって。お、おつかれさまでしたー」
+com09 0 92
+display
+location 92
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ふぅ、緊張しました……。あずささんは、
+line2 <shift> # いつもこんな空気の中で、仕事してるんですね」
+com09 0 49
+display
+location 32
+com11 0 1
+sound 909
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「え、えと、もしかしたら、すこし長すぎかも
+line2 <shift> # しれません。どうかしら？　あ、バツ印」
+com09 0 93
+display
+location 33
+com11 0 1
+sound 910
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ぷ、プロデューサーさん？　そこは髪……。
+line2 <shift> # どうかしら？　……あ、やっぱり、バツ印」
+com09 0 93
+display
+location 34
+com11 0 1
+sound 911
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「痛っ！　ぷ、プロデューサーさん、あわてすぎ
+line2 <shift> # ですー。ううう……」
+display
+com11 0 1
+sound 912
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「これでは、多分、ディレクターさん……。
+line2 <shift> # あ、やっぱり、バツ印」
+com09 0 93
+display
+location 35
+com11 0 1
+sound 913
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「プロデューサーさん？　そこはディレクター
+line2 <shift> # さんの指示とは……。あ、やっぱり、バツ印」
+com09 0 93
+display
+location 93
+com11 0 1
+sound 914
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ＮＧなので、もう１度、お願いできますか？
+line2 <shift> # 落ち着いてやれば、今度は、きっと……」
+com09 0 94
+display
+location 36
+com11 0 1
+sound 915
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あら、タイミング逃してしまったみたいです。
+line2 <shift> # しばらく待機、ですって」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えらいシビアですね。どうして、こんな……」
+display
+com11 0 1
+sound 916
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「外の人通りをぬいながら、撮っているから
+line2 <shift> # でしょうか。すみませんが、もう一度……」
+com09 0 94
+display
+location 94
+com22 0 30
+com21 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ふぅ、ようやくＯＫでましたね。あずささん
+line2 <shift> # は、こんな緊張、いつも感じてるんですね」
+com09 0 49
+display
+location 49
+com11 0 1
+sound 917
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「今、撮ったシーンも、映像では安らいだ顔を
+line2 <shift> # していると思いますけれど……」
+display
+com11 0 1
+sound 918
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「実際は、ちがうんですよね。人の目に耐え
+line2 <shift> # ながら、疲れとかを見せないように工夫して」
+display
+com11 0 1
+sound 919
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「自分のビデオクリップを見ていると、時々、
+line2 <shift> # 思います。『画面の私は、ほんとの私？』って」
+display
+com11 0 1
+sound 920
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「いくら日常っぽくしても、本当の暮らし
+line2 <shift> # ぶりが伝わらないのは、すこし残念ですね」
+com03 0 3
+choice1 <shift> # ドキュメント映画でも、つくります？
+line2
+com09 0 50
+com08
+choice2 <shift> # ファンが求めるのは、夢だけです
+line2
+com09 0 51
+com08
+choice3 <shift> # 暴露本でも、出します？
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ドキュメント映画でも、つくります？」
+display
+com11 0 1
+sound 921
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あ、それっ、いいですね。見たがる人、
+line2 <shift> # けっこう、いそうな気もしますし」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、いいんですか？　きついスケジュールが、
+line2 <shift> # 余計パンパンに……」
+display
+com11 0 1
+sound 922
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「楽しそうなので、かまいません。今度はプロ
+line2 <shift> # デューサーさんも、フル出演ですね。ふふっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あずささん、大乗り気だ。かなりの予算が
+line2 <shift> # 必要だけど、今の人気なら、実現はたやすい）
+com09 0 69
+display
+location 51
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ファンが求めるのは、夢だけです」
+display
+com11 0 1
+sound 923
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「はい、わかってます。それを満たすことが、
+line2 <shift> # 一番大事な仕事だということも……」
+display
+com11 0 1
+sound 924
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「けれど、毎日そればかりしていると、たまに
+line2 <shift> # なにをしているか、わからなくなってしまって」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あずささん……」
+display
+com11 0 1
+sound 925
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ぐ、グチですね、これ。忘れて下さい。
+line2 <shift> # さあ、元気を出して、次の撮影現場へ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あまりの人気に、内心とまどってるのかな？
+line2 <shift> # ま、こうして本音を話すのは、悪い事じゃない）
+com09 0 69
+display
+location 52
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「暴露本でも、出します？」
+display
+com11 0 1
+sound 926
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「私達の生活の様子を、本にするんですか？
+line2 <shift> # でも、誰が文章を？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「私達……、って、念のため言っておきますが、
+line2 <shift> # 俺は、その本に登場するつもりないですよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それに、あずささんは忙しいですから、当然、
+line2 <shift> # 文章は、ゴーストライターに頼むことに……」
+display
+com11 0 1
+sound 927
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「んー、そういうのってファンに、失礼な気が。
+line2 <shift> # それに、きっとオーバーに書くのですよね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さすがに読み物として、誇張はしないと
+line2 <shift> # ダメでしょう」
+display
+com11 0 1
+sound 928
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「か、かえって誤解されてしまいそうです。
+line2 <shift> # 伝えるなら、別の方法を考えた方が……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うーん、気に入ってもらえなかったようだ。
+line2 <shift> # 暴露本なんかじゃ、思いは満たされないか）
+com09 0 69
+display
+location 69
+unk02

@@ -1,0 +1,298 @@
+com2c 0 40
+com2d 0 23
+com32 0 0
+com11 0 2
+sound 500
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「私をＣＭに起用するなんて、
+line2 <shift> # 見る目のあるディレクターね！」
+display
+com11 0 2
+sound 501
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ここで、私が、がんばれば、
+line2 <shift> # 商品は大ヒット確実かしら？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、きっとね」
+display
+com11 0 2
+sound 502
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……じゃあ、がんばらなかったら？」
+com03 0 3
+choice1 <shift> # 中ヒットかな
+line2
+com09 0 10
+com08
+choice2 <shift> # それでも、大ヒットだ
+line2
+com09 0 11
+com08
+choice3 <shift> # 在庫山積みだ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「中ヒットかな」
+display
+com11 0 2
+sound 503
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「それは、煮え切らないわね。
+line2 <shift> # じゃ、ここは、力入れてやるわ。ふふっ」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それでも、大ヒットだ」
+display
+com11 0 2
+sound 504
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なーんだ、結果が同じなら、
+line2 <shift> # そんなにはりきる必要もないわねー」
+display
+com11 0 2
+sound 505
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「じゃ、肩の力を抜いて、テキトーにやるわ」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「在庫山積みだ」
+display
+com11 0 2
+sound 506
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「失礼ねっ。私のネームバリューだけでも、
+line2 <shift> # そこそこは売れるはずでしょっ」
+display
+com11 0 2
+sound 528
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「プロデューサーなんだから、自分の担当アイ
+line2 <shift> # ドルの人気ぐらい、把握しときなさいよね」
+com09 0 29
+display
+location 29
+com11 0 2
+sound 508
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ところで、ここのセット、やけにさびしく
+line2 <shift> # ない？　なんにも、置いてないじゃない」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「撮影後に、ＣＧ合成で、いろいろはめ込むんだ。
+line2 <shift> # だから、セットはナシらしい」
+display
+com11 0 2
+sound 509
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ふ〜ん、映画みたーい。私も、
+line2 <shift> # ハリウッド女優と肩を並べたってわけね！」
+com03 0 3
+choice1 <shift> # ギャラは、かなわないけどな
+line2
+com09 0 30
+com08
+choice2 <shift> # 魅力なら、負けてない？
+line2
+com09 0 31
+com08
+choice3 <shift> # ここ、日本なんだけど……
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ギャラは、かなわないけどな」
+display
+com11 0 2
+sound 510
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「フフン。出演料だって、追いついてみせるわ。
+line2 <shift> # そう遠くないうちに！」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「魅力なら、負けてない？」
+display
+com11 0 2
+sound 511
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「当たり前でしょ。アジアン・ビューティは、
+line2 <shift> # 今、向こうでも、引っぱりダコなのよ？」
+display
+com11 0 2
+sound 512
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「いずれ世界にはばたいて、トップ女優達と、
+line2 <shift> # どっちがカワイイか、決着つけてやるわー」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ここ、日本なんだけど……」
+display
+com11 0 2
+sound 513
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「知ってるわよ、そんなのーっ。いつのまにか、
+line2 <shift> # アメリカにいるわけ、ないでしょ〜」
+display
+com11 0 2
+sound 514
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「とぼけたこと、言わないでよね。あんたの脳も、
+line2 <shift> # ＣＧなんじゃないかって気がしてきたわ」
+com09 0 49
+display
+location 49
+com11 0 2
+sound 515
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あ、プロデューサー。このＣＭって、ほかに、
+line2 <shift> # 出演する人、いないの？　エキストラとか……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いないよ、人間はね。今回は、ＣＧのロボット
+line2 <shift> # に話しかけるっていう設定だから」
+display
+com11 0 2
+sound 516
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ええええ、目に見えないモノに話すのっ？
+line2 <shift> # そんなの、やったことないわ……」
+display
+com11 0 2
+sound 517
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「うまく、できるかしら……。不安〜」
+com03 0 3
+choice1 <shift> # 練習相手、してやろうか？
+line2
+com09 0 50
+com08
+choice2 <shift> # 想像力を駆使しよう
+line2
+com09 0 51
+com08
+choice3 <shift> # 気合いで、やるしかないよ
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「練習相手、してやろうか？
+line2 <shift> # 俺をロボットと思って、話していいよ」
+display
+com11 0 2
+sound 518
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あ、そうね！　なんとかコツぐらい、つかんで
+line2 <shift> # おかなきゃ。よーしプロデューサーロボ、お手」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「め、命令して、どうするんだよ？」
+display
+com11 0 2
+sound 519
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ふふっ、冗談！
+line2 <shift> # いろいろ話すから、そのまま立っててね♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （何度か繰り返せば、きっとイメージも固まる
+line2 <shift> # だろう。これぐらい、手伝ってやらないとな）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「想像力を駆使しよう」
+display
+com11 0 2
+sound 520
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ムチャ言わないでよ……。いくら考えたって、
+line2 <shift> # いないものは、いないわ〜」
+display
+com11 0 2
+sound 521
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「はあ〜、ハリウッド女優とかは、
+line2 <shift> # いっつもこんなこと、やってるのかしら」
+display
+com11 0 2
+sound 522
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ねえ、よく途中で、
+line2 <shift> # バカらしくならないなーって、思わない？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「きっと、彼女達は訓練してるんだろ」
+display
+com11 0 2
+sound 523
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「だったら、なおさら私には、ムリじゃない。
+line2 <shift> # プロじゃない上に、ぶっつけなんだから……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （やや、ネガティブになってしまった。即興で、
+line2 <shift> # 練習相手でもしてやれば、よかったか）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「気合いで、やるしかないよ」
+display
+com11 0 2
+sound 524
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そんなんじゃ、どうにもならないわよ〜。
+line2 <shift> # 相手がいないんじゃ、やる気も空回りだわ……」
+display
+com11 0 2
+sound 525
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「き、気合い入れて、
+line2 <shift> # ばっくれるとかいうんなら、できるけど？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それはマズいよ、違約金、とられちゃうし」
+display
+com11 0 2
+sound 526
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そうよねえ。やっぱり畑ちがいのとこに、
+line2 <shift> # 手、出すのは、大変だわ……」
+display
+com11 0 2
+sound 527
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なんか乗り気になれないけど……。とりあえず、
+line2 <shift> # 空気に、一生懸命、話しかけてくる……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （めずらしく、自信なさそうな顔をしている。
+line2 <shift> # うーん、できれば、力になってやりたかったな）
+com09 0 69
+display
+location 69
+unk02

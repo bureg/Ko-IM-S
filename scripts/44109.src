@@ -1,0 +1,487 @@
+com2c 0 24
+com2d 0 81
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （トップ級のアイドルとなった真の元には、
+line2 <shift> # 毎日すごい数のプレゼントが届く）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （整理するだけで、一仕事だ……）
+display
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ふふ〜ん、プロデューサー♪　いつも
+line2 <shift> # プレゼントの整理、ありがとうございまーす！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、これも仕事だからな。……って、
+line2 <shift> # なんだか、ずいぶんごきげんじゃないか、真」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あ、わかっちゃいましたか？　実は、すっごく
+line2 <shift> # いいプレゼント、もらっちゃったんですよね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （真が喜ぶものといったら……？）
+com03 0 3
+choice1 <shift> # 洋服か？
+com09 0 10
+com08
+choice2 <shift> # バーベルか？
+line2
+com09 0 11
+com08
+choice3 <shift> # 現金か？
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「洋服か？　真好みの、かわいいやつだろ？
+line2 <shift> # フリフリが、たくさんついてるのとか」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「う〜ん、近いけど、ちょっと違う、
+line2 <shift> # ってところですねー！　へへっ！」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「バーベルか？」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あー、その手のものは、よくもらいます。
+line2 <shift> # 父さんからも、もらったことあるし」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「でも正直、あんまりうれしくないです。
+line2 <shift> # プレゼントにケチつける気はないんですけど」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「でも、『菊地真』イコール『筋トレ』、みたい
+line2 <shift> # に思われてるかと思うと、切ないですよ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうか……」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「はい……。とにかく、今回もらったのは、
+line2 <shift> # そういうものじゃないです」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「現金か？」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「えっ！？　そんなの送ってくるファンは、
+line2 <shift> # いませんよ。プロデューサー、夢がないですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか？　大金だったら、
+line2 <shift> # 逆に夢がある気がするけど」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「そんな風に考えること自体、夢がないですよ！
+line2 <shift> # 現金なんて、うれしいわけないじゃないですか」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「『このお金で、何でも好きなモノ買えば』って
+line2 <shift> # 言われたみたいな感じがして……」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「何となく、こう、おざなりな気がします。
+line2 <shift> # あれ、なおざりだったかな……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まあ、言われてみればそうだな。
+line2 <shift> # 俺は現金でも嬉しいけど」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「とにかく、現金じゃないです。
+line2 <shift> # もっとロマンチックな物ですよ」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、違うのか。わからないなあ」
+display
+com11 0 0
+sound 10012
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「もう１回チャンスをあげますから、
+line2 <shift> # ボクが何をもらったか、当ててみて下さいよ！」
+display
+com11 0 0
+sound 10013
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ボクがもらって喜びそうなもの、
+line2 <shift> # プロデューサーなら、わかりますよね？」
+com03 0 3
+choice1 <shift> # 手作りのもの
+line2
+com09 0 30
+com08
+choice2 <shift> # 気持ちのこもったもの
+line2
+com09 0 31
+com08
+choice3 <shift> # 食べもの
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「う〜ん……。わかった、手作りのものだ！」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「そうですっ！　お金とかじゃ買えない、
+line2 <shift> # その人の大切な時間をかけて作ってくれた……」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「そういう手作りのものが、一番、
+line2 <shift> # 心にグッと来ますね」
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「う〜ん……。わかった、
+line2 <shift> # 気持ちのこもったものだ！」
+display
+com11 0 0
+sound 10016
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「気持ちも大切ですけど……、でも、時々、
+line2 <shift> # 気持ちだけ暴走しちゃってるのもあるからなあ」
+display
+com11 0 0
+sound 10017
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「昔もらった、あるファンレターとか、気持ちが
+line2 <shift> # 暴走しすぎてて、読んでて怖くなりました……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ま、まぁ、人気がある証拠だと思えば。
+line2 <shift> # 本人にも、悪気があるわけじゃないと思うし」
+display
+com11 0 0
+sound 10018
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「とにかく、気持ちだけじゃなくて、
+line2 <shift> # 手間とかが、かかってるものがいいなって」
+display
+com11 0 0
+sound 10019
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「だって、その手間は、ボクのために、
+line2 <shift> # わざわざかけてくれたものでしょう？」
+display
+com11 0 0
+sound 10020
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「それって、すごくうれしいじゃないですか！」
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「う〜ん……。わかった、食べものだ！」
+display
+com11 0 0
+sound 10021
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あ〜、ハズレです！　ボク、最近、
+line2 <shift> # 食べるものには、気をつかってるんです」
+display
+com11 0 0
+sound 10022
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「だから、前みたいに、もらったものは何でも
+line2 <shift> # 食べちゃう！　なんてことは、ないんですよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうして食べものに気をつかってるんだ？
+line2 <shift> # まさか真……」
+display
+com11 0 0
+sound 10023
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ううっ。それ以上は、きかないで下さい！
+line2 <shift> # すみません。すぐ元に戻しますからっ！！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （真、ちょっと太ったのかな？
+line2 <shift> # でも、気にするほどじゃないと思うけど）
+display
+com11 0 0
+sound 10024
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「と、とにかく、ボクがもらってうれしいのは、
+line2 <shift> # 食べ物じゃないです！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃあ、何がうれしいんだ？」
+display
+com11 0 0
+sound 10025
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「お店では買えない、気持ちと手間をかけた
+line2 <shift> # 手作りのものとかが、いいですね！」
+com09 0 49
+display
+location 49
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なるほどなあ。で、結局、
+line2 <shift> # 真がもらったものは、なんなんだ？」
+display
+com11 0 0
+sound 10026
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「へへっ。レースのハンカチです！
+line2 <shift> # しかも、ただのハンカチじゃないんですよ」
+display
+com11 0 0
+sound 10027
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「レースの所が手編みなんです！　模様も
+line2 <shift> # 細かくて、すっごく手がこんでるんですよ〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「へ〜。レースの手編みなんて、
+line2 <shift> # さぞかし、時間が、かかるんだろうな」
+display
+com11 0 0
+sound 10028
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「そりゃもう、すごくかかりますよ。１週間や
+line2 <shift> # そこらじゃ、出来ないんじゃないかなあ」
+display
+com11 0 0
+sound 10029
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ボクも、作ろうとして挫折したことがあるから、
+line2 <shift> # 大変さは、よーくわかるんです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか。そんなすごいものをもらえるなんて、
+line2 <shift> # 真は幸せ者だな！」
+display
+com11 0 0
+sound 10030
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「へへっ、そうですね！　……あっ、そろそろ
+line2 <shift> # 次の仕事の時間だ。雑誌の取材でしたっけ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。最近の真の活躍を、記事にしたいらしい。
+line2 <shift> # 事務所での取材だから、急がなくていいぞ」
+display
+com11 0 0
+sound 10031
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「プロデューサー、取材の時に、プレゼントの
+line2 <shift> # ハンカチのこと、少し話してもいいですか？」
+com03 0 3
+choice1 <shift> # 軽くならいいよ
+line2
+com09 0 50
+com08
+choice2 <shift> # 大々的に話そう
+line2
+com09 0 51
+com08
+choice3 <shift> # やめておこう
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「軽くならいいよ」
+display
+com11 0 0
+sound 10032
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ありがとうございますっ！　送ってくれた人、
+line2 <shift> # 記事を読んでくれるといいんですけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「きっと読んでくれるさ。だからお礼の気持ち、
+line2 <shift> # ちゃんと伝えてくるといい」
+display
+com11 0 0
+sound 10033
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「はいっ！」
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 10034
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「……最近、うれしかったこと、ですか？
+line2 <shift> # ファンからのプレゼントですかね」
+display
+com11 0 0
+sound 10035
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「手編みレースのハンカチをもらって。
+line2 <shift> # 手間がかかってて、すごくキレイなんです！」
+display
+com11 0 0
+sound 10036
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「送ってくれた人に、とっても感謝しています。
+line2 <shift> # どうもありがとう！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （雑誌の読者からは、素朴なプレゼントを喜ぶ
+line2 <shift> # 真の人柄に共感した、という声があいついだ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （真のさらなる魅力を引き出せたみたいだ。
+line2 <shift> # ファンの人に感謝しなくちゃな！）
+com09 0 69
+display
+location 51
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「大々的に紹介しよう」
+display
+com11 0 0
+sound 10037
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ええっ！？　そんな、大げさにしなくても
+line2 <shift> # いいですよ。軽く、ありがとうって言うだけで」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いやいや。中途半端にやるぐらいなら、
+line2 <shift> # 大々的にアピールしたほうがいいよ」
+display
+com11 0 0
+sound 10038
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「う〜ん、プロデューサーが、そう言うなら、
+line2 <shift> # そうなのかもしれないですけど……」
+display
+com11 0 0
+sound 10039
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「わかりました。それじゃ、
+line2 <shift> # 大々的に、どどーんとアピールしてきます！」
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 10040
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「今日の取材、よろしくお願いしまーす！　それ
+line2 <shift> # でさっそくですけど、ひとつ話題があるんです」
+display
+com11 0 0
+sound 10041
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「実はボク、すっごくカワイイ、レースのハンカ
+line2 <shift> # チをゲットしちゃったんですよ。しかも……」
+display
+com11 0 0
+sound 10042
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「なんと、ファンからのプレゼントなんです！
+line2 <shift> # 手編みなんですよ。もう、うれしくって！」
+display
+com11 0 0
+sound 10043
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「……え？　その話題はもういい、ですか？
+line2 <shift> # で、でも！」
+display
+com11 0 0
+sound 10044
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あ、最近の仕事のことから、ですか。
+line2 <shift> # す、すみませんでした。えっと……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （大々的なアピールは、失敗してしまった。
+line2 <shift> # 仕事の取材だったし、さすがにマズかったか）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （取材自体は、とどこおりなくすんだものの、
+line2 <shift> # 真は少し、寂しそうだった……）
+com09 0 69
+display
+location 52
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やめておこう」
+display
+com11 0 0
+sound 10045
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ええ〜っ！？　ひと言ぐらい、
+line2 <shift> # いいじゃないですか。ありがとうって」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それを読んだファンが、山ほどレースの
+line2 <shift> # ハンカチを送ってきたらどうする？」
+display
+com11 0 0
+sound 10046
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「う……。それはそれで、困りますけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だろ？　ファンの人も大切だが、今日は真を
+line2 <shift> # アピールする日なんだ。　わかるな？」
+display
+com11 0 0
+sound 10047
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「わかりました。今回は、
+line2 <shift> # プロデューサーの言うとおりにします」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （真は残念そうに肩を落とした。その気持ちを
+line2 <shift> # ひきずったのか、取材は散々なことに……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ひと言ぐらいなら、
+line2 <shift> # 言わせてやっても良かったのかもな……）
+com09 0 69
+display
+location 69
+unk02

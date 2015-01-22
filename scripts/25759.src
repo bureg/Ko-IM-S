@@ -1,0 +1,1032 @@
+com2d 0 42
+display
+location 1015
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （千早、ここは、こう言っておくんだ！）
+com03 0 3
+com48 130 230 130 235 130 181 130 173 130 168 138 232
+line2 <shift> # いします
+com09 3 248
+com08
+com48 143 137 130 223 130 196 130 197 139 217 146 163
+line2 <shift> # してます
+com09 3 249
+com08
+com48 144 226 145 206 129 65 143 159 130 191 130 220
+line2 <shift> # す
+com09 3 250
+com08
+com48 142 132 130 240 140 169 130 196 137 186 130 179
+line2 <shift> # い
+com09 3 251
+com08
+com48 150 136 147 250 131 140 131 98 131 88 131 147
+line2 <shift> # してきました！
+com09 3 252
+com08
+display
+location 1016
+com4a 0 1
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「よろしくお願いします」
+display
+location 1017
+com4a 0 1
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「初めてで緊張してます」
+display
+location 1018
+com4a 0 1
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「絶対、勝ちます」
+display
+location 1019
+com4a 0 1
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「私を見て下さい」
+display
+location 1020
+com4a 0 1
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「毎日レッスンしてきました！」
+display
+location 1200
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい！　ありがとうございます！」
+display
+location 1201
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「は、はい……」
+display
+location 1202
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よし、テンションもあがったようだ！）
+display
+location 1203
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あぁ……、テンションが下がってしまった）
+display
+location 1400
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺ができることは応援することだけだ！）
+com03 0 2
+choice1 <shift> # 初めてだから気楽にな
+line2
+com09 5 121
+com08
+choice2 <shift> # 遠慮は要らない、飛ばして行け！
+line2
+com09 5 122
+com08
+com07
+com09 5 122
+com08
+display
+location 1401
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「初めてだから気楽にな」
+display
+location 1402
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「遠慮は要らない、飛ばして行け！」
+display
+location 1500
+com11 0 0
+sound 10007
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい！　レッスンのつもりで、気楽に。
+line2 <shift> # 実力を全て出す事だけを考えます」
+display
+com4a 0 1
+com11 0 0
+sound 10008
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「では、行ってきます、プロデューサー」
+display
+location 1501
+com11 0 0
+sound 10009
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「で、でも力を抜きすぎては、オーディションに
+line2 <shift> # 勝てないのでは……？」
+display
+com4a 0 1
+com11 0 0
+sound 10010
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あっ、もう時間です。行ってきます！」
+display
+location 1502
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい！　遠慮していて勝てる相手とも
+line2 <shift> # 思えませんし」
+display
+com4a 0 1
+com11 0 0
+sound 10012
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「では、行ってきます、プロデューサー」
+display
+location 1503
+com11 0 0
+sound 10013
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ペース配分とか、考えなくても良いんですか？
+line2 <shift> # 序盤であまり無茶すると……」
+display
+com4a 0 1
+com11 0 0
+sound 10014
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あっ、もう時間です。い、行ってきます！」
+display
+location 2015
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （千早、ここは、こう言っておくんだ！）
+com03 0 3
+com48 136 234 144 182 140 156 150 189 129 65 138 230
+line2 <shift> # 張ります
+com09 7 224
+com08
+com48 142 169 144 77 130 170 130 160 130 232 130 220
+line2 <shift> # す
+com09 7 225
+com08
+com48 130 181 130 193 130 169 130 232 140 169 130 196
+line2 <shift> # 下さい
+com09 7 226
+com08
+com48 130 189 130 173 130 179 130 241 151 251 143 75
+line2 <shift> # しました
+com09 7 227
+com08
+com48 141 135 138 105 130 181 130 196 130 221 130 185
+line2 <shift> # ます
+com09 7 228
+com08
+display
+location 2016
+com4a 0 1
+com11 0 0
+sound 10015
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「一生懸命、頑張りますっ！」
+display
+location 2017
+com4a 0 1
+com11 0 0
+sound 10016
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ダンスには自信があります！」
+display
+location 2018
+com4a 0 1
+com11 0 0
+sound 10019
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「私をしっかり見て下さい！」
+display
+location 2019
+com4a 0 1
+com11 0 0
+sound 10020
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「たくさん練習しました」
+display
+location 2020
+com4a 0 1
+com11 0 0
+sound 10021
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「合格してみせます！」
+display
+location 2021
+com4a 0 1
+com11 0 0
+sound 10017
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ボーカルには自信があります！」
+display
+location 2022
+com4a 0 1
+com11 0 0
+sound 10018
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ビジュアルには自信があります！」
+display
+location 2200
+com11 0 0
+sound 10022
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい！　ありがとうございます！」
+display
+location 2202
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よし、テンションもあがったようだ！）
+display
+location 2201
+com11 0 0
+sound 10023
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「は、はい……」
+display
+location 2203
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あぁ……、テンションが下がってしまった）
+display
+location 2400
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺ができることは応援することだけだ！）
+com03 0 3
+choice1 <shift> # 絶対勝てるぞ！
+line2
+com09 9 97
+com08
+choice2 <shift> # 気を引き締めて行け
+line2
+com09 9 98
+com08
+choice3 <shift> # とにかく頑張れ
+line2
+com09 9 99
+com08
+com07
+com09 9 97
+com08
+display
+location 2401
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「絶対勝てるぞ！」
+display
+location 2402
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「気を引き締めて行け」
+display
+location 2403
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「とにかく頑張れ」
+display
+location 2500
+com11 0 0
+sound 10024
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ありがとうございます。その信頼を裏切らない
+line2 <shift> # ように頑張ります」
+display
+com4a 0 1
+com11 0 0
+sound 10025
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「では、行ってきます、プロデューサー」
+display
+location 2501
+com11 0 0
+sound 10026
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「え？　作戦とか何も無しなんですか？
+line2 <shift> # それで勝てるとも思えないのですが……」
+display
+com4a 0 1
+com11 0 0
+sound 10027
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ああっ、もう時間！　い、行ってきます！」
+display
+location 2502
+com11 0 0
+sound 10028
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。油断せず、慢心せずの心構えで」
+display
+com4a 0 1
+com11 0 0
+sound 10029
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「では、行ってきます、プロデューサー」
+display
+location 2503
+com11 0 0
+sound 10030
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「自分では充分緊張しているつもりですが……。
+line2 <shift> # プロデューサーから見ると、まだ不足……」
+display
+com4a 0 1
+com11 0 0
+sound 10031
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あっ、もう時間です！　い、行ってきます！」
+display
+location 2504
+com11 0 0
+sound 10032
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい！　ここまで来たら、後は全力で頑張る
+line2 <shift> # のみ、ですね！」
+display
+com4a 0 1
+com11 0 0
+sound 10033
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「では、行ってきます、プロデューサー」
+display
+location 2505
+com11 0 0
+sound 10034
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「は、はい！　それはわかっています。
+line2 <shift> # しかし無策で勝てる相手でしょうか？」
+display
+com4a 0 1
+com11 0 0
+sound 10035
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あっ、もう時間です！　い、行ってきます！」
+display
+location 1050
+com11 0 0
+sound 10036
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「合格までのポイントは僅か。勝てない勝負では
+line2 <shift> # 無かったのですが……」
+display
+com11 0 0
+sound 10037
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「次回こそは、合格したいと思います。
+line2 <shift> # また応援お願いします、プロデューサー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （千早は次回への闘志を燃やしている。
+line2 <shift> # オーディション落選も無駄では無かったな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わかった。それじゃ、事務所に帰ろうか」
+display
+com4a 0 1
+com11 0 0
+sound 10038
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい！」
+display
+location 1055
+com11 0 0
+sound 10039
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「残念ですが、まだ実力的に合格には
+line2 <shift> # 及ばなかったようですね……」
+display
+com11 0 0
+sound 10040
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「しかし、自分の実力が測れたのは幸いです。
+line2 <shift> # 後はレッスンで力を付けたいと思います」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （落選は痛いが、実力を知る事が出来た。
+line2 <shift> # この教訓を活かしたいな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、その意気だ。事務所に帰ろうか」
+display
+com4a 0 1
+com11 0 0
+sound 10041
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい！」
+display
+location 1060
+com11 0 0
+sound 10042
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「また不合格ですね……。実力？　運？　私には
+line2 <shift> # 何が足りないのですか？」
+display
+com11 0 0
+sound 10043
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「このままオーディションを受けつづけても
+line2 <shift> # 結果は同じ。どうしたら……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （千早は落ち込んでしまった。これは
+line2 <shift> # オーディション対策を考えないといけないな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「と、ともかく事務所に帰ろう」
+display
+com4a 0 1
+com11 0 0
+sound 10044
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい……」
+display
+location 1046
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「やったー！」
+display
+location 1047
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よし！　これでファン数大幅ＵＰだ！）
+display
+location 1048
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ＴＶ出演の前に、今日のパート担当を
+line2 <shift> # 決めよう！　少し待っておいてくれ！」
+display
+location 1049
+com4a 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい！」
+display
+location 5001
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし！　今日は千早を信じて、
+line2 <shift> # オーディションをまかせるよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺はその間、少し用事をすませて
+line2 <shift> # くるけどいいかな？」
+display
+com11 0 0
+sound 10038
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あまり早く帰ってきても、
+line2 <shift> # 信用してないみたいで、逆効果だろうな）
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （なるべくゆっくりして、かつ、
+line2 <shift> # 時間ピッタリに帰ることができれば……！）
+display
+location 5002
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「千早、この時間に戻ってくるからな」
+display
+location 5005
+com11 0 0
+sound 10045
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「行ってらっしゃい、プロデューサー。
+line2 <shift> # 頑張ってきて下さいね」
+display
+location 5006
+com11 0 0
+sound 10046
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「行ってらっしゃい、プロデューサー。
+line2 <shift> # あの、帰り、待ってますから」
+display
+location 5007
+com11 0 0
+sound 10047
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「私は１人でも大丈夫です。
+line2 <shift> # けど、できれば、早く帰ってきて下さいね」
+display
+location 5008
+com11 0 0
+sound 10048
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「それでは、行ってらっしゃい、
+line2 <shift> # プロデューサー」
+display
+location 5009
+com11 0 0
+sound 10049
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「行ってらっしゃい。私のことは、
+line2 <shift> # 気にせず、用事を片づけてきて下さい」
+display
+location 5010
+com11 0 0
+sound 10050
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ずいぶん先ですね……。時間配分に、
+line2 <shift> # 気をつけなければ……。それでは、後ほど」
+display
+location 5011
+com11 0 0
+sound 10051
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……それでは、また後ほど」
+display
+location 5012
+com11 0 0
+sound 10052
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「結構、長いですね……。
+line2 <shift> # 時間、遅れないで下さい」
+display
+location 5013
+com11 0 0
+sound 10053
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「私は１人でも平気ですから。
+line2 <shift> # 行ってらっしゃい、プロデューサー」
+display
+location 5014
+com4a 0 0
+com11 0 0
+sound 10054
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「お帰りなさい、プロデューサー。
+line2 <shift> # 時間通りですね」
+display
+location 5015
+com4a 0 0
+com11 0 0
+sound 10055
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「お帰りなさい、プロデューサー」
+display
+location 5016
+com4a 0 0
+com11 0 0
+sound 10056
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……あ、お疲れ様です」
+display
+location 5017
+com4a 0 0
+com11 0 0
+sound 10057
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「お帰りなさい、プロデューサー。
+line2 <shift> # 予定より早かったですね」
+display
+location 5018
+com4a 0 0
+com11 0 0
+sound 10058
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「早かったですね、プロデューサー。
+line2 <shift> # お疲れ様です」
+display
+location 5019
+com4a 0 0
+com11 0 0
+sound 10059
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あ、もうお帰りだったんですね」
+display
+location 5020
+com11 0 0
+sound 10060
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「プロデューサー、遅刻です！
+line2 <shift> # ……なんて、ふふ、お疲れ様です」
+display
+location 5021
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ご、ごめん……。
+line2 <shift> # それより、千早、結果はどうだった？」
+display
+location 5022
+com11 0 0
+sound 10061
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「お疲れ様です、プロデューサー。
+line2 <shift> # ……少し、遅かったですね」
+display
+location 5023
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ご、ごめん……。
+line2 <shift> # それより、千早、結果はどうだった？」
+display
+location 5024
+com11 0 0
+sound 10062
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「遅かったですね、プロデューサー。
+line2 <shift> # お忙しいのは、わかっていますけど……」
+display
+location 5025
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ご、ごめん……。
+line2 <shift> # それより、千早、結果はどうだった？」
+display
+location 5026
+com11 0 0
+sound 10063
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……遅かったですね、プロデューサー。
+line2 <shift> # もう帰ってこないかと……」
+display
+location 5027
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ご、ごめん……。
+line2 <shift> # それより、千早、結果はどうだった？」
+display
+location 5028
+com4a 0 0
+com11 0 0
+sound 10064
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「すごい。たった今、終わったところです。
+line2 <shift> # ナイスタイミングですね、プロデューサー」
+display
+location 5029
+com4a 0 0
+com11 0 0
+sound 10065
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あー、あー、あー……♪　……あっ、
+line2 <shift> # プロデューサー！　いつ戻られたんですか！？」
+display
+location 5100
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ただいま、千早。
+line2 <shift> # ところで、オーディションの結果は……？」
+display
+location 5106
+com4a 0 0
+com11 0 0
+sound 10066
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そろそろだと思いますが……。
+line2 <shift> # あ、始まるようです」
+display
+location 5101
+com11 0 0
+sound 10067
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「やった！　１位通過です、プロデューサー！
+line2 <shift> # 私の歌、認めてもらえたんですね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「すごいぞ、さすが千早だ！
+line2 <shift> # ＴＶ出演、胸を張って行ってこい！」
+display
+com4a 0 0
+com11 0 0
+sound 10068
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい、行ってきます！」
+display
+location 5102
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ただいま、千早。
+line2 <shift> # ところで、オーディションの結果は……？」
+display
+location 5107
+com4a 0 0
+com11 0 0
+sound 10069
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そろそろだと思いますけど……。
+line2 <shift> # あ、始まるようです」
+display
+location 5103
+com11 0 0
+sound 10070
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「良かった……、なんとか合格ですね。
+line2 <shift> # 信頼を裏切らないで助かりました」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「１人で、よく頑張ったな、千早。
+line2 <shift> # さあ、ＴＶ出演、胸を張って行ってこい！」
+display
+com4a 0 0
+com11 0 0
+sound 10071
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい！」
+display
+location 5104
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ただいま、千早。
+line2 <shift> # ところで、オーディションの結果は……？」
+display
+location 5108
+com4a 0 0
+com11 0 0
+sound 10072
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そろそろだと思いますけど……。
+line2 <shift> # あ、始まるようです」
+display
+location 5105
+com11 0 0
+sound 10073
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……すみません、プロデューサー。
+line2 <shift> # くっ、こんなことでは……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まあ、また次の機会に頑張れば、いいさ。
+line2 <shift> # さあ、事務所に戻ろう」
+display
+com4a 0 0
+com11 0 0
+sound 10074
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……はい。次こそは……」
+display
+location 1600
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そういえば、今日は事務所の娘が、
+line2 <shift> # オーディションに参加しているみたいだ）
+display
+location 1610
+com11 0 0
+sound 10075
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「プロデューサー、先ほど廊下で……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もしかして、αのことか？
+line2 <shift> # 事務所の仲間も会場ではライバルだ」
+com03 0 3
+choice1 <shift> # 気合いを入れるんだ！
+line2
+com09 6 65
+com08
+choice2 <shift> # 気にするな
+com09 6 66
+com08
+choice3 <shift> # 勝ちに行くぞ！
+line2
+com09 6 67
+com08
+com07
+com09 6 65
+com08
+display
+location 1601
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「気合いを入れるんだ！」
+display
+location 1610
+com11 0 0
+sound 10076
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。持てる力すべてを、
+line2 <shift> # 出し切るつもりです」
+display
+com4a 0 0
+com11 0 0
+sound 10077
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「それでは、プロデューサー。行ってきます」
+display
+location 1601
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「気合いを入れるんだ！」
+display
+location 1611
+com11 0 0
+sound 10078
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「今さらですか！？　気合いだったら、
+line2 <shift> # 会場に来る前から……」
+display
+com4a 0 0
+com11 0 0
+sound 10079
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……あっ、呼ばれてるみたいです！
+line2 <shift> # あの、そ、それでは、行ってきます」
+display
+location 1602
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「気にするな。こういうことは、
+line2 <shift> # 良くあることだからな」
+display
+location 1612
+com11 0 0
+sound 10080
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「わかっています。私は私……。
+line2 <shift> # いちいち気にしていられませんよね」
+display
+com4a 0 0
+com11 0 0
+sound 10081
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「それでは、プロデューサー。行ってきます！」
+display
+location 1602
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「気にするな」
+display
+location 1613
+com11 0 0
+sound 10082
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そういうわけには……。あちらも私を、
+line2 <shift> # 気にしているのが、わかりますし……」
+display
+com4a 0 0
+com11 0 0
+sound 10083
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……あっ、私の名前が呼ばれてる！？
+line2 <shift> # あの、とりあえず行ってきます」
+display
+location 1603
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「勝ちに行くぞ！」
+display
+location 1614
+com11 0 0
+sound 10084
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「もちろんです。相手が誰でも、
+line2 <shift> # 私は、私の、ベストを尽くすのみです」
+display
+com4a 0 0
+com11 0 0
+sound 10085
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「それでは、プロデューサー。行ってきます」
+display
+location 1603
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「勝ちに行くぞ！」
+display
+location 1615
+com11 0 0
+sound 10086
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そ、そんな大声で言わないで下さい。
+line2 <shift> # 挑発してるみたいじゃないですか……」
+display
+com4a 0 0
+com11 0 0
+sound 10087
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……あっ、呼ばれてます。
+line2 <shift> # それでは、行ってきます」
+display
+location 1700
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今回は９６１プロのアイドルがいるから、
+line2 <shift> # いつもより気合いを入れて応援しないと）
+com03 0 3
+choice1 <shift> # フレーフレー！　千早！
+line2
+com09 6 165
+com08
+choice2 <shift> # 遠くから見守っているぞ！
+line2
+com09 6 166
+com08
+choice3 <shift> # 俺達は一心同体だ！
+line2
+com09 6 167
+com08
+com07
+com09 6 165
+com08
+display
+location 1701
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「フレーフレー！　千早！」
+display
+location 1710
+com11 0 0
+sound 10088
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「プ、プロデューサー！？
+line2 <shift> # そんな大きな声で……」
+display
+com4a 0 0
+com11 0 0
+sound 10089
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……でも、気合い、入りました。
+line2 <shift> # ふふ、ありがとうございます」
+display
+location 1701
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「フレーフレー！　千早！」
+display
+location 1711
+com11 0 0
+sound 10090
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「や、やめて下さい、プロデューサー。
+line2 <shift> # 目立ってるじゃないですか……！」
+display
+com4a 0 0
+com11 0 0
+sound 10091
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あの、もう行ってきますから、
+line2 <shift> # 大声は出さないで下さいね」
+display
+location 1702
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「千早、俺は遠くから見守っているぞ！」
+display
+location 1712
+com11 0 0
+sound 10092
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。今の私を、しっかり見ていて下さい」
+display
+com4a 0 0
+com11 0 0
+sound 10093
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「それでは、プロデューサー。行ってきます」
+display
+location 1702
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「千早、俺は遠くから見守っているぞ！」
+display
+location 1713
+com11 0 0
+sound 10094
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「遠く……、ですか？
+line2 <shift> # まさか、９６１プロに恐れをなして……？」
+display
+com4a 0 0
+com11 0 0
+sound 10095
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……そんなわけ、ないですよね。
+line2 <shift> # あ、と、とにかく、行ってきます」
+display
+location 1703
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺達は、一心同体だ！」
+display
+location 1714
+com11 0 0
+sound 10096
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。私１人では、ここまで、
+line2 <shift> # こられなかったと思います」
+display
+com4a 0 0
+com11 0 0
+sound 10097
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「９６１プロにも、誰にも、負けません。
+line2 <shift> # 行ってきます、プロデューサー」
+display
+location 1703
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺達は、一心同体だ！」
+display
+location 1715
+com11 0 0
+sound 10098
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……は？　い、一体、何を！？
+line2 <shift> # 言い方が何か、こう……」
+display
+com4a 0 0
+com11 0 0
+sound 10099
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「へ、変なこと言わないで下さい！
+line2 <shift> # 私、もう行きます！」
+display
+unk02

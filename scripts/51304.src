@@ -1,0 +1,335 @@
+com2c 0 24
+com2d 0 91
+com2e 0 101
+com32 0 0
+com11 0 3
+sound 500
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「ただいまー、兄ちゃん、亜美！
+line2 <shift> # アイドル雑誌の取材、受けてきたよ〜♪」
+display
+com11 0 3
+sound 501
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「お帰りー、真美！　で、どうだった？」
+display
+com11 0 3
+sound 502
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「今回は、いちおー見開きなんだって。ワクが
+line2 <shift> # 大きいから、いろんなこと、聞かれちゃった〜」
+display
+com11 0 3
+sound 503
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「ねえ、兄ちゃん。その雑誌、本屋さんに
+line2 <shift> # 並んだら、真美達に買ってくれるよね？」
+com03 0 3
+choice1 <shift> # ああ、１冊ずつな
+line2
+com09 0 10
+com08
+choice2 <shift> # 買って、事務所に置いておこう
+line2
+com09 0 11
+com08
+choice3 <shift> # 多分、見本誌をもらえるよ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「ああ、１冊ずつな」
+display
+com11 0 3
+sound 504
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「わ〜、兄ちゃん、お金持ち〜！
+line2 <shift> # それって、オトナ買いって、言うんだよね？」
+display
+com11 0 3
+sound 505
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「買ってもらったら、学校に持ってこ！
+line2 <shift> # クラスのみんな、きっとビックリするよっ！」
+com09 0 29
+display
+location 11
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「買って、事務所に置いておこう」
+display
+com11 0 3
+sound 506
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「え〜、事務所用だけなの〜？
+line2 <shift> # 真美達専用は、ナシ〜？」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「置いておけば、真美達だって、見られる
+line2 <shift> # だろ？　それじゃ、不満か？」
+display
+com11 0 3
+sound 507
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「もし、専用のがあれば、学校に持っていけたの
+line2 <shift> # にね。しょーがないから、ふたりで買おっか」
+com09 0 29
+display
+location 12
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「多分、見本誌をもらえるよ。わざわざ
+line2 <shift> # 買うこともないと、思うけど……」
+display
+com11 0 3
+sound 508
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「わ〜、取材してくれた上に、本もくれるなんて、
+line2 <shift> # すっごいねっ！　たくさん、もらえるかなあ」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「そ、それは、さすがにムリだよ。
+line2 <shift> # おそらく、１冊だけじゃないかな……」
+display
+com11 0 3
+sound 509
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「それっぽっち〜？　な〜んだ。雑誌社って、
+line2 <shift> # やっぱり、せこせこだね」
+com09 0 29
+display
+location 29
+com11 0 3
+sound 510
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「で、真美。インタビューで、どんなこと、
+line2 <shift> # 聞かれたの？」
+display
+com11 0 3
+sound 511
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「んっとね、『今、一番好きな人は、
+line2 <shift> # 誰ですか〜』とか！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「それで……なんて、答えたんだ？」
+display
+com11 0 3
+sound 512
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「んっふっふ〜、なんて答えたでしょ〜？」
+com03 0 3
+choice1 <shift> # 親？
+com09 0 30
+com08
+choice2 <shift> # 俺？
+com09 0 31
+com08
+choice3 <shift> # 亜美？
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「親？」
+display
+com11 0 3
+sound 513
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「当ったりー！　パパとママって答えたら、
+line2 <shift> # 記者の人、笑ってた！」
+display
+com11 0 3
+sound 514
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「亜美も、同じこと聞かれたら、そう答える〜。
+line2 <shift> # 真美のコトは、ナイショだから、言えないし」
+com09 0 49
+display
+location 31
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「俺？」
+display
+com11 0 3
+sound 515
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「え？　ちがうよ〜。兄ちゃんは、一番じゃない
+line2 <shift> # もん。正解はー、パパとママ！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「そうか。てっきり、俺だと思ったんだけど……。
+line2 <shift> # 残念」
+display
+com11 0 3
+sound 516
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「亜美も、誰かって聞かれたら、パパとママかな。
+line2 <shift> # 兄ちゃんは、その次ぐらいだね！」
+com09 0 49
+display
+location 32
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「亜美？」
+display
+com11 0 3
+sound 517
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「そ、そんなこと言ったら、秘密がばれちゃうよ。
+line2 <shift> # 真美、亜美として、取材に行ったんだし」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「あ、そうだったな……。じゃあ、なんて
+line2 <shift> # 答えたんだ？」
+display
+com11 0 3
+sound 518
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「正解はー、パパとママ！　それ聞いて、記者の
+line2 <shift> # 人、そうかそうかって、ニコニコしてたよっ」
+com09 0 49
+display
+location 49
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「ま、とりあえず、おつかれさま。また、取材の
+line2 <shift> # 話、くると思うから、その時はよろしくな」
+display
+com11 0 3
+sound 519
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「亜美も、早く取材された〜いっ。ね、兄ちゃん。
+line2 <shift> # 次は、どんな雑誌がくるかなあ？」
+com03 0 3
+choice1 <shift> # グルメ雑誌だと、いいな
+line2
+com09 0 50
+com08
+choice2 <shift> # ファッション雑誌だと、いいな
+line2
+com09 0 51
+com08
+choice3 <shift> # 週刊のＴＶ雑誌だと、いいな
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「グルメ雑誌だと、いいな。食べ歩き特集とか、
+line2 <shift> # 組んでくれるかもしれないし」
+display
+com11 0 3
+sound 520
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「あ、それ、超トクだねっ！　雑誌に載る上に、
+line2 <shift> # おいしいものまで、食べられるなんて！」
+display
+com11 0 3
+sound 521
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「食べ歩き……♪　たこ焼き、蒲焼、お好み
+line2 <shift> # 焼き……。もんじゃ焼きに、大文字焼き〜」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （想像の世界で、いろんな物を焼いている。
+line2 <shift> # 幸せそうな顔してるし、このまま放っておこう）
+com09 0 69
+display
+location 51
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「ファッション雑誌だと、いいな。アイドルと
+line2 <shift> # してのステータスも、ぐっと上がるし」
+display
+com11 0 3
+sound 522
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「あ、そういう雑誌って、きっと、まだ売られて
+line2 <shift> # ない、かわいい洋服とか、着せてくれるよね？」
+display
+com11 0 3
+sound 523
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「でも、亜美〜。洋服って、１回着ると、
+line2 <shift> # 欲しくなっちゃったりしない？」
+display
+com11 0 3
+sound 524
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ん〜、特別に、くれたりはしないかなあ。
+line2 <shift> # アイドルでも、さすがにそこまではムリか〜」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （すこし残念そうな顔。ま、実際、申し込みが
+line2 <shift> # ないうちに、あれこれ話しても、しかたないか）
+com09 0 69
+display
+location 52
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「週刊のＴＶ雑誌だと、いいな。そういう
+line2 <shift> # メジャー誌に載れば、一気にブレイクだ！」
+display
+com11 0 3
+sound 525
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「今の人気じゃ、そんな超ビッグなところは、
+line2 <shift> # きてくれないんじゃ……」
+display
+com11 0 3
+sound 526
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「わからないよ〜？　兄ちゃんが言うんだから、
+line2 <shift> # なにか、呼ぶための作戦があるんだよ！　ね？」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「……さ、作戦か。
+line2 <shift> # あ、あるとも！　もちろん、ある！」
+display
+com11 0 3
+sound 527
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「なんで、汗たらたら流してるの？
+line2 <shift> # ……もしかして、言ってみただけ〜っ？」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （バレてしまった……。いきなり大きな話をして、
+line2 <shift> # かえって、ガッカリさせてしまったか）
+com09 0 69
+display
+location 69
+unk02

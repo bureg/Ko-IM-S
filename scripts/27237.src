@@ -1,0 +1,393 @@
+com2c 0 91
+com2d 0 41
+com32 0 0
+com11 0 2
+sound 700
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ニューアルバム、ついに発表会見
+line2 <shift> # ですね。マスコミが、こんなに……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「前評判、かなり高いからな。……千早としては、
+line2 <shift> # 納得いくアルバムに、仕上がった？」
+display
+com11 0 2
+sound 701
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はい、大満足です。今の私にできること、
+line2 <shift> # すべて、詰め込みました」
+display
+com11 0 2
+sound 702
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「もし、このアルバムが評価されなかったら、私、
+line2 <shift> # 立ち直れないかもしれません……」
+com03 0 3
+choice1 <shift> # その時は、いっしょに泣こう
+line2
+com09 0 10
+com08
+choice2 <shift> # その時は、俺が支えるよ
+line2
+com09 0 11
+com08
+choice3 <shift> # その時は、俺が食わせるよ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「その時は、いっしょに泣こう」
+display
+com11 0 2
+sound 703
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ふふっ、そうですね。
+line2 <shift> # ３日ぐらいは、つき合って下さい」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「その時は、俺が支えるよ」
+display
+com11 0 2
+sound 704
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ありがとうございます。どんなことも、
+line2 <shift> # 自力で消化したいとは思ってます。でも……」
+display
+com11 0 2
+sound 705
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「どうにもならない時は、すがってしまうかも
+line2 <shift> # しれません。その時は、お願いします」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「その時は、俺が食わせるよ」
+display
+com11 0 2
+sound 706
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「く、食わせるって、どうするつもりなん
+line2 <shift> # ですか？　プロデューサー？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「い、いや……、食べ物でも買ってくるから、
+line2 <shift> # いっしょに、ヤケ食いしよう」
+display
+com11 0 2
+sound 707
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あ……、そういう意味。おどろきました。
+line2 <shift> # いきなり妙なこと、言わないで下さい」
+com09 0 29
+display
+location 29
+com11 0 2
+sound 708
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そろそろ、席に着く時間ですね。これから、
+line2 <shift> # アルバムの紹介を……。でも、何を言えば……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え？　おいおい、どうしたんだ？　ＰＲなんて、
+line2 <shift> # これまで何度もやってきたよな？」
+display
+com11 0 2
+sound 709
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はい。けど、今回は、思い入れが強すぎて、
+line2 <shift> # なにも、言葉が浮かんでこないんです……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うーん、急に暗くなってしまったな。
+line2 <shift> # かるく叩いて、シャキっとさせてみるか）
+com0e 1 159
+com44
+com09 0 30
+com45
+com44
+com09 0 31
+com45
+com44
+com09 0 32
+com45
+com44
+com09 0 33
+com45
+com44
+com09 0 34
+com45
+com44
+com09 0 35
+com45
+display
+location 30
+com11 0 2
+sound 710
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あ、プロデューサー……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ほーらっ、そんな顔、自慢のアルバムに
+line2 <shift> # ふさわしくないぞ？」
+display
+com11 0 2
+sound 711
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あ、はいっ。そうですね。なにも顔まで、
+line2 <shift> # くもらせることは……」
+com09 0 49
+display
+location 31
+com11 0 2
+sound 712
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「う、プロデューサー……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「こらっ、そんな顔、自慢のアルバムに
+line2 <shift> # ふさわしくないぞ？」
+display
+com11 0 2
+sound 713
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「すみません。叩かれて、当然です。自分の
+line2 <shift> # 歌について語れないなんて、まるで新人……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「い、いや、そこまで沈むことは……。
+line2 <shift> # ほら、気を強く持って」
+display
+com11 0 2
+sound 714
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……そうですね。顔をくもらせて、アルバムに
+line2 <shift> # 自信がないのかと疑われたら、悲しいですし」
+com09 0 49
+display
+location 32
+com11 0 2
+sound 715
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あ、プロデューサー……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ほらほら、そんな顔、自慢のアルバムに、
+line2 <shift> # ふさわしくないぞ？」
+display
+com11 0 2
+sound 716
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「わかってます。でも、はあ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う、ちょっと、思い切りが足りなかったか。
+line2 <shift> # とにかく、胸は張らなきゃ」
+display
+com11 0 2
+sound 717
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そうですね。あまりふさいでいると、
+line2 <shift> # アルバムのデキまで、疑われてしまうから……」
+com09 0 49
+display
+location 33
+com11 0 2
+sound 718
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「は？　プロデューサー、なにを……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「スキあり！　……なんてな。ほら、そんな顔、
+line2 <shift> # 自慢のアルバムに、ふさわしくないぞ？」
+display
+com11 0 2
+sound 719
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……それを言うために、こんなことを？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、怒るなよ。ただ元気づけたかっただけで、
+line2 <shift> # 他意は……」
+display
+com11 0 2
+sound 720
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はあ……わかりました。そうですね、表情が
+line2 <shift> # 暗いと、アルバムのデキ、疑われてしまうかも」
+com09 0 49
+display
+location 34
+com11 0 2
+sound 721
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「う、プロデューサー？　首もとなんて……
+line2 <shift> # どうして？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ほらっ、元気出そう。そんな顔、自慢の
+line2 <shift> # アルバムに、ふさわしくないぞ？」
+display
+com11 0 2
+sound 722
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「けほっ、けほっ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あああ、ごめん。痛かったか！？」
+display
+com11 0 2
+sound 723
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「だ、大丈夫です。……そうですね。
+line2 <shift> # ちゃんとした顔で、あいさつしないと」
+com09 0 49
+display
+location 35
+com11 0 2
+sound 724
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサー、その宙に浮いた手は……、
+line2 <shift> # なんでしょうか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え？　あ、これ？　いや、たいしたことじゃ
+line2 <shift> # ないんだ。その……かるく、だな」
+display
+com11 0 2
+sound 725
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「頭でも、かこうと？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうそう。それより、元気出そう。暗い顔は、
+line2 <shift> # 自慢のアルバムにふさわしくないぞ」
+display
+com11 0 2
+sound 726
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あ、はい。そうですね。ふさいでいると、
+line2 <shift> # アルバムのデキ、疑われてしまいそうですし」
+com09 0 49
+display
+location 49
+com11 0 2
+sound 727
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ＰＲのアイディア、もらえませんか？　正直、
+line2 <shift> # 余計な言葉で、アルバムを汚したくありません」
+display
+com11 0 2
+sound 728
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「けど、なにも言わないわけにも……。コメント、
+line2 <shift> # どんな風にまとめるのが、いいでしょう？」
+com03 0 3
+choice1 <shift> # 短く、スパッと決めよう
+line2
+com09 0 50
+com08
+choice2 <shift> # 買ってくれるよう、お願いを
+line2
+com09 0 51
+com08
+choice3 <shift> # アルバムと、関係ない話を
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 2
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「短く、スパッと決めよう」
+display
+com11 0 2
+sound 729
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「わかりました。いつわりのない私の気持ち、
+line2 <shift> # ひとことで、伝えてみようと思います」
+display
+com20 0 30
+com11 0 2
+sound 730
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「このアルバムは、今の私の、すべてです。
+line2 <shift> # １曲も……、きき逃さないで下さい！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （自信に満ちた声に、会場からは、どよめきが。
+line2 <shift> # 切れ味のいい、最高のＰＲになった！）
+com09 0 69
+display
+location 51
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「買ってくれるよう、お願いを。それなら、
+line2 <shift> # ヘンに内容に触れなくてすむだろ？」
+display
+com11 0 2
+sound 731
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「わかりました。すべての人に向けて、
+line2 <shift> # 真剣に、お願いしてこようと思います」
+display
+com20 0 30
+com11 0 2
+sound 732
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「買ってくれた人には、絶対後悔はさせません。
+line2 <shift> # そう言い切れる仕上がりだと、自負しています」
+display
+com11 0 2
+sound 733
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ぜひ、手に取ってみて下さい。
+line2 <shift> # 心から、お願いします！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （アルバムにかける思いは、伝わったようだ。
+line2 <shift> # ただ、商売熱心なだけに、見えなくもないな）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「アルバムと、関係ない話を。
+line2 <shift> # それなら、気楽に話せるだろ？」
+display
+com11 0 2
+sound 734
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「わかりました。それでは、ここは私自身の、
+line2 <shift> # ＰＲの場に……」
+display
+com20 0 30
+com11 0 2
+sound 735
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「いろいろな人に、こうして応援してもらえる
+line2 <shift> # ことには、とても感謝しています」
+display
+com11 0 2
+sound 736
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「え？　アルバムについての話、ですか？
+line2 <shift> # そ、それは……。えっと……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （しまった、突っ込まれた！　千早はつらそうな
+line2 <shift> # 顔で、マスコミの要求に答えるしかなかった）
+com09 0 69
+display
+location 69
+unk02

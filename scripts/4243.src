@@ -1,0 +1,253 @@
+com2c 0 18
+com2d 0 13
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （歌番組のスペシャルの、リハーサルに来たが、
+line2 <shift> # 今回は、いつもとちょっと様子が違うみたいだ）
+display
+com11 0 1
+sound 800
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「今回だけ、バラエティ番組寄りの演出に、
+line2 <shift> # 急きょ変わったらしいんです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか。あんまり無茶なことに、
+line2 <shift> # ならなきゃいいけど」
+display
+com11 0 1
+sound 801
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あはは……は。さっそく、アクションを、
+line2 <shift> # 要求されちゃったりしてるんですけどね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「何！？　聞いてないぞ！
+line2 <shift> # ど、どんなアクションだ？」
+display
+com11 0 1
+sound 802
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ワイヤーアクションで……、
+line2 <shift> # ちょっと空中３回転、ですけど……」
+display
+com11 0 1
+sound 803
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ううっ、私、ぐるぐる回ったりなんて、
+line2 <shift> # できないかもぉ〜！」
+com03 0 2
+choice1 <shift> # できないねぇ
+line2
+com09 0 10
+com08
+choice2 <shift> # が、頑張ろう
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「できないねぇ……、それは」
+display
+com11 0 1
+sound 804
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ううっ、私って運動神経が、
+line2 <shift> # へっぽこだから……。すみません」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まあまあ。突然回転アクロバットしろなんて、
+line2 <shift> # 言われたってできないさ。仕方ない」
+display
+com11 0 1
+sound 805
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「うーん、そうですよね。
+line2 <shift> # で、でも、頑張らないとっ！」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「が、頑張ろう。いや、頑張れ！」
+display
+com11 0 1
+sound 806
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そんなぁ！　ひとごとみたいにっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だ、だって、春香がやらなきゃならないん
+line2 <shift> # だったら、やるしかないじゃないか！」
+display
+com11 0 1
+sound 807
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そ、それはそうなんですけどぉ……。頑張り
+line2 <shift> # ますけど、こればっかりは、自信はないですよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ま、まぁ、仕方ないか。
+line2 <shift> # あんまりムリして、ケガしても困るし」
+com09 0 29
+display
+location 29
+com11 0 1
+sound 808
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「それにしても、いきなりアクションなんて、
+line2 <shift> # 急に言われても、やっぱり難しいです」
+display
+com11 0 1
+sound 809
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「いつもの衣装で、回転なんかしたら、
+line2 <shift> # あぶないし、きわどいし……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ケガしたら大変だな。なんとかお願いして、
+line2 <shift> # 演出を変えてもらおうかなぁ」
+display
+com11 0 1
+sound 810
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「でも、もし変えるなら、なにか他に、
+line2 <shift> # 面白い演出を考えなくっちゃです！」
+display
+com11 0 1
+sound 811
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「うーん、どうしよう、うーん……、
+line2 <shift> # なにか、できることがあるはず……」
+com03 0 3
+choice1 <shift> # やっぱり歌で
+line2
+com09 0 30
+com08
+choice2 <shift> # やっぱり踊りで
+line2
+com09 0 31
+com08
+choice3 <shift> # いや、特訓だ
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ここは、やっぱり歌で。しっかり歌っていけば、
+line2 <shift> # アクションなんかなくても、大丈夫だよ！」
+display
+com11 0 1
+sound 812
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そうですね……。
+line2 <shift> # やっぱり売りといえば、歌ですから！」
+display
+com11 0 1
+sound 813
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あっ、でも、この番組用になにか
+line2 <shift> # ひと工夫は欲しいかな……、そうだ！」
+display
+com11 0 1
+sound 814
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「歌の掛け合いの間に、アドリブのフリを
+line2 <shift> # 増やして、やってみることにしますっ」
+display
+com11 0 1
+sound 815
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「セットを駆け巡って……、つまりライブっ
+line2 <shift> # ぽくってことです！　いいでしょう？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （幸いこの提案はスタッフにも快く受け入れられ、
+line2 <shift> # 春香は、気持ちよく歌うことができた）
+com09 0 49
+display
+location 31
+com11 0 1
+sound 816
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「派手な回転は、いきなりできないけど……。
+line2 <shift> # なにか、この番組用に頑張りたいなぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「派手……。ダンスなら、どうかな」
+display
+com11 0 1
+sound 817
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そうだ、ダンス！
+line2 <shift> # いつもよりちょっと頑張って、ダンスします」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし！　ライブ向きの派手めの振り付け、
+line2 <shift> # あれでいってみようか」
+display
+com11 0 1
+sound 818
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい！　あっ、でも……、
+line2 <shift> # いきなりぶっつけで、みんな大丈夫かな？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんとかなるさ。頼むぞ、春香！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （幸いにもライブ版ダンスへの変更はスタッフに
+line2 <shift> # も歓迎され、春香は、気持ちよく歌えたようだ）
+com09 0 49
+display
+location 32
+com11 0 1
+sound 819
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「困ったなぁ。なにか、いい手はないかな。
+line2 <shift> # でも、思いついてもすぐにできるかどうか……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いつもどおりにやっても、番組的には、
+line2 <shift> # つまらないと思われるかもしれないなぁ」
+display
+com11 0 1
+sound 820
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「や、やっぱり、特訓、ですかね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ、特訓……、だって？」
+display
+com11 0 1
+sound 821
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「うん！　特訓が必要なんです！」
+display
+com11 0 1
+sound 822
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「私、ちょっと空中３回転が
+line2 <shift> # できるように……、頑張ります！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「が、頑張るのはいいけど……、って、おい！
+line2 <shift> # 春香、どこ行くんだよ、春香ぁ〜っ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （春香は、ひとりスタジオを飛び出して行った。
+line2 <shift> # 特訓とやらに出かけたんだろうか？）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （収録にも穴を開けてしまって、
+line2 <shift> # スタッフからも大目玉だ。……やれやれ）
+com09 0 49
+display
+location 49
+unk02

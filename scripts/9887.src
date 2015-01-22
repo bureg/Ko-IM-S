@@ -1,0 +1,258 @@
+com2c 0 53
+com2c 0 24
+com2d 0 21
+com32 0 0
+com11 0 1
+sound 900
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なによ、なによーっ！　あのディレクター！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「伊織。クリップで使う日常シーンの撮影、
+line2 <shift> # もう終了か？」
+display
+com11 0 1
+sound 901
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あと１カットっ！　でも、これまでのとこも、
+line2 <shift> # なんか納得してないみたい」
+display
+com11 0 1
+sound 902
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「『君の日常は、どうも上品すぎる』って。仕方
+line2 <shift> # ないわよね？　生まれが、凡人とは違うんだし」
+com03 0 2
+choice1 <shift> # たしかにな
+com09 0 10
+com08
+choice2 <shift> # 演技でなんとかできない？
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「たしかにな」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「演技でなんとかできない？」
+display
+com11 0 1
+sound 903
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「むーりー。女優じゃないんだから、
+line2 <shift> # 肌に、しみついたものまで、変えられませーん」
+com09 0 29
+display
+location 29
+com11 0 1
+sound 904
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「でも、ちょっと、シャクよね。最後ぐらい、
+line2 <shift> # 『それだー』って言わせてやりたいわ」
+display
+com11 0 1
+sound 905
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「んー……、そうだっ！　あんた、
+line2 <shift> # いっしょにきて、フレームの外に立ってて！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いいけど……。なにか意味、あるのか？」
+display
+com11 0 1
+sound 906
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あんたがそばにいると、すこし、
+line2 <shift> # ムード変わるから。ほらっ、早く〜」
+display
+com22 0 30
+com32 0 1
+com21 0 30
+com11 0 1
+sound 907
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ね！　言った通り、バッチリだったでしょ？
+line2 <shift> # ふふーっ、気持ちいーい！！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ディレクター、ベタぼめだったな。
+line2 <shift> # ……でも、どうしてだ？」
+display
+com11 0 1
+sound 908
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「んー、なんか、あんたといると、気が抜ける
+line2 <shift> # のよね。この感覚、なにが原因なのかしら？」
+com03 0 3
+choice1 <shift> # 恋かも
+com09 0 30
+com08
+choice2 <shift> # 恋だね
+com09 0 31
+com08
+choice3 <shift> # 変だね
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「恋かも」
+display
+com11 0 1
+sound 909
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ば、ば、ばか言ってるんじゃないわよ……。
+line2 <shift> # へ、へんなこと言うと、なぐるんだから……」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「恋だね」
+display
+com11 0 1
+sound 910
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ちょ、ちょっとー、なに勝手に、
+line2 <shift> # 決めつけてんのよーっ！」
+display
+com11 0 1
+sound 911
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「いい加減なコト、言わないでよねっ。
+line2 <shift> # いくら、やさしい私でも、怒るわよ……」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「変だね」
+display
+com11 0 1
+sound 912
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そう、ヘンなの。……って、あんた、
+line2 <shift> # もうちょっと、意味あるコト言えないわけ？」
+display
+com11 0 1
+sound 913
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ヘンなことをヘンだって言うのなんて、
+line2 <shift> # 誰だってできるじゃない……。まったく……」
+com09 0 49
+display
+location 49
+com11 0 1
+sound 914
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「で……、あんたは、どうなの？
+line2 <shift> # 私といると、どんな気分になる？」
+display
+com11 0 1
+sound 915
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ま、マジメに答えなさいよっ？　つまんない
+line2 <shift> # こと言ったら、許さないんだからー！」
+com03 0 3
+choice1 <shift> # 心が安らぐ
+com09 0 50
+com08
+choice2 <shift> # バクバクする
+line2
+com09 0 51
+com08
+choice3 <shift> # 緊張する
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「心が安らぐよ」
+display
+com11 0 1
+sound 916
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……ふ〜ん、あんたも同じなのね。
+line2 <shift> # ふふっ、ふふふっ！」
+display
+com11 0 1
+sound 917
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あ…………。しょ、ショックだわー。あんたを、
+line2 <shift> # なごませてたなんて……。ふふっ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （あまりショックなようには、見えないな……。
+line2 <shift> # やけに、うれしそうだ）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「バクバクする」
+display
+com11 0 1
+sound 918
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そ、そう……。私と逆ってわけね……。
+line2 <shift> # まあ、そうかも……」
+display
+com11 0 1
+sound 919
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……悪かったわよ。
+line2 <shift> # これまで、いじめすぎたかもしれないわ」
+display
+com11 0 1
+sound 920
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「これから、なぐる時は、なぐるって予告する！
+line2 <shift> # それなら、落ち着いていられるわよね……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （別に、恐怖を感じてるわけじゃないんだけどな。
+line2 <shift> # ……まあ、いいか）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「緊張する」
+display
+com11 0 1
+sound 924
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そ、そう……。ま、なんだかんだ言っても、
+line2 <shift> # アイドルとプロデューサーだもんね……」
+display
+com11 0 1
+sound 922
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「もうすこし、だらけてもいいわ……。
+line2 <shift> # そんなこと、できるなら……、だけど」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だらけるのは、さすがにマズいだろ？」
+display
+com11 0 1
+sound 923
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「できればって言ってるでしょ！
+line2 <shift> # 私、電話してくるっ！　フンっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （電話なんて、ここですればいいのに……。
+line2 <shift> # よくわからないけど、怒らせてしまったようだ）
+com09 0 69
+display
+location 69
+unk02

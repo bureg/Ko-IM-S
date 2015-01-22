@@ -1,0 +1,146 @@
+com2d 0 51
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あっという間に１日が終ってしまった……」
+display
+location 0
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「プロデューサーさん、お疲れ様でした。今日は
+line2 <shift> # 初仕事もして、いろいろ勉強になりました」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「記念すべき第一歩、でしたね。
+line2 <shift> # つぎからは、もっと……」
+com03 0 3
+choice1 <shift> # カンペキな仕事をめざしましょう
+line2
+com09 0 10
+com08
+choice2 <shift> # ラクになりますよ
+line2
+com09 0 11
+com08
+choice3 <shift> # 大変かもしれませんね
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「カンペキな仕事を、めざしましょう」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「はい！　急にはムリですけど、すこしずつ
+line2 <shift> # 成長していけたらと、思います」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「それでは、また、つぎ、よろしく
+line2 <shift> # お願いしますね」
+com4a 0 0
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ラクになりますよ。一度経験してしまえば、
+line2 <shift> # だいぶ、ちがうハズですから」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「だと、いいですね。でも、私、不器用なので、
+line2 <shift> # それほどラクには、ならないかもしれません」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「とにかくっ、つぎもがんばろうと思います。
+line2 <shift> # それでは、また！」
+com4a 0 0
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「大変かもしれませんね。あいさつなんて、
+line2 <shift> # 仕事の中では、もっとも、ラクな部類ですから」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「はあー、ですよね……。それでも、私にとって
+line2 <shift> # は、じゅうぶん大変だったのですけれど……」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「とにかくっ、つぎも、できるだけがんばろうと
+line2 <shift> # 思います。それでは、また！」
+com4a 0 0
+com09 0 19
+display
+location 19
+location 100
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あっという間に１日が終ってしまった……」
+display
+location 101
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もっと早く色々片付けていれば
+line2 <shift> # もう１レッスンできたかも……」
+display
+location 102
+com11 0 0
+sound 10007
+name 0 2 <names:3>  # President
+line1 <shift> # 「２日目ご苦労だったね。次は、いよいよ……、
+line2 <shift> # オーディションをうけてもらうよ！」
+display
+com4a 0 0
+com11 0 0
+sound 10008
+name 0 2 <names:3>  # President
+line1 <shift> # 「ではキミ達のアイドルランク報告だ！」
+display
+location 200
+com11 0 0
+sound 10009
+name 0 2 <names:3>  # President
+line1 <shift> # 「うむ、今後も出会った人達にファンに
+line2 <shift> # なってもらえるよう、活動しなさい」
+display
+com11 0 0
+sound 10010
+name 0 2 <names:3>  # President
+line1 <shift> # 「しかし、レッスンばかりでは、
+line2 <shift> # ファンは、ほとんど増えることはない！」
+display
+com11 0 0
+sound 10011
+name 0 2 <names:3>  # President
+line1 <shift> # 「オーディションに合格することが、
+line2 <shift> # ファンを一気に増やす唯一の方法だ」
+display
+com4a 0 0
+com11 0 0
+sound 10012
+name 0 2 <names:3>  # President
+line1 <shift> # 「次回のオーディションが楽しみだな！」
+display
+location 103
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ファンからのプレゼントを、
+line2 <shift> # チェックして帰るか」
+display
+location 201
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （次の活動では、デビュー曲を決めて
+line2 <shift> # いよいよオーディションだ！）
+display
+unk02

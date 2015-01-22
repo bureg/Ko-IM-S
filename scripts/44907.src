@@ -1,0 +1,290 @@
+com2c 0 24
+com2d 0 81
+com32 0 0
+com11 0 2
+sound 600
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサー、聞きましたか？　これから
+line2 <shift> # やる、ボクのインタビュー、巻頭特集ですって」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「らしいな。他のアイドルも取り上げるって
+line2 <shift> # 言ってたけど、どんな特集なんだ？」
+display
+com11 0 2
+sound 601
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「『芸能界の貴公子達・その素顔』ですって。
+line2 <shift> # 女の子は、ボクひとりだけで……」
+com03 0 3
+choice1 <shift> # 他のやつに、負けるなよ？
+line2
+com09 0 10
+com08
+choice2 <shift> # それは、目立つな
+line2
+com09 0 11
+com08
+choice3 <shift> # なに、考えてるんだか
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「他のやつに、負けるなよ？」
+com09 0 91
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それは、目立つな」
+display
+com11 0 2
+sound 602
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ですよね。ボクひとり、反則みたいなもんです
+line2 <shift> # から。けど、悪目立ちとは、思ってません」
+com09 0 91
+display
+location 91
+com11 0 2
+sound 603
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「載せてもらう以上、キチンとやります。向こう
+line2 <shift> # も、お遊び記事にはしないって言ってましたし」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なに、考えてるんだか。こっちをバカに
+line2 <shift> # してるのかな？」
+display
+com11 0 2
+sound 604
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「と、いうわけでも、ないみたいです。女性アイ
+line2 <shift> # ドルとして見た上で、扱うって言ってました」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、じゃあ、イロモノ扱いじゃないのか？」
+display
+com11 0 2
+sound 605
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はい。新時代の女性の理想像に、迫りたいって。
+line2 <shift> # そういう希望なら、応えなきゃって思います」
+com09 0 29
+display
+location 29
+com11 0 2
+sound 606
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「でも、貴公子か……。本当は、そんなに
+line2 <shift> # 立派なものじゃないんですよね、ボク」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうでもないだろ？　有名アイドルなんだし、
+line2 <shift> # そこそこは立派なんじゃないか？」
+display
+com11 0 2
+sound 607
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うーん、どうなんだろ……。だって、ボク、
+line2 <shift> # ただやりたいこと、やってるだけですよ？」
+display
+com11 0 2
+sound 608
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「このまんまで、いいのかな。えらいことしてる
+line2 <shift> # わけでもないのに、みんなに持ち上げられて」
+com03 0 3
+choice1 <shift> # それが、アイドルの役割だろ
+line2
+com09 0 30
+com08
+choice2 <shift> # それが、アイドルの仕事だろ
+line2
+com09 0 31
+com08
+choice3 <shift> # それが、アイドルの使命だろ
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それが、アイドルの役割だろ。それだけ、
+line2 <shift> # 持ち上げたい人がいるんだから……」
+display
+com11 0 2
+sound 609
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ボクも、悪いことだって、思ってるわけじゃ
+line2 <shift> # ありません。ただ……」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それが、アイドルの仕事だろ。なにも
+line2 <shift> # 後ろめたさを感じることは……」
+display
+com11 0 2
+sound 610
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そこまで、深刻に考え込んでるわけじゃ
+line2 <shift> # ありません。ただ……」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それが、アイドルの使命だろ」
+display
+com11 0 2
+sound 611
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「使命……？　す、すごい言葉ですね。ボク、
+line2 <shift> # そこまでは、とても開き直れません」
+display
+com11 0 2
+sound 612
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「もちろん、注目されるのは、うれしいです。
+line2 <shift> # それを、めざしてきたわけだし。ただ……」
+com09 0 49
+display
+location 49
+com11 0 2
+sound 613
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「時々、疑問に思うんです。ボク、応援してくれ
+line2 <shift> # る人に、それだけのモノ、返せてるのかなって」
+display
+com11 0 2
+sound 614
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「最近、プレゼントくれる人も多いけど、お返し
+line2 <shift> # もしないで、よろこんで、もらってるだけだし」
+display
+com11 0 2
+sound 615
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「たまに……誰かの役に立ってるっていう手応え、
+line2 <shift> # ほしくなりますよね。こう、目に見える形で」
+com03 0 3
+choice1 <shift> # じゃあ、肩もんでくれる？
+line2
+com09 0 50
+com08
+choice2 <shift> # チャリティ・ライブでも、やる？
+line2
+com09 0 51
+com08
+choice3 <shift> # ボランティア活動でも、やる？
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ、肩もんでくれる？」
+display
+com11 0 2
+sound 616
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサーの、ですか？　あ、やります！
+line2 <shift> # ボク、やるやる！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「い、いいのか？　こんな、雑用みたいな
+line2 <shift> # ことで？」
+display
+com11 0 2
+sound 617
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「いーんです！　こういう小さな親切、すごく
+line2 <shift> # やりたくて。さ、普段の恩、まとめて返すぞー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （持ち上げられることに、疲れたのかな？
+line2 <shift> # こんなので気分転換になるなら、なによりだ）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「チャリティ・ライブでも、やる？」
+display
+com11 0 2
+sound 618
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、入場料とかを、どこかに寄付するん
+line2 <shift> # ですか？　そういうのも、いいですね！」
+display
+com11 0 2
+sound 619
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「けど……やることは、普段のライブと同じか。
+line2 <shift> # それじゃ、あまり代わり映えは……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やることは同じでも、お金の行く先は、
+line2 <shift> # ちがうだろ？」
+display
+com11 0 2
+sound 620
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「まあ、そう言われれば……。じゃあ、ちょっと
+line2 <shift> # 企画、考えてみてください」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （言いつつも、あまり乗り気じゃなさそうだな。
+line2 <shift> # 提案としては、まあまあだと思うんだけど）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ボランティア活動でも、やる？」
+display
+com11 0 2
+sound 621
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、そうそう！　そういうの、やりたいです！
+line2 <shift> # １週間ぐらいかけて、山のゴミ拾ったりとか！」
+display
+com11 0 2
+sound 622
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「けど……いいんですか？　本格的にやろうと
+line2 <shift> # すると、休み取らないといけませんよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、最近、仕事も詰まってきてるし、
+line2 <shift> # かといって、オフをつぶすと、体がきついしな」
+display
+com11 0 2
+sound 623
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「じゃあ、結局、ダメなんじゃないですか！？
+line2 <shift> # なーんだ、話だけ……」
+display
+com11 0 2
+sound 624
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「前は、ヒマなんて、たくさんあったのになー。
+line2 <shift> # アチコチ同時には、うまくいきませんね……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （大きなため息を、ついている。ストレスを
+line2 <shift> # 発散させるには、別の手の方が、よかったか）
+com09 0 69
+display
+location 69
+unk02

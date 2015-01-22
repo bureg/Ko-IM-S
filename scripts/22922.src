@@ -1,0 +1,469 @@
+com2c 0 47
+com2d 0 51
+com11 0 0
+sound 0
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「えーっと、からあげ弁当に、幕の内弁当。
+line2 <shift> # これで全員分、ありますよね〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「すみません、あずささん。弁当の買出しなんて、
+line2 <shift> # 俺ひとりでも、よかったのに……」
+display
+com11 0 0
+sound 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「いいんです〜。ロケが雨で中断していますし、
+line2 <shift> # ちょっと、気分転換もしたかったので」
+display
+com11 0 0
+sound 2
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「だけど、屋外のロケって、大変ですよね。
+line2 <shift> # お天気が悪いと、どうしようもないですし……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ロケで天気待ちは、よくあることですから。
+line2 <shift> # こういうことにも、慣れていきましょう」
+display
+com11 0 0
+sound 3
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「小刻みに中断されてしまうと、気持ちが
+line2 <shift> # 途切れてしまって……。難しいです〜」
+display
+com11 0 0
+sound 4
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「何か、気持ちを切り替えるいい方法って
+line2 <shift> # ないものでしょうか〜？」
+com03 0 3
+choice1 <shift> # スタッフとおしゃべり
+line2
+com09 0 10
+com08
+choice2 <shift> # 音楽をきく
+com09 0 11
+com08
+choice3 <shift> # ひとりで集中
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「スタッフとおしゃべりすると、いいのでは？」
+display
+com11 0 0
+sound 5
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ん〜、いいかもしれません。スタッフさんと
+line2 <shift> # お話しすると、勉強にもなりますし〜」
+display
+com11 0 0
+sound 6
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「適度に緊張感を保てる気がします〜。
+line2 <shift> # 身の引き締まる思いがする、というか……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうやって、空いた時間で自分の気持ちを
+line2 <shift> # 調節するといいですよ」
+display
+com11 0 0
+sound 7
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そうですね〜。いいアドバイス、ありがとう
+line2 <shift> # ございます。プロデューサーさん」
+com09 0 13
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「音楽をきけば、いいのでは？」
+display
+com11 0 0
+sound 8
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そうですね。好きな曲をきいてリラックスして
+line2 <shift> # いれば、気持ちが途切れないかもしれません〜」
+display
+com11 0 0
+sound 9
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「だけど、休けいのたびに、
+line2 <shift> # ひとりの世界に入ってしまうなんて……」
+display
+com11 0 0
+sound 10
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「スタッフのみなさんに、なんとなく
+line2 <shift> # 申し訳ない気がします……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「大丈夫です。いい仕事をするためなら、誰も
+line2 <shift> # 文句は言わないはずですから」
+display
+com11 0 0
+sound 11
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はい、そうですね……。わかりました〜。
+line2 <shift> # ありがとうございます、プロデューサーさん」
+com09 0 13
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ひとりで集中すると、いいのでは？」
+display
+com11 0 0
+sound 12
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、はい……。ですけど、雨の中ひとりで
+line2 <shift> # ぼんやりしていると、眠くなってしまって」
+display
+com11 0 0
+sound 13
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「雨の日って、なぜかとっても眠いんです……。
+line2 <shift> # しとしと降る雨音のせいかしら〜？」
+com09 0 13
+display
+location 13
+com11 0 0
+sound 14
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「だけど、この雨、止みそうにないですね。せっ
+line2 <shift> # かくのプロモーションビデオ撮影なのに……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ええ。ひどくなってきましたね。
+line2 <shift> # これじゃあ、午後の撮影は中止かも」
+display <shift> # ピピピピピーピーピピピピー♪
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あれっ、携帯が鳴ってる。
+line2 <shift> # ちょっと、車、停めますね……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もしもし。はい、そうです。あ、はい……。
+line2 <shift> # わかりました。失礼します」
+display
+com11 0 0
+sound 15
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「どうかしましたか？　プロデューサーさん」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やはり雨がひどいので、今日の撮影は
+line2 <shift> # 延期にするそうです」
+display
+com11 0 0
+sound 16
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「まあ……、そうなんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「はい。これで午後からのスケジュールが、
+line2 <shift> # 空いてしまいました……」
+display
+com11 0 0
+sound 17
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あの〜。こういうとき、私はどうすれば
+line2 <shift> # いいのでしょうか〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうですね。せっかく空いた時間だし……」
+com03 0 3
+choice1 <shift> # ドライブしましょうか
+line2
+com09 0 20
+com08
+choice2 <shift> # レッスンしましょうか
+line2
+com09 0 21
+com08
+choice3 <shift> # ぼーっとしましょうか
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ドライブしましょうか」
+display
+com11 0 0
+sound 18
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「まあ、いいんですか……？　ふふっ♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あはは。うれしそうですね。こんなことなら、
+line2 <shift> # ロケバスなんて乗ってくるんじゃなかったな」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ちゃんと、あずささんが助手席に乗れるような、
+line2 <shift> # カッコイイ車に乗ってくれば良かったです」
+display
+com11 0 0
+sound 40
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あら。私は、ロケバスの助手席でも、
+line2 <shift> # 構いませんよ〜。そちらに乗りましょうか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、いえ。この車の助手席、狭いですから……。
+line2 <shift> # 残念ですけど、そのまま後ろの席にいて下さい」
+display
+com11 0 0
+sound 41
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そうですか。ちょっと残念です……。あの、私
+line2 <shift> # は、車なんて、どんな形でも気にしませんよ？」
+display
+com11 0 0
+sound 42
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「プロデューサーさんとドライブできるなら、
+line2 <shift> # それだけで、とっても楽しいですから」
+display
+com11 0 0
+sound 43
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「いつか、こ、恋人……、とかできたら、こんな
+line2 <shift> # 感じかしら〜、と思ったりして……。ふふっ」
+com09 0 23
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「レッスンしましょうか」
+display
+com11 0 0
+sound 22
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そうですね。せっかく空いた時間ですから、
+line2 <shift> # 有効に使うのは、いいと思います〜」
+com09 0 23
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ぼーっとしましょうか」
+display
+com11 0 0
+sound 44
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「えっ？　はい……、そうですね。
+line2 <shift> # 私も、ぼーっとするのは好きですけれど……」
+display
+com11 0 0
+sound 24
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「お仕事しない代わりに、ぼーっとするなんて
+line2 <shift> # なんだか、ダメな感じがしますね〜……」
+com09 0 23
+display
+location 23
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ！　だけど、まずはいったん、
+line2 <shift> # ロケ現場に戻らないといけないな」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「スタッフと、今後の打ち合わせが必要ですから、
+line2 <shift> # 時間が、かかるかもしれません」
+display
+com11 0 0
+sound 25
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ……、はい。わかりました〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「せっかく空き時間ができるかと思ったのに、
+line2 <shift> # 申し訳ありません……」
+display
+com11 0 0
+sound 26
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「いえ、いいんです〜。スタッフさん達に、
+line2 <shift> # お弁当も届けないといけませんし〜」
+display
+com11 0 0
+sound 27
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「きっと、お腹を空かせてると思いますから、
+line2 <shift> # 温かいうちに、届けてあげたいですよね〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうですね。わかりました。
+line2 <shift> # では、なるべく急いで戻りましょう」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （だけど、この辺の道は渋滞したりするから、
+line2 <shift> # どの道が早いかは、運次第だな……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （あずささんの気持ちを大切にしてあげたい。
+line2 <shift> # 現場に早く戻るために、どっちの道を行こう？）
+com03 0 2
+choice1 <shift> # 右に行こう
+com09 0 30
+com08
+choice2 <shift> # 左に行こう
+com09 0 31
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、右に行こう」
+com37 0 1
+com1e 0 0
+com09 0 33
+com3b
+com37 0 0
+com1e 0 0
+com09 0 34
+com3b
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、左に行こう」
+com37 0 1
+com1e 0 0
+com09 0 33
+com3b
+com37 0 0
+com1e 0 0
+com09 0 34
+com3b
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん……。適当に行けば、着くだろう」
+com09 0 34
+display
+location 33
+com11 0 0
+sound 45
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ……、プロデューサーさん。見て下さい、
+line2 <shift> # ずっと向こうに、山が見えてますよ！」
+display
+com11 0 0
+sound 29
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「雨に煙って、まるで、水墨画みたい……。
+line2 <shift> # なんだか、雰囲気がありますね〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「雨の日のドライブっていうのも、なかなか、
+line2 <shift> # 悪くないものですね」
+display
+com11 0 0
+sound 30
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はい。晴れた日も、きっとステキでしょうけど、
+line2 <shift> # 雨音をきいて走るのも、心地いいですね〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「さあ、着きましたよ。ロケ現場です」
+display
+com11 0 0
+sound 31
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「えっ、もう着いたんですか……？
+line2 <shift> # 行くときよりも、ずっと早かったみたいです〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「近道したんですよ。お弁当が冷めないように。
+line2 <shift> # スタッフが、待ってますからね」
+display
+com11 0 0
+sound 32
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「プロデューサーさん……。優しいですね。それ
+line2 <shift> # に……ふふっ。新しい発見、してしまいました」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「新しい発見……？　なんですか？」
+display
+com11 0 0
+sound 33
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「プロデューサーさんて、運転がお上手
+line2 <shift> # なんですね〜。私、感心してしまいました〜」
+display
+com11 0 0
+sound 34
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「だって、いつもなら乗り物酔いする私が、
+line2 <shift> # 全然、平気だったんですから」
+display
+com11 0 0
+sound 35
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「プロデューサーさんとなら、私……
+line2 <shift> # どんな遠くにでも、ドライブできそうです」
+display
+com11 0 0
+sound 46
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「次は、助手席に乗せて下さいね。ふふっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、温かいお弁当をスタッフに配った。
+line2 <shift> # あずささんの心づかい、みんなに伝わったかな）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （雨の日のちょっとしたドライブ……。
+line2 <shift> # あずささんとの、いい思い出になりそうだな）
+com4b 0 0
+com09 0 69
+display
+location 34
+com11 0 0
+sound 36
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あっ……プロデューサーさん。
+line2 <shift> # この先の道、渋滞しているみたいですよ〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ホントだ。まいったな。これじゃ戻るまでに、
+line2 <shift> # ずいぶん時間が、かかりそうだ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「すみません、あずささん……。
+line2 <shift> # なんか、運が悪かったみたいで……」
+display
+com11 0 0
+sound 37
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「いいえ。いいんです。プロデューサーさんの
+line2 <shift> # せいじゃありませんから……」
+display
+com11 0 0
+sound 47
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「でも、ちょっと残念ですねー。
+line2 <shift> # お弁当も、すっかり冷めてしまったみたい……」
+display
+com11 0 0
+sound 39
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「疲れているスタッフさん達に、温かいお弁当、
+line2 <shift> # 食べさせてあげたかったですけど……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （あずささんは少し落ち込んでしまったようだ。
+line2 <shift> # 運が悪かったと、あきらめるしかないか……）
+com4b 0 2
+com09 0 69
+display
+location 69
+unk02

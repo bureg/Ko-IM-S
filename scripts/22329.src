@@ -1,0 +1,242 @@
+com2c 0 38
+com2d 0 51
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おつかれさまでした。ライブ見たご老人達、
+line2 <shift> # 大よろこびでしたね」
+display
+com11 0 4
+sound 600
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「おどろきました。こんなにあたたかく迎えて
+line2 <shift> # もらえるなんて……」
+display
+com11 0 4
+sound 601
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「『あんたの声を聴くと、心が安らぐ』って。
+line2 <shift> # すこしだけ、いいことをした気分です」
+com03 0 2
+choice1 <shift> # 最高のプレゼント、しましたね
+line2
+com09 0 10
+com08
+choice2 <shift> # 冥土のみやげ、渡しましたね
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+com34 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「最高のプレゼント、しましたね」
+display
+com11 0 4
+sound 602
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「まだ下手ですので、そこまでは。けれど、
+line2 <shift> # そう思ってもらえたら、うれしいですよね」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「冥土のみやげ、渡しましたね」
+display
+com11 0 4
+sound 603
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「そういう言い方は、ちょっと……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あああ、そうですね。よくお年寄りが使う
+line2 <shift> # 言葉なので、つい……」
+com09 0 29
+display
+location 29
+com11 0 4
+sound 604
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あ、プロデューサーさん。私、さっきあそこの
+line2 <shift> # おじいさんにプロポーズされてしまったんです」
+com03 0 3
+choice1 <shift> # もてますね、あずささん
+line2
+com09 0 30
+com08
+choice2 <shift> # ゆ、勇気ある老人ですね
+line2
+com09 0 31
+com08
+choice3 <shift> # 先を越されました……
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もてますね、あずささん」
+display
+com11 0 4
+sound 605
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「きっと、さびしかったんですね。お受けします
+line2 <shift> # って、答えたら、泣いてよろこんでくれて」
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ゆ、勇気ある老人ですね」
+display
+com11 0 4
+sound 606
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「すごいですよね、初対面なのに。ついお受け
+line2 <shift> # しますって答えたら、泣いてよろこんでくれて」
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「先を越されました……」
+display
+com11 0 4
+sound 607
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「じょ、冗談でも、そんなことを言っては……。
+line2 <shift> # プロデューサーさん、誤解されてしまいますよ？」
+display
+com11 0 4
+sound 608
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「……あの人、さびしかったんですね。プロポー
+line2 <shift> # ズ受けますって言ったら、泣いて喜んでくれて」
+com09 0 49
+display
+location 49
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え！？　もしかして、その人、本気だったん
+line2 <shift> # じゃ……。ま、マズいですよ、あずささん」
+display
+com11 0 4
+sound 609
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「え、え、ええっ？　そんなはずは……。では、
+line2 <shift> # あの涙は本気の？　ど、どうしましょう」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんで、軽々しく……。もしかして、
+line2 <shift> # リップサービスのつもりだったとか？」
+display
+com11 0 4
+sound 610
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ライブの後味を、壊したくなかったんです。
+line2 <shift> # その場で断ったら、傷つけてしまいますよね？」
+com03 0 3
+choice1 <shift> # 結果的に、より傷つけたのでは？
+line2
+com09 0 50
+com08
+choice2 <shift> # すぐあやまってきた方が……
+line2
+com09 0 51
+com08
+choice3 <shift> # ヘンな情は、不要ですよ
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 2
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「結果的に、より傷つけたのでは？」
+display
+com11 0 4
+sound 611
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「そうかもしれませんね。私、思いやっている
+line2 <shift> # ようで、全然……」
+display
+com11 0 4
+sound 612
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あやまってきます。……今日のこと、これから
+line2 <shift> # 絶対忘れないようにしないと、いけませんね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ファンとの距離の取り方か。いいステップに
+line2 <shift> # なったな。俺も、しっかりおぼえておこう）
+com09 0 69
+display
+location 51
+com34 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「すぐあやまってきた方が……」
+display
+com11 0 4
+sound 613
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「そうですね！　それでは、行ってきます。
+line2 <shift> # 許してもらえるかしら？」
+display
+com22 0 30
+com21 0 30
+com11 0 4
+sound 614
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「で、ですから、えっと……。うう、泣かないで
+line2 <shift> # ください。あやまりますから〜」
+display
+com11 0 4
+sound 615
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「せ、責任？　ごめんなさい。それはムリなん
+line2 <shift> # ですー。い、遺産なんて、そんな……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ご老人は、さんざんゴネている。ま、もう
+line2 <shift> # すこしすれば、おさまりそうだし、いいか）
+com09 0 69
+display
+location 52
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ヘンな情は、不要ですよ。ファンは、しょせん
+line2 <shift> # ひとりのファンなんですし」
+display
+com11 0 4
+sound 616
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「……きびしいんですね。けれど、私、そうは
+line2 <shift> # 割り切れなくて」
+display
+com11 0 4
+sound 617
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「もっとドライにならなければいけないのでしょ
+line2 <shift> # うか？　そうしなければ、この世界では……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いまのままだと、あずささんが苦しい思いを
+line2 <shift> # するだけじゃないですか？」
+display
+com11 0 4
+sound 618
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「んー、変われるか、自信ないです。変わりたく
+line2 <shift> # ないという気も、すこし……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （クールに徹するあずささんなんて、ファンから
+line2 <shift> # 支持されるだろうか？　よく考えると疑問だな）
+com09 0 69
+display
+location 69
+unk02

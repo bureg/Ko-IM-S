@@ -1,0 +1,470 @@
+com2c 0 25
+com2d 0 81
+com32 0 0
+com11 0 0
+sound 0
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はぁ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「さあ、ミーティング始めるぞ……って、ん？
+line2 <shift> # どうしたんだ、ため息なんかついて」
+display
+com11 0 0
+sound 1
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「いえ、大したことじゃないんです。
+line2 <shift> # 大したことじゃないんですけど……」
+display
+com11 0 0
+sound 2
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサー、ボクをお菓子に
+line2 <shift> # 例えるとしたら、なんだと思いますか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （真をお菓子に？　そうだな……）
+com03 0 3
+choice1 <shift> # ふわふわマシュマロ
+line2
+com09 0 10
+com08
+choice2 <shift> # ビターなチョコレート
+line2
+com09 0 11
+com08
+choice3 <shift> # セレブなスイーツ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ふわふわマシュマロ……かな」
+display
+com11 0 0
+sound 3
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うわー、本当ですかあ？
+line2 <shift> # さすがに無理があるような気がしますけど」
+display
+com11 0 0
+sound 4
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「でも、一度でいいから、
+line2 <shift> # そういう風に言われたいですよね……」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ビターなチョコレート……かな」
+display
+com11 0 0
+sound 5
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うっ。チョコレートはいいけど、ビターって
+line2 <shift> # つくと、途端に男っぽい感じですよね……」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「セレブなスイーツ……かな」
+display
+com11 0 0
+sound 6
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「セレブなスイーツ……って？
+line2 <shift> # なんだか意味がよくわからないです」
+display
+com11 0 0
+sound 7
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「でも、なんとなくゴージャスな感じですね。
+line2 <shift> # ちょっとボクとは違う気がしますよ……」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いったい、どうしたんだ？
+line2 <shift> # どうも話が見えないんだが……」
+display
+com11 0 0
+sound 8
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「こないだ、友達とそんな話題になったんです。
+line2 <shift> # それぞれ、お菓子に例えると何になるかなって」
+display
+com11 0 0
+sound 9
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「その時、ボクは『アーモンド』ってことに
+line2 <shift> # なって……。満場一致でですよ！？」
+display
+com11 0 0
+sound 10
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「他の子はみんな、ふわふわで甘〜いお菓子
+line2 <shift> # だったのに、ボクだけ固いアーモンド……」
+display
+com11 0 0
+sound 11
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「可愛らしさや女の子らしさの、かけらも
+line2 <shift> # ないですよね……。アーモンドじゃ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （真って、男っぽく見られること、
+line2 <shift> # 実はけっこう、気にしてるんだよな……）
+com03 0 3
+choice1 <shift> # 方向性を変えたいのか？
+line2
+com09 0 30
+com08
+choice2 <shift> # 急ぐことはないぞ
+line2
+com09 0 31
+com08
+choice3 <shift> # アーモンドだってうまいぞ
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「方向性を変えたいのか？　もっと可愛く、ぶり
+line2 <shift> # ぶりぶりっ子なアイドルになりたい……とか？」
+display
+com11 0 0
+sound 12
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「いえ、そこまでいかなくても
+line2 <shift> # いいんですけど……」
+display
+com11 0 0
+sound 13
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「でも、せめて、ちゃんと女の子だってことを
+line2 <shift> # 皆にわかってほしいかなあとは、思います」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「大丈夫、わかってるよ。
+line2 <shift> # 俺だけじゃなく、みんなが真の魅力を認めてる」
+display
+com11 0 0
+sound 14
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「……本当ですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうじゃなきゃ、ファンはつかないぞ。
+line2 <shift> # みんなが真を応援しているじゃないか！」
+display
+com11 0 0
+sound 15
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「でも……それは、ボクが女の子として可愛い
+line2 <shift> # からじゃ、ないような気がするんですよね」
+display
+com11 0 0
+sound 16
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ボクは素敵な女の子として、
+line2 <shift> # みんなの声援に応えたいのに……」
+com09 0 39
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「急ぐことはないだろう。ゆっくりと、
+line2 <shift> # 真の本当の魅力をわかってもらえば……」
+display
+com11 0 0
+sound 17
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ゆっくり……かあ。
+line2 <shift> # わかってますけど、どうしても気になって」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「こら、真らしくないぞ。うじうじ悩むなんて」
+display
+com11 0 0
+sound 18
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ボクらしくない……？　ボクらしいって、
+line2 <shift> # 本当はどういうことなんだろ？　はぁー……」
+com09 0 39
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「アーモンドだってうまいぞ」
+display
+com11 0 0
+sound 19
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサーまで、ボクをアーモンドって、
+line2 <shift> # 言うんですか？　ね、今、言いましたよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、そうじゃなくて、アーモンドには、
+line2 <shift> # アーモンドのうまさがあってだな……」
+display
+com11 0 0
+sound 20
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ああっ、今、２回も続けて言いました？
+line2 <shift> # ボクって、やっぱりアーモンドなのか……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、落ち着け、真！
+line2 <shift> # 俺が言う、アーモンドってのは……」
+display
+com11 0 0
+sound 21
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うわああっ、何も聞こえないです。
+line2 <shift> # らーららー、るーるるー、あー！　あー！」
+com09 0 39
+display
+location 39
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （きっかけは、ささいなことに思えるけど、
+line2 <shift> # 真は相当、悩んでるみたいだな……）
+display
+com11 0 0
+sound 22
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ボクって自分で思ってるほど、
+line2 <shift> # 本当は女の子らしくないのかな……」
+display
+com11 0 0
+sound 23
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「だから皆にも伝わらないのかも。……よーし！
+line2 <shift> # プロデューサー、ボクと勝負して下さい！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ええっ！　勝負？　なんで急に？」
+display
+com11 0 0
+sound 24
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ボクが本当に女の子らしいかどうか、
+line2 <shift> # ちょっと確かめてみたいんですよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それと勝負と、何の関係があるんだ？」
+display
+com11 0 0
+sound 25
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ほら、よく言うじゃないですか。女性には天性
+line2 <shift> # のカンの良さが備わっているみたいなこと……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「『女のカン』……ってやつか？」
+display
+com11 0 0
+sound 26
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そうそう。それそれ！　だから、ボクとプロ
+line2 <shift> # デューサーとでじゃんけんをしてみませんか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それに真が『女のカン』で勝てたら、
+line2 <shift> # 女性らしい……ってことか？」
+display
+com11 0 0
+sound 27
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そういうことです！
+line2 <shift> # ちょっと、やってみてもらえませんか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、わかった……！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （そんなことで真の悩みが解決するなら
+line2 <shift> # お安い御用だが……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ここは絶対負けてやらないと、やっかいな
+line2 <shift> # ことになりそうだぞ……）
+display
+com11 0 0
+sound 28
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「それじゃ、本気でいきますよ！　ボクのカンを
+line2 <shift> # 総動員して……いざ、尋常に勝負っ！」
+display
+com11 0 0
+sound 29
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「じゃーんけん……」
+com03 0 3
+choice1 <shift> # グー！
+com09 0 40
+com08
+choice2 <shift> # チョキ！
+com09 0 41
+com08
+choice3 <shift> # パー！
+com09 0 42
+com08
+com07 129 64
+com09 0 43
+com08
+display
+location 40
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「グー！」
+com37 0 1
+com1e 0 0
+com09 0 48
+com3b
+com37 0 0
+com1e 0 0
+com09 0 49
+com3b
+display
+location 41
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「チョキ！」
+com37 0 1
+com1e 0 0
+com09 0 48
+com3b
+com37 0 0
+com1e 0 0
+com09 0 49
+com3b
+display
+location 42
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「パー！」
+com37 0 1
+com1e 0 0
+com09 0 48
+com3b
+com37 0 0
+com1e 0 0
+com09 0 49
+com3b
+display
+location 43
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ぽんっ！」
+com09 0 49
+display
+location 48
+com11 0 0
+sound 30
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「やりぃ！　勝った！
+line2 <shift> # ボクのカンも、たいしたもんですね！！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ〜負けた。たいした女のカンだよ。
+line2 <shift> # やっぱり真は、かなり女の子らしい女の子だな」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ファンや周りの人も、すぐに気づくと思うよ。
+line2 <shift> # 真が花の乙女だってことに……」
+display
+com11 0 0
+sound 31
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「……ぷっ、あははははっ！
+line2 <shift> # は、花の乙女って、あははっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなにおかしいかな？
+line2 <shift> # 俺は真面目に言ってるんだけど……」
+display
+com11 0 0
+sound 32
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あははっ、すみません。プロデューサー。
+line2 <shift> # ふう、笑いすぎで、ほっぺたが痛いですよ」
+display
+com11 0 0
+sound 33
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「でも……嬉しいです。
+line2 <shift> # そういう風に言ってもらえて」
+display
+com11 0 0
+sound 34
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「たとえ、誰もボクの本当の魅力に気づいてくれ
+line2 <shift> # なくても……プロデューサーだけは……」
+display
+com11 0 0
+sound 35
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「へへっ！　なんかくだらないことで悩んで、
+line2 <shift> # ボクってバカみたいですね！」
+display
+com11 0 0
+sound 36
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あんまり気にしないでおこうっと！　ボクは
+line2 <shift> # ボクだし！　ですよね、プロデューサー？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （真は完全に立ち直ってくれたようだ。
+line2 <shift> # やっぱり真には、笑顔が一番似合うな……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （女の子らしい可愛い笑顔……これからも
+line2 <shift> # しっかり、見守っていってやろう……）
+com4b 0 0
+com09 0 59
+display
+location 49
+com11 0 0
+sound 37
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「わあ！　ま、負けた……。
+line2 <shift> # ボクのカン、鈍いんですね……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うわあ！　別にじゃんけんに負けたからって、
+line2 <shift> # 真に女のカンが備わってないとかじゃないぞ！」
+display
+com11 0 0
+sound 38
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「いや、備わってないんですよ……。
+line2 <shift> # ボクは、女の子らしくないんだ……」
+display
+com11 0 0
+sound 39
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「だから、周りに男の子っぽく見られるのも、
+line2 <shift> # 当然ですよね……はぁ」
+display
+com11 0 0
+sound 40
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「こうなったらいっそ、男の中の男を目指す
+line2 <shift> # べきなのかな……。あは、あはははは……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （真は、すっかり落ち込んでしまった。
+line2 <shift> # これは立ち直らせるの、相当、大変だぞ……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （たかがじゃんけんで、真の女の子らしさを
+line2 <shift> # 計ることなんて、できないんだけどな……）
+com4b 0 2
+com09 0 59
+display
+location 59
+unk02

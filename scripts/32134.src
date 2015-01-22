@@ -1,0 +1,553 @@
+com2c 0 24
+com2d 0 61
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （２時間ドラマに出演が決まった雪歩。
+line2 <shift> # 早速、台本片手に、練習を始めている）
+display
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「『だ、だから私……、
+line2 <shift> # 勇気を出して、言いますね……』」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「『わ、私、あなたのことが……、
+line2 <shift> # 大好きです……』」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「へぇー、なかなかだな」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「え……。きゃあっ！　ぷ、プロデューサー、
+line2 <shift> # いつから、そこに……？」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あうぅ……。まだ全然ダメダメで、
+line2 <shift> # は、恥ずかしいですぅ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなことないと思うけど。
+line2 <shift> # セリフ、思ったより、うまく言えてたぞ？」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「いえ、そんなに気を使わなくてもいいんですよ。
+line2 <shift> # ダメなのは、自分でも、よくわかってますから」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「どこがダメか、はっきり言ってくれた方が、
+line2 <shift> # 参考になりますし……、お願いします！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、ほんとに悪くなかったけどな。
+line2 <shift> # ま、あえて言うならば……」
+com03 0 3
+choice1 <shift> # 切なさが足りない
+line2
+com09 0 10
+com08
+choice2 <shift> # 色気が足りない
+line2
+com09 0 11
+com08
+choice3 <shift> # ボキャブラリーが足りない
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「切なさが足りないかな。今、練習してたのは、
+line2 <shift> # 勇気を出して告白するシーンだろ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「雪歩が演じる役柄の、切ない心情が出れば、
+line2 <shift> # もっと良くなると思うぞ」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ、そうですね。
+line2 <shift> # 私、まだセリフを言うだけで、精一杯で……」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「役柄の気持ちとかまで意識してる余裕、
+line2 <shift> # 全然ありませんでした」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「色気が足りないかな」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ええっ！　あうう。私にはそれ、ちょっと
+line2 <shift> # ムリかもですぅ……。すみません、ひんそーで」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「せくしーとか、そういうのは縁遠くて。
+line2 <shift> # すみません、すみません……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、いや、そういう、見た目のこと
+line2 <shift> # じゃなくて、もっとなんていうか……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「恋する乙女がかもしだす、そこはかとない
+line2 <shift> # 色気みたいなのが……、って、意味わかるか？」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ええと……、よくわからないですぅ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、口では説明しにくいんだよなあ。
+line2 <shift> # ……すまない。今のは忘れてくれ」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ボキャブラリーが足りないかな。告白が、
+line2 <shift> # 『好きです』だけなんて、ありきたりすぎだろ」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「え？　で、でも、台本に、
+line2 <shift> # そう書いてあるから……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そこはアドリブだよ！
+line2 <shift> # 大丈夫、いいセリフなら採用されるから」
+display
+com11 0 0
+sound 10012
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そ、そうですか？　じゃ、じゃあ……」
+display
+com11 0 0
+sound 10013
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「……ううっ。全然思い浮かびません。
+line2 <shift> # 告白なんて、したことないから……」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ、あの、台本どおりじゃダメでしょうか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、ダメってわけじゃないけど……」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ところで、このドラマでは、
+line2 <shift> # 雪歩は、どんな役なんだ？」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい。サブヒロインなんですけど、
+line2 <shift> # とっても重要な役だって、監督は言ってました」
+display
+com11 0 0
+sound 10016
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「今回の役は、監督のイメージとしては、
+line2 <shift> # 『タンポポのような女性』らしいです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「タンポポのような……、か。
+line2 <shift> # いいじゃないか。雪歩にピッタリだよ！」
+display
+com11 0 0
+sound 10017
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「で、でも、どんな演技をすればいいのか、
+line2 <shift> # 私には、わからなくて……」
+display
+com11 0 0
+sound 10018
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「プロデューサー、どうしたらいいですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、そうだな、
+line2 <shift> # 『タンポポのような女性』ということは……」
+com03 0 3
+choice1 <shift> # 可愛らしく
+com09 0 30
+com08
+choice2 <shift> # 地味に
+com09 0 31
+com08
+choice3 <shift> # 力強く
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「可愛らしく演じればいいよ。控えめだけど、
+line2 <shift> # 人を優しい気持ちにさせる感じかな」
+display
+com11 0 0
+sound 10019
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ……。確かに、タンポポって可愛らしいし、
+line2 <shift> # 見ていて心が温かくなりますよね」
+display
+com11 0 0
+sound 10020
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そんなすてきな役をもらえて、
+line2 <shift> # 光栄です……。ふ、ふふっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「監督の期待に応えられるように、
+line2 <shift> # 頑張らないとな！」
+display
+com11 0 0
+sound 10021
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そ、そうですね……」
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「地味に演じればいいよ。花束の主役の
+line2 <shift> # バラやヒマワリじゃなく、タンポポだからな」
+display
+com11 0 0
+sound 10022
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そうですね、私も、あんまり派手とは言えない、
+line2 <shift> # 性格と見た目だし……」
+display
+com11 0 0
+sound 10023
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「監督も、そう考えて、この役を私にしたのかも。
+line2 <shift> # ……わかりました。できるだけ地味に……」
+display
+com11 0 0
+sound 10024
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「地味道まっしぐらで、居るのか居ないのか、
+line2 <shift> # わからない感じを目指しますっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そこまで力いれて、
+line2 <shift> # 地味にする必要は、ないけどな」
+display
+com11 0 0
+sound 10025
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そうですか？　あうう……。
+line2 <shift> # そう言われると、また迷ってきちゃいます……」
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「力強く演じればいいよ。何度踏まれても
+line2 <shift> # 復活する、雑草のような女性ってことだ！」
+display
+com11 0 0
+sound 10026
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ざ、雑草？　そんなに強くなくちゃ
+line2 <shift> # いけないんですか……。あうう……」
+display
+com11 0 0
+sound 10027
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「すぐに穴掘って埋まっちゃう私とは、
+line2 <shift> # 全然違う性格なんですね……」
+display
+com11 0 0
+sound 10028
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ただでさえ、演技は少し苦手なのに、
+line2 <shift> # 自分と正反対の役なんて、ムリですぅ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だ、大丈夫だ、雪歩！
+line2 <shift> # 頑張れば、なんとかなるよ！」
+display
+com11 0 0
+sound 10029
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ひっく、ぐすっ。
+line2 <shift> # そうは思えないですけど……」
+com09 0 49
+display
+location 49
+com11 0 0
+sound 10030
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「うう……。やっぱり演技って、難しいですね。
+line2 <shift> # もっとたくさん、練習しないと……」
+display
+com11 0 0
+sound 10031
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あの、さっきの演技で、どこか気になるところ、
+line2 <shift> # 他に、ありませんでしたか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん。他には……、
+line2 <shift> # セリフが小声すぎるのが、気になるかな」
+display
+com11 0 0
+sound 10032
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あっ、それはいいんです。あんまり大声出すと、
+line2 <shift> # 目立っちゃうから、わざと小声にしてるんです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……それは、全然よくないだろ。
+line2 <shift> # せっかく、役をもらったんだ。目立たなきゃ」
+display
+com11 0 0
+sound 10033
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「でも、今回共演するのは、
+line2 <shift> # 一流の俳優さん達ばっかりなんですよ」
+display
+com11 0 0
+sound 10034
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「みなさん、私よりずっとお芝居が上手だから、
+line2 <shift> # 下手な私が目立っちゃうと、まずいですよね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、だから、そんなに気にするほど、
+line2 <shift> # ダメじゃないって」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それに、小声の方がかえって、下手にきこえ
+line2 <shift> # ちゃうもんだよ。堂々と、大声を出していこう」
+display
+com11 0 0
+sound 10035
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ど、堂々とですか……。
+line2 <shift> # わかりました。や、やってみますっ」
+display
+com11 0 0
+sound 10036
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「『わ、私』……」
+display
+com11 0 0
+sound 10037
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ううっ、ダメです。声が出てきませんっ」
+com03 0 3
+choice1 <shift> # 自分が告白するつもりで
+line2
+com09 0 50
+com08
+choice2 <shift> # ステージで歌うつもりで
+line2
+com09 0 51
+com08
+choice3 <shift> # とにかく大声を出しまくれ
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「自分が実際に告白するつもりで、言ってみたら
+line2 <shift> # どうだ？　それなら思い切って、声出せるだろ」
+display
+com11 0 0
+sound 10038
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ええっ！？　ムリですよ。自分で……、しかも
+line2 <shift> # 大声で告白するなんて、私には絶対できません」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか……。じゃあ、雪歩が誰かを好きになっ
+line2 <shift> # ても、その想いは、一生伝わらないままだな」
+display
+com11 0 0
+sound 10039
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「うう……。そ、それはイヤです。せめて『憧れ
+line2 <shift> # てました』って、気持ちぐらいは伝えたいかも」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おっ。そんな風に言うってことは、
+line2 <shift> # 雪歩には、憧れの人がいるのかっ！？」
+display
+com11 0 0
+sound 10040
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「い、いえ！　べべ、別に、そういうことでは！
+line2 <shift> # 私なんかが、申し訳ありません！！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……なぜ謝るんだ？　まあ、いい。憧れの人に、
+line2 <shift> # 想いを伝えるつもりで、セリフを言ってごらん」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「大声じゃなくてもいいから、ちゃんと相手に
+line2 <shift> # 伝わるように、ハッキリと、心をこめて、な」
+display
+com11 0 0
+sound 10041
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「は、はい。わかりました。
+line2 <shift> # はぁ……、お、落ち着いて、落ち着いて……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、俺がいるとジャマなようなら、
+line2 <shift> # 外に出ておくけど……」
+display
+com11 0 0
+sound 10042
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「いえ、いて下さい！　プロデューサーがいてく
+line2 <shift> # れた方が……、いいんです。では、いきます」
+display
+com11 0 0
+sound 10043
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「『だから私、勇気を出して、言いますね。
+line2 <shift> # 私、あなたのことが……、大好きですっ！』」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……すごいじゃないか、雪歩！
+line2 <shift> # 迫真の演技だった。ちょっと、感動したぞ！」
+display
+com11 0 0
+sound 10044
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ありがとうございます！　プロデューサーのお
+line2 <shift> # かげで、何とか演じられそうかも。ふふっ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （どうやら練習の結果、自信もついたようだ。
+line2 <shift> # 俺のアドバイスも役に立ったのだろうか？）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後、放映されたドラマは、雪歩の演技が
+line2 <shift> # 評判で、大人気となった。やったな、雪歩！）
+com09 0 69
+display
+location 51
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ステージで歌うつもりでやってみろ。
+line2 <shift> # それなら声も、ちゃんと出るだろ？」
+display
+com11 0 0
+sound 10045
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「え……？　でも、歌うのとセリフを言うのは、
+line2 <shift> # かなり違いますよ？　やってはみますけど……」
+display
+com11 0 0
+sound 10046
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「……『私〜、あなたのーことが〜、
+line2 <shift> # ルルララ〜、大好〜きでーすぅー♪』」
+display
+com11 0 0
+sound 10047
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ど、どうでしょうか？　……あ、今みたいな
+line2 <shift> # 感じなら、ちゃんと声、出せるかもしれません」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「い、いや、確かに声は、ちゃんと出てた
+line2 <shift> # けど……。妙にミュージカル風だったな……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後も、雪歩は歌いながらセリフを言うクセ
+line2 <shift> # が抜けず、ドラマ本番では、少し浮いていた）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （でも、その分、目だってたから……、
+line2 <shift> # まあ、良しとするかな）
+com09 0 69
+display
+location 52
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「とにかく大声を出しまくろう。
+line2 <shift> # 慣れれば、自然に声も出てくるようになるさ」
+display
+com11 0 0
+sound 10048
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「え？　そ、そういうものですか？
+line2 <shift> # ……わかりました。大声、大声。ええと……」
+display
+com11 0 0
+sound 10049
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「やぁーっ！　たぁーっ！　きえぇーっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「その調子だ！　どんどん行こう！」
+display
+com11 0 0
+sound 10050
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はっ、はい！　わあぁーっ！！」
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 10051
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「……はぁ、はぁ。こほっ。ぷ、プロデューサー、
+line2 <shift> # なんだか声が出なくなってきて……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、あれ？　しまった！　声を張り上げすぎて、
+line2 <shift> # ノドが、かれちゃったか？」
+display
+com11 0 0
+sound 10052
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ううっ、ぐすっ。すみませ……、けほっ！
+line2 <shift> # ううう……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （結局、ノドが治らないまま、ドラマ本番を迎え
+line2 <shift> # てしまい、雪歩は、かれた小さな声で演技した）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺が変なアドバイスをしたせいで、
+line2 <shift> # 最初よりも、状況を悪化させてしまった……）
+com09 0 69
+display
+location 69
+unk02

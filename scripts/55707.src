@@ -1,0 +1,517 @@
+com2c 0 69
+com2c 0 113
+com2d 0 121
+com32 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今朝はなんだか気分がいいぞ。少し寄り道して、
+line2 <shift> # 今後のプロデュースについて考えようかな？）
+com03 0 2
+choice1 <shift> # どこかに寄り道する
+line2
+com09 0 10
+com08
+choice2 <shift> # まっすぐ事務所に行く
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よし、ちょっと近くを歩くとするか。
+line2 <shift> # 朝のウォーキングって、身体にも良さそうだし）
+display
+com22 0 30
+com21 0 30
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……この辺は緑が多くて、いいな。プロデュー
+line2 <shift> # スのアイディアが、もりもり浮かんできそうだ」
+display
+com11 0 0
+sound 10000
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「……この場所は、四条の家に、
+line2 <shift> # 少し似ていますね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （おや？　……今の声は？）
+display
+com11 0 0
+sound 10001
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「古都以外にも、このような、心落ち着く場所が、
+line2 <shift> # あったのですね……。ふふっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （この子は……、誰だ？　キレイな声、優しげな
+line2 <shift> # 表情……。スターの原石かもしれない！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、あの、君……」
+display
+com11 0 0
+sound 10002
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「むっ、なにやつっ！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええっ、なにやつって……、俺のことか！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、あの、すまない、驚かせてしまって。
+line2 <shift> # 俺は別に怪しい者じゃない」
+display
+com11 0 0
+sound 10003
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「……怪しい人間であるほど、
+line2 <shift> # そう名乗るものです！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、俺は芸能プロダクションで働いている、
+line2 <shift> # ごく普通のプロデューサーだよ」
+display
+com11 0 0
+sound 10004
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「芸能プロダクションの……、
+line2 <shift> # プロデュー……、サー？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そう。プロデューサー」
+display
+com11 0 0
+sound 10005
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「そうですか。こちらこそ、急に大声を出して、
+line2 <shift> # 申し訳ありません」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ほっ……。警戒は、解いてくれたみたいだ）
+display
+com11 0 0
+sound 10006
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「私の名は、四条貴音、と申します」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「四条、貴音……。
+line2 <shift> # 君、失礼だけど、まだ十代だよね？」
+display
+com11 0 0
+sound 10007
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「そ、それは、いかなる意味でしょうか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや……、その、話し方が少し……」
+display
+com11 0 0
+sound 10008
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「……この話し方は、じいやと話すことが、
+line2 <shift> # 多かったゆえです」
+display
+com11 0 0
+sound 10009
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「やはり、その……。
+line2 <shift> # どこかおかしいのでしょうか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、いや、そんなことはないさ。
+line2 <shift> # 個性的だと思うよ」
+display
+com11 0 0
+sound 10010
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「……あの、あなたは、
+line2 <shift> # 何か私に、用件でもおありなのですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「用件？　それは、えーと……」
+com03 0 3
+choice1 <shift> # アイドルにならないか？
+line2
+com09 0 20
+com08
+choice2 <shift> # じいや、って誰？
+line2
+com09 0 21
+com08
+choice3 <shift> # 話し方直した方がいいよ
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （いや、そんな必要はないな。寄り道すると疲れ
+line2 <shift> # るし。いつも通り、普通に事務所へ向かおう）
+com09 0 99
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「君、アイドルにならないか？　実は、俺の働い
+line2 <shift> # てる事務所、７６５プロっていうんだけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「アイドル候補生を、常に募集中なんだ。プロ
+line2 <shift> # デューサー候補も、常に募集中なんだけどね」
+display
+com11 0 0
+sound 10011
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「７６５プロ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ、もしかして知ってるとか？」
+display
+com11 0 0
+sound 10012
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「私の所属する９６１プロでは、７６５プロとい
+line2 <shift> # う名は、忌むべきものとして教えられています」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え？　君、９６１プロの所属アイドルなのか？
+line2 <shift> # ７６５プロが、忌むべき名って……？」
+display
+com11 0 0
+sound 10013
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「簡単に言えば、汚れた事務所ということです。
+line2 <shift> # 関わってはならないと教えられています」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じいや、って誰？」
+display
+com11 0 0
+sound 10014
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「じいやは、私の教育係ですが……。あなたは、
+line2 <shift> # そんなことを知って、どうするのですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、いや、そう言われちゃうと、
+line2 <shift> # 俺も、困るんだけどさ」
+display
+com11 0 0
+sound 10015
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「黒井殿が、世の中には、おかしな人も多いと、
+line2 <shift> # おっしゃっていましたが……。その通りですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「黒井殿……？　もしかして、
+line2 <shift> # ９６１プロの社長の黒井殿？」
+display
+com11 0 0
+sound 10016
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「……左様ですが。お知り合いなのですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「知り合いというか、なんというか……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「待てよ？　ということは、黒井社長を知って
+line2 <shift> # いる君は、もしかして、９６１プロの……？」
+display
+com11 0 0
+sound 10017
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「はい。９６１プロでアイドルをしております」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「実は俺の勤めている事務所、７６５プロってい
+line2 <shift> # うんだけど、黒井社長にきいたことないかな？」
+display
+com11 0 0
+sound 10018
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「なんと！　あなたは、悪のそうくつ、
+line2 <shift> # ７６５プロにお勤めなのですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、悪のそうくつ！？」
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「話し方を、もっと今風にした方が、いいんじゃ
+line2 <shift> # ないかな？　毎回、ビックリされちゃうぞ」
+display
+com11 0 0
+sound 10019
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「確かに……。
+line2 <shift> # 時々、驚かれることは、ありますが」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、そのキャラクターを活かして、アイドル
+line2 <shift> # になるなら、その不思議な感じが逆に良いかも」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「７６５プロから、不思議系アイドルとして、
+line2 <shift> # デビューしてみる気とか、ないかな？」
+display
+com11 0 0
+sound 10020
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「……７６５プロ？　あなた様は、
+line2 <shift> # ７６５プロに仕えておいでなのですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うん？　あ、ああ」
+display
+com11 0 0
+sound 10021
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「あなた、悪なのですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……え？」
+display
+com11 0 0
+sound 10022
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「９６１プロでは、７６５プロは悪であると、
+line2 <shift> # そう教えられています」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええっ！　君、９６１プロのアイドルなのか！
+line2 <shift> # そ、それにしても、悪って……」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……それは、やっぱり、黒井社長が、
+line2 <shift> # そう言っているのか？」
+display
+com11 0 0
+sound 10023
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「はい。そのように、伺っております」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わかっちゃいたけど、本当に裏でも、
+line2 <shift> # 相当ひどいことを言っているんだなあ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うう、俺は、
+line2 <shift> # こんなにマジメに生きているのに」
+display
+com11 0 0
+sound 10024
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「……そうですね。あなた様は、黒井殿から
+line2 <shift> # きいているほど、悪人であるとも思えません」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おお、そう言ってもらえると、嬉しいよ！
+line2 <shift> # できれば、人類全員に誤解を解いてもらいたい」
+display
+com11 0 0
+sound 10025
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「……いつか、その時がくれば良いですね。
+line2 <shift> # あの、それでは、私はこれで……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、ちょ、ちょっと待ってくれ！
+line2 <shift> # もう１つだけ、質問させてくれないか？」
+display
+com11 0 0
+sound 10026
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「……手短に、お願いできますか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「君は……」
+com03 0 3
+choice1 <shift> # 星井美希を知ってる？
+line2
+com09 0 30
+com08
+choice2 <shift> # どこの出身？
+line2
+com09 0 31
+com08
+choice3 <shift> # 彼氏、いるの？
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「星井美希を知ってる？
+line2 <shift> # 君と同じ、９６１プロのアイドルなんだけど」
+display
+com11 0 0
+sound 10027
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「存じております。とても美しい少女ですね。
+line2 <shift> # ですが、なぜかこの頃、ふさぎがちです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ふさぎがち？　どうしてか、知ってるかい？」
+display
+com11 0 0
+sound 10028
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「さあ……。私も忙しく、あまり、
+line2 <shift> # 彼女と話は、しておりませんので……」
+display
+com11 0 0
+sound 10029
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「ただ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……ただ？」
+display
+com11 0 0
+sound 10030
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「彼女からは、何か哀しみを感じます。
+line2 <shift> # 心の中では泣いているような……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……」
+display
+com11 0 0
+sound 10031
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「本当のところは、誰にもわかりませんが。
+line2 <shift> # 私は、そのように感じるのです」
+com09 0 39
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どこの出身？　外国の人だよね？
+line2 <shift> # 髪の色とか、変わった色だし……」
+display
+com11 0 0
+sound 10032
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「……あの。もしや、これは、
+line2 <shift> # ナンパというやつでしょうか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええっ！？　ち、違うよ！　誤解させたのなら、
+line2 <shift> # ごめん！　全然、そんなんじゃないから！」
+display
+com11 0 0
+sound 10033
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「ふふっ。やはり……、それほど、
+line2 <shift> # 悪しき人とも思えませんね」
+com09 0 39
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「彼氏、いるの？」
+display
+com11 0 0
+sound 10034
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「彼氏……？
+line2 <shift> # それは、もしや、想い人のことでしょうか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うん。まあ、そうかな」
+display
+com11 0 0
+sound 10035
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「無礼者！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うわっ！？」
+display
+com11 0 0
+sound 10036
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「いきなり、そのようなことを問うとは、
+line2 <shift> # なんたる無礼！　身のほどをわきまえよ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わわっ、なんか、すみません！
+line2 <shift> # ……でも、そんなに失礼なことかな？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「これぐらい、誰だって普通に、
+line2 <shift> # 質問することだと思うけど……」
+display
+com11 0 0
+sound 10037
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「……そ、そうなのですか？」
+display
+com11 0 0
+sound 10038
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「はあ……。まだまだ、世俗のことは、良く
+line2 <shift> # わかりません……。もっと、勉強しないと」
+com09 0 39
+display
+location 39
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うーん。とことん、不思議な子だなあ……）
+com09 0 100
+display
+location 100
+location 99
+unk02

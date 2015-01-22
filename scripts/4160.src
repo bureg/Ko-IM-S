@@ -1,0 +1,265 @@
+com2c 0 39
+com2d 0 11
+com11 0 1
+sound 500
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「えっ！　新しいお菓子のＣＭの、
+line2 <shift> # イメージキャラにしてくれるんですか？」
+display
+com11 0 1
+sound 501
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「わっ、なんか嬉しいなぁ♪　新発売の
+line2 <shift> # おいしいお菓子、人気が出るといいなっ♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。でね、キャラクターに似合った、
+line2 <shift> # ＣＭの演出のネタを考えて欲しいんだって」
+display
+com11 0 1
+sound 502
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「演出……？　うーん、キャラクターの、
+line2 <shift> # ですか？　それって、つまりぃ……」
+com03 0 2
+choice1 <shift> # 明るく可愛く元気よく
+line2
+com09 0 10
+com08
+choice2 <shift> # 落ち着いた大人の魅力で
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そりゃあやっぱり、明るく可愛く元気よく！
+line2 <shift> # ……って感じじゃないかな」
+display
+com11 0 1
+sound 503
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そうですよね、元気元気が一番ですよね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。元気で明るく！」
+display
+com11 0 1
+sound 504
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「はい、明るく！　そして可愛く♪
+line2 <shift> # うふふふふっ♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ノリノリだな。いやいや、そんなにカワイコぶ
+line2 <shift> # らなくても、元々でじゅうぶんだぞ、春香」
+display
+com11 0 1
+sound 505
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あはははは……。
+line2 <shift> # プロデューサーさんったら♪」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そりゃあやっぱり、落ち着いた大人の魅力、
+line2 <shift> # ってやつだろうな」
+display
+com11 0 1
+sound 506
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あ、あれ？　そうですか？　そうかな？
+line2 <shift> # でも私とか、子どもっぽいから……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだな。大人の魅力で演出は、
+line2 <shift> # かなりムリがあるか」
+display
+com11 0 1
+sound 507
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ひ、ひどいです！　プロデューサーさん！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なんだ、春香がそう言ったんじゃないか」
+display
+com11 0 1
+sound 508
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そ、そうですけどぉ……。
+line2 <shift> # 傷つくなぁ、そういうのっ。ぶぅぶぅ」
+display
+com11 0 1
+sound 509
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「……へへっ、なーんて言ってみたり。
+line2 <shift> # 嘘ウソ、冗談ですよ♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （じゅうぶん子どもっぽいかもな、春香……）
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （それから、スタッフとの、
+line2 <shift> # アイディア出しが続き……）
+display
+com11 0 1
+sound 510
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「で、商品の名前のあとに、新発売！
+line2 <shift> # って言って……」
+display
+com11 0 1
+sound 511
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あ、そうだ！　なにか掛け声みたいなの、
+line2 <shift> # 最後に、つけません？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「掛け声？」
+display
+com11 0 1
+sound 512
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「はい！　元気のいいのを、
+line2 <shift> # ひとつ、つけましょうよ！」
+com03 0 3
+choice1 <shift> # わっしょい！
+line2
+com09 0 30
+com08
+choice2 <shift> # どんとこい！
+line2
+com09 0 31
+com08
+choice3 <shift> # あちょー！
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、それなら『新発売わっしょい！』
+line2 <shift> # でどうだ？」
+display
+com11 0 1
+sound 513
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「『わっしょい！』ですか？　なるほどぉ。
+line2 <shift> # なんか、にぎやかそうでいいですね！」
+display
+com11 0 1
+sound 514
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「『わっしょい！』のひとことがつくだけでも、
+line2 <shift> # 新しいお菓子の楽しい気分がアピールできそう」
+display
+com11 0 1
+sound 515
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「うん、決めた！　『新発売わっしょい！』で、
+line2 <shift> # やってみますね、私！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、完成したＣＭがＴＶオンエアされたが、
+line2 <shift> # お祭り気分で目をひく演出に仕上がっていた）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ＣＭもウケたし、お菓子の評判も上々みたいだ。
+line2 <shift> # よかったよかった）
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだな……、『新発売どんとこい！』
+line2 <shift> # ってのはどうだ？」
+display
+com11 0 1
+sound 516
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「『どんとこい！』ですか？
+line2 <shift> # なんか……、貫禄たっぷりって感じですね」
+display
+com11 0 1
+sound 517
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「『いつなんどき、誰の挑戦でも受けるぅ！』
+line2 <shift> # ……みたいな」
+display
+com11 0 1
+sound 518
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「うーん、『どんとこい』と『新発売』って、
+line2 <shift> # 順番、逆にしたほうがいいかな……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うん、まかせるよ。インパクトはあるし、
+line2 <shift> # 挑戦的だし、いいフレーズだと思う」
+display
+com11 0 1
+sound 519
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「はい、それじゃ……、『どんとこい新発売！』
+line2 <shift> # で、やってみますね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、完成したＣＭがＴＶオンエアされたが、
+line2 <shift> # 春香は何故かヒゲの男装で出ていた）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ＣＭは、ウケたし売り上げもよかったけど、
+line2 <shift> # ちょっと変なイメージが、ついてしまったかも）
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだな、『新発売！　あちょー！』って、
+line2 <shift> # 叫んでみようか？」
+display
+com11 0 1
+sound 520
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「『あちょー！』ですか？
+line2 <shift> # なんというか……、強そうな感じですね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「元気があってパワフルで、いいと思うけど」
+display
+com11 0 1
+sound 521
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「新発売！　あちょーっ！」
+display
+com11 0 1
+sound 522
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「うーん、ちょっとカンフーっぽすぎる
+line2 <shift> # かなぁ……。迫力あるお菓子って感じ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん。でも、きっとウケるよ」
+display
+com11 0 1
+sound 523
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そうですね……。それじゃ、『あちょー！』
+line2 <shift> # で、やってみますね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、完成したＣＭがＴＶオンエアされたが、
+line2 <shift> # 春香は何故か、ヌンチャクを振り回していた）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ＣＭでウケはとれたけど、お菓子の売れ行きは、
+line2 <shift> # イマイチみたいだ。悪ノリだったかな……）
+com09 0 49
+display
+location 49
+unk02

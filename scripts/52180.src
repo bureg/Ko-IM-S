@@ -1,0 +1,352 @@
+com2c 0 24
+com2d 0 91
+com2e 0 101
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さて……。これから、話し合う内容は、
+line2 <shift> # 二人とも、わかってるな？」
+display
+com11 0 5
+sound 1100
+com4c 0 1
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「真美真美〜！　ゲーセンに、新しい
+line2 <shift> # プリントシールの機械、入ったって〜っ！」
+display
+com11 0 5
+sound 1101
+com4c 0 2
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「え〜、ほんと〜！？
+line2 <shift> # んじゃ、早速、撮りにいこー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……全然、人気が上がらないことについての、
+line2 <shift> # 対策を……、だな」
+display
+com11 0 5
+sound 1102
+com4c 0 2
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「この前は『変顔』で撮ったから、今日は、
+line2 <shift> # ちょっと、えっちい顔、してみちゃう〜？」
+com03 0 3
+choice1 <shift> # きけー！
+com09 0 10
+com08
+choice2 <shift> # ……きいてる？
+line2
+com09 0 11
+com08
+choice3 <shift> # きいてくれます？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「きけー！」
+display
+com11 0 5
+sound 1103
+com4c 0 3
+name 0 0 <names:4>  # Ami and Mami
+line1 <shift> # 「うあうあ〜、な、なに〜？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうやれば、人気が上がるのが、そろそろ
+line2 <shift> # 真剣に考えよう。このままじゃ、マズいよ……」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……きいてる？」
+display
+com11 0 5
+sound 1104
+com4c 0 2
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「え？　も、もっちろんだよ！
+line2 <shift> # 兄ちゃんの言う通りだと、真美も思うっ！」
+display
+com11 0 5
+sound 1105
+com4c 0 1
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「そ、そうだよねっ。んで〜〜〜、なんの話？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……きいてなかったわけだな。ほら、そろそろ
+line2 <shift> # 真剣に、どうすれば人気が上がるか、考えよう」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「きいてくれます？」
+display
+com11 0 5
+sound 1106
+com4c 0 2
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「え、なになに〜？　兄ちゃん、こんな顔
+line2 <shift> # した方がいいとか、アイディアあるの〜？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ち、ちがうよ。そろそろ、どうすれば人気が
+line2 <shift> # 上がるか、考えよう。このままじゃ、マズいよ」
+display
+com11 0 5
+sound 1107
+com4c 0 1
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「な〜んだ、プリントシールの話じゃないのか〜。
+line2 <shift> # ちょっと、ガッカリ〜」
+com09 0 29
+display
+location 29
+com11 0 5
+sound 1108
+com4c 0 2
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ん〜、たしかに真美達、サッパリだけど……。
+line2 <shift> # でも、毎日、楽しいよ？」
+display
+com11 0 5
+sound 1109
+com4c 0 1
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「しばらくは、このまんまでいいよ！　パパも
+line2 <shift> # 『楽しみさえすれば、勝ち』って言ってるしっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それは、それで正しいけど……。
+line2 <shift> # 亜美達の家って、そういう方針なのか？」
+display
+com11 0 5
+sound 1110
+com4c 0 1
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「うんっ！　好きなことを、思いっきり、
+line2 <shift> # やりなさいって。ママも、おんなじ〜！」
+com03 0 3
+choice1 <shift> # やさしい両親だな
+line2
+com09 0 30
+com08
+choice2 <shift> # 現代的な家庭だな
+line2
+com09 0 31
+com08
+choice3 <shift> # 投げやりな親だなあ
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やさしい両親だな」
+display
+com11 0 5
+sound 1111
+com4c 0 1
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「でしょでしょ〜？
+line2 <shift> # 亜美、パパもママも、だーい好きっ♪」
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「現代的な家庭だな」
+display
+com11 0 5
+sound 1112
+com4c 0 1
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「そーなの？　どこら辺が？
+line2 <shift> # 亜美、昔の人のこととか、よく知らないし〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「つまり、あまり、小うるさく言わないところ
+line2 <shift> # だよ。いいかどうかは、別としてな」
+display
+com11 0 5
+sound 1113
+com4c 0 2
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「え〜、絶対にこっちの方がいいよ〜。いっつも
+line2 <shift> # ガミガミ怒られたら、つかれちゃうもん……」
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「投げやりな親だなあ」
+display
+com11 0 5
+sound 1114
+com4c 0 1
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「そんなこと、ないも〜んっ！　パパもママも、
+line2 <shift> # 亜美達のこと、わかってくれてるんだから〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お、怒るなよ。けなしたわけじゃなくて、ただ、
+line2 <shift> # 自由にさせてくれていいなって、思っただけで」
+display
+com11 0 5
+sound 1115
+com4c 0 2
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「悪口、言ったわけじゃないんだね？
+line2 <shift> # そんなら、いいけど〜」
+com09 0 49
+display
+location 49
+com11 0 5
+sound 1116
+com4c 0 2
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ねえ、兄ちゃん！　お仕事なくて、ヒマなら、
+line2 <shift> # これから、真美達の家で、遊ぼ〜よっ」
+display
+com11 0 5
+sound 1117
+com4c 0 1
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ママは、お仕事してないから、家にくれば、
+line2 <shift> # 会えるよ。頼んで、おやつ、作ってもらおっ」
+com03 0 3
+choice1 <shift> # 顔、合わせづらいなあ
+line2
+com09 0 50
+com08
+choice2 <shift> # 遊んでる余裕は、ないだろ？
+line2
+com09 0 51
+com08
+choice3 <shift> # プリントシールは、いいのか？
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「顔、合わせづらいなあ。二人をトップ
+line2 <shift> # アイドルにしないと、堂々とは会えないよ」
+display
+com11 0 5
+sound 1118
+com4c 0 1
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「うあ〜。兄ちゃん、亜美達をトップにって、
+line2 <shift> # ホンキで考えてるんだね……」
+display
+com11 0 5
+sound 1119
+com4c 0 2
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「亜美……、遊ぶのは、今度にしよっ！
+line2 <shift> # 兄ちゃんのためにも、歌のレッスンしなきゃ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （こっちの気持ち、わかってくれたみたいだな。
+line2 <shift> # がんばって、一緒に、どん底から抜け出そう）
+com09 0 69
+display
+location 51
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「遊んでる余裕は、ないだろ？　やらなきゃ
+line2 <shift> # いけないことは、たくさんあるんだから」
+display
+com11 0 5
+sound 1120
+com4c 0 1
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「山のようなレッスンもいいけど〜、
+line2 <shift> # 山のようなおやつも、幸せだよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなに食べたら、踊れなくなるよっ。
+line2 <shift> # ほらっ、練習に行こう」
+display
+com11 0 5
+sound 1121
+com4c 0 2
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「は〜い……。でも、おなか、すいちゃったな。
+line2 <shift> # ママの手作りケーキ、おいしいのに……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ふぅ、なんとか従わせた。すこし不満そう
+line2 <shift> # だけど、甘やかしすぎるよりは、いいか）
+com09 0 69
+display
+location 52
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「プリントシールは、いいのか？
+line2 <shift> # たしか、さっき、そんな話を……」
+display
+com11 0 5
+sound 1122
+com4c 0 1
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ああああっ、そうだった〜！！
+line2 <shift> # のんびり、おやつ食べてる場合じゃないよ〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え？　いや……、プリントシール撮ってる
+line2 <shift> # 場合でも、ないと思うんだけど……」
+display
+com11 0 5
+sound 1123
+com4c 0 2
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「早く行かないと、行列できちゃう〜。新しいの
+line2 <shift> # には、みんな、むらがってくるんだから〜」
+display
+com11 0 5
+sound 1124
+com4c 0 1
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「真美、急ごっ！　んじゃ、兄ちゃん、
+line2 <shift> # 撮り終わったら、帰ってくるね〜〜〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （かっ飛んでいってしまった……。結局、
+line2 <shift> # ミーティングは、まったくの無意味に終わった）
+com09 0 69
+display
+location 69
+unk02

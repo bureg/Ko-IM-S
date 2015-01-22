@@ -1,0 +1,307 @@
+com2c 0 9
+com2d 0 21
+com32 0 0
+com11 0 5
+sound 400
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「で、どこの馬の骨に、会いにいくの？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……番組のディレクターだけど」
+com03 0 2
+choice1 <shift> # 言葉づかいには、注意な
+line2
+com09 0 10
+com08
+choice2 <shift> # 馬の骨じゃないぞ？
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「言葉づかいには、注意な」
+display
+com11 0 5
+sound 401
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「わかってるわ。
+line2 <shift> # 目の前じゃ、こんなこと言わないもーん」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「馬の骨じゃないぞ？」
+display
+com11 0 5
+sound 402
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「わかってるわよ！
+line2 <shift> # ほんとの馬の骨に会って、どうするのよ！？」
+display
+com11 0 5
+sound 403
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「困ったプロデューサーね、あんた……」
+com09 0 19
+display
+location 19
+com11 0 5
+sound 404
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「はあーあ。私アイドルなのに、なんでいつも、
+line2 <shift> # ヘコヘコしなきゃ、いけないのー……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「伊織は、ヘコヘコしてないだろ？」
+display
+com11 0 5
+sound 405
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「してるのよっ、これでも」
+com03 0 3
+choice1 <shift> # しばらくはガマンな
+line2
+com09 0 20
+com08
+choice2 <shift> # それでか？
+com09 0 21
+com08
+choice3 <shift> # もっとヘコヘコしよう
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「しばらくはガマンな」
+display
+com11 0 5
+sound 406
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「フンっ、そうね。
+line2 <shift> # いまにまとめて、見返してやるんだからっ」
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それでか？」
+display
+com11 0 5
+sound 407
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そうよ！　パパにもママにも先生にも、
+line2 <shift> # こんなヘコヘコしたことないわ」
+display
+com11 0 5
+sound 408
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ふぅ。なんか腰、曲がっちゃいそう……」
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もっとヘコヘコしよう」
+display
+com11 0 5
+sound 409
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「イ・ヤっ！　これ以上、ヘコヘコするぐらい
+line2 <shift> # だったら、嫌われた方がマシだわ」
+display
+com11 0 5
+sound 410
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あんた。いつまで私に、こんな思い、
+line2 <shift> # させる気！？　……がんばりなさいよね」
+com09 0 29
+display
+location 29
+com11 0 5
+sound 411
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「それで？　そのディレクターは、
+line2 <shift> # 私のどこを見るの？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どこって、いろいろだけど……」
+display
+com11 0 5
+sound 412
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「やっぱり、ＴＶ映りかしら？
+line2 <shift> # だとすると、チェックするのはー……」
+com0e 0 101
+com44
+com09 0 30
+com45
+com44
+com09 0 31
+com45
+com44
+com09 0 32
+com45
+com44
+com09 0 33
+com45
+com44
+com09 0 34
+com45
+display
+location 30
+com11 0 5
+sound 413
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ふふーん、やっぱり、そこかしら？
+line2 <shift> # なら、安心だわ！」
+display
+com11 0 5
+sound 414
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「このキュートな顔見れば、いやでもＴＶに、
+line2 <shift> # 出したくなるだろうし！　にひひっ♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （案外、うまくいくかもな。伊織には、なるべく、
+line2 <shift> # しゃべらせずに、顔だけ見させておこう）
+com4b 0 0
+com09 0 39
+display
+location 31
+com11 0 5
+sound 415
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「髪？　そんなのＴＶには関係ないじゃない」
+display
+com11 0 5
+sound 416
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「でも、この透きとおるような髪を、
+line2 <shift> # 見てもらっても、問題ないわね」
+display
+com11 0 5
+sound 417
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……あ、それとも、
+line2 <shift> # 頭のよさを見るってこと？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それも、ポイントかな」
+display
+com11 0 5
+sound 418
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そっちは……、ま、まあ、普通ぐらいかしら」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （すこし、不安そうだな。
+line2 <shift> # ま、ただの顔合わせだし、なんとかなるだろう）
+com4b 0 1
+com09 0 39
+display
+location 32
+com11 0 5
+sound 419
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「うそでしょっ！？
+line2 <shift> # そ、そ、そんなとこで、選ぶの〜？」
+display
+com11 0 5
+sound 420
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ど、どうしよ……。さすがにここは、
+line2 <shift> # 他のアイドルに負けるかも〜」
+display
+com11 0 5
+sound 421
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……って、ほんとにこんなの、大事なわけ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、ああ……」
+display
+com11 0 5
+sound 422
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なら、なんで口元ひきつってるの〜！　いい
+line2 <shift> # 加減なこと言うと、許さないんだからーっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （怒らせてしまった。ディレクターが、
+line2 <shift> # 伊織に、そんなの求めるわけないよな……）
+com4b 0 2
+com09 0 39
+display
+location 33
+com11 0 5
+sound 423
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「え、この子？
+line2 <shift> # 私を見ないで、この子を見るわけ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そういうところも、チェック対象かな」
+display
+com11 0 5
+sound 424
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「まさか、置いてこいって、いうんじゃない
+line2 <shift> # でしょうね？　イヤよ！　そんなの絶対イヤ！」
+display
+com11 0 5
+sound 425
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「どうしてもって言うんなら、私、いっしょに、
+line2 <shift> # 帰っちゃうんだからーっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （不必要に警戒させてしまった。ぬいぐるみが、
+line2 <shift> # ＴＶ出演に影響するわけは……、ないよな）
+com4b 0 2
+com09 0 39
+display
+location 34
+com11 0 5
+sound 426
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ねえ、あんた……。本当に、
+line2 <shift> # そのディレクターのこと、わかってる？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、それは……」
+display
+com11 0 5
+sound 427
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ふぅ、どこをアピールするのかぐらい、
+line2 <shift> # バシッと教えてよねっ」
+display
+com11 0 5
+sound 428
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そんなことだから……、私達、
+line2 <shift> # なかなかビッグになれないのよっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ごめん」
+display
+com11 0 5
+sound 429
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「フンっ。あやまらないでいいから、
+line2 <shift> # しっかりしてよね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （あきれられてしまった。
+line2 <shift> # 的確な指摘が、できなかったな……）
+com09 0 39
+display
+com4b 0 2
+location 39
+unk02

@@ -1,0 +1,239 @@
+com2c 0 24
+com2d 0 31
+com32 0 0
+com11 0 4
+sound 1100
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「プロデューサー。私、アルバイト・アイドル
+line2 <shift> # なんでしょうか？」
+display
+com11 0 4
+sound 1101
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「昨日、お母さんに言われたんです。『ごめんね、
+line2 <shift> # アイドルのバイトなんかさせちゃって』って」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やよい自身は、そんなつもり、ないんだろ？」
+display
+com11 0 4
+sound 1102
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はい……。それでもお母さんは、ごめん
+line2 <shift> # ごめんって」
+com03 0 3
+choice1 <shift> # いいお母さんだな
+line2
+com09 0 10
+com08
+choice2 <shift> # 謝るの、好きなのかな
+line2
+com09 0 11
+com08
+choice3 <shift> # 子供を理解してないな
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いいお母さんだな」
+display
+com11 0 4
+sound 1103
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ、えへへ……。でもー、たまに思います。
+line2 <shift> # 私には、そんなに気使わないでほしいなって」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「謝るの、好きなのかな」
+display
+com11 0 4
+sound 1104
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「私も、たまにそう思います」
+display
+com11 0 4
+sound 1105
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「お父さんにも、いっつも『すみません、すみま
+line2 <shift> # せん』って。ほんとに弱気で、心配性なんです」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「子供を理解してないな」
+display
+com11 0 4
+sound 1106
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「う〜ん、そうなんでしょうか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あまり、やよいのことをよく見てるようには
+line2 <shift> # 思えないけど？」
+display
+com11 0 4
+sound 1107
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「で、でも〜、お母さん、悪い人じゃないですっ。
+line2 <shift> # それは心配性なとこ、ありますけど……」
+com09 0 19
+display
+location 19
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「アルバイトじゃないにしても……やよいは
+line2 <shift> # お金も欲しいんだよな？」
+display
+com11 0 4
+sound 1108
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「家を助けたいとは思いますけどー、それが
+line2 <shift> # 理由で、アイドルめざしたわけじゃ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ、どんな理由で、アイドルに
+line2 <shift> # なりたいって思ったんだ？」
+display
+com11 0 4
+sound 1109
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「一番は、歌とかダンスで、みんなと盛り上がる
+line2 <shift> # のが、好きだから！」
+display
+com11 0 4
+sound 1110
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ、プロデューサー！　お母さんに、なにか
+line2 <shift> # メッセージとか、もらえますか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺から、か？」
+display
+com11 0 4
+sound 1111
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はい。なにか、こう……聞いたら安心できる
+line2 <shift> # ようなのを！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだなあ。じゃあ……」
+com03 0 3
+choice1 <shift> # やよいは守ってみせます
+line2
+com09 0 20
+com08
+choice2 <shift> # やよいは大丈夫です
+line2
+com09 0 21
+com08
+choice3 <shift> # やよいは元気すぎます
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+com34 0 2
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やよいは守ってみせます」
+display
+com11 0 4
+sound 1112
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ……えへへ。そういうの、ちょっとうれしい
+line2 <shift> # かもっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うれしいのはいいけど……ちゃんと
+line2 <shift> # 伝えてくれよ？」
+display
+com11 0 4
+sound 1113
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あああ、そうでしたっ。私がよろこんでも、
+line2 <shift> # しょうがないですよねっ。えへへ……」
+display <shift> # （やけにニコニコしてるな。守るのは、
+line2 <shift> # プロデューサーとして、当然の義務なんだけど）
+com09 0 29
+display
+location 21
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やよいは大丈夫です」
+display
+com11 0 4
+sound 1114
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「すっごいストレートで、いいですね、それ！」
+display
+com11 0 4
+sound 1115
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「私が『大丈夫、大丈夫』って言っても、
+line2 <shift> # なかなか、信じてくれないから……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、やよいの口からも、同じこと言ってるのか。
+line2 <shift> # だったら、別の言葉の方が……」
+display
+com11 0 4
+sound 1116
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「けど、『プロデューサーもそう言ってる』
+line2 <shift> # ってわかれば、信用度アップしますよねっ？」
+display
+com11 0 4
+sound 1117
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「お母さんに、バッチリ伝えますっ！　
+line2 <shift> # ありがとうございましたっ、プロデューサー」
+display <shift> # （できれば、もっとインパクトある言葉の方が
+line2 <shift> # よかったか？　変にひねるよりはいいけど……）
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やよいは元気すぎます」
+display
+com11 0 4
+sound 1118
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「それ、お母さんに言うんですか？　なんか……
+line2 <shift> # 困らせてるように、受け取られないかなあ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか？　芸能界でもタフにやってること、
+line2 <shift> # 伝わると思うけど」
+display
+com11 0 4
+sound 1119
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「今度は逆の意味で、心配されそうな気が……」
+display
+com11 0 4
+sound 1120
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ……もしかして、プロデューサー。ほんとに
+line2 <shift> # そう思ってないですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……たまに、はみ出してるとは思うけど」
+display
+com11 0 4
+sound 1121
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「やっぱり〜！　ううう……ごめんなさい〜。
+line2 <shift> # もうすこし、おとなしくしまーす……」
+display <shift> # （なぜか、お説教のようになってしまった……）
+com09 0 29
+display
+location 29
+unk02

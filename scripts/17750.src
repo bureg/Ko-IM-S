@@ -1,0 +1,304 @@
+com50 0 31
+com2c 0 24
+com2d 0 31
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （仕事の合間のオフ時間、自由行動にしたかった
+line2 <shift> # が、外は、あいにくの悪天候だ……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今にも、降りそうな空模様だなぁ。
+line2 <shift> # 降っても、通り雨だとは思うけど」
+display
+com11 0 0
+sound 200
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「買い物行くの、やめたほうが、いいですか？」
+display
+com11 0 0
+sound 201
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あっ。でも、ちょっとくらい雨が降っても、
+line2 <shift> # 平気ですよ！　近所だし！」
+com03 0 2
+choice1 <shift> # じゃ、一緒に行こうか
+line2
+com09 0 10
+com08
+choice2 <shift> # 油断大敵だ
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだな、ちょっとなら平気かな……」
+display
+com11 0 0
+sound 202
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はい。それに私、たとえ傘がなくても、
+line2 <shift> # へっちゃらですから！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ははは……。じゃ、一緒に行こうか。
+line2 <shift> # 俺も付き合おう」
+display
+com11 0 0
+sound 203
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はい、そうしましょうかー」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「油断大敵だ、いきなりドカーンと、
+line2 <shift> # 降ってくるかもしれないぞ」
+display
+com11 0 0
+sound 204
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ドカーンですか、バケツを、
+line2 <shift> # ひっくり返したようなっ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「バケツそのものが降ってくるかもな」
+display
+com11 0 0
+sound 205
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ひゃあ〜、バケツが降ってきたら、
+line2 <shift> # こわいですよ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いやバケツの中身が……、っと、話がそれたな。
+line2 <shift> # よければ、俺も行こうか。買い物、付き合うよ」
+display
+com11 0 0
+sound 206
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あっ、はい。プロデューサーが一緒なら、
+line2 <shift> # バケツがきても平気ですね！」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 207
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あ、降ってきた……。うわ、すごい降りですっ。
+line2 <shift> # 雨の音が……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どんどん風雨が強くなってきたな。
+line2 <shift> # 短い時間とはいえ、嵐並みになるかも」
+display
+com11 0 0
+sound 208
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「こんなに降ったら、出かけられないです。
+line2 <shift> # ううっ、それに……、どうしよっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうしたやよい、急に、あわてて」
+display
+com11 0 0
+sound 209
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「今、うち、雨もりがするんですっ！
+line2 <shift> # ああ、家が、家がピンチかもっ」
+display
+com11 0 0
+sound 210
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「こんなすごい雨の準備してなかったし、
+line2 <shift> # 家には弟と妹達が……。うううっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お、落ち着けっ！」
+display
+com11 0 0
+sound 211
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「わっ、私、ひとっ走りして、
+line2 <shift> # 家の様子を見てきます！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、やよいを今、行かせるわけには、
+line2 <shift> # いかない……。この雨と風、危険だ！」
+display
+com11 0 0
+sound 212
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そ、そんなぁ！」
+com03 0 3
+choice1 <shift> # 電話をすれば……
+line2
+com09 0 20
+com08
+choice2 <shift> # 俺が代わりに……
+line2
+com09 0 21
+com08
+choice3 <shift> # とにかくダメだ
+line2
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだ、ひとまず、家に電話をすれば、
+line2 <shift> # いいんじゃないか？　ほら……」
+display
+com11 0 0
+sound 213
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あっ！　そっ、そうですね！　電話して、
+line2 <shift> # 無事かどうか確かめます。電話、借りますね！」
+display
+com11 0 0
+sound 214
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「妹達、大丈夫かな。落ち着いて、
+line2 <shift> # 電話しなきゃ。不安にさせないように……」
+display
+com22 0 30
+com11 0 0
+sound 215
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「……あっ、もしもし。私、お姉ちゃん。
+line2 <shift> # みんないる？」
+display
+com11 0 0
+sound 216
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「こっちはすごい雨だけど、そっちは家の中、
+line2 <shift> # 平気？　うん、うん。そっか、わかった。じゃ」
+display
+com21 0 30
+com11 0 0
+sound 217
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「大丈夫みたいでしたっ、プロデューサー！
+line2 <shift> # ああ、よかった……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （やよいが、胸をなで下ろして、なんだか俺も、
+line2 <shift> # ほっとした気分だ。それにしても……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （やよい、家族思いで、優しいんだな……。
+line2 <shift> # やがて晴れた空を見ながら、改めて思った）
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いっそ、俺が代わりに行こう」
+display
+com11 0 0
+sound 218
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「でっ、でも！　そんな、頼めないですよぉ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「プロデューサーとして、俺は、やよいを、
+line2 <shift> # 危ない目に、あわせるわけにはいかない」
+display
+com11 0 0
+sound 219
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ううっ。でも、やっぱり心配で……。
+line2 <shift> # 妹達も不安だろうし、行くなら、私も」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「仕方ない、一緒に、行けるところまで行くか」
+display
+com11 0 0
+sound 220
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はっ、はい！　お願いします！
+line2 <shift> # よーしっ、嵐になんか負けないぞっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「しかし、外に出るのに、勇気がいる天気だな、
+line2 <shift> # これは……。わっ！」
+display
+com22 0 30
+com11 0 0
+sound 221
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あああ……。傘、飛ばされちゃいましたね。
+line2 <shift> # う、うう〜っ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やっぱり危ないな。でも、風は、じきに
+line2 <shift> # おさまるはずだ……。もうしばらく、待とう」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後、小降りになった頃合を見計らって、
+line2 <shift> # やよいと外に出た）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （すぐに、空は、ウソのように晴れた。これなら、
+line2 <shift> # 家も無事だろう。しかし、えらい目にあった）
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「とにかく、ダメだ！」
+display
+com11 0 0
+sound 222
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ど、どうしてですかっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「言ったろ。やよいに危ないことは、
+line2 <shift> # させられない」
+display
+com11 0 0
+sound 223
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「でも、私の家だって、
+line2 <shift> # どうなってるかわかんないし！」
+display
+com11 0 0
+sound 224
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「妹達が、不安で、
+line2 <shift> # 泣いて待ってるかもしれないしっ……！」
+display
+com11 0 0
+sound 225
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「だから、ダメだと言われても、私……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なら、せめて、もう少しだけ待とう。
+line2 <shift> # どうせ、通り雨だ。少し待てば、落ち着く」
+display
+com11 0 0
+sound 226
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そ、そうですか……。
+line2 <shift> # うう〜っ、でっ、でもぉ〜」
+display
+com11 0 0
+sound 227
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「待ちきれないっ。
+line2 <shift> # やっぱり……、もう、行きます！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああっ、待ってくれ、やよい！
+line2 <shift> # 帰って来ーいっ！！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （やよいは、飛び出して行ってしまった。傘も
+line2 <shift> # 持たずに……。俺がムキにさせてしまったのか）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後、じきに嵐は止んだが、
+line2 <shift> # やよいの戻りは、遅かった……）
+com09 0 29
+display
+location 29
+unk02

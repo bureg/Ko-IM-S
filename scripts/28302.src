@@ -1,0 +1,274 @@
+com2c 0 31
+com2c 0 30
+com2d 0 41
+com32 0 0
+com11 0 5
+sound 600
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「シングルＣＤの店頭販売ですか？　歌手って、
+line2 <shift> # 自分で売り子までやらないと、いけないもの？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、マイナーは、あれこれ手を尽くさないと、
+line2 <shift> # 聴いてもらえないから」
+display
+com11 0 5
+sound 601
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「歌の勉強する時間、取られてしまいますね。
+line2 <shift> # その……どうにも、なりませんか？」
+com03 0 3
+choice1 <shift> # なりません
+com09 0 10
+com08
+choice2 <shift> # 他のスタッフに、任せる？
+line2
+com09 0 11
+com08
+choice3 <shift> # これも、勉強だよ？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なりません」
+display
+com11 0 5
+sound 602
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「なら、しかたないですね。やらないと」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「他のスタッフに、任せる？」
+display
+com11 0 5
+sound 603
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「それは、さすがに。こんなところで、不仲に
+line2 <shift> # なりたくないです。仕事に影響が出ますから」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「これも、勉強だよ？」
+display
+com11 0 5
+sound 604
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「売り子が、歌のためになるとは、思えません
+line2 <shift> # けど……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、ま、社会勉強というか……」
+display
+com11 0 5
+sound 605
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「やらなければならないことなら、そう言って
+line2 <shift> # もらえると。私、耐えますので」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし。それじゃ、がんばって売ろう。
+line2 <shift> # 販売、開始っ！」
+display
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……………………………………………………
+line2 <shift> # ……………………………………………………」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……あの、なにやってるの？」
+display
+com11 0 5
+sound 606
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「は？　ＣＤを売っていますけど、お客さんが
+line2 <shift> # きません」
+com03 0 2
+choice1 <shift> # 呼び込むのが、仕事だよ？
+line2
+com09 0 30
+com08
+choice2 <shift> # やる気、出してくれよ
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「呼び込むのが、仕事だよ？」
+display
+com11 0 5
+sound 607
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あ……そうなんですか？　でも、私、うまい
+line2 <shift> # 声のかけかたとか、知らなくて」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やる気、出してくれよ」
+display
+com11 0 5
+sound 608
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「出してますけど、人がこないことには」
+display
+com11 0 5
+sound 609
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「積極的に売り込まないと、ダメでしょうか？
+line2 <shift> # だったら、声を出して……」
+com09 0 49
+display
+location 49
+com11 0 5
+sound 610
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「たくさん売るには、団体の目を引くのが一番
+line2 <shift> # ですね。あっ、あっちの方に、すごい数の人」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ん？　あそこか。でも、遠すぎるな。
+line2 <shift> # あんなとこまで、声が届くわけは……」
+display
+com11 0 5
+sound 611
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「どうします？　迷惑かもしれませんけど、大き
+line2 <shift> # な声を？　それとも、近くの人にひとりずつ？」
+com03 0 3
+choice1 <shift> # 一か八か、大声でいこう
+line2
+com09 0 50
+com08
+choice2 <shift> # 千早の、好きな方で
+line2
+com09 0 51
+com08
+choice3 <shift> # ひとりずつ、地道にいこう
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 3
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「一か八か、大声でいこう。失敗したら、
+line2 <shift> # まわりに、うるさがられるだけだけど」
+display
+com11 0 5
+sound 612
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「わかりました、では……。いらっしゃいませー、
+line2 <shift> # シングルＣＤ、いかがでしょうかー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うわっ、千早の声、よく通るな。
+line2 <shift> # お、しめた！　こっちに気づいた！」
+display
+com11 0 5
+sound 613
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「近くの人も、みんな……。あ、いらっしゃい
+line2 <shift> # ませ。はい、歌っているのは、私ですけど」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （響いた美声に、あっと言う間に人だかり……。
+line2 <shift> # なんて声だ。恐るべき素養だな）
+com09 0 69
+display
+location 51
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「千早の、好きな方で」
+display
+com11 0 5
+sound 614
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「わかりました。では、慣れていないので、
+line2 <shift> # 近くから当たって……」
+display
+com11 0 5
+sound 615
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あのすみません。ＣＤを売っているんですけど
+line2 <shift> # どうでしょう？　あ、待って……！」
+display
+com22 0 30
+com32 0 1
+com21 0 30
+com11 0 5
+sound 616
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はじめの方は、売り上げ、よくありません
+line2 <shift> # でしたね。任せてもらったのに」
+display
+com11 0 5
+sound 617
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「後半は、大声で巻き返せたということは……
+line2 <shift> # 私の判断ミスです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （小さく、ため息をついている。
+line2 <shift> # まあ、でも、そこそこは売れたし、いいか）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ひとりずつ、地道にいこう」
+display
+com11 0 5
+sound 618
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はい。では、みんなで手分けして、
+line2 <shift> # プロデューサーの言う通りに……」
+display
+com11 0 5
+sound 619
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あ、あの、すみません。ＣＤ、見ていきま
+line2 <shift> # せんか？　いい曲が入って……」
+display
+com11 0 5
+sound 620
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「え？　見ただけじゃ、わからない？　それは
+line2 <shift> # そうですけど……。あっ」
+display
+com22 0 30
+com32 0 1
+com21 0 30
+com11 0 5
+sound 621
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「全然、売れなかったですね。私の歌が入った
+line2 <shift> # ＣＤ、そんなに価値ないものですか？」
+display
+com11 0 5
+sound 622
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「なんで、こんなところで、こんな思い……。
+line2 <shift> # 歌以外のことで、悩みたくなんて……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （客に無視され続けて、疲れてしまったようだ。
+line2 <shift> # うーん、作戦ミスだったかな）
+com09 0 69
+display
+location 69
+unk02

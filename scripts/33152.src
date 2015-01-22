@@ -1,0 +1,293 @@
+com2c 0 33
+com2d 0 61
+com32 0 0
+com11 0 3
+sound 400
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ううっ、すみません、すみません」
+display
+com11 0 3
+sound 401
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ラジオの公開収録なのに、私、
+line2 <shift> # 全然まともにしゃべれてなくて……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ＤＪさんのテンポ速いし、画面ないぶん、
+line2 <shift> # どんどんしゃべらないといけないからね」
+display
+com11 0 3
+sound 402
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「はい、でも、わかってるんですけど……話の
+line2 <shift> # スピードに、ついていけないっ……あうぅ」
+com03 0 2
+choice1 <shift> # 辛くとも頑張れっ
+line2
+com09 0 10
+com08
+choice2 <shift> # 慌てずマイペースで
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「辛いかもしれないが、
+line2 <shift> # いや、辛くとも頑張れっ」
+display
+com11 0 3
+sound 403
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「が、がんばりたいですぅ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「とにかく相槌だけでも
+line2 <shift> # 打ってみたらどうかな」
+display
+com11 0 3
+sound 404
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「そ、そんな！　私がゲストなのに、自分から
+line2 <shift> # 話題も振れずに、相槌だけなんてっ」
+display
+com11 0 3
+sound 405
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「きっと、聴いてる人も退屈で
+line2 <shift> # つまらないですよね……ううっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そんな、気にすることないって」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「しかしここは慌てず騒がず、
+line2 <shift> # マイペースでもいいんじゃないか」
+display
+com11 0 3
+sound 406
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「そ、そんな。ＤＪさんにも、お客さんにも、
+line2 <shift> # 申し訳ないですよぉ」
+display
+com11 0 3
+sound 407
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「私がもっとしゃべらないと、
+line2 <shift> # 聴いてるひとは退屈じゃないかなって」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「収録のことはもうこの際置いといて……
+line2 <shift> # 放送のときは、編集していいテンポにするから」
+display
+com11 0 3
+sound 408
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「で、でも、そういうのって、なにか、
+line2 <shift> # 裏切りになっちゃいませんか……それに」
+display
+com11 0 3
+sound 409
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「私がうまくできないせいで、スタッフさんに
+line2 <shift> # いろいろお手間を取らせちゃうのはっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「気にしすぎだってば」
+com09 0 29
+display
+location 29
+com11 0 3
+sound 410
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ああ、私、私やっぱり、
+line2 <shift> # きっとラジオに向いてない……」
+display
+com11 0 3
+sound 411
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ううん、根本的に、こういう仕事が
+line2 <shift> # だめなんだ。だめだめアイドルなんだぁ……」
+display
+com11 0 3
+sound 412
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「こんなだめな私は、もう……
+line2 <shift> # 穴掘ります、埋まっておきます」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「掘るな！　埋まるな！　戻って来い雪歩！
+line2 <shift> # ああ、収録の続きがまだ残ってるのに！」
+com03 0 3
+choice1 <shift> # いい加減にしなさいっ
+line2
+com09 0 30
+com08
+choice2 <shift> # 仕方ない、放置しよう
+line2
+com09 0 31
+com08
+choice3 <shift> # た、頼むよ！
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「甘えるな、いい加減にしなさいっ」
+display
+com11 0 3
+sound 413
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ううっ、ぐすっ、そんなこと言われたってぇ。
+line2 <shift> # できないものは、できないですよぉ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「な、泣くなぁ！　とにかくスタジオに戻す！」
+display
+com11 0 3
+sound 414
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「い、いやですぅ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いやだって言っても戻すからな！　さあ、
+line2 <shift> # マイクの前に座るんだ、このダメドルめっ」
+display
+com11 0 3
+sound 415
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「あ、あうぅ、ぐす……。す、すみません。
+line2 <shift> # や、やります、やらせて下さいっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うーん、我ながら、
+line2 <shift> # ちょっと荒療治だったかな）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （多少混乱した雪歩だけど、スタジオに復帰した。
+line2 <shift> # ＤＪから涙目の理由をきかれると素直に答えた）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後の雪歩は、決して早口ではないけど、
+line2 <shift> # 自然なトークで収録を進められた）
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「自分の世界に行ってしまったか……。
+line2 <shift> # 仕方ない。このまま放置してみよう」
+display
+com11 0 3
+sound 416
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ひとつ掘っては父のため……
+line2 <shift> # 人を呪わば穴ふたつ……」
+display
+com11 0 3
+sound 417
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「みっつ見かねた悪党を……
+line2 <shift> # よっつ四葉のクローバー……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おや、なにか言いながら掘っているな。
+line2 <shift> # ＤＪさーん、どうです、この穴？」
+display
+com11 0 3
+sound 418
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「じ、邪魔しないで下さい、プロデューサー。
+line2 <shift> # 今、私、いいところなんです」
+display
+com11 0 3
+sound 419
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「お、温泉掘り当てるかも、
+line2 <shift> # しれないんですからぁ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「待て待て、掘ってない掘ってない、ほんとは
+line2 <shift> # 掘ってないぞ穴なんか。とりあえず落ち着け」
+display
+com11 0 3
+sound 420
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「そ、その、こういうのは、気持ちの
+line2 <shift> # 問題なんです。掘った気になればいいんです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やれやれ……。でも、さっきよりうまく
+line2 <shift> # しゃべれそうじゃないか？　この調子なら」
+display
+com11 0 3
+sound 421
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「あれ？　そ、そうかもしれないですね……
+line2 <shift> # あ、あの、スタジオ戻っても、いいですかっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もちろん。さあ、続きを頼むよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （雪歩の奇妙な現実逃避は、プレッシャーから
+line2 <shift> # 素早く逃れるのに役立っていたみたいだ……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後の収録では、ＤＪのツッコミに時々とぼ
+line2 <shift> # けながらも、雪歩は自然なトークを繰り広げた）
+com09 0 49
+display
+location 32
+com11 0 3
+sound 422
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「さあ、埋まりまーす……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「埋まるなっ！　頼むよ、
+line2 <shift> # そこをなんとか」
+display
+com11 0 3
+sound 423
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ううっ、だって、だって、私なんて、
+line2 <shift> # ラジオなのに、ぱたっと黙っちゃうし」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「黙るその間が絶妙じゃないかっ」
+display
+com11 0 3
+sound 424
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「話題も、ろくにないし」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それはＤＪさんもいろいろ考えてくれるっ
+line2 <shift> # さあ、収録の続きだ！　さあさあさあっ！」
+display
+com11 0 3
+sound 425
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「わ、わかりました。もう掘りませんから。
+line2 <shift> # やめときますから……、続き、いきますっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （そうして、いじけた雪歩を俺があおりまくり、
+line2 <shift> # なんとかラジオ収録は再開された）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （だが雪歩は、やっと口を開いている感じで、
+line2 <shift> # テンションは終始低かった。失敗だったかな）
+com09 0 49
+display
+location 49
+unk02

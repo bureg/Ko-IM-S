@@ -1,0 +1,480 @@
+com2c 0 97
+com2d 0 51
+com11 0 0
+sound 0
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ごめんなさい、プロデューサーさん。
+line2 <shift> # こほ、こほっ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あずささん、無理しないでください。
+line2 <shift> # 具合の悪いときは、寝てるのが一番です」
+display
+com11 0 0
+sound 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ありがとうございます……。
+line2 <shift> # ですけど、自分でも、恥ずかしくて」
+display
+com11 0 0
+sound 2
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「忙しくて、倒れてしまうなんて……。
+line2 <shift> # ご迷惑おかけして、すみません〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いいえ、スケジュール管理している、
+line2 <shift> # 俺の責任です。こちらこそ、申し訳ないです」
+display
+com11 0 0
+sound 3
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そんな……。プロデューサーさんが
+line2 <shift> # 謝らないでください〜」
+display
+com11 0 0
+sound 4
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「今日だってこうして、わざわざ家まで
+line2 <shift> # 看病しに来てくれたのに……こほ、こほっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「大丈夫ですか？　ゆっくり休んで、
+line2 <shift> # 早く元気になってください。でないと……」
+com03 0 3
+choice1 <shift> # あずささんが心配です
+line2
+com09 0 10
+com08
+choice2 <shift> # 俺もつらいです
+line2
+com09 0 11
+com08
+choice3 <shift> # ファンが悲しみます
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あずささんが心配です」
+display
+com11 0 0
+sound 5
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ありがとうございます……。
+line2 <shift> # プロデューサーさんて、優しいですね〜」
+display
+com11 0 0
+sound 6
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「元はと言えば、自己管理ができない
+line2 <shift> # 私のせいなのに……」
+display
+com11 0 0
+sound 7
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そんなふうに気遣ってくださると、
+line2 <shift> # なんだか、甘えてしまいそうです……」
+com09 0 13
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺もつらいです」
+display
+com11 0 0
+sound 8
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「えっ……どうして、プロデューサーさんが、
+line2 <shift> # つらくなるんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、どうしてって言われても……」
+display
+com11 0 0
+sound 9
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ……、分かりました。私がお仕事できないと
+line2 <shift> # スケジュール調整とか、大変ですものね〜」
+display
+com11 0 0
+sound 10
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「少し……誤解してしまいそうになりました。
+line2 <shift> # 特別な意味なんて、ないですよね……」
+com09 0 13
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ファンが悲しみます」
+display
+com11 0 0
+sound 11
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そうですね〜。応援してくれるみなさんに、
+line2 <shift> # 申し訳ない気持ちで、いっぱいです」
+display
+com11 0 0
+sound 12
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「もっとしっかりしなくては、と
+line2 <shift> # 思うんですけど……ダメですね〜」
+com09 0 13
+display
+location 13
+com11 0 0
+sound 13
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ふぅ、ふぅ……。それよりこの部屋、
+line2 <shift> # 少し暑くないですか？」
+display
+com11 0 0
+sound 14
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「なんだか、頭がぽーっとしてきたみたい。
+line2 <shift> # ふわふわして、気持ちよくて……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あずささん……すごい熱ですよっ！？
+line2 <shift> # ほら、大人しく、横になって」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺がいたら、ゆっくりできませんね。
+line2 <shift> # 今日は帰ります。明日また様子を見に……」
+display
+com11 0 0
+sound 15
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「いやっ……、帰らないで……。
+line2 <shift> # このまま、もう少しだけ……そばにいて下さい」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あずささんっ……！？」
+display
+com11 0 0
+sound 16
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あっ……やだ、私ったら何言ってるのかしら。
+line2 <shift> # ごめんなさい、どうかしてますね〜……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いいんですよ、あずささん……」
+com03 0 3
+choice1 <shift> # 熱に浮かされたんですね
+line2
+com09 0 20
+com08
+choice2 <shift> # ずっとそばにいます
+line2
+com09 0 21
+com08
+choice3 <shift> # でも、今日は帰ります
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「熱に浮かされたんですね」
+display
+com11 0 0
+sound 17
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ……はい。そうなんです〜。ちょっと
+line2 <shift> # 熱でぼんやりしてしまって、本音が……」
+display
+com11 0 0
+sound 18
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あっ、いいえ……！　ほ、本音じゃなくて、
+line2 <shift> # ちょっと甘えてしまっただけで……」
+display
+com11 0 0
+sound 19
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ああ、ダメ〜。私、何を言ってるのかしら。
+line2 <shift> # 熱のせいで、少しおかしいみたい……」
+com09 0 23
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ずっとそばにいます」
+display
+com11 0 0
+sound 20
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「プロデューサーさん……いえ、いいんです〜。
+line2 <shift> # わがまま言ってしまって、すみません」
+display
+com11 0 0
+sound 21
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「お願いですから、今のは聞かなかったことに
+line2 <shift> # してください……。私、恥ずかしくて〜」
+display
+com11 0 0
+sound 22
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「次に、プロデューサーさんに会ったとき、どん
+line2 <shift> # な顔をしたらいいか、困ってしまいます……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「分かりました。じゃあ、聞かなかったことに
+line2 <shift> # しておきましょう」
+com09 0 23
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、今日は帰ります」
+display
+com11 0 0
+sound 23
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「……………」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あずささん、聞いてますか？」
+display
+com11 0 0
+sound 24
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「え、ええ……。大丈夫です〜。
+line2 <shift> # そうですよね、私、風邪気味ですし」
+display
+com11 0 0
+sound 25
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「プロデューサーさんに、うつしてしまったら
+line2 <shift> # 大変ですもの……」
+com09 0 23
+display
+location 23
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それじゃあ、ゆっくり休んでください。
+line2 <shift> # くれぐれも、お大事に……」
+display
+com11 0 0
+sound 26
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ま、待ってください、プロデューサーさん。
+line2 <shift> # あの……これを、持っててくれませんか〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「何ですか？」
+display
+com11 0 0
+sound 27
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「私の部屋の……、合鍵なんです。プロ
+line2 <shift> # デューサーさんに持っていてもらえると……」
+display
+com11 0 0
+sound 28
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「今日みたいに、何かあったときでも
+line2 <shift> # すぐに、来てもらえますし〜」
+display
+com11 0 0
+sound 29
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「私も、安心できますから……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あずささん。本当に……いいんですか？」
+display
+com11 0 0
+sound 30
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「いえ、で、でも……もしかして、
+line2 <shift> # こんなもの渡すなんて、迷惑かしら……？」
+display
+com11 0 0
+sound 31
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そんな、特別な意味ではなくて……。
+line2 <shift> # いえ、じゅうぶんに特別ですよね……」
+display
+com11 0 0
+sound 32
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「やっぱり、恥ずかしくなってきました。
+line2 <shift> # ああ、もう……どうしましょう〜」
+display
+com11 0 0
+sound 33
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そうだわ……！　それじゃあ、今から私が
+line2 <shift> # 両手のどちらかに、鍵を握りますから」
+display
+com11 0 0
+sound 34
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「どちらに入っているか、当ててください。
+line2 <shift> # 当たったら、鍵をお渡しします〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「分かりました。それで、いいんですね？」
+display
+com11 0 0
+sound 35
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はい……。運命に委ねることにします〜。
+line2 <shift> # さあ、どちらの手か、選んでください……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （当てられるかどうかは完全に運だが……
+line2 <shift> # ここは絶対に外すわけにはいかないぞ！）
+com03 0 2
+choice1 <shift> # 右だ！
+com09 0 30
+com08
+choice2 <shift> # 左だ！
+com09 0 31
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「右だ！」
+com37 0 1
+com1e 0 0
+com09 0 33
+com3b
+com37 0 0
+com1e 0 0
+com09 0 34
+com3b
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「左だ！」
+com37 0 1
+com1e 0 0
+com09 0 33
+com3b
+com37 0 0
+com1e 0 0
+com09 0 34
+com3b
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よくわからないので……こっちだ！」
+com09 0 34
+display
+location 33
+com11 0 0
+sound 36
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ……、当たりです〜……！　ふふっ。
+line2 <shift> # 当たりましたね、プロデューサーさん」
+display
+com11 0 0
+sound 37
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「それじゃあ、この合鍵……。
+line2 <shift> # お渡ししておいても、いいですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ええ。俺が責任を持って預かります。
+line2 <shift> # だから、今日はもう、休んでくださいね？」
+display
+com11 0 0
+sound 38
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はい〜。ありがとうございます……。
+line2 <shift> # これでもう、何があっても安心ですね〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺は、仕事とプライベートを一緒にする
+line2 <shift> # つもりはありませんけど……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だけど、あずささんに何かあったときは、
+line2 <shift> # 俺が、必ず真っ先に駆けつけますから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いつでも呼んでください。いいですね？」
+display
+com11 0 0
+sound 39
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はい……。うふふっ。頼もしいです。
+line2 <shift> # プロデューサーさん……」
+display
+com11 0 0
+sound 40
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「私のほうは……いつ来ても……。
+line2 <shift> # いえ、あの……な、何でもないです〜……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （熱のせいなのか、あずささんは
+line2 <shift> # ずっと、頬を赤らめたままだった……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （この合鍵は、あずささんの信頼の証だ。
+line2 <shift> # 俺が、大切に保管しておこう……）
+com4b 0 0
+com09 0 69
+display
+location 34
+com11 0 0
+sound 41
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ……、はずれてしまいましたね……。
+line2 <shift> # はあ〜、残念です……」
+display
+com11 0 0
+sound 42
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「でも、やっぱり合鍵なんて、迷惑ですよ
+line2 <shift> # ね……。ごめんなさい、勝手なお願いをして」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あずささん……」
+display
+com11 0 0
+sound 43
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「い、いいんですっ……。忘れてください。
+line2 <shift> # 今日のことは、全部、熱のせいです〜！」
+display
+com11 0 0
+sound 44
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「きっと熱のせいで、ヘンなんです〜。
+line2 <shift> # 体調がよくなれば、元に戻りますから……」
+display
+com11 0 0
+sound 45
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「か、帰ってください。プロデューサーさん。
+line2 <shift> # こほっ、こほっ……」
+display
+com11 0 0
+sound 46
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、合鍵の話は……忘れてくださいね。
+line2 <shift> # ちょっと、言ってみただけですからー……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （あずささんは、慌てて合鍵を引っ込めた。
+line2 <shift> # どうやら、とても恥ずかしかったらしい）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （俺が当ててあげられれば、よかったのにな。
+line2 <shift> # 今さら後悔しても、仕方ないか……）
+com4b 0 2
+com09 0 69
+display
+location 69
+unk02

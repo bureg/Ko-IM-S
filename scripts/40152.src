@@ -1,0 +1,514 @@
+com2c 0 17
+com2c 0 46
+com2d 0 73
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お疲れ、律子！
+line2 <shift> # 今日のステージもよかったぞ！」
+display
+com11 0 0
+sound 0
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「は、はい。どうも。……えっと、
+line2 <shift> # 私ちょっと用事があるんで、外に出てきますね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おいおい、その格好のまま行くつもりか！？
+line2 <shift> # ファンに取り囲まれて大パニックになるぞ」
+display
+com11 0 0
+sound 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「それはわかってるんですけど、
+line2 <shift> # 時間がないっていうか……」
+com03 0 3
+choice1 <shift> # 知り合いでも来てるのか？
+line2
+com09 0 11
+com08
+choice2 <shift> # 家の用事か？
+line2
+com09 0 12
+com08
+choice3 <shift> # コンビニにでも行くのか？
+line2
+com09 0 13
+com08
+com07
+com09 0 13
+com08
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「知り合いでも来てるのか？」
+display
+com11 0 0
+sound 2
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「まあ、そんなところですね……」
+com09 0 20
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「家の用事か何かか？　なら、車で送らせるぞ」
+display
+com11 0 0
+sound 3
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「いや、そういうのじゃないんですよ」
+com09 0 20
+display
+location 13
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「コンビニへ買い物にでも行くのか？」
+display
+com11 0 0
+sound 4
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「なに言ってるんですか。
+line2 <shift> # それなら、スタッフさんに頼みますよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そりゃ、そうだよな」
+com09 0 20
+display
+location 20
+com11 0 0
+sound 5
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「実はその……友達が来てるんですよ」
+display
+com11 0 0
+sound 6
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「別に頼んだわけじゃないのに、わざわざチケッ
+line2 <shift> # トなんか買って、来てくれちゃったりして……」
+display
+com11 0 0
+sound 7
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「で、まあ、そういうことなら、散財させたわけ
+line2 <shift> # だし、挨拶ぐらいしないといけないかな……と」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんだ、そういうことか」
+display
+com11 0 0
+sound 8
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「正直言って、面倒なんですけどね。
+line2 <shift> # でも、義理を欠いちゃうのもなんだし」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ムリするなよ、本当は友達が来てくれて
+line2 <shift> # めちゃくちゃ嬉しいくせに」
+display
+com11 0 0
+sound 9
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「う、うるさいなぁ。
+line2 <shift> # 別に、そんなことありませんよ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、今、律子が外に出るのは危ないし……。
+line2 <shift> # そうだ！　俺が楽屋に、友達を呼んでくるよ」
+display
+com11 0 0
+sound 10
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「えっ！　楽屋に呼びつけるんですか？
+line2 <shift> # それって、すっごく傲慢な感じかも……」
+display
+com11 0 0
+sound 11
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「『私に会いたければ、
+line2 <shift> # そっちからいらっしゃい』なんて……」
+display
+com11 0 0
+sound 12
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「まるで『アイドル様』みたいじゃないですか」
+com03 0 3
+choice1 <shift> # 楽屋ならゆっくり話せるぞ
+line2
+com09 0 21
+com08
+choice2 <shift> # 律子はアイドルじゃないか
+line2
+com09 0 22
+com08
+choice3 <shift> # アイドル様でいいじゃないか
+line2
+com09 0 23
+com08
+com07 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64
+com09 0 23
+com08
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「楽屋ならゆっくり話せるぞ。
+line2 <shift> # 友達もそっちの方がいいんじゃないか？」
+display
+com11 0 0
+sound 13
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「うーん……そう言われると、そうなのかもって
+line2 <shift> # 気もしますけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「友達からライブの感想とか、
+line2 <shift> # じっくり聞きたいだろう？」
+display
+com11 0 0
+sound 14
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そっか……。友達から本音の感想を聞いて
+line2 <shift> # おけば、今後のライブに活かせるかも、ですね」
+com09 0 30
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「律子はアイドルじゃないか。しかも、アイドル
+line2 <shift> # の中でもかなりランクが上のアイドルだ」
+display
+com11 0 0
+sound 15
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「だからこそ、そういういかにも
+line2 <shift> # 偉ぶった態度を取りたくないんですよ」
+display
+com11 0 0
+sound 16
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「でも……プロデューサーの言うことも
+line2 <shift> # 一理あるか。混乱は避けたいし……」
+com09 0 30
+display
+location 23
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「アイドル様でいいじゃないか。
+line2 <shift> # それのどこがいけないんだ？」
+display
+com11 0 0
+sound 17
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「おやおや、そうきましたか。
+line2 <shift> # 開き直っちゃうわけなのね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、アイドルはアイドルらしくって……
+line2 <shift> # 別に普通のことだろ？」
+display
+com11 0 0
+sound 18
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「まあ……確かに、アイドルらしくふるまって
+line2 <shift> # 楽屋に呼ぶ方が、安全ではあるのよね……」
+com09 0 30
+display
+location 30
+com11 0 0
+sound 19
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「わかりました！
+line2 <shift> # ここは、お言葉に甘えちゃいます」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それじゃ、俺が呼んでくるよ。
+line2 <shift> # 律子はここで待っててくれ」
+display
+com11 0 0
+sound 20
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「って、ストップ！
+line2 <shift> # 私の友達の顔、知ってるんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ……」
+display
+com11 0 0
+sound 21
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「もう、かんじんなところで抜けてるんだから。
+line2 <shift> # やっぱり私も行きます」
+display
+com11 0 0
+sound 22
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「大丈夫。スタッフ出入口から、チラッと
+line2 <shift> # 顔を確認するだけですから」
+display
+com22 0 30
+com32 0 1
+com21 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「改めて見ると、すっごい人だなぁ……。
+line2 <shift> # こんな中から探せるのか？」
+display
+com11 0 0
+sound 23
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「実はこっそり、席の番号を
+line2 <shift> # 覚えていたりするんですよね……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんだ、やっぱり友達が来るの、
+line2 <shift> # 楽しみにしてたんじゃないか」
+display
+com11 0 0
+sound 24
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「う、うるさいなぁ。もう、いいじゃないです
+line2 <shift> # か、その話は。……で、Ｌ列３２、３３番です」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「律子の友達は、２人組なのか？」
+display
+com11 0 0
+sound 25
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ええ。ひとりはショートで髪は茶色、
+line2 <shift> # いっつもニット帽子をかぶってて……」
+display
+com11 0 0
+sound 26
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あっ、いたっ！
+line2 <shift> # あそこです、プロデューサー！！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ちょっと律子、声がでかいよ！　ファンに
+line2 <shift> # 気付かれるだろ？　楽屋に戻っててくれ」
+display
+com11 0 0
+sound 27
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「は、はい！
+line2 <shift> # それじゃプロデューサー、後はよろしく！」
+display <shift> # パタパタパタ……
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さっき律子が指さした方はこっちだったな。
+line2 <shift> # 茶髪のショート、ニットの帽子……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おっ、いたいた！
+line2 <shift> # ……えっ！　あれ？　２組いるぞ！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どっちも茶髪のショートでニットの帽子……
+line2 <shift> # い、いったいどっちだ！？」
+com03 0 2
+choice1 <shift> # 左の子たち
+com09 0 31
+com08
+choice2 <shift> # 右の子たち
+com09 0 31
+com08
+com07 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64
+com09 0 32
+com08
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （たぶん……こっちだ！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「君たち、ちょっといいかな？」
+display
+name 0 2 <names:3>  # Girl
+line1 <shift> # 「えっ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「７６５プロの者だけど、
+line2 <shift> # 実は、律子に頼まれてね……」
+com37 0 1
+com1e 0 0
+com09 0 33
+com3b
+com37 0 0
+com1e 0 0
+com09 0 34
+com3b
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （たぶん……こっちだ！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「君たち、ちょっといいかな？」
+display
+name 0 2 <names:3>  # Girl
+line1 <shift> # 「えっ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「７６５プロの者だけど、
+line2 <shift> # 実は、律子に頼まれてね……」
+com09 0 34
+display
+location 33
+com22 0 30
+com32 0 0
+com21 0 30
+name 0 2 <names:4>  # Friend A
+line1 <shift> # 「……でも、あの曲歌ってた律子、
+line2 <shift> # すっごくかっこよかったよ！」
+display
+com11 0 0
+sound 28
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「え？　そ、そう？」
+display
+name 0 2 <names:5>  # Friend B
+line1 <shift> # 「うんうん、いつもと全然雰囲気違うんだもん、
+line2 <shift> # 驚いちゃったよ」
+display
+com11 0 0
+sound 29
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ま、またまたぁ〜！　お世辞ばっかり！」
+display
+name 0 2 <names:5>  # Friend B
+line1 <shift> # 「素直じゃないところは、
+line2 <shift> # いつもの律子なのにね」
+display
+com11 0 0
+sound 30
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「こ、こらぁ！！」
+display
+name 0 2 <names:5>  # Friend B
+line1 <shift> # 「あははっ！」
+display
+name 0 2 <names:4>  # Friend A
+line1 <shift> # 「それじゃ、私達そろそろ帰るね。
+line2 <shift> # 呼んでくれてありがとう、律子」
+display
+name 0 2 <names:5>  # Friend B
+line1 <shift> # 「忙しいと思うけど、たまには学校に来てよね」
+display
+com11 0 0
+sound 31
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「うん、がんばってみる。今日は来てくれて
+line2 <shift> # 本当にありがとう！　またねー！」
+display
+com11 0 0
+sound 32
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「……はぁ、楽しかった！　友達と
+line2 <shift> # こんなに話し込んだの、久しぶりかも」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よかったな、律子。
+line2 <shift> # 友達も満足してたみたいで」
+display
+com11 0 0
+sound 33
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あはは……かなり照れましたけど」
+display
+com11 0 0
+sound 34
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あ、そうだ！　ありがとうございました、
+line2 <shift> # プロデューサー。友達を連れてきてくれて」
+display
+com11 0 0
+sound 35
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「楽屋だから、ゆっくり話せたし……。
+line2 <shift> # 今日は、色んな意味で最高のライブでした！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （いつも以上に晴れやかな律子の笑顔。いい思い
+line2 <shift> # 出、たくさん作れたみたいだな。よかった！）
+com4b 0 0
+com09 0 69
+display
+location 34
+com22 0 30
+com32 0 0
+com21 0 30
+name 0 2 <names:6>  # Girl A
+line1 <shift> # 「楽屋まで来られるなんて、感激です！」
+display
+name 0 2 <names:7>  # Girl B
+line1 <shift> # 「友達にカン違いされるなんて、
+line2 <shift> # 超ラッキーだったね！」
+display
+com11 0 0
+sound 36
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あはは……」
+display
+name 0 2 <names:6>  # Girl A
+line1 <shift> # 「これからも応援してます！
+line2 <shift> # がんばってください！」
+display
+com11 0 0
+sound 37
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あ、うん。ありがとう。
+line2 <shift> # これからもよろしくね」
+display
+name 0 2 <names:7>  # Girl B
+line1 <shift> # 「は、はいっ！　それじゃあっ！！」
+display
+com11 0 0
+sound 38
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「じゃあねー」
+display
+com11 0 0
+sound 39
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「……はぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「律子、すまん、その……」
+display
+com11 0 0
+sound 40
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「いえ、いいんですよ……」
+display
+com11 0 0
+sound 41
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そもそも顔も知らない相手を
+line2 <shift> # 引っ張ってこい、なんてのが無茶な話ですから」
+display
+com11 0 0
+sound 42
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ファンを楽屋に呼び込んで、楽屋で、延々アイ
+line2 <shift> # ドルスマイルをさせられたことなんて……」
+display
+com11 0 0
+sound 43
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「私は全く、気にしてませんから。はい」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「思いっきり気にしてるんじゃないか……？」
+display
+com11 0 0
+sound 44
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「はあぁ……。なんだかどっと疲れたわ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （律子はいつになく疲れた顔をしている……。
+line2 <shift> # 友達には会えずじまいだし、悪いことをしたな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今回のことは、完全に俺のミスだ。今後、
+line2 <shift> # なんとかしてつぐなっていかないとな……）
+com4b 0 2
+com09 0 69
+display
+location 69
+unk02

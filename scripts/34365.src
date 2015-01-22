@@ -1,0 +1,450 @@
+com2c 0 26
+com2d 0 61
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今日はデパート主催のトークイベントに、
+line2 <shift> # 雪歩がゲストとして参加した）
+display
+com11 0 0
+sound 0
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「イベントのゲストって、緊張しました……」
+display
+com11 0 0
+sound 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「普通のステージじゃないから、お客さんと距離
+line2 <shift> # が近いし、何を聞かれるかドキドキでしたぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、ちゃんと答えてたじゃないか。ちょっと
+line2 <shift> # 態度が固い感じはしたけど、及第点だと思うよ」
+display
+com11 0 0
+sound 2
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「失敗しちゃいけないって、
+line2 <shift> # 必死でずっと気を張ってたんですぅ……」
+display
+com11 0 0
+sound 3
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「終わったら、急に体の力が抜けました。緊張の
+line2 <shift> # 糸がほどけて……脱力ですぅ。ふうぅ……」
+com03 0 3
+choice1 <shift> # 緊張しすぎは疲れるだろう
+line2
+com09 0 10
+com08
+choice2 <shift> # 適度な緊張は大切だよ
+line2
+com09 0 11
+com08
+choice3 <shift> # 事務所に帰るまでが営業だぞ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「緊張しすぎは疲れるからな。
+line2 <shift> # リラックスして、リフレッシュしよう」
+display
+com11 0 0
+sound 4
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい、ありがとうございます……。あ、でも、
+line2 <shift> # 今からリラックスしてても平気ですか？」
+display
+com11 0 0
+sound 5
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ファンの人に見られたら、笑われませんか？
+line2 <shift> # ガッカリされたりとか、しませんか……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「大丈夫だろう。緊張している雪歩より、
+line2 <shift> # 自然体の雪歩のほうが魅力的かもしれないし」
+display
+com11 0 0
+sound 6
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ、そう言ってもらえると安心します……。
+line2 <shift> # じゃ、リラックスで、リフレッシュです〜」
+display
+com11 0 0
+sound 7
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「くにゃくにゃ〜……ああ、生き返った感じで
+line2 <shift> # す。まだまだお仕事頑張れそうな気がします〜」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「適度な緊張は大切だよ。だらしないアイドル
+line2 <shift> # なんて、かっこ悪いだろう？」
+display
+com11 0 0
+sound 8
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ、そ、そうですよね。すみません。
+line2 <shift> # ピシッと！　してなきゃですよね……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まあ、雪歩の場合、いつも緊張しすぎだから、
+line2 <shift> # リラックスしてるぐらいがちょうどいいけど」
+display
+com11 0 0
+sound 9
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「え。じゃ、やっぱりリラックスですかぁ？
+line2 <shift> # それじゃ、脱力します〜。くにゃくにゃ〜」
+display
+com11 0 0
+sound 10
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ふぅ……。あったかい日本茶が、
+line2 <shift> # ほしくなってきましたぁ……」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「事務所に帰るまでが営業だぞ」
+display
+com11 0 0
+sound 11
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「は、はい、すみません！
+line2 <shift> # しっかりシャキッと……できました！」
+display
+com11 0 0
+sound 12
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ふぅ……遠足みたいですね」
+display
+com11 0 0
+sound 13
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「遠足は家に帰るまでが遠足です。
+line2 <shift> # 途中で気を抜くとダメだって、言いますよね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだな。
+line2 <shift> # 遠足と同じように、気をぬかずにいこう」
+display
+com11 0 0
+sound 14
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「わかりました。気を引き締めて
+line2 <shift> # 事務所まで戻ります！」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さて……と。どうするかな？」
+display
+com11 0 0
+sound 15
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「え？　何をどうするんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「実は少しだけ、時間がある」
+display
+com11 0 0
+sound 16
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そうですねぇ。それじゃ、
+line2 <shift> # ただ帰るのはもったいないような……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「せっかくデパートにいるわけだしな……」
+com03 0 3
+choice1 <shift> # ブティックで流行チェック
+line2
+com09 0 30
+com08
+choice2 <shift> # デパ地下で試食
+line2
+com09 0 31
+com08
+choice3 <shift> # いや、早く帰ろう
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ブティックに寄って、
+line2 <shift> # 最新の流行チェックをしておこう」
+display
+com11 0 0
+sound 17
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ、はい。わかりました。
+line2 <shift> # しっかり流行最先端をチェックします！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「アンテナを張りめぐらせて、今、何が新しい
+line2 <shift> # のか、何がカッコイイのか、知っておく……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それも、アイドルとしての大切な仕事だ！」
+display
+com11 0 0
+sound 18
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい、それでは行きましょう！
+line2 <shift> # 雪歩アンテナ、ピキーンと立てましたっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、それじゃ行ってみよう！」
+com09 0 39
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「デパ地下で試食するか」
+display
+com11 0 0
+sound 19
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「試食ですかぁ？　大丈夫なんでしょうか？
+line2 <shift> # アイドルが、デパ地下って……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そういうロケもあるだろう。
+line2 <shift> # その練習として、試食コーナーに行くんだ」
+display
+com11 0 0
+sound 20
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ、そうですね。それじゃコメントも
+line2 <shift> # 考えておいた方が、いいのかなぁ……？」
+display
+com11 0 0
+sound 21
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「えーと、コクがあって、まろやかで、えーと、
+line2 <shift> # えーと……ミラクルな味ですねぇ、とか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ミラクルって……、なんかムリがあるなあ。
+line2 <shift> # もっと自然に、感情を込めたほうが、いいよ」
+display
+com11 0 0
+sound 22
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「うう……すみません。やっぱり練習、
+line2 <shift> # 必要ですね。それじゃ、行きましょうか……」
+com09 0 39
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、早く帰ろう」
+display
+com11 0 0
+sound 23
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「えっ。でも今、時間があるって……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「また明日も仕事があるし、
+line2 <shift> # 空いた時間は休息にあてた方がいいと思う」
+display
+com11 0 0
+sound 24
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そ、そうですか。わかりました……。
+line2 <shift> # それじゃ、帰りましょう」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しょんぼりしている。少しくらい、
+line2 <shift> # 寄り道した方が、よかったか？）
+com09 0 39
+display
+location 39
+com22 0 30
+com21 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ん？　なんだか、辺りが騒がしいな……。
+line2 <shift> # バーゲンでもやるのか？」
+display
+com11 0 0
+sound 25
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「プロデューサー、大変ですぅ！
+line2 <shift> # このデパートに、芸能人が来てるらしいですよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なるほど、そういうことか。
+line2 <shift> # ……って、それ、雪歩のことじゃないのか！？」
+display
+com11 0 0
+sound 26
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「えっ？
+line2 <shift> # ……あっ、そういえば、私もそうでした」
+display
+com11 0 0
+sound 27
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「でも皆が探してるのは、私じゃないみたいです
+line2 <shift> # よ。『屋上にいるぞ！』とか、言ってましたし」
+display
+com11 0 0
+sound 28
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あうぅ、私は普通に歩いているのに、
+line2 <shift> # 誰にも気づいてもらえないんですね……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まあ、今は仕方ないよ。でも、いつかは、
+line2 <shift> # 誰もが振り返るアイドルになろうな？」
+display
+com11 0 0
+sound 29
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい。……あっ、プロデューサー！
+line2 <shift> # 人が大勢、こっちの方に……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「雪歩に気づいた……わけではなさそうだな。
+line2 <shift> # エレベーターに向かっているみたいだけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あっ、雪歩！？」
+display
+com11 0 0
+sound 30
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ぷ、プロデューサぁぁー……！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （大変だ！　雪歩が人波に流されて
+line2 <shift> # エレベーターの中に飲まれてしまった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （早く救出しないと！　エレベーターは２基。
+line2 <shift> # いったいどっちのエレベーターだ……？）
+com03 0 2
+choice1 <shift> # 左のエレベーター
+line2
+com09 0 40
+com08
+choice2 <shift> # 右のエレベーター
+line2
+com09 0 41
+com08
+com07
+com09 0 42
+com08
+display
+location 40
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、左のエレベーターだ！
+line2 <shift> # 雪歩、今行くぞ！」
+com37 0 1
+com1e 0 0
+com09 0 48
+com3b
+com37 0 0
+com1e 0 0
+com09 0 49
+com3b
+display
+location 41
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、右のエレベーターだ！
+line2 <shift> # 雪歩、今行くぞ！」
+com37 0 1
+com1e 0 0
+com09 0 48
+com3b
+com37 0 0
+com1e 0 0
+com09 0 49
+com3b
+display
+location 42
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ど、どっちのエレベーターだ！？
+line2 <shift> # ええい、適当に行くぞ！」
+com09 0 49
+display
+location 48
+com22 0 30
+com21 0 30
+com11 0 0
+sound 31
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あう……。
+line2 <shift> # こ、ここです、プロデューサ〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よかった。やっぱりこっちのエレベーター
+line2 <shift> # だったか。どこもケガしてないか？」
+display
+com11 0 0
+sound 32
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい。プロデューサーがすぐに助け出して
+line2 <shift> # くれたから、つぶれずにすみました」
+display
+com11 0 0
+sound 33
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ありがとうございます、プロデューサー。
+line2 <shift> # 本当に、助かりましたぁ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （災い転じて福と成す。
+line2 <shift> # 雪歩の信頼を勝ちとることができてよかった）
+com4b 0 0
+com09 0 59
+display
+location 49
+com22 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……いない。もうひとつの方だったか」
+display
+com21 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「見つけるのが遅くなって悪かった。
+line2 <shift> # 雪歩の姿を見失ってしまったんだ」
+display
+com11 0 0
+sound 34
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あっという間だったから、仕方ないですよ。
+line2 <shift> # それよりも……」
+display
+com11 0 0
+sound 35
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「場内アナウンスで名前呼ばれるのは、
+line2 <shift> # ちょっと恥ずかしかったですぅ……」
+display
+com11 0 0
+sound 36
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「この歳で『迷子の萩原雪歩ちゃん』と
+line2 <shift> # 呼ばれるのは、さすがに……うう……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「し、仕方ないだろ。どこにいるか
+line2 <shift> # わからなかったんだから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （雪歩を助けることができず、恥ずかしい思い
+line2 <shift> # までさせてしまった。悪いことしたな……）
+com4b 0 2
+com09 0 59
+display
+location 59
+unk02

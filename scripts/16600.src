@@ -1,0 +1,267 @@
+com2c 0 24
+com2c 0 49
+com2d 0 31
+com32 0 0
+com11 0 3
+sound 1100
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「プロデューサー！　い、いま、警察から、
+line2 <shift> # 連絡がっ！」
+display
+com11 0 3
+sound 1101
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「コウジが、コウジがっ……。ううう〜」
+com03 0 2
+choice1 <shift> # 浩司って……？
+line2
+com09 0 10
+com08
+choice2 <shift> # 工事って……？
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「浩司って……誰だ？」
+display
+com11 0 3
+sound 1102
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「私の、一番下の弟なんですっ！　さっき、
+line2 <shift> # 保護されたって！」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「工事って……どこがだ？　事務所の前を
+line2 <shift> # 掘り返すとか、そういう連絡？」
+display
+com11 0 3
+sound 1103
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ちがいますっ！　浩司は、私の一番下の
+line2 <shift> # 弟で！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、名前か……」
+display
+com11 0 3
+sound 1104
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はいっ。コウジ、ついさっき、警察で
+line2 <shift> # 保護されたって！」
+com09 0 19
+display
+location 19
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、それは大変だな……」
+display
+com11 0 3
+sound 1105
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「両親に連絡つかなくて、それで私に……。
+line2 <shift> # でも、なんでコウジ、警察なんかに……」
+com03 0 3
+choice1 <shift> # 迷子になったのかな
+line2
+com09 0 20
+com08
+choice2 <shift> # ズル休みでもしたか
+line2
+com09 0 21
+com08
+choice3 <shift> # ……万引きかも
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「迷子になったのかな」
+display
+com11 0 3
+sound 1106
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ、そうかもっ。勝手に家から……」
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ズル休みでもしたか」
+display
+com11 0 3
+sound 1107
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「そんなわけ、ないです！　コウジ、まだ学校
+line2 <shift> # 行ってないし……」
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……万引きかも」
+display
+com11 0 3
+sound 1108
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「そんなこと、するわけないです！　あの子、
+line2 <shift> # とってもこわがりで、悪いことなんて……」
+display
+com11 0 3
+sound 1109
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「お菓子だって、家にいくつか置いて
+line2 <shift> # きてあげたし、それに……。ううう〜」
+com09 0 29
+display
+location 29
+com11 0 3
+sound 1110
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「プロデューサー！　私、行ってきますっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。俺もつきあうよ」
+display
+com22 0 30
+com32 0 1
+com21 0 30
+com11 0 3
+sound 1111
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「理由……、迷子ですって……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか。まあ、よかったじゃないか。
+line2 <shift> # 悪いこと、したんじゃなくて……」
+display
+com11 0 3
+sound 1112
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「私を探して歩いてたって……」
+display
+com11 0 3
+sound 1113
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「今日、これからどうしよ〜。あの子、家に
+line2 <shift> # 帰しても、また出てきちゃうかも……」
+com03 0 3
+choice1 <shift> # 事務所、連れていくか
+line2
+com09 0 30
+com08
+choice2 <shift> # 今日はもう帰るか？
+line2
+com09 0 31
+com08
+choice3 <shift> # 鍵をかけとけば……
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「事務所、連れていくか」
+display
+com11 0 3
+sound 1114
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「いいんですか！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。その方がやよいも安心だろ？」
+display
+com11 0 3
+sound 1115
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はいっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （これがベストだろう。俺もすこし、遊び相手を
+line2 <shift> # してやるかな）
+com09 0 39
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「今日はもう帰るか？」
+display
+com11 0 3
+sound 1116
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「そ、それはしたくないです〜。まだ、お仕事の
+line2 <shift> # 準備とかも残ってますし……」
+display
+com11 0 3
+sound 1117
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「とにかく……電話でカスミに話しておきます。
+line2 <shift> # 絶対、外に出ないよう、見張っててくれって」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「カスミって？」
+display
+com11 0 3
+sound 1118
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「私の下の妹です。小学２年生……」
+display
+com11 0 3
+sound 1119
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「私のすぐ下が、カスミなんで……ちょっと
+line2 <shift> # 頼りないですけど、そうするしか……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （まあ、小学２年なら、見張りぐらいできるか。
+line2 <shift> # ここはその妹に、がんばってもらおう）
+com09 0 39
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「鍵をかけとけば……出てこられないんじゃ
+line2 <shift> # ないか？」
+display
+com11 0 3
+sound 1120
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うーん、お仕事に出る前、そうしてきたんです
+line2 <shift> # けど……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、開けて出てきちゃったのか」
+display
+com11 0 3
+sound 1121
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はい……。まだ小さいけど、それぐらいは
+line2 <shift> # できるんで……」
+display
+com11 0 3
+sound 1122
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「私のすぐ下の妹が、おトイレに入ってる
+line2 <shift> # 最中、外に出ちゃったらしいです」
+display
+com11 0 3
+sound 1123
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「とにかく、電話で妹に言っておきます。トイレ
+line2 <shift> # 入る時は、いっしょに連れてって、って」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ここは、妹にがんばってもらうか。でも、
+line2 <shift> # 子守しながらトイレなんて、あんまりな話だな）
+com09 0 39
+display
+location 39
+unk02

@@ -1,0 +1,473 @@
+com2c 0 25
+com2d 0 11
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今日はアイドル雑誌の取材を受け、
+line2 <shift> # 今、ようやく事務所へ帰り着いた）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「春香、お疲れ様。さっき受けた雑誌の取材、
+line2 <shift> # 特集で２ページ使ってくれるそうだぞ」
+display
+com11 0 0
+sound 0
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「本当ですかっ！？　やったぁ♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「特に、アイドルを目指している女の子たちに、
+line2 <shift> # 春香の体験談を、ぜひ読ませたいらしい」
+display
+com11 0 0
+sound 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「えっ、どうしてですか？
+line2 <shift> # 私の体験談なんて役に立つのかな……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「春香はきっと、同世代の女の子の憧れなんだ。
+line2 <shift> # 自分の力で、夢を叶えつつあるんだから」
+display
+com11 0 0
+sound 2
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「憧れですかぁ。そんな風に考えたこと、なかっ
+line2 <shift> # たです。私、今も普通の女の子っぽいし……」
+display
+com11 0 0
+sound 3
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「こんな普通っぽくていいのか、心配なくらい
+line2 <shift> # です。プロデューサーさん、どう思いますか？」
+com03 0 3
+choice1 <shift> # 等身大の春香でいい
+line2
+com09 0 10
+com08
+choice2 <shift> # いいんじゃないかな
+line2
+com09 0 11
+com08
+choice3 <shift> # アイドルとしての自覚を
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「等身大の春香でいい、と俺は思うよ。
+line2 <shift> # 普通っぽさも、春香の魅力の一つなんだし」
+display
+com11 0 0
+sound 4
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい。そう言ってもらえると、うれしいです。
+line2 <shift> # そうですよね。私は、私のままで……」
+display
+com11 0 0
+sound 5
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「今のままの私を、ファンのみんなにも応援して
+line2 <shift> # もらえたらいいなって、思います！」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いいんじゃないかな。そんな感じで」
+display
+com11 0 0
+sound 6
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「えっ……。なんかプロデューサーさん、
+line2 <shift> # 投げやりっぽくないですか……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あっ、いや。本当にいいと思うから、いいん
+line2 <shift> # じゃないって言ったんだけど」
+display
+com11 0 0
+sound 7
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「それならいいんですけど……。じゃあ、
+line2 <shift> # ひとまずは普通っぽいままでＯＫ……かなぁ？」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「アイドルとしての自覚をすべきだな」
+display
+com11 0 0
+sound 8
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「自覚……ですか。
+line2 <shift> # もちろんレッスンしたり、体調を整えたり……」
+display
+com11 0 0
+sound 9
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そういう自覚はありますけど、やっぱり
+line2 <shift> # 気持ちは、普通の女の子ですよ……？」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そうそう。今日の雑誌の取材で、
+line2 <shift> # こんなことを聞かれたんです」
+display
+com11 0 0
+sound 11
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「自分がアイドルになれたのは、どうしてだと
+line2 <shift> # 思いますか？　って……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「で、春香はなんて答えたんだ？」
+display
+com11 0 0
+sound 12
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「私は、歌が大好きだったからって答えました。
+line2 <shift> # 間違ってないですよね……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだな。それももちろんあるけど、
+line2 <shift> # もうひとつ、理由をあげるとしたら……」
+com03 0 3
+choice1 <shift> # 俺と出会ったからかな？
+line2
+com09 0 20
+com08
+choice2 <shift> # 春香の見た目がいいからだ！
+line2
+com09 0 21
+com08
+choice3 <shift> # 運が良かったから
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺と出会ったからかな？　なーんて……」
+display
+com11 0 0
+sound 13
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、はい！　そうですね！
+line2 <shift> # プロデューサーさんがいなかったら、私……」
+display
+com11 0 0
+sound 14
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「きっとアイドルとして、ここまで来ることは
+line2 <shift> # できませんでした。本当に感謝してます！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ははは、そこまで言われると照れるな。
+line2 <shift> # でも、こちらこそ感謝しているよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「春香と一緒じゃなければ、俺もここまで来る
+line2 <shift> # ことはできなかったかもしれないから」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「春香の見た目がいいからだ！」
+display
+com11 0 0
+sound 15
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あははっ、プロデューサーさ〜ん。
+line2 <shift> # それって、すっごくうれしいんですけど……」
+display
+com11 0 0
+sound 16
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そんなに力いっぱい言われると、
+line2 <shift> # なんだか恥ずかしいです……」
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「運が良かったから、だな」
+display
+com11 0 0
+sound 17
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「確かに、その通りですね……。オーディション
+line2 <shift> # なんかは、運の要素もありますし」
+display
+com11 0 0
+sound 18
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「でも、そう言っちゃうと、これからアイドルを
+line2 <shift> # 目指す子は、がっかりしちゃいそうですよ……」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 19
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、そういえば取材の最中に、これからアイド
+line2 <shift> # ルとしてどうなるか、占いをしてくれたんです」
+display
+com11 0 0
+sound 20
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「雑誌の人気コーナーらしくて。毎回いろんな
+line2 <shift> # 有名人の将来を占ってるって言ってました」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「へえ〜。占いの結果はどうだったんだ？」
+display
+com11 0 0
+sound 21
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「それが……ちょっと嫌なこと言われちゃって。
+line2 <shift> # プロデューサーさんとの相性が、よくないって」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「な、なんだって！？　失礼な占いだな！」
+display
+com11 0 0
+sound 22
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「私も反論しました！　でも、占いだから
+line2 <shift> # どうしようもないって……」
+display
+com11 0 0
+sound 23
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「けど、このままじゃ気分悪いし……。
+line2 <shift> # 今から相性診断、やり直してみませんか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ、今から？　ここで？」
+display
+com11 0 0
+sound 24
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい！　学校で流行っている相性診断が
+line2 <shift> # あるんです。すっごく当たるって、評判で！」
+display
+com11 0 0
+sound 25
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「それでもダメな結果が出たら、本当に相性
+line2 <shift> # よくないのかもしれないですけど……」
+display
+com11 0 0
+sound 26
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「でも、本当は相性いいかもしれないし。
+line2 <shift> # 私、ちゃんと確かめてみたいんですっ！」
+display
+com11 0 0
+sound 27
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「絶対に、最高の相性のはずだから！
+line2 <shift> # プロデューサーさんも、そう思いますよね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、もちろんだ！　よし、その相性診断で
+line2 <shift> # 相性のいいことを、証明してやろう！」
+display
+com11 0 0
+sound 28
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「じゃあ、始めますね。裏返しに並べた
+line2 <shift> # ３枚のカードから、１枚だけ選んでください」
+display
+com11 0 0
+sound 29
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「選んだカードが私と同じなら、相性は
+line2 <shift> # バッチリです。行きますよ〜？」
+display
+com11 0 0
+sound 30
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい、どのカードがいいですか？」
+com03 0 3
+choice1 <shift> # 右のカード
+com09 0 30
+com08
+choice2 <shift> # 左のカード
+com09 0 31
+com08
+choice3 <shift> # 真ん中のカード
+line2
+com09 0 32
+com08
+com07
+com09 0 33
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「右のカード」
+com37 0 1
+com1e 0 0
+com09 0 38
+com3b
+com37 0 0
+com1e 0 0
+com09 0 39
+com3b
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「左のカード」
+com37 0 1
+com1e 0 0
+com09 0 38
+com3b
+com37 0 0
+com1e 0 0
+com09 0 39
+com3b
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「真ん中のカード」
+com37 0 1
+com1e 0 0
+com09 0 38
+com3b
+com37 0 0
+com1e 0 0
+com09 0 39
+com3b
+display
+location 33
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん……このカードにしてみる」
+com09 0 39
+display
+location 38
+com11 0 0
+sound 31
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「それでは……オープン！
+line2 <shift> # わあ……すごい！　私と同じカードですっ！」
+display
+com11 0 0
+sound 32
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ふたりともダイヤのエースを選んだので、仕事
+line2 <shift> # のパートナーとして、大成功するらしいです！」
+display
+com11 0 0
+sound 33
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「すごいですねっ！　今よりももっと、
+line2 <shift> # 成功しちゃうなんて……！」
+display
+com11 0 0
+sound 34
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「今だって、じゅうぶん成功してるのに……。
+line2 <shift> # 全部、プロデューサーさんのおかげですけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「何言ってるんだ、春香。
+line2 <shift> # 春香はまだまだ、上を目指せるよ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「この占いでもわかっただろう？
+line2 <shift> # 俺たちの相性は、最高にして最強なんだ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だから、安心して俺について来ればいい。
+line2 <shift> # 一緒にトップを目指そう……なっ！」
+display
+com11 0 0
+sound 35
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はいっ！　なんだか自信がわいてきた気が
+line2 <shift> # します。占いに背中を押されたみたいな……」
+display
+com11 0 0
+sound 36
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「明日からも、がんばりましょうねっ！
+line2 <shift> # よろしくお願いします、プロデューサーさん」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （春香は取材の時の悪い占い結果など、
+line2 <shift> # すっかり忘れてしまったようだ……。よかった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （いい結果だったほうの占いを信じて、
+line2 <shift> # 共に突き進もうな。春香！）
+com4b 0 0
+com09 0 69
+display
+location 39
+com11 0 0
+sound 37
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「それでは……オープン！
+line2 <shift> # あれれ？　私と違うカードですよ！？」
+display
+com11 0 0
+sound 38
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「このカードの組み合わせは、えっと……
+line2 <shift> # かなり危険な相性ですね……」
+display
+com11 0 0
+sound 39
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「一緒に行動すると、ケガが増える相性
+line2 <shift> # です……」
+display
+com11 0 0
+sound 40
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「うう……。ど、どうしましょう？
+line2 <shift> # プロデューサーさん」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だ、大丈夫だよ、春香。
+line2 <shift> # 占いなんて信じなければいいんだから」
+display
+com11 0 0
+sound 41
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「で、でも……。この相性占い、本当に
+line2 <shift> # よく当たるんですよ？」
+display
+com11 0 0
+sound 42
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そういえば……プロデューサーさんと
+line2 <shift> # 出会ってから、転ぶ回数が増えたかも！？」
+display
+com11 0 0
+sound 43
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「やっぱり、相性よくないのかなぁ……？
+line2 <shift> # そんなはずないのに……。ううっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （たかが占いと思ったのに、春香は結果を
+line2 <shift> # すっかり信じ込んで、ショックを受けている）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （素直な子だから、悪影響になるかもしれない。
+line2 <shift> # 今後、うまくフォローしてやらないとな……）
+com4b 0 2
+com09 0 69
+display
+location 69
+unk02

@@ -1,0 +1,393 @@
+com2c 0 24
+com2d 0 51
+com32 0 0
+com11 0 0
+sound 10000
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「プ・ロ・デュー・サー・さん！　ふふっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ど、どうしたんですか、あずささん。
+line2 <shift> # 何だか、ご機嫌ですね」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ふふっ、なんでもありません。それより、プロ
+line2 <shift> # デューサーさん。今ほしいものは、何ですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え？　なんですか、唐突に」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「いいですから。
+line2 <shift> # さあ、何でも遠慮しないで言って下さい」
+com03 0 3
+choice1 <shift> # 素敵な彼女です
+line2
+com09 0 10
+com08
+choice2 <shift> # 永遠のトップアイドルの座かな
+line2
+com09 0 11
+com08
+choice3 <shift> # 特にないです
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「素敵な彼女が、ほしいです」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「えっ！？　か、彼女ですか……？　そういう
+line2 <shift> # 返事は、ちょっと予想していませんでした〜」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「んー。でも、それなら実は、一番早く、
+line2 <shift> # 用意できると言えるような気も……」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あら。やだ、私ったら……。そんなの、
+line2 <shift> # プロデューサーさんの意思もあるのに……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あずささん？　何をブツブツ、独り言、
+line2 <shift> # 言ってるんです？」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、いえ！　何でもありません〜。
+line2 <shift> # き、気にしないで下さい」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺のほしいものは、永遠のトップアイドルの
+line2 <shift> # 座かな、という感じです」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「え、プロデューサーさん、
+line2 <shift> # トップアイドルを目指してらしたんですか〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「い、いえ。もちろん、あずささんが君臨する、
+line2 <shift> # 永遠のトップアイドルの座、って意味ですよ」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、そうですよね〜。……でも、
+line2 <shift> # それはそれで、なかなか大変な要望ですよ？」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ただのトップアイドルではなくて、『永遠の』
+line2 <shift> # となると、今の私には、まだまだです」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「もちろん、がんばりますけれど、
+line2 <shift> # 今すぐにというわけには……」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ほしいものは……、特にないです」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そんな！　それだと、困ってしまうのです
+line2 <shift> # けれど。何か、ありませんか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、そう言われても。
+line2 <shift> # さしあたって、何も思いつかないですよ」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 10012
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「……では、行きたい場所は、ありませんか？
+line2 <shift> # どこでもいいから、教えて下さい」
+com03 0 3
+choice1 <shift> # 南の島にバカンス
+line2
+com09 0 30
+com08
+choice2 <shift> # 自宅でノンビリ
+line2
+com09 0 31
+com08
+choice3 <shift> # 宇宙
+com09 0 32
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ、南の島にバカンスに行きたいですね」
+display
+com11 0 0
+sound 10013
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「まあ！　ステキですね〜。誰もいない木陰で、
+line2 <shift> # ふたりっきりで、のんびりと……」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「夜は、たき火を見つめながら、お話したりして。
+line2 <shift> # ロマンチックです〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いいですね！　クルーザーを借りて、
+line2 <shift> # 海に出るという手も、ありますよ」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ふふっ。楽しそう！　でも私、乗り物酔いする
+line2 <shift> # ので、酔い止めの薬が必要かもしれません……」
+display
+com11 0 0
+sound 10016
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「……あら？　いつの間にか、雑談になって
+line2 <shift> # しまいましたね。こんなはずでは……」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「特にないので、自宅でノンビリしたいですね」
+display
+com11 0 0
+sound 10017
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「え？　行きたい場所、ないんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だって、旅行するとなると、色々、大変じゃ
+line2 <shift> # ないですか。スケジュールも、カツカツですし」
+display
+com11 0 0
+sound 10018
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そ、それは、その通りなんですがー……」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ、宇宙に行きたいです」
+display
+com11 0 0
+sound 10019
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「う、宇宙ですか！？　それは、いくらなんでも、
+line2 <shift> # 難しくはありませんか〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いえ、本当に行けるとは思ってませんが、
+line2 <shift> # 行きたい場所を、きかれたので、つい……」
+display
+com11 0 0
+sound 10020
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あのー、他にありませんか？　行きたい場所。
+line2 <shift> # もっと簡単に行ける場所を、お願いします」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、特には、思いつかないですね……」
+com09 0 49
+display
+location 49
+com11 0 0
+sound 10021
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はあ〜。難しいです。私にプロデューサーさん
+line2 <shift> # の願いをかなえるのはムリなんでしょうか……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「さっきから、どうしたんです？
+line2 <shift> # そろそろ、種明かしをして下さいよ」
+display
+com11 0 0
+sound 10022
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はい。いつもお世話になっている、プロデュー
+line2 <shift> # サーさんに、お礼がしたいと思いまして……」
+display
+com11 0 0
+sound 10023
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「何か、私にできることはないかなと、
+line2 <shift> # さっきから、おききしていたんです〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだったんですか……。
+line2 <shift> # でも、別にムリしなくて、いいですよ」
+display
+com11 0 0
+sound 10024
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「いえ、いつもご迷惑かけてますし。
+line2 <shift> # 何か私にできるプレゼント、したいんです」
+com03 0 3
+choice1 <shift> # 何かごちそうして下さい
+line2
+com09 0 50
+com08
+choice2 <shift> # 物は、いらないです
+line2
+com09 0 51
+com08
+choice3 <shift> # 一生懸命、働いて下さい
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃ、何かごちそうして下さい。いつも忙しく
+line2 <shift> # て外食ばかりだから、違うものがいいな……」
+display
+com11 0 0
+sound 10025
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「では、私の手料理でもいいですか？
+line2 <shift> # それでしたら、喜んで作ってきます〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「えっ、本当にいいんですか？　あずささんの
+line2 <shift> # 手料理が食べられるなんて、幸せだな〜！」
+display
+com11 0 0
+sound 10026
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あまり期待は、しないで下さいね？
+line2 <shift> # たいしたものは、作れませんから」
+display
+com11 0 0
+sound 10027
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「でも……、その代わり、
+line2 <shift> # 愛情は、たっぷり込めてきます。ふふっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （後日、あずささんは、本当に俺のためだけに、
+line2 <shift> # 料理を作ってきて、プレゼントしてくれた）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （素朴で優しい味の料理に大満足だ。
+line2 <shift> # プロデューサー感謝デー、ばんざいっ！）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「気持ちは、うれしいんですけど、
+line2 <shift> # 物は、いらないです」
+display
+com11 0 0
+sound 10028
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「では、それ以外のことだったら、いいですか？
+line2 <shift> # たとえば、お仕事のお手伝いとか雑用とか……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうですね……。では、
+line2 <shift> # お茶をいれてもらう、とかでもいいですか？」
+display
+com11 0 0
+sound 10029
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「お茶ですね。はい、わかりました〜。他にも、
+line2 <shift> # 何かあったら、遠慮なく言って下さい」
+display
+com11 0 0
+sound 10030
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「今日一日、私、プロデューサーさんに、
+line2 <shift> # 精一杯ご奉仕しますから〜。ふふっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （俺のために、ここまで気をつかってくれるなん
+line2 <shift> # て、あずささんは、本当に優しい人だな……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （俺も、あずささんの信頼に応え続けられるよう、
+line2 <shift> # がんばらないとな！）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃ、一生懸命、働いて下さい。
+line2 <shift> # それが何よりのプレゼントですから」
+display
+com11 0 0
+sound 10031
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そうですか……。私がプロデューサーさんの
+line2 <shift> # ために出来ることは、お仕事しかないんですね」
+display
+com11 0 0
+sound 10032
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「なんだか残念です。それに、
+line2 <shift> # そういう風に言われてしまうということは……」
+display
+com11 0 0
+sound 10033
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「普段の私の仕事ぶりが、まだまだだっていう
+line2 <shift> # ことですよね〜。はあーあ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「い、いや！　決して、そういう意味では！」
+display
+com11 0 0
+sound 10034
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「いえ、いいんです。プロデューサーさんの
+line2 <shift> # お気持ちは、よくわかりましたから」
+display
+com11 0 0
+sound 10035
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「私、お仕事がんばりますね。いつか、私の
+line2 <shift> # プレゼント、受け取っていただけるように……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （あずささんは寂しそうに笑った。少しくらい、
+line2 <shift> # お言葉に甘えた方が、良かったのかな）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、プロデューサー感謝デーが、
+line2 <shift> # 再び開催されることは、なかった……）
+com09 0 69
+display
+location 69
+unk02

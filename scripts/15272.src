@@ -1,0 +1,455 @@
+com2c 0 24
+com2d 0 31
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （毎日、事務所には、やよい宛てに、
+line2 <shift> # たくさんのプレゼントが届いている）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （空き時間を利用して、俺とやよいは、
+line2 <shift> # プレゼントの整理をすることにした）
+display
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「……うう〜、どうしよ〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ん？　どうしたんだ、やよい？
+line2 <shift> # なんだか困ってるようだけど」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「う〜ん、う〜ん……。あっ！　プロデューサー、
+line2 <shift> # ごめんなさい！　今、何か言いましたかー？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺の声が、きこえないぐらい悩んでいたという
+line2 <shift> # ことは、プレゼントに何か問題があるんだな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もしかして……」
+com03 0 3
+choice1 <shift> # 量が多すぎるのか？
+line2
+com09 0 10
+com08
+choice2 <shift> # 嫌いなのか？
+line2
+com09 0 11
+com08
+choice3 <shift> # 変な物でも入ってたか？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「プレゼントの、量が多すぎるのか？」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「プロデューサーって、私のこと、なんでも
+line2 <shift> # わかっちゃうんですねー。ビックリかも！」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そうなんです。ファンのみなさんの気持ちは、
+line2 <shift> # すっごくすっごく、うれしいんですけど……」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「プレゼントが、嫌いなのか？」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えっ？　いえ、
+line2 <shift> # そんなことは、全然ないですよ！」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「プレゼントって、とってもあったかい気持ちが、
+line2 <shift> # こもってるじゃないですかー」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「だから私、プレゼントをもらうのもあげるのも、
+line2 <shift> # 大好きなんですよ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「へぇー、そっか。でも、じゃあ、
+line2 <shift> # なんでさっきは、困った顔してたんだ？」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「変な物でも入ってたのか？　ある程度は、
+line2 <shift> # 事務所側でチェックしたはずなんだが」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「音無さんに確認をしないとな……」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あの、変な物なんてないですよ。私、どんな
+line2 <shift> # プレゼントでも、うれしいですし。えへへ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……本当にそうか？
+line2 <shift> # たとえば、心霊写真とかが入っていても？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「または、謎の幼虫とかが入ってても、
+line2 <shift> # 本当の本当に、うれしいのか？」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「……あ、あうー。
+line2 <shift> # それはちょっと、イヤかもですけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……だろう？　でもまあ、さっきの困った顔は、
+line2 <shift> # それとは違うんだよな？　じゃあ、何なんだ？」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10009
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「それは……。
+line2 <shift> # あの、ちょっと量が多いのが……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「量？」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 10010
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「いっぱいプレゼントが来ると、
+line2 <shift> # うちの押入れに、入りきらなくて……」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「またこんなに持って帰ったら、今度は、
+line2 <shift> # 部屋の半分以上が埋まっちゃいます〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それは、本当に困るな」
+display
+com11 0 0
+sound 10012
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「今朝もお母さんに『何とかしないと、お布団が
+line2 <shift> # 敷けなくなるわよ』って言われてきたのに……」
+display
+com11 0 0
+sound 10013
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「家族の寝る場所がピンチです！
+line2 <shift> # どうしましょう〜、プロデューサーっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん……。あ！　もしかしてやよい、今まで
+line2 <shift> # もらったプレゼント、全部持ち帰ってたのか？」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はい。だって、せっかくファンのみなさんが、
+line2 <shift> # プレゼントしてくれた物ですから！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それじゃ家がパンクするわけだ。なあ、やよい。
+line2 <shift> # プレゼントが、家に入りきらないなら……」
+com03 0 3
+choice1 <shift> # 誰かにあげちゃいなさい
+line2
+com09 0 30
+com08
+choice2 <shift> # 売っ払って家計の足しにしよう
+line2
+com09 0 31
+com08
+choice3 <shift> # 家を新築しなさい
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「誰かにあげちゃいなさい。
+line2 <shift> # 友達か、近所の人にでも」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ええっ！？　でも、ファンの人が、
+line2 <shift> # 私にって、くれた物じゃないですか」
+display
+com11 0 0
+sound 10016
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「それを他の人にあげちゃうのって、
+line2 <shift> # なんとなく、くれた人に悪いかなーって」
+display
+com11 0 0
+sound 10017
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「プレゼントしてくれた人の気持ちを考える
+line2 <shift> # と……。私、そんなことできません！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そりゃ確かに、そうなんだけど……」
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「売っ払って家計の足しにしよう。
+line2 <shift> # 家も片付くし、お金も稼げるし、一石二鳥だぞ」
+display
+com11 0 0
+sound 10018
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ええっ！？　で、でもファンの人が、
+line2 <shift> # せっかく私にって、くれた物なのに……」
+display
+com11 0 0
+sound 10019
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「勝手に売るなんてヒドイかも。そんなこと、私、
+line2 <shift> # 絶対に出来ませんし、やりたくないです〜っ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうか……。まあ、売っ払うのは、さすが
+line2 <shift> # にやりすぎかもな。言い過ぎたよ。ごめんな」
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「家を新築しなさい。プレゼントが全部入る、
+line2 <shift> # 広くて立派な家を。いい機会なんじゃないか？」
+display
+com11 0 0
+sound 10020
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えええっ！？　で、でも家を建て替えるって、
+line2 <shift> # すごくお金が、かかるんですよ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、自分にプレッシャーをかける意味でも、
+line2 <shift> # 思い切るのも、いいかもしれないぞ」
+display
+com11 0 0
+sound 10021
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「でもでも、うちはたしか借家だから、
+line2 <shift> # 土地を買うところから、始めなきゃですよね？」
+display
+com11 0 0
+sound 10022
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そうなると、まず土地を買って、それから家を
+line2 <shift> # 買って……。うう、考えただけでめまいが……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「むう、やよいには、
+line2 <shift> # 刺激が強すぎる案だったか……」
+com09 0 49
+display
+location 49
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でもな、実際問題として、このまま全部、
+line2 <shift> # 持ち帰るわけにはいかないだろ？」
+display
+com11 0 0
+sound 10023
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そう……、ですね。今日は何とかなっても、
+line2 <shift> # いつかは、家からあふれちゃうだろうし」
+display
+com11 0 0
+sound 10024
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「私、本当に、どうすればいいんでしょう〜。
+line2 <shift> # プロデューサ〜！」
+com03 0 3
+choice1 <shift> # プレゼントの気持ちも考えろ
+line2
+com09 0 50
+com08
+choice2 <shift> # 事務所で保管しておくよ
+line2
+com09 0 51
+com08
+choice3 <shift> # 俺が処分する
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やよい、プレゼントの気持ちって、
+line2 <shift> # 考えたことはあるか？」
+display
+com11 0 0
+sound 10025
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「……え？　プレゼントの、気持ち？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、そうだ。考えてみてくれ。贈ってくれた
+line2 <shift> # ファンの気持ちは、確かに大事だ。でも……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やよいの家の押入れに、しまわれっぱなしで、
+line2 <shift> # プレゼント達は、うれしいのかな？」
+display
+com11 0 0
+sound 10026
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「……あっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ちゃんと使ってくれる人の所へ行った方が、
+line2 <shift> # プレゼントだって、喜ぶんじゃないか？」
+display
+com11 0 0
+sound 10027
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そ、そうかも。私、プレゼントの
+line2 <shift> # 気持ちなんて、考えたことなかったけど……」
+display
+com11 0 0
+sound 10028
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「家に大事にしまってるより、使ってくれる人に
+line2 <shift> # あげた方が、いいのかもですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、そうだな。でも、プレゼントを贈って
+line2 <shift> # くれた人の気持ちだけは、忘れないでくれよ」
+display
+com11 0 0
+sound 10029
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はいっ！　それは大丈夫です！　私、
+line2 <shift> # みなさんの気持ちは、絶対、忘れませんから！」
+display
+com11 0 0
+sound 10030
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「よーし。今日、帰ったら、さっそく、プレゼン
+line2 <shift> # ト達の、引き取り手を探してみよーっと！」
+display
+com11 0 0
+sound 10031
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えっと、町内の掲示板と、学校の掲示板と、
+line2 <shift> # 図書館のなかよし広場に書けば……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よし、問題は解決しそうだな。それに、やよい
+line2 <shift> # の純粋な気持ちを傷つけずにすんで、よかった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （明日から俺も、
+line2 <shift> # 一緒に探してやることにしよう！）
+com09 0 69
+display
+location 51
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……しょうがない、事務所で保管しておくか」
+display
+com11 0 0
+sound 10032
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「本当ですかっ！？　そうしてもらえると、
+line2 <shift> # うれしいかなーって。あ、でも……」
+display
+com11 0 0
+sound 10033
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うちみたいに、事務所も、プレゼントで、
+line2 <shift> # いっぱいになったりしませんか〜？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「その時は、保管用に倉庫でも借りるさ。
+line2 <shift> # そのくらいの予算は出るだろう」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「社長も鬼じゃない……、と思う」
+display
+com11 0 0
+sound 10034
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そうですか。よかった〜。
+line2 <shift> # ありがとうございます、プロデューサー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （やよいの気持ちを尊重できて、良かった。
+line2 <shift> # ……でも、予算、本当に出るのかな？）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺のボーナスが、知らない間にカットされて
+line2 <shift> # いそうで、何だか恐ろしいな……）
+com09 0 69
+display
+location 52
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……仕方ない。今日からプレゼントの
+line2 <shift> # 持ち帰りは禁止だ。全部、俺が処分するからな」
+display
+com11 0 0
+sound 10035
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ええーっ！？　しょ、処分って、
+line2 <shift> # まさか、捨てちゃうんですかーっ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それしかないだろ。プレゼントで、
+line2 <shift> # やよいの家がパンクしたら困るからな」
+display
+com11 0 0
+sound 10036
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「それはそうですけど。うう、でもやっぱりイヤ
+line2 <shift> # かも。みんなの気持ち、捨てちゃうみたいで」
+display
+com11 0 0
+sound 10037
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「私、全部、持って帰ります〜。私が、
+line2 <shift> # カスミと同じお布団に入れば、もう少しは……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （やよいの純粋な気持ちを傷つけてしまった。
+line2 <shift> # これじゃプロデューサー失格だ……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （とりあえず、倉庫でも借りて保管するか。
+line2 <shift> # トホホ、痛い出費になりそうだな……）
+com09 0 69
+display
+location 69
+unk02

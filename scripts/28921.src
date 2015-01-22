@@ -1,0 +1,411 @@
+com2c 0 37
+com2c 0 204
+com2d 0 42
+com32 0 0
+com11 0 0
+sound 0
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「１９８、１９９、２００……！
+line2 <shift> # ふぅ……腹筋、終了」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ななじゅうろ〜く！　ななじゅうな〜な！
+line2 <shift> # ……は、腹が痛い……！」
+display
+com11 0 0
+sound 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……あの、プロデューサー。
+line2 <shift> # ひとつお聞きしたいのですが」
+display
+com11 0 0
+sound 2
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「なぜ、私といっしょに
+line2 <shift> # トレーニングをしているのですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それは、ひとりでやるより、
+line2 <shift> # ふたりでやる方が……」
+com03 0 3
+choice1 <shift> # 真剣になるから
+line2
+com09 0 11
+com08
+choice2 <shift> # 効率的だから
+line2
+com09 0 12
+com08
+choice3 <shift> # 楽しいから
+com09 0 13
+com08
+com07
+com09 0 13
+com08
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「真剣になるからだ。相手がいると、
+line2 <shift> # みっともないマネはできないだろ？」
+display
+com11 0 0
+sound 3
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「他者の目を意識することで、
+line2 <shift> # 自分の中の甘えをなくす……ということですか」
+display
+com11 0 0
+sound 4
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ですが、私には必要ありません。
+line2 <shift> # 常に自分に厳しく、努めていますから」
+com09 0 14
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「効率的だからだ」
+display
+com11 0 0
+sound 5
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「お言葉ですが、ひとりの方がペース配分も
+line2 <shift> # 調整できて、ずっと効率的だと思います」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「む……それもそうか」
+com09 0 14
+display
+location 13
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「楽しいじゃないか」
+display
+com11 0 0
+sound 6
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「苦しいのならともかく、
+line2 <shift> # 楽しい必要はありません」
+display
+com11 0 0
+sound 7
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「これは、トレーニングですから」
+com09 0 14
+display
+location 14
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まぁ、それだけじゃないんだ。
+line2 <shift> # 千早はひとりでいることが多いだろう？」
+display
+com11 0 0
+sound 8
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はい。ひとりの方が、気も楽ですし……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、アイドルとして仕事を続けるなら、
+line2 <shift> # もう少し人と関わったほうがいい気がするんだ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「で、まずは手始めに、
+line2 <shift> # 俺と関わって欲しいと思ってさ」
+display
+com11 0 0
+sound 9
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そう言われても……プロデューサーとは、今で
+line2 <shift> # も、じゅうぶん関わっていると思うのですけど」
+display
+com11 0 0
+sound 10
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「それに、他者となれ合うことが、今の私に
+line2 <shift> # プラスになるとは思えません」
+com03 0 3
+choice1 <shift> # いい歌手になれないぞ
+line2
+com09 0 21
+com08
+choice2 <shift> # なれ合いも処世術だ
+line2
+com09 0 22
+com08
+choice3 <shift> # ひとりぼっちはつまらないぞ
+line2
+com09 0 23
+com08
+com07
+com09 0 23
+com08
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなことじゃ、いい歌手になれないぞ」
+display
+com11 0 0
+sound 11
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「おっしゃってる意味がわかりません。
+line2 <shift> # プロの歌手とは、孤高の存在――」
+display
+com11 0 0
+sound 12
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ストイックにただ歌い、
+line2 <shift> # 他者の助けを必要としないのでは？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ、今の千早に……
+line2 <shift> # 例えば、友情の歌が歌えるのか？」
+display
+com11 0 0
+sound 13
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そ、それは……」
+display
+com11 0 0
+sound 14
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……確かに、難しい部分はあります。
+line2 <shift> # 今の私には……」
+com09 0 24
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なれ合いも処世術だ。知らなければ、
+line2 <shift> # 芸能界で生き残るのは難しいぞ」
+display
+com11 0 0
+sound 15
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「知恵として、なれ合いも学べと……
+line2 <shift> # そうおっしゃりたいんですね」
+display
+com11 0 0
+sound 16
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「言いたいことは理解できますが……」
+com09 0 24
+display
+location 23
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ひとりぼっちはつまらないぞ」
+display
+com11 0 0
+sound 17
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「私はひとりですが、退屈はしていません。
+line2 <shift> # 毎日、歌のことで頭がいっぱいです」
+display
+com11 0 0
+sound 18
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「つまらない……などということはないので、
+line2 <shift> # プロデューサーの考えには、賛同しかねます」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う……。そ、そうか……」
+com09 0 24
+display
+location 24
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ともかく、千早にはどんな形でもいいから、
+line2 <shift> # 人と関わって欲しいんだよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「きっと今後のために、プラスになることが
+line2 <shift> # ある！　……と、思うんだけどな」
+display
+com11 0 0
+sound 19
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……そうでしょうか？」
+display
+com11 0 0
+sound 20
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「やはり、私にはプロデューサーの考えが
+line2 <shift> # 理解できません」
+display
+com11 0 0
+sound 21
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……それでは、トレーニングの
+line2 <shift> # 続きがありますので、これで」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （手強いな……だが、ここで
+line2 <shift> # 引き下がるわけにはいかない！）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだ千早、次は俺とテニスをしないか？」
+display
+com11 0 0
+sound 22
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサー……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ものは試しってことで。
+line2 <shift> # な？　いいだろう？」
+display
+com11 0 0
+sound 23
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……わかりました、お相手しましょう。
+line2 <shift> # ただし……」
+display
+com11 0 0
+sound 24
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「私が勝ったら、残りの時間は
+line2 <shift> # 自主練習にあてても？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いいよ。でも、俺が勝ったら、
+line2 <shift> # 俺とトレーニングしてくれよ」
+display
+com11 0 0
+sound 25
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はい、それでいいです」
+display
+com22 0 30
+com32 0 1
+com21 0 30
+com11 0 0
+sound 26
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサーから、サーブどうぞ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よーし……！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （いちかばちか、右か左に大きく振る……これ
+line2 <shift> # しかない！　問題は、どちらに振るかだが……）
+com03 0 2
+choice1 <shift> # 右だ！
+com09 0 31
+com08
+choice2 <shift> # 左だ！
+com09 0 31
+com08
+com07
+com09 0 32
+com08
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「こっちだっ！！」
+com37 0 1
+com1e 0 0
+com09 0 33
+com3b
+com37 0 0
+com1e 0 0
+com09 0 34
+com3b
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「えーい、適当に行くぞ！　とりゃっ！」
+com09 0 34
+display
+location 33
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そーれっ！」
+display <shift> # バシッ
+display
+com11 0 0
+sound 27
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「しまった、逆……！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よーし！　やった！
+line2 <shift> # はっはー！　まだまだ甘いな、千早クン！」
+display
+com11 0 0
+sound 28
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……なんだか、とてもくやしいです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、やる気が出てきたか？」
+display
+com11 0 0
+sound 29
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はい。プロデューサー相手に手加減は
+line2 <shift> # 不要だということがわかりました」
+display
+com11 0 0
+sound 30
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ですから、次は全力でいきます」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そう簡単にやらせないぞ？」
+display
+com11 0 0
+sound 31
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「望むところです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （この後、コツをつかんだ千早に
+line2 <shift> # ボコボコにされてしまったが……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （誰かとトレーニングする楽しさを、少しは理解
+line2 <shift> # してもらえたと思う。意義のある時間だったな）
+com4b 0 0
+com09 0 69
+display
+location 34
+com11 0 0
+sound 32
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なにっ！？」
+display <shift> # バシッ
+display
+com11 0 0
+sound 33
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「私の勝ちです。
+line2 <shift> # これで、文句はありませんよね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う……。俺のサーブを、あんなに簡単に受ける
+line2 <shift> # なんて……。も、もう１回！」
+display
+com11 0 0
+sound 34
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサー、これ以上は時間の無駄です。
+line2 <shift> # 先程の約束、覚えていますよね？」
+display
+com11 0 0
+sound 35
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「私は、自分のトレーニングメニューがあります
+line2 <shift> # ので、これで……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ……行っちゃった」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （結局、千早は不機嫌そうな表情で
+line2 <shift> # ひとりで黙々とメニューをこなした……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （千早の力になりたかったのに……
+line2 <shift> # 完全に失敗してしまったみたいだ）
+com4b 0 2
+com09 0 69
+display
+location 69
+unk02

@@ -1,0 +1,240 @@
+com2c 0 67
+com2d 0 81
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さ、真、早く事務所に戻ろう。
+line2 <shift> # 帰ったら、ミーティングだ」
+display
+com11 0 3
+sound 1200
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ちょっと、待って下さい！　あの街頭ＴＶ、
+line2 <shift> # 今、レースの結果発表、やって……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ん？　カーレースになんて、興味あるのか」
+com03 0 2
+choice1 <shift> # 好きなドライバーが、いるとか？
+line2
+com09 0 10
+com08
+choice2 <shift> # 車、好きなのか？
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「好きなドライバーが、いるとか？」
+display
+com11 0 3
+sound 1201
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「好きかどうかは、微妙ですけど……、
+line2 <shift> # やっぱり、結果は、気になっちゃいますね」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「車、好きなのか？」
+display
+com11 0 3
+sound 1202
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「車には、とくに関心ないです。
+line2 <shift> # 気になるのは、ドライバーの方で」
+display
+com11 0 3
+sound 1203
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「どうでもいいとも思うんですけど、こういう
+line2 <shift> # ところで見かけると、やっぱり、素通りは……」
+com09 0 29
+display
+location 29
+com11 0 3
+sound 1204
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「えーと、菊地真一は……、１１位！
+line2 <shift> # 父さん、今回は完走できたんだ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええっ？　真の父さんって、
+line2 <shift> # レースドライバーだったのか！？」
+display
+com11 0 3
+sound 1205
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「はい。すごい選手じゃないですけど、
+line2 <shift> # 一応……」
+display
+com11 0 3
+sound 1206
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「全然もうからないんで、家、大変です。
+line2 <shift> # 母さんの稼ぎで、もってるようなもんだし」
+display
+com11 0 3
+sound 1207
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「父さん、一時期、ボクを本気でドライバーに、
+line2 <shift> # しようとしたこと、あるんですよね」
+display
+com11 0 3
+sound 1208
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「もう、まいりました。自分の夢を、
+line2 <shift> # こっちにまで、押しつけようとするんですから」
+com03 0 2
+choice1 <shift> # 真は、真だしな
+line2
+com09 0 30
+com08
+choice2 <shift> # ……成功できたかもよ
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「真は、真だしな」
+display
+com11 0 3
+sound 1209
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「へへっ、いくら娘とはいっても、
+line2 <shift> # 夢は、それぞれですもんね！」
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……成功できたかもよ」
+display
+com11 0 3
+sound 1210
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ムリですよ〜。男の人と競争したら、
+line2 <shift> # 体力差で、絶対に勝てないし……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「女性だけしか、参加できない大会とかは、
+line2 <shift> # ないのか？」
+display
+com11 0 3
+sound 1211
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ありますけど、それもなんかスッキリしないし。
+line2 <shift> # なによりボク、アイドルの方が好きですから！」
+com09 0 49
+display
+location 49
+com11 0 3
+sound 1212
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「じゃあ、そろそろ帰りましょう！　ボク達は、
+line2 <shift> # ボク達で、自分のレース、がんばらないと！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだな。力を合わせて……」
+com03 0 3
+choice1 <shift> # 表彰台、めざそうな
+line2
+com09 0 50
+com08
+choice2 <shift> # ポールポジション、めざそうな
+line2
+com09 0 51
+com08
+choice3 <shift> # 父さんより上、めざそうな
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「表彰台、めざそうな」
+display
+com11 0 3
+sound 1213
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「もっちろんです！　やる以上は、やっぱり、
+line2 <shift> # 一番高いところに、立たないと！」
+display
+com11 0 3
+sound 1214
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「もし、チャンピオンになれたら、真っ先にプロ
+line2 <shift> # デューサーに、シャンパンかけますね。へへっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺達のレースは、まだまだ続く。
+line2 <shift> # いつか、いっしょに勝利の美酒、味わいたいな）
+com09 0 69
+display
+location 51
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ポールポジション、めざそうな」
+display
+com11 0 3
+sound 1215
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「えっと、予選は、トップには立てなかったです
+line2 <shift> # よね？　スタートはビリからだったし……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「う、それはそうだな。今は、ジリジリ順位を、
+line2 <shift> # あげてる最中って、ところか」
+display
+com11 0 3
+sound 1216
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「先頭は、どの辺を走ってるんでしょうね。
+line2 <shift> # ゴボウ抜きは……、うーん、むずかしいかなあ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そうか、ポールポジションは、予選の……。ま、
+line2 <shift> # でも、一番をめざす事に、なんら変わりはない）
+com09 0 69
+display
+location 52
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「父さんより上、めざそうな」
+display
+com11 0 3
+sound 1217
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「もっと、目標、高く持ちませんか？
+line2 <shift> # やるなら、やっぱり頂点に立ちたいし……」
+display
+com11 0 3
+sound 1218
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「それに、今日は、よかったですけど、
+line2 <shift> # リタイヤ回数、多いんですよね。うちの父さん」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうなのか？
+line2 <shift> # じゃあ、今回は、運が、よかったんだな」
+display
+com11 0 3
+sound 1219
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「事故るたびに、ボクや母さんを心配させて……。
+line2 <shift> # ホント、やになっちゃいますよね。はあ〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （重いため息を、ついている。目標が『リタイヤ
+line2 <shift> # しないこと』じゃ、あまりにも悲しすぎるか）
+com09 0 69
+display
+location 69
+unk02

@@ -1,0 +1,265 @@
+com2c 0 63
+com2d 0 91
+com2e 0 101
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ニューアルバムの発表会、盛り上がったな。
+line2 <shift> # さ、事務所に戻ろうか」
+display
+com11 0 2
+sound 1100
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「あ、待って！　兄ちゃん、この道だよ！
+line2 <shift> # この道！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え？　この遊歩道が……、どうかしたのか？」
+display
+com11 0 2
+sound 1101
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「あ、そっか〜。ここ、前、通った時、
+line2 <shift> # ママが話してた道だー！」
+display
+com11 0 2
+sound 1102
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「んっふっふ〜。この道で〜、
+line2 <shift> # ママは、パパにプロポーズされたんだって！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「へー。じゃあ、きっと、亜美達の両親は、
+line2 <shift> # その時……」
+com03 0 2
+choice1 <shift> # デート中だったんだな
+line2
+com09 0 10
+com08
+choice2 <shift> # バッタリ、出会ったんだな
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「デート中だったんだな」
+display
+com11 0 2
+sound 1103
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「うう〜ん、ちがうよ。だって、パパとママ、
+line2 <shift> # つき合ったこと、ないんだもん」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「バッタリ、出会ったんだな」
+display
+com11 0 2
+sound 1104
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「知り合って、いきなり結婚なんて、
+line2 <shift> # 申し込まないよ〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「う……。それも、そうか」
+display
+com11 0 2
+sound 1105
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「でも、ちょっと近い感じかも！　だって、ママ、
+line2 <shift> # パパと付き合ったこと、ないって言ってたし」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「は？　つき合ってないのに……、
+line2 <shift> # 結婚したのか？」
+display
+com11 0 2
+sound 1106
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「うんっ！　その時、ママは病院の患者さんで、
+line2 <shift> # パパは、担当のお医者さんで〜」
+display
+com11 0 2
+sound 1107
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ママの車イスを、パパが押しながら、いきなり、
+line2 <shift> # 『結婚しちゃいましょう』って言ったんだって」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、それで……、
+line2 <shift> # そのまま、ゴールインしたのか！？」
+com03 0 3
+choice1 <shift> # すごい両親だな
+line2
+com09 0 30
+com08
+choice2 <shift> # すごいパパだな
+line2
+com09 0 31
+com08
+choice3 <shift> # すごいママだな
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「すごい両親だな。申し込んだパパも、
+line2 <shift> # ＯＫしたママも……」
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「すごいパパだな。そんな軽いノリで、
+line2 <shift> # プロポーズするなんて……」
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「すごいママだな。そんな風に申し込まれて、
+line2 <shift> # ＯＫするなんて……」
+com09 0 49
+display
+location 49
+com11 0 2
+sound 1108
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「だよね〜。この話聞いたクラスの友達は、
+line2 <shift> # みんな、超ビックリしてた！」
+display
+com11 0 2
+sound 1109
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「でも、パパもママも、よかったって。
+line2 <shift> # 今、幸せだからっ」
+display
+com11 0 2
+sound 1110
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「もし、兄ちゃんが、パパだったら〜、突然、
+line2 <shift> # プロポーズなんて、できる〜？」
+com03 0 3
+choice1 <shift> # 想いの強さ、次第かなあ
+line2
+com09 0 50
+com08
+choice2 <shift> # どんな相手かに、よるな
+line2
+com09 0 51
+com08
+choice3 <shift> # とても、できないよ……
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「想いの強さ、次第かなあ。その人のことが、
+line2 <shift> # 本当に好きなら、できると思うけど」
+display
+com11 0 2
+sound 1111
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「あ！　じゃあ、パパは、それぐらい、
+line2 <shift> # ママのことが、好きだったんだねっ」
+display
+com11 0 2
+sound 1112
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「家に帰ったら、くわしくきいてみよ〜。
+line2 <shift> # そしたら、また、兄ちゃんに話してあげる♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （おもしろい話が、きけたな。亜美達の、
+line2 <shift> # 形にこだわらない性格は、両親に似たのかも）
+com09 0 69
+display
+location 51
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どんな相手かに、よるな。それによって、
+line2 <shift> # 覚悟も変わってくるだろうし」
+display
+com11 0 2
+sound 1113
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「んじゃ、相手が、真美達だったら！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「真美や亜美じゃ、参考にならないよ。
+line2 <shift> # ……まだ、小学生なんだし」
+display
+com11 0 2
+sound 1114
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「な〜んだ、つまんないの〜。それじゃ、
+line2 <shift> # パパと比べられないよ〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （と、言われても、なあ……。二人は不満そう
+line2 <shift> # だけど、おもしろい話がきけて、よかった）
+com09 0 69
+display
+location 52
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「とても、できないよ……。俺だけじゃなくて、
+line2 <shift> # 普通の人は、そんなこと、しないと思う」
+display
+com11 0 2
+sound 1115
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「んじゃ、パパは普通じゃないの？
+line2 <shift> # もしかして〜、ウチュー人？」
+display
+com11 0 2
+sound 1116
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「そんで、ＯＫしたママも、ウチュー人？
+line2 <shift> # その子どもの、亜美達も……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「宇宙人とまでは、言わないけど……。
+line2 <shift> # 相当な変わり者だとは、思う」
+display
+com11 0 2
+sound 1117
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「でも〜、パパもママも、とってもやさしいよ？
+line2 <shift> # 変わり者でも、真美、大好きなんだから……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （正直に答えたら、イヤな顔をされてしまった。
+line2 <shift> # なんか、悪口っぽく、なっちゃったな）
+com09 0 69
+display
+location 69
+unk02

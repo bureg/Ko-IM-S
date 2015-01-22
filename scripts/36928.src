@@ -1,0 +1,402 @@
+com2c 0 1
+com2c 0 105
+com2d 0 73
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……今日は、律子のアイドルとしての、初仕事。
+line2 <shift> # レコード会社に、顔見せにやってきた）
+display
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「この巨大なビルが、レコード会社……。いい？
+line2 <shift> # 相手の大きさに飲まれちゃ、ダメですよ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わかったよ。平常心を心がける。ところで……
+line2 <shift> # そういう律子自身は、平気なのか？」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「当たり前でしょ。ま、まかせなさいっ！
+line2 <shift> # たかがあいさつぐらいで、緊張するワケは……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……強がるのは、いいけど、足が
+line2 <shift> # 震えてるぞ？」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「うるさいなぁ！　こんな衣装、初めて
+line2 <shift> # 着るんだから、多少は調子も狂うわ」
+com03 0 3
+choice1 <shift> # それも、そうだな　
+line2
+com09 0 10
+com08
+choice2 <shift> # かわいいところ、あるなあ　
+line2
+com09 0 11
+com08
+choice3 <shift> # 自信を持て、ラブリィだ！　
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それも、そうだな。ま、じきに
+line2 <shift> # おさまるだろう」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そうよ、心配無用！　……落ち着いてっと。
+line2 <shift> # さ、ビルの中に、入りましょう」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「かわいいところ、あるなあ」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そういう、生あたたかい視線で見るの、
+line2 <shift> # やめて下さいっ！　なんか、腹がたつわ」
+com09 0 18
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「自信を持て、ラブリィだ！」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そういう、歯の浮くような言い方、やめてっ！
+line2 <shift> # よ、余計に、調子が……」
+com09 0 18
+display
+location 18
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「う、悪かった……。じゃ、ビルの中、入ろうか。
+line2 <shift> # ロビーで、担当者と落ち合う事になってるから」
+com09 0 19
+display
+location 19
+com22 0 30
+com32 0 1
+com21 0 30
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「なに、このロビー？　なんで、真っ白に
+line2 <shift> # けむって……。火事？　それとも……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おいおい、しっかりしろ。視界がぼやけたのは、
+line2 <shift> # 眼鏡がくもったせいだ。ビルの中と外では……」
+com03 0 3
+choice1 <shift> # 気温の差が、あるから　
+line2
+com09 0 20
+com08
+choice2 <shift> # 気圧の差が、あるから　
+line2
+com09 0 21
+com08
+choice3 <shift> # 湿度の差が、あるから　
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「気温の差が、あるから」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あ、そうか。ハンカチで、ふかなきゃ。あっ、
+line2 <shift> # しまった！　私服のポケットに入れたまま！」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「気圧の差が、あるから」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「それ、理論的に、まちがってません？　くもる
+line2 <shift> # のは、気圧じゃなくて、温度差のせいですよね」
+com09 0 28
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「湿度の差が、あるから」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「それ、理論的に、まちがってません？　くもる
+line2 <shift> # のは、湿度じゃなくて、温度差のせいですよね」
+com09 0 28
+display
+location 28
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「う、そうだったかも」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「っと、細かい突っ込み入れてる場合じゃ……。
+line2 <shift> # 顔合わせる前に、ハンカチで、ふかないと」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あ！　私ったら、ハンカチもティッシュも、
+line2 <shift> # 私服のポケットに入れたまま！」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ハンカチなら、俺が持ってるよ。
+line2 <shift> # さ、ふいてやるから、顔出して」
+display
+com11 0 0
+sound 10012
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「え、そんなことまで、してもらって、いいの？
+line2 <shift> # 甘えすぎな気もするけど……。はい」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あまり時間もないし、手際よく
+line2 <shift> # ふいてやらないとな！　よーし、ＧＯ！）
+com0e 2 95
+com44
+com09 0 30
+com45
+com44
+com09 0 31
+com45
+com44
+com09 0 32
+com45
+com44
+com09 0 33
+com45
+com44
+com09 0 34
+com45
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「これで、ＯＫっと！　どうだ、律子？」
+display
+com11 0 0
+sound 10013
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「はい、視界スッキリしました！　あ、担当の人、
+line2 <shift> # きたみたいです！　いきましょう！」
+display
+com22 0 30
+com32 0 0
+com21 0 30
+com11 0 0
+sound 10014
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ふぅ、なんとか、うまくいきましたね。
+line2 <shift> # 出だしは……順調？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、申し分ないスタートだ。
+line2 <shift> # とりあえずは、初仕事クリア、おめでとう」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「頭で、思い描いたように、スンナリはいかな
+line2 <shift> # かったけど……無事にすんで、よかった〜」
+display
+com11 0 0
+sound 10016
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「さてさて、事務所に戻りますか。
+line2 <shift> # 社長に、業務報告しないと！　ふふっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （メガネふきをテキパキとすませ、律子を成功に
+line2 <shift> # 導いた！　俺達ふたりの視界も、良好かな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後、和気あいあいで話しながら、
+line2 <shift> # 事務所へと引き返した）
+com09 0 39
+display
+location 31
+com11 0 0
+sound 10017
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あの〜、まだ終わりませんか？　あ！
+line2 <shift> # 担当の人、きちゃったみたいですっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なに！？　くっ、もうすこしなのに。
+line2 <shift> # こら、律子、動くな！」
+display
+com11 0 0
+sound 10018
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そんなことより、あいさつしないとっ。
+line2 <shift> # ほらほら、笑顔つくって、笑顔！」
+com09 0 38
+display
+location 32
+com11 0 0
+sound 10019
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「痛っ！　プロデューサー、よく見て！
+line2 <shift> # ふくのは、目じゃなくて、メガネでしょ！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うわっ、ごめん！　手がすべった。あ、
+line2 <shift> # マズいっ。もう担当の人、きちゃったようだ」
+display
+com11 0 0
+sound 10020
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「いたたっ。こんな顔で、あいさつなんて……。
+line2 <shift> # けど……しかたない。いきましょう」
+display
+com22 0 30
+com32 0 0
+com21 0 30
+com11 0 0
+sound 10021
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「はあ〜、結局、苦虫をかみつぶしたような顔で、
+line2 <shift> # 応対しちゃいましたね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……悪かったよ。俺が、もっとよく見て、
+line2 <shift> # 掃除すれば、こんなことには……」
+display
+com11 0 0
+sound 10022
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「まったくです！　不注意にも、程がありますよ。
+line2 <shift> # 一時が万事、って言葉、知ってます？　んもう」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （律子は、完全にオカンムリ。
+line2 <shift> # 最悪のミス、しちゃったな。反省しよう）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……その後、事務所に帰るまで、俺はひたすら
+line2 <shift> # 律子にあやまり、なんとか許してもらった）
+com09 0 39
+display
+location 33
+com11 0 0
+sound 10023
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「プロデューサー、なに関係ないところ、触って
+line2 <shift> # るんです？　遊んでるヒマなんて、ないのに！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ご、ごめん。つい……。あ。マズい！
+line2 <shift> # もう担当の人、きちゃったみたいだ！」
+display
+com11 0 0
+sound 10024
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「え、本当ですか？　どこ、どこです！？
+line2 <shift> # あああ、メガネ、なにかでふかないと！」
+display
+com22 0 30
+com32 0 0
+com21 0 30
+com11 0 0
+sound 10025
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「はあ〜、なんかバタバタしたあいさつに
+line2 <shift> # なっちゃいましたね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……悪かったよ。俺が、余計な事してないで、
+line2 <shift> # メガネふいてやれば、こんなことには……」
+display
+com11 0 0
+sound 10026
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ま、元はといえば、私も悪いんだけど……。
+line2 <shift> # ハンカチぐらい、当然持参すべきだもの。ふぅ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （初仕事は、とても成功とはいえない結果に
+line2 <shift> # 終わった。無意味なイタズラしちゃいけないな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……その後、律子とふたり、歩きながら
+line2 <shift> # 反省会をし、事務所へと戻った）
+com09 0 39
+display
+location 34
+com11 0 0
+sound 10027
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あの〜、なにボーッと見てるんです？　あ！
+line2 <shift> # 担当の人、もうきちゃったみたいですよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え、本当か？　くっ、急がないと。
+line2 <shift> # こら、律子、動くな！」
+display
+com11 0 0
+sound 10028
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「今さら、間に合いませんよー。ほら、
+line2 <shift> # そんなことより、笑顔つくって、笑顔！」
+com09 0 38
+display
+location 38
+com22 0 30
+com32 0 0
+com21 0 30
+com11 0 0
+sound 10029
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「はあ〜、なんかバタバタしたあいさつに
+line2 <shift> # なっちゃいましたね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……悪かったよ。俺が、さっさとメガネ
+line2 <shift> # ふいてやれば、こんなことには……」
+display
+com11 0 0
+sound 10030
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ま、元はといえば、私も悪いんだけど……。
+line2 <shift> # ハンカチぐらい、当然持参すべきよね。ふぅ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （初仕事は、とても成功とはいえない結果に
+line2 <shift> # 終わった。もっと迅速に、行動しないとな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……その後、律子とふたり、歩きながら
+line2 <shift> # 反省会をし、事務所へと戻った」
+com09 0 39
+display
+location 39
+unk02

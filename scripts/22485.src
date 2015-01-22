@@ -1,0 +1,448 @@
+com2c 0 25
+com2d 0 51
+com32 0 0
+com11 0 4
+sound 1100
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「プロデューサーさんが学生だった頃は、
+line2 <shift> # 教室で占いっこするのって、流行りましたか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なんです、突然？　すくなくとも
+line2 <shift> # 男子の間では、そんなの流行った記憶は……」
+display
+com11 0 4
+sound 1101
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「それは、さびしいですね。では、今日は私が、
+line2 <shift> # プロデューサーさんを占ってしまいます」
+display
+com11 0 4
+sound 1102
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「三浦あずさの、森の散歩・占い〜。
+line2 <shift> # いい運勢が出るように、がんばりますね！」
+display
+com11 0 4
+sound 1103
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「えー、あなたが森を歩いていると、前から
+line2 <shift> # 動物がやってきました。それは、なんの動物？」
+com03 0 3
+choice1 <shift> # リス
+com09 0 10
+com08
+choice2 <shift> # タヌキ
+com09 0 11
+com08
+choice3 <shift> # コモド大トカゲ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+com1c 0 0
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「リス」
+com09 0 29
+display
+location 11
+com1c 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「タヌキ」
+com09 0 29
+display
+location 12
+com1c 0 2
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「コモド大トカゲ」
+display
+com11 0 4
+sound 1104
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「と、トカゲ？　……まあ、いいです」
+com09 0 29
+display
+location 29
+com11 0 4
+sound 1105
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「その動物が、あなたになにかをプレゼントして
+line2 <shift> # くれました。……それはいったい、なに？」
+com03 0 3
+choice1 <shift> # カップラーメン１年分
+line2
+com09 0 30
+com08
+choice2 <shift> # １等賞の宝くじ
+line2
+com09 0 31
+com08
+choice3 <shift> # 動物の身体、そのもの
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+com1c 0 3
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「カップラーメン１年分」
+com09 0 49
+display
+location 31
+com1c 0 4
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「１等賞の宝くじ」
+com09 0 49
+display
+location 32
+com1c 0 5
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「動物の身体、そのもの」
+display
+com11 0 4
+sound 1106
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「か、身体……。あ、わ、わかりました」
+com09 0 49
+display
+location 49
+com11 0 4
+sound 1107
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「んー、では、占いの結果を発表します。動物の
+line2 <shift> # 種類は、質問をした人をどう思っているかで…」
+display
+com11 0 4
+sound 1108
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「プレゼントは、その人からもらいたいと思って
+line2 <shift> # いるものを示します。……ということは〜」
+com37 0 1
+com1e 0 0
+com37 0 1
+com1e 0 3
+com09 0 50
+com3b
+com37 0 1
+com1e 0 0
+com37 0 1
+com1e 0 4
+com09 0 51
+com3b
+com37 0 1
+com1e 0 0
+com37 0 1
+com1e 0 5
+com09 0 52
+com3b
+com37 0 1
+com1e 0 1
+com37 0 1
+com1e 0 3
+com09 0 53
+com3b
+com37 0 1
+com1e 0 1
+com37 0 1
+com1e 0 4
+com09 0 54
+com3b
+com37 0 1
+com1e 0 1
+com37 0 1
+com1e 0 5
+com09 0 55
+com3b
+com37 0 1
+com1e 0 2
+com37 0 1
+com1e 0 3
+com09 0 56
+com3b
+com37 0 1
+com1e 0 2
+com37 0 1
+com1e 0 4
+com09 0 57
+com3b
+com37 0 1
+com1e 0 2
+com37 0 1
+com1e 0 5
+com09 0 58
+com3b
+display
+location 50
+com34 0 3
+com11 0 4
+sound 1109
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「私はリスで、もらいたい物は、食べ物ですね。
+line2 <shift> # 印象はいいようですけど、食べ物というのは？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あずささんに、食べさせてほしいってとこかな。
+line2 <shift> # 俺が飯食えるかはあずささんの活躍次第ですし」
+display
+com11 0 4
+sound 1110
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、きっとそうですねっ。ではリスは一生懸命、
+line2 <shift> # カップラーメンを運ばないと。ふふっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うれしそうに、笑っている。森の散歩・占い、
+line2 <shift> # どうやら、最高の結果が出たようだ）
+com09 0 69
+display
+location 51
+com34 0 1
+com11 0 4
+sound 1111
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「私はリスで、もらいたい物は、お金ですね。
+line2 <shift> # 印象はいいようですけど、お金というのは……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「たまにはおごってもらいたいと、思ってるの
+line2 <shift> # かな。自分では、そんな意識……」
+display
+com11 0 4
+sound 1112
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「すみません。いまはまだ、コーヒーぐらいが
+line2 <shift> # 精一杯です。手持ちも、あまりありませんし」
+display
+com11 0 4
+sound 1113
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「もしかしたら、将来、みついで？　そんなはず
+line2 <shift> # ないですよねっ。私達の関係は、もっと……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ちょっと冷や汗を浮かべている。
+line2 <shift> # 占いの結果は、まあまあというところか）
+com09 0 69
+display
+location 52
+com11 0 4
+sound 1114
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「私はリスで、もらいたい物は、私の……。
+line2 <shift> # 印象はいいようですけど、あ、あのー」
+display
+com11 0 4
+sound 1115
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そんなこと、思ってないですよね？
+line2 <shift> # プロデューサーさん、そんな人では……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「とくに、意識はしてないです。でも、うーん、
+line2 <shift> # 心の底には、そういう気持ちも？」
+display
+com11 0 4
+sound 1116
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「この場合、いい印象を持たれていると、
+line2 <shift> # かえって、よくない気が……」
+display
+com11 0 4
+sound 1117
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「わ、私、占い下手ですねっ。これは、なにかの
+line2 <shift> # 間違いです。忘れてもらえると……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （不安そうな顔で、こっちを見ている。
+line2 <shift> # 占いの結果は、どうやら最悪だったようだ）
+com09 0 69
+display
+location 53
+com34 0 2
+com11 0 4
+sound 1118
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「私はタヌキで、もらいたい物は食べ物ですね。
+line2 <shift> # 印象がタヌキというのは、悲しい気も……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなに悪くはないですよね？　タヌキは
+line2 <shift> # けっこう、ユーモアがありそうですし」
+display
+com11 0 4
+sound 1119
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「まあ、言われてみれば。でも、ニセモノのラー
+line2 <shift> # メンで、化かすかもしれませんよ？　ふふっ」
+display
+com11 0 4
+sound 1120
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「タヌキなら、タヌキうどんの方が、それっぽい
+line2 <shift> # でしょうか？　ど、どっちでもいいですね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、うどんの話で盛り上がった。占いの
+line2 <shift> # 結果はともかく、いい話のネタにはなったな）
+com09 0 69
+display
+location 54
+com34 0 3
+com11 0 4
+sound 1121
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「私はタヌキで、もらいたい物はお金ですね。
+line2 <shift> # もしかして……化かされたいとか思ってます？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか。ハッパのお金で、人をだますって話、
+line2 <shift> # ありましたね。いいですよ、化かしてくれても」
+display
+com11 0 4
+sound 1122
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ふふっ、そんなことしないですー。私達の間
+line2 <shift> # で、だましたり、だまされたりはナシですから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （お互いの顔を見て、うなづき合った。占いの
+line2 <shift> # 結果が、信頼を深めることになったようだ）
+com09 0 69
+display
+location 55
+com11 0 4
+sound 1123
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「私はタヌキで、もらいたい物は、私の……。
+line2 <shift> # 印象はいまいちの上に、そのー」
+display
+com11 0 4
+sound 1124
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「た、タヌキをひどい目に合わせるのは、
+line2 <shift> # よくないですよね？　動物は大切に……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ほ、ほしいということは、別にひどい目に
+line2 <shift> # 合わせるということでは、ないのでは？」
+display
+com11 0 4
+sound 1125
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そうかもしれませんけれど、それでも、あまり、
+line2 <shift> # 正しいことではない気が……」
+display
+com11 0 4
+sound 1126
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「プロデューサーさん、だまされているんです。
+line2 <shift> # ほ、ほら、私、タヌキですから！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （あわてて、取りつくろっている。どうやら
+line2 <shift> # 占いの結果は、最悪だったみたいだな）
+com09 0 69
+display
+location 56
+com11 0 4
+sound 1127
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「私はコモド大トカゲで、もらいたい物は食べ物
+line2 <shift> # ですね。トカゲというのは……あんまりな気が」
+display
+com11 0 4
+sound 1128
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「もしかして、私のこと、気持ち悪いとか、
+line2 <shift> # こわいとか思ってます？　でしたら……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そんなこと、思ってないですよ」
+display
+com11 0 4
+sound 1129
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「その上、食べ物を運んでくるだけの存在なんて、
+line2 <shift> # すこし悲しいです」
+com09 0 91
+display
+location 57
+com11 0 4
+sound 1130
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「私はコモド大トカゲで、もらいたい物はお金
+line2 <shift> # ですね。トカゲというのは……あんまりな気が」
+display
+com11 0 4
+sound 1131
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「もしかして、私のこと、気持ち悪いとか、
+line2 <shift> # こわいとか思ってます？　でしたら……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そんなこと、思ってないですよ」
+display
+com11 0 4
+sound 1132
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「その上、お金だけを持ってくるだけの
+line2 <shift> # 存在なんて、すこし悲しいです」
+com09 0 91
+display
+location 91
+com11 0 4
+sound 1133
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「きっと、なにかの間違いですよね。私、あまり
+line2 <shift> # 占い、上手じゃないのかしら。はあ〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （すっかり、自信をなくしてしまったようだ。
+line2 <shift> # 結果としては、最悪かもしれない）
+com09 0 69
+display
+location 58
+com34 0 3
+com11 0 4
+sound 1134
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「私はコモド大トカゲで、もらいたい物は、
+line2 <shift> # 私の……。これは、どう解釈したら……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「大トカゲのように強い味方が、同志として
+line2 <shift> # 欲しいってことじゃないですか？」
+display
+com11 0 4
+sound 1135
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、そうですね！　私、まだトカゲの赤ちゃん
+line2 <shift> # くらいなので、もっと強くならないと。ふふっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （最悪の組み合わせを、とっさの機転で切り抜け
+line2 <shift> # た。あずささんは、うんうんとうなづいている）
+com09 0 69
+display
+location 69
+com11 0 4
+sound 1136
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「じつは、高校時代の同級生に、私よりずっと
+line2 <shift> # 占いのうまい子がいるんです」
+display
+com11 0 4
+sound 1137
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「もし私の地元にくることがあったら、
+line2 <shift> # その子のこと、紹介しますね」
+display
+unk02

@@ -1,0 +1,227 @@
+com2c 0 24
+com2d 0 61
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「レコード会社からコンピレーションＣＤの
+line2 <shift> # 見本が届いてるぞ。雪歩、聴いてみるかい？」
+display
+com11 0 3
+sound 1100
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい！　あっ、ジャンル問わずいろいろ曲が
+line2 <shift> # 入ってるんですよね、このＣＤ」
+display
+com11 0 3
+sound 1101
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「なにか面白いのがあるかも……。
+line2 <shift> # さっそく、聴いてみます」
+display
+com22 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そして、しばらくのち……）
+display
+com21 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「雪歩、さっきからアコースティックギターの
+line2 <shift> # ソロを、ずっときいてるみたいだね」
+display
+com11 0 3
+sound 1102
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あっ、はい。いい音ですねぇ、
+line2 <shift> # 曲も好きです……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もし気に入ったら、
+line2 <shift> # ＣＤ持って帰ってもいいぞ」
+display
+com11 0 3
+sound 1103
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「えっ？　そ、それはちょっと……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「遠慮しなくても」
+display
+com11 0 3
+sound 1104
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「いえその、家ではこれ、
+line2 <shift> # 聴けそうもないので」
+display
+com11 0 3
+sound 1105
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「家でＣＤをかけると……、
+line2 <shift> # 怒られるかもしれないし……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ、怒られる？　どうして？」
+com03 0 3
+choice1 <shift> # お父さん？
+com09 0 10
+com08
+choice2 <shift> # お弟子さん？
+line2
+com09 0 11
+com08
+choice3 <shift> # お母さん？
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もしかして、お父さんか？」
+display
+com11 0 3
+sound 1106
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「は、はい。こういうギターの曲をかけると、
+line2 <shift> # 怒るというか……、機嫌が悪くなって」
+display
+com11 0 3
+sound 1107
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「仕方ないのかもしれないですけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「仕方ない？」
+display
+com11 0 3
+sound 1108
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「えっと……、お父さん、昔はギターが、
+line2 <shift> # 好きだったんです、たぶん……」
+display
+com11 0 3
+sound 1109
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「でも、あとから嫌いになってしまったから、
+line2 <shift> # きっと……、心中複雑なんです」
+display
+com11 0 3
+sound 1110
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「かわいさ余って憎さ百倍、みたいな感じかも
+line2 <shift> # しれないです。うまく言えないけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか……」
+display
+com11 0 3
+sound 1111
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「今日はＣＤ、よく聴いてから、
+line2 <shift> # 帰りますね、私」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （訳ありみたいだな。家庭の
+line2 <shift> # 細かい事情はきかずにおこう）
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もしかして、お弟子さん？」
+display
+com11 0 3
+sound 1112
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ええっ！？　お弟子さんたちのこと
+line2 <shift> # 知ってるんですか、プロデューサー？」
+display
+com11 0 3
+sound 1113
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「うーん、どうなんでしょう。確かにお弟子さん
+line2 <shift> # たちは、普段自由にＣＤ聴いたりできないし」
+display
+com11 0 3
+sound 1114
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「だから、それでストレス溜まってるかも
+line2 <shift> # しれないですけど……」
+display
+com11 0 3
+sound 1115
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あの、だからって、別に怒るってことは
+line2 <shift> # ないと思いますよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうなのか」
+display
+com11 0 3
+sound 1116
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「でも、お弟子さんたちの部屋に聞こえるほど
+line2 <shift> # 大きな音は出さないようにしたいですねぇ……」
+display
+com11 0 3
+sound 1117
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「やっぱり、ＣＤは持って帰らないでおきます。
+line2 <shift> # ここでよく聴いていくことにしますね、私」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （いろいろ大変なんだな、雪歩の家も……）
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええと、お母さん、かな？」
+display
+com11 0 3
+sound 1118
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ええっ！？　お母さんは、ギターの曲とか
+line2 <shift> # 好きですよ。怒るだなんて、とんでもない！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そっか……。ごめん、適当に言ってみた」
+display
+com11 0 3
+sound 1119
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そうなんですか？　むぅ……」
+display
+com11 0 3
+sound 1120
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「もしＣＤ聴くなら、お母さんと私と、
+line2 <shift> # ふたりだけで、聴くかなぁ」
+display
+com11 0 3
+sound 1121
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「お父さんには内緒内緒、
+line2 <shift> # かもしれないですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お父さんにも聴かせてみればいいのに」
+display
+com11 0 3
+sound 1122
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そ、そんな！　きっと無理ですよ！
+line2 <shift> # ううっ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「な、何をそんなに怯える？」
+display
+com11 0 3
+sound 1123
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「だって想像したら怖くなってしまって……。
+line2 <shift> # ああっ、だ、だめですぅそんな……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （なにか触れてはいけない話題だったかな。
+line2 <shift> # これ以上は追求しないようにしよう）
+com09 0 29
+display
+location 29
+unk02

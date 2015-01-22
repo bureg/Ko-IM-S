@@ -1,0 +1,300 @@
+com2c 0 91
+com2c 0 57
+com2d 0 21
+com32 0 0
+com11 0 1
+sound 700
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ベスト・リボンアワードねえ。大賞もらった
+line2 <shift> # のは、うれしいけど、これって、どんな賞？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「日本で、一番、リボンが似合う芸能人に、
+line2 <shift> # 贈られるらしい」
+display
+com11 0 1
+sound 701
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ふふっ、そう！　じゃ受賞のお礼に、
+line2 <shift> # 壇上で、すこしはサービスしようかしら！」
+com03 0 3
+choice1 <shift> # １曲歌う、とか？
+line2
+com09 0 10
+com08
+choice2 <shift> # 手をふる、とか？
+line2
+com09 0 11
+com08
+choice3 <shift> # 投げキッス、とか？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「１曲歌う、とか？」
+display
+com11 0 1
+sound 702
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ふふん、たまには、それぐらい、
+line2 <shift> # やってあげてもいいかもね〜」
+display
+com11 0 1
+sound 703
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ここで、いい印象をたたき込んでおけば、
+line2 <shift> # 十年連続受賞は、かたいわっ。にひひっ♪」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「手をふる、とか？」
+display
+com11 0 1
+sound 704
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そんなの、普通すぎて、つまんないわよ〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そうかな？」
+display
+com11 0 1
+sound 705
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ここはハデにアピールして、連続受賞に、
+line2 <shift> # つなげなきゃ。恩の売りどころは、大切だしっ」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「投げキッス、とか？」
+display
+com11 0 1
+sound 706
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ええええ、イヤよー、そんなのっ！
+line2 <shift> # 私は、ハワイの出迎え嬢じゃないのよー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ハワイには、そんなのがいるのか？」
+display
+com11 0 1
+sound 707
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ひとり、いたのよ。……うっとおしいから、
+line2 <shift> # 手で、はたき落としたら、ボー然としてたわ」
+com09 0 29
+display
+location 29
+com11 0 1
+sound 708
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……ねえ、あんたも私のリボン、
+line2 <shift> # 日本で、一番似合うと思う？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、もちろんだよ」
+display
+com11 0 1
+sound 709
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「じゃあ、リボンはずしたら、どーお？
+line2 <shift> # あんまり、かわいくなくなる？」
+com03 0 3
+choice1 <shift> # それでも、かわいいよ
+line2
+com09 0 30
+com08
+choice2 <shift> # 魅力は落ちるかな
+line2
+com09 0 31
+com08
+choice3 <shift> # なくなる気がしないでもない
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それでも、かわいいよ」
+display
+com11 0 1
+sound 710
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「まあ、そうよね。リボン取ったぐらいじゃ、
+line2 <shift> # 私の魅力は、おとろえないわっ」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「魅力は落ちるかな」
+display
+com11 0 1
+sound 711
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「はあー、目がくもってるわねえ。私はリボン
+line2 <shift> # なんかなくたって、カンペキなんだからっ」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ほんの微量だけ、
+line2 <shift> # かわいくなくなる気がしないでもない」
+display
+com11 0 1
+sound 712
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「長いー！　思ったことは、
+line2 <shift> # スパッと答えなさいよー！」
+display
+com11 0 1
+sound 713
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「まあ、リボンなんかなくたって、
+line2 <shift> # 私の魅力は、変わるワケないって思うけどっ」
+com09 0 49
+display
+location 49
+com11 0 1
+sound 714
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そうだ！　受賞記念に、今つけてるリボン、
+line2 <shift> # あんたにあげましょーか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「こ、これから表彰なのに、リボンなしじゃ、
+line2 <shift> # 大騒ぎになるぞ！！」
+display
+com11 0 1
+sound 715
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「いいじゃないのー！　私があげたいって、
+line2 <shift> # 言ってるんだから、もらっておきなさーい！」
+display
+com11 0 1
+sound 716
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「おとなしく受け取らないと、
+line2 <shift> # 受賞、拒否するわよっ？」
+com03 0 3
+choice1 <shift> # 受け取れないよ
+line2
+com09 0 50
+com08
+choice2 <shift> # ……わかった、もらうよ
+line2
+com09 0 51
+com08
+choice3 <shift> # 俺、用事、思い出した！
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「受け取れないよ。伊織の評判、
+line2 <shift> # 落とすことになっちゃうし……」
+display
+com11 0 1
+sound 717
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「う…………。そ、そう？　まあ、いいわ。
+line2 <shift> # そう思うなら、今回は許してあげる」
+display
+com11 0 1
+sound 718
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「考えてみたら、あんたにリボンあげたって、
+line2 <shift> # どうせ、つけられないんだしっ」
+display
+com11 0 1
+sound 719
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「もし、ほんとにつけたら……。
+line2 <shift> # ぷっ、あははははっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （想像して、笑い転げている。よし、リボン
+line2 <shift> # つきのかわいい伊織を、みんなに見てもらおう）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……わかった、もらうよ」
+display
+com11 0 1
+sound 720
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なによー、なんかうれしくなさそうね……。
+line2 <shift> # 欲しくないワケ？」
+display
+com11 0 1
+sound 721
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「いいわよっ。そんな顔するなら、あげなーい。
+line2 <shift> # いらないなら、いらないって言いなさいよね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「別に、そうは思ってないよ。ただ……」
+display
+com11 0 1
+sound 722
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「言い訳は聞きたくありませーん。
+line2 <shift> # ふんっ、じゃ、表彰されてくるわー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （すこし怒らせてしまったか。でも、
+line2 <shift> # リボンなしで壇上に行かせるよりは、マシかな）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺、用事、思い出した！
+line2 <shift> # ちゃんと受賞するんだぞ。じゃあ！」
+display
+com11 0 1
+sound 723
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あ、待ちなさいよ〜。逃げる気〜！？」
+display
+com22 0 30
+com32 0 1
+com21 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ふう、ここまでくればいいか。
+line2 <shift> # また、式が終わる頃に……）
+display
+com22 0 30
+com21 0 30
+com11 0 1
+sound 724
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「にひひっ♪　プロデューサー、
+line2 <shift> # 逃がさないんだからーっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「伊織！？　授賞式は、どうしたんだっ？」
+display
+com11 0 1
+sound 725
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「え……。あっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （最悪だ……。関係者に、平謝りしないとっ！）
+com09 0 69
+display
+location 69
+unk02

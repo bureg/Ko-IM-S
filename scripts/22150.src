@@ -1,0 +1,269 @@
+com2c 0 57
+com2d 0 51
+com32 0 0
+com11 0 3
+sound 1100
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「すみません。プライベートな買い物にまで、
+line2 <shift> # つきあわせてしまって」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いえ、かまいませんよ」
+com03 0 3
+choice1 <shift> # いい息抜きに、なります
+line2
+com09 0 10
+com08
+choice2 <shift> # 当然の責任ですから
+line2
+com09 0 11
+com08
+choice3 <shift> # ついで、ですから
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いい息抜きに、なります」
+display
+com11 0 3
+sound 1101
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そう言ってもらえると、ほっとします。
+line2 <shift> # 疲れさせてしまうかなあと、思っていたので」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「当然の責任ですから。道中なにかあったら、
+line2 <shift> # プロデューサーのミスですし」
+display
+com11 0 3
+sound 1102
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「こ、心強いですけど、そんなに力を入れて
+line2 <shift> # もらっては、かえって悪い気が……」
+display
+com11 0 3
+sound 1103
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「でも、おかげさまで、安心して、
+line2 <shift> # 買い物ができました。ありがとうございます」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ついで、ですから。
+line2 <shift> # 事務所に戻るまでの帰り道ですし」
+display
+com11 0 3
+sound 1104
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「でも、そのせいで、ライブの打ち上げ、
+line2 <shift> # 断らせてしまいましたよね？」
+display
+com11 0 3
+sound 1105
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ……、私一人では、心配でしたか？　ダメ
+line2 <shift> # ですね。もっと信用されるようにならないと」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ところで、なにを買ったんです？　さっき
+line2 <shift> # たしか、携帯電話の売り場、見てましたよね？」
+display
+com11 0 3
+sound 1106
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はい！　思い切って、最新型のを、
+line2 <shift> # 買ってしまいました。高いのを」
+display
+com11 0 3
+sound 1107
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「私、携帯電話、とても好きなんです。いつも
+line2 <shift> # 楽しい事や幸せを運んでくれる、窓口ですから」
+display
+com11 0 3
+sound 1108
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「たまに友美から電話がかかってくると、うれ
+line2 <shift> # しくて。この間も、明け方まで話してしまって」
+com03 0 3
+choice1 <shift> # 友美さんって、親友でしたっけ？
+line2
+com09 0 30
+com08
+choice2 <shift> # 友美さんって、妹でしたっけ？
+line2
+com09 0 31
+com08
+choice3 <shift> # 友美さんって、母親でしたっけ？
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「友美さんって、親友でしたっけ？」
+display
+com11 0 3
+sound 1109
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はい、そうです。話したこと、ありましたよね。
+line2 <shift> # 友美とは、中学から短大まで、ずっと一緒で」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「友美さんって、妹でしたっけ？」
+display
+com11 0 3
+sound 1110
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「いえ、ちがいます。私、妹なんていませんし。
+line2 <shift> # 友美のこと、話したことなかったかしら」
+com09 0 91
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「友美さんって、母親でしたっけ？」
+display
+com11 0 3
+sound 1111
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「え、ちがいます。お母さんの名前は、貴子で。
+line2 <shift> # 友美のこと、話したことなかったかしら」
+com09 0 91
+display
+location 91
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「たしか、一度だけ、きいたことある気が……」
+display
+com11 0 3
+sound 1112
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「友美は、私の親友なんです。中学から短大まで、
+line2 <shift> # ずっと、いっしょだったんですよ」
+com09 0 49
+display
+location 49
+com11 0 3
+sound 1113
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そういえば、プロデューサーさんって、私に、
+line2 <shift> # 個人的な電話をかけること、ありませんよね？」
+display
+com11 0 3
+sound 1114
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「もし退屈な時があったら、電話してくれても。
+line2 <shift> # お、おしゃべりの相手が、私でもよければ……」
+com03 0 3
+choice1 <shift> # 友美さんみたいに、なれるかな
+line2
+com09 0 50
+com08
+choice2 <shift> # 朝までトーク、しますか
+line2
+com09 0 51
+com08
+choice3 <shift> # モーニングコールも、しようかな
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 2
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「友美さんみたいに、なれるかな」
+display
+com11 0 3
+sound 1115
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「プロデューサーさんが、親友に？　そうです
+line2 <shift> # ねっ。そういう風になれたらって、思います」
+display
+com11 0 3
+sound 1116
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「やはり芸能界にも、親友がいてくれないと。
+line2 <shift> # それがプロデューサーさんなら、私……！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （目には、信頼の色が浮かんでいる。
+line2 <shift> # よし、がんばって、男版の友美さんをめざすか）
+com09 0 69
+display
+location 51
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「朝までトーク、しますか？」
+display
+com11 0 3
+sound 1117
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「いいですね。……けれど、この間は、それが
+line2 <shift> # 響いて、仕事中にアクビばかりしてしまって」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、それは、さすがにマズいかな。俺が同じこ
+line2 <shift> # とをしたら、あずささんの足を引っ張ることに」
+display
+com11 0 3
+sound 1118
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「やはり、電話は、夜の早いうちにもらえると。
+line2 <shift> # 私、９時くらいまでは、起きていますので」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （朝まで計画は、つぶれてしまったけど、ま、
+line2 <shift> # いいか。あずささん、けっこう早寝なんだな）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「モーニングコールも、しようかな」
+display
+com11 0 3
+sound 1119
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、それ、すごく助かります。私、朝は、
+line2 <shift> # かなり弱いので、電話で起こしてくれれば……」
+display
+com11 0 3
+sound 1120
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「……けれど、それはつまり、仕事の電話では、
+line2 <shift> # ないですか？　私を、寝坊させないための」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う……。まあ、結果としては、
+line2 <shift> # そういうことになってしまうかも」
+display
+com11 0 3
+sound 1121
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「心配してくれるのは、うれしいです。でも、
+line2 <shift> # そういうのではなくて、なんと言うか……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （続く言葉を、飲み込んでしまった。今は、
+line2 <shift> # 仕事抜きの話を、したかったのかもしれないな）
+com09 0 69
+display
+location 69
+unk02

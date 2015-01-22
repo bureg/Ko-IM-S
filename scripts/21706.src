@@ -1,0 +1,262 @@
+com2c 0 18
+com2d 0 51
+com32 0 0
+com11 0 2
+sound 800
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「プロデューサーさん、リハーサル、開始が遅
+line2 <shift> # れるそうです。セットが壊れてしまったそうで」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え、本当ですか？
+line2 <shift> # ……まったく、しょうがないなあ」
+display
+com11 0 2
+sound 801
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「す、すみません？」
+com03 0 3
+choice1 <shift> # あずささんのせいでは……
+line2
+com09 0 10
+com08
+choice2 <shift> # なんで、あやまるんです？
+line2
+com09 0 11
+com08
+choice3 <shift> # 注意してくださいね
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あずささんのせいでは……」
+com09 0 91
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なんで、あやまるんです？」
+com09 0 91
+display
+location 91
+com11 0 2
+sound 802
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、つい、勢いで。すみません」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「注意してくださいね」
+display
+com11 0 2
+sound 803
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「は、はい。私が……知らず知らずのうちに、
+line2 <shift> # 悪いのですね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「考えてみたら、そんなわけないですよね。
+line2 <shift> # つい勢いで……。すみません」
+com09 0 29
+display
+location 29
+com11 0 2
+sound 804
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「でも、どうしてセット、壊れてしまったの
+line2 <shift> # でしょう。あんなに丈夫そうなのに」
+display
+com11 0 2
+sound 805
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、もしかして、ゾウが踏んでしまったの
+line2 <shift> # でしょうか？」
+com03 0 3
+choice1 <shift> # マンモスかも、しれません
+line2
+com09 0 30
+com08
+choice2 <shift> # パンダかも、しれません
+line2
+com09 0 31
+com08
+choice3 <shift> # あずささんが踏んだのでは？
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「マンモスかも、しれません」
+display
+com11 0 2
+sound 806
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そっちの方が、キバが大きい分、重そうですね。
+line2 <shift> # ふふっ」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「パンダかも、しれません」
+display
+com11 0 2
+sound 807
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「パンダは、ゾウより軽いのでは？　それぐらい
+line2 <shift> # なら、きっと壊れないですよね」
+display
+com11 0 2
+sound 808
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「真剣に話しても、しかたないですけれど。
+line2 <shift> # パンダなら、５頭くらいいないと、ダメですね」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あずささんが踏んだのでは？」
+display
+com11 0 2
+sound 809
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「私？　たしかに一度は、台に上がりましたけど、
+line2 <shift> # それが原因なんてこと……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う、ウソですよ。からかっただけです」
+display
+com11 0 2
+sound 810
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、ひどいですー。私そんなに重くありません。
+line2 <shift> # あんまりなこと言うと、乗ってしまいますよ？」
+com09 0 49
+display
+location 49
+com11 0 2
+sound 811
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「今日みたいなトラブルがあると、歌番組の見方、
+line2 <shift> # 変わりますよね」
+display
+com11 0 2
+sound 812
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「お茶の間で見ている時には、当然のように
+line2 <shift> # 映ってるセットにも、さまざまな苦労が……」
+display
+com11 0 2
+sound 813
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「裏でがんばってる人にも、光を当ててほしいで
+line2 <shift> # す。出演者ばかり目立っては、不公平ですよね」
+com03 0 3
+choice1 <shift> # スタッフは、それでも幸せかも
+line2
+com09 0 50
+com08
+choice2 <shift> # その分、がんばらなくては
+line2
+com09 0 51
+com08
+choice3 <shift> # 世の中、そんなものですよ
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 2
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「スタッフは、それでも幸せかも。
+line2 <shift> # ほら、あそこ、見てください」
+display
+com11 0 2
+sound 814
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「え？　あ……大変そうですけど、みんな、
+line2 <shift> # とてもいい顔をして」
+display
+com11 0 2
+sound 815
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ふふっ、余計なお世話だったかもしれない
+line2 <shift> # ですね。んっ、私は私の仕事に、集中しないと」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （立場も役割も、それぞれだからな。
+line2 <shift> # いらない遠慮は、断ち切ってくれたようだ）
+com09 0 69
+display
+location 51
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「その分、がんばらなくては」
+display
+com11 0 2
+sound 816
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「もちろん、そのつもりです。けれど、私が
+line2 <shift> # がんばっても、トクをするのは、結局……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、番組全体が評価されるっていう意味では、
+line2 <shift> # 同じじゃないですか？」
+display
+com11 0 2
+sound 817
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「かもしれませんね。んー、なんとか、努力が
+line2 <shift> # 直接、認められればって思うのですけれど」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （チラチラと横目で、スタッフを見ている。
+line2 <shift> # うーん、ちょっと遠慮しすぎな気が）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「世の中、そんなものですよ。あずささんだって、
+line2 <shift> # 売れてない時は、光なんて……」
+display
+com11 0 2
+sound 818
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「……そうでしたよね。でも、今だからこそ
+line2 <shift> # 思うんです。すこしは公平にって」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「むずかしいんじゃないですか？　あまり、
+line2 <shift> # 余計な気づかいしすぎると、疲れて……」
+display
+com11 0 2
+sound 819
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「自分のことに集中した方がいいでしょうか？
+line2 <shift> # それだけでは、悲しすぎる気もー」
+display
+com11 0 2
+sound 820
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はあ〜、人気があっても、万能にはなれない
+line2 <shift> # ですよね。私、思い上がっているのかしら」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （大きなため息を、ついている。
+line2 <shift> # 言い方が、あまりにもドライだったかな？）
+com09 0 69
+display
+location 69
+unk02

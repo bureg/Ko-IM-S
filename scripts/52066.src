@@ -1,0 +1,315 @@
+com2c 0 47
+com2d 0 91
+com2e 0 101
+com32 0 0
+com11 0 5
+sound 700
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「わーい、このバスに乗って、お仕事へ行くん
+line2 <shift> # だね！　ねえ、兄ちゃん、どこに行くの？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「近場の、景色がいいところへ。都会にはない
+line2 <shift> # 風景の中で、カメラまわしたいから」
+display
+com11 0 5
+sound 701
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「景色のいい……。あ、だったら、あそこに、
+line2 <shift> # 行こうよ。んっとね、亜美真美大島っ！」
+display
+com11 0 5
+sound 702
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「この間、ＴＶで見たんだー！
+line2 <shift> # そういう島があるの、兄ちゃん、知ってる？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それって、鹿児島の南の方にある島か？
+line2 <shift> # だったら、亜美真美大島じゃなくて……」
+com03 0 3
+choice1 <shift> # 奄美大島だよ
+line2
+com09 0 10
+com08
+choice2 <shift> # 俺美大島だよ
+line2
+com09 0 11
+com08
+choice3 <shift> # 竜美大島だよ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「奄美大島だよ」
+display
+com11 0 5
+sound 703
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「あまみ……？　そうなの〜。
+line2 <shift> # 亜美真美大島の方が、いいのに〜」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺美大島だよ」
+display
+com11 0 5
+sound 704
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「おれみ、おおしま……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、まちがえた！　おれみじゃなくて、
+line2 <shift> # あまみ！　奄美大島！」
+com09 0 91
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「竜美大島だよ」
+display
+com11 0 5
+sound 705
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「たつみ、おおしま……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、まちがえた！　たつみじゃなくて、
+line2 <shift> # あまみ！　奄美大島！」
+com09 0 91
+display
+location 91
+com11 0 5
+sound 706
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「え〜、そうなの〜。
+line2 <shift> # 亜美真美大島の方が、いいのに〜」
+com09 0 29
+display
+location 29
+com11 0 5
+sound 707
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「ねえ、兄ちゃん！　撮影なら、そんなところ
+line2 <shift> # より、真美亜美ビーチの方がいいよっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、あのなあ。それを言うなら……」
+com03 0 3
+choice1 <shift> # マイアミ・ビーチだろ？
+line2
+com09 0 30
+com08
+choice2 <shift> # マリアナ・ビーチだろ？
+line2
+com09 0 31
+com08
+choice3 <shift> # ウマナミ・ビーチだろ？
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「マイアミ・ビーチだろ？」
+display
+com11 0 5
+sound 708
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「そうなんだ〜。でも、真美亜美ビーチっていう
+line2 <shift> # 名前の方が、人、たくさんくると思うな……」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「マリアナ・ビーチだろ？」
+display
+com11 0 5
+sound 709
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「マリアナ……？　ちがうよ〜。
+line2 <shift> # そんな呼び方、してなかったも〜ん」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、マリアナじゃない！　マイアミだ！
+line2 <shift> # マイアミ・ビーチ！」
+com09 0 92
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ウマナミ・ビーチだろ？」
+display
+com11 0 5
+sound 710
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「ウマナミ……？　馬なんて、関係ないよ〜。
+line2 <shift> # そんな呼び方、してなかったし〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、ウマナミじゃない！　マイアミだ！
+line2 <shift> # マイアミ・ビーチ！」
+com09 0 92
+display
+location 92
+com11 0 5
+sound 711
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「そうなの？　でも、真美亜美ビーチって
+line2 <shift> # 名前の方が、人、たくさんくると思うな……」
+com09 0 49
+display
+location 49
+com11 0 5
+sound 712
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「んでー、これから、どっちに行くの？
+line2 <shift> # やっぱり亜美真美大島だよね？　兄ちゃん！」
+display
+com11 0 5
+sound 713
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「え〜、真美亜美ビーチの方が、いいよ〜。
+line2 <shift> # そっちの方が、絶対、楽しいもんっ」
+display
+com11 0 5
+sound 714
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「亜美真美大島ったら、亜美真美大島ー！」
+display
+com11 0 5
+sound 715
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「真美亜美ビーチって言ったら、
+line2 <shift> # 真美亜美ビーチ！」
+com03 0 3
+choice1 <shift> # 両方とも、バスじゃ行けないよ
+line2
+com09 0 50
+com08
+choice2 <shift> # 両方とも、ないってば
+line2
+com09 0 51
+com08
+choice3 <shift> # いい加減にしろー！
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「両方とも、バスじゃ行けないよ。奄美大島も、
+line2 <shift> # マイアミ・ビーチも、海の向こうだし」
+display
+com11 0 5
+sound 716
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「あ、そうなんだ〜。
+line2 <shift> # じゃあ、今日は別のところへ、行くしか……」
+display
+com11 0 5
+sound 717
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「なら、ケンカしても、しょうがないね。
+line2 <shift> # 亜美、着くまで、真美とトランプしよっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （すんなり、仲直りしてくれた。これで、
+line2 <shift> # 到着するまで、おとなしくしてくれるだろう）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「両方とも、ないってば。あるのは、奄美大島と、
+line2 <shift> # マイアミ・ビーチで……」
+display
+com11 0 5
+sound 718
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「そんなの、イヤだもんっ！　亜美真美大島は、
+line2 <shift> # かならず、どこかにあるのー！」
+display
+com11 0 5
+sound 719
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「真美亜美ビーチも〜！
+line2 <shift> # ただ、兄ちゃんが、知らないだけだもんっ！」
+display
+com11 0 5
+sound 720
+com4c 0 3
+com4c 0 3
+name 0 0 <names:4>  # Ami and Mami
+line1 <shift> # 「両方、あるったら、あるの〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （そろって、口をとがらせている。とりあえず、
+line2 <shift> # ケンカをやめてくれたのは、よかったけど……）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いい加減にしろー！　ケンカするなら、
+line2 <shift> # 二人とも、バスから降ろすぞ！」
+display
+com11 0 5
+sound 721
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「う……、に、兄ちゃんが、怒った……。
+line2 <shift> # 亜美、悪いことしてないのに。……えっぐ」
+display
+com11 0 5
+sound 722
+com4c 0 2
+name 0 0 <names:1>  # Mami
+line1 <shift> # 「亜美、泣いちゃダメだよ……。兄ちゃんは、
+line2 <shift> # 兄ちゃんは……、うっぐ、えっぐ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あああ、悪かった悪かった。
+line2 <shift> # あやまるから、二人とも……」
+display
+com11 0 5
+sound 723
+com4c 0 3
+name 0 0 <names:4>  # Ami and Mami
+line1 <shift> # 「う、う、う、うわ〜〜〜〜〜〜ん！！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （バスの中に、泣き声の二重奏が響きわたる。
+line2 <shift> # なんてこった、最悪だ……）
+com09 0 69
+display
+location 69
+unk02

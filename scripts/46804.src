@@ -1,0 +1,369 @@
+com2c 0 87
+com32 0 0
+com2d 0 84
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （仕事の合間のオフタイムを利用して、
+line2 <shift> # ビーチリゾートにやって来た）
+display
+com11 0 0
+sound 100
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「今日は存分に泳ぎますよ！　さあ、
+line2 <shift> # プロデューサーも着替えて着替えて」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おいおい、焦るなよ。気持ちはわかるけど、
+line2 <shift> # せっかくのオフだ、ゆっくり楽しもう」
+display
+com11 0 0
+sound 101
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あはは……。すみません、つい」
+display
+com11 0 0
+sound 102
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「最近、思いっきり泳げる時間なんて、
+line2 <shift> # なかなかとれなかったですから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだなぁ、しかし……」
+com03 0 3
+choice1 <shift> # 確かに、泳ぎたいね！
+line2
+com09 0 10
+com08
+choice2 <shift> # トレーニングするのか？
+line2
+com09 0 11
+com08
+choice3 <shift> # 注目を集めてるぞ
+line2
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「確かに、泳ぎたいね！」
+display
+com11 0 0
+sound 103
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ね、そうでしょう。プールに来て、
+line2 <shift> # 水を眺めるだけなんて、つまらないですよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだな。それに、俺もたまには、
+line2 <shift> # 身体を動かさなくっちゃな」
+display
+com11 0 0
+sound 104
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「プロデューサー、それじゃひとつ、
+line2 <shift> # 競争してみますか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いいね、望むところだ！」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「こんな時にまで、
+line2 <shift> # トレーニングをするのか、真？」
+display
+com11 0 0
+sound 105
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「まさか、そういうつもり、ないですよ。
+line2 <shift> # 泳ぎたいから、泳ぐんです」
+display
+com11 0 0
+sound 106
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「プールまで来て、ただ水を見て帰るんじゃ、
+line2 <shift> # もったいないですし」
+display
+com11 0 0
+sound 107
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「プロデューサーだって、『オフだから』って、
+line2 <shift> # 言ったじゃないですか。楽しまなくちゃ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それはそうだな……。泳ぐには、
+line2 <shift> # いい日和だし、じゃ、俺も泳ぐか！」
+display
+com11 0 0
+sound 108
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ひと泳ぎ、競争しましょう、
+line2 <shift> # プロデューサー！」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「真、注目を集めてるぞ？
+line2 <shift> # みんなが何事かと見てる」
+display
+com11 0 0
+sound 109
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ああっと、いけない。
+line2 <shift> # ちょっと、はしゃぎすぎたかな……」
+display
+com11 0 0
+sound 110
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「どうも、気合い入りすぎちゃいましたね。
+line2 <shift> # 変に力んで泳いだら、危ないな」
+display
+com11 0 0
+sound 111
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「んー、準備運動をゆっくりやっとくか。
+line2 <shift> # っと、その前に深呼吸だな……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうあわてなくても。
+line2 <shift> # プールは逃げやしないぞ」
+display
+com11 0 0
+sound 112
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あんまり、からかわないで下さいよ、
+line2 <shift> # プロデューサー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よしっ！　準備運動、俺も付き合うよ」
+display
+com11 0 0
+sound 113
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「準備だけじゃなく、ひと泳ぎ！
+line2 <shift> # 競争、してみませんか？」
+com09 0 19
+display
+location 19
+com22 0 30
+com21 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （それからしばらく、真と俺は競うように、
+line2 <shift> # 泳ぎを楽しんだ……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さすがに速いな。
+line2 <shift> # 後ろについていくのが、やっとだったよ」
+display
+com11 0 0
+sound 114
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「へへっ、簡単には抜かせないでしょう。
+line2 <shift> # そうそう負けませんよ？」
+display
+com11 0 0
+sound 115
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「でも、つい本気出しそうになっちゃったな。
+line2 <shift> # プロデューサーも、結構やりますね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうかな？　……さて、少し休けいしようか」
+display
+com11 0 0
+sound 116
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あれ、もう休んじゃうんですか。
+line2 <shift> # ボクは、まだまだ、泳ぎ足りないな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「泳ぎっぱなしも疲れるからな」
+com03 0 3
+choice1 <shift> # 後で泳ぎ方を教えてよ
+line2
+com09 0 20
+com08
+choice2 <shift> # 体力温存しようよ
+line2
+com09 0 21
+com08
+choice3 <shift> # 俺はもう限界だ
+line2
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「休んだ後で、真の得意の泳ぎ方を、
+line2 <shift> # 教えてくれないかな？」
+display
+com11 0 0
+sound 117
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あっ、もちろん、いいですよ！
+line2 <shift> # 競争じゃなしに、一緒に泳ぎましょう」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そういや、何が得意なんだ？　さっきは、
+line2 <shift> # いろんな泳ぎ方を試してたみたいだけど」
+display
+com11 0 0
+sound 118
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ボク、背泳ぎ以外なら、なんでも。
+line2 <shift> # わりと大丈夫ですよ」
+display
+com11 0 0
+sound 119
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「クロール、バタフライ、平泳ぎ……、
+line2 <shift> # 横泳ぎや立ち泳ぎも、一応できるかな？」
+display
+com11 0 0
+sound 120
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「どのフォームでも、疲れない泳ぎ方が、
+line2 <shift> # あるんですよ。やってみませんか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後は、真のレクチャーを受けながら、
+line2 <shift> # 俺は水に親しんだ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （結構、上達できたかも……。これからも真と、
+line2 <shift> # 競い合って泳げるといいな。楽しみだ）
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「体力温存しようよ。貴重なオフで、
+line2 <shift> # ヘトヘトになったら、目も当てられないぞ」
+display
+com11 0 0
+sound 121
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「それもそうですけど……。
+line2 <shift> # なんだか久々に泳ぐの、楽しくて」
+display
+com11 0 0
+sound 122
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「へへっ、プロデューサーのおかげかな？
+line2 <shift> # 競争のしがいがある、って感じです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ありがとう。しかし、競争は、
+line2 <shift> # もうやめにしないか？」
+display
+com11 0 0
+sound 123
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「え、どうしてです？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「競争するより、真の泳ぎぶりを、
+line2 <shift> # ゆっくり見てみたいんだ、俺は」
+display
+com11 0 0
+sound 124
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「や、やだなあ。ダメですよ、
+line2 <shift> # ボクの水着姿に見とれちゃ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そういうわけでは……。
+line2 <shift> # いや、少しは、そういうつもりあるかも……」
+display
+com11 0 0
+sound 125
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ええっ！　ボクだって、そんなに見つめられて
+line2 <shift> # ばかりじゃ、泳ぎづらいですし……」
+display
+com11 0 0
+sound 126
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「そ、それにっ！　ただ見るより、
+line2 <shift> # 一緒に泳いだほうが面白いですよ、きっと」
+display
+com11 0 0
+sound 127
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「競争は抜きにしても……、少し休けいしてから、
+line2 <shift> # また泳ぎましょう、プロデューサー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後は、真のレクチャーを受けながら、
+line2 <shift> # 俺は水に親しんだ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （たまには泳ぐのもいいな……。
+line2 <shift> # また真と泳いでみたいものだ）
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「正直、俺はもう限界だ」
+display
+com11 0 0
+sound 128
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「プロデューサー、鍛え方が足りないんじゃ
+line2 <shift> # ないですか？　少しだらしないかも……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さっき、頑張って泳ぎすぎたんだ……」
+display
+com11 0 0
+sound 129
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あはは。だけどボクも、こんなに泳いだの、
+line2 <shift> # 久しぶりだから、ちょっと疲れたかな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だろう？　休んでから、
+line2 <shift> # また泳げばいいじゃないか」
+display
+com11 0 0
+sound 130
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「そのほうがいいかな……、そうします。
+line2 <shift> # 後に差し支えても、困りますからね」
+display
+com11 0 0
+sound 131
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あー、それにしても少し、
+line2 <shift> # 泳ぎのカンが鈍ったのかなぁ、ボク」
+display
+com11 0 0
+sound 132
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「フォームにロスがあったかも。
+line2 <shift> # このくらいで疲れを感じるなんて」
+display
+com11 0 0
+sound 133
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「なんかスッキリしなくて、気になるな。
+line2 <shift> # もうひと泳ぎして、確かめてもいいですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「こらこら、休けいするって決めたんだから、
+line2 <shift> # ちゃんと休んだほうがいいぞ」
+display
+com11 0 0
+sound 134
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ああっと、そうだった！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後は、お互いゆっくりと休み、
+line2 <shift> # それからまた、のんびり泳いだ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しかし、真は自分の思うように泳げないらしく、
+line2 <shift> # 時々、首をひねっていたみたいだ……）
+com09 0 29
+display
+location 29
+unk02

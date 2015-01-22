@@ -1,0 +1,211 @@
+com2c 0 57
+com2d 0 11
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （新しい歌のネタをリサーチするため、
+line2 <shift> # 繁華街を見て回ることにした）
+display
+com11 0 5
+sound 100
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あっ、あのお店！
+line2 <shift> # すごくおいしそう……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ん、どうした？　何か見つけたの？」
+display
+com11 0 5
+sound 101
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あそこのお店の手作りケーキですよ。
+line2 <shift> # お菓子も……。いい匂い、しませんか？」
+com03 0 2
+choice1 <shift> # そうだね
+com09 0 10
+com08
+choice2 <shift> # そうかなぁ？
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おっ、そうだね。確かにうまそうだ……。
+line2 <shift> # 実演販売もしてるみたいだ。近くで見たいね」
+display
+com11 0 5
+sound 102
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はいっ、そうですね！
+line2 <shift> # 近くでゆっくり見たいですよね♪」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ん、そうかなぁ？　ごめん、
+line2 <shift> # 俺は気がつかなかったよ」
+display
+com11 0 5
+sound 103
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そうですか……。
+line2 <shift> # 鈍いなぁ、プロデューサーさん」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そう言われても……。しかし確かに、
+line2 <shift> # 言われてみればうまそうかもしれないな」
+display
+com11 0 5
+sound 104
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ね？　ね！　そうでしょう？」
+com09 0 29
+display
+location 29
+com11 0 5
+sound 105
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「実は私、甘いお菓子が大好きで！」
+display
+com11 0 5
+sound 106
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「自分でお菓子作るのも好きなんですよ。
+line2 <shift> # もちろん、食べるのも好きですけど……」
+display
+com11 0 5
+sound 107
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「休みの日に、ケーキとか、クッキーとか、
+line2 <shift> # よく作ったりするんですよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お菓子作りが趣味ってことかな」
+display
+com11 0 5
+sound 108
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい！　そうです♪　小さい頃は、
+line2 <shift> # 私も、お菓子職人に憧れて……」
+display
+com11 0 5
+sound 109
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「パティシエになるのが、夢だったり
+line2 <shift> # したこともあったんです」
+com03 0 2
+choice1 <shift> # 今からでもなれるさ！
+line2
+com09 0 30
+com08
+choice2 <shift> # 食べすぎると太るよ
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今からでもなれるさ！
+line2 <shift> # どうだ春香、職人を目指したら？」
+display
+com11 0 5
+sound 110
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ええっ！　今からですか！？
+line2 <shift> # でも私、今は歌が大事だし……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いやいや、むしろ、歌のパティシエを
+line2 <shift> # 目指すってのはどうかな？」
+display
+com11 0 5
+sound 111
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「歌の……、ぱてぃしえ？」
+display
+com11 0 5
+sound 112
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「お菓子みたいにカラフルで、
+line2 <shift> # 楽しい気分を歌にする、職人さん？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうとも。ステージで歌って踊る、
+line2 <shift> # そんなお菓子職人だ」
+display
+com11 0 5
+sound 113
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あっ、それ！　面白いかも♪
+line2 <shift> # なんだかミュージカルみたいですね！」
+display
+com11 0 5
+sound 114
+com4b 0 0
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「歌のパティシエかぁ……よーし、私、
+line2 <shift> # 頑張っちゃおうかな〜♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （春香は目をきらきらさせて、
+line2 <shift> # やる気があふれてきたみたいだぞ）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「春香、食べ過ぎると太るよ？」
+display
+com11 0 5
+sound 115
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「むぅ……ぱ、パ、パティシエの話からなんで
+line2 <shift> # 食べ過ぎって発想がっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、いやその……、そこのお店の職人さんも、
+line2 <shift> # 試食のし過ぎか、肥えてるじゃあないか」
+display
+com11 0 5
+sound 116
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そりゃ私、お菓子好きだけど……。
+line2 <shift> # ちょっといっぱい、たまに食べるけどぉ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お菓子好きはいいけど程々にってことさ」
+display
+com11 0 5
+sound 117
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「わかりました！　つまり、
+line2 <shift> # ダイエットが必要なんですね！」
+display
+com11 0 5
+sound 118
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「確かにステージにも影響でちゃうし、だから、
+line2 <shift> # お菓子作りも、食べるのも自重しろと……？」
+display
+com11 0 5
+sound 119
+com4b 0 2
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「わかってるけど、うっ、ううっ、
+line2 <shift> # う、そんな、やめられないですよぉ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お、落ち着けって、春香」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （春香は少々機嫌を損ねてしまった。触れては
+line2 <shift> # いけない話題を振ってしまったかな……）
+com09 0 49
+display
+location 49
+unk02

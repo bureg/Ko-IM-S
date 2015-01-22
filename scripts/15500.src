@@ -1,0 +1,345 @@
+com2c 0 18
+com2d 0 33
+com32 0 0
+com11 0 1
+sound 200
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「この歌番組……、司会も、やるんですかっ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。おもしろおかしく、やってくれって」
+display
+com11 0 1
+sound 201
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「最近、歌以外のお仕事も、
+line2 <shift> # 増えちゃいましたよねっ」
+com03 0 3
+choice1 <shift> # 歌だけに専念したい？
+line2
+com4f 0 0
+com09 0 10
+com08
+choice2 <shift> # 一流の証明だよな
+line2
+com4f 0 2
+com09 0 11
+com08
+choice3 <shift> # もう、そういう立場だし
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「歌だけに専念したい？」
+display
+com11 0 1
+sound 202
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「いえっ！　なんでも、挑戦ですから！
+line2 <shift> # どんなお仕事でも、私、大好きだしっ！」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「一流の証明だよな」
+display
+com11 0 1
+sound 203
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「なんか、不思議な気分です。歌が、
+line2 <shift> # 大ヒットしたら、私まで大ヒットー、なんて！」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もう、そういう立場だし。スーパースターには、
+line2 <shift> # いろいろな物が求められるから」
+display
+com11 0 1
+sound 204
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「とんでもないとこまで、来ちゃいましたね〜。
+line2 <shift> # そ、そのうち、バンジージャンプとか！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お笑いタレントじゃないんだから……」
+display
+com11 0 1
+sound 205
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ああ、よかったー。高いとこ、苦手なんです。
+line2 <shift> # 私〜……」
+com09 0 19
+display
+location 19
+com11 0 1
+sound 206
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ、そろそろ、番組スタートですねっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「これ、生放送だけど……、あがってない？」
+display
+com11 0 1
+sound 207
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「もう慣れっこです！　えへへ、好きなこと、
+line2 <shift> # しゃべってきちゃおーっと！」
+com03 0 3
+choice1 <shift> # 任せるよ
+com09 0 20
+com08
+choice2 <shift> # やりすぎないように
+line2
+com09 0 21
+com08
+choice3 <shift> # 放送禁止用語に注意
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「任せるよ」
+display
+com11 0 1
+sound 208
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「えっ。ほんとに、
+line2 <shift> # 好きに、やっていいんですか？」
+display
+com11 0 1
+sound 209
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ヘ、ヘンな感じかも〜。前は『やりすぎるな』
+line2 <shift> # って、あんなに言われてたのに……」
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やりすぎないように」
+display
+com11 0 1
+sound 210
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「セーブした方がいいですか？　ここのとこ、
+line2 <shift> # いつも、やりたいようにやってるんですけど〜」
+display
+com11 0 1
+sound 211
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「もう数もこなしてるし、問題ないですよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……そうだな。じゃあ、お任せで」
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「放送禁止用語には注意してな」
+display
+com11 0 1
+sound 212
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「生だから、編集できないですもんね！　でもー、
+line2 <shift> # 私、そんなの言っちゃったことないですよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。一応、言ってみただけ」
+display
+com11 0 1
+sound 213
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「大丈夫っ。プロデューサーを、
+line2 <shift> # 困らせるようなことなんて、しませんからっ！」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、やよい。口元、なにかついてる」
+display
+com11 0 1
+sound 214
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「え、口……？　な、なんでしょう？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「リップクリームみたいだけど……」
+display
+com11 0 1
+sound 215
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「つけすぎちゃったかなあ。
+line2 <shift> # ……プロデューサ〜、お願いしまーす」
+com0e 0 218
+com44
+com09 0 30
+com45
+com44
+com09 0 31
+com45
+com44
+com09 0 32
+com45
+com44
+com09 0 33
+com45
+com44
+com09 0 34
+com45
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、これでカンペキ」
+display
+com11 0 1
+sound 216
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ありがとうございますーっ」
+display
+com11 0 1
+sound 217
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「じゃ、いってきまーす！
+line2 <shift> # 終わったら、ゴハンに、いこーっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （仕事ぶりは、一流だけど……。
+line2 <shift> # 細かい部分じゃ、まだまだ放っておけないな）
+com09 0 39
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん。
+line2 <shift> # いまひとつ、キレイにならないな……」
+display
+com11 0 1
+sound 218
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「そうですか〜……」
+display
+com11 0 1
+sound 219
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「でもっ、いいです！
+line2 <shift> # 直前には、スタッフさんチェック、入るんで」
+display
+com11 0 1
+sound 220
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「それじゃ、いってきまーす！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うまくいかなかった……。リップクリームって、
+line2 <shift> # 意外と、ベトつくんだよな）
+com09 0 39
+display
+location 32
+com11 0 1
+sound 221
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「プロデューサー？
+line2 <shift> # クリーム、髪にも、ついてますか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、もしかしたら、と思って……」
+display
+com11 0 1
+sound 222
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「髪は、さっき、メイクさんに、
+line2 <shift> # チェックしてもらいましたけど……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか。じゃ、改めて、口を……」
+display
+com11 0 1
+sound 223
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あああ、もう行かなくちゃ〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （余計なこと、するんじゃなかったな。
+line2 <shift> # なんか、バタバタしてしまった……）
+com09 0 39
+display
+location 33
+com11 0 1
+sound 230
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「プロデューサー？
+line2 <shift> # 口に、ついてるんじゃなかったんですかー？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、服のそでで、
+line2 <shift> # ぬぐったりしてないかなと思って……」
+display
+com11 0 1
+sound 231
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「そ、そんなことしないですよ〜。
+line2 <shift> # もう小学生じゃないんですから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ん？　じゃあ、小学生までは、
+line2 <shift> # やってたってことか？」
+display
+com11 0 1
+sound 232
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あっ！　うう。そ、それは……」
+display
+com11 0 1
+sound 233
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「……あ！　もう時間になっちゃってますよ！
+line2 <shift> # 行かなくちゃ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あっ、やよい。
+line2 <shift> # ちょ、ちょっとクリーム……！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （クリームつけたまま、あわてて行ってしまった。
+line2 <shift> # 素直に、とってやればよかったな……）
+com09 0 39
+display
+location 34
+com11 0 1
+sound 227
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「プロデューサー……。リップクリームは？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、そうだったな」
+display
+com11 0 1
+sound 228
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「どうしたんです？　なんか、ボーっと……。
+line2 <shift> # あ、大変！　もう行かなくちゃ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「クリームは、どうする？」
+display
+com11 0 1
+sound 229
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あっちで、スタッフさんに、とって
+line2 <shift> # もらいます！　じゃないと、間に合わないしっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （本番前の貴重な時間を、浪費させてしまった。
+line2 <shift> # ……悪いことしたな）
+com09 0 39
+display
+location 39
+unk02

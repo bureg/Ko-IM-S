@@ -1,0 +1,455 @@
+com2c 0 103
+com2c 0 109
+com2d 0 81
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「空手の道場……？　取材前に、
+line2 <shift> # こんなところにきて、どうするんだ？」
+display
+com11 0 2
+sound 1100
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「最近、顔出してないから、アイサツしておこう
+line2 <shift> # と思って。ボク、ずっとここに通ってたんです」
+display
+com11 0 2
+sound 1101
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「小さい頃に、父さんに連れてこられてから、
+line2 <shift> # ズルズルと。うまく、やめる機会つかめなくて」
+display
+com11 0 2
+sound 1102
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ハンパもイヤだったし、そこそこは、がんばり
+line2 <shift> # ました。ボク、どのぐらいの強さに見えます？」
+com03 0 3
+choice1 <shift> # 初段ぐらい？
+line2
+com09 0 10
+com08
+choice2 <shift> # １級ぐらい？
+line2
+com09 0 11
+com08
+choice3 <shift> # ８段ぐらい？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「初段ぐらい？」
+display
+com11 0 2
+sound 1103
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「わ。さっすが、ドンピシャリです！　黒帯
+line2 <shift> # までは、なんとかと思って、必死でとりました」
+display
+com11 0 2
+sound 1104
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「でも、それ以上は、めざせなかったです。痛い
+line2 <shift> # 思いをするなら、好きなことでしたかったし」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「１級ぐらい？」
+display
+com11 0 2
+sound 1105
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「うーん、残念！　もうちょっと上です。どうせ
+line2 <shift> # なら、キリがいいところまでって思ったから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃあ、初段か？」
+display
+com11 0 2
+sound 1106
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「はい。黒帯まではなんとかって。それ以上は、
+line2 <shift> # めざす気力、起きなかったですけど」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「８段ぐらい？」
+display
+com11 0 2
+sound 1107
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「メチャメチャ達人じゃないですか〜？
+line2 <shift> # そんなの、絶対にとれませんよ〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……ちがったか。じゃあ、５段？」
+display
+com11 0 2
+sound 1108
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「それもムリですっ！　正解は初段ですけど、
+line2 <shift> # それだって、すごい大変だったんですよ……」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃあ、本気で勝負したら、
+line2 <shift> # 俺よりは強いかな？」
+display
+com11 0 2
+sound 1109
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「多分、すこしは……。プロデューサーは、
+line2 <shift> # 格闘のセンスとか、ある方ですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうだろう。ためしに筋、見てもらえる？」
+display
+com11 0 2
+sound 1110
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「へへっ、いいですよ。
+line2 <shift> # じゃあ、かるく組み手やってみましょう」
+display
+com11 0 2
+sound 1111
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「もし、１発でボクのこと、『参った』させ
+line2 <shift> # られたら、外でジュースでも、おごります」
+com03 0 3
+choice1 <shift> # よし、覚悟しろ！
+line2
+com09 0 30
+com08
+choice2 <shift> # よし、死んでもらう
+line2
+com09 0 31
+com08
+choice3 <shift> # んじゃ、はじめよっか〜
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、覚悟しろ！」
+display
+com11 0 2
+sound 1112
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「お、やる気ですね！　そうこなくっちゃ！」
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、死んでもらう」
+display
+com11 0 2
+sound 1113
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「や、やる気なのはいいですけど、殺さないで
+line2 <shift> # 下さいよ〜。あの世でアイドル、したくないし」
+display
+com11 0 2
+sound 1114
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「まあ、ボク、受けるの、けっこううまいから、
+line2 <shift> # どうやっても死なないとは、思いますけど！」
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「んじゃ、はじめよっか〜」
+display
+com11 0 2
+sound 1115
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「……遊び半分でやると、プロデューサーが
+line2 <shift> # ケガしますよ？　殴る側にも、負担はかかるし」
+display
+com11 0 2
+sound 1116
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「なるべく、コブシを真っ直ぐ当てるように
+line2 <shift> # して下さい。こう、腰で押し出すような感じで」
+com09 0 49
+display
+location 49
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、本当にいいのか？　もし万が一、
+line2 <shift> # 俺の攻撃が当たったりしたら……」
+display
+com11 0 2
+sound 1135
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「大丈夫ですよ。プロデューサーの攻撃なら、
+line2 <shift> # １００％、避けるか受け流せますから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それは頼もしい……、というより、そこまで言
+line2 <shift> # われると、少しくやしいな。なら、本気で！」
+display
+com11 0 2
+sound 1117
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「さ、いいですよ！　どこでも好きなところ、
+line2 <shift> # 突いてきて下さい。せりゃあ！」
+com0e 2 201
+com44
+com09 0 50
+com45
+com44
+com09 0 51
+com45
+com44
+com09 0 52
+com45
+com44
+com09 0 53
+com45
+com44
+com09 0 54
+com45
+com44
+com09 0 55
+com45
+com44
+com09 0 56
+com45
+display
+location 50
+com11 0 2
+sound 1136
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「甘いっ！」
+display
+com11 0 2
+sound 1137
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「はあっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「イテっ！　ま、真、ストップストップ！」
+display
+com11 0 2
+sound 1138
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あああっ、すみません！　つい本気で……」
+display
+com11 0 2
+sound 1139
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「でも、プロデューサー、なかなか
+line2 <shift> # 筋がいいですよ。するどい打ち込みでした」
+display
+com11 0 2
+sound 1140
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「とっさに体が反応して、
+line2 <shift> # 反撃をしちゃうぐらいでしたし」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか？　結局真からは、
+line2 <shift> # １本とれなかったけど……」
+display
+com11 0 2
+sound 1141
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「いえ、今のは１本に値する打撃でした。
+line2 <shift> # というわけで、ジュース、おごっちゃいます！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （真剣勝負を、見事、制した！　勝つための
+line2 <shift> # 唯一の手、うまく見つけることができたな）
+com09 0 69
+display
+location 51
+com11 0 2
+sound 1142
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「うおっ！」
+display
+com11 0 2
+sound 1143
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ふぅ、危なかったです。
+line2 <shift> # とっさに避けたから、助かりましたけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「頭じゃダメだったか……、さすが初段。
+line2 <shift> # 見事にかわされたな」
+display
+com11 0 2
+sound 1144
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「それは、そうです。
+line2 <shift> # だてに鍛えてませんから！」
+com09 0 91
+display
+location 52
+com11 0 2
+sound 1145
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「危ないっ！」
+display
+com11 0 2
+sound 1146
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「プロデューサー、顔面は反則ですよ〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え、そうなのか？　だって、
+line2 <shift> # どこ突いてもいいって、言ったから……」
+display
+com11 0 2
+sound 1123
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「うちの流派は、顔面パンチは、なしなんです。
+line2 <shift> # 蹴りだったら、ＯＫですけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ご、ごめん。知らなくて……。
+line2 <shift> # 大丈夫だったか？」
+display
+com11 0 2
+sound 1147
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「へへっ、バッチリ避けたから、平気ですよ」
+display
+com11 0 2
+sound 1148
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「でも、危なかったです。顔に青タンつくったら、
+line2 <shift> # 仕事に影響、出ちゃいますし……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （う、それも、そうだな。いくらなんでも、もう
+line2 <shift> # すこし今の立場、考えてやるべきだった……）
+com09 0 69
+display
+location 53
+com11 0 2
+sound 1149
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ふっ、と！」
+display
+com11 0 2
+sound 1150
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「腕なんか突いても、ダメですよ。
+line2 <shift> # 避けるのも簡単ですから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「くうっ、残念……。
+line2 <shift> # 勢い次第では、いけると思ったんだけどな」
+display
+com11 0 2
+sound 1151
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「これでも、有段者ですから！　視線で、
+line2 <shift> # どこを攻撃するか、わかっちゃいますし」
+com09 0 91
+display
+location 54
+com11 0 2
+sound 1152
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「よっ、と！」
+display
+com11 0 2
+sound 1153
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「的が大きいお腹を狙うとは、
+line2 <shift> # やりますね、プロデューサー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、見事にかわされたよ。
+line2 <shift> # 真も、さすが有段者だな」
+display
+com11 0 2
+sound 1154
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「まあ、これぐらいは。それに、アイドルに
+line2 <shift> # なってからも、足腰は鍛えてますし」
+com09 0 91
+display
+location 55
+com11 0 2
+sound 1155
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「くっ、と！」
+display
+com11 0 2
+sound 1156
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「甘いです。
+line2 <shift> # そんなところに、当てられたりしませんよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「くっ、ダメか。カンペキに見切られていたな」
+display
+com11 0 2
+sound 1157
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「これでもボク、有段者ですから。動きを見て、
+line2 <shift> # 打撃を見切るぐらい、ワケないです」
+com09 0 91
+display
+location 91
+com11 0 2
+sound 1131
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「残念ですけど、ジュースはナシ、ですね。
+line2 <shift> # じゃ、ボク、アイサツ、すませてきます！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うーん、降参させることができなかった。
+line2 <shift> # けど、まあ、ケガさせるよりはいいか）
+com09 0 69
+display
+location 56
+com11 0 2
+sound 1132
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「プロデューサー、どうしたんです？
+line2 <shift> # 攻撃してこないんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「先に手を出すのは、どうもな……。
+line2 <shift> # 真の方から、かかってこいよ」
+display
+com11 0 2
+sound 1133
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「なんか、自信マンマンですね……。ホントに
+line2 <shift> # 平気かなあ。じゃ、いきますよ〜。せーのー！」
+display
+com22 0 30
+com32 0 1
+com21 0 30
+com11 0 2
+sound 1158
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「プロデューサー！？　大丈夫でした？
+line2 <shift> # お医者さん、なんて言ってましたっ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「冷やしておけば、じき、よくなるって。
+line2 <shift> # さ、雑誌の取材、行こう……。ぐっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ヒリヒリと痛みが走る……。じっと待ってない
+line2 <shift> # で、かるくでも、手を出しておけばよかった）
+com09 0 69
+display
+location 69
+unk02

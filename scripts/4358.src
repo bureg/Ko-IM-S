@@ -1,0 +1,329 @@
+com2c 0 19
+com2d 0 11
+com11 0 2
+sound 100
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「もうちょっぴり体力強化しなさいとの、
+line2 <shift> # 社長からのお達しがありましたけど……」
+display
+com11 0 2
+sound 101
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そうだ！　今日は、ちょっと一緒に
+line2 <shift> # 走りませんか？　プロデューサーさん！」
+com03 0 2
+choice1 <shift> # いいとも、走ろう
+line2
+com09 0 10
+com08
+choice2 <shift> # い、今から？
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。もちろんいいとも。走ろうか。
+line2 <shift> # でも急にどうしたんだ？」
+display
+com11 0 2
+sound 102
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「えへへへ……。実は私、特訓しました！
+line2 <shift> # ダッシュしても全然転ばなくなったんですよ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おお！　それはすごいかも。
+line2 <shift> # よし、是非特訓成果を披露してくれ」
+display
+com11 0 2
+sound 103
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「はいっ！　いきますよ！
+line2 <shift> # 見ててくださいっ！」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「い、今からすぐにか？
+line2 <shift> # また急な話だなぁ」
+display
+com11 0 2
+sound 104
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「はい！　今すぐに！　これまでの私とは
+line2 <shift> # ひと味違うところを見せますよっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「えっ、なにかあったのかっ？」
+display
+com11 0 2
+sound 105
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「実は私、特訓したんです！　ダッシュしても
+line2 <shift> # 全然転ばなくなったんですよ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なんと！　特訓！？　もしや、
+line2 <shift> # 芸能人スポーツ大会に備えてか！」
+display
+com11 0 2
+sound 106
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そ、そうじゃないですけど……。
+line2 <shift> # とにかく見ててください、いきますよ！」
+com09 0 29
+display
+location 29
+com11 0 2
+sound 107
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ほら！　ほらほら！　このとおり！
+line2 <shift> # 全然ちっとも転ばないっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ふむふむなるほど……、って、危ない！？」
+display
+com11 0 2
+sound 108
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ああああ〜っ……」
+display <shift> # ばったーん！
+display
+com11 0 2
+sound 109
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あうううううっ、えぁっ、いたたたたたぁ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「以前よりはきちんと走れるようになったかも
+line2 <shift> # しれないけど……、転ぶときは転ぶんだね」
+display
+com11 0 2
+sound 110
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「は、はい、すみませんっ。
+line2 <shift> # 結構頑張ったつもりなのになぁ」
+com03 0 3
+choice1 <shift> # あえて軽く笑う
+line2
+com09 0 30
+com08
+choice2 <shift> # 注意が足りないな
+line2
+com09 0 31
+com08
+choice3 <shift> # 適当になぐさめる
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ははは、大丈夫か？」
+display
+com11 0 2
+sound 111
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「はい、へ、へいきです！　大丈夫です。
+line2 <shift> # すみませんですぅ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なに、謝ることなんかないさ！　思い切りの
+line2 <shift> # いい走りだったよ。それよりケガはないかな？」
+display
+com11 0 2
+sound 112
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「はい！　お気遣いありがとうございます♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それならよかった。それにしても、
+line2 <shift> # 走るのにもだいぶ慣れたみたいだね」
+display
+com11 0 2
+sound 113
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あっ、はい！　以前は私、あんまり走ったら
+line2 <shift> # 転ぶんじゃないかなって思ってて……」
+display
+com11 0 2
+sound 114
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「だから、おっかなびっくりそーっとしか、
+line2 <shift> # 走れなかったんですけど、ね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うん、今は走る姿に、
+line2 <shift> # 自信がついてきた感じだ。頑張ったな！」
+display
+com11 0 2
+sound 115
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「特訓した甲斐がありました！　これも
+line2 <shift> # プロデューサーさんのおかげですね♪」
+display
+com11 0 2
+sound 116
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「それじゃ、一緒に走りましょう！
+line2 <shift> # 向こうまで競争です！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （よし、春香のコンディションは、
+line2 <shift> # ばっちりいい感じになったみたいだぞ）
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、まだちょっと注意が足りないなぁ。
+line2 <shift> # そこの足元、段差があったから」
+display
+com11 0 2
+sound 117
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ああっ、ほんとだ。
+line2 <shift> # ここでつまづかなければ……、ううっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、努力は認めるよ。見た感じ、
+line2 <shift> # しっかり走れるようになってきてる」
+display
+com11 0 2
+sound 118
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あっ、はい！　以前は私、あんまり走ったら
+line2 <shift> # 転ぶんじゃないかって思ってて……」
+display
+com11 0 2
+sound 119
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「だから、おっかなびっくりそーっとしか
+line2 <shift> # 走れなかったんですけどぉ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「トレーニングをして、
+line2 <shift> # だんだん慣れてきたのかな？」
+display
+com11 0 2
+sound 120
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「はい！　走るのが辛くなくなりました！
+line2 <shift> # 特訓した甲斐があったみたいです♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うん、よく頑張った！
+line2 <shift> # 俺も不安がなくなったよ」
+display
+com11 0 2
+sound 121
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「よーし、それじゃ、向こうまで、
+line2 <shift> # 競争しませんか、プロデューサーさん？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いいとも、手加減ナシだぞ！　だから
+line2 <shift> # 今度は転ばないようにね、春香」
+display
+com11 0 2
+sound 122
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あはははは……。はーい♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （そのあとしばらくトレーニングをした。
+line2 <shift> # 春香の体調もいい感じになったみたいだ）
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあまあ、ちょっと転んだくらい、
+line2 <shift> # どうってことないさ。ケガはないかな？」
+display
+com11 0 2
+sound 123
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「だ、大丈夫です……。すみません。
+line2 <shift> # ああもう、私、なんでこう転ぶんだろ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いやいや、転ぶのはいつものことだし、
+line2 <shift> # そんなに気にしなくても」
+display
+com11 0 2
+sound 124
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「気にしますよぉ、克服したいですよぉ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、走るのは特訓で慣れたし、
+line2 <shift> # 上達したみたいだけど……、どうかな」
+display
+com11 0 2
+sound 125
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「転ぶのがクセになってるのかな。
+line2 <shift> # なおしたいなぁ、転び癖」
+display
+com11 0 2
+sound 126
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「転ぶのにも、もう随分、
+line2 <shift> # 慣れてるんですけどね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だったら、そのままでもいいんじゃないか？」
+display
+com11 0 2
+sound 127
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「よ、よくないですよぉ！
+line2 <shift> # かっこわるいじゃないですかぁ！」
+display
+com11 0 2
+sound 128
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「こないだのスタジオの収録でも、私、
+line2 <shift> # ぐるぐる転がるくらい盛大にやっちゃって……」
+display
+com11 0 2
+sound 129
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「セットも壊しちゃったし……。
+line2 <shift> # もう、スタッフさんに顔向けできませんよぉ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか、そうだったな。
+line2 <shift> # あ、い、いや……、ドンマイ」
+display
+com11 0 2
+sound 130
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「特訓で大丈夫になったつもりだったのに……。
+line2 <shift> # やっぱり私、自信なくしちゃうよぉ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「頑張ろう。これから転ばないように
+line2 <shift> # すればいいんだから、な？」
+display
+com11 0 2
+sound 131
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「は、はい……。ううっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （春香はしょげてしまったようだ。もうちょっと
+line2 <shift> # うまく声をかけてやればよかったな……）
+com09 0 49
+display
+location 49
+unk02

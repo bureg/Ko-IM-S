@@ -1,0 +1,311 @@
+com2c 0 25
+com2d 0 91
+com2e 0 101
+com32 0 0
+com11 0 0
+sound 10000
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ねえ、兄ちゃん！　ミーティングって、おしゃ
+line2 <shift> # べりだよね？　亜美ね、おしゃべり大好きー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「単なるおしゃべりとは、すこし違うんだけど。
+line2 <shift> # ま、今日は初日だし、そんな感じでもいいか」
+display
+com11 0 0
+sound 10001
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「んじゃ、まず真美が、自分のこと話すね。真美
+line2 <shift> # は、ケータイのメール、すっごく早く打てるよ」
+display
+com11 0 0
+sound 10002
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「亜美も話すー！　亜美はー、友達と
+line2 <shift> # ムービーメールの交換とか、よくやるの！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そうか。いろいろ話してくれるのは、うれ
+line2 <shift> # しいけど、できればアイドルの志望動機とかも」
+display
+com11 0 0
+sound 10003
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「そんで、好きな物はー、アクセサリとね、
+line2 <shift> # プリンとね、そいからそいから〜」
+display
+com11 0 0
+sound 10004
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ゲーセンで、プリントシール撮るのも、好き！
+line2 <shift> # そんで、学校で一番、仲のいい友達はね〜」
+com03 0 2
+choice1 <shift> # ちょっと、落ち着こう　
+line2
+com09 0 10
+com08
+choice2 <shift> # ちょっと、落ち着けっ！　
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ちょっと、落ち着こう。そんなにいっぺんに
+line2 <shift> # 言われても、おぼえられないし」
+display
+com11 0 0
+sound 10005
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「あ、そっかー。兄ちゃんの頭、パンクしちゃう
+line2 <shift> # もんね。んじゃ亜美、すこしずつ話そ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうしてくれると、助かる。……それで、
+line2 <shift> # ふたりは今、いくつなんだ？　小学生か？」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ちょっと、落ち着けっ！　俺は、アイドルの
+line2 <shift> # 志望動機が知りたいって、言っただろ！」
+display
+com11 0 0
+sound 10006
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「うあうあ、に、兄ちゃんが怒鳴った〜。
+line2 <shift> # 真美達、なんにも悪いことしてないのに……」
+display
+com11 0 0
+sound 10007
+com4c 0 3
+name 0 0 <names:4>  # Ami and Mami
+line1 <shift> # 「うっ、うっ、えっぐ、ううううううっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うわ、ご、ごめん、悪かったよ！　もう
+line2 <shift> # 怒鳴ったりしないから、泣かないでくれ」
+display
+com11 0 0
+sound 10008
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ホント……？　なら、ガマンするー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ほ、よかった……。それで、ふたりは今、
+line2 <shift> # いくつなんだ？　もしかして、まだ小学生？」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10009
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うん、そーだよ。
+line2 <shift> # んっとね、学年はねー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「待って、当ててみせるから。
+line2 <shift> # えーと、見た目からして、おそらく……」
+com03 0 3
+choice1 <shift> # ６年生？　
+com09 0 20
+com08
+choice2 <shift> # ４年生？　
+com09 0 21
+com08
+choice3 <shift> # １年生？　
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「６年生？」
+display
+com11 0 0
+sound 10010
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「当ったりー！　ピッタリわかっちゃうなんて、
+line2 <shift> # 兄ちゃん、すっごーい！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ありがとう。カンだったんだけど、
+line2 <shift> # 当たって、よかったよ」
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「４年生？」
+display
+com11 0 0
+sound 10011
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「うう〜、ちがうよ〜。真美達、６年生だもん。
+line2 <shift> # 兄ちゃんって、あんま、見る目ないんだね……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う、そうか、６年生か……。まあ、
+line2 <shift> # 当たらずしも遠からずってことで、許してくれ」
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「１年生？」
+display
+com11 0 0
+sound 10012
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「うう〜、ちがうよ〜っ！　真美達、６年生
+line2 <shift> # だもん！　そんなに小さく、見えないでしょ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ぐ……、大ハズレか。もうすこし見る目
+line2 <shift> # みがかないとな……。そうか、６年生か」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 10013
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ね、兄ちゃん、亜美から、質問〜！　亜美達、
+line2 <shift> # もうアイドルなら、今日からＴＶで歌えるの？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え？　さすがに、すぐＴＶ番組ってワケには、
+line2 <shift> # いかないよ。段階を、踏まないとな」
+display
+com11 0 0
+sound 10014
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「頼めば、きっと出してくれるよ！　これから、
+line2 <shift> # ＴＶ局に行って、飛び入りしちゃおー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おいおい、それは、マズいよ。大騒動になる！
+line2 <shift> # そ、それより、今は、俺といっしょに……」
+com03 0 3
+choice1 <shift> # ゲームでもして、遊ぼう　
+line2
+com09 0 30
+com08
+choice2 <shift> # 歌でも、歌おう　
+line2
+com09 0 31
+com08
+choice3 <shift> # 将来の作戦を、練ろう　
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ゲームでもして、遊ぼう」
+display
+com11 0 0
+sound 10015
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「あ、それも、いいかもー！　やろーやろー、
+line2 <shift> # 亜美のケータイ、ゲームたくさん入ってるよっ」
+display
+com11 0 0
+sound 10016
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「んじゃ、これから３人で、
+line2 <shift> # ハイスコア競争だねっ！　わーいわーい！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （話をごまかし、ＴＶ局乱入を阻止した！　この
+line2 <shift> # ふたりとは、友達感覚で接するのがベストかな）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （……その後、３人でなかよく遊び、親睦を
+line2 <shift> # 深めるという目的を、バッチリ果たした！）
+com09 0 39
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「歌でも、歌おう」
+display
+com11 0 0
+sound 10017
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「どうせ歌うんなら、ＴＶで歌う方が、いいよ〜。
+line2 <shift> # やっぱ、ＴＶ局行く〜。行くったら、行くの〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「こ、困ったなあ。でも、ほら、まだみんなに
+line2 <shift> # 聞かせるほど、うまくもないだろ？」
+display
+com11 0 0
+sound 10018
+com4c 0 3
+name 0 0 <names:4>  # Ami and Mami
+line1 <shift> # 「そんなこと、ないも〜ん！　歌いたいったら、
+line2 <shift> # 歌いたいー！！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ハモって、ダダをこねられてしまった……。
+line2 <shift> # どうやら、説得のしかた、まちがえたようだ）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （……その後、ぶーぶー文句を言うふたりを、
+line2 <shift> # 元の笑顔に戻すのに、相当な時間を費やした）
+com09 0 39
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「将来の作戦を、練ろう」
+display
+com11 0 0
+sound 10019
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「そんなことしても、おもしろくないよ〜！
+line2 <shift> # ＴＶ局、行く〜。行くったら、行くの〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だからー、ただ行っても、しょうがないだろ？
+line2 <shift> # いつかＴＶで歌うためにも、作戦を、だな……」
+display
+com11 0 0
+sound 10020
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「そんな、メンドっちいの、やだもーん！
+line2 <shift> # 今すぐ行って、歌う歌う歌うのー！！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （正論で、説得しようとしたが、ふたりは
+line2 <shift> # 聞く耳持たず。うーん、これは完全に失敗だな）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （……その後、ダダをこねるふたりを、元の笑顔
+line2 <shift> # に戻すために……、かなりの時間を費やした）
+display
+location 39
+unk02

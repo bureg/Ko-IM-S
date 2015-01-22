@@ -1,0 +1,370 @@
+com2c 0 46
+com2d 0 21
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「伊織、どこ行ってたんだ？
+line2 <shift> # そろそろ開場だって、舞台監督が……」
+display
+com11 0 1
+sound 300
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「知ってるわよ。いま、ちょっとグッズ売り場
+line2 <shift> # 見てきたんだけど、ひどい品ぞろえだったわー」
+display
+com11 0 1
+sound 301
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ドーム前で、列つくってる客が泣くわ。もっと、
+line2 <shift> # ファンが飛びつきそうな物、並べなさいよねっ」
+com03 0 3
+choice1 <shift> # 懐中時計とか？
+line2
+com09 0 10
+com08
+choice2 <shift> # キーホルダーとか？
+line2
+com09 0 11
+com08
+choice3 <shift> # 特製・アイドル弁当とか？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「懐中時計とか？」
+display
+com11 0 1
+sound 302
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「あ！　それいいわね。値段高めにして、
+line2 <shift> # マニアに売れば、ボロもうけだわ！」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「キーホルダーとか？」
+display
+com11 0 1
+sound 303
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そんなの、二流アイドルだって、つくってる
+line2 <shift> # でしょ。もうすこしいいの、考えなさいよー」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「特製・アイドル弁当とか？」
+display
+com11 0 1
+sound 304
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「あはは、それ、おもしろーい！　って、まさか、
+line2 <shift> # 私のキャラグッズとして、売る気〜〜〜？」
+display
+com11 0 1
+sound 305
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……やめてよねっ。弁当のパッケージなんかに
+line2 <shift> # されたら、ブランドイメージ、ガタ落ちだわ」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、抱き枕とかは、どうだ？　一部のファンは、
+line2 <shift> # 毎日抱きしめて、寝てくれそうだけど」
+display
+com11 0 1
+sound 306
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「き、気持ちわるいわね〜。
+line2 <shift> # 売るんなら、あんたの抱き枕にしなさいよっ」
+com03 0 3
+choice1 <shift> # つくったら、買ってくれる？
+line2
+com09 0 30
+com08
+choice2 <shift> # そんなの、欲しいか？
+line2
+com09 0 31
+com08
+choice3 <shift> # そんなの、売れないよ……
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「つくったら、買ってくれる？」
+display
+com11 0 1
+sound 307
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ひ、ひとつぐらい買ってあげるわよ。
+line2 <shift> # 普通の枕としてなら、使ってもいいわ……」
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなの、欲しいか？」
+display
+com11 0 1
+sound 308
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ほ、ほしいわけ、ないでしょー。
+line2 <shift> # いいわよ、寝る時まで、そばにいなくて……」
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなの、売れないよ……」
+display
+com11 0 1
+sound 309
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「まあ、それはそうね。
+line2 <shift> # あんたのファンなんて、いるわけないしー」
+display
+com11 0 1
+sound 310
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そんなもの抱えて寝たら、
+line2 <shift> # 夢見も、すっごく悪そ〜。にひひっ♪」
+com09 0 49
+display
+location 49
+com11 0 1
+sound 311
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「あ、ねえ！　今度、ここでライブやる時に、
+line2 <shift> # 私の純金の彫像、限定販売しない？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「純金とは……、また大きく出たな」
+display
+com11 0 1
+sound 312
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ふふふっ。いまの人気なら、
+line2 <shift> # ぜーったいバカ売れだわー」
+display
+com11 0 1
+sound 313
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ね、もし彫像つくるならー、体の、
+line2 <shift> # どのあたりから上が、いいと思ーう？」
+com0e 0 118
+com44
+com09 0 50
+com45
+com44
+com09 0 51
+com45
+com44
+com09 0 52
+com45
+com44
+com09 0 53
+com45
+com44
+com09 0 54
+com45
+com44
+com09 0 55
+com45
+com44
+com09 0 56
+com45
+com44
+com09 0 57
+com45
+display
+location 50
+com11 0 1
+sound 314
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そこだと、全身像になるわね！　やっぱり私の
+line2 <shift> # すべてを拝めた方が、ファンは幸せかしら？」
+com09 0 91
+display
+location 91
+com11 0 1
+sound 315
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「じゃ、それで話、進めましょ！　ライブが
+line2 <shift> # 終わったら、早速、ミーティング開始ね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺のプラン、気に入ったみたいだな。実現する
+line2 <shift> # かは微妙だけど、それを気にすることはないか）
+com09 0 69
+display
+location 51
+com11 0 1
+sound 316
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「なによ、それー。中途半端ねー。
+line2 <shift> # そんなとこから上じゃ、バランス悪いでしょ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうかな？　でも、古代の彫像とかで、
+line2 <shift> # そういうのあるけど……」
+display
+com11 0 1
+sound 317
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ファングッズなんだから、凝り方より、
+line2 <shift> # 見栄えを重視してよね……」
+display
+com11 0 1
+sound 318
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「まあ、そういう挑戦っぽいのも、
+line2 <shift> # おもしろいかもしれないけどー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （美的感覚に、差があるようだな。
+line2 <shift> # ま、意見はハッキリ言ったし、いいか）
+com09 0 69
+display
+location 52
+com11 0 1
+sound 319
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そこから上だと、ウエストアップになるわね。
+line2 <shift> # フフン、なかなかいいわー！」
+com09 0 91
+display
+location 53
+com11 0 1
+sound 320
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そこから上だと、バストアップね。
+line2 <shift> # 私の顔が、じっくり拝めて、いいかも！」
+com09 0 91
+display
+location 54
+com11 0 1
+sound 321
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そこから上だと、なんか首ちょんぎられた
+line2 <shift> # みたいにならない……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん。でも顔はよく見えると思うけど……」
+display
+com11 0 1
+sound 322
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「だったらー、もうすこし下からにして、
+line2 <shift> # バストアップの方がいいわよー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （まあ、言われてみれば、生首みたいだよな。
+line2 <shift> # もっと無難な線にしておくべきだったか……）
+display
+com11 0 1
+sound 323
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そんなセンスじゃ、そのうち社長に、
+line2 <shift> # クビ切られちゃうんだから……」
+com09 0 69
+display
+location 55
+com11 0 1
+sound 324
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「なによー！　そこから上じゃ、
+line2 <shift> # 顔が切れちゃうじゃないのー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、こう……海からヌっと出てくる感じで」
+display
+com11 0 1
+sound 325
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「私は、朝日や海坊主じゃないのよ！
+line2 <shift> # バカにして〜」
+display
+com11 0 1
+sound 326
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ふんっ、もういいわ。……あんたに、
+line2 <shift> # 金メッキ塗って、売り出してやろうかしら」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そんなことされたら、皮膚呼吸が……！
+line2 <shift> # って、そういう問題じゃないか。反省しよう）
+com09 0 69
+display
+location 56
+com11 0 1
+sound 327
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「な、なに考えてんのよ〜。そこから上じゃ、
+line2 <shift> # ただの円盤みたいになっちゃうでしょ〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そういう斬新なのも、おもしろいかなって」
+display
+com11 0 1
+sound 328
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「許せないーっ！
+line2 <shift> # 人の頭をフリスビーにでもする気？」
+display
+com11 0 1
+sound 329
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「あんまりヘンなこというと、あんたの頭、
+line2 <shift> # つかんで投げちゃうわよっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……重いから、ムリだと思うけど」
+display
+com11 0 1
+sound 330
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「大丈夫よ！　そんな提案しかできないんなら、
+line2 <shift> # どうせ、中身カラッポなんでしょ〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （えらい言われようだ……。だけど、目から
+line2 <shift> # 上じゃ、たしかに誰の像か、わからないよな）
+com09 0 69
+display
+location 57
+com11 0 1
+sound 331
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「どうしたの？　なにジッと見てるのよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、どこから輪切りにするのが、
+line2 <shift> # いいかなって……」
+display
+com11 0 1
+sound 332
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そういう言い方、やめてよね〜。
+line2 <shift> # こわいじゃないのよ……」
+display
+com11 0 1
+sound 333
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「まさか、これまで私に尽くしたのは、
+line2 <shift> # そのチャンスを、ねらってたから……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そんなわけはない。
+line2 <shift> # けど、すこし、おびえさせてしまったな……）
+com09 0 69
+display
+location 69
+unk02

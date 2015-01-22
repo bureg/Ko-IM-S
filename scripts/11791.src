@@ -1,0 +1,487 @@
+com2c 0 24
+com2d 0 21
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「伊織。この前、事務所でやった新人アイドル
+line2 <shift> # 候補生のオーディションの話、聞いたか？」
+display
+com11 0 0
+sound 0
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「目標にするアイドルは誰ですか？　って質問に
+line2 <shift> # 私の名前を答える子が、一番多かったって話？」
+display
+com11 0 0
+sound 1
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そのことなら、社長が嬉しそうに報告しに来た
+line2 <shift> # わよ〜。私が喜ぶとでも思ったのかしらね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え、嬉しくないのか？　後輩達が伊織に
+line2 <shift> # 憧れて、目標にしてるって、すごいじゃないか」
+display
+com11 0 0
+sound 2
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そりゃ、すごいことだとは思うけど……
+line2 <shift> # 単純に喜んでばかりもいられないわよ」
+display
+com11 0 0
+sound 3
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「たくさんの人が、私の後を追っかけてきてると
+line2 <shift> # 思うと、うかうかしてられないって気分だし」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あまりプレッシャーに感じる必要はないんじゃ
+line2 <shift> # ないかな？　こういう風に考えたらどうだ？」
+com03 0 3
+choice1 <shift> # もっと高飛車に！
+line2
+com09 0 10
+com08
+choice2 <shift> # もっと余裕を持て！
+line2
+com09 0 11
+com08
+choice3 <shift> # もっとセンパイらしく！
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もっと高飛車に、追いつけるものなら追いつい
+line2 <shift> # てみなさい！　ぐらいの気持ちでいたらいいよ」
+display
+com11 0 0
+sound 4
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「高飛車に、か。そうね、こんなことで悩むの、
+line2 <shift> # いつもの私らしくないわ」
+display
+com11 0 0
+sound 5
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「さ、さすがはアンタね。私のこと、私自身より
+line2 <shift> # わかってくれてるのかもね……」
+display
+com11 0 0
+sound 6
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「でも、まあ、こんなに長い間、そばにいさせて
+line2 <shift> # やってるんだから、当然と言えば当然かしら？」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もっと余裕を持って、後輩アイドル達の憧れの
+line2 <shift> # 視線に笑顔でこたえるぐらいでいたらいいよ」
+display
+com11 0 0
+sound 7
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そうできたらカッコイイかもしれないけど。
+line2 <shift> # でも実際には、難しいわ〜」
+display
+com11 0 0
+sound 8
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そんな風に見えないかもしれないけど、いつも
+line2 <shift> # 私、必死なんだから。余裕なんて、とても……」
+display
+com11 0 0
+sound 9
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「でも、余裕のあるふりくらいは、しといたほう
+line2 <shift> # がいいかしら？　ハッタリも必要よね、きっと」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もっとセンパイらしく、少しえらそうにする
+line2 <shift> # ぐらいで、いいんじゃないか」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「後輩をビシバシしごいて、いじめて、いびって
+line2 <shift> # やればいいだろ？　ついでに蹴落としてやれ！」
+display
+com11 0 0
+sound 10
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ちょっと……それがアンタの本音なの？
+line2 <shift> # 心の底では、そんなことを考えてたのね」
+display
+com11 0 0
+sound 11
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「いくら後輩の存在がプレッシャーだからって、
+line2 <shift> # 私にはそこまでは、できそうにないわ〜」
+display
+com11 0 0
+sound 12
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「それにしても、アンタのことは大体わかってる
+line2 <shift> # つもりだったけど……人間って怖いわね」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 13
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「あ、そうそう。それで、オーディションの結果
+line2 <shift> # はどうだったのかしら？　有望な子、いたの？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。何人かは事務所に入るかもしれないよ。
+line2 <shift> # 最終的には、社長の判断だけど」
+display
+com11 0 0
+sound 14
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「もし、アイドル候補生が事務所に増えたら、
+line2 <shift> # その子のプロデューサーは、どうなるわけ？」
+display
+com11 0 0
+sound 15
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「その……アンタも、その子を掛け持ちで
+line2 <shift> # プロデュースしたり……するわけ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「新人に限らず、他の女の子を新しくプロデュー
+line2 <shift> # スする可能性は常にあるよ。それが仕事だし」
+display
+com11 0 0
+sound 16
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そ、そう……。
+line2 <shift> # そうよね、それがアンタの仕事だもんね……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺が他の子をプロデュースするのは、
+line2 <shift> # 気に入らないか？」
+display
+com11 0 0
+sound 17
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「き、気に入らないとか、そういうんじゃない
+line2 <shift> # けどーっ。アンタは、どうなのよっ？」
+display
+com11 0 0
+sound 18
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「私以外の子のプロデュース、
+line2 <shift> # やりたいワケ！？」
+com03 0 3
+choice1 <shift> # やりたくないな
+line2
+com09 0 20
+com08
+choice2 <shift> # それもいいかもな
+line2
+com09 0 21
+com08
+choice3 <shift> # ぜひやりたいな
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やりたくないな。伊織の世話だけで手いっぱい
+line2 <shift> # だし、これ以上はムリだよ」
+display
+com11 0 0
+sound 19
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「なによ、その言い方！　まるで私が、すっごく
+line2 <shift> # アンタの手を焼かせてるみたいじゃないの！」
+display
+com11 0 0
+sound 20
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……でも、ま、いいわ。アンタがそういう
+line2 <shift> # つもりなら、仕方ないわよね」
+display
+com11 0 0
+sound 21
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「私も他のプロデューサーと組む気はないし、
+line2 <shift> # 当分、アンタでガマンしてあげる！」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それもいいかもな。初心に戻る感じで、
+line2 <shift> # 楽しいかもしれない」
+display
+com11 0 0
+sound 22
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「楽しいかも、ですって！？　……無神経なこと
+line2 <shift> # 言わないでよ。乙女心のわからない人ねー！」
+display
+com11 0 0
+sound 23
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「私だって、別に本当に、他の子のプロデュース
+line2 <shift> # 禁止！　なんて言わないわよ？」
+display
+com11 0 0
+sound 24
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「でも、こういう時、なんて答えれば私が喜ぶか
+line2 <shift> # ぐらいは解っててほしいところだわ」
+display
+com11 0 0
+sound 25
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「それができないようじゃアンタもまだまだね。
+line2 <shift> # もっとガリガリ働いて、経験積みなさーい！」
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ぜひやりたいな。できれば、もっと素直で
+line2 <shift> # 裏表がない扱いやすい子のプロデュースをね！」
+display
+com11 0 0
+sound 26
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「きぃ〜！　ひねくれてて、裏表がありまくりで
+line2 <shift> # 扱いにくい、最悪アイドルで悪かったわねっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「い、いや、そこまでは言ってないけど……」
+display
+com11 0 0
+sound 27
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「言ってるわよ！　っていうか、顔に書いてある
+line2 <shift> # のよ！　なによ、その顔！　ムカつくわ〜！」
+display
+com11 0 0
+sound 28
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そんなに売れないアイドルのプロデュースが
+line2 <shift> # したければ、好きなだけすればっ？　ふんっ！」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 29
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……ま、色々話したけど、よく考えたら、他の
+line2 <shift> # 子のことなんか、気にしてもしょうがないわね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだな。伊織には伊織にしかない魅力が
+line2 <shift> # あるし、それがある限り、何も心配いらないよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今の伊織の魅力を保てさえすれば、後輩アイド
+line2 <shift> # ル達なんて、全然追いついてこられないはずだ」
+display
+com11 0 0
+sound 30
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「その点なら、まっかせといて♪　私、魅力が
+line2 <shift> # なくなったことなんて、今まで一度もないから」
+display
+com11 0 0
+sound 31
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「それに、運も強いしー。これも私の魅力の１つ
+line2 <shift> # って言えるかもしれないわね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おお、強気だな！　それでこそ伊織だ」
+display
+com11 0 0
+sound 32
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ふふっ。試しにちょっと、賭けてみる？
+line2 <shift> # きっと私が勝つと思うわよー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「むう。挑まれて、逃げるわけにはいかないよ。
+line2 <shift> # 受けてたとうじゃないか！」
+display
+com11 0 0
+sound 33
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「負けても恨みっこなしよ？　えーと、どういう
+line2 <shift> # 賭けにしようかしら……あ！　そうだわ！」
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 34
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「名づけて、ロシアンジュース勝負〜！　２つ
+line2 <shift> # あるジュースのグラスから、１つを選んで」
+display
+com11 0 0
+sound 35
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「普通のオレンジジュースを選べたら、アンタの
+line2 <shift> # 勝ち。カラシ入りジュースだったら、負けよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （伊織は、負けたら不機嫌になるに決まってる。
+line2 <shift> # 運任せだが、できれば外れの方を選びたいな）
+com03 0 2
+choice1 <shift> # 右のグラスだ！
+line2
+com09 0 30
+com08
+choice2 <shift> # 左のグラスだ！
+line2
+com09 0 31
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「右のグラスだ！　こっちが当たりだ！」
+display
+com11 0 0
+sound 36
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「それじゃ、私は左のオレンジジュースを飲む
+line2 <shift> # わね。乾杯しましょ！　かんぱーい♪」
+com37 0 1
+com1e 0 0
+com09 0 38
+com3b
+com37 0 0
+com1e 0 0
+com09 0 39
+com3b
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「左のグラスだ！　こっちが当たりだ！」
+display
+com11 0 0
+sound 37
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「それじゃ、私は右のオレンジジュースを飲む
+line2 <shift> # わね。乾杯しましょ！　かんぱーい♪」
+com37 0 1
+com1e 0 0
+com09 0 38
+com3b
+com37 0 0
+com1e 0 0
+com09 0 39
+com3b
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「時間がない！　テキトーに決めるけど、
+line2 <shift> # こっちのグラスが当たりだ！」
+display
+com11 0 0
+sound 38
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「それじゃ、私はプロデューサーが選ばなかった
+line2 <shift> # 方を飲むわね。乾杯しましょ！　かんぱーい♪」
+com09 0 39
+display
+location 38
+com11 0 0
+sound 39
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「こくこくこく……。ん〜、おいしい！
+line2 <shift> # ほーらね？　こっちが当たりだわ♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……ごくごくごく。からッ！
+line2 <shift> # ごふっげふっがふっ！！　がふっがふっ！！」
+display
+com11 0 0
+sound 40
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「やっだ〜！　プロデューサー涙目になってる！
+line2 <shift> # 激辛よね。カラシ、チューブ１本分入りだもの」
+display
+com11 0 0
+sound 41
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「運が強い私に、ムリして挑戦するから、そんな
+line2 <shift> # ことになるのよ。もう、大丈夫〜？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （伊織は心配そうにしながらも、自分の強運が
+line2 <shift> # 証明できて、満足そうだ……げふっ！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （この調子で、いつまでも７６５プロとアイドル
+line2 <shift> # 界のトップでい続けてくれよ……がふっ！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そのためには、カラシ入りジュースぐらい、
+line2 <shift> # 何杯でもガマン……はムリだけど。ごふぅっ！）
+com4b 0 0
+com09 0 49
+display
+location 39
+com11 0 0
+sound 42
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「こくこくこ……！？　か、からいっ！！
+line2 <shift> # ううっ！　もうダメ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「伊織っ！？　しまった、そっちがカラシ入り
+line2 <shift> # だったのか。大丈夫か、伊織？　伊織ーっ！！」
+display
+com22 0 30
+com21 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……少しは落ち着いたか？」
+display
+com11 0 0
+sound 43
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ん、平気……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よっぽどカラかったんだな。けど、ほんの
+line2 <shift> # 遊びの勝負じゃないか。そんなに落ち込むなよ」
+display
+com11 0 0
+sound 44
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「でも私、負けたのよね。運は強いほうだって
+line2 <shift> # 信じてたのに、アンタに負けるなんて……はあ」
+display
+com11 0 0
+sound 45
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「こんなんで、これから先もアイドルやっていけ
+line2 <shift> # るのかしら。ちょっと心配になってきたわ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （伊織はカラシ入りジュースで苦しんだ上に、
+line2 <shift> # めずらしく、すっかり自信をなくしている）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （伊織のこんな顔を見るのは、俺もつらい。
+line2 <shift> # 賭けには、なんとしてでも負けるべきだったな）
+com4b 0 2
+com09 0 49
+display
+location 49
+unk02

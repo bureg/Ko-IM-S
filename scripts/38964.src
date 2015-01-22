@@ -1,0 +1,291 @@
+com2c 0 28
+com2d 0 73
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「無事にテーマパークライブも終了したな、
+line2 <shift> # おつかれさま！」
+display
+com11 0 3
+sound 200
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「おつかれさまで〜す！　好評だったみたいで
+line2 <shift> # なによりですね」
+display
+com11 0 3
+sound 201
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「これでテーマパークの楽しさに
+line2 <shift> # ちょっとは貢献できたかな？」
+com03 0 2
+choice1 <shift> # そうだな、よく頑張った
+line2
+com09 0 10
+com08
+choice2 <shift> # どうだろうな
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだな、それにしてもよく頑張ったな」
+display
+com11 0 3
+sound 202
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ええ、こういう楽しい場所でのステージだし、
+line2 <shift> # いつもより余計楽しくやれましたよ」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうだろうなぁ……」
+display
+com11 0 3
+sound 203
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「う〜ん、微妙かな？　こういう、みんなが
+line2 <shift> # 遊びに来る場所でのライブだからなぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「評価は賛否両論、かな？　アイドルを見る
+line2 <shift> # ために来てるひとはそんなに多くないはずだし」
+display
+com11 0 3
+sound 204
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ですねぇ。遊びに来てる人の邪魔に
+line2 <shift> # なってなきゃいいんだけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でもライブの内容はすごく
+line2 <shift> # よかったと思うよ。拍手も多かった」
+display
+com11 0 3
+sound 205
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そうですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「少なくとも、不快に思ってる人は
+line2 <shift> # いないだろう」
+display
+com11 0 3
+sound 206
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そっか。それならいいかな……
+line2 <shift> # ま、私も楽しんでステージやれたし」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さてと、せっかくテーマパークにきたんだ、
+line2 <shift> # ちょっと遊んでいくか？　律子」
+display
+com11 0 3
+sound 207
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ええ〜っ？　まぁ遊びたい気持ちは
+line2 <shift> # わかりますけど……」
+display
+com11 0 3
+sound 208
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「仕事で来てるんですよ？　ライブは
+line2 <shift> # 終わったんだし、さくっと撤収しましょうよぉ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ライブの打ち上げとして、少しテーマパーク
+line2 <shift> # 見て回ろうってことさ。別に構わないだろう？」
+display
+com11 0 3
+sound 209
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「で、でも、ステージ疲れを
+line2 <shift> # 後に引きずってもよくないし……」
+display
+com11 0 3
+sound 210
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「う〜ん、仕事で来たんじゃなければ、
+line2 <shift> # 考えるんだけどなぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まだ時間もあるし、いいじゃないか。
+line2 <shift> # 他のスタッフのみんなも行くって言ってるぞ？」
+display
+com11 0 3
+sound 211
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「で、でも私、いろいろと片付けとか、
+line2 <shift> # 次の仕事の準備もしないと……」
+com03 0 3
+choice1 <shift> # 問答無用！さぁ行くぞ！
+line2
+com09 0 30
+com08
+choice2 <shift> # 遊園地は嫌いなのか？
+line2
+com09 0 31
+com08
+choice3 <shift> # 仕方ない、置いていくか
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「問答無用！　さぁ行くぞ！　首にナワ
+line2 <shift> # つけてでも連れて行ってやる」
+display
+com11 0 3
+sound 212
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「きゃあっ！　む、無理やりだなぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんだかんだ言って、ほんとは
+line2 <shift> # 遊びに行きたいんだろ？」
+display
+com11 0 3
+sound 213
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「で、でも仕事と遊びにはけじめがっ……
+line2 <shift> # ああ、もう、いいのかなぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だから俺が許可するって。今のこの瞬間から
+line2 <shift> # 仕事はオフだ。さ、律子、どこに行きたい？」
+display
+com11 0 3
+sound 214
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「まったくもう……ふふっ、しょうがないなぁ。
+line2 <shift> # 楽しませてくださいよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そして律子は、ためらいつつも、楽しい時間を、
+line2 <shift> # 満喫してくれたようだ。息抜きできてよかった）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんだ、遊園地は嫌いなのか？」
+display
+com11 0 3
+sound 215
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そ、そんなことはないけど。むしろ
+line2 <shift> # わりと好き、かな……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃあためらうことなんてないじゃないか」
+display
+com11 0 3
+sound 216
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「で、でも仕事で来てるからには！　けじめの
+line2 <shift> # 問題ですっ。断固私は、行きませんからね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「つまらんこと言うなよ……仕事の打ち上げの
+line2 <shift> # 一環だって、言ってるだろう？」
+display
+com11 0 3
+sound 217
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そ、それでも行きたくないんですってば！
+line2 <shift> # とにかく、行かないったら行かないんです」
+display
+com11 0 3
+sound 218
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「私、一度言い出したからには、
+line2 <shift> # 曲げないですよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうムキになるなよ……あ、そうか。お化け
+line2 <shift> # 屋敷やジェットコースターが怖いんだろ？」
+display
+com11 0 3
+sound 219
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「違いますってばぁ……ああ、もう。
+line2 <shift> # 私のことはほっといてくださいよぉ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （結局律子だけをその場に残して、
+line2 <shift> # 他のみんなと俺は遊びに行くことになった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しかし律子を困らせてしまったかな……。
+line2 <shift> # 立ち尽くして見送る姿が、少し寂しそうだった）
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「仕方ないな、律子は置いていくか」
+display
+com11 0 3
+sound 220
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「はい。いってらっしゃ〜い。
+line2 <shift> # 私はお見送りです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「い、いいのか……ほんとに？　スタッフも、
+line2 <shift> # みんな遊びに行っちゃうぞ？」
+display
+com11 0 3
+sound 221
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「い、いいんですってば！　みんなで
+line2 <shift> # 思う存分遊んできたらいいでしょ？」
+display
+com11 0 3
+sound 222
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「私は、体力温存ついでに、ひとりで
+line2 <shift> # 次の仕事の予習でもしてますから……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「寂しいやつだなぁ。付き合い悪いぞ？」
+display
+com11 0 3
+sound 223
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あんまり気にしないで行ってきてくださいよ。
+line2 <shift> # 正直遊びに行くの、今は気が乗らないので……」
+display
+com11 0 3
+sound 224
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「それに、みんなでわいわいやるのって
+line2 <shift> # 苦手だし……ね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうまで言うなら、置いて行くけど。
+line2 <shift> # でも、あとで文句言うなよ？」
+display
+com11 0 3
+sound 225
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「い、言いませんよぉ……はは、あははっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （結局律子だけをその場に残して、
+line2 <shift> # 他のみんなと俺は遊びに行くことになった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （律子がひとり立ち尽くして見送る姿、
+line2 <shift> # やっぱり寂しそうだった気がするな……）
+com09 0 49
+display
+location 49
+unk02

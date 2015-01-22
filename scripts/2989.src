@@ -1,0 +1,471 @@
+com2c 0 21
+com2c 0 118
+com2d 0 11
+com2e 0 111
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （はあ……。つ、疲れた……。
+line2 <shift> # 初日ってこともあって、緊張しちゃったな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （これから、春香をトップアイドルに育てるのか。
+line2 <shift> # 春香は、普通っぽさが魅力の女の子だけど……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺なんかが本当に、プロデュースしていけるの
+line2 <shift> # かな。今さらだけど、ちょっと自信ないよ……）
+display
+com11 0 0
+sound 0
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「……プロデューサーさーん！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おや？　あの声は……？」
+com03 0 3
+choice1 <shift> # 春香！
+com09 0 10
+com08
+choice2 <shift> # 春美！
+com09 0 11
+com08
+choice3 <shift> # 夏美！
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「春香！」
+display
+com11 0 0
+sound 1
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「えへへ。間に合って良かった〜。もうちょっと
+line2 <shift> # で、すれ違いになっちゃうところでした！」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「春美！」
+com09 0 18
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「夏美！」
+com09 0 18
+display
+location 18
+com11 0 0
+sound 2
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ええっ！　それって、誰の名前ですか？
+line2 <shift> # 私は春香！　天海春香、ですよ……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうか！　すまない。
+line2 <shift> # 俺って、ちょっと忘れっぽいみたいだな」
+display
+com11 0 0
+sound 3
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「むぅ。次に会った時、またききますから、
+line2 <shift> # ちゃんと覚えてて下さいね？　お願いします！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わかったよ。本当に、ごめんな。
+line2 <shift> # ところで……」
+com09 0 19
+display
+location 19
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「先に帰ったんじゃなかったのか？」
+display
+com11 0 0
+sound 4
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい。そのつもりでしたけど、プロデューサー
+line2 <shift> # さんと一緒に帰りたくて戻ってきちゃいました」
+display
+com11 0 0
+sound 5
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「今日は、どこにも寄る予定ないし、帰り道で、
+line2 <shift> # 色々お話したいなと思って。……ダメですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ダメなわけ、ないじゃないか。誘ってくれて、
+line2 <shift> # うれしいよ。それじゃ、一緒に帰ろうか！」
+display
+com11 0 0
+sound 6
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はいっ！」
+display
+com22 0 30
+com21 0 30
+com32 0 1
+com11 0 0
+sound 7
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「事務所の皆とは、よく一緒に帰るんですけど、
+line2 <shift> # 男の人と帰るのは、初めてかもしれないです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「へえ〜。春香は、７６５プロの、
+line2 <shift> # アイドル候補生達と、仲がいいのか？」
+display
+com11 0 0
+sound 8
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい。皆とっても仲良しですよ。でもデビュー
+line2 <shift> # したら、ライバルになっちゃうのかな……」
+display <shift> # がさっ！
+display
+com11 0 0
+sound 9
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「きゃっ！　……あ、あの、今、何か小さくてフ
+line2 <shift> # ワフワしたものが、通り過ぎませんでしたか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え？　いや、気づかなかったけど」
+display <shift> # がさっ！　がさっ！
+display
+com11 0 0
+sound 10
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ほらっ！　迷子の動物かなあ？　追いかけて
+line2 <shift> # みましょうよ、プロデューサーさん！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええっ！？　ちょっと待て、春香！　そんなの
+line2 <shift> # 追っても捕まるわけ……、ああ。行っちゃった」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「春香って、意外と好奇心が強いんだな。
+line2 <shift> # しょうがないなあ、まったく」
+com03 0 3
+choice1 <shift> # 動物を探そう
+line2
+com09 0 20
+com08
+choice2 <shift> # 春香を待とう
+line2
+com09 0 21
+com08
+choice3 <shift> # 気にせず帰ろう
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （春香を放って帰るわけにも、いかないしなあ。
+line2 <shift> # 仕方ない。俺も探すか。捕まるわけないけど）
+display <shift> # がさがさっ！　チューチュー！
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うわっ！　つ、捕まえた！　あっさり
+line2 <shift> # 捕まえたぞ。この動物は……、ハムスター？」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ここで春香を待つか。
+line2 <shift> # そのうち、あきらめて戻ってくるだろうし）
+display
+com22 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そして、３０分後……）
+display
+com21 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （遅いな、春香。まだ探してるのか？
+line2 <shift> # 夜道を一人で歩いちゃ、危ないのに……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おーい、春香ー！　どこにいるんだ？
+line2 <shift> # そろそろ帰ろうよ。返事してくれー！」
+display <shift> # がさがさっ！　チューチュー！
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「春香っ！？　おまえ、どうしたんだ！？
+line2 <shift> # そんなハムスターみたいな姿になっちゃって！」
+display <shift> # チュー！
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おおっ、返事した！　本当に春香だったり……、
+line2 <shift> # したら面白いけどそんなわけないな。でも……」
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （気にせず帰ろう。春香なんか放っておいて。
+line2 <shift> # だって俺は疲れてるんだからな！）
+display <shift> # がさがさっ！
+display
+com11 0 0
+sound 11
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「プロデューサーさん、もしかして今、『春香は
+line2 <shift> # 放っといて先に帰ろう』とか考えてましたか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うわっ、春香！　なぜそのことを……、
+line2 <shift> # い、いや！　考えるわけないじゃないか！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「女の子を夜道に一人にするなんてサイテーな
+line2 <shift> # こと、俺がするわけないだろう？　は、ははは」
+display
+com11 0 0
+sound 12
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ですよねっ♪　そうだとは思ったんですけど。
+line2 <shift> # じゃ、プロデューサーさんも、探して下さい！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あっ、ちょっと待てってば。探すのは
+line2 <shift> # 止めないか？　戻ってくれよ、春香っ！」
+display <shift> # がさがさっ！　チューチュー！
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おお、戻ってくれたか春香！　……って、おま
+line2 <shift> # え、春香じゃないな！？　なんで……！？」
+com09 0 29
+display
+location 29
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんで、こんな所にハムスターがいるんだ？」
+com09 0 100
+display
+location 100
+com11 0 0
+sound 13
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「……うう、プロデューサーさーん！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ん？　どこからか春香の声がきこえたような？
+line2 <shift> # そういえばあいつ、どこに行ったんだ？）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「春香ーっ！　どうしたんだ、春香ーっ！？」
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 14
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ああっ、プロデューサーさんっ！　良かった！
+line2 <shift> # 暗いから、私、道がわからなくなっちゃって」
+display
+com11 0 0
+sound 15
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「おまけに、つまずいて何度もコケちゃうし、
+line2 <shift> # もう、怖くて、心細くて……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「一人で飛び出して行くからだろ。
+line2 <shift> # 困ったヤツだなあ、まったく」
+display
+com11 0 0
+sound 16
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「すみませんでした……。プロデューサーさんと
+line2 <shift> # 一緒じゃないと、私、私……。ううっ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、泣かなくていいよ。
+line2 <shift> # 怖い思いさせて、ごめんな。もう大丈夫だから」
+display
+com11 0 0
+sound 17
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「うう、本当にすみませんでした。……はぁ。
+line2 <shift> # 結局、あの動物の正体もわからずじまいですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、あの動物なら……」
+com03 0 3
+choice1 <shift> # ハムスターだったよ
+line2
+com09 0 40
+com08
+choice2 <shift> # 野生のトラだったよ
+line2
+com09 0 41
+com08
+choice3 <shift> # 飼い主が連れて帰ったよ
+line2
+com09 0 42
+com08
+com07
+com09 0 42
+com08
+display
+location 40
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ハムスターだったよ」
+display
+com11 0 0
+sound 18
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「えっ、プロデューサーさん、
+line2 <shift> # 捕まえたんですか！？　すごいですねっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、飼い主の女の子が追いかけてて、たま
+line2 <shift> # たま俺のところに逃げ込んできただけだけどな」
+display
+com11 0 0
+sound 19
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そうなんですか！　じゃあ、飼い主の所に
+line2 <shift> # 帰ったんですね。だったら、良かったです」
+com09 0 49
+display
+location 41
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「野生のトラだったよ」
+display
+com11 0 0
+sound 20
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ええっ！　野生のトラが、こんなところにっ？
+line2 <shift> # 結構あぶないんですね、この辺り……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「大丈夫だよ。もう、プロのトラ使いの女の子が、
+line2 <shift> # 捕まえて帰ったから」
+display
+com11 0 0
+sound 21
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「トラ使いですか！？　じゃあ、これからは、
+line2 <shift> # その子が、トラの飼い主になるつもりなのかな」
+com09 0 49
+display
+location 42
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「飼い主が連れて帰ったよ。
+line2 <shift> # その子が、かなりの美少女で、驚いたけどな」
+display
+com11 0 0
+sound 22
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ん？　どうした？
+line2 <shift> # そんなスネたような顔して」
+display
+com11 0 0
+sound 23
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「だって、私が暗闇でコケて怖がってた時、
+line2 <shift> # プロデューサーさんは……。むぅ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんだよ、言いたいことがあるなら、
+line2 <shift> # もっとハッキリ言ってくれ」
+display
+com11 0 0
+sound 24
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「別に、なんでもありません！　さあ、そろそろ
+line2 <shift> # 帰りましょうか。遅くなるといけないですから」
+com09 0 49
+display
+location 49
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだな。でも、その飼い主っていうのが、
+line2 <shift> # なかなか才能のありそうな……」
+display
+com11 0 0
+sound 25
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……いや。春香ほどじゃなかったかな。アイ
+line2 <shift> # ドルの素質は、やっぱり春香が１番持ってる！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （それに、春香には俺がついててやらないと、
+line2 <shift> # 危なっかしくて見てられないしな）
+display
+com11 0 0
+sound 26
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「どうしたんですか、プロデューサーさん？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんでもないよ。
+line2 <shift> # 明日から、がんばって活動しような、春香！」
+display
+com11 0 0
+sound 27
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はいっ！　私、一生懸命がんばりますっ！
+line2 <shift> # 今日、改めて、そう思ったんです」
+display
+com11 0 0
+sound 28
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「プロデューサーさんが、私のこと選んでくれて、
+line2 <shift> # すごくうれしかったから……」
+display
+com11 0 0
+sound 29
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「じゃあ私、ここで失礼します！　今日は、
+line2 <shift> # お疲れ様でした。また明日！　えへへっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。またな！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……自信ないなんて言ってられないぞ。
+line2 <shift> # 俺は、春香のやる気に、応えなくちゃな！）
+com09 0 99
+display
+location 99
+unk02

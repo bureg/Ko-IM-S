@@ -1,0 +1,352 @@
+com2c 0 100
+com2c 0 19
+com2c 0 28
+com2d 0 91
+com2e 0 101
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さーて、いよいよ、運命のドーム・ライブ、
+line2 <shift> # 本番だな。準備は……」
+display
+com11 0 1
+sound 300
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「兄ちゃん、タイヘンだよ〜！　亜美が、亜美が、
+line2 <shift> # 迷子になっちゃった！　どこにも、いないの〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「な、なんだって！？　くっ、もう時間が。
+line2 <shift> # リハーサルは、ずっと亜美でやってたのに……」
+display
+com11 0 1
+sound 301
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ケータイ鳴らしても、つながらないのっ！
+line2 <shift> # も、も、もしかして〜」
+com03 0 3
+choice1 <shift> # 電池が、切れたのかな
+line2
+com09 0 10
+com08
+choice2 <shift> # 落としたのかな
+line2
+com09 0 11
+com08
+choice3 <shift> # 圏外に、いるのかな
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「電池が、切れたのかな」
+display
+com11 0 1
+sound 302
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「多分、そうだと思う！　電波の届かない
+line2 <shift> # ところには、いくわけないし……」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「落としたのかな」
+display
+com11 0 1
+sound 303
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「そんなハズないよっ！　真美達、ケータイは
+line2 <shift> # すっごく大事にしてるもんっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……とすると、原因は、別のなにかか。
+line2 <shift> # やっかいな事になってなきゃ、いいけど……」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「圏外にいるのかな」
+display
+com11 0 1
+sound 304
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「そんなワケないよ〜。このヘン、アンテナずび
+line2 <shift> # ずび立ってるし。まさか、マンホールとかに？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わ、悪い方に考えない方が、いいよ。
+line2 <shift> # いくら亜美でも、そこまでドジじゃ……」
+com09 0 29
+display
+location 29
+com11 0 1
+sound 305
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「兄ちゃんは、亜美を探してあげてっ！
+line2 <shift> # ステージには……真美が、立つ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え、大丈夫か？　こんな大舞台で、いきなり
+line2 <shift> # ぶっつけ本番なんてっ？」
+display
+com11 0 1
+sound 306
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「平気だよ。もうスーパーアイドルなんだから。
+line2 <shift> # だけど、なるべく早く見つけて、帰ってきて！」
+com03 0 3
+choice1 <shift> # おたがい、がんばろう！
+line2
+com09 0 30
+com08
+choice2 <shift> # 強くなったなあ
+line2
+com09 0 31
+com08
+choice3 <shift> # ベストを尽くすよ！
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おたがい、がんばろう！」
+display
+com11 0 1
+sound 307
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「うんっ！　それじゃ、ドームの中に
+line2 <shift> # 行くねっ！」
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「強くなったなあ。この状況で、それだけ、
+line2 <shift> # 落ち着いていられるなんて」
+display
+com11 0 1
+sound 308
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「あんまり、落ち着いてないよ〜っ。ほめて
+line2 <shift> # くれるのは、超うれしいけど、急いで〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「っと、そうだったな！　それじゃ、ライブの
+line2 <shift> # 方は、頼む！」
+display
+com11 0 1
+sound 309
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「うんっ！　真美、うんしょって、ふんばる！
+line2 <shift> # じゃ、ドームの中、行くねっ！」
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ベストを尽くすよ！」
+display
+com11 0 1
+sound 310
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ベストじゃ、ダメ〜〜〜！　なにがなんでも、
+line2 <shift> # 見つけてもらわないと、困っちゃうも〜ん」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「っと、わかったわかった。必ず亜美を見つけて、
+line2 <shift> # 連れてくるからな」
+display
+com11 0 1
+sound 311
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「うんっ、約束だよ。
+line2 <shift> # そんじゃ、真美、歌ってくる〜！」
+com09 0 49
+display
+location 49
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、俺も行くか。亜美はどこへ行ったんだろ。
+line2 <shift> # はぐれたとすると……」
+com03 0 3
+choice1 <shift> # 事務所に、帰ってるかも
+line2
+com09 0 50
+com08
+choice2 <shift> # この辺にいるに、ちがいない
+line2
+com09 0 51
+com08
+choice3 <shift> # どこかで、遊んでるんじゃ……
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「事務所に、帰ってるかも。一度、戻って
+line2 <shift> # みよう！」
+display
+com22 0 30
+com32 0 1
+com21 0 30
+com11 0 1
+sound 312
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「あ、兄ちゃん！　よかった、きてくれて〜。
+line2 <shift> # ここに戻れば、絶対見つけてくれるかなって〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いい判断だったな。よかったよ、
+line2 <shift> # 見つけられて！」
+display
+com11 0 1
+sound 313
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「ドームのライブの方は？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「真美が、とりあえずステージに立ってる。
+line2 <shift> # ほら、急ごう」
+display
+com11 0 1
+sound 314
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「うんっ！　遅れた分、取り戻さなきゃ！
+line2 <shift> # 待ってて、真美！　すぐ行くからねっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （見事、最短時間で発見することができた。
+line2 <shift> # 真美との約束、きちっと、果たせたな！）
+com09 0 69
+display
+location 51
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「この辺にいるに、ちがいない。走り回って、
+line2 <shift> # 探してみるか！」
+display
+com22 0 30
+com32 0 0
+com21 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「はぁ、はぁ……。おかしいな。これだけ探して、
+line2 <shift> # いないなんて……。別のところ、行ってみるか」
+display
+com22 0 30
+com32 0 1
+com21 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、いた！　おい、亜美！」
+display
+com11 0 1
+sound 315
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「あ、兄ちゃん〜！　よかった、きてくれて〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうして、事務所の前なんかに……？　はぐれ
+line2 <shift> # たんなら、その場にいれば、いいじゃないか？」
+display
+com11 0 1
+sound 316
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「だって〜、あそこ広いから、どこに行けば
+line2 <shift> # 会えるか、わからなかったんだもん〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか……。ごめんな、気づいてやるのが、
+line2 <shift> # 遅くて。とにかく、ドームへ急ごう！」
+display
+com11 0 1
+sound 317
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「怒ってる？　やっぱ、怒ってるよね？　でも、
+line2 <shift> # 亜美、わざと迷ったんじゃないよ。信じて……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （時間はかかったけど、なんとか見つけることが
+line2 <shift> # できた。ライブの後半は、亜美でいけそうだな）
+com09 0 69
+display
+location 52
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どこかで、遊んでるんじゃ……。たしか、
+line2 <shift> # すぐ近くに遊園地があったな。行ってみるか！」
+display
+com22 0 30
+com32 0 2
+com21 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「く、くう……。これだけ探して、いないなんて。
+line2 <shift> # とすると、後は……」
+display
+com22 0 30
+com32 0 1
+com21 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、いた！　おい、亜美！」
+display
+com11 0 1
+sound 318
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「兄ちゃんっ！　ごめんなさい〜〜〜！
+line2 <shift> # やっと、きてくれたんだね〜！」
+display
+com11 0 1
+sound 319
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「事務所に戻ってれば、見つけにきてくれるって、
+line2 <shift> # 思って……。だから、亜美……。ううっ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ご、ごめんな。てっきり遊園地かどっかで、
+line2 <shift> # 遊んでるかと思って、そっちを探してたんだ」
+display
+com11 0 1
+sound 320
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「え？　こんな時に、遊んだりしないよ〜。
+line2 <shift> # 待ってる間も、ずっとライブのこと……」
+display
+com11 0 1
+sound 321
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「なのに、兄ちゃんは、亜美のこと……。
+line2 <shift> # う、ううっ、あんまりだよ〜〜〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （信じてやれば、もっと早く見つけられたに
+line2 <shift> # ちがいない。亜美にも真美にも、悪い事したな）
+com09 0 69
+display
+location 69
+unk02

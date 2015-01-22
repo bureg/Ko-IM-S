@@ -1,0 +1,433 @@
+com2c 0 28
+com2c 0 203
+com2d 0 11
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今日は、久々に取れたオフ。
+line2 <shift> # 春香の誘いで、遊園地にやってきた……）
+display
+com11 0 0
+sound 0
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あの、プロデューサーさん。今日は……、
+line2 <shift> # 突然誘っちゃって、すみませんでした」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、いいけど。それよりも、
+line2 <shift> # せっかくのオフなのに俺なんか誘って……」
+com03 0 3
+choice1 <shift> # まるでデートみたいだな
+line2
+com09 0 10
+com08
+choice2 <shift> # どういう風の吹き回し？
+line2
+com09 0 11
+com08
+choice3 <shift> # 友達、いないのか？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まるでデートみたいだな」
+display
+com11 0 0
+sound 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そうなんです。今日は、デートなんです♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええっ！？」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どういう風の吹き回し？」
+display
+com11 0 0
+sound 2
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「やだなぁ、もう。プロデューサーさん。
+line2 <shift> # 別に深い意味はないですよ。ただ……」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「友達、いないのか？」
+display
+com11 0 0
+sound 3
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「むぅ……失礼な。友達だったら、
+line2 <shift> # たーくさん、いますよ？　そうじゃなくて……」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 4
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「今日は、プロデューサーさんに、
+line2 <shift> # いつもお世話になっている、感謝を込めて」
+display
+com11 0 0
+sound 5
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「最高の一日を、プレゼントしたいなって
+line2 <shift> # 思ったんです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「最高の、一日？」
+display
+com11 0 0
+sound 6
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい。プロデューサーさんに、楽しい時間を
+line2 <shift> # 過ごしてもらいたくって！」
+display
+com11 0 0
+sound 7
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「デビューしてから今まで、
+line2 <shift> # いろんなことがありましたよね……」
+com03 0 3
+choice1 <shift> # あっという間だったな
+line2
+com09 0 20
+com08
+choice2 <shift> # 長い道のりだったな
+line2
+com09 0 21
+com08
+choice3 <shift> # つらいことばかりだったな
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あっという間だったな……」
+display
+com11 0 0
+sound 8
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい。私もそう思います。
+line2 <shift> # いろんなお仕事、オーディション……」
+display
+com11 0 0
+sound 9
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「忙しくこなしているうちに、
+line2 <shift> # いつの間にか、ここまで来ていた感じで……」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「長い道のりだったな」
+display
+com11 0 0
+sound 10
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ……そうですね。そう言われればそうかも。
+line2 <shift> # だけど私は、楽しくお仕事しているうちに……」
+display
+com11 0 0
+sound 11
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「気づいたらいつの間にか、ここまで
+line2 <shift> # 来ちゃってたって感じで……」
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「つらいことばかりだったな」
+display
+com11 0 0
+sound 12
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そ、そうですか……？　私はプロデューサーさ
+line2 <shift> # んと色々お仕事できて楽しかったですけど……」
+display
+com11 0 0
+sound 13
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「プロデューサーさんには、つらいことのほうが
+line2 <shift> # 多かったんですね……。ごめんなさい」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 14
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「私がここまでやってこられたのは、
+line2 <shift> # 全部プロデューサーさんの、おかげです」
+display
+com11 0 0
+sound 15
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「だから、一度きちんとお礼の気持ちを
+line2 <shift> # 伝えておきたくって……」
+display
+com11 0 0
+sound 16
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「やっとオフがとれたから、思い切って、
+line2 <shift> # 誘ってみたんです」
+display
+com11 0 0
+sound 17
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あの……迷惑じゃありませんでしたか？
+line2 <shift> # プロデューサーさん……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「迷惑なもんか！　ありがとう、春香。
+line2 <shift> # とってもうれしいよ」
+display
+com11 0 0
+sound 18
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「よかったぁ〜。だけど、本当のこと言うと、
+line2 <shift> # 私がプロデューサーさんと一度……」
+display
+com11 0 0
+sound 19
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「デートっぽいことしてみたかった、っていう
+line2 <shift> # のも、あるんですけどね。えへへ……♪」
+display
+com11 0 0
+sound 20
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「それと、後でプロデューサーさんと一緒に、
+line2 <shift> # 行ってみたい場所があって……。ああっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうしたんだ、春香？」
+display
+com11 0 0
+sound 21
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「大変です！　隠れてください、
+line2 <shift> # プロデューサーさんっ！！」
+display
+com11 0 0
+sound 22
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ファンに見つかっちゃったみたい。
+line2 <shift> # ほらっ、大勢追いかけてきます……！」
+display
+com11 0 0
+sound 23
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「どうしよう〜っ！
+line2 <shift> # このままじゃ、大騒ぎになっちゃいますよ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よしっ、俺に任せろ。
+line2 <shift> # ひとまずここは逃げるんだ、春香！」
+display
+com11 0 0
+sound 24
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はいっ！　あ、道が二手に分かれてますっ。
+line2 <shift> # 右か、左か、どっちに逃げましょう？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うまく道を選ばないと、ファンのはさみうちに
+line2 <shift> # あいそうだな……。こうなったら、カンで！）
+com03 0 2
+choice1 <shift> # 右だ！
+com09 0 30
+com08
+choice2 <shift> # 左だ！
+com09 0 31
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「右だ！　右に逃げよう」
+com37 0 1
+com1e 0 0
+com09 0 38
+com3b
+com37 0 0
+com1e 0 0
+com09 0 39
+com3b
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「左だ！　左に逃げよう」
+com37 0 1
+com1e 0 0
+com09 0 38
+com3b
+com37 0 0
+com1e 0 0
+com09 0 39
+com3b
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わあっ！
+line2 <shift> # 迷ってるうちに追いつかれそうだ！」
+com09 0 39
+display
+location 38
+com22 0 30
+com21 0 30
+com11 0 0
+sound 25
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はぁ、はぁ……。よかった〜。
+line2 <shift> # なんとか、逃げ切れたみたいですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、一時はどうなることかと思ったよ。
+line2 <shift> # 春香に何かあったら、大変だからな」
+display
+com11 0 0
+sound 26
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「それは、プロデューサーとしてですか？
+line2 <shift> # そ、それとも……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ……？」
+display
+com11 0 0
+sound 27
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、いえっ。あはは……何でもないですっ！
+line2 <shift> # そうだ、ちょうどよかったかも！」
+display
+com11 0 0
+sound 28
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ゆっくり休める個室があるんですけど、
+line2 <shift> # 行ってみませんか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「個室！？　まさか、春香がさっき言ってた
+line2 <shift> # 行きたいところって……」
+display
+com11 0 0
+sound 29
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい、そうです。ほら、空飛ぶ個室。
+line2 <shift> # 観覧車ですよっ♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なるほど……。そういうことか」
+display
+com22 0 30
+com21 0 30
+com32 0 1
+com11 0 0
+sound 30
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「観覧車に乗ってデートするのって、
+line2 <shift> # 憧れだったんです……」
+display
+com11 0 0
+sound 31
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「景色を眺めながら、おしゃべりしたり、
+line2 <shift> # 楽しそうだな〜って思って」
+display
+com11 0 0
+sound 32
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「プロデューサーさん、見てください。
+line2 <shift> # ほら、夕焼けがキレイ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、本当だ……」
+display
+com11 0 0
+sound 33
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「私、今日の夕焼けのこと、きっとずっと
+line2 <shift> # 忘れないと思います……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その日、春香と観覧車から見た夕焼けは、
+line2 <shift> # 今まで見た中で、一番美しかった――）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （夕焼けの中で、はにかんでいた春香。
+line2 <shift> # 最高の一日を、どうもありがとう……！）
+com4b 0 0
+com09 0 69
+display
+location 39
+com11 0 0
+sound 34
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ああっ、ダメです！
+line2 <shift> # 向こうからも、ファンの大群が来てます！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「は、春香ーっ！！」
+display
+com11 0 0
+sound 35
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「た、助けてー、プロデューサーさんっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （結局、春香と俺はファンにとり囲まれて、
+line2 <shift> # もみくちゃにされてしまった……）
+display
+com22 0 30
+com21 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ふぅ〜。やっと、解放されたな……」
+display
+com11 0 0
+sound 36
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「すみませんでした、プロデューサーさん。
+line2 <shift> # まさか、こんなことになるなんて……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、春香が気にすることはないよ。
+line2 <shift> # あのとき、逃げ切れなかった俺が悪いんだ」
+display
+com11 0 0
+sound 37
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「でも……最高の一日を
+line2 <shift> # プレゼントするって言ってたのに……」
+display
+com11 0 0
+sound 38
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「こんなヒドイ目に合わせちゃうなんて、
+line2 <shift> # あんまりですよね……」
+display
+com11 0 0
+sound 39
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ごめんなさい……もう、誘いませんから。
+line2 <shift> # 今日のことは、許して下さいね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （春香は、相当しょげているようだ。
+line2 <shift> # しかし、これも運だ。仕方ないだろう……）
+com4b 0 2
+com09 0 69
+display
+location 69
+unk02

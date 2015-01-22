@@ -1,0 +1,471 @@
+com2c 0 31
+com2d 0 83
+com32 0 0
+com11 0 0
+sound 0
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「いよいよ、ファンとの交流
+line2 <shift> # じゃんけん大会スタートですねっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お。気合い入ってるな、真」
+display
+com11 0 0
+sound 1
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「今日のために、じゃんけんの特訓もして
+line2 <shift> # きましたからね。気合い、入りまくりですよ！」
+display
+com11 0 0
+sound 2
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ファンにあげる記念品も、どっさり用意して
+line2 <shift> # もらったし、絶対成功させますよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「真、ファンとの交流じゃんけん大会で、
+line2 <shift> # 忘れてはいけないことがある。それは……」
+com03 0 3
+choice1 <shift> # スマイルだ！
+line2
+com09 0 10
+com08
+choice2 <shift> # サービス精神だ！
+line2
+com09 0 11
+com08
+choice3 <shift> # 気合だ！
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「スマイルだ！
+line2 <shift> # 笑顔を忘れず、イベントを成功させよう」
+display
+com11 0 0
+sound 3
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「わかりました！
+line2 <shift> # 笑顔には、自信があります！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それと同時に、ファンを笑顔にすることも
+line2 <shift> # 忘れてはいけないぞ」
+display
+com11 0 0
+sound 4
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はい！　アドバイス、参考になりました。
+line2 <shift> # ありがとうございます」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「サービス精神だ！」
+display
+com11 0 0
+sound 5
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「わかってますよ！　日頃、応援してくれてる
+line2 <shift> # ファンに楽しんでもらうのは、当然ですから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし。それがわかっているなら大丈夫。
+line2 <shift> # しっかりやってこい！」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「気合だ！」
+display
+com11 0 0
+sound 6
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「えっ！　気合入りまくりって、さっき言い
+line2 <shift> # ましたよね？　まだ足りないってことですか？」
+display
+com11 0 0
+sound 7
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「よーし、それなら……！　真、気合パワー、
+line2 <shift> # マックス充電モードを発動しますっ！」
+display
+com11 0 0
+sound 8
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ボクは、絶対に負けない！
+line2 <shift> # ふうぅぅぅっ……！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （おおっ！　試合前の格闘家のような、すごい
+line2 <shift> # 気合だ！　……ちょっとたきつけすぎたかな？）
+com09 0 29
+display
+location 29
+com22 0 30
+com21 0 30
+com11 0 0
+sound 9
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「じゃーんけーんー……。
+line2 <shift> # ぽんっ！」
+display
+com11 0 0
+sound 10
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「やーりぃ！　また勝ったぁ！
+line2 <shift> # へへっ。これで９連勝っ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「連勝か……。ファンとの交流会なのに、
+line2 <shift> # そのファン相手に連戦連勝……」
+display
+com11 0 0
+sound 11
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「え？
+line2 <shift> # なにか言いましたか、プロデューサー？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや……」
+com03 0 3
+choice1 <shift> # なにか忘れてないか？
+line2
+com09 0 30
+com08
+choice2 <shift> # なんでもない
+line2
+com09 0 31
+com08
+choice3 <shift> # 絶好調だな
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なにか忘れてないか？」
+display
+com11 0 0
+sound 12
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「なにか……ですか？
+line2 <shift> # うーん、なにか忘れてたっけ……？」
+display
+com11 0 0
+sound 13
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「朝の歯みがきもしたし、
+line2 <shift> # 早朝トレーニングもちゃんとしましたけど……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうじゃなくて、この交流会が
+line2 <shift> # どういう主旨かってことだよ」
+display
+com11 0 0
+sound 14
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「それはもちろん、応援してくれてるファンに
+line2 <shift> # 感謝して……ああっ！！」
+display
+com11 0 0
+sound 15
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「しまった！　ファンとの交流会なのに
+line2 <shift> # ボクが一番楽しんでる！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そういうこと。まだファンの人、
+line2 <shift> # 誰も記念品をゲットできてないぞ」
+com09 0 39
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なんでもないよ」
+display
+com11 0 0
+sound 16
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ええっ！　気がついたことがあるなら、
+line2 <shift> # 言ってくださいよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや……。ファンとの交流会なのに
+line2 <shift> # そんなに勝って平気なのかなと思ってな」
+display
+com11 0 0
+sound 17
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「えっ？　ああっ！
+line2 <shift> # 言われてみれば、たしかに！」
+display
+com11 0 0
+sound 18
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ファンとの交流会なのに、
+line2 <shift> # ボクが一番楽しんでどうするんだあ！」
+com09 0 39
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「絶好調だな」
+display
+com11 0 0
+sound 19
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はい！　なんてったって
+line2 <shift> # 特訓してきましたから！」
+display
+com11 0 0
+sound 20
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「じゃんけん必勝法を読破して、
+line2 <shift> # 友達とも練習して……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なるほど。真は努力家だな」
+display
+com11 0 0
+sound 21
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はい、トップアイドル目指してますから、
+line2 <shift> # このくらい当然で……」
+display
+com11 0 0
+sound 22
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ああっ！　ボク、今、気がつきました！
+line2 <shift> # っていうか、忘れてましたーー！」
+display
+com11 0 0
+sound 23
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ボクが勝っちゃダメなんです！　負けて、
+line2 <shift> # ファンにグッズをプレゼントするんでした！」
+com09 0 39
+display
+location 39
+com11 0 0
+sound 24
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ど、どうしましょう、プロデューサー？
+line2 <shift> # このままだと、イベントは大失敗です」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「残る時間はあと１０分。ここは、なんとしても
+line2 <shift> # ファンに勝ってもらうしかないな」
+display
+com11 0 0
+sound 25
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ううう、そうですね。
+line2 <shift> # でも、いったいどうすれば……？」
+display
+com11 0 0
+sound 26
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そうだ！　ここから後の手は、
+line2 <shift> # プロデューサーが考えてください！」
+display
+com11 0 0
+sound 27
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ボクがやると勝っちゃうけど、
+line2 <shift> # プロデューサーなら、きっと大丈夫！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「な、なにか引っかかるんだが……」
+display
+com11 0 0
+sound 28
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「今だけはボク、特訓の成果で、じゃんけんに
+line2 <shift> # 負けられない体になっちゃってるんですよ」
+display
+com11 0 0
+sound 29
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「だから……お願いしますっ！
+line2 <shift> # 次に何を出せばいいか、決めて下さい」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （イベントの成功がかかっている、重要な
+line2 <shift> # じゃんけんだ。うまく負けるための手は……？）
+com03 0 3
+choice1 <shift> # グー、だ！
+com09 0 40
+com08
+choice2 <shift> # チョキ、だ！
+line2
+com09 0 41
+com08
+choice3 <shift> # パー、だ！
+com09 0 42
+com08
+com07
+com09 0 43
+com08
+display
+location 40
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「グー、だ！」
+display
+com11 0 0
+sound 30
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「わかりました！　
+line2 <shift> # では、じゃんけん、やってきます！」
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 31
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「いくよー？　じゃーんけーん……グー！」
+com37 0 1
+com1e 0 0
+com09 0 48
+com3b
+com37 0 0
+com1e 0 0
+com09 0 49
+com3b
+display
+location 41
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「チョキ、だ！」
+display
+com11 0 0
+sound 32
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「わかりました！　
+line2 <shift> # では、じゃんけん、やってきます！」
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 33
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「いくよー？　じゃーんけーん……チョキ！」
+com37 0 1
+com1e 0 0
+com09 0 48
+com3b
+com37 0 0
+com1e 0 0
+com09 0 49
+com3b
+display
+location 42
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「パー、だ！」
+display
+com11 0 0
+sound 34
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「わかりました！　
+line2 <shift> # では、じゃんけん、やってきます！」
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 35
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「いくよー？　じゃーんけーん……パー！」
+com37 0 1
+com1e 0 0
+com09 0 48
+com3b
+com37 0 0
+com1e 0 0
+com09 0 49
+com3b
+display
+location 43
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やっぱり、真が考えたほうがいいような気が
+line2 <shift> # するなあ……」
+display
+com11 0 0
+sound 36
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「え、そうですか……？　わかりました！
+line2 <shift> # では、じゃんけん、やってきます！」
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 37
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「いくよー？　じゃーんけーん……ぽんっ！」
+com09 0 49
+display
+location 48
+com11 0 0
+sound 38
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あっ、ボクの負けです！　おめでとうっ！
+line2 <shift> # 記念品を持って帰ってね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後も真は、俺の指示で順調に負け続け、
+line2 <shift> # たくさんのファンが記念品を手に入れた）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ちょっと複雑な心境だが、ファンは大喜び
+line2 <shift> # だし、イベントが成功してよかったな）
+com4b 0 0
+com09 0 69
+display
+location 49
+com11 0 0
+sound 39
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ああっ、勝っちゃった……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （しまった！　こんな時に勝利の女神が
+line2 <shift> # 微笑むなんて……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後も真は、意に反して
+line2 <shift> # 連戦連勝を続けた……）
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 40
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、もう時間だ……。みんなー、
+line2 <shift> # じゃんけん勝負はここまでです！」
+display
+com11 0 0
+sound 41
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「全部ボクが勝っちゃったから、
+line2 <shift> # みなさんに記念品は渡せません……」
+display
+com11 0 0
+sound 42
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うう……ゴメンナサイ！
+line2 <shift> # こんなつもりじゃなかったんだけど……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （期待していた記念品を入手できなかった
+line2 <shift> # ファンは、ガッカリして帰っていった）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （イベントは失敗だ。何事も、勝ちさえすれば
+line2 <shift> # いいってもんじゃないよな……）
+com4b 0 2
+com09 0 69
+display
+location 69
+unk02

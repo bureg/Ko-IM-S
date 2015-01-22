@@ -1,0 +1,323 @@
+com2c 0 111
+com2d 0 73
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いよいよ新企画、ミニアルバム連続リリース
+line2 <shift> # プロジェクトの、合同発表記者会見だ」
+display
+com11 0 2
+sound 700
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「記者会見か……。作戦を練りましょう。
+line2 <shift> # どんな発表の仕方だと注目されるかな？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今回のアルバムは、オムニバス……、
+line2 <shift> # つまり他のアイドルとの共同制作だからな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「記者会見も、彼女らと合同だ。だから皆で、会
+line2 <shift> # 見を仕切ってみたらどうだ？　面白そうだろ？」
+display
+com11 0 2
+sound 701
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ええっ、うちらが中心でやるんですか？
+line2 <shift> # プロデューサーは何か言わないの？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺は後ろで見てるよ、律子達にまかせる。
+line2 <shift> # 自由なコメントを聞かせてくれ」
+display
+com11 0 2
+sound 702
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「え〜っ、プロデューサー主導のプロジェクト
+line2 <shift> # なんだから、自分でコメントすればいいのに」
+display
+com11 0 2
+sound 703
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「プロデューサーらしく、堂々となにか言ってよ。
+line2 <shift> # このプロジェクトに自信があるならさぁ」
+com03 0 2
+choice1 <shift> # 出たいけど、あえて……
+line2
+com09 0 10
+com08
+choice2 <shift> # あまり目立ちたくないから
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺も出たいけど、あえて……、ね。会見では、
+line2 <shift> # 律子達の考えや意見を前面に出したいんだ」
+display
+com11 0 2
+sound 704
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「う〜ん、でも、なんで？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今回のアルバムコンセプト、律子達の個性を
+line2 <shift> # 生かしたセルフプロデュース的なものだから」
+display
+com11 0 2
+sound 705
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そうかぁ。それなら確かに、うちらが率先して
+line2 <shift> # コメントしていったほうがいいかも……」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺、あまり目立ちたくないからなあ。
+line2 <shift> # プロデューサーは、やっぱり裏方だよ」
+display
+com11 0 2
+sound 706
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「でも、うちらもいい加減メジャーですよ？
+line2 <shift> # だとすれば、プロデューサーも……」
+display
+com11 0 2
+sound 707
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「一応、メジャープロデューサーといえるわけで。
+line2 <shift> # それなりの貫禄を見せてほしいな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「しかし今回のミニアルバム、律子達の
+line2 <shift> # セルフプロデュースっぽくしたいからなあ」
+display
+com11 0 2
+sound 708
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「う〜ん、そっかぁ……。そのつもりなら、確か
+line2 <shift> # にプロデューサーが出張らないほうがいいかも」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「会見ではあくまでも、アルバムへの律子達の
+line2 <shift> # 意欲や意気込みを、しっかり伝えたいからね」
+display
+com11 0 2
+sound 709
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「でも、プロデューサーの意欲や意気込みは、
+line2 <shift> # 明らかにしなくていいの？」
+display
+com11 0 2
+sound 710
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「今回の企画の立ち上げの理由とか、
+line2 <shift> # きっかけとかさぁ、ね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうかな。わざわざ俺が、
+line2 <shift> # 話すべきことなんだろうか？」
+display
+com11 0 2
+sound 711
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「アイドルとしてのうちらの全体コンセプトを
+line2 <shift> # 決めるのは、やっぱりプロデューサーでしょ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、当然、律子のことは決めるけど、俺が
+line2 <shift> # プロデュースしてない他のアイドルまでは……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「面倒みきれないしなあ。まあ、確かに、今回の
+line2 <shift> # 企画の言いだしっぺは、俺ではあるけど……」
+display
+com11 0 2
+sound 712
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「だから、各アルバムの狙いとか、売りとか、
+line2 <shift> # そういうことを会見で話すべきじゃないかなぁ」
+com03 0 3
+choice1 <shift> # そうだな、ひと言話すか
+line2
+com09 0 30
+com08
+choice2 <shift> # みんなで相談しよう
+line2
+com09 0 31
+com08
+choice3 <shift> # とにかく任せるよ
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだな、ひと言くらいは話すか。
+line2 <shift> # 全体プロデューサーとして」
+display
+com11 0 2
+sound 713
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そうそう、たまには表舞台でば〜んと、
+line2 <shift> # かっこいいこと言わなきゃ！」
+display
+com11 0 2
+sound 714
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「プロデューサーもスタッフみんなも、
+line2 <shift> # 一心同体なんですよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんだか、めずらしく良いこと言うな、律子」
+display
+com11 0 2
+sound 715
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「め、めずらしくは、余計ですっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺は律子に促されるまま、本番の会見の最後に、
+line2 <shift> # 壇上に立って、コンセプトを簡潔に伝えた）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （会見のシメとして、好意的に受け取ってもらえ
+line2 <shift> # たようだ。企画の注目度も、あがりそうだぞ！）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ふーむ、なら、事前に会見内容を、
+line2 <shift> # みんなで相談しよう。それならいいだろう？」
+display
+com11 0 2
+sound 716
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「内容を打ち合わせておくってこと？　あれ、
+line2 <shift> # でもそれだと『自由なコメント』と矛盾が……」
+display
+com11 0 2
+sound 717
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「結局、台本渡されるのと、
+line2 <shift> # 変わらない気がするんですけどぉ……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「台本で進めるのとは違うさ。俺が会見内容を丸
+line2 <shift> # 投げするわけじゃない。律子達が主導なんだ」
+display
+com11 0 2
+sound 718
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ん。あくまで内容方針だけを、
+line2 <shift> # 決めるってことね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうそう！」
+display
+com11 0 2
+sound 719
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ところで……、あくまでプロデューサーは、
+line2 <shift> # 壇上でしゃべらないつもりなんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。コンセプトが統一できてれば、俺の
+line2 <shift> # 言いたいことは、律子達が全部言えるはずさ」
+display
+com11 0 2
+sound 720
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「よし、わかりましたっ。プロデューサーの
+line2 <shift> # ことづけ、私がしっかり伝えます」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （律子は、仕方ないなぁという顔で俺を見て、
+line2 <shift> # ちょっと笑った。手抜きと思われたかなぁ……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しかし、律子なら、会見を、しっかりしたコメ
+line2 <shift> # ントで締めくくってくれるはずだ。期待しよう）
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや……。俺は話す気がないんだ。
+line2 <shift> # 会見のことは、とにかく任せるよ」
+display
+com11 0 2
+sound 721
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「うちらに丸投げ〜？
+line2 <shift> # プロデューサー、それって責任放棄ですよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうか？　せめて放任主義と言ってくれ」
+display
+com11 0 2
+sound 722
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「大差ないじゃないですかっ！
+line2 <shift> # まぁ、私は別にかまわないけど……」
+display
+com11 0 2
+sound 723
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「他の子はどうかな。
+line2 <shift> # ちゃんと会見で、うまく立ち回れるのかなぁ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「むむ。そう言われると、心配になってきた。
+line2 <shift> # 任せっぱなしにして、失敗したら悲惨だな……」
+display
+com11 0 2
+sound 724
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「でしょ？　主張が苦手な子もいるだろうし、
+line2 <shift> # 逆に張り切りすぎるかもしれないし」
+display
+com11 0 2
+sound 725
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「だからプロデューサーは、会見のお膳立て
+line2 <shift> # みたいなことするのも、必要かなと思う」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「仕方ない……。律子以外に、今回の企画に参加
+line2 <shift> # してるアイドルのために、台本でも書くか……」
+display
+com11 0 2
+sound 726
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そ、それは極端だっての……。まかせるのか、
+line2 <shift> # やっぱり裏で仕切るか、どっちなんですかぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ま、迷うぞ。基本は自由にしたいけど、
+line2 <shift> # ルールも、やっぱり、ある程度は……」
+display
+com11 0 2
+sound 727
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「もう、きちんと決めてくださいよ。しっかり
+line2 <shift> # してくださいね、敏腕プロデューサーさま？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （苦笑交じりに、律子は大きなため息をついた。
+line2 <shift> # どうやら、少々あきれられてしまったようだ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （もっと、俺が自信を持って方針を決めないと、
+line2 <shift> # いつか、信頼を失っちゃうよな……）
+com09 0 49
+display
+location 49
+unk02

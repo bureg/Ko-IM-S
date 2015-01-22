@@ -1,0 +1,238 @@
+com2c 0 118
+com2d 0 21
+com32 0 0
+location 0
+com11 0 6
+sound 17000
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ふぅ、今日のコンサート、ホントに最高のデキ
+line2 <shift> # だったわね。持ってる力、全部出し切れたし」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺も、見てて、そう思ったよ。これまでの、
+line2 <shift> # 集大成として、胸をはれるライブだったと思う」
+com38 0 2
+com1e 0 0
+com09 0 10
+com3b
+com37 0 1
+com1e 0 0
+com09 0 11
+com3b
+com37 0 0
+com1e 0 0
+com09 0 12
+com3b
+display
+location 10
+com11 0 6
+sound 17001
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「でも正直、今の人気だったら、あそこまでショ
+line2 <shift> # ボイ会場、選ぶこともなかったんじゃない？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う、たしかに……。実は、惜しいこと、
+line2 <shift> # したかなって、すこし反省してる……」
+com09 0 19
+display
+location 11
+com11 0 6
+sound 17002
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「歌い終わって、ジーンときちゃったわ。大して
+line2 <shift> # 多くもないファンが、あんなに声援を……」
+com09 0 19
+display
+location 12
+com11 0 6
+sound 17003
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「まさか、今の人気で、この大きさのホールを、
+line2 <shift> # わかせられるなんて、思ってなかったわー」
+display
+com11 0 6
+sound 17004
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「アンタの指示がよかったのも、大きかったわね。
+line2 <shift> # 最後で、ちょっと評価上がったって感じかしら」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そう思ってもらえたんなら、なによりだ」
+com09 0 19
+display
+location 19
+com11 0 6
+sound 17005
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「アンタ、この間、言ってたわよね？　『今の
+line2 <shift> # ままじゃ、これ以上の成功は望めない』って」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、言ったけど？」
+display
+com11 0 6
+sound 17006
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「それ、当たってると思うわ。多分、今日以上の
+line2 <shift> # ステージをやるのは、このままじゃ、ムリ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「伊織、それじゃあ……」
+display
+com11 0 6
+sound 17007
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「決めたわっ！　アンタの言う通り、
+line2 <shift> # ここで、いったんオシマイにする！」
+display
+com11 0 6
+sound 17008
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あの程度のホールが、私達の終点っていうの
+line2 <shift> # は、くやしいけど……。限界は、認めないとね」
+display
+com11 0 6
+sound 17009
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「でも、アイドルやめる気は、全然ないから！
+line2 <shift> # 明日から、アンタと別れて、再出発してみる！」
+display
+com1c 0 3
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「すまないな。腐らずに、そうしてくれると、
+line2 <shift> # うれしいよ」
+display
+com11 0 6
+sound 17010
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ふ〜、力抜けちゃったー。もうアンタの顔、
+line2 <shift> # 見なくてすむのかと思うと、せいせいするわー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おいおい、ずいぶん冷たい言い方だな。
+line2 <shift> # ちょっとは、別れを惜しんでくれても……」
+display
+com11 0 6
+sound 17011
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そんな、ひ弱な考え方だから、
+line2 <shift> # アンタは、ダメなのよー！」
+display
+com11 0 6
+sound 17012
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「強気の営業ができれば、最後のライブは、
+line2 <shift> # もっとすごい場所、キープできたんじゃない？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う、かもしれない……」
+display
+com11 0 6
+sound 17013
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「この失敗は、今後に生かすのよ？
+line2 <shift> # わかった？」
+com03 0 3
+choice1 <shift> # ああ、わかった
+line2
+com09 0 20
+com08
+choice2 <shift> # おたがいに、な
+line2
+com09 0 21
+com08
+choice3 <shift> # ……えらそうだな
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、わかった」
+display
+com11 0 6
+sound 17014
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「フフン、いい返事だわー！
+line2 <shift> # それじゃ、また、どっかで！」
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おたがいに、な」
+display
+com11 0 6
+sound 17015
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なにが、お互いよー！
+line2 <shift> # がんばるのは、アンタだけ！　わかったっ！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わ、わかったよ。がんばれば、いいんだろ。
+line2 <shift> # がんばれば……」
+com09 0 28
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……えらそうだな」
+display
+com11 0 6
+sound 17016
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「えらそうなんじゃなくて、えらいのっ！
+line2 <shift> # むくれてないで、ハイ、返事！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わかったよ……。生かせば、いいんだろ。
+line2 <shift> # 生かせば……」
+com09 0 28
+display
+location 28
+com11 0 6
+sound 17017
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「フフン、はじめから、そう答えればいいの。
+line2 <shift> # ……それじゃ、また、どっかで！」
+com09 0 29
+display
+location 29
+com11 0 6
+sound 17018
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「私は、お抱えの運転手に、
+line2 <shift> # 迎えにこさせてるから、その車で帰るわね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、なら、ちょうどいい。
+line2 <shift> # 俺も事務所まで、乗せてってくれよ」
+display
+com11 0 6
+sound 17019
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「やーよ！　自分の足で帰りなさーい！
+line2 <shift> # 明日から、もう私には、頼れないんだからー」
+display
+com11 0 6
+sound 17020
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「せいぜい、夜道では、ひったくりに、あわない
+line2 <shift> # よう、気をつけるのね。じゃ、ばいばーい！」
+display
+com4a 0 0
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、おい……！」
+display
+location 100 129 92 129 92 130 177 130 164 130 181 130 196 129 65 137 180 130 170 136 231 130 196 130 189 131 143 131 75 131 125 131 125 150 186 130 205 129 65
+line2 <shift> # スタスタ去っていってしまった。
+display
+location 101 136 201 144 68 130 201 130 198 130 193 130 196 129 65 137 180 130 198 137 223 130 178 130 181 130 189 147 250 129 88 130 205 129 65 130 200 130 241 130 190 130 193 130 189
+line2 <shift> # のだろう？　今となっては、知るよしもない。
+display
+location 102 130 218 130 164 145 82 130 198 151 167 130 191 144 115 130 173 130 183 129 65 137 180 130 204 145 171 140 179 130 240 129 65
+line2 <shift> # かわいた夜風が、吹き抜けていった……。
+display
+unk02

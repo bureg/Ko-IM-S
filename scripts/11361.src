@@ -1,0 +1,291 @@
+com2c 0 39
+com2d 0 21
+com32 0 0
+com11 0 5
+sound 900
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ふ〜ん、芸歴書で使う写真を撮るのね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。何枚か撮ってもらって、
+line2 <shift> # いいのを選ぼう」
+display
+com11 0 5
+sound 901
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「それ見たら……、日本中のみんなが、
+line2 <shift> # 『誰？　この子ー？』って、大さわぎするわ！」
+com03 0 2
+choice1 <shift> # ああ、そうだな
+line2
+com09 0 10
+com08
+choice2 <shift> # 関係者用だよ？
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、そうだな」
+display
+com11 0 5
+sound 902
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「にひひっ♪　サインの練習とか、
+line2 <shift> # しておかないと！」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「関係者用だよ？　芸歴書で使うんだから」
+display
+com11 0 5
+sound 903
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あ……。
+line2 <shift> # ふんっ！　そんなの、わかってるもん」
+display
+com11 0 5
+sound 904
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……いちいち細かいこと気にしてると、
+line2 <shift> # 白髪が増えるんだから」
+com09 0 19
+display
+location 19
+com11 0 5
+sound 905
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ねえ、このかわいい私を撮ったりしたら、
+line2 <shift> # 使ったカメラ、とろけちゃうんじゃない？」
+com03 0 3
+choice1 <shift> # ははは、かもな
+line2
+com09 0 20
+com08
+choice2 <shift> # ありえるな
+com09 0 21
+com08
+choice3 <shift> # メルトダウンか……
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ははは、かもな」
+display
+com11 0 5
+sound 906
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「何台か、替えのカメラ、
+line2 <shift> # 用意しておいてもらわないと！　ふふっ♪」
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ありえるな」
+display
+com11 0 5
+sound 907
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……なに、マジメな顔してんの？
+line2 <shift> # そんなこと、起きるわけないじゃない」
+display
+com11 0 5
+sound 908
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「火の中にでも入れなきゃ、カメラは溶けたり
+line2 <shift> # しませーん。アッタマわる〜い」
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「メルトダウンか……」
+display
+com11 0 5
+sound 909
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「め、める……。
+line2 <shift> # な、なによ、そのこわい言い方」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、ほら。原子炉なんかが、
+line2 <shift> # 溶けるような感じで、こうデロデロと……」
+display
+com11 0 5
+sound 910
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「くぅ〜っ！　まるで私、危険物みたい
+line2 <shift> # じゃない！　あんた、ほんとシツレイね……」
+com09 0 29
+display
+location 29
+com11 0 5
+sound 911
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「今日のカメラマンは、幸せよね〜。
+line2 <shift> # 私みたいな特上のモデル、めったにいないしっ」
+display
+com11 0 5
+sound 912
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あんたも、私を撮れるんなら、カメラマン、
+line2 <shift> # やってみたいって、思うでしょ？」
+com03 0 3
+choice1 <shift> # 俺はプロデューサーでいいよ
+line2
+com09 0 30
+com08
+choice2 <shift> # ああ、もちろんだよ
+line2
+com09 0 31
+com08
+choice3 <shift> # 熱烈希望だ！
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺はプロデューサーでいいよ」
+display
+com11 0 5
+sound 913
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「と、撮りたくないってワケ！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうじゃないけど……、プロデューサーの方が、
+line2 <shift> # いっしょにいられる時間は長いだろ？」
+display
+com11 0 5
+sound 914
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「う、それもそうね……。やっぱり、
+line2 <shift> # 近くで、ずっと見られる方が幸せかしら〜？」
+display
+com11 0 5
+sound 915
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ま、あんたには、付き人がお似合いね！
+line2 <shift> # そばにいさせてあげるんだから、感謝するのよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「はいはい」
+display
+com11 0 5
+sound 916
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「それじゃ、パシッと撮られてくるわっ♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （すっかり、上機嫌だ。
+line2 <shift> # これなら、いい写真が撮れそうだな）
+com4b 0 0
+com09 0 39
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、もちろんだよ」
+display
+com11 0 5
+sound 917
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……なによ〜、そのつまんない返事〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「つ、つまらないか？」
+display
+com11 0 5
+sound 918
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「もうちょっと、気のきいたこと、
+line2 <shift> # 言えないの？」
+display
+com11 0 5
+sound 919
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なにかっていうと『はいはいー』
+line2 <shift> # 『そうですー』『その通りですー』……」
+display
+com11 0 5
+sound 920
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そんな返事、小学生だってできるわよっ。
+line2 <shift> # ちょっとは考えてよねっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ごめん……」
+display
+com11 0 5
+sound 921
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ふぅー、あんたもパパの部下なんかと同じー。
+line2 <shift> # ま、ヘンに逆らうやつより、マシかしら？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （肩をすくめている。でも、
+line2 <shift> # 怒ってはいないみたいだし、よしとするか）
+com4b 0 1
+com09 0 39
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「熱烈希望だ！」
+display
+com11 0 5
+sound 922
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「…………なんか、わざとらしいわね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そうか？」
+display
+com11 0 5
+sound 923
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ほんとに、そう思ってる〜？　どんなことを
+line2 <shift> # しても、私の写真が撮りたいって……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、ああ……」
+display
+com11 0 5
+sound 924
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なら、逆立ちしながら、腕立てして、『伊織様
+line2 <shift> # 撮らせてください』って、言ってみてっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなの、できないよ」
+display
+com11 0 5
+sound 925
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なによー、ウソつき〜っ！　やりなさ〜い」
+display
+com11 0 5
+sound 926
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「もし、やらないんなら……、私、カメラの前で、
+line2 <shift> # ずっとふくれっ面してやるんだからーっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （カンシャクを、起こしてしまった……。
+line2 <shift> # しかたない、ここは言われた通りにするか）
+com4b 0 2
+com09 0 39
+display
+location 39
+unk02

@@ -1,0 +1,526 @@
+com2d 0 31
+com2c 0 17
+com2c 0 47
+com2c 0 109
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お疲れ様、やよい。さあ、次の現場に移動だ」
+display
+com11 0 0
+sound 0
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はい！　どんどんいきましょ〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、今日はどこから嗅ぎつけたのか、
+line2 <shift> # 出待ちのファンが大勢来ているらしいぞ」
+display
+com11 0 0
+sound 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うあ〜！　それって、なんか、
+line2 <shift> # スゥパ〜アイドルみたいですー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あはは、そうだな。やよいも、これだけの人数
+line2 <shift> # を集められるようになったんだな……」
+display
+com11 0 0
+sound 2
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うっう〜！　うれしいですー。
+line2 <shift> # でも、なんかまだ、実感がありません〜」
+display
+com11 0 0
+sound 3
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「みんな、私のどういうとこを、
+line2 <shift> # 気に入ってくれたんでしょうか〜？」
+com03 0 3
+choice1 <shift> # 元気なところかな
+line2
+com09 0 5
+com08
+choice2 <shift> # 見た目かな
+com09 0 6
+com08
+choice3 <shift> # 貧乏なところかな
+line2
+com09 0 7
+com08
+com07
+com09 0 7
+com08
+display
+location 5
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やっぱり、元気なところかな？」
+display
+com11 0 0
+sound 4
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えへへ。元気だけが取り柄ですからっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「その明るい笑顔に、
+line2 <shift> # みんな元気づけられてるんだよ」
+display
+com11 0 0
+sound 5
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うあ〜、なんか照れちゃいます〜」
+com09 0 8
+display
+location 6
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「見た目かな？」
+display
+com11 0 0
+sound 6
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ええ〜っ、そんな……！　私なんかより可愛く
+line2 <shift> # てスタイルいい子、いっぱいいますよ〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだな……今のやよいが誰よりも、見た目
+line2 <shift> # ナンバーワン……とまでは言わないけど」
+display
+com11 0 0
+sound 7
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うう〜、そんなあっさり認めなくてもー……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、いつもニコニコしてて、元気いっぱい
+line2 <shift> # なところは、ナンバーワンじゃないかな？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それだって、見た目の魅力ってことに
+line2 <shift> # なるだろ？」
+display
+com11 0 0
+sound 8
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えへへ、そうですか……？
+line2 <shift> # うあ〜、なんか照れちゃいますね〜」
+com09 0 8
+display
+location 7
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「貧乏なところかな」
+display
+com11 0 0
+sound 9
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うう〜、そんなところなんですか〜？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「親しみやすいっていう意味だよ。
+line2 <shift> # ほら庶民的っていうか、家庭的っていうか……」
+display
+com11 0 0
+sound 10
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あっ！　そう言われた方が、うれしいです。
+line2 <shift> # えへへ……」
+com09 0 8
+display
+location 8
+com11 0 0
+sound 11
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えっと……じゃあ私、ファンの人達に、
+line2 <shift> # ごあいさつだけ、してきますねー？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ダメだ、やよい。
+line2 <shift> # ファンには絶対見つかるなよ」
+display
+com11 0 0
+sound 12
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「で、でも……前は、
+line2 <shift> # サインとか握手とかしてたのに……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ファンの数が少ない頃は、
+line2 <shift> # 問題なかったけど、今は無理だよ」
+display
+com11 0 0
+sound 13
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そうなんですか〜？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「数が数だから、全員は相手できないし、
+line2 <shift> # 下手するとパニックになりかねないからな」
+display
+com11 0 0
+sound 14
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うう〜っ、そうですね……。でも……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ん？　どうしたんだ、やよい？」
+display
+com11 0 0
+sound 15
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「……頑張れば、頑張っただけ、
+line2 <shift> # ファンの人たちと遠くなっちゃうんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「う〜ん、それは……」
+com03 0 3
+choice1 <shift> # そんなことはない
+line2
+com09 0 10
+com08
+choice2 <shift> # 今後の課題だ
+line2
+com09 0 11
+com08
+choice3 <shift> # 仕方ないことだ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなことはないよ」
+display
+com11 0 0
+sound 16
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「でも……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ファンの中には、ライブに一人で来られない
+line2 <shift> # ような、小さな子どもたちだっているんだ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんな子たちも、今ならＴＶで、
+line2 <shift> # やよいの元気な姿を見ることができるだろ？」
+display
+com11 0 0
+sound 17
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そっか〜。有名になったから、
+line2 <shift> # 近くなったファンも、たくさんいるんですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうだ、納得してくれたか？」
+display
+com11 0 0
+sound 18
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はい！」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今後の課題だな。有名になると確かに、多少
+line2 <shift> # ファンから遠ざからなきゃいけない時もある」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でもそれは、ファンとやよいの安全のために
+line2 <shift> # は必要なことだから……」
+display
+com11 0 0
+sound 19
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そうですかー……。でも、ファンの皆が寂しく
+line2 <shift> # ならないようにしたいですー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ファンとの接し方をどういう風にすれば
+line2 <shift> # いいか、今後、考えていかなきゃいけないな」
+display
+com11 0 0
+sound 20
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はいっ！」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「仕方ないことだよ」
+display
+com11 0 0
+sound 21
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「でも……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「下で待ってるファンの相手だけしてたら、
+line2 <shift> # 次のＴＶの収録に、間に合わないぞ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「他の仕事だって、
+line2 <shift> # 全部キャンセルしなきゃいけない」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やよいを待ってるファンは、
+line2 <shift> # 今は日本中にいるんだ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「その人たちは、ずっと
+line2 <shift> # 待たせたままでいいのか？」
+display
+com11 0 0
+sound 22
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あっ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「下で待ってくれてるファンの人たちも、
+line2 <shift> # 仕事を休むことなんか望んでないと思うぞ」
+display
+com11 0 0
+sound 23
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はい、なんだかわかった気がしますー……」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃあ、あとは
+line2 <shift> # どうやって見つからずにいくかだな……」
+display
+com11 0 0
+sound 24
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「う〜ん……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「出口は４つあるけど、正面玄関から出るのは、
+line2 <shift> # 無謀というほかないな……」
+display
+com11 0 0
+sound 25
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そうですねー……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「残りはＡ出口、Ｂ出口、Ｃ出口の３つ……、
+line2 <shift> # 一番ファンが少ないところを狙うしかない」
+display
+com11 0 0
+sound 26
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「プロデューサー、なんか、
+line2 <shift> # 推理ドラマの犯人さんみたいですね〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「こらこら、真面目に聞きなさい。見つかって
+line2 <shift> # ファンが殺到したら、えらいことになるんだぞ」
+display
+com11 0 0
+sound 27
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えらいこと……って？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ケガ人が出るかもしれないし、
+line2 <shift> # 下手すると、こっちがケガする可能性も……」
+display
+com11 0 0
+sound 28
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あ！　そうですねー！
+line2 <shift> # えらいことですー！！　真面目に聞きますー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （どの出口に一番ファンが少ないかは、正直、
+line2 <shift> # わからない。ここはカンで判断するしかないな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （一か八か、この出口を使ってみよう……！）
+com03 0 3
+choice1 <shift> # Ａ出口
+com09 0 30
+com08
+choice2 <shift> # Ｂ出口
+com09 0 31
+com08
+choice3 <shift> # Ｃ出口
+com09 0 32
+com08
+com07 129 64 129 64
+com09 0 33
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「Ａ出口を使って、外に出るぞ！」
+com37 0 1
+com1e 0 0
+com09 0 40
+com3b
+com37 0 0
+com1e 0 0
+com09 0 41
+com3b
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「Ｂ出口を使って、外に出るぞ！」
+com37 0 1
+com1e 0 0
+com09 0 40
+com3b
+com37 0 0
+com1e 0 0
+com09 0 41
+com3b
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「Ｃ出口を使って、外に出るぞ！」
+com37 0 1
+com1e 0 0
+com09 0 40
+com3b
+com37 0 0
+com1e 0 0
+com09 0 41
+com3b
+display
+location 33
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「この出口だ！」
+com09 0 41
+display
+location 40
+com22 0 30
+com32 0 1
+com21 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし。
+line2 <shift> # 誰にも見つからずに、出ることができたぞ」
+display
+com11 0 0
+sound 29
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「プロデューサー、
+line2 <shift> # もう、顔上げていいですかー？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。ほら、後ろをみてごらん」
+display
+com11 0 0
+sound 30
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うあ〜！　すごい人です〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あれだけ、たくさんの人が、
+line2 <shift> # やよいに会いに来てくれたんだよ」
+display
+com11 0 0
+sound 31
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「最初の頃は、ほとんどお客さん、
+line2 <shift> # 来てくれませんでした……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ……」
+display
+com11 0 0
+sound 32
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ライブの前座に出て、誰にも歌を
+line2 <shift> # 聞いてもらえないこともありました……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだったな……」
+display
+com11 0 0
+sound 33
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「でも、あきらめないでがんばったから、
+line2 <shift> # 今はこんなに、たくさんの人が応援を……」
+display
+com11 0 0
+sound 34
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うっう〜！　プロデューサー、私、
+line2 <shift> # もっとも〜っと、がんばりますねっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （やよいは、自分を待っていてくれた
+line2 <shift> # 大勢のファンを見て、感激したようだ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （パニックも起きずに済んだし。
+line2 <shift> # よかったな、やよい！）
+com4b 0 0
+com09 0 69
+display
+location 41
+com22 0 30
+com32 0 1
+com21 0 30
+com11 0 0
+sound 35
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うう〜、ファンの人たちが、まるでホラーの
+line2 <shift> # ドラマみたいに押し寄せてきます〜！！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「こら、君たち！
+line2 <shift> # そんなに押し合うと、危ない……！」
+display
+com11 0 0
+sound 36
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うああああっ！！」
+display
+com22 0 30
+com32 0 2
+com21 0 30
+com11 0 0
+sound 37
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「プロデューサー！
+line2 <shift> # ファンの人たちは……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。幸い、そんなに大きなケガをした人は、
+line2 <shift> # いなかったみたいだ」
+display
+com11 0 0
+sound 38
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うう〜っ。でもでも……、
+line2 <shift> # これってみんな、私のせいですよねー？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、この事故は、
+line2 <shift> # やよいのせいなんかじゃ……」
+display
+com11 0 0
+sound 39
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「こんなことになるくらいなら、スゥパ〜アイド
+line2 <shift> # ルになんて、ならない方が良かったのかも……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ファンの起こした事故で、結局、
+line2 <shift> # その後の仕事もキャンセル……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （やよいは責任を感じ、しばらくは
+line2 <shift> # どっぷり落ち込んでいた）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺が正しい判断を下せなかったばかりに……。
+line2 <shift> # ごめんな、やよい……）
+com4b 0 2
+com09 0 69
+display
+location 69
+unk02

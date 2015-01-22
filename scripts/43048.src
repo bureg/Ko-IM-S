@@ -1,0 +1,193 @@
+com2d 0 83
+location 0
+com11 0 0
+sound 10000
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「おっはようございます、プロデューサー！
+line2 <shift> # ボクのこと、当然おぼえてますよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「当たり前だろ。菊地真は、俺の担当アイドル。
+line2 <shift> # たとえるなら……そうだな」
+com03 0 3
+choice1 <shift> # 生徒みたいなモンだ　
+line2
+com09 0 10
+com08
+choice2 <shift> # 終生のライバルだ　
+line2
+com09 0 11
+com08
+choice3 <shift> # 兄弟みたいなモンだ　
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「生徒みたいなモンだ」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、そうですねっ！　ボクが生徒で、プロ
+line2 <shift> # デューサーが先生。ちょうど、そんな感じかも」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「それじゃ、へへー。今日もいろいろ、
+line2 <shift> # 教えて下さいねっと」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「終生のライバルだ」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「えええっ、ライバルって、プロデューサーも
+line2 <shift> # アイドルやる気ですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まさか……。でも、立場はちがうけど、互いに
+line2 <shift> # がんばるって意味じゃ、ライバルだろ？」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、なーる。それじゃ、今日もお互いに
+line2 <shift> # がんばりましょう！　へへー」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「兄弟みたいなモンだ」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「兄妹かー。ってことは、プロデューサーが
+line2 <shift> # 兄貴で、ボクは妹ですね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、兄妹じゃなくて、兄弟……。
+line2 <shift> # あああっ、なんでもない、なんでも！」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「なに、あわててるんです？　ま、いいや。
+line2 <shift> # それじゃ、今日もレッスン、お願いしまーす！」
+com09 0 19
+display
+location 19
+location 30
+com11 0 0
+sound 10007
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「おはよう！　すっかり打ち解けたようだね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おはようございます、社長！」
+display
+com11 0 0
+sound 10012
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「今日は、ステージ衣装を決めてほしい。
+line2 <shift> # その後、営業を行なうといいだろう」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「はい、わかりました！」
+display
+com11 0 0
+sound 10014
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「うむ。ステージ衣装の決定は、大切だよ。
+line2 <shift> # 衣装により、イメージは左右されるのだ」
+display
+com11 0 0
+sound 10015
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「流行を意識した衣装を選ぶことも重要だが、
+line2 <shift> # まあ、最初は、君の好きなように選びなさい」
+display
+com11 0 0
+sound 10016
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「では、参考までに、今日の流行情報だ。
+line2 <shift> # 確認した後、スケジュールを確定させたまえ」
+com4a 0 0
+com09 0 200
+display
+location 200
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （衣装を新しくするを選ぼう）
+display
+location 201
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （あーもう決めないと……）
+display
+location 202
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （いや、今日は衣装を選ばないと……）
+display
+location 203
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ステージ衣装を考えるから
+line2 <shift> # 少しの間待っておいてくれ」
+display
+com4a 0 0
+location 208
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「喜んでくれて俺もうれしいよ！
+line2 <shift> # じゃあ、今日も１日がんばろう！」
+display
+location 209
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （今日のスケジュールは……と）
+display
+location 210
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「オーディションは次回チャレンジしよう！
+line2 <shift> # 今日も基礎レッスンだ！」
+display
+location 220
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （今日のスケジュールを決めよう）
+display
+location 221
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （今日のオススメは、衣装変更と営業か……）
+display
+location 222
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （社長から指示のあったスケジュールを、
+line2 <shift> # 選ばないと……）
+display
+location 223
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、これで今日のスケジュールは
+line2 <shift> # 決定だ！」
+display
+location 224
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「今日は作曲家の先生に、
+line2 <shift> # あいさつにいくぞ」
+display
+location 230
+com11 0 0
+sound 10011
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はい」
+display
+unk02

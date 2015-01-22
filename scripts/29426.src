@@ -1,0 +1,293 @@
+com2c 0 118
+com2d 0 41
+com32 0 0
+location 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうだ、千早？　だいぶ経ったけど……、
+line2 <shift> # すこしは落ち着いたか？」
+display
+com11 0 6
+sound 1400
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「落ち着くはずがありません。あれだけのことを、
+line2 <shift> # してしまったのに」
+display
+com11 0 6
+sound 1401
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「自分の、あまりのふがいなさに、涙も出ません。
+line2 <shift> # もし、なかった事にできるなら……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それは無理だよ。けど、ほら、気持ちを
+line2 <shift> # 切り替えよう。こういうこともあるって」
+display
+com11 0 6
+sound 1402
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「どうして、そんな気楽な風を装うんです？
+line2 <shift> # 本当は、私をののしりたいんじゃ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ののしるだなんて、そんな……」
+display
+com11 0 6
+sound 1403
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「しかってくれて、一向にかまいません。
+line2 <shift> # 強制引退を勧告されても、やむをえないかと」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ、強制引退！？」
+display
+com11 0 6
+sound 1404
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「覚悟はできています。プロ失格の烙印を
+line2 <shift> # 押されても、当然なことをしたんですから」
+display
+com11 0 6
+sound 1405
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「これまで教えてもらった技術の数々は、血肉に
+line2 <shift> # なってなかったんです。まるで、砂の城……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなこと言うなよ！　砂の城だなんて」
+display
+com11 0 6
+sound 1406
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「でも実際、私は教えを生かしきれずに今日……。
+line2 <shift> # 城は……、波にさらわれてしまいました」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「千早、それはちがうよ。たしかにライブは
+line2 <shift> # 失敗したけど、城は流されたりしていない」
+display
+com11 0 6
+sound 1407
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「どうして、そう言い切れるんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「簡単に消えるような物を築いた覚えはないから。
+line2 <shift> # 俺達が作ったのは砂の城なんかじゃなく……」
+com03 0 3
+choice1 <shift> # 石の城だ
+com09 0 10
+com08
+choice2 <shift> # 鉄の城だ
+com09 0 11
+com08
+choice3 <shift> # 金の城だ
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「石の城だ。たとえ波に打たれたとしても、
+line2 <shift> # なくなったりするはずがない」
+display
+com11 0 6
+sound 1408
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「石の城……。でも、石でできていても、やがては
+line2 <shift> # 波の力で削られてしまうのでは？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いいんだよ、多少は削られて。それによって
+line2 <shift> # 角が取れて、より美しい形になっていく」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「技術っていうのは、そんな風にみがかれて、
+line2 <shift> # 完成に近づくものなんじゃないのか？」
+display
+com11 0 6
+sound 1409
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あっ、そうですね！　とすると今回は、ただ
+line2 <shift> # 少し波が高かっただけで……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうとも。なにもなくなってはいない。だから、
+line2 <shift> # これまでの時間を否定したりしちゃダメだ」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「鉄の城だ。忘れたのか？　これまで重ねてきた
+line2 <shift> # きびしいレッスンを」
+display
+com11 0 6
+sound 1410
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「忘れるわけがありません。すべて、おぼえて
+line2 <shift> # います。最中の指示のひとつひとつまで、明確に」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うまくいかなかったのは、きっと、その指示の
+line2 <shift> # 理解度が足りなかったからだろう」
+display
+com11 0 6
+sound 1411
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……私の理解度が？　あ、だとすれば、
+line2 <shift> # これから、やりようはいくらでも」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうとも。積み重ねた記憶は……、
+line2 <shift> # 決して波にさらわれるような、軽い物じゃない」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だから、もう、これまでの時間を否定したり
+line2 <shift> # しちゃダメだ」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「金の城だ。さん然と輝き続け……、
+line2 <shift> # その価値は、失われることなんてない」
+display
+com11 0 6
+sound 1412
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「金の城……。想像を絶する比喩ですね……。
+line2 <shift> # よく見たら、メッキだったということは？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなことはない。厳しかったレッスンを
+line2 <shift> # 思い起こしてみろ。あれが上っ面だけか？」
+display
+com11 0 6
+sound 1413
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「いえ、そうは思いません。越えてきた数々の
+line2 <shift> # 試練は、今でも私の力に……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だろ？　ほら、見ろ。城はちゃんと残ってる
+line2 <shift> # じゃないか。千早の中に……」
+display
+com11 0 6
+sound 1414
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あ、本当ですね……。すべてが消えたように
+line2 <shift> # 感じていたのは……、錯覚？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだよ。積み重ねた時間は黄金の価値を持つ。
+line2 <shift> # だから、これまでの歩みを否定しちゃダメだ」
+com09 0 19
+display
+location 19
+com11 0 6
+sound 1415
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい、すみませんでした。私、どうやら、ショ
+line2 <shift> # ックのあまり、自分を見失っていたようです」
+display
+com11 0 6
+sound 1416
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「今日の失敗を礎（いしずえ）として、
+line2 <shift> # 私、さらに上を目指していこうと思います」
+display
+com1c 0 3
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よく言ってくれた。それでいい。タフさを
+line2 <shift> # 身につければ、千早はもっと伸びるはずだから」
+display
+com11 0 6
+sound 1417
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。あの、プロデューサー。お別れする前に、
+line2 <shift> # 手、合わせてもらっていいですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ん？　手？　いいけど、なんのためにだ？」
+display
+com11 0 6
+sound 1418
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「誓いを受け取ってほしいんです。今後、また
+line2 <shift> # 今日のように、つまずくことがあったとしても」
+display
+com11 0 6
+sound 1419
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「決して折れたりしないと、約束します。
+line2 <shift> # その誓いを、新たな出発点としたいんです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そういうことか。もちろん、かまわないよ。
+line2 <shift> # じゃ、俺も千早の幸運を祈りつつ……」
+com0e 1 166
+com44
+com09 0 20
+com45
+com44
+com09 0 21
+com45
+display
+location 20
+com11 0 6
+sound 1420
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ありがとうございました。
+line2 <shift> # 私の思いの行き場になってくれて」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「少しは役に立てたかな。じゃあ元気で！」
+com09 0 29
+display
+location 21
+com11 0 6
+sound 1421
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「プロデューサー……？
+line2 <shift> # あの、ちゃんと手を……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あああっ、ごめん。でも考えてみたら、こう
+line2 <shift> # いう儀式みたいな事に頼るのも、どうかなあ」
+display
+com11 0 6
+sound 1422
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「え？　……あ、それも一理ありますね。
+line2 <shift> # 形に頼りたがるのも、弱さの証明……」
+display
+com11 0 6
+sound 1423
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「誓いは、私の胸に刻み込んでおくことにします」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それがいいと思うよ。じゃあ、元気で！」
+com09 0 29
+display
+location 29
+com11 0 6
+sound 1424
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。もしまたいつか、
+line2 <shift> # クツワを並べる日がくるとしたら……」
+display
+com4a 0 0
+com11 0 6
+sound 1425
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「その時は、期待を絶対に裏切らない、真の
+line2 <shift> # 歌い手になってみせますから。では」
+display
+location 100 129 92 129 92 130 177 130 164 130 181 130 196 144 231 145 129 130 205 129 65 131 137 131 88 131 103 131 137 131 67 131 117 130 197 130 204 142 184 148 115 130 240
+line2 <shift> # 克服し、俺の元から去っていった。
+display
+location 101 140 199 141 130 130 204 137 204 149 80 129 66 130 187 130 204 141 115 130 171 146 133 130 173 144 230 130 205 129 65 130 220 130 190 140 169 130 166 130 200 130 162 129 66
+line2 <shift> # しかし……、
+display
+location 102 130 199 130 241 130 200 151 183 130 201 130 224 129 65 143 73 146 133 147 95 130 205 130 160 130 233 129 66 140 169 137 202 130 196 130 202 151 157 145 122 130 204
+line2 <shift> # 頂きめざして……、俺達の挑戦は続く。
+display
+unk02

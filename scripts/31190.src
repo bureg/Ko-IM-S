@@ -1,0 +1,119 @@
+com2d 0 61
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あっという間に１日が終ってしまった……」
+display
+location 0
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「今日は、おつかれさまでした……。私、もう
+line2 <shift> # ヘトヘトで、立っているのが、やっとです……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おつかれさま。初仕事、大変だったもんな。
+line2 <shift> # 雪歩も、早く家に帰って……」
+com03 0 2
+choice1 <shift> # ゆっくり、眠るといいよ　
+line2
+com09 0 10
+com08
+choice2 <shift> # 永遠に、眠るといいよ　
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ゆっくり、眠るといいよ」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい、そうさせてもらいます。それじゃあ、
+line2 <shift> # また、つぎに！」
+com4a 0 0
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「永遠に、眠るといいよ」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい、そうさせてもらいます……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……って、おい！　永遠に寝ちゃ、マズい
+line2 <shift> # だろ？　まだまだ、これからなのにっ！」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「……あ、そ、そうですね。とにかく、ぐっすり
+line2 <shift> # 寝て、元気を取り戻します。それじゃ、また！」
+com4a 0 0
+com09 0 19
+display
+location 19
+location 100
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あっという間に１日が終ってしまった……」
+display
+location 101
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もっと早く色々片付けていれば
+line2 <shift> # もう１レッスンできたかも……」
+display
+location 102
+com11 0 0
+sound 10004
+name 0 2 <names:3>  # President
+line1 <shift> # 「２日目ご苦労だったね。次は、いよいよ……、
+line2 <shift> # オーディションをうけてもらうよ！」
+display
+com4a 0 0
+com11 0 0
+sound 10005
+name 0 2 <names:3>  # President
+line1 <shift> # 「ではキミ達のアイドルランク報告だ！」
+display
+location 200
+com11 0 0
+sound 10006
+name 0 2 <names:3>  # President
+line1 <shift> # 「うむ、今後も出会った人達にファンに
+line2 <shift> # なってもらえるよう、活動しなさい」
+display
+com11 0 0
+sound 10007
+name 0 2 <names:3>  # President
+line1 <shift> # 「しかし、レッスンばかりでは、
+line2 <shift> # ファンは、ほとんど増えることはない！」
+display
+com11 0 0
+sound 10008
+name 0 2 <names:3>  # President
+line1 <shift> # 「オーディションに合格することが、ファンを
+line2 <shift> # 一気に増やす唯一の方法だ」
+display
+com4a 0 0
+com11 0 0
+sound 10009
+name 0 2 <names:3>  # President
+line1 <shift> # 「次回のオーディションが楽しみだな！」
+display
+location 103
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ファンからのプレゼントを、
+line2 <shift> # チェックして帰るか」
+display
+location 201
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （次の活動では、デビュー曲を決めて、
+line2 <shift> # いよいよオーディションだ！）
+display
+unk02

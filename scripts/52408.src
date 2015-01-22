@@ -1,0 +1,652 @@
+com2d 0 91
+com2e 0 101
+com2c 0 17
+com2c 0 40
+com2c 0 2
+com32 0 0
+com11 0 0
+sound 0
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「真美の言った通りにしたら、ＣＭ監督に怒られ
+line2 <shift> # ちゃったよ〜！　また明日撮影だって。もう！」
+display
+com11 0 0
+sound 1
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「真美は悪くないよー！
+line2 <shift> # 亜美がヘタクソなんでしょ〜！」
+display
+com11 0 0
+sound 2
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「あー！　ヘタクソって言ったな、
+line2 <shift> # ま……真美のボテクソー！」
+display
+com11 0 0
+sound 3
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ボテクソってなにー！？
+line2 <shift> # 意味の亜美不明ー！」
+display
+com11 0 0
+sound 4
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ボ、ボテクソは、ヘタクソの、
+line2 <shift> # 一億万倍ヘタクソっていう意味だもん！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「おいおい、なに言い合いしてるんだ、
+line2 <shift> # ふたりとも……」
+display
+com11 0 0
+sound 5
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「兄ちゃーん！　亜美が演技で怒られたの
+line2 <shift> # 真美のせいにするんだよ〜！」
+display
+com11 0 0
+sound 6
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「真美がアドリブ入れてって言うから、
+line2 <shift> # 入れたんでしょ〜！」
+display
+com11 0 0
+sound 7
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「あんなヘタクソにやれなんて、
+line2 <shift> # 言ってないー！」
+display
+com11 0 0
+sound 8
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ヘタクソだなんて
+line2 <shift> # ボテクソに言われたくな〜い！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （ああ、もう……。とりあえず仲裁しないと！）
+com03 0 3
+choice1 <shift> # 亜美が悪いぞ
+line2
+com09 0 10
+com08
+choice2 <shift> # 真美が悪いぞ
+line2
+com09 0 11
+com08
+choice3 <shift> # 交代するか？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「亜美が悪いぞ」
+display
+com11 0 0
+sound 9
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「え〜っ！　なんで〜っ！？」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「だって、真美の意見に乗ったのは亜美だろ？」
+display
+com11 0 0
+sound 10
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うん……」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「だったら、それを活かしきれなかった
+line2 <shift> # 亜美が悪いよ」
+display
+com11 0 0
+sound 11
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ＣＭ監督に怒られて、兄ちゃんにも怒られて
+line2 <shift> # ……なんで亜美だけ〜！？」
+display
+com11 0 0
+sound 12
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「だって、亜美が悪いんだも〜ん！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「真美も、アドリブ入れろだなんて、
+line2 <shift> # 軽々しく言っちゃダメだぞ」
+display
+com11 0 0
+sound 13
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ほら〜、真美だって悪いっしょ！
+line2 <shift> # 真美が言わなきゃ、亜美もやらなかったもん」
+display
+com11 0 0
+sound 14
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「真美は悪くないもん！
+line2 <shift> # 亜美だけが悪いの〜！」
+display
+com11 0 0
+sound 15
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「亜美が悪くないの！
+line2 <shift> # 真美だけが悪いんだよ〜！」
+com09 0 29
+display
+location 11
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「真美が悪いぞ」
+display
+com11 0 0
+sound 16
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「えええ〜っ！！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「アドリブを入れろだなんて、
+line2 <shift> # 軽々しく言っちゃダメじゃないか」
+display
+com11 0 0
+sound 17
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「うぅ〜。真美は、おもしろくしようと
+line2 <shift> # 思っただけなのに〜……」
+display
+com11 0 0
+sound 18
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「そんなこと、勝手にやっちゃ
+line2 <shift> # ダメなんだよね〜っ！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「亜美だって悪いんだぞ。
+line2 <shift> # 真美の意見を、とりいれたのは、亜美だろ？」
+display
+com11 0 0
+sound 19
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うー……。そうだけど〜……」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「その意見を活かしきれなかったのは、
+line2 <shift> # 亜美じゃないか」
+display
+com11 0 0
+sound 20
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ほら〜、やっぱ亜美が悪いんだー！
+line2 <shift> # 真美は悪くないもん！」
+display
+com11 0 0
+sound 21
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ちがうよ〜！　基本的には真美が悪くて、
+line2 <shift> # 亜美はチョビっとだけだもん！」
+com09 0 29
+display
+location 12
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「じゃあ、交代するか？」
+display
+com11 0 0
+sound 22
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ええ〜っ！　今日は亜美の番だから、
+line2 <shift> # 真美、セリフとか覚えてないよ〜」
+display
+com11 0 0
+sound 23
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「じゃあ、ぜんぶアドリブでやっちゃえば〜？」
+display
+com11 0 0
+sound 24
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「そんなことしたら、
+line2 <shift> # またＣＭ監督に怒られちゃうよ〜！」
+display
+com11 0 0
+sound 25
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「さっきは亜美が怒られたんだから、
+line2 <shift> # 真美も怒られちゃえ！」
+com09 0 29
+display
+location 29
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （このままじゃ、キリがないな……。
+line2 <shift> # ちゃんとふたりを叱らなきゃ）
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「ふたりとも、いい加減に仲直りするんだ。
+line2 <shift> # でないと……」
+com03 0 3
+choice1 <shift> # お尻百叩きの刑だ！
+line2
+com09 0 30
+com08
+choice2 <shift> # 島流しの刑だ！
+line2
+com09 0 31
+com08
+choice3 <shift> # おこづかいカットだ！
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「お尻百叩きの刑だ！」
+display
+com11 0 0
+sound 26
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うわっ、お尻だって……！
+line2 <shift> # 兄ちゃんのセクハラ魔人〜っ！！」
+display
+com11 0 0
+sound 27
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「今ハヤリの
+line2 <shift> # ドメドメバイオレンスだよ〜っ！！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「いや、俺はふたりを仲直りさせようと……」
+display
+com11 0 0
+sound 28
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「逃げなきゃっ！」
+display
+com11 0 0
+sound 29
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「真美も〜っ！！」
+com09 0 49
+display
+location 31
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「島流しの刑だ！」
+display
+com11 0 0
+sound 30
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「島流し！？　……ってなに？」
+display
+com11 0 0
+sound 31
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「どこか外国の島まで流されちゃうんだよ〜！」
+display
+com11 0 0
+sound 32
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「えええ〜っ！
+line2 <shift> # 亜美達、外国に売られちゃうの〜！？」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「おいおい、人聞きの悪いことを……」
+display
+com11 0 0
+sound 33
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「逃げなきゃっ！」
+display
+com11 0 0
+sound 34
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「亜美も〜っ！！」
+com09 0 49
+display
+location 32
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「おこづかいカットだ！」
+display
+com11 0 0
+sound 35
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「え〜っ！　亜美からおこづかい取ったら、
+line2 <shift> # 残りの人生、意味がないよ〜！」
+display
+com11 0 0
+sound 36
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ヒドイよ、ヒドイよ〜っ！
+line2 <shift> # 兄ちゃんはおこづかいの亡者だよ〜！」
+display
+com11 0 0
+sound 37
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「そうだ！　兄ちゃんのモジャモジャ〜っ！！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「俺は本気だぞ……」
+display
+com11 0 0
+sound 38
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「うわっ！　兄ちゃんが怒った……。
+line2 <shift> # 逃げなきゃ〜っ！」
+display
+com11 0 0
+sound 39
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「亜美も〜っ！！」
+com09 0 49
+display
+location 49
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「おい、ちょっと待てよ！　ふたりとも……！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （まいったな……。今日、このスタジオ
+line2 <shift> # 早く閉めるって言われてるのに……）
+display
+com22 0 30
+com21 0 30
+com32 0 1
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （早く二人をさがさないと、大変だ！
+line2 <shift> # でも、どこを、さがせば……？）
+com03 0 3
+choice1 <shift> # この辺かな？
+line2
+com09 0 50
+com08
+choice2 <shift> # その辺かな？
+line2
+com09 0 51
+com08
+choice3 <shift> # あの辺かな？
+line2
+com09 0 52
+com08
+com07
+com09 0 53
+com08
+display
+location 50
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「この辺かな……」
+com37 0 1
+com1e 0 0
+com09 0 60
+com3b
+com37 0 0
+com1e 0 0
+com09 0 61
+com3b
+display
+location 51
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「その辺かな……」
+com37 0 1
+com1e 0 0
+com09 0 60
+com3b
+com37 0 0
+com1e 0 0
+com09 0 61
+com3b
+display
+location 52
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「あの辺かな……」
+com37 0 1
+com1e 0 0
+com09 0 60
+com3b
+com37 0 0
+com1e 0 0
+com09 0 61
+com3b
+display
+location 53
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「あの辺かな……」
+com09 0 61
+display
+location 60
+com11 0 0
+sound 40
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うあうあ、見つかっちゃったよ〜！！」
+display
+com11 0 0
+sound 41
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「なんで見つかっちゃったの〜！」
+display
+com11 0 0
+sound 42
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「もうカンネンして、
+line2 <shift> # お縄をチョウダイするしかないね……」
+display
+com11 0 0
+sound 43
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「真美、ヤダ〜っ！
+line2 <shift> # あんな刑、受けたくな〜い！」
+display
+com11 0 0
+sound 44
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「そんなの亜美だって、ヤダよ〜！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「刑を受けないでいい方法が、
+line2 <shift> # ひとつだけあるぞ」
+display
+com11 0 0
+sound 45
+name 0 0 <names:4>  # Ami and Mami
+line1 <shift> # 「なになに？」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「さっきから言ってるだろう？
+line2 <shift> # ……ふたりが仲直りすることだ」
+display
+com11 0 0
+sound 46
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「する！　亜美、ちゃんと
+line2 <shift> # 真美と仲直りするよ〜！」
+display
+com11 0 0
+sound 47
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「うんうん、真美も仲直りしちゃうよ！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「よし。じゃあ、ふたりで仲直りだ」
+display
+com11 0 0
+sound 48
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ごめんね、真美〜」
+display
+com11 0 0
+sound 49
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「こっちこそ、ごめんね、亜美〜」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「これにて、一件落着……と」
+display
+com11 0 0
+sound 50
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「でも、兄ちゃん。
+line2 <shift> # よく亜美達のこと見つけられたね〜」
+display
+com11 0 0
+sound 51
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「そうそう。真美たち、ガッコで
+line2 <shift> # かくれんぼ名人って呼ばれてんのに」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「ふたりのことなら、
+line2 <shift> # どこにいたって、見つけられるさ」
+display
+com11 0 0
+sound 52
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「さすが亜美達の兄ちゃんだね♪」
+display
+com11 0 0
+sound 53
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「あははっ！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （次の日の撮影はとても順調で、
+line2 <shift> # 無事、終了することができた！）
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （相変わらずのふたりだけど、
+line2 <shift> # 泣かれるより、やっぱり笑顔の方がいいな）
+com4b 0 0
+com09 0 69
+display
+location 61
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （ダメだ……。ここにはいない……）
+display
+com22 0 30
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （電源が落とされた。閉館時間だ！
+line2 <shift> # 警備の人に事情を話しに行かないと……はあ）
+display
+com21 0 30
+com32 0 2
+name 0 2 <names:5>  # Guard
+line1 <shift> # 「そうなんですか？　困りましたね……」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「すみません。
+line2 <shift> # だから、館内の照明を、もう少し……」
+display
+com11 0 0
+sound 54
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うあうあ〜！」
+display
+com11 0 0
+sound 55
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「兄ちゃ〜ん！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「亜美、真美！
+line2 <shift> # ふたりとも、どこにいたんだよ」
+display
+com11 0 0
+sound 56
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「真っ暗になっちゃうし、
+line2 <shift> # 兄ちゃん、さがしに来てくんないし……」
+display
+com11 0 0
+sound 57
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「真美達、兄ちゃんに、
+line2 <shift> # 捨てられたと思っちゃったよ〜！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「捨てるわけないだろ。
+line2 <shift> # ふたりが見つからないから……」
+display
+com11 0 0
+sound 58
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うあうあ、
+line2 <shift> # どうして見つけてくんないの〜！」
+display
+com11 0 0
+sound 59
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「すぐに見つけてよ〜！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （いくら説明しても、恐怖で震える
+line2 <shift> # ふたりの耳には届くはずもなく……）
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （その後、家に送り届けるまでの間、
+line2 <shift> # ふたりはずっと泣きつづけた）
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （この分じゃ明日の撮影も難航するだろうな。
+line2 <shift> # ……意地でも見つけるべきだったか）
+com4b 0 2
+com09 0 69
+display
+location 69
+unk02

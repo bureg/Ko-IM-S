@@ -1,0 +1,133 @@
+com2c 0 90
+com32 0 0
+com11 0 0
+sound 10000
+name 0 2 <names:1>  # President
+line1 <shift> # 「ああ、君。ちょっと待ってくれたまえ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、社長。なんでしょうか？」
+display
+com11 0 0
+sound 10001
+name 0 2 <names:1>  # President
+line1 <shift> # 「プロデュースは、どんな調子かね？
+line2 <shift> # 何か困ったことがあれば、私に相談したまえよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ありがとうございます。でも、二人で協力して
+line2 <shift> # 頑張ってますし、今のところ順調ですよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まだランクＦですから、
+line2 <shift> # 大変なのは、これからかもしれませんが」
+display
+com11 0 0
+sound 10002
+name 0 2 <names:1>  # President
+line1 <shift> # 「そうか。黒井が嫌がらせの１つも、してくるか
+line2 <shift> # と思ったが……。何もないなら、なによりだな」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え？　黒井って確か、９６１プロの……」
+com03 0 3
+choice1 <shift> # 社長ですよね？
+line2
+com09 0 10
+com08
+choice2 <shift> # プロデューサーですよね？
+line2
+com09 0 11
+com08
+choice3 <shift> # アイドルですよね？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「社長ですよね？　９６１プロの、黒井社長」
+display
+com11 0 0
+sound 10003
+name 0 2 <names:1>  # President
+line1 <shift> # 「ああ、そうだ。あの男は、昔から意地が悪くて、
+line2 <shift> # やり方も汚いのだよ。おまけにキザときている」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「プロデューサーですよね？
+line2 <shift> # ９６１プロの、黒井プロデューサー」
+display
+com11 0 0
+sound 10004
+name 0 2 <names:1>  # President
+line1 <shift> # 「いや、プロデューサーだったのは昔のことだよ。
+line2 <shift> # 今は私と同様に、社長を務めているはずだ」
+display
+com11 0 0
+sound 10005
+name 0 2 <names:1>  # President
+line1 <shift> # 「しかし、意地も悪いし、キザだし、
+line2 <shift> # 社長の器ではなさそうに思うがね……」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「アイドルですよね？
+line2 <shift> # ９６１プロの、新人アイドル、黒井」
+display
+com11 0 0
+sound 10006
+name 0 2 <names:1>  # President
+line1 <shift> # 「君は若いくせに、物覚えが悪いなあ。前に
+line2 <shift> # 話しただろう。黒井は９６１プロの社長だよ」
+display
+com11 0 0
+sound 10007
+name 0 2 <names:1>  # President
+line1 <shift> # 「同業者なのだから、名前ぐらい覚えておきたま
+line2 <shift> # え。ま、昔から意地が悪くてキザな男だがね」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10008
+name 0 2 <names:1>  # President
+line1 <shift> # 「年をとっても、全く成長していないようだから、
+line2 <shift> # 困った男だよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あの、社長。黒井社長とは、
+line2 <shift> # 昔からのお知り合いなんですか？」
+display
+com11 0 0
+sound 10009
+name 0 2 <names:1>  # President
+line1 <shift> # 「んんっ？　いやー、その、なんだ。
+line2 <shift> # 長くこの世界にいると、色々とあってね……」
+display
+com11 0 0
+sound 10010
+name 0 2 <names:1>  # President
+line1 <shift> # 「だが、君が気にするようなことではないよ。
+line2 <shift> # 相談がないなら、それでいいんだ。ご苦労様！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「はい、失礼します……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （あの口ぶりからすると、高木社長と黒井社長は、
+line2 <shift> # 古くからの知り合いみたいだな）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ま、だからって別に何も、問題はないけど。
+line2 <shift> # さてと、帰るとするか！）
+com09 0 99
+display
+location 99
+unk02

@@ -1,0 +1,496 @@
+com2c 0 90
+com2d 0 21
+com2e 0 123
+location 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ＴＶデビューを果たしたこと、
+line2 <shift> # 早く社長に報告しような、伊織！」
+display
+com11 0 0
+sound 10000
+com4c 0 1
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「デビュー程度で、そんなに騒がないでよ。
+line2 <shift> # 伊織ちゃんの快進撃はこれからなんだからね？」
+display
+com11 0 0
+sound 10001
+com4c 0 1
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「さてと。社長〜、７６５プロの救世主、伊織
+line2 <shift> # ちゃんのお帰りよ〜！　ひれ伏しなさい〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……明らかに、自分が一番騒いでるよな）
+display
+com11 0 0
+sound 10002
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「３日間、ご苦労だった。これからも、
+line2 <shift> # わが社のホープとして、励んでくれたまえ」
+display
+com4a 0 0
+com4a 0 0
+com11 0 0
+sound 10003
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「では、君たちのアイドルランク報告だ！」
+display
+location 200
+com11 0 0
+sound 10004
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「ランクＦに、ランクＵＰしたようだな！
+line2 <shift> # だが、ここからは、そう甘くないぞ」
+display
+com11 0 0
+sound 10043
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「君達の同期にも、かなり有望な新人が、
+line2 <shift> # 現れたようだからな」
+display
+com11 0 0
+sound 10005
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「思わず録画してしまったのだが、
+line2 <shift> # ほら、この娘だよ……」
+display
+com4a 0 0 131 115 131 98 129 73
+display
+location 1
+com11 0 0
+sound 10006
+com4c 0 1
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ふぅ〜ん……。まあまあ、いいカンジじゃない。
+line2 <shift> # 社長、これ、誰が歌ってるの？」
+display
+com11 0 0
+sound 10007
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「うむ。この子は、四条貴音！　最近、勢いを増
+line2 <shift> # してきた、９６１プロ所属の新人アイドルだよ」
+display
+com11 0 0
+sound 10008
+com4c 0 2
+name 0 0 <names:4>  # Takane
+line1 <shift> # 「トップアイドルの座は、私がもらいうけます」
+display
+com11 0 0
+sound 10009
+com4c 0 2
+name 0 0 <names:4>  # Takane
+line1 <shift> # 「私とともに歩む者には、
+line2 <shift> # 心地よい夢を与えましょう」
+display
+com11 0 0
+sound 10010
+com4c 0 1
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「『トップアイドルの座は私がもらいうける』
+line2 <shift> # ですって！」
+display
+com11 0 0
+sound 10011
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「彼女はファンの間で『銀色の王女』と呼ばれて
+line2 <shift> # いるらしい。確かに、高貴な雰囲気だね」
+display
+com11 0 0
+sound 10012
+com4c 0 1
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「王女？　ふ〜ん。生意気ね。どう考えても、
+line2 <shift> # 王女という名は、私にふさわしいのに」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「王女ねえ。確かに伊織も四条貴音も、
+line2 <shift> # アイドルというよりは、そんな感じだよな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「しかし……、四条貴音、どこかで見たことが
+line2 <shift> # あるような、ないような……、あっ！」
+display
+com11 0 0
+sound 10013
+com4c 0 1
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「どうしたの？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「初日に、俺が女の子に会ったって、言ってた
+line2 <shift> # だろ？　間違いない。その子が、この……」
+com03 0 3
+choice1 <shift> # 四条貴音なんだ！
+line2
+com09 0 10
+com08
+choice2 <shift> # 四条貴美なんだ！
+line2
+com09 0 11
+com08
+choice3 <shift> # 四条河原なんだ！
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「四条貴音なんだ！」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「四条貴美なんだ！」
+display
+com11 0 0
+sound 10014
+com4c 0 1
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「はぁ？　貴美って誰よ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ま、間違えた……。四条貴音だ！」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「四条河原なんだ！」
+display
+com11 0 0
+sound 10015
+com4c 0 1
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「え？　もしかして、
+line2 <shift> # 本名は、そういう名前なの？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、間違えた、四条貴音だ！　……なんで、
+line2 <shift> # 四条河原なんて言ったんだ、俺？」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10016
+com4c 0 1
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ふ〜ん、あの娘がねえ。
+line2 <shift> # ……まあ、なかなかおもしろくなってきたわね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おもしろい？」
+display
+com11 0 0
+sound 10017
+com4c 0 1
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「王女と呼ばれる者は、同じ時代に、
+line2 <shift> # ２人も必要ないわ」
+display
+com11 0 0
+sound 10018
+com4c 0 1
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「伊織ちゃんのトップアイドル伝説をいろどる、
+line2 <shift> # 脇役にしては、申し分ないじゃない！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （いつの間に、伊織が王女になってるんだ。
+line2 <shift> # ……まあ、やる気があるのはいいことなのかな）
+display
+com11 0 0
+sound 10019
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「確かに、目標にするには申し分ない相手だな。
+line2 <shift> # 四条君は、まだデビューしたばかりだが……」
+display
+com11 0 0
+sound 10020
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「新人アイドルの中では、人気ナンバー１。
+line2 <shift> # まさに、新進気鋭だ。それになんと言っても！」
+display
+com11 0 0
+sound 10021
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「９６１プロが打ち出している『Ｐｒｏｊｅｃｔ
+line2 <shift> # Ｆａｉｒｙ』のアイドルだからね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「『Ｐｒｏｊｅｃｔ　Ｆａｉｒｙ』？
+line2 <shift> # それってなんですか？　すみません。不勉強で」
+display
+com11 0 0
+sound 10022
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「うむ。『Ｐｒｏｊｅｃｔ　Ｆａｉｒｙ』とは、
+line2 <shift> # ９６１プロの黒井社長自らが、手がける……」
+display
+com11 0 0
+sound 10023
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「アイドルの一大プロジェクトだ。これに属する
+line2 <shift> # 子は、大々的に売り出されることになるだろう」
+display
+com11 0 0
+sound 10024
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「９６１プロの途方もない財力のバックアップを
+line2 <shift> # 受けてね。それが黒井社長のやり方だからな」
+display
+com11 0 0
+sound 10025
+com4c 0 1
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「お金で解決ってワケ〜？　まあ、それぐらいの
+line2 <shift> # ハンデをあげて、いい勝負ってところね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ハンデって……、７６５プロだって、全力で、
+line2 <shift> # 伊織をバックアップするぞ！　ね、社長！」
+display
+com11 0 0
+sound 10026
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「そうだぞ水瀬君。人的サポートは任せてくれた
+line2 <shift> # まえ！　お金は……、まぁ、あまり期待せずに」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うっ……。そ、そうですか……」
+display
+com11 0 0
+sound 10027
+com4c 0 1
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「私に、お金なんて必要ないわ。いざとなれば、
+line2 <shift> # 水瀬財閥のバックアップも可能だし」
+display
+com11 0 0
+sound 10028
+com4c 0 1
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「正々堂々、オーディションで勝ち抜いて、
+line2 <shift> # 頂点に立ってやるわ！」
+display
+com11 0 0
+sound 10029
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「うむ。アイドルランクを上げてゆき、ＩＵ（ア
+line2 <shift> # イドルアルティメイト）優勝を目指したまえ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あの、質問ばっかりで、すみません。
+line2 <shift> # 『ＩＵ』っていうのは、歌番組の名前ですか？」
+display
+com11 0 0
+sound 10030
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「そうだ。年に１度だけ開かれ、真のトップアイ
+line2 <shift> # ドルが誰なのかを決める番組。それがＩＵだよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「真のトップアイドル……」
+display
+com11 0 0
+sound 10031
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「そうだ。番組の予選は数回にわけて行われる。
+line2 <shift> # 予選に勝てば、アイドルランクも上昇するぞ」
+display
+com11 0 0
+sound 10032
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「そして、ランクＡまで上り詰めた者だけが、
+line2 <shift> # 番組内で行われる本選に参加できるのだ」
+display
+com11 0 0
+sound 10033
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「ＩＵの優勝者は、たった１人。もし、
+line2 <shift> # 途中の予選や、本選で敗退すれば……」
+display
+com11 0 0
+sound 10034
+com4c 0 1
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「敗退すれば……？」
+display
+com11 0 0
+sound 10035
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「敗者の汚名だけが残る。たいていは、
+line2 <shift> # そのまま引退、というケースが多いな……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「厳しいですね……。どうする、伊織？　今なら
+line2 <shift> # まだ、普通の女の子に戻ることもできるんだぞ」
+display
+com11 0 0
+sound 10036
+com4c 0 1
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「戻るのはムリね。だって私、最初から、
+line2 <shift> # 普通じゃない、特別な女の子だもの！」
+display
+com11 0 0
+sound 10037
+com4c 0 1
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「本当の王女というものが、どんなものか、
+line2 <shift> # アイツに、わからせてやるわ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、よく言った！
+line2 <shift> # 必ず、トップアイドルになろうな、伊織！」
+display
+com11 0 0
+sound 10038
+com4c 0 1
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「なろうな、じゃなくて、してみせるぞ！
+line2 <shift> # でしょ〜！？」
+display
+com11 0 0
+sound 10039
+com4c 0 1
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「私は、まったく問題ないんだから、
+line2 <shift> # あとは、アンタが、がんばんなさい」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「くっ、『一緒にがんばりましょ♪』とか、
+line2 <shift> # 言ってくれてもいいのに……」
+display
+com11 0 0
+sound 10040
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「いずれ、９６１プロのアイドルと、
+line2 <shift> # オーディションで会うこともあるだろうが……」
+display
+com11 0 0
+sound 10041
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「君達の勝利を、私は信じている。君達と
+line2 <shift> # ファンとで、伝説を作ってくれたまえ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「はい！　よーし、伊織。
+line2 <shift> # ふたりで、めざすは！」
+display
+com11 0 0
+sound 10042
+com4c 0 1
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「トップアイドル〜！　にひひっ♪」
+display
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （こうして、伊織と俺の、
+line2 <shift> # 熱く厳しい戦いは、幕を開けたのだった……）
+display
+location 100
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ＴＶデビューを果たすことができた。
+line2 <shift> # しかし、ここからが戦いなんだ…………！）
+display
+location 101
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もっと早く色々片付けていれば
+line2 <shift> # もう１レッスンできたかも……」
+display
+location 102
+com11 0 0
+sound 10007
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「３日間、ご苦労だった。これからも
+line2 <shift> # わが社のホープとして、励んでくれたまえ」
+display
+com4a 0 0
+com11 0 0
+sound 10008
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「では、君たちのアイドルランク報告だ！」
+display
+location 200
+com11 0 0
+sound 10009
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「ランクＦに、ランクＵＰしたようだな！
+line2 <shift> # だがここからは、そう甘くないぞ」
+display
+com11 0 0
+sound 10010
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「実は……、ランクＦより上のランクには、
+line2 <shift> # ランクＵＰの『リミット』回数がある」
+display
+com4a 0 0
+com11 0 0
+sound 10011
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「ランクＦならば、ランクＦになってから
+line2 <shift> # 活動１０週以内に、ファンを１万人集めて」
+display
+com11 0 0
+sound 10012
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「次のランクＥになれなければ……、
+line2 <shift> # ユニットは『活動停止』となる！」
+display
+com11 0 0
+sound 10013
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「リミットまでの残り活動週は、毎朝
+line2 <shift> # 表示されるので、確認してくれ！」
+display
+com4a 0 0
+com11 0 0
+sound 10014
+com4c 0 0
+name 0 2 <names:3>  # President
+line1 <shift> # 「では次回より、リミット回数も意識して
+line2 <shift> # プロデュースに励んでくれたまえ」
+display
+location 103
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ファンからのプレゼントをチェックして帰るか」
+display
+location 201
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （次の活動では、デビュー曲を決めて
+line2 <shift> # いよいよオーディションだ！）
+display
+unk02

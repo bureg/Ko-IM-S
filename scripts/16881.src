@@ -1,0 +1,240 @@
+com2c 0 59
+com2d 0 33
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃあ、キャンペーン販売、開始しようか」
+display
+com11 0 4
+sound 900
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「プロデューサー。このストラップ、マキシ
+line2 <shift> # シングルのオマケですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、販促グッズだ。買ってくれた人全員に、
+line2 <shift> # プレゼントする」
+display
+com11 0 4
+sound 901
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「この人形、私がモデルなんですね！
+line2 <shift> # ……プロデューサー型のは、ないんですか？」
+com03 0 3
+choice1 <shift> # いま、開発中だよ
+line2
+com09 0 10
+com08
+choice2 <shift> # あるわけないだろ
+line2
+com09 0 11
+com08
+choice3 <shift> # あったら、欲しい？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いま、開発中だよ」
+display
+com11 0 4
+sound 902
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そうなんだーっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……なんてな」
+display
+com11 0 4
+sound 903
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あ……えへへ、引っかかっちゃいました」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あるわけないだろ」
+display
+com11 0 4
+sound 904
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「で、でも、いっしょにつければ、数も増えて、
+line2 <shift> # なんか得した気分に……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「な、なんでもつけりゃいいってもんじゃない
+line2 <shift> # よ」
+display
+com11 0 4
+sound 905
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そうですか。いろいろ、むずかしいんです
+line2 <shift> # ね……」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あったら、欲しい？」
+display
+com11 0 4
+sound 906
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「……いらないかも」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え、そ、そうか……。そうだよな」
+com09 0 19
+display
+location 19
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「油売ってないで、そろそろ、ＣＤ売ろうか」
+display
+com11 0 4
+sound 908
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はいっ！　マキシシングル、いかがですかーっ。
+line2 <shift> # 今なら抽選で、ストラップがついてきまーす！」
+com03 0 2
+choice1 <shift> # もれなく、ついてきまーす
+line2
+com09 0 20
+com08
+choice2 <shift> # ついてきまーす
+line2
+com09 0 21
+com08
+com07
+com09 0 21
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もれなく、ついてきまーす」
+display
+com11 0 4
+sound 909
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えっ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「抽選じゃないだろ？」
+display
+com11 0 4
+sound 910
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あああ、そうでしたっ！」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ついてきまーす」
+display
+com11 0 4
+sound 911
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あ、えっと……これ、抽選で当たるんですよ
+line2 <shift> # ね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……いや、全員にプレゼント」
+display
+com11 0 4
+sound 912
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ごめんなさい〜、ウソ言っちゃいましたっ」
+com09 0 29
+display
+location 29
+com11 0 4
+sound 913
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ストラップ、買ってくださーい！
+line2 <shift> # ＣＤもセットになってまーす！」
+com03 0 2
+choice1 <shift> # まーす
+com09 0 30
+com08
+choice2 <shift> # えっ！？
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まーす」
+display
+com11 0 4
+sound 914
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えっ、２枚ですかっ！？　ありがとうございま
+line2 <shift> # すーっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （売れ行きは好調だ！　販促グッズと、
+line2 <shift> # 努力の成果だな）
+display
+com11 0 4
+sound 915
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うっうー、たくさん売るのって、気持ちいいか
+line2 <shift> # もっ！」
+display
+com11 0 4
+sound 916
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「大サービス！　いま買うと、もう１枚プレゼン
+line2 <shift> # トー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……こらっ」
+com09 0 39
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ！？」
+display
+com11 0 4
+sound 917
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ど、どうしましたっ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それって、変じゃないか？　ストラップと
+line2 <shift> # ＣＤがセットになってるわけじゃ……」
+display
+com11 0 4
+sound 918
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「でもー、そんなに問題ないですよね？　結局、
+line2 <shift> # 両方ともお客さんにいくんだし……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、まあな……」
+display
+com11 0 4
+sound 919
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ちょっと言い方を変えると、おもしろいかなあ
+line2 <shift> # って、思ったんですけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか、ごめん……」
+display
+com11 0 4
+sound 920
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ああっ！？　お、お客さん、待ってぇ！
+line2 <shift> # ああああっ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （つまらないことを、気にかけてるうちに
+line2 <shift> # お客を逃してしまった……）
+com09 0 39
+display
+location 39
+unk02

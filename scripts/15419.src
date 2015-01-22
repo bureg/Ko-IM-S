@@ -1,0 +1,562 @@
+com2c 0 24
+com2d 0 31
+com32 0 0
+com11 0 0
+sound 10000
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うっうー！
+line2 <shift> # きいて下さい、プロデューサー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうしたんだ、やよい。うれしそうだな」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「私の口グセをマネしてる人がいたんですよー。
+line2 <shift> # それが何だか、うれしくって」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うん？　やよいの口グセっていうと……」
+com03 0 3
+choice1 <shift> # うっうー？
+com09 0 10
+com08
+choice2 <shift> # ハイ、ターッチ？
+line2
+com09 0 11
+com08
+choice3 <shift> # びよびよーん？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「『うっうー？』」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「正解でーっす！　うっうー！」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「『ハイ、ターッチ！』か？」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あの、それは口グセじゃないですよ？
+line2 <shift> # えっと……、口じゃなくて手だから、手グセ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それも何か、違うんじゃないか？」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うう、そうかもですね……。でも、とにかく、
+line2 <shift> # 『ハイ、ターッチ』じゃないんです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う〜ん、他のやよいの口グセっていうと、
+line2 <shift> # 『うっうー！』とか？」
+com09 0 13
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「『びよびよーん』か？」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「そうです、プロデューサー！
+line2 <shift> # びよびよ〜ん……」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「……え？　び、びよびよ〜ん？
+line2 <shift> # わ、私、そんな口グセ、無いですよ〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか？　ほら、ポシェット持ちながら、
+line2 <shift> # やってなかったっけ？」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うう〜。そんなこと、
+line2 <shift> # たぶん、一度も、やったことないですよー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか。俺のカン違いだったかな……。
+line2 <shift> # でも、一度くらいやってほしい」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ええっ！？　ど、どうしてそんなことを？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なんとなく見たいんだ」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うう……。わ、わかりました」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「びよびよ〜ん！！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おっ！　なかなかいいな！」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あの、そんなことより、プロデューサー。
+line2 <shift> # 私の口グセ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、ああ。そうだったな。
+line2 <shift> # じゃあ、あれかな。『うっうー！』とかか？」
+com09 0 13
+display
+location 13
+com11 0 0
+sound 10012
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「そうです！　うっうー、です！　えへへっ」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、そういうのって、
+line2 <shift> # 売れっ子アイドルならでは、だよな」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ちょっとした口グセをマネされたり、
+line2 <shift> # ファッションの参考にされたり……」
+display
+com11 0 0
+sound 10013
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あっ、そういえば最近、
+line2 <shift> # 私みたいな髪型の子、よく見ます！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それは、やよいが、
+line2 <shift> # みんなの憧れになってるってことだよ」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「憧れですかーっ！　なんだか、ちょっぴり、
+line2 <shift> # くすぐったいかなーって。えへへ」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あの、プロデューサー……。
+line2 <shift> # 私、これからどーしたらいいんでしょうか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え？　どうしたらって？」
+display
+com11 0 0
+sound 10016
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「私、誰かの憧れの人になるなんて、経験なくて。
+line2 <shift> # でも、何かした方がいいんじゃ……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （むう、そうだなあ……）
+com03 0 3
+choice1 <shift> # 憧れの人として頑張る
+line2
+com09 0 30
+com08
+choice2 <shift> # 今のままでいい
+line2
+com09 0 31
+com08
+choice3 <shift> # 次の仕事のミーティング
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やっぱり、みんなの憧れの人として頑張らない
+line2 <shift> # とな。よりアイドルとして、立派になるんだ」
+display
+com11 0 0
+sound 10017
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「アイドルとして立派に……。
+line2 <shift> # 今より、もっとですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだ。皆の憧れということは、皆がやよいの、
+line2 <shift> # 一挙手一投足を見るということだ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ダラダラしていたら、恥ずかしいぞ。今の位置
+line2 <shift> # に満足せず、より上を、目指さないとな！」
+display
+com11 0 0
+sound 10018
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はいっ、わかりました！
+line2 <shift> # がんばりまーっす！」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「今のままで、いいんじゃないか？
+line2 <shift> # そのままのやよいが、憧れなわけだから」
+display
+com11 0 0
+sound 10019
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「でも私、自分が憧れられるような、
+line2 <shift> # スゴい人だなんて、思えないです〜」
+display
+com11 0 0
+sound 10020
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「もっともっとスゴい人にならないと、
+line2 <shift> # ダメなんじゃないかなーって」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーむ。確かに現状に甘んじる姿勢は、良くな
+line2 <shift> # いかもしれない。上を目指すことも、大切だな」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まずは、次の仕事のミーティングだな。
+line2 <shift> # 一歩一歩を大切にしないと……」
+display
+com11 0 0
+sound 10021
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はい、それは確かに、そうかもですけど。
+line2 <shift> # でもあの、ううー、もっと長いことです！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「長いこと？」
+display
+com11 0 0
+sound 10022
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はい。明日のことじゃなくって、
+line2 <shift> # 来年のこととか、そういうのが気になります」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なるほど。長期的な活動を、
+line2 <shift> # どうすればいいのか？　ということだな」
+display
+com11 0 0
+sound 10023
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「そ、それですっ！
+line2 <shift> # さすが、プロデューサーです〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うん。ファンが、より多くなっていくことを考
+line2 <shift> # えると、確かに現状で満足していてはダメだな」
+com09 0 49
+display
+location 49
+com11 0 0
+sound 10024
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「えーと、まず、何をすればいいのかな？
+line2 <shift> # うーんと、ええーと……。うう、わかりません」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それなら、とりあえず、イメチェン……、
+line2 <shift> # つまり、イメージチェンジをしてみるか？」
+display
+com11 0 0
+sound 10025
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「イメチェン……、ですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「より多くのファンを獲得するには、
+line2 <shift> # 違うキャラクターを作り出すのが有効だからな」
+display
+com11 0 0
+sound 10026
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うう……。ちょっと難しいです〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「えーと、つまり、トップアイドルとして輝き
+line2 <shift> # 続けるには、色々な顔が必要ってことだよ」
+display
+com11 0 0
+sound 10027
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「なるほどー！　わかりやすいかもです！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やよいは、今まで、元気な感じで通ってたから、
+line2 <shift> # それとは違う感じにしてみよう。たとえば……」
+com03 0 3
+choice1 <shift> # 物静かな感じ
+line2
+com09 0 50
+com08
+choice2 <shift> # 大人な感じ
+com09 0 51
+com08
+choice3 <shift> # お金持ちな感じ
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「物静かな感じにしてみる、なんてどうだ？
+line2 <shift> # 試しに、ちょっとやってみてくれ」
+display
+com11 0 0
+sound 10028
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はいっ！　じゃ、いきますっ！
+line2 <shift> # あの……、高槻やよい、です……」
+display
+com11 0 0
+sound 10029
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「今日は、みんなと会えて……、
+line2 <shift> # その、とってもうれしいです……」
+display
+com11 0 0
+sound 10030
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「みんなと一緒に、盛り上がれると……、
+line2 <shift> # うれしいかな、なんて……」
+display
+com11 0 0
+sound 10031
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「それじゃあ、ハイ、タ〜ッチ……。
+line2 <shift> # うっうー……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……最後は、ちょっと微妙だったけど、
+line2 <shift> # これは結構、いけるような気がするぞ？」
+display
+com11 0 0
+sound 10032
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「私も、なんだか別人になったみたいで、
+line2 <shift> # ちょっと面白かったです！」
+display
+com11 0 0
+sound 10033
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「でも、いつもの飛んだり跳ねたりをガマン
+line2 <shift> # するのって、すごく疲れますね」
+display
+com11 0 0
+sound 10034
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「１分以上は、ちょっとダメかもですけど、
+line2 <shift> # イメチェン、がんばるぞー、おーっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （やよいの場合、すぐ元気な感じに戻ってしまい
+line2 <shift> # そうだな。でも、やる気があるのは良いことだ）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （しかし、みんなの目を意識して、トップアイ
+line2 <shift> # ドルを目指すなんて、やよいも成長したもんだ）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「大人な感じ、なんてどうだ？
+line2 <shift> # 試しに、ちょっとやってみてくれ」
+display
+com11 0 0
+sound 10035
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はいっ！　じゃ、いきますっ！　……あらあら、
+line2 <shift> # プロデューサーさん、困りました〜」
+display
+com11 0 0
+sound 10036
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「私、道に迷ってしまって。
+line2 <shift> # んー、ここは、どこなのかしら〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……ちょっと待て。
+line2 <shift> # それって、大人な感じじゃないだろ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「というか、明らかに、
+line2 <shift> # 誰かをモデルにしてないか？」
+display
+com11 0 0
+sound 10037
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「え？　はい、私が憧れる、大人っぽい人を、
+line2 <shift> # 見本にしてみたんですけど……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う〜ん、やっぱりマネはダメだろう。
+line2 <shift> # やよいオリジナルの大人で頼むよ」
+display
+com11 0 0
+sound 10038
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うう、そうなんですか……。
+line2 <shift> # それじゃあ……」
+display
+com11 0 0
+sound 10039
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「私、昨日の夜もパーティーでしたの。
+line2 <shift> # 今日は遠慮しておきますわ」
+display
+com11 0 0
+sound 10040
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「まあ、素敵な殿方ですこと。
+line2 <shift> # 私と、パーティーで、おどって下さらない？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……やよいの『大人』の認識って、
+line2 <shift> # なんかちょっと、変なんだな」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （不思議キャラとしては、おもしろいが、
+line2 <shift> # このキャラは、やよいに合ってない気がする）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お金持ちな感じ、なんてどうだ？
+line2 <shift> # 試しに、ちょっとやってみてくれ」
+display
+com11 0 0
+sound 10041
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ええっ。全然わからないかも。うう、困り
+line2 <shift> # ましたー……。でも、なんとかやってみます！」
+display
+com11 0 0
+sound 10042
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「プロデューサー！　私、なんと昨日に続いて、
+line2 <shift> # 今日も牛肉を食べちゃったのよ！　にひひっ♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……いや、やよい。別にお金持ちじゃなくても、
+line2 <shift> # 牛肉ぐらい食べるから」
+display
+com11 0 0
+sound 10043
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「そ、そうなんですかっ！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うん。明治時代じゃないんだからさ。
+line2 <shift> # それに、今の話し方、誰かのマネだろ？」
+display
+com11 0 0
+sound 10044
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うう、ごめんなさい。マネはダメですよね？
+line2 <shift> # そ、それじゃ……」
+display
+com11 0 0
+sound 10045
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「私っ、スーパーでは値引きシールのついた
+line2 <shift> # 物なんて、買いませんっ！」
+display
+com11 0 0
+sound 10046
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「閉店直前とか、雨の日お得市とか、
+line2 <shift> # 火曜特売なんて、目もくれませんっ！」
+display
+com11 0 0
+sound 10047
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あと、あと、ポイントカードを、
+line2 <shift> # 忘れても、買い物しちゃいますよーっ！」
+display
+com11 0 0
+sound 10048
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「……はぁはぁ。ううう〜。自分で言ってて、
+line2 <shift> # 何だか胸が、苦しくなってきました」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……たびたびすまんが、やよい、
+line2 <shift> # お金持ちは多分、スーパーには行かないぞ？」
+display
+com11 0 0
+sound 10049
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ええーっ！？
+line2 <shift> # じゃ、じゃあ、どこに行くんですかっ？」
+display
+com11 0 0
+sound 10050
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「もしかして……、で、デパートですか！？」
+display
+com11 0 0
+sound 10051
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「デパートは、あんまり行ったことがないから、
+line2 <shift> # 良くわからないかも……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う〜ん。お金持ちな感じを目指すのは、
+line2 <shift> # 根本的に間違ってる気がしてきたな」
+display
+com11 0 0
+sound 10052
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ううー、ごめんなさい〜。
+line2 <shift> # もうちょっと、がんばりますー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （やよいで金持ちキャラは、意外性があって
+line2 <shift> # いいかと思ったが、さすがに無茶だったか）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後も、やよいは、何とか金持ちっぽく
+line2 <shift> # しようと、色々やっていたが……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ムリがたたったのか、熱を出してしまった。
+line2 <shift> # やはり自然が、１番だな……）
+com09 0 69
+display
+location 69
+unk02

@@ -1,0 +1,428 @@
+com2c 0 113
+com2d 0 111
+com2e 0 121
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （なんだか、早起きしてしまったな！
+line2 <shift> # 事務所へ行く前に、寄り道でもしてみようか？）
+com03 0 2
+choice1 <shift> # どこかに寄り道する
+line2
+com09 0 10
+com08
+choice2 <shift> # まっすぐ事務所に行く
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うーん、早起きは気持ちいいなあ！　こうして、
+line2 <shift> # 散歩してから出社なんてこともできるし！）
+display <shift> # バサッ！　バサッ！
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ん？　今、何かが目の前を、
+line2 <shift> # 飛んでいったような……）
+display <shift> # バサッ！　バサッ！　ピーッ！
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「イテッ、顔にオウムが激突してきたぞ！
+line2 <shift> # なんなんだ、このオウムは！　まさか……」
+display <shift> # がさがさっ！
+display
+com11 0 0
+sound 10000
+com4c 0 1
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「オウ助ー！？　どこ行った、オウ助ー！！
+line2 <shift> # 自分が悪かった！　帰って来い、オウ助ーっ！」
+display
+com11 0 0
+sound 10001
+com4c 0 1
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「自分が、君のおやつのキャベツを勝手に食べた
+line2 <shift> # のは謝る！　だから帰ってきてよーっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （やっぱりな……）
+display
+com11 0 0
+sound 10002
+com4c 0 1
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「ああっ、７６５プロ！　なんでいつも、自分が
+line2 <shift> # 動物を探してる時に、出てくるんだよっ！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなことは、知らん！　響こそ、
+line2 <shift> # なんでいつも動物を逃がしているんだよ？」
+display
+com11 0 0
+sound 10003
+com4c 0 1
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「鳥カゴを開けたら、うっかり逃がしちゃった
+line2 <shift> # だけだよっ！　文句言うな、７６５プロっ！」
+display <shift> # がさがさ……
+display
+com11 0 0
+sound 10004
+com4c 0 2
+name 0 0 <names:3>  # ???
+line1 <shift> # 「響……、見つかったのですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うわ、キレイな子だな……。誰だ？）
+com03 0 3
+choice1 <shift> # 響の友達か？
+line2
+com09 0 20
+com08
+choice2 <shift> # 響の先輩か？
+line2
+com09 0 21
+com08
+choice3 <shift> # 響のお母さんか？
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （いや、やっぱり、まっすぐ出勤しよう！）
+com09 0 99
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「こちらは……、響の友達か？」
+display
+com11 0 0
+sound 10005
+com4c 0 1
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「ああ、貴音？　７６５プロに教えてやる義理は
+line2 <shift> # ないけど、貴音と自分は、事務所の同期さー！」
+display
+com11 0 0
+sound 10006
+com4c 0 1
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「ヒマそうだったから、自分のオウム探すの、
+line2 <shift> # 手伝ってもらってたんだ！」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「こちらは……、響の先輩か？」
+display
+com11 0 0
+sound 10007
+com4c 0 1
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「貴音は年上だけど、事務所では自分と同期さー。
+line2 <shift> # オウム探し、ちょっと手伝ってもらってたんだ」
+display
+com11 0 0
+sound 10008
+com4c 0 1
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「……あっ！　なんで７６５プロに、こんなこと
+line2 <shift> # 教えなきゃいけないんだよっ！　ぷんっ！」
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「こちらは……、響のお母さんか？」
+display
+com11 0 0
+sound 10009
+com4c 0 1
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「うげっ！　７６５プロって、やっぱバカだな！
+line2 <shift> # 自分と貴音、ゼンッゼン似てないさー！」
+display
+com11 0 0
+sound 10010
+com4c 0 1
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「貴音は事務所の同期！　ヒマそうだったから、
+line2 <shift> # オウム探しを手伝ってもらってただけだよ！」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 10011
+com4c 0 2
+name 0 0 <names:4>  # Takane
+line1 <shift> # 「私、四条貴音と申します。
+line2 <shift> # ここにおります、我那覇響と同じく……」
+display
+com11 0 0
+sound 10012
+com4c 0 2
+name 0 0 <names:4>  # Takane
+line1 <shift> # 「９６１プロで、アイドルをしております」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……響とは１８０度違うタイプみたいだな」
+display
+com11 0 0
+sound 10013
+com4c 0 2
+name 0 0 <names:4>  # Takane
+line1 <shift> # 「ふふっ、そうですね。
+line2 <shift> # 私は、響ほど、自由ではありませんし……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「自由？」
+display
+com11 0 0
+sound 10014
+com4c 0 2
+name 0 0 <names:4>  # Takane
+line1 <shift> # 「あ、いえ、何でもありません。
+line2 <shift> # ところで、あなた様は……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、自己紹介がまだだったね。俺は、その、
+line2 <shift> # もう察しがついているとは思うけど……」
+display
+com11 0 0
+sound 10015
+com4c 0 2
+name 0 0 <names:4>  # Takane
+line1 <shift> # 「やはり……、７６５プロの方、なのですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。……君も、黒井社長から、俺達の
+line2 <shift> # 変なウワサ、きかされているのか？」
+display
+com11 0 0
+sound 10016
+com4c 0 2
+name 0 0 <names:4>  # Takane
+line1 <shift> # 「はい。ですが……、黒井社長がおっしゃるほど
+line2 <shift> # の悪人には、とても……、見えませんね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「本当か！？　良かった……。１人でも、
+line2 <shift> # そう言ってくれる人間が、この世にいて……」
+display
+com11 0 0
+sound 10017
+com4c 0 1
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「ぶー！　また、そんなこと言っちゃって。
+line2 <shift> # 貴音はホント、不思議ちゃんだぞ！」
+display
+com11 0 0
+sound 10018
+com4c 0 1
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「ゼッタイ、黒井社長の言うことが正しいってば。
+line2 <shift> # ７６５プロは極悪事務所で決定だーっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だーかーら、それは違うって言ってるだろう？
+line2 <shift> # はあ。参ったな……」
+display
+com11 0 0
+sound 10019
+com4c 0 2
+name 0 0 <names:4>  # Takane
+line1 <shift> # 「ふふっ。先程から、二人の会話を、
+line2 <shift> # きいていると……」
+display
+com11 0 0
+sound 10020
+com4c 0 2
+name 0 0 <names:4>  # Takane
+line1 <shift> # 「まるで、兄妹のようですね」
+display
+com11 0 0
+sound 10021
+com4c 0 1
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「なっ、兄妹っ！？　……あ、でも、そういえば、
+line2 <shift> # 実家の兄貴に、ちょっと感じが似てるかも」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え、そうなのか？　それは……」
+com03 0 3
+choice1 <shift> # 残念だったな
+line2
+com09 0 30
+com08
+choice2 <shift> # 光栄だな
+com09 0 31
+com08
+choice3 <shift> # 迷惑だな
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「残念だったな。俺みたいな兄さんってことは、
+line2 <shift> # 響と仲が悪かったんだろう？」
+display
+com11 0 0
+sound 10022
+com4c 0 1
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「まあね。あーあ！　やっと、うるさい兄貴から、
+line2 <shift> # 離れられたと思ってたのにっ！」
+display
+com11 0 0
+sound 10023
+com4c 0 1
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「似たようなヤツに会っちゃって、おまけに、
+line2 <shift> # そいつが７６５プロだなんて、最悪だよっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まあ、そう言うな。本当の兄さんと思って、相
+line2 <shift> # 談したいことがあったら、何でも言ってくれよ」
+com09 0 39
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「光栄だな。響の兄さんってことは、
+line2 <shift> # けっこう美形ってことだろ？」
+display
+com11 0 0
+sound 10024
+com4c 0 1
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「ううん、そうでもない。
+line2 <shift> # 兄貴は母さん似で、自分は父さん似だからね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ぐ……。そうなのか。まあ、いいや。美形
+line2 <shift> # じゃないとしても、兄さんに似てるよしみだ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺も響を妹だと思うから、
+line2 <shift> # 響も俺を兄さんと思ってくれていいぞ！」
+com09 0 39
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「迷惑だな。響みたいなウルサイ妹、
+line2 <shift> # 俺は御免だからなあ。あはははっ！」
+display
+com11 0 0
+sound 10025
+com4c 0 1
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「むかっ！　こっちだって、
+line2 <shift> # 口うるさい兄貴は、一人で間に合ってるぞっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、でも、もし呼びたければ、
+line2 <shift> # 俺を『兄さん』と呼んでもいいんだぞ？」
+com09 0 39
+display
+location 39
+com11 0 0
+sound 10026
+com4c 0 1
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「だ、誰がっ！　……そうかあ。
+line2 <shift> # 兄貴に似てるから、よけいムカつくのか……！」
+display
+com11 0 0
+sound 10027
+com4c 0 2
+name 0 0 <names:4>  # Takane
+line1 <shift> # 「……よいではありませんか。
+line2 <shift> # この方を、兄君としてお慕い申し上げても」
+display
+com11 0 0
+sound 10028
+com4c 0 2
+name 0 0 <names:4>  # Takane
+line1 <shift> # 「この方の瞳……。ウソは、ありませんよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もちろん、本心だよ。頼りたければ、
+line2 <shift> # 俺を頼ってくれてもかまわない」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「と言っても今は、担当アイドルのことだけで
+line2 <shift> # 必死だから、たいしたこと、できないけどな」
+display
+com11 0 0
+sound 10029
+com4c 0 2
+name 0 0 <names:4>  # Takane
+line1 <shift> # 「あなたは、どうして、響に助力を？
+line2 <shift> # 私達の所属する、９６１プロは……」
+display
+com11 0 0
+sound 10030
+com4c 0 2
+name 0 0 <names:4>  # Takane
+line1 <shift> # 「あなたの事務所とは、敵対関係なのですよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、その通りなんだが、
+line2 <shift> # 強いて言えば……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「プロデューサーの仕事は、頑張るアイドルの、
+line2 <shift> # 応援をすることだから、かな！」
+display
+com11 0 0
+sound 10032
+com4c 0 1
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「……ウソばっか。７６５プロが自分に近づこう
+line2 <shift> # とするのは、弱みをにぎりたいからだよね！？」
+display
+com11 0 0
+sound 10033
+com4c 0 1
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「で、脅迫する気なんだ！　……って黒井社長が
+line2 <shift> # 言ってたぞっ！　その手にはのらないもんね！」
+display
+com11 0 0
+sound 10034
+com4c 0 1
+name 0 0 <names:2>  # Echo
+line1 <shift> # 「もう行くから、オウ助、返して！
+line2 <shift> # じゃ、帰りまーっす！　バイバイっ！」
+display
+com11 0 0
+sound 10035
+com4c 0 2
+name 0 0 <names:4>  # Takane
+line1 <shift> # 「響、失礼なふるまいを……！
+line2 <shift> # そ、それでは、私も失礼いたします」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （むう、黒井社長の７６５プロ嫌いは、筋金いり
+line2 <shift> # だな！　でも、人間性に問題があっても……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （アイドルを見る目だけは、確かみたいだ。響に
+line2 <shift> # しろ貴音にしろ、かなり才能がありそうだぞ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （これは俺達も、相当がんばらないと……。
+line2 <shift> # よーし、早く出勤して、準備するとするか！）
+com09 0 99
+display
+location 99
+unk02

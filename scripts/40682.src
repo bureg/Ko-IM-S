@@ -1,0 +1,387 @@
+com2c 0 24
+com2d 0 71
+com32 0 0
+com11 0 0
+sound 400
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「あ〜、さむっ！　今日は、ちょっと、
+line2 <shift> # 冷え込むなぁ……」
+display
+com11 0 0
+sound 401
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「よし、こんな寒い日は、内緒のあれを、
+line2 <shift> # 食べよっと。はい、レンジでチーンと」
+display
+com11 0 0
+sound 402
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ハフハフ……、アチアチ……」
+display
+com11 0 0
+sound 403
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「……はぁ〜、おいしかった」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なーにを、一人でモグモグ、
+line2 <shift> # 食ってたんだ、律子」
+display
+com11 0 0
+sound 404
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「うわっ！　ぐっ……。プロデューサーに、
+line2 <shift> # 見つかるとは、一生の不覚……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うん？　肉まんか、うまそうじゃないか」
+com03 0 3
+choice1 <shift> # 俺にもひとつくれ
+line2
+com09 0 10
+com08
+choice2 <shift> # 見なかったことにしよう
+line2
+com09 0 11
+com08
+choice3 <shift> # 太るぞ？
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よければ、俺にも、ひとつくれないかな」
+display
+com11 0 0
+sound 405
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「えーっ、いやですよぉ」
+display
+com11 0 0
+sound 406
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「なーんてね。はい、おすそわけ。
+line2 <shift> # 一個だけですよ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ありがとう……、あちち。出来立てだな」
+display
+com11 0 0
+sound 407
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ふふっ、寒い日に食べる肉まんって、
+line2 <shift> # 格別よね」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うむ、見なかったことにしてやろう」
+display
+com11 0 0
+sound 408
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「なんで威張ったように言うのよ、
+line2 <shift> # 偉そうだなぁ……」
+display
+com11 0 0
+sound 409
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ま、いいや。口止め料代わりに、
+line2 <shift> # 肉まん、一個あげます」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「口止めか……。実際、
+line2 <shift> # 隠すほどのことでもないような気もするけどな」
+display
+com11 0 0
+sound 410
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ん、いらないんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、もらうよ。ありがとう」
+display
+com11 0 0
+sound 411
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「秘密にして食べると、普通よりちょっと、
+line2 <shift> # おいしく感じるものなんですよ」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなの食べてると……、太るぞ？」
+display
+com11 0 0
+sound 412
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「余計なお世話です。ま、私って、
+line2 <shift> # そんなに太らない体質なんだけど」
+display
+com11 0 0
+sound 413
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「んー、でも、一人で全部は、
+line2 <shift> # さすがに……、食べすぎかなぁ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いったい、いくつ食べる気なんだ。
+line2 <shift> # 皿に５個くらい盛ってないか？」
+display
+com11 0 0
+sound 414
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「あはは……、気のせいですよ。
+line2 <shift> # 目の錯覚じゃないですか？」
+display
+com11 0 0
+sound 415
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ま、いいや。わけましょ、プロデューサー。
+line2 <shift> # とりあえず、ひとつどうぞ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、もらうよ。
+line2 <shift> # 律子は、肉まん好きなんだな」
+display
+com11 0 0
+sound 416
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ああっと、こんなに食べてるなんて……、
+line2 <shift> # 他の人には言わないで下さいよ？」
+com09 0 19
+display
+location 19
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「しかしそれにしても、肉まんなんて、
+line2 <shift> # いつ買ってきたんだ？」
+display
+com11 0 0
+sound 417
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「これ？　ああ、買ってきたんじゃなくて、
+line2 <shift> # 今朝から事務所に、あったんですよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなの置いてあったっけ？
+line2 <shift> # 俺、気がつかなかったな」
+display
+com11 0 0
+sound 418
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「あったから、あっためたんですよ。社長も、
+line2 <shift> # 『自由に食べていいぞ』って言ってたし」
+display
+com11 0 0
+sound 419
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「どうして、肉まんなんかあったと思います？
+line2 <shift> # 実は、これはね……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、待て。答えは俺が当てよう！」
+com03 0 3
+choice1 <shift> # 誰かの差し入れ
+line2
+com09 0 20
+com08
+choice2 <shift> # 社長の差し入れ
+line2
+com09 0 21
+com08
+choice3 <shift> # 律子の差し入れ
+line2
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「誰かの差し入れだな！」
+display
+com11 0 0
+sound 420
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ピンポーン！　当たりです。でも、
+line2 <shift> # 誰からかは、わかんないだろうなぁ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もしやと思うが……、律子の差し入れかな？」
+display
+com11 0 0
+sound 421
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「うーん、惜しい。
+line2 <shift> # 私の実家から、送られてきたんです」
+display
+com11 0 0
+sound 422
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「みんなで食べて下さい、ってことで、
+line2 <shift> # 事務所宛てに送られてきたんですよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なるほど……。しかし何故に肉まん？　もち
+line2 <shift> # ろん今日みたいな冷える日には、嬉しいけどな」
+display
+com11 0 0
+sound 423
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「細かいことは、いいからいいから。
+line2 <shift> # まぁ、とりあえず、食べましょ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだな、冷める前にいただこう。
+line2 <shift> # さて、もうひとつもらおうか……」
+display
+com11 0 0
+sound 424
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ええっ、まだ食べるんですか！
+line2 <shift> # しょうがないなぁ」
+display
+com11 0 0
+sound 425
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「じゃ、ほら。最後に残った一個を、
+line2 <shift> # 半分こです。はい、どうぞ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （笑いながら、律子は俺に、
+line2 <shift> # 肉まんを半分くれた）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （窓を冷たい風が打つ中、律子と一緒に食べる
+line2 <shift> # 肉まんは、とてもあたたかく思えた）
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「社長の差し入れだな！」
+display
+com11 0 0
+sound 426
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「半分ピンポーン、半分ブブー」
+display
+com11 0 0
+sound 427
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ま、元は社長宛てに送られてきたものだから、
+line2 <shift> # 社長提供なのは、正解なんだけどね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「しかし、事務所の社長のデスクには、
+line2 <shift> # 肉まんなんてなかったような……」
+display
+com11 0 0
+sound 428
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「あ、事務所には、おやつの隠し場所が、
+line2 <shift> # いくつかあるんですよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうなのか。
+line2 <shift> # 道理で俺が、気づかなかったわけだ」
+display
+com11 0 0
+sound 429
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ま、隠してあると言っても、
+line2 <shift> # 公然の秘密なんですけどね……」
+display
+com11 0 0
+sound 430
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「私、前から、社長にお茶いれたりすること、
+line2 <shift> # 多かったから。よく知ってるんです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なるほどな。でも何故、
+line2 <shift> # 社長宛てに肉まん……？」
+display
+com11 0 0
+sound 431
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「さぁ？　とりあえず、食べましょ。
+line2 <shift> # あったかいうちに」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （律子が食べることを見越して、
+line2 <shift> # 肉まんにしたんじゃないだろうか）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （……とは思ったが今は口に出さず、二人で
+line2 <shift> # 食べて、温まることにした。うまいな、これ）
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「律子の差し入れだな！」
+display
+com11 0 0
+sound 432
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「半分ピンポーン、半分ブブー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うん？　半分は、あたりなのか。……って
+line2 <shift> # ことは、やっぱり、律子が絡んでいるんだな」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「律子が肉まんを手配するなんて、さては、
+line2 <shift> # 何か裏があるんだろう？」
+display
+com11 0 0
+sound 433
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「失礼ですねー。半分は私だけど、半分は、
+line2 <shift> # 違うんですから。そんなのないですよ」
+display
+com11 0 0
+sound 434
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「だいたい、もし私がプロデューサーを陥れる
+line2 <shift> # つもりなら、普通の肉まんなんか渡しませんよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「何っ、普通じゃないのを、よこすのか！」
+display
+com11 0 0
+sound 435
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ふふふ……。そうですね。特製の、
+line2 <shift> # 危ない肉まんを用意するでしょうね」
+display
+com11 0 0
+sound 436
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「カラシが山盛りに入ってるとか、肉が入って
+line2 <shift> # ないのとか、肉まんに見せかけた大福とか」
+display
+com11 0 0
+sound 437
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「あはは……。プロデューサーに渡すと
+line2 <shift> # わかっていれば、そんな仕込みもしたかも」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「な、なぁ。この肉まん、ほんとに、
+line2 <shift> # 大丈夫だろうな？」
+display
+com11 0 0
+sound 438
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「失礼な、ただのおいしい肉まんですよ。
+line2 <shift> # 欲しくても、もうあげませんからね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （残りの肉まんを抱えて、律子は、
+line2 <shift> # さっさと別の部屋に行ってしまった）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （律子は、ただの肉まん好きではないと思ったん
+line2 <shift> # だけど……。事情はもう、知るよしもないな）
+com09 0 29
+display
+location 29
+unk02

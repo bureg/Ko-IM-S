@@ -1,0 +1,524 @@
+com2c 0 21
+com2c 0 118
+com2d 0 21
+com2e 0 121
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （はあ……。何だか異常に疲れたな……。
+line2 <shift> # 初日の緊張からなのか、それとも……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺なんかが伊織を上手く育てていけるのかな？
+line2 <shift> # うまくやっていけるといいけど……）
+display
+com11 0 0
+sound 10000
+com4c 0 1
+name 0 0 <names:2>  # ???
+line1 <shift> # 「ちょっと〜、プロデューサー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ？」
+display
+com11 0 0
+sound 10001
+com4c 0 1
+name 0 0 <names:2>  # ???
+line1 <shift> # 「待ちなさいよ〜、もう〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （この俺を呼ぶ声は、もしや……！？）
+com03 0 3
+choice1 <shift> # 伊織！
+com09 0 10
+com08
+choice2 <shift> # 伊織様！
+com09 0 11
+com08
+choice3 <shift> # デコちゃん！
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「伊織じゃないか！　どうしたんだ、一体？」
+display
+com11 0 0
+sound 10002
+com4c 0 1
+name 0 0 <names:3>  # Iori
+line1 <shift> # 「えっと、まあ……、いっしょに帰って
+line2 <shift> # あげようかなあって思って」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「伊織様！　どうされたのですか？」
+display
+com11 0 0
+sound 10003
+com4c 0 1
+name 0 0 <names:3>  # Iori
+line1 <shift> # 「あら、今日１日で、ずいぶんと下僕の心得、
+line2 <shift> # わかってきた感じじゃない♪」
+display
+com11 0 0
+sound 10004
+com4c 0 1
+name 0 0 <names:3>  # Iori
+line1 <shift> # 「ごほうびとして、
+line2 <shift> # 特別に、一緒に帰ってあげるわ♪」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「デコちゃん！　どうしたんだ？」
+display
+com11 0 0
+sound 10005
+com4c 0 1
+name 0 0 <names:3>  # Iori
+line1 <shift> # 「ムッカー！　ちょっと、何よ、その呼び方！
+line2 <shift> # 私のおでこがデカいとか、そういうこと！？」
+display
+com11 0 0
+sound 10006
+com4c 0 1
+name 0 0 <names:3>  # Iori
+line1 <shift> # 「せっかく、一緒に帰ってあげようと思って、
+line2 <shift> # 声をかけたのに！　もういいわ、私、帰る！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、伊織、カン違いしないでくれ！
+line2 <shift> # 今のデコは、おでこのデコじゃないんだ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ほら、アールデコとかのデコだよ。モダンな
+line2 <shift> # 感じというか、とにかくいい感じなんだよ？」
+display
+com11 0 0
+sound 10007
+com4c 0 1
+name 0 0 <names:3>  # Iori
+line1 <shift> # 「はてしなく、ウソくさいわね……。まあ、
+line2 <shift> # いいわ。それじゃ、一緒に帰ってあげる」
+com09 0 19
+display
+location 19
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うう、一緒に帰ろうだなんて……。やっぱり、
+line2 <shift> # 伊織は、やさしくて、いい娘なんだな！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （一瞬でも、育てていく自信がないと思う
+line2 <shift> # なんて……。俺も、バカなことを考えたもんだ）
+display
+com11 0 0
+sound 10008
+com4c 0 1
+name 0 0 <names:3>  # Iori
+line1 <shift> # 「にひひっ♪　帰り道で、今日教えたりなかった、
+line2 <shift> # 下僕の心得、たっぷり教えてあげるわね♪」
+display
+com11 0 0
+sound 10009
+com4c 0 1
+name 0 0 <names:3>  # Iori
+line1 <shift> # 「まずは、下僕の心得その１！　いついかなる時
+line2 <shift> # でも、伊織ちゃんのことを考え続けること！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……前言撤回）
+display
+com22 0 30
+com21 0 30
+com32 0 1
+com11 0 0
+sound 10010
+com4c 0 1
+name 0 0 <names:3>  # Iori
+line1 <shift> # 「ところでプロデューサー、ノドかわかない？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……まあ、下僕の心得もすでに９７個目だしな。
+line2 <shift> # それだけ、話したら、ノドもかわくよ」
+display
+com11 0 0
+sound 10011
+com4c 0 1
+name 0 0 <names:3>  # Iori
+line1 <shift> # 「ねえ、私、アレが飲みたいわ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え？」
+display
+com11 0 0
+sound 10012
+com4c 0 1
+name 0 0 <names:3>  # Iori
+line1 <shift> # 「今さら言わなくても、ノドがかわいた私が、
+line2 <shift> # 何を欲しいか、わかるわよね〜？」
+com03 0 3
+choice1 <shift> # １００％オレンジジュース
+line2
+com09 0 20
+com08
+choice2 <shift> # １００％リンゴジュース
+line2
+com09 0 21
+com08
+choice3 <shift> # ホットおしるこ
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「果汁１００％のオレンジジュースだよな」
+display
+com11 0 0
+sound 10013
+com4c 0 1
+name 0 0 <names:3>  # Iori
+line1 <shift> # 「あったり〜！　私の好み、
+line2 <shift> # ちゃんと覚えたみたいね。感心、感心！」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「果汁１００％のリンゴジュースだよな」
+display
+com11 0 0
+sound 10014
+com4c 0 1
+name 0 0 <names:3>  # Iori
+line1 <shift> # 「リンゴじゃないわ、オレンジよ、オレンジ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうだったか。すまない」
+display
+com11 0 0
+sound 10015
+com4c 0 1
+name 0 0 <names:3>  # Iori
+line1 <shift> # 「まったく……、ツメが甘いんだから。
+line2 <shift> # そんなんじゃ、王子さまには、なれないわよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うん？　何か言ったか？」
+display
+com11 0 0
+sound 10016
+com4c 0 1
+name 0 0 <names:3>  # Iori
+line1 <shift> # 「なんでもないわよ、フン」
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ホットおしるこが欲しいんだよな」
+display
+com11 0 0
+sound 10017
+com4c 0 1
+name 0 0 <names:3>  # Iori
+line1 <shift> # 「そうそう、やっぱりノドがかわいたときは、
+line2 <shift> # あつ〜いおしるこで、ほっと一息が定番よね！」
+display
+com11 0 0
+sound 10018
+com4c 0 1
+name 0 0 <names:3>  # Iori
+line1 <shift> # 「……って、そんなワケないでしょー！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「伊織、ノリつっこみが上手なんだな！
+line2 <shift> # これはプロデュース方針を考えなおさないと」
+display
+com11 0 0
+sound 10019
+com4c 0 1
+name 0 0 <names:3>  # Iori
+line1 <shift> # 「考えなおさなくてもいいわよ！　もう〜。
+line2 <shift> # １００％オレンジジュース、覚えなさいよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うう……、覚えておきます……」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 10020
+com4c 0 1
+name 0 0 <names:3>  # Iori
+line1 <shift> # 「それじゃ、行ってらっしゃ〜い。あ、ホントに、
+line2 <shift> # ノドかわいてるんだから、急いでね♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わかった、なるべく急いで買ってくる。
+line2 <shift> # 暗いところに行っちゃダメだぞ」
+display
+com22 0 30
+com21 0 30
+com32 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （くっ、果汁２％のオレンジジュースなら
+line2 <shift> # 売ってるのに、１００％となると……）
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （１００％オレンジジュースが売ってる、
+line2 <shift> # 自販機なんてあるのか……）
+com09 0 100
+display
+location 30
+location 100
+com11 0 0
+sound 10021
+com4c 0 1
+name 0 0 <names:3>  # Iori
+line1 <shift> # 「ちょっとー、こんなところにいたのね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「この声は……、伊織！？」
+display
+com11 0 0
+sound 10022
+com4c 0 1
+name 0 0 <names:3>  # Iori
+line1 <shift> # 「もう〜、アンタ、どこまで買い物に、
+line2 <shift> # 行ってるのよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「買い物……、ハッ、そうだった！
+line2 <shift> # 俺は伊織のジュースを買おうとして！」
+display
+com11 0 0
+sound 10023
+com4c 0 1
+name 0 0 <names:3>  # Iori
+line1 <shift> # 「……何、寝ぼけてんのよ？　何かあったの？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、実は、この子と話をしていて……」
+display
+com11 0 0
+sound 10024
+com4c 0 1
+name 0 0 <names:3>  # Iori
+line1 <shift> # 「この子？　この子って、どの子よ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いやだから、そこにいる……、あれ？」
+display
+com11 0 0
+sound 10025
+com4c 0 1
+name 0 0 <names:3>  # Iori
+line1 <shift> # 「だーれもいないわよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんな……」
+display
+com11 0 0
+sound 10026
+com4c 0 1
+name 0 0 <names:3>  # Iori
+line1 <shift> # 「言い訳なら、もっと上手い言い訳を、
+line2 <shift> # 考えなさいよね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「い、いや決して言い訳なんかじゃ……！」
+com03 0 3
+choice1 <shift> # 夢でも見てたのか……？
+line2
+com09 0 40
+com08
+choice2 <shift> # 隠れてないで、出てきてくれー！
+line2
+com09 0 41
+com08
+choice3 <shift> # 伊織、どこに隠したんだ？
+line2
+com09 0 42
+com08
+com07
+com09 0 42
+com08
+display
+location 40
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも……、もしかしたら、
+line2 <shift> # 夢でも見てたのか……？」
+display
+com11 0 0
+sound 10027
+com4c 0 1
+name 0 0 <names:3>  # Iori
+line1 <shift> # 「アンタがどんな夢を見たのかはわからないけど、
+line2 <shift> # どうせなら、私の夢を見なさいよ」
+display
+com11 0 0
+sound 10028
+com4c 0 1
+name 0 0 <names:3>  # Iori
+line1 <shift> # 「その方が、精神衛生上も、これからの活動にも、
+line2 <shift> # プラスに働くに違いないわ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……言われてみれば、そうかもしれないな）
+com09 0 49
+display
+location 41
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お〜い！　隠れてないで、出てきてくれー！」
+display
+com11 0 0
+sound 10029
+com4c 0 1
+name 0 0 <names:3>  # Iori
+line1 <shift> # 「……誰も出てこないわよ。
+line2 <shift> # まったく、往生際が悪いわねー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うう、でも、確かに……」
+com09 0 49
+display
+location 42
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「伊織、どこに隠したんだ？」
+display
+com11 0 0
+sound 10030
+com4c 0 1
+name 0 0 <names:3>  # Iori
+line1 <shift> # 「え？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あの子、伊織が隠したんだろ？
+line2 <shift> # そうとしか思えない」
+display
+com11 0 0
+sound 10031
+com4c 0 1
+name 0 0 <names:3>  # Iori
+line1 <shift> # 「ちょっと、なにワケわかんないこと、
+line2 <shift> # 言ってんのよ！」
+display
+com11 0 0
+sound 10032
+com4c 0 1
+name 0 0 <names:3>  # Iori
+line1 <shift> # 「あんまり変なこと言うようなら、社長に言って、
+line2 <shift> # プロデューサー、変えてもらうわよ！　フン！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、それは困る！」
+display
+com11 0 0
+sound 10033
+com4c 0 1
+name 0 0 <names:3>  # Iori
+line1 <shift> # 「それじゃあ、素直に認めなさい。
+line2 <shift> # 油を売って売って売りまくっていたって！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「う……、売って売って売りまくってました」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （くっ、確かに俺は、
+line2 <shift> # 女の子と話したはずなんだけどな……）
+com09 0 49
+display
+location 49
+com11 0 0
+sound 10034
+com4c 0 1
+name 0 0 <names:3>  # Iori
+line1 <shift> # 「とにかく、とっとと帰るわよ。
+line2 <shift> # これ以上、帰りが遅いと、皆が心配するわ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あっ、そうだ！　伊織、ジュースは……」
+display
+com11 0 0
+sound 10035
+com4c 0 1
+name 0 0 <names:3>  # Iori
+line1 <shift> # 「とっくに自分で自販機見つけて、
+line2 <shift> # 飲んじゃったわよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……そうか、ごめん。俺、役立たずだな」
+display
+com11 0 0
+sound 10036
+com4c 0 1
+name 0 0 <names:3>  # Iori
+line1 <shift> # 「……何しょげてんのよ。
+line2 <shift> # はい、これ、アンタの分」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え？　これって……」
+display
+com11 0 0
+sound 10037
+com4c 0 1
+name 0 0 <names:3>  # Iori
+line1 <shift> # 「アンタもノドかわいたって言ってたじゃない。
+line2 <shift> # ついでだから、買っといてあげたわ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「伊織……！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （やっぱり、伊織は、ちょっと口は悪いけど、
+line2 <shift> # 本当は心の優しい子なんだな）
+display
+com11 0 0
+sound 10038
+com4c 0 1
+name 0 0 <names:3>  # Iori
+line1 <shift> # 「ほら、早く飲みなさい。せっかく買って
+line2 <shift> # きたのに、ぬるくなっちゃうでしょ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それもそうだな。ジュース、ありがたく
+line2 <shift> # いただくよ！　ごくっ、ごくっ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ぷはーっ！　やっぱり、１００％果汁はおいし
+line2 <shift> # いもんだな……うん？　あれ、果汁２％？」
+display
+com11 0 0
+sound 10039
+com4c 0 1
+name 0 0 <names:3>  # Iori
+line1 <shift> # 「にひひっ♪　アンタに１００％は、まだ早いわ。
+line2 <shift> # 今は２％でガマンしなさい♪」
+display
+com11 0 0
+sound 10040
+com4c 0 1
+name 0 0 <names:3>  # Iori
+line1 <shift> # 「アンタのがんばり次第で、いつかは１００％の
+line2 <shift> # オレンジジュース、買ってきてあげるわ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……そうだな。よし、がんばって１００％の
+line2 <shift> # プロデュース、やってみせるよ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺の選択は間違っていなかったな。
+line2 <shift> # 伊織と、２人で必ず、頂点に立ってみせる！）
+com09 0 99
+display
+location 99
+unk02

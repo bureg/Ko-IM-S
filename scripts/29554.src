@@ -1,0 +1,537 @@
+com2c 0 119
+com2d 0 41
+com2e 0 131
+com32 0 0
+com11 0 0
+sound 10000
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「くっ……。ううう……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ど、どうした、千早。体調、悪いのか？」
+display
+com11 0 0
+sound 10001
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「いえ、大丈夫です。少し、吐き気がしただけで
+line2 <shift> # すから。極度に緊張すると、時々、なるんです」
+display
+com11 0 0
+sound 10002
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「アイドルデビューする前、個人で色々な歌の
+line2 <shift> # コンテストに出ていた頃は、よく、ありました」
+display
+com11 0 0
+sound 10003
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「最近は、あまりなかったのですが……。
+line2 <shift> # ＩＵの雰囲気に、のまれているんでしょうか？」
+display
+com11 0 0
+sound 10004
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「私も、まだまだ修行が足りませんね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ムリもないよ。ＩＵ本選の準決勝なんだから。
+line2 <shift> # 周りのアイドル達だって皆、顔がこわばってる」
+display
+com11 0 0
+sound 10005
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「……あふぅ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……若干１名、例外がいるようだけどな」
+display
+com11 0 0
+sound 10006
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「……あふぅ。あー、千早さん！　プロデュー
+line2 <shift> # サーも。き、緊張するね。……あふぅ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どこがだ！？　あくびしてるじゃないか。
+line2 <shift> # ……美希、本当に真面目に戦ってるのか？」
+display
+com11 0 0
+sound 10007
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「むー。ミキ、真面目なの！　だってプロデュー
+line2 <shift> # サーが、かかってるんだもん。……あふぅ」
+display
+com11 0 0
+sound 10008
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「でも、さっきから、やたらとあくびを……」
+display
+com11 0 0
+sound 10009
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「あ、これ？　これは、緊張をほぐそうっていう、
+line2 <shift> # ミキなりの工夫なの。……あふぅ」
+display
+com11 0 0
+sound 10010
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「黙って座ってたら、緊張しすぎて、つぶれちゃ
+line2 <shift> # いそうだったから、空気をはきだしてるんだよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なあ、細かいようだけど、空気をはきだしたら、
+line2 <shift> # 余計に、つぶれるんじゃないか？」
+display
+com11 0 0
+sound 10011
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そうですね。……美希、つぶれないようにする
+line2 <shift> # には、空気をすわないとダメよ」
+display
+com11 0 0
+sound 10012
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「えっ。そうなの？　じゃあ、あくびは、やめる。
+line2 <shift> # でも、黙ってると不安になるから、やなの」
+display
+com11 0 0
+sound 10013
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ねえねえ、なんでもいいから、話そうよ。
+line2 <shift> # なんか、ミキにききたいこと、ない？」
+display
+com11 0 0
+sound 10014
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ミキと千早さんはライバルだけど、たまには、
+line2 <shift> # 助け合ったっていいって思うな！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （自分が困ってる時だけ、都合のいいことを言う
+line2 <shift> # やつだなあ。でも、美希に質問するチャンスだ）
+com03 0 3
+choice1 <shift> # 俺に質問させてくれ
+line2
+com09 0 10
+com08
+choice2 <shift> # 千早、質問ないか？
+line2
+com09 0 11
+com08
+choice3 <shift> # いや、別にない
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ、俺に質問させてくれ。美希が９６１
+line2 <shift> # プロに移った理由、きかせてくれないか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「これまで、何度か質問したような気がするけど、
+line2 <shift> # ハッキリ答えてくれたことは、ないだろ？」
+display
+com11 0 0
+sound 10015
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あ、私もそれは、ずっと気になっていました。
+line2 <shift> # 美希、ＩＵ準々決勝の時、言っていたわよね」
+display
+com11 0 0
+sound 10016
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「高木社長とケンカして、事務所を飛び出した時
+line2 <shift> # に、黒井社長と会った、って……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだよな。美希が９６１プロに移る、
+line2 <shift> # 直接の原因というか、決定打というか……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そういう出来事が、必ずあったはずなんだ。
+line2 <shift> # それを、教えてくれないか？」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「千早、質問ないか？」
+display
+com11 0 0
+sound 10017
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あ、私が質問しても？　でしたら、
+line2 <shift> # どうしてもききたかったことが、あります」
+display
+com11 0 0
+sound 10018
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「うん、いいよ。今なら、なんでもきいてなの。
+line2 <shift> # たくさんしゃべって、気、まぎらわせたいから」
+com09 0 18
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだなあ、うーむ、美希に質問ねえ……。
+line2 <shift> # いや、別にないかな！」
+display
+com11 0 0
+sound 10019
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「えっ。なんにもないの？
+line2 <shift> # プロデューサーって、意外とつまんないよね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そう言われても、ないものは、ない！」
+display
+com11 0 0
+sound 10020
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そんな！　せっかく美希に質問するチャンスな
+line2 <shift> # のに、棒にふるようなこと言わないで下さい！」
+display
+com11 0 0
+sound 10021
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「あ、千早さんは、質問ある？　だったら、いい
+line2 <shift> # よ。今なら、なんでもきいちゃってってカンジ」
+com09 0 18
+display
+location 18
+com11 0 0
+sound 10022
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「では、美希が９６１プロに移った理由を、
+line2 <shift> # きかせてちょうだい」
+display
+com11 0 0
+sound 10023
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「美希、ＩＵ準々決勝の時、言っていたわよね？
+line2 <shift> # 高木社長とケンカした、って」
+display
+com11 0 0
+sound 10024
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「美希が９６１プロに移った直接の原因は、
+line2 <shift> # そのケンカなんでしょう？」
+display
+com11 0 0
+sound 10025
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「う、うん。まあね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だったら、俺もききたいな。
+line2 <shift> # 何が決定打になって、美希が移ったのかを」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10026
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「むー。いいけど……、ビックリしないでね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、大丈夫。どんなにショッキングな事実が
+line2 <shift> # 明らかになっても、覚悟はできてるから」
+display
+com11 0 0
+sound 10027
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「実は、ミキ……、７６５プロの社長室で、
+line2 <shift> # 見つけちゃったの……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ゴクリ……。な、何をだ？」
+display
+com11 0 0
+sound 10028
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「おにぎりの、包み紙！　それも、ミキが買って
+line2 <shift> # きて、冷蔵庫にいれといたおにぎりのだよ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「何っ？　おにぎりの……」
+display
+com11 0 0
+sound 10029
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「包み紙！？　それって、つまり……？」
+display
+com11 0 0
+sound 10030
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「高木社長が、ミキのおにぎりを、勝手に食べ
+line2 <shift> # ちゃったってことなの！　ヒドイでしょ！？」
+display
+com11 0 0
+sound 10031
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「しかも、ミキが問いつめたら、プロデューサー
+line2 <shift> # のだと思って食べたとか、ウソついたんだよ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、俺のだったら食べてもいいという前提が、
+line2 <shift> # すでにおかしい気がするが、まあいい。続けて」
+display
+com11 0 0
+sound 10032
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ミキ、許せなくて、思わず事務所を飛び出し
+line2 <shift> # ちゃったの。そしたら、黒井社長に会って……」
+display
+com11 0 0
+sound 10033
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「プロデューサーのこととか、
+line2 <shift> # それまで不満だったこと話してるうちに……」
+display
+com11 0 0
+sound 10034
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「いつのまにか、９６１プロに移ることに、
+line2 <shift> # なっちゃってたの。どう？　ビックリした？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。ある意味な……」
+display
+com11 0 0
+sound 10035
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そ、そんな理由だったの？　本当に！？
+line2 <shift> # そんな下らないことがキッカケで……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、まあ、大きい事件って、キッカケは、
+line2 <shift> # 案外、下らないことだったりするし」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……と、自分で自分を納得させないと、叫びだ
+line2 <shift> # しちゃいそうだから、言ってるんだけどさ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「道理で、ケンカの原因について、
+line2 <shift> # 高木社長が話してくれないはずだよなあ」
+display
+com11 0 0
+sound 10036
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「下らなすぎて、きまり悪かったんでしょうね。
+line2 <shift> # 美希も美希ですが、社長も社長です！」
+display
+com11 0 0
+sound 10037
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「むー。二人して、そんなに呆れなくても、
+line2 <shift> # いいと思うな。食べ物の恨みは、怖いんだよ？」
+display
+com11 0 0
+sound 10038
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「それに、ミキだって、あんなことがキッカケで、
+line2 <shift> # こんなオオゴトになるなんて、思わなかったの」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そりゃ、そうだろうけどさ」
+display
+com11 0 0
+sound 10039
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「でも、もしかしたら、
+line2 <shift> # ミキが移ってて、良かったのかもしれないよ」
+display
+com11 0 0
+sound 10040
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「そのおかげで、プロデューサーも、
+line2 <shift> # ９６１プロに来ることが決まったんだし」
+display
+com11 0 0
+sound 10041
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「それはまだ、決まっていないわよ、美希」
+display
+com11 0 0
+sound 10042
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「えー、もう決まりでいいのに。ねえねえ、
+line2 <shift> # ９６１プロにおいでよ、プロデューサー！」
+display
+com11 0 0
+sound 10043
+com4c 0 0
+name 0 3 <names:4>  # President Kuroi
+line1 <shift> # 「……おや、美希ちゃん。私の金色のカナリア。
+line2 <shift> # 君、今、おかしなさえずり方をしたね？」
+display
+com11 0 0
+sound 10044
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「く、黒井社長！　……どうしたの、急に？」
+display
+com11 0 0
+sound 10045
+com4c 0 0
+name 0 3 <names:4>  # President Kuroi
+line1 <shift> # 「ＩＵ本選で頑張っている美希ちゃんの陣中見舞
+line2 <shift> # いに、社長である私が来ては、おかしいかい？」
+display
+com11 0 0
+sound 10046
+com4c 0 0
+name 0 3 <names:4>  # President Kuroi
+line1 <shift> # 「しかし、来てみれば、おかしな連中と話して
+line2 <shift> # いるわ、おかしな話をしているわで、驚いたよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……おかしな連中というのは、
+line2 <shift> # もしかして、俺達のことですか？」
+display
+com11 0 0
+sound 10047
+com4c 0 0
+name 0 3 <names:4>  # President Kuroi
+line1 <shift> # 「ウィ。もしかしなくても、君達のことだ。
+line2 <shift> # 当然だろう？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺達は、美希の緊張をほぐすために、
+line2 <shift> # 話していただけです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「これは本来、あなたがすべき仕事だと思います
+line2 <shift> # が。美希を放っておくなんて、あなたは……」
+display
+com11 0 0
+sound 10048
+com4c 0 0
+name 0 3 <names:4>  # President Kuroi
+line1 <shift> # 「ここは、汚いノラネコがうるさいね。
+line2 <shift> # 美希ちゃん、話がある。場所を変えようか」
+display
+com11 0 0
+sound 10049
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「あ、プロデューサー……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「待って下さい、黒井社長！
+line2 <shift> # 俺の話は、まだ終わっていません！」
+display
+com11 0 0
+sound 10050
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「強引に美希を連れて行ってしまいました。黒井
+line2 <shift> # 社長……、いつ会っても、感じの悪い人ですね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まったくだな。大事なオーディションの前に、
+line2 <shift> # 不愉快な人に会わせてしまって、すまない」
+display
+com11 0 0
+sound 10051
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「いえ。美希から気の抜ける話をきいたおかげで、
+line2 <shift> # リラックスもできましたし良かったと思います」
+display
+com11 0 0
+sound 10052
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「今後は、ずっと、この調子をキープしたいです。
+line2 <shift> # 最近、緊張しすぎてしまうことが多いので」
+display
+com11 0 0
+sound 10053
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサーの進退以外にも、ＩＵには、
+line2 <shift> # 色々なものが賭かっていますからね」
+display
+com11 0 0
+sound 10054
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「私の夢、プロデューサーの夢。そして、二人の
+line2 <shift> # 間で固く交わされた、頂点を目指すという約束」
+display
+com11 0 0
+sound 10055
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……そういうものが全て賭かっていると思うと、
+line2 <shift> # やはり緊張します」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、だからこそ、負けられないし、
+line2 <shift> # 逃げられない。……そうだろ？」
+display
+com11 0 0
+sound 10056
+com4c 0 1
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はい。プロデューサー、見守っていて下さいね。
+line2 <shift> # ステージに立つ私を、ずっと……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （千早の細い肩には、ＩＵ優勝という重圧が、
+line2 <shift> # のしかかって、彼女を苦しめている）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （でも、戦い抜くぞ、千早。少しでも重さを軽く
+line2 <shift> # できるよう、的確な指示、してやるからな！）
+com09 0 99
+display
+location 99
+unk02

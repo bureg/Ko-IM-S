@@ -1,0 +1,488 @@
+com2c 0 112
+com2d 0 41
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （取材を兼ねた、写真撮影をすることになった）
+display
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「プロデューサー、すこし休けいだそうです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おつかれさま。調子、良いみたいだな。
+line2 <shift> # いつもとは違う場所だからかな？」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。新しい場所だと、
+line2 <shift> # 気持ちが、リフレッシュされますね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか。じゃあ、そのうち、
+line2 <shift> # 海外にでも撮影に行くか」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「海外ですか？　楽しそうですね。
+line2 <shift> # 新しい刺激、いっぱいありそうで」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「でも、場所ばかりではなく、私自身に、
+line2 <shift> # もっと変化の余地があるのではないかと……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「へえ、変化の余地か。それって、つまり……」
+com03 0 3
+choice1 <shift> # 変化したいってこと？
+line2
+com09 0 10
+com08
+choice2 <shift> # 自信ないってこと？
+line2
+com09 0 11
+com08
+choice3 <shift> # 変身したいってこと？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「変化したいってことか？　確かに、常に何かを
+line2 <shift> # 新しくしていくチャレンジは、大切だと思うが」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そうですよね。満足したら、そこで終わりです。
+line2 <shift> # 変化を恐れず、常に上を目指すべきかと」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「今の私のイメージは、少しせまいというか……。
+line2 <shift> # 一面的な気がするんです」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「自信ないってことか？　今の自分に」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そういうわけではありません。
+line2 <shift> # 人並み以上にやってきた自負はあります」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ただ……、満足したら、そこで終わりだと思う
+line2 <shift> # んです。さらなる高みには、たどり着けません」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「つまり、現状に満足せず、
+line2 <shift> # 新しい自分を見つけていきたいと？」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。　私のイメージ、
+line2 <shift> # 少し、かたよりすぎていると思うんです」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「変身したいってことか？　ん？　変身……。
+line2 <shift> # 特撮……。ヒーロー……」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「え……、あの、プロデューサー？　変身という
+line2 <shift> # 言葉から、何を連想してるんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「変身！　って言うと、宇宙にある衛星から、
+line2 <shift> # ０．０５秒でスーツが転送されてきて……」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「その連想は、ストップして下さい。違います。
+line2 <shift> # 変身ではなくて、変化ですから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうか。聞き間違えたよ、すまない」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「私のイメージに、変化が必要じゃないかって、
+line2 <shift> # 思っているんです」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 10012
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ファンからは、ストイックで真面目なのが、
+line2 <shift> # 私の良い所だと、言ってもらえています」
+display
+com11 0 0
+sound 10013
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「評価してもらえるのは、嬉しいです。
+line2 <shift> # でも、私は、それだけなんでしょうか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まあ、できることなら、
+line2 <shift> # 他の魅力も見せていきたいよな」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ええ。プロデューサーは、私の新しいイメージ、
+line2 <shift> # どんなものが良いと思いますか？」
+com03 0 3
+choice1 <shift> # 能天気な感じ
+line2
+com09 0 30
+com08
+choice2 <shift> # 高飛車な感じ
+line2
+com09 0 31
+com08
+choice3 <shift> # 気弱な感じ
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「能天気な感じで、どうだ？
+line2 <shift> # こう、むやみやたらに明るいというか」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「能天気、ですか！？　それが、私の新しい
+line2 <shift> # イメージに……？　少し難しそうですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「最初のうちは、身近な人を想像してみると、
+line2 <shift> # いいんじゃないかな？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「能天気というと言葉が悪いけど、自分のこと、
+line2 <shift> # 名前で呼ぶとか、元気でカワイイ雰囲気だな」
+display
+com11 0 0
+sound 10016
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「それならなんとか。では、試してみますので、
+line2 <shift> # これでいいか、ご指導、お願いします」
+display
+com11 0 0
+sound 10017
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「んっふっふ〜♪　プロデューサー、
+line2 <shift> # 千早ね、おしゃべり大好きー！」
+display
+com11 0 0
+sound 10018
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「他に好きな物はー、メール打ったりとか！
+line2 <shift> # 友達にめっちゃ長文メール送るっぽいよ〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「友達に長文メールか。
+line2 <shift> # 千早には、意外な一面があったんだな」
+display
+com11 0 0
+sound 10019
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「すみません。今のはウソです。私、あまり
+line2 <shift> # メールは……。プロデューサーに書くぐらいで」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おいおい、ウソはダメだろ。身近な人の話し方
+line2 <shift> # を参考にしてもいいけど、中身は千早でないと」
+display
+com11 0 0
+sound 10020
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「う……。そ、そうですよね。
+line2 <shift> # これじゃ、ただの下手なモノマネ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （まあ、なかなかかわいかったけどな。
+line2 <shift> # 千早の能天気キャラ）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「高飛車な感じで、どうだ？
+line2 <shift> # 鼻っ柱の強い、お嬢様、みたいな感じでさ」
+display
+com11 0 0
+sound 10021
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「高飛車、ですか！？　私に出来るでしょうか？
+line2 <shift> # かなり難しそうですが……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「最初のうちは、身近な人を想像してみると、
+line2 <shift> # いいんじゃないかな？」
+display
+com11 0 0
+sound 10022
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「身近な人で、高飛車……。わかりました。
+line2 <shift> # やってみますので、ご指導、お願いします」
+display
+com11 0 0
+sound 10023
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ちょっとー、私の飲み物がないじゃない。気が
+line2 <shift> # 利かないわね！　早く持ってきなさーいっ！」
+display
+com11 0 0
+sound 10024
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「私、ミネラルウォーターが飲みたーい！
+line2 <shift> # よろしくね、プロデューサー。にひひっ♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、はいはい」
+display
+com22 0 30
+com21 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「千早、ミネラルウォーターが無かったんだ。
+line2 <shift> # かわりに、お茶を買ってきたよ」
+display
+com11 0 0
+sound 10025
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あ、はい。お茶でも大丈夫です。
+line2 <shift> # ありがとうございます」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「違うだろ、千早！　そこは『私はミネラル
+line2 <shift> # ウォーターって言ったの！　きーっ！』だろ？」
+display
+com11 0 0
+sound 10026
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「えっ！？　持ってきてもらったのに、そんな
+line2 <shift> # 失礼なことを？　……私には、言えません」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （千早は、高飛車にふるまうには、
+line2 <shift> # ちょっと礼儀正しすぎるのかもな……）
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「気弱な感じで、どうだ？
+line2 <shift> # 内気で優しい女の子、って感じでさ」
+display
+com11 0 0
+sound 10027
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「気弱、ですか？　私に出来るでしょうか？
+line2 <shift> # 相当、難しそうですが……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「最初のうちは、身近な人を想像してみると、
+line2 <shift> # いいんじゃないかな？」
+display
+com11 0 0
+sound 10028
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「身近な人で、気弱……。わかりました。
+line2 <shift> # 挑戦してみますので、ご指導、お願いします」
+display
+com11 0 0
+sound 10029
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ううう、すみません……。いきなり、
+line2 <shift> # 歌い出しから、つまっちゃいました……」
+display
+com11 0 0
+sound 10030
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ぐすっ、ダメアイドルですみません〜。私なん
+line2 <shift> # か、この辺に穴掘って、埋まっておきますぅ！」
+display
+com11 0 0
+sound 10031
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「くっ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、あれ？　どうした、千早？
+line2 <shift> # いい感じだったぞ。続けて続けて！」
+display
+com11 0 0
+sound 10032
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「マイクの前で泣き言なんて、許されません。
+line2 <shift> # このイメージは、私の主義に反します」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （どうも、このイメージは、
+line2 <shift> # 千早のお気に召さなかったようだな……）
+com09 0 49
+display
+location 49
+com11 0 0
+sound 10033
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はぁ……。やっぱり、言動だけ真似ても、
+line2 <shift> # 上手くはいきませんね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （いったい、誰の真似だったんだ？
+line2 <shift> # まあ、いいけど……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なあ、千早……」
+com03 0 3
+choice1 <shift> # 面白かったよ
+line2
+com09 0 50
+com08
+choice2 <shift> # まだまだだな
+line2
+com09 0 51
+com08
+choice3 <shift> # いつも通りが一番だ
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「面白かったよ。新しい千早、新鮮だった」
+display
+com11 0 0
+sound 10034
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そうでしょうか？　イメージが外れすぎていて、
+line2 <shift> # ムリがあるように思いましたが……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ムリのないイメチェンに、意味があるかな？」
+display
+com11 0 0
+sound 10035
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……！　なるほど。違和感を嫌がるのは、
+line2 <shift> # 今のイメージに、こだわっている証拠……？」
+display
+com11 0 0
+sound 10036
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「私、口では変化の余地があると言いながら、
+line2 <shift> # 本心では、冒険を恐れてしまっていたんですね」
+display
+com11 0 0
+sound 10037
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「プロデューサーの言葉で、目が覚めました。そ
+line2 <shift> # んな、こり固まった考えをしていたなんて……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「焦ることはないよ。努力し続ければ、
+line2 <shift> # いずれ結果は、ついてくるさ」
+display
+com11 0 0
+sound 10038
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「プロデューサー……。はいっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （千早は、前向きになってくれたみたいだ。
+line2 <shift> # 俺も、もっと上を目指さなきゃ、ダメだな）
+com09 0 69
+display
+location 51
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まだまだだな。こんな調子じゃ、
+line2 <shift> # イメージチェンジはできないぞ」
+display
+com11 0 0
+sound 10039
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ですが、そもそも、提案されたイメージが、
+line2 <shift> # あまりに突飛で……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、イメチェンって、そういうものだしな。
+line2 <shift> # 俺の提案がイヤなら、アドバイスは難しいよ」
+display
+com11 0 0
+sound 10040
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「それは、つまり……、自分のことは、
+line2 <shift> # 自分で考えろ、ということですよね？」
+display
+com11 0 0
+sound 10041
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「もう少し、自分の中で考えてから、
+line2 <shift> # 相談することにします……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （落ちこんじゃったか。初めから上手くいくわけ
+line2 <shift> # ないんだし、長い目で見ないとな……）
+com09 0 69
+display
+location 52
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いつも通りが一番だ。千早は千早だよ！」
+display
+com11 0 0
+sound 10042
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「つまり……、私には、現状が限界。
+line2 <shift> # そういうことですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、いや、今の方向性で、より高めていくのが、
+line2 <shift> # 良いと思うんだ」
+display
+com11 0 0
+sound 10043
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「一度試しただけで、あっさり可能性を捨てる
+line2 <shift> # なんて、納得できません」
+display
+com11 0 0
+sound 10044
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「プロデューサーなら、
+line2 <shift> # もっと熱心に考えてくれるかと思ったのに……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （千早の気持ち、わかってやれてなかったな。
+line2 <shift> # 俺の考えが足りなかったか……）
+com09 0 69
+display
+location 69
+unk02

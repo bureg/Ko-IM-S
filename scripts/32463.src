@@ -1,0 +1,231 @@
+com2c 0 44
+com2d 0 61
+com32 0 0
+com11 0 1
+sound 400
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「急に決まったレコーディングですけど……、
+line2 <shift> # 今回は、なにを録るんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あれ、言わなかったっけ。今回の歌が、
+line2 <shift> # 新しいドラマの主題歌に抜擢されたんで……」
+display
+com11 0 1
+sound 401
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ええっ！？　ドラマ！！
+line2 <shift> # き、きいてないですよぉ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「な、なぜそんなに目を
+line2 <shift> # まんまるくしてまで驚く」
+com03 0 2
+choice1 <shift> # そんなに嬉しいのか
+line2
+com09 0 10
+com08
+choice2 <shift> # なにか不満かな？
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなに嬉しいのか」
+display
+com11 0 1
+sound 402
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「もちろん。光栄ですっ」
+display
+com11 0 1
+sound 403
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「でもあまりに突然の話で、その、心の準備が
+line2 <shift> # できてなかったので……」
+display
+com11 0 1
+sound 404
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「選ばれたからには、
+line2 <shift> # しっかり頑張りたいですね」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なにか不満かな？」
+display
+com11 0 1
+sound 405
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「そ、そんなことないですよ。光栄です。ただ、
+line2 <shift> # あまりに突然の話で、びっくりしてしまって」
+display
+com11 0 1
+sound 406
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「前から交渉とか、あったんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、つい先日決まった。俺も驚いたよ。
+line2 <shift> # しかしせっかく選ばれたんだ、頑張りたいね」
+display
+com11 0 1
+sound 407
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「はい！　期待に応えたいですね」
+com09 0 29
+display
+location 29
+com11 0 1
+sound 408
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ところで、新たにレコーディングすると
+line2 <shift> # いうことは、つまり、新曲をやるんですか？」
+display
+com11 0 1
+sound 409
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「でも、譜面とか、来てないんですけど……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、それがね。以前の持ち歌を、もう一度
+line2 <shift> # 録りなおして欲しいって要望が出てるんだ」
+display
+com11 0 1
+sound 410
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「えっ……、録りなおしですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ドラマ本編の雰囲気に合わせた、
+line2 <shift> # 新規ミックスが欲しいんだって」
+display
+com11 0 1
+sound 411
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「そうですかぁ、うーん……、でも、前の
+line2 <shift> # ミックス、けっこう気に入ってたんだけどな」
+display
+com11 0 1
+sound 412
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「前のじゃ、だめなんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「スポンサーサイドからの、たってのお願いなん
+line2 <shift> # だよ。新ミックスのＣＤも売りたいようだし」
+display
+com11 0 1
+sound 413
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「なるほどぉ……。ああ、だけど、なんだか
+line2 <shift> # もったいないような気もしますね……」
+display
+com11 0 1
+sound 414
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「前のミックス、けっこう時間かけて、
+line2 <shift> # 作ってもらったから……」
+com03 0 2
+choice1 <shift> # 新たな面白さ追求しよう
+line2
+com09 0 30
+com08
+choice2 <shift> # まぁ、仕事だからな……
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあまあ、新たな面白さを、新しいミックスで
+line2 <shift> # 追求しようじゃないか！」
+display
+com11 0 1
+sound 415
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「うーん……。そうですね、
+line2 <shift> # そうできるといいんだけど……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「とりあえず、新しいオケ聴いてみようか」
+display
+com11 0 1
+sound 416
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「はい、お願いします……、あっ！　ちょっと
+line2 <shift> # いいかも。曲の新しい解釈って感じで！」
+display
+com11 0 1
+sound 417
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「同じ歌でも、アレンジ次第でかなり
+line2 <shift> # 雰囲気変えられるんですね……」
+display
+com11 0 1
+sound 418
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「面白そう！　新ミックス、
+line2 <shift> # 挑戦しがいがありそうですっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後のレコーディングに、雪歩は楽しく挑んで
+line2 <shift> # くれた。これは出来に期待が持てそうだぞ！）
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まぁ、仕事だからなぁ。これはこれ、
+line2 <shift> # それはそれと。多少は割り切らないと」
+display
+com11 0 1
+sound 419
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「でも……、私、前のミックスに、
+line2 <shift> # 思い入れがあったから……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「しかしこれで歌のバリエーションや、
+line2 <shift> # 聴いてもらえるチャンスも増える、いいことさ」
+display
+com11 0 1
+sound 420
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「うーん、そうですね……、
+line2 <shift> # プラスなほうに考えていきたいですね」
+display
+com11 0 1
+sound 421
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「もしかしたら、前とは違った面白さの
+line2 <shift> # ミックスが、作れるかもしれないし……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうとも。両方が同じくらい、いや、お互い
+line2 <shift> # よりいいものになれば、お客さんも喜ぶ」
+display
+com11 0 1
+sound 422
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ですね。わかりました！
+line2 <shift> # 私、なんとかやってみます」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （そして雪歩はベストを尽くすべく、新ミックスの
+line2 <shift> # レコーディングに果敢に挑んでくれた）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （けれど、曲の解釈に戸惑いがあったみたいだ……。
+line2 <shift> # ちょっと不安の残る出来になってしまったな）
+com09 0 49
+display
+location 49
+unk02

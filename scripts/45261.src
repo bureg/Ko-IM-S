@@ -1,0 +1,395 @@
+com2c 0 43
+com2d 0 81
+com32 0 0
+com11 0 3
+sound 300
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うーん、おかしいなあ。
+line2 <shift> # ボク、こんなに歌、下手だったかなあ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「真、レコーディングの調子、どうだ？
+line2 <shift> # 順調に進んでるか？」
+display
+com11 0 3
+sound 301
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、プロデューサー。ＮＧは、
+line2 <shift> # 出てないんですけど、それでもＮＧっていうか」
+com03 0 2
+choice1 <shift> # 説明は、わかりやすくな
+line2
+com09 0 10
+com08
+choice2 <shift> # ……ナゾナゾか？
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「説明は、わかりやすくな」
+display
+com11 0 3
+sound 302
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、はい。いつも通り、勢いよく歌って、
+line2 <shift> # ＯＫもらっても、どうもスキッとしないんです」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……ナゾナゾか？」
+display
+com11 0 3
+sound 303
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「別に、そういうわけじゃ……。って、これ
+line2 <shift> # だけじゃ、なんのことか、わかりませんよね」
+display
+com11 0 3
+sound 304
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「つまり〜、いつも通り、勢いよく歌って、
+line2 <shift> # ＯＫもらっても、どうもスキッとしないんです」
+com09 0 29
+display
+location 29
+com11 0 3
+sound 339
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あちこち、ザツな気がして。かといって、
+line2 <shift> # かわいく歌おうとすると、今度は、勢いが……」
+display
+com11 0 3
+sound 306
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「前は、こんなこと、なかったのになー。
+line2 <shift> # もしかして、ボク、腕落ちてませんか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなことはないよ。逆に腕が上がったから、
+line2 <shift> # 細かいことに、気がまわるようになったんだ」
+display
+com11 0 3
+sound 307
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そうなんでしょうか？　だとしたら、これまで
+line2 <shift> # 歌ってきた歌は、ぜんぶ、それに気づかず……」
+display
+com11 0 3
+sound 308
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うわっ、急に恥ずかしくなってきました！
+line2 <shift> # ボク、とんでもないＣＤを売って……」
+com03 0 3
+choice1 <shift> # 反省しような
+line2
+com09 0 30
+com08
+choice2 <shift> # 気にすることは、ないよ
+line2
+com09 0 31
+com08
+choice3 <shift> # 罪深いよなあ
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「反省しような」
+display
+com11 0 3
+sound 309
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「しますします！　しまくります！　二度と
+line2 <shift> # ヘンなもの、お店に並べないようにしないと」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「気にすることは、ないよ」
+display
+com11 0 3
+sound 310
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そう言われたって、気になります〜。できたら、
+line2 <shift> # これまでのＣＤ、全部回収したいぐらい……」
+com09 0 91
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「罪深いよなあ」
+display
+com11 0 3
+sound 340
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うわ、傷口に塩ぬらないで下さいよ。つぐなう
+line2 <shift> # ためには、これまでのＣＤ全部回収するしか！」
+com09 0 91
+display
+location 91
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、それは不可能だって！　莫大な金が……。
+line2 <shift> # こ、今後の反省材料に、すればいいじゃないか」
+display
+com11 0 3
+sound 312
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そうですね……。二度とお店に、
+line2 <shift> # ヘンなもの、並べないようにしないと」
+com09 0 49
+display
+location 49
+com11 0 3
+sound 313
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「勢いはそのままに、もっと、きめ細やかな歌、
+line2 <shift> # 歌えるようにならなきゃ、いけませんね！」
+display
+com11 0 3
+sound 314
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「さ、それじゃ、収録の続き、行ってきます！
+line2 <shift> # 景気づけにコブシを、ダーンと……」
+display
+com11 0 3
+sound 315
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、こういうのも、やらない方がいいのかな。
+line2 <shift> # また歌い方が、乱暴になる気が……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うーん、弱腰になりすぎてるみたいだな。
+line2 <shift> # ……よし！）
+com0e 2 199
+com44
+com09 0 50
+com45
+com44
+com09 0 51
+com45
+com44
+com09 0 52
+com45
+com44
+com09 0 53
+com45
+com44
+com09 0 54
+com45
+com44
+com09 0 55
+com45
+com44
+com09 0 56
+com45
+com44
+com09 0 57
+com45
+display
+location 50
+com11 0 3
+sound 316
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「わ、プロデューサー、ボク、まだ心の準備が。
+line2 <shift> # そんな一方的に……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「これぐらい、やっていけって。ていねいに歌う
+line2 <shift> # ことと、元気をなくすことは、ちがうだろ？」
+display
+com11 0 3
+sound 317
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「それも、そうですね！　よーし、それじゃ、
+line2 <shift> # もう一度、はいっ！　へへへーっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （再度、ガツンとコブシを合わせて、真は
+line2 <shift> # スタジオへ。いつもの元気、戻ったみたいだな）
+com09 0 69
+display
+location 51
+com11 0 3
+sound 318
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「え？　プロデューサー、
+line2 <shift> # どうしてボクの手、なでるんです？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、コブシが、ぷらぷら浮いてたから、
+line2 <shift> # つい……」
+display
+com11 0 3
+sound 319
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「妙なコト、しないで下さいよ。
+line2 <shift> # てっきり、なにかくっついてるのかと……」
+com09 0 92
+display
+location 52
+com11 0 3
+sound 341
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「え、プロデューサー？
+line2 <shift> # どうして、頭、コツンって……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「こら、元気出せ。そんな顔してたって、
+line2 <shift> # いい歌は歌えないよ？」
+display
+com11 0 3
+sound 321
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、それも……、そうですね。
+line2 <shift> # ここで考え込んでたって、しかたないし」
+display
+com11 0 3
+sound 342
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ありがとうございました！
+line2 <shift> # 今度こそ、ばっちり決めてきますっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、真は一発ＯＫ。
+line2 <shift> # うまくいって、本当によかったな）
+com09 0 69
+display
+location 53
+com11 0 3
+sound 323
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサー？
+line2 <shift> # どうして、頭なんて、なでてくれるんです？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、しょぼくれてるから、
+line2 <shift> # こうすれば、元気が出るかと思って」
+display
+com11 0 3
+sound 324
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「い、いいですよ。そんなことしてもらっても、
+line2 <shift> # 別に気分、変わらないし……」
+com09 0 92
+display
+location 54
+com11 0 3
+sound 343
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ど、どうして、いきなり顔を、
+line2 <shift> # つっつくんです？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「こいつぅー！　ほら、気合いを入れろよ。そん
+line2 <shift> # な顔してちゃ、いい歌なんて、歌えないだろ？」
+display
+com11 0 3
+sound 338
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「つっつかれても、気合いなんて、
+line2 <shift> # 入りませんよ〜。なんか、恥ずかしいなあ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （恋人風にしかってみたが、特に効果はなかった。
+line2 <shift> # 気分を変えてやりたかったけど、失敗だったか）
+com09 0 69
+display
+location 55
+com11 0 3
+sound 328
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ……。あの、プロデューサー？
+line2 <shift> # な、なんです、今の？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、こう、手のひらから、
+line2 <shift> # ハートに力を与えられないかなって」
+display
+com11 0 3
+sound 329
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「おまじないみたいなものですか？
+line2 <shift> # な、なるほど。プロデューサー流の激励……」
+display
+com11 0 3
+sound 330
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ホントですか〜！？　どさくさにまぎれて、
+line2 <shift> # さわっただけじゃ……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （白い目で、こっちを見ている。
+line2 <shift> # こんなやり方……、やっぱり、ダメだよな）
+com09 0 69
+display
+location 56
+com11 0 3
+sound 331
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「え？　あの〜、プロデューサー、なんでいき
+line2 <shift> # なり、ボクのそんなところ、さわるんです？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、元気づけるために、なにかしなくちゃと
+line2 <shift> # 思ったんだけど、それしか思いつかなくて」
+display
+com11 0 3
+sound 332
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「わ、ワケわからないですっ。そんなことして
+line2 <shift> # もらっても、別に気分転換にも……」
+com09 0 92
+display
+location 92
+com11 0 3
+sound 333
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、もう話し込んでる場合じゃ……。
+line2 <shift> # 収録、収録っと……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （不思議そうな顔をしながら、駆けていった。
+line2 <shift> # あれじゃ、激励には、ならないか）
+com09 0 69
+display
+location 57
+com11 0 3
+sound 334
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「う〜ん、そーっとやればいいか。でも、それ
+line2 <shift> # だと歌い方、ていねいになりすぎる気が……」
+display
+com11 0 3
+sound 335
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「中間くらいの勢いで、ガツンと。でも、
+line2 <shift> # それじゃ、やるぞーって気に、ならないよな」
+display
+com11 0 3
+sound 336
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「やっぱり、思いっきりガツン？　ゆっくり
+line2 <shift> # コツン？　いっそ両手で、両方いっぺんに……」
+display
+com11 0 3
+sound 337
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そんなの、いさぎよくないよな。
+line2 <shift> # 片方の手で、どっちかにした方が。う〜ん……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （試しに放っておいたら、いつまでも考え込んで
+line2 <shift> # いる。マズいな。そろそろ収録、行かせないと）
+com09 0 69
+display
+location 69
+unk02

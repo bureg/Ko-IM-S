@@ -1,0 +1,269 @@
+com2c 0 25
+com2d 0 71
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「歌番組の副司会の仕事が、きたぞ」
+display
+com11 0 1
+sound 200
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あ、メイン司会さんとの掛け合いで、
+line2 <shift> # 番組を進行していく役ですね？」
+display
+com11 0 1
+sound 201
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ゲスト兼サブ司会ってことで、注目度も高いし。
+line2 <shift> # 番組のテンポを作る、重要な仕事ですよね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。昔から、これの出来次第で、アイドルも
+line2 <shift> # 大スターへの道に入ると言われてるそうだぞ？」
+display
+com11 0 1
+sound 202
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そ、そんな大げさな。でも、こういう役回りを
+line2 <shift> # こなして有名になった人、確かに多いからなぁ」
+com03 0 2
+choice1 <shift> # 挑戦しがいのある仕事だな
+line2
+com09 0 10
+com08
+choice2 <shift> # 律子の苦手な仕事内容だな
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「挑戦しがいのある仕事だな」
+display
+com11 0 1
+sound 203
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ですね！　でも、指名を受けたからには、
+line2 <shift> # しっかり、やらせてもらいますよ」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「律子の苦手な仕事内容だよな……。トークの
+line2 <shift> # 掛け合いで、場を仕切ったりするのって」
+display
+com11 0 1
+sound 204
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そ、そうかもしれないけど、指名受けたなら、
+line2 <shift> # やるしかないじゃないですかぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まぁ、やるしかないな。
+line2 <shift> # どうしても、苦手でムリそうなら、断るが……」
+display
+com11 0 1
+sound 205
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「い、いえ、やります。
+line2 <shift> # やらせてください、ぜひっ」
+com09 0 29
+display
+location 29
+com11 0 1
+sound 206
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ここはひとつ、メイン司会さんさえ、
+line2 <shift> # 食ってしまうような勢いで！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「しかし律子、司会さんは相当、弁が立つ人だぞ。
+line2 <shift> # ほんとに、テンポ合わせてしゃべれるのか？」
+display
+com11 0 1
+sound 207
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「へ、平気です。私、自分で、
+line2 <shift> # やるといったら、やるんですってば！」
+display
+com11 0 1
+sound 208
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「私、しゃべりは、うまくないけど、
+line2 <shift> # きっと、なんとかやれますよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「う〜ん、ほんとに大丈夫か？　任せるのが、
+line2 <shift> # 少々不安になってきたな、俺は……」
+com03 0 3
+choice1 <shift> # ムリはするなよ？
+line2
+com09 0 30
+com08
+choice2 <shift> # 好きにしなさい
+line2
+com09 0 31
+com08
+choice3 <shift> # やっぱりムリなんじゃ
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「律子、ムリはするなよ？　頑張るのはいいが、
+line2 <shift> # 自分のペースは、崩さないように」
+display
+com11 0 1
+sound 209
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そうね……。相手が、しゃべり上手だからって、
+line2 <shift> # 引き込まれすぎないように、心がけます」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、促されたら、
+line2 <shift> # ちゃんとしゃべるんだぞ？」
+display
+com11 0 1
+sound 210
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そ、それは、わかってますよぉ。番組中に、
+line2 <shift> # だんまりなんて、かっこ悪いですからね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それと、うっかり余計なひと言まで、
+line2 <shift> # 言っちゃわないように、な？」
+display
+com11 0 1
+sound 211
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「だ、大丈夫ですってば。よ〜し、これから、
+line2 <shift> # せめて滑舌だけでも、練習するかな……」
+display
+com11 0 1
+sound 212
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あと、トークのネタ仕込みね。うん、
+line2 <shift> # ちょっとやる気出てきた。やるぞ、私……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （律子は、いつになく真面目に、地味で地道な、
+line2 <shift> # トークの下準備に取り組み始めた）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （このやる気を大事にして、いい本番を、
+line2 <shift> # 迎えることを祈ろう。期待してるぞ！）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まぁ、好きにしなさい。
+line2 <shift> # 俺も、心の中で応援しておこう」
+display
+com11 0 1
+sound 213
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「な、なんだか、投げやりな応援だなぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「難しい仕事だっていうのは、承知してるからね。
+line2 <shift> # でも律子にやる気があるなら止めない。頑張れ」
+display
+com11 0 1
+sound 214
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「言われなくたって。
+line2 <shift> # ばっちり、こなしてみせます」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「しかし、それだけ、やる気があるなら、少しは、
+line2 <shift> # トークの練習したほうがいいんじゃないか？」
+display
+com11 0 1
+sound 215
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「私、本番には強いほうだし、変に仕込むより、
+line2 <shift> # ぶっつけのほうが。大丈夫ですよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「心配だなぁ。ああ、俺はとても心配だ。律子が、
+line2 <shift> # 本番で、大ポカをやらかすんじゃないかって」
+display
+com11 0 1
+sound 216
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ううっ。プレッシャーを、
+line2 <shift> # かけないでくださいよぉ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うーん、本番へ向けて下準備をして欲しいけど、
+line2 <shift> # 律子を、うまく説得できなかったな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （むしろ、俺がプレッシャーをかけてしまった
+line2 <shift> # かもしれない。不安が増してしまった……）
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「律子、やっぱりムリなんじゃ？　そんな強がり
+line2 <shift> # ばかり言ってるようだと、任せられないぞ」
+display
+com11 0 1
+sound 217
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「う……。ま、まぁ、正直、苦手は苦手よね。
+line2 <shift> # でも、やる気は、あるんですってば」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、やる気は、認めたいけど……。やる気
+line2 <shift> # だけじゃどうにもならないこともあるからなぁ」
+display
+com11 0 1
+sound 218
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そんなぁ。これを機会に、苦手克服！
+line2 <shift> # ……ってのは、ダメかな？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「気持ちはわかるけど、仕事の現場は、
+line2 <shift> # そんなに甘いもんじゃないぞ？　できるか？」
+display
+com11 0 1
+sound 219
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「べ、別に、私ひとりで全部やるわけじゃなし。
+line2 <shift> # 司会さんや他のゲストとも、うまく協力すれば」
+display
+com11 0 1
+sound 220
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「……って、それも甘えか。協力しての仕事も、
+line2 <shift> # いまいち不得手なときあるしなぁ、私……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だろう？　まぁ、そうムキになって、向かない
+line2 <shift> # 仕事をしなくても。今回は、この役、断ろうか」
+display
+com11 0 1
+sound 221
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そ、そんな！　せっかくの大役のオファー
+line2 <shift> # もらったのに、フイにしたくないですよぉ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （苦手な仕事で、ムリさせるわけにはいかないと
+line2 <shift> # 思い、俺は、律子の副司会役を断ることにした）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （でも、律子には、悔いがあったみたいだなぁ。
+line2 <shift> # 機会を逃したことでの後悔は、大きいか……）
+com09 0 49
+display
+location 49
+unk02

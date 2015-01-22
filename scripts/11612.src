@@ -1,0 +1,443 @@
+com2c 0 25
+com2d 0 21
+com32 0 0
+com11 0 0
+sound 0
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「出版社から、私の本を出したいって話が来てる
+line2 <shift> # んですって？　写真集ってことかしら？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、写真じゃなくて、文章がメインの本に
+line2 <shift> # したいらしいけど、内容は伊織に任せるって」
+display
+com11 0 0
+sound 1
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「任せる、って言われても……。だいたいの内容
+line2 <shift> # ぐらいは決めてくれないと、困るわよ〜」
+display
+com11 0 0
+sound 2
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「でも、本を出すこと自体は面白そうよね。
+line2 <shift> # ねえ。アンタは、どういう本がいいと思う？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「伊織の本か……。こういうのはどうかな？」
+com03 0 3
+choice1 <shift> # 『海外旅行でショッピング』
+line2
+com09 0 10
+com08
+choice2 <shift> # 『プロデューサーのいじめ方』
+line2
+com09 0 11
+com08
+choice3 <shift> # 『可愛さを保つ秘訣』
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「『伊織の海外旅行でショッピング』と題して、
+line2 <shift> # 旅行エッセイ風の本にしてみるとか！」
+display
+com11 0 0
+sound 3
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「いいじゃない、それ！　上手なショッピングの
+line2 <shift> # 仕方とか、オススメスポットの紹介とか……」
+display
+com11 0 0
+sound 4
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「それなら、いくらでも書けそうだわ！　取材っ
+line2 <shift> # てことで旅行にも行けちゃうかもしれないし！」
+display
+com11 0 0
+sound 5
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「グッドアイディアね！　ごほうびに、アンタも
+line2 <shift> # 取材旅行に連れて行ってあげなくもないわよ？」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「『プロデューサーのいじめ方』と題して、普段
+line2 <shift> # の伊織の姿を、日記風につづってみるとか！」
+display
+com11 0 0
+sound 6
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「たしかにそれなら、書きやすそうね。じゃあ
+line2 <shift> # 本のネタ作りのためにも、さっそく……」
+display
+com11 0 0
+sound 7
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「いじめてやるわよっ！　さあ、しなる物か
+line2 <shift> # 硬い物か、熱い物、どれがいいか選びなさい！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わあ！　その後ろにあるムチとハンマーと
+line2 <shift> # お灸は何だ、伊織！　命だけはお助けを〜」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「『可愛さを保つ秘訣』と題して、伊織がいつも
+line2 <shift> # やっている美容法を紹介してみるとか！」
+display
+com11 0 0
+sound 8
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「え〜、そんなテーマじゃ書くことないし、読ん
+line2 <shift> # だ人をうらやましがらせるだけになるわよ？」
+display
+com11 0 0
+sound 9
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「だって、私の可愛さは、生まれながらのもの
+line2 <shift> # だから、美容法とかは別にないのよね〜」
+display
+com11 0 0
+sound 10
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「凡人が必死で努力しても、私レベルの可愛さは
+line2 <shift> # 手に入らないわけ。ね、うらやましいでしょ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （たしかにうらやましい。
+line2 <shift> # ……その、ものすごい自信が）
+com09 0 19
+display
+location 19
+com11 0 0
+sound 11
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ま、それはそうと、どのくらいのページ数の本
+line2 <shift> # なの？　３０ページくらいかしら？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「とんでもない！　出版社からは、少なくとも
+line2 <shift> # ３００ページは欲しいって言ってきてるぞ」
+display
+com11 0 0
+sound 12
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そんなに多いのっ！？　ただでさえ忙しいのに
+line2 <shift> # そんなにたくさん書くなんて、ムリよ〜！！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、伊織がどうしてもムリなら、ゴースト
+line2 <shift> # ライターを使うって手もあるけど……」
+display
+com11 0 0
+sound 13
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「他の人が書いた本を、私が書いたって言って
+line2 <shift> # 出版する気？　なんだか気が進まないわ〜」
+display
+com11 0 0
+sound 14
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ラクはしたいけど、ファンにウソついてまで
+line2 <shift> # 本を出したいとは思わないし」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「伊織の気持ちはよくわかるよ。でも……」
+com03 0 3
+choice1 <shift> # 少しだけ手伝ってもらえば？
+line2
+com09 0 20
+com08
+choice2 <shift> # どうせウソで固めた人生だろ？
+line2
+com09 0 21
+com08
+choice3 <shift> # 他のアイドルだってやってるよ
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「少しだけ手伝ってもらえば？　内容とか構成
+line2 <shift> # とか、プロが相談にのってくれたら心強いだろ」
+display
+com11 0 0
+sound 15
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「相談にのってもらうだけで、文章は私が書けば
+line2 <shift> # ウソついてることには、ならないわよね……」
+display
+com11 0 0
+sound 16
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「いいわ。じゃ、そうする！　それでも３００
+line2 <shift> # ページは大変だから、アンタも手伝ってよね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え！？　俺が手伝ったら、それはそれで
+line2 <shift> # ファンにウソついてることに……」
+display
+com11 0 0
+sound 17
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ならないの！　だって、アンタはもう私の一部
+line2 <shift> # みたいなもんじゃない。だから、ＯＫでしょ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （よくわからない理屈だが……まあ、いいか）
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうせウソで固めた人生だろ？　今さら１つや
+line2 <shift> # ２つウソが増えたって、どうってことないさ！」
+display
+com11 0 0
+sound 18
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「きぃ〜っ！　なによそれ！　まさか、それで
+line2 <shift> # 励ましか何かのつもりじゃないでしょうねっ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そのつもりだけど？　ほら、ファンが好きな
+line2 <shift> # カワイイ伊織は、しょせん仮の姿なわけだし」
+display <shift> # トゥルルル……ピッ！
+display
+com11 0 0
+sound 19
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あ、もしもし？　私よ。今すぐ消してほしい人
+line2 <shift> # がいるんだけど、お願いできるかしら？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （どこに電話してるんだ、伊織！
+line2 <shift> # 消すって、どういうことだっ！？）
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「他のアイドルだってやってるよ。だから伊織も
+line2 <shift> # それにならってだな……」
+display
+com11 0 0
+sound 20
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「はあーあ……。だから、アンタはダメなのよ。
+line2 <shift> # まだまだ修行が足りないようね！」
+display
+com11 0 0
+sound 21
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そんな風にファンをないがしろにするような
+line2 <shift> # アイドルが、長く人気者でいられると思う？」
+display
+com11 0 0
+sound 22
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……そんなことも解ってないなんて、ここまで
+line2 <shift> # 来られたのは、やっぱり全て私の力かしら」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うう。ちょっとしたアドバイスのつもりが、
+line2 <shift> # 逆に軽蔑されてしまった気がする……）
+com09 0 29
+display
+location 29
+com11 0 0
+sound 23
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「さてと！　というワケで、
+line2 <shift> # やっぱり文章は私が書くことにするわね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そうか？　まあ量も量だし、書きやすいこ
+line2 <shift> # とからドンドン進めたほうがいいと思うが」
+display
+com11 0 0
+sound 24
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「書きやすいこと？　……っていうと、やっぱり
+line2 <shift> # プロデューサーのことよね」
+display
+com11 0 0
+sound 25
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あ、でも、書くとしたら、ファンには少し
+line2 <shift> # ショックな内容になっちゃいそうね……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おいおい、何を書く気か知らないが、俺の
+line2 <shift> # ことはムリして本に書かなくてもいいんだぞ」
+display
+com11 0 0
+sound 26
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ええー！　アンタのこと書かないなんて、
+line2 <shift> # 全然つまんないじゃないのよーっ！！」
+display
+com11 0 0
+sound 27
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そりゃ、変なこと書くより書かないほうがマシ
+line2 <shift> # かもしれないけど。……どうしようかしら？」
+display
+com11 0 0
+sound 28
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そうだわ、こんな時こそカードで決めましょ？
+line2 <shift> # ２枚のカードのうち、１枚を選んでちょうだい」
+display
+com11 0 0
+sound 29
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「それがジョーカーだったら、プロデューサーの
+line2 <shift> # ことは書かない。ハートのＡなら……書くわ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ん〜。伊織がそれで納得できるなら、そういう
+line2 <shift> # 決め方もいいか。よし、やろう！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （でも、俺の話なんてファンには退屈だろうし、
+line2 <shift> # 運任せだが、ここはジョーカーを選びたいな）
+com03 0 2
+choice1 <shift> # 右のカードを選ぶぞ！
+line2
+com09 0 30
+com08
+choice2 <shift> # 左のカードを選ぶぞ！
+line2
+com09 0 31
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「右のカードを選ぶぞ！　勝負！」
+com37 0 1
+com1e 0 0
+com09 0 38
+com3b
+com37 0 0
+com1e 0 0
+com09 0 39
+com3b
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「左のカードを選ぶぞ！　勝負！」
+com37 0 1
+com1e 0 0
+com09 0 38
+com3b
+com37 0 0
+com1e 0 0
+com09 0 39
+com3b
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「時間がない！　テキトーに勝負！」
+com09 0 39
+display
+location 38
+com11 0 0
+sound 30
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あっ、ジョーカー……。じゃ、プロデューサー
+line2 <shift> # のことは書かないことに決まりね。くぅ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「何をガッカリしてるんだ？　伊織が俺をどう
+line2 <shift> # 思ってるかなんて、俺達二人の問題だろ？」
+display
+com11 0 0
+sound 31
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「お、俺達二人の問題……。な、なんか大人な
+line2 <shift> # 感じね、その言い方。ちょっといいかも」
+display
+com11 0 0
+sound 32
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「私がアンタをどう思ってるか、アンタはちゃん
+line2 <shift> # と、わかってるわよね……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （伊織はじっと俺の目を見ている。信頼してくれ
+line2 <shift> # てるのは、ちゃんとわかってるつもりだよ）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （これからも全力でサポートするから、本も
+line2 <shift> # いいものに仕上げような！）
+com4b 0 0
+com09 0 49
+display
+location 39
+com11 0 0
+sound 33
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ハートのＡだわ！　それじゃ、さっそく
+line2 <shift> # プロデューサーのことから書いてみるわね！」
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 34
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「はい、書き出しのところ完成！
+line2 <shift> # アンタのことばっかり書いちゃったけど」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「早っ！　もう書いたのか！？
+line2 <shift> # ちょっと見せて……」
+display
+com11 0 0
+sound 35
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「さっそく出版社にＦＡＸして、
+line2 <shift> # 感想を聞いてみちゃいましょ♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え！　おい、伊織！」
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 36
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「返事のＦＡＸが来たわ！　読むわね。……この
+line2 <shift> # 内容でしたら、この話はなかったことに……」
+display
+com11 0 0
+sound 37
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「うそっ！？　せっかく一生懸命書いたのに、
+line2 <shift> # どうしてなのー！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （プロデューサーの話ばかり書いてある本
+line2 <shift> # なんて、嬉しいのは俺だけだもんな）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （俺がジョーカーを引いていれば、伊織にムダな
+line2 <shift> # 作業をさせずにすんだのに……すまない、伊織）
+com4b 0 2
+com09 0 49
+display
+location 49
+unk02

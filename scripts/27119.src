@@ -1,0 +1,240 @@
+com2c 0 45
+com2d 0 43
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「千早。ライブ、あとは後半を残すだけだな。
+line2 <shift> # さすがだよ。会場、大熱狂じゃないか」
+display
+com11 0 2
+sound 300
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ありがとう、ございます。はぁ……、くぅッ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ど、どうしたんだ？　そんなに苦しそうに、
+line2 <shift> # 息して。もしかして……」
+com03 0 2
+choice1 <shift> # ケガでも、したのか？
+line2
+com09 0 10
+com08
+choice2 <shift> # バテたのか？
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ケガでも、したのか？」
+display
+com11 0 2
+sound 301
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「じつは、すこし。フットライトで、足を切って
+line2 <shift> # しまって……」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「バテたのか？」
+display
+com11 0 2
+sound 302
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「は、はい、そうです。ペースを読み違えて、
+line2 <shift> # ……く、うッ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お、おい！　バテただけで、そんな顔……。
+line2 <shift> # まさか、ケガでも！？」
+display
+com11 0 2
+sound 303
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「すみません。じつは、すこし。フットライトで、
+line2 <shift> # 足を切ってしまって……」
+com09 0 29
+display
+location 29
+com11 0 2
+sound 304
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「でも、平気です。たいしたことは……。
+line2 <shift> # ドクターに、止血だけはしてもらいました」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「平気ってわりには、顔、青いぞ？　ストップ、
+line2 <shift> # かけられなかったのか？」
+display
+com11 0 2
+sound 305
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……大丈夫、ですから。信じてください」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……やっぱり、止められたんだな。くっ、
+line2 <shift> # 弱ったな。ダンスのプラン、いじらないと」
+display
+com11 0 2
+sound 306
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「プロデューサー？　あの……止めないん
+line2 <shift> # ですか？　私、続けても？」
+com03 0 2
+choice1 <shift> # 止めても、聞きはしないだろ？
+line2
+com09 0 30
+com08
+choice2 <shift> # ケガしたのは、自分の責任だろ？
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「止めても、聞きはしないだろ？」
+display
+com11 0 2
+sound 307
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……はい。理解してくれて、うれしいです」
+display
+com11 0 2
+sound 308
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「これだけのお客さんと過ごす時間、棒に
+line2 <shift> # 振りたくないですから」
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ケガしたのは、自分の責任だろ？」
+display
+com11 0 2
+sound 309
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……はい、その通りです。すべては、私の
+line2 <shift> # 不注意から」
+display
+com11 0 2
+sound 310
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「やってしまったことは、取り返せません。
+line2 <shift> # けど、降板しないことが、せめてもの……」
+com09 0 49
+display
+location 49
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、決めた！　最後の３曲は、ダンスなしで、
+line2 <shift> # 歌だけ。それなら、ふんばれるな？」
+display
+com11 0 2
+sound 311
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「もちろんです。必ず、全員を満足させて
+line2 <shift> # みせます」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それじゃあ、千早……」
+com03 0 3
+choice1 <shift> # いつも以上のデキ、期待してるぞ
+line2
+com09 0 50
+com08
+choice2 <shift> # いつも通りのデキ、期待してるぞ
+line2
+com09 0 51
+com08
+choice3 <shift> # 無理は、するなよ？
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いつも以上のデキ、期待してるぞ」
+display
+com11 0 2
+sound 312
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あ……ふふっ、厳しいですね。わかりました。
+line2 <shift> # ケガがハンデでないこと、示してみせます」
+display
+com11 0 2
+sound 313
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「すべての力を、歌に。そうすれば、痛みなんて。
+line2 <shift> # ……行ってきます！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後、千早が披露した歌は、鳥肌が立つよう
+line2 <shift> # な、すごいデキだった。この底力、さすがだな）
+com09 0 69
+display
+location 51
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いつも通りのデキ、期待してるぞ」
+display
+com11 0 2
+sound 314
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。ダンスがない分、歌にはいつも以上に、
+line2 <shift> # 力を入れて……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そこまでしなくていいよ。攻めすぎると、
+line2 <shift> # 今度は身体が心配だから」
+display
+com11 0 2
+sound 315
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「わ、わかりました。それでは、変わらない
+line2 <shift> # デキを、目標にして……！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後、千早はライブを無難にまとめてみせた。
+line2 <shift> # もっと突っ込ませても、千早なら、よかったか）
+com09 0 69
+display
+location 52
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「無理は、するなよ？」
+display
+com11 0 2
+sound 316
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「え？　あ、はい。でも、行く以上は、
+line2 <shift> # それなりのものは、見せたいと思います」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「がんばるのはいいけど、つぶれたら、元も子も
+line2 <shift> # ない。自分の身体と会話しながら、進めてくれ」
+display
+com11 0 2
+sound 317
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「セーブしながらでは、歌もどこか、遠慮がちに。
+line2 <shift> # けど……わかりました」
+display
+com11 0 2
+sound 318
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「万が一、ライブ自体をダメにしてしまったら、
+line2 <shift> # 大変です。言う通り、抑え気味に……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後、千早は安全運転で、ステージを終えた。
+line2 <shift> # どこか、活気のないライブに、なってしまった）
+com09 0 69
+display
+location 69
+unk02

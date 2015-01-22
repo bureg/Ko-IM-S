@@ -1,0 +1,281 @@
+com2c 0 46
+com2d 0 43
+com32 0 0
+com11 0 5
+sound 800
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「有名バンドの前座……。さすがに、すごい
+line2 <shift> # お客さんの数ですね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やっぱり、こういう仕事は、傷つく？」
+display
+com11 0 5
+sound 801
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「いえ。人は人、自分は自分ですから」
+com03 0 3
+choice1 <shift> # えらいな
+com09 0 10
+com08
+choice2 <shift> # オトナだな
+com09 0 11
+com08
+choice3 <shift> # で、本音は？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「えらいな」
+display
+com11 0 5
+sound 802
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そ、そうですか。ありがとうございます……」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「オトナだな」
+display
+com11 0 5
+sound 803
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そうでしょうか？　逆かもしれません。私、
+line2 <shift> # 自分のことしか、考える余裕がないから」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「で、本音は？」
+display
+com11 0 5
+sound 804
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「は？　とくに、なにも隠しては……。
+line2 <shift> # 本当に、そう思ってますけど」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「これっぽっちも、秘めた物はナシ？」
+display
+com11 0 5
+sound 805
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はい。そういうエネルギーは、ムダだと
+line2 <shift> # 思いますし」
+com09 0 29
+display
+location 29
+com11 0 5
+sound 806
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ところで、プロデューサー。今日のメイン
+line2 <shift> # バンドの歌、聴いたことありますか？」
+display
+com11 0 5
+sound 807
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「とてもいい曲、たくさん持ってるんです。でも、
+line2 <shift> # ボーカルの技量が、追いついてなくて……」
+display
+com11 0 5
+sound 808
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「よくこんな実力で、人気があるなって思います。
+line2 <shift> # これじゃ、歌が、あまりにもかわいそう……」
+com03 0 2
+choice1 <shift> # 千早は、きびしいな
+line2
+com09 0 30
+com08
+choice2 <shift> # 千早は、やさしいな
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「千早は、きびしいな」
+display
+com11 0 5
+sound 809
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「これだけは、許せません。いい歌は、
+line2 <shift> # やはり、それなりの人が歌うべきだって」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「千早は、やさしいな」
+display
+com11 0 5
+sound 810
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「自分では……そうは思えません。どう理由を
+line2 <shift> # つけても、陰口は陰口ですから。けど……」
+display
+com11 0 5
+sound 811
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「これだけは、やはり許せません。
+line2 <shift> # いい歌は、それなりの人が歌うべきだと」
+com09 0 49
+display
+location 49
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そこまで言うってことは、もしかして、
+line2 <shift> # 似たような歌、歌って、食っちゃえるか？」
+display
+com11 0 5
+sound 812
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「えっ？　やろうと思えば……できます。
+line2 <shift> # 別に、思い上がりとかではなく……」
+display
+com11 0 5
+sound 813
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「けど、いいですか？　手加減せずにやって
+line2 <shift> # しまったら、向こうのプライドはボロボロに」
+com03 0 3
+choice1 <shift> # かまわない。やっちゃおう
+line2
+com09 0 50
+com08
+choice2 <shift> # 負ける方が悪いと、思わない？
+line2
+com09 0 51
+com08
+choice3 <shift> # ……やめておくか
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 2
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「かまわない。やっちゃおう。それぐらいの
+line2 <shift> # 仕掛けは、していかないとな」
+display
+com11 0 5
+sound 814
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……わかりました。許してもらえるなら、
+line2 <shift> # 徹底的に」
+display
+com22 0 30
+com21 0 30
+com11 0 5
+sound 815
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「聴いてもらえました？　ご覧の通り」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おつかれさま。観客、静まり返ってたな」
+display
+com11 0 5
+sound 816
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「すぐ移動した方がいいですね。にらまれる前に。
+line2 <shift> # ……ふふっ、プロデューサー、やり手です」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （楽しく共犯ってとこかな。
+line2 <shift> # さ、目的は達したし、気持ちよく撤収しよう）
+com09 0 69
+display
+location 51
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「負ける方が悪いと、思わない？」
+display
+com11 0 5
+sound 817
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そう、ですね。プロは、実力勝負の世界です
+line2 <shift> # から」
+display
+com11 0 5
+sound 818
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……わかりました。許してもらえるなら、
+line2 <shift> # 徹底的に」
+display
+com22 0 30
+com21 0 30
+com11 0 5
+sound 819
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサー、聴いてもらえましたか？
+line2 <shift> # ご覧の通り、私……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おつかれさま。観客、静まり返ってたな」
+display
+com11 0 5
+sound 820
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……負ける方が、悪いんですよね。
+line2 <shift> # 私も……そう思います」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （すこし気兼ねしたように、ステージを見ている。
+line2 <shift> # まあ、でも、パフォーマンスとしては、成功か）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……やめておくか。後で問題になったら、
+line2 <shift> # 立場上、マズいし」
+display
+com11 0 5
+sound 821
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そうですね。私がどうこうしても、歌が
+line2 <shift> # 救われるわけではないですし」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「無難に、やってきてくれる？
+line2 <shift> # 先方の顔が立つ程度に」
+display
+com11 0 5
+sound 822
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そこまで、引く必要は……。
+line2 <shift> # でも、それが仕事なら。く……」
+display
+com22 0 30
+com21 0 30
+com11 0 5
+sound 823
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あんなもので……よかったですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やけに、元気なかったな」
+display
+com11 0 5
+sound 824
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「力がわかなくて。事を構えようとは思いません
+line2 <shift> # けど、何も手を抜けなんて、言わなくても……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （つらそうな顔で、俺の方をじっと見ている。
+line2 <shift> # ヘンにストップかけない方が、よかったか？）
+com09 0 69
+display
+location 69
+unk02

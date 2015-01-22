@@ -1,0 +1,225 @@
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おーい雪歩、時間あるかな？
+line2 <shift> # ちょっと軽く打ち合わせを……」
+display
+com11 0 4
+sound 100
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はぁ……ふぅ……よしっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あれ？　何やってるんだろう雪歩、
+line2 <shift> # 鏡に向かって……。少し様子を見るか）
+display
+com11 0 4
+sound 101
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「このままじゃいけない、変わるの、雪歩っ。
+line2 <shift> # ステージで、そんなにすくんじゃダメなのっ」
+display
+com11 0 4
+sound 102
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「時にはもっとシックに、時にはもっと大胆に」
+display
+com11 0 4
+sound 103
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「水面を行く白鳥は足元必死だけど、
+line2 <shift> # いつかは華麗に羽ばたくのっ」
+display
+com11 0 4
+sound 104
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ミスミスミスタードリドリラー、
+line2 <shift> # がんばれ自分、負けるな自分っ！」
+display
+com11 0 4
+sound 105
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「譜面は友達、こわくないっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ど、どうしたんだ、雪歩？
+line2 <shift> # ひとりで鏡にぶつぶつと」
+display
+com11 0 4
+sound 106
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「うあぁっきゃあっ！！
+line2 <shift> # な、なんでも……ありませぇん」
+display
+com11 0 4
+sound 107
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ぷ、プロデューサー、いつからそこに？」
+com03 0 3
+choice1 <shift> # 今来たばっかり
+line2
+com09 0 10
+com08
+choice2 <shift> # 少し前からずっと……
+line2
+com09 0 11
+com08
+choice3 <shift> # 俺は何も見てないぞ！
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、俺は、今来たばっかりだけど……」
+display
+com11 0 4
+sound 108
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そ、そうですか。ああ、よかったぁ」
+display
+com11 0 4
+sound 109
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「私、恥ずかしい秘密を見られたのかと
+line2 <shift> # 思って……、ちょっと、焦りました」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ？　恥ずかしい……って、
+line2 <shift> # いったいなんのこと？」
+display
+com11 0 4
+sound 110
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ひぃああ。な、なんでもないんです……。
+line2 <shift> # 気にしないでください、プロデューサー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ははは、なんだかわからないけど、いいや。
+line2 <shift> # ま、頑張ってな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うーん、おまじないか、なにかなのかな？
+line2 <shift> # とりあえず、見なかったことにしておこう）
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、少し前からずっといたよ。
+line2 <shift> # でも雪歩、気がつかなかったみたいだから」
+display
+com11 0 4
+sound 111
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「それでっ、あのその……、み、見ましたか？
+line2 <shift> # 今の」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。なんだかわからないけど……見た」
+display
+com11 0 4
+sound 112
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そ、そうですか、見ましたか……。
+line2 <shift> # あうぅ、じ、実は……」
+display
+com11 0 4
+sound 113
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あれは、あがり症防止の、
+line2 <shift> # おまじないなんですよぅ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうなのか……。
+line2 <shift> # ちょっと変わった、おまじないだね」
+display
+com11 0 4
+sound 114
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あはは……。ですよね。
+line2 <shift> # か、かっこわるい、ですよね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いやいや、少々驚きはしたけど、熱心さが
+line2 <shift> # こもった、いいおまじないじゃないか」
+display
+com11 0 4
+sound 115
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そ、そうですか……。あの、事務所の
+line2 <shift> # みなさんには、これ、内緒ですよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （雪歩がそういうなら、
+line2 <shift> # 内緒にしておいてやるか……）
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お、俺は何も見てないぞ！　誓って！」
+display
+com11 0 4
+sound 116
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「え、ええっ！？　み、見たんですね！
+line2 <shift> # ああうぅ……。は、はずかしいですっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「見てないってば！　本当に見てないよ、雪歩が
+line2 <shift> # 鏡に向かって、ぶつぶつ言ってるところなんて」
+display
+com11 0 4
+sound 117
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「見てるじゃないですかあっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「見てないって、怪しい呪文を唱えてるところ
+line2 <shift> # なんて。でも、あれはいったい……！？」
+display
+com11 0 4
+sound 118
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「や、やっぱり、見たんじゃないですかぁ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ぐっ。そ、それはっ……見たような気もする。
+line2 <shift> # 正直、気になるし、なんなのか知りたい」
+display
+com11 0 4
+sound 119
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「な、内緒にしてほしいんです！
+line2 <shift> # 事務所のみんなには、内緒にっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わ、わかった。誓って内緒だ。
+line2 <shift> # だから、俺だけに教えてくれ、な？」
+display
+com11 0 4
+sound 120
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ほ、ほんとうに秘密が守れますか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もちろんだ。
+line2 <shift> # こう見えても俺、口はとても軽いんだ」
+display
+com11 0 4
+sound 121
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そ、そんな……！　プロデューサー、それじゃ
+line2 <shift> # 私、とても話せませんっ。さ、さよならっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああっ。待て、雪歩……。
+line2 <shift> # しまった、行ってしまったか……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （真相は、謎のままになってしまった。
+line2 <shift> # しかしあれ、何の呪文なんだろうなぁ？）
+com09 0 29
+display
+location 29
+unk02

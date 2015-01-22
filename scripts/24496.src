@@ -1,0 +1,375 @@
+com2c 0 119
+com2d 0 51
+com2e 0 131
+com32 0 0
+com11 0 0
+sound 10000
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はぁ……。オーディション前の空気って、
+line2 <shift> # 独特ですよね……」
+display
+com11 0 0
+sound 10001
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「空気が張りつめているというか……。
+line2 <shift> # どうしても、緊張してしまいます〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わかりますが、まだまだ、戦いは始まったばか
+line2 <shift> # りです。弱気にならず、積極的にいきましょう」
+display
+com11 0 0
+sound 10002
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「積極的……、ですか。苦手な分野ですー」
+display
+com11 0 0
+sound 10003
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「高校の時、お昼の購買部で、
+line2 <shift> # パンを買えたこと、なかったですし……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それは……、積極性と関係あるのかな？
+line2 <shift> # ノンビリしてて、買えなかっただけでは？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ま、まあ、確かに、あずささんは優しいから、
+line2 <shift> # 周りに譲っちゃいそうな感じは、しますけどね」
+display
+com11 0 0
+sound 10004
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「でも、今回ばかりは、そうも言っていられませ
+line2 <shift> # んよね〜。なんとか、積極的にやってみます」
+display
+com11 0 0
+sound 10005
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ところで、積極性を身につけるには、
+line2 <shift> # どうすればいいのでしょう〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん……。自分の思いを、言葉にして、
+line2 <shift> # 念じてみるというのは、どうですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「自分に暗示をかけるんですよ。
+line2 <shift> # 効果があるかどうかは、わかりませんが……」
+display
+com11 0 0
+sound 10006
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、それ、いいかもしれません。
+line2 <shift> # 人の思いの力は、すごく強いですものね〜」
+display
+com11 0 0
+sound 10007
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「さっそく、試してみます。
+line2 <shift> # ん〜、どういう風に念じたら、いいですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん。たとえば……」
+com03 0 3
+choice1 <shift> # 『絶対合格してみせる！』
+line2
+com09 0 10
+com08
+choice2 <shift> # 『あずさはやればできる子よ！』
+line2
+com09 0 11
+com08
+choice3 <shift> # 『私はトップアイドル！』
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「『絶対合格してみせる！』とか、
+line2 <shift> # どうでしょう？」
+display
+com11 0 0
+sound 10008
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「なるほど。絶対合格してみせる……。
+line2 <shift> # 絶対合格してみせる……」
+display
+com11 0 0
+sound 10009
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、いい感じです。なんだか、
+line2 <shift> # 積極的になれそうな気が、してきました〜」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「『あずさはやればできる子よ！』なんていう
+line2 <shift> # のは、いかがでしょうか」
+display
+com11 0 0
+sound 10010
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「わ、わかりました。やってみます〜。
+line2 <shift> # あずさは、やればできる子よ！　あずさは……」
+display
+com11 0 0
+sound 10011
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「は、恥ずかしいですね、これ。とても、
+line2 <shift> # 何度もは、念じられそうにありません」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ダメですか……。
+line2 <shift> # 念じる言葉が、今ひとつだったかな？」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「『私はトップアイドル！』ってのは、
+line2 <shift> # どうですか？」
+display
+com11 0 0
+sound 10012
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「トップアイドル……、ですか。今の段階で、
+line2 <shift> # そう念じる資格、私にあるでしょうか〜？」
+display
+com11 0 0
+sound 10013
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「せめて、もう少し売れっ子さんにならないと、
+line2 <shift> # その念じ方は、使えないような気がします」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10014
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「あれ、プロデューサー、あずさ！
+line2 <shift> # おはようなの」
+display
+com11 0 0
+sound 10015
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「おはよう、美希ちゃん」
+display
+com11 0 0
+sound 10016
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「……どうしたの、あずさ？
+line2 <shift> # なんか元気ないの」
+display
+com11 0 0
+sound 10017
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「大丈夫よ、美希ちゃん。
+line2 <shift> # ちょっと、緊張しているだけだから」
+display
+com11 0 0
+sound 10018
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ふーん、そうなんだ。大変なんだね」
+display
+com11 0 0
+sound 10019
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「美希ちゃんは、オーディションの前とかに、
+line2 <shift> # 緊張しないの？」
+display
+com11 0 0
+sound 10020
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「するけど、平気なの！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「平気なの、って……。
+line2 <shift> # 美希は意外と度胸があるんだな」
+display
+com11 0 0
+sound 10021
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「あはっ。プロデューサー的には、ミキの好感度、
+line2 <shift> # アップした？　好きになってもいいよ？」
+display
+com11 0 0
+sound 10022
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はあ……。美希ちゃんには、
+line2 <shift> # かないそうにないわ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「気弱なことを言わないで下さい、あずささん」
+display
+com11 0 0
+sound 10023
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「きっと、あずさは難しいこと、考えすぎなんだ
+line2 <shift> # よ。なにも考えないで、やればいいって思うな」
+display
+com11 0 0
+sound 10024
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「なにも考えないで……。ありがとう、
+line2 <shift> # 美希ちゃん。参考にさせてもらうわね」
+display
+com11 0 0
+sound 10025
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「うん！　……あっ。そういえば、ミキ、７６５
+line2 <shift> # プロの人と話しちゃいけないの、忘れてたの！」
+display
+com11 0 0
+sound 10026
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ええっ？　もう少し、お話していかない？
+line2 <shift> # 色々、ききたいことも、あるのだけれど……」
+display
+com11 0 0
+sound 10027
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ダメなの。また、黒井社長が、
+line2 <shift> # 『ノン！』とか言って、怒っちゃうの」
+display
+com11 0 0
+sound 10028
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「じゃあね。……あ。
+line2 <shift> # あいさつもしちゃ、いけないんだった……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、おい、美希！　……行っちゃいました」
+display
+com11 0 0
+sound 10029
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「お話するのもダメなんて、
+line2 <shift> # なんだか美希ちゃん、かわいそう……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ええ。いくらなんでも、厳しすぎですよね。
+line2 <shift> # あれじゃ、友達もできないですよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「黒井社長の方針って、理解がしにくいです」
+display
+com11 0 0
+sound 10030
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「その黒井社長ですけれど、さっき、スタッフさ
+line2 <shift> # んがウワサしているのを、きいてしまって……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ほう。なんてウワサされてましたか？」
+display
+com11 0 0
+sound 10031
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「とても非情な人で、強引すぎるやり方に、つぶ
+line2 <shift> # されてしまったアイドルが何人もいるとか……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうですか……。そんな人の下に、
+line2 <shift> # 美希がいるなんて、心配ですね……」
+display
+com11 0 0
+sound 10032
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ええ、本当に。９６１プロのやり方にした
+line2 <shift> # がって、無理な活動をしているうちに……」
+display
+com11 0 0
+sound 10033
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「美希ちゃんが、どんどん遠くにいってしまって、
+line2 <shift> # ツラい思いをしないか、心配です」
+display
+com11 0 0
+sound 10034
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あの……、プロデューサーさん。美希ちゃん、
+line2 <shift> # ７６５プロに、帰ってきますよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （正直、わからない。
+line2 <shift> # もしかすると、このまま、美希は……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （いかんいかん！　俺が弱気になってどうする！
+line2 <shift> # あずささんを不安にさせないようにしなきゃな）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「大丈夫ですよ。おなかがすいたら戻ってきます。
+line2 <shift> # あずささんだってそう言ってたじゃないですか」
+display
+com11 0 0
+sound 10035
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そう、ですね……。美希ちゃんが移籍した理由
+line2 <shift> # すら、なかなかわからないものですから……」
+display
+com11 0 0
+sound 10036
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「私、つい不安になってしまって。
+line2 <shift> # すみませんでした〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いえいえ。でも、俺にすまないと思う気持ちが
+line2 <shift> # あるなら、その借りは、合格で返して下さいね」
+display
+com11 0 0
+sound 10037
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ふふっ。プロデューサーさんったら……。
+line2 <shift> # では、借りを返せるよう、がんばります」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （９６１プロは強敵だが、絶対に負けられない！
+line2 <shift> # 俺も、あずささんと一緒に、頑張るぞ！）
+com09 0 99
+display
+location 99
+unk02

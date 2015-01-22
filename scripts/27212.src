@@ -1,0 +1,288 @@
+com2c 0 24
+com2d 0 41
+com32 0 0
+com11 0 2
+sound 600
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はあ……、それでは、プロデューサー。
+line2 <shift> # 雑誌の取材、受けてきます」
+display
+com11 0 2
+sound 601
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「今日も、インタビュアー、あのクマみたいな
+line2 <shift> # 記者なんですね。きっと、つらい時間に……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あの人、なにか問題でもあるのか？
+line2 <shift> # まさか……」
+com03 0 3
+choice1 <shift> # 口が悪い、とか？
+line2
+com09 0 10
+com08
+choice2 <shift> # セクハラする、とか？
+line2
+com09 0 11
+com08
+choice3 <shift> # アイドルマニア、とか？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「口が悪い、とか？」
+display
+com11 0 2
+sound 602
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「悪いわけじゃないんですけど……。つまらない
+line2 <shift> # ギャグで、私を笑わせようとするんです」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「セクハラする、とか？」
+display
+com11 0 2
+sound 603
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そんなことはしません。ただ、悪い人でない
+line2 <shift> # だけに、余計に困るというか……」
+com09 0 91
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「アイドルマニア、とか？」
+display
+com11 0 2
+sound 604
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そういう趣味は、ないみたいです。でも、その、
+line2 <shift> # すこし押しつけがましいというか……」
+com09 0 91
+display
+location 91
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いまいち、わからないな。どんなことを
+line2 <shift> # するんだ？」
+display
+com11 0 2
+sound 605
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「いつも、つまらないギャグで、私を
+line2 <shift> # 笑わせようとするんです」
+com09 0 29
+display
+location 29
+com11 0 2
+sound 606
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「『女の子は、笑顔が一番！』とか言って。
+line2 <shift> # これでもか、これでもかと、しつこく……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか……。ところで千早、ギャグとかで
+line2 <shift> # 笑い転げたことってある？」
+display
+com11 0 2
+sound 607
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「転げるまでいったことは、ないと思います。
+line2 <shift> # ちょっと笑うくらいが、せいぜいで……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……なんか、俺も、無性に笑わせてみたく
+line2 <shift> # なってきたな」
+display
+com11 0 2
+sound 608
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「や、やめて下さい、プロデューサーまで。私
+line2 <shift> # の笑顔なんて、いつも見てるのに、どうして？」
+com03 0 3
+choice1 <shift> # 不可能に、挑戦してみたいから
+line2
+com09 0 30
+com08
+choice2 <shift> # 笑顔、かわいいと思うから
+line2
+com09 0 31
+com08
+choice3 <shift> # 千早のツボ、見極めたいから
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「不可能に、挑戦してみたいから」
+display
+com11 0 2
+sound 609
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そういう気持ち、わかります。けど、私、
+line2 <shift> # 大笑いなんて、まずしないと思います」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「笑顔、かわいいと思うから」
+display
+com11 0 2
+sound 610
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「かわいくなんて、ありません。笑ったからって、
+line2 <shift> # 顔自体が、変わるわけでは……」
+display
+com11 0 2
+sound 611
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「それに、なにを言ったって、大笑いなんて
+line2 <shift> # しないと思います。きっと、時間のムダ……」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「千早のツボ、見極めたいから」
+display
+com11 0 2
+sound 612
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そんなもの、ありません。プロデューサー、
+line2 <shift> # 知ってますよね？　私の性格……」
+display
+com11 0 2
+sound 613
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「冗談とかで、笑う人間じゃないんです。
+line2 <shift> # なにをやっても、きっと時間のムダ……」
+com09 0 49
+display
+location 49
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、そう言うなって。ちょっとだけ、
+line2 <shift> # 一発ギャグ、試してみてもいいだろ？」
+display
+com11 0 2
+sound 614
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「なら……どうぞ。私、ここでおとなしく
+line2 <shift> # 聞いてますから……」
+com03 0 3
+choice1 <shift> # ……びよ〜ん！
+line2
+com09 0 50
+com08
+choice2 <shift> # アイドルが、アイドリング！
+line2
+com09 0 51
+com08
+choice3 <shift> # コニチハ、シャチョサーン！
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 2
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……びよ〜ん！」
+display
+com11 0 2
+sound 615
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「は？　……び、びよ？
+line2 <shift> # ………………ぷっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、笑ったな！　そんなにおもしろかった？」
+display
+com11 0 2
+sound 616
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「だってプロデューサー、すごい真剣な顔で、
+line2 <shift> # 私の顔、見て。ふふッ、ふふふふふッ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （……勝った。よし、このまま笑顔で、取材を
+line2 <shift> # 受けてもらうとしよう）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「アイドルが、アイドリング！」
+display
+com11 0 2
+sound 617
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……………………………………………………
+line2 <shift> # ……………………………………………………」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「つ、つまらなかったか？　ちなみにアイドリン
+line2 <shift> # グっていうのは、車が止まったまま……」
+display
+com11 0 2
+sound 618
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「説明してもらわなくても、わかります。
+line2 <shift> # エンジンを空ブカシすることですよね？」
+display
+com11 0 2
+sound 619
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「なにがおもしろいのか、私にはよく……。
+line2 <shift> # あ、取材、もう行かないと」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （く、クスっとも、笑わすことができなかった。
+line2 <shift> # ベタなダジャレは、完全に空振りだったな）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「コニチハ、シャチョサーン！」
+display
+com11 0 2
+sound 620
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……………………………………………………
+line2 <shift> # ……………………………………………………」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、あれ、つまらなかった？」
+display
+com11 0 2
+sound 621
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「説明してもらわなくても、わかります。
+line2 <shift> # それはギャグというより、芸なのでは？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う、そうかも……。で、どうなんだ？
+line2 <shift> # そんなには、笑えない？」
+display
+com11 0 2
+sound 622
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「どうせなら、シャチョサーンの、チョの部分を
+line2 <shift> # 半音あげると、より滑稽になると思います」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （く、冷静にアドバイスされてしまった。ある
+line2 <shift> # 意味、つまらないと言われるより、屈辱だ……）
+com09 0 69
+display
+location 69
+unk02

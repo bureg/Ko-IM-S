@@ -1,0 +1,313 @@
+com2c 0 25
+com2d 0 81
+com32 0 0
+com11 0 0
+sound 10000
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ミーティングかー。き、緊張するな……。
+line2 <shift> # ボクの、どんなことから、話せばいいですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだな。じゃあ、まず、真の……」
+com03 0 2
+choice1 <shift> # 年齢から、教えてくれ　
+line2
+com09 0 10
+com08
+choice2 <shift> # 性別から、教えてくれ　
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「年齢から、教えてくれ」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「わっかりました！　この間、１６歳になった
+line2 <shift> # ばかりの、高校生ですっ！」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「……って、あああ、アイドルは、あんまり年と
+line2 <shift> # か、ペラペラしゃべっちゃ、いけませんか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「別にかまわないよ。こんなの、履歴書
+line2 <shift> # 見れば、一発でわかることなんだし」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あはっ、それもそっか。プロデューサーには、
+line2 <shift> # なんでもバレバレってことですね」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「性別から、教えてくれ」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「性別？　女に、決まってるじゃ……。ああっ、
+line2 <shift> # さりげなく、ひどいコト言ってません？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ごめんごめん。一応、確認しておこうと
+line2 <shift> # 思ってな」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ううう、プロデューサーは、社長とは違うって、
+line2 <shift> # 思ってたのに〜〜〜」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ボクは正真正銘の、１６歳の女の子ですっ。
+line2 <shift> # ……ちゃんと、覚えておいて下さいね」
+com09 0 19
+display
+location 19
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「さっき、ジムでダンスしてたようだけど、
+line2 <shift> # 踊りとかは好きなのか？」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はい！　っていっても、まだ見られたモンじゃ
+line2 <shift> # ないですけど。とりえは、体力だけで」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「いつか、もっとうまくなって、ＴＶの歌番組や、
+line2 <shift> # 大きなステージで、華麗に踊りたいよなー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだな。そういう華やかな舞台に
+line2 <shift> # 立つのは……」
+com03 0 3
+choice1 <shift> # 女の子の夢だもんな　
+line2
+com09 0 20
+com08
+choice2 <shift> # ダンサーの夢だもんな　
+line2
+com09 0 21
+com08
+choice3 <shift> # 男のロマンだもんな　
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「女の子の夢だもんな」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「へへっ、そうです！　誰もが抱く憧れって、
+line2 <shift> # やつです！」
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ダンサーの夢だもんな」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ダンサー？？？　ボクがめざしてるのは、
+line2 <shift> # アイドルですよ？　カン違いしてませんか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「っと、そうだったな。真としては、アイドルの
+line2 <shift> # 方が、プロダンサーより、いいのか？」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あったり前です！　アイドルの方が、断然
+line2 <shift> # かわいく見られますから！」
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「男のロマンだもんな」
+display
+com11 0 0
+sound 10012
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「へへっ、そうです！　男に生まれたからには、
+line2 <shift> # 誰でも、一度は……」
+display
+com11 0 0
+sound 10013
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「って、誰が男ですかーっ！　ボクは、
+line2 <shift> # 女の子ですー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あはは……、そ、そうだよな。
+line2 <shift> # 女の子、女の子……」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「わかってて、言ってませんか？
+line2 <shift> # 初対面なのに、イジワルだよな〜」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 10015
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「よーし、これからがんばって、たくさんの
+line2 <shift> # 男の子に騒がれる存在に、なるぞー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もちろん男のファンは大切だけど、真の
+line2 <shift> # そのルックスなら、女の子もねらえるよな」
+display
+com11 0 0
+sound 10016
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「えッ！？　そ、そ、それって、
+line2 <shift> # どういう意味です？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「かわいさだけじゃなく、りりしさもアピールし
+line2 <shift> # ていこうってコト。社長も、同じ考えだと思う」
+display
+com11 0 0
+sound 10017
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うう、微妙な気分〜。言ってることは、わかり
+line2 <shift> # ますけど、できれば、かわいさで勝負したいな」
+display
+com11 0 0
+sound 10018
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「どうして、男のファンだけをねらっちゃ、
+line2 <shift> # いけないんです？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う……。そ、それは、つまり……」
+com03 0 3
+choice1 <shift> # ブームは、女性が作るものだから　
+line2
+com09 0 30
+com08
+choice2 <shift> # 男受けは、期待できないから　
+line2
+com09 0 31
+com08
+choice3 <shift> # 企業秘密だ　
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ブームは、女性が作るものだからだ。
+line2 <shift> # そこをおさえるのは、人気商売の基本だろ？」
+display
+com11 0 0
+sound 10019
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うわー、そんなところまで考えてるなんて！
+line2 <shift> # プロデューサーって、すごい職業なんですね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「当然だよ。売れるための作戦は、俺が練る。
+line2 <shift> # 真は、歌やダンスで、精一杯努力してくれ」
+display
+com11 0 0
+sound 10020
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はい、わかりました！　ボクは、ボクのできる
+line2 <shift> # ことで、がんばりますっ。へへ〜♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （もっともらしい解説で、信頼を勝ち得た！
+line2 <shift> # どうやらミーティング、大成功だな！）
+com09 0 39
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「男受けは、期待できないからだ。……そのー、
+line2 <shift> # あまり、チヤホヤされるタイプには見えないし」
+display
+com11 0 0
+sound 10021
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ぐ……。それって、遠回しに、ボクには女と
+line2 <shift> # しての魅力がないって、言ってませんか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなことは、ないよ！　単に、自分の長所と
+line2 <shift> # 欠点を知ることも大切だ、と言いたいだけで」
+display
+com11 0 0
+sound 10022
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「欠点って、つまり、女らしくないってこと
+line2 <shift> # でしょ〜。くぅ、どうせボクは男女ですよ〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （しまった。イジけてしまった……。もっと、
+line2 <shift> # デリカシーのある言葉を選ぶべきだったな）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （……その後、落ち込んだ真を元気づけるのに、
+line2 <shift> # ミーティング時間いっぱいを費やすハメになった）
+com09 0 39
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「企業秘密だ。そうカンタンに、教えるわけには
+line2 <shift> # いかないよ」
+display
+com11 0 0
+sound 10023
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「えええっ、話して下さいよ〜。もしかして、
+line2 <shift> # 言ったら、ボクが傷つくような理由じゃ……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなことは、ない！　こ、この話はもう
+line2 <shift> # 終わりだ。なにか、別の話題を……」
+display
+com11 0 0
+sound 10024
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あやしいなあ……。ボクじゃ、男の子の気
+line2 <shift> # なんて、ひけるワケないとか、思ってません？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （う、疑念の眼差しで、見られてしまった。失敗
+line2 <shift> # だったな。けど、男受けしないとは言えないし）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （……その後、言い訳を重ねて、なんとか真の
+line2 <shift> # 機嫌をとったが……かなりの時間を浪費した）
+com09 0 39
+display
+location 39
+unk02

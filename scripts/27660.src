@@ -1,0 +1,346 @@
+com2c 0 87
+com2d 0 44
+com32 0 0
+com11 0 3
+sound 700
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「なんです？　私の水着、なにか、ついて
+line2 <shift> # ますか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「い、いや……。ビデオ用の撮影、
+line2 <shift> # もう終わったのか？」
+display
+com11 0 3
+sound 701
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はい。泳いでるシーンばかり、５回も撮りま
+line2 <shift> # した。スタッフに、おせじを言われながら」
+com03 0 3
+choice1 <shift> # 飛び魚みたい、とか？
+line2
+com09 0 10
+com08
+choice2 <shift> # 人魚みたい、とか？
+line2
+com09 0 11
+com08
+choice3 <shift> # 超セクシー、とか？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「飛び魚みたい、とか？」
+display
+com11 0 3
+sound 702
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「だいたい、そんなことです。体は細いけど、
+line2 <shift> # まるでバネが泳いでるように見えるって」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「人魚みたい、とか？」
+display
+com11 0 3
+sound 703
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「それは、言われませんでした。とくに
+line2 <shift> # きらびやかな方でも、ありませんし」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ、なんて？」
+com09 0 91
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「超セクシー、とか？」
+display
+com11 0 3
+sound 704
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……そんなこと、言われるわけないこと、
+line2 <shift> # わかってますよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか？　に、にらまないでくれよ。じゃあ、
+line2 <shift> # なんて？」
+com09 0 91
+display
+location 91
+com11 0 3
+sound 705
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「飛び魚みたいって。体は細いけど、まるで
+line2 <shift> # バネが泳いでるように見えるって」
+com09 0 29
+display
+location 29
+com11 0 3
+sound 706
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「スマートに見えても、正直、うれしくないです。
+line2 <shift> # 私、もうすこし、太った方がよくないですか？」
+display
+com11 0 3
+sound 707
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「こんな細い体じゃ、声の響きも悪いと思うんで
+line2 <shift> # す。できれば、オペラ歌手みたいな体格に……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「気持ちはわかるけど、あまり極端なのは……。
+line2 <shift> # 世間的には、アイドルなんだし」
+display
+com11 0 3
+sound 708
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あ、ソフトクリームとか、よかったら、買って
+line2 <shift> # きてもらえますか？　そ、その……」
+com03 0 2
+choice1 <shift> # 食べたくなった？
+line2
+com09 0 30
+com08
+choice2 <shift> # 太るのは、ダメだって！
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「食べたくなった？」
+display
+com11 0 3
+sound 709
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「これだけ、体力を使うと、さすがに
+line2 <shift> # 糖分が……。いいですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ＯＫ。そういうことなら、いくつか、買って
+line2 <shift> # くるよ。スタッフも、欲しがるだろうから」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「太るのは、ダメだって！」
+display
+com11 0 3
+sound 710
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「いえ、そういうわけじゃ。ただ、食べたく
+line2 <shift> # なっただけです。糖分が欲しくて……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、運動したからか。ＯＫ。そういうことなら、
+line2 <shift> # いくつか買ってくる。スタッフの分も、一緒に」
+com09 0 49
+display
+location 49
+com22 0 30
+com21 0 30
+com11 0 3
+sound 711
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……太くなくても、共鳴する体。
+line2 <shift> # できれば、筋力は、今のままを維持……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「千早、今、食べたので３個目だぞ？
+line2 <shift> # このままじゃ、ほんとに太って……」
+display
+com11 0 3
+sound 712
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あっ！　す、すみません。もうやめます。
+line2 <shift> # ……そろそろ、引き上げますか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうしよう。でも、その前に……動くな！」
+com0e 1 153
+com44
+com09 0 50
+com45
+com44
+com09 0 51
+com45
+com44
+com09 0 52
+com45
+com44
+com09 0 53
+com45
+com44
+com09 0 54
+com45
+com44
+com09 0 55
+com45
+display
+location 50
+com34 0 2
+com11 0 3
+sound 713
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あ……ソフト、クリーム？　全然、気が
+line2 <shift> # つかなかったです」
+display
+com11 0 3
+sound 714
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「買ってきてもらった上に、こんなこと……。
+line2 <shift> # あの、ありがとうございました」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ふぅ……うまく、ふくことができた。
+line2 <shift> # 場所が場所だけに、緊張したな）
+com09 0 69
+display
+location 51
+com34 0 1
+com11 0 3
+sound 715
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あ……ソフト、クリーム？　全然、気が
+line2 <shift> # つかなかったです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う……、完全には取れなかったな。このまま
+line2 <shift> # じゃ、ベタついて……」
+display
+com11 0 3
+sound 716
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「大丈夫。すぐ更衣室にいって、ふきます。
+line2 <shift> # 教えてくれて、ありがとうございました」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うーん。緊張して、うまくふけなかったな。
+line2 <shift> # ま、自分でふくと言ってるし、いいか）
+com09 0 69
+display
+location 52
+com11 0 3
+sound 717
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「う……プロデューサー、なにを……？
+line2 <shift> # どうして、目なんて……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「い、いや、充血してるから、マッサージして
+line2 <shift> # おこうかと」
+display
+com11 0 3
+sound 718
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ワケわからないこと、しないでください。
+line2 <shift> # 余計に赤く……」
+display
+com11 0 3
+sound 719
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「私、目、洗ってきます。忠告は、口でして
+line2 <shift> # もらえれば、十分です」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （痛みに耐えながら、こちらをにらんでいる。
+line2 <shift> # あ、あれ？　首元のあたりに、なにか……）
+com09 0 69
+display
+location 53
+com11 0 3
+sound 720
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はっ！　プロデューサー？　いや……こんな
+line2 <shift> # こと。……くっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あああ、ちがうんだ！　ほら、ソフトクリーム、
+line2 <shift> # 体についてるから、取ろうと……」
+display
+com11 0 3
+sound 721
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あ……。だったら、そう言ってくれれば。
+line2 <shift> # 自分で取れば、こんな、まちがい……」
+display
+com11 0 3
+sound 722
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……ここは、おさめます。悪気はなかったと
+line2 <shift> # 思うし。けど……もっと自重してください」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （言いながらも、瞳からは警戒の色が消えない。
+line2 <shift> # とんでもないところを、さわってしまった……）
+com09 0 69
+display
+location 54
+com11 0 3
+sound 723
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサー？　なんで、そんなところ、
+line2 <shift> # さわって。……いやがらせ、ですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、そろそろ、乾いたかなと思って。
+line2 <shift> # 濡れたままだと、冷えるかなって」
+display
+com11 0 3
+sound 724
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そんなの、口で話せば済むことですよね？
+line2 <shift> # やって、許されることと、許されないことが」
+display
+com11 0 3
+sound 725
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ちょっとは、考えてください。人が人なら、
+line2 <shift> # 訴えられます」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （マユを寄せながら、ため息をついている。
+line2 <shift> # あ、あれ？　首元のあたりに、なにか……）
+com09 0 69
+display
+location 55
+com11 0 3
+sound 726
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「どうしたんです、プロデューサー？
+line2 <shift> # 動くなって、なぜ……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、どうしようか、迷ったんだけど……。
+line2 <shift> # そのー、ソフトクリーム、肌についてる」
+display
+com11 0 3
+sound 727
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「え、本当ですか？　私、全然、気づきません
+line2 <shift> # でした」
+display
+com11 0 3
+sound 728
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……鏡、見ながら、水で洗ってきます。
+line2 <shift> # できれば、もっと早く、伝えて……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （つい考え込んで、時間を浪費してしまった。
+line2 <shift> # あれぐらい、俺が指でふいても、よかったか？）
+com09 0 69
+display
+location 69
+unk02

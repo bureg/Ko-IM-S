@@ -1,0 +1,236 @@
+com2c 0 24
+com2d 0 61
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「喜べ雪歩。この間、発売したＣＤが、チャート
+line2 <shift> # を順調に上昇中だ。ランクＤ入りした効果かも」
+display
+com11 0 3
+sound 1400
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「応援してくれる人が、そんなに増えたなんて、
+line2 <shift> # ……か、感激ですっ」
+display
+com11 0 3
+sound 1401
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「嬉しくて、嬉しくて、その、ちょっと、
+line2 <shift> # 照れますよねっ。ああ、でも……、困ったな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「何を困るって言うんだ。そういや最近の雪歩、
+line2 <shift> # ステージでも、ますます活発になってきてるな」
+display
+com11 0 3
+sound 1402
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そ、そうですか？　だ、だけど私……、
+line2 <shift> # あれは私じゃないから……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「活発で実に結構……、って、えっ？
+line2 <shift> # 『私じゃない』って、どういうこと？」
+com03 0 3
+choice1 <shift> # 謙遜かな
+com09 0 10
+com08
+choice2 <shift> # 自信持とうよ
+line2
+com09 0 11
+com08
+choice3 <shift> # ええっ、　別人なの？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんな、謙遜かな？
+line2 <shift> # いい感じだと思うけどなぁ」
+display
+com11 0 3
+sound 1403
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ、あの、でも……、いえ、
+line2 <shift> # 私、わからないんです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わからない？」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もっと自信持とうよ！　ステージでの派手な
+line2 <shift> # 雪歩が好きなファン、たくさんいると思うぞ」
+display
+com11 0 3
+sound 1404
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「で、でも、私、わからないから……、
+line2 <shift> # だから自信なんて、持てないです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わからない？」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええっ、別人なの？　雪歩本人に、
+line2 <shift> # 間違いないと思ってたけど」
+display
+com11 0 3
+sound 1405
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ、いえ、そうじゃないですけど。
+line2 <shift> # ああ、でも、そうなのかも……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よくわからないな、替え玉なんかじゃないのは、
+line2 <shift> # 俺だって、わかるんだけど」
+display
+com11 0 3
+sound 1406
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「私も、よくわからない……、
+line2 <shift> # わからなくなって……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わからない？」
+com09 0 29
+display
+location 29
+com11 0 3
+sound 1407
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「私、ときどき、ステージに立っている、
+line2 <shift> # 自分のことが、わからなくて……」
+display
+com11 0 3
+sound 1408
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「自分でなにをしているのか、わからなくて、
+line2 <shift> # それで、その、でしゃばりすぎてしまって」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん。確かに、照れを勢いでごまかすような、
+line2 <shift> # そんな時も、たまにはあるかもしれないね」
+display
+com11 0 3
+sound 1409
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「いつも……、ほとんどそうですよ、私。
+line2 <shift> # 自分がコントロールできてなくって、雑で」
+display
+com11 0 3
+sound 1410
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「バックバンドの人にも、迷惑かけて。ステージ
+line2 <shift> # の私は、勝手に一人歩きをしてしまうから……」
+display
+com11 0 3
+sound 1411
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そういうの、やっぱり、
+line2 <shift> # よくない気がするんです」
+com03 0 2
+choice1 <shift> # 雪歩が気になるなら……
+line2
+com09 0 30
+com08
+choice2 <shift> # 俺も気になるけど……
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「雪歩が気になるって言うなら、それは、
+line2 <shift> # なんとかしたいし、するべきかな」
+display
+com11 0 3
+sound 1413
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ですよね。私、ほんとに、うまく
+line2 <shift> # できなくって……、ううっ、すみません」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、焦る必要ないよ。今からでも、時間を
+line2 <shift> # かけて、だんだん、うまくやれるようになれば」
+display
+com11 0 3
+sound 1414
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「でもでもっ、これまでだって、時間はたくさん
+line2 <shift> # あったのに、できるようになれなくてっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「これから先だってまだ長いさ。アイドルの頂点
+line2 <shift> # までは……。でも、大丈夫、一緒に頑張ろう！」
+display
+com11 0 3
+sound 1415
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「は、はいっ。これからもいろいろ、
+line2 <shift> # お世話になります、プロデューサーっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （表情は、まだ少し不安げだけど、
+line2 <shift> # 雪歩は、しっかりとうなずいてくれた）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺も、気になるけど……、仕方ないと思うな」
+display
+com11 0 3
+sound 1420
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「仕方なくないですよぉ。
+line2 <shift> # アイドル失格に、なっちゃいます」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、まあ確かに、自分を、
+line2 <shift> # コントロールできないのは困る」
+display
+com11 0 3
+sound 1417
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「やっぱり、困りますよね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「けど、ステージ映えしてるから、今のままでも、
+line2 <shift> # 平気だと思うよ。人気も出てきてるんだしさ」
+display
+com11 0 3
+sound 1418
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「う、うーん……、でも私、それだと、
+line2 <shift> # 自分の力で歌ってるって、言えないような気が」
+display
+com11 0 3
+sound 1419
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「つまり、自分の歌に無責任になっちゃう
+line2 <shift> # ような……、そんな気が、するんです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それでも、歌っているのは雪歩自身に、
+line2 <shift> # 間違いないじゃないか。大丈夫だよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺の言葉に、
+line2 <shift> # 雪歩は、納得できなかったようだ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （結構悩んでるみたいだな。もっと前向きに、
+line2 <shift> # 自信を持ってやってくれていいのに……）
+com09 0 49
+display
+location 49
+unk02

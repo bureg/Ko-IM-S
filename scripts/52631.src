@@ -1,0 +1,627 @@
+com2d 0 91
+com2e 0 101
+com2c 0 25
+com32 0 0
+com11 0 0
+sound 0
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ちがうよーっ！
+line2 <shift> # ぜったい真美のせいだもんっ」
+display
+com11 0 0
+sound 1
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ズルいよ亜美ー。
+line2 <shift> # ぜったい亜美が悪いーっ！」
+display
+com11 0 0
+sound 2
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「真美、真美、真美、真美ーっ！」
+display
+com11 0 0
+sound 3
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「亜美、亜美、亜美、亜美ーっ！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「おいおい、俺が出かけてるうちに、
+line2 <shift> # なにがあったんだ？」
+display
+com11 0 0
+sound 4
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「なにって、それは……」
+display
+com11 0 0
+sound 5
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「亜美が悪いんだからねっ！」
+display
+com11 0 0
+sound 6
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「真美のせいだって、言ってるでしょ〜っ！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （このままじゃ、キリがないな……）
+com03 0 3
+choice1 <shift> # ケンカ両成敗だぞ
+line2
+com09 0 10
+com08
+choice2 <shift> # 互いに謝るんだ
+line2
+com09 0 11
+com08
+choice3 <shift> # なにがあったか話すんだ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「ケンカ両成敗だぞ」
+display
+com11 0 0
+sound 7
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「なに？　リョーセイバイって？」
+display
+com11 0 0
+sound 8
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「真美、そんなこともしらないのー？
+line2 <shift> # カエルのことだよねー？」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「それは両生類だ……」
+display
+com11 0 0
+sound 9
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「なーんだ。亜美も知らないんだ！」
+display
+com11 0 0
+sound 10
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「知ってて、わざとまちがえたんだよーだ」
+display
+com11 0 0
+sound 11
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「亜美の知ったかブリブリーっ！」
+display
+com11 0 0
+sound 12
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「フンだ！　真美のおしりブリブリーっ！」
+com09 0 29
+display
+location 11
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「互いに謝るんだ」
+display
+com11 0 0
+sound 13
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「なんで真美が悪いのに、
+line2 <shift> # 亜美も謝んのー！？」
+display
+com11 0 0
+sound 14
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「真美は悪くないもん。
+line2 <shift> # 亜美だけが謝ればいいんだよー！」
+display
+com11 0 0
+sound 15
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「真美が謝るのっ！」
+display
+com11 0 0
+sound 16
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「亜美、亜美、亜美、亜美ーっ！」
+display
+com11 0 0
+sound 17
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「真美、真美、真美、真美ーっ！」
+com09 0 29
+display
+location 12
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「なにがあったか話すんだ」
+display
+com11 0 0
+sound 18
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「あ。亜美は知らないも〜んっ。
+line2 <shift> # 真美に聞けばいいでしょ〜？」
+display
+com11 0 0
+sound 19
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「真美だって、知らないもんっ！
+line2 <shift> # あ。亜美が知ってるって言ってたよ……」
+display
+com11 0 0
+sound 20
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「そんなこと言ってないでしょ〜っ！
+line2 <shift> # 真美のウソウソウソつきーっ！」
+display
+com11 0 0
+sound 21
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「真美、ウソつきじゃないもんっ！
+line2 <shift> # 亜美がウソウソウソつきーっ！」
+display
+com11 0 0
+sound 22
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「真美、真美、真美、真美ーっ！」
+display
+com11 0 0
+sound 23
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「亜美、亜美、亜美、亜美ーっ！」
+com09 0 29
+display
+location 29
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （頭が痛くなってきた……）
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （とにかく理由を探らないことには
+line2 <shift> # 仲直りさせようがないな）
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「わかった。ふたりとも話す気がないのなら、
+line2 <shift> # 俺がケンカの原因を当ててやる」
+com03 0 3
+choice1 <shift> # お菓子の取り合い
+line2
+com09 0 30
+com08
+choice2 <shift> # 恋愛のもつれ
+line2
+com09 0 31
+com08
+choice3 <shift> # 仕事のこと
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「どうせ、お菓子の取り合いか何かだろ？」
+display
+com11 0 0
+sound 24
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ちがうよー！
+line2 <shift> # 事態はもっとシンコクなんだよ」
+display
+com11 0 0
+sound 25
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「うんうん。そんな子どもっぽい理由じゃ
+line2 <shift> # ないもんねーっ」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （もっと深刻な理由……？）
+com09 0 49
+display
+location 31
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「恋愛のもつれだな。
+line2 <shift> # ほら、同じ男の子を好きになったとか……」
+display
+com11 0 0
+sound 26
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ちがうよー！
+line2 <shift> # 事態はもっとシンコクなんだよ」
+display
+com11 0 0
+sound 27
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「そうそう。恋愛がどれくらいシンコクか、
+line2 <shift> # よくわかんないけど……」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （もっと深刻な理由……？）
+com09 0 49
+display
+location 32
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「仕事のことだろ？
+line2 <shift> # 次のオーディションはどっちが出るとか」
+display
+com11 0 0
+sound 28
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ちがうよー！
+line2 <shift> # お仕事のことなら、兄ちゃんに相談するもんっ」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「仕事以外でも相談していいんだぞ。
+line2 <shift> # 今回のことだって……」
+display
+com11 0 0
+sound 29
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「このことは……、
+line2 <shift> # 相談できないよね〜、亜美？」
+display
+com11 0 0
+sound 30
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うん。
+line2 <shift> # 兄ちゃんにだけは、相談できないよ……」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （俺に相談できない……？）
+com09 0 49
+display
+location 49
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「どうして話してくれないんだ？
+line2 <shift> # 俺が頼りないからか？」
+display
+com11 0 0
+sound 31
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「兄ちゃんが頼りないとかは、関係ないよ〜」
+display
+com11 0 0
+sound 32
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「うんうん。
+line2 <shift> # たまに頼りないけど、関係ないよ〜」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「だったら、どうして……」
+display
+com11 0 0
+sound 33
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「だって、話したら兄ちゃんが、
+line2 <shift> # 死んじゃうかもしれないんだも〜ん！！」
+display
+com11 0 0
+sound 34
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「あーっ！　ズルいよ、亜美〜！
+line2 <shift> # 真美も逃げるー！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （ふたりは、あっという間に
+line2 <shift> # 姿を消してしまった）
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （外には出ていないから、事務所のどこかに
+line2 <shift> # 隠れているんだろうけど）
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （本当に何か深刻なことが起こったのなら大変
+line2 <shift> # だ。二人を見つけ出せるかどうかは運だが……）
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （このまま放っておくわけにもいかないし、
+line2 <shift> # 探し出して事情を聞こう！）
+com03 0 3
+choice1 <shift> # この辺を探すぞ
+line2
+com09 0 50
+com08
+choice2 <shift> # その辺を探すぞ
+line2
+com09 0 51
+com08
+choice3 <shift> # あの辺を探すぞ
+line2
+com09 0 52
+com08
+com07
+com09 0 53
+com08
+display
+location 50
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「この辺を探すぞ」
+com37 0 1
+com1e 0 0
+com09 0 60
+com3b
+com37 0 0
+com1e 0 0
+com09 0 61
+com3b
+display
+location 51
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「その辺を探すぞ」
+com37 0 1
+com1e 0 0
+com09 0 60
+com3b
+com37 0 0
+com1e 0 0
+com09 0 61
+com3b
+display
+location 52
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「あの辺を探すぞ」
+com37 0 1
+com1e 0 0
+com09 0 60
+com3b
+com37 0 0
+com1e 0 0
+com09 0 61
+com3b
+display
+location 53
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「あの辺を探すぞ」
+com09 0 61
+display
+location 60
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「真美、こんなところにいたのか……」
+display
+com11 0 0
+sound 35
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「うあうあ〜、真美じゃないよ〜！
+line2 <shift> # 亜美がやったんだもん〜っ！」
+display
+com11 0 0
+sound 36
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「亜美じゃないでしょ〜っ！
+line2 <shift> # 真美が……！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「亜美は、そんなところに、
+line2 <shift> # 隠れてたんだな……」
+display
+com11 0 0
+sound 37
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うあうあ〜、見つかっちゃったよ〜！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「怖がらなくていいから、
+line2 <shift> # 何があったか話してごらん」
+display
+com11 0 0
+sound 38
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「話したら、怒らない？」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「ああ。怒らないから、言ってごらん」
+display
+com11 0 0
+sound 39
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「んとね〜、兄ちゃんがおでかけの間、
+line2 <shift> # 兄ちゃんの机をきれいにしようと思ったの」
+display
+com11 0 0
+sound 40
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「きれいになったら、
+line2 <shift> # 兄ちゃんがよろこぶと思ったんだよ」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「そうだったのか。
+line2 <shift> # ありがとうな、ふたりとも」
+display
+com11 0 0
+sound 41
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「真美が思いついたから、
+line2 <shift> # 真美がやるって言ったの。そしたら亜美が……」
+display
+com11 0 0
+sound 42
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「亜美だって、兄ちゃんの机、
+line2 <shift> # きれいにしたいって思ったんだもん」
+display
+com11 0 0
+sound 43
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「それでね、どっちがやるかで
+line2 <shift> # ケンカになって……」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「なんだ、そんなことが原因だったのか。
+line2 <shift> # 全然たいしたことないじゃないか」
+display
+com11 0 0
+sound 44
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ケンカになって、押しあいっこしてたらね。
+line2 <shift> # 真美の手が当たって、ガシャンって……」
+display
+com11 0 0
+sound 45
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「亜美が押すから当たったんでしょー！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「ちょっと待て。
+line2 <shift> # ガシャンっていうのは……？」
+display
+com11 0 0
+sound 46
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「んとね〜。兄ちゃんが名前つけて
+line2 <shift> # かわいがってた、サボテンの植木鉢……」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「サボテン……サボ……、
+line2 <shift> # 俺のサボ太……が！？」
+display
+com11 0 0
+sound 47
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「不幸な事故だったんだよ……」
+display
+com11 0 0
+sound 48
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うんうん。リッパだったよ、
+line2 <shift> # サボ太の最期は……」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「お、俺のサボ太は、どこに……？」
+display
+com11 0 0
+sound 49
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ポキっとなってゴリンジュウだったから、
+line2 <shift> # ゴミバコに埋めといたよ……」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「うおおおおおおっ！！
+line2 <shift> # サボ太ぁぁーーーーーーーーっ！！」
+display
+com11 0 0
+sound 50
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「サボ太の死を無駄にしないためにも、
+line2 <shift> # もうケンカはやめようね、真美……」
+display
+com11 0 0
+sound 51
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「うん……。兄ちゃん、これからは
+line2 <shift> # サボ太のためにも、亜美と仲良くするよー……」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （正直に話してくれたふたりを
+line2 <shift> # 叱るわけにはいかないか……）
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （元々、俺をよろこばせようと思って、
+line2 <shift> # やったことなんだし……）
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （ここは、素直に
+line2 <shift> # ふたりが仲直りしたことを喜ぼう）
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （すまん、サボ太……）
+com4b 0 0
+com09 0 69
+display
+location 61
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「どこにいるんだ、ふたりとも……」
+display
+com11 0 0
+sound 52
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「あっ、もうお仕事終わりの時間だ！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「亜美、真美、今までどこに……」
+display
+com11 0 0
+sound 53
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「早く帰らなきゃ！」
+display
+com11 0 0
+sound 54
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「うんうん。早く帰らなきゃ！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （ふたりは、そう言って
+line2 <shift> # いそいそと帰り支度を始める）
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （結局、ケンカの原因もわかならいまま、
+line2 <shift> # なんとなく一日が終わってしまった）
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （いったい今日のふたりは、
+line2 <shift> # どうしたというのだろう……）
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （心なしか広くなった気がする机で、
+line2 <shift> # 俺はその後、数時間悩み続けた……）
+com4b 0 2
+com09 0 69
+display
+location 69
+unk02

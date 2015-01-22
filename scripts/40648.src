@@ -1,0 +1,325 @@
+com2c 0 148
+com32 0 0
+com2d 0 71
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （オフの時間に律子と散策していると、近くの
+line2 <shift> # 学校が、やけに騒がしくなっているを見つけた）
+display
+com11 0 0
+sound 300
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あー、学園祭なんかやってるのね。道理で、
+line2 <shift> # いろんな人がいて、にぎわってるわけだ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ステージも展示も、
+line2 <shift> # なかなか盛り上がってるみたいだな」
+display
+com11 0 0
+sound 301
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そうね、でも学園祭と言えば！
+line2 <shift> # やっぱり屋台よ、屋台」
+display
+com11 0 0
+sound 302
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「その屋台も、ここは激戦、
+line2 <shift> # まさに商魂全開って感じね！」
+com03 0 3
+choice1 <shift> # 確かに活気があるな
+line2
+com09 0 10
+com08
+choice2 <shift> # そうだな、しかし……
+line2
+com09 0 11
+com08
+choice3 <shift> # ロマンのないやつだな
+line2
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「確かに活気があるな。呼び込みも、
+line2 <shift> # そこらじゅうできこえるし、威勢もいい」
+display
+com11 0 0
+sound 303
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「うんうん。みんな頑張ってるし、
+line2 <shift> # お客も楽しそうね」
+display
+com11 0 0
+sound 304
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「これは勢いだけじゃなく……、お店の内容も、
+line2 <shift> # レベル高いんじゃないかな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうかもな、楽しみだ。ところで、屋台で、
+line2 <shift> # 何か食べていくつもりなのか、やっぱり」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだな、しかし……」
+display
+com11 0 0
+sound 305
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「しかし、何？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、『商魂』って……。学園祭なんだから、
+line2 <shift> # もっと大らかでいいだろう？」
+display
+com11 0 0
+sound 306
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「みんな商売頑張ってるんだから、
+line2 <shift> # 間違いじゃないでしょ？」
+display
+com11 0 0
+sound 307
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「楽しく商売して、お客も喜んで。
+line2 <shift> # 活気があって、いいことじゃないの」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まぁね……。ところで、屋台で何か、
+line2 <shift> # 食べていくつもりなのか、やっぱり」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ロマンのないやつだな」
+display
+com11 0 0
+sound 308
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そう？　商売にはロマンを感じないの？
+line2 <shift> # じゅうぶん、ロマンチックでしょ」
+display
+com11 0 0
+sound 309
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「これだから、お坊ちゃま育ちは……。
+line2 <shift> # まったく……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、学生のお祭りなんだから。好きに楽しむ
+line2 <shift> # こと自体がロマンで、商売は二の次だろ」
+display
+com11 0 0
+sound 310
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「商売が二の次だったら、屋台なんて、
+line2 <shift> # やらないんじゃないんですか？」
+display
+com11 0 0
+sound 311
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ま、言いたいことはわかるけど。でも、
+line2 <shift> # 学生が商売に挑戦することも、またロマンよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まぁね……。で、やっぱり屋台で、
+line2 <shift> # 何か食べていくつもりか？」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 312
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「うーん……。でも、屋台って言っても、
+line2 <shift> # 食べ物の店ばかりじゃないでしょ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そりゃそうだな、いろいろ、
+line2 <shift> # 見て回ってみるか」
+display
+com11 0 0
+sound 313
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「手製の工芸品を出してるところもあるし、
+line2 <shift> # リサイクルの店も、あるみたいね……」
+display
+com11 0 0
+sound 314
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あはは、あんなところに、クリスマスツリーが
+line2 <shift> # ある。フライングすぎだなぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ほんとだ。机に置くような小さいツリーか。
+line2 <shift> # あ、でも、もう年末も近いんだな」
+display
+com11 0 0
+sound 315
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「クリスマス、かぁ。クリスマス過ぎたら、
+line2 <shift> # あっという間に年越しだなぁ」
+display
+com11 0 0
+sound 316
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あ、そうだ、プロデューサー。
+line2 <shift> # クリスマス、ヒマでしょ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ん？　やぶから棒に、何をきくんだ」
+display
+com11 0 0
+sound 317
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「いいから。どうせ、一人で予定もなくて、
+line2 <shift> # ヒマなんでしょ？」
+com03 0 2
+choice1 <shift> # 暇だ！
+com09 0 20
+com08
+choice2 <shift> # 忙しい！
+com09 0 21
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ヒマだ！
+line2 <shift> # というか、プライベートな予定はない」
+display
+com11 0 0
+sound 318
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「うわ、本当にヒマなんですか？
+line2 <shift> # あっはっはっはっは！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「笑うな。指も差すな……。
+line2 <shift> # そう言う律子は、どうなんだ」
+display
+com11 0 0
+sound 319
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ははは……。まぁ私も人のことは笑えないか。
+line2 <shift> # ヒマっていうか、忙しいっていうか」
+display
+com11 0 0
+sound 320
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「仕事の予定もそうだけど、学校も家まわりも、
+line2 <shift> # 年末年始はいろいろと、することが多いし」
+display
+com11 0 0
+sound 321
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「だから『プライベートなクリスマスの予定』
+line2 <shift> # なんてものは、結局ないわけよね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……ってことは、俺も律子も、
+line2 <shift> # ヒマ同士ってことじゃないか」
+display
+com11 0 0
+sound 322
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「じゃ、ヒマな、あぶれもの同士で、
+line2 <shift> # クリスマス残念会でも、計画してみます？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんで残念会なんだ……。
+line2 <shift> # 楽しいクリスマス会に、すればいいじゃないか」
+display
+com11 0 0
+sound 323
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「楽しく、かぁ……。そうだ！　まずは、
+line2 <shift> # あのクリスマスツリー、買って帰ります？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そのツリーは俺が買って、律子が事務所に
+line2 <shift> # 持って行き、部屋の片隅に置いて飾った）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （クリスマス会……、実現できるか？　仕事が
+line2 <shift> # あってもなくても、律子に付き合ってやるかな）
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「忙しい！　クリスマスも正月もない」
+display
+com11 0 0
+sound 324
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「へー、忙しいんだ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「仕事がな。仮にプライベートの予定を入れても、
+line2 <shift> # どうなるかわからない……」
+display
+com11 0 0
+sound 325
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ま、そりゃ、仕事はね。私だってそうだし。
+line2 <shift> # 年末年始だって、退屈はしないと思う」
+display
+com11 0 0
+sound 326
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ただ、もし急にオフになっちゃったりしたら、
+line2 <shift> # 結局予定も入れられないし、ヒマになるのよね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「忙しいのにヒマ、っていう、
+line2 <shift> # 妙なことになるな」
+display
+com11 0 0
+sound 327
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そうそう。ま、もしもそうなったら、
+line2 <shift> # プロデューサーに付き合ってもらおうかな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え？　俺？」
+display
+com11 0 0
+sound 328
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「たまには仕事抜きでプロデューサーと話すのも、
+line2 <shift> # いいかな、って思うんだけど。今日みたいに」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なるほどな。悪くないな……。でも、願わくば、
+line2 <shift> # 仕事が急にオフに変わるようなことは避けたい」
+display
+com11 0 0
+sound 329
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そりゃそうですよ。だから、
+line2 <shift> # もしもの時は、ってこと」
+display
+com11 0 0
+sound 330
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「実際は、オフになっても、学校行ったり。
+line2 <shift> # 家にいても、やることはいろいろあるし」
+display
+com11 0 0
+sound 331
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「さてと……。お互い忙しいけど、クリスマス
+line2 <shift> # には、クリスマスらしくできたらいいですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （律子は小さなツリーを見ながら、笑った。
+line2 <shift> # そうだな……。余裕持って年末迎えたいよな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ひとまず今、律子と頑張らなくちゃ。
+line2 <shift> # オフ明けも、しっかり行こう）
+com09 0 29
+display
+location 29
+unk02

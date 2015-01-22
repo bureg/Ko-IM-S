@@ -1,0 +1,846 @@
+com2d 0 11
+location 0 129 92 129 92 130 187 130 204 140 227 130 204 144 148 147 250 138 212 129 65 143 116 141 129 130 205 129 65
+line2 <shift> # すっかり、元気をなくしてしまい……、
+display <shift> # そして、いよいよ……、運命の日、到来。
+line2 <shift> # ラストコンサート開演まで、あとわずか……。
+display
+location 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おーい、春香！　そろそろスタンバイ……、
+line2 <shift> # って、春香がいないぞ？　どこへ行ったんだ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （このところ、元気なかったし、心配だな。
+line2 <shift> # どこへ行ったんだろう……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おーい、春香ー！　そろそろスタンバイの時間
+line2 <shift> # だぞ！　近くにいるなら、出てきてくれ！」
+display
+com11 0 0
+sound 0
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、プロデューサーさん……。
+line2 <shift> # ステージに立つ前に、ちょっと整理したくて」
+display
+com11 0 0
+sound 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「プロデューサーさんと歩いてきた、今日までの
+line2 <shift> # 事。そうすれば、少しは元気も出るかなぁって」
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか……。じゃあ、ちょっと外へ行こうか」
+display
+location 10
+com11 0 0
+sound 2
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「結局、人気は、最低のままでしたね。
+line2 <shift> # はあ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ごめん……。俺の力も、足りなかったよ。
+line2 <shift> # でも、これはこれで、ひとつの結果だしな」
+com09 0 19
+display
+location 11
+com11 0 0
+sound 3
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「結局、人気は……新人よりは、
+line2 <shift> # ちょっと上止まりでしたね。はあ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「たしかに、満足とはいえないな。
+line2 <shift> # でも、これはこれで、ひとつの結果だし」
+com09 0 19
+display
+location 12
+com11 0 0
+sound 4
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「結局、人気は……、まあまあってところで、
+line2 <shift> # 止まってしまいましたね。はあ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「たしかにな。でも、これはこれで、
+line2 <shift> # ひとつの結果だし」
+com09 0 19
+display
+location 13
+com11 0 0
+sound 5
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「私達、かなりの人気を得ることができました
+line2 <shift> # よね。トップまで、あと一息のところまで……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。ここで終わりなのは、残念だけど……、
+line2 <shift> # これはこれで、ひとつの結果だしな」
+com09 0 19
+display
+location 14
+com11 0 0
+sound 6
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「私達、トップに立てたんですよね？
+line2 <shift> # そう思って、いいんですよね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、いいと思う。これだけの人気を、
+line2 <shift> # 得ることができたんだ。よしと、しなきゃな」
+com09 0 19
+display
+location 15
+com11 0 0
+sound 7
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「私達、最高の結果を残せたんですよね？
+line2 <shift> # そう思って、いいんですよね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、もちろんだよ。文句ナシのトップ
+line2 <shift> # アイドルになったんだから、胸を張っていい」
+com09 0 19
+display
+location 19
+com4a 0 0
+com11 0 0
+sound 8
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そうですよね」
+display
+location 20
+com4a 0 0
+com11 0 0
+sound 9
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「でも、もうすこし歌がうまければ、
+line2 <shift> # もっと上まで行けたかなぁって、思います……」
+display
+location 21
+com4a 0 0
+com11 0 0
+sound 10
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「でも、もうすこしダンスがうまければ、
+line2 <shift> # もっと上まで行けたかなぁって、思います……」
+display
+location 22
+com4a 0 0
+com11 0 0
+sound 11
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「でも、もうすこしルックスをみがいておけば、
+line2 <shift> # もっと上まで行けたかなぁって、思います……」
+display
+location 23
+com4a 0 0
+com11 0 0
+sound 12
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「トップに立てたのは、プロデューサーさんが、
+line2 <shift> # 歌唱力をみがいてくれた、おかげだと思います」
+display
+location 24
+com4a 0 0
+com11 0 0
+sound 13
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「トップに立てたのは、プロデューサーさんがダ
+line2 <shift> # ンスの表現力、磨いてくれたからだと思います」
+display
+location 25
+com4a 0 0
+com11 0 0
+sound 14
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「トップに立てたのは、プロデューサーさんが、
+line2 <shift> # ルックスを、みがいてくれたからだと思います」
+display
+location 30
+com11 0 0
+sound 15
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、私、歌った曲の中では、
+line2 <shift> # 『太陽のジェラシー』が、一番好きでした！」
+com37 0 0
+com1e 0 1
+com09 0 40
+com3a
+com09 0 41
+com3b
+display
+location 40
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お、そうか……。じゃあ、最後のコンサートの
+line2 <shift> # 選曲は……、春香としては、納得？」
+display
+com11 0 0
+sound 16
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい。この歌こそ、代表曲だって、思って
+line2 <shift> # ましたから。曲の選び方は、さすがだなぁって」
+display
+com11 0 0
+sound 17
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「でも、今の私には、あの歌を元気に歌える力、
+line2 <shift> # ないかもしれませんね」
+com09 0 50
+display
+location 41
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お、そうか……。なら、コンサートの
+line2 <shift> # メインの曲は、そっちの方が、よかったか？」
+display
+com11 0 0
+sound 18
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「いえ、それは別に、気にしてないです。プロデ
+line2 <shift> # ューサーさんの方針が第一ですし、それに……」
+display
+com11 0 0
+sound 19
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あの歌を元気に歌えるような力、
+line2 <shift> # 今の私には、ない気がします」
+com09 0 50
+display
+location 34
+com11 0 0
+sound 20
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、私、歌った曲の中では、
+line2 <shift> # 『蒼い鳥』が、一番好きでした！」
+com09 0 42
+display
+location 31
+com11 0 0
+sound 21
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、私、歌った曲の中では『Ｈｅｒｅ　ｗｅ
+line2 <shift> # ｇｏ！！』が、一番好きでした！」
+com09 0 42
+display
+location 32
+com11 0 0
+sound 22
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、私、歌った曲の中では、
+line2 <shift> # 『おはよう！！朝ご飯』が、一番好きでした！」
+com09 0 42
+display
+location 33
+com11 0 0
+sound 23
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、私、歌った曲の中では、
+line2 <shift> # 『９：０２ｐｍ』が、一番好きでした！」
+com09 0 42
+display
+location 35
+com11 0 0
+sound 24
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、私、歌った曲の中では、『Ｆｉｒｓｔ
+line2 <shift> # Ｓｔａｇｅ』が、一番好きでした！」
+com09 0 42
+display
+location 36
+com11 0 0
+sound 51
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、私、歌った曲の中では、
+line2 <shift> # 『魔法をかけて！』が、一番好きでした！」
+com09 0 42
+display
+location 37
+com11 0 0
+sound 25
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、私、歌った曲の中では、『エージェント
+line2 <shift> # 夜を往く』が、一番好きでした！」
+com09 0 42
+display
+location 38
+com11 0 0
+sound 26
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、私、歌った曲の中では、
+line2 <shift> # 『ポジティブ！』が、一番好きでした！」
+com09 0 42
+display
+location 39
+com11 0 0
+sound 27
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、私、歌った曲の中では『ＴＨＥ　ＩＤＯＬ
+line2 <shift> # Ｍ＠ＳＴＥＲ』が、一番好きでした！」
+com09 0 42
+display
+location 42
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お、そうか。じゃあ、最後のコンサートの
+line2 <shift> # 選曲は……春香としては、納得？」
+display
+com11 0 0
+sound 28
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい。でも、どこかには、もっと私に
+line2 <shift> # ピッタリの曲、あるかもしれませんね」
+display
+com11 0 0
+sound 29
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そういう曲に出会えていたら、もう少し元気な
+line2 <shift> # 顔で、最後のステージに立てたかもしれません」
+com09 0 50
+display
+location 50
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「春香……」
+display
+com11 0 0
+sound 30
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「これまでは、ファンの前で、歌を歌えるって
+line2 <shift> # 思うと、自然に力がわいてきました。でもっ！」
+display
+com11 0 0
+sound 31
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「今日は、ダメです！　このライブで、すべて
+line2 <shift> # 終わりだとしたら、私、なんのために歌えば？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、それは……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （慎重に、答えよう。ヘタなことを言うと……、
+line2 <shift> # この後のライブに、致命的な影響が出る！）
+com03 0 3
+choice1 <shift> # 新しい明日のため、だ
+line2
+com09 0 60
+com08
+choice2 <shift> # ケジメをつけるため、だ
+line2
+com09 0 61
+com08
+choice3 <shift> # 深く考えちゃ、ダメだ！
+line2
+com09 0 62
+com08
+com07
+com09 0 62
+com08
+display
+location 60
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「新しい明日のためだ。俺達の活動は、今日で
+line2 <shift> # 終わりでも、春香自身は終わりじゃないだろ？」
+display
+com11 0 0
+sound 32
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、それは、たしかに……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「全力を出し切って、限界を確かめないと。
+line2 <shift> # ……明日からの進路を、見極めるためにも」
+display
+com11 0 0
+sound 33
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そうですね！　完全燃焼した先には……、
+line2 <shift> # きっと。……よーし」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ＯＫ、いい顔だ！　あとは、本番で、
+line2 <shift> # いい指示を出せば……、きっと、いける！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それじゃ、春香。行こうか。
+line2 <shift> # ……ファンのみんなが、待ってる場所へ」
+display
+com4a 0 0
+com11 0 0
+sound 34
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はいっ！　このライブ、必ず成功させて、
+line2 <shift> # 見つけてみせます。……明日へのヒント！」
+display
+location 61
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ケジメをつけるためだ。最後をビシッと
+line2 <shift> # しめないと、カッコがつかないだろ？」
+display
+com11 0 0
+sound 35
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そんな理由のために、がんばれませんよぉ」
+com09 0 69
+display
+location 62
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「深く考えちゃダメだ！　そういうガラでもない
+line2 <shift> # ことすると、余計、ドツボにハマるぞ？」
+display
+com11 0 0
+sound 36
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「もう、ハマってますよぉ。
+line2 <shift> # ガラじゃないのも、わかってます。けど……！」
+com09 0 69
+display
+location 69
+com11 0 0
+sound 37
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「せっかくのラストライブなのに、こんな気持ち
+line2 <shift> # で、歌わなきゃいけないなんて。うう……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （う、しまった。ミスったか。この失敗は、
+line2 <shift> # 本番の指示で、取り返すしかないな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ほら、とにかくいこう。ステージに立てば、
+line2 <shift> # きっとファンが、力をくれるから」
+display
+com11 0 0
+sound 38
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ううっ、はい……。歌いながら、
+line2 <shift> # なんとか見つけたいです。明日へのヒント……」
+display
+com4a 0 0
+com11 0 0
+sound 39
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そのためにも、このコンサートは、
+line2 <shift> # 成功させなきゃ！　……絶対にっ！！」
+display
+com22 0 30
+location 70
+com4a 0 0
+com11 0 0
+sound 40
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「みんな〜、ありがとーっ！
+line2 <shift> # それじゃ、最後の曲、きいてくださーい！」
+display
+location 71
+com4a 0 0
+com11 0 0
+sound 41
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ラストソングは……、
+line2 <shift> # 『太陽のジェラシー』！」
+display
+location 75
+com4a 0 0
+com11 0 0
+sound 42
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ラストソングは……、『蒼い鳥』！」
+display
+location 72
+com4a 0 0
+com11 0 0
+sound 43
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ラストソングは……、
+line2 <shift> # 『Ｈｅｒｅ　ｗｅ　ｇｏ！！』！」
+display
+location 73
+com4a 0 0
+com11 0 0
+sound 44
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ラストソングは……、
+line2 <shift> # 『おはよう！！朝ご飯』！」
+display
+location 74
+com4a 0 0
+com11 0 0
+sound 45
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ラストソングは……、『９：０２ｐｍ』！」
+display
+location 76
+com4a 0 0
+com11 0 0
+sound 46
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ラストソングは……、
+line2 <shift> # 『Ｆｉｒｓｔ　Ｓｔａｇｅ』！」
+display
+location 77
+com4a 0 0
+com11 0 0
+sound 47
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ラストソングは……、『魔法をかけて！』」
+display
+location 78
+com4a 0 0
+com11 0 0
+sound 48
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ラストソングは……、
+line2 <shift> # 『エージェント夜を往く』！」
+display
+location 79
+com4a 0 0
+com11 0 0
+sound 49
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ラストソングは……、『ポジティブ！』」
+display
+location 80
+com4a 0 0
+com11 0 0
+sound 50
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ラストソングは……
+line2 <shift> # 『ＴＨＥ　ＩＤＯＬＭ＠ＳＴＥＲ』！」
+display
+location 100
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺が最後に出来ることは、これまでに
+line2 <shift> # 俺達が築き上げてきた思い出の数だけ」
+display
+location 101
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「最初のファンとして、１人のファンとして
+line2 <shift> # 応援することだけだ！」
+display
+location 102
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ファンのボルテージが最高潮に達する
+line2 <shift> # ようにただひたすら……」
+display
+location 103
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「思い出の言葉を投げかけつづけるんだ！
+line2 <shift> # 俺達のこれまでの時間の為に！！」
+display
+location 200
+com11 0 0
+sound 52
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、私、歌った曲の中では、
+line2 <shift> # 『私はアイドル▽』が、一番好きでした！」
+com09 0 40
+display
+location 201
+com11 0 0
+sound 57
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、私、歌った曲の中では、
+line2 <shift> # 『まっすぐ』が、一番好きでした！」
+com09 0 42
+display
+location 202
+com11 0 0
+sound 58
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、私、歌った曲の中では、『Ｍｙ　Ｂｅｓｔ
+line2 <shift> # Ｆｒｉｅｎｄ』が、一番好きでした！」
+com09 0 42
+display
+location 203
+com11 0 0
+sound 59
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、私、歌った曲の中では、『ＧＯ　ＭＹ
+line2 <shift> # ＷＡＹ』が、一番好きでした！」
+com09 0 42
+display
+location 204
+com11 0 0
+sound 60
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、私、歌った曲の中では、
+line2 <shift> # 『思い出をありがとう』が、一番好きでした！」
+com09 0 42
+display
+location 205
+com11 0 0
+sound 61
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、私、歌った曲の中では、
+line2 <shift> # 『ｒｅｌａｔｉｏｎｓ』が、一番好きでした！」
+com09 0 42
+display
+location 207
+com11 0 0
+sound 71
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、私、歌った曲の中では、
+line2 <shift> # 『Ｉ　Ｗａｎｔ』が、一番好きでした！」
+com09 0 40
+display
+location 208
+com11 0 0
+sound 72
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、私、歌った曲の中では、
+line2 <shift> # 『キラメキラリ』が、一番好きでした！」
+com09 0 42
+display
+location 209
+com11 0 0
+sound 73
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、私、歌った曲の中では、『ふるふる
+line2 <shift> # フューチャー☆』が、一番好きでした！」
+com09 0 42
+display
+location 210
+com11 0 0
+sound 74
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、私、歌った曲の中では、
+line2 <shift> # 『迷走Ｍｉｎｄ』が、一番好きでした！」
+com09 0 42
+display
+location 211
+com11 0 0
+sound 75
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、私、歌った曲の中では、
+line2 <shift> # 『目が逢う瞬間』が、一番好きでした！」
+com09 0 42
+display
+location 212
+com11 0 0
+sound 76
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、私、歌った曲の中では、
+line2 <shift> # 『スタ→トスタ→』が、一番好きでした！」
+com09 0 42
+display
+location 213
+com11 0 0
+sound 77
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、私、歌った曲の中では、
+line2 <shift> # 『隣に…』が、一番好きでした！」
+com09 0 42
+display
+location 214
+com11 0 0
+sound 78
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、私、歌った曲の中では、
+line2 <shift> # 『フタリの記憶』が、一番好きでした！」
+com09 0 42
+display
+location 215
+com11 0 0
+sound 79
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、私、歌った曲の中では、『Ｋｏｓｍｏｓ，
+line2 <shift> # Ｃｏｓｍｏｓ』が、一番好きでした！」
+com09 0 42
+display
+location 216
+com11 0 0
+sound 80
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、私、歌った曲の中では、
+line2 <shift> # 『いっぱいいっぱい』が、一番好きでした！」
+com09 0 42
+display
+location 217
+com11 0 0
+sound 81
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、私、歌った曲の中では、『神さまの
+line2 <shift> # Ｂｉｒｔｈｄａｙ』が、一番好きでした！」
+com09 0 42
+display
+location 218
+com11 0 0
+sound 82
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、私、歌った曲の中では『Ｃｏｌｏｒｆｕｌ
+line2 <shift> # Ｄａｙｓ』が、一番好きでした！」
+com09 0 42
+display
+location 219
+com11 0 0
+sound 95
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、私、歌った曲の中では、今回のメインの、
+line2 <shift> # あの曲が、一番好きでした！」
+com09 0 42
+display
+location 81
+com4a 0 0
+com11 0 0
+sound 65
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ラストソングは……、『まっすぐ』！」
+display
+location 82
+com4a 0 0
+com11 0 0
+sound 66
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ラストソングは……、
+line2 <shift> # 『Ｍｙ　Ｂｅｓｔ　Ｆｒｉｅｎｄ』！」
+display
+location 83
+com4a 0 0
+com11 0 0
+sound 67
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ラストソングは……、
+line2 <shift> # 『ＧＯ　ＭＹ　ＷＡＹ！！』！」
+display
+location 84
+com4a 0 0
+com11 0 0
+sound 68
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ラストソングは……、
+line2 <shift> # 『思い出をありがとう』！」
+display
+location 85
+com4a 0 0
+com11 0 0
+sound 69
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ラストソングは……、『私はアイドル▽』！」
+display
+location 86
+com4a 0 0
+com11 0 0
+sound 70
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ラストソングは……、
+line2 <shift> # 『ｒｅｌａｔｉｏｎｓ』！」
+display
+location 87
+com4a 0 0
+com11 0 0
+sound 83
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ラストソングは……、『キラメキラリ』！」
+display
+location 88
+com4a 0 0
+com11 0 0
+sound 84
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ラストソングは……、
+line2 <shift> # 『ふるふるフューチャー☆』！」
+display
+location 89
+com4a 0 0
+com11 0 0
+sound 85
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ラストソングは……、『迷走Ｍｉｎｄ！』」
+display
+location 90
+com4a 0 0
+com11 0 0
+sound 86
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ラストソングは……、『目が逢う瞬間』！」
+display
+location 91
+com4a 0 0
+com11 0 0
+sound 87
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ラストソングは……、『スタ→トスタ→』！」
+display
+location 92
+com4a 0 0
+com11 0 0
+sound 88
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ラストソングは……、『隣に…』！」
+display
+location 93
+com4a 0 0
+com11 0 0
+sound 89
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ラストソングは……、『フタリの記憶』！」
+display
+location 94
+com4a 0 0
+com11 0 0
+sound 90
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ラストソングは……、
+line2 <shift> # 『Ｋｏｓｍｏｓ，Ｃｏｓｍｏｓ』！」
+display
+location 95
+com4a 0 0
+com11 0 0
+sound 91
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ラストソングは……、
+line2 <shift> # 『いっぱいいっぱい』！」
+display
+location 96
+com4a 0 0
+com11 0 0
+sound 92
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ラストソングは……、
+line2 <shift> # 『神さまのＢｉｒｔｈｄａｙ』！」
+display
+location 97
+com4a 0 0
+com11 0 0
+sound 93
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ラストソングは……、
+line2 <shift> # 『Ｃｏｌｏｒｆｕｌ　Ｄａｙｓ』！」
+display
+location 98
+com4a 0 0
+com11 0 0
+sound 94
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ラストソングは……、『Ｉ　Ｗａｎｔ』！」
+display
+location 99
+com4a 0 0
+com11 0 0
+sound 96
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ラストソングは……、この曲です！」
+display
+location 100
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺が最後に出来ることは、これまでに、
+line2 <shift> # 俺達が築き上げてきた思い出の数だけ……」
+display
+location 101
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「最初のファンとして、１人のファンとして、
+line2 <shift> # 応援することだけだ！」
+display
+location 102
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ファンのボルテージが、最高潮に達するように、
+line2 <shift> # ただひたすら……」
+display
+location 103
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「思い出の言葉を、投げかけつづけるんだ！
+line2 <shift> # 俺達の、これまでの時間のために！！」
+display
+unk02

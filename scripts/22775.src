@@ -1,0 +1,316 @@
+com2c 0 37
+com2d 0 52
+com32 0 0
+com11 0 5
+sound 1000
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「フィットネス・クラブ……。ふつうの人は
+line2 <shift> # 平気かもしれませんけど、私には試練ですー」
+display
+com11 0 5
+sound 1001
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「一度、誘われたんですけど、続かなくて。
+line2 <shift> # き、危機感は、今でも持ってるんですけれど」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「危機感って、なんのですか？」
+display
+com11 0 5
+sound 1002
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「わかるじゃないですか。その〜、あれ」
+com03 0 3
+choice1 <shift> # ダイエット？
+line2
+com09 0 10
+com08
+choice2 <shift> # ダンスの体力強化？
+line2
+com09 0 11
+com08
+choice3 <shift> # 健康美の維持？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ダイエット？」
+display
+com11 0 5
+sound 1003
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はい……。私、どちらかというと
+line2 <shift> # 太めですよね？」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ダンスの体力強化？」
+com09 0 91
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「健康美の維持？」
+com09 0 91
+display
+location 91
+com11 0 5
+sound 1004
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そんな立派なものでは……。もっとこう、
+line2 <shift> # 切実なやつです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もしかして……ダイエット？」
+display
+com11 0 5
+sound 1005
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はい……。すみません、不真面目で。
+line2 <shift> # 私、どちらかというと太めですよね？」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなこと、ないんじゃ……。それで太いとか
+line2 <shift> # 言ったら、バチが当たると思いますけど」
+display
+com11 0 5
+sound 1006
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「……うそ。あ、プロデューサーさんから見て、
+line2 <shift> # どの辺りをシェイプした方がいいと思いますか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、やせる必要なんて、感じませんけど。
+line2 <shift> # 強いて言うなら……」
+com0e 1 47
+com44
+com09 0 30
+com45
+com44
+com09 0 31
+com45
+com44
+com09 0 32
+com45
+com44
+com09 0 33
+com45
+com44
+com09 0 34
+com45
+com44
+com09 0 35
+com45
+com44
+com09 0 36
+com45
+display
+location 30
+com34 0 1
+com11 0 5
+sound 1007
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、やはり、おなかには、目がいきますよね。
+line2 <shift> # では、今日は、そこを重点的に……」
+com09 0 49
+display
+location 31
+com34 0 1
+com11 0 5
+sound 1008
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、太ももは、私も気になっていたんです。
+line2 <shift> # もっとスリムにしないと、いけませんよね」
+com09 0 49
+display
+location 32
+com11 0 5
+sound 1009
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「腕？　そうですか？　そこは、まあまあ
+line2 <shift> # かなって、思っていたんですけれど……」
+display
+com11 0 5
+sound 1010
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「でも、そう見えるなら、もっと細くしないと
+line2 <shift> # いけませんね」
+com09 0 49
+display
+location 33
+com11 0 5
+sound 1011
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「え、あ、あの……そこ、しぼった方がいい
+line2 <shift> # ですか？　す、すみませ……」
+display
+com11 0 5
+sound 1012
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、あまり、ジロジロ見ないでください……。
+line2 <shift> # こ、困りますー」
+com09 0 49
+display
+location 34
+com11 0 5
+sound 1013
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、ヒップまわり、気になりますか？
+line2 <shift> # 言われてみると、かなり……」
+display
+com11 0 5
+sound 1014
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そ、そんな、しみじみ見ないでください……。
+line2 <shift> # こ、困りますー」
+com09 0 49
+display
+location 35
+com11 0 5
+sound 1015
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ぷ、プロデューサーさん？　そんなところは、
+line2 <shift> # しぼりようがないのでは？」
+display
+com11 0 5
+sound 1016
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「マジメに答えてほしかったです。女性には、
+line2 <shift> # 深刻な問題なので……」
+com09 0 49
+display
+location 36
+com11 0 5
+sound 1017
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ぷ、プロデューサーさん？　あの、どこが？
+line2 <shift> # もしかして、ぜ、ぜ、全部でしょうか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あああ、すみません。ついボーッと考えて
+line2 <shift> # しまって……。そういうわけじゃないです」
+com09 0 49
+display
+location 49
+com11 0 5
+sound 1018
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「話だけしていても、やせられませんね。
+line2 <shift> # では、そろそろ！」
+display
+com11 0 5
+sound 1019
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「でも、んー、私でも無理なくできる運動は……。
+line2 <shift> # まず、なにから、はじめましょう？」
+com03 0 3
+choice1 <shift> # エアロバイクとかは？
+line2
+com09 0 50
+com08
+choice2 <shift> # 俺とエアロビしませんか？
+line2
+com09 0 51
+com08
+choice3 <shift> # スイミングとか、どうです？
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 2
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「エアロバイクとかは？」
+display
+com11 0 5
+sound 1020
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あっ！　それなら自分なりのペースで
+line2 <shift> # できそう。サイクリング気分も味わえますし」
+display
+com11 0 5
+sound 1021
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「では、軽く汗を流してきますね。
+line2 <shift> # 自転車はー……あそこですね！　ふふっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （いい提案ができたようだな。前向きに取り
+line2 <shift> # 組んでこそ、トレーニングの効果も出るはずだ）
+com09 0 69
+display
+location 51
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺とエアロビしませんか？」
+display
+com11 0 5
+sound 1022
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あっ！　それなら、ひとりでやるより、
+line2 <shift> # 長持ちしそうです！」
+display
+com11 0 5
+sound 1023
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「けれど、足を引っ張ってしまうかもしれません
+line2 <shift> # ね。私、きっと途中で遅れて……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ともかく、やってみましょう。バテたら
+line2 <shift> # バテたで、その時です」
+display
+com11 0 5
+sound 1024
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「は、はい。なるべく、ついていけるように
+line2 <shift> # がんばりますー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （あずささんは果敢に挑戦したけど、最後までは
+line2 <shift> # 持たなかった。途中まではよかったんだけどな）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「スイミングとか、どうです？」
+display
+com11 0 5
+sound 1025
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あっ！　いいかもしれませんね。それなら
+line2 <shift> # 楽しくできそうですし、全身運動にも……！」
+display
+com11 0 5
+sound 1026
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「け、けれどー、プロデューサーさん？
+line2 <shift> # 私が泳いでる間は、どこに……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え？　もちろん、ちゃんとそばで見てます。
+line2 <shift> # なにか連絡があったら、マズいので……」
+display
+com11 0 5
+sound 1027
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そばって…………。だ、ダメ、そんなの。
+line2 <shift> # ………………えっち」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （赤くなって、うつむいてしまった。うーん、
+line2 <shift> # 純粋な提案のつもりだったんだけどな）
+com09 0 69
+display
+location 69
+unk02

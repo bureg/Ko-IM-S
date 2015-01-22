@@ -1,0 +1,261 @@
+com2c 0 24
+com2d 0 81
+com32 0 0
+com11 0 3
+sound 1400
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサー、き、奇跡です！
+line2 <shift> # ついに、ボクあてにファンレターが！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、それの、どこが奇跡なんだ？　前に、
+line2 <shift> # たしか『３通を突破した』とか言ってたよな？」
+display
+com11 0 3
+sound 1401
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「今度のは、前のとは、全然ちがうんです！
+line2 <shift> # へへへ〜、おどろかないでくださいよ〜！」
+display
+com11 0 3
+sound 1402
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「なんと、はじめて１通だけ、男の人からのファ
+line2 <shift> # ンレターが来たんです」
+com03 0 3
+choice1 <shift> # へー、すごいな
+line2
+com09 0 10
+com08
+choice2 <shift> # …………
+com09 0 11
+com08
+choice3 <shift> # バカなっ！？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「へー、すごいな。最近、仕事も増えてきたし、
+line2 <shift> # ようやく、一人前のアイドルって、ところか」
+display
+com11 0 3
+sound 1403
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はい！　一人の女の子としても、
+line2 <shift> # ちょっとグレードアーップって、感じですね」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「…………」
+display
+com11 0 3
+sound 1404
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「どうして、黙り込んで……。あ、驚くなって
+line2 <shift> # 言ったからって、真に受けないで下さいよ〜」
+com09 0 91
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「バカなっ！？」
+display
+com11 0 3
+sound 1405
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「う……。アングリ、口開けないで下さいよ〜。
+line2 <shift> # ボクもビックリはしたけど、そこまでは……」
+com09 0 91
+display
+location 91
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ご、ごめん。でも、最近、仕事も増えてきたし、
+line2 <shift> # やっと、一人前のアイドルになれたみたいだな」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、真、話は変わるけど……、親にアイドル
+line2 <shift> # やってること、まだ話してないのか？」
+display
+com11 0 3
+sound 1406
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「な、ナイショのままです。しばらくは、バレる
+line2 <shift> # 心配ないかな。父さん、昨日から遠征だし」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「遠征？　出張じゃなくてか？」
+display
+com11 0 3
+sound 1407
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はい、遠征です。父さん、すこし変わった
+line2 <shift> # 仕事してて、たまに家、あけるんですよね」
+display
+com11 0 3
+sound 1408
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「母さんとふたりだと、家、静かでいいです。
+line2 <shift> # けど、なんか物足りない気もして……」
+display
+com11 0 3
+sound 1409
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「遠征のたびに、しみじみ感じます。
+line2 <shift> # あんな父さんでも、家族なんだなーって」
+com03 0 2
+choice1 <shift> # ちょっと、くやしい？
+line2
+com09 0 30
+com08
+choice2 <shift> # 早く、帰ってきてほしい？
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ちょっと、くやしい？」
+display
+com11 0 3
+sound 1410
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そうですね。いる時は、頼むからどっか行って
+line2 <shift> # くれって、思うんですけど。フクザツです」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「早く、帰ってきてほしい？」
+display
+com11 0 3
+sound 1411
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そ、そこまでは、思いませんよ。帰ってきたら、
+line2 <shift> # やっぱり、ゲンナリはするでしょうし……」
+display
+com11 0 3
+sound 1412
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「それに、アイドルやってるのバレる可能性、
+line2 <shift> # また高まっちゃいますから」
+com09 0 49
+display
+location 49
+com11 0 3
+sound 1413
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「さ、人気もあがってきたし、レッスン、
+line2 <shift> # レッスン！　もっと、かわいくならないと！」
+display
+com11 0 3
+sound 1414
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そのうち、ボクあてのファンレター、
+line2 <shift> # ぜんぶ男の子からになったら、いいな〜」
+com03 0 3
+choice1 <shift> # 好き嫌いは、よくないよ？
+line2
+com09 0 50
+com08
+choice2 <shift> # ハーレム、めざしてみる？
+line2
+com09 0 51
+com08
+choice3 <shift> # ありえないな
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「好き嫌いは、よくないよ？
+line2 <shift> # 女の子のファンだって、大切にしないと」
+display
+com11 0 3
+sound 1415
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「へへっ、それも、そっか。
+line2 <shift> # 別に、そっぽを向く必要は、ないですもんね」
+display
+com11 0 3
+sound 1416
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「男の子にも、女の子にも、憧れられる存在。
+line2 <shift> # 欲ばって、めざしちゃいます！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （真なら両方のファン層、じゅうぶんねらえるし
+line2 <shift> # な。自分をワクにはめず、高く飛躍してほしい）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ハーレム、めざしてみる？」
+display
+com11 0 3
+sound 1417
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はーれむ……？　ボクのまわりに、男の子が、
+line2 <shift> # たくさん……？　うわ、え、えっと……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうした？　そういうのに、
+line2 <shift> # 憧れてるんじゃないのか？」
+display
+com11 0 3
+sound 1418
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「騒がれるのは、うれしいですけど、そこまでは。
+line2 <shift> # 現実、そうなったら楽しいのかな。う〜ん……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （考え込んでいる。ま、ハーレムは大げさに
+line2 <shift> # しても、ファンは地道に増やしていかないとな）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ありえないな」
+display
+com11 0 3
+sound 1419
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「え〜、どうしてですか。今回の手紙が、男の子
+line2 <shift> # ラッシュの幕開けかもしれないじゃないですか」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、真への、女性ファンの支持は根強いし、
+line2 <shift> # どう考えても、男一色には、ならないだろ？」
+display
+com11 0 3
+sound 1420
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そう言われると……。とくに、ここのところ、
+line2 <shift> # 女の子からの熱烈な手紙、増えてるし……」
+display
+com11 0 3
+sound 1421
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「がんばってくれ！　男の子！
+line2 <shift> # せ、せ、せめて、半分ぐらいまではっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （不安そうな顔で、叫んでいる。がんばるのは、
+line2 <shift> # 男の子じゃなくて、真本人なんだけどなあ）
+com09 0 69
+display
+location 69
+unk02

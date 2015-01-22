@@ -1,0 +1,414 @@
+com2c 0 17
+com2c 0 119
+com2d 0 11
+com2e 0 13
+com32 0 0
+com11 0 0
+sound 0
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あ〜、ドキドキしてきましたぁ……。
+line2 <shift> # とうとう憧れの歌番組に出られるんですね……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「春香、ずっと楽しみにしていたもんな」
+display
+com11 0 0
+sound 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「はい。だって、小さい頃からずっと
+line2 <shift> # テレビで見ていましたから……」
+display
+com11 0 0
+sound 2
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そんな番組に自分が出られるなんて、
+line2 <shift> # なんだか信じられないような気持ちですっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だけど、今日はまだ、期待の新人コーナーに
+line2 <shift> # 出るだけだからな。まず最初に……」
+com03 0 3
+choice1 <shift> # 歌を覚えてもらおう
+line2
+com09 0 10
+com08
+choice2 <shift> # 名前を覚えてもらおう
+line2
+com09 0 11
+com08
+choice3 <shift> # 転んだら目立つかも
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「歌を覚えてもらおう」
+display
+com11 0 0
+sound 3
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あ、はいっ！　私も昔、そうでした。
+line2 <shift> # 番組を見てても、まずは歌から覚えましたし」
+display
+com11 0 0
+sound 4
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「今の私の曲、とってもいい曲だから、
+line2 <shift> # たくさんの人に、口ずさんでもらいたいです」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「名前を覚えてもらおう」
+display
+com11 0 0
+sound 5
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あ……、そうですね。まだ、私の名前を
+line2 <shift> # 知らない人も、たくさんいますよね」
+display
+com11 0 0
+sound 6
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「でも、どうやったら、私の名前を、
+line2 <shift> # 覚えてもらえるんでしょう？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それはだな……やっぱり、名前をとにかく
+line2 <shift> # 言えばいいんだ。しつこいくらいに！」
+display
+com11 0 0
+sound 7
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ええっ、そ、それはちょっと……。
+line2 <shift> # あまりにも、露骨っぽくて、嫌かも……」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「転んだら目立つかも」
+display
+com11 0 0
+sound 8
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ええっ！　そ、そんな……。
+line2 <shift> # わざと転ぶなんて、できませんよぉ〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だって、いつも、あんなにあっちこっちで
+line2 <shift> # 転んでるじゃないか？」
+display
+com11 0 0
+sound 9
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「むぅ……。あれは、わざとじゃないんです。
+line2 <shift> # 転びたくて転んでるんじゃ、ないんですよ？」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あ！　それから、プロデューサーさん。
+line2 <shift> # 楽屋のこと、なんですけど……」
+display
+com11 0 0
+sound 11
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「きっと、他の歌手のみなさんも一緒に、
+line2 <shift> # ここを使うんですよね？」
+display
+com11 0 0
+sound 12
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「何か、気をつけておいたほうがいいこと
+line2 <shift> # って、ありますか？」
+com03 0 3
+choice1 <shift> # 先輩を大切に
+line2
+com09 0 20
+com08
+choice2 <shift> # 楽屋をキレイに
+line2
+com09 0 21
+com08
+choice3 <shift> # 廊下を走るな
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「先輩を大切にな」
+display
+com11 0 0
+sound 13
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あ、わかります。それは、すごく大切なこと
+line2 <shift> # ですよね……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「芸能界は、上下関係が厳しいんだ。楽屋では
+line2 <shift> # いつも以上に、気をつけておくんだぞ？」
+display
+com11 0 0
+sound 14
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「はいっ、勉強になりました」
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「楽屋をキレイにな」
+display
+com11 0 0
+sound 15
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あ、はいっ。それなら、自信があります。
+line2 <shift> # もともと、化粧品も少ないですし……」
+display
+com11 0 0
+sound 16
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「片付けるのとか、いつもしてますから。
+line2 <shift> # 今回もちゃんと、気をつけておこうと思います」
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「廊下を走るな」
+display
+com11 0 0
+sound 17
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ええっ！　なんだか、小学校のスローガン
+line2 <shift> # みたいですね……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「春香は、すぐに転ぶからな。小学生と同じ
+line2 <shift> # レベルだってことだ」
+display
+com11 0 0
+sound 18
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あ……うう。そ、そうかもしれません。
+line2 <shift> # すみません、気をつけますね〜」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 19
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「それじゃあ、私はちょっと、奥の部屋で
+line2 <shift> # 着替えをしてきますね」
+display
+com11 0 0
+sound 20
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「プロデューサーさんは、ここで少し
+line2 <shift> # 待っていてください」
+display
+com22 0 30
+com21 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おや？　おかしいな……。
+line2 <shift> # 奥の部屋から、こげくさい匂いがしてくる」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「奥には、部屋がふたつあるな……。
+line2 <shift> # 春香は、どっちにいるんだろう？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「春香、春香ーーーっ！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （返事がない……。ドアを開けたいけど、
+line2 <shift> # 春香が着替え中だったら、申し訳ないし……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （だけど、万が一、火事だったら大変だ。
+line2 <shift> # よしっ。どちらかの部屋を、開けてみよう！）
+com03 0 2
+choice1 <shift> # 右の部屋
+com09 0 30
+com08
+choice2 <shift> # 左の部屋
+com09 0 31
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「右の部屋を、開けてみるぞ！」
+display <shift> # ガチャ――。
+com37 0 1
+com1e 0 0
+com09 0 38
+com3b
+com37 0 0
+com1e 0 0
+com09 0 39
+com3b
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「左の部屋を、開けてみるぞ！」
+display <shift> # ガチャ――。
+com37 0 1
+com1e 0 0
+com09 0 38
+com3b
+com37 0 0
+com1e 0 0
+com09 0 39
+com3b
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「時間がない。適当に開けてみるぞ！」
+com09 0 39
+display
+location 38
+com22 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うわっ……。すごい煙だ！　けほっ、けほっ！
+line2 <shift> # 中がよく見えない。火事だ！　誰かーっ！」
+display
+com21 0 30
+com11 0 0
+sound 21
+com4c 0 2
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「大丈夫でしたか？　プロデューサーさん！
+line2 <shift> # 私の着替え中に、大変だったみたいですね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、大丈夫だ。煙はすごかったけど、幸い
+line2 <shift> # ボヤだったから、すぐ消火することができたよ」
+display
+com11 0 0
+sound 22
+com4c 0 2
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ああ、よかった……。プロデューサーさんに
+line2 <shift> # 何事もなくて、本当に安心しました」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それは、こっちのセリフだよ。
+line2 <shift> # 春香を呼んだのに、返事がなかったから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「心配になって、夢中で部屋に飛び込んだんだ。
+line2 <shift> # 春香さえ無事なら、俺はどうなってもいいから」
+display
+com11 0 0
+sound 23
+com4c 0 2
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「プロデューサーさん……」
+display
+com11 0 0
+sound 24
+com4c 0 2
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「ありがとうございます……。そんなふうに
+line2 <shift> # 言ってもらえるなんて、私、幸せ者ですね……」
+display
+com11 0 0
+sound 25
+com4c 0 2
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「プロデューサーさんの気持ちに応えられる
+line2 <shift> # ように、もっとお仕事、がんばりますから！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その日、春香は期待以上の仕事をしてくれた。
+line2 <shift> # ボヤ騒ぎで、やる気に火がついたようだな）
+com4b 0 0
+com09 0 69
+display
+location 39
+com22 0 30
+com32 0 1
+com21 0 30
+com11 0 0
+sound 26
+com4c 0 2
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「キャーーッ！　まだ、着替えの途中ですよっ！
+line2 <shift> # プロデューサーさんのエッチ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ごめんっ！　こ、これには深いわけが……」
+display
+com22 0 30
+com32 0 0
+com21 0 30
+name 0 0 <names:1>  # Haruka
+line1
+com4c 0 2 129 117 129 99 129 99 129 99 129 99 129 99 129 99 129 118
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「悪かったよ。こげくさい匂いがしたから、
+line2 <shift> # もしも火事だったら、大変だと思って」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「結局、ボヤは、別の部屋だったみたいで、
+line2 <shift> # 誰かが消してくれたらしいけど」
+display
+com11 0 0
+sound 27
+com4c 0 2
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「だからって、突然入ってくるなんて……。
+line2 <shift> # ひどいですっ……！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、声をかけたけど、返事がないから」
+display
+com11 0 0
+sound 28
+com4c 0 2
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「イヤホンで歌のおさらいをしてたんです。
+line2 <shift> # 今日の番組は、失敗したくなくて……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なあ、頼むから、機嫌を直してくれないか。
+line2 <shift> # 大丈夫だ、俺は何にも見てないぞ？」
+display
+com11 0 0
+sound 29
+com4c 0 2
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「み、見たとか、見ないとかっ……、
+line2 <shift> # そういう問題じゃ、ないんです……！」
+display
+com11 0 0
+sound 30
+com4c 0 2
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「プロデューサーさんを、信用してたのに。
+line2 <shift> # ショックですよ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （結局、春香は動揺したまま、本番を迎えた。
+line2 <shift> # もちろん、出来は最悪だった――）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （せっかく憧れの番組に出られたのに、
+line2 <shift> # 俺のせいで、台無しにしてしまったな……）
+com4b 0 2
+com09 0 69
+display
+location 69
+unk02

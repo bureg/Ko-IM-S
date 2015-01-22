@@ -1,0 +1,299 @@
+com2c 0 100
+com2d 0 41
+com32 0 0
+com11 0 1
+sound 300
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサー。ライブの準備、どうですか？
+line2 <shift> # ドームの中の、進行具合は？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「たった今、準備完了だ。言われた通り、
+line2 <shift> # バックにはフル・オーケストラ、用意したぞ」
+display
+com11 0 1
+sound 301
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ありがとうございます。
+line2 <shift> # すみません、相当、予算かかりましたよね？」
+com03 0 3
+choice1 <shift> # ソンをする気はないよ
+line2
+com09 0 10
+com08
+choice2 <shift> # なーに、はした金だよ
+line2
+com09 0 11
+com08
+choice3 <shift> # 事務所、倒産しそうだよ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ソンをする気はないよ。話題が多ければ、
+line2 <shift> # 人も、それだけ集まるから」
+display
+com11 0 1
+sound 302
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あはっ、そうですね。アイドルとオーケストラ、
+line2 <shift> # 宣伝効果も高いと思います」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なーに、はした金だよ。今の稼ぎなら、
+line2 <shift> # オーケストラの１０や２０……」
+display
+com11 0 1
+sound 303
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そんなに呼んだら、さすがに大変では？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、それはいきすぎか。でも、ひとつぐらい
+line2 <shift> # なら、なんの問題もないよ」
+display
+com11 0 1
+sound 304
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そう言ってもらえると、助かります。資金
+line2 <shift> # 以上の成果、必ず上げてみせますから」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「事務所、倒産しそうだよ」
+display
+com11 0 1
+sound 305
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そんなに、かかったんですか？　だったら、
+line2 <shift> # 前もって言ってくれれば……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「い、いや、誇張しすぎた。今の稼ぎなら、
+line2 <shift> # じつは、たいしたことは……」
+display
+com11 0 1
+sound 306
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……なら、よかったです。私、相場を
+line2 <shift> # 知らないから、信じてしまいました」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……にしても、どうしてオーケストラなんだ？
+line2 <shift> # しかも、１５０人だなんて」
+display
+com11 0 1
+sound 307
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「曲のラインナップから逆算すると、どうしても
+line2 <shift> # この規模の編成が、必要だったんです」
+display
+com11 0 1
+sound 308
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「荘厳で厚みのある演奏と、厳選した曲。今の
+line2 <shift> # 人気と資金力がなければ、到底できません」
+com03 0 3
+choice1 <shift> # やっぱり、金も重要だよな
+line2
+com09 0 30
+com08
+choice2 <shift> # 金に頼るのは、よくないような
+line2
+com09 0 31
+com08
+choice3 <shift> # やっぱり、金こそ重要だよな
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やっぱり、金も重要だよな」
+display
+com11 0 1
+sound 309
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「今回のように、なければできないこと、
+line2 <shift> # ありますよね」
+display
+com11 0 1
+sound 310
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「人気とお金って、まるで火と風です。互いに
+line2 <shift> # 影響しあって、どんどん大きくなって……」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「金に頼るのは、よくないないような……」
+display
+com11 0 1
+sound 311
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「でも、お金がなければ、オーケストラは
+line2 <shift> # 呼べませんよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う、まあ、たしかに……。頼りすぎなければ、
+line2 <shift> # いいってことか」
+display
+com11 0 1
+sound 312
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「お金は、手段なんだと思います。大事なのは、
+line2 <shift> # それを手にして、なにをするかで……」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やっぱり、金こそ重要だよな」
+display
+com11 0 1
+sound 313
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「私、お金が一番大事だとは、思っていません
+line2 <shift> # けど……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え、そうか？　でも、お金がなければ、
+line2 <shift> # オーケストラは呼べないよ？」
+display
+com11 0 1
+sound 314
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「問題は……呼んで、なにをするか、です。
+line2 <shift> # そっちの方が、きっと大切ですよね」
+com09 0 49
+display
+location 49
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「バックにオーケストラっていうのが、
+line2 <shift> # 千早の考える、ライブの最大編成？」
+display
+com11 0 1
+sound 315
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そうですね。これ以上の大きさは、
+line2 <shift> # 望みようがありません」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だとしたら、ドーム・ライブの後が大変だな。
+line2 <shift> # もう、上は目指しようがないし」
+display
+com11 0 1
+sound 316
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そうでしょうか？　私には見えています。
+line2 <shift> # このドームの先にある、ひとつの形……」
+display
+com11 0 1
+sound 317
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「オーケストラを上回る、最高のバック
+line2 <shift> # バンドって、どういうものだと思いますか？」
+com03 0 3
+choice1 <shift> # スゴ腕ばかりそろえる、とか？
+line2
+com09 0 50
+com08
+choice2 <shift> # 演奏はなし、とか？
+line2
+com09 0 51
+com08
+choice3 <shift> # ファンの声援、とか？
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 2
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「スゴ腕ばかりそろえる、とか？」
+display
+com11 0 1
+sound 318
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「それが理想ですね。必要な時に、一流奏者が
+line2 <shift> # いつでも協力してくれる、アイドルに……」
+display
+com11 0 1
+sound 319
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「規模の大小では片づけられないもの、追い
+line2 <shift> # 続けたいです。では、そろそろドームの中へ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （身体に風をまとって、歩いていく。千早の
+line2 <shift> # 背中、ドームよりもはるかに大きく見えるな）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「演奏はなし、とか？」
+display
+com11 0 1
+sound 320
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「全曲、アカペラですか？　それは極端……。
+line2 <shift> # 私、そんなのがベストとは、思っていません」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか。千早の歌なら、それでも、成り立つと
+line2 <shift> # 思うんだけどな」
+display
+com11 0 1
+sound 321
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「成立するのと、成功するのは、別ですから。
+line2 <shift> # あ、そろそろ、ドームの中へ行かないと」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （結局、千早の考えは、聞けずじまいだった。
+line2 <shift> # アカペラでないとすると……うーん……）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ファンの声援、とか？」
+display
+com11 0 1
+sound 322
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「えーと……はげみにはなります。けど、
+line2 <shift> # ファンは、曲を奏でてはくれないですよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか？　でも、合わせて、ハミングとかは
+line2 <shift> # してくれるよな？」
+display
+com11 0 1
+sound 323
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「それも歌の種類によって、ですよね。はじめ
+line2 <shift> # から、期待してしまうのは、どうなんでしょう」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うーん、カッコいい意見だと思ったんだけどな。
+line2 <shift> # あまりに現実味のないことを、言ってしまった）
+com09 0 69
+display
+location 69
+unk02

@@ -1,0 +1,327 @@
+com2d 0 81
+com2c 0 37
+com2c 0 25
+com32 0 0
+location 0
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「社長の言ってたスポーツジムって、ここだよな。
+line2 <shift> # あっ、あそこで休んでる子は！」
+display
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ふぅ〜、イッテテテテ……。連続ターンは、
+line2 <shift> # やっぱ、まだムリかぁ。ぶつけたとこ、痛いや」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ダンスしてて、コケたのか？　にしても、
+line2 <shift> # 顔だけ見ると、ホントに男の子みたいだな）
+display
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「さてっ、一休みしたら、もう１回だけ、
+line2 <shift> # 挑戦してみよっかな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……そろそろ、声かけてみるか）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ちょっと、いいかな。そこの……」
+com03 0 3
+choice1 <shift> # かわいい、キミ！　
+line2
+com09 0 10
+com08
+choice2 <shift> # りりしい、キミ！　
+line2
+com09 0 11
+com08
+choice3 <shift> # あやしい、キミ！　
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「かわいい、キミ！」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「えっ？　もしかして、ボクのこと？　や、
+line2 <shift> # やだなあ、かわいいだなんて。あっははは♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （照れてる……。中身まで男ってことは、
+line2 <shift> # ないみたいだな）
+display
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ところで、あなた、誰です？
+line2 <shift> # もしかして……ナンパ師ですか？」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「りりしい、キミ！」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「む……もしかして、ボクのことですか？
+line2 <shift> # 普通、女の子に、そういうこと、言います？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （すこし、ムッとしてる。男っぽく見られるの、
+line2 <shift> # イヤがってるのかもしれない）
+display
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ところで、あなた、誰です？　そうやって、
+line2 <shift> # ケンカでも、売り歩いてるんですか？」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あやしい、キミ！」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「え、ボク？　全っ然、あやしくないですよー。
+line2 <shift> # どこから見ても、普通の女の子じゃないですか」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うーん、どっちかっていうと、普通の男の子
+line2 <shift> # って気もするけど、突っ込まないでおくか）
+display
+com11 0 0
+sound 10007
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ところで、あなた、誰です？　職務質問して
+line2 <shift> # 歩いてる、刑事さんとかですか？」
+com09 0 19
+display
+location 19
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、ちがうよ。俺は、君の担当プロ
+line2 <shift> # デューサーだ。社長に言われて、迎えにきた」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「担、当……？　ええええっ、じゃあ、ボク、
+line2 <shift> # ついにデビューできるんですかっ。やーりぃ！」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あのっ、これから、よろしくお願いしますっ！
+line2 <shift> # ボク、メチャメチャ、がんばりますんで！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、期待してるぞ」
+com37 0 0
+com1e 0 0
+com09 0 25
+com3b
+com38 0 1
+com1e 0 0
+com09 0 26
+com3b
+display
+location 25
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それじゃ、まず、全国デビューするための、
+line2 <shift> # 君の芸名を決めようか。えーと……」
+display
+location 26
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それじゃ、まず、全国デビューするための、
+line2 <shift> # ユニット名を決めようか。えーと……」
+display
+location 30
+com11 0 0
+sound 10010
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「それで、決まりですねっ。なんか、デビュー
+line2 <shift> # するんだって実感、わいてきちゃったなー！」
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よろしく頼むぞ！
+line2 <shift> # さあ、いよいよ活動開始だ！」
+display
+location 40
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今日のスケジュールは……、と）
+display
+location 50
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やっぱり最初はレッスンだ！
+line2 <shift> # 初レッスン行くぞ！」
+display
+com4a 0 0
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「はいっ！　燃えてきました！　のっけから、
+line2 <shift> # ガツンとやってやりますっ！」
+display
+location 60
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （トップアイドルになるため、今後は流行を
+line2 <shift> # 意識していこう！　まずは育成方針として）
+display
+location 61
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （流行１位イメージであるボーカルの
+line2 <shift> # イメージをＵＰさせていこう！）
+display
+location 62
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （流行１位イメージであるダンスの
+line2 <shift> # イメージをＵＰさせていこう！）
+display
+location 63
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （流行１位イメージであるビジュアルの
+line2 <shift> # イメージをＵＰさせていこう！）
+display
+location 64
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （流行１位のイメージはオーディションでの
+line2 <shift> # ウケが良く、合格しやすい！　絶対に有利だ！）
+display
+location 65
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しかし流行は変化しやすい。常に先の先を
+line2 <shift> # 考えながらイメージ作りをしていくぞ！！）
+display
+location 66
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （明日の流行１位ではない！
+line2 <shift> # 最終的には、人数の増加傾向を考慮して……）
+display
+location 67
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （無駄のないレッスンができるように
+line2 <shift> # なろう！！）
+display
+display
+location 100
+com32 0 1
+com11 0 0
+sound 10012
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「しつれいしまーす。社長、ボクに用って
+line2 <shift> # 何ですかー？」
+display
+com11 0 0
+sound 10018
+name 0 2 <names:3>  # President
+line1 <shift> # 「おお来たか。彼……いや彼女が、菊地真君だ。
+line2 <shift> # りりしさＮｏ．１の、うちでも期待の逸材だよ」
+display
+com11 0 0
+sound 10013
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「社長、やめて下さいよ。りりしいだなんて、
+line2 <shift> # 普通、女の子に、そういうこと、言います？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （すこし、ムッとしてる。男っぽく見られるの、
+line2 <shift> # イヤがってるのかもしれない）
+display
+com11 0 0
+sound 10014
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「えと、ところで……この人は、誰です？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「はじめまして。今日から俺が君の担当
+line2 <shift> # プロデューサーだ」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「担、当……？　ええええっ、じゃあ、ボク、
+line2 <shift> # ついにデビューできるんですかっ。やーりぃ！」
+display
+com11 0 0
+sound 10016
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あのっ、これから、よろしくお願いしますっ！
+line2 <shift> # ボク、メチャメチャ、がんばりますんで！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、期待してるぞ。よろしくな」
+display
+com4a 0 0
+com11 0 0
+sound 10017
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「はい！」
+display
+location 200
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （大事なスケジュールには、オススメマークを、
+line2 <shift> # 事務員の音無さんが、つけてくれている）
+display
+location 201
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今は、レッスンと営業が重要らしい。ステップ
+line2 <shift> # アップのため必要なスケジュールってことだな）
+display
+location 202
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （いきなり、オススメを無視するのは、怖いな。
+line2 <shift> # ここは素直に、したがったほうがいい気がする）
+display
+location 210
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「初めての営業に出発だ！
+line2 <shift> # 気合いいれていこう！」
+display
+com4a 0 0
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「はいっ！　燃えてきました！　のっけから、
+line2 <shift> # ガツンとやってやりますっ！」
+display
+location 300
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「続いて、衣装を決めよう」
+display
+location 301
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「続いてデビュー曲を決めよう」
+display
+location 302
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「喜んでくれて俺もうれしいよ！」
+display
+unk02

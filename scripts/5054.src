@@ -1,0 +1,337 @@
+com2c 0 53
+com2d 0 11
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あれ、公園の向こうから歌声がきこえる。
+line2 <shift> # 行ってみよう……）
+display
+com11 0 3
+sound 1100
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あっ、プロデューサーさん。
+line2 <shift> # どうしたんですか、こんなところで？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「春香こそ。今、ここで何か
+line2 <shift> # 歌ってなかったか？」
+display
+com11 0 3
+sound 1101
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、はい。私、ときどきちょっと
+line2 <shift> # この公園で、歌の練習をしてて……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「練習ならレッスン場や事務所でもいいのに」
+display
+com11 0 3
+sound 1102
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「えへへ、そうですけど……私、この場所が
+line2 <shift> # 好きなんですよ♪」
+com03 0 2
+choice1 <shift> # そうなのか
+com09 0 10
+com08
+choice2 <shift> # 外で歌うのはちょっと……
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ふーん、なるほど。そうなのか。
+line2 <shift> # 外で歌うのは開放感があっていいかもね」
+display
+com11 0 3
+sound 1103
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ですよね？　私もそう思うんです！
+line2 <shift> # 晴れた日なんかもう最高です！」
+display
+com11 0 3
+sound 1104
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「風に乗って歌が遠くまで広がっていく感じが
+line2 <shift> # して……、だから、屋外ライブも好きなんです♪」
+display
+com11 0 3
+sound 1105
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「それと……、昔、
+line2 <shift> # 私が小さい頃の話ですけど……」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「外で歌うのは、ちょっと感心しないかなぁ」
+display
+com11 0 3
+sound 1106
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ええっ、ダメですか？　うーん……。
+line2 <shift> # 確かに、もしかしたら迷惑になってるかも」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、それもだけど……、外で大声で歌うと、
+line2 <shift> # 喉を悪くしたり風邪引いたりしないかな、と」
+display
+com11 0 3
+sound 1107
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「大丈夫だと思ってますけど……、
+line2 <shift> # 気にしたほうがいいのかなぁ」
+display
+com11 0 3
+sound 1108
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「空の下で歌うの、好きなんです、私。
+line2 <shift> # 実は、小さい頃……」
+com09 0 29
+display
+location 29
+com11 0 3
+sound 1109
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「私の地元の、ちょうどこんな感じの雰囲気の
+line2 <shift> # 公園に、歌の好きなお姉さんがよく来ていて」
+display
+com11 0 3
+sound 1110
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「私、そのお姉さんに歌を教えてもらったり、
+line2 <shift> # 一緒に歌ったりしてたんですっ」
+display
+com11 0 3
+sound 1111
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「お姉さんと私と、友達みんなとで歌って……
+line2 <shift> # それがいつも、ほんと楽しくって！」
+display
+com11 0 3
+sound 1112
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、それで……、そうやって歌ってると、
+line2 <shift> # だんだん周りに人が集まってきて……」
+com03 0 3
+choice1 <shift> # ほめられた？
+line2
+com09 0 30
+com08
+choice2 <shift> # 叱られた？
+com09 0 31
+com08
+choice3 <shift> # きいてもらえなかった？
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もしかして、褒められた？」
+display
+com11 0 3
+sound 1113
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あっ、はい！　そうです♪　えへへ……
+line2 <shift> # みんなに、拍手してもらって」
+display
+com11 0 3
+sound 1114
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「お姉さんにも、上手だね、よく頑張ったね、
+line2 <shift> # って、言ってもらえて……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それが、春香が歌を頑張る
+line2 <shift> # きっかけになったのかな？」
+display
+com11 0 3
+sound 1115
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そうです、そうです！
+line2 <shift> # やっぱり、今でもあれが忘れられなくて……」
+display
+com11 0 3
+sound 1116
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「みんなが喜んでくれるなら、いつかもっと
+line2 <shift> # 大きなステージの上で歌いたい！　って……」
+display
+com11 0 3
+sound 1117
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「えへへ……。ちょっと自分でも、
+line2 <shift> # 動機が単純かなぁ、って思いますけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いやいや、いいことさ。単純かもしれない
+line2 <shift> # けど、純粋でいいきっかけだよ」
+display
+com11 0 3
+sound 1118
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そう言ってもらえるとちょっと
+line2 <shift> # 照れますね……。でも、嬉しいです♪」
+display
+com11 0 3
+sound 1119
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「これからも私、もっとたくさんの人達と
+line2 <shift> # 歌を歌いたいです！　頑張りますね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （いい思い出があるんだな……。それを胸に、
+line2 <shift> # 春香はこれからもしっかり頑張ってくれそうだ）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もしかして、叱られた？」
+display
+com11 0 3
+sound 1120
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ううっ、はい……確かに、
+line2 <shift> # 怒られたこともありますね」
+display
+com11 0 3
+sound 1121
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「近所の頑固おじいさんが『うるさーい！』
+line2 <shift> # って、カンカンになってやってきて！」
+display
+com11 0 3
+sound 1122
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あっ、でも！　ある日、そのおじいさんが、
+line2 <shift> # いつものように怒鳴り込んできた時に……」
+display
+com11 0 3
+sound 1123
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「『うるさいからここではやめて欲しいが……、
+line2 <shift> # 少しは上達したようだな、お嬢ちゃん』って」
+display
+com11 0 3
+sound 1124
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「やっぱり怒られたんだけど……、私、ちょっと
+line2 <shift> # 嬉しかったんです。あはは、変ですよね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いやいや、気持ちはわかるよ」
+display
+com11 0 3
+sound 1125
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「いつか私、あのおじいさんにも来てもらえる
+line2 <shift> # くらいのすごいステージをやってみたいです！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか、目標だね。頑固じいさんもうならせる
+line2 <shift> # ような歌を歌えるように、ってことか……」
+display
+com11 0 3
+sound 1126
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい！　いろんな人にきいてもらえるような
+line2 <shift> # 歌が歌えるように……、私、頑張りますっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （いい思い出があるんだな……。それを胸に、
+line2 <shift> # 春香はこれからもしっかり頑張ってくれそうだ）
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もしかして、あんまりきいて
+line2 <shift> # もらえなかったのかな？」
+display
+com11 0 3
+sound 1127
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ううっ、そうなんですよね……」
+display
+com11 0 3
+sound 1128
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「遠巻きに眺めてる人はいても、あんまりきく
+line2 <shift> # 感じじゃなくて。それがちょっと寂しかったり」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「歌ってるからには、やっぱり誰かに
+line2 <shift> # きいていて欲しいからね」
+display
+com11 0 3
+sound 1129
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい。だけど、『きいてきいて！』って風に
+line2 <shift> # じゃなくって、自然に歌ってれば……」
+display
+com11 0 3
+sound 1130
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「気持ちのいい歌なら、自然と人もきくように
+line2 <shift> # なるよ、って、歌のお姉さんに教わって」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なるほど、無理せず力まず、
+line2 <shift> # 自然体ってことだね」
+display
+com11 0 3
+sound 1131
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい。それで、あまり考えず好きに歌うように
+line2 <shift> # なってからは、きいてもらえることが増えて！」
+display
+com11 0 3
+sound 1132
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「うん……。少しはみんなに、きいてもらえる
+line2 <shift> # ように、なってきたんですけど……」
+display
+com11 0 3
+sound 1133
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「みんなに気持ちのいい歌って、ほんとは
+line2 <shift> # どんな歌なんだろう？　って今でも考えてます」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうして？　何かあったのか？」
+display
+com11 0 3
+sound 1134
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「実はある時、一緒に歌ってた友達と、
+line2 <shift> # ケンカになってしまって……」
+display
+com11 0 3
+sound 1135
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「それから歌のお姉さんにも、
+line2 <shift> # 会えなくなっちゃったから……」
+display
+com11 0 3
+sound 1136
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「今の私の歌、お姉さんにも
+line2 <shift> # きいて欲しかったのになぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか……。いや、これからも春香が活躍を
+line2 <shift> # 続けてれば、きっとどこかできいてくれるよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （春香は少し複雑な顔をしている。何か
+line2 <shift> # 辛いことを思い出させちゃったかな……）
+com09 0 49
+display
+location 49
+unk02

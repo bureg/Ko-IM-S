@@ -1,0 +1,456 @@
+com2c 0 67
+com2c 0 59
+com2c 0 1
+com2d 0 71
+com32 0 0
+com11 0 0
+sound 0
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「まだついてきてる……本当にしつこいなぁ。
+line2 <shift> # あそこの週刊誌、タチ悪すぎですね」
+display
+com11 0 0
+sound 1
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「根も葉もないゴシップ記事しか載せてないくせ
+line2 <shift> # して、尾行だけはすごく熱心なんだから……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まいったな、スタジオ入りする前に、
+line2 <shift> # このあたりで巻きたいんだが……」
+display
+com11 0 0
+sound 2
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「お店にでも入って、やり過ごします？」
+com03 0 3
+choice1 <shift> # ゲームセンターとかか？
+line2
+com09 0 11
+com08
+choice2 <shift> # 映画館とかか？
+line2
+com09 0 12
+com08
+choice3 <shift> # 喫茶店とかか？
+line2
+com09 0 13
+com08
+com07
+com09 0 13
+com08
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ゲームセンターとかか？」
+display
+com11 0 0
+sound 3
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「確かに、人も多いし、出口がたくさんある
+line2 <shift> # お店もあるし、いいかもしれませんね」
+display
+com11 0 0
+sound 4
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ちょっと歩いた先に、１軒あったはずです。
+line2 <shift> # そっちに向かいましょ」
+com09 0 14
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「映画館とかか？」
+display
+com11 0 0
+sound 5
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「確かに、１回入っちゃえば
+line2 <shift> # 暗いから中を逃げ回れるけど……」
+display
+com11 0 0
+sound 6
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「出口で待たれちゃったら、意味ないんじゃ
+line2 <shift> # ないですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「む……そうか」
+com09 0 14
+display
+location 13
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「喫茶店とかか？」
+display
+com11 0 0
+sound 7
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ええっ？　わざわざ出口のないところに
+line2 <shift> # 自分から飛び込む気ですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う……それもそうか」
+com09 0 14
+display
+location 14
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「しかし今回のゴシップは困ったもんだよな。
+line2 <shift> # 律子じゃなくって、相手の問題だし」
+display
+com11 0 0
+sound 8
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「今をときめく俳優さんとＣＭ共演……
+line2 <shift> # まではよかったんですけどね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「たまたま、その俳優がアイドルの彼女と
+line2 <shift> # ケンカ中だったせいで……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まさか『秋月律子が、略奪愛！？』とか、
+line2 <shift> # 週刊誌に書かれるとはなぁ……」
+display
+com11 0 0
+sound 9
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ほんと、いい迷惑。大嘘の記事ばっかり
+line2 <shift> # 毎回毎回、よく考えるわよね、あの雑誌」
+display
+com11 0 0
+sound 10
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「はぁ……。いい加減にしてくれないかな」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「怒らないのか？　いつもの律子なら、
+line2 <shift> # 抗議しないと！　とか言いそうなのに」
+display
+com11 0 0
+sound 11
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「なんだか、疲れちゃって……」
+display
+com11 0 0
+sound 12
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ネットで見たんですけど、俳優さんのファン、
+line2 <shift> # 私が悪いって思いこんでるみたいなんですよね」
+display
+com11 0 0
+sound 13
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「取材の記者も、俳優さんのファンも、
+line2 <shift> # 私が何言ったって、悪いほうに誤解しそう……」
+com03 0 3
+choice1 <shift> # 俺は律子の味方だぞ
+line2
+com09 0 21
+com08
+choice2 <shift> # なおさら抗議しないと
+line2
+com09 0 22
+com08
+choice3 <shift> # 有名税みたいなもんさ
+line2
+com09 0 23
+com08
+com07 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64
+com09 0 23
+com08
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺は律子の味方だから」
+display
+com11 0 0
+sound 14
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ええっ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、なんとなく言っておこうと思って」
+display
+com11 0 0
+sound 15
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「……ふふっ！　いやいや、まいったなぁ」
+display
+com11 0 0
+sound 16
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「嬉しいこと言ってくれるじゃないですか。
+line2 <shift> # 今、一番欲しい言葉だったかもね……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「律子……」
+display
+com11 0 0
+sound 17
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「私の味方につくと、大勢の人を敵に回しそう
+line2 <shift> # ですけど。大丈夫ですか、プロデューサー？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなの関係ないよ。
+line2 <shift> # 律子は悪くないって、俺はちゃんと知ってるし」
+display
+com11 0 0
+sound 18
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「……ま、頼りにしてます。
+line2 <shift> # 私の数少ない味方として」
+com09 0 24
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「誤解されたのなら、抗議を続けて自分が潔白
+line2 <shift> # だって証明しないと！　戦え、律子！」
+display
+com11 0 0
+sound 19
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「でも、反論したら、よけいに
+line2 <shift> # この騒動が長引きそうな気がして……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、黙っちゃったら相手はますます
+line2 <shift> # 勝手なことを言い出すかもしれないぞ」
+display
+com11 0 0
+sound 20
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「はあ……。それもそうですね。やるしかないの
+line2 <shift> # かなぁ……。かなり、うんざりだけど……」
+com09 0 24
+display
+location 23
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「有名税みたいなものさ」
+display
+com11 0 0
+sound 21
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「うーん……。
+line2 <shift> # やっぱり、そういうもんですかねぇ」
+display
+com11 0 0
+sound 22
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「一流なら、これぐらいはサラッと
+line2 <shift> # 流せないといけないんですよね、本当は」
+display
+com11 0 0
+sound 23
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ああ……自信なくなるなぁ。サラッとなんて
+line2 <shift> # 私、とてもムリな気がするんですよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、サラッとかどうかはともかく、
+line2 <shift> # 折り合いをつける必要はあるだろうな」
+com09 0 24
+display
+location 24
+com11 0 0
+sound 24
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「……はっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうした、律子？」
+display
+com11 0 0
+sound 25
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「プロデューサー、この先の道に立ってる
+line2 <shift> # パーカー着た男、見覚えありません？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あれって……前に事務所に押しかけてきて、
+line2 <shift> # 強引に取材しようとしたヤツか？」
+display
+com11 0 0
+sound 26
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「多分、うちらのこと、
+line2 <shift> # はさみうちにするつもりなんですよ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「こうしちゃいられない！
+line2 <shift> # 律子、走って逃げるぞ」
+display
+com11 0 0
+sound 27
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「は、はい！」
+display
+com22 0 30
+com32 0 1
+com21 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「路地裏に逃げるぞ！」
+display
+com11 0 0
+sound 28
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「プロデューサー！　道がわかれてますよ。
+line2 <shift> # 右と左、どっちですか！？」
+com03 0 2
+choice1 <shift> # 右だ！
+com09 0 31
+com08
+choice2 <shift> # 左だ！
+com09 0 32
+com08
+com07 129 64 129 64
+com09 0 33
+com08
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「右だ！」
+display
+com11 0 0
+sound 29
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「了解！」
+com37 0 1
+com1e 0 0
+com09 0 35
+com3b
+com37 0 0
+com1e 0 0
+com09 0 36
+com3b
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「左だ！」
+display
+com11 0 0
+sound 29
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「了解！」
+com37 0 1
+com1e 0 0
+com09 0 35
+com3b
+com37 0 0
+com1e 0 0
+com09 0 36
+com3b
+display
+location 33
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「こっちだ！」
+display
+com11 0 0
+sound 29
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「了解！」
+com09 0 36
+display
+location 35
+com22 0 30
+com32 0 2
+com21 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「はぁ、はぁ……なんとか、まいたか？」
+display
+com11 0 0
+sound 30
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ええ、多分……。あれだけ入りくんだ道だし、
+line2 <shift> # 追ってくるのは不可能だと思うけど……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……よかった」
+display
+com11 0 0
+sound 31
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「でも、びっくりしましたよ？　いきなり手を
+line2 <shift> # 取って走り出すなんて、思わなかったから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そりゃ、なんとかあいつらから
+line2 <shift> # 逃げだそうと必死だったんだよ……」
+display
+com11 0 0
+sound 32
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ええ、わかってます。
+line2 <shift> # 一番会いたくないタイミングでしたし」
+display
+com11 0 0
+sound 33
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「その決断力と行動力、なかなかのものですね。
+line2 <shift> # おみそれしました、プロデューサー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おほめにあずかり恐悦至極に存じます」
+display
+com11 0 0
+sound 34
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ふふっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （デタラメなゴシップ記事のせいで、このところ
+line2 <shift> # 沈みがちだった律子の笑顔……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （それが見られただけでも、よかったな。ゴシッ
+line2 <shift> # プ騒動は、そのうちおさまるだろうけど……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （今後は律子の笑顔がくもったりすることがない
+line2 <shift> # よう、大切に守っていかなくちゃな……）
+com4b 0 0
+com09 0 69
+display
+location 36
+com22 0 30
+com32 0 2
+com21 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「はぁ、はぁ……」
+display
+com11 0 0
+sound 35
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「プロデューサー、こっちは行き止まり
+line2 <shift> # みたい！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「な、なんだって！？
+line2 <shift> # それじゃ、あっちへ……」
+display <shift> # カシャカシャカシャ……
+display
+com11 0 0
+sound 36
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「……なんなの！？」
+display
+name 0 5 <names:3>  # Reporter
+line1 <shift> # 「逃げることないじゃないですかあ〜。
+line2 <shift> # ちょっとお話を聞かせて欲しいだけなのに〜」
+display
+com11 0 0
+sound 37
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「……逃げきれなかったわね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （結局、律子は身に覚えのない話を、記者に
+line2 <shift> # 根掘り葉掘り聞かれ、相当疲れたようだ……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （この後のレコーディングにもひびくだろうな。
+line2 <shift> # あの時、うまく逃げきれてさえいれば……！）
+com4b 0 2
+com09 0 69
+display
+location 69
+unk02

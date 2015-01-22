@@ -1,0 +1,347 @@
+com2c 0 43
+com2d 0 63
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （作曲家へのあいさつも兼ね、スタジオへ歌の仮
+line2 <shift> # 収録にやってきた。アイドルとしての初仕事だ）
+display
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ううう、すみません……。いきなり、
+line2 <shift> # 歌い出しから、詰まっちゃいました……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうしたんだ？　まさか、歌詞、
+line2 <shift> # 忘れちゃったのか？」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ちがいます。こわいんです。私、マイクの前で
+line2 <shift> # 歌った事がないから。緊張でノドがキュウって」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「やっぱり、アイドルなんて、向いてないんです。
+line2 <shift> # ううっ、ぐす」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そう、決め込むなよ。はじめての衣装で、
+line2 <shift> # はじめての収録。あがるなって方が、無理だ」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「うまくいかないのは、衣装のせい……
+line2 <shift> # ですか？」
+com03 0 3
+choice1 <shift> # そうだ　
+com09 0 10
+com08
+choice2 <shift> # それだけじゃ、ないけどな　
+line2
+com09 0 11
+com08
+choice3 <shift> # 衣装に、罪はないよ　
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだ。雪歩は、悪くない」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そうですか……。なら、あまり自分を責める
+line2 <shift> # ことは、ないですね。ホッとしたかも……」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それだけじゃ、ないけどな」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ということは……、やっぱり、私も、
+line2 <shift> # 悪いんですね？　ううう……」
+com09 0 18
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「衣装に、罪はないよ」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ということは、悪いのは、やっぱり
+line2 <shift> # 私なんですね？　ううう……」
+com09 0 18
+display
+location 18
+com11 0 0
+sound 10007
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「わかってはいるんです。でも、自分じゃ、
+line2 <shift> # どうにもならなくて……」
+display
+location 19
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さ、めげずに、がんばろう。もう１回
+line2 <shift> # チャレンジだ！」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい……！　でも、もしかしたら、また……。
+line2 <shift> # うう、ぐすっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「こらっ、歌う前から、悪い想像するなって！
+line2 <shift> # こんな時こそ、あの精神だ！　えーと……」
+com03 0 3
+choice1 <shift> # ポジティブ・シンキング！　
+line2
+com09 0 20
+com08
+choice2 <shift> # ネガティブ・シンキング！　
+line2
+com09 0 21
+com08
+choice3 <shift> # ヤキニク・バイキング！　
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ポジティブ・シンキング！」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「……そうですね。すこしは、前向きにならない
+line2 <shift> # と。……私は、できる。私は、できる」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだ、その調子だ。よし、歌う前に、
+line2 <shift> # 涙をふいてやろう。ほら、顔出して」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ネガティブ・シンキング！」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ネガティブって、後ろ向きって、意味です
+line2 <shift> # よね？　今の私みたいな……。くすん」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あああ、まちがいまちがい！　ポジティブに
+line2 <shift> # いこう。ほら、歌う前に、涙ふいてあげるから」
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ヤキニク・バイキング！」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「それ、どういう精神ですかぁ？　私、全然
+line2 <shift> # わかりません〜。くっすん」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「う、豪快にまちがえたかも……。まあいい。
+line2 <shift> # ほら、顔出して。歌う前に、涙ふいてやるから」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 10012
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「え……？　そんなことまで、やって
+line2 <shift> # もらっちゃ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いいから、任せろって。動くなよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （さ、目をつつかないように、
+line2 <shift> # 慎重にふいてやろう！）
+com0e 1 251
+com44
+com09 0 30
+com45
+com44
+com09 0 31
+com45
+com44
+com09 0 32
+com45
+com44
+com09 0 33
+com45
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よしっ、これでカンペキだ。
+line2 <shift> # さあ、いい顔で、いい歌、歌っておいで！」
+display
+com11 0 0
+sound 10013
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ありがとうございます。今度は、うまく
+line2 <shift> # 歌えそうな気が……。い、行ってきます！」
+display
+com32 0 0
+com22 0 30
+com21 0 30
+com11 0 0
+sound 10014
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「プロデューサー、無事、最後まで歌えました！
+line2 <shift> # あの……、きいててもらえましたか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。やれば、できるじゃないか。
+line2 <shift> # なかなか、いい感じだったよ」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「私……、私……、初仕事、やりとげたんですね！
+line2 <shift> # よかった。ほんとに、よかったです……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うまく涙をふいてやり、見事、雪歩を成功へと
+line2 <shift> # 導いた！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……その後、足どりも軽く、
+line2 <shift> # 雪歩とともに、事務所に引き返した）
+com09 0 39
+display
+location 31
+com11 0 0
+sound 10016
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あのー……、も、もういいです。顔近づけてる
+line2 <shift> # と、私、なんか、恥ずかしく……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「う、そうか？　まだカンペキに、ふけてないん
+line2 <shift> # だけど……、まあ、しかたない。行っておいで」
+display
+com11 0 0
+sound 10017
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい。今度こそ、今度こそ……！」
+display
+com32 0 0
+com22 0 30
+com21 0 30
+com11 0 0
+sound 10018
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「うう、すみません〜。また、出だしで失敗……。
+line2 <shift> # 私なんか、この辺に穴掘って、埋まってますぅ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「は？　お、おい、こら。掘るな、埋まるな！
+line2 <shift> # お願いだから、立ち直ってくれって！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （涙をふきそこなったせいか、雪歩はＮＧを
+line2 <shift> # 連発。……力なく、しゃがみこんでしまった）
+com09 0 38
+display
+location 32
+com11 0 0
+sound 10019
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「う、いたい……、ですっ。プロデューサー、
+line2 <shift> # 目に指が……。うううう……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「しまったっ！　ごめん！
+line2 <shift> # 注意して、やったつもりだったんだけど……」
+display
+com11 0 0
+sound 10020
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「もういいです。それじゃ、歌、歌ってきます。
+line2 <shift> # 今度こそ……、今度こそ！」
+display
+com32 0 0
+com22 0 30
+com21 0 30
+com11 0 0
+sound 10021
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「うう、すみません〜。また、出だしで失敗……。
+line2 <shift> # 私なんか、この辺に穴掘って、埋まってますぅ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「は？　お、おい、こら。掘るな、埋まるな！
+line2 <shift> # お願いだから、立ち直ってくれって！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （痛い思いをさせてしまったせいか、雪歩はＮＧ
+line2 <shift> # を連発。……力なく、しゃがみこんでしまった）
+com09 0 38
+display
+location 33
+com11 0 0
+sound 10022
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あの、プロデューサー？　どうして、じっと
+line2 <shift> # 見てるんです？　私……、恥ずかしいかも」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あああ、ごめん。つい、ぼーっと。
+line2 <shift> # 今、ふいてあげるから」
+display
+com11 0 0
+sound 10023
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「もう、いいです。そろそろ、歌いに戻らないと。
+line2 <shift> # 今度こそ、今度こそ……！」
+display
+com32 0 0
+com22 0 30
+com21 0 30
+com11 0 0
+sound 10024
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「うう、すみません〜。また、出だしで失敗……。
+line2 <shift> # 私なんか、この辺に穴掘って、埋まってますぅ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「は？　お、おい、こら。掘るな、埋まるな！
+line2 <shift> # お願いだから、立ち直ってくれって！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （涙もふかず、ボーッとしてたせいか、雪歩は
+line2 <shift> # ＮＧを連発。力なく、しゃがみこんでしまった）
+com09 0 38
+display
+location 38
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……その後、なんとかＯＫをもらい、事務所に
+line2 <shift> # 帰るまでに、５時間もかかってしまった……）
+display
+location 39
+unk02

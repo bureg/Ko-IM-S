@@ -1,0 +1,523 @@
+com2c 0 119
+com2d 0 81
+com2e 0 111
+com32 0 0
+com11 0 0
+sound 10000
+com4c 0 1
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ＩＵの予選も、ついに３回目ですね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだな。３回目ともなると、少しはこの
+line2 <shift> # 独特の雰囲気にも、慣れてきたんじゃないか？」
+display
+com11 0 0
+sound 10001
+com4c 0 1
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そんなことないですよ〜。やっぱり、
+line2 <shift> # いつものオーディションとは何か違いますよね」
+display
+com11 0 0
+sound 10002
+com4c 0 1
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「しかも、何だか今回、やたらと周囲の視線が、
+line2 <shift> # 突き刺さってくるような……。気のせいかな？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、前回、皆の前で本選まで行くと宣言
+line2 <shift> # しちゃったからな。注目の的なんだろう」
+display
+com11 0 0
+sound 10003
+com4c 0 1
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ああっ、そうか。そうですよね」
+display
+com11 0 0
+sound 10004
+com4c 0 1
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「さらに緊張してきちゃいました……。少なく
+line2 <shift> # とも今後は、無様なマネは、できないですね」
+display
+com11 0 0
+sound 10005
+com4c 0 1
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、プロデューサー。また、響がいますよ！
+line2 <shift> # しかも、こっちに来る！」
+display
+com11 0 0
+sound 10006
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「……」
+display
+com11 0 0
+sound 10007
+com4c 0 1
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「や、やあ、響……。何か、怒ってる……？」
+display
+com11 0 0
+sound 10008
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ええっと、響は、どうしてここに？
+line2 <shift> # まさか、真に会いに来たとか？」
+display
+com11 0 0
+sound 10009
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「……」
+display
+com11 0 0
+sound 10010
+com4c 0 1
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「響……っ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （あからさまに、俺達を無視しているな。
+line2 <shift> # ここは俺が、ビシッと言ってやろう）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「響、その態度は……」
+com03 0 3
+choice1 <shift> # どうかと思う
+line2
+com09 0 10
+com08
+choice2 <shift> # 新しいイメージ戦略か？
+line2
+com09 0 11
+com08
+choice3 <shift> # 怖いです
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうかと思うぞ。あいさつすらできないのは、
+line2 <shift> # アイドルとして失格だ！」
+display
+com11 0 0
+sound 10011
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「７６５プロ、ちょっと、静かにっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、すみません……。って、何で俺が、
+line2 <shift> # 謝らなくちゃいけないんだよ……」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「９６１プロの、新しいイメージ戦略か？
+line2 <shift> # 一言もしゃべらないアイドルって、新しいな」
+display
+com11 0 0
+sound 10012
+com4c 0 1
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「最近の流行は、そういうタイプなんですかね？
+line2 <shift> # でもウチの社長は、一言も言ってなかったけど」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「社長が教えてくれる流行って、
+line2 <shift> # 実はけっこう、適当だったりしてな」
+display
+com11 0 0
+sound 10013
+com4c 0 1
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「９６１プロは、大変だな〜。一言も、
+line2 <shift> # しゃべらないなんて、すごくキツいですよ」
+display
+com11 0 0
+sound 10014
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「そ、そんなんじゃないよっ！　しゃべら
+line2 <shift> # なかったら、歌も、歌えないじゃないかーっ！」
+display
+com11 0 0
+sound 10015
+com4c 0 1
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、しゃべった……」
+display
+com11 0 0
+sound 10016
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「うぎゃー、しまったー！　大声出しちゃった！
+line2 <shift> # 静かにしとかないと、見つかっちゃうー！」
+display
+com11 0 0
+sound 10017
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「７６５プロ、ちょっと、黙ってて！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ほとんど、響がひとりで騒いでるんだが……」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「正直なことを言うと、怖いです……。
+line2 <shift> # なぜか敬語に、なってしまったが」
+display
+com11 0 0
+sound 10018
+com4c 0 1
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサー、いくら何でも、女の子に面と
+line2 <shift> # 向かってそういうこと言うの、よくないですよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え？　怖いって言ったことか？
+line2 <shift> # だって、本当に怖いじゃないか」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どれだけ話しかけても反応しなくて、ずっと、
+line2 <shift> # にらみ続けてくるんだぞ。これは怖いよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、そうか！　もしかして響、ホラー映画への、
+line2 <shift> # 出演が決まったんじゃないか？」
+display
+com11 0 0
+sound 10019
+com4c 0 1
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ホラー映画！？　それ、すごいなぁ！
+line2 <shift> # 役者としての才能もあるなんて！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それで、怖い演技を練習しているんだろ？　ど
+line2 <shift> # んな役かな。オバケ役？　それともゾンビ役？」
+display
+com11 0 0
+sound 10020
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「んもー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……今のは、あんまり怖くないな。
+line2 <shift> # もっと、鋭い感じで叫ばないと」
+display
+com11 0 0
+sound 10021
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「自分、恐がりなんだから、ホラー映画なんかに、
+line2 <shift> # 出るわけないさー！　ふん！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そうか。どうやら、想像力が、
+line2 <shift> # たくましすぎたようだ。すまない……」
+display
+com11 0 0
+sound 10022
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「もう、ちょっとだけ、２人とも、
+line2 <shift> # 静かにしてってば！」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10023
+com4c 0 1
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「響、どうかしたの？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どう考えても、一番騒がしいのは、響、お前
+line2 <shift> # だろ？　それにキョロキョロして、どうした？」
+display
+com11 0 0
+sound 10024
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「ええーっと……。
+line2 <shift> # 今日は、黒井社長は、来てないよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺達に、きかれても……」
+display
+com11 0 0
+sound 10025
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「来てないのは知ってるけど、もしかして、
+line2 <shift> # こっそり来てるかもしれないからさ……」
+display
+com11 0 0
+sound 10026
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「いや、そんなわけないか！　……ふう。
+line2 <shift> # じゃあ、一安心だ。で、７６５プロ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「な、何だ？」
+display
+com11 0 0
+sound 10027
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「ズバリ、君がさっき言ってた通りだぞ！　自分、
+line2 <shift> # 真の様子を見に来たのさー！　あっはは！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （な、何だ、この変わりようは……）
+display
+com11 0 0
+sound 10028
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「真、自分に負ける前に予選敗退したら、
+line2 <shift> # 許さないからなーっ！」
+display
+com11 0 0
+sound 10029
+com4c 0 1
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ええと、いきなり、どうしたの？
+line2 <shift> # さっぱり、話が見えないよ……」
+display
+com11 0 0
+sound 10030
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「何だ何だ！？　反応が、うすいなあっ！
+line2 <shift> # 真らしく、ないぞ！」
+display
+com11 0 0
+sound 10031
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「２次予選の時、真が言ったんだよね？
+line2 <shift> # 本選で勝負だーって！」
+display
+com11 0 0
+sound 10032
+com4c 0 1
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うん、言ったけど……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あの時は、ちっとも相手にしてくれなかった
+line2 <shift> # じゃないか。いったいどういう風の吹き回しだ」
+display
+com11 0 0
+sound 10033
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「それは、黒井社長がいたから、
+line2 <shift> # 何も言えなかっただけで……」
+display
+com11 0 0
+sound 10034
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「最初から、真と勝負するのは、
+line2 <shift> # おもしろそうだなって、思ってたぞ！」
+display
+com11 0 0
+sound 10035
+com4c 0 1
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ホント……？」
+display
+com11 0 0
+sound 10036
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「もっちろん！
+line2 <shift> # あ、これ、黒井社長にはナイショだぞっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なるほど。つまりようやく、黒井社長の
+line2 <shift> # 考え方が間違っていると、気付いたんだな」
+display
+com11 0 0
+sound 10037
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「違うよっ！　誰も、そんなこと言ってないよ！
+line2 <shift> # 自分は、９６１プロのやり方でトップをとる！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうなのか？　何だか、ややこしいな……」
+display
+com11 0 0
+sound 10038
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「カン違いしちゃ、ダメだぞ！　別に、７６５
+line2 <shift> # プロと仲良くしたいとは、言ってないから！」
+display
+com11 0 0
+sound 10039
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「特に、そっちの７６５プロ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、俺か？」
+display
+com11 0 0
+sound 10040
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「そう、君！　真はともかく、君には、あんまり
+line2 <shift> # 話しかけて欲しくないって、今でも思うぞ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もしかして俺、響に嫌われてるのか……」
+display
+com11 0 0
+sound 10041
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「いや、好きとか嫌いとかじゃなくてっ。うーん、
+line2 <shift> # つまり、７６５プロは今でも敵なんだっ！」
+display
+com11 0 0
+sound 10042
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「自分は、あくまで敵として、
+line2 <shift> # 真の勝負を受けるってことさ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「馴れ合いは、したくないっていうことだな。
+line2 <shift> # それはこっちも同じ気持ちだよ。な、真」
+display
+com11 0 0
+sound 10043
+com4c 0 1
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うん。ボクも、それでいいよ。待っててね、響。
+line2 <shift> # ボク、必ず君に追いつくから！」
+display
+com11 0 0
+sound 10044
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「おっ！　やっと、いつもの
+line2 <shift> # 真らしくなってきたな！」
+display
+com11 0 0
+sound 10045
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「自分、手加減するつもり、ないからなっ！
+line2 <shift> # それに、どんどん先に行っちゃうもんね！」
+display
+com11 0 0
+sound 10046
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「３次予選も、もうとっくに合格してるしね！
+line2 <shift> # だから、早く追いついてきてよ！」
+display
+com11 0 0
+sound 10047
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「決勝で、会おう！　約束だぞ！」
+display
+com11 0 0
+sound 10048
+com4c 0 1
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「へへっ、うん！」
+display
+com11 0 0
+sound 10049
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「今日のオーディションも、見てるからな！」
+display
+com11 0 0
+sound 10050
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「真のダンスがダメダメだったら、さっき言った
+line2 <shift> # ことは、すぐに、無しってことにするぞ！」
+display
+com11 0 0
+sound 10051
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「だから、がんばれ！」
+display
+com11 0 0
+sound 10052
+com4c 0 1
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はあ〜。いきなりだったから、
+line2 <shift> # びっくりしちゃいましたよ〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よかったな。響が、真の存在を、
+line2 <shift> # 意識し始めたっていうことだ」
+display
+com11 0 0
+sound 10053
+com4c 0 1
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「でも、まだ実力で意識させたわけじゃ、
+line2 <shift> # ないんですよね」
+display
+com11 0 0
+sound 10054
+com4c 0 1
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「追いついた時に、はじめて対等って言える
+line2 <shift> # わけで。まだまだ実力は、響に負けてます」
+display
+com11 0 0
+sound 10055
+com4c 0 1
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ここからが、正念場ですよ！
+line2 <shift> # くぅ〜、がんばらなきゃ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ、オーディションで、
+line2 <shift> # 響に見せつけてこい！」
+display
+com11 0 0
+sound 10056
+com4c 0 1
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あはは、プロデューサー、あんまり
+line2 <shift> # プレッシャーかけないで下さいよ〜」
+display
+com11 0 0
+sound 10057
+com4c 0 1
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「それじゃ、着替えてきますね！」
+com09 0 99
+display
+location 99
+unk02

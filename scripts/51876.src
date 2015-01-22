@@ -1,0 +1,681 @@
+com2c 0 24
+com2d 0 91
+com2e 0 101
+com32 0 0
+com11 0 5
+sound 100
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ねえ、兄ちゃん兄ちゃん！　もう、どっちが
+line2 <shift> # 亜美で、どっちが真美か、完全にわかる〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「当たり前だよ。髪かざりが、右にある方が
+line2 <shift> # 亜美で、左にある方が真美だろ？」
+display
+com11 0 5
+sound 101
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「カンタンだよねー。兄ちゃんは、
+line2 <shift> # まちがえたりしたら、ダメなんだよ？」
+display
+com11 0 5
+sound 102
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「んじゃ、テストー！　これから、クルクル入れ
+line2 <shift> # 替わるから、どっちがどっちか、当ててね！」
+display
+com11 0 5
+sound 140
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「もし、いっぱいまちがえたら、んっふっふ〜、
+line2 <shift> # 罰ゲームで、おしりペシペシだよーっ！」
+com03 0 2
+choice1 <shift> # そ、それはやめよう
+line2
+com09 0 10
+com08
+choice2 <shift> # 望むところだ！
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、それはやめよう。亜美も真美もアイドル
+line2 <shift> # なんだから、そんな品のない罰ゲームは……」
+display
+com11 0 5
+sound 141
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「んっふっふ〜。そんなこと言っちゃって、
+line2 <shift> # 兄ちゃん、ホントは罰ゲームが怖いんでしょ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なにをっ。べ、別に怖いなんてことはないぞ」
+display
+com11 0 5
+sound 142
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「んじゃ、がんばって当ててねーっ！」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「望むところだ！」
+display
+com11 0 5
+sound 106
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「自信マンマンだよ、真美？　兄ちゃんの
+line2 <shift> # おしりって、すごく、かたいのかなあ？」
+display
+com11 0 5
+sound 107
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「どうなんだろ？　あんまり、かたかったら、
+line2 <shift> # 交替で叩くようにしよーね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「こらこら！　ぶっそうな打ち合わせ、するなよ。
+line2 <shift> # 俺はただ、当てる自信があるだけ！」
+display
+com11 0 5
+sound 108
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「あ、なーんだ、そっちの自信かー。
+line2 <shift> # そんじゃ、がんばってね！」
+com09 0 29
+display
+location 29
+com11 0 5
+sound 109
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「髪かざりが、右の方が亜美で、左の方が、
+line2 <shift> # 真美だからね！　しゃっふる〜、スタート！」
+display
+com11 0 5
+sound 110
+com4c 0 3
+com4c 0 3
+name 0 0 <names:4>  # Ami and Mami
+line1 <shift> # 「どっちが、亜ー美だっ？」
+com0e 3 32
+com44
+com09 0 30 144 148 146 108 129 123 130 80
+com45
+com44
+com09 0 31
+com45
+com44
+com09 0 32
+com45
+com44
+com09 0 33
+com45
+display
+location 30
+com1c 0 0
+com11 0 5
+sound 111
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「当ったりー！　いきなりは、
+line2 <shift> # まちがえないよねっ！　それじゃ、２回目〜！」
+com09 0 49
+display
+location 31
+com11 0 5
+sound 112
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ぶっぶー！　ハズレー！
+line2 <shift> # わたし、真美だもーん！」
+display
+com11 0 5
+sound 113
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「いきなりまちがえるなんて、兄ちゃん、
+line2 <shift> # ダメだね。それじゃ、２回目〜！」
+com09 0 49
+display
+location 32
+com11 0 5
+sound 114
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「そんなとこ、誰もいないよ〜。亜美は、わたし。
+line2 <shift> # わからないからって、ごまかしたでしょー？」
+com09 0 48
+display
+location 33
+com11 0 5
+sound 115
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ぶっぶー！　時間切れー！
+line2 <shift> # 亜美はー、わたしでしたー」
+com09 0 48
+display
+location 48
+com11 0 5
+sound 116
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「それじゃ、２回目、いくね！
+line2 <shift> # 今度は、ちゃんと答えてよ？」
+com09 0 49
+display
+location 49
+com11 0 5
+sound 117
+com4c 0 3
+com4c 0 3
+name 0 0 <names:4>  # Ami and Mami
+line1 <shift> # 「どっちが、真ー美だっ？」
+com0e 3 33
+com44
+com09 0 50
+com45
+com44
+com09 0 51
+com45
+com44
+com09 0 52
+com45
+com44
+com09 0 53
+com45
+display
+location 50
+com1c 0 1
+com11 0 5
+sound 118
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「当ったりー！　それじゃ、最後の３回目！
+line2 <shift> # 次も当ててね！」
+com09 0 69
+display
+location 51
+com11 0 5
+sound 119
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ぶっぶー！　ハズレー！
+line2 <shift> # わたし、亜美だもーん！」
+display
+com11 0 5
+sound 120
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「兄ちゃん、問題よくきいてなかったでしょ〜？
+line2 <shift> # それじゃ、最後の３回目〜！」
+com09 0 69
+display
+location 52
+com11 0 5
+sound 121
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「兄ちゃん、どこ指してるの？　真美は、
+line2 <shift> # わたし！　そんなとこに、いないよー！」
+com09 0 58
+display
+location 53
+com11 0 5
+sound 122
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ぶっぶー！　時間切れー！
+line2 <shift> # 真美はー、わたしでーす」
+com09 0 58
+display
+location 58
+com11 0 5
+sound 123
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「それじゃ、次で最後ね！
+line2 <shift> # フィニッシュは決めないと、カッコ悪いよ？」
+com09 0 69
+display
+location 69
+com11 0 5
+sound 124
+com4c 0 3
+name 0 0 <names:4>  # Ami and Mami
+line1 <shift> # 「真美じゃない方は、どーっちだっ？」
+com0e 3 34
+com44
+com09 0 70
+com45
+com44
+com09 0 71
+com45
+com44
+com09 0 72
+com45
+com44
+com09 0 73
+com45
+display
+location 70
+com1c 0 2
+com11 0 5
+sound 125
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「当ったりー！　真美じゃない亜美は、
+line2 <shift> # わたしでしたー！　えーとー、結果は……」
+com37 0 1
+com1e 0 0
+com37 0 1
+com1e 0 1
+com37 0 1
+com1e 0 2
+com09 0 90
+com3b
+com37 0 1
+com1e 0 0
+com37 0 1
+com1e 0 1
+com37 0 0
+com1e 0 2
+com09 0 91
+com3b
+com37 0 1
+com1e 0 0
+com37 0 0
+com1e 0 1
+com37 0 1
+com1e 0 2
+com09 0 91
+com3b
+com37 0 0
+com1e 0 0
+com37 0 1
+com1e 0 1
+com37 0 1
+com1e 0 2
+com09 0 91
+com3b
+com37 0 1
+com1e 0 0
+com37 0 0
+com1e 0 1
+com37 0 0
+com1e 0 2
+com09 0 92
+com3b
+com37 0 0
+com1e 0 0
+com37 0 1
+com1e 0 1
+com37 0 0
+com1e 0 2
+com09 0 92
+com3b
+com37 0 0
+com1e 0 0
+com37 0 0
+com1e 0 1
+com37 0 1
+com1e 0 2
+com09 0 92
+com3b
+com37 0 0
+com1e 0 0
+com37 0 0
+com1e 0 1
+com37 0 0
+com1e 0 2
+com09 0 93
+com3b
+display
+location 71
+com11 0 5
+sound 126
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ハズレー！　わたしは真美じゃない方じゃ
+line2 <shift> # なくて、真美でーす！　えーとー、結果は……」
+com37 0 1
+com1e 0 0
+com37 0 1
+com1e 0 1
+com37 0 1
+com1e 0 2
+com09 0 90
+com3b
+com37 0 1
+com1e 0 0
+com37 0 1
+com1e 0 1
+com37 0 0
+com1e 0 2
+com09 0 91
+com3b
+com37 0 1
+com1e 0 0
+com37 0 0
+com1e 0 1
+com37 0 1
+com1e 0 2
+com09 0 91
+com3b
+com37 0 0
+com1e 0 0
+com37 0 1
+com1e 0 1
+com37 0 1
+com1e 0 2
+com09 0 91
+com3b
+com37 0 1
+com1e 0 0
+com37 0 0
+com1e 0 1
+com37 0 0
+com1e 0 2
+com09 0 92
+com3b
+com37 0 0
+com1e 0 0
+com37 0 1
+com1e 0 1
+com37 0 0
+com1e 0 2
+com09 0 92
+com3b
+com37 0 0
+com1e 0 0
+com37 0 0
+com1e 0 1
+com37 0 1
+com1e 0 2
+com09 0 92
+com3b
+com37 0 0
+com1e 0 0
+com37 0 0
+com1e 0 1
+com37 0 0
+com1e 0 2
+com09 0 93
+com3b
+display
+location 72
+com11 0 5
+sound 127
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「兄ちゃん、ふざけてるでしょ？
+line2 <shift> # 最後はハズレね。えーとー、これで結果は……」
+com37 0 1
+com1e 0 0
+com37 0 1
+com1e 0 1
+com37 0 1
+com1e 0 2
+com09 0 90
+com3b
+com37 0 1
+com1e 0 0
+com37 0 1
+com1e 0 1
+com37 0 0
+com1e 0 2
+com09 0 91
+com3b
+com37 0 1
+com1e 0 0
+com37 0 0
+com1e 0 1
+com37 0 1
+com1e 0 2
+com09 0 91
+com3b
+com37 0 0
+com1e 0 0
+com37 0 1
+com1e 0 1
+com37 0 1
+com1e 0 2
+com09 0 91
+com3b
+com37 0 1
+com1e 0 0
+com37 0 0
+com1e 0 1
+com37 0 0
+com1e 0 2
+com09 0 92
+com3b
+com37 0 0
+com1e 0 0
+com37 0 1
+com1e 0 1
+com37 0 0
+com1e 0 2
+com09 0 92
+com3b
+com37 0 0
+com1e 0 0
+com37 0 0
+com1e 0 1
+com37 0 1
+com1e 0 2
+com09 0 92
+com3b
+com37 0 0
+com1e 0 0
+com37 0 0
+com1e 0 1
+com37 0 0
+com1e 0 2
+com09 0 93
+com3b
+display
+location 73
+com11 0 5
+sound 128
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ぶっぶー！　時間切れー！　真美じゃない
+line2 <shift> # 亜美は、わたしでした！　えーと、結果は……」
+com37 0 1
+com1e 0 0
+com37 0 1
+com1e 0 1
+com37 0 1
+com1e 0 2
+com09 0 90
+com3b
+com37 0 1
+com1e 0 0
+com37 0 1
+com1e 0 1
+com37 0 0
+com1e 0 2
+com09 0 91
+com3b
+com37 0 1
+com1e 0 0
+com37 0 0
+com1e 0 1
+com37 0 1
+com1e 0 2
+com09 0 91
+com3b
+com37 0 0
+com1e 0 0
+com37 0 1
+com1e 0 1
+com37 0 1
+com1e 0 2
+com09 0 91
+com3b
+com37 0 1
+com1e 0 0
+com37 0 0
+com1e 0 1
+com37 0 0
+com1e 0 2
+com09 0 92
+com3b
+com37 0 0
+com1e 0 0
+com37 0 1
+com1e 0 1
+com37 0 0
+com1e 0 2
+com09 0 92
+com3b
+com37 0 0
+com1e 0 0
+com37 0 0
+com1e 0 1
+com37 0 1
+com1e 0 2
+com09 0 92
+com3b
+com37 0 0
+com1e 0 0
+com37 0 0
+com1e 0 1
+com37 0 0
+com1e 0 2
+com09 0 93
+com3b
+display
+location 90
+com11 0 5
+sound 129
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「パーフェクト賞！　さっすがは兄ちゃん！
+line2 <shift> # これからも、まちがえないでね♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （見事、全問正解！　ま、プロデューサーと
+line2 <shift> # しては、これぐらい見分けられて、当然だな）
+display
+com11 0 5
+sound 130
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「真美〜、ちょーっと残念だったね。
+line2 <shift> # 兄ちゃんのおしり、叩きそこねちゃった……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……こ、こらっ」
+com09 0 100
+display
+location 91
+com11 0 5
+sound 131
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「３回中、２回、正解！　ん〜、どうする、
+line2 <shift> # 亜美？　これはおしり叩きの刑？」
+display
+com11 0 5
+sound 132
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「まちがえたのは１回だけだし、許して
+line2 <shift> # あげよっか。これからは、まちがえないでね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （なんとか及第点を、もらえたようだ。
+line2 <shift> # できれば、パーフェクトをねらいたかったな）
+display
+com11 0 5
+sound 133
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「亜美〜、ちょーっと残念だったね。
+line2 <shift> # 兄ちゃんのおしり、叩きそこねちゃった……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……こ、こらっ」
+com09 0 100
+display
+location 92
+com11 0 5
+sound 134
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「３回中、正解は１回だけ〜！
+line2 <shift> # 兄ちゃーん、これじゃ失格だよ〜！」
+display
+com11 0 5
+sound 135
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「んっふっふ〜、さ、カクゴしてねー！
+line2 <shift> # 約束通り、おしり叩きの刑ー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「や、やめてくれ！　１回は当てたじゃないか。
+line2 <shift> # もう、まちがえないから！」
+display
+com11 0 5
+sound 136
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「いさぎよくないの〜。じゃあ、
+line2 <shift> # 許したげるけど、反省してよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ほっ、なんとか、エジキにならずにすんだ。
+line2 <shift> # けど、決してほめられた成績じゃ、なかったな）
+com09 0 100
+display
+location 93
+com11 0 5
+sound 137
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ぜーんぶ、ハズレー！　これはもう、
+line2 <shift> # おしり叩きの刑しかないよね、亜美？」
+display
+com11 0 5
+sound 138
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「もっちろん！
+line2 <shift> # さあ、兄ちゃん、ズボン脱いで！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「えっ、じ、直に叩く気か？
+line2 <shift> # 別にズボンの上からだって、いいだろ！？」
+display
+com11 0 5
+sound 143
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「それじゃ、痛くないよ〜。オシオキなんだから、
+line2 <shift> # きつーいの、いかないとね！　んっふっふ〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、さんざん追いかけまわされて、
+line2 <shift> # 何度も転倒。あげく、ひどい目に合わされた）
+com09 0 100
+display
+location 100
+unk02

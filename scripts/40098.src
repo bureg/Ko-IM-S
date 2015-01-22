@@ -1,0 +1,536 @@
+com2c 0 35
+com2c 0 48
+com32 0 0
+com11 0 0
+sound 0
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「それじゃ、買い出しに行きましょうか！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「事務所の買い物なんて
+line2 <shift> # スタッフにやってもらえばいいのに」
+display
+com11 0 0
+sound 1
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「だって、みんな金銭感覚が、
+line2 <shift> # おおざっぱなんだもの」
+display
+com11 0 0
+sound 2
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「気づいたらコンビニとかでホイホイ
+line2 <shift> # 買い物してくるし……高いのに、まったく」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あはは……。これだけ売れてお金があるのに、
+line2 <shift> # 律子は変わらないなあ」
+display
+com11 0 0
+sound 3
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「無駄金は敵ですよ。いくら稼いでても、その分
+line2 <shift> # 出て行ってたら、意味ないんですから」
+display
+com11 0 0
+sound 4
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ま、計画的に買い物をするのが楽しいからって
+line2 <shift> # いうのが、一番大きな理由ですけど」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なるほど、律子なりのストレス解消法か」
+com03 0 3
+choice1 <shift> # お手軽だな
+com09 0 11
+com08
+choice2 <shift> # さみしいな
+com09 0 12
+com08
+choice3 <shift> # さもしいな
+com09 0 13
+com08
+com07 129 64 129 64 129 64 129 64 129 64 129 64
+com09 0 13
+com08
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お手軽だな」
+display
+com11 0 0
+sound 5
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「お手軽、結構じゃないですか。安くていい物が
+line2 <shift> # 買えて、事務所も助かるわけですし」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もちろん、文句はないよ。事務所は助かる、
+line2 <shift> # 律子は楽しい……一石二鳥だしな」
+com09 0 14
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「さみしいな……。もう少しこう、他にないの
+line2 <shift> # か？　アイドルっぽい派手なストレス解消法」
+display
+com11 0 0
+sound 6
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「事務所の機材をドカっと買うこともあるから、
+line2 <shift> # 派手にお金を使うこともありますよ？」
+display
+com11 0 0
+sound 7
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「もちろん、その場合も、安くていい物を
+line2 <shift> # じゅうぶんに吟味した上で買いますけど」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……律子って、なんていうか……もう根っこ
+line2 <shift> # 部分から、思いっきり堅実なのな」
+display
+com11 0 0
+sound 8
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「何をいまさら。そんなの、ずーっと前から
+line2 <shift> # そうじゃありませんか〜」
+com09 0 14
+display
+location 13
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「さもしいな」
+display
+com11 0 0
+sound 9
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「うっ。確かに、人のお金で自分の買い物欲を
+line2 <shift> # 満たしてるわけで……。さもしいかも……？」
+display
+com11 0 0
+sound 10
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「で、でも、みんなのためになってるから！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「と、言い訳を必死に考える律子であった」
+display
+com11 0 0
+sound 11
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「勝手にナレーションを入れないでくださいっ」
+com09 0 14
+display
+location 14
+com11 0 0
+sound 12
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「さてさて、買い物を続けますよ！」
+display
+com22 0 30
+com32 0 1
+com21 0 30
+com11 0 0
+sound 13
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「私のステージメイク用のアイシャドウが
+line2 <shift> # 切れそうなので、追加で買いましょう」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ＯＫ。……といっても、
+line2 <shift> # このあたりのことは律子に任せるよ」
+display
+com11 0 0
+sound 14
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「はいはい、任されました」
+display
+com11 0 0
+sound 15
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「アイシャドウは……あっ、新色が出てる。
+line2 <shift> # へぇ……なかなかよさそう」
+display
+com11 0 0
+sound 16
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「うーん、でも、ヘンに変えると
+line2 <shift> # コーディネートが崩れちゃうかもだし……」
+display
+com11 0 0
+sound 17
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「でもでも、この色は捨てがたいなぁ……」
+com03 0 3
+choice1 <shift> # 買っちゃいなさい
+line2
+com09 0 21
+com08
+choice2 <shift> # やめちゃいなさい
+line2
+com09 0 22
+com08
+choice3 <shift> # 両方買いなさい
+line2
+com09 0 23
+com08
+com07
+com09 0 23
+com08
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「買っちゃいなさい」
+display
+com11 0 0
+sound 18
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「でも、新しいものだけに、
+line2 <shift> # うかつには買えないっていうか……」
+display
+com11 0 0
+sound 19
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「私の今の衣装になら似合うけど、
+line2 <shift> # 別のコーディネートだと問題が出るかも」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「別に、これ１本で全部まかなうわけじゃない。
+line2 <shift> # バリエーションのひとつとして持っておきなよ」
+display
+com11 0 0
+sound 20
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「考えてみれば、そうよね……。
+line2 <shift> # じゃ、買ってきます！」
+com09 0 24
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やめちゃいなさい」
+display
+com11 0 0
+sound 21
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「でも、この新色は捨てがたいし……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「悩んでいるということは、
+line2 <shift> # 本当には欲しくないってことだ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「本当に欲しかったら、
+line2 <shift> # 悩む前に買っているだろう？」
+display
+com11 0 0
+sound 22
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「た、確かにその通りね……」
+display
+com11 0 0
+sound 23
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「……仕方がない。今回はあきらめますか。
+line2 <shift> # いつものやつを、買ってきますね！」
+com09 0 24
+display
+location 23
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「両方買えばいいじゃないか」
+display
+com11 0 0
+sound 24
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「却下です」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「で、でも、消耗品だし、
+line2 <shift> # まとめ買いしておいても……」
+display
+com11 0 0
+sound 25
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そういう風に軽い気持ちでホイホイ買うから
+line2 <shift> # ムダが多くなるんです」
+display
+com11 0 0
+sound 26
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「プロデューサーがそういう考えじゃ、
+line2 <shift> # 他のスタッフもマネしちゃいますよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う……。すみません」
+display
+com11 0 0
+sound 27
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「仕方ない……今回は前のと同じやつで
+line2 <shift> # すませることにします。安いし」
+com09 0 24
+display
+location 24
+com22 0 30
+com21 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「これで、買い物はだいたい終了だな。
+line2 <shift> # さ、事務所に戻ろうか」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……律子？　どうしたんだ、
+line2 <shift> # 水着のポスターなんか眺めて」
+display
+com11 0 0
+sound 28
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「えっ！？　あ、ええと……なんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「買い物も終わったし、帰ろうって言ったんだ」
+display
+com11 0 0
+sound 29
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「その……実は、まだひとつ買い忘れが
+line2 <shift> # あったりするんですよね……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なんだ、まだ買いたい物、あるのか。
+line2 <shift> # ……ひょっとして、水着か？」
+display
+com11 0 0
+sound 30
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「べ、別に、
+line2 <shift> # 私が買いたいわけじゃないですよ？」
+display
+com11 0 0
+sound 31
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「今度のグラビア撮影には、ぜひ自前の、お気に
+line2 <shift> # 入りのものをってカメラマンさんに言われてて」
+display
+com11 0 0
+sound 32
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「好みじゃないやつを着させられるぐらいなら、
+line2 <shift> # 自分で買ってやれって、思ったりもして……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ははっ、律子らしい考え方だな」
+display
+com11 0 0
+sound 33
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「それで、あの……プロデューサー、お願いが。
+line2 <shift> # 私といっしょに……その……」
+display
+com11 0 0
+sound 34
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「……なんでもありません」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「言いかけたことを途中で止めないでくれ。
+line2 <shift> # 気になるじゃないか！」
+display
+com11 0 0
+sound 35
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「こ、こっちだって、言うのに
+line2 <shift> # かなり勇気がいるんです！」
+display
+com11 0 0
+sound 36
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「その、私と……！
+line2 <shift> # ……やっぱり、いいです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だから、律子……気になるから……」
+display
+com11 0 0
+sound 37
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「じゃ、じゃあこうしましょう！」
+display
+com11 0 0
+sound 38
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「コイントスでプロデューサーに
+line2 <shift> # 負けたら言います、ズバッと！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「別にコイントスしなくても、
+line2 <shift> # ズバッと言えばいいじゃないか」
+display
+com11 0 0
+sound 39
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「勢いがつかないと、言えそうもないんです！
+line2 <shift> # とにかくいきますよ……それっ！」
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 40
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「さぁ、コインが入っているのは、
+line2 <shift> # どっちの手？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （律子は言いだしにくそうにしているが、きっと
+line2 <shift> # 本心では言いたいんだろうと思う）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （この勝負、律子のためにも、勝たないとな！）
+com03 0 2
+choice1 <shift> # 右！
+com09 0 31
+com08
+choice2 <shift> # 左！
+com09 0 32
+com08
+com07
+com09 0 33
+com08
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「右だ！」
+com37 0 1
+com1e 0 0
+com09 0 38
+com3b
+com37 0 0
+com1e 0 0
+com09 0 39
+com3b
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「左だ！」
+com37 0 1
+com1e 0 0
+com09 0 38
+com3b
+com37 0 0
+com1e 0 0
+com09 0 39
+com3b
+display
+location 33
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「こっちだ！」
+com09 0 39
+display
+location 38
+com11 0 0
+sound 41
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「あ、当たりです……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし！　さあ、ズバッと言ってくれ！」
+display
+com11 0 0
+sound 42
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「う……。み、水着を……！」
+display
+com11 0 0
+sound 43
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「水着を買うのに、つきあってくださいっ！
+line2 <shift> # ……はぁ〜っ、緊張した……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、いいぞ。
+line2 <shift> # ……でも、どうして俺といっしょに？」
+display
+com11 0 0
+sound 44
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そ、それは、
+line2 <shift> # 異性からの意見も欲しいし、その……」
+display
+com11 0 0
+sound 45
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「どうせみんなに見られるなら、
+line2 <shift> # 一番最初にプロデューサーに……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「えっ……？」
+display
+com11 0 0
+sound 46
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「な、なんでもありませんっ！
+line2 <shift> # ほらほら、行きますよ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （めずらしく照れまくる律子に手を引かれ、
+line2 <shift> # 俺は売り場へと向かった）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （こうなったら、律子に一番似合う
+line2 <shift> # とびきりの水着を選んでやらないとな！）
+com4b 0 0
+com09 0 69
+display
+location 39
+com11 0 0
+sound 47
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「……残念、私の勝ちです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああーーーっ！」
+display
+com11 0 0
+sound 48
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「……………………」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「な、なあ、律子。コイントスに関係なく、
+line2 <shift> # 別に、言いたいことは言っちゃえば……？」
+display
+com11 0 0
+sound 49
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「……今さら言えませんっ。
+line2 <shift> # もう、なんで負けるんですかぁ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「要はあれだろ？　水着を買うのに、
+line2 <shift> # つきあって欲しいとか、そういう……」
+display
+com11 0 0
+sound 50
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そ、そんなわけありませんっ！
+line2 <shift> # さあ帰りましょう、今すぐ帰りましょう！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「えっ？　水着……買わないのか？」
+display
+com11 0 0
+sound 51
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「何の話だか全くわかりません！　いいから帰り
+line2 <shift> # ましょう。たった今！　ジャストナウ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （律子は帰り道で、ずーっと不機嫌なまま
+line2 <shift> # だった……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （はぁ……。あの時、勝っていれば、律子も
+line2 <shift> # 言い出しやすかったろうに。失敗したな）
+com4b 0 2
+com09 0 69
+display
+location 69
+unk02

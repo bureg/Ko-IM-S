@@ -1,0 +1,318 @@
+com2d 0 71
+com2c 0 24
+com2c 0 25
+com32 0 0
+location 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「会議室って、ここだよな。
+line2 <shift> # ……あっ、いた！　あの子だ！」
+display
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「んもう！　この書類も、まちがえてる。あの
+line2 <shift> # 会計事務所、どうしてこうも仕事が雑なんだろ」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「これなら、私が自分で書いた方が、
+line2 <shift> # マシ……。はあ〜あ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （書類に、ブツブツとクレームをつけている。
+line2 <shift> # なるほど、たしかに、頭のよさそうな子だな）
+display
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「さてと、もうひとがんばり……。……ん？
+line2 <shift> # あなた、誰です？　見慣れない顔だけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「や、やあ……。俺は……」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あ、わかった！　タレント志望の
+line2 <shift> # 新人君でしょ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ちがうよ。俺は、新任のプロデューサーだ。
+line2 <shift> # 今日から、君の面倒を見ることになった」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「プロデューサー？　じゃあ、私、デビューする
+line2 <shift> # ことになったのっ？　ず、ずいぶん急な話ね」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「それに、あなた……、なんか、だらしなさそう。
+line2 <shift> # 本当に、プロデュース業なんて、つとまる？」
+com03 0 3
+choice1 <shift> # ベストを尽くすよ　
+line2
+com09 0 10
+com08
+choice2 <shift> # 失礼なヤツだな　
+line2
+com09 0 11
+com08
+choice3 <shift> # つとまるとも！　
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ベストを尽くすよ。能力以上の仕事は
+line2 <shift> # できないけど、能力は出し切ってみせる」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ふ〜ん、すこしは信頼できそうな返事ね。
+line2 <shift> # わかりました。それじゃ、これからよろしく」
+com37 0 0
+com1e 0 0
+com09 0 25
+com3b
+com38 0 1
+com1e 0 0
+com09 0 26
+com3b
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「失礼なヤツだな。そういう君は、どうなんだ？
+line2 <shift> # アイドル業なんて、つとまるのか？」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「う〜ん、どうだろ？　やってみなければ、
+line2 <shift> # わからないのは、お互いさまかもね」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ちょっと、キツく当たりすぎちゃったかな？
+line2 <shift> # とりあえずは謝ります。これから、よろしく」
+com37 0 0
+com1e 0 0
+com09 0 25
+com3b
+com38 0 1
+com1e 0 0
+com09 0 26
+com3b
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「つとまるとも！」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「はあ〜、どうして、断言できるの？　プロ
+line2 <shift> # デュース対象の私の事も、よく知らないのに」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、まあ、こういうのは、勢いだから」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あなた、私と逆のタイプかもね。でも、歩調を
+line2 <shift> # 合わせていくしかないか。これから、よろしく」
+com37 0 0
+com1e 0 0
+com09 0 25
+com3b
+com38 0 1
+com1e 0 0
+com09 0 26
+com3b
+display
+location 25
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、こちらこそ。じゃあまず、全国デビュー
+line2 <shift> # するための、君の芸名を決めよう。えっと……」
+display
+location 26
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、こちらこそ。じゃあまず、全国デビュー
+line2 <shift> # するためのユニット名を決めよう。えっと……」
+display
+location 30
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「それで、決定？　いい芸名なんじゃないかな。
+line2 <shift> # ここは、あなたのセンスに、乗ってみる」
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よろしく頼むぞ！
+line2 <shift> # さあ、いよいよ活動開始だ！」
+display
+location 40
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今日のスケジュールは……、と）
+display
+location 50
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やっぱり最初はレッスンだ！
+line2 <shift> # 初レッスン行くぞ！」
+display
+com4a 0 0
+com11 0 0
+sound 10012
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「了解。私も、あなたの指示能力、試させて
+line2 <shift> # もらう。それじゃ、いきましょう！」
+display
+location 60
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （トップアイドルになるため、今後は流行を
+line2 <shift> # 意識していこう！　まずは育成方針として）
+display
+location 61
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （流行１位イメージであるボーカルの
+line2 <shift> # イメージをＵＰさせていこう！）
+display
+location 62
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （流行１位イメージであるダンスの
+line2 <shift> # イメージをＵＰさせていこう！）
+display
+location 63
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （流行１位イメージであるビジュアルの
+line2 <shift> # イメージをＵＰさせていこう！）
+display
+location 64
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （流行１位のイメージはオーディションでの
+line2 <shift> # ウケが良く、合格しやすい！　絶対に有利だ！）
+display
+location 65
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しかし流行は変化しやすい。常に先の先を
+line2 <shift> # 考えながらイメージ作りをしていくぞ！！）
+display
+location 66
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （明日の流行１位ではない！
+line2 <shift> # 最終的には、人数の増加傾向を考慮して……）
+display
+location 67
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （無駄のないレッスンができるように
+line2 <shift> # なろう！！）
+display
+display
+location 100
+com32 0 1
+com11 0 0
+sound 10013
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「社長、用があるとききましたけど……。
+line2 <shift> # ん、この人は？　タレント志望の新人ですか？」
+display
+com11 0 0
+sound 10017
+name 0 2 <names:3>  # President
+line1 <shift> # 「おお来たか。彼女が、秋月律子君だ。
+line2 <shift> # うちでは一番、頭のいい子だよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「初めまして。俺は新任のプロデューサーだ。
+line2 <shift> # 今日から君の面倒を見る事になった」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「プロデューサー？　じゃあ、私、デビューする
+line2 <shift> # ことになったのっ？　ず、ずいぶん急な話ね」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「それに、あなた……、なんか、だらしなさそう。
+line2 <shift> # 本当に、プロデュース業なんて、つとまる？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ベストを尽くすよ。能力以上の仕事は
+line2 <shift> # できないけど、能力は出し切ってみせる」
+display
+com4a 0 0
+com11 0 0
+sound 10016
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ふ〜ん、すこしは信頼できそうな返事ね。
+line2 <shift> # わかりました。それじゃ、これからよろしく！」
+display
+location 200
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （大事なスケジュールには、オススメマークを、
+line2 <shift> # 事務員の音無さんが、つけてくれている）
+display
+location 201
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今は、レッスンと営業が重要らしい。ステップ
+line2 <shift> # アップのため必要なスケジュールってことだな）
+display
+location 202
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （いきなり、オススメを無視するのは、怖いな。
+line2 <shift> # ここは素直に、したがったほうがいい気がする）
+display
+location 210
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「初めての営業に出発だ！
+line2 <shift> # 気合いいれていこう！」
+display
+com4a 0 0
+com11 0 0
+sound 10012
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「了解。私も、あなたの指示能力、
+line2 <shift> # 試させてもらう。それじゃ、いきましょう！」
+display
+location 300
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「続いて、衣装を決めよう」
+display
+location 301
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「続いてデビュー曲を決めよう」
+display
+location 302
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「喜んでくれて俺もうれしいよ！」
+display
+unk02

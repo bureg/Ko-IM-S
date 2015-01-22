@@ -1,0 +1,247 @@
+com2c 0 24
+com2d 0 61
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「喜べ！　有名ＴＶ雑誌の表紙の仕事が
+line2 <shift> # 決まったぞ！　きっと注目間違いなしだ」
+display
+com11 0 1
+sound 600
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「わ、ほんとですか！　ああ、
+line2 <shift> # でもっ、ど、どうしよう……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんだ雪歩？　浮かない顔して」
+display
+com11 0 1
+sound 601
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「有名雑誌の表紙ってことは、
+line2 <shift> # つまり、すごく目立ちますよね？」
+display
+com11 0 1
+sound 602
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「表紙になってみんなに見てもらえるのは
+line2 <shift> # いいけど、その……」
+display
+com11 0 1
+sound 603
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あまり派手な感じなのは、
+line2 <shift> # 私、苦手なので……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、そうか。いや、しかし……」
+com03 0 2
+choice1 <shift> # 雑誌が派手なだけだから
+line2
+com09 0 10
+com08
+choice2 <shift> # せっかくだし派手に行こう
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それはその雑誌が派手なだけであって……、
+line2 <shift> # 雪歩が派手な格好をしなくてもいいんだぞ」
+display
+com11 0 1
+sound 604
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「えっ？　そうなんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まぁせっかくの表紙だから
+line2 <shift> # 格好よくは行きたいけどね」
+display
+com11 0 1
+sound 605
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ああ、よかった……。私、表紙用に、きらきら
+line2 <shift> # の衣装を着なきゃいけないのかと思ってました」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「せっかくの表紙なんだから、
+line2 <shift> # 格好よく派手に目立ちに行こうよ」
+display
+com11 0 1
+sound 606
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「わ、私、きらきらの派手な衣装なんて、
+line2 <shift> # 着られないですよぉ」
+display
+com11 0 1
+sound 607
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「羽とか電飾とか、つけられないです。
+line2 <shift> # 恥ずかしいし、それに重たいらしいし……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ま、待て待て。なにか勘違いしてないか？
+line2 <shift> # そこまでわざわざ派手にしないと思うぞ」
+display
+com11 0 1
+sound 608
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「えっ、もしかして……、そういう派手な
+line2 <shift> # 格好はしなくていいんですか？」
+display
+com11 0 1
+sound 609
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「よ、よかったぁ……。私、きらびやかじゃ
+line2 <shift> # ないといけないのかなって、思ってました」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「表紙とはいえ、衣装は普段どおりでいいだろ。
+line2 <shift> # それよりも写真の撮り方さ。雰囲気というか」
+display
+com11 0 1
+sound 610
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい、雰囲気……、雰囲気が、
+line2 <shift> # うまく伝わる写真にしたいですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。しかしもっとも、ＴＶ雑誌の表紙が、
+line2 <shift> # キラキラ色彩レイアウトなのは否めないなぁ」
+display
+com11 0 1
+sound 611
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ううっ、そうですね。極彩色の、
+line2 <shift> # 派手派手ですよね？」
+display
+com11 0 1
+sound 612
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「その表紙の派手派手な感じに負けないように
+line2 <shift> # したほうがいいんでしょうか……」
+com03 0 3
+choice1 <shift> # シックに品よく
+line2
+com09 0 30
+com08
+choice2 <shift> # 質素におとなしく
+line2
+com09 0 31
+com08
+choice3 <shift> # 大胆にゴージャスに
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、あえてシックに品よくいこう」
+display
+com11 0 1
+sound 613
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「なるほどぉ、おとなーって感じの
+line2 <shift> # 雰囲気で、攻めるんですね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、派手な色彩の中で、
+line2 <shift> # 落ち着きのあるところを見せよう」
+display
+com11 0 1
+sound 614
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「うん、いいですね、印象的になるかも。
+line2 <shift> # いい写真撮って、いい表紙にしましょうっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後完成した表紙は……、派手なレイアウト
+line2 <shift> # 色彩と雪歩の落ち着いたたたずまい……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （微妙なミスマッチが、雪歩の魅力を
+line2 <shift> # 充分に引き出してくれたみたいだぞ！）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ここは質素におとなしく……」
+display
+com11 0 1
+sound 615
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そうですね、派手なところに派手さを
+line2 <shift> # 重ねたら、暑苦しいかもしれないですよね」
+display
+com11 0 1
+sound 616
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「リラックスした雰囲気でいきましょう」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「派手な色彩の中でも、安心して
+line2 <shift> # 見ていられる雰囲気がでるといいな」
+display
+com11 0 1
+sound 617
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい、自然で素朴が一番ですっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後完成した表紙用写真は、実に自然で
+line2 <shift> # 飾らない、いい雰囲気の写真になった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しかしいざ印刷されてみると、豪華表紙の中で
+line2 <shift> # 目立たず埋もれた印象になってしまった……）
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだな、やっぱりここは
+line2 <shift> # 大胆かつゴージャスに！」
+display
+com11 0 1
+sound 618
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そんなぁ。わ、私、派手なの苦手だって
+line2 <shift> # 言ったじゃないですかぁ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「苦手でもなんでも、せっかくの見せ場だ、
+line2 <shift> # ここはなんとかやってくれ！」
+display
+com11 0 1
+sound 619
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ううっ、そうですね……。せっかくの表紙、
+line2 <shift> # 派手に人目を惹かなきゃ、意味ないですよね」
+display
+com11 0 1
+sound 620
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「私もきちんと目立てるように……、
+line2 <shift> # な、なんとか、努力しますぅ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （迫力を出そうと、雪歩はいつもよりも
+line2 <shift> # 派手なメイクで表紙用撮影に向かった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しかし無理に背伸びしたような、ぎこちない
+line2 <shift> # 表情の写真になってしまったようだ……）
+com09 0 49
+display
+location 49
+unk02

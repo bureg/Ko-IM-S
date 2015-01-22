@@ -1,0 +1,495 @@
+com2c 0 24
+com2d 0 61
+com32 0 0
+com11 0 0
+sound 10000
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「あ、あの……、プロデュー……」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「……い、いえ。その、なんでもないです」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「はぁ……。なかなか言うタイミングが……、
+line2 <shift> # が、がんばれ、雪歩！　ゴー、ゴー、雪歩！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうしたんだ、雪歩。さっきから独り言が、も
+line2 <shift> # のすごくきこえてくるぞ？　何かあったのか？」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「えっ！？　き、きこえちゃってましたか？
+line2 <shift> # あ、いえ、別に、その……」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「何もない、わけじゃないですけど、
+line2 <shift> # でも、その、いざとなると……、あうう……」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「つまり、今日は……、今日という日は……、
+line2 <shift> # えっと、あの……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ん？　今日は何か、特別な日だったか？」
+com03 0 3
+choice1 <shift> # プロデューサー感謝デーか？
+line2
+com09 0 10
+com08
+choice2 <shift> # 撮影の予定、忘れてたか？
+line2
+com09 0 11
+com08
+choice3 <shift> # 雪歩の誕生日か？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか！　きっとあれだな、
+line2 <shift> # 今日はプロデューサー感謝デーなんだな？」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「えええっ！？
+line2 <shift> # な、なんでわかったんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なーんてな、あはは！
+line2 <shift> # ……って、ちょっと待て。本当にそうなのか？」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「は、はい……。私、今日はプロデューサーに、
+line2 <shift> # 感謝する日にしようって、ずっと思ってて……」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか！　大事な撮影の予定が、あるんだな？
+line2 <shift> # なのに俺が忘れてるんで、困ってるんだろ！」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ええっ？　そ、そうなんですか！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、あれ？　違うのか？　雪歩の態度から、
+line2 <shift> # てっきり俺のスケジュール忘れかと……」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「いえ……。今日は、そういう予定は、
+line2 <shift> # 何もなかったはずですよ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そっか……。そうだよな。俺も記憶にないし。
+line2 <shift> # でも、じゃあ今日は一体、何の日なんだ？」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか！　今日は雪歩の誕生日だったな。
+line2 <shift> # もちろん忘れてないぞ！」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「え？　え？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ハッピーバースデー、雪歩！
+line2 <shift> # あ、そうだ！　ケーキを買ってこなくちゃな！」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「あ、あの……、
+line2 <shift> # 私の誕生日、今日じゃないですぅ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ええっ！？　ち、違ったか？」
+display
+com11 0 0
+sound 10012
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「……プロデューサー、私の誕生日、
+line2 <shift> # 覚えてないんですね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、それは……、覚えてたけど、ちょっと
+line2 <shift> # ド忘れしたというか……。あはは！　ゴメン！」
+display
+com11 0 0
+sound 10013
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「そ、そうですよね、私なんかの誕生日なんて、
+line2 <shift> # 忘れちゃいますよね、普通……。うう……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ご、ゴメン！　ホントにゴメンな！　……あの、
+line2 <shift> # それで、今日は一体、何の日なんだ？」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10014
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「それは、あの……、えっと、今日は、
+line2 <shift> # プロデューサー感謝デーなんです！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……え？　プロデューサー感謝デーって、
+line2 <shift> # そりゃ、なんだ？」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「は、はい……。私、今日はプロデューサーに、
+line2 <shift> # 感謝する日にしようって、ずっと思ってて……」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「感謝って……、気持ちは嬉しいけど、
+line2 <shift> # 別に、そんなこと気にしなくていいよ」
+display
+com11 0 0
+sound 10016
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「いっ、いえ！
+line2 <shift> # そういうわけにはいきません！」
+display
+com11 0 0
+sound 10017
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「私みたいなダメダメな子を、プロデューサーは、
+line2 <shift> # いつも面倒を見てくれて……」
+display
+com11 0 0
+sound 10018
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「きっと、ツライこともあったでしょう。
+line2 <shift> # イライラすることもあったでしょう……」
+display
+com11 0 0
+sound 10019
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「けど、プロデューサーは山越え谷越え、こんな
+line2 <shift> # 私を見捨てず、ここまで連れてきてくれました」
+display
+com11 0 0
+sound 10020
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「私が、ここまで売れっ子のアイドルになれた
+line2 <shift> # のも、プロデューサーのおかげなんです！」
+display
+com11 0 0
+sound 10021
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「そこまでしていただいて、ご恩返しの１つも
+line2 <shift> # しなかったら、萩原雪歩、女がすたります！」
+com03 0 3
+choice1 <shift> # 熱いな、雪歩！
+line2
+com09 0 30
+com08
+choice2 <shift> # わ、わかったよ
+line2
+com09 0 31
+com08
+choice3 <shift> # でも……
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おおっ！　熱いな、雪歩！　普段おとなしい
+line2 <shift> # 雪歩が、そこまで言うんだから……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「その気持ち、
+line2 <shift> # 受けないわけにはいかないよな！」
+display
+com11 0 0
+sound 10022
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ありがとうございますぅ！　良かったです。
+line2 <shift> # 私の感謝の気持ち、受け止めてもらえて……」
+com09 0 39
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わ、わかったよ。そこまで言うなら、
+line2 <shift> # 気持ちは受けとるけどさ……」
+display
+com11 0 0
+sound 10023
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「あ、あれ？　プロデューサー、もしかして、
+line2 <shift> # ちょっと気持ちが、引いちゃいましたか？」
+display
+com11 0 0
+sound 10024
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「すみません。私、ちょっと熱く語りすぎちゃい
+line2 <shift> # ましたね。で、でも、それだけ真剣なんです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う、うん。大丈夫。それはわかってるよ。
+line2 <shift> # ただ、ちょっとビックリしただけだから……」
+com09 0 39
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも……」
+display
+com11 0 0
+sound 10025
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「『でも』も『だって』も、ありませんっ！！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わっ！　ご、ごめんなさいっ！」
+display
+com11 0 0
+sound 10026
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「……あ。す、すみません。怒鳴ったりして。
+line2 <shift> # ちょ、ちょっと、コーフンしすぎちゃいました」
+display
+com11 0 0
+sound 10027
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「私は、ただ、感謝の気持ちを、プロデューサー
+line2 <shift> # に受けとってほしいだけなんです……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う、うん。わかった。
+line2 <shift> # そこまで言うなら、受けとるよ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （雪歩でも、あんなにピシャリと、
+line2 <shift> # モノを言うこと、あるんだな。新発見かも……）
+com09 0 39
+display
+location 39
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……で、プロデューサー感謝デーな今日、
+line2 <shift> # 雪歩は、何をしてくれるつもりなんだ？」
+display
+com11 0 0
+sound 10028
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「それが……、徹夜して考えたんですけど、
+line2 <shift> # 『これだ！』っていうのが、思い浮かばなくて」
+display
+com11 0 0
+sound 10029
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ですから、よ、良ければ、
+line2 <shift> # プロデューサーに、これを……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ん？　このチケットを、くれるのか？
+line2 <shift> # なになに……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （雪歩に渡された、手作りのチケットには、『何
+line2 <shift> # でも言うこときく券』と、書かれている……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「これは……！？」
+display
+com11 0 0
+sound 10030
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「プロデューサーの言うこと、何でも１つだけ、
+line2 <shift> # ききます。どんなことでも、どうぞ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「な、なにーっ！？」
+com03 0 3
+choice1 <shift> # 使わないでとっておくよ
+line2
+com09 0 40
+com08
+choice2 <shift> # 今のままの雪歩でいてくれ
+line2
+com09 0 41
+com08
+choice3 <shift> # む、ムフフ……
+line2
+com09 0 42
+com08
+com07
+com09 0 32
+com08
+display
+location 40
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「使わないで、とっておくよ」
+display
+com11 0 0
+sound 10031
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ええっ！　そ、そんな！
+line2 <shift> # せっかくだから、使ってほしいです」
+display
+com11 0 0
+sound 10032
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「な、何でもいいんですよ。
+line2 <shift> # 何でも言うことききますから。ほんとに……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「雪歩の気持ち、すごく嬉しいよ。この券と
+line2 <shift> # 一緒に、ずっととっておけたらいいんだけどな」
+display
+com11 0 0
+sound 10033
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「プロデューサー……。
+line2 <shift> # 変わりませんよ、私の気持ちは、ずっと……」
+display
+com11 0 0
+sound 10034
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「これからも、プロデューサーを信じて、
+line2 <shift> # ずーっと、ついていきます……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （俺も、雪歩の信頼を受け続けるに足る、
+line2 <shift> # 紳士的なプロデューサーで、あり続けないとな）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （雪歩とのきずな、今日で、
+line2 <shift> # ますます深まった気がする……！）
+com09 0 99
+display
+location 41
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ、お言葉に甘えて、
+line2 <shift> # １つ、願いを言うよ」
+display
+com11 0 0
+sound 10035
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ど、どうぞ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ずっと、今のままの雪歩でいてくれ。
+line2 <shift> # 俺の願いは、それだけだ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （……ふっ。キマったな！）
+display
+com11 0 0
+sound 10036
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「え？　あの、今のままって、今よりアイドルと
+line2 <shift> # して、落ちぶれるなってことですか……？」
+display
+com11 0 0
+sound 10037
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「うう……。プロデューサー、私が今の人気、
+line2 <shift> # キープできないって思ってるんですね……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「な、なんでそうなるんだよ。そんな意味じゃ
+line2 <shift> # ないって！　雪歩はホント、マイナス思考だな」
+display
+com11 0 0
+sound 10038
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「すみません、マイナス思考で。
+line2 <shift> # どうせ、私なんか……。うう、ぐすっ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （スネてしまった雪歩を立ち直らせるのに、
+line2 <shift> # その後、ずいぶん時間がかかってしまった）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （カッコつけて、あいまいなことを言ったせいで、
+line2 <shift> # 誤解させちゃったな……）
+com09 0 99
+display
+location 42
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「む、ムフフ……。どんなことでも、か。
+line2 <shift> # もしや、あんなことや、そんなことも……！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いやいや、待て待て！　１つだけなら、
+line2 <shift> # やっぱり、こんなことが、いいかな……」
+display
+com11 0 0
+sound 10039
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ぷ、プロデューサー……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん。迷うなあ！
+line2 <shift> # 俺は、どうしたら、いいんだああー！」
+display
+com11 0 0
+sound 10040
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「あの、決まらないようなので、
+line2 <shift> # 私、向こうに行ってますね……」
+display
+com22 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、俺は、雪歩そっちのけで、
+line2 <shift> # ３時間、悩み続けた）
+display
+com21 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もう、落ち着け、俺！　やっぱり、
+line2 <shift> # アレをやってもらうしか、ないだろう！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おーい、雪歩ー！　願い事、決まったぞ！」
+display
+com11 0 0
+sound 10041
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ごめんなさい、プロデューサー。
+line2 <shift> # もう、そのチケット、有効期限切れです……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「な、なにいぃぃーっ！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （チケットをよく見ると『有効期限、
+line2 <shift> # 渡してから２時間』と書いてあった）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （な、なぜ有効期限なんかがあるんだっ！？　と
+line2 <shift> # 取り乱す俺を、雪歩は冷ややかな目で見ていた）
+com09 0 99
+display
+location 99
+unk02

@@ -1,0 +1,226 @@
+com2c 0 90
+com32 0 0
+com11 0 0
+sound 10000
+name 0 2 <names:1>  # President
+line1 <shift> # 「君、もう帰るところかね？
+line2 <shift> # できれば少し、話をしたいのだが……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「はい、大丈夫です。この後は、特に予定、
+line2 <shift> # ありませんから。なんでしょうか？」
+display
+com11 0 0
+sound 10001
+name 0 2 <names:1>  # President
+line1 <shift> # 「うむ。確か、君に、四条君と話して、９６１
+line2 <shift> # プロの動きを探ってほしいと言ってあったね？」
+display
+com11 0 0
+sound 10002
+name 0 2 <names:1>  # President
+line1 <shift> # 「もし、何か、わかったようだったら、
+line2 <shift> # 報告してもらえないだろうか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「はい。実は、まだ、大したことは、
+line2 <shift> # わかっていないんですが……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （う〜ん、何を報告すべきかな？）
+com03 0 3
+choice1 <shift> # 悪いウワサを流されてました
+line2
+com09 0 10
+com08
+choice2 <shift> # プリンセスって呼んでました
+line2
+com09 0 11
+com08
+choice3 <shift> # 貴音はいい子です
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだ。黒井社長に、７６５プロに関する、
+line2 <shift> # 悪いウワサを流されていました」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「スタッフは無能者ぞろいだとか、
+line2 <shift> # 貧乏で弱小なプロダクションだとか……」
+display
+com11 0 0
+sound 10003
+name 0 2 <names:1>  # President
+line1 <shift> # 「黒井の言いそうなことだ。……まあ、
+line2 <shift> # 貧乏なのは、ほんの少し、当たっているがな」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「今、報告できるのは、以上ですが、
+line2 <shift> # 今後は、貴音から、色々きくようにします」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そういえば、黒井社長は、貴音のことを、
+line2 <shift> # プリンセスと呼んでいました」
+display
+com11 0 0
+sound 10004
+name 0 2 <names:1>  # President
+line1 <shift> # 「なるほど。いかにも、あいつが、
+line2 <shift> # 使いそうな呼び方だな」
+display
+com11 0 0
+sound 10005
+name 0 2 <names:1>  # President
+line1 <shift> # 「しかし、プリンセスか……。
+line2 <shift> # 四条君には、なにかと王女の名が付いて回るね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「今、報告可能なのは、これぐらいですが、
+line2 <shift> # 引き続き、調査しておきます」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「四条貴音は、話し方は少し変わっていますが、
+line2 <shift> # 優しい性格の、いい子です」
+display
+com11 0 0
+sound 10006
+name 0 2 <names:1>  # President
+line1 <shift> # 「ふむ。なるほどね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それに、人前では冷たい感じですが、
+line2 <shift> # 本当は、そうでもないんです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「意外とかわいいんですよ、これが」
+display
+com11 0 0
+sound 10007
+name 0 2 <names:1>  # President
+line1 <shift> # 「ほほう。そうか」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そして、四条貴音には、なんと、
+line2 <shift> # じいやがいるそうです」
+display
+com11 0 0
+sound 10008
+name 0 2 <names:1>  # President
+line1 <shift> # 「……君。まるで、四条君の、
+line2 <shift> # ファンのような口ぶりじゃあないか」
+display
+com11 0 0
+sound 10009
+name 0 2 <names:1>  # President
+line1 <shift> # 「しかも、それは、
+line2 <shift> # ９６１プロの動向とは、違う気がするぞ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああっ！　す、すみません！」
+display
+com11 0 0
+sound 10010
+name 0 2 <names:1>  # President
+line1 <shift> # 「まあ、いいだろう。千里の道も、一歩からだ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「は、はい……。申し訳ありません。
+line2 <shift> # 今後は、もっと、積極的に調査しますから！」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10011
+name 0 2 <names:1>  # President
+line1 <shift> # 「うむ。頼んだよ。本業のプロデュースが、
+line2 <shift> # おろそかにならない程度で、いいからな」
+display
+com11 0 0
+sound 10012
+name 0 2 <names:1>  # President
+line1 <shift> # 「君の話をきく限り、四条君は、
+line2 <shift> # ただ者ではなさそうだ」
+display
+com11 0 0
+sound 10013
+name 0 2 <names:1>  # President
+line1 <shift> # 「彼女のことも、しっかりと探りを、
+line2 <shift> # 入れておいてくれたまえ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「はい、わかりました！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ところで……、社長と黒井社長は、
+line2 <shift> # どういう関係なんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、別に、社長が話したくないなら、いいんで
+line2 <shift> # すけど、ちょっと気になったもので……」
+display
+com11 0 0
+sound 10014
+name 0 2 <names:1>  # President
+line1 <shift> # 「そうか。気になるかね……。
+line2 <shift> # 君が気にしているのなら、話そうじゃないか」
+display
+com11 0 0
+sound 10015
+name 0 2 <names:1>  # President
+line1 <shift> # 「……黒井とは、かつて、人から、
+line2 <shift> # ライバル同士と呼ばれるような関係だった」
+display
+com11 0 0
+sound 10016
+name 0 2 <names:1>  # President
+line1 <shift> # 「だが、私は納得していないぞ！　あんな男と、
+line2 <shift> # ライバルなどと、並べられては困る！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「は、はあ……」
+display
+com11 0 0
+sound 10017
+name 0 2 <names:1>  # President
+line1 <shift> # 「だいたい、私の方が、ずっと男前で、
+line2 <shift> # 女性にも、モテモテだったのだからな！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （男前……、だったのか？）
+display
+com11 0 0
+sound 10018
+name 0 2 <names:1>  # President
+line1 <shift> # 「それに引き替え、黒井のやつは、
+line2 <shift> # ちーっとも、モテなかったのだ！」
+display
+com11 0 0
+sound 10019
+name 0 2 <names:1>  # President
+line1 <shift> # 「私は、その昔、今でいう、
+line2 <shift> # イケイケの熱血プロデューサーでね……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「は、はあ……。イケイケ、ですか……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、本題と全く関係のない、社長の死語だ
+line2 <shift> # らけの話は３時間続いた……。つ、疲れた……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （結局、黒井社長とのことは、
+line2 <shift> # よくわからないままだった……）
+com09 0 99
+display
+location 99
+unk02

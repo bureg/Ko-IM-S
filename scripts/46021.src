@@ -1,0 +1,274 @@
+com2c 0 24
+com2d 0 81
+com32 0 0
+com11 0 5
+sound 100
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサー。質問があるんですけど、
+line2 <shift> # 今、いいでしょうか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なんだ？　真？」
+display
+com11 0 5
+sound 101
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ボクの名前、初めて知った時って、どう
+line2 <shift> # 思いました？　その……女なのに“真”って」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、正直、言って……」
+com03 0 3
+choice1 <shift> # 変わってると、思った
+line2
+com09 0 10
+com08
+choice2 <shift> # どうとも、思わなかったよ
+line2
+com09 0 11
+com08
+choice3 <shift> # 笑ったよ
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「変わってると、思った」
+display
+com11 0 5
+sound 102
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ですよね。そう思うのが、普通だと思います」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうとも、思わなかったよ」
+display
+com11 0 5
+sound 103
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「え、まったく、ですか？　そっかー、完全に
+line2 <shift> # スルーできちゃう人もいるんですね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ま、名前なんて、単なる記号だからな。
+line2 <shift> # もしかして……自分の名前、キライなのか？」
+com09 0 28
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「笑ったよ」
+display
+com11 0 5
+sound 104
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うわっ、それは、ひどいなあ。たしかに、
+line2 <shift> # 普通じゃないのは認めますけど、ううっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……ごめん。そんなこと聞くってことは、
+line2 <shift> # もしかして、自分の名前、キライなのか？」
+com09 0 28
+display
+location 28
+com11 0 5
+sound 105
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「キライとまでは、いかないです。
+line2 <shift> # でも、あまり好きにも、なれなくて……」
+com09 0 29
+display
+location 29
+com11 0 5
+sound 106
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ボクの名前、父さんがつけたんです。本当は
+line2 <shift> # 男が欲しかったらしくて、それでこんな名前に」
+com03 0 2
+choice1 <shift> # 困った父親だな
+line2
+com09 0 30
+com08
+choice2 <shift> # ゆかいな父親だな
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「困った父親だな」
+display
+com11 0 5
+sound 107
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はい……。その後のボクのことも、考えて
+line2 <shift> # ほしかったです。いっつも、強引で……」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ゆかいな父親だな」
+display
+com11 0 5
+sound 108
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「見てる分にはいいんですけど、実際、
+line2 <shift> # いっしょに暮らしてると、たまりません！」
+display
+com11 0 5
+sound 109
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「他にいくらでも、いい名前あったと思うんです
+line2 <shift> # けど、いまさら言っても遅いし……」
+com09 0 49
+display
+location 49
+com11 0 5
+sound 110
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「せめて、漢字ぐらい、もうちょっと、
+line2 <shift> # かわいいのに、してほしかったよなあ」
+display
+com11 0 5
+sound 111
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「もしプロデューサーが、自分の娘に“まこと”
+line2 <shift> # って名前つけるとしたら、どんな字にします？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、そうだな。たとえば、琴という字を
+line2 <shift> # つけて“真琴”とか……」
+display
+com11 0 5
+sound 112
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、なるほど……。それだけで、だいぶ
+line2 <shift> # 女の子っぽく、なりますね！」
+display
+com11 0 5
+sound 113
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「じゃあ、仮に、自分の息子に“まこと”って、
+line2 <shift> # つけるとしたら、どんな字にします？」
+com03 0 3
+choice1 <shift> # “魔虎斗”かなあ
+line2
+com09 0 50
+com08
+choice2 <shift> # “誠”かなあ
+line2
+com09 0 51
+com08
+choice3 <shift> # “真”かなあ
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「“魔虎斗”かなあ」
+display
+com11 0 5
+sound 114
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うっは〜、凶悪そう！　なんか、暴走族とかに、
+line2 <shift> # いそうな名前ですね〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、男なら、勇ましそうな方が、いいかと
+line2 <shift> # 思って」
+display
+com11 0 5
+sound 115
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「考えてみたら、そういう字、つけられてた可能
+line2 <shift> # 性もあるんですよね。なら、今の方が、いいか」
+display
+com11 0 5
+sound 116
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ありがとうございましたー！　話したら、
+line2 <shift> # なんか、救われた気分になりました！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （期せずして、感謝されてしまった。
+line2 <shift> # 極端な例をあげたのが、よかったようだ！）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「“誠”かなあ」
+display
+com11 0 5
+sound 117
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、男の名前としては、そっちの字の方が
+line2 <shift> # メジャーかもしれませんね！」
+display
+com11 0 5
+sound 118
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うーん、真と誠……。どっちがマシかなあ。
+line2 <shift> # どっちにしろ、娘につける名前じゃないよなあ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、しかたがないよ。そんなこと気にして
+line2 <shift> # ないで、アイドルとしての未来を見つめよう」
+display
+com11 0 5
+sound 119
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「わかっちゃいるんですけど、気になるんです
+line2 <shift> # よね。これでも、バリバリの女の子ですから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ため息をついている。とりあえず、普通に答え
+line2 <shift> # てみたけど、あまり楽しい会話にならなかった）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「“真”かなあ」
+display
+com11 0 5
+sound 120
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、やっぱり、今のボクと同じ字……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺のセンスだと、男なら、やっぱりその字に
+line2 <shift> # すると思う」
+display
+com11 0 5
+sound 121
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサー、も、もしかして……ボクの
+line2 <shift> # 父さんと、同じようなセンスの持ち主？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「さあ、どうだろうな。……って、おい、
+line2 <shift> # いきなり、どうして、そんなに警戒するんだ？」
+display
+com11 0 5
+sound 122
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ふ、不安だなあ……。そんなコトないって、
+line2 <shift> # 信じたいんですけど。ううう……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （こわごわと、俺の顔をのぞき込んでいる……。
+line2 <shift> # 別の答えにしておいた方が、よかったかもな）
+com09 0 69
+display
+location 69
+unk02

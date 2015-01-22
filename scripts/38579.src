@@ -1,0 +1,273 @@
+com2c 0 46
+com2d 0 73
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「以前、前座で立った、このステージに、
+line2 <shift> # 再び立つことになるとはね……」
+display
+com11 0 2
+sound 300
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「でも、今回は主役！
+line2 <shift> # いよいよ、思いっきり暴れられますね」
+display
+com11 0 2
+sound 301
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「前座の雪辱、今ここで、
+line2 <shift> # 存分に晴らしてやるぅ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「律子、なかなか張り切ってるな。
+line2 <shift> # しかし、勢いまかせじゃ、足元すくわれるぞ？」
+display
+com11 0 2
+sound 302
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「はいはい、わかってますって」
+display
+com11 0 2
+sound 323
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「大丈夫、メジャーアイドルの貫禄で、ここは、
+line2 <shift> # 慌てず騒がず、落ち着いてやってみせますよ」
+com03 0 3
+choice1 <shift> # よし、まかせた
+line2
+com09 0 10
+com08
+choice2 <shift> # もっとリラックスだな
+line2
+com09 0 11
+com08
+choice3 <shift> # まだ気合いが足りないな
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、まかせた。意気込みじゅうぶん。冷静さ
+line2 <shift> # も欠いてないな。いいステージを期待するよ」
+display
+com11 0 2
+sound 304
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「言われなくたってっ！
+line2 <shift> # ばっちりまかせなさいって！」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もっとリラックスだな。
+line2 <shift> # まだ、肩の力が、うまく抜けてない」
+display
+com11 0 2
+sound 305
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そんなことないですよぉ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あんまり気負うなよ？
+line2 <shift> # 時々、変にムキになるからな、律子は」
+display
+com11 0 2
+sound 306
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「大丈夫ですってばぁ、もう。
+line2 <shift> # まかせて下さいよ」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「口先では、クールを装ってるが……、
+line2 <shift> # その実、まだまだ気合いが足りないな？」
+display
+com11 0 2
+sound 307
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「何言ってるんですか、気合いならじゅうぶんで
+line2 <shift> # すよ。大体あんまり力んだって疲れるでしょ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まあ、そうだけど……。意外と、緊張のせいで、
+line2 <shift> # まともにお腹に力が、入ってないんじゃ？」
+display
+com11 0 2
+sound 308
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そ、そんなことないですよ。
+line2 <shift> # ちゃんと声は出ます」
+com09 0 29
+display
+location 29
+com11 0 2
+sound 309
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ああ、でも……、ステージプラン的には、
+line2 <shift> # ちょっと気になる、難しい問題もあるなぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ん、問題？　なにか不安でもあるのか」
+display
+com11 0 2
+sound 310
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「このだだっ広いステージだと、
+line2 <shift> # 私、すごく小さく見えそうで……」
+display
+com11 0 2
+sound 311
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「派手な演出の中で、埋もれて見えちゃわないか
+line2 <shift> # なぁって、リハの時から気になってて」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なるほどな。舞台とコントラストを、
+line2 <shift> # うまくつけないと、目立てないかもな」
+display
+com11 0 2
+sound 312
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「でも、変に細工すると、
+line2 <shift> # 悪目立ちしそうだし……」
+display
+com11 0 2
+sound 313
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ステージプランも、今からじゃ、そんなに、
+line2 <shift> # 大変更できないでしょ？　どうしようかな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「シンプルで効果の出る工夫を入れたいね。
+line2 <shift> # そうだな、舞台で目立つためには……」
+com03 0 3
+choice1 <shift> # 色を工夫
+com09 0 30
+com08
+choice2 <shift> # 音を工夫
+com09 0 31
+com08
+choice3 <shift> # においを工夫
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「コントラスト……、
+line2 <shift> # そうだ、色合いを工夫しよう！」
+display
+com11 0 2
+sound 314
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「色合い？　光彩、光の加減のこと？　でも、
+line2 <shift> # スポットライトの工夫だけじゃ、限界が……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「照明の反射加減で、色が変わって見えるような
+line2 <shift> # 衣装も、一緒に使えないかな？」
+display
+com11 0 2
+sound 315
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あ、面白そう！　使えるかもしれないですね。
+line2 <shift> # 私、衣装の素材とか色、考えてみますよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺と律子はさっそく、衣装と照明の組み合わせ
+line2 <shift> # のアイディアを考え始めた）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うまく実現すれば、これまでにないユニークな
+line2 <shift> # ステージができそうだぞ。頑張ろう！）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やっぱり、音にメリハリを……、
+line2 <shift> # そうだ、３Ｄサウンドを使おう！」
+display
+com11 0 2
+sound 316
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あっ、なるほど！　この会場自体にある、
+line2 <shift> # たくさんのスピーカーを使うんですね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「歌いながら、会場じゅうを移動して、
+line2 <shift> # それに合わせて、あちこちから音が出れば……」
+display
+com11 0 2
+sound 317
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「音が動き回れば、きっと注目されそうですね。
+line2 <shift> # あとはそういう風に音を出せるかどうかか……」
+display
+com11 0 2
+sound 318
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「よし、エンジニアに相談してみましょう！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺と律子は、歌いながら会場内を移動する
+line2 <shift> # アイディアを、会場エンジニアに提案した）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （なんとか実現できそうだ。これで、ユニークな
+line2 <shift> # ステージができそうだぞ、頑張ろう！）
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「目に見える工夫よりも、もっと潜在的意識に、
+line2 <shift> # 訴えるような……、そうだ、においを使おう！」
+display
+com11 0 2
+sound 319
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「えっ？　に、におい？　どうやって？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それは、つまり……、歌を歌うと会場のどこか
+line2 <shift> # から、それに合わせて、なにかのにおいが」
+display
+com11 0 2
+sound 320
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そ、それって、どうなんだろ？
+line2 <shift> # うまくいくのかな……」
+display
+com11 0 2
+sound 321
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「難しそう。それに、会場の中って、
+line2 <shift> # 空気とかにおいとか、こもっちゃいませんか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「む、そうだな。一歩間違うと、
+line2 <shift> # 大変なことになってしまうかもな……」
+display
+com11 0 2
+sound 324
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「窒息しそうなにおいが充満するライブ会場……。
+line2 <shift> # うわぁ、私そんなの、イヤですよぉ！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （この提案はあっさりと却下された。結局その後、
+line2 <shift> # 俺もこれといった代案を思いつかないまま……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （本番は無難に行われ、評判もまずまずだったが、
+line2 <shift> # 律子は、ノリきれなかったみたいだ……）
+com09 0 49
+display
+location 49
+unk02

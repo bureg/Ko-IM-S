@@ -1,0 +1,280 @@
+com2c 0 48
+com2d 0 21
+com32 0 0
+com11 0 5
+sound 500
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「このファンデーション、私が使うワケ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。撮影とかに必要なんだ」
+display
+com11 0 5
+sound 501
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「え〜、や〜だ〜。こんなの塗ったら、
+line2 <shift> # キレイな肌、汚れちゃうー」
+com03 0 3
+choice1 <shift> # 肌を守るためだよ
+line2
+com09 0 10
+com08
+choice2 <shift> # 仕事のためだから
+line2
+com09 0 11
+com08
+choice3 <shift> # 美人になれるよ？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「肌を守るためだよ」
+display
+com11 0 5
+sound 502
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「え、そんな役目もあるの？
+line2 <shift> # ……じゃあ、ガマンするわっ」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「仕事のためだから」
+display
+com11 0 5
+sound 503
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そんなの、わかってるわよ！
+line2 <shift> # なにかっていうと、すぐ仕事仕事って……」
+display
+com11 0 5
+sound 504
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「フン、つけてあげるわよ。これくらい……」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「美人になれるよ？」
+display
+com11 0 5
+sound 505
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「それ、どういう意味よっ！？
+line2 <shift> # コレつけないと、美人じゃないって言うの？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、そういうわけじゃ……」
+display
+com11 0 5
+sound 506
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「これ以上、かわいくなる必要なんてないわ。
+line2 <shift> # ……まあ、ためすぐらいなら、いいけど」
+com09 0 19
+display
+location 19
+com11 0 5
+sound 507
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あ！　あの３万円のやつの方が、
+line2 <shift> # 私にピッタリかも♪」
+display
+com11 0 5
+sound 508
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「にひひっ♪　いいわよねー、
+line2 <shift> # プロデューサー？」
+com03 0 3
+choice1 <shift> # ふざけないでくれよー
+line2
+com09 0 20
+com08
+choice2 <shift> # ふざけるな！
+line2
+com09 0 21
+com08
+choice3 <shift> # ふざけないでくれますか？
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ふざけないでくれよー」
+display
+com11 0 5
+sound 509
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あっははー、情けない顔。おもしろ〜い！」
+display
+com11 0 5
+sound 510
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「今回は、安物でガマンしてあげる。
+line2 <shift> # じゃ、ためし塗りね♪」
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ふざけるな！」
+display
+com11 0 5
+sound 511
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「きゃ！　な、なによ、怒鳴ったりしてー！」
+display
+com11 0 5
+sound 512
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ただ、言ってみただけでしょ〜。
+line2 <shift> # すーぐ、真に受けるんだから……」
+display
+com11 0 5
+sound 513
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「じゃあ、この安物、
+line2 <shift> # ちょっとためし塗りしてみるわ」
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ふざけないでくれますか？」
+display
+com11 0 5
+sound 514
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「な、なによ〜。そのヘンな口調……。
+line2 <shift> # って、あんた、目がすわってるわよ？」
+display
+com11 0 5
+sound 515
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「わわわわ、わかったわっ。この安物で、
+line2 <shift> # ガマンするわよ。それなら、いいでしょ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……ああ」
+display
+com11 0 5
+sound 516
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「お、おぼえてなさいよっ……。
+line2 <shift> # それじゃ、コレ、ためし塗りしてみるわ」
+com09 0 29
+display
+location 29
+com22 0 30
+com21 0 30
+com11 0 5
+sound 517
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……う〜ん、濃くない？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「撮影用だから、いいと思うよ」
+display
+com11 0 5
+sound 518
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そ！　じゃ、落としてちょーだい♪」
+com0e 0 100
+com44
+com09 0 30
+com45
+com44
+com09 0 31
+com45
+com44
+com09 0 32
+com45
+display
+location 30
+com11 0 5
+sound 519
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「フフフン、ちゃんと落ちたみたいね〜？
+line2 <shift> # ありがとう〜、プロデューサー♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （完璧だ！　伊織も心からよろこんでいる）
+display
+com11 0 5
+sound 520
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「さ、事務所へ帰って、クレンジング、
+line2 <shift> # クレンジングー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「…………」
+com09 0 39
+display
+location 31
+com11 0 5
+sound 521
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ちょっとー、ちゃんと落ちたんでしょうね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ハンカチじゃ、完全には……」
+display
+com11 0 5
+sound 522
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「いいわけなんて、聞きたくないもん。
+line2 <shift> # はあーあ、頼むんじゃなかったー」
+display
+com11 0 5
+sound 523
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「手先、器用にするために、
+line2 <shift> # 編み物でもはじめたら〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （意外にむずかしいな。鏡でも見ながら、
+line2 <shift> # 自分で落としてもらおう……）
+com09 0 39
+display
+location 32
+com11 0 5
+sound 524
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……あんた、やる気ないでしょ？」
+display
+com11 0 5
+sound 525
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ふ〜ん、そうなんだ〜。
+line2 <shift> # こーんな顔のまま、私に道歩けってわけ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、別にそこまでは……」
+display
+com11 0 5
+sound 526
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「動かないでね♪　……あんたの顔も、
+line2 <shift> # ベトベトに塗ってやるんだからーっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「れ、冷静に……」
+display
+com11 0 5
+sound 527
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「うるさ〜いっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （キレてしまった！　に、逃げないと……）
+com09 0 39
+display
+location 39
+unk02

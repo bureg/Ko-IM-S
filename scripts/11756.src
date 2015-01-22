@@ -1,0 +1,392 @@
+com2c 0 17
+com2c 0 41
+com2d 0 23
+com32 0 0
+com11 0 0
+sound 0
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ふう〜。コンサートツアーって、やること多い
+line2 <shift> # のね。移動も長いし、疲れるわ〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「大変だろうけど、頑張ってくれよ。これから
+line2 <shift> # 全国主要都市を、回るんだからな」
+display
+com11 0 0
+sound 1
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「う。考えただけでグッタリしそう……。
+line2 <shift> # ねえ、今からキャンセルって、できないの？」
+display
+com11 0 0
+sound 2
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「わざわざツアーなんてしなくても、ＴＶ出演
+line2 <shift> # だけで、じゅうぶん人気者になれるでしょ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ＴＶ出演は確かに重要だけど、ツアーだって
+line2 <shift> # 重要だぞ。色々な土地を回れば……」
+com03 0 3
+choice1 <shift> # ファンに直接会えるだろ？
+line2
+com09 0 10
+com08
+choice2 <shift> # 新しい出会いがあるだろ？
+line2
+com09 0 11
+com08
+choice3 <shift> # 名産品が食べられるだろ？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ファンに直接会えるだろ？　皆、伊織に会える
+line2 <shift> # のを楽しみにしてくれているんだぞ」
+display
+com11 0 0
+sound 3
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そうね〜。事務所にもツアーを楽しみにしてる
+line2 <shift> # ファンから、山ほど問い合わせがきてるし」
+display
+com11 0 0
+sound 4
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「皆、よっぽど私に会いたいのね〜。ま、当然だ
+line2 <shift> # けど。人気アイドルはツライわー。にひひっ♪」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「新しい出会いがあるだろ？　新しいファンとか
+line2 <shift> # 有能なスタッフとかと、出会うのは楽しいぞ？」
+display
+com11 0 0
+sound 5
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あ、そうね♪　有能なプロデューサーとの出会
+line2 <shift> # いがあるかも。そしたら誰かさんはお払い箱ね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そんなぁー！」
+display
+com11 0 0
+sound 6
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なに、その情けない顔！　笑っちゃう〜！
+line2 <shift> # ま、クビにならないように、頑張りなさーい」
+display
+com11 0 0
+sound 7
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「私が少しでも楽できるように、アンタは
+line2 <shift> # 倍、働きなさいよ？　にひひっ♪」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「色々な土地の名産品が食べられるぞ。
+line2 <shift> # 各地のうまいものを片っ端から制覇しよう！」
+display
+com11 0 0
+sound 8
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「まあステキ♪　伊織、美味しいもの、
+line2 <shift> # だーいすき☆　だからツアーも頑張るわ♪」
+display
+com11 0 0
+sound 9
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「とか、言うとでも思ったっ！？　あーのーねー
+line2 <shift> # 美味しいもの食べるのに、苦労は必要ないの！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そうなのか？」
+display
+com11 0 0
+sound 10
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「たいていの物は、お取り寄せできるでしょ。名
+line2 <shift> # 産品ぐらい、家から一歩も出ないで入手可能よ」
+display
+com11 0 0
+sound 11
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「それにしても、そんなことのためにツアー
+line2 <shift> # しようとしてたとはね……、あきれるわ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （そのためってわけじゃないんだが。くいしんぼ
+line2 <shift> # プロデューサーみたいに思われてしまった……）
+com09 0 19
+display
+location 19
+com11 0 0
+sound 12
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「どうしてもやらなきゃいけないんなら、
+line2 <shift> # 平凡なコンサートにはしたくないわね」
+display
+com11 0 0
+sound 13
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「来た人が一生忘れないような、
+line2 <shift> # 刺激的でセンスのいいステージにしたいの」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「今のままのプランじゃ、不満なのか？」
+display
+com11 0 0
+sound 14
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ハッキリ言って、不満ね！　まずセットが
+line2 <shift> # しょぼいわよ！　もっと私らしさがほしいわ〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「伊織らしさっていうと……」
+com03 0 3
+choice1 <shift> # もっと豪華に、か？
+line2
+com09 0 20
+com08
+choice2 <shift> # もっと可愛く、か？
+line2
+com09 0 21
+com08
+choice3 <shift> # もっと凶悪に、か？
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もっと豪華に、か？」
+display
+com11 0 0
+sound 15
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そう！　ちゃんと解ってるじゃない！　曲ごと
+line2 <shift> # にセットを変えるとか、豪華な印象にしたいわ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「今からセットの変更は無理だけど……。
+line2 <shift> # 演出で豪華にみえるよう、検討してみるよ」
+display
+com11 0 0
+sound 16
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そうね、お願いするわ。……にひひっ！
+line2 <shift> # ちょっとだけ本番が楽しみになってきたわね〜」
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もっと可愛く、か？」
+display
+com11 0 0
+sound 17
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「んー、それも悪くないけど、可愛らしさは
+line2 <shift> # 私一人いれば、じゅうぶんだと思うのよね」
+display
+com11 0 0
+sound 18
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「セットには、私の可愛らしさをひきたたせる
+line2 <shift> # 別の何かが欲しいところだわー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、そうか……。セットの変更は、すぐに
+line2 <shift> # はできないけど、検討しておくよ」
+display
+com11 0 0
+sound 19
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ちゃんとやっておいてよ！　セットがカッコ悪
+line2 <shift> # いと、私のセンスを疑われちゃうんだから！」
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もっと凶悪に、か？」
+display
+com11 0 0
+sound 20
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……いい度胸だわ。その言葉を言ったことを、
+line2 <shift> # 一生後悔するようなこと、してあげるわね♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うわわわ！　ごめんなさい、失言でした！」
+display
+com11 0 0
+sound 21
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「素直に謝ったから、許してあげてもいいわ。
+line2 <shift> # ……でも、二度は許さないわよ？」
+display
+com11 0 0
+sound 22
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「それと、セットのことは、ツアー中に改善する
+line2 <shift> # 方法を考えてよね！　寝ないで考えなさいっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わ、わかったよ……」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 23
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……あと、オープニングで私が登場する時も、
+line2 <shift> # 普通に登場するんじゃ、つまらないと思うの」
+display
+com11 0 0
+sound 24
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「何か変わった登場のしかた、できないかしら？
+line2 <shift> # 今からすぐに変更できる方法って、ない？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだな……上からゴンドラで降りてくるか、
+line2 <shift> # 下からせりあがるぐらいなら、すぐできるけど」
+display
+com11 0 0
+sound 25
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あら、いいじゃない、それ！　どっちかやりま
+line2 <shift> # しょうよ！　どっちがいいと思う〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おいおい、簡単そうに言ってるけど、オープニ
+line2 <shift> # ングの演出は超重要だぞ。慎重に決めないと」
+display
+com11 0 0
+sound 26
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「じゃあ慎重に、今、決めてよ。
+line2 <shift> # どっちの演出がファンに喜ばれそう？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うーん……、どっちがいいのか、
+line2 <shift> # 全く予想がつかない。これは賭けだな）
+com03 0 2
+choice1 <shift> # 上から登場だ！
+line2
+com09 0 30
+com08
+choice2 <shift> # 下から登場だ！
+line2
+com09 0 31
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、伊織はゴンドラに乗って、上から登場
+line2 <shift> # することにしよう！」
+com37 0 1
+com1e 0 0
+com09 0 38
+com3b
+com37 0 0
+com1e 0 0
+com09 0 39
+com3b
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うむ、伊織はステージの下から、せりあがって
+line2 <shift> # きて登場することにしよう！」
+com37 0 1
+com1e 0 0
+com09 0 38
+com3b
+com37 0 0
+com1e 0 0
+com09 0 39
+com3b
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よくわからないな……。もう時間もないし、
+line2 <shift> # 本番直前の気分で決めちゃおう！」
+com09 0 39
+display
+location 38
+com11 0 0
+sound 27
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「わかったわ。それでいきましょ！
+line2 <shift> # さあ、もうすぐ本番ね！　準備、してくるわ」
+display
+com22 0 30
+com32 0 1
+com21 0 30
+com11 0 0
+sound 28
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「みんなー！　今日は来てくれてありがとう♪
+line2 <shift> # それじゃ、始めるわよ！　３・２・１……」
+display
+com11 0 0
+sound 29
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「スタート！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （意外なところから登場した伊織に、観客は
+line2 <shift> # 大歓声を送っている！　伊織も満面の笑みだ）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （初日からこの大盛況！　これはツアーの成功も
+line2 <shift> # 約束されたようなものだな！）
+com4b 0 0
+com09 0 49
+display
+location 39
+com11 0 0
+sound 30
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「わかったわ。それでいきましょ！
+line2 <shift> # さあ、もうすぐ本番ね！　準備、してくるわ」
+display
+com22 0 30
+com32 0 1
+com21 0 30
+com11 0 0
+sound 31
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「みんなー！　今日は来てくれてありがとう♪
+line2 <shift> # それじゃ、始めるわよ！　３・２・１……」
+display
+com11 0 0
+sound 32
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「スタート！　……あ、あれ？　動かないわよ？
+line2 <shift> # ちょっと、プロデューサー！！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （肝心な時に機材の故障だ！　ツアー初日はファ
+line2 <shift> # ンもとまどう波乱の幕開けとなってしまった！）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （こんなスタートじゃ、先が思いやられるぞ。
+line2 <shift> # 俺のミスだ。伊織、怒ってるだろうな……）
+com4b 0 2
+com09 0 49
+display
+location 49
+unk02

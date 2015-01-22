@@ -1,0 +1,367 @@
+com2c 0 42
+com2d 0 83
+com32 0 0
+com11 0 5
+sound 200
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ぷ、プロデューサ〜、この汚い小屋で、
+line2 <shift> # ライブやるんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「しかたないだろ。売れないうちは、ガマン……。
+line2 <shift> # ん？　なに、おびえてるんだ？」
+display
+com11 0 5
+sound 201
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ここ、虫とか、出ないですよね？
+line2 <shift> # ボク、すごい苦手で……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なんだ。そんなのが、こわいのか」
+com03 0 2
+choice1 <shift> # 意外に、怖がりなんだな
+line2
+com09 0 10
+com08
+choice2 <shift> # 顔立ちは、りりしいのにな
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「意外に、怖がりなんだな」
+display
+com11 0 5
+sound 232
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「『意外に』は余計です。どーせ怖いものなんか、
+line2 <shift> # 何もなさそうに、見えるんでしょうけど……」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「顔立ちは、りりしいのにな」
+display
+com11 0 5
+sound 233
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「顔と中身は、関係ないです。たしかに、男の子
+line2 <shift> # みたいな性格って、よく誤解されますけど……」
+com09 0 29
+display
+location 29
+com11 0 5
+sound 234
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うああっ！　プロデューサー、あそこの壁、
+line2 <shift> # なにか、動いてますっ！」
+display
+com11 0 5
+sound 205
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「む、む、虫っ、虫ですっ。足がたくさん、
+line2 <shift> # ウニョウニョって……。う、う、うあうあ……」
+com03 0 3
+choice1 <shift> # あれは……、ヤスデかな？
+line2
+com09 0 30
+com08
+choice2 <shift> # あれは……、ヒトデかな？
+line2
+com09 0 31
+com08
+choice3 <shift> # あれは……、クマデかな？
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あれは……、ヤスデかな？」
+display
+com11 0 5
+sound 206
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そうなんですか？　物知り……、って感心して
+line2 <shift> # る場合じゃ！　お、追い払って下さい〜っ！」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あれは……、ヒトデかな？」
+display
+com11 0 5
+sound 207
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「え、ヒトデ？　ヒトデなんて、
+line2 <shift> # 海にしかいないんじゃ……？」
+com09 0 91
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あれは……、クマデかな？」
+display
+com11 0 5
+sound 208
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「え、クマデ？　それってたしか、
+line2 <shift> # 道具かなんかの名前だったような……」
+com09 0 91
+display
+location 91
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……まちがえた。まあ、多分、ヤスデか、
+line2 <shift> # ムカデか、そのあたりの、何かだろう」
+display
+com11 0 5
+sound 209
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「な、名前なんて、どうでもいいですっ。
+line2 <shift> # 小屋から、追い出して下さい〜っ！」
+com09 0 49
+display
+location 49
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あれぐらいで、ビビってちゃ、
+line2 <shift> # ライブなんてできないよ？」
+display
+com11 0 5
+sound 210
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そんなこと言ったって、イヤなものは……。
+line2 <shift> # ん？　あ、あれ……」
+display
+com11 0 5
+sound 211
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「なんか、頭の中が、もぞもぞ……。
+line2 <shift> # ま、ま、まさか！？」
+display
+com11 0 5
+sound 212
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ぷ、プロデューサー、はらって！
+line2 <shift> # かかか、髪、は、は、はらって〜っ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「気のせいじゃないか？　ほら……」
+com0e 2 192
+com44
+com09 0 50
+com45
+com44
+com09 0 51
+com45
+com44
+com09 0 52
+com45
+com44
+com09 0 53
+com45
+com44
+com09 0 54
+com45
+com44
+com09 0 55
+com45
+com44
+com09 0 56
+com45
+display
+location 50
+com11 0 5
+sound 213
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はあ〜、あ、ありがとうございました〜。
+line2 <shift> # いなくなった……、みたいです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「とくに、何か落ちた様子はなかったけど。
+line2 <shift> # やっぱり、気のせいだったんじゃないか？」
+display
+com11 0 5
+sound 214
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「え？　あ、へへっ、かもしれないですね。
+line2 <shift> # でも、ほっとしました……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うれしそうに、照れ笑いを浮かべている。
+line2 <shift> # その後、真は元気に、ライブを成功させた！）
+com09 0 69
+display
+location 51
+com11 0 5
+sound 215
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そ、そんな払い方したら、
+line2 <shift> # つ、つ、つぶれて……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか？　もっとていねいに、
+line2 <shift> # やった方が良かったか？」
+display
+com11 0 5
+sound 216
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ボクの髪の中で、きっとプチュッって。
+line2 <shift> # うああああっ！」
+display
+com11 0 5
+sound 217
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサー、か、髪、洗ってきます！
+line2 <shift> # ちょっと、待っててください！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （顔色を変えて、走っていってしまった……。
+line2 <shift> # やり方が、あまりにもザツだったか？）
+com09 0 69
+display
+location 52
+com11 0 5
+sound 218
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「なんで払わないで、手、当ててるんです！？
+line2 <shift> # もっと、パッて！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、本当に虫がいるのかどうか、
+line2 <shift> # 探ってみたんだけど……」
+display
+com11 0 5
+sound 219
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「なんか、余計に、もぞもぞ……。
+line2 <shift> # や、や、やっぱり、いますよ！　絶対に〜」
+display
+com11 0 5
+sound 220
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「この感じは、い、い、１匹じゃないかも！
+line2 <shift> # うああああっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （パニック状態になってしまった。ヘンな触り方
+line2 <shift> # したから、余計、おびえさせてしまったか？）
+com09 0 69
+display
+location 53
+com11 0 5
+sound 235
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「えっ、ええっ！？
+line2 <shift> # ひょ、ひょっとして、目の近くに……！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、別に、そういうわけじゃないんだけど」
+display
+com11 0 5
+sound 236
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「じゃ、じゃあ、なんでそんなところ、
+line2 <shift> # 触るんですか！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そう言われてみると、なんでだろう？
+line2 <shift> # なんとなく、としか言いようがないけどな」
+display
+com11 0 5
+sound 237
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「もうっ！　ワケのわかんないことブツブツ
+line2 <shift> # 言ってないで、早くはらって下さいよーっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （真はパニック寸前だ。もっと別のところ、
+line2 <shift> # 触ってやった方が良かったか……）
+com09 0 69
+display
+location 54
+com11 0 5
+sound 238
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサー？
+line2 <shift> # なんで、ほおなんか、つついて……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「しっかりしろって。髪の中に、
+line2 <shift> # いきなり虫が入るわけないだろ？」
+display
+com11 0 5
+sound 239
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、本当だ。ヘンな感じ、消えてる……。
+line2 <shift> # あ、ありがとうございました！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （やっぱり、気のせいだったみたいだな。
+line2 <shift> # その後、真は元気に、ライブを成功させた！）
+com09 0 69
+display
+location 55
+com11 0 5
+sound 226
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサー、そんなところじゃないです！
+line2 <shift> # 髪、髪、髪の中〜〜〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あああ、ごめん。わかった、わかったから、
+line2 <shift> # 落ち着けって」
+display
+com11 0 5
+sound 227
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うああ、出てって、出てってくれ。
+line2 <shift> # お願いだから、ううう……！」
+display
+com11 0 5
+sound 228
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「いったい、ボクが何をしたって……。
+line2 <shift> # 許して、この通り〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （見えない虫に、わびている。関係ないところ、
+line2 <shift> # 触ってないで、なんとかしてやればよかった）
+com09 0 69
+display
+location 56
+com11 0 5
+sound 229
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサー、なに見てるんです？
+line2 <shift> # は、は、早くっ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうあわてるなって。
+line2 <shift> # 今、見つけ出して、つまみとってやるから」
+display
+com11 0 5
+sound 230
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「パッとやっちゃってくださいよ〜。
+line2 <shift> # そうしないと、ボク、ボク、虫に……」
+display
+com11 0 5
+sound 231
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「や、やめろ、頼む、出てってくれ。い、
+line2 <shift> # 言うこと、なんでも聞くから。うあああっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （見えない虫に、取り引きを持ちかけている。
+line2 <shift> # さっさと、なんとかしてやるべきだったな……）
+com09 0 69
+display
+location 69
+unk02

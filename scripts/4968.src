@@ -1,0 +1,316 @@
+com2c 0 88
+com2d 0 11
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （抜き打ちのミーティングの後、
+line2 <shift> # 社長から、一通のメモが出された）
+display
+com11 0 3
+sound 800
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「例のメモ……。社長指令ですね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。『アイドルたるもの、
+line2 <shift> # さらに美容と健康に留意せよ！』　だって」
+display
+com11 0 3
+sound 801
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「エステサロンなんていきなり来ても……、
+line2 <shift> # どうすればいいのかな？　私、慣れてなくって」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「安心しろ、俺もだ。まあ、春香がエステに
+line2 <shift> # 縁がないのは、ムリもないと思うけどさ」
+display
+com11 0 3
+sound 802
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「えっ？　どうしてですか？」
+com03 0 2
+choice1 <shift> # 化粧いらないからな
+line2
+com09 0 10
+com08
+choice2 <shift> # 自覚がないからな
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「春香は、化粧いらないからなぁ」
+display
+com11 0 3
+sound 803
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「むっ……。どういう意味です？　私だって、
+line2 <shift> # 少しは気を遣うようにしてますよ、最近っ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「むくれるなって。それじゃ台無しだ。
+line2 <shift> # 厚化粧なんかしなくても、じゅうぶんだろう？」
+display
+com11 0 3
+sound 804
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ま、まあ、それはそうかもしれませんけど……、
+line2 <shift> # ナチュラルメイクくらいしますよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ん、そうだったのか？　知らなかったよ」
+display
+com11 0 3
+sound 805
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「プロデューサーさん、気づかないんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「自然すぎてわからなかったよ」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「春香は美容に関しては、
+line2 <shift> # いまいち、自覚がないからなぁ」
+display
+com11 0 3
+sound 806
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ああっ。プロデューサーさん、ひどい！
+line2 <shift> # 無頓着で、すみませんねっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、いやいや、そうじゃなくて！
+line2 <shift> # 無頓着なんじゃなくて、少々うといってこと」
+display
+com11 0 3
+sound 807
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「むうぅ……。私、がさつに見えますか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「むくれないでくれよ。厚化粧なんか、
+line2 <shift> # 春香には必要ないから、って言いたかったんだ」
+display
+com11 0 3
+sound 808
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「もう……。プロデューサーさん、
+line2 <shift> # 言い方次第で、私だって、傷つきますよぉ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ううっ、ゴメンよ」
+com09 0 29
+display
+location 29
+com11 0 3
+sound 809
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「……さて、じゃあ私、社長おすすめの、
+line2 <shift> # エステコースに行ってきます」
+display
+com11 0 3
+sound 810
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ここから先は女性だけなので……。
+line2 <shift> # プロデューサーさん、待っててくださいね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、いってらっしゃい」
+display
+com22 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そして数十分……。春香は、まだ戻ってこない。
+line2 <shift> # こんなに待たせるなんて、何かあったのかな？）
+display
+com21 0 30
+com11 0 3
+sound 811
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あっ、プロデューサーさん……。
+line2 <shift> # ふあぁ……。おはようございますぅ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんだよ、大あくびしちゃって。
+line2 <shift> # それに随分長く、時間がかかったみたいだけど」
+display
+com11 0 3
+sound 812
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あうっ、すみません。あまりにマッサージが、
+line2 <shift> # 気持ちよくて……、つい眠ってしまいましたっ」
+com03 0 3
+choice1 <shift> # ははは、仕方ないなぁ
+line2
+com09 0 30
+com08
+choice2 <shift> # 寝不足か？
+com09 0 31
+com08
+choice3 <shift> # だらしないぞ
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ははは、仕方ないなぁ」
+display
+com11 0 3
+sound 813
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「わ、笑わないでくださいよぉ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、居眠りするくらいリラックスできて、
+line2 <shift> # 気持ちいいなんて……。いいなぁ」
+display
+com11 0 3
+sound 814
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい、最高でした！
+line2 <shift> # なんか、くせになっちゃうかも♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺もエステしてもらいたいな。
+line2 <shift> # そうだ、春香も一緒に、もう１回どうだ？」
+display
+com11 0 3
+sound 815
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ふふふ……。プロデューサーさんったら。
+line2 <shift> # そうですね、お願いしちゃいましょうか♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……というわけで、
+line2 <shift> # 俺もコースを受けてしまった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （春香共々、日頃のストレスも疲れも吹っ飛
+line2 <shift> # び……、心なしか美しくなってしまったかも）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「居眠りしちゃうなんて……。
+line2 <shift> # 春香、もしかして寝不足か？」
+display
+com11 0 3
+sound 816
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「うーん、それも少しあったかも。このところ、
+line2 <shift> # 仕事やレッスンが、つまってたので」
+display
+com11 0 3
+sound 817
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「おかげでぐっすり……。あっ、でも、マッサー
+line2 <shift> # ジのおかげで、だいぶスッキリしましたっ」
+display
+com11 0 3
+sound 818
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「疲れてた肌も、なんとなく、
+line2 <shift> # 元の張りに戻ったみたいだし」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか、よかった。ばっちり眠って、居眠り
+line2 <shift> # 中に美肌にもなって、一石二鳥だな、春香」
+display
+com11 0 3
+sound 819
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ぷ、プロデューサーさんっ。居眠り居眠りって、
+line2 <shift> # あんまりそれを強調しないでくださいよぉ」
+display
+com11 0 3
+sound 820
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ぐぅぐぅ寝ちゃったなんて……。
+line2 <shift> # スタッフのみなさんには、内緒ですよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「はははっ……。しかし、眠れるほどリラックス
+line2 <shift> # できたなら、美容にも効果がありそうだな！」
+display
+com11 0 3
+sound 821
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「だ、だからぁ……、もう。
+line2 <shift> # プロデューサーさんの意地悪ぅ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ちょっとからかいすぎたが……、
+line2 <shift> # 春香は楽しんでくれたようだし、よしとするか）
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ちょっとだらしがないぞ、春香」
+display
+com11 0 3
+sound 822
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ええっ。そ、そうですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ぐぅぐぅ眠っちゃうなんて……。
+line2 <shift> # まぁ、あまりに気持ちよかったんだろうけど」
+display
+com11 0 3
+sound 823
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「わ、私！　ぐぅぐぅ寝てなんかいません！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「軽いいびきが聞こえたそうだぞ。
+line2 <shift> # さっき、お店の人がそう言ってた」
+display
+com11 0 3
+sound 824
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「う、ウソですよ！　そんなのっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「顔に、寝たあと、ついてるぞ？　せっかく、
+line2 <shift> # エステ受けたのに、それじゃあ台無しだ」
+display
+com11 0 3
+sound 825
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ひっどーい！　プロデューサーさん、
+line2 <shift> # 冗談でも限度がっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、いや、ちょっと大げさに言ってるけど、
+line2 <shift> # ほんとに、あとついてるんだってば」
+display
+com11 0 3
+sound 826
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「むうっ！　もう！　知りません……」
+display
+com11 0 3
+sound 827
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「もういいです、寝ます……。
+line2 <shift> # オヤスミナサイ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お、おい、春香！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （春香は、すねてしまったみたいだ。注意するに
+line2 <shift> # しても、もう少し、言い方があったかな……）
+com09 0 49
+display
+location 49
+unk02

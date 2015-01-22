@@ -1,0 +1,312 @@
+com2c 0 18
+com2d 0 33
+com32 0 0
+com11 0 1
+sound 1100
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「プロデューサー、収録終了でーす！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おつかれさま。機材トラブル、続出したのに、
+line2 <shift> # よくめげなかったな」
+display
+com11 0 1
+sound 1101
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「えらいですか！？」
+com03 0 3
+choice1 <shift> # えらい
+com09 0 10
+com08
+choice2 <shift> # えぐい
+com09 0 11
+com08
+choice3 <shift> # えろい
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「えらい」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「えぐい」
+display
+com11 0 1
+sound 1102
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「え、えぐい……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……まちがえた。えらいえらい」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「えろい」
+display
+com11 0 1
+sound 1103
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「え、えろ……、えろいですかっ！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ごめん……、舌が回らなかった。
+line2 <shift> # えらいえらい」
+com09 0 19
+display
+location 19
+com11 0 1
+sound 1104
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「えへへー。私、こういうドタバタは、
+line2 <shift> # 昔から慣れっこだったりして！」
+display
+com11 0 1
+sound 1105
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「弟や妹が、いっぺんに泣き出した時とかー、
+line2 <shift> # あわててられないですから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……やよいは、長女だったっけ？」
+display
+com11 0 1
+sound 1106
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はい。だからいつも、誰かに頼ったり、
+line2 <shift> # できなかったです……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか。まあ、俺には甘えてくれよな。
+line2 <shift> # 年齢的には、兄貴みたいなものだし」
+display
+com11 0 1
+sound 1107
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「プロデューサーが、私の……？　じゃあ、
+line2 <shift> # 一度だけ……、お、お兄ちゃんって呼んでも？」
+com03 0 2
+choice1 <shift> # ああ、いいよ
+line2
+com09 0 20
+com08
+choice2 <shift> # できれば、兄者で
+line2
+com09 0 21
+com08
+com07
+com09 0 21
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、いいよ」
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「できれば、兄者で」
+display
+com11 0 1
+sound 1108
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「えええっ、それって、
+line2 <shift> # なんか忍者っぽくないですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そうか？　じゃあ、
+line2 <shift> # やよいの好きなように、呼んでいいよ」
+com09 0 29
+display
+location 29
+com11 0 1
+sound 1109
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「よ、よーし……。ぉ、お兄ちゃん」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なんだ、やよい？」
+display
+com11 0 1
+sound 1110
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「え、わ……！　私、どうしよ〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「今日は、よくがんばったな。ごほうびに……」
+com0e 0 223
+com44
+com4f 0 2
+com09 0 30
+com45
+com44
+com4f 0 2
+com09 0 31
+com45
+com44
+com09 0 32
+com45
+com44
+com09 0 33
+com45
+com44
+com09 0 34
+com45
+com44
+com09 0 35
+com45
+display
+location 30
+com11 0 1
+sound 1111
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ、あ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いい子いい子……」
+display
+com11 0 1
+sound 1112
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「え、えへへ、ありがと……。お兄ちゃん……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うれしそうに、目を細めてる。なんか、
+line2 <shift> # こうしてると、本当の兄妹みたいな気分だな）
+com09 0 39
+display
+location 31
+com11 0 1
+sound 1126
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あれっ、プロデューサー？
+line2 <shift> # ……じゃなくて、お兄ちゃん？」
+display
+com11 0 1
+sound 1127
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「なんで、ごほうびなのに、ツンってするの？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「こら、もっとがんばらなきゃ、ダメだろ。
+line2 <shift> # ……と、兄貴風を吹かせてみたりして」
+display
+com11 0 1
+sound 1114
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ……、えへへ。
+line2 <shift> # こういうのも、おもしろいですね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うーん、ごほうびと言いつつ、叱ってしまった。
+line2 <shift> # まあ、こんな体育会系の兄妹もありか）
+com09 0 39
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そーら、こちょこちょこちょ〜！」
+display
+com11 0 1
+sound 1128
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うひゃっ？　お、お兄ちゃ、あはははっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうだ、こういうのも楽しいだろ？」
+display
+com11 0 1
+sound 1129
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あははっ。た、楽しいけどっ、
+line2 <shift> # 想像してたのと、ちょっと違うかも〜っ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （笑顔あふれる明るい兄妹関係……、って、
+line2 <shift> # ちょっと意味が違ってるかな？）
+com09 0 39
+display
+location 33
+com11 0 1
+sound 1130
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うう〜、ほ、ほ兄ひゃん〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ほーら、こうやってほっぺた押さえると、しゃ
+line2 <shift> # べりにくいから、声が変になって面白いだろう」
+display
+com11 0 1
+sound 1131
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うう〜。
+line2 <shift> # ひゃ、ひゃんまり、おもひろくないかも〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え？　そ、そうか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （よくこれで、友達と遊んだもんだけどなあ。
+line2 <shift> # 男友達と妹じゃ、やっぱり違うのかな……）
+com09 0 39
+display
+location 34
+com11 0 1
+sound 1120
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「え、あの……、プロデューサー？
+line2 <shift> # じゃなくて、お兄ちゃん？」
+display
+com11 0 1
+sound 1121
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ごほうびって、今のですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。あんまりうれしくなかった？」
+display
+com11 0 1
+sound 1122
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「んー、そんなこともないですけど……、
+line2 <shift> # なんか、よく……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （やり方が中途半端だったかな。もっとうまい
+line2 <shift> # ごほうびのあげ方が、あった気もする……）
+com09 0 39
+display
+location 35
+com11 0 1
+sound 1123
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「え、えっと……、プロデューサー？
+line2 <shift> # じゃなくて、お兄ちゃん？」
+display
+com11 0 1
+sound 1124
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あの〜、ごほうびって……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ごめん。なんかちょっと、
+line2 <shift> # テンション下がっちゃって……」
+display
+com11 0 1
+sound 1125
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「そうですか……。でも、
+line2 <shift> # 呼ばせてもらえただけで、うれしかったです！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （いまひとつ、兄に徹し切れなかったな。
+line2 <shift> # ごめん、やよい……）
+com09 0 39
+display
+location 39
+unk02

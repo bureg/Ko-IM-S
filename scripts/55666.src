@@ -1,0 +1,468 @@
+com2c 0 113
+com2c 0 82
+com2d 0 131
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あれ？　帰りの電車まで、時間があるぞ。たま
+line2 <shift> # には、寄り道して、お茶を飲んで帰ろうかな？）
+com03 0 2
+choice1 <shift> # どこかに寄り道する
+line2
+com09 0 10
+com08
+choice2 <shift> # まっすぐ帰る
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よし、お茶を飲んで帰ろう。
+line2 <shift> # まだ喫茶店、あいているだろうし）
+display
+com22 0 30
+com32 0 1
+com21 0 30
+com11 0 0
+sound 10000
+com4c 0 1
+name 0 0 <names:2>  # ???
+line1 <shift> # 「すぅ……。むにゃ、ついに見つけたの。
+line2 <shift> # おにぎりの木……。大きな森になってる……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あれ？　誰か店内で寝てるぞ。こんな所で寝て
+line2 <shift> # いる上に、食べ物の夢を見ているなんて……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まるで美希みたいな人だなあ。
+line2 <shift> # ……って、美希か！？」
+display
+com11 0 0
+sound 10001
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「くぅ……、あはっ。プロデューサーに、
+line2 <shift> # 一番に見せられて、ミキ、うれしいの……」
+display
+com11 0 0
+sound 10002
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「あ、律子、さん。木を揺さぶってる……。観察
+line2 <shift> # するんだね。律子、さんらしいの。むにゃ……」
+display
+com11 0 0
+sound 10003
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「え、あずさ。一緒に木を育ててくれるの……？
+line2 <shift> # おいしいおにぎり、実らせようね。すぅ……」
+display
+com11 0 0
+sound 10004
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「千早さん、むにゃ……。え、大発見？　ミキを
+line2 <shift> # ほめてくれるの？　あはっ、ミキ、エライ？」
+display
+com11 0 0
+sound 10005
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「すぅ……、皆で、ここへ来られて幸せ。一人は、
+line2 <shift> # 寂しいの。皆に、会いたかった……、よ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （夢の中で、７６５プロの皆と会っているようだ。
+line2 <shift> # 美希、９６１プロで寂しい思いをしてるのか？）
+display
+com11 0 0
+sound 10006
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「くしゅっ！　うう……、ちょっと寒いね。
+line2 <shift> # くぅ……、すぅ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （いい夢を見ているようだけど、こんな所でいつ
+line2 <shift> # までも寝てたら、カゼをひくかもしれない……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （起こしてやった方が、良さそうだな。
+line2 <shift> # なんて声をかけようか……？）
+com03 0 3
+choice1 <shift> # 遅刻するぞ！
+line2
+com09 0 20
+com08
+choice2 <shift> # 起床！
+com09 0 21
+com08
+choice3 <shift> # 起きなさい、美希
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （いや、まっすぐ帰ろう。お茶なら、
+line2 <shift> # 自動販売機ででも、買えばいいんだしな）
+com09 0 99
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「遅刻するぞ！」
+display
+com11 0 0
+sound 10007
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「えっ！　もうそんな時間！？　うう、今度、
+line2 <shift> # 遅刻したら、中学校落第しちゃうの！」
+display
+com11 0 0
+sound 10008
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「……あれ？　プロデューサー？
+line2 <shift> # あの、まだ朝じゃないの？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、まだ朝ではないよ」
+display
+com11 0 0
+sound 10009
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「なーんだ、ビックリした。あふぅ……。
+line2 <shift> # じゃ、おやすみなさいなの……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「コラコラっ！　普通に寝直すな！
+line2 <shift> # こんな所で寝てちゃダメだろ。もう起きなさい」
+display
+com11 0 0
+sound 10010
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「だって、せっかくいい夢みてたのにー！
+line2 <shift> # うう、楽しい夢……、だったな……」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「起床！」
+display
+com11 0 0
+sound 10011
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「はいっ！
+line2 <shift> # 星井美希、ただ今、起床しました！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、一発で起きたな」
+display
+com11 0 0
+sound 10012
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「千早さんと、あずさも起こしてきます！
+line2 <shift> # 律子鬼軍曹殿に、敬礼っ！　……くぅ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ、鬼軍曹？　……美希、まだ寝ぼけてるな。
+line2 <shift> # おーい、起きろ！　起きろって！」
+display
+com11 0 0
+sound 10013
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ううう、やなの！　まだ寝てたいの。
+line2 <shift> # せっかくいい夢、みてたんだもん」
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「起きなさい、美希」
+display
+com11 0 0
+sound 10014
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「うう、お願い、あとちょっと寝かせて、千早
+line2 <shift> # さん。あずさを先に起こせばいいって思うな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「むう、美希のやつ、夢の中でも寝てるのか？
+line2 <shift> # こら、起きろ！　起きろ起きろ起きろーっ！」
+display
+com11 0 0
+sound 10015
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ひゃん！　律子、さんに、見つかっちゃったの。
+line2 <shift> # 逃げなきゃー！　くぅ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「『逃げなきゃ』って言いつつ、寝てるじゃない
+line2 <shift> # か。いいかげんに起きるんだ、美希！」
+display
+com11 0 0
+sound 10016
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「……あふぅ。うう、大声出すからホントに起き
+line2 <shift> # ちゃったの。せっかく楽しい夢、みてたのにな」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「７６５プロの夢か？」
+display
+com11 0 0
+sound 10017
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「うん……。久しぶりに皆と、たくさん話せたん
+line2 <shift> # だけど、夢、だったんだね。残念なの……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「夢にみるくらい皆と会いたいなら、
+line2 <shift> # ７６５プロに戻ってくればいいじゃないか」
+display
+com11 0 0
+sound 10018
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ダメだよ。ミキは、もう９６１プロに、
+line2 <shift> # 移ったんだもん。ゼッタイ、戻れないの」
+display
+com11 0 0
+sound 10019
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「それに、ＩＵのオーディションで、
+line2 <shift> # いつもヒドイことばっかり言ってるし……」
+display
+com11 0 0
+sound 10020
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ミキのこと、心の中では皆、
+line2 <shift> # すっごく怒ってるって思うな」
+display
+com11 0 0
+sound 10021
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「特に、プロデューサーがプロデュース中の、
+line2 <shift> # あの人は……、ね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうかなあ。俺は、そうは思わないぞ。
+line2 <shift> # 彼女は、まだ美希を、友達だと思ってると思う」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「美希も、７６５プロの皆を友達と思ってるなら、
+line2 <shift> # 両思いじゃないか」
+display
+com11 0 0
+sound 10022
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「両思いかあ。それがホントだったら……。
+line2 <shift> # ねえ、プロデューサーも、ミキのこと、好き？」
+com03 0 3
+choice1 <shift> # 好きだよ
+com09 0 30
+com08
+choice2 <shift> # 愛してるよ
+com09 0 31
+com08
+choice3 <shift> # 友達として好きだよ
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「好きだよ」
+display
+com11 0 0
+sound 10023
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ホント！？　それって、
+line2 <shift> # ミキと付き合ってもいいってこと？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いいよ。
+line2 <shift> # いつかミキが、もっと大人になったらね」
+display
+com11 0 0
+sound 10024
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「むー。そんなのズルイの！　……あ。でも、
+line2 <shift> # 大人になったらチャンスあるんだね。あはっ☆」
+display
+com11 0 0
+sound 10025
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ん？　ってことは、大人になるまで、
+line2 <shift> # プロデューサーの近くにいた方がいいから……」
+display
+com11 0 0
+sound 10026
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ミキ、７６５プロに戻った方が、
+line2 <shift> # いいのかなあ？」
+com09 0 39
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「愛してるよ、美希」
+display
+com11 0 0
+sound 10027
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「え、いきなり！？　結婚は、まだ早いって思っ
+line2 <shift> # てたけど……、プロデューサーとなら、いいよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ！　結婚！？
+line2 <shift> # なんで突然、そういうことになるんだ？」
+display
+com11 0 0
+sound 10028
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「だって、ミキのこと愛してるんでしょ？
+line2 <shift> # じゃあ、結婚するしかないってカンジ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いやいや、だって美希はまだ、
+line2 <shift> # 結婚できる年齢じゃないだろ？」
+display
+com11 0 0
+sound 10029
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「むー。そうなの？　じゃあミキ、結婚できる年
+line2 <shift> # になるまでプロデューサーのそばで、待ってる」
+display
+com11 0 0
+sound 10030
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「……あれ？　それって、ミキが７６５プロに、
+line2 <shift> # 戻るってことになるのかな？」
+com09 0 39
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「友達として好きだよ、美希」
+display
+com11 0 0
+sound 10031
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「……そう言うと思ったの。ミキも、告ってくる
+line2 <shift> # 男の子かわす時に、よく、そう言うから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「へえ。美希は、
+line2 <shift> # よく男の子に告白されるのか？」
+display
+com11 0 0
+sound 10032
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「うん。大体、毎日、告白されるの」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ま、毎日！？　モテモテだな」
+display
+com11 0 0
+sound 10033
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「アイドルデビューする前から、多かったけど、
+line2 <shift> # 最近、どんどん増えてきちゃって、困ってるの」
+display
+com11 0 0
+sound 10034
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「今思うと、７６５プロにいた頃は、
+line2 <shift> # まだマシだったな。あの頃に戻りたい……」
+com09 0 39
+display
+location 39
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （おおっ！　こ、これは……。美希の７６５プロ
+line2 <shift> # 離脱問題、これで解決かっ！？）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうだよ、美希。そう思うなら、
+line2 <shift> # ７６５プロに戻ってくればいいじゃないか」
+display
+com11 0 0
+sound 10035
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「あ、でも、７６５プロには、ミキとゼッタイ
+line2 <shift> # 両思いじゃない人もいるんだった。忘れてたの」
+display
+com11 0 0
+sound 10036
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「裏切り者がいる所には、帰れない……。ううん、
+line2 <shift> # やっぱ裏切り者の７６５プロにいる人は……」
+display
+com11 0 0
+sound 10037
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「皆、ミキの敵なの！　プロデューサー以外は」
+display
+com11 0 0
+sound 10038
+com4c 0 1
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「だから、７６５プロでは幸せになれそうにない
+line2 <shift> # し、帰れないの。ごめんね、プロデューサー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、美希っ！　……くっ。やっぱり、
+line2 <shift> # そう簡単に、問題解決とはいかないか」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、裏切り者って何のことだ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （社長との間であったトラブルに、
+line2 <shift> # 何か関係があるのかな？）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （美希って、悪い子じゃないと思うんだけど、
+line2 <shift> # 色々とナゾが多い……）
+com09 0 99
+display
+location 99
+unk02

@@ -1,0 +1,182 @@
+com2c 0 24
+com2d 0 131
+com2e 0 21
+location 100
+com11 0 0
+sound 10000
+com4c 0 1
+name 0 0 <names:1>  # ???
+line1 <shift> # 「よくないわよっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「えっ？　その声は……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「伊織！」
+display
+com11 0 0
+sound 10001
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「あ、でこちゃん」
+display
+com11 0 0
+sound 10002
+com4c 0 1
+name 0 0 <names:4>  # Iori
+line1 <shift> # 「でこちゃんって言うなー！
+line2 <shift> # だいたいアンタ、なにしてんのよ！」
+display
+com11 0 0
+sound 10003
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「なにって、いっしょに帰ってるんだよ」
+display
+com11 0 0
+sound 10004
+com4c 0 1
+name 0 0 <names:4>  # Iori
+line1 <shift> # 「だ・か・ら、どーしてこいつと、
+line2 <shift> # いっしょなのよ！」
+com03 0 3
+choice1 <shift> # 社長から頼まれたんだ
+line2
+com09 0 10
+com08
+choice2 <shift> # 実は、俺達……
+line2
+com09 0 11
+com08
+choice3 <shift> # そうだ、なんでなんだ！？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あのなあ、伊織。
+line2 <shift> # これは、社長から頼まれて……」
+display
+com11 0 0
+sound 10005
+com4c 0 1
+name 0 0 <names:4>  # Iori
+line1 <shift> # 「アンタは黙ってて！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「はい……」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「実はな、伊織。俺達……」
+display
+com11 0 0
+sound 10006
+com4c 0 1
+name 0 0 <names:4>  # Iori
+line1 <shift> # 「えっ！？　ちょ、ちょっと待ちなさいよ、
+line2 <shift> # それって……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いっしょに帰っていただけなんだ。な、美希」
+display
+com11 0 0
+sound 10007
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「うん」
+display
+com11 0 0
+sound 10008
+com4c 0 1
+name 0 0 <names:4>  # Iori
+line1 <shift> # 「ま、ま、ま……、紛らわしい言い方、
+line2 <shift> # してるんじゃないわよーっ！」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだ、なんでなんだ、美希！？」
+display
+com11 0 0
+sound 10009
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ええっ！？　社長が、いっしょに帰れって、
+line2 <shift> # 言ったんだよ。ミキのせいじゃないもん」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、ああ。そうだった」
+display
+com11 0 0
+sound 10010
+com4c 0 1
+name 0 0 <names:4>  # Iori
+line1 <shift> # 「あのねえ、アンタは黙ってて！
+line2 <shift> # 話が、ややこしくなるでしょー！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「はい……」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10011
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「でこちゃん、なんかエラそう」
+display
+com11 0 0
+sound 10012
+com4c 0 1
+name 0 0 <names:4>  # Iori
+line1 <shift> # 「エラそうじゃなくて、エラいの！」
+display
+com11 0 0
+sound 10013
+com4c 0 1
+name 0 0 <names:4>  # Iori
+line1 <shift> # 「プロデューサー！　アンタもアンタよ！」
+display
+com11 0 0
+sound 10014
+com4c 0 1
+name 0 0 <names:4>  # Iori
+line1 <shift> # 「私は送っていかないくせに、こいつは、
+line2 <shift> # 送ってくワケ！？」
+display
+com11 0 0
+sound 10015
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ミキ、こいつじゃないもん、ミキだもん」
+display
+com11 0 0
+sound 10016
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「それに、プロデューサーは、
+line2 <shift> # でこちゃんのものじゃないでしょ？」
+display
+com11 0 0
+sound 10017
+com4c 0 1
+name 0 0 <names:4>  # Iori
+line1 <shift> # 「だから、でこちゃん言うなーっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （結局、怒りまくる伊織とすねる美希をなだめて、
+line2 <shift> # なんとか駅まで送り届けた）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （まったくもって、さんざんな一日の、
+line2 <shift> # 終わりだった……）
+com09 0 99
+display
+location 99
+unk02

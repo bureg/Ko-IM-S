@@ -1,0 +1,322 @@
+com2c 0 39
+com2d 0 91
+com2e 0 101
+com32 0 0
+com11 0 4
+sound 700
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「これから、写真集用の水着撮影なの？　わ〜、
+line2 <shift> # 亜美たちも、せくし〜アイドルの仲間入りだね」
+display
+com11 0 4
+sound 701
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「んっふっふ〜、のーさつ美女軍団、
+line2 <shift> # 温泉ブラリ旅、エキサイト中継ーって感じ？」
+com03 0 3
+choice1 <shift> # まあ、軍団は軍団か
+line2
+com09 0 10
+com08
+choice2 <shift> # 温泉は、関係ないだろ？
+line2
+com09 0 11
+com08
+choice3 <shift> # ……意味不明だよ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「まあ、軍団は軍団か」
+display
+com11 0 4
+sound 702
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「亜美と二人で決めれば、
+line2 <shift> # ファンはみんな、ハアハアかもっ」
+display
+com11 0 4
+sound 703
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「んじゃ、着替えてくるね。
+line2 <shift> # どんな水着なんだろ〜、楽しみ〜っ！」
+com09 0 29
+display
+location 11
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「温泉は、関係ないだろ？」
+display
+com11 0 4
+sound 704
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「う〜、細かいこと、言わないでよ〜。
+line2 <shift> # 兄ちゃん、揚げ物取りなんだから〜」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「揚げ物じゃなくて、揚げ足じゃ……。
+line2 <shift> # まあ、いいや、ほら、着替えてきて」
+com09 0 91
+display
+location 12
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「……意味不明だよ」
+display
+com11 0 4
+sound 705
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「意味なんて、はじめから、ないもん……。
+line2 <shift> # 楽しそうなら、いいでしょ〜？」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「ま、まあ、好きでいいけどな……。
+line2 <shift> # ほら、じゃあ、着替えてきて」
+com09 0 91
+display
+location 91
+com11 0 4
+sound 706
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「真美、いこ！
+line2 <shift> # どんな水着なんだろ〜、楽しみ〜っ！」
+com09 0 29
+display
+location 29
+com22 0 30
+com21 0 30
+com11 0 4
+sound 707
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「兄ちゃ〜ん、この水着、かわいいけど……どう
+line2 <shift> # して亜美のと、真美の、同じデザインなの〜？」
+display
+com11 0 4
+sound 708
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「そーだよそーだよー、手抜きだよ〜。真美のは、
+line2 <shift> # 別のにしてくれれば、よかったのに……」
+com03 0 3
+choice1 <shift> # 似合う水着は、同じだろ？
+com09 0 30
+line2
+com34 0 1
+com08
+choice2 <shift> # 経費節減に、協力してくれよ
+line2
+com09 0 31
+com08
+choice3 <shift> # そんなことは、ない！
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「似合う水着は、同じだろ？」
+display
+com11 0 4
+sound 709
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「あ、それも、そっか。選ぶ手間、はぶいた
+line2 <shift> # わけじゃ、なかったんだね」
+display
+com11 0 4
+sound 710
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「なら、これでいいや。うたがって、ごめんね。
+line2 <shift> # 兄ちゃん！」
+com09 0 49
+display
+location 31
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「経費削減に、協力してくれよ」
+display
+com11 0 4
+sound 711
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「どっちかを、高いのにしてほしかったワケじゃ
+line2 <shift> # ないよ？　違う柄のに、してほしかっただけで」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「で、でも、似合うやつを２種類探すのも、
+line2 <shift> # けっこう手間かかるから……」
+display
+com11 0 4
+sound 712
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ちがうのだったら、途中で取り替えっこして、
+line2 <shift> # ２倍遊べたのに……。真美、残念〜」
+com09 0 49
+display
+location 32
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「そんなことは、ない！　だ、断じて、
+line2 <shift> # 手抜きなんかじゃ……！」
+display
+com11 0 4
+sound 713
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「あ〜、ムキになってるー。あやしい、あやしい、
+line2 <shift> # あやしい〜！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「ほ、本当に違うって！　信じてくれよっ！」
+display
+com11 0 4
+sound 714
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「別々のにしてくれたら、途中で取り替えっこ、
+line2 <shift> # できたのに……。真美、残念〜」
+com09 0 49
+display
+location 49
+com11 0 4
+sound 715
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「そんで、撮影って、どこでするの？
+line2 <shift> # プール〜？　それとも、海〜？」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「いや、このスタジオで、撮るだけだよ。写真集
+line2 <shift> # っていっても、本格的なものじゃないし……」
+display
+com11 0 4
+sound 716
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ええええ、そんなの、つまらないよ〜。
+line2 <shift> # せっかくだから、泳げるとこ、いこ〜」
+display
+com11 0 4
+sound 717
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「そうだよ〜。こんなところじゃ、楽しそうな顔、
+line2 <shift> # できないも〜んっ。ぷ〜る、ぷ〜る♪」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「まったく、つぎからつぎへと……。
+line2 <shift> # ここで、ガマンしてくれって」
+com03 0 3
+choice1 <shift> # おやつ、買ってあげるから
+com09 0 50
+line2
+com34 0 2
+com08
+choice2 <shift> # ロケ用の機材、用意してないから
+com09 0 51
+line2
+com34 0 1
+com08
+choice3 <shift> # 『弘法、筆を選ばず』だぞ
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「おやつ、買ってあげるから」
+display
+com11 0 4
+sound 718
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ほんと〜！　じゃ、ガマンするー！　亜美ねー、
+line2 <shift> # アイス２個入りのクレープ！」
+display
+com11 0 4
+sound 719
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「真美はね〜、とろとろプリン〜！　約束だよ、
+line2 <shift> # 兄ちゃん！　んじゃ、撮影がんばろ〜！」
+display <shift> # （食べ物ひとつで、ここまで、態度が変わる
+line2 <shift> # とは……。ま、なんにせよ、よかったな）
+com09 0 69
+display
+location 51
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「ロケ用の機材、用意してないから」
+display
+com11 0 4
+sound 720
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「なくても大丈夫だよっ！　だって、写真は
+line2 <shift> # カメラがあれば、撮れるでしょ？」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「仕事用の写真は、そういうわけにはいかないよ。
+line2 <shift> # 亜美たちだって、いい写真集にしたいだろ？」
+display
+com11 0 4
+sound 721
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ん〜、まあ、それは……。じゃあ、しかたない
+line2 <shift> # ね。亜美、今日はここでガマンしよ……」
+display <shift> # （渋々ながら、うなずいてくれた。テンションが、
+line2 <shift> # やや落ち気味なのは……まあ、しょうがないか）
+com09 0 69
+display
+location 52
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「『弘法、筆を選ばず』だぞ。いいモデルは、
+line2 <shift> # 場所なんか、選んだりしないんだ」
+display
+com11 0 4
+sound 722
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「こーぼーって、なに？？？　なんで写真と筆が、
+line2 <shift> # 関係あるの？」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「う……こんな言葉、知らないか。つまり、
+line2 <shift> # 弘法ってのは、昔のえらいお坊さんで……」
+display
+com11 0 4
+sound 723
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「真美、お坊さんじゃないよ？　それに筆なんて、
+line2 <shift> # 使わないよ。字書く時は、だいたいメールだし」
+display
+com11 0 4
+sound 724
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「兄ちゃん、もしかして、まだ手紙とか、
+line2 <shift> # 手書きなの？　メールにした方がいいよ〜」
+display <shift> # （まったく、会話にならない……。その後、
+line2 <shift> # 説明するため、かなりのムダな時間を費やした）
+com09 0 69
+display
+location 69
+unk02

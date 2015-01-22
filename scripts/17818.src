@@ -1,0 +1,334 @@
+com2c 0 193
+com32 0 0
+com2d 0 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ロケの合間のオフ時間を利用して、
+line2 <shift> # ウィンターリゾートにやってきた）
+display
+com11 0 0
+sound 400
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「すごい！　見渡す限り、
+line2 <shift> # 雪がいっぱいです！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ははは……。ここは一年中、
+line2 <shift> # 雪がある山らしいぞ」
+display
+com11 0 0
+sound 401
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そうなんですかー。あ、向こうに、
+line2 <shift> # なにか動物がいますよ！　なんだろ？」
+display
+com11 0 0
+sound 402
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「猿かな？　シカかな？
+line2 <shift> # 寒い中でも、動物達は元気ですね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やよいだって、負けずに元気一杯だな。
+line2 <shift> # いいことだ」
+display
+com11 0 0
+sound 403
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「わっ、そうですか？」
+com03 0 3
+choice1 <shift> # そりゃもう犬のように
+line2
+com09 0 10
+com08
+choice2 <shift> # そりゃもう猫のように
+line2
+com09 0 11
+com08
+choice3 <shift> # そりゃもうクマのように
+line2
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そりゃもう、犬のように元気だ」
+display
+com11 0 0
+sound 404
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はい！　雪なんて、なんのその！
+line2 <shift> # 私、かけまわりますよ！」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そりゃもう、猫のように元気だ」
+display
+com11 0 0
+sound 405
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「猫は、寒いのは、苦手のような……？」
+display
+com11 0 0
+sound 406
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「雪降ると、ちぢこまって、
+line2 <shift> # 丸くなっちゃいますよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうか。でも、雪がやめば元気だろう」
+display
+com11 0 0
+sound 407
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うーん、ちょっと納得いかないです……。
+line2 <shift> # それに私、雪、苦手じゃないですよ」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そりゃもう、クマのように元気だ」
+display
+com11 0 0
+sound 408
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「がおーっ！　……ってそれ、
+line2 <shift> # どういう意味ですかー？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「迫力満点、ってとこかな……」
+display
+com11 0 0
+sound 409
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「私、クマみたいに大迫力じゃないですよ……。
+line2 <shift> # それにクマって、寒いと冬眠しちゃいます」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「冬眠前は、元気にサケを食べたりするぞ」
+display
+com11 0 0
+sound 410
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うーん、なんとなく、納得いかないです……」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 411
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あ、あっちにスキーのゲレンデがありますっ。
+line2 <shift> # なんだかずいぶん、にぎやかですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どれどれ……。なるほど。
+line2 <shift> # 思ったより、人がいるんだな。それに……」
+display
+com11 0 0
+sound 412
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「雪がキラキラしてみえます！
+line2 <shift> # 楽しそうですねっ」
+com03 0 2
+choice1 <shift> # そうだな！
+com09 0 20
+com08
+choice2 <shift> # 少しにぎやかすぎるな
+line2
+com09 0 21
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだな！　にぎやかでいい感じだ。
+line2 <shift> # あとでスキーしに、行ってみようか」
+display
+com11 0 0
+sound 413
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ほんとですか！？
+line2 <shift> # うっう〜、なんだか、わくわくしてきますね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、あのゲレンデで思い切り滑ろう！
+line2 <shift> # ……お、クリスマスソングまで流れてるぞ！」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「少しにぎやかすぎるかな」
+display
+com11 0 0
+sound 414
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えっ？　にぎやか、すぎる？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、音がさ。みんなが楽しんでる様子は、
+line2 <shift> # いいんだけど……」
+display
+com11 0 0
+sound 415
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あ、わかりました。ゲレンデに放送で、
+line2 <shift> # クリスマスソングが流れてるんですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうなんだ。山に響いて、歌が、
+line2 <shift> # ぐわんぐわん鳴ってるだろう」
+display
+com11 0 0
+sound 416
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あはは、確かにちょっと、
+line2 <shift> # 耳が痛い感じが、するかも」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そういや、やよいのクリスマスの予定は？」
+display
+com11 0 0
+sound 417
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あ、家で。家族みんなで、パーティーです」
+display
+com11 0 0
+sound 418
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「やっぱり、クリスマスとかお正月くらいは、
+line2 <shift> # 家族みんなで、ゆっくり過ごしたいですよね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やよいの家のパーティーか……」
+display
+com11 0 0
+sound 419
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はい、パーティー！　たまには、ぱーっと！」
+com03 0 2
+choice1 <shift> # きっと、豪華だろうな
+line2
+com09 0 30
+com08
+choice2 <shift> # きっと、質素だろうな
+line2
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「きっと、豪華だろうな」
+display
+com11 0 0
+sound 420
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はい！　こういう時は、我が家なりに、
+line2 <shift> # ここぞと奮発して！」
+display
+com11 0 0
+sound 421
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「それに、いろいろ手作りで、飾りをつけたり、
+line2 <shift> # お料理したり、手をかけて……」
+display
+com11 0 0
+sound 422
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「普通に言う『豪華〜っ！』ってのとは、
+line2 <shift> # うちのは、違うのかもしれないけど……」
+display
+com11 0 0
+sound 423
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「でも、絶対ぜったい、楽しいです！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか。家族みんなで作るパーティーか……。
+line2 <shift> # なんだか、楽しそうな光景が目に浮かぶよ」
+display
+com11 0 0
+sound 424
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そうだ、プロデューサーもパーティー、
+line2 <shift> # 来てみますか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え、俺が？　いいのかな、一家の団らんに、
+line2 <shift> # おジャマしちゃっても」
+display
+com11 0 0
+sound 425
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「大丈夫かどうか、私、相談してみます。
+line2 <shift> # でも、きっと、みんな歓迎しますよ〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ははは……。じゃ、期待しちゃうよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ほんとに行けるかどうかは、わからないけど、
+line2 <shift> # やよいの家でのパーティーか……。楽しみだな）
+com09 0 39
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「きっと、質素だろうな」
+display
+com11 0 0
+sound 426
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「う、う〜ん……。そうですね。
+line2 <shift> # あんまりごーじゃすには、できないですね」
+display
+com11 0 0
+sound 427
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「でも、そんなに豪華じゃなくっても。
+line2 <shift> # できる範囲でいいんです」
+display
+com11 0 0
+sound 428
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「家族みんなでそろって、ゆっくりして。
+line2 <shift> # それだけで、いいんです」
+display
+com11 0 0
+sound 429
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「いつも忙しいお父さんお母さんにも、
+line2 <shift> # ゆっくりしてもらって……」
+display
+com11 0 0
+sound 430
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「弟や妹達と一緒に、簡単にでも、飾りつけを、
+line2 <shift> # してみたり、お料理作ってみたり……」
+display
+com11 0 0
+sound 431
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「年末年始くらい、みんなで楽しく！
+line2 <shift> # 過ごしたいですから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか。無理せず、
+line2 <shift> # 楽しく年が越せるといいな」
+display
+com11 0 0
+sound 432
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はい！　そのためにも私、
+line2 <shift> # また、お仕事も、がんばらなきゃ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （たぶん、つつましくも、
+line2 <shift> # いいクリスマスパーティーなんだろうな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （家族思いのやよいを、俺が、
+line2 <shift> # しっかり応援してやらなきゃいけないな……）
+com09 0 39
+display
+location 39
+unk02

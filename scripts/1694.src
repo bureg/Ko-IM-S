@@ -1,0 +1,780 @@
+com2d 0 11
+com2e 0 21
+com2f 0 41
+location 100
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いよいよ、俺が新しいアイドルをプロデュース
+line2 <shift> # する日がやって来た……。緊張するなあ」
+display
+location 200
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ。え、え〜と、キミー……」
+com03 0 3
+choice1 <shift> # キミは誰だい？
+line2
+com09 0 201
+com08
+choice2 <shift> # 怪しいヤツ！　警察を呼ぶぞ
+line2
+com09 0 202
+com08
+choice3 <shift> # 運命の出会いを信じてる？
+line2
+com09 0 203
+com08
+com07
+com09 0 203
+com08
+display
+location 201
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「キミは誰だい？」
+com09 1 42
+display
+location 202
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「怪しいヤツ！　警察を呼ぶぞ」
+com09 1 42
+display
+location 203
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「運命の出会いを信じてる？」
+com09 1 42
+display
+location 210
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ。え、え〜と、キミ達……」
+com03 0 3
+choice1 <shift> # なにしてるんだい？
+line2
+com09 0 211
+com08
+choice2 <shift> # 勝手に入ってきちゃダメだよ
+line2
+com09 0 212
+com08
+choice3 <shift> # そっくりだね
+line2
+com09 0 213
+com08
+com07
+com09 0 213
+com08
+display
+location 211
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なにしてるんだい？　こんな所で……」
+com09 1 43
+display
+location 212
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「こらこら。勝手に入ってきちゃダメだよ！」
+com09 1 43
+display
+location 213
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そっくりだね。もしかして、双子とか？」
+com09 1 43
+display
+location 220
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ。え、え〜と、キミー……」
+com03 0 3
+choice1 <shift> # この事務所の子？
+line2
+com09 0 221
+com08
+choice2 <shift> # 一緒にお茶でも……
+line2
+com09 0 222
+com08
+choice3 <shift> # 君には才能を感じる
+line2
+com09 0 223
+com08
+com07
+com09 0 203
+com08
+display
+location 221
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「この事務所の子？」
+com09 1 42
+display
+location 222
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「一緒にお茶でも……。って、会ったばかりの子
+line2 <shift> # に、いきなりなにを言ってるんだ、俺は！？」
+com09 1 42
+display
+location 223
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「君には才能を感じる！」
+com09 1 42
+display
+location 298
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今の女の子は、一体……？）
+com09 0 101
+display
+location 299
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今の女の子達は、一体……？）
+com09 0 101
+display
+location 101
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （もしかして、俺、夢でも見ていたのかな？）
+display
+com11 0 0
+sound 10000
+name 0 7 <names:2>  # Kotori
+line1 <shift> # 「あれ？　えーと、あなたは……。
+line2 <shift> # どちら様でしょうか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ。す、すみません！
+line2 <shift> # えーと、その、俺は……」
+display
+com11 0 0
+sound 10001
+name 0 7 <names:2>  # Kotori
+line1 <shift> # 「ああ、あなたが、今日から７６５プロで、
+line2 <shift> # 働いて下さる人ですね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「は、はい！　よろしくお願いします！」
+display
+com11 0 0
+sound 10002
+name 0 7 <names:2>  # Kotori
+line1 <shift> # 「ふふ。そんなに、かしこまらないで下さい」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、あの、ところで、
+line2 <shift> # 今、そこに、女の子が……」
+display
+com11 0 0
+sound 10003
+name 0 7 <names:2>  # Kotori
+line1 <shift> # 「女の子？　誰かしら？
+line2 <shift> # 多分、事務所の誰かだとは思うけど……」
+display
+com11 0 0
+sound 10004
+name 0 7 <names:2>  # Kotori
+line1 <shift> # 「うふふ、もしかしたら、
+line2 <shift> # 運命の相手だったりして！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （運命の……）
+display
+com11 0 0
+sound 10005
+name 0 7 <names:2>  # Kotori
+line1 <shift> # 「あ、そういえば、
+line2 <shift> # まだ自己紹介をしてなかったわ！」
+display
+com11 0 0
+sound 10006
+name 0 7 <names:2>  # Kotori
+line1 <shift> # 「あの、あたし、いえ、私、７６５プロで、
+line2 <shift> # 事務などをしております、音無小鳥と申します」
+display
+com4a 0 0
+com11 0 0
+sound 10007
+name 0 7 <names:2>  # Kotori
+line1 <shift> # 「社長が、あちらでお待ちです！　どうぞ♪」
+display
+location 102
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おはようございます！」
+display
+com11 0 0
+sound 10008
+name 0 2 <names:3>  # President
+line1 <shift> # 「よく来てくれた！　私が、
+line2 <shift> # このプロダクションの社長、『高木』だ」
+display
+com11 0 0
+sound 10009
+name 0 2 <names:3>  # President
+line1 <shift> # 「君の仕事は、わが社に所属するアイドル候補生
+line2 <shift> # 達を、プロデュースすることだ」
+display
+com11 0 0
+sound 10010
+name 0 2 <names:3>  # President
+line1 <shift> # 「目的は、彼女達を、芸能界のトップへと導く
+line2 <shift> # こと。道は厳しいと思うが、頑張ってくれ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「はい！　がんばります！」
+display
+com11 0 0
+sound 10011
+name 0 2 <names:3>  # President
+line1 <shift> # 「ではまず、現在プロデュースを待っているアイ
+line2 <shift> # ドル候補生３人の中から１人を選んでもらおう」
+display
+com11 0 0
+sound 10012
+name 0 2 <names:3>  # President
+line1 <shift> # 「その子とトップを目指し、二人三脚で頑張って
+line2 <shift> # もらうことになるから、慎重に選びたまえよ」
+display
+com11 0 0
+sound 10013
+name 0 2 <names:3>  # President
+line1 <shift> # 「なお、１人選べば、他の子はライバルとなる。
+line2 <shift> # もちろん同じ７６５プロの仲間ではあるが……」
+display
+com11 0 0
+sound 10014
+name 0 2 <names:3>  # President
+line1 <shift> # 「アイドルの頂点に立つのは、あくまで
+line2 <shift> # たった１人だからね。厳しい世界なのだよ……」
+display
+com11 0 0
+sound 10015
+name 0 2 <names:3>  # President
+line1 <shift> # 「あ、それと、トップアイドルを育てあげるには、
+line2 <shift> # 君自身の経験や力量も、とても重要だぞ」
+display
+com11 0 0
+sound 10016
+name 0 2 <names:3>  # President
+line1 <shift> # 「プロデューサーとしてのランクを上げることが、
+line2 <shift> # トップへの近道でもある。腕をみがきたまえよ」
+display
+com4a 0 0
+com11 0 0
+sound 10017
+name 0 2 <names:3>  # President
+line1 <shift> # 「では、君の大切なパートナーとなる、
+line2 <shift> # アイドル候補生を選びたまえ」
+display
+location 300
+com11 0 0
+sound 10018
+name 0 2 <names:3>  # President
+line1 <shift> # 「お、天海春香君を選んだか」
+display
+com11 0 0
+sound 10019
+name 0 2 <names:3>  # President
+line1 <shift> # 「あの子は……、まあ、普通の子だから、
+line2 <shift> # 君でも、さほど苦労することはないだろう」
+display
+com11 0 0
+sound 10020
+name 0 2 <names:3>  # President
+line1 <shift> # 「天海君は、どうやら近くの公園に行ったようだ。
+line2 <shift> # 早速、迎えにいき、活動を開始してくれたまえ」
+display
+com4a 0 3
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「はい！」
+display
+location 301
+com11 0 0
+sound 10021
+name 0 2 <names:3>  # President
+line1 <shift> # 「なんと、水瀬伊織君を選んだか！
+line2 <shift> # 君は度胸がある……、というか、命知らずだな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「は？」
+display
+com11 0 0
+sound 10022
+name 0 2 <names:3>  # President
+line1 <shift> # 「まあ、余計なお世話か。あのジャジャ……、
+line2 <shift> # じゃなくて、水瀬君は、休けい室にいるはずだ」
+display
+com11 0 0
+sound 10023
+name 0 2 <names:3>  # President
+line1 <shift> # 「早速、迎えにいって、
+line2 <shift> # 活動を開始してくれたまえ」
+display
+com4a 0 3
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「はい！」
+display
+location 302
+com11 0 0
+sound 10024
+name 0 2 <names:3>  # President
+line1 <shift> # 「ほう、高槻やよい君を選んだか。あの子は、
+line2 <shift> # とても元気で、すばらしいガッツの持ち主だ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうですか。
+line2 <shift> # それで……、その子は今、どこに？」
+display
+com11 0 0
+sound 10025
+name 0 2 <names:3>  # President
+line1 <shift> # 「じ、実は事務所前の掃除をしてもらっている
+line2 <shift> # ところだ。うちも、人手が足りなくてな……」
+display
+com11 0 0
+sound 10026
+name 0 2 <names:3>  # President
+line1 <shift> # 「早速、迎えにいって、活動を開始してくれた
+line2 <shift> # まえ。もちろん、掃除は切り上げて結構だから」
+display
+com4a 0 3
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「はい、わかりました！
+line2 <shift> # 会って、そう伝えます」
+display
+location 303
+com11 0 0
+sound 10027
+name 0 2 <names:3>  # President
+line1 <shift> # 「三浦あずさ君を選んだか。彼女は、今日、
+line2 <shift> # まだ事務所に来ていなくてな。困ったものだ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「はあ……？　なにか、あったんですか？」
+display
+com11 0 0
+sound 10028
+name 0 2 <names:3>  # President
+line1 <shift> # 「迷子になったという連絡があってな。三浦君は、
+line2 <shift> # うちでは１番年上なのだが、抜けてるというか」
+display
+com11 0 0
+sound 10029
+name 0 2 <names:3>  # President
+line1 <shift> # 「近くの繁華街までは、きているはずだ。悪いが、
+line2 <shift> # 迎えにいって、早速活動を開始してくれたまえ」
+display
+com4a 0 3
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「はい！」
+display
+location 304
+com11 0 0
+sound 10030
+name 0 2 <names:3>  # President
+line1 <shift> # 「お、如月千早君を選んだか。目が高いな。
+line2 <shift> # 彼女は、うちでも飛び抜けた才能の持ち主だよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうですか。
+line2 <shift> # それで……、その子は今、どこに？」
+display
+com11 0 0
+sound 10031
+name 0 2 <names:3>  # President
+line1 <shift> # 「ここの向かいの部屋で、ひとり音楽をきいてい
+line2 <shift> # るはずだ。集中するために、部屋を暗くしてな」
+display
+com11 0 0
+sound 10032
+name 0 2 <names:3>  # President
+line1 <shift> # 「では、早速、迎えにいって、
+line2 <shift> # 活動を開始してくれたまえ」
+display
+com4a 0 3
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「はい！」
+display
+location 305
+com11 0 0
+sound 10033
+name 0 2 <names:3>  # President
+line1 <shift> # 「お、萩原雪歩君を選んだか。あの子は、すこし
+line2 <shift> # 臆病な子だから、しっかりと支えてやってくれ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「オクビョウ、ですか。わかりました。
+line2 <shift> # で、その萩原雪歩は、今どこに？」
+display
+com11 0 0
+sound 10034
+name 0 2 <names:3>  # President
+line1 <shift> # 「それが、先ほど、買い物を頼んだのだが、
+line2 <shift> # まだ帰ってきていなくてな……」
+display
+com11 0 0
+sound 10035
+name 0 2 <names:3>  # President
+line1 <shift> # 「途中で、なにかあったのかもしれん。すまんが、
+line2 <shift> # 迎えにいき、早速、活動を開始してくれたまえ」
+display
+com4a 0 3
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「はい！」
+display
+location 306
+com11 0 0
+sound 10036
+name 0 2 <names:3>  # President
+line1 <shift> # 「お、秋月律子君を選んだか。彼女は頭脳明晰で、
+line2 <shift> # うちでは、１番頭の切れる、才女だよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうですか。それで、その子は、今どこに？」
+display
+com11 0 0
+sound 10037
+name 0 2 <names:3>  # President
+line1 <shift> # 「会議室にいる。事務所の書類を、
+line2 <shift> # チェックしてもらっているところでな」
+display
+com11 0 0
+sound 10038
+name 0 2 <names:3>  # President
+line1 <shift> # 「早速、迎えにいき、活動を開始してくれ。もち
+line2 <shift> # ろん、今やっている作業は、中止して結構だ」
+display
+com4a 0 3
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わかりました。会って、そう伝えます。
+line2 <shift> # ……では！」
+display
+location 307
+com11 0 0
+sound 10039
+name 0 2 <names:3>  # President
+line1 <shift> # 「お、菊地真君を選んだか。彼は、
+line2 <shift> # りりしさＮｏ．１の、うちでも期待の逸材だよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「彼？　菊地真って、男なんですか？」
+display
+com11 0 0
+sound 10040
+name 0 2 <names:3>  # President
+line1 <shift> # 「あ、まちがえた。彼女、だった……。容姿が、
+line2 <shift> # 男っぽいので、いつも錯覚してしまってな」
+display
+com11 0 0
+sound 10041
+name 0 2 <names:3>  # President
+line1 <shift> # 「菊地君は、今、近くのスポーツジムにいるはず
+line2 <shift> # だ。迎えにいき、活動を開始してくれたまえ」
+display
+com4a 0 3
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「はい！」
+display
+location 308
+com11 0 0
+sound 10042
+name 0 2 <names:3>  # President
+line1 <shift> # 「ほう、双海亜美・真美の双子を選んだか。あの
+line2 <shift> # イタズラ好きのふたりを選ぶとは、勇気がある」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「勇気なんて、大げさな……。
+line2 <shift> # そんなに素行に問題のある、二人なんですか？」
+display
+com11 0 0
+sound 10043
+name 0 2 <names:3>  # President
+line1 <shift> # 「いや、問題、というほどでもないが。まあ、ど
+line2 <shift> # んな子かは、実際に会って確かめてみるがいい」
+display
+com11 0 0
+sound 10044
+name 0 2 <names:3>  # President
+line1 <shift> # 「あのふたりは今、近くの公園で遊んでいる。
+line2 <shift> # 早速、迎えにいき、活動を開始してくれたまえ」
+display
+com4a 0 3
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「はいっ！」
+display
+location 500
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺もそろそろ新人じゃない。別の女の子も
+line2 <shift> # プロデュースしてみよう！」
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「しかし、まずは社長に相談してみないと、
+line2 <shift> # 社長室に行こう！」
+display
+location 501
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おはようございます！」
+display
+com11 0 0
+sound 10045
+name 0 2 <names:3>  # President
+line1 <shift> # 「おはよう！　ここに来るとは珍しい。
+line2 <shift> # 今日は、どうしたんだね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「新しくプロデュース活動を始めたい
+line2 <shift> # と思うんです！」
+display
+com11 0 0
+sound 10046
+name 0 2 <names:3>  # President
+line1 <shift> # 「ム、いいねえ！
+line2 <shift> # どんどんやってくれたまえ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ありがとうございます！」
+display
+com11 0 0
+sound 10047
+name 0 2 <names:3>  # President
+line1 <shift> # 「今、君がプロデュースしている女の子は
+line2 <shift> # 当然、選ぶことはできないぞ」
+display
+com4a 0 0
+com11 0 0
+sound 10048
+name 0 2 <names:3>  # President
+line1 <shift> # 「では、新しくプロデュースする女の子を
+line2 <shift> # 選びたまえ！」
+display
+location 502
+com11 0 0
+sound 10049
+name 0 2 <names:3>  # President
+line1 <shift> # 「２人ユニットだな。苦労も２倍になるかも
+line2 <shift> # しれんが、がんばってくれたまえ」
+display
+com4a 0 0
+com11 0 0
+sound 10050
+name 0 2 <names:3>  # President
+line1 <shift> # 「では、女の子を紹介したいところだが、
+line2 <shift> # どちらから紹介しようかな……」
+display
+location 503
+com11 0 0
+sound 10051
+name 0 2 <names:3>  # President
+line1 <shift> # 「３人ユニットだな。苦労も３倍になるかも
+line2 <shift> # しれんが、がんばってくれたまえ」
+display
+com4a 0 0
+com11 0 0
+sound 10052
+name 0 2 <names:3>  # President
+line1 <shift> # 「では、女の子を紹介したいところだが、
+line2 <shift> # 誰から紹介しようかな……」
+display
+location 504
+com4a 0 0
+com11 0 0
+sound 10053
+name 0 2 <names:3>  # President
+line1 <shift> # 「次は、どちらからが良いかな……」
+display
+location 505
+com11 0 0
+sound 10054
+name 0 2 <names:3>  # President
+line1 <shift> # 「ということは、あとは、天海春香君か……」
+display
+com11 0 0
+sound 10055
+name 0 2 <names:3>  # President
+line1 <shift> # 「天海君は、近くの公園にいるだろう」
+com09 2 8
+display
+location 506
+com11 0 0
+sound 10056
+name 0 2 <names:3>  # President
+line1 <shift> # 「ということは、あとは、水瀬伊織君か……」
+display
+com11 0 0
+sound 10057
+name 0 2 <names:3>  # President
+line1 <shift> # 「水瀬君は、休憩室にいるはずだ」
+com09 2 8
+display
+location 508
+com11 0 0
+sound 10058
+name 0 2 <names:3>  # President
+line1 <shift> # 「ということは、あとは、三浦あずさ君か……」
+display
+com11 0 0
+sound 10059
+name 0 2 <names:3>  # President
+line1 <shift> # 「三浦君は、さっき迷子になったという連絡が
+line2 <shift> # あったところだ。近くにはいるようだが……」
+com09 2 8
+display
+location 509
+com11 0 0
+sound 10060
+name 0 2 <names:3>  # President
+line1 <shift> # 「ということは、あとは、如月千早君か……」
+display
+com11 0 0
+sound 10061
+name 0 2 <names:3>  # President
+line1 <shift> # 「如月君は、向かいの部屋で、ひとり音楽を
+line2 <shift> # 聴いているはずだ」
+com09 2 8
+display
+location 507
+com11 0 0
+sound 10062
+name 0 2 <names:3>  # President
+line1 <shift> # 「ということは、あとは、高槻やよい君か……」
+display
+com11 0 0
+sound 10063
+name 0 2 <names:3>  # President
+line1 <shift> # 「やよい君には、事務所前の掃除を頼んだので、
+line2 <shift> # 事務所の外にいるはずだ」
+com09 2 8
+display
+location 512
+com11 0 0
+sound 10064
+name 0 2 <names:3>  # President
+line1 <shift> # 「ということは、あとは、菊地真君か……」
+display
+com11 0 0
+sound 10065
+name 0 2 <names:3>  # President
+line1 <shift> # 「菊地君は、今、近くのスポーツジムに
+line2 <shift> # いるはずだ」
+com09 2 8
+display
+location 510
+com11 0 0
+sound 10066
+name 0 2 <names:3>  # President
+line1 <shift> # 「ということは、あとは、萩原雪歩君か……」
+display
+com11 0 0
+sound 10067
+name 0 2 <names:3>  # President
+line1 <shift> # 「萩原君には、少し前に買い物を頼んだので、
+line2 <shift> # もう、近くまで帰ってきているはずだ」
+com09 2 8
+display
+location 511
+com11 0 0
+sound 10068
+name 0 2 <names:3>  # President
+line1 <shift> # 「ということは、あとは、秋月律子君か……」
+display
+com11 0 0
+sound 10069
+name 0 2 <names:3>  # President
+line1 <shift> # 「律子君なら、会議室にいるはずだ」
+com09 2 8
+display
+location 520
+com11 0 0
+sound 10070
+name 0 2 <names:3>  # President
+line1 <shift> # 「君は、彼女を迎えに行きたまえ。ここにいる子
+line2 <shift> # は、私が先にレッスン場へ連れて行っておくよ」
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よろしくおねがいします。では、後ほど
+line2 <shift> # レッスン場で！」
+display
+location 513
+com11 0 0
+sound 10071
+name 0 2 <names:3>  # President
+line1 <shift> # 「ということは、あとは、あの２人、
+line2 <shift> # 双海亜美・真美の双子か……」
+display
+com11 0 0
+sound 10072
+name 0 2 <names:3>  # President
+line1 <shift> # 「亜美君達は、近くの公園で遊んでいる」
+display
+com11 0 0
+sound 10073
+name 0 2 <names:3>  # President
+line1 <shift> # 「君は、彼女達を迎えに行きたまえ。ここにいる
+line2 <shift> # 子は、先にレッスン場へ連れて行っておくよ」
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よろしくおねがいします。では、後ほど
+line2 <shift> # レッスン場で！」
+display
+location 600
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今のうちに衣装と楽曲についても
+line2 <shift> # 決定しておこう！）
+display
+location 1000
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （誰をプロデュースするかを決める前に
+line2 <shift> # 少しユニットについて復習しておこう……）
+display
+location 1001
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ユニットの方が、ソロプロデュースよりも
+line2 <shift> # ファンが増減しやすい特徴がある！）
+display
+location 1002
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ＴＶ出演時のアピールや失敗の影響が
+line2 <shift> # ソロより大きくなるんだ）
+display
+location 1003
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （また、ユニットはランクＵＰリミットまでの
+line2 <shift> # プレイ回数に少しだけ余裕ができる）
+display
+location 1004
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （これは意外と影響が大きい……）
+display
+location 1005
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （さらに、オーディションではなんと
+line2 <shift> # 複数ジャンル同時アピールができる！！）
+display
+location 1006
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （まあ、アピール得点は分散されるので、
+line2 <shift> # 使い方次第だが……）
+display
+location 1007
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ファン人数を増やす目的で考えれば
+line2 <shift> # 間違いなくユニットだな……。しかし）
+display
+location 1008
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ユニット内の女の子のテンションを高く
+line2 <shift> # 維持することが難しくなる）
+display
+location 1009
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （テンションの低い女の子が足を引っ張る
+line2 <shift> # こともあるだろう……）
+display
+location 1010
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （オーディションに勝てないと意味がない。
+line2 <shift> # う〜ん、悩みどころだな）
+display
+unk02

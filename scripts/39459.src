@@ -1,0 +1,341 @@
+com2c 0 38
+com2d 0 73
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （老人ホームでの慰問ライブということで、
+line2 <shift> # 歌とダンスの他、握手や語りかけなどを行った）
+display
+com11 0 4
+sound 600
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ああ、なんでアイドルの私が、
+line2 <shift> # こんなところでこんなことを！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「とか言いつつ、結構マメに、
+line2 <shift> # 動いてくれてるじゃないか」
+display
+com11 0 4
+sound 601
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ま、まぁ、仕事だからね。
+line2 <shift> # さて、お茶の一杯でも、いれてくるかなぁ」
+com03 0 3
+choice1 <shift> # 意外と楽しんでる？
+line2
+com09 0 10
+com08
+choice2 <shift> # 手間かけてすまないな
+line2
+com09 0 11
+com08
+choice3 <shift> # 文句は言うなよ？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もしかして、意外と楽しんでる？」
+display
+com11 0 4
+sound 602
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「え〜っ！？　どう見たら、そう見えるんですか。
+line2 <shift> # 正直、今回、気が乗らなかったんだけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、目が笑ってるぞ？」
+display
+com11 0 4
+sound 603
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「だ、だって、お年寄りを邪険にしたり、
+line2 <shift> # 怖い顔で対応なんて、できないでしょ？」
+display
+com11 0 4
+sound 604
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「それにまぁ、なんだか、慕ってくれてる
+line2 <shift> # みたいだし、悪い気は、しないから」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「手間かけてすまないな」
+display
+com11 0 4
+sound 605
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「手間っていえば手間だけど……。でも、しょう
+line2 <shift> # がないでしょ？　あまり、気は進まないけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まぁ、面倒がってたら、始まらないからな」
+display
+com11 0 4
+sound 606
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「それとも、プロデューサー、
+line2 <shift> # イヤだったんですか、この仕事？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなことは、ないが……」
+display
+com11 0 4
+sound 607
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「じゃあ、ちょっとは手伝ってくださいよぉ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まあ、待て。握手とか語りかけとかするのは、
+line2 <shift> # 律子の仕事だぞ？　俺じゃない」
+display
+com11 0 4
+sound 608
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「むぅ……。それはそうだけど」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「文句は言うなよ？」
+display
+com11 0 4
+sound 609
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「べ、別に、目立った不満が
+line2 <shift> # あるわけじゃないですよぉ……」
+display
+com11 0 4
+sound 610
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「面倒がっても仕方ない、仕事なんだし。
+line2 <shift> # 現場に来たからには、きちんとしないと……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんかそれって、建前にも聞こえるんだけど」
+display
+com11 0 4
+sound 611
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そういうわけじゃありませんってば！」
+display
+com11 0 4
+sound 612
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「それともプロデューサー、
+line2 <shift> # イヤだったんですか、この仕事？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなことはないが……」
+display
+com11 0 4
+sound 613
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「な〜んか、引っかかるなぁ。ほらほら、そんな
+line2 <shift> # 苦い顔しない。お年寄りが怪訝に感じますよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「苦い顔なんてしてないって」
+display
+com11 0 4
+sound 614
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「怪しいなぁ。私だって、
+line2 <shift> # こんなにニコニコやってるのに」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おおっと律子、向こうから呼ばれてるぞ。
+line2 <shift> # 妙齢のご婦人だ」
+display
+com11 0 4
+sound 615
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あ〜、はいはい、今行きますよ。おばあさん。
+line2 <shift> # まったく世話の焼ける……」
+display
+com22 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （それから、しばらくのち……）
+display
+com21 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「随分、あのおばあさんに、つかまってた
+line2 <shift> # みたいだけど、どうした？　律子」
+display
+com11 0 4
+sound 616
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ああ、なんかね、
+line2 <shift> # 私が、お孫さんに似てるんだって」
+display
+com11 0 4
+sound 617
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「おかげで、変に可愛がられちゃって……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ははは。相当、気に入られたみたいだね」
+display
+com11 0 4
+sound 618
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そんなに孫を可愛がりたけりゃ、本人に、
+line2 <shift> # 会えばいいじゃない、って言ったんだけど……」
+display
+com11 0 4
+sound 619
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そしたら、嫁のことのグチが始まって、
+line2 <shift> # それを私が聞く羽目に……。ううっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか。ま、照れるな照れるな。
+line2 <shift> # 親身に話せるってのは、いいことだ」
+display
+com11 0 4
+sound 620
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「照れてないですってば！　ああ、もう……。
+line2 <shift> # とにかくっ！　誤解しないで欲しいなぁ」
+display
+com11 0 4
+sound 621
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「私は、あくまで仕事として、おばあさんに、
+line2 <shift> # サービスしておきましたから。いいですね？」
+com03 0 2
+choice1 <shift> # 素直じゃないなぁ
+line2
+com09 0 30
+com08
+choice2 <shift> # 仕事としてもよくやった
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「素直じゃないなぁ。
+line2 <shift> # 慕われるのは、嬉しかったろ？」
+display
+com11 0 4
+sound 622
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「イヤじゃないですけど、こ、困りますよ……」
+display
+com11 0 4
+sound 623
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「『今度、ＴＶで見たら応援する』とか言ってて
+line2 <shift> # も、どうせ、その……、社交辞令でしょ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だからさ、照れない照れない。
+line2 <shift> # 素直に喜べよ、律子」
+display
+com11 0 4
+sound 624
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「照れてなんか、いないってばっ！！　ああっ、
+line2 <shift> # ご、ごめんなさい、大きな声、出して……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お年寄りが、びっくりするような声を、
+line2 <shift> # 出したらいかんぞ、律子」
+display
+com11 0 4
+sound 625
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「は〜い。ま、まぁ、応援してくれるのは、
+line2 <shift> # 悪い気は、しないです」
+display
+com11 0 4
+sound 626
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そんなことより、あのおばあさん、お嫁さんと、
+line2 <shift> # ちゃんと和解できるといいんだけどなぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （律子は、先ほどのおばあさんのところに戻り、
+line2 <shift> # またしばらく、話に付き合っていた……）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「たとえ、仕事としても、よくやった」
+display
+com11 0 4
+sound 627
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「名演技でしょ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。名演技、と、ほめてやろう」
+display
+com11 0 4
+sound 628
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ま、まぁ、お客を喜ばせるサービスとしては、
+line2 <shift> # 多少の演技と割り切りが必要よね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなこと言って……、おばあさんの話に、
+line2 <shift> # もらい泣きしてたんじゃないか、律子？」
+display
+com11 0 4
+sound 629
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ち、違いますよ！　私は、なんとなく、
+line2 <shift> # あいづち打って、話、合わせただけで……」
+display
+com11 0 4
+sound 630
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「別にその、それで、おばあさんが話して、
+line2 <shift> # スッキリしてくれてるなら……、いいんですよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「前言撤回。律子の演技はヘタクソだ」
+display
+com11 0 4
+sound 631
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「な、なんですってぇ！！
+line2 <shift> # あっ、ご、ごめんなさい、大きな声出して……」
+display
+com11 0 4
+sound 632
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「お年寄りが、びっくりしちゃいます、よね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おばあさん、ほんとに律子を気に入ってくれた
+line2 <shift> # みたいじゃないか。嬉しいことだと思うぞ」
+display
+com11 0 4
+sound 633
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「まぁね……。できれば、私なんかより、
+line2 <shift> # 歌とダンスのほうを気に入ってほしいけどね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （律子の心中は、なかなか複雑みたいだ。ちょっ
+line2 <shift> # と仕事にだけこだわりすぎてる気もするが……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （もっとリラックスして、肩の力を抜いて
+line2 <shift> # やれるように、俺も促していかないとな）
+com09 0 49
+display
+location 49
+unk02

@@ -1,0 +1,397 @@
+com2c 0 57
+com2d 0 91
+com2e 0 101
+com32 0 0
+com11 0 2
+sound 500
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「亜美が、塾のＴＶコマーシャルに出るんだね！
+line2 <shift> # すごい、すごーいっ！」
+display
+com11 0 2
+sound 501
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「メチャメチャ流れまくると、いいね〜！
+line2 <shift> # 番組ナシで、ＣＭばっかり、やっちゃおー！」
+com03 0 2
+choice1 <shift> # それは、すばらしいな
+line2
+com09 0 10
+com08
+choice2 <shift> # それは、すさまじいな
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「それは、すばらしいな」
+display
+com11 0 2
+sound 502
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「でしょ〜？　きっと、全国の真美達の
+line2 <shift> # ファンは、そっちの方が、よろこぶよねっ！」
+com09 0 29
+display
+location 11
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「それは、すさまじいな」
+display
+com11 0 2
+sound 503
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「そーお？　やりすぎかなあ。全国の真美達の
+line2 <shift> # ファンは、その方がよろこぶと思うけど〜」
+display
+com11 0 2
+sound 504
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「コマーシャルは、繰り返すのが、大事なんだよ。
+line2 <shift> # んっと……サブニミナル効果があるから！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「……サブリミナル、な。
+line2 <shift> # ま、にしても、意味がちがうけど」
+com09 0 29
+display
+location 29
+com11 0 2
+sound 505
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「あ、兄ちゃん、ひとつ質問〜！　亜美、塾って
+line2 <shift> # 通ったことないのに、宣伝だけして、いいの？」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「それは、かまわないけど……。
+line2 <shift> # へー、塾、行ったことないのか？」
+display
+com11 0 2
+sound 506
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「うんっ！　今はアイドルのお仕事で忙しいし、
+line2 <shift> # それに真美達、元からアッタマいいし！」
+display
+com11 0 2
+sound 507
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「コトワザとかも、たくさん知ってるよ！
+line2 <shift> # んっとね、『馬に、念仏』！　略して馬念！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「おいおい、真ん中の言葉が、抜けてるよ。
+line2 <shift> # ほら、馬と念仏の間には、ここが入るだろ？」
+com0e 3 54
+com44
+com09 0 30
+com45
+com44
+com09 0 31
+com45
+com44
+com09 0 32
+com45
+com44
+com09 0 33
+com45
+com44
+com09 0 34
+com45
+com44
+com09 0 36
+com45
+com44
+com09 0 37
+com45
+com44
+com09 0 38
+com45
+display
+location 30
+com11 0 2
+sound 508
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「『馬の……耳に念仏』？　あ、そうだったね。
+line2 <shift> # ちょっと、まちがえちゃった〜！」
+com09 0 49
+display
+location 31
+com11 0 2
+sound 509
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「『馬の……髪に念仏』？　あ、そうだったね！
+line2 <shift> # ちょっと、まちがえちゃった〜！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「い、いや、待て。髪じゃない気がしてきた。
+line2 <shift> # 俺も、まちがえたかも……」
+com09 0 91
+display
+location 32
+com11 0 2
+sound 510
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「『馬の……目に念仏』？　あ、そうだったね！
+line2 <shift> # でも、目になんか言って、馬、わかるのかな？」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「い、いや、待て。目じゃない気がしてきた。
+line2 <shift> # 俺も、まちがえたかも……」
+com09 0 91
+display
+location 33
+com11 0 2
+sound 511
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「『馬の……鼻に念仏』？　そうだったっけ？
+line2 <shift> # 鼻の穴にしゃべったら、馬、くすぐったそう」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「な、なんか、ちがう気がしてきたな……。
+line2 <shift> # 俺も、まちがえたかも……」
+com09 0 91
+display
+location 34
+com11 0 2
+sound 512
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「『馬の……顔に念仏』？　あ、そうだったね！
+line2 <shift> # ちょっと、まちがえちゃった〜！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「い、いや、待て。顔じゃない気がしてきた。
+line2 <shift> # 俺も、まちがえたかも……」
+com09 0 91
+display
+location 36
+com11 0 2
+sound 513
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「『馬の……胸に念仏』？　馬の胸って、
+line2 <shift> # どこ？　亜美、おなかと区別つかないよ」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「ん？　言われてみれば……。
+line2 <shift> # もしかして、俺も、まちがえてるかな」
+com09 0 91
+display
+location 37
+com11 0 2
+sound 514
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「え？　そんなとこに、念仏？
+line2 <shift> # それで、馬は、わかるのかなあ」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「い、いや、待て。そこじゃない気がしてきた。
+line2 <shift> # 俺も、まちがえたかも……」
+com09 0 91
+display
+location 91
+com11 0 2
+sound 515
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「そーなの？　でも、いいよ！　なにか入っても、
+line2 <shift> # 略せば、馬念なのは、いっしょだしっ」
+com09 0 49
+display
+location 38
+com11 0 2
+sound 516
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「兄ちゃん、どこが入るの？　言ってくれなきゃ、
+line2 <shift> # わからないよ〜」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「あれ、ど、どこだったかな？　待ってくれ。
+line2 <shift> # たしかに、おぼえてたんだけど……」
+display
+com11 0 2
+sound 517
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「思い出せないなら、いいよ。なにが入っても、
+line2 <shift> # 略せば馬念なのは、いっしょだしっ」
+com09 0 49
+display
+location 49
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「さ、それじゃ、亜美。そろそろスタッフが
+line2 <shift> # くるから、撮影の方、よろしくな」
+display
+com11 0 2
+sound 518
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うんっ！　まっかせてー！　思いっきり、
+line2 <shift> # 楽しそうにやってくるー！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「あ、一応、進学塾だから、マジメさの方も
+line2 <shift> # アピールするの、忘れずに」
+display
+com11 0 2
+sound 519
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ええええ、楽しさだけじゃ、ダメなの？　もし
+line2 <shift> # 亜美が行くなら、おもしろい塾の方がいいけど」
+display
+com11 0 2
+sound 520
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「真美も、亜美と、おんなじかも〜。兄ちゃん、
+line2 <shift> # ワイワイやった方が、絶対いいよ〜」
+com03 0 3
+choice1 <shift> # それじゃ、亜美に任せるよ
+line2
+com09 0 50
+com08
+choice2 <shift> # 両方、混ぜられるか？
+line2
+com09 0 51
+com08
+choice3 <shift> # いや、マジメさこそ、大切だ
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「それじゃ、亜美に任せるよ。俺は真美と、
+line2 <shift> # 控室のモニターで、見てるからな」
+display
+com11 0 2
+sound 521
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「わ〜い、ありがと〜♪　んっふっふ〜、
+line2 <shift> # 亜美の行きたい塾は〜、よーし！」
+display
+com22 0 30
+com21 0 30
+com11 0 2
+sound 522
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「亜美、おつー♪　すっごくいい感じだった！
+line2 <shift> # やっぱり、真美達の予感、大当たりだったね」
+display
+com11 0 2
+sound 523
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ね！　兄ちゃん、大丈夫だったでしょ？
+line2 <shift> # 塾もガッコも、楽しいのが一番なんだからっ」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （モニター越しに見た亜美の表情は、たしかに
+line2 <shift> # 最高だった！　好きにやらせて、正解だったな）
+com09 0 69
+display
+location 51
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「両方、混ぜられるか？　それができれば、
+line2 <shift> # ベストなんだけど……」
+display
+com11 0 2
+sound 524
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「楽しく、アーンド、マジメに？　むずかしい
+line2 <shift> # けど、がんばってみる〜」
+display
+com11 0 2
+sound 525
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「そんじゃ、真美は兄ちゃんと、控室に隠れるね。
+line2 <shift> # 中のＴＶで、ちゃんと見てるから！」
+display
+com22 0 30
+com21 0 30
+com11 0 2
+sound 526
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「亜美、おつー♪　ずいぶん時間、
+line2 <shift> # かかっちゃったね……」
+display
+com11 0 2
+sound 527
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ん〜、スーパーアイドルなら、１回で終わった
+line2 <shift> # かなあ。兄ちゃん、亜美、疲れちゃった……」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （高度な要求、しすぎたかな。ま、それでも、
+line2 <shift> # やりとげたんだから、たいしたものだ）
+com09 0 69
+display
+location 52
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「いや、マジメさこそ、大切だ。塾のＣＭの
+line2 <shift> # ターゲットは、全国のお母さんなんだから」
+display
+com11 0 2
+sound 528
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「あ、そっか。亜美ぐらいの子は、おこづかいで、
+line2 <shift> # 塾には、いかないもんね……。わかった〜」
+display
+com11 0 2
+sound 529
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「じゃ、亜美、がんばってね！　真美は兄ちゃん
+line2 <shift> # と控室に隠れて、中のＴＶで見てるから！」
+display
+com22 0 30
+com21 0 30
+com11 0 2
+sound 530
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「亜美、おつー。どうしちゃったの？　全然、
+line2 <shift> # 元気なかったよ？」
+display
+com11 0 2
+sound 531
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「う〜、やっぱり自分が行きたい塾じゃないと、
+line2 <shift> # うまく、できないよ〜。ごめんなさ〜い」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （堅苦しい注文をつけたせいで、持ち前の
+line2 <shift> # 明るさが消えてしまった。判断ミスだったな）
+com09 0 69
+display
+location 69
+unk02

@@ -1,0 +1,300 @@
+com2c 0 24
+com2d 0 61
+com32 0 0
+com11 0 2
+sound 600
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「うーん、困ったなぁ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうした雪歩？　頭なんか抱えちゃって。
+line2 <shift> # 何見てるんだ？」
+display
+com11 0 2
+sound 601
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「あ、今度あるインタビューの、
+line2 <shift> # 質問予定が送られてきてるんですけど……」
+display
+com11 0 2
+sound 602
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ちょっと、その内容がきびしめなので……、
+line2 <shift> # どうしようかと」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どれどれ、俺も見てみよう。
+line2 <shift> # うーん……、確かに、多少、辛口かな」
+display
+com11 0 2
+sound 603
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「はい。なんというか、やたら、
+line2 <shift> # いじわるな内容……。そう思いませんか？」
+com03 0 2
+choice1 <shift> # そうだなぁ
+com09 0 10
+com08
+choice2 <shift> # そうかなぁ
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだなぁ。回答する相手を、
+line2 <shift> # いじめるようなきき方ではあるね」
+display
+com11 0 2
+sound 604
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「でしょう？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「しかし、これは常套手段さ……。
+line2 <shift> # 芸能レポーターの」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうかなぁ。
+line2 <shift> # このくらいは普通だと思うけど」
+display
+com11 0 2
+sound 605
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「そ、そうですか？　で、でも……」
+display
+com11 0 2
+sound 606
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「どうしても答えに詰まっちゃうような、
+line2 <shift> # いじめるようなきき方だと思いますけど……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「芸能レポーターが、よく使う手だよ。
+line2 <shift> # わざと、きつめの口調で責めるのは」
+com09 0 29
+display
+location 29
+com11 0 2
+sound 607
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「うーん、確かに……、そうかもしれなくて……、
+line2 <shift> # そういうの、慣れるしかないんでしょうけど」
+display
+com11 0 2
+sound 608
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「でもっ、この質問とか！　見てくださいよ」
+display
+com11 0 2
+sound 609
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「『仲の悪い人、嫌いな人はいるか？』って、
+line2 <shift> # 名指しで答えられるわけ、ないじゃないですか」
+display
+com11 0 2
+sound 610
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「というか、これってハラスメントですよ！
+line2 <shift> # 私、断固抗議したいくらいです！」
+display
+com11 0 2
+sound 611
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「インタビューは受けますけど……。ちょっと、
+line2 <shift> # 文句くらい、言ってもいいですよね？」
+com03 0 3
+choice1 <shift> # そこを抑えて、ぐっと我慢だ
+line2
+com09 0 30
+com08
+choice2 <shift> # 俺も一緒に言ってやろう
+line2
+com09 0 31
+com08
+choice3 <shift> # まあまあ、落ち着け
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そこを抑えて、ぐっと我慢だ、雪歩。
+line2 <shift> # 相手の挑発に乗ってはいけないぞ……」
+display
+com11 0 2
+sound 612
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「えっ？　あっ……、そうかぁ、
+line2 <shift> # 怒らせるのも作戦だったんですね」
+display
+com11 0 2
+sound 613
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「わざと怒らせて、なにかうっかり、
+line2 <shift> # 口をすべらせるのを狙ってる、ってことで……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうそう。だからさ、厳しくツッコミされても、
+line2 <shift> # 落ち着いて、さらっと流せばいいんだよ」
+display
+com11 0 2
+sound 614
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「なるほどぉ、そうですね！　それに……」
+display
+com11 0 2
+sound 615
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「もし、いじわるなこときかれても、自分に
+line2 <shift> # 心当たりがなければ、困ることないですよね？」
+display
+com11 0 2
+sound 616
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ああよかった……。よし、私、負けませんから。
+line2 <shift> # 辛口インタビュー、どんと来いですっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （雪歩に笑顔が戻った。これなら安心して、
+line2 <shift> # 落ち着いてインタビューに臨んでくれそうだな）
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、なんなら俺も一緒に言ってやろう」
+display
+com11 0 2
+sound 617
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ほんとですか！？　よかったぁ、心強いです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「しかし、相手も仕事だからなぁ……。あえて、
+line2 <shift> # 嫌な質問を、ぶつけてきてるのかもしれない」
+display
+com11 0 2
+sound 618
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「いじわるだとわかりながら、ってことですか？
+line2 <shift> # うーん、そう言われると……、そうかも……」
+display
+com11 0 2
+sound 619
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「いじわるなことをわざときくのは、
+line2 <shift> # 確かに、レポーターさんの仕事なのかも……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「嫌なきき方をしないと、
+line2 <shift> # 聞き出せない気持ちってのも、あるからね」
+display
+com11 0 2
+sound 620
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「そしたら、どうしよう……。
+line2 <shift> # 私、少しは乗ってあげたほうがいいのかな？」
+display
+com11 0 2
+sound 621
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「何も答えなかったら、インタビューとしては、
+line2 <shift> # つまらないでしょうし……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おっと、そのへんはサービスしてもいいけど、
+line2 <shift> # ありもしないこと答えなくてもいいぞ？」
+display
+com11 0 2
+sound 622
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「む、難しいですね……。
+line2 <shift> # でも私、なにかいい答えを考えておきますっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （よし、どうやら、インタビューへの、
+line2 <shift> # 不安や悩みは、吹っ切れたみたいだな）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （結構、余裕もありそうだし、
+line2 <shift> # あとは、雪歩自身に任せてみるか……）
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあまあ、落ち着けって。そんなことくらいで、
+line2 <shift> # ムキになるな。文句も言うな」
+display
+com11 0 2
+sound 623
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「そんなことくらいって！
+line2 <shift> # 大事なことじゃないですかぁ……」
+display
+com11 0 2
+sound 624
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「たとえば、友達と仲が悪いような噂を、
+line2 <shift> # 勝手に立てられたら……」
+display
+com11 0 2
+sound 625
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「根も葉もないこと言われたら、私だって、
+line2 <shift> # 怒りますよ。普通は、そうでしょう……」
+display
+com11 0 2
+sound 626
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「そして、そういう噂を起こしやすいような、
+line2 <shift> # あまりにいじわるな質問の仕方でっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それを、さらっと流すのが、オトナじゃないか。
+line2 <shift> # それに……、仕事なんだし」
+display
+com11 0 2
+sound 627
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「むぅ……。だ、だって私、
+line2 <shift> # 子どもですから……。ぐすっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だから、泣くなってば！　感情的になったら、
+line2 <shift> # それこそレポーターの思うツボだぞ」
+display
+com11 0 2
+sound 628
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「は、はい……。で、でもっ」
+display
+com11 0 2
+sound 629
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「辛口インタビューだから、わざといじわるな
+line2 <shift> # こときくんだって思っても、やっぱり……」
+display
+com11 0 2
+sound 630
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「なにかが許せなくて……。
+line2 <shift> # ああ、なんかくやしいなぁ……。ぐすっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （気持ちのコントロールが、うまくできない
+line2 <shift> # みたいだ。雪歩、ちょっと辛そうだな）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （もっと気分を楽にできるように、俺が助けて
+line2 <shift> # やれればいいんだけど。今後も心配だよ……）
+com09 0 49
+display
+location 49
+unk02

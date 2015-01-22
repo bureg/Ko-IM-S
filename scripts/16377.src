@@ -1,0 +1,281 @@
+com2c 0 33
+com2d 0 31
+com32 0 0
+com11 0 3
+sound 400
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ラジオ出演ですね！　うっうー。
+line2 <shift> # 歌、聞いてくれるように、お願いしよーっと」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、ＰＲはＤＪがやってくれるから、
+line2 <shift> # やよいは、ただ話してくればいいよ」
+display
+com11 0 3
+sound 401
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「なに言おうかなあ……？
+line2 <shift> # あ、マイクあるから、生で歌うのもいいかも！」
+com03 0 3
+choice1 <shift> # 歌は別に流れるから
+line2
+com09 0 10
+com08
+choice2 <shift> # 鼻唄ぐらいなら……
+line2
+com09 0 11
+com08
+choice3 <shift> # それは困るなあ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「歌は別に流れるから」
+display
+com11 0 3
+sound 402
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ、ＣＤかかるんですかっ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。だから、ブースでは歌わなくてＯＫ！」
+display
+com11 0 3
+sound 403
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「わかりましたっ。こういうの、
+line2 <shift> # まだ慣れてないし、生歌は、やめとこーっと！」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「鼻唄ぐらいなら……」
+display
+com11 0 3
+sound 404
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「え。ふんふふん、ふふふふん、とかですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ま、それぐらいなら……。
+line2 <shift> # 本当に歌われると、番組、壊れるだろうし」
+display
+com11 0 3
+sound 405
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ふんふふん……、食べよう〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やよい……。声、出てる」
+display
+com11 0 3
+sound 406
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あっ！」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それは困るなあ」
+display
+com11 0 3
+sound 407
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ど、どうしてです……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ラジオ番組は、そういうことする場じゃないし。
+line2 <shift> # それに歌ってる間、ＤＪは放っておくのか？」
+display
+com11 0 3
+sound 408
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ、そうですね。歌うのは、やめた方が？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……言わなくても、わかるよな」
+display
+com11 0 3
+sound 409
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ごめんなさい〜。
+line2 <shift> # まだ、ラジオとかは、よく知らないから……」
+com09 0 19
+display
+location 19
+com11 0 3
+sound 410
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「プロデューサー、ラジオのおしゃべりって、
+line2 <shift> # どんな感じで、やるんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「とくに決まりはないけど……」
+display
+com11 0 3
+sound 411
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「う〜ん、たとえばー。『みなさん、こんにちは。
+line2 <shift> # 会えて、光栄です』……これじゃ、ダメかなあ」
+display
+com11 0 3
+sound 412
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「『やっほ〜、みんな〜！　さ、今日もカキーン
+line2 <shift> # と決めてみよー！』……飛ばし過ぎかなあ」
+display
+com11 0 3
+sound 413
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うう、迷うかも……」
+com03 0 3
+choice1 <shift> # 自然体でいこう
+line2
+com09 0 20
+com08
+choice2 <shift> # ていねいにいこう
+line2
+com09 0 21
+com08
+choice3 <shift> # 自然を大事に！
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「自然体でいこう」
+display
+com11 0 3
+sound 414
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「それでいいんですか？
+line2 <shift> # でもー、あんまり、おもしろくない気が……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「大丈夫。やよいは普通でも、
+line2 <shift> # じゅうぶん、おもしろいよ」
+display
+com11 0 3
+sound 415
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「……ほめてますか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、この場合はね」
+display
+com11 0 3
+sound 416
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「わかりましたっ！　じゃあ、プロデューサーと、
+line2 <shift> # 話すみたいな感じで、やってきまーす！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （迷いは、すっかり晴れたみたいだな。
+line2 <shift> # これならきっと、地の魅力が出せるだろう）
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ていねいにいこう」
+display
+com11 0 3
+sound 417
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「その方が、いいですよねっ！
+line2 <shift> # 私も、そうかなーって」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「リスナーに悪印象は、与えたくないし」
+display
+com11 0 3
+sound 418
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「校長先生と、話すみたいな感じですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ためしに、それでやってごらん？」
+display
+com11 0 3
+sound 419
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はーいっ。『ガラガラガラ、失礼します。今日
+line2 <shift> # は私が掃除当番です。よろしくお願いします』」
+display
+com11 0 3
+sound 420
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「『いただいたお花は大事に飾ります。それでは、
+line2 <shift> # 失礼しました。ガラガラガラ……、ピシャッ』」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なんか、カタすぎる気もするけど……」
+display
+com11 0 3
+sound 421
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「とりあえず、これで、やってきます！
+line2 <shift> # それじゃ、プロデューサー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （番組は、妙に礼儀正しい、退屈なものになって
+line2 <shift> # しまった。指示、まちがえたかな……）
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「自然を大事に！」
+display
+com11 0 3
+sound 422
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あっ、そういうの伝えるのって、
+line2 <shift> # カッコいいかも〜！」
+display
+com11 0 3
+sound 423
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「森の木を、バリバリ切らずにエコロジー！
+line2 <shift> # ……ってことですよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、ちょっとちがう気が……」
+display
+com11 0 3
+sound 424
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「『みんなー、地球にやさしくしよーっ』
+line2 <shift> # うっうー、アイドルっぽいかも！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうかな……。逆のノリの方が……」
+display
+com11 0 3
+sound 425
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「……地球にきびしく？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それは、もっとまずい」
+display
+com11 0 3
+sound 426
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「じゃ、やさしくで決まりっと！
+line2 <shift> # いってきまーす！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （悪い予感は、的中……。番組は、
+line2 <shift> # やけに説教くさいものになってしまった……）
+com09 0 29
+display
+location 29
+unk02

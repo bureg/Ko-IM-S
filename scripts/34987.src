@@ -1,0 +1,214 @@
+com2c 0 118
+com2d 0 61
+com32 0 0
+location 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なあ、雪歩。そろそろ帰ろう。こんな道端で、
+line2 <shift> # つっ立ってたって、しかたないだろ？」
+display
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「もう、私なんかに関わらないで下さい。
+line2 <shift> # プロデューサーの期待、裏切ったのに……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「過ぎたことは、忘れよう。今日の失敗は、
+line2 <shift> # 明日につなげれば、いいじゃないか」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「明日？　でも、私、プロデューサーと、
+line2 <shift> # お別れした後、アイドル続ける気は……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え！？　もしかして、やめる気なのかっ？」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい。だって、プロデューサーがついていて
+line2 <shift> # くれても、あんな失敗しちゃうんですよ？」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「別れてひとりになったら、もっと悪くなります。
+line2 <shift> # だったら、続けたって、しょうがないです」
+display
+com1c 0 3
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、一度の失敗で、そう自分を、
+line2 <shift> # 追い込むなよ。しばらく、休んで……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「その後、あらためて、将来について、考えて
+line2 <shift> # みてくれないか？　俺からの最後のお願いだ」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「将来……。いつの日か、またアイドルに？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。復帰の可能性を、完全には、
+line2 <shift> # 捨てないでほしい」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「……どうして、そんな風に、
+line2 <shift> # 思ってくれるんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「決まってるじゃないか。だって、
+line2 <shift> # このままやめちゃったら……」
+com03 0 3
+choice1 <shift> # 雪歩は、負け犬だぞ？　
+line2
+com09 0 10
+com08
+choice2 <shift> # 俺の努力が、ムダになる　
+line2
+com09 0 11
+com08
+choice3 <shift> # もったいないじゃないか？　
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「雪歩は、負け犬だぞ？
+line2 <shift> # それでも、いいのか？」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「う、犬は、たしかにイヤですね。怖いし……。
+line2 <shift> # 私、ウサギとかの方が、好きです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、ウサギ、か。よしっ、なら、負け犬に
+line2 <shift> # なんかならずに、勝ちウサギをめざそう！」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「……そうですね。今は、こんなですけど、
+line2 <shift> # いつか、後ろ足に力をためて……」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「また、ピョンって、飛び跳ねられる日がくれば、
+line2 <shift> # いいなって思います」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺の努力が、ムダになる。教えてきたこと、
+line2 <shift> # 無にしたくないんだ」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ、それは、当然の気持ちですよね。でも、
+line2 <shift> # これまでの教えは、意味なかったんです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうしてだ？」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「だって、今日のステージで、なにひとつ、
+line2 <shift> # 生かせなかったんですから……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それは、単に力を発揮できなかっただけだろ？
+line2 <shift> # ……俺は、そう信じてるぞ」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そうでしょうか？　買いかぶりのような気が、
+line2 <shift> # しますけど……。でも、わかりました」
+display
+com11 0 0
+sound 10012
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「言う通り、何カ月かたったら、もう一度、
+line2 <shift> # 考えてみることにします」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もったいないじゃないか？　せっかく、
+line2 <shift> # ここまで、がんばってきたのに」
+display
+com11 0 0
+sound 10013
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「もったいなくないですよぉ。
+line2 <shift> # 私なんて、消えた方が、いーんです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなことないって！　俺は、雪歩の、
+line2 <shift> # アイドルとしての価値、信じてるぞ」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「……買いかぶりのような気がしますけど、
+line2 <shift> # わかりました。もうすこし、考えてみます」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「復帰することが、私やみんなのために、
+line2 <shift> # なるのか、どうか……」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10016
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「それじゃ、プロデューサー。つきそってくれて、
+line2 <shift> # ありがとうございました。もう行って下さい」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ！？　でも、ここに、
+line2 <shift> # 置いていくわけには……」
+display
+com11 0 0
+sound 10017
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「もうしばらく、ひとりで、いたいんです。
+line2 <shift> # お願いです……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わかった。じゃあ、元気でな、雪歩。
+line2 <shift> # 今日まで、おつかれさま」
+display
+com4a 0 0
+com11 0 0
+sound 10018
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい。さようなら、プロデューサー……。
+line2 <shift> # 私のこと、許して下さい」
+display
+location 100 129 92 129 92 130 177 130 164 130 181 130 196 137 180 146 66 130 205 129 65 145 229 144 216 130 200 131 137 131 88 131 103 131 137 131 67 131 117 130 240 144 172 140 247
+line2 <shift> # させられず、苦い別れを経験することになった。
+display
+location 101 148 119 146 134 137 122 130 181 130 201 149 183 130 177 130 166 130 189 129 65 144 225 149 224 130 204 130 183 130 183 130 232 139 131 130 173 144 186 129 66
+line2 <shift> # でも振り返れば……、余計、傷つけることになる。
+display
+location 102 137 180 130 205 150 217 130 193 130 196 129 65 130 187 130 204 143 234 130 240 151 163 130 234 130 189 129 66
+line2 <shift> # このくやしさは、次の挑戦に、生かしたい。
+display
+unk02

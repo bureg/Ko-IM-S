@@ -1,0 +1,255 @@
+com2c 0 39
+com2d 0 51
+com32 0 0
+com11 0 1
+sound 600
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ふぅー、雑誌の表紙撮影、終わりましたー。
+line2 <shift> # すぐ、次の仕事場へ移動でしょうか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「も、もう終わったんですか！？
+line2 <shift> # まだはじめてから、１０分ぐらいしか……」
+display
+com11 0 1
+sound 601
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「カメラマン、いつもの慣れた人でしたから。
+line2 <shift> # それに私、最近、写りがすごくいいらしくて」
+display
+com11 0 1
+sound 602
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「少ない枚数で、完璧なものが撮れるらしいです。
+line2 <shift> # デビュー当時と比べて、何が変わったのかしら」
+com03 0 3
+choice1 <shift> # 自信がついたんですかね
+line2
+com09 0 10
+com08
+choice2 <shift> # まわりからの見られ方、かな
+line2
+com09 0 11
+com08
+choice3 <shift> # 風格がついたんですかね
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「自信がついたんですかね」
+display
+com11 0 1
+sound 603
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「それが、一番大きいかもしれませんね。もう、
+line2 <shift> # カメラの前で、おろおろする事もありませんし」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まわりからの見られ方、かな」
+display
+com11 0 1
+sound 604
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、それはあるかもしれませんね。名前が
+line2 <shift> # 知られていると、よく見てもらえるものですし」
+display
+com11 0 1
+sound 605
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「私自身も、すこしは慣れてきたのかも。
+line2 <shift> # 両方が重なって、こうなっている気がします」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「風格がついたんですかね」
+display
+com11 0 1
+sound 606
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ふ、風格？　もしかして、ふてぶてしくなって
+line2 <shift> # いますか？　だとしたら……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ふてぶてしいとまでは、いきませんよ。
+line2 <shift> # ただ、こう、オーラがちがうというか」
+display
+com11 0 1
+sound 607
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「……よい意味なら、いいのですけれど。もし、
+line2 <shift> # えらぶって見えるなら、注意してくださいね」
+com09 0 29
+display
+location 29
+com11 0 1
+sound 608
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「えーと、いま撮影した号はー。たしか表紙
+line2 <shift> # だけで、誌面インタビューなし、でしたよね」
+display
+com11 0 1
+sound 609
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「アイドルなのに、モデル扱い……。こういう
+line2 <shift> # 売れ方って、プロデューサーさん不本意では？」
+com03 0 2
+choice1 <shift> # いえ、満足です
+line2
+com09 0 30
+com08
+choice2 <shift> # まあ、多少は……
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いえ、満足です。全国の書店に、あずささんの
+line2 <shift> # 顔が並ぶわけですから」
+display
+com11 0 1
+sound 610
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そういってもらえると、うれしいです。仕事を
+line2 <shift> # 選びすぎるのって、よくないですものね」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、多少は……」
+display
+com11 0 1
+sound 611
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「やはり、そうですか。も、もし気に入らないの
+line2 <shift> # でしたら、断ってくれても……」
+display
+com11 0 1
+sound 612
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「仕事の選び方については、おまかせします。
+line2 <shift> # 私は、スケジュール通りにがんばりますので」
+com09 0 49
+display
+location 49
+com11 0 1
+sound 613
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「んー、もし私が、はじめからモデル志望だと
+line2 <shift> # したら、同じように成功できたかしら」
+display
+com11 0 1
+sound 614
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そうしたら今頃、どんな立場になっていた
+line2 <shift> # でしょうね。想像、できますか？」
+com03 0 3
+choice1 <shift> # 想像できません
+line2
+com09 0 50
+com08
+choice2 <shift> # さぞ、みじめな立場でしょう
+line2
+com09 0 51
+com08
+choice3 <shift> # やっぱり、大成功でしょう
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 2
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「想像できません」
+display
+com11 0 1
+sound 615
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ふふっ、じつは私も……。忘れられないほどの
+line2 <shift> # いろんな思い出、重ねてきましたものね」
+display
+com11 0 1
+sound 616
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「いつまでも、このままでいられたらって思い
+line2 <shift> # ます。プロデューサーさんと……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （微笑みながら、過去に思いをよせている。
+line2 <shift> # これからも、ともにがんばっていきたいな）
+com09 0 69
+display
+location 51
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「さぞ、みじめな立場でしょう」
+display
+com11 0 1
+sound 617
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ですよね。パッとは思い浮かばないのですけれ
+line2 <shift> # ど、冷静に考えれば、きっとそうなって……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、あれ？　完全に同じ意見ですか？
+line2 <shift> # 反論とかは……」
+display
+com11 0 1
+sound 618
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「とくに、ありませんけれど？　当たってると
+line2 <shift> # 思いますし。……ヘンなプロデューサーさん」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （小首をかしげている。こうあっさり返されて
+line2 <shift> # しまうと、居心地が悪いな……。ま、いいか）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やっぱり、大成功でしょう」
+display
+com11 0 1
+sound 619
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「え、えーと、それはないと思います。
+line2 <shift> # すくなくとも、今のようには、とても……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いえ、大差ないとこまで、いけますって。
+line2 <shift> # 元々の素材がいいですから」
+display
+com11 0 1
+sound 620
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「プロデューサーさん、モデルをめざしてたら、
+line2 <shift> # 私達、出会っていないんですよ？」
+display
+com11 0 1
+sound 621
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「私は、信じたいです。会えたから、ここまで
+line2 <shift> # こられたんだって。迷惑かもしれませんけれど」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （こんな悲しそうな顔するなんて、意外だ。
+line2 <shift> # ほめたのに、ガッカリされるとは……）
+com09 0 69
+display
+location 69
+unk02

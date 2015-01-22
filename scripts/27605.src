@@ -1,0 +1,263 @@
+com2c 0 24
+com2d 0 41
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「千早、雑誌の取材、どうだった？
+line2 <shift> # 問題なく終わったか？」
+display
+com11 0 3
+sound 500
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ちはやぶる……」
+display
+com11 0 3
+sound 501
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「プロデューサー、ちはやぶるって言葉、知って
+line2 <shift> # ますか？　記者の人が、教えてくれて……」
+com03 0 3
+choice1 <shift> # たしか、和歌の枕詞？
+line2
+com09 0 10
+com08
+choice2 <shift> # たしか、古の神の名前？
+line2
+com09 0 11
+com08
+choice3 <shift> # 千早のマネするってこと？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+com34 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「たしか、和歌の枕詞？」
+display
+com11 0 3
+sound 502
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そうらしいですね。私も、そっちは
+line2 <shift> # くわしくなくて……」
+display
+com11 0 3
+sound 503
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「民謡と義太夫はやりましたけど、さすがに
+line2 <shift> # 和歌までは。畑ちがいだと、思ったので」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「たしか、古の神の名前？」
+display
+com11 0 3
+sound 504
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……いえ、ちがいます。和歌の枕詞に、
+line2 <shift> # そういうのがあるそうです」
+display
+com11 0 3
+sound 505
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ちはやぶるは、神にかかる枕詞だと言って
+line2 <shift> # ました。当たらずしも遠からず、ですね」
+com09 0 91
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「千早のマネするってこと？」
+display
+com11 0 3
+sound 506
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そんな言葉、あるわけが……。ちはやぶるって、
+line2 <shift> # 和歌の枕詞の、ひとつだそうです」
+display
+com11 0 3
+sound 507
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あ、でも、漢字で書くと『千早振る』だと
+line2 <shift> # 言ってました。……きっと、偶然の一致ですね」
+com09 0 91
+display
+location 91
+com11 0 3
+sound 508
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「私、民謡と義太夫はやりましたけど、さすがに
+line2 <shift> # 和歌までは……。畑ちがいだと思ったので」
+display
+location 29
+location 29
+com11 0 3
+sound 509
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「歌ではない、歌……。そういうリズムを
+line2 <shift> # 勉強するのも、プラスになると思いますか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まあ、マイナスになることは、ないだろうな。
+line2 <shift> # かじっておくのは、いいかも」
+display
+com11 0 3
+sound 510
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「普通の歌の勉強する時間を、減らしてでも？」
+com03 0 2
+choice1 <shift> # それでも、だよ
+line2
+com09 0 30
+com08
+choice2 <shift> # それは、やりすぎだ
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それでも、だよ。他ジャンルでの発見が、
+line2 <shift> # 歌に新味を加えるかも」
+display
+com11 0 3
+sound 511
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そうですね。メリハリのある歌い方の
+line2 <shift> # ヒントとか、見つかりそうな気もします」
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それは、やりすぎだ。歌人をめざしてるわけ
+line2 <shift> # じゃないだろ」
+display
+com11 0 3
+sound 512
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「もちろんです。けど、最終目的は、歌も和歌も、
+line2 <shift> # 同じかもしれませんね……」
+display
+com11 0 3
+sound 513
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「人の胸を打つ、言葉と波……。どこか通じる
+line2 <shift> # 部分がある気もします」
+com09 0 49
+display
+location 49
+com11 0 3
+sound 514
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ためしに、俳句っぽいの、詠んでみても？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、いいよ。聞いてて、あげるから」
+display
+com11 0 3
+sound 515
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「『着飾りし　君の右手に……』
+line2 <shift> # 君の右手に……えっと……」
+display
+com11 0 3
+sound 516
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「プロデューサー、最後はどんなのが？
+line2 <shift> # 『着飾りし　君の右手に……』」
+com03 0 3
+choice1 <shift> # ちとせあめ
+com09 0 50
+com08
+choice2 <shift> # ちはやぶる
+com09 0 51
+com08
+choice3 <shift> # ぴんまいく
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 2
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ちとせあめ」
+display
+com11 0 3
+sound 517
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「『着飾りし　君の右手に　千歳飴』
+line2 <shift> # あ、七五三……。きれいに、まとまりましたね」
+display
+com11 0 3
+sound 518
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「いろいろな言葉を知れば、高度な句も詠めるか
+line2 <shift> # も。時間を見つけて、やってみようと思います」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うまく、句を継げたようだ。たまには、
+line2 <shift> # こんなのも、おもしろいな）
+com09 0 69
+display
+location 51
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ちはやぶる」
+display
+com11 0 3
+sound 519
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「え？　『着飾りし　君の右手に　ちはやぶる』
+line2 <shift> # 意味不明では？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか？　せっかく教えてもらった言葉だから、
+line2 <shift> # 入れておこうと思ったんだけど」
+display
+com11 0 3
+sound 520
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「それに、枕詞は、一番頭の五文字に入れるもの
+line2 <shift> # ですよね？　ワクから、はみ出しすぎじゃ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （とりあえず、句を継いでみたけど、うまく
+line2 <shift> # いかなかったようだ。けっこう、むずかしいな）
+com09 0 69
+display
+location 52
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ぴんまいく」
+display
+com11 0 3
+sound 521
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「『着飾りし　君の右手に　ピンマイク』
+line2 <shift> # もしかして、歌手の姿を？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。千早が詠むなら、こんな句が
+line2 <shift> # ピッタリだろ？」
+display
+com11 0 3
+sound 522
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「でも、ピンマイクって、胸元につける小さい
+line2 <shift> # マイクですよね？　手には持たないような……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「…………あ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しまった。全然、気づかなかった。バッチリ
+line2 <shift> # 決めたつもりが、恥をさらしてしまった……）
+com09 0 69
+display
+location 69
+unk02

@@ -1,0 +1,391 @@
+com2c 0 95
+com2c 0 59
+com2d 0 51
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「親友の友美さん、結婚するんですか？
+line2 <shift> # けど、どうして俺まで、式に……」
+display
+com11 0 2
+sound 1200
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「なにも聞かないでください。友美、ひどいっ。
+line2 <shift> # 抜けがけはしないって、約束したのに、急に」
+display
+com11 0 2
+sound 1201
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「このまま、友美と話したら、泣いてしまいそう。
+line2 <shift> # 私のフィアンセ役っ、演じてくれますか？」
+com03 0 3
+choice1 <shift> # いっしょに、がんばりましょう
+line2
+com09 0 10
+com08
+choice2 <shift> # わ、わかりました
+line2
+com09 0 11
+com08
+choice3 <shift> # 俺、俳優じゃないですよ？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いっしょに、がんばりましょう」
+display
+com11 0 2
+sound 1202
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「お願いします。私も、なるべく甘えますから。
+line2 <shift> # あ、きました！」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わ、わかりました」
+display
+com11 0 2
+sound 1203
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「イヤかも知れないですけれど、お願いします。
+line2 <shift> # このお礼は、いつか……」
+com09 0 91
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺、俳優じゃないですよ？」
+display
+com11 0 2
+sound 1204
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「知ってますー。私もアイドルで、女優では……。
+line2 <shift> # でも、お願いですから、力を貸してください」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、どこまでできるか、不安ですけど」
+com09 0 91
+display
+location 91
+com11 0 2
+sound 1205
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あ、きました！　私もなるべく甘えますから、
+line2 <shift> # プロデューサーさんも、それっぽく」
+com09 0 29
+display
+location 29
+com11 0 2
+sound 1206
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「と、友美、結婚おめでとうっ。この人は、私の
+line2 <shift> # フィアンセのプロ……た、太郎さん！」
+com03 0 3
+choice1 <shift> # 太郎です
+com09 0 30
+com08
+choice2 <shift> # プロ太郎です
+line2
+com09 0 31
+com08
+choice3 <shift> # 太郎ですか？
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「太郎です」
+display
+com11 0 2
+sound 1207
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ふふっ、ステキな人でしょ？　私達もすぐに
+line2 <shift> # ゴールインだから、式には、きっときてね」
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「プロ太郎です」
+display
+com11 0 2
+sound 1208
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「え？　あ、そ、そう、風呂太郎っていうの。
+line2 <shift> # 私も変わった名字だなあって、驚いてしまって」
+display
+com11 0 2
+sound 1209
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「そうね。ち、近いうちに、風呂あずさになると
+line2 <shift> # 思う。ゴールインしたら、式にはきっときてね」
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「太郎ですか？」
+display
+com11 0 2
+sound 1210
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「え？　た、太郎ですよ。やだ、太郎さん、
+line2 <shift> # 自分の名前、忘れたフリなんかして……」
+display
+com11 0 2
+sound 1211
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「そうなの。とてもユーモアのある人。私達も
+line2 <shift> # すぐにゴールインだから、式にはきっときてね」
+com09 0 49
+display
+location 49
+com11 0 2
+sound 1212
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「友美……？　な、なにを……、きゃ！
+line2 <shift> # ひ、人前で、そんな……、ゃ」
+display
+com11 0 2
+sound 1213
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「え？　も、も、もちろん、私達だって、
+line2 <shift> # できるわ。太郎さん。わ、私に、キス……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……え、そんな、できませんよ」
+display
+com11 0 2
+sound 1214
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「……かるくでいいですから。お、お願いします。
+line2 <shift> # このままでは……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （いいのか、本当に。でも、どこに……？）
+com0e 1 59
+com44
+com09 0 50
+com45
+com44
+com09 0 51
+com45
+com44
+com09 0 52
+com45
+com44
+com09 0 53
+com45
+com44
+com09 0 54
+com45
+com44
+com09 0 55
+com45
+display
+location 50
+com34 0 3
+com11 0 2
+sound 1215
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「んっ……。はあ…………。ね、ほ、ほらっ。
+line2 <shift> # そ、それじゃあ、私、仕事に。うん、幸せに」
+display
+com22 0 30
+com32 0 1
+com21 0 30
+com11 0 2
+sound 1216
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「プロデューサーさん、ひどいです。
+line2 <shift> # まさか、あんなところに……」
+display
+com11 0 2
+sound 1217
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「だれにも言わずに、忘れるつもりです。け、
+line2 <shift> # けれど、忘れられなかったら、それは……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺を責めてるようには、見えない。もしかして、
+line2 <shift> # これでよかったのか？　だとしたら……？）
+com09 0 69
+display
+location 51
+com34 0 2
+com11 0 2
+sound 1218
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「んっ……。ふ、ふふふっ。ね、ほ、ほらっ。
+line2 <shift> # そ、それじゃあ、私、仕事に。うん、幸せに」
+display
+com22 0 30
+com32 0 1
+com21 0 30
+com11 0 2
+sound 1219
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ありがとうございました。おかげで……。あ、
+line2 <shift> # ああいうの、誓いのキスって言うのでしょうか」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうですね。アイドルとして、成功するよう
+line2 <shift> # 願った感じかな」
+display
+com11 0 2
+sound 1220
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「私、心臓がまだ……。これくらいのお芝居で、
+line2 <shift> # き、緊張してはいけませんねっ。……ふふ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （見事、大役を果たし終えた。もし、思い切って
+line2 <shift> # 口にしたら……どうなったんだろう？）
+com09 0 69
+display
+location 52
+com34 0 2
+com11 0 2
+sound 1221
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「んっ……。ふ、ふふふっ。ね、ほ、ほらっ。
+line2 <shift> # そ、それじゃあ、私、仕事に。うん、幸せに」
+display
+com22 0 30
+com32 0 1
+com21 0 30
+com11 0 2
+sound 1222
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ありがとうございました。おかげで……。
+line2 <shift> # すこし、く、くすぐったかったです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「映画とかじゃ、よくあるシーンですけど、
+line2 <shift> # 実際にやると、やっぱり……」
+display
+com11 0 2
+sound 1223
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ぷ、プロデューサーさん。お芝居の才能、ある
+line2 <shift> # かもしれませんね。私、すこし、その……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （見事、大役を果たし終えた。もし、思い切って
+line2 <shift> # 口にしたら……どうなったんだろう？）
+com09 0 69
+display
+location 53
+com34 0 2
+com11 0 2
+sound 1224
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「んっ……。ふ、ふふふっ。ね、ほ、ほらっ。
+line2 <shift> # そ、それじゃあ、私、仕事に。うん、幸せに」
+display
+com22 0 30
+com32 0 1
+com21 0 30
+com11 0 2
+sound 1225
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ありがとうございました。おかげで……。
+line2 <shift> # も、もしかして、遠慮してくれました？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「髪にするのが、一番いいかなって。あんまり、
+line2 <shift> # すごいところにしてしまうと、後で……」
+display
+com11 0 2
+sound 1226
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あ！　プロデューサーさん、口元のそれ、私の
+line2 <shift> # 髪？　すぐ取りますから、動かないで下さいね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （スマートに、大役を果たし終えた。もし、思い
+line2 <shift> # 切って口にしたら……どうなったんだろう？）
+com09 0 69
+display
+location 54
+com11 0 2
+sound 1227
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「えっ？　ぷ、プロデューサーさん？　どうして、
+line2 <shift> # そんなっ……。あ」
+display
+com11 0 2
+sound 1228
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「……そ、そうなの。太郎さんは私のプロデュー
+line2 <shift> # サーで。なんで隠してたのかというと、その」
+display
+com22 0 30
+com32 0 1
+com21 0 30
+com11 0 2
+sound 1229
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「結局、バレてしまいましたね。けれど、
+line2 <shift> # なぜ、あんなところに……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「すみません。いきなり言われて、混乱して
+line2 <shift> # しまって……」
+display
+com11 0 2
+sound 1230
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「いまごろ、友美、笑ってるかもしれませんね。
+line2 <shift> # はあ〜、きっと今夜は、その話でずっと……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （大恥を、かかせてしまった。もっと絵になる
+line2 <shift> # やり方が、いくらでもあった気がする）
+com09 0 69
+display
+location 55
+com11 0 2
+sound 1231
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ほ、ほら、じっと見ていないで。どうしたん
+line2 <shift> # ですっ、プロデューサーさん……？　あ」
+display
+com11 0 2
+sound 1232
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「……そ、そうなの。太郎さんは私のプロデュー
+line2 <shift> # サーで。なんで隠してたのかというと、その」
+display
+com22 0 30
+com32 0 1
+com21 0 30
+com11 0 2
+sound 1233
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「結局、バレてしまいましたね。……やはり、
+line2 <shift> # 無理なお願いだったでしょうか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「すみません。いざとなったら、やはり、
+line2 <shift> # ためらってしまって……」
+display
+com11 0 2
+sound 1234
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「……いいんです。謝るのは、私の方で。
+line2 <shift> # いまごろ、友美、笑ってるかもしれませんね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （良心がジャマして、踏み切れなかった。
+line2 <shift> # 思い切る勇気が、必要だったのかな……）
+com09 0 69
+display
+location 69
+unk02

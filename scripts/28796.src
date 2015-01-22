@@ -1,0 +1,644 @@
+com2c 0 112
+com2d 0 41
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「頼まれた通り、公園に来たけど……。
+line2 <shift> # なあ千早、なにをしようっていうんだ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「打ち合わせなら、
+line2 <shift> # 事務所でもできると思うけど……」
+display
+com11 0 0
+sound 0
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「いえ、これは意味のあることなんです。まずは
+line2 <shift> # プロデューサー、他愛ない話をしてください」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……えっ？」
+display
+com11 0 0
+sound 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ですから、
+line2 <shift> # 他愛ない話をしてください」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……唐突だなあ。
+line2 <shift> # んーと、じゃあ……」
+com03 0 3
+choice1 <shift> # いい天気だね
+line2
+com09 0 11
+com08
+choice2 <shift> # この前、たらいに穴が空いてね
+line2
+com09 0 12
+com08
+choice3 <shift> # 人は何故生きているんだろう？
+line2
+com09 0 13
+com08
+com07
+com09 0 13
+com08
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いい天気だね」
+display
+com11 0 0
+sound 2
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そうですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「…………」
+display
+com11 0 0
+sound 3
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「…………」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……ええと、こんなのでいいのか？」
+display
+com11 0 0
+sound 4
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。いいと思います。
+line2 <shift> # その調子で、続けてお願いします」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「その調子と言われても、
+line2 <shift> # よくわからないんだけど……」
+com09 0 20
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「この前、家で使ってるたらいに穴が空いて、
+line2 <shift> # 捨てちゃったんだ」
+display
+com11 0 0
+sound 5
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……え？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だから、『たらいない話』」
+display
+com11 0 0
+sound 6
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……ぷっ！　ふふふふっ！
+line2 <shift> # た、たらいとたあい……ふふっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、そこまで大ウケされると……
+line2 <shift> # 何だか恥ずかしいな」
+display
+com11 0 0
+sound 7
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「プ、プロデューサー！
+line2 <shift> # ダメじゃないで……ふふっ！」
+display
+com11 0 0
+sound 8
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「笑わせないでください！
+line2 <shift> # 私は、たらいない話……ふふふっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お、落ち着け千早。
+line2 <shift> # はい深呼吸……すぅー、はぁーっ」
+display
+com11 0 0
+sound 9
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……はぁ」
+display
+com11 0 0
+sound 10
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「プロデューサー、困ります。
+line2 <shift> # 笑わせて欲しいわけではありません」
+display
+com11 0 0
+sound 11
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「私は、他愛ない話……ぷっ！
+line2 <shift> # と、とにかく、お願いします……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わ、わかった！　今度はがんばるよ！」
+com09 0 20
+display
+location 13
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「人は何故生きているんだろう？」
+display
+com11 0 0
+sound 12
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「難しい問題ですね。『生きる』という
+line2 <shift> # 言葉の定義にもよると思います」
+display
+com11 0 0
+sound 13
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ただ呼吸をしたり、食物を摂取する
+line2 <shift> # 生物としての活動なら答えは簡単です」
+display
+com11 0 0
+sound 14
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ですが、プロデューサーが
+line2 <shift> # おっしゃっているのは、人として……」
+display
+com11 0 0
+sound 15
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「他者との関係や社会の中で、自己の
+line2 <shift> # アイデンティティを確立する話ですね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ま、まぁ……そんな感じだ」
+display
+com11 0 0
+sound 16
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ところで、プロデューサー」
+display
+com11 0 0
+sound 17
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「これは、他愛ない話というレベルでは
+line2 <shift> # 済まない問題だと思います」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……そ、そうだな。次は気をつけるよ」
+com09 0 20
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっと、じゃあ次だな。
+line2 <shift> # ……今日のお昼、何を食べた？」
+display
+com11 0 0
+sound 18
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そんな話題で、ごまかさないで」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……え？　いや、千早が
+line2 <shift> # 他愛ない話をしろって言ったから……」
+display
+com11 0 0
+sound 19
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「プロデューサー、
+line2 <shift> # 私の瞳には何が映っていますか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「は、はぁ！？
+line2 <shift> # さっきから、何を言ってるんだ、千早？」
+display
+com11 0 0
+sound 20
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「答えてください」
+com03 0 3
+choice1 <shift> # 俺
+com09 0 21
+com08
+choice2 <shift> # Chihaya
+com09 0 22
+com08
+choice3 <shift> # 夜空にまたたく星
+line2
+com09 0 23
+com08
+com07
+com09 0 23
+com08
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺が映ってるよ。当たり前じゃないか」
+display
+com11 0 0
+sound 21
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「惜しいですね。正しくは
+line2 <shift> # 戸惑っているプロデューサー、です」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……いや、そりゃあ戸惑うって」
+com09 0 30
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「千早が映ってる」
+display
+com11 0 0
+sound 22
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「え？　私の瞳に、私が映ってるんですか？
+line2 <shift> # それはありえないでしょう」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、そ、そうか。
+line2 <shift> # えーっと……」
+display
+com11 0 0
+sound 23
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「正解は、戸惑うプロデューサー、です」
+com09 0 30
+display
+location 23
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「夜空にまたたく星が映ってるよ」
+display
+com11 0 0
+sound 24
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「今はお昼ですが？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうだけどさ。
+line2 <shift> # ほら、なんかこう詩的じゃないか」
+display
+com11 0 0
+sound 25
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「真面目に答えてください、
+line2 <shift> # プロデューサー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……はい」
+com09 0 30
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なあ、何がなんだか、
+line2 <shift> # ワケがわからないんだが……」
+display
+com11 0 0
+sound 26
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「止めないでください、私の思い。
+line2 <shift> # きっと伝えますから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、えっと、別に止めようって
+line2 <shift> # わけじゃないんだ。ただ、少し説明を……」
+display
+com11 0 0
+sound 27
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「私の気持ちは、ひとつだけです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……はあ。なんか、かみあってないな、
+line2 <shift> # 今日の俺たち……」
+display
+com11 0 0
+sound 28
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ここが勝負どころ……」
+display
+com11 0 0
+sound 29
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「というわけで、プロデューサー。
+line2 <shift> # 私とコイントス勝負をしてください」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……もう、好きにしてくれ」
+display
+com11 0 0
+sound 30
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「プロデューサーが勝ったら、
+line2 <shift> # 伝えます、私のホントの気持ち」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ホントの気持ちってのも気になるけど……
+line2 <shift> # もし、負けたら？」
+display
+com11 0 0
+sound 31
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あなたの前から、サヨナラします」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え、ええっ！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （サヨナラって……
+line2 <shift> # アイドルを辞めるってことか！？）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「な、なぁ、千早。
+line2 <shift> # 冗談……だよな？」
+display
+com11 0 0
+sound 32
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「プロデューサー、勝負を」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （これは、冗談で言ってる顔じゃないぞ！
+line2 <shift> # と、とにかく、勝たないと……！）
+display
+com11 0 0
+sound 33
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「では、いきます……」
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 34
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「コインは、どちらの手にあると思いますか？」
+com03 0 2
+choice1 <shift> # 右だ！
+com09 0 40
+com08
+choice2 <shift> # 左だ！
+com09 0 41
+com08
+com07
+com09 0 42
+com08
+display
+location 40
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「右だ！」
+com37 0 1
+com1e 0 0
+com09 0 33
+com3b
+com37 0 0
+com1e 0 0
+com09 0 34
+com3b
+display
+location 41
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「左だ！」
+com37 0 1
+com1e 0 0
+com09 0 33
+com3b
+com37 0 0
+com1e 0 0
+com09 0 34
+com3b
+display
+location 42
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よくわからないが……こっちだ！」
+com09 0 34
+display
+location 33
+com11 0 0
+sound 35
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……正解です」
+display
+com11 0 0
+sound 36
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「では、伝えます。私の本当の気持ち」
+display
+com11 0 0
+sound 37
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あなたにフォーリンラブ、
+line2 <shift> # 受け取ってドキドキハート」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……は？」
+display
+com11 0 0
+sound 38
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「どうでしょう、プロデューサー。
+line2 <shift> # 恋心、感じましたか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……あのさ、千早。
+line2 <shift> # 結局、なにがしたかったんだ？」
+display
+com11 0 0
+sound 39
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「プロデューサー、今度の新曲候補に
+line2 <shift> # あがっていた曲を、覚えていますか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっと、確か恋の歌だよな」
+display
+com11 0 0
+sound 40
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。相手の気持ちが分からない、
+line2 <shift> # でも言い出す勇気がない……」
+display
+com11 0 0
+sound 41
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ですが、私、
+line2 <shift> # 恋愛はよくわからなくて……」
+display
+com11 0 0
+sound 42
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「それで、プロデューサーをモデルに、
+line2 <shift> # 歌詞にあるような状況を再現してみたんです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もしかして……」
+display
+com11 0 0
+sound 43
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「『他愛のない話で、そらさないで』
+line2 <shift> # 『わたしの瞳には、何が映ってる？』」
+display
+com11 0 0
+sound 44
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「『それは、戸惑うあなた』
+line2 <shift> # 『止めないで、わたしの思い』」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……ぜ、全部、歌詞だったのか」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、コイントスなんか、
+line2 <shift> # 歌詞には出てこないだろう？」
+display
+com11 0 0
+sound 45
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「『ここが勝負どころ』とあったので、
+line2 <shift> # なにか勝負をと思いまして」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……………………」
+display
+com11 0 0
+sound 46
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「これは恋の歌ですから、受け手に恋心や
+line2 <shift> # ドキドキを伝えるのが目的です」
+display
+com11 0 0
+sound 47
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「プロデューサーは、私の解釈で、
+line2 <shift> # 感じ取れると思いますか？　恋心とドキドキ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……そう、だね。
+line2 <shift> # とりあえず、ドキドキはしたかな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……違う意味でだけど）
+display
+com11 0 0
+sound 48
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「よかった……。少し不安だったんですが、
+line2 <shift> # これで、迷いがふっきれました」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （微妙にカン違いしてる気がするけど……。
+line2 <shift> # まぁ、千早が納得してるんだし、いいか）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しかし、候補にあがっているだけで、まだ新曲
+line2 <shift> # として使うかどうかもわからない曲を……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ここまで研究するとは……すごいな。千早に
+line2 <shift> # 対する理解を、より深められた気がする）
+com4b 0 0
+com09 0 69
+display
+location 34
+com11 0 0
+sound 49
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……ハズレです」
+display
+com11 0 0
+sound 50
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「では、そういうことで」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あっ、千早！？
+line2 <shift> # お、おい、ちょっと！！」
+display <shift> # パタパタパタ……
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「行っちゃった……。すっごい速いな。
+line2 <shift> # さすがは日々鍛えてるだけある」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「って、感心してる場合じゃない！
+line2 <shift> # おい、千早！　待ってくれーー！！」
+display <shift> # パタパタパタ……
+display
+com11 0 0
+sound 51
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はぁ、はぁ……。今、戻りました」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……へ？」
+display
+com11 0 0
+sound 52
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「どうでしたか、私のダッシュ？
+line2 <shift> # ペガサスのようでしたか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ペガサスって……あの、羽のはえた？」
+display
+com11 0 0
+sound 53
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい、２番の歌詞に
+line2 <shift> # 『駆け出す私、ペガサスのよう』と」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……ちょっと待ってくれ。
+line2 <shift> # 全然、話が見えないんだが……」
+display
+com11 0 0
+sound 54
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「忘れてしまったんですか？
+line2 <shift> # 今度の新曲候補の曲の、歌詞です」
+display
+com11 0 0
+sound 55
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「まだ新曲として確定したわけではありません
+line2 <shift> # が、研究だけは進めておこうかと」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ！？　あー、あれか！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「って、ちょっと待て。今までの言動も、
+line2 <shift> # コイントス勝負も、全部……」
+display
+com11 0 0
+sound 56
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そうです。プロデューサー、歌詞の通りに
+line2 <shift> # 勝っていただかなくては困ります」
+display
+com11 0 0
+sound 57
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「これでは、歌詞の解釈が出来ません。
+line2 <shift> # プロデューサーに手伝ってほしかったのですが」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そういうことだったのか……」
+display
+com11 0 0
+sound 58
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「仕方ありません。
+line2 <shift> # この先は、ひとりでやってみます」
+display
+com11 0 0
+sound 59
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「お時間を取らせてしまって、すみません。
+line2 <shift> # それでは、失礼します」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （千早はひとりで立ち去ってしまった。
+line2 <shift> # 手伝いとしては失格だったな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……けどさ、千早。
+line2 <shift> # お願いだから先に言ってくれよ……）
+com4b 0 2
+com09 0 69
+display
+location 69
+unk02

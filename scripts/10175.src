@@ -1,0 +1,426 @@
+com2c 0 91
+com2d 0 21
+com32 0 0
+com11 0 2
+sound 700
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ふふっ、会場、満員！　この人ゴミは、ニュー
+line2 <shift> # アルバムが注目されてるって、証明よねっ？」
+com03 0 3
+choice1 <shift> # よろこぶには早いよ
+line2
+com09 0 10
+com08
+choice2 <shift> # 告知、うまくいったみたいだな
+line2
+com09 0 11
+com08
+choice3 <shift> # ヒマな記者、多いんだな
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よろこぶには早いよ」
+display
+com11 0 2
+sound 701
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「まあ、そうね。一番大事なのは、
+line2 <shift> # 発表してからの、ランキングだしっ」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「告知、うまくいったみたいだな」
+display
+com11 0 2
+sound 702
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……すこしシャクよね。いろんな手を
+line2 <shift> # 打たないと、話題にならないなんて」
+display
+com11 0 2
+sound 703
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「でもっ！　そのうち、なにもしなくても人が
+line2 <shift> # 集まる位置まで、のぼってみせるわっ！」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ヒマな記者、多いんだな」
+display
+com11 0 2
+sound 704
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ちょっとー。晴れの舞台に、水さすようなコト、
+line2 <shift> # 言わないでよー」
+display
+com11 0 2
+sound 705
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「みんな、いそがしいスケジュールをこじ開けて
+line2 <shift> # きてるの！　そうに決まってるんだから……」
+com09 0 29
+display
+location 29
+com11 0 2
+sound 706
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ねえ、今回のアルバム、どのくらい売れると
+line2 <shift> # 思う？」
+display
+com11 0 2
+sound 707
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「私、『目標、１億枚！』って、宣言しちゃおう
+line2 <shift> # かしらー」
+com03 0 3
+choice1 <shift> # それぐらい、売れるといいな
+line2
+com09 0 30
+com08
+choice2 <shift> # せめてミリオンぐらいに……
+line2
+com09 0 31
+com08
+choice3 <shift> # 『目標、１００億枚』にしよう
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それぐらい、売れるといいな」
+display
+com11 0 2
+sound 708
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「海外から打診がきて、その上、超ロングセラー
+line2 <shift> # になれば、届くかも！　……道、遠いけどね」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「せめてミリオンぐらいに……」
+display
+com11 0 2
+sound 709
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そんな弱気で、どうするのよー。下ばかり
+line2 <shift> # 見てると、尻すぼみになっちゃうんだから」
+display
+com11 0 2
+sound 710
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「それにハデなこと言わないと、人目を引かない
+line2 <shift> # でしょ。会見じゃ、これぐらいブチ上げないと」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「『目標、１００億枚』にしよう」
+display
+com11 0 2
+sound 711
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そ、そんなに売れるわけ、ないでしょー。
+line2 <shift> # 世界の人口より多いじゃないの〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、みんなが２枚ずつ買えば……」
+display
+com11 0 2
+sound 712
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「はあ〜あ、そこまで誇張しちゃったら、
+line2 <shift> # ハッタリを越えて、笑い物よ。まったく……」
+com09 0 49
+display
+location 49
+com11 0 2
+sound 713
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あ、そろそろ時間かしら。じゃ、壇上の席に
+line2 <shift> # いきましょ。プロデューサー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……って、俺も行くのか？」
+display
+com11 0 2
+sound 714
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あったり前でしょ！　横からいろいろ
+line2 <shift> # サポートしてちょーだい」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「無理だよ。だいたい壇上には、俺の席なんて
+line2 <shift> # ないし……」
+display
+com11 0 2
+sound 715
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ん〜、不便ねえ。……じゃあ、ここで最後の
+line2 <shift> # チェック！　どう、私、おかしなところない？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「髪の先が……すこし、はねてるな」
+display
+com11 0 2
+sound 716
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「え、ウソ？　ドライヤー、ミスったかしら」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ちょっと、動かないでくれよ……」
+com0e 0 115
+com44
+com09 0 50
+com45
+com44
+com09 0 51
+com45
+com44
+com09 0 52
+com45
+com44
+com09 0 53
+com45
+com44
+com09 0 54
+com45
+com44
+com09 0 55
+com45
+com44
+com09 0 56
+com45
+com44
+com09 0 57
+com45
+display
+location 50
+com11 0 2
+sound 717
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「終わった？　ふふん、どう？
+line2 <shift> # 私、最高にかわいーい？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、どこへ出しても、はずかしくないよ。
+line2 <shift> # がんばっておいで」
+display
+com11 0 2
+sound 718
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「まあ、見てて！　私、こういう場所でアピール
+line2 <shift> # するの、大得意だからっ。にひひっ♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （伊織はあおるの、うまいからな。やることは
+line2 <shift> # 完璧にやったし、後は、高みの見物といこう）
+com09 0 69
+display
+location 51
+com11 0 2
+sound 719
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「どう、直った？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、それがなかなか……」
+display
+com11 0 2
+sound 720
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「も〜、ダメねえ。……いいわ、１回控室に
+line2 <shift> # 戻って、直してくる」
+display
+com11 0 2
+sound 721
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あんたも、もうベテランよね？　これぐらい、
+line2 <shift> # 涼しい顔で、こなしてほしかったわー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （すこし、手際が悪かったかな。俺なりに
+line2 <shift> # 努力したことは、わかってくれてると思うけど）
+com09 0 69
+display
+location 52
+com11 0 2
+sound 722
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「痛っ！　な、なにすんのよ〜！」
+display
+com11 0 2
+sound 723
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「髪の先って、マツゲのことだったの？
+line2 <shift> # だったら、はねてるに決まってるじゃない！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、髪の毛もはねてるんだけど……」
+display
+com11 0 2
+sound 724
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「だったら、そっち直しなさいよっ。ばか〜」
+display
+com11 0 2
+sound 725
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「もう、いいわ！　控室戻って、自分で
+line2 <shift> # 直してくるっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （会見の前に、イライラさせてしまった……。
+line2 <shift> # なんで目なんか、さわったんだろ？）
+com09 0 69
+display
+location 53
+com11 0 2
+sound 726
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ん……。はねた髪って、鼻にかかってるの？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、そんなことないよ。ただ、
+line2 <shift> # さわってみただけ」
+display
+com11 0 2
+sound 727
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「な、なんで、そんな意味ないことするのよ〜。
+line2 <shift> # も〜、役に立たないんだから〜」
+display
+com11 0 2
+sound 728
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「いいわ。控室に戻って、自分で直してくるっ。
+line2 <shift> # う、く、クシャミでそう……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （誰かが、伊織のウワサを……してるわけは
+line2 <shift> # ないか。イタズラに、刺激してしまったな）
+com09 0 69
+display
+location 54
+com11 0 2
+sound 729
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「や、やだ……。どこ、さわってんの……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「口紅とか、塗ってないんだな」
+display
+com11 0 2
+sound 730
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「うん。……って、そんなことより、髪は
+line2 <shift> # どうしたのよ〜」
+display
+com11 0 2
+sound 731
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「もういい！　控室戻って、自分で直すわ。
+line2 <shift> # 前フリもなく、ヘンなとこ、触れないでよねっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （突然、くちびるなんか、さわっちゃいけない
+line2 <shift> # よな。怒るのも、当然だ……）
+com09 0 69
+display
+location 55
+com11 0 2
+sound 732
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「髪はねてるのって、そんな上？
+line2 <shift> # もしかして、リボンに引っかかってる？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、引っかかってないよ。位置も、全然
+line2 <shift> # 下だし」
+display
+com11 0 2
+sound 733
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「じゃあ、なんで、そんなとこ、いじってる
+line2 <shift> # のよー。時間ないのに〜」
+display
+com11 0 2
+sound 734
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「もういいわ。控室戻って、ドライヤーかけ直す
+line2 <shift> # から！　……ほんと、役立たずねっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （リボンの素材は、シルクみたいだ。
+line2 <shift> # ……確かめても、なんの意味もないけど）
+com09 0 69
+display
+location 56
+com11 0 2
+sound 735
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ど、どうして、そんなとこ、さわるのよっ！
+line2 <shift> # はねてるのは、髪でしょ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ん？　ああ、そうだったな……」
+display
+com11 0 2
+sound 736
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「こんな時に、意味ないことしないでよね。
+line2 <shift> # 時間ないのに〜」
+display
+com11 0 2
+sound 737
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「もういいわ。自分で直してくる！　あんたと、
+line2 <shift> # 遊んでるヒマなんか、ないんだから……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （つい、寄り道をしてしまった。大切な会見の
+line2 <shift> # 前に、なにやってるんだか……）
+com09 0 69
+display
+location 57
+com11 0 2
+sound 738
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……なんで、ぼーっとしてるの？
+line2 <shift> # 私、いつまでこうしてれば、いいわけ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや……真っ直ぐ立ってれば、そのうち重力で
+line2 <shift> # 元に戻るかなって……」
+display
+com11 0 2
+sound 739
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なに、ノンキなこと、言ってるのよ〜。
+line2 <shift> # 会見、もうすぐ、はじまるのにっ！」
+display
+com11 0 2
+sound 740
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「もういい！　控室で、自分で直してくる。
+line2 <shift> # あんたにつき合ってたら、日が暮れちゃうわ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （なんとなく、ボンヤリながめてしまった。
+line2 <shift> # もっとテキパキ、動かないとな）
+com09 0 69
+display
+location 69
+unk02

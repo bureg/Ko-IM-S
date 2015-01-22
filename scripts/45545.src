@@ -1,0 +1,259 @@
+com2c 0 51
+com2d 0 81
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「真、寄りたかったところって、この公園の
+line2 <shift> # ステージか？　ここにいったい、なにが……？」
+display
+com11 0 3
+sound 1100
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あ、あれ、いないな。もう、ここは使って
+line2 <shift> # ないのかな。それとも……」
+display
+com11 0 3
+sound 1101
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ボクが中学生の頃、このステージで、ダンスの
+line2 <shift> # 練習をしてた、女の人達がいたんです」
+display
+com11 0 3
+sound 1102
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「使い古したジャージで、必死に踊ってて。
+line2 <shift> # 今、思えば、あの人達は、多分……」
+com03 0 3
+choice1 <shift> # どこかの劇団員？
+line2
+com09 0 10
+com08
+choice2 <shift> # アイドル候補生？
+line2
+com09 0 11
+com08
+choice3 <shift> # 酔っぱらい集団？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どこかの劇団員？」
+display
+com11 0 3
+sound 1103
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「だと、思います。練習用にかけてた曲、なんか
+line2 <shift> # ミュージカルの歌っぽかったし」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「アイドル候補生？」
+display
+com11 0 3
+sound 1104
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「うーん、ちがうような気がします。ボクが言う
+line2 <shift> # のもなんですけど、かわいい人、いなかったし」
+display
+com11 0 3
+sound 1105
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「きっと、演劇とか、そっち関係の人です。
+line2 <shift> # たしかめようは、ないですけど」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「酔っぱらい集団？」
+display
+com11 0 3
+sound 1106
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ジャージ着た酔っぱらいなんて、いませんよ〜。
+line2 <shift> # ボクの話、聞いてくれてました？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「う……ごめん。じゃあ、なんだったんだろう」
+display
+com11 0 3
+sound 1107
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「きっと、演劇とか、そっち関係の人です。
+line2 <shift> # 練習用の音楽とか、そんな感じだったし」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ふーん、で、ダンスはうまかったのか？」
+display
+com11 0 3
+sound 1108
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「今のボクと比べると、かなり落ちますね。
+line2 <shift> # まだ、研修生だったのかもしれません」
+display
+com11 0 3
+sound 1109
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「それでも、あの頃のボクには、まぶしかった
+line2 <shift> # です。なにかに打ち込む姿って、いいなって」
+display
+com11 0 3
+sound 1110
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「女の子としてのかわいさと、あの真剣さ。
+line2 <shift> # その両方が、どうしても欲しくて……」
+display
+com11 0 3
+sound 1111
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「それでボク、アイドルになるしかないって、
+line2 <shift> # 思ったんです！」
+com03 0 2
+choice1 <shift> # ここは、夢の原点、か
+line2
+com09 0 30
+com08
+choice2 <shift> # ここが、脱線のはじまり、か
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ここは、夢の原点、か」
+display
+com11 0 3
+sound 1112
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「そうですね。あの人達がいたから、
+line2 <shift> # ボクは、この道を……」
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ここが、脱線のはじまり、か」
+display
+com11 0 3
+sound 1113
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あはは……。まだ、脱線かどうか、
+line2 <shift> # わからないじゃないですか」
+display
+com11 0 3
+sound 1114
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「普通はめざさない道でも、ボクにとっては、
+line2 <shift> # 正しい道なのかもしれないし」
+com09 0 49
+display
+location 49
+com11 0 3
+sound 1115
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ここにいた人達、今、どうしてるんだろ。
+line2 <shift> # まだどこかで、夢を追ってるといいんだけど」
+com03 0 3
+choice1 <shift> # もう、かなえてるかもよ
+line2
+com09 0 50
+com08
+choice2 <shift> # ここで、待ってみる？
+line2
+com09 0 51
+com08
+choice3 <shift> # あきらめて、専業主婦かもな
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もう、かなえてるかもよ」
+display
+com11 0 3
+sound 1116
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あ、だったら、最高ですね！　あの汗が、
+line2 <shift> # 大きな劇場で流れてるとしたら……！」
+display
+com11 0 3
+sound 1117
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「いつか、あの人達がくれたもの、ボクも、
+line2 <shift> # 誰かにあげられるようになりたいです！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その瞳には、強い光……。夢って、こんな風に、
+line2 <shift> # 連鎖していくものかもしれないな）
+com09 0 69
+display
+location 51
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ここで、待ってみる？　しばらくしたら、
+line2 <shift> # くる可能性もあるよな？」
+display
+com11 0 3
+sound 1118
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「うーん、いいですっ。そろそろ事務所に
+line2 <shift> # 戻らないといけない時間ですし。それに……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……それに？」
+display
+com11 0 3
+sound 1119
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「もらうものは、あの日、全部もらっちゃった
+line2 <shift> # 気がするから。帰りましょう、プロデューサー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （せっかく来たのに、そっけないな。ま、本人が
+line2 <shift> # いいって言うなら、無理強いすることもないか）
+com09 0 69
+display
+location 52
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あきらめて、専業主婦かもな」
+display
+com11 0 3
+sound 1120
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ぐあ……思い切りシビアなこと、言わないで
+line2 <shift> # くださいよ〜。わからないじゃないですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「アイドルと同様、劇団も厳しいだろうからな。
+line2 <shift> # それに、専業主婦だって、幸せならいいだろ？」
+display
+com11 0 3
+sound 1121
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「それはそうですけど……でも、やっぱり、
+line2 <shift> # どこかで、がんばっててほしいです」
+display
+com11 0 3
+sound 1122
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あまりにも、くやしいよな。あの日の汗が……
+line2 <shift> # 結局、なんの実も結ばなかったとしたら」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （悲しげに、足元の石を蹴っている。その、
+line2 <shift> # 転がる乾いた音が、静かな公園に響いた）
+com09 0 69
+display
+location 69
+unk02

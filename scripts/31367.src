@@ -1,0 +1,1056 @@
+com2d 0 62
+display
+location 1015
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （雪歩、ここは、こう言っておくんだ！）
+com03 0 3
+com48 130 230 130 235 130 181 130 173 130 168 138 232
+line2 <shift> # いします
+com09 3 248
+com08
+com48 143 137 130 223 130 196 130 197 139 217 146 163
+line2 <shift> # してます
+com09 3 249
+com08
+com48 144 226 145 206 129 65 143 159 130 191 130 189
+line2 <shift> # いです
+com09 3 250
+com08
+com48 142 132 130 240 140 169 130 196 137 186 130 179
+line2 <shift> # い
+com09 3 251
+com08
+com48 130 189 130 173 130 179 130 241 151 251 143 75
+line2 <shift> # しました
+com09 3 252
+com08
+display
+location 1016
+com4a 0 1
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「よ、よろしくお願いします」
+display
+location 1017
+com4a 0 1
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「初めてで緊張してますっ」
+display
+location 1018
+com4a 0 1
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「絶対、勝ちたいです」
+display
+location 1019
+com4a 0 1
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「私を見て下さい」
+display
+location 1020
+com4a 0 1
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「たくさん練習しました！」
+display
+location 1200
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい！　ありがとうございます！」
+display
+location 1201
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「は、はいぃ……」
+display
+location 1202
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よし、テンションもあがったようだ！）
+display
+location 1203
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あぁ……、テンションが下がってしまった）
+display
+location 1400
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺ができることは応援することだけだ！）
+com03 0 2
+choice1 <shift> # 初めてだから気楽にな
+line2
+com09 5 121
+com08
+choice2 <shift> # 遠慮は要らない、飛ばして行け！
+line2
+com09 5 122
+com08
+com07
+com09 5 122
+com08
+display
+location 1401
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「初めてだから気楽にな」
+display
+location 1402
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「遠慮は要らない、飛ばして行け！」
+display
+location 1500
+com11 0 0
+sound 10007
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい！　気楽に、リラックスして……」
+display
+com4a 0 1
+com11 0 0
+sound 10008
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「では、行ってきます、プロデューサー」
+display
+location 1501
+com11 0 0
+sound 10009
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「気楽に？　じゃあ力を抜いて、くにゃくにゃに
+line2 <shift> # なります〜。でもこれじゃ上手く歌えないかも」
+display
+com4a 0 1
+com11 0 0
+sound 10010
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あっ、もう時間です。い、行ってきます！」
+display
+location 1502
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい！　一生懸命頑張ります」
+display
+com4a 0 1
+com11 0 0
+sound 10012
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「では、行ってきます、プロデューサー」
+display
+location 1503
+com11 0 0
+sound 10013
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「と、飛ばしますか？　もう限界かも」
+display
+com4a 0 1
+com11 0 0
+sound 10014
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あっ、もう時間です。い、行ってきます！」
+display
+location 2015
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （雪歩、ここは、こう言っておくんだ！）
+com03 0 3
+com48 136 234 144 182 140 156 150 189 129 65 138 230
+line2 <shift> # 張ります
+com09 7 224
+com08
+com48 142 169 144 77 130 170 130 160 130 232 130 220
+line2 <shift> # す
+com09 7 225
+com08
+com48 130 181 130 193 130 169 130 232 140 169 130 196
+line2 <shift> # 下さい
+com09 7 226
+com08
+com48 130 189 130 173 130 179 130 241 151 251 143 75
+line2 <shift> # しました
+com09 7 227
+com08
+com48 141 135 138 105 130 181 130 196 130 221 130 185
+line2 <shift> # ます
+com09 7 228
+com08
+display
+location 2016
+com4a 0 1
+com11 0 0
+sound 10015
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「一生懸命、頑張りますっ！」
+display
+location 2017
+com4a 0 1
+com11 0 0
+sound 10016
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ダンスには自信があります！」
+display
+location 2018
+com4a 0 1
+com11 0 0
+sound 10019
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「私をしっかり見て下さい！」
+display
+location 2019
+com4a 0 1
+com11 0 0
+sound 10020
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「たくさん練習しました」
+display
+location 2020
+com4a 0 1
+com11 0 0
+sound 10021
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「合格したいです！」
+display
+location 2021
+com4a 0 1
+com11 0 0
+sound 10017
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ボーカルには自信があります！」
+display
+location 2022
+com4a 0 1
+com11 0 0
+sound 10018
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ビジュアルには自信があります！」
+display
+location 2200
+com11 0 0
+sound 10022
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい！　ありがとうございます！」
+display
+location 2201
+com11 0 0
+sound 10023
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「は、はい……」
+display
+location 2202
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よし、テンションもあがったようだ！）
+display
+location 2203
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あぁ……、テンションが下がってしまった）
+display
+location 2400
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺ができることは応援することだけだ！）
+com03 0 3
+choice1 <shift> # 絶対勝てるぞ！
+line2
+com09 9 97
+com08
+choice2 <shift> # ほかに負けるな
+line2
+com09 9 98
+com08
+choice3 <shift> # とにかく頑張れ
+line2
+com09 9 99
+com08
+com07
+com09 9 97
+com08
+display
+location 2401
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「絶対勝てるぞ！」
+display
+location 2402
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ほかに負けるな」
+display
+location 2403
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「とにかく頑張れ」
+display
+location 2500
+com11 0 0
+sound 10024
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「は、はい！　ありがとうございます！」
+display
+com4a 0 1
+com11 0 0
+sound 10025
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「では、行ってきます、プロデューサー」
+display
+location 2501
+com11 0 0
+sound 10026
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ううっ、そんなこと言われても、
+line2 <shift> # 私、どじでのろまだから無理ですよぉ……」
+display
+com4a 0 1
+com11 0 0
+sound 10027
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ああっ、もう時間！　い、行ってきます！」
+display
+location 2502
+com11 0 0
+sound 10028
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はいっ。そうですね、みなさん頑張っている
+line2 <shift> # んだから、私も！」
+display
+com4a 0 1
+com11 0 0
+sound 10029
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「では、行ってきます、プロデューサー」
+display
+location 2503
+com11 0 0
+sound 10030
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「わ、私だって負けたくないです。
+line2 <shift> # 負けたくないですけどぉ……」
+display
+com4a 0 1
+com11 0 0
+sound 10031
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あっ、もう時間です！　い、行ってきます！」
+display
+location 2504
+com11 0 0
+sound 10032
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい！　とにかく全力で頑張ります！」
+display
+com4a 0 1
+com11 0 0
+sound 10033
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「では、行ってきます、プロデューサー」
+display
+location 2505
+com11 0 0
+sound 10034
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そ、そんなこと言われても、
+line2 <shift> # どう頑張ったらいいんですか〜」
+display
+com4a 0 1
+com11 0 0
+sound 10035
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ああっ、もう時間です！　い、行ってきます！」
+display
+location 1050
+com11 0 0
+sound 10036
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はぁぁ、残念です、あと少しで合格できたと
+line2 <shift> # 思ううのですけど……」
+display
+com11 0 0
+sound 10037
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「次は、合格したいです。プロデューサー、
+line2 <shift> # また応援、よろしくお願いします」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （雪歩は次回への闘志を燃やしている。
+line2 <shift> # オーディション落選も無駄では無かったな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わかった。それじゃ、事務所に帰ろうか」
+display
+com4a 0 1
+com11 0 0
+sound 10038
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい！」
+display
+location 1055
+com11 0 0
+sound 10039
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ううっ、まだまだ実力にはかなり差があった
+line2 <shift> # みたいです……」
+display
+com11 0 0
+sound 10040
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「もっともっとレッスンしないと勝てませんね。
+line2 <shift> # また、レッスン頑張ります」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （落選は痛いが、実力を知ることが出来た。
+line2 <shift> # この教訓を活かしたいな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、その意気だ。事務所に帰ろうか」
+display
+com4a 0 1
+com11 0 0
+sound 10041
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい！」
+display
+location 1060
+com11 0 0
+sound 10042
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「やっぱり、また不合格ですね。私じゃきっと
+line2 <shift> # 合格できないんですよ、きっと」
+display
+com11 0 0
+sound 10043
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「やっぱりダメダメアイドルですね、私。
+line2 <shift> # この辺に穴掘って埋まっています。ぐすっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （雪歩は落ち込んでしまった。これは
+line2 <shift> # オーディション対策を考えないといけないな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「と、ともかく事務所に帰ろう」
+display
+com4a 0 1
+com11 0 0
+sound 10044
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい……」
+display
+location 1046
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「やったー！」
+display
+location 1047
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よし！　これでファン数大幅ＵＰだ！）
+display
+location 1048
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ＴＶ出演の前に、今日のパート担当を
+line2 <shift> # 決めよう！　少し待っておいてくれ！」
+display
+location 1049
+com4a 0 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい！」
+display
+location 5001
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし！　今日は雪歩を信じて、
+line2 <shift> # オーディションをまかせるよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺はその間、少し用事をすませて
+line2 <shift> # くるけどいいかな？」
+display
+com11 0 0
+sound 10041
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あまり早く帰ってきても、
+line2 <shift> # 信用してないみたいで、逆効果だろうな）
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （なるべくゆっくりして、かつ、
+line2 <shift> # 時間ピッタリに帰ることができれば……！）
+display
+location 5002
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「雪歩、この時間に戻ってくるからな」
+display
+location 5005
+com11 0 0
+sound 10045
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「それじゃあ、気をつけて。
+line2 <shift> # いってらっしゃい、プロデューサー。えへへ」
+display
+location 5006
+com11 0 0
+sound 10046
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「少し長いですね。私も頑張りますから、
+line2 <shift> # プロデューサーも頑張ってきて下さいね」
+display
+location 5007
+com11 0 0
+sound 10047
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あう、結構長いんですね。
+line2 <shift> # プロデューサーのお帰り、お待ちしてます〜」
+display
+location 5008
+com11 0 0
+sound 10048
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「プロデューサー、いってらっしゃ〜い」
+display
+location 5009
+com11 0 0
+sound 10049
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「いってらっしゃい、プロデューサー。
+line2 <shift> # ちょっと長いですけど、頑張っておきますぅ」
+display
+location 5010
+com11 0 0
+sound 10050
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あう、結構、先なんですね……。
+line2 <shift> # 疲れないように、頑張っておきますぅ」
+display
+location 5011
+com11 0 0
+sound 10051
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「……１人で心細いですけど、
+line2 <shift> # 頑張っておきますぅ」
+display
+location 5012
+com11 0 0
+sound 10052
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あの、必ず、迎えに来て下さいね。
+line2 <shift> # いってらっしゃい、プロデューサー」
+display
+location 5013
+com11 0 0
+sound 10053
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「プロデューサー……、
+line2 <shift> # 必ず無事に戻ってきて下さいね……」
+display
+location 5014
+com4a 0 0
+com11 0 0
+sound 10054
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ、プロデューサー。
+line2 <shift> # お帰りなさい！　えへへ」
+display
+location 5015
+com4a 0 0
+com11 0 0
+sound 10055
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「お帰りなさい、プロデューサー」
+display
+location 5016
+com4a 0 0
+com11 0 0
+sound 10056
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ……、もう時間だったんですね。
+line2 <shift> # お帰りなさい、プロデューサー」
+display
+location 5017
+com4a 0 0
+com11 0 0
+sound 10057
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ、もう戻られたんですね！
+line2 <shift> # 早く会えて嬉しいです、プロデューサー」
+display
+location 5018
+com4a 0 0
+com11 0 0
+sound 10058
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ、プロデューサー、お帰りなさい。
+line2 <shift> # 早いお戻りですね」
+display
+location 5019
+com4a 0 0
+com11 0 0
+sound 10059
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ、プロデューサー。
+line2 <shift> # もう、戻られたんですね」
+display
+location 5020
+com11 0 0
+sound 10060
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「うう〜、プロデューサー、
+line2 <shift> # 待ちくたびれちゃいましたぁ」
+display
+location 5021
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ご、ごめん……。
+line2 <shift> # それより、雪歩、結果はどうだった？」
+display
+location 5022
+com11 0 0
+sound 10061
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「……プロデューサー、遅刻ですよ！」
+display
+location 5023
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ご、ごめん……。
+line2 <shift> # それより、雪歩、結果はどうだった？」
+display
+location 5024
+com11 0 0
+sound 10062
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「……遅かったですね」
+display
+location 5025
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ご、ごめん……。
+line2 <shift> # それより、雪歩、結果はどうだった？」
+display
+location 5026
+com11 0 0
+sound 10063
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「一体、何時だと思ってるんですか？
+line2 <shift> # うう、ひどいですぅ……」
+display
+location 5027
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ご、ごめん……。
+line2 <shift> # それより、雪歩、結果はどうだった？」
+display
+location 5028
+com4a 0 0
+com11 0 0
+sound 10064
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ、プロデューサー。ピッタリ賞です！」
+display
+location 5029
+com11 0 0
+sound 10065
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「……次は、どんな想像しようかなぁ。
+line2 <shift> # 宝クジが当たったら、は、定番だし……」
+display
+com11 0 0
+sound 10066
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「プロデューサーが、いきなり私に、
+line2 <shift> # 告白するパターンも前にやったから……」
+display
+com11 0 0
+sound 10067
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あれ？　なんだか人の気配が……、あああっ！
+line2 <shift> # ぷ、プロデューサー！　いつの間に？」
+display
+com11 0 0
+sound 10068
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「もしかして、きいてたんですか！？
+line2 <shift> # 違うんです、今のは、なんでもないんですぅ！」
+display
+com4a 0 0
+com11 0 0
+sound 10069
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「うう〜、こんなダメダメな私は、
+line2 <shift> # 穴掘って、埋まっておきますぅ！！」
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ご、ごめん……。
+line2 <shift> # それより、雪歩、結果はどうだった？」
+display
+location 5100
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ただいま、雪歩。
+line2 <shift> # ところで、オーディションの結果は……？」
+display
+location 5106
+com4a 0 0
+com11 0 0
+sound 10070
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ、プロデューサー！　早く早く、
+line2 <shift> # ちょうど始まるところです！」
+display
+location 5101
+com11 0 0
+sound 10071
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「１位通過……！　やりました！
+line2 <shift> # うう、すごく嬉しいかもですぅ〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「実力を存分に発揮できたみたいだな！
+line2 <shift> # さあ、ＴＶ出演で仕上げだ、雪歩！」
+display
+com4a 0 0
+com11 0 0
+sound 10072
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい！」
+display
+location 5102
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ただいま、雪歩。
+line2 <shift> # ところで、オーディションの結果は……？」
+display
+location 5107
+com4a 0 0
+com11 0 0
+sound 10073
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ、プロデューサー！
+line2 <shift> # ちょうど始まるところです！」
+display
+location 5103
+com11 0 0
+sound 10074
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「合格ですか！？　わあ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「これが、雪歩の実力だよ。
+line2 <shift> # さあ、ＴＶ出演、頑張って来い！」
+display
+com4a 0 0
+com11 0 0
+sound 10075
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい！」
+display
+location 5104
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ただいま、雪歩。
+line2 <shift> # ところで、オーディションの結果は……？」
+display
+location 5108
+com4a 0 0
+com11 0 0
+sound 10076
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ、プロデューサー！
+line2 <shift> # ちょうど始まるところです！」
+display
+location 5105
+com11 0 0
+sound 10077
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あう……。やっぱり、
+line2 <shift> # 私はダメダメなんですね……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今日は、たまたま、だよ。
+line2 <shift> # さあ、事務所に帰ってお茶でも飲もう」
+display
+com4a 0 0
+com11 0 0
+sound 10078
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「……はい……」
+display
+location 1600
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そういえば、今日は事務所の娘が、
+line2 <shift> # オーディションに参加しているみたいだ）
+display
+com11 0 0
+sound 10079
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「プロデューサー！　あの、同じ、
+line2 <shift> # オーディションの参加者に……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もしかして、αのことか？
+line2 <shift> # 事務所の仲間も会場ではライバルだ」
+com03 0 3
+choice1 <shift> # 気合いを入れるんだ！
+line2
+com09 6 65
+com08
+choice2 <shift> # 気にするな
+com09 6 66
+com08
+choice3 <shift> # 勝ちに行くぞ！
+line2
+com09 6 67
+com08
+com07
+com09 6 65
+com08
+display
+location 1601
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「気合いを入れるんだ！」
+display
+location 1610
+com11 0 0
+sound 10080
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい！　気持ちだけでも、
+line2 <shift> # 負けないように頑張ります！」
+display
+com4a 0 0
+com11 0 0
+sound 10081
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「それじゃあ、プロデューサー、
+line2 <shift> # 見ていて下さいね！」
+display
+location 1601
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「気合いを入れるんだ！」
+display
+location 1611
+com11 0 0
+sound 10082
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ええっ！　気合いって、どうすれば……。
+line2 <shift> # 顔を叩いたりしないと、ダメでしょうか？」
+display
+com4a 0 0
+com11 0 0
+sound 10083
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ああっ、話しているうちに
+line2 <shift> # もう時間かも！　い、行ってきます〜！」
+display
+location 1602
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「気にするな。こういうことは、
+line2 <shift> # 良くあることだからな」
+display
+location 1612
+com11 0 0
+sound 10084
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「……そうですね。変に意識しちゃったら、
+line2 <shift> # 相手にも迷惑ですよね」
+display
+com4a 0 0
+com11 0 0
+sound 10085
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「それじゃあ、プロデューサー。
+line2 <shift> # 行ってきます！」
+display
+location 1602
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「気にするな」
+display
+location 1613
+com11 0 0
+sound 10086
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「うう、そんなのムリですよぉ。
+line2 <shift> # 同じ事務所の仲間なんですよ？」
+display
+com4a 0 0
+com11 0 0
+sound 10087
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ああっ、もう時間かもっ！
+line2 <shift> # い、行ってきます〜っ！」
+display
+location 1603
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「勝ちに行くぞ！」
+display
+location 1614
+com11 0 0
+sound 10088
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はいっ！　私だって、皆に、
+line2 <shift> # 負けないくらい頑張ってますから！」
+display
+com4a 0 0
+com11 0 0
+sound 10089
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「それじゃあ、プロデューサー。
+line2 <shift> # 行ってきます！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「勝ちにいくぞ！」
+display
+location 1615
+com11 0 0
+sound 10090
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そ、そんな……。勝つなんて、
+line2 <shift> # 簡単に言わないで下さいよぉ」
+display
+com4a 0 0
+com11 0 0
+sound 10091
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「私なんてダメダメ……、あっ！
+line2 <shift> # もう時間かも！　い、行ってきます！」
+display
+location 1700
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今回は９６１プロのアイドルがいるから、
+line2 <shift> # いつもより気合いを入れて応援しないと）
+com03 0 3
+choice1 <shift> # フレーフレー！　雪歩！
+line2
+com09 6 165
+com08
+choice2 <shift> # 遠くから見守っているぞ！
+line2
+com09 6 166
+com08
+choice3 <shift> # 俺達は一心同体だ！
+line2
+com09 6 167
+com08
+com07
+com09 6 165
+com08
+display
+location 1701
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「フレーフレー！　雪歩！」
+display
+location 1710
+com11 0 0
+sound 10092
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「うわぁ、プロデューサー、
+line2 <shift> # 応援、ありがとうございます！」
+display
+com4a 0 0
+com11 0 0
+sound 10093
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「なんだか、パワーをもらっちゃいました。
+line2 <shift> # パワーがなくならないうちに、行ってきます！」
+display
+location 1701
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「フレーフレー！　雪歩！」
+display
+location 1711
+com11 0 0
+sound 10094
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ、あの……、プレッシャーを、
+line2 <shift> # かけないで下さいよ〜」
+display
+com4a 0 0
+com11 0 0
+sound 10095
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「胸のドキドキが全然止まりません……。
+line2 <shift> # でも行かなくちゃ……、うう」
+display
+location 1702
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「雪歩、俺は遠くから見守っているぞ！」
+display
+location 1712
+com11 0 0
+sound 10096
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい！　私の成長した姿を、
+line2 <shift> # しっかり見ていて下さい！」
+display
+com4a 0 0
+com11 0 0
+sound 10097
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「プロデューサーとの活動の成果、
+line2 <shift> # 思いっきりぶつけてきます！」
+display
+location 1702
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「雪歩、俺は遠くから見守っているぞ！」
+display
+location 1713
+com11 0 0
+sound 10098
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「……遠くから、なんですね。
+line2 <shift> # ちょっと、というか、かなり不安です……」
+display
+com4a 0 0
+com11 0 0
+sound 10099
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「……心細いですけど、とにかく行って来ます」
+display
+location 1703
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺達は、一心同体だ！」
+display
+location 1714
+com11 0 0
+sound 10100
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい！　プロデューサーと私の心は、
+line2 <shift> # いつでも同じ場所にいるんですね！」
+display
+com4a 0 0
+com11 0 0
+sound 10101
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「プロデューサーのハートを感じながら、
+line2 <shift> # 私、頑張ります！」
+display
+location 1703
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺達は、一心同体だ！」
+display
+location 1715
+com11 0 0
+sound 10102
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「え？　こ、こんなところで大声で叫んだら、
+line2 <shift> # ご、誤解されちゃいますよぉ！」
+display
+com4a 0 0
+com11 0 0
+sound 10103
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あうう〜、と、とにかく行って来ます〜」
+display
+unk02

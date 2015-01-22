@@ -1,0 +1,322 @@
+com2c 0 38
+com2d 0 23
+com32 0 0
+com11 0 4
+sound 600
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「さみしいお年寄りを、歌でなぐさめるのね！
+line2 <shift> # よーし、全力でやるわー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「めずらしく、はりきってるな。
+line2 <shift> # ……熱でもあるのか？」
+display
+com11 0 4
+sound 601
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ないわよ、そんなもん！　ほらっ、
+line2 <shift> # はかってみなさいよ〜」
+com0e 0 106
+com44
+com09 0 10
+com45
+com44
+com09 0 11
+com45
+com44
+com09 0 12
+com45
+com44
+com09 0 13
+com45
+display
+location 10
+com11 0 4
+sound 602
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ね！　平熱でしょっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「本当だ。じゃあ、どうしてそんなに
+line2 <shift> # やる気満々なんだ？」
+com09 0 19
+display
+location 11
+com11 0 4
+sound 603
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「いたっ！　なにすんの、痛いじゃないのよー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、冷静さを取り戻させてやろうと思って」
+display
+com11 0 4
+sound 604
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「私は冷静よ！　も〜、せっかく燃えてるのに、
+line2 <shift> # 水ささないでよね！」
+com09 0 18
+display
+location 12
+com11 0 4
+sound 605
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「どこさわってるのよー？　そんなとこで、
+line2 <shift> # 熱はかれるわけないでしょ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだよな……。ごめん」
+display
+com11 0 4
+sound 606
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「も〜、せっかく燃えてるのに、ヘンなこと
+line2 <shift> # しないでよね！」
+com09 0 18
+display
+location 13
+com11 0 4
+sound 607
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……どうしたのよ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、見ればわかるよ。とくに熱っぽい顔は
+line2 <shift> # してないし……」
+display
+com11 0 4
+sound 608
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「フフン、当たり前でしょ。私は、ごくごく
+line2 <shift> # 普通に、仕事に燃えてるだけだもーん」
+com09 0 18
+display
+location 18
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なんか、ピンとこないな。……どうして
+line2 <shift> # そんなに、やる気満々なんだ？」
+com09 0 19
+display
+location 19
+com11 0 4
+sound 609
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あら、私はいつもこんな感じでしょ？　さ、ス
+line2 <shift> # テキな歌を、たっぷりプレゼントしてくるわ♪」
+display
+com22 0 30
+com32 0 0
+com21 0 30
+com11 0 4
+sound 610
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「終わったわ、プロデューサー！
+line2 <shift> # 早速、作戦開始よっ」
+display
+com11 0 4
+sound 611
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「持ってきたＣＤ、全部出して！　甘そうな人
+line2 <shift> # ばっかりだから、いまなら飛ぶように売れるわ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……ＣＤなんて、今は持ってきてないけど？」
+display
+com11 0 4
+sound 612
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「な、な、なんですってー！　も〜ばかばか〜！
+line2 <shift> # せっかくのチャンスが、ムダになっちゃうー」
+com03 0 3
+choice1 <shift> # たしかに、惜しいな
+line2
+com09 0 20
+com08
+choice2 <shift> # きっとお店で買ってくれるよ
+line2
+com09 0 21
+com08
+choice3 <shift> # まあ、いいじゃないか
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「たしかに、惜しいな」
+display
+com11 0 4
+sound 613
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「でしょ？　私っ、事務所に戻って、ＣＤ
+line2 <shift> # 持ってくるわ！」
+com03 0 3
+choice1 <shift> # 車、出すよ
+com09 0 30
+com08
+choice2 <shift> # 俺もつき合うよ
+line2
+com09 0 31
+com08
+choice3 <shift> # そこまでしなくても……
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「きっとお店で買ってくれるよ」
+display
+com11 0 4
+sound 614
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なに寝ぼけてるの！　ちょっと時間が経ったら、
+line2 <shift> # 冷めちゃうかもしれないでしょ！」
+display
+com11 0 4
+sound 615
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「私っ、事務所に戻って、ＣＤ持ってくる！」
+com03 0 3
+choice1 <shift> # 車、出すよ
+com09 0 30
+com08
+choice2 <shift> # 俺もつき合うよ
+line2
+com09 0 31
+com08
+choice3 <shift> # そこまでしなくても……
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、いいじゃないか」
+display
+com11 0 4
+sound 616
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「よくないわよ〜！　ここで売らなかったら、
+line2 <shift> # 私はなんのために、がんばったのー？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、ご老人達の、ひとときの楽しみの
+line2 <shift> # ために……」
+display
+com11 0 4
+sound 617
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そんな考えだから、あんたはダメなの！
+line2 <shift> # ……私、事務所に戻って、ＣＤ持ってくる！」
+com03 0 3
+choice1 <shift> # 車、出すよ
+com09 0 30
+com08
+choice2 <shift> # 俺もつき合うよ
+line2
+com09 0 31
+com08
+choice3 <shift> # そこまでしなくても……
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「車、出すよ」
+display
+com11 0 4
+sound 618
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あ、そうよね！　そうすれば、かなりの枚数、
+line2 <shift> # 持ってこられるし！」
+display
+com11 0 4
+sound 619
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「にひひっ♪　これで貯め込んでる年金、
+line2 <shift> # 根こそぎゲットだわ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ここは、従っておくのがベストだな。……にし
+line2 <shift> # ても、年金ねえ。こういうとこは、計算高いな）
+com09 0 39
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺もつき合うよ」
+display
+com11 0 4
+sound 620
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「当然でしょ！　この私が、自分で荷物運びまで
+line2 <shift> # するって言ってるのに！」
+display
+com11 0 4
+sound 621
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あんたには、ダンボール４つぐらいは
+line2 <shift> # 持ってもらうわ」
+display
+com11 0 4
+sound 622
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「こういう時こそ、男のパワーを見せて
+line2 <shift> # ちょーだいね♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （４つは、かなりしんどいな……。ま、ここは
+line2 <shift> # 今後のために、がんばるとしよう）
+com09 0 39
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そこまでしなくても……」
+display
+com11 0 4
+sound 623
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「く〜、どうしてあんたは、そんなに
+line2 <shift> # おめでたいのよ〜！」
+display
+com11 0 4
+sound 624
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「いいわっ、私ひとりでだって行ってきてやる！
+line2 <shift> # あんたは、そこで昼寝でもしてなさーいっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そういうわけにはいかないよ……」
+display
+com11 0 4
+sound 625
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「フンだ。どーせ、私が売れなくたって、
+line2 <shift> # 知ったことじゃないんでしょ……」
+display
+com11 0 4
+sound 626
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「おぼえてなさい。メジャーになったら、あんた
+line2 <shift> # なんか、クビにしてやるんだからーっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うーん……。もうちょっと、伊織の気持ちを、
+line2 <shift> # くんでやるべきだったかな）
+com09 0 39
+display
+location 39
+unk02

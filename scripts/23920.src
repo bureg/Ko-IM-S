@@ -1,0 +1,563 @@
+com2c 0 119
+com2d 0 53
+com2e 0 133
+com2f 0 51
+com32 0 0
+com11 0 0
+sound 10000
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「プロデューサーさん、合格しましたよ！
+line2 <shift> # ＩＵ決勝戦に、勝ち残ってしまいました〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おめでとうございます！　あずささんを、信じ
+line2 <shift> # てはいましたが、本当に、やってのけましたね」
+display
+com11 0 0
+sound 10001
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「は、はい。ついに、ここまできたんですね。
+line2 <shift> # 長かったような、短かったような……」
+display
+com11 0 0
+sound 10002
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「色々苦労もありましたけれど、プロデューサー
+line2 <shift> # さんと、一緒だったので、あっという間でした」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あずささん……」
+display
+com11 0 0
+sound 10003
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「プロデューサー！　ね、ミキも合格したよ！
+line2 <shift> # 見ててくれた？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、ああ、見ていたよ。でも、美希、決勝進出
+line2 <shift> # を決めたのに、俺達の所に来てて、いいのか？」
+display
+com11 0 0
+sound 10004
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「だって、他に、ミキの合格喜んでくれる人、
+line2 <shift> # いないんだもん」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「黒井社長が、いるだろ？」
+display
+com11 0 0
+sound 10005
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「黒井社長は、ミキの合格なんて喜ばないよ。
+line2 <shift> # ９６１プロが勝ったのは、喜ぶけど……」
+display
+com11 0 0
+sound 10006
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ねえねえ、そんなことより、
+line2 <shift> # ミキのコト、プロデュースしたくなった？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ええっ。そ、それは……」
+com03 0 3
+choice1 <shift> # 俺はあずささんの担当だ
+line2
+com09 0 10
+com08
+choice2 <shift> # ノーコメント！
+line2
+com09 0 11
+com08
+choice3 <shift> # ……まあ、そうかも
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「何度も言ってるだろ。俺は、あずささんの
+line2 <shift> # 担当だ。だから、そんな話、しても無意味だよ」
+display
+com11 0 0
+sound 10007
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「む〜。どうせ、すぐミキの担当になるんだから、
+line2 <shift> # ちょっとくらい話しても、いいって思うな」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ノーコメント！　その質問、どう答えても、
+line2 <shift> # カドが立つからな」
+display
+com11 0 0
+sound 10008
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「む〜。つまんないの」
+display
+com11 0 0
+sound 10009
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「私も、プロデューサーさんの答え、ちょっと
+line2 <shift> # 聞きたかったかもしれません……、なんて〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あずささんまで……。
+line2 <shift> # か、カンベンして下さい」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……まあ、そうかも」
+display
+com11 0 0
+sound 10010
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ホント！？　あはっ☆
+line2 <shift> # やったやったやったぁ！」
+display
+com11 0 0
+sound 10011
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「プロデューサーさん、やっぱり本当は、
+line2 <shift> # 美希ちゃんのことを……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いえ、決して、あずささんの担当が嫌だとか、
+line2 <shift> # そういう意味ではないですよ！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うう、カドが立つ答え方をしてしまった。
+line2 <shift> # この大事な時に、バカか、俺は……）
+com09 0 19
+display
+location 19
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ともかく、すべては、決勝が終わってからだ」
+display
+com11 0 0
+sound 10012
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「むー！　そうかもしれないけど……」
+display
+com11 0 0
+sound 10013
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「美希ちゃん、
+line2 <shift> # 決勝は、お互い、がんばりましょうね〜」
+display
+com11 0 0
+sound 10014
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「あずさ……。ううう……、こ、怖いの」
+display
+com11 0 0
+sound 10015
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「え？　あらあら……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （美希は、オーディション前の、あずささんの
+line2 <shift> # 演技に、すっかりダマされてるようだな……）
+display
+com11 0 0
+sound 10016
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「そ、それじゃ、ミキ、そろそろ帰るね！
+line2 <shift> # さよならなの！」
+display
+com11 0 0
+sound 10017
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「すっかり、怖がられちゃいましたね〜。
+line2 <shift> # ちょっとやりすぎだったのかしら……、はぁー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だ、大丈夫ですよ。全部終わったら、
+line2 <shift> # タネ明かしをすればいいんですから」
+display
+com11 0 0
+sound 10018
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「それも、そうですね。泣いても笑っても、
+line2 <shift> # ＩＵオーディションは、あと１回ですから……」
+display
+com11 0 0
+sound 10019
+com4c 0 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「それじゃ、プロデューサーさん、
+line2 <shift> # 私、着替えてきますね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、はい。行ってらっしゃい」
+display
+com11 0 0
+sound 10020
+com4c 0 0
+name 0 3 <names:4>  # President Kuroi
+line1 <shift> # 「おや。会いたくない人間に限って、ひんぱんに
+line2 <shift> # 会ってしまう。本日の私の運勢は、凶のようだ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ……、黒井社長！」
+display
+com11 0 0
+sound 10021
+com4c 0 0
+name 0 3 <names:4>  # President Kuroi
+line1 <shift> # 「それにしても、
+line2 <shift> # 君達７６５プロの人間には、困ったものだよ」
+display
+com11 0 0
+sound 10022
+com4c 0 0
+name 0 3 <names:4>  # President Kuroi
+line1 <shift> # 「美希ちゃんは、金の卵からかえった、
+line2 <shift> # 黄金のカナリア……、選ばれし者なのだ」
+display
+com11 0 0
+sound 10023
+com4c 0 0
+name 0 3 <names:4>  # President Kuroi
+line1 <shift> # 「まさに、トップアイドルの座に、
+line2 <shift> # ふさわしい少女だと言えよう」
+display
+com11 0 0
+sound 10024
+com4c 0 0
+name 0 3 <names:4>  # President Kuroi
+line1 <shift> # 「だのに……、君達のような、
+line2 <shift> # 三流の人間とつきあい、汚れてしまった」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「美希が、汚れたですって？」
+display
+com11 0 0
+sound 10025
+com4c 0 0
+name 0 3 <names:4>  # President Kuroi
+line1 <shift> # 「そうだ。君達のような者となれあい、
+line2 <shift> # 言葉を交わすなど……」
+display
+com11 0 0
+sound 10026
+com4c 0 0
+name 0 3 <names:4>  # President Kuroi
+line1 <shift> # 「王者は、孤独でなければならないというのに、
+line2 <shift> # まったく話にならない……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お言葉ですが……、俺は、そうは思いません。
+line2 <shift> # 人が一人で出来ることなんて、限られています」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「支える人、助ける人がいて、初めて、
+line2 <shift> # トップアイドルに手が届くんです」
+display
+com11 0 0
+sound 10027
+com4c 0 0
+name 0 3 <names:4>  # President Kuroi
+line1 <shift> # 「フン。君の考えなど、どうでもいいが、
+line2 <shift> # いかにも高木の手下が、言いそうな言葉だな」
+display
+com11 0 0
+sound 10028
+com4c 0 0
+name 0 3 <names:4>  # President Kuroi
+line1 <shift> # 「美希ちゃんが勝って、君が９６１プロに入った
+line2 <shift> # ら、その時は、色々としつけ直しが必要そうだ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なっ……！　人を犬みたいに！」
+display
+com11 0 0
+sound 10029
+com4c 0 0
+name 0 3 <names:4>  # President Kuroi
+line1 <shift> # 「犬と、一緒ではないか。君は、あの男の
+line2 <shift> # 言うがままに、プロデュースをしているだけだ」
+display
+com11 0 0
+sound 10030
+com4c 0 0
+name 0 3 <names:4>  # President Kuroi
+line1 <shift> # 「だからこそ、そんな甘っちょろいことを、
+line2 <shift> # ほざいていられるのだよ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「確かに俺の言っていることは、
+line2 <shift> # 甘っちょろいかもしれません、けど……」
+com03 0 3
+choice1 <shift> # 俺は本気です
+line2
+com09 0 20
+com08
+choice2 <shift> # 俺は高木社長を信じます
+line2
+com09 0 21
+com08
+choice3 <shift> # あなたには勝てる
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺は本気です。本気で、アイドルを支え、
+line2 <shift> # 共に歩む覚悟を決めています」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺の考えが、高木社長の受け売りだとしても、
+line2 <shift> # 俺の本気は、俺のものです！」
+display
+com11 0 0
+sound 10031
+com4c 0 0
+name 0 3 <names:4>  # President Kuroi
+line1 <shift> # 「……フン、イヤな目だ。まったく、君は、
+line2 <shift> # あいつと、よく似すぎている。吐き気がするよ」
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺は、高木社長を信じます。最後まで、
+line2 <shift> # 高木社長のやり方を、つらぬいてみせますよ！」
+display
+com11 0 0
+sound 10032
+com4c 0 0
+name 0 3 <names:4>  # President Kuroi
+line1 <shift> # 「ハッ！　あんなボンクラで卑劣な男の、
+line2 <shift> # 何を信じるというのかね！？」
+display
+com11 0 0
+sound 10033
+com4c 0 0
+name 0 3 <names:4>  # President Kuroi
+line1 <shift> # 「だから、君はダメなのだよ！　ヤツが、どんな
+line2 <shift> # 人間か、いまだに見極められずにいるとは！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「高木社長のことなら、知っています！　あの人
+line2 <shift> # は美希のために涙を流せる、温かい人だ！」
+display
+com11 0 0
+sound 10034
+com4c 0 0
+name 0 3 <names:4>  # President Kuroi
+line1 <shift> # 「ノン！　ヤツについて話すなど、お断りだ！
+line2 <shift> # 君のお説も拝聴する気はない。黙りたまえ……」
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あなたには勝てる。あずささんと、一緒に、
+line2 <shift> # あなたに勝ってみせますよ、ＩＵで！」
+display
+com11 0 0
+sound 10035
+com4c 0 0
+name 0 3 <names:4>  # President Kuroi
+line1 <shift> # 「ふふん。若いな、君は。根拠のない自信ほど、
+line2 <shift> # やっかいなものはないのだよ？」
+display
+com11 0 0
+sound 10036
+com4c 0 0
+name 0 3 <names:4>  # President Kuroi
+line1 <shift> # 「そのことは、高木から教わっていないのかね？
+line2 <shift> # ……では、身をもって学ぶがいい！」
+display
+com11 0 0
+sound 10037
+com4c 0 0
+name 0 3 <names:4>  # President Kuroi
+line1 <shift> # 「敗北の汚泥にまみれて、それでもなお、そんな
+line2 <shift> # セリフがはけるのか……、聞いてみたいものだ」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 10038
+com4c 0 0
+name 0 3 <names:4>  # President Kuroi
+line1 <shift> # 「まあ、もう、ＩＵも終わる。
+line2 <shift> # すべての答えは、そこで出ることになるな」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ええ、そうですね。俺達は勝って、
+line2 <shift> # あなたから、美希を取り戻します！」
+display
+com11 0 0
+sound 10039
+com4c 0 0
+name 0 3 <names:4>  # President Kuroi
+line1 <shift> # 「フン、好きにほえていたまえ。
+line2 <shift> # 勝利は、我が９６１プロのものだ」
+display
+com11 0 0
+sound 10040
+com4c 0 0
+name 0 3 <names:4>  # President Kuroi
+line1 <shift> # 「美希は、才能だけはある娘だ。己の欲望のため、
+line2 <shift> # 勝とうとあがくだろう。彼女は使えるよ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……俺達が勝ったら、美希を返してもらいます
+line2 <shift> # からね？　それだけは忘れないで下さい」
+display
+com11 0 0
+sound 10041
+com4c 0 0
+name 0 3 <names:4>  # President Kuroi
+line1 <shift> # 「それは、どうかなあ。決めるのは、美希だよ。
+line2 <shift> # 私に無理強いは、できないなあ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「な……！　約束が違うじゃないですか！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「美希を帰す気がないなら、なぜ、美希に、
+line2 <shift> # あずささんの挑戦を受けるよう言ったんです？」
+display
+com11 0 0
+sound 10042
+com4c 0 0
+name 0 3 <names:4>  # President Kuroi
+line1 <shift> # 「それは、その方が彼女のやる気が出るからだよ。
+line2 <shift> # 私からの、ステキなエールというわけだ」
+display
+com11 0 0
+sound 10043
+com4c 0 0
+name 0 3 <names:4>  # President Kuroi
+line1 <shift> # 「彼女、君を奪われるかもと想像して、哀れな程、
+line2 <shift> # おびえていたねえ。ククク……」
+display
+com11 0 0
+sound 10044
+com4c 0 0
+name 0 3 <names:4>  # President Kuroi
+line1 <shift> # 「あの恐怖が、彼女の力を引き出すはずだ。
+line2 <shift> # 肉体と精神の限界を超える、大きな力をね……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あなたは……、どこまで美希に、
+line2 <shift> # つらい思いをさせれば、気がすむんだ！」
+display
+com11 0 0
+sound 10045
+com4c 0 0
+name 0 3 <names:4>  # President Kuroi
+line1 <shift> # 「美希がつらいかどうかなんて、私には関係ない。
+line2 <shift> # 関係あるのは、勝敗だけだよ？」
+display
+com11 0 0
+sound 10046
+com4c 0 0
+name 0 3 <names:4>  # President Kuroi
+line1 <shift> # 「まあ、９６１プロに敗者はいらないが、美希は、
+line2 <shift> # よく稼ぐから、まだ置いてやってもいいかな」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あなたのこと、よくわかりました。
+line2 <shift> # とことん冷酷で、利己的な人だってことが……」
+display
+com11 0 0
+sound 10047
+com4c 0 0
+name 0 3 <names:4>  # President Kuroi
+line1 <shift> # 「冷静で現実的、と言ってもらえないかな？
+line2 <shift> # はっはははは！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「美希は、７６５プロに連れ戻します。
+line2 <shift> # 約束通り勝って、正々堂々とね！」
+display
+com11 0 0
+sound 10048
+com4c 0 0
+name 0 3 <names:4>  # President Kuroi
+line1 <shift> # 「正々堂々ねえ。……茶番だな！　では、失礼。
+line2 <shift> # バカと話すと疲れるものでね。はっはははは！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （あんなヤツに……、あんなヤツに、
+line2 <shift> # 美希を任せておけるものか！）
+display
+com11 0 0
+sound 10049
+com4c 0 4
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「プロデューサーさん、戻りました。
+line2 <shift> # ……あら？　どうかなさったんですか〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「えっ？　あ、ああ、おかえりなさい……」
+display
+com11 0 0
+sound 10050
+com4c 0 4
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「なんだか、難しい顔を、なさっていたみたい
+line2 <shift> # ですけれど、何か心配事でも、あるんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いえ、なんでもないんです。
+line2 <shift> # ちょっと、考え事をしていただけで……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （黒井社長との会話のことは、
+line2 <shift> # 俺の胸の中に、しまっておこう）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （あずささんが知ったら、悲しんで、
+line2 <shift> # オーディションどころじゃなくなるからな）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……次の決勝に向けて、俺も色々、作戦を、
+line2 <shift> # 考えているんですよ。頑張りましょうね！」
+display
+com11 0 0
+sound 10051
+com4c 0 4
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はい。精一杯やりたいと思います。プロデュー
+line2 <shift> # サーさん、ご指導、よろしくお願いしますね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もちろんです！　さあ、事務所に帰って、
+line2 <shift> # 社長に報告をしましょう」
+com09 0 99
+display
+location 99
+unk02

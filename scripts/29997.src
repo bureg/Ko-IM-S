@@ -1,0 +1,673 @@
+com2c 0 119
+com2d 0 43
+com2e 0 133
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やったぞ、千早！　四次予選合格だ！
+line2 <shift> # ここまでくれば、本選まで、あと１つだぞ」
+display
+com11 0 0
+sound 10000
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。勝てて良かったです、本当に。
+line2 <shift> # これで、美希にも、堂々と胸を張れます」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、そうだな！」
+display
+com11 0 0
+sound 10001
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「美希が９６１プロに移った時、私は最初、
+line2 <shift> # やる気のない、かつての仲間に、無関心でした」
+display
+com11 0 0
+sound 10002
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「でも、すぐに追いつけると思った、その背中は、
+line2 <shift> # 気がつけば、いつも私の前にいた……」
+display
+com11 0 0
+sound 10003
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「彼女こそ、私の本当の意味での仲間……、
+line2 <shift> # 好敵手、なのかもしれません」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、俺から見ても、いいライバルだと思うよ。
+line2 <shift> # もう、無視や無関心を貫くわけにはいかないな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「美希を７６５プロに連れ戻すのがムリでも、
+line2 <shift> # 千早だけは、美希と、いい関係を作ってほしい」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「美希と戦うことで、千早の良さも、
+line2 <shift> # さらに引き出されていくって思うからな」
+display
+com11 0 0
+sound 10004
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。プロデューサーに許してもらえるなら、
+line2 <shift> # もう一度、美希に本音でぶつかってみます」
+display
+com11 0 0
+sound 10005
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「このオーディションに勝てたらそうしようって、
+line2 <shift> # さっき、ステージに立つ前に、決めたんです」
+display
+com11 0 0
+sound 10006
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ダメ……、でしょうか？」
+com03 0 3
+choice1 <shift> # やるだけやってみろ
+line2
+com09 0 10
+com08
+choice2 <shift> # ダメなわけ、ないだろ
+line2
+com09 0 11
+com08
+choice3 <shift> # 千早のしたいようにしろ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やるだけやってみろ。うまくいくかどうかは、
+line2 <shift> # わからないけど、ま、ダメで元々だよ」
+display
+com11 0 0
+sound 10007
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ダメで元々……。そう考えると、気が楽ですね。
+line2 <shift> # ふふっ。ありがとうございます」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ダメなわけ、ないだろ。今度こそ、絶対にうま
+line2 <shift> # くいくよ。美希との関係、完全に修復できる！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「千早ほどの人物が、そのくらいのこと、できな
+line2 <shift> # いワケがない。当然、できる！　断言する！」
+display
+com11 0 0
+sound 10008
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そ、そこまで期待されると、プレッシャーを、
+line2 <shift> # 感じてしまいますが、でも、逆に言えば……」
+display
+com11 0 0
+sound 10009
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「今まで私は、そんなプロデューサーの期待を、
+line2 <shift> # 裏切り続けていたんですね。くっ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あれ？　励まそうとしたつもりが、逆に落ち
+line2 <shift> # 込ませてしまったかも……。ま、まあ、いいか）
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「千早のしたいようにしろ。
+line2 <shift> # 俺は、口を出すつもりは、ないから」
+display
+com11 0 0
+sound 10010
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そうですか……。こういうことにこそ、
+line2 <shift> # アドバイスが、いただきたかったのですが」
+display
+com11 0 0
+sound 10011
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「というより、プロデューサーに、
+line2 <shift> # 背中を押してもらいたかったのかもしれません」
+display
+com11 0 0
+sound 10012
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「でも、それは、甘えですね。
+line2 <shift> # わかりました。私のしたいようにします」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あれ？　自由にやれと言ったつもりだったけど、
+line2 <shift> # 突き放したみたいに聞こえたかな……）
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10013
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「あ……。フンだ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ちょ、ちょっと待ってくれ、美希！
+line2 <shift> # ……千早が、美希に話があるそうだから」
+display
+com11 0 0
+sound 10014
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「むー。何？　ミキ、結構忙しいんだよ。この後、
+line2 <shift> # 別の仕事で、また歌わなきゃいけないし」
+display
+com11 0 0
+sound 10015
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「『歌わなきゃいけない』？
+line2 <shift> # あなたにとって、歌うことは義務なの？」
+display
+com11 0 0
+sound 10016
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ねえ、美希。もう、あなたに、色々うるさく
+line2 <shift> # 言ったりはしないわ。だから１つだけ教えて」
+display
+com11 0 0
+sound 10017
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あなたは今、何のために歌っているの？」
+display
+com11 0 0
+sound 10018
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「何のためって、別に……。いちいち、そんな
+line2 <shift> # こと考えないの。ミキ、千早さんとは違うもん」
+display
+com11 0 0
+sound 10019
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そんな中途半端な気持ちで、
+line2 <shift> # ステージに立っているの！？」
+display
+com11 0 0
+sound 10020
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「９６１プロにも、そんな風に、
+line2 <shift> # 考えなしに移ったんじゃないでしょうね？」
+display
+com11 0 0
+sound 10021
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「……もう、ミキ、行くね。
+line2 <shift> # 千早さんはウソつきだから、話したくないの」
+display
+com11 0 0
+sound 10022
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「私がいつ、ウソを……？」
+display
+com11 0 0
+sound 10023
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ついたよ！　今！　うるさく言わないって言っ
+line2 <shift> # たのに、その後すぐ、うるさいこと言ったの！」
+display
+com11 0 0
+sound 10024
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「それに、１つだけ教えてって、言ったのに、
+line2 <shift> # その後、ミキに、いっぱい質問したもん！」
+display
+com11 0 0
+sound 10025
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「そんなことより、前、ミキがした質問に、
+line2 <shift> # ちゃんと答えてよ！」
+display
+com11 0 0
+sound 10026
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「『千早さんは、プロデューサーが好きなの？』
+line2 <shift> # って、きいたでしょ！？」
+display
+com11 0 0
+sound 10027
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「それなら、答えたわ。『わからない』って。
+line2 <shift> # 本当にあれが、素直な気持ちなのよ」
+display
+com11 0 0
+sound 10028
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「もう、やめよ、こういうの。
+line2 <shift> # 時間のムダって思うな……」
+display
+com11 0 0
+sound 10029
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「美希！　……くっ。またやってしまいました。
+line2 <shift> # 本音で話して、関係を改善するはずが……」
+display
+com11 0 0
+sound 10030
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「どうして、美希には、厳しく接してしまうの
+line2 <shift> # かしら。こんなはずでは、なかったのに」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そう、自分を責めるなよ」
+display
+com11 0 0
+sound 10031
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「でも！　……はぁ。
+line2 <shift> # 最近の私は、完全に変です」
+display
+com11 0 0
+sound 10032
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「美希のこととなると、　　
+line2 <shift> # つい、冷静で、いられなくなってしまって」
+display
+com11 0 0
+sound 10033
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「どうしてこんなに、腹がたつんでしょうか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そりゃ、千早が美希のことを……」
+com03 0 3
+choice1 <shift> # 心配してるからだ
+line2
+com09 0 20
+com08
+choice2 <shift> # 好きだからだ
+line2
+com09 0 21
+com08
+choice3 <shift> # 嫌いだからだ
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「心配しているからだよ」
+display
+com11 0 0
+sound 10034
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「心配……。けど、自分自身のことすら、
+line2 <shift> # まだ完全には立ち行かない私が……」
+display
+com11 0 0
+sound 10035
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「美希の心配をするなんて、
+line2 <shift> # 思いあがりですよね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなことないよ。千早は、美希の才能、
+line2 <shift> # 誰よりも認めているんだ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だから、その才能が、黒井社長や美希自身に、
+line2 <shift> # 雑に扱われるのが、ガマンできないんだよ」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「好きだからだよ。もう、好きで好きで、
+line2 <shift> # 目に入れても痛くないくらい、大好きなんだ」
+display
+com11 0 0
+sound 10036
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「い、いえ。いくらなんでも、そこまででは……。
+line2 <shift> # ちょっとオーバーです、プロデューサー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか？　まあ、大げさに言い過ぎたかもしれ
+line2 <shift> # ないけど、好きなのは、当たってるだろ？」
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「嫌いだからだよ。だから腹が立つんだ。
+line2 <shift> # 単純なことだろ？」
+display
+com11 0 0
+sound 10037
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「でも、嫌いな人のことが、こうまで気になる
+line2 <shift> # ものでしょうか？　無視した方が楽なのに」
+display
+com11 0 0
+sound 10038
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「最近、美希とはスレ違いばかりですが、それ
+line2 <shift> # でも私は、彼女を嫌ってはいないと思います」
+display
+com11 0 0
+sound 10039
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「嫌いには、なれないんです。どうしても」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか。それじゃ、千早が美希に腹が立つのは、
+line2 <shift> # 『嫌い』とは反対の感情のせいかもな」
+display
+com11 0 0
+sound 10040
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「それはつまり、私が美希を好きだからだと？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ダイヤはダイヤでしか磨けない。千早という才
+line2 <shift> # 能で磨ける、美希という素晴らしい才能を……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ダイヤの片割れである千早は、見過ごして捨て
+line2 <shift> # ておくことができないんだ。それが敵でもね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「その気になれば、一人で光ることもできるのに、
+line2 <shift> # それをしない。千早は、優しいんだよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だから、美希のこと、
+line2 <shift> # 心配したり、腹が立ったりするんだと思うぞ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……いや、優しい、っていうより、
+line2 <shift> # 優しくなった、というべきかな」
+display
+com11 0 0
+sound 10041
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「優しくなった？　私がですか？
+line2 <shift> # そんなこと、初めて言われましたが」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うん。俺と出会ったばかりの頃の千早は、どこ
+line2 <shift> # か余裕がなさそうで少し冷たく見えたけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「最近の、時々、自分のことすら置いておいて、
+line2 <shift> # 美希を心配してる千早は……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「人間らしい温かみがあって、とてもステキだよ。
+line2 <shift> # 千早の歌だって、優しくなったし」
+display
+com11 0 0
+sound 10042
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そ、そうですか？　もし本当にそうだとしたら、
+line2 <shift> # 美希と……、プロデューサーのお陰でしょうね」
+display
+com11 0 0
+sound 10043
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「私に良い影響を与えてくれる人間、
+line2 <shift> # 他には、思いつきませんから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうなのか？　だとしても、優しさは、
+line2 <shift> # 千早が生まれつき持っている性質だと思うよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんとなく、そんな気がする」
+display
+com11 0 0
+sound 10044
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「プロデューサーは、前向きですね。
+line2 <shift> # 私が良い人間だと、信じて疑わない……」
+display
+com11 0 0
+sound 10045
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「でも私は、プロデューサーが言うような、
+line2 <shift> # ただ優しいだけの人間ではないです」
+display
+com11 0 0
+sound 10046
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「自分より美希が大切だとしても、それよりさら
+line2 <shift> # に大切なものがある。揺るぎない、至上のもの」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「歌、か？」
+display
+com11 0 0
+sound 10047
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。やっぱり、私は、どこか、冷たいのかも
+line2 <shift> # しれません。人より歌が大切だなんて」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなことないよ。千早らしい。
+line2 <shift> # 歌は、千早の人生そのものだもんな」
+display
+com11 0 0
+sound 10048
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……ケーベツされてしまうかもしれませんが、
+line2 <shift> # きいていただきたい話があります。話しても？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「千早が話したいなら、どうぞ話してくれ。
+line2 <shift> # ケーベツなんて、絶対に、しないから」
+display
+com11 0 0
+sound 10049
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……。私はかつて、大切な人を失ったことが、
+line2 <shift> # あります。それ以来、私には歌しか無くなった」
+display
+com11 0 0
+sound 10050
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「長い間、歌にしか安らぎを見出せないでいた
+line2 <shift> # 私を……」
+display
+com11 0 0
+sound 10051
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「７６５プロにいた頃の美希は、妹のように、
+line2 <shift> # 無邪気に、慕ってくれました」
+display
+com11 0 0
+sound 10052
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「美希といると、幸せが全て手の中にあった頃に、
+line2 <shift> # 時が、巻き戻ったような気がしました」
+display
+com11 0 0
+sound 10053
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「でも、同時に美希は、私が初めて、
+line2 <shift> # 心から脅威に感じた相手でもあります」
+display
+com11 0 0
+sound 10054
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「優れた才能を持っていたから。
+line2 <shift> # けれど私は、心のどこかで、安心していました」
+display
+com11 0 0
+sound 10055
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「美希が私を慕っている限り、彼女の性格から考
+line2 <shift> # えて、私の敵に回るとは、考えにくかったから」
+display
+com11 0 0
+sound 10056
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「でも、現実には、彼女は、事務所を移って、
+line2 <shift> # 私の敵に回り、手ごわいライバルになりました」
+display
+com11 0 0
+sound 10057
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「もちろん、だからといって、私は、
+line2 <shift> # 彼女に負けるつもりなどありません」
+display
+com11 0 0
+sound 10058
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「けど、絶対に敵にならないと思っていた美希が、
+line2 <shift> # 予想に反して、私に向かってくるなんて……」
+display
+com11 0 0
+sound 10059
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「少し恐ろしくもあり、腹立たしくもあったのは、
+line2 <shift> # 事実です。私は、優しさからだけじゃなく……」
+display
+com11 0 0
+sound 10060
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そんな自分本位な理由でも、美希に、いらだち
+line2 <shift> # をぶつけてしまっていたのかもしれません」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……どうして、そんなザンゲみたいな告白を、
+line2 <shift> # 俺に？　黙っていれば、わからないことなのに」
+display
+com11 0 0
+sound 10061
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「さあ、自分でも、どうしてだか、
+line2 <shift> # よくわかりません」
+display
+com11 0 0
+sound 10062
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「もしかすると……、プロデューサーには、
+line2 <shift> # 全て知っていてほしいからかもしれませんね」
+display
+com11 0 0
+sound 10063
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「如月千早という人間の、良い面も、悪い面も、
+line2 <shift> # 全て……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それって、俺を信じてるから、話してくれた
+line2 <shift> # ってことだよな。ありがとう。うれしいよ」
+display
+com11 0 0
+sound 10064
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「こちらこそ、きいていただいて、
+line2 <shift> # ありがとうございます」
+display
+com11 0 0
+sound 10065
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「こうして、プロデューサーに、
+line2 <shift> # ザンゲした以上は……」
+display
+com11 0 0
+sound 10066
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「もう、身勝手な理由で、
+line2 <shift> # 美希を叱りつけては、いけませんね」
+display
+com11 0 0
+sound 10067
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「私に、何かできることがあるでしょうか？
+line2 <shift> # 今の美希のために……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺にも、すぐには思いつかないよ。
+line2 <shift> # ゆっくり考えれば、いいんじゃないかな？」
+display
+com11 0 0
+sound 10068
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい……。そうですね」
+com09 0 99
+display
+location 99
+unk02

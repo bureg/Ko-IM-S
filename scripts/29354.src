@@ -1,0 +1,229 @@
+com2c 0 118
+com2d 0 41
+com32 0 0
+location 0
+com11 0 6
+sound 18000
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「もうすっかり、暗くなっていますね。
+line2 <shift> # 長かった１日が、ようやく終わります……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだな。いろいろ大変だったけど、でも、
+line2 <shift> # よかっただろ？　いい形で、ラストを飾れて」
+com38 0 1
+com1e 0 0
+com09 0 10
+com3b
+com37 0 0
+com1e 0 0
+com09 0 11
+com3b
+display
+location 10
+com11 0 6
+sound 18001
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はい。ただ、今の私の実力なら、会場はもっと
+line2 <shift> # 大きなところでも、よかったかもしれませんね」
+display
+com11 0 6
+sound 18002
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あのせまさだと、チケットが品薄で、来たくて
+line2 <shift> # も来られないファンも、多かったでしょうし」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う、そうかもな……。ちょっと安全策を
+line2 <shift> # 取りすぎたかもしれない」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……で、千早。さっき言ってた、
+line2 <shift> # 話したいことっていうのは、なんだ？」
+com09 0 19
+display
+location 11
+com11 0 6
+sound 18003
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はい。会場としては最低レベルでしたけれど、
+line2 <shift> # それなりの満足感はあります」
+display
+com11 0 6
+sound 18004
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「今の私の力では、あれぐらいの広さが
+line2 <shift> # 限界だったと思いますし」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ま、実力相応ってところかな。……で、
+line2 <shift> # 千早。さっき言ってた、話したいことって？」
+com09 0 19
+display
+location 19
+com11 0 6
+sound 18005
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あ、今後の進路についてなんですけど……、
+line2 <shift> # 私、決めました」
+display
+com11 0 6
+sound 18006
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「しばらく、アイドル活動、続けていこうと
+line2 <shift> # 思います。プロデューサーの手を、離れた後も」
+display
+com1c 0 3
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか。今日のライブが、なにかのきっかけに、
+line2 <shift> # なったかな？」
+display
+com11 0 6
+sound 18007
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はい。ステージで、力は出し切れたんですけど、
+line2 <shift> # 唯一の不満は、声がこもり気味だった事で……」
+display
+com11 0 6
+sound 18008
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「本当の引退ライブは、もっと広々としたところ
+line2 <shift> # でやりたいです。目標は、やはりドームですね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「たしかに、そういう場所の方が、千早の
+line2 <shift> # 伸びのある声、生きるよな。がんばってくれ」
+display
+com11 0 6
+sound 18009
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はい。今後も、自分にみがきをかけ続けて、
+line2 <shift> # いつか、大きな夢をつかみたいと思います」
+display
+com11 0 6
+sound 18010
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「それでは、私、行きます。
+line2 <shift> # プロデューサー、さようなら」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ん、ああ、さようなら。……って、やけに
+line2 <shift> # サッパリした顔してるな。悲しくないのか？」
+display
+com11 0 6
+sound 18011
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ええ、別に……。今日でお別れなのは、前から
+line2 <shift> # わかっていたことですから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「冷たいなあ。ちょっと、拍子抜けだよ。
+line2 <shift> # はあーあ、次に育てるアイドル候補生は……」
+com03 0 3
+choice1 <shift> # やっぱり、千早みたいな子がいいな
+line2
+com09 0 20
+com08
+choice2 <shift> # もっと、かわいい子にしよう
+line2
+com09 0 21
+com08
+choice3 <shift> # もっと、やさしい子にしよう
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やっぱり、千早みたいな子がいいな。
+line2 <shift> # ドライでも、意外に味があるし」
+display
+com11 0 6
+sound 18012
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「自分で言うのも、なんですけど……
+line2 <shift> # やめた方がいいのでは、ないでしょうか？」
+display
+com11 0 6
+sound 18013
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「もっと、かわいげのある人の方が、プロデュー
+line2 <shift> # サーには、向いている気がします」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、そうかなあ」
+display
+com11 0 6
+sound 18014
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「もっとも、どんなタイプを選ぶかは、
+line2 <shift> # プロデューサーの自由です」
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もっと、かわいい子にしよう」
+display
+com11 0 6
+sound 18015
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「その方がいいと思います。多分、私のような
+line2 <shift> # タイプと、プロデューサーは合いませんよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おいおい、冷静に言わないでくれよ。
+line2 <shift> # 本当に、そう思うのか？」
+display
+com11 0 6
+sound 18016
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はい。もっとも、どんなタイプを選ぶかは、
+line2 <shift> # プロデューサーの自由です」
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もっと、やさしい子にしよう」
+display
+com11 0 6
+sound 18017
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「その方がいいと思います。私、歯に衣着せぬ
+line2 <shift> # タイプですし、人当たり、きついですから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おいおい、冷静に分析しないでくれよ。
+line2 <shift> # すこしは、突っ込んでくれるかと思ったのに」
+display
+com11 0 6
+sound 18018
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「もっとも、どんなタイプを選ぶかは、
+line2 <shift> # プロデューサーの自由です」
+com09 0 29
+display
+location 29
+com11 0 6
+sound 18019
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「私はもう、口をはさめる立場ではありません
+line2 <shift> # から。では、失礼します」
+display
+com4a 0 0
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ！　千早。千早ってば！
+line2 <shift> # ……行っちゃったか」
+display
+location 100 129 92 129 92 130 177 130 164 130 181 130 196 129 65 137 180 130 170 136 231 130 196 130 189 143 173 143 151 130 205 129 65 150 162 151 251 130 204 131 74 131 80 131 137
+line2 <shift> # もなく、さっそうと身をひるがえし、去った。
+display
+location 101 144 231 145 129 130 240 129 65 131 65 131 67 131 104 131 139 130 198 130 181 130 196 129 65 131 102 131 114 131 133 129 91 130 179 130 185 130 189 130 204 130 205 129 65
+line2 <shift> # まちがいなく、俺だ。しかし――、
+display
+location 102 130 187 130 234 136 200 143 227 130 204 147 193 149 202 130 200 130 177 130 198 130 205 129 65 130 160 130 220 130 232 130 181 130 196 130 226 130 234 130 200 130 169 130 193
+line2 <shift> # た気もする。――この反省は、次に生かしたい。
+display
+unk02

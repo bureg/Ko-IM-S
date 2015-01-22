@@ -1,0 +1,302 @@
+com2c 0 49
+com2d 0 41
+com32 0 0
+com11 0 3
+sound 100
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「いまから、私が１日署長？　プロデューサー、
+line2 <shift> # これは歌手ではなく、タレントの仕事では？」
+com03 0 3
+choice1 <shift> # まあ、そうかもな
+line2
+com09 0 10
+com08
+choice2 <shift> # イヤそうだな？
+line2
+com09 0 11
+com08
+choice3 <shift> # いや、歌手の仕事だ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、そうかもな」
+display
+com11 0 3
+sound 101
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「かもな、ではなく、どうして、こんな仕事……。
+line2 <shift> # 受けてしまったのなら、しかたないですけど」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「イヤそうだな？」
+display
+com11 0 3
+sound 102
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「イヤです……。帰ってもいいですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そりゃ困るよ。受けた仕事を
+line2 <shift> # ドタキャンしたら、責任問題に……」
+com09 0 91
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、歌手の仕事だ」
+display
+com11 0 3
+sound 103
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……ウソつく人、タイホしてもいいですか？
+line2 <shift> # ２週間くらい、刑務所に……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あああ、ご、ごめん。でも、もう受けちゃった
+line2 <shift> # 仕事だし、ドタキャンは困るよ」
+com09 0 91
+display
+location 91
+com11 0 3
+sound 104
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はあ……。なら、しかたないですね」
+com09 0 29
+display
+location 29
+com11 0 3
+sound 105
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「それで、なにをすれば？　署長の格好をして、
+line2 <shift> # 歌を？　それとも、婦警の格好で？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「今日は、歌はナシだ。カンタンなアイサツだけ、
+line2 <shift> # してくれればいいから」
+display
+com11 0 3
+sound 106
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「歌もナシなんて、私、ますます、
+line2 <shift> # やる気が……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そう言うなよ。ほら、こういうとこで、
+line2 <shift> # がんばっておけば……」
+com03 0 3
+choice1 <shift> # いいＰＲになるよ
+line2
+com09 0 30
+com08
+choice2 <shift> # 表情、豊かになるよ
+line2
+com09 0 31
+com08
+choice3 <shift> # 将来、大目に見てもらえるよ
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いいＰＲになるよ」
+display
+com11 0 3
+sound 107
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「これも、飛躍への足掛かりと思えば、
+line2 <shift> # 耐えられなくはないですね。たしかに」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「表情、豊かになるよ」
+display
+com11 0 3
+sound 108
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そんなことは、ないと思いますけど……。
+line2 <shift> # 顔のつくりまでは、変えられませんし」
+display
+com11 0 3
+sound 109
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「それに、とくに表情を変えて、アイサツを
+line2 <shift> # する気もないです。……意味ないですから」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「将来、大目に見てもらえるよ」
+display
+com11 0 3
+sound 110
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……わ、私、犯罪なんて犯しません。
+line2 <shift> # そんなことすると、思ってるんですか？」
+display
+com11 0 3
+sound 111
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「どちらかというと、プロデューサーの方が……。
+line2 <shift> # ……いえ、言葉、過ぎました」
+com09 0 49
+display
+location 49
+com11 0 3
+sound 112
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あ、そろそろ、時間……。
+line2 <shift> # けど、やはり歌がゼロというのは、抵抗が……」
+display
+com11 0 3
+sound 113
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「１曲だけ、歌ってもいいですか？　それくらい
+line2 <shift> # しないと、自分を納得させられません」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、だけど、持ち歌はダメだぞ？
+line2 <shift> # 今回、格安で受けてるから」
+display
+com11 0 3
+sound 114
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「では、別ので、短いのを１曲。
+line2 <shift> # こういうところで歌うなら、どんな歌が？」
+com03 0 3
+choice1 <shift> # テキトーに、はやってる歌かな
+line2
+com09 0 50
+com08
+choice2 <shift> # 刑事ドラマの主題歌かな
+line2
+com09 0 51
+com08
+choice3 <shift> # 『ボクはおまわりさん』かな
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「テキトーに、はやってる歌かな」
+display
+com11 0 3
+sound 115
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そうですね。遊びのイベントなら、誰もが
+line2 <shift> # 知ってる曲の方が、盛り上がるかもしれません」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「バックバンドも、カラオケもないけど……
+line2 <shift> # 大丈夫か？」
+display
+com11 0 3
+sound 116
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ア・カペラだからこそ、引き立つ歌もあります。
+line2 <shift> # ひとつ思いついたので、それを」
+display
+com11 0 3
+sound 117
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「素の歌の魅力を……存分に。ふふっ、かえって
+line2 <shift> # おもしろいかも。……行ってきます」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （壇上に上がった千早は、ラブソングを見事、
+line2 <shift> # 歌いあげた。素晴らしすぎて、皆が声を失った）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「刑事ドラマの主題歌かな」
+display
+com11 0 3
+sound 118
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……そんなもの、受けるでしょうか？
+line2 <shift> # 第一、私、よく知らないし」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなこと、ないだろ？
+line2 <shift> # ＴＶとか、見ないのか？」
+display
+com11 0 3
+sound 119
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はい、ほとんど。意味もなく、つけておくの
+line2 <shift> # 嫌いですし、自分の部屋にはＴＶありません」
+display
+com11 0 3
+sound 120
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「他に、リクエストは？
+line2 <shift> # なければ、適当に選んでしまいますけど……？」
+display
+com11 0 3
+sound 121
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「え？　あ、はい、急ぎます。
+line2 <shift> # えっと……、なにを歌えば……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （混乱したまま千早は壇上へ。結果、歌はナシに
+line2 <shift> # なったけど……。まあ、予定通りとも言えるか）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「『ボクはおまわりさん』かな」
+display
+com11 0 3
+sound 122
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……バカにしているように、受け取られ
+line2 <shift> # ませんか？　あまり真面目な歌とは……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうかな？　この場に、もっともふさわしい
+line2 <shift> # 歌だと思うけど」
+display
+com11 0 3
+sound 123
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「やれと言われれば、やりますけど……。
+line2 <shift> # では、それで……」
+display
+com22 0 30
+com11 0 3
+sound 124
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ぼくは元気なー、おまわりさんー。
+line2 <shift> # まちの平和をー、まもってるー」
+display
+com21 0 30
+com11 0 3
+sound 125
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……バカみたい。
+line2 <shift> # こんな歌じゃ、誰も満足なんて」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （歌っている千早自身が、冷めてしまった。
+line2 <shift> # ……この選曲は、大失敗だったかな）
+com09 0 69
+display
+location 69
+unk02

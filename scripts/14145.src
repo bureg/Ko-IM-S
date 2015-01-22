@@ -1,0 +1,324 @@
+com2c 0 19
+com2c 0 25
+com32 0 0
+com2d 0 31
+location 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「事務所の前ってことは、きっと、この辺の
+line2 <shift> # どこかに……。あ、いた！」
+display
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はー、これで、掃き掃除、終わりー！
+line2 <shift> # つぎは、窓ふき、がんばろー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （社長の言う通り、ホント元気な子だな。イヤ
+line2 <shift> # そうな顔ひとつしないで、掃除を楽しんでる）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ごめん。ちょっと、いいかな？　社長に
+line2 <shift> # 言われて、君を探しにきたんだけど」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「え？　あ、はい……。あなたは、誰ですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺は、君の担当プロデューサーだ。そろそろ、
+line2 <shift> # ホウキをマイクに持ち替えてもらおうと思って」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「マイク……？　えっ！　それって、もしかして、
+line2 <shift> # デビューが決まったっていうことですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだ」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うあ、どうしよう〜。本当にもう掃除しなくて、
+line2 <shift> # いいんですか？　これ、日課だったんですけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、そんなのは、もうやめよう。
+line2 <shift> # 今日から、君は……」
+com03 0 3
+choice1 <shift> # アイドルの端くれ、なんだから
+line2
+com09 0 10
+com08
+choice2 <shift> # みんなの憧れの的、なんだから
+line2
+com09 0 11
+com08
+choice3 <shift> # 俺の言うことだけ聞いていればいい
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「アイドルの端くれ、なんだから」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「アイドル……。ついに、ついに私……。
+line2 <shift> # うっう〜、これから、がんばりまーす！」
+com37 0 0
+com1e 0 0
+com09 0 25
+com3b
+com38 0 1
+com1e 0 0
+com09 0 26
+com3b
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「みんなの憧れの的、なんだから」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「いきなり、みんな、憧れてくれますか？
+line2 <shift> # 今日まで、お掃除係だったのに……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……考えてみたら、いきなりはムリか。
+line2 <shift> # ま、人気が出てくれば、徐々に、な」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そのためには、がんばって、練習とかしないと、
+line2 <shift> # いけませんね。う〜、私、がんばりまーす！」
+com37 0 0
+com1e 0 0
+com09 0 25
+com3b
+com38 0 1
+com1e 0 0
+com09 0 26
+com3b
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺の言うことだけ、聞いていればいい。
+line2 <shift> # やめろといったら、即やめるんだ」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うう〜、はい〜。わかりましたから、
+line2 <shift> # 怒らないで下さい〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「う、ごめんごめん。ちょっと、
+line2 <shift> # 高圧的な言い方、しすぎちゃったかな」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「私の方こそ、ごめんなさい〜。これからは、
+line2 <shift> # あんまり怒鳴られないよう、がんばりま−す！」
+com37 0 0
+com1e 0 0
+com09 0 25
+com3b
+com38 0 1
+com1e 0 0
+com09 0 26
+com3b
+display
+location 25
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし。それじゃ早速、全国デビューするための
+line2 <shift> # 君の芸名を決めるか。えーと」
+display
+location 26
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし。それじゃ早速、全国デビューするための
+line2 <shift> # ユニット名を決めるか。えーと」
+display
+location 30
+com11 0 0
+sound 10009
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「それで、決まりですね！　う〜、なんかこう、
+line2 <shift> # 気分がグーって、盛り上がってきました！」
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よろしく頼むぞ！
+line2 <shift> # さあ、いよいよ活動開始だ！」
+display
+location 40
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今日のスケジュールは……、と）
+display
+location 50
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やっぱり最初はレッスンだ！
+line2 <shift> # 初レッスン行くぞ！」
+display
+com4a 0 0
+com11 0 0
+sound 10010
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はい！　どんな大変なことも、私、お掃除で
+line2 <shift> # みがいた根性で、やり抜きまーす！」
+display
+location 60
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （トップアイドルになるため、今後は流行を
+line2 <shift> # 意識していこう！　まずは育成方針として）
+display
+location 61
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （流行１位イメージであるボーカルの
+line2 <shift> # イメージをＵＰさせていこう！）
+display
+location 62
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （流行１位イメージであるダンスの
+line2 <shift> # イメージをＵＰさせていこう！）
+display
+location 63
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （流行１位イメージであるビジュアルの
+line2 <shift> # イメージをＵＰさせていこう！）
+display
+location 64
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （流行１位のイメージはオーディションでの
+line2 <shift> # ウケが良く、合格しやすい！　絶対に有利だ！）
+display
+location 65
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しかし流行は変化しやすい。常に先の先を
+line2 <shift> # 考えながらイメージ作りをしていくぞ！！）
+display
+location 66
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （明日の流行１位ではない！
+line2 <shift> # 最終的には、人数の増加傾向を考慮して……）
+display
+location 67
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （無駄のないレッスンができるように
+line2 <shift> # なろう！！）
+display
+display
+location 100
+com32 0 1
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「社長、お掃除終わりましたーっ！」
+display
+com11 0 0
+sound 10016
+name 0 2 <names:3>  # President
+line1 <shift> # 「お、良い所に来たな。彼女が高槻やよい君だ。
+line2 <shift> # とても元気で、すばらしいガッツの持ち主だよ」
+display
+com11 0 0
+sound 10012
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「は、はいっ！　高槻やよい、１３歳です！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「初めまして、やよい。今日から俺が君の
+line2 <shift> # 担当プロデューサーだ。よろしくな」
+display
+com11 0 0
+sound 10013
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「プロデューサー？　それって、もしかして、
+line2 <shift> # デビューが決まったっていうことですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだ」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うあ、どうしよう〜。本当にもう掃除しなくて、
+line2 <shift> # いいんですか？　日課だったんですけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、そんなのは、もうやめよう。
+line2 <shift> # 今日から君もアイドルの端くれ、なんだから」
+display
+com4a 0 0
+com11 0 0
+sound 10015
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「アイドル……。ついに、ついに私……。
+line2 <shift> # うっう〜、これから、がんばりまーす！」
+display
+location 200
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （大事なスケジュールには、オススメマークを、
+line2 <shift> # 事務員の音無さんが、つけてくれている）
+display
+location 201
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今は、レッスンと営業が重要らしい。ステップ
+line2 <shift> # アップのため必要なスケジュールってことだな）
+display
+location 202
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （いきなり、オススメを無視するのは、怖いな。
+line2 <shift> # ここは素直に、したがったほうがいい気がする）
+display
+location 210
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「初めての営業に出発だ！
+line2 <shift> # 気合いいれていこう！」
+display
+com4a 0 0
+com11 0 0
+sound 10010
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はい！　どんな大変なことも、私、お掃除で
+line2 <shift> # みがいた根性で、やり抜きまーす！」
+display
+location 300
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「続いて、衣装を決めよう」
+display
+location 301
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「続いてデビュー曲を決めよう」
+display
+location 302
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「喜んでくれて俺もうれしいよ！」
+display
+unk02

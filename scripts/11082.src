@@ -1,0 +1,291 @@
+com2c 0 24
+com2d 0 21
+com32 0 0
+com11 0 4
+sound 1400
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ふっふふ〜ん♪　ふっふふっふ、ふ〜ん♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「伊織、ごきげんだな。ランクＥにあがった
+line2 <shift> # ことが、そんなにうれしいのか？」
+display
+com11 0 4
+sound 1424
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そーね♪　しかも、それがらみで、
+line2 <shift> # 今日は、特別なことがある日なの！」
+display
+com11 0 4
+sound 1401
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「いったい、なんの日だと思ーう？
+line2 <shift> # ズバリ、当ててみて！」
+com03 0 3
+choice1 <shift> # 初のギャラ日？
+line2
+com09 0 10
+com08
+choice2 <shift> # 交通安全の日？
+line2
+com09 0 11
+com08
+choice3 <shift> # 祝賀パーティの開催日？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「初のギャラ日？」
+display
+com11 0 4
+sound 1402
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「当たりー！　いくら入ってるか、楽しみ。これ
+line2 <shift> # でようやく、プロのアイドルって感じよね♪」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「交通安全の日？」
+display
+com11 0 4
+sound 1403
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「はぁ？　なんで、交通安全と、
+line2 <shift> # ランクが関係あるわけ？　バッカじゃないの！」
+com09 0 18
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「祝賀パーティの開催日？」
+display
+com11 0 4
+sound 1404
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「はぁ？　たかがランクひとつあがっただけで、
+line2 <shift> # そんなの開くほど、おめでたくないわよー」
+com09 0 18
+display
+location 18
+com11 0 4
+sound 1405
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「正解は、はじめてギャラが出る日！　これで
+line2 <shift> # ようやく、晴れてプロアイドルって感じよね♪」
+com09 0 19
+display
+location 19
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだな。一歩ステップアップってわけだ」
+display
+com11 0 4
+sound 1406
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ふふっ。金額によっては、あんたにスーツぐら
+line2 <shift> # い、買ってあげる！　じゃ、受けとってくるわ」
+display
+com22 0 30
+com21 0 30
+com11 0 4
+sound 1407
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「どういうことよーっ！？
+line2 <shift> # あれだけ働いたのに、３千円ってー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……まあ、そんなもんだよ。
+line2 <shift> # この業界、底辺には、きびしいからなあ」
+display
+com11 0 4
+sound 1408
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「こんなの、おこづかいの１０分の１じゃない〜。
+line2 <shift> # 予定が大狂いだわ。今晩、どうしよ〜……」
+com03 0 3
+choice1 <shift> # なにか、使う用事でも？
+line2
+com09 0 20
+com08
+choice2 <shift> # そんな、切羽詰まってるのか？
+line2
+com09 0 21
+com08
+choice3 <shift> # 必要なら、貸すけど？
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なにか、使う用事でも？」
+display
+com11 0 4
+sound 1409
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そんなの、ないわ。もしあっても、家のパパ
+line2 <shift> # 大金持ちだから、困ることなんてないし……」
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんな、切羽詰まってるのか？」
+display
+com11 0 4
+sound 1410
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……誰にモノ言ってるの？　私のパパ、
+line2 <shift> # 大金持ちよ。お金になんか、困ってないわ」
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「必要なら、貸すけど？」
+display
+com11 0 4
+sound 1411
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「いらないわよ〜。別にお金に困ってるわけじゃ
+line2 <shift> # ないわ。私のパパ、大金持ちなんだから……」
+com09 0 29
+display
+location 29
+com11 0 4
+sound 1412
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「たーだー、家族に言っちゃったの。アイドルは
+line2 <shift> # すごい稼げること、今日証明してあげるって！」
+display
+com11 0 4
+sound 1413
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「この額、知られたら、絶対笑われちゃう……。
+line2 <shift> # アッタマきた！　捨ててやるーっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「や、やめろって！　もったいない……」
+display
+com11 0 4
+sound 1414
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「止めないでよーっ！　こんなの持って
+line2 <shift> # 帰ったって、意味ないじゃないのーっ！」
+com03 0 3
+choice1 <shift> # 記念には、なるだろ？
+line2
+com09 0 30
+com08
+choice2 <shift> # だったら、俺にくれよ
+line2
+com09 0 31
+com08
+choice3 <shift> # 伊織の価値の証だぞ？
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「記念には、なるだろ？
+line2 <shift> # それは、はじめて自力で稼いだお金だよ」
+display
+com11 0 4
+sound 1415
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「記念……？　ま、まあ、そうね。
+line2 <shift> # ほんのちょっとだけど、でも……」
+display
+com11 0 4
+sound 1416
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……部屋にでも、飾ることにするわ。イヤな
+line2 <shift> # ことがあった時、これ見て、耐えることにする」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （最高の使い道かもな。この３千円が、
+line2 <shift> # これからの伊織を、支えてくれるだろう）
+com09 0 39
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だったら、俺にくれよ」
+display
+com11 0 4
+sound 1417
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「これっぽっちのお金が、ほしいわけ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。捨てるぐらいなら、
+line2 <shift> # 事務所で使うお茶の葉でも、買ってくるよ」
+display
+com11 0 4
+sound 1425
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そんなのイヤーっ。私のラブリィな歌が、
+line2 <shift> # 超マズイお茶の葉に化けるなんてーっ！」
+display
+com11 0 4
+sound 1419
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……いいわよ。もらっといてあげる。今日の
+line2 <shift> # 帰り道に、テキトーに使っちゃうことにするわ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （初ギャラの価値って、額面じゃないと思うけど。
+line2 <shift> # ま、俺が使うより、伊織が使う方がいいか）
+com09 0 39
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「伊織の価値の証だぞ？
+line2 <shift> # それは、単なる、おこづかいじゃないんだ」
+display
+com11 0 4
+sound 1420
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「証……？　これが、私の……。
+line2 <shift> # ……私は３千円程度のアイドルってわけ！！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「い、いや、そうじゃないよ。
+line2 <shift> # ただ、現時点では……」
+display
+com11 0 4
+sound 1421
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「現時点でも、１兆円はくだらないわよっ！！
+line2 <shift> # ううう〜、バカにしてーっ」
+display
+com11 0 4
+sound 1422
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「やっぱり捨ててくるっ！
+line2 <shift> # 私、こんなの認めないんだからーっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「す、捨てるのは、やりすぎだって……」
+display
+com11 0 4
+sound 1423
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「だったら、赤い羽根にでも、青い羽根にでも、
+line2 <shift> # くれてやるわよー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （結局、寄付することに。伊織は大切なギャラを、
+line2 <shift> # ふくれっ面で募金箱に投げ入れた）
+com09 0 39
+display
+location 39
+unk02

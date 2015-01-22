@@ -1,0 +1,563 @@
+com2c 0 24
+com2d 0 91
+com2e 0 101
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （アイドル雑誌からの依頼で、
+line2 <shift> # インタビューを受けることになった）
+display
+com11 0 0
+sound 10000
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ねー、兄ちゃん。今度のインタビューって、
+line2 <shift> # どんなこときかれるの？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えーと、テーマは『プレゼントについて』
+line2 <shift> # らしいぞ」
+display
+com11 0 0
+sound 10001
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「あっ！　プレゼントって言えば、この前、亜美、
+line2 <shift> # スタッフの人に、すっごいこときいちゃった！」
+display
+com11 0 0
+sound 10002
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「なになに、どんなことー！？
+line2 <shift> # 真美にも教えてよ、亜美ー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （なんとなく、ロクなことじゃないような、
+line2 <shift> # 予感がする……）
+display
+com11 0 0
+sound 10003
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「んっとね、アイドルは、欲しい物の話しただけ
+line2 <shift> # で、ファンがプレゼントしてくれるんだって」
+display
+com11 0 0
+sound 10004
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ええっ！　それって、めちゃスゴだよー！
+line2 <shift> # 兄ちゃん、ホントなの？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、確かに、そういう話は、
+line2 <shift> # きいたことあるけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「アイドルが、ほしいブランドの話をしたら、
+line2 <shift> # ファンから大量に送られてきた、とかな」
+display
+com11 0 0
+sound 10005
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「そうなんだー！　だったら、亜美もそれ、
+line2 <shift> # インタビューの時、やっちゃおっかな！」
+display
+com11 0 0
+sound 10006
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「真美も真美も〜。
+line2 <shift> # いろいろ欲しい物、言っちゃおーっと！」
+com03 0 3
+choice1 <shift> # ファンが大変だろ
+line2
+com09 0 10
+com08
+choice2 <shift> # 俺の分も頼むよ
+line2
+com09 0 11
+com08
+choice3 <shift> # みっともないからやめなさい
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなことしたら、ファンが大変だろ」
+display
+com11 0 0
+sound 10007
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「え？　大変って、何がー？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「二人がアイドルとして活動できるのは、ファン
+line2 <shift> # がＣＤを買って、支えてくれてるおかげなんだ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「その上、ふたりの欲しい物まで買わせちゃ、
+line2 <shift> # お金も大変だろうし、申し訳ないだろ？」
+display
+com11 0 0
+sound 10008
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「あ、そっか……。ファンのみんなが困るのは、
+line2 <shift> # 真美達も、困るよー」
+display
+com11 0 0
+sound 10009
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「プレゼントより、ＣＤきいてもらった方がうれ
+line2 <shift> # しいよね！　プレゼントの話、やめとこーっと」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ほっ……。良かったよ、わかってもらえて」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それならついでに、俺の分も頼むよ」
+display
+com11 0 0
+sound 10010
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「えーっ？　兄ちゃんのも〜？
+line2 <shift> # それって、めっちゃ食券愛用って感じだよー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それを言うなら、職権乱用、だろ。それに、
+line2 <shift> # 俺だけ仲間はずれなんて、ヒドイじゃないか」
+display
+com11 0 0
+sound 10011
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「うーん、でも、３人分の欲しい物を言うのって、
+line2 <shift> # けっこう時間かかっちゃうよね？」
+display
+com11 0 0
+sound 10012
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「あんまり話長いと、カットされちゃうかも
+line2 <shift> # しれないっしょ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「う……。それはそうかもな」
+display
+com11 0 0
+sound 10013
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「それに、プレゼント３人分だと、
+line2 <shift> # ファンのみんなも、ちょこっと大変かも」
+display
+com11 0 0
+sound 10014
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「それもそうだねー。……やっぱり、
+line2 <shift> # プレゼントの話するの、やめとこーか」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「みっともないからやめなさい。
+line2 <shift> # プレゼントの催促なんて……」
+display
+com11 0 0
+sound 10015
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「でも、ファンのみんなは、亜美達に喜んで
+line2 <shift> # ほしくて、プレゼントしてくれてるんだよね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まあ、そうだな」
+display
+com11 0 0
+sound 10016
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「欲しい物くれたら、真美達、すっごい喜ぶよ？
+line2 <shift> # そしたら、ファンのみんなもうれしいっしょ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん……。そうかもしれないけど、遠慮する
+line2 <shift> # 心を無くしてしまったら、ダメだと思うんだよ」
+display
+com11 0 0
+sound 10017
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「なんでダメなの？
+line2 <shift> # うう〜、兄ちゃん、ワケわかんないよ〜！」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「特別ねだらなくたって、二人は、ファンから、
+line2 <shift> # たくさんプレゼント、もらってるだろ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今だって、二人宛のプレゼントが会議室いっぱ
+line2 <shift> # いにつまってて、会議ができない状態だからな」
+display
+com11 0 0
+sound 10018
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「ええーっ！　そんなに、いっぱい届いてるの？
+line2 <shift> # この前、持って帰ったばっかなのに〜！」
+display
+com11 0 0
+sound 10019
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「でも、うれしいよね！　プレゼントの山に
+line2 <shift> # うまって寝るの、真美、大好きだよー！」
+display
+com11 0 0
+sound 10020
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「亜美も好きー！　プレゼント開けながら寝て、
+line2 <shift> # 起きたらまたプレゼント開けるの、楽しいよね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そんなことしてるのか……。二人への
+line2 <shift> # プレゼントって、どんな物が多いんだ？」
+com03 0 3
+choice1 <shift> # ファンレターか？
+line2
+com09 0 30
+com08
+choice2 <shift> # お菓子か？
+com09 0 31
+com08
+choice3 <shift> # おもちゃか？
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ファンレターか？」
+display
+com11 0 0
+sound 10021
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「うんっ！　お手紙は、一番多いよ。読んでると、
+line2 <shift> # 心がぽわぽわ〜って、もえてくるんだ！」
+display
+com11 0 0
+sound 10022
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「お手紙だと取り合いにならないし、ふたりで
+line2 <shift> # 読めばいいから、うれしいプレゼントだよね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そっか、物によっては、
+line2 <shift> # わけるのが大変だもんな」
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お菓子か？　寝ながら、
+line2 <shift> # お菓子をバリバリ食べているんだろ？」
+display
+com11 0 0
+sound 10023
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「兄ちゃん、お菓子にうまって寝たら、亜美達、
+line2 <shift> # ドロドロになっちゃうっしょ……」
+display
+com11 0 0
+sound 10024
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「お菓子のプレゼントは、あんまり来ないよね。
+line2 <shift> # 二人でわけやすいし、きたらうれしいんだけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか。でも、わけやすい物が
+line2 <shift> # いいっていうのは、双子ならではだな」
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おもちゃか？　好きなゲームにうまって、
+line2 <shift> # 遊びながら寝てるんだろ？」
+display
+com11 0 0
+sound 10025
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「ゲームは好きだけど、うまって寝るのはムリだ
+line2 <shift> # よ。箱とかカタいし、頭ゴーンってなるっしょ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうか。それもそうだな」
+display
+com11 0 0
+sound 10026
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「それに、どっちがもらうかでケンカになるから、
+line2 <shift> # おもちゃは、ちょっと困るプレゼントだよねー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、そうか。確かに、
+line2 <shift> # わけにくいプレゼントは、大変だよな」
+com09 0 49
+display
+location 49
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ま、とにかく、今届いてるプレゼント、
+line2 <shift> # 二人で手分けして、持って帰ってくれるか？」
+display
+com11 0 0
+sound 10027
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「うんっ！　わかったよ、兄ちゃん！」
+display
+com22 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そして、亜美と真美は、
+line2 <shift> # 届いたプレゼントの仕分けを始めたのだが……）
+display
+com21 0 30
+com11 0 0
+sound 10028
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「ああーっ！！　あのクマ、でっかーいっ！
+line2 <shift> # めっちゃカワイイよー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え？　ああ、ぬいぐるみのクマか。
+line2 <shift> # なるほど、大きいな」
+display
+com11 0 0
+sound 10029
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「ううー……。亜美、
+line2 <shift> # あれ、めっちゃ欲しいなー！」
+display
+com11 0 0
+sound 10030
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「えーっ？　真美もあれ、めっちゃ、
+line2 <shift> # めーっちゃ欲しいって思ってたのに〜」
+display
+com11 0 0
+sound 10031
+com4c 0 3
+name 0 0 <names:4>  # Ami and Mami
+line1 <shift> # 「ううう〜っ！！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「こ、こらこら！　ケンカはダメだぞ！
+line2 <shift> # ケンカするなら……」
+com03 0 3
+choice1 <shift> # 没収だ！
+com09 0 50
+com08
+choice2 <shift> # もう１つ買ってやる
+line2
+com09 0 51
+com08
+choice3 <shift> # 二人で引っ張りあえ
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「没収だ！　クマのぬいぐるみは、
+line2 <shift> # 俺が持ってっちゃうぞ」
+display
+com11 0 0
+sound 10032
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「え？　兄ちゃんも、あれ欲しいの？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、いや、別に欲しいってわけじゃ……」
+display
+com11 0 0
+sound 10033
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「兄ちゃんが欲しいなら、亜美、
+line2 <shift> # あげちゃってもいいよ」
+display
+com11 0 0
+sound 10034
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「うん、真美もあげる。兄ちゃんだけプレゼント
+line2 <shift> # もらえないの、かわいそうだもんね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え？　そ、そうか……。ありがとな」
+display
+com11 0 0
+sound 10035
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「よかったね〜、兄ちゃん！　亜美達の分も、
+line2 <shift> # 大事にかわいがってあげてね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （何はともあれ、ケンカにならずにすんで
+line2 <shift> # 良かったな。ぬいぐるみを部屋に飾るのは……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （少し恥ずかしい気もするが、二人が優しい気持
+line2 <shift> # ちで譲ってくれたものだ。大切にするとしよう）
+com09 0 69
+display
+location 51
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、俺が同じのを、もう１つ買ってやろう。
+line2 <shift> # だから取り合うのは、やめるんだ」
+display
+com11 0 0
+sound 10036
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「うわ〜！　兄ちゃん、めっちゃ太っ腹〜！」
+display
+com11 0 0
+sound 10037
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「だねだねー！
+line2 <shift> # 兄ちゃん、すごいデブっ腹〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おいおい、なんだか人聞き悪いな……。
+line2 <shift> # とにかく、さっさと買いに行くぞ！」
+display
+com22 0 30
+com21 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ぬ、ぬいぐるみって、
+line2 <shift> # けっこう高いんだな……」
+display
+com11 0 0
+sound 10038
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「兄ちゃん、もう１つ買ってくれてありがと〜！
+line2 <shift> # ついでに亜美、アイス食べたいな！」
+display
+com11 0 0
+sound 10039
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「真美もありがと〜！　あと、ついでに真美、
+line2 <shift> # たこやき食べたいーっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「くっ……。今月分の給料が……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （取り合いのたびに買ってやるわけにもいかない
+line2 <shift> # し、もっと、いいやり方があったかもな……）
+com09 0 69
+display
+location 52
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「亜美！　真美！　両側からクマの手を、
+line2 <shift> # 二人で引っ張り合うんだ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「最後まで離さなかった方が、
+line2 <shift> # クマをもらえる……、これでどうだ？」
+display
+com11 0 0
+sound 10040
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「あっ、それ、おもしろそうだね！　よ〜し、
+line2 <shift> # 亜美がもらっちゃうよー！　えーいっ！」
+display
+com11 0 0
+sound 10041
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「真美だって負けないもんね〜！　うう〜っ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うんうん。これで、クマの身を案じて、
+line2 <shift> # 手を離した方が、本当の勝者になる」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「これぞ名奉行、大岡裁き……、って、おい！
+line2 <shift> # いいかげん離さないと、ぬいぐるみが……」
+display
+com11 0 0
+sound 10042
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「負けないもん〜！　ううう〜！」
+display
+com11 0 0
+sound 10043
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「真美が、もらうんだ〜！
+line2 <shift> # うう〜……、あっ！？」
+display
+com20 0 15
+com1f 0 15
+com11 0 0
+sound 10044
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「ううっ。ぬいぐるみ、ちぎれちゃったよ〜！
+line2 <shift> # うっぐ、えっぐ……」
+display
+com11 0 0
+sound 10045
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「うわ〜ん、兄ちゃんのせいだ〜！
+line2 <shift> # うっぐ、えっぐ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ご、ごめんごめん。悪かった！
+line2 <shift> # 代わりに何でも好きな物、買ってやるから！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （二人は泣いちゃうし、俺は、とんでもない
+line2 <shift> # 散財だ。三方一両損とは、このことか……？）
+com09 0 69
+display
+location 69
+unk02

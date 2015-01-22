@@ -1,0 +1,229 @@
+com11 0 6
+sound 160
+com2c 0 118
+com32 0 0
+com2d 0 11
+location 0
+com11 0 6
+sound 16000
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「はぁ〜、終わっちゃいましたね。
+line2 <shift> # これで、全部……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。でも、そこそこの会場で、最後の
+line2 <shift> # コンサートができたんだから……満足だろ？」
+com09 0 10
+com38 0 3
+com1e 0 0
+com09 0 10
+com3b
+com37 0 2
+com1e 0 0
+com09 0 11
+com3b
+com39 0 1
+com1e 0 0
+com09 0 12
+com3b
+display
+location 10
+com11 0 6
+sound 16001
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「たしかに……。けどぉ、今の私の人気なら、
+line2 <shift> # もっと大きな会場でも、イケた気が……」
+display
+com11 0 6
+sound 16002
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あああっ、い、今さら、ですよねっ。
+line2 <shift> # すみません……。えへへ……」
+com09 0 19
+display
+location 11
+com11 0 6
+sound 16003
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「そうですね！　今の私の実力だったら、
+line2 <shift> # あれぐらいのホールが精一杯ですし」
+display
+com11 0 6
+sound 16004
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「１００％満足って言ったら、ウソですけど……
+line2 <shift> # でも、まあ、よかったかなって思います♪」
+com09 0 19
+display
+location 12
+com11 0 6
+sound 16005
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「もちろんです！　今の私の実力で、あんな大き
+line2 <shift> # なホール、沸かせられるとは思ってなかったし」
+display
+com11 0 6
+sound 16006
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「最後の最後で、プロデューサーさんの評価、
+line2 <shift> # グーっと上がっちゃった感じです。えへへ♪」
+com09 0 19
+display
+location 19
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「で……話したいことってのは、なんだ？」
+display
+com11 0 6
+sound 16007
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あ、えっと……私、決めました。
+line2 <shift> # これから先、どうするのか」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、明日へのヒント、見つけたのか？」
+display
+com11 0 6
+sound 16008
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「はい！　私……。私、もうアイドル……」
+display
+com11 0 6
+sound 16009
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「やめてもいいかなって、思ってました。
+line2 <shift> # けど、やっぱり続けることにしますっ」
+display
+com1c 0 3
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……そうか」
+display
+com11 0 6
+sound 16010
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「今日のライブ、デキはよかったんですけど、な
+line2 <shift> # んか、これで引退っていうの、ピンとこなくて」
+display
+com11 0 6
+sound 16011
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「私のイメージだと、引退ライブの会場って、
+line2 <shift> # もっと大きなところなんですよね……」
+display
+com11 0 6
+sound 16012
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「たとえば、ドームとか！　そういうところで、
+line2 <shift> # 最後を飾れるようになるまで、辞められません」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、がんばれ！　俺には、その望みは
+line2 <shift> # かなえてやれなかったけど、応援してるからな」
+display
+com11 0 6
+sound 16013
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「はい！　……それじゃあ、プロデューサーさん、
+line2 <shift> # 今日まで、ありがとうございました！」
+display
+com11 0 6
+sound 16014
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「えーと『さよなら』ってアイサツは、さびしく
+line2 <shift> # て、イヤですね。他に、いいの、ないですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、そうだなあ。じゃあ……」
+com03 0 3
+choice1 <shift> # また、な！　
+com09 0 20
+com08
+choice2 <shift> # また、明日！　
+line2
+com09 0 21
+com08
+choice3 <shift> # あばよっ！　
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「また、な！」
+display
+com11 0 6
+sound 16015
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「あ、それぐらい、軽めの方がいいですっ。
+line2 <shift> # バッタリ、どこかで会うかもしれないし！」
+display
+com11 0 6
+sound 16016
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「もし、スタジオとかで見かけたら、私、絶対に
+line2 <shift> # 声かけますから！　……それじゃあ！」
+com4a 0 0
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「また、明日！」
+display
+com11 0 6
+sound 16017
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「明日……？　あのぉ、軽い感じなのはいいんで
+line2 <shift> # すけど……明日からは、会えないんですよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……まあな。かえって、別れを
+line2 <shift> # 意識させちゃったか。……ごめん」
+display
+com11 0 6
+sound 16018
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「いえ、いいんですっ！　ここで、スパッと
+line2 <shift> # 気分を切り替えるのも、大事ですし」
+display
+com11 0 6
+sound 16019
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「もしどこかのスタジオで見かけたら、私、
+line2 <shift> # 絶対に声かけますから！　……それじゃあ！」
+com4a 0 0
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あばよっ！」
+display
+com11 0 6
+sound 16020
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「……プロデューサーさん、年、いくつですか？
+line2 <shift> # 今、そんなアイサツする人、いないですよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか？　なんとか、明るくしようと思ったん
+line2 <shift> # だけど……。まあ、いいや。元気で！」
+display
+com11 0 6
+sound 16021
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「はい！　もしどこかのスタジオで見かけたら、
+line2 <shift> # 絶対に声かけてくださいね。……それじゃあ！」
+com4a 0 0
+com09 0 29
+display
+location 29
+location 100 129 92 129 92 130 177 130 164 130 181 130 196 129 65 137 180 130 170 136 231 130 196 130 189 143 173 143 151 130 205 129 65
+line2 <shift> # 見果てぬ夢を抱いたまま、巣立っていった。
+display
+location 101 130 224 130 193 130 198 145 229 130 171 130 200 137 239 143 234 130 197 129 65 141 197 140 227 130 240 143 252 130 234 130 196 130 162 130 234 130 206 129 65 130 160 130 233
+line2 <shift> # いは、感動的な別れが待っていたのかもしれない。
+display
+location 102 130 175 130 234 130 199 129 65 130 187 130 234 130 205 140 190 130 164 130 220 130 162 129 66 150 178 130 204 145 177 130 171 130 205 129 92 129 92 129 65
+line2 <shift> # また明日から、誰かと見ればいいのだから。
+display
+unk02

@@ -1,0 +1,214 @@
+com2c 0 38
+com2d 0 11
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （老人ホームへの慰安訪問で、
+line2 <shift> # 簡単なトークライブを行なった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さて、撤収するか。
+line2 <shift> # おーい、春香……、あれ？」
+display
+com11 0 4
+sound 600
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あっ、プロデューサーさん。
+line2 <shift> # もうそろそろ、戻りですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだけど……。今、ホームのおじいさんと、
+line2 <shift> # 話してたね。知り合いだったの？」
+display
+com11 0 4
+sound 601
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「いえ、そうじゃないですけど。ちょっと、
+line2 <shift> # つかまっちゃって。お話、してきました」
+com03 0 2
+choice1 <shift> # そうだったのか
+line2
+com09 0 10
+com08
+choice2 <shift> # 気をつけたほうがいいよ
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんだ、そうだったのか。どんな話を？」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、気をつけたほうがいいよ」
+display
+com11 0 4
+sound 602
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「えっ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ここには仕事で来てるんだし、
+line2 <shift> # お客さんとは、むやみに話さないほうが……」
+display
+com11 0 4
+sound 603
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「でも、相手は、おじいさんですよ？　それに、
+line2 <shift> # いきなり、話しかけられちゃいましたし」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか。まぁ、お年寄りを邪険には、
+line2 <shift> # できないよな。ところで、どんな話を？」
+com09 0 29
+display
+location 29
+com11 0 4
+sound 604
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい。あの、実は……、
+line2 <shift> # おじいさんに、口説かれちゃって♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええっ、なんだって！？」
+display
+com11 0 4
+sound 605
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「なんか私、おじいさんの昔の恋人に、
+line2 <shift> # 雰囲気が似てるらしいんですよ」
+display
+com11 0 4
+sound 606
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「だから、熱っぽい調子でね、結構、本気で、
+line2 <shift> # 口説かれちゃいましたぁ……。えへへっ」
+display
+com11 0 4
+sound 607
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「どうしよう？　私、このまま、
+line2 <shift> # あのダンディなおじいさんとっ……！」
+com03 0 2
+choice1 <shift> # 初恋の人という感じかな
+line2
+com09 0 30
+com08
+choice2 <shift> # 物好きなおじいさんだ
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ふーむ、もしかして、初恋の人に似ている、
+line2 <shift> # という感じなのかな？　春香が」
+display
+com11 0 4
+sound 608
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、そうかも。
+line2 <shift> # そんなようなことを言ってましたね」
+display
+com11 0 4
+sound 609
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「きっとおじいさんにとって、その人って、
+line2 <shift> # 忘れられない、思い出の人なんだと思います」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか、そういういい思い出は、
+line2 <shift> # 年を取っても、大事にしたいものだね」
+display
+com11 0 4
+sound 610
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい。そうですよね！
+line2 <shift> # 私も、いい思い出作りたいなぁ♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ははは……。きっとこれから、
+line2 <shift> # いい思い出が、いっぱいできるよ」
+display
+com11 0 4
+sound 611
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あはは……。なんだか照れちゃいますね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「恥ずかしがることなんかないさ！
+line2 <shift> # 俺も、春香のために頑張るからな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （春香の思い出になるような仕事を、
+line2 <shift> # たくさんさせてやりたいな……）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「しかし、春香を口説くなんて、
+line2 <shift> # おじいさんも物好きだなぁ」
+display
+com11 0 4
+sound 612
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ああっ、プロデューサーさん、ひどい！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ん、どうした、春香。おじいさんのことが、
+line2 <shift> # そんなに気に入ったのか？」
+display
+com11 0 4
+sound 613
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そうじゃなくてっ！」
+display
+com11 0 4
+sound 614
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ええと、そうじゃなくて……、
+line2 <shift> # いえ、おじいさんは、いい人でしたけどっ」
+display
+com11 0 4
+sound 615
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「なんで『物好き』なんですかぁ……。
+line2 <shift> # おじいさんに失礼じゃないかなぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、いや……。おじいさんは、あくまで冗談で、
+line2 <shift> # 春香を口説いたりしたんじゃないかなぁ、と」
+display
+com11 0 4
+sound 616
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「冗談だとしても……、私だって、
+line2 <shift> # ちょっとは嬉しかったのになぁ」
+display
+com11 0 4
+sound 617
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「私なんかが、口説かれたらダメですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いやいや、そういうつもりではなく……」
+display
+com11 0 4
+sound 618
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「むぅ……。もう、いいです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （春香は、へそを曲げてしまった。
+line2 <shift> # うーん、ちょっと言い過ぎたかな？）
+com09 0 49
+display
+location 49
+unk02

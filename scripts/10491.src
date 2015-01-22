@@ -1,0 +1,314 @@
+com2c 0 43
+com2c 0 63
+com2c 0 49
+com2d 0 21
+com32 0 0
+com11 0 3
+sound 300
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「プロデューサーっ！　今回の新曲の歌詞、
+line2 <shift> # いったい、どうなってるの！？」
+display
+com11 0 3
+sound 301
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「『詞、書いてみる？』っていうから、私、一生
+line2 <shift> # 懸命書いたのに、別のに変わってるじゃない！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……あ、ごめん。伊織のだと、どうしても曲に
+line2 <shift> # 合わないって、レコード会社が……」
+display
+com11 0 3
+sound 302
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そんな…………。く、く、許せない〜。
+line2 <shift> # 私をコケにして〜〜〜っ！！」
+com03 0 3
+choice1 <shift> # こらえてくれよ
+line2
+com09 0 10
+com08
+choice2 <shift> # ……ごめんな
+line2
+com09 0 11
+com08
+choice3 <shift> # 運が悪かったんだ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「こらえてくれよ」
+display
+com11 0 3
+sound 303
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「こんなのっ、こらえきれないわよー！
+line2 <shift> # ……私、アイドルやめる！」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……ごめんな」
+display
+com11 0 3
+sound 304
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あやまられたって、どうにも……く。
+line2 <shift> # ……私、アイドルやめる！」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「運が悪かったんだ。たまたま、編曲との
+line2 <shift> # かみ合わせが……」
+display
+com11 0 3
+sound 305
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そんなの、納得できないわよ！　あの歌詞、
+line2 <shift> # 寝ないで考えたのよ……」
+display
+com11 0 3
+sound 306
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……私、アイドルなんて、やめるっ！」
+com09 0 19
+display
+location 19
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、おい、伊織……！」
+display
+com11 0 3
+sound 307
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「つまんない仕事、たくさんやって、ここまで
+line2 <shift> # きたのに、それでもバカにされるなんて……！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「売れてきたら、売れてきたで、いろいろ
+line2 <shift> # あるんだよ……」
+com03 0 3
+choice1 <shift> # 横ヤリも入るしな
+line2
+com09 0 20
+com08
+choice2 <shift> # 利害もからむしな
+line2
+com09 0 21
+com08
+choice3 <shift> # チェックも厳しくなるしな
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「横ヤリも入るしな」
+display
+com11 0 3
+sound 308
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なにが横ヤリよ！　なんで私のやることに、
+line2 <shift> # 他人が口をはさめるわけ！」
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「利害もからむしな」
+display
+com11 0 3
+sound 309
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そんなの、知ったことじゃないわよ！
+line2 <shift> # ちょっと損したからって、なんだっていうの！」
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「チェックも厳しくなるしな」
+display
+com11 0 3
+sound 310
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「私の詞じゃ、ダメだってわけ？　新しいのだっ
+line2 <shift> # て、ズバ抜けて、いいわけじゃないじゃない！」
+com09 0 29
+display
+location 29
+com11 0 3
+sound 311
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「私っ、こんな思いするために、がんばってきた
+line2 <shift> # んじゃないもんっ！　やめてやるーっ！」
+com03 0 3
+choice1 <shift> # なら、俺もやめるよ
+line2
+com09 0 30
+com08
+choice2 <shift> # 社長にはなんて言うんだ？
+line2
+com09 0 31
+com08
+choice3 <shift> # 頭、冷やしてこい！
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なら、俺もやめるよ」
+display
+com11 0 3
+sound 312
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「勝手にしなさいよ！　それじゃ、あんたも
+line2 <shift> # 今日から無職ね。……私、帰るっ！！」
+display
+com22 0 30
+com32 0 1
+com21 0 30
+com11 0 3
+sound 313
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「…………どうして、ついてくるのよ？
+line2 <shift> # ……新しい仕事、探しにいきなさいよね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「伊織のプロデューサーやってるの、けっこう
+line2 <shift> # 楽しかったからな。別の仕事は、ちょっと……」
+display
+com11 0 3
+sound 314
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「わ、私だって、アイドルやってるの……
+line2 <shift> # 楽しかったわよ。それが、こんな……」
+display
+com11 0 3
+sound 315
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「く…………うう、う……わかったわよ！！
+line2 <shift> # 戻ればいいんでしょ、戻れば！！」
+display
+com11 0 3
+sound 316
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あんたなんて、あんたなんて…………く」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （なんと言われたって、かまわない。伊織さえ
+line2 <shift> # 戻ってくれれば……。これで、一件落着かな）
+com09 0 39
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「社長にはなんて言うんだ？」
+display
+com11 0 3
+sound 317
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そんなの、知らないわっ。別の新人でも、つか
+line2 <shift> # まえてくればいいでしょ！　……私、帰る！」
+display
+com22 0 30
+com32 0 1
+com21 0 30
+com11 0 3
+sound 318
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「どうして、ついてくるのよ！　早く、代わりの
+line2 <shift> # 人、探しにいかなくて、いいわけっ！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「伊織がいないと、みんな困るに決まってる
+line2 <shift> # だろ？　頼むから、戻ってくれよ」
+display
+com11 0 3
+sound 319
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「イヤっ！！　やめるったら、やめる！　私、
+line2 <shift> # 絶対に、戻らないんだからー！！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ、せめて、社長に、お別れのアイサツ
+line2 <shift> # ぐらいしに行こう。それなら、いいだろ？」
+display
+com11 0 3
+sound 320
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「まあ、それぐらいなら……。でも、私は説得な
+line2 <shift> # んかされないわよ！？　アイサツだけだからね」
+display
+com11 0 3
+sound 321
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「これまでの文句とか、さんざん言って、
+line2 <shift> # サヨナラしてやるんだから……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、社長にやさしく諭されて、伊織は
+line2 <shift> # 復帰した。俺ひとりだけで、説得できたかもな）
+com09 0 39
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「頭、冷やしてこい！」
+display
+com11 0 3
+sound 322
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そんな必要ないわよっ！　もうやめるん
+line2 <shift> # だから！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「冷静になれって。きっと考えも……」
+display
+com11 0 3
+sound 323
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……わかったわよ！　冷やせばいいんでしょ、
+line2 <shift> # 冷やせば！　…………くっ！！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、伊織……！！」
+display
+com22 0 30
+com32 0 2
+com21 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……川に飛び込みかけたんだって？
+line2 <shift> # よかったよ、無事で……」
+display
+com11 0 3
+sound 324
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「フンっ、おかげで、頭、冷しそこねたわよ。
+line2 <shift> # う……ううう……っ」
+display
+com11 0 3
+sound 325
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「今度こそ、飛び込んでやる〜っ！　誰にも
+line2 <shift> # 邪魔させないんだからー！！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「バカっ！　よせって！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （それから、長い説得の末、伊織は復帰すること
+line2 <shift> # に。……想像以上の大騒ぎになってしまった）
+com09 0 39
+display
+location 39
+unk02

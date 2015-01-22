@@ -1,0 +1,468 @@
+com2c 0 24
+com2d 0 81
+com32 0 0
+com11 0 3
+sound 500
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサー、雑誌の取材、終わりました。
+line2 <shift> # はあーあ、つまんないの……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうしたんだ？　インタビュー、
+line2 <shift> # 盛り上がらなかったのか？」
+display
+com11 0 3
+sound 501
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「話は、はずんだんですけど、これ以上は
+line2 <shift> # 誌面に載らないからって、途中で切り上げに」
+display
+com11 0 3
+sound 502
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「雑談ぐらい、していってもいいと思うんだけど。
+line2 <shift> # ホントは、ボクに興味なんて、ないのかな」
+com03 0 3
+choice1 <shift> # それは、記者によるよ
+line2
+com09 0 10
+com08
+choice2 <shift> # それは、雑誌社によるよ
+line2
+com09 0 11
+com08
+choice3 <shift> # それは、人気によるよ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それは、記者によるよ。垣根のない
+line2 <shift> # つきあいしてる人も、たくさんいるし」
+display
+com11 0 3
+sound 503
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「どうせなら、そういう人にきてもらいたいです。
+line2 <shift> # 今の人気じゃ、生意気かもしれませんけど」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それは、雑誌社によるよ。スケジュールが
+line2 <shift> # きびしいところだと、どうしてもな」
+display
+com11 0 3
+sound 504
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「みんな、大変なんですね。でも、こんな
+line2 <shift> # 上っ面の取材、つまらないです」
+display
+com11 0 3
+sound 505
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あれっぽっちの限られた時間じゃ、相手の
+line2 <shift> # 考えなんて、わかりっこないし」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それは、人気によるよ。今ぐらいの人気じゃ、
+line2 <shift> # 業界人は、そう強い関心は……」
+display
+com11 0 3
+sound 506
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「人気は、関係ないですっ。だって、一度
+line2 <shift> # 知り合ったら、単なる人同士じゃないですか」
+display
+com11 0 3
+sound 507
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「トップアイドルは、たしかに注目の的かもしれ
+line2 <shift> # ません。でも、これは、それとは別の話で……」
+com09 0 29
+display
+location 29
+com11 0 3
+sound 508
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ボク……小さい頃、いじめられて、しばらく
+line2 <shift> # 学校、休んだことがあるんです」
+display
+com11 0 3
+sound 509
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「その時は、友達とか、すごく心配してくれて、
+line2 <shift> # 毎朝、迎えにきてくれました」
+display
+com11 0 3
+sound 510
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あの頃は、形だけのつきあいなんて、なかった
+line2 <shift> # のに。なんで大きくなると、こうなるんだろ」
+com03 0 3
+choice1 <shift> # それが、社会だよ
+line2
+com09 0 30
+com08
+choice2 <shift> # それが、芸能界だよ
+line2
+com09 0 31
+com08
+choice3 <shift> # それが、人間だよ
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それが、社会だよ」
+display
+com11 0 3
+sound 511
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「かもしれません。でも、ボク、そんなのに、
+line2 <shift> # 染まりたくないです。だって、さびしいし」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それが、芸能界だよ」
+display
+com11 0 3
+sound 512
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「でも、こういうのって、きっと芸能界だけじゃ
+line2 <shift> # ないですよね。普通の会社で働いてる人も……」
+display
+com11 0 3
+sound 513
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ホントはこんなの、いやだって感じてる人、
+line2 <shift> # 多いと思います。だって、さびしいし」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それが、人間だよ」
+display
+com11 0 3
+sound 514
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「こうなっちゃうのが、当然なんですか？
+line2 <shift> # そんなの、あまりにも、さびしいですよっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、全員と、本音のつきあいするわけには、
+line2 <shift> # いかないだろ？」
+display
+com11 0 3
+sound 515
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「う、それは……。だけど、ボクは、カンタンに
+line2 <shift> # 割り切りたくないんです」
+com09 0 49
+display
+location 49
+com11 0 3
+sound 516
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサー。まさかとは思うんですけど、
+line2 <shift> # でも、でも、もしかしてっ」
+display
+com11 0 3
+sound 517
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサーにとっても、ボクは、
+line2 <shift> # 仕事上で必要な……ただの駒なんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなわけないだろ！　……ほら、こっちへ。
+line2 <shift> # 駒なんかじゃないって、わからせてあげるから」
+display
+com11 0 3
+sound 518
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「え？　あ、はい……？」
+com0e 2 198
+com44
+com09 0 50
+com45
+com44
+com09 0 51
+com45
+com44
+com09 0 52
+com45
+com44
+com09 0 53
+com45
+com44
+com09 0 54
+com45
+com44
+com09 0 55
+com45
+com44
+com09 0 56
+com45
+com44
+com09 0 57
+com45
+com44
+com09 0 58
+com45
+com44
+com09 0 59
+com45
+display
+location 50
+com11 0 3
+sound 519
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「う、うわっ、どうして、髪なんて、
+line2 <shift> # クシャクシャって……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「真が駒だったら、こんな風にじゃれたり、
+line2 <shift> # イタズラしたいとか、思わないだろ？」
+display
+com11 0 3
+sound 520
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あはっ！　それも、そうですね。よーし、
+line2 <shift> # 今度はボクが、お返しに！　へへ、へへへっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （しばらく、お互いの髪を、かき乱しあった。
+line2 <shift> # 育ちつつある絆を、笑って、たしかめながら）
+com09 0 69
+display
+location 51
+com11 0 3
+sound 521
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「痛っ！　なんで、いきなり頭、
+line2 <shift> # たたくんです〜？」
+com09 0 91
+display
+location 52
+com11 0 3
+sound 522
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「痛っ！　なんで、いきなり目なんて、
+line2 <shift> # つつくんです〜？」
+com09 0 91
+display
+location 53
+com11 0 3
+sound 523
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「痛っ！　なんで、いきなりホッペタ、
+line2 <shift> # ひっぱたくんです〜？」
+com09 0 91
+display
+location 91
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ちゃんと痛いって感じるだろ？　それこそ、
+line2 <shift> # 駒なんかじゃない、生きてる人間の証拠だよ」
+display
+com11 0 3
+sound 524
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、当たり前です！　ボクが言ってるのは、
+line2 <shift> # そうじゃなくて、つまり、使い捨ての……」
+display
+com11 0 3
+sound 525
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「いいです……。そうされないように、なるのも、
+line2 <shift> # 仕事のひとつだと思いますから」
+display
+com11 0 3
+sound 526
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「でも、競争、激しいからな、アイドルの世界は。
+line2 <shift> # やりたい人なんて、これからも、どんどん……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （不安そうな顔をしている。うーん、もっとあた
+line2 <shift> # たかいコミュニケーション、取るべきだったか）
+com09 0 69
+display
+location 54
+com11 0 3
+sound 543
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「わ、プロデューサー。どうして、頬なんて、
+line2 <shift> # つついて……」
+com09 0 92
+display
+location 55
+com11 0 3
+sound 527
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「わ、プロデューサー。どうして、鼻なんて、
+line2 <shift> # つついて……」
+com09 0 92
+display
+location 92
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もし、真のこと、駒みたいに考えてるなら、
+line2 <shift> # こういうイタズラ、したいとは思わないよ」
+display
+com11 0 3
+sound 528
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そ、そうですか？　まあ、なんとなく、
+line2 <shift> # わかる気もします」
+display
+com11 0 3
+sound 529
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「へへっ、すこしは気持ち……ラクになったかも。
+line2 <shift> # ほんのすこし、ですけど……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （小さく、息をついている。もっとハデに
+line2 <shift> # わからせてやっても、よかったかな）
+com09 0 69
+display
+location 56
+com11 0 3
+sound 530
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うわわっ、ぷ、プロデューサー？　どうして、
+line2 <shift> # くちびるなんて、さわるんです？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もし、真のこと、駒みたいに考えてるなら、
+line2 <shift> # こういうイタズラ、したいとは思わないよ」
+display
+com11 0 3
+sound 531
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そ、それは、そうかも。でもっ、いきなり、
+line2 <shift> # そこは……。ビックリしました……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「指なんかじゃ、物足りないか？」
+display
+com11 0 3
+sound 532
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「え？　え？　ええええっ！？
+line2 <shift> # な、なに言って、だって、あの、そのっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （しどろもどろに、なってしまった。
+line2 <shift> # さすがに、これは、やりすぎだったようだ）
+com09 0 69
+display
+location 57
+com11 0 3
+sound 533
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うわわっ、プロデューサー？　どうして、
+line2 <shift> # そんなところ、うあうあ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もし、真を駒みたいに考えてるなら、こういう
+line2 <shift> # ところ、さわりたいとは思わないよ」
+display
+com11 0 3
+sound 534
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「それと、これとは、話が〜。い、いいですけど、
+line2 <shift> # い、いや、そんなによくも。ぼぼぼ、ボク……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ごめんな……。あやまるから、落ち着けって」
+display
+com11 0 3
+sound 535
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「こ、これこそ、駒あつかいって気も、ちょっと
+line2 <shift> # します。……言い過ぎ、ですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うろたえながら、こっちを見ている。
+line2 <shift> # いくらなんでも、これはマナー違反か）
+com09 0 69
+display
+location 58
+com11 0 3
+sound 536
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサー？　なんで、そんなところ、
+line2 <shift> # さわるんです？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「い、いや……ほら、手のひらから、ぬくもりを
+line2 <shift> # 感じるよ。真は駒じゃなく、生きてる人間だ」
+display
+com11 0 3
+sound 537
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、当たり前です！　ボクが言ってるのは、
+line2 <shift> # そうじゃなくて、つまり、使い捨ての……」
+display
+com11 0 3
+sound 538
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「いいです……。そうされないように、なるのも、
+line2 <shift> # 仕事のひとつだと思いますから」
+display
+com11 0 3
+sound 539
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「でも、競争、激しいからな、アイドルの世界は。
+line2 <shift> # やりたい人なんて、これからも、どんどん……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （不安そうな顔をしている。うーん、あんな
+line2 <shift> # ところ、さわっても、誠意は伝わらないか）
+com09 0 69
+display
+location 59
+com11 0 3
+sound 540
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あの……プロデューサー？　どうして、黙って、
+line2 <shift> # じっと見てるんです？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、言ってはみたものの、どうすれば
+line2 <shift> # 信じてもらえるかなって……」
+display
+com11 0 3
+sound 541
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「なにも考えないで、ボクのこと、近くに
+line2 <shift> # 呼んだんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そういうわけでも、ないんだけど……。
+line2 <shift> # いったい、どうすれば、信じてくれる？」
+display
+com11 0 3
+sound 542
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ボクに聞かれても、困りますよ〜。自分でも、
+line2 <shift> # なんでここまで不安なのか、よくわからなくて」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （顔色は暗いままだ……。こういう時は、ただ
+line2 <shift> # 見つめてたって、助けにはならないよな）
+com09 0 69
+display
+location 69
+unk02

@@ -1,0 +1,284 @@
+com2c 0 24
+com2d 0 91
+com2e 0 101
+com32 0 0
+com11 0 2
+sound 1400
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「兄ちゃ〜ん、すっごいことが、起きちゃった！
+line2 <shift> # あのねっ、ケータイの着メロ・サイト見たら〜」
+display
+com11 0 2
+sound 1401
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「真美達の歌、トップ１０に入ってたんだよっ。
+line2 <shift> # も〜、ビックリ〜！！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「なに、本当か！？　それは、すごいな！」
+display
+com11 0 2
+sound 1402
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ランクＣって、口コミ度も、バリスゴ、
+line2 <shift> # ベリ速なんだね〜！」
+display
+com11 0 2
+sound 1403
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「もう、真美達、メチャイケ・アイドル
+line2 <shift> # だよねっ。ほめて、ほめてー！！」
+com03 0 3
+choice1 <shift> # えらいっ！
+com09 0 10
+com08
+choice2 <shift> # よくやったな
+line2
+com09 0 11
+com08
+choice3 <shift> # ブラボー！
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「えらいっ！」
+display
+com11 0 2
+sound 1404
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「やっぱり〜？　わーいわーい、
+line2 <shift> # ほめられた〜！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「トップまで、あと一息だな。
+line2 <shift> # 最後まで、目標を見失わずに、いこう」
+com09 0 29
+display
+location 11
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「よくやったな」
+display
+com11 0 2
+sound 1405
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「そんな、落ち着いて、ほめないでよ〜。
+line2 <shift> # 真美達、メチャメチャがんばったんだし……」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「と、ともかく……トップまで、あと一息だ。
+line2 <shift> # 最後まで、目標を見失わずにいこう」
+com09 0 29
+display
+location 12
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「ブラボー！」
+display
+com11 0 2
+sound 1406
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ぶらぼ〜？　なに、それ？　ほめ言葉？」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「そうだけど……。知らない？」
+display
+com11 0 2
+sound 1407
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「はじめて、聞いたかも〜。兄ちゃん、
+line2 <shift> # ヘンテコな言葉、知ってるんだね……」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「と、ともかく……トップまで、あと一息だ。
+line2 <shift> # 最後まで、目標を見失わずにいこう」
+com09 0 29
+display
+location 29
+com11 0 2
+sound 1408
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「あ、兄ちゃん！　亜美達ね〜、もうひとつ、
+line2 <shift> # おっきな目標が、できたのっ！」
+display
+com11 0 2
+sound 1409
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「昨日の夜、おふとんで話したんだけどー、
+line2 <shift> # いつか亜美と真美、ふたりでＴＶ出たいねって」
+display
+com11 0 2
+sound 1410
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ずーっと先になるかもしれないけど、
+line2 <shift> # これ、どう思うっ？」
+com03 0 2
+choice1 <shift> # おもしろいと、思うよ
+line2
+com09 0 30
+com08
+choice2 <shift> # 絶対、却下だ！
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「おもしろいと、思うよ。今とは違う魅力が
+line2 <shift> # 生まれそうだし」
+display
+com11 0 2
+sound 1411
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「兄ちゃんが、そう言うんなら、きっと成功
+line2 <shift> # まちがいなしだねっ。楽しみ〜♪」
+com09 0 49
+display
+location 31
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「絶対、却下だ！　そんなことしたら、
+line2 <shift> # 秘密、守れなくなるだろ？」
+display
+com11 0 2
+sound 1412
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「今の話じゃないよ〜！　ずーっと先って、
+line2 <shift> # 言ったでしょ〜？」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「え？　あ、なら……いいか。当然、その時は
+line2 <shift> # デビューし直しってことに、なるよな？」
+display
+com11 0 2
+sound 1413
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「うんっ！　亜美とふたりでつくる、
+line2 <shift> # ミラクル・ユニットの、たんじょ〜だね！」
+com09 0 49
+display
+location 49
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「もし、亜美と真美の新ユニットができたら、
+line2 <shift> # その時は……」
+com03 0 3
+choice1 <shift> # プロデュースさせてくれよな
+line2
+com09 0 50
+com08
+choice2 <shift> # 名前、決めさせてくれよな
+line2
+com09 0 51
+com08
+choice3 <shift> # 応援するからな
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「プロデュースさせてくれよな」
+display
+com11 0 2
+sound 1414
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「当ったり前だよ〜。真美達のプロデュー
+line2 <shift> # サーは、兄ちゃんしか、できないんだからっ」
+display
+com11 0 2
+sound 1415
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「新しいの、つくるためにも、まずは今のままで
+line2 <shift> # トップ取らないとね！　がんばろー！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （新たな目標も加わって、夢はどんどん加速して
+line2 <shift> # いく！　さ、トップまで、あとすこし！）
+com09 0 69
+display
+location 51
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「名前、決めさせてくれよな」
+display
+com11 0 2
+sound 1416
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「え、真美達、昨日話して、決めちゃったん
+line2 <shift> # だけど……。『双子だよ〜』って、いうの！」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「ず、ずいぶんストレートだな。もうすこし、
+line2 <shift> # こった名前の方が、よくないか？」
+display
+com11 0 2
+sound 1417
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「う〜ん、そっかな〜。いい名前だと思うん
+line2 <shift> # だけど……。んじゃ、また今度、話して決めよ」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （ちょっと、ガッカリした顔。ま、すべては
+line2 <shift> # 今の形で、トップをとった後の話だし、いいか）
+com09 0 69
+display
+location 52
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「応援するからな」
+display
+com11 0 2
+sound 1418
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「え？　兄ちゃんは、見てるだけなの？
+line2 <shift> # いっしょにやらないの〜？」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # 「それは、状況次第だよ。その頃、俺達が、
+line2 <shift> # どうなってるかは、わからないし……」
+display
+com11 0 2
+sound 1419
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ダメだよ〜っ！　兄ちゃんがいなかったら、
+line2 <shift> # アイドルなんて、できないもんっ！」
+display
+com11 0 2
+sound 1420
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「どうして、そんな冷たいこと、いうの〜？？？
+line2 <shift> # 兄ちゃんの、れいてつ動物〜！　ううっ……」
+display
+name 0 1 <names:3>  # Protagonist
+line1 <shift> # （涙ぐんでいる……。突き放したような言い方、
+line2 <shift> # したのは、マズかったかな……）
+com09 0 69
+display
+location 69
+unk02

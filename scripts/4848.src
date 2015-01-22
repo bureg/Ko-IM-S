@@ -1,0 +1,318 @@
+com2c 0 33
+com2d 0 11
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ラジオの公開生録に春香が呼ばれ、街の
+line2 <shift> # オープンスタジオで収録がされることになった）
+display
+com11 0 3
+sound 400
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「収録の様子、外から全部見えるように
+line2 <shift> # なってるんですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。スタジオの片面はガラス張りで、
+line2 <shift> # 通りから見えるようになってるから……」
+display
+com11 0 3
+sound 401
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「まだ本番まで時間ありますけど、表にもう
+line2 <shift> # 結構、人が集まってきてるみたいです」
+display
+com11 0 3
+sound 402
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「こういう場所だと、ラジオでも、その場で
+line2 <shift> # お客さんの反応が見られるのがいいですね♪」
+com03 0 2
+choice1 <shift> # そうだね、楽しみだ
+line2
+com09 0 10
+com08
+choice2 <shift> # 変なことするなよ？
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだね。楽しみだ。やっぱり生だと
+line2 <shift> # すぐにリアクションが返ってくるのがいいよね」
+display
+com11 0 3
+sound 403
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい！　お客さんを見ながらの仕事のほうが、
+line2 <shift> # 私、好きなんです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「春香がボケても即ギャラリーから
+line2 <shift> # ツッコミが入りそうだな」
+display
+com11 0 3
+sound 404
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ぼ、ボケませんよぉ」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ラジオだからって、変なことするなよ？
+line2 <shift> # 外から丸見えだからね……」
+display
+com11 0 3
+sound 405
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そんなことしませんよぉ〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、しゃべりに夢中になると時々、
+line2 <shift> # 油断した表情になったりするからなぁ」
+display
+com11 0 3
+sound 406
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「えっ！？　私……、変な顔してます？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「変って言ったら語弊があるな……。
+line2 <shift> # オーバーアクション。見てて面白い時があるよ」
+display
+com11 0 3
+sound 407
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、あんまり、人の顔見て、
+line2 <shift> # 笑わないで下さいっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ははは……でも、外で見ているお客さんは
+line2 <shift> # 楽しいかもね」
+com09 0 29
+display
+location 29
+com22 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そして……）
+display
+com21 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「前半収録おつかれさま。
+line2 <shift> # 休けいのあと、後半の録音だね」
+display
+com11 0 3
+sound 408
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい！　あぁ、それにしてもラジオのＤＪさん、
+line2 <shift> # かなりハイテンションですねぇ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ほら、ラジオは映像がないから。
+line2 <shift> # しゃべりまくって、盛り上げていかないと」
+display
+com11 0 3
+sound 409
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ですよね！　だけど、随分テンポ速くて……、
+line2 <shift> # 私慣れてないから、ちょっとついていけなくて」
+display
+com11 0 3
+sound 410
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「話すのはすごく楽しいのに、ふっと言葉が
+line2 <shift> # 詰まったりして……ああ、なんかくやしいなぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「むぅ、確かに長い沈黙はラジオの敵だな。
+line2 <shift> # そんな時は……」
+com03 0 3
+choice1 <shift> # 慌てず素直にしゃべれば
+line2
+com09 0 30
+com08
+choice2 <shift> # 台本通りやれば……
+line2
+com09 0 31
+com08
+choice3 <shift> # アドリブしまくりだ
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「慌てることないさ。思ったまま、
+line2 <shift> # 素直にしゃべればいいよ」
+display
+com11 0 3
+sound 411
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「うーん……でも時々、自分でも何しゃべっ
+line2 <shift> # てるのか、わけわかんなくなっちゃいます」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なら、無理に自分から話さなくても。
+line2 <shift> # ＤＪさんが話題振ってくれるんだし」
+display
+com11 0 3
+sound 412
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そうですね。ＤＪさんにうまくあわせて……
+line2 <shift> # ノリでしゃべればいいですよね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、何かあっても俺やＤＪさんにまかせて。
+line2 <shift> # ノリでフォローできるよ。心配いらない」
+display
+com11 0 3
+sound 413
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そうですね……わかりました！
+line2 <shift> # なるべく自然に、話してみますっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「力まず、気楽に。ただし舌はかむなよ？」
+display
+com11 0 3
+sound 414
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「えへへ、大丈夫です♪
+line2 <shift> # ばっちり頑張りますよ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よし、春香は吹っ切れた様子で、
+line2 <shift> # 後半収録にしっかり挑んでくれそうだ）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でもまぁ、生録とはいえ、段取りはある程度
+line2 <shift> # 台本にあるわけだから、その通りやればいいよ」
+display
+com11 0 3
+sound 415
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「でも、テンポ速いし、どんどん
+line2 <shift> # しゃべらなきゃ置いていかれちゃうし……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「慌ててトチるなら、多少テンポを落として収録
+line2 <shift> # しても大丈夫だと思うよ。あとで編集できるさ」
+display
+com11 0 3
+sound 416
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「うーん……だけどせっかくの公開録音だから、
+line2 <shift> # お客さんの前でしっかりやりたいなぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃあ、今のうちに台本をよく読んで
+line2 <shift> # おこうよ。ほら、覚えちゃおう」
+display
+com11 0 3
+sound 417
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そうですね、覚えちゃいます！
+line2 <shift> # 生で大失敗しちゃったら大変です！」
+display
+com11 0 3
+sound 418
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「よーし、頑張って、覚えちゃうぞ……。
+line2 <shift> # うわ！　ここ、早口言葉みたい！」
+display
+com11 0 3
+sound 419
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ううっ、ロレツが
+line2 <shift> # 回らなくなったらどうしようっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あんまり気にしすぎるなって、春香」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うーん、春香は緊張した面持ちで後半収録に、
+line2 <shift> # 望むことになってしまった。不安だなぁ……）
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ここはもう段取りはある程度無視して、
+line2 <shift> # どんどんアドリブで！」
+display
+com11 0 3
+sound 420
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ええっ！？　そんな、いいんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「勢いが大事だから。ＤＪさんはマシンガン
+line2 <shift> # トークだけど、春香も負けるな」
+display
+com11 0 3
+sound 421
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい……でも私、しゃべってるうちに
+line2 <shift> # 頭の中が真っ白になっちゃって」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「考えるなって。とにかく口を動かすんだ。
+line2 <shift> # 何でもいいから話すんだ」
+display
+com11 0 3
+sound 422
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「よーし、何でもいいから、なんでも……
+line2 <shift> # ああ、思いつかないかも〜っ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ま、まぁ、その時は、その時だ！
+line2 <shift> # 本番になればなんとかなるさ！」
+display
+com11 0 3
+sound 424
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そんなぁ、無責任ですよ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、いや……ＤＪさんがすぐコメントして
+line2 <shift> # 的確にツッコンで、助けてくれるから、さ」
+display
+com11 0 3
+sound 425
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「プロデューサーさんは、
+line2 <shift> # 助けてくれないんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いやその……あまりにマズいことになりゃ、
+line2 <shift> # もちろん、フォローはするが」
+display
+com11 0 3
+sound 426
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ま、マズいことって……ど、どんな？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなに悩むなよ、春香。
+line2 <shift> # ほら、そろそろ出番だから」
+display
+com11 0 3
+sound 427
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ううっ、が、がんばりますぅ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （春香はテンションの低い困り顔のまま、
+line2 <shift> # 後半収録に行ってしまった。マズかったな……）
+com09 0 49
+display
+location 49
+unk02

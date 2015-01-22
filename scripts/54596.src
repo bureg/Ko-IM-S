@@ -1,0 +1,1060 @@
+com2c 0 35
+com2c 0 124
+com2c 0 28
+com2c 0 178
+com2c 0 203
+com2c 0 90
+com2c 0 113
+com2d 0 121
+com2e 0 91
+com2f 0 101
+com32 0 6
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今朝は何だか、早く目が覚めちゃったな。
+line2 <shift> # ……こんなすてきな朝は）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （何かすてきな出会いが、あるかもしれない。
+line2 <shift> # 寄り道しながら出社しようかな？）
+com03 0 2
+choice1 <shift> # どこかに寄り道する
+line2
+com09 0 10
+com08
+choice2 <shift> # まっすぐ事務所に行く
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よし！　たまには、寄り道しながら、
+line2 <shift> # のんびり出社しよう！）
+display
+com22 0 30
+com21 0 30
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （まあ、とりあえず、せっかく早起きしたんだ。
+line2 <shift> # どこかで、ゆったり朝食でも食べて……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あれ？　あそこにいるのは……）
+display
+com11 0 0
+sound 10000
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「なんと、このようなところで。
+line2 <shift> # おはようございます」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おはよう、貴音。朝早くからどうしたんだ？」
+display
+com11 0 0
+sound 10001
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「いきなり、ぶしつけではありますが……」
+display
+com11 0 0
+sound 10002
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「あなた様は、この雑誌に載っている場所を、
+line2 <shift> # ご存じですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どれどれ？　……ああ、このテーマパークか。
+line2 <shift> # 営業で行ったことがあるような、ないような」
+display
+com11 0 0
+sound 10003
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「本当ですか！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うん。だけど、ここがどうかしたのか？」
+display
+com11 0 0
+sound 10004
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「その、くわしい事情は申し上げられないのです
+line2 <shift> # が……、どうしてもこの場所に行きたいのです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「貴音が、テーマパークに？」
+com03 0 3
+choice1 <shift> # かわいいところ、あるんだな
+line2
+com09 0 20
+com08
+choice2 <shift> # 意外だなあ
+com09 0 21
+com08
+choice3 <shift> # 仕事、サボるのか？
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （いいや、まっすぐ事務所に行こう。
+line2 <shift> # 仕事も溜まっているしな……）
+com09 0 99
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「かわいいところ、あるんだな」
+display
+com11 0 0
+sound 10005
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「かわいい……、のでしょうか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、普通の女の子らしくて、いいと思うぞ」
+display
+com11 0 0
+sound 10006
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「な、何故か、あなた様の言葉が、
+line2 <shift> # 面はゆく、感じられてしまいます」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （面はゆくって、何だろう……）
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「意外だなあ」
+display
+com11 0 0
+sound 10007
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「そうおっしゃられるのも、よくわかります。
+line2 <shift> # このような場所とは、縁遠い生活でしたので」
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「仕事、サボるのか？」
+display
+com11 0 0
+sound 10008
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「サボる、とは？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えーっと、無断で欠勤する、ということだ」
+display
+com11 0 0
+sound 10009
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「本日は、黒井殿にお頼みして、
+line2 <shift> # お休みをいただいております」
+display
+com11 0 0
+sound 10010
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「責任感の欠如した人間のように、
+line2 <shift> # 言わないで下さいませ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わ、悪かったよ、すまない」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 10011
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「とにかく、この『てえまぱあく』なる場所に、
+line2 <shift> # どのように行けば良いのか……」
+display
+com11 0 0
+sound 10012
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「また、彼の地で、どのように振る舞えば良いの
+line2 <shift> # か、まるで見当がつかずに、困っていたのです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうなのか……」
+display
+com11 0 0
+sound 10013
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「あっ、申し訳ありません。
+line2 <shift> # 長々と、お引き留めしてしまって」
+display
+com11 0 0
+sound 10014
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「あなた様は、今日もお仕事がおありなの
+line2 <shift> # ですから……。どうぞ、いってらっしゃいませ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ここは『俺がテーマパークへ連れて行って
+line2 <shift> # あげるよ！』と言うべきなのかもな……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （でも、そんなことをしたら、
+line2 <shift> # 事務所へ出社できなくなってしまう！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （亜美真美との活動週が、本当に１週減るぞ！
+line2 <shift> # 俺は、どうすれば！？）
+com03 0 2
+choice1 <shift> # 貴音につきあう
+line2
+com09 0 30
+com08
+choice2 <shift> # 事務所へ行く
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「貴音、それじゃ俺は、事務所に向かうよ」
+display
+com11 0 0
+sound 10015
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「はい、それでは。ごきげんよう」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （途中で放り出すのは心配だけど、
+line2 <shift> # やっぱり仕事は、大事だもんな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （でも、せっかくの貴音の本音をきくチャンス、
+line2 <shift> # みすみす逃してしまったような気もする……）
+com09 0 99
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わかった、俺もつきあうよ」
+display
+com11 0 0
+sound 10016
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「えっ？　で、ですが、あなた様には、
+line2 <shift> # お仕事があるのでは？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うん。まあ、そうなんだけど、
+line2 <shift> # 困ってる貴音を、放ってはおけないし……」
+display
+com11 0 0
+sound 10017
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「いけません。人にはそれぞれの、
+line2 <shift> # 務めというものがあります」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「大丈夫。いられる時間までいて、
+line2 <shift> # 時間がきたら、事務所に向かうよ」
+display
+com11 0 0
+sound 10018
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「ですが……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ほら、ぐずぐずしているヒマがあったら、
+line2 <shift> # 行こう！」
+display
+com11 0 0
+sound 10019
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「あっ、お、お待ちになって下さい〜！」
+display
+com22 0 30
+com21 0 30
+com32 0 2
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （電車に乗って小一時間。
+line2 <shift> # テーマパークに着いた）
+display
+com11 0 0
+sound 10020
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「ここが、テーマパーク……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「開園と同時に、あんなに人が押し寄せるとは、
+line2 <shift> # 俺も知らなかったよ。ビックリしたか？」
+display
+com11 0 0
+sound 10021
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「いえ、私のライブ会場には、
+line2 <shift> # もっと大勢、つめかけますので」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さ、さすが人気アイドルは、
+line2 <shift> # 言うことが違うな……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それにしても、ここに貴音がいるのに、
+line2 <shift> # 全然みんな、騒がないな」
+display
+com11 0 0
+sound 10022
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「ここは異世界めいた場所ですから、私のような
+line2 <shift> # 者も目立たないのでしょうね。嬉しいことです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （嬉しい……、のか？）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、まあ、バレないようにしないとな。
+line2 <shift> # 万が一見つかったら、大騒ぎだ」
+display
+com11 0 0
+sound 10023
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「はい、心得ました。……ふふっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうかしたのか？」
+display
+com11 0 0
+sound 10024
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「いえ、なんだか、幼い頃に戻ったような、
+line2 <shift> # 妙な高揚感があります」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （貴音も、こういうことでワクワクするのか。
+line2 <shift> # ちょっと意外だな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、そういえば、どうしてここに、
+line2 <shift> # 来たかったんだ？　何かあるのか、ここに？」
+display
+com11 0 0
+sound 10025
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「はい。実は、この『すぺえすしっぷの大冒険』
+line2 <shift> # というものの、調査に参りました」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「へ？　これって、ついこの前、新しく出来た、
+line2 <shift> # アトラクション……」
+display
+com11 0 0
+sound 10026
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「外見から察するに、明らかに星船。よもや、こ
+line2 <shift> # のような場所に、このようなものがあろうとは」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ほ、星船？　……ああ、宇宙船ってことか？
+line2 <shift> # 確かに宇宙船の外見はしているけど、中は……」
+display
+com11 0 0
+sound 10027
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「私、先日、偶然にも、他のアイドルの方が、
+line2 <shift> # 話しているのを、きいてしまったのです」
+display
+com11 0 0
+sound 10028
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「別の惑星に行き、そこで冒険をしてきたと。
+line2 <shift> # ……私は、その真偽を確かめねばなりません」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……リポート番組の下見をしたいのかな？
+line2 <shift> # でも、それにしては、切実な気がする）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （どっちかっていうと、
+line2 <shift> # 事件現場のレポートみたいだけど……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まあ、いいや。
+line2 <shift> # とにかく、これに乗りたいんだな？」
+display
+com11 0 0
+sound 10029
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「はい、ぜひとも！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わかった、じゃあ案内しよう。
+line2 <shift> # え〜と、こっちにあるみたいだぞ」
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 10030
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （『スペースシップの大冒険』は、最新式の
+line2 <shift> # アトラクションだけあって、面白かった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……が、乗り終わった後の、
+line2 <shift> # 貴音の落胆ぶりが、気になる）
+display
+com11 0 0
+sound 10031
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「薄々、そうではあるまいかと思って
+line2 <shift> # おりましたが……」
+display
+com11 0 0
+sound 10032
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「やはり、娯楽施設でしたか。
+line2 <shift> # ……はあ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「貴音……。アトラクションを出て、
+line2 <shift> # ため息をついてる人、他にいないぞ……」
+display
+com11 0 0
+sound 10033
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「す、すみません。しかし、一瞬だけでも、
+line2 <shift> # 空にあがれたらと、思ったのですが……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （う〜ん、本気で、へこんでいるな）
+display
+com11 0 0
+sound 10034
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「わざわざ、案内していただきましたのに……。
+line2 <shift> # 申し訳ありませんでした……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、謝ることなんて、なにもないよ。
+line2 <shift> # それより、この後どうする？」
+display
+com11 0 0
+sound 10035
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「どうする、とは？
+line2 <shift> # 帰るのでは、ないのですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「せっかく、ここまで来たんだ。
+line2 <shift> # もう少し、楽しんでいこう」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （こんな、しょげたまま家に帰したら、
+line2 <shift> # かわいそうだしな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだな、貴音が楽しめそうな
+line2 <shift> # アトラクションは……」
+com03 0 3
+choice1 <shift> # 買い食い
+com09 0 40
+com08
+choice2 <shift> # ジェットコースターかな
+line2
+com09 0 41
+com08
+choice3 <shift> # お化け屋敷かな
+line2
+com09 0 42
+com08
+com07
+com09 0 52
+com08
+display
+location 40
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「アトラクションより、買い食いとかのほうが、
+line2 <shift> # 貴音には、楽しいかもしれないな」
+display
+com11 0 0
+sound 10036
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「買い食い、ですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うん。ちょっと待っててくれ。
+line2 <shift> # 今、買ってくるから」
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 10037
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「これは、なんと……。
+line2 <shift> # たくさん買ってこられたのですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まずは、これ。定番の焼きそばだ！」
+display
+com11 0 0
+sound 10038
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「なにやら、普段かいだことのない、
+line2 <shift> # 変わったにおいの食べ物ですが……」
+display
+com11 0 0
+sound 10039
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「いただきます。はむ、はむ……」
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 10040
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「なかなかの美味ですね。
+line2 <shift> # 『らーめん』に匹敵いたします」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか！
+line2 <shift> # それから、こっちはソフトクリーム！」
+display
+com11 0 0
+sound 10041
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「これは、存じています。
+line2 <shift> # 学校の級友の方と、食したことがあるので」
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 10042
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「ん……、甘くておいしかったです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……何だか、普通にデートしてるような、
+line2 <shift> # 気がしてきたぞ」
+display
+com11 0 0
+sound 10043
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「はい？　何かおっしゃいましたか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、こっちの話」
+display
+com11 0 0
+sound 10044
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「そうですか。ふふ、何だか楽しいですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （貴音も、喜んでくれてるんだな……）
+com09 0 49
+display
+location 41
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ジェットコースターかな」
+display
+com11 0 0
+sound 10045
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「なんとも、面妖な名前ですが……。
+line2 <shift> # いったい、どのようなもので？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わーっと騒いで、
+line2 <shift> # ストレス発散が出来る乗り物だよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「といっても、ここのは、かなりすごいから……。
+line2 <shift> # ダメそうなら、別の奴にしよう」
+display
+com11 0 0
+sound 10046
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「よく、わかりませんが……。
+line2 <shift> # お任せいたします」
+display
+com22 0 30
+com21 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いやあ、本気で怖かったな〜！　まさか、
+line2 <shift> # ３０回転もするとは……、って、貴音？」
+display
+com11 0 0
+sound 10047
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「あの……。
+line2 <shift> # あれは、なにが面白いのでしょう？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ？　こ、こわくなかった？」
+display
+com11 0 0
+sound 10048
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「はい。何だかもの足りない気がいたします」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……確かに、声一つあげなかったよな。
+line2 <shift> # 根性があるのか、実はスピード魔なのか……）
+com09 0 49
+display
+location 42
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、ついてきてくれ。
+line2 <shift> # とびっきりのスリルを味あわせてあげるよ」
+display
+com11 0 0
+sound 10049
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「すりる、ですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。俺は危険な男だぜ！」
+display
+com11 0 0
+sound 10050
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「なにか、面白いものでもあるのですか？
+line2 <shift> # それは楽しみです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （くっ……。完全にはずしてしまった……！）
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 10051
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「あっ、あな、あなた様という人は……！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ご、ごめん！　そんなに怖がるとは、
+line2 <shift> # 正直、思ってなくて……」
+display
+com11 0 0
+sound 10052
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「あのような恐るべき場所と知っていれば、
+line2 <shift> # 死んでも、まいりませんでした！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ごめん、本当にごめん！
+line2 <shift> # ……でも、ビックリはしたろ？」
+display
+com11 0 0
+sound 10053
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「一生分、驚きました！
+line2 <shift> # ……もう、あなた様は、本当にいけずです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「い、いけずって……」
+com09 0 49
+display
+location 49
+com22 0 30
+com21 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、それじゃあ次は、あれに乗ろう」
+display
+com11 0 0
+sound 10054
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「あれ、とは……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もしかしたら、貴音の希望が少しだけ、
+line2 <shift> # かなうかもしれないな」
+display
+com11 0 0
+sound 10055
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「私の希望が……？」
+display
+com22 0 30
+com21 0 30
+com32 0 4
+com11 0 0
+sound 10056
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「なんと、美しい……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いい眺めだろう？　ここの観覧車は、
+line2 <shift> # 相当な高さがあるからね」
+display
+com11 0 0
+sound 10057
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「はい……。思わず、見入ってしまいます」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よかった。
+line2 <shift> # 少しは願い、かなえられたみたいだな」
+display
+com11 0 0
+sound 10058
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「え？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「『スペースシップの大冒険』に乗った後に、
+line2 <shift> # 言ってたじゃないか」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「『一瞬だけでも空に上がれたら』って。
+line2 <shift> # だから、ここを選んだんだ」
+display
+com11 0 0
+sound 10059
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「……覚えていて、下さったのですね」
+display
+com11 0 0
+sound 10060
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「ありがとうございます……。あなた様の優しさ、
+line2 <shift> # この景色と共に、胸に刻みつけます」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ははは、大げさだなあ」
+display
+com11 0 0
+sound 10061
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「大げさではありません。
+line2 <shift> # 本日は、私にとって、特別な一日でした」
+display
+com11 0 0
+sound 10062
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「思いもかけず、あなた様と過ごせて……。
+line2 <shift> # まるで、夢のようでした」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そういえば、どうして、
+line2 <shift> # 貴音は空に、あがりたいんだろう？）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （少しでも、自分を縛り付けるものから、
+line2 <shift> # 解放されたい気持ちの表れかもしれないな……）
+display
+com11 0 0
+sound 10063
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「……もうすぐ、夜が、来てしまいますね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え？」
+display
+com11 0 0
+sound 10064
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「いつもは、美しい月が現れる夜が、
+line2 <shift> # 待ち遠しいのに、今日は、まるで逆です」
+display
+com11 0 0
+sound 10065
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「今は、このまま、日が沈まなければと……。
+line2 <shift> # 何故か、思ってしまいます」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「貴音……」
+display
+com11 0 0
+sound 10066
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「いけませんね。そのようなことを、
+line2 <shift> # 望める立場ではありませんのに。私は……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなことはないさ」
+display
+com11 0 0
+sound 10067
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「え……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「貴音も普通の女の子だよ。
+line2 <shift> # 何を望んだっていいんだ」
+display
+com11 0 0
+sound 10068
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「ですが……。私は、皆とは違います」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なにが違うんだ？
+line2 <shift> # 笑ったり、怒ったり、困ったり……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （それに、あんな風に泣いたり……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「とにかく、普通の女の子だよ」
+display
+com11 0 0
+sound 10069
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「普通の……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ははは、人気アイドルをつかまえていう
+line2 <shift> # ことじゃないかな……。うん、アイドル？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああーっ！」
+display
+com11 0 0
+sound 10070
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「ど、どうされましたか！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「事務所に連絡入れるの忘れてたー！
+line2 <shift> # ど、どうしよう……」
+display
+com11 0 0
+sound 10071
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「あの……。申し訳ありません。
+line2 <shift> # 私の、せいですよね……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、俺が勝手に連れて行くって言ったんだ。
+line2 <shift> # 貴音の責任じゃないよ」
+display
+com11 0 0
+sound 10072
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「ですが……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「平気だよ。でも俺は、観覧車が地上についたら、
+line2 <shift> # ダッシュで帰る。デリカシーないけどな」
+display
+com11 0 0
+sound 10073
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「そうですね。……夢は、いきなりさめた方が、
+line2 <shift> # すぐに忘れることができますから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うん？　ごめん、時計見てて、
+line2 <shift> # 聞き流してしまった。何か言った？」
+display
+com11 0 0
+sound 10074
+com4c 0 4
+name 0 0 <names:2>  # Takane
+line1 <shift> # 「いえ。あなた様に、感謝を。
+line2 <shift> # ……ありがとうございました」
+display
+com22 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （さあて……。
+line2 <shift> # 超ダッシュで事務所へ帰るぞ！！）
+display
+com21 0 30
+com32 0 5
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「亜美〜、真美〜〜！！」
+display
+com11 0 0
+sound 10075
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「ん〜、むにゃむにゃ……」
+display
+com11 0 0
+sound 10076
+com4c 0 2
+name 0 0 <names:4>  # Mami
+line1 <shift> # 「はれ……？　兄ちゃんだ〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「亜美、真美！　本当にすまない！
+line2 <shift> # わざわざ俺のことを待っててくれたのか？」
+display
+com11 0 0
+sound 10077
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「ん〜？　兄ちゃん……？
+line2 <shift> # うわ！　外、真っ暗だよ！！」
+display
+com11 0 0
+sound 10078
+com4c 0 2
+name 0 0 <names:4>  # Mami
+line1 <shift> # 「本当だ！
+line2 <shift> # 寝てたから、全然わかんなかったよ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「す、すまない、ふたりとも！
+line2 <shift> # 実は……、貴音と会ってたんだ」
+display
+com11 0 0
+sound 10079
+com4c 0 2
+name 0 0 <names:4>  # Mami
+line1 <shift> # 「えっ、お姫ちんと！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「用事があるから、テーマパークに、
+line2 <shift> # 連れていって欲しいと頼まれて……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （怒るだろうな……。担当アイドルを放っといて、
+line2 <shift> # ライバル事務所の子と、一緒だったなんて）
+display
+com11 0 0
+sound 10080
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「んっふっふ〜。
+line2 <shift> # な〜んだ、そうだったんだね！」
+display
+com11 0 0
+sound 10081
+com4c 0 2
+name 0 0 <names:4>  # Mami
+line1 <shift> # 「ねえ、兄ちゃん！　デート？　デート！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、いや、その……」
+display
+com11 0 0
+sound 10082
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「兄ちゃんだけ、お姫ちんと遊んで、ずるーい！
+line2 <shift> # 亜美も遊びたかったー！」
+display
+com11 0 0
+sound 10083
+com4c 0 2
+name 0 0 <names:4>  # Mami
+line1 <shift> # 「真美も真美も〜！　お姫ちんと、
+line2 <shift> # テーマパーク行きたい〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうか、そうだよな。
+line2 <shift> # ホントに、ごめん！」
+display
+com11 0 0
+sound 10084
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「バツとして、今度のお休みは、
+line2 <shift> # 亜美達をテーマパークに連れてってね！」
+display
+com11 0 0
+sound 10085
+com4c 0 2
+name 0 0 <names:4>  # Mami
+line1 <shift> # 「あ、それいいね〜！　ママに、
+line2 <shift> # おべんと、い〜っぱい作ってもらおう！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わ、わかったよ……。
+line2 <shift> # ああ、また出費がかさむ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （確かに貴音のことは心配だ。でも、俺にとって、
+line2 <shift> # 一番大切なのは、亜美と真美なんだ）
+display
+com1c 0 0
+line2
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （二度とふたりに寂しい思いをさせないように、
+line2 <shift> # 気をつけよう……）
+com09 0 99
+display
+location 99
+unk02

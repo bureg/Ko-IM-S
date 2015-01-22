@@ -1,0 +1,309 @@
+com2c 0 69
+com2d 0 121
+com2e 0 71
+location 100
+com32 0 0
+com11 0 0
+sound 10000
+com4c 0 1
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「あら？　おはようございます、
+line2 <shift> # プロデューサー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「り、律子っ！？」
+display
+com11 0 0
+sound 10001
+com4c 0 1
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ど、どうしたんですか。
+line2 <shift> # オバケにでも、あったような顔して」
+display
+com11 0 0
+sound 10002
+com4c 0 1
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「何か、後ろめたいことでも、してたとか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、こんなところで会ったんで、ビックリ
+line2 <shift> # しただけだよ。律子は、どうしてここに？」
+display
+com11 0 0
+sound 10003
+com4c 0 1
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「買出ししてから、事務所に行こうと思って、
+line2 <shift> # 早めに家を出ただけですけど……」
+display
+com11 0 0
+sound 10004
+com4c 0 1
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「プロデューサーこそ、ここで何を？
+line2 <shift> # そっちの子は、誰なんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「この子は……」
+com03 0 3
+choice1 <shift> # ９６１プロのアイドルだ
+line2
+com09 0 10
+com08
+choice2 <shift> # 今日初めて会った子だ
+line2
+com09 0 11
+com08
+choice3 <shift> # ナンパしてたんだ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「実は、９６１プロのアイドルだ。
+line2 <shift> # 今朝、偶然、出会ったんだよ」
+display
+com11 0 0
+sound 10005
+com4c 0 1
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「へぇ。もしかして、プロデューサーは、その子
+line2 <shift> # を７６５プロに引き抜こうとしてるんですか？」
+display
+com11 0 0
+sound 10006
+com4c 0 1
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「それとも、その子は、実は７６５プロの
+line2 <shift> # スパイで、９６１プロに潜入してるとか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いやいや、考えすぎだって、律子。
+line2 <shift> # そんなマンガみたいなこと、あるわけないだろ」
+display
+com11 0 0
+sound 10007
+com4c 0 1
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そうですよね……。でも、美希の件があるから、
+line2 <shift> # なんでも疑って見るクセがついちゃって……」
+display
+com11 0 0
+sound 10008
+com4c 0 1
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ああ、いけない。そんなことより、
+line2 <shift> # 自己紹介すべきですよね。初対面なんだし」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「今日初めて会った子だ」
+display
+com11 0 0
+sound 10009
+com4c 0 1
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「えーと、そうじゃなくて、
+line2 <shift> # 紹介をして欲しかったんですけど……」
+display
+com11 0 0
+sound 10010
+com4c 0 1
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「一般の方？　……じゃないわよね。
+line2 <shift> # すごくキレイだし、背も高いし。モデルさん？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、実は、彼女……、
+line2 <shift> # ９６１プロの、アイドルの子らしいんだ」
+display
+com11 0 0
+sound 10011
+com4c 0 1
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ええっ！　９６１プロの！？　そんな重要情報
+line2 <shift> # があるなら、それを真っ先に言って下さいよ！」
+display
+com11 0 0
+sound 10012
+com4c 0 1
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「んもう。取り乱して、恥かいちゃったじゃない
+line2 <shift> # ですか！　まずは……、そう！　自己紹介よね」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「今、俺が、ナンパしてたんだ」
+display
+com11 0 0
+sound 10013
+com4c 0 1
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ふ〜ん。朝っぱらから、仕事もせずに、
+line2 <shift> # ナンパですか〜。へえ〜、ほぉお〜……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ち、違うよ！　仕事でナンパしてたんだ。
+line2 <shift> # スカウトしようとしてた、ってこと」
+display
+com11 0 0
+sound 10014
+com4c 0 1
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「あっ、そういうことだったの。プロデューサー
+line2 <shift> # が、紛らわしい言い方するから……」
+display
+com11 0 0
+sound 10015
+com4c 0 1
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「確かに彼女、髪や目がエキゾチックで、ステキ
+line2 <shift> # な人ですね。で、ナンパの首尾はいかがです？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「全然ダメだ。残念なことに、彼女はもう、
+line2 <shift> # ９６１プロに所属しているらしくてさ」
+display
+com11 0 0
+sound 10016
+com4c 0 1
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ええっ！　９６１プロのアイドルなんだ……」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10017
+com4c 0 1
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「初めまして、私、秋月律子と言います」
+display
+com11 0 0
+sound 10018
+com4c 0 1
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そこのプロデューサーに、プロデュースして
+line2 <shift> # もらってる、７６５プロのアイドルよ」
+display
+com11 0 0
+sound 10019
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「ていねいなごあいさつ、いたみいります……」
+display
+com11 0 0
+sound 10020
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「私は、四条貴音と申します。今後とも、
+line2 <shift> # よろしくお願いいたします、秋月律子」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （なんだか、お見合いのあいさつとか、
+line2 <shift> # そんな感じの堅苦しさだな……）
+display
+com11 0 0
+sound 10021
+com4c 0 1
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「整った顔、抜群のスタイル、不思議な瞳の輝き。
+line2 <shift> # ９６１プロのアイドルは、レベル高いわね……」
+display
+com11 0 0
+sound 10022
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「そうでしょうか？　あなたを見ていると……。
+line2 <shift> # ７６５プロの力を感じます」
+display
+com11 0 0
+sound 10023
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「星井美希、しかり、秋月律子、しかり。
+line2 <shift> # 個の魅力というものが、輝いております」
+display
+com11 0 0
+sound 10024
+com4c 0 1
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「何だか、見かけと違って、
+line2 <shift> # ずいぶんと和風な話し方ね」
+display
+com11 0 0
+sound 10025
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「先ほど、あなたと全く同じことを、
+line2 <shift> # おっしゃった方が、いらっしゃいましたが……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （お、俺のことか？）
+display
+com11 0 0
+sound 10026
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「共に歩む者は、感性なども、
+line2 <shift> # 似てくるものなのかもしれませんね」
+display
+com11 0 0
+sound 10027
+com4c 0 2
+name 0 0 <names:3>  # Takane
+line1 <shift> # 「では、私は、これで。
+line2 <shift> # 機会がありましたら、また……。ごきげんよう」
+display
+com11 0 0
+sound 10028
+com4c 0 1
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「あ……。
+line2 <shift> # 不思議な子でしたね、プロデューサー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「律子も、そう思うか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「外見からしても、外国人みたいだし、
+line2 <shift> # 日本のこと、よく知らないのかもな」
+display
+com11 0 0
+sound 10029
+com4c 0 1
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「どうなんでしょね？　でも、シルバーの髪の人
+line2 <shift> # がいる国って、あんまり、きいたことないなあ」
+display
+com11 0 0
+sound 10030
+com4c 0 1
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ま、深く考えてもしょうがないか。
+line2 <shift> # 私、急ぐので、先に行ってますね！」
+display
+com11 0 0
+sound 10031
+com4c 0 1
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「後で、事務所で会いましょう。ああ、もう、
+line2 <shift> # こんな時間！　全部の買出し、できるかなぁ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、おい、律子！
+line2 <shift> # ……朝から、元気なヤツだな」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （さて、俺も事務所へ急がなければ！
+line2 <shift> # 今日も、忙しくなるぞ……！）
+com09 0 99
+display
+location 99
+unk02

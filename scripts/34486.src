@@ -1,0 +1,463 @@
+com2c 0 102
+com2c 0 18
+com2c 0 201
+com2c 0 200
+com2d 0 63
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今日は『アイドル大パニック☆巨大迷路対戦』
+line2 <shift> # という、バラエティ番組の収録だ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （スタジオ内に作られた巨大迷路を、アイドルが
+line2 <shift> # 地図を頼りに脱出するという番組なのだが……）
+display
+com11 0 0
+sound 0
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あうぅ……。
+line2 <shift> # こっちじゃないみたいですぅ……」
+display
+com11 0 0
+sound 1
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「わ。こっちも行き止まり。うう。
+line2 <shift> # ……私、どっちから来たんでしょう？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （緊張のあまり、雪歩は道を間違えまくって
+line2 <shift> # いる。普段は方向感覚は悪くないのになあ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （何とかトップでゴールすれば、ＴＶで１曲
+line2 <shift> # 歌えるんだが……。頑張ってくれ、雪歩！）
+display
+com11 0 0
+sound 2
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「こっちも行き止まり……。やっぱり私、
+line2 <shift> # 迷路の才能がないんだ。ううっ……ぐすっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ついに泣いてしまった……。
+line2 <shift> # ここは声援を送って、勇気づけてやらねば！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おーい、雪歩ー！　きこえるかー！？」
+display
+com11 0 0
+sound 34
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ぷ、プロデューサーの声……！　き、きこえま
+line2 <shift> # す！　姿は見えないですけど。ぐすっ……」
+com03 0 3
+choice1 <shift> # マイペースで行くんだ
+line2
+com09 0 10
+com08
+choice2 <shift> # 根気で勝負だ！
+line2
+com09 0 11
+com08
+choice3 <shift> # わざとやってるのか？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「マイペースで行くんだ、雪歩。
+line2 <shift> # 焦りは禁物だぞ！」
+display
+com11 0 0
+sound 3
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あっ、はいぃ……。
+line2 <shift> # 焦っても仕方ないですよね」
+display
+com11 0 0
+sound 4
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「のんびり、のーんびり……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （メッセージが効いたのか、
+line2 <shift> # 少しだけ元気が戻ったみたいだ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （でも、できれば、もう少し急いでほしい……）
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「根気で勝負だ、雪歩！
+line2 <shift> # どんな複雑な迷路でも、いつかは出口に着く！」
+display
+com11 0 0
+sound 5
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「うう、根気ってどうすれば出せるんですかぁ？
+line2 <shift> # 全然わかりません……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （メッセージは効果なかったみたいだ。
+line2 <shift> # 相当参っているな……）
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わざとやってるのか？」
+display
+com11 0 0
+sound 6
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あうぅ、ちがいますぅ。でも、選ぶ道が全部
+line2 <shift> # まちがいなんです。すみません……」
+display
+com11 0 0
+sound 35
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「プロデューサー、もしかしたら、二度と再び、
+line2 <shift> # 会えないかもです。今までお世話になりました」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……なっ！　そんなわけ、ないだろう！
+line2 <shift> # 縁起でもないこと言うなよ。ガンバレ！」
+display
+com11 0 0
+sound 8
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「やっぱり私、アイドルに向いてないのかな。
+line2 <shift> # カンも悪いし、面白いことも言えないし……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （いじけてしまった。
+line2 <shift> # 余計なこと、しなければよかったな……）
+com09 0 29
+display
+location 29
+com22 0 30
+com21 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……さらに時間が経過したが、ワナに
+line2 <shift> # ハマったりして、トップとの差は開く一方だ）
+display
+com11 0 0
+sound 9
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ぐすっ。あっちもこっちもそっちも、
+line2 <shift> # みんな、まちがいみたいです」
+display
+com11 0 0
+sound 36
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「私、さっきから同じところばっかり、
+line2 <shift> # ウロウロしてます……」
+display
+com11 0 0
+sound 37
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「うう。この迷路は、本当は出口がないのかも。
+line2 <shift> # 頭が、グルグルしてきましたぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ああ、立ち止まってしまった……。
+line2 <shift> # ここは声援を送って、指示を出してやらねば！）
+com03 0 3
+choice1 <shift> # 歩くんだ
+com09 0 30
+com08
+choice2 <shift> # 走るんだ
+com09 0 31
+com08
+choice3 <shift> # 踊るんだ
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「歩くんだ、雪歩！
+line2 <shift> # ＴＶカメラが回っているんだぞ！」
+display
+com11 0 0
+sound 11
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ、はい。た、立ち止まってたら進みません
+line2 <shift> # よね。まずは歩き出さないと……」
+display
+com11 0 0
+sound 12
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「まずは１歩……。それから、２歩……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ほとんどスローモーションだ……。
+line2 <shift> # 放送時には、早送りになるかもなぁ）
+com09 0 39
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「走るんだ、雪歩！
+line2 <shift> # 時間は、どんどん過ぎていくぞ！」
+display
+com11 0 0
+sound 13
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あっ、いけないっ。そ、そうですよね。
+line2 <shift> # 時間がなくなっちゃいますよね」
+display
+com11 0 0
+sound 14
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「もっと急がないと、ひとりで取り残されちゃう
+line2 <shift> # かも……。そ、それはイヤですぅ」
+display
+com11 0 0
+sound 15
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「でもでも、どっちに走ればいいんでしょう？
+line2 <shift> # えっと……？　ええっと……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （立ち止まって、足踏みしてるだけだ……。
+line2 <shift> # せかしたのは、失敗だったかな）
+com09 0 39
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「踊るんだ、雪歩！　どうせトップで
+line2 <shift> # ゴールできないなら、ここで目立て！」
+display
+com11 0 0
+sound 16
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「む、無理ですぅ。こんなところで踊れ
+line2 <shift> # ません……。せまいし、怖いですよぉ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （くっ、ダメか……。怖がりな雪歩の性格を
+line2 <shift> # 考えれば、当然ではあるけど……）
+com09 0 39
+display
+location 39
+com11 0 0
+sound 17
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ふぅー……、気を取り直して深呼吸。
+line2 <shift> # すーはー……すーはー……」
+display
+com11 0 0
+sound 18
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「なんとかして、進まなきゃですぅ。
+line2 <shift> # こっちの道は……。あ、やっぱりまちがい……」
+display
+com11 0 0
+sound 19
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「それじゃ、こっちは……
+line2 <shift> # あれ？　ヘンな扉が２つありますよ？」
+display
+com11 0 0
+sound 20
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「えーと、『一発逆転ルート』って書いてます。
+line2 <shift> # うまくいけば、ゴールにワープできるかも？」
+display
+com11 0 0
+sound 38
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「でも、間違った方を選ぶと、スタートに戻るみ
+line2 <shift> # たいです。……ええっ！　それは困りますよぉ」
+display
+com11 0 0
+sound 21
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「どっちを選べばいいんですかぁ？
+line2 <shift> # ぷ、プロデューサー……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （雪歩、自信ないみたいだな。
+line2 <shift> # 仕方がない、声で指示を出そう）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ＴＶで歌うチャンスが、かかってるんだ。
+line2 <shift> # ここは絶対に外せないぞ！）
+com03 0 2
+choice1 <shift> # 左の扉
+com09 0 40
+com08
+choice2 <shift> # 右の扉
+com09 0 41
+com08
+com07
+com09 0 42
+com08
+display
+location 40
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「雪歩、左の扉だ！」
+display
+com11 0 0
+sound 22
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「わ、わかりました。左の扉を開けますっ。
+line2 <shift> # えいっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よし。後は運を天に任せるだけだ……）
+com37 0 1
+com1e 0 0
+com09 0 48
+com3b
+com37 0 0
+com1e 0 0
+com09 0 49
+com3b
+display
+location 41
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「雪歩、右の扉だ！」
+display
+com11 0 0
+sound 23
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「わ、わかりました。右の扉を開けますっ。
+line2 <shift> # えいっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よし。後は運を天に任せるだけだ……）
+com37 0 1
+com1e 0 0
+com09 0 48
+com3b
+com37 0 0
+com1e 0 0
+com09 0 49
+com3b
+display
+location 42
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「雪歩、俺にもわからん！　適当に開けろ！」
+display
+com11 0 0
+sound 24
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ええっ……。うう、わかりました。
+line2 <shift> # 適当に開けますっ。えいっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よし。後は運を天に任せるだけだ……）
+com09 0 49
+display
+location 48
+com22 0 30
+com32 0 2
+com11 0 0
+sound 25
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「うわぁ、真っ暗ですぅ。
+line2 <shift> # 本当にゴールにつながっているのかな……」
+display
+com21 0 30
+com11 0 0
+sound 26
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あっ、急に前が明るくなりました。
+line2 <shift> # ここは……？」
+display
+com22 0 30
+com32 0 3
+com21 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おめでとう、雪歩！
+line2 <shift> # 無事、ゴールにたどり着いたな！」
+display
+com11 0 0
+sound 27
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「えっ、えっ？　本当ですか……？
+line2 <shift> # 私、歌えるんですか？」
+display
+com11 0 0
+sound 28
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「プロデューサーのおかげで、逆転大勝利です。
+line2 <shift> # ありがとうございましたぁ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （苦労して勝ち取ったＴＶ出演だけあって、
+line2 <shift> # その後の雪歩の歌には、気合いが入っていた！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （一時は、どうなるかと思ったけど、
+line2 <shift> # 最良の結果が得られて、良かったな！）
+com4b 0 0
+com09 0 59
+display
+location 49
+com22 0 30
+com32 0 2
+com21 0 30
+com11 0 0
+sound 39
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ええと……。
+line2 <shift> # 真っ暗で、なんにも見えな……、きゃっ！」
+display
+com22 0 30
+com32 0 1
+com21 0 30
+com11 0 0
+sound 30
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「落とし穴に落ちちゃいましたぁ……うう。
+line2 <shift> # ……あれ？　この場所、見覚えがありますよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「しまった。こっちは、
+line2 <shift> # スタートに戻る道だったのか！」
+display
+com22 0 30
+com32 0 1
+com21 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「雪歩、すまなかった。
+line2 <shift> # 俺のせいで迷路対戦に負けてしまって……」
+display
+com11 0 0
+sound 31
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「いえ、いいんです。最後に笑いもとれたし、
+line2 <shift> # 番組的にはＯＫだって、ほめられました……」
+display
+com11 0 0
+sound 32
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「それに、私には穴がお似合いです。うう、
+line2 <shift> # 穴が似合うアイドル、ナンバー１ですぅ……」
+display
+com11 0 0
+sound 40
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「こんな私、もう、落とし穴の中に一生、
+line2 <shift> # 埋まっておきますぅ。ううっ、ぐすっ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わっ、落ち着け！
+line2 <shift> # もう収録は終わったんだ！　埋まるな！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （落ち込ませてしまった……。
+line2 <shift> # プロデューサー稼業には運も必要なんだな……）
+com4b 0 2
+com09 0 59
+display
+location 59
+unk02

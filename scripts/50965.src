@@ -1,0 +1,300 @@
+com2c 0 111
+com2d 0 91
+com2e 0 101
+com32 0 0
+com11 0 2
+sound 700
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「兄ちゃん、兄ちゃんっ！　アルバムの発表会、
+line2 <shift> # まだ始まらないの〜？　亜美、準備ＯＫだよっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あわてるなって。まだ、レコード会社の
+line2 <shift> # えらい人も、取材陣もきてないだろ」
+display
+com11 0 2
+sound 701
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ねえ、ねえ、このパーティって、食べ放題！？
+line2 <shift> # ケーキとか、ホワグラとか、出まくるの？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「マスコミ用向けの、マジメな会見だから、
+line2 <shift> # 食べ物は出ないよ。そのかわり……」
+com03 0 3
+choice1 <shift> # 飲み放題だ
+com09 0 10
+com08
+choice2 <shift> # 宣伝し放題だ
+line2
+com09 0 11
+com08
+choice3 <shift> # しゃべり放題だ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「飲み放題だ。水とかジュースは、好きなだけ
+line2 <shift> # 飲んでいいからな」
+display
+com11 0 2
+sound 702
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「わ〜、それもけっこう、ポイント高いねっ。
+line2 <shift> # 飲み物、何種類ぐらい、あるのかな〜？」
+display
+com11 0 2
+sound 703
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「んっふっふ〜、ガブガブ飲んで、ベラベラ
+line2 <shift> # しゃべっちゃおー！」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「宣伝し放題だ。いくら、アルバムのこと
+line2 <shift> # 話しても、いいからな」
+display
+com11 0 2
+sound 704
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ん〜、それはそれで、うれしいけど、
+line2 <shift> # やっぱり、食べ物もほしいよ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「って、言われても、ないものは、ないしなあ。
+line2 <shift> # じゃ、終わったら、なにか食べに連れていくよ」
+display
+com11 0 2
+sound 705
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「え、ほんと〜？　なら、がんばって、おなか
+line2 <shift> # すかせなきゃっ。約束だよ、兄ちゃん！」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「しゃべり放題だ。気の済むまで、いくらでも
+line2 <shift> # 話していいからな」
+display
+com11 0 2
+sound 706
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「しゃべるだけなら、１年中、やってるよ〜。
+line2 <shift> # やっぱり、食べ放題の方がいいな……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん。なら、終わったら、なにか食べに
+line2 <shift> # 連れてくよ。それなら、いいだろ？」
+display
+com11 0 2
+sound 707
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「え、ほんと〜？　んじゃ、がんばる〜！
+line2 <shift> # 約束だよ、兄ちゃん！」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「で……今回のアルバムのデキは、どうだった？
+line2 <shift> # 満足いくもの、できたか？」
+display
+com11 0 2
+sound 708
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うん！　レコーディング、メッチャ楽しかった。
+line2 <shift> # いろんな歌、歌えたしっ！」
+display
+com11 0 2
+sound 709
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「アルバム買ってくれる人も、聴きながら、
+line2 <shift> # いっしょに歌ってくれるかなあ〜」
+com03 0 2
+choice1 <shift> # それは、買う人次第かな
+line2
+com09 0 30
+com08
+choice2 <shift> # それは、売れ行き次第かな
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それは、買う人次第かな。
+line2 <shift> # でも、中には、そういう人もきっといるよ」
+display
+com11 0 2
+sound 710
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「もし、いたら、うれしいよねっ。真美達
+line2 <shift> # だけが楽しんだら、自己チューになっちゃうし」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それは、売れ行き次第かな。どれだけ、
+line2 <shift> # 多くの人が買ってくれるかに、よるよ」
+display
+com11 0 2
+sound 711
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「そっかな〜？　あんまり売れなくても、気に
+line2 <shift> # いってくれた人は、歌ってくれると思うけど〜」
+display
+com11 0 2
+sound 712
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「どっちにしても、大丈夫だよ。今の人気なら、
+line2 <shift> # うるとら・めがめがヒット、間違いなしだし！」
+com09 0 49
+display
+location 49
+com11 0 2
+sound 713
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「そんじゃ、アルバム発表会記念〜！　壁の
+line2 <shift> # どっかに、ババーンって、サインしちゃお〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「は？　と、突然なんだよ。それはマズいだろ？
+line2 <shift> # ここ、借りてる会場なんだし……」
+display
+com11 0 2
+sound 714
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「あ、でも〜、外国のサッカー選手とか、よく
+line2 <shift> # やってるよね？　亜美達もやりたい〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「スタジアムのようなワケには、いかないって。
+line2 <shift> # どうしても、記念のサインしたいなら……」
+com03 0 3
+choice1 <shift> # 真美の顔に、書こう
+line2
+com09 0 50
+com08
+choice2 <shift> # 色紙、買ってこようか？
+line2
+com09 0 51
+com08
+choice3 <shift> # 立て看板にでも、書こう
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「真美の顔に、書こう。亜美の方が、発表会見に
+line2 <shift> # 出るなら、仕事上は問題ないけど？」
+display
+com11 0 2
+sound 715
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「わ！　ホント〜！　やるやる〜！　真美、
+line2 <shift> # いいよね？　後で消せるマジックで書けばっ」
+display
+com11 0 2
+sound 716
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「うんっ！　カッコよく書いてね！　兄ちゃんも、
+line2 <shift> # ほらほら、真美のおでこに、うにゅにゅって！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （いやがるかと思ったら、大よろこびしている。
+line2 <shift> # よし、せっかくだから、俺もサインするか）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「色紙、買ってこようか？」
+display
+com11 0 2
+sound 717
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「え〜、それじゃ、この場所に残る記念に
+line2 <shift> # ならないよ〜。ちょっと、さびしいかも〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「壁に書いたって、おそらく、掃除する人に、
+line2 <shift> # 消されちゃうぞ？　それより、いいだろ？」
+display
+com11 0 2
+sound 718
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ん〜、そうだね……。じゃ、亜美、色紙に
+line2 <shift> # しとこ。誰がもらうかは、後でジャンケンね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （壁に書くよりスケールは落ちるけど、この
+line2 <shift> # あたりが無難か。なにもしないよりは、いい）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「立て看板にでも、書こう。それなら、
+line2 <shift> # 会場の人には、迷惑かからないし」
+display
+com11 0 2
+sound 719
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「え〜、それじゃ、この場所に残る記念になら
+line2 <shift> # ないよ〜。看板は後で、はずすんでしょ〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そりゃ、そうだよ。あ、じゃあ、亜美達に
+line2 <shift> # あげるから、持って帰ったら、どうだ？」
+display
+com11 0 2
+sound 720
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ママに怒られちゃうよ〜。この間も、ゴミに
+line2 <shift> # なる物、持ってきちゃダメって言われたし……」
+display
+com11 0 2
+sound 721
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「やっぱり、壁にサインしたい〜！　トイレに
+line2 <shift> # Ｈな落書きするより、いいでしょ〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うーん、説得失敗か。大事なイベントの前に、
+line2 <shift> # 機嫌を、そこねてしまったようだ……）
+com09 0 69
+display
+location 69
+unk02

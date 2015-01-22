@@ -1,0 +1,235 @@
+com2c 0 24
+com2d 0 41
+com32 0 0
+com11 0 4
+sound 1400
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサー、知ってますか？　私の名前、
+line2 <shift> # 情報誌のスミのスミのスミに載ったって」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え、そうなのか？」
+com03 0 2
+choice1 <shift> # ……ずいぶん、端っこだな
+line2
+com09 0 10
+com08
+choice2 <shift> # よしっ！一歩前進だな
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……ずいぶん、端っこだな」
+display
+com11 0 4
+sound 1401
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「しかたありません。まだ無名ですから。
+line2 <shift> # でも、これで、ようやく新人卒業ですね」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よしっ！　一歩前進だな」
+display
+com11 0 4
+sound 1402
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「よし、というほどでも……。本当に、スミの
+line2 <shift> # スミのスミですから」
+display
+com11 0 4
+sound 1403
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「でもこれで、ようやく新人卒業ですね」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だな。ランクＥにあがって、知名度もややアッ
+line2 <shift> # プしたかな。なあ、その情報誌ここにあるのか」
+display
+com11 0 4
+sound 1404
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はい。私が買ってきた本ですから。もし、
+line2 <shift> # 見たければ、あげますけれど？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「い、いや、見せてくれるだけでいいよ。
+line2 <shift> # 家に、持って帰ればいいじゃないか？」
+display
+com11 0 4
+sound 1405
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「どうせ、読むの、私だけですし。それに
+line2 <shift> # 家では、本は読む物ではなく、投げる物……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「は？」
+display
+com11 0 4
+sound 1406
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「父と母、昨夜も激しく、やり合って……。
+line2 <shift> # つまらないことで、すぐ、ののしり合いに」
+display
+com11 0 4
+sound 1407
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「早く家を出て、ひとり暮らしがしたいです。
+line2 <shift> # 私……これ以上……」
+com03 0 2
+choice1 <shift> # 夫婦仲、そんなに悪いのか？
+line2
+com09 0 30
+com08
+choice2 <shift> # つれないこと、言うなよ
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「夫婦仲、そんなに悪いのか？」
+display
+com11 0 4
+sound 1408
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……最悪です。もう８年くらい前から、
+line2 <shift> # ずっと、こんな感じで……」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「つれないこと、言うなよ。実の両親だろ？」
+display
+com11 0 4
+sound 1409
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサーは、知らないから、そんなこと
+line2 <shift> # 言えるんです。あのふたり、すごい形相で……」
+display
+com11 0 4
+sound 1410
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「もう８年くらい前から、ずっとなんです。
+line2 <shift> # 私だって、愛想、尽かしたいわけでは……」
+com09 0 49
+display
+location 49
+com11 0 4
+sound 1411
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あ、すみません。こんな話、する気では。
+line2 <shift> # 不快……でしたよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、個人的な事情も、知っておくに越した
+line2 <shift> # ことはないから。……千早、えーとだな」
+com03 0 3
+choice1 <shift> # きっといつか、仲直りするよ
+line2
+com09 0 50
+com08
+choice2 <shift> # 影響されないようにな
+line2
+com09 0 51
+com08
+choice3 <shift> # 仲、取り持ってやれよな
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 3
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「きっといつか、仲直りするよ」
+display
+com11 0 4
+sound 1412
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「気休め、ですね。私自身、期待するのは、
+line2 <shift> # もう疲れました……」
+display
+com11 0 4
+sound 1413
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「けど、気づかってくれるのは、うれしいです。
+line2 <shift> # 引きずられずに、より上を、めざします」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （何事も、前向きに考えていった方がいいよな。
+line2 <shift> # 私生活も、アイドルとしての活動も）
+com09 0 69
+display
+location 51
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「影響されないようにな。気をもみすぎると、
+line2 <shift> # 体調を崩すぞ」
+display
+com11 0 4
+sound 1414
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ありがとうございます。でも、平気です。
+line2 <shift> # なるべく、他人だと思うようにしてますから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そこまで切り離すことも、ないんじゃ？」
+display
+com11 0 4
+sound 1415
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……そうでもしないと、身が持たないんです。
+line2 <shift> # 自分の心は、自分で守るしか……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （明るくなりかけた顔が、また暗くなった。
+line2 <shift> # まあ、俺から言えるのは、この程度か）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「仲、取り持ってやれよな」
+display
+com11 0 4
+sound 1416
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「私が……両親の、ですか？　イヤです。
+line2 <shift> # そんなこと、もうしたくありません」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、ほら、『子は、夫婦のカスガイ』って
+line2 <shift> # 言うし。取り持てるのは、千早だけだろ」
+display
+com11 0 4
+sound 1417
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「子は……カスガイ？　ふふっ、ふふふふっ！
+line2 <shift> # そうですね、そんな言葉、聞いたことあります」
+display
+com11 0 4
+sound 1418
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「けど、現実は、ちがいます……。
+line2 <shift> # まったく、逆になることだって……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （逆って、どういう意味だ？　千早が、ケンカの
+line2 <shift> # 原因？　……この顔じゃ、聞いてもムダか）
+com09 0 69
+display
+location 69
+unk02

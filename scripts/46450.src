@@ -1,0 +1,502 @@
+com2c 0 25
+com2d 0 81
+com32 0 0
+com11 0 0
+sound 0
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「んー……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「難しい顔だな、真。
+line2 <shift> # 何かトラブルでもあったのか？」
+display
+com11 0 0
+sound 1
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「えーと。今度ボク、ドラマに
+line2 <shift> # 挑戦することになったじゃないですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、オムニバス形式のスペシャルドラマの
+line2 <shift> # 主役、だったっけ？」
+display
+com11 0 0
+sound 2
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そうです。でも、役作りが難しくて……。
+line2 <shift> # ちょっと頭を抱えちゃってる感じなんです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「真の役の設定は『感情を出さない子』だよな。
+line2 <shift> # たしかに真には難しいかもな……」
+display
+com11 0 0
+sound 3
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そうなんですよー！　ボク、けっこう
+line2 <shift> # 感情がすぐ顔に出るほうだから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだな。世間的には真は、割とクールな
+line2 <shift> # イメージだけど、実際はそうでもないもんな」
+display
+com11 0 0
+sound 4
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「世間的なイメージに合わせて、この役をくれた
+line2 <shift> # んですよね、きっと。でも……はあ〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「相当、悩んでるな。うーん、俺から何か
+line2 <shift> # アドバイスするとしたら……」
+com03 0 3
+choice1 <shift> # ただ無心になれ
+line2
+com09 0 10
+com08
+choice2 <shift> # 世間のイメージ通りに
+line2
+com09 0 11
+com08
+choice3 <shift> # ただ無人になれ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ただ無心になれ。
+line2 <shift> # あれこれ考えても、逆効果だ」
+display
+com11 0 0
+sound 5
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そうかもしれませんけど……。
+line2 <shift> # でも、それがなかなか難しいんですよ……」
+display
+com11 0 0
+sound 6
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「やっぱりボク、自信ないです。
+line2 <shift> # 悲しいシーンでは、悲しい顔をするだろうし」
+display
+com11 0 0
+sound 7
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「笑えるシーンだと、思いっきり、
+line2 <shift> # 笑っちゃうんだろうなぁ……」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「世間のイメージ通りにやればいいじゃないか。
+line2 <shift> # ステージやＴＶの真っぽくやればいいんだよ」
+display
+com11 0 0
+sound 8
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ステージやＴＶのボクっぽく……？
+line2 <shift> # ……って、どんなんでしたっけ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おいおい！　自分でやってることだろ？」
+display
+com11 0 0
+sound 9
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うーん、割と無意識なんですよね。普段どおり
+line2 <shift> # のボクでステージやってるつもりですけど……」
+display
+com11 0 0
+sound 10
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「世間的には、それがクールなイメージだし。
+line2 <shift> # でも普段のボクはクールってわけでもないし」
+display
+com11 0 0
+sound 11
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「いったい、どこでどう間違ったんだか……。
+line2 <shift> # はあ〜、どんどん自信がなくなってきました」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ただ無人になれ」
+display
+com11 0 0
+sound 12
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「無人？　ど、どういうことですか？
+line2 <shift> # 役作りのために、無人島で暮らせ……とか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「い、いや、間違えた。
+line2 <shift> # 無人じゃなくて無心だった」
+display
+com11 0 0
+sound 13
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「なんだ、ビックリしちゃいました。
+line2 <shift> # んー、たしかにそうかもしれませんけど……」
+display
+com11 0 0
+sound 14
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「でも、やっぱりボク、自信ないです。
+line2 <shift> # 怒るシーンでは、怒った顔をするだろうし」
+display
+com11 0 0
+sound 15
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「嬉しいシーンだと、思いっきり、
+line2 <shift> # 嬉しそうにしちゃうんだろうなぁ……」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「今から考え込んでも仕方ないだろう。
+line2 <shift> # もっと気楽に、前向きに！」
+display
+com11 0 0
+sound 16
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「前向き……。
+line2 <shift> # それも、役柄とは反対なんだろうなぁ……」
+display
+com11 0 0
+sound 17
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサー。ボク、うまくやれるんでしょ
+line2 <shift> # うか？　やっぱり主役はムリじゃないですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （すっかり後ろ向きだ。
+line2 <shift> # どう言えば前向きになってくれるかな……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「真。俺が思うに、演じると言うことは……」
+com03 0 3
+choice1 <shift> # 別の人生を歩むことだ
+line2
+com09 0 30
+com08
+choice2 <shift> # 自分を信じることだ
+line2
+com09 0 31
+com08
+choice3 <shift> # 鉄仮面をかぶることだ
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+com34 0 2
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「自分ではない、別の人生を歩むことだ。
+line2 <shift> # 演じるという意識を消して、なりきればいい」
+display
+com11 0 0
+sound 18
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「自分ではない、別の人間に……？」
+display
+com11 0 0
+sound 19
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そうか。ボクとは違う人間なんだから、ボクと
+line2 <shift> # 違う反応をするの、当たり前ですよね」
+display
+com11 0 0
+sound 20
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「えっと、自分じゃなくて、他の人間で、
+line2 <shift> # 意識しちゃダメで……、でも、なりきって……」
+display
+com11 0 0
+sound 21
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うう。やっぱ難しそう……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ダメか……。手強いな）
+com09 0 39
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「自分を信じることだ。
+line2 <shift> # 真なら、この困難を乗りきれるはず！」
+display
+com11 0 0
+sound 22
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「は、はい。自信を持って立ち向かいます。
+line2 <shift> # まずは自分を信じて……」
+display
+com11 0 0
+sound 23
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ボクにできる演技を、力いっぱい！
+line2 <shift> # バリバリに頑張れば……！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……いや、バリバリ頑張る役じゃないからな？
+line2 <shift> # 頑張ってるのは表に出さずに演技をだな……」
+display
+com11 0 0
+sound 24
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うう……。やっぱ難しいですね……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ふりだしに戻った感じだな……）
+com09 0 39
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「鉄仮面をかぶることだ。
+line2 <shift> # それによって、表情が消えるだろう」
+display
+com11 0 0
+sound 25
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「なるほど！
+line2 <shift> # それは、どこに売ってるんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、これはたとえで、本当にかぶるわけじゃ
+line2 <shift> # ないんだ。心に鉄仮面をだな……」
+display
+com11 0 0
+sound 26
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「わかりました！　それじゃ、どうやって
+line2 <shift> # かぶればいいんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う。えーと、それは……」
+display
+com11 0 0
+sound 27
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「それを教えてくれないと、
+line2 <shift> # 困っちゃいますよ……」
+com09 0 39
+display
+location 39
+com11 0 0
+sound 28
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はあ〜。プロデューサー、どうすれば表情が
+line2 <shift> # 出ないようにできるんですか？」
+display
+com11 0 0
+sound 29
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ダンスみたいに、練習しさえすれば上手くなる
+line2 <shift> # ものなら、いくらでも練習するのにな……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「練習か……。何か表情を出さないように
+line2 <shift> # する、いい練習方法があるといいんだが……」
+display
+com11 0 0
+sound 30
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あっ！　ひらめいたっ！
+line2 <shift> # プロデューサー、にらめっこしましょう！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「に、にらめっこ……？　なんでまた？
+line2 <shift> # あ！　表情を出さないようにする練習か？」
+display
+com11 0 0
+sound 31
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そうですよ！　にらめっこは、笑いそうになっ
+line2 <shift> # てもこらえる遊びだから、練習になりそうです」
+display
+com11 0 0
+sound 32
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサーの面白顔に、無表情で耐えられ
+line2 <shift> # たら……この役、できるかもしれない！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ほ、本当か！？　そうまで言われちゃ、
+line2 <shift> # 受けてたつしかないな……」
+display
+com11 0 0
+sound 33
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「手加減なし、本気の面白顔で
+line2 <shift> # お願いしますっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （とは言われたものの、真に自信をつけさせる
+line2 <shift> # ために、ここはぜひ負けてやりたいところだ）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （でも、手を抜くと真にバレそうだし……。
+line2 <shift> # 難しいな。運を天に任せるしかないか……）
+display
+com11 0 0
+sound 34
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「それじゃいきますよ！
+line2 <shift> # にーらめっこしましょー……」
+com03 0 3
+choice1 <shift> # あっぷっぷ！
+line2
+com09 0 40
+com08
+choice2 <shift> # あっぷっぷ！
+line2
+com09 0 40
+com08
+choice3 <shift> # あっぷっぷ！
+line2
+com09 0 40
+com08
+com07 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64
+com09 0 41
+com08
+display
+location 40
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あっぷっぷ！」
+com37 0 1
+com1e 0 0
+com09 0 48
+com3b
+com37 0 0
+com1e 0 0
+com09 0 49
+com3b
+display
+location 41
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あっぷっぷ！」
+com09 0 49
+display
+location 48
+com11 0 0
+sound 35
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「……………………」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ふぅ〜。俺の渾身の面白顔にも動じないとは
+line2 <shift> # ……なかなかやるな、真！　負けたよ！」
+display
+com11 0 0
+sound 36
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「本当ですか！？　やーりぃ！　嬉しいなあ！
+line2 <shift> # この調子なら、ドラマもいけるかもですね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、きっとうまくいくよ。保証する！
+line2 <shift> # でも真……ズルイぞ？」
+display
+com11 0 0
+sound 37
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「えっ？　ズルイって、何がですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「にらめっこのルールでは、
+line2 <shift> # 真も面白顔をしなきゃいけないはずだろ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「笑ったほうが負けなんだから。なのに、
+line2 <shift> # 俺だけに変な顔させて……ズルイぞ」
+display
+com11 0 0
+sound 38
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「だ、だって……。プロデューサーの前で変な顔
+line2 <shift> # なんて、できないですよ。恥ずかしくて」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺だって、恥ずかしいのにやったんだぞ？」
+display
+com11 0 0
+sound 39
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ボクの恥ずかしいは、ただの恥ずかしいとは違
+line2 <shift> # うんです！　プロデューサーの前でだけは……」
+display
+com11 0 0
+sound 40
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「い、いいじゃないですか、もう。ボク、ドラマ
+line2 <shift> # 頑張りますから！　この話は終わりですね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （なんだか、はぐらかされてしまった……。
+line2 <shift> # 自信がついたようだから、まあいいけど）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （この調子なら、今度のドラマ、きっとうまく
+line2 <shift> # いくだろう。頑張れよ、真！）
+com4b 0 0
+com09 0 59
+display
+location 49
+com11 0 0
+sound 41
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「……ぷっ！」
+display
+com11 0 0
+sound 42
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あははははっ！
+line2 <shift> # 面白いなぁ、プロデューサーの顔！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、おい……。
+line2 <shift> # まだ俺、面白い顔してないんだけど」
+display
+com11 0 0
+sound 43
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「えっ、ウソ！？　す、すみません。
+line2 <shift> # でも、つい、おかしくって……。ぷぷっ……」
+display
+com11 0 0
+sound 44
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あはははは……っと。
+line2 <shift> # あっ！　笑ってる場合じゃないんだった！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだぞ。表情を出さないための
+line2 <shift> # 練習なんだからな」
+display
+com11 0 0
+sound 45
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「思いっきり大爆笑しちゃいましたよ。
+line2 <shift> # あ〜、やっぱダメかなあ。ドラマ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （真は、すっかり落ち込んでしまった。
+line2 <shift> # 俺、笑われ損じゃないか……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （こんな調子でドラマ、うまくいくだろうか
+line2 <shift> # ……。とても不安だ……）
+com4b 0 2
+com09 0 59
+display
+location 59
+unk02

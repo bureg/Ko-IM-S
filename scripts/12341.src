@@ -1,0 +1,272 @@
+com2c 0 118
+com2d 0 21
+com32 0 0
+location 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「伊織、待てってば。こらー！」
+display
+com11 0 6
+sound 1500
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「なによ、ついてこないでよっ！
+line2 <shift> # 近づいたら、ヒドイ目に合わせるんだからっ」
+display
+com11 0 6
+sound 1501
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「なんで、こんなことになるのよ……。
+line2 <shift> # 私、あんなに、がんばったのに」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そういう時もあるよ。もういいじゃないか。
+line2 <shift> # 精一杯やったんだから」
+display
+com11 0 6
+sound 1502
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「これは、きっとワナだわ！　今日のファン、
+line2 <shift> # なんかおかしかったもん。あれは多分……」
+display
+com11 0 6
+sound 1503
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「コンサートをシラケさせるために、どっかの
+line2 <shift> # 事務所が送り込んできたサクラだったのよ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなバカな……」
+display
+com11 0 6
+sound 1504
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「だって、そうとでも思わなきゃ、やってらんな
+line2 <shift> # いじゃない。もしあれが本物のファンなら……」
+display
+com11 0 6
+sound 1505
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「私、もう顔も見たくない！
+line2 <shift> # アイドルなんて、今日限りで、やめてやるーっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「冷静になれ、伊織！
+line2 <shift> # ファンにまで背を向けて、どうするんだよ！」
+display
+com11 0 6
+sound 1506
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「だって……、だって……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「思い通りにいかないことはある。
+line2 <shift> # それは、これまでも、これから先も同じだ」
+display
+com11 0 6
+sound 1507
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「私は、なにもかも思い通りにいく方が、
+line2 <shift> # 好きなのっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いい加減にしろ！　だったら、そうできるだけ
+line2 <shift> # の実力を、身につけなきゃ、ダメだろ！」
+display
+com11 0 6
+sound 1508
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「プロデューサー……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「失敗して、グチこぼしてるだけの
+line2 <shift> # ヤツなんて……」
+com03 0 3
+choice1 <shift> # 情けないぞ？
+line2
+com09 0 10
+com08
+choice2 <shift> # 人に夢は与えられないぞ？
+line2
+com09 0 11
+com08
+choice3 <shift> # ミジンコ以下だぞ？
+line2
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「情けないぞ？」
+display
+com11 0 6
+sound 1509
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……わかってるわよ。わ、私だって、したくて、
+line2 <shift> # こんな顔してるワケじゃないんだから」
+com09 0 18
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「人に夢は与えられないぞ？」
+display
+com11 0 6
+sound 1510
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「別に、人に夢与えるために、がんばったんじゃ
+line2 <shift> # ないわよ。私は、私が満足したかっただけだし」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「う……。でも、人に夢をあげられなかった結果、
+line2 <shift> # 今の伊織は、満足してないわけだろ？」
+display
+com11 0 6
+sound 1511
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「あ、それはそーね。
+line2 <shift> # そこに気づかなかったのが、失敗の原因かしら」
+display
+com11 0 6
+sound 1512
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「先にわかってれば、どうにかできたのに。でも、
+line2 <shift> # もう終わったライブは、どうにもならないし」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ミジンコ以下だぞ？」
+display
+com11 0 6
+sound 1513
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ミジンコ？　ちょっとアンタ、それは言い過ぎ
+line2 <shift> # でしょ。私ってそんなミニマムな存在なワケ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うわっ、怒るなよ。でも、今の伊織は、自分自
+line2 <shift> # 身をそれぐらい小さく感じてるんじゃないか？」
+display
+com11 0 6
+sound 1514
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「まあ、大きくは感じてないわ……。
+line2 <shift> # イライラして、そのぶつけどころもなくて」
+com09 0 18
+display
+location 18
+com11 0 6
+sound 1515
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「下向いてブツクサ言ってるだけなんて、
+line2 <shift> # 気持ちよくもなんともないし……
+com09 0 19
+display
+location 19
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だったら、どうすればいいか、わかるよな？」
+display
+com11 0 6
+sound 1516
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……わ、わかるわよ。私、やる。やってやるわ
+line2 <shift> # よ。いつかもっとすごいコンサートやって……」
+display
+com11 0 6
+sound 1517
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「今日のファン達を、あっと言わせてやるん
+line2 <shift> # だからっ。見てなさいよ！」
+display
+com1c 0 3
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……よく言ったな、伊織。それでいい。ふぅー、
+line2 <shift> # これでやっと俺も、少し安心して別れられる」
+display
+com11 0 6
+sound 1518
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「あ、そうだったわね。アンタとは今日で……。
+line2 <shift> # なんか中途ハンパで、納得いかないけど……」
+display
+com11 0 6
+sound 1519
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ね！　手、出しなさいよ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「は？　手？　どうしてだ？」
+display
+com11 0 6
+sound 1520
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「手、合わせて、あやまりなさいよ。
+line2 <shift> # 私をトップにできなくて、ゴメンナサイって」
+display
+com11 0 6
+sound 1521
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「私も手、合わせながら、ほんのちょっとだけ、
+line2 <shift> # アンタにあやまるから。ほらっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ＯＫ。わかった……」
+com0e 0 120
+com44
+com09 0 20
+com45
+com44
+com09 0 21
+com45
+display
+location 20
+com11 0 6
+sound 1522
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……ふぅ〜、これでいいわ。
+line2 <shift> # 私、今のくやしさ、忘れない！」
+com09 0 29
+display
+location 21
+com11 0 6
+sound 1523
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ちょっとーっ、なんでちゃんと、
+line2 <shift> # 手、合わせないのよ？　殴るわよっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「い、いや……、合わせるまでもないよ。
+line2 <shift> # ちゃんと心の中で、あやまったから」
+display
+com11 0 6
+sound 1524
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ホント？　なら、まあいいわ。
+line2 <shift> # 私、今のこのくやしさ、絶対に忘れない！」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺もだよ」
+display
+com11 0 6
+sound 1525
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「いつかまた、アンタと手を組む時がきたら、
+line2 <shift> # その時こそ……！」
+display
+com4a 0 0
+com11 0 6
+sound 1526
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「芸能界を、ギッタンギッタンに、
+line2 <shift> # 踏みにじるんだからね。約束よ！　じゃあ！」
+display
+location 100 129 92 129 92 130 177 130 164 130 181 130 196 136 201 144 68 130 205 129 65 131 137 131 88 131 103 131 137 131 67 131 117 142 184 148 115 130 240 129 65
+line2 <shift> # どうにか受け入れ、去っていった。
+display
+location 101 141 161 137 241 130 204 131 96 131 131 131 140 131 147 131 87 130 197 129 65 137 180 130 198 136 201 144 68 130 170 138 180 130 182 130 189 130 173 130 226 130 181 130 179 129 66
+line2 <shift> # それは、次の挑戦へとつながっていく……。
+display
+location 102 130 162 130 194 130 169 149 75 130 184 129 65 136 201 144 68 130 198 131 138 131 120 131 147 131 87 130 181 130 189 130 162 129 66 130 171 130 193 130 198 136 201 144 68
+line2 <shift> # もどこかで、俺と同じ気持ちでいるにちがいない。
+display
+unk02

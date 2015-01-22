@@ -1,0 +1,458 @@
+com2c 0 113
+com2d 0 21
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうしたんだ、伊織？
+line2 <shift> # いきなりこんな所に呼び出したりして」
+display
+com11 0 0
+sound 0
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そ、相談があるの……。私、怖くて誰にも
+line2 <shift> # 言えなくて……。でも、アンタになら……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……震えてるのか！？
+line2 <shift> # いったい、何があったんだよ？」
+display
+com11 0 0
+sound 1
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……誰にも言わない？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「言わないよ。伊織がそう望むんなら」
+display
+com11 0 0
+sound 2
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「じゃ、誓ってくれる？　あんたの大切な
+line2 <shift> # 何かに誓って。絶対、誰にも言わない、って」
+com03 0 3
+choice1 <shift> # プロデューサー生命に誓う！
+line2
+com09 0 10
+com08
+choice2 <shift> # 伊織に誓う！
+line2
+com09 0 11
+com08
+choice3 <shift> # 全財産に誓う！
+line2
+com09 0 12
+com08
+com07 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「プロデューサー生命に誓って、
+line2 <shift> # 誰にも言わないよ」
+display
+com11 0 0
+sound 3
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……そう。それは確かに大切なものよね。
+line2 <shift> # それなら信用できそうだわ」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「伊織に誓う！　もし誓いを破ったら、伊織を
+line2 <shift> # 天にささげてもかまわない！」
+display
+com11 0 0
+sound 4
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「アンタの都合で勝手にささげないでくれる！？
+line2 <shift> # っていうか、ささげ物ならアンタ自身にしてよ」
+display
+com11 0 0
+sound 5
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……まあ、いいわ。それだけ私はアンタに
+line2 <shift> # とって大切ってことよね。信用してあげる」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺の全財産に誓って、
+line2 <shift> # 決して誰にも言わない！」
+display
+com11 0 0
+sound 6
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「アンタの吹けば飛ぶような財産に誓って
+line2 <shift> # もらっても、ありがたみないわ〜」
+display
+com11 0 0
+sound 7
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ま、それでもアンタにとっては大切なものかし
+line2 <shift> # らね。いいわ。信用してあげる」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 8
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「実はね……何日か前から、家の外に出ると必ず
+line2 <shift> # 誰かがつけてくるの。ファンだと思うんだけど」
+display
+com11 0 0
+sound 9
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「特に仕事先には、ずーっとよ。しつっこいの！
+line2 <shift> # こないだなんて、事務所の前で待ち伏せてたわ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええっ！　非常識で困ったファンだな！
+line2 <shift> # 顔は見たのか？」
+display
+com11 0 0
+sound 10
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「見てない。いつもうまく隠れてるの。
+line2 <shift> # でも気配は感じるから……気味が悪くて」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「かわいそうに、怖かったろう。
+line2 <shift> # もっと早く相談してくれればよかったのに」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうすれば俺が……」
+com03 0 3
+choice1 <shift> # そいつに話をつけてやったのに
+line2
+com09 0 20
+com08
+choice2 <shift> # 警察を呼んでやったのに
+line2
+com09 0 21
+com08
+choice3 <shift> # そのファンだとわかったのに
+line2
+com09 0 22
+com08
+com07 129 64 129 64 129 64 129 64
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そいつに話をつけてやったのに。
+line2 <shift> # 俺には、伊織を守る義務があるんだからな」
+display
+com11 0 0
+sound 11
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……やーだー、なにそれ。
+line2 <shift> # キザッ！　キモッ！　バッカみたーい！」
+display
+com11 0 0
+sound 12
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「その……ちょっとだけ嬉しいけど。でも、怖い
+line2 <shift> # から、本当に話をつけに行ったりしないでよ？」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「警察を呼んでやったのに。こういう時は
+line2 <shift> # シロウト判断で動かず、警察に相談するべきだ」
+display
+com11 0 0
+sound 13
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……すごく正しいこと言ってると思うけど、
+line2 <shift> # なんとなくガッカリなのは、どうしてかしら？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え、ガッカリ？　あ、もちろん、目の前に
+line2 <shift> # そいつが現れたら、俺がガツーンと……」
+display
+com11 0 0
+sound 14
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「いいわよ、別に〜。
+line2 <shift> # そんな無理してくれなくても〜」
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺こそが、そのしつこいファン本人だという
+line2 <shift> # ことがわかったのにな。ふふ、ふふふふ……」
+display
+com11 0 0
+sound 15
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「…………」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わあ！　本気で信じないでくれよ！
+line2 <shift> # 軽い冗談だ！　伊織の気持ちをほぐそうと……」
+display
+com11 0 0
+sound 16
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そんなんで気持ちがほぐれるワケないでしょ？
+line2 <shift> # ちょっとは場の空気を読みなさいよねっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ご、ごめんよ。もちろん、目の前に
+line2 <shift> # そいつが現れたら、俺がガツーンと……」
+display
+com11 0 0
+sound 17
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「もう遅いわよ！　それにどちらかというと、
+line2 <shift> # 私がアンタをガツーンとやりたい気分だわ！」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 18
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「あっ！　……この気配！　……アイツよ！
+line2 <shift> # アイツがまた近くにいるんだわ。うう……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「何だって！？
+line2 <shift> # あ！　もしかして、あの木の陰にいる男……？」
+display
+com11 0 0
+sound 19
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ええ。……ど、どうしよう〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よーし、丁度いい。やっぱり俺が行って、
+line2 <shift> # ガツンと話をつけてきてやるよ！」
+display
+com11 0 0
+sound 20
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ダメよ、そんなの！！　絶対ダメ！」
+display
+com11 0 0
+sound 21
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「こんなにしつこいファン、ちょっと変だわ。
+line2 <shift> # 危ないじゃないのよーっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、このまま放っておくわけには
+line2 <shift> # いかないだろ？」
+display
+com11 0 0
+sound 22
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そうだけど、でも〜……。じゃ、じゃあ、
+line2 <shift> # 私とカード勝負して、その結果で決めましょ！」
+display
+com11 0 0
+sound 23
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「もし私が勝ったら、今、アンタが話をつけに
+line2 <shift> # いくのは止めるってことにしない？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それで伊織が納得するなら受けてたつけど、
+line2 <shift> # 怖いからって、行動を先のばししても……」
+display
+com11 0 0
+sound 24
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「はいはい、いいから！　カード勝負に決まり！
+line2 <shift> # ２枚のカードのうち、どちらかを選んで」
+display
+com11 0 0
+sound 25
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「選んだカードがジョーカーだったら、アンタ
+line2 <shift> # の負け。ハートのＡだったら、アンタの勝ちよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （伊織は、負けたら不機嫌になるに決まってる。
+line2 <shift> # 運任せだが、ジョーカーを選んだ方がいいかな）
+com03 0 2
+choice1 <shift> # 右のカードだ！
+line2
+com09 0 30
+com08
+choice2 <shift> # 左のカードだ！
+line2
+com09 0 31
+com08
+com07 129 64 129 64 129 64 129 64
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「右だ！　右のカードで勝負！」
+com37 0 1
+com1e 0 0
+com09 0 38
+com3b
+com37 0 0
+com1e 0 0
+com09 0 39
+com3b
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「左だ！　左のカードで勝負！」
+com37 0 1
+com1e 0 0
+com09 0 38
+com3b
+com37 0 0
+com1e 0 0
+com09 0 39
+com3b
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「時間がない！　テキトーに勝負！」
+com09 0 39
+display
+location 38
+com11 0 0
+sound 26
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ジョーカーだわ！　私の勝ちね！　じゃあ、
+line2 <shift> # 今日は話をつけに行くのはナシにしましょ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わかったよ……。でもその代わり、しばらく
+line2 <shift> # 俺がつきっきりで、伊織を護衛させてもらうぞ」
+display
+com11 0 0
+sound 27
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ええっ！　つきっきり？
+line2 <shift> # そ、そんなに本気で心配してくれてるの……」
+display
+com11 0 0
+sound 28
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ま、そのぐらいは仕方ないわね。アンタに心配
+line2 <shift> # かけるのもなんだし、私も安心かもだし……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お、おい！　伊織！」
+display
+com11 0 0
+sound 29
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「なに？　あっ、アイツがこっちに来る！？
+line2 <shift> # ……きゃああああっ！！」
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 30
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……ええ、大丈夫よ。バッチリ頑張ってるし。
+line2 <shift> # 新堂からパパにも言っといて。じゃあね！」
+display
+com11 0 0
+sound 31
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「やっだー！　ファンじゃなかったみたい。
+line2 <shift> # 伊織ったら、ちょっとカンチガイ♪　にひひ♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「知り合い……だったのか？」
+display
+com11 0 0
+sound 32
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「うちの執事の新堂。パパの命令で、こっそり
+line2 <shift> # 私の仕事ぶりを監視してたんですって」
+display
+com11 0 0
+sound 33
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「生意気なことしてくれるわよね！　尾行バレ
+line2 <shift> # バレだし。後で色々文句言ってやんなきゃ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……うう、どっと疲れが。とはいえ、カン違い
+line2 <shift> # でよかった。伊織の無事が、一番大事だからな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （とんだハプニングだったが、今回のことで
+line2 <shift> # 伊織との信頼関係が、少し深まった気がする）
+com4b 0 0
+com09 0 49
+display
+location 39
+com11 0 0
+sound 34
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ハートのＡ。アンタの勝ちだわ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、やっぱり今、話をつけに行くぞ！　力ず
+line2 <shift> # くででも、アイツを取り押さえてやる！」
+display
+com22 0 30
+com21 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「とりゃー！　正義は勝つ！
+line2 <shift> # 参ったか！？　常識をわきまえないやつめ！」
+display
+com11 0 0
+sound 35
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……えっ？　あれ？　新堂？　新堂なのっ！？
+line2 <shift> # うそっ！　プロデューサー、離してあげて！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え？　知り合いなのか？
+line2 <shift> # ってことは……ファンじゃないのか？」
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 36
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……ごめんね、乱暴なプロデューサーで。
+line2 <shift> # パパには内緒に……あっ、待って！　新堂ー！」
+display
+com11 0 0
+sound 37
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「アンタ、何やってんのよ！　あれはうちの執事
+line2 <shift> # の新堂！　変なファンなんかじゃないわよっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だって、伊織が……」
+display
+com11 0 0
+sound 38
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「言い訳無用！　新堂はパパの命令で、私の仕事
+line2 <shift> # ぶりをこっそり監視してただけなんですって」
+display
+com11 0 0
+sound 39
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「なのに、いきなりつかみかかるなんて……。
+line2 <shift> # 新堂は、パパにどう報告するかしら！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「すまない。仕事、やりにくくなるよな……。
+line2 <shift> # 伊織の家に、お詫びの電話をいれておくよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （思い込みでとんでもないことをしてしまった。
+line2 <shift> # この失点は、今後、取り返さなくては……）
+com4b 0 2
+com09 0 49
+display
+location 49
+unk02

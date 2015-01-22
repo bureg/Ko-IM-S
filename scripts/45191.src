@@ -1,0 +1,315 @@
+com2c 0 49
+com2d 0 83
+com32 0 0
+com11 0 3
+sound 100
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ボクが、１日署長やるんですね。へへへっ、
+line2 <shift> # いかにもアイドルって感じで、うれしいです」
+display
+com11 0 3
+sound 101
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「でも、できれば１日婦警さんの方が、よかった
+line2 <shift> # かな。ミニで出動ー、なんて！」
+com03 0 3
+choice1 <shift> # ミニスカート？
+line2
+com09 0 10
+com08
+choice2 <shift> # ミニパト？
+com09 0 11
+com08
+choice3 <shift> # ミニカー？
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ミニスカート？」
+display
+com11 0 3
+sound 102
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「もっちろん、そうです！　活躍して、男の人に
+line2 <shift> # チヤホヤされたりしてっ」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ミニパト？」
+display
+com11 0 3
+sound 103
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「え、ちがいますよ。ミニって言えば、ミニ
+line2 <shift> # スカートに決まってるじゃないですか」
+display
+com11 0 3
+sound 104
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「パトカーがかわいくても、しかたありません。
+line2 <shift> # やっぱり、ボクがさわがれないとっ」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ミニカー？」
+display
+com11 0 3
+sound 105
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そんなので、どうやって出動するんですー？
+line2 <shift> # ミニって言えば、スカートに決まってますっ！」
+display
+com11 0 3
+sound 106
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ミニカーなんて乗ったら、つぶれちゃいますよ。
+line2 <shift> # いかにボクの体重が、かるいとはいえ……」
+com09 0 29
+display
+location 29
+com11 0 3
+sound 107
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「それで、今日、ボクはなにをすれば、
+line2 <shift> # いいんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「壇上にあがって、警官達にあいさつしてくれ。
+line2 <shift> # そこそこ、えらそうにしても、いいよ」
+display
+com11 0 3
+sound 108
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「えらそうに、ですか？　で、できれば、
+line2 <shift> # かわいく激励とか、したいですけど……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、キリッとした感じで行きますって、
+line2 <shift> # 先方に話しちゃったから……」
+display
+com11 0 3
+sound 109
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「……どーして、そんな風に、言ったんです？」
+com03 0 3
+choice1 <shift> # 場所を、考えて
+line2
+com09 0 30
+com08
+choice2 <shift> # 適性を、考えて
+line2
+com09 0 31
+com08
+choice3 <shift> # つい、ノリで
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「場所を考えて、だよ。署内でやるなら、
+line2 <shift> # その方がマッチするだろ？」
+display
+com11 0 3
+sound 110
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「言われてみれば、そうですね。ここの建物とか
+line2 <shift> # 見てると、なんとなくわかります」
+display
+com11 0 3
+sound 111
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「でもっ、出だしのアイサツぐらい、好きに
+line2 <shift> # やってもいいですよね？　ちょっとだけ！」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「適性を考えて、だよ」
+display
+com11 0 3
+sound 112
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「つまり〜、ボクは男の警官っぽい方が、
+line2 <shift> # お似合いってコトですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そう、つっかかるなよ。いいだろ？　どうせ、
+line2 <shift> # お芝居なんだから」
+com09 0 91
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「つい、ノリで」
+display
+com11 0 3
+sound 113
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「勢いで言ったってことは、心の底では、
+line2 <shift> # 男っぽい方が、似合うと思ったんじゃ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そんなことないよ！　いいだろ？
+line2 <shift> # どうせ、お芝居なんだから」
+com09 0 91
+display
+location 91
+com11 0 3
+sound 114
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「完全には、納得できないなあ。出だしぐらい、
+line2 <shift> # 好きにやってもいいですか？　ちょっとだけ！」
+com09 0 49
+display
+location 49
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、できれば、最初から最後まで、
+line2 <shift> # ビシッと、やってほしいんだけど……」
+display
+com11 0 3
+sound 115
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「お願いしますよ〜！　あ、署長の言うことが、
+line2 <shift> # 聞けないっていうんですか？」
+com03 0 3
+choice1 <shift> # 聞けません
+com09 0 50
+com08
+choice2 <shift> # わかった、ちょっとだけな
+line2
+com09 0 51
+com08
+choice3 <shift> # ……なんでも、聞きます
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「聞けません」
+display
+com11 0 3
+sound 116
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ちぇ〜、つまんないのー。わかりましたよ。
+line2 <shift> # じゃあ、キリリとやります」
+display
+com11 0 3
+sound 117
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そのかわり、受けなかったら、プロデューサー
+line2 <shift> # のせいですからね。行ってきまーす……」
+display
+com22 0 30
+com21 0 30
+com11 0 3
+sound 118
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「以上、公共の安全と、秩序を守るため、
+line2 <shift> # 諸君の健闘に期待する！」
+display
+com11 0 3
+sound 119
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「え？　ほ、惚れそう？　ほんとですか？
+line2 <shift> # まいったな、あっはは〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （お、男性陣にも、かなり好評のようだ！
+line2 <shift> # はじめの計画通りやらせて、大正解だったな）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わかった、ちょっとだけな」
+display
+com11 0 3
+sound 120
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「おっほん、それでよろしい！　よーし、出だし
+line2 <shift> # で、警察の人のハート、キャッチするぞー」
+display
+com22 0 30
+com21 0 30
+com11 0 3
+sound 121
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「きゃっほ、きゃっほ〜。１日署長でーす！
+line2 <shift> # えへ、こういう仕事、もうドキドキって感じ！」
+display
+com11 0 3
+sound 122
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、あれ？　なに、みんな、震えて……。
+line2 <shift> # ……寒いのかな」
+display
+com11 0 3
+sound 123
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ハートにかける手錠が、あったらいいのに♪
+line2 <shift> # って、ど、どうして、後ずさるんです？」
+display
+com11 0 3
+sound 124
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「……わかりましたよ。普通にやります。
+line2 <shift> # えー！　諸君、聞け！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ほっ、なんとか立て直してくれたようだ。
+line2 <shift> # この後は、問題なく、いきそうだな）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……なんでも、聞きます」
+display
+com11 0 3
+sound 125
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ホントに！？　じゃあ、全部、ボクの好きに
+line2 <shift> # やっちゃってもいいって、ことですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、おい、そこまでは言ってないだろ。
+line2 <shift> # 約束が……」
+display
+com11 0 3
+sound 126
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ちっちっちっ、署長に逆らっちゃいけませんね。
+line2 <shift> # よーし、こんな機会、そうはないんだし！」
+display
+com22 0 30
+com21 0 30
+com11 0 3
+sound 127
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「きゃっほ、きゃっほ〜。１日署長でーす！
+line2 <shift> # えへ、こういう仕事、もうドキドキって感じ！」
+display
+com11 0 3
+sound 128
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ハートにかける手錠が、あったらいいのに♪
+line2 <shift> # 恋の拳銃、どこかに落ちてないかなあ〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ア然としている警官には目もくれず、独走して
+line2 <shift> # いる……。もう、だれにも止められない）
+com09 0 69
+display
+location 69
+unk02

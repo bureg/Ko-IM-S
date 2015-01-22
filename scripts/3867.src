@@ -1,0 +1,482 @@
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ドラマ収録の予定が、先方の都合で、
+line2 <shift> # いきなりキャンセルになってしまった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （すると、春香が少し買い物にいきたいと
+line2 <shift> # いうので、二人で街にでることにした）
+display
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「すみません、プロデューサーさん。
+line2 <shift> # お仕事の合間に、お買物つき合わせちゃって」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、このくらい気にしなくっていいよ。
+line2 <shift> # それより今日は、何の買物なんだ？」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「お母さんに何かプレゼントがしたいんです。
+line2 <shift> # 日頃の感謝の気持ちを込めて……」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「アイドルのお仕事を続けていられるのも、
+line2 <shift> # お母さんの協力のおかげですから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか。いい心がけだな！」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「それで、プロデューサーさん。
+line2 <shift> # 相談に乗ってもらえませんか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え、何の相談？」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「お母さんが喜びそうなもの、
+line2 <shift> # 何かいいアイディア、ありませんか？」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「何だか、ありきたりなものしか、
+line2 <shift> # 思い浮かばなくって」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お母さんにプレゼントか……。
+line2 <shift> # そうだなあ……」
+com03 0 3
+choice1 <shift> # 旅行とかどうだ？
+line2
+com09 0 10
+com08
+choice2 <shift> # お休みとかどうだ？
+line2
+com09 0 11
+com08
+choice3 <shift> # 歌とかどうだ？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「旅行とかどうだ？」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ……、なるほど！　それ、いいですね。
+line2 <shift> # お母さん、普段あんまり外出できませんし」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「お仕事でコツコツ貯めた貯金もありますから、
+line2 <shift> # ステキな旅行、プレゼントしたいです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「本当に、春香はお母さん思いなんだな。
+line2 <shift> # きっとお母さん、喜ぶと思うよ」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい。私、お母さんのためだったら、
+line2 <shift> # どんなことでも、がんばろうって思えるんです」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「まだまだ子どもっぽいですよね。えへへ……」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お休みとかどうだ？　お母さんも、
+line2 <shift> # たまには主婦業、休みたいんじゃないか？」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「なるほど。それ、いいかもしれませんね」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「だけど、お母さんって、
+line2 <shift> # 家事が大好きだから……」
+display
+com11 0 0
+sound 10012
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「家にいたら、休んでてって言っても、
+line2 <shift> # すぐに働き出しちゃいそう……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「落ち着きがない人なのかな？
+line2 <shift> # さすがは春香のお母さんだな……」
+display
+com11 0 0
+sound 10013
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「確かに、そういうところは似てますね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃあ、休むしかないような状況に、
+line2 <shift> # してしまえばいいんじゃないかな？」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「う〜ん、ということは……」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「思い切って、旅行とか行っちゃったほうが、
+line2 <shift> # お休みになるのかもしれませんね」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「歌を歌ってあげるというのはどうだ？」
+display
+com11 0 0
+sound 10016
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「う〜ん、確かに歌は、
+line2 <shift> # お母さんもすごく喜んでくれるんですけど……」
+display
+com11 0 0
+sound 10017
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「毎日、家で歌を歌ってますから、
+line2 <shift> # 特にプレゼントという感じもしないような……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「毎日、家で歌ってるのか？
+line2 <shift> # それじゃあ、お母さんも大変だな……」
+display
+com11 0 0
+sound 10018
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「それ、どういう意味ですか！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、いや、深い意味はない！
+line2 <shift> # そうだ、たまには新鮮な環境を用意するとか？」
+display
+com11 0 0
+sound 10019
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「新鮮な環境……、ですか？　なるほど……」
+display
+com11 0 0
+sound 10020
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「もう少し、お母さんの骨休めになるような、
+line2 <shift> # たとえば……、旅行とかですかね？」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「旅行を贈るとなると、行き先が問題だよな」
+display
+com11 0 0
+sound 10021
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「私、旅行なんて申し込んだことないから、
+line2 <shift> # 手順とか、よく分からないです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか。まずは、その辺の旅行代理店で、
+line2 <shift> # パンフレットを見るのが手っ取り早いだろうな」
+display
+com11 0 0
+sound 10022
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「さすがはプロデューサーさん。
+line2 <shift> # 頼りになりますね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まあ、仕事がら、旅の手配なんかも、
+line2 <shift> # できないと困るからな」
+display
+com11 0 0
+sound 10023
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「なるほど。それじゃあ、プロデューサーさんに
+line2 <shift> # 旅先を決めてもらおうかな」
+display
+com11 0 0
+sound 10024
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「私、今回は大奮発するつもりですから、
+line2 <shift> # オススメの場所、あったら教えて下さい」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええっ、俺が決めるのか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （え〜と、春香のお母さんの
+line2 <shift> # 喜びそうな旅行先、か……）
+com03 0 3
+choice1 <shift> # 俺がこっそり聞いてみるよ
+line2
+com09 0 30
+com08
+choice2 <shift> # 温泉とかいいんじゃないか
+line2
+com09 0 31
+com08
+choice3 <shift> # 海外とかいいんじゃないか
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺がこっそり、お母さんに聞いてみるよ」
+display
+com11 0 0
+sound 10025
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「え？　プロデューサーさんが、
+line2 <shift> # 決めてくれないんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺が知ってるのは、
+line2 <shift> # 撮影で使うようなところばかりだからな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「春香のお母さんの年代の人が喜ぶ場所は
+line2 <shift> # わからないから、こっそり聞き出しておくよ」
+display
+com11 0 0
+sound 10026
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そうしてもらえたら、すごく助かります！
+line2 <shift> # くれぐれも、計画がバレないように、ですよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「大丈夫。じゃあ、今からちょっと電話して、
+line2 <shift> # なにげなく聞いてみることにするよ」
+display
+com11 0 0
+sound 10027
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい！　よろしくお願いしますっ！」
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 10028
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「……どうでしたか、プロデューサーさん？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うん、実は……」
+display
+com11 0 0
+sound 10029
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ！？　もしかしてバレちゃったとか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや。お母さん、自分のことはどうでも
+line2 <shift> # いいから、春香にお休みをあげてくれってさ」
+display
+com11 0 0
+sound 10030
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「えっ……。お母さんが、そんなことを？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「旅行の行き先は、どこでもいいんだって。
+line2 <shift> # 春香と一緒にいられるんなら」
+display
+com11 0 0
+sound 10031
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「……お母さん。自分のこと、
+line2 <shift> # 全然考えないで、私のことを……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんとかオフを作るから、好きなところに、
+line2 <shift> # 二人で旅行に行ってくるといいよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それが何よりの、お母さん孝行だろう」
+display
+com11 0 0
+sound 10032
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「わかりました。ありがとうございます……。
+line2 <shift> # 私って本当に、幸せ者ですよね♪」
+display
+com11 0 0
+sound 10033
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「お母さんも、プロデューサーさんも、
+line2 <shift> # 私のこと、すごく大事に考えてくれて……」
+display
+com11 0 0
+sound 10034
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「これからも私、がんばりますね！
+line2 <shift> # 大切な人達に、喜んでもらえるように……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後、春香は、お母さんと一緒に、
+line2 <shift> # 旅行に行けるプランを考え始めた）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今は忙しいけど、必ず旅行に行けるように、
+line2 <shift> # 俺も調整、頑張るぞ！）
+com09 0 99
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「温泉とか、いいんじゃないか」
+display
+com11 0 0
+sound 10035
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「それもいいですね。ゆっくりできそう」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ほら、温泉なら、
+line2 <shift> # あっちに沢山パンフレットが置いてあったぞ」
+display
+com11 0 0
+sound 10036
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「本当ですね！　……でも、こんなにあると、
+line2 <shift> # どこがいいのか、迷っちゃいますね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あとは、フィーリングで決めるしかないよ。
+line2 <shift> # なんとなく印象に残る名前のところとか」
+display
+com11 0 0
+sound 10037
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ああ、見て下さい、プロデューサーさん！
+line2 <shift> # ここ温泉ドームですって、ドーム！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「温泉ドーム？」
+display
+com11 0 0
+sound 10038
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「面白そうですね。私、この旅行に決めました！
+line2 <shift> # さっそく申し込んできちゃいます！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、おい！　春香、そこは多分、
+line2 <shift> # 落ち着けるところなんかじゃなくて……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……ああ、行っちゃったか」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （春香は『温泉ドーム』という、よくわからない
+line2 <shift> # 旅行先に決めてしまったようだが……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （お母さん、喜んでくれるだろうか……？
+line2 <shift> # でも二人一緒なら、いいのかもしれないな）
+com09 0 99
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「海外とかいいんじゃないか」
+display
+com11 0 0
+sound 10039
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そうですね。え〜と、銀行の貯金が……、
+line2 <shift> # それで、あれを合わせれば……」
+display
+com11 0 0
+sound 10040
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「なんとか、海外旅行に、
+line2 <shift> # 行かせてあげられると思います！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「世界一周に行けるくらいには、
+line2 <shift> # プロデュースできてると思うんだけどな……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まあ、お母さんも海外に行けるなら、
+line2 <shift> # きっと喜んでくれるぞ」
+display
+com11 0 0
+sound 10041
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「でも……、海外となると、私が一緒に
+line2 <shift> # 行くっていうのは、ムリですよね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……ああ、確かに、
+line2 <shift> # そんなに長いオフは取れないだろうな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「特に今は、トップアイドルの足固めには、
+line2 <shift> # 大事な時期だからな……」
+display
+com11 0 0
+sound 10042
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「お母さん、一人旅でも大丈夫かな……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なら、お父さんとお母さんに、
+line2 <shift> # プレゼントすればいいんじゃないか？」
+display
+com11 0 0
+sound 10043
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「……そうですよね。私も一緒に行こうって
+line2 <shift> # 考えるから、無理があるんですね」
+display
+com11 0 0
+sound 10044
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「それじゃあ、善は急げ。
+line2 <shift> # 早速、申し込んできますね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （春香は両親のために、ヨーロッパ８日間の旅を
+line2 <shift> # 申し込んできたようだが……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あとで両親に聞いたら、
+line2 <shift> # 日程の都合が合わなかったらしい）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （う〜ん、計画性がなさすぎたな。
+line2 <shift> # 春香も落ち込んでしまって、大失敗だ……）
+com09 0 99
+display
+location 99
+unk02

@@ -1,0 +1,448 @@
+com2c 0 24
+com2d 0 21
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「伊織、またファンからプレゼントが届いたぞ。
+line2 <shift> # いつものように、家に送ってもいいか？」
+display
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「え〜、またぁ？　おととい来たばっかりじゃな
+line2 <shift> # い。はあーあ。トップアイドルはツライわね」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「下僕達の気持ちはうれしいけど、毎回、トラッ
+line2 <shift> # クいっぱいの荷物をおろすの、大変なのよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうグチるなって。仕方ないだろ？
+line2 <shift> # なんたって伊織は、超がつくほどの……」
+com03 0 3
+choice1 <shift> # 売れっ子なんだから
+line2
+com09 0 10
+com08
+choice2 <shift> # カギっ子なんだから
+line2
+com09 0 11
+com08
+choice3 <shift> # 蒸れっ子なんだから
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「売れっ子なんだから。みんな伊織に夢中で、
+line2 <shift> # プレゼントせずにはいられないんだよ」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そうね〜。全ては、みんなをとりこにする、
+line2 <shift> # 私の、この美しさのせいだものね。にひひっ♪」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「カギっ子なんだから」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「え？　カギっ子って家のカギをいつも持ってる
+line2 <shift> # 子のことよね？　私、そんなことしてないわよ」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「だいたい『超カギっ子』って、どういうこと？
+line2 <shift> # 完全に意味不明じゃない！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうだよな。なんで俺、そんなことを
+line2 <shift> # 言ったんだ……？　ごめん、カンチガイだった」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「蒸れっ子なんだから」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「う……。ちょっと、なに！？
+line2 <shift> # そのジメジメ〜っとしてそうな呼び方！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あああっ、間違えた！
+line2 <shift> # 売れっ子だよ、売れっ子！」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「全然ちがうじゃないっ！　どこをどう間違え
+line2 <shift> # たら、売れっ子が蒸れっ子になるのよっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ほ、本当にすまない。なんで俺、そんなことを
+line2 <shift> # 言ったんだ……？　疲れてるのかな……」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ちょっと〜！　せっかく私と一緒にいるのに、
+line2 <shift> # 疲れた顔しないでちょうだい！　フンッ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ごめんごめん。
+line2 <shift> # 以後、気をつけるから、許してくれよ」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ま、とにかく、荷物は家に送るから。
+line2 <shift> # 事務所には、もう置いとくスペースがないしな」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「わかったわよ……。あ、でもブランド品のバッ
+line2 <shift> # グとかスカーフとかは送らないでちょうだいね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんでだよ。高級品だぞ。
+line2 <shift> # もらっておいた方が、いいんじゃないか？」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「だって、そーゆーものって、お洋服と合わせて
+line2 <shift> # トータルでコーディネートするものでしょ」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「それなのに、単体で送ってこられても困るの
+line2 <shift> # よね。そういうのは、送り返しておいて」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （もったいないなあ。しかるべきお店で売れば、
+line2 <shift> # かなりの金額になると思うけど……）
+display
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「送・り・返・し・て・ね！？　ファンに失礼の
+line2 <shift> # ないように、きちんとよ。わかった！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わ、わかりましたっ！」
+display
+com11 0 0
+sound 10012
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「あと、指輪とか宝石のプレゼントも、信じ
+line2 <shift> # られないわよね！　なんで送ってくるのかしら」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そりゃあ、やっぱり……」
+com03 0 3
+choice1 <shift> # 値段が高いからじゃないか
+line2
+com09 0 30
+com08
+choice2 <shift> # 小さくてジャマにならないから
+line2
+com09 0 31
+com08
+choice3 <shift> # ファンだからだろ
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「値段が高いからじゃないか？　お金持ちの
+line2 <shift> # ファンが、目立とうとして送ってくるんだよ」
+display
+com11 0 0
+sound 10013
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「高いもの贈れば、私が喜ぶと思ってるのかしら。
+line2 <shift> # 私って、そんなうすっぺらな人間に見える？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、そんなことないよ。でも普通、誰だって、
+line2 <shift> # 安物よりは高いプレゼントの方がうれしいだろ」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「それはそうだけど。でも高ければいいってもの
+line2 <shift> # じゃないわ。もし、そう思われてるんなら……」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「私って、ファンに理解されてないのかもって、
+line2 <shift> # ちょっと心配になっちゃう時があるのよ」
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「小さくてジャマにならないからだろ？」
+display
+com11 0 0
+sound 10016
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ふーん、なるほど。そういう考え方もあるわね。
+line2 <shift> # それだったら、別にいいんだけど」
+display
+com11 0 0
+sound 10017
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「でも、高いものをプレゼントしとけば、私が
+line2 <shift> # 喜ぶって思われてるんだったら、イヤだわ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうしてだよ？　そう思われたら、
+line2 <shift> # 何かマズイことでもあるのか？」
+display
+com11 0 0
+sound 10018
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……アンタはニブくていいわね。毎日、何も考
+line2 <shift> # えずに生きられるって、心からうらやましいわ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ぐ……。全く、ほめられている気がしないんだ
+line2 <shift> # けど。なあ、何が問題なんだ？　教えてくれよ」
+display
+com11 0 0
+sound 10019
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「私は、別に高いものなんて、ほしくないの！
+line2 <shift> # でもファンは、そんなこと気にしてないみたい」
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ファンだからだろ」
+display
+com11 0 0
+sound 10020
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「アンタねー……。ファンだからって、誰にでも
+line2 <shift> # 宝石や指輪を送りつけたりは、しないでしょ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだなあ。まあ、値段がかなり高いから、
+line2 <shift> # 誰にでも送るって人は、少ないかもしれないね」
+display
+com11 0 0
+sound 10021
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「じゃあ、なんで私には送ってくるワケ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え？　そりゃ、伊織なら高いものをプレゼント
+line2 <shift> # した方が喜んでくれそうだからじゃないか？」
+display
+com11 0 0
+sound 10022
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「それが気に入らないって言ってるのよっ！
+line2 <shift> # 私は高いものなんて欲しくないのっ！！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ひいっ！　ごめんなさい！」
+display
+com11 0 0
+sound 10023
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……ったく。付き合いの長いアンタですら、
+line2 <shift> # ここまで説明しなきゃ、わからないなんて」
+display
+com11 0 0
+sound 10024
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「みんな、私の気持ちなんかどうでもよくて、
+line2 <shift> # 勝手なイメージだけで私のこと判断してるのよ」
+com09 0 49
+display
+location 49
+com11 0 0
+sound 10025
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「有名にはなったけど、本当の私を誰も知らない
+line2 <shift> # し、知ろうともしてくれてないのかもね……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （伊織……。そんなことを気にしてたのか）
+com03 0 3
+choice1 <shift> # 俺は違うぞ
+com09 0 50
+com08
+choice2 <shift> # 気にするな
+com09 0 51
+com08
+choice3 <shift> # 伊織らしくないぞ
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺は違うぞ！　まだ足りないかもしれないけど、
+line2 <shift> # 本当の伊織のこと、理解したいと思ってる」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ファンが憧れる『有名アイドル・水瀬伊織』
+line2 <shift> # じゃない、素の伊織を知りたいと思ってるよ！」
+display
+com11 0 0
+sound 10026
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「な、なによ。急に、そんな一生懸命に
+line2 <shift> # 語っちゃったりして。キモッ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「キモチ悪くても、これが本当の俺の気持ち
+line2 <shift> # だから、伊織に、わかっていてほしいんだ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「伊織には、素の俺を知ってほしいし、
+line2 <shift> # 俺も素の伊織を理解したいんだよ」
+display
+com11 0 0
+sound 10027
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そ、そう。まあ、私も、全部のファンに、素の
+line2 <shift> # 自分を見せる気なんて、さらさらないから……」
+display
+com11 0 0
+sound 10028
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「下僕第１号であるアンタが、そういうつもり
+line2 <shift> # なんだったら、それでいいような気もするわね」
+display
+com11 0 0
+sound 10029
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「いーい？　アンタだけは、常に私の気持ちが、
+line2 <shift> # わかるよう努力しなさいね！　にひひっ♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （誰にもわかってもらえないのは不安だけど、
+line2 <shift> # 全ての人に、わかってもらう必要なんてない）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （伊織の不安、うまく取り除いてやれたようだ。
+line2 <shift> # これからも、カゲから支えてやるとしよう！）
+com09 0 69
+display
+com11 0 0
+sound 10030
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「別にいいわ。プレゼントなんて
+line2 <shift> # うんざりするぐらいもらったし」
+com09 0 69
+display
+location 51
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「気にするな」
+display
+com11 0 0
+sound 10031
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「えっ……。それだけ？　こんなに悩んでる私に、
+line2 <shift> # それだけしか言うことないワケ！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。そういう細かいことを気にしだしたら、
+line2 <shift> # キリがないからな。気にしないのが一番だ」
+display
+com11 0 0
+sound 10032
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そりゃそうだけど。悩める乙女に、もっと
+line2 <shift> # 優しい言葉とかアドバイスとか、ないの？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ない！」
+display
+com11 0 0
+sound 10033
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「アンタって、意外とドライなのね。それとも、
+line2 <shift> # そんなに悩むほどのことでもないのかしら……」
+display
+com11 0 0
+sound 10034
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「まあ、いいわ。よくわからなくなっちゃった。
+line2 <shift> # じゃ、この話は、これでおしまいね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （完全には納得できていないようだが、一応、
+line2 <shift> # 伊織の悩みは解決したみたいだ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （悩んでるヒマがあったら、前に進んだ方が
+line2 <shift> # いいよな。答えは後で出るだろうから……）
+com09 0 69
+display
+location 52
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「伊織らしくないぞ、そんなことで悩むなんて」
+display
+com11 0 0
+sound 10035
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「私らしいって……、何？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ！？」
+display
+com11 0 0
+sound 10036
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ファンも事務所のスタッフもアンタも、
+line2 <shift> # どれだけ私のこと、知ってるのかしら？」
+display
+com11 0 0
+sound 10037
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「みんな、イメージだけで判断してるんじゃない
+line2 <shift> # の？　本当の私なんて、どうでもいいのよ」
+display
+com11 0 0
+sound 10038
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「時々わからなくなるわ。デビュー前、ひとり
+line2 <shift> # ぼっちだった私から、何が変わったのか……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （伊織は、めずらしく本格的に落ち込んでしまっ
+line2 <shift> # た。こんなの、本当に伊織らしくないぞ！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （アドバイスの仕方、間違えたかな……。
+line2 <shift> # その後、俺は必死で伊織をなだめた）
+com09 0 69
+display
+location 69
+unk02

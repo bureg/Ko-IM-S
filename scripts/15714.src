@@ -1,0 +1,286 @@
+com2c 0 18
+com2d 0 33
+com32 0 0
+com11 0 1
+sound 800
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「プロデューサー！　聞きましたか？
+line2 <shift> # 今日の番組の演出っ！」
+display
+com11 0 1
+sound 801
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ディレクターさんが……歌いながら、
+line2 <shift> # ＴＶ局の中、走りまわってほしいって！」
+com03 0 3
+choice1 <shift> # 危なくないか？
+line2
+com09 0 10
+com08
+choice2 <shift> # そんなの、できるのか？
+line2
+com09 0 11
+com08
+choice3 <shift> # 息、持たないんじゃ……
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「危なくないか？」
+display
+com11 0 1
+sound 802
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「んー、多分、平気ですっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも局内には、ケーブルとか、けっこう……」
+display
+com11 0 1
+sound 803
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「もう、ここは庭みたいなもんですし。そういう
+line2 <shift> # のには、引っかからないかなーって」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなの、できるのか？」
+display
+com11 0 1
+sound 804
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「んー、多分、平気ですっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも局内って、結構広いし……」
+display
+com11 0 1
+sound 805
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「大丈夫っ。もう、このＴＶ局、だいぶ詳しい
+line2 <shift> # ですし。迷ったりとかも、しないかなーって」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「息、持たないんじゃ……」
+display
+com11 0 1
+sound 806
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「え、そうですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「女の子の体力じゃ、きついよな？」
+display
+com11 0 1
+sound 807
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「んー、でも私も、相当きたえられてるし。カン
+line2 <shift> # タンじゃないですけど、できなくはないです」
+display
+com11 0 1
+sound 808
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ここまで強くなれたの、プロデューサーの
+line2 <shift> # おかげなんですけどー……忘れちゃいましたか？」
+com09 0 19
+display
+location 19
+com11 0 1
+sound 809
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あのディレクターさん……、こういうヘンな
+line2 <shift> # 演出、好きですよね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ビッグネームに限って、変わったこと、
+line2 <shift> # させたがるんだよなあ」
+display
+com11 0 1
+sound 810
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「芸能界ってー、いろんな人がいますよね」
+com03 0 2
+choice1 <shift> # だから、おもしろいのかも
+line2
+com09 0 20
+com08
+choice2 <shift> # 困った世界だよなあ
+line2
+com09 0 21
+com08
+com07
+com09 0 21
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だから、おもしろいのかも」
+display
+com11 0 1
+sound 811
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「プロデューサーもそう思いますか？　私も、
+line2 <shift> # そういう人に会うたび、楽しいなーって！」
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「困った世界だよなあ」
+display
+com11 0 1
+sound 812
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「でも、楽しいですよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、そうも言えるか」
+display
+com11 0 1
+sound 813
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「絶対に思いつかないようなこと、考え出す人
+line2 <shift> # たくさんいるし！　すごいなあって……」
+com09 0 29
+display
+location 29
+com11 0 1
+sound 814
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「じゃ、そろそろ準備しないとっ。
+line2 <shift> # マラソン、がんばってきまーすっ！」
+com03 0 3
+choice1 <shift> # うれしそうだな
+line2
+com09 0 30
+com08
+choice2 <shift> # やめさせようか？
+line2
+com4f 0 0
+com09 0 31
+com08
+choice3 <shift> # 手を抜いてもいいよ
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うれしそうだな」
+display
+com11 0 1
+sound 815
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「こういうチャレンジ、けっこう好きです
+line2 <shift> # からっ！」
+display
+com11 0 1
+sound 816
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ムチャ言ってくれるのも、幸せですよね。
+line2 <shift> # それだけ『できる』って思われてるからだし」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……成長したな」
+display
+com11 0 1
+sound 817
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「えへへ、これからも全力でいきまーす！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ほんと、どんどん強くなってる気がするな。
+line2 <shift> # この収録も、簡単に乗り切ってくれそうだ）
+com09 0 39
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やめさせようか？」
+display
+com11 0 1
+sound 818
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「え、なんでですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、ひどいと言えば、ひどい話だし」
+display
+com11 0 1
+sound 819
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「でも〜、やってみたら、おもしろいかも！」
+display
+com11 0 1
+sound 820
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ＴＶ見てる人も、きっと一生懸命、応援して
+line2 <shift> # くれますよねっ？」
+display
+com11 0 1
+sound 821
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「よーし、スタジオ一周の新記録に
+line2 <shift> # 挑戦しよーっと！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うーん、今のやよいには、いらない心配だった
+line2 <shift> # かもな。本人がいいなら、まあいいだろう）
+com09 0 39
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「手を抜いてもいいよ」
+display
+com11 0 1
+sound 822
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「え……そんなの、よくないですよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、しんどいだろ？　ダッシュしながら、
+line2 <shift> # 歌うなんて」
+display
+com11 0 1
+sound 823
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「んー、じつはどこまでできるか、うずうずして
+line2 <shift> # たりして！」
+display
+com11 0 1
+sound 824
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「こんなの、普通やらせてくれないじゃないです
+line2 <shift> # か？　最近、みんなに大事にされちゃってるし」
+display
+com11 0 1
+sound 825
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「いいですよね？　全力でやっても」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、ああ。ごめんな。変なこと、
+line2 <shift> # 言っちゃって」
+display
+com11 0 1
+sound 826
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「いえっ！　プロデューサーが心配してくれて
+line2 <shift> # るのは、わかってますから……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （やよいに『手を抜け』だなんて、どうかしてた
+line2 <shift> # な。ここは……本人に任せておこう）
+com09 0 39
+display
+location 39
+unk02

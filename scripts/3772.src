@@ -1,0 +1,465 @@
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （春香に、スペシャルドラマのオファーが来た。
+line2 <shift> # 役作りのため、徹底的に練習だ！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それじゃあ、クライマックスの告白シーン。
+line2 <shift> # 練習してみようか、春香」
+display
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「は、はいっ……。あの、でも……。
+line2 <shift> # なんだかちょっぴり、恥ずかしくて……」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「プロデューサーさん、笑わないで下さいね。
+line2 <shift> # 絶対の、絶対ですからね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わかった、指きりげんまんだ。約束する」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それじゃいくぞ。よーい、アクション！」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「『いつも、同じ電車で、ずっと見てました。
+line2 <shift> # あなたのことが、大好きですっ……！』」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はぁぁ、ど、ど、ど、どっ、どうでしたか？
+line2 <shift> # プロデューサーさん……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだな。はっきりいって……」
+com03 0 3
+choice1 <shift> # もっとうまくできるはず
+line2
+com09 0 10
+com08
+choice2 <shift> # ドキドキしたぞ
+line2
+com09 0 11
+com08
+choice3 <shift> # 大爆笑だな
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「春香なら、もっとうまくできるはずだ！」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ええっ！　プロデューサーさん……、
+line2 <shift> # どういうことですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「役の気持ちをつかむんだ。
+line2 <shift> # もっと集中して、想像してみろ！」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「は、はい……。やってみます！」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「今、私の目の前には、大好きな人がいる……。
+line2 <shift> # ずっと見てるだけだった、大切な人……」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、なんだか、胸がドキドキしてきました。
+line2 <shift> # 温かいような、切ないような……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、その調子だ。気持ちを大事にして、
+line2 <shift> # さっきのセリフを言ってみろ！」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「『ずっと、あなたのこと、見てました……』」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「『……大好き、です……！』」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……うん。ぐっと来たぞ、春香！」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ありがとうございます……。
+line2 <shift> # このセリフの気持ち、つかめた気がします！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よし、思い切ってダメ出しをしてよかった。
+line2 <shift> # 春香は、まだまだ成長の余地アリだな！）
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「はっきり言って、ドキドキしたぞ」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「えっ？　それって、ハラハラドキドキの、
+line2 <shift> # ドキドキですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えーと、まあ、そういうことかな？」
+display
+com11 0 0
+sound 10012
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「むぅ……。ということは、私の演技は見てて、
+line2 <shift> # ハラハラするってことですよね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え？　あ、それはちょっと違うような……」
+display
+com11 0 0
+sound 10013
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「なるほど。私の演技、危なっかしいのかな。
+line2 <shift> # もっともっと、練習しないと！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （実は、春香の告白にドキッとしたんだが……。
+line2 <shift> # やる気になってるから、まあいいか）
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「大爆笑だな。ムフフ……、あっはっは！」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ああっ、ひどーい、プロデューサーさん！
+line2 <shift> # 絶対に笑わないって、約束したのに！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ごめん、ごめん。だけど……
+line2 <shift> # 思い出すとおかしくって、あはははは！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「大好きですって言った時の春香の顔が、タコみ
+line2 <shift> # たいで……、あっはははは！　ひっ、ひーっ！」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「もう、プロデューサーさんのいじわる！
+line2 <shift> # そんなに笑わなくても、いいじゃないですか！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、いや、違うんだ！　春香が、
+line2 <shift> # あまりにもかわいくって、つい、その……」
+display
+com11 0 0
+sound 10016
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ふん……。もういいですよぉ。
+line2 <shift> # 私には、どうせ告白なんて、似合いませんから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しまった。春香が少し、すねてしまった。
+line2 <shift> # もう少し練習して、テンションをあげとこう）
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そういえば、この後の台本では、
+line2 <shift> # 告白相手とのデートシーンが、あるんだよな？」
+display
+com11 0 0
+sound 10017
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、はい。監督からは、好きに演じていいって、
+line2 <shift> # 言われてるんですけど……」
+display
+com11 0 0
+sound 10018
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「私、アイドルになってから、
+line2 <shift> # デートとか全然したことがなくって……」
+display
+com11 0 0
+sound 10019
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、もちろんアイドルになる前も、
+line2 <shift> # デートとか、したことないんですけど……」
+display
+com11 0 0
+sound 10020
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「うん？　でも、男の人と二人で買い物するのが
+line2 <shift> # デートなら、私、プロデューサーさんと……」
+display
+com11 0 0
+sound 10021
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「いやいやいや、何でもありません！
+line2 <shift> # ゴホン！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （全く、何をあわててるんだ、春香は？）
+display
+com11 0 0
+sound 10022
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ええと、やっぱりデートシーンは
+line2 <shift> # 練習しておいたほうが、いいでしょうか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「初めてデートする二人のシーン……。よし、
+line2 <shift> # 一緒に考えながら、演技プランを立ててみよう」
+display
+com11 0 0
+sound 10023
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい。よろしくお願いします！」
+display
+com11 0 0
+sound 10024
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「初めてデートする時って、何するのかな？
+line2 <shift> # どう思いますか、プロデューサーさん」
+com03 0 3
+choice1 <shift> # 手をつなぐとか？
+line2
+com09 0 30
+com08
+choice2 <shift> # それは言えないな
+line2
+com09 0 31
+com08
+choice3 <shift> # もちろんキスだ！
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「手をつなぐとか？」
+display
+com11 0 0
+sound 10025
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「えへへ、そうですよね。
+line2 <shift> # そういうかわいいデート、憧れちゃいます」
+display
+com11 0 0
+sound 10026
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「二人で一緒にアイスクリームを食べたり、
+line2 <shift> # 映画を見たり、ショッピングをしたり……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「その調子だ。デートのイメージをふくらませて。
+line2 <shift> # そのまま、セリフを言ってみて！」
+display
+com11 0 0
+sound 10027
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい、やってみます！」
+display
+com11 0 0
+sound 10028
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「『今日は、ありがとう。とっても楽しかった。
+line2 <shift> # また、二人で会いたいな……』」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うん。上出来だな！」
+display
+com11 0 0
+sound 10029
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「もし、プロデューサーさんと、ちゃんと
+line2 <shift> # デートしたら、どんな感じなのかな……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ、ちゃんと……？」
+display
+com11 0 0
+sound 10030
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「えへへ、なんでもないです。
+line2 <shift> # なんかどんどん想像が、ふくらんじゃって……」
+display
+com11 0 0
+sound 10031
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ！　ご、ごめんなさいっ！　本番では、
+line2 <shift> # 余計なこと考えずに、演技しますから！！」
+display
+com11 0 0
+sound 10032
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あの、なんだか上手にやれそうな気がします！
+line2 <shift> # 本番、期待していて下さいね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後、春香は言葉どおり、
+line2 <shift> # ドラマで見事な演技を見せてくれた）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （監督からの評価も高く、今後ますます、
+line2 <shift> # 映画にドラマに、ひっぱりだこになるだろう！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （イメージの中であれ、俺が役に立てたなら
+line2 <shift> # プロデューサーみょうりにつきるよな）
+com09 0 99
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それは、言えないな」
+display
+com11 0 0
+sound 10033
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「どういうことですか？　プロデューサーさん」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「春香自身のイメージを、大事にしろってことだ。
+line2 <shift> # 俺の話を聞くと、それに引っ張られる」
+display
+com11 0 0
+sound 10034
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「なるほど。そうですね！　わかりました。
+line2 <shift> # 初デートのイメージかぁ……」
+display
+com11 0 0
+sound 10035
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「う〜ん。まずケーキを食べて、クレープ食べて、
+line2 <shift> # パフェも食べたいし……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おい、待て！　食べてばっかりじゃないか」
+display
+com11 0 0
+sound 10036
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「……あれ？　そういわれれば、そうですね」
+display
+com11 0 0
+sound 10037
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「でもきっと、これが私らしいって
+line2 <shift> # ことなんだと思います！」
+display
+com11 0 0
+sound 10038
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「本番、頑張って、たくさん食べるぞーっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええっ！　大丈夫かなあ……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （結局、本番のデートシーンは、春香の
+line2 <shift> # 宣言通り、食べてばかりになってしまった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ドラマとしては、
+line2 <shift> # 切なさが少し足りなかったが……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （幸せそうな春香の笑顔が見られたから、
+line2 <shift> # ファンは喜んでくれたかもな！）
+com09 0 99
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もちろんキスだ！」
+display
+com11 0 0
+sound 10039
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「きっ、きすぅ……！？
+line2 <shift> # ダメですっ、いきなり、そんな……！」
+display
+com11 0 0
+sound 10040
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「女の子は皆、デリケートなんです！
+line2 <shift> # そんなこと言ってるからモテないんですよ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なっ……！　なんてこと言うんだ！　俺は
+line2 <shift> # モテモテだぞ！　毎日デートで忙しいんだ！」
+display
+com11 0 0
+sound 10041
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「……そうなんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「も、もちろん！　昨日も豪華ディナーで、
+line2 <shift> # ウキウキデートだったさ！」
+display
+com11 0 0
+sound 10042
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ふ〜ん……。そうですか。私は誘って
+line2 <shift> # くれないのに、他の女の人とは楽しそうに……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え？　あ、いや、その……」
+display
+com11 0 0
+sound 10043
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「私が子どもなだけなんでしょうか……。
+line2 <shift> # なんだか、よくわからなくなってきました……」
+display
+com11 0 0
+sound 10044
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「どんな風に演技すればいいのか……。
+line2 <shift> # うう、もう全然わかりません……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、おい、春香どこに行くんだ！
+line2 <shift> # デートなんて、ウソに決まってるだろ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「昨日の夜もインスタントラーメンだってば！
+line2 <shift> # おい、春香！　戻ってきてくれ〜っ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （結局、春香は本番でも混乱したままだった。
+line2 <shift> # おかげでドラマの内容は散々なものに……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （乙女心はデリケートなんだな……。
+line2 <shift> # 反省しよう）
+com09 0 99
+display
+location 99
+unk02

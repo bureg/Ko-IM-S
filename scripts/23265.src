@@ -1,0 +1,277 @@
+com2c 0 143
+com2d 0 51
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （きれいな造木と電飾とで、秋の夕暮れの並木道
+line2 <shift> # をイメージした、アトリウムにやってきた）
+display
+com11 0 0
+sound 200
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「建物の中なのに、きれいな並木なんですね。
+line2 <shift> # 飾りつけも、雰囲気あって……」
+display
+com11 0 0
+sound 201
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「まるで、本物の並木道に、
+line2 <shift> # 立っているみたいです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうですね……」
+com03 0 2
+choice1 <shift> # 素晴らしいですね
+line2
+com09 0 10
+com08
+choice2 <shift> # 噂ほどでは
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「素晴らしいですね。
+line2 <shift> # 外国の有名な、マロニエ通りにも劣らないかも」
+display
+com11 0 0
+sound 202
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ふふっ。ほめすぎじゃないですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうかな。
+line2 <shift> # でも、いい雰囲気だと思いますよ、ここも」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、噂ほどでは、なかったかなぁ……」
+display
+com11 0 0
+sound 203
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「プロデューサーさん、あまり、
+line2 <shift> # 気に入らなかったですか？」
+display
+com11 0 0
+sound 204
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「評判のいいスポットだし、私は結構、
+line2 <shift> # 悪くない雰囲気かな、って思いますけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、悪くない感じだとは、俺も思います。
+line2 <shift> # ただ、派手な宣伝と比べると、実物は……」
+display
+com11 0 0
+sound 205
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「実物は、おとなしい感じ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなとこですね。でも、せっかく来たし、
+line2 <shift> # もうちょっと、見て行きましょうか？」
+display
+com11 0 0
+sound 206
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「はい、そうしましょう」
+com09 0 19
+display
+location 19
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しばらく、人工の並木道を歩いて巡った……）
+display
+com11 0 0
+sound 207
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「それにしても、プロデューサーさん、本当は、
+line2 <shift> # 誰かと一緒に、来たかったんじゃないですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え？　誰かって？」
+display
+com11 0 0
+sound 208
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「その……、こういう雰囲気のある場所ですから。
+line2 <shift> # 誰か、素敵な人と」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ははは。だといいんですけど……。
+line2 <shift> # あずささんこそ、そう思わないんですか？」
+display
+com11 0 0
+sound 209
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「えっ？　あ……、はい。そうですね」
+display
+com11 0 0
+sound 210
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「私も、素敵な人と一緒に、
+line2 <shift> # ゆっくり、歩いてみたいです」
+com03 0 3
+choice1 <shift> # ひとまず今は俺と……
+line2
+com09 0 20
+com08
+choice2 <shift> # 応援しますよ
+line2
+com09 0 21
+com08
+choice3 <shift> # 素敵な人ってどんな人
+line2
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ひとまず今は俺と……。いや、俺でよければ」
+display
+com11 0 0
+sound 211
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ええっ！？　それって……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「素敵な人が見つかるまでの、練習台です。
+line2 <shift> # しばし、お付き合い、いたしましょう」
+display
+com11 0 0
+sound 212
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あっ、なるほど……。
+line2 <shift> # ふふふっ、わかりました」
+display
+com11 0 0
+sound 213
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「それじゃ、その……、
+line2 <shift> # 私と腕、組んでいただけますか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もちろん！　お安い御用ですよ」
+display
+com11 0 0
+sound 214
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「さぁ、向こうの大きなツリーを、
+line2 <shift> # 見に行きましょうか。一緒に。ね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よし、オフタイムを、ゆっくり満喫して、
+line2 <shift> # あずささんはうまく気分転換ができたようだぞ）
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「応援しますよ。あずささんならいつか、
+line2 <shift> # きっと、素敵な人に巡りあえますよ！」
+display
+com11 0 0
+sound 215
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「そ、そうですか？
+line2 <shift> # ふふっ、ありがとうございます」
+display
+com11 0 0
+sound 216
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「今は仕事のこともありますし、なかなか、
+line2 <shift> # 考えにくいですけど……」
+display
+com11 0 0
+sound 217
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「プロデューサーさんに、そう言ってもらえると、
+line2 <shift> # なんだか、心強いですね」
+display
+com11 0 0
+sound 218
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「そうだ、まだ時間ありますか？
+line2 <shift> # よければ、もう少し、歩きませんか？」
+display
+com11 0 0
+sound 219
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「一緒に、ゆっくり、歩いて……、
+line2 <shift> # みたいんです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わかりました。じゃ、もう少しだけ。
+line2 <shift> # 俺でよければ、エスコートしますよ」
+display
+com11 0 0
+sound 220
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「はい、お願いします。プロデューサーさん」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （このオフタイムの散策で、あずささんは、軽く
+line2 <shift> # 気分転換が、できたみたいだ。よかったな……）
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「素敵な人、かぁ。具体的には、どんな人？」
+display
+com11 0 0
+sound 221
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「えっ？　ど、どんなって……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「具体的なイメージ、
+line2 <shift> # あるんじゃないんですか？」
+display
+com11 0 0
+sound 222
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「うーん。どう言ったら、いいんでしょう。
+line2 <shift> # いざ、聞かれると……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あずささん、理想が高いかもしれないな」
+display
+com11 0 0
+sound 223
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「そ、そんなことないですよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃあ、どんな感じ？」
+display
+com11 0 0
+sound 224
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ええと、そうですね。
+line2 <shift> # たとえば、芸能人の方に、たとえると……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「芸能人！　もし、その人に会ったら、
+line2 <shift> # 俺、伝えちゃおうかな」
+display
+com11 0 0
+sound 225
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ええっ！　や、やめてくださいよぉ。
+line2 <shift> # そんな、困ります。たとえ話なのに」
+display
+com11 0 0
+sound 226
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「やっぱり、こういう話題をプロデューサーさん
+line2 <shift> # にお話しするのは、もう、やめようかしら……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああっと、冗談なのに！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あずささんを、困らせすぎてしまったようだ。
+line2 <shift> # この後はしばらく口をきいてくれなかった……）
+com09 0 29
+display
+location 29
+unk02

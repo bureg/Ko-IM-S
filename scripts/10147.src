@@ -1,0 +1,293 @@
+com2c 0 24
+com2d 0 21
+com32 0 0
+com11 0 2
+sound 600
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ただいまー。プロデューサー、
+line2 <shift> # 取材終わったー」
+display
+com11 0 2
+sound 601
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ふぅ〜、だけど雑誌の記者って、なんであんな
+line2 <shift> # 答えにくい質問ばっかり、するのかしら？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なに、聞かれたんだ？」
+display
+com11 0 2
+sound 602
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「『将来、どういう人になりたいか？』とか。
+line2 <shift> # そんなの、考えてるわけないじゃなーい」
+display
+com11 0 2
+sound 603
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ねえ、もしあんたが記者だったら、私に
+line2 <shift> # どんな質問する？」
+com03 0 3
+choice1 <shift> # 人気の秘密は、なんですか？
+line2
+com09 0 10
+com08
+choice2 <shift> # 歌とダンス、どっちが好きですか？
+line2
+com09 0 11
+com08
+choice3 <shift> # なぜ、性格ゆがんでるんですか？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「人気の秘密は、なんですか？」
+display
+com11 0 2
+sound 604
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「やっだー。そんなの、かわいいからに
+line2 <shift> # 決まってるでしょー」
+display
+com11 0 2
+sound 605
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そう！　そういう、答えやすいやつにして
+line2 <shift> # ほしいわよね」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「歌とダンス、どっちが好きですか？」
+display
+com11 0 2
+sound 606
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そう！　そういう質問だわっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……気にいってくれた？」
+display
+com11 0 2
+sound 607
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「逆よ、逆！　記者も同じようなこと聞くの。
+line2 <shift> # あんたもインタビュアーの才能、ないみたいね」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なぜ、性格ゆがんでるんですか？」
+display
+com11 0 2
+sound 608
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……なんですってー。私のどこがゆがんでる
+line2 <shift> # のよー。どこまでもストレートじゃない！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、ある意味、そうか……」
+display
+com11 0 2
+sound 609
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「フンだ、イジワル〜。そんな質問するあんたの
+line2 <shift> # 方が、よっぽどネジ曲がってるんだから……」
+com09 0 29
+display
+location 29
+com11 0 2
+sound 610
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あと、他に聞かれたのはー、趣味とか、
+line2 <shift> # そういう工夫のないやつばっかりね」
+display
+com11 0 2
+sound 611
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「答えたくないから、盆栽と茶道ですーって、
+line2 <shift> # 大ウソ言っちゃったわ」
+com03 0 3
+choice1 <shift> # で、本当の趣味は？
+line2
+com09 0 30
+com08
+choice2 <shift> # 隠すなんて、ケチだなあ
+line2
+com09 0 31
+com08
+choice3 <shift> # そんな趣味が、あったのか……
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「で、本当の趣味は？」
+display
+com11 0 2
+sound 612
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「旅行よ。あんたには話したかもしれないけど」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なんだ。その内容なら、記者に言っても
+line2 <shift> # 問題ないんじゃ……」
+display
+com11 0 2
+sound 613
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「中身じゃなくて、気分の問題♪　私は近い人に
+line2 <shift> # しか、こういうこと話したくないのっ」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「隠すなんて、ケチだなあ」
+display
+com11 0 2
+sound 614
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「いーのよっ。アイドルは、ちょっと
+line2 <shift> # ミステリアスな方が、魅力的なんだからっ」
+display
+com11 0 2
+sound 615
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「それにあの人達、しゃべればしゃべるほど、
+line2 <shift> # ドンドン遠慮しなくなるし……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか。そういうガードも、そろそろ必要な
+line2 <shift> # 頃かな」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんな趣味が、あったのか……」
+display
+com11 0 2
+sound 616
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「…………そーよ。他にも、ゲートボールとか、
+line2 <shift> # イモ堀りとか、イチゴ狩りとか」
+display
+com11 0 2
+sound 617
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「それから、プロデューサーいじめも、趣味。
+line2 <shift> # ……これでいいでしょ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……ウソだよな？」
+display
+com11 0 2
+sound 618
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「さあ、どうかしらねー。ふふッ」
+com09 0 49
+display
+location 49
+com11 0 2
+sound 619
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あ、そうそう！　喫茶店でジュース飲むって
+line2 <shift> # いう、今すぐできる、大切な趣味もあったわ！」
+display
+com11 0 2
+sound 620
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「話し相手がいれば、なおベストなんだけどー。
+line2 <shift> # プロデューサー、誰かヒマな人、知らなーい？」
+com03 0 3
+choice1 <shift> # 俺じゃ、ダメだよな……
+line2
+com09 0 50
+com08
+choice2 <shift> # ……わかった、つきあうよ
+line2
+com09 0 51
+com08
+choice3 <shift> # ヒマな人か……
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺じゃ、ダメだよな……」
+display
+com11 0 2
+sound 621
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ふふっ、あんたでもいいわ！　ぜいたくは
+line2 <shift> # 敵だって言うしっ。じゃ、いきましょっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （すっかり上機嫌だ。まあ、こういう言い方の
+line2 <shift> # 方が、伊織はよろこぶよな）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……わかった、つきあうよ」
+display
+com11 0 2
+sound 622
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なによ……その不服そうな顔。私は別に
+line2 <shift> # あんたじゃなくたって、いいんだからねっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ、やめとくか」
+display
+com11 0 2
+sound 623
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ふざけるんじゃないわよー！　一度言ったら、
+line2 <shift> # キャンセルはなし！　ほらっ、行くわよ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （もうすこし気持ちよく、つき合ってやった方が
+line2 <shift> # よかったかな？　……ま、いいか）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ヒマな人か……、心当たりないなあ。
+line2 <shift> # 伊織、１人で行ってきたら？」
+display
+com11 0 2
+sound 624
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「むっか〜！　どうしてあんたは、そういうこと
+line2 <shift> # 言うわけーっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え、だって……たまには１人になるのも
+line2 <shift> # いいだろ？」
+display
+com11 0 2
+sound 625
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「フンっ、そうねー！　じゃ、ジュース飲みに
+line2 <shift> # いったまま、３週間ぐらい、帰ってこないわっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （なに怒ってるんだ？　……まあ、すぐに帰って
+line2 <shift> # くるだろうから、心配はないと思うけど）
+com09 0 69
+display
+location 69
+unk02

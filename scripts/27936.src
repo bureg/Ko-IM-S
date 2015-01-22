@@ -1,0 +1,377 @@
+com2c 0 24
+com2d 0 41
+com32 0 0
+com11 0 0
+sound 10000
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサー、雑誌取材、終わりました。
+line2 <shift> # ……では、汗、流してきます」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おい、ちょっと待てよ。ごきげんナナメだな。
+line2 <shift> # 取材、どうだったんだ？」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「最低でした。音楽の基礎用語も知らない
+line2 <shift> # インタビュアーで、会話にならなくて……」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「『フェルマータって、なに？』ですって。
+line2 <shift> # あれで、よく記者が、つとまるなって……」
+com03 0 3
+choice1 <shift> # 音をのばす、だっけ？
+line2
+com09 0 10
+com08
+choice2 <shift> # 音を強調する、だっけ？
+line2
+com09 0 11
+com08
+choice3 <shift> # 音を区切る、だっけ？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「音をのばす、だっけ？」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そうです。小学生でもわかることなのに、
+line2 <shift> # それすら、知らないんです」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「音を強調する、だっけ？」
+com09 0 91
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「音を区切る、だっけ？」
+com09 0 91
+display
+location 91
+com11 0 0
+sound 10004
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「え？　フェルマータは、音をのばす、です。
+line2 <shift> # ……まさか、プロデューサーも？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あああ、そうだったな……。
+line2 <shift> # ごめん。聞きマチガイしたようだ」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ですよね。プロデューサーが、
+line2 <shift> # これくらい知らないはず、ないですから」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もしかして千早は、そういう記号、全部、
+line2 <shift> # おぼえてるのか？　だとしたら、すごいな……」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「当然の義務だと思います。記号を知らなければ、
+line2 <shift> # 譜面の裏にある作曲家の考えは、読めませんし」
+com03 0 2
+choice1 <shift> # きっと、千早はトクベツなんだよ
+line2
+com09 0 30
+com08
+choice2 <shift> # きっと、千早はカタブツなんだよ
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「きっと、千早はトクベツなんだよ。そういうの
+line2 <shift> # 知らないアイドルとか、たくさんいるよ？」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そうなんですか？　……不勉強ですね。
+line2 <shift> # それじゃ、プロとして失格だと思います」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「きっと、千早はカタブツなんだよ。それぐらい
+line2 <shift> # 知らなくたって、ポップスなら問題ないだろ？」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ジャンルは関係ありません。譜面記号は、
+line2 <shift> # 歌い手と作曲家をつなぐ、パイプなんです」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「感性だけで通じるほど、歌は甘くない……。
+line2 <shift> # これは、ポップスだって同じです」
+com09 0 49
+display
+location 49
+com11 0 0
+sound 10010
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……さっきの記者、反省するどころか、
+line2 <shift> # 捨てゼリフまで残して、帰っていきました」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「『知識はあっても、おまえみたいに華のない
+line2 <shift> # アイドルは、ＴＶじゃ成功しない』って……」
+display
+com11 0 0
+sound 10012
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「私……、アイドルとしての華、ないですか？
+line2 <shift> # ……すこし、気になってしまって」
+display
+com11 0 0
+sound 10013
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「だいたい、華ってなんです？
+line2 <shift> # 私の価値って、どこで判断されるんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなの……、
+line2 <shift> # ここに、決まってるじゃないか」
+com0e 1 150
+com44
+com09 0 50
+com45
+com44
+com09 0 51
+com45
+com44
+com09 0 52
+com45
+com44
+com09 0 53
+com45
+com44
+com09 0 54
+com45
+com44
+com09 0 55
+com45
+com44
+com09 0 56
+com45
+display
+location 50
+com11 0 0
+sound 10014
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「口……、やっぱり歌ですよね」
+com09 0 59
+display
+location 51
+com11 0 0
+sound 10018
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「顔なんかで、判断……。
+line2 <shift> # そんなの、まちがってます。私は歌手……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「けど、そこも重要な要素だよ。芸能界では、
+line2 <shift> # 美しくて表情が明るい人は、やっぱり有利だ」
+display
+com11 0 0
+sound 10019
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「理屈は、わかります。
+line2 <shift> # 頭では、理解できて……」
+display
+com11 0 0
+sound 10020
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「けど、納得はいきません。私は、そんな華、
+line2 <shift> # 認めません。認めたら、終わりですから……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （フクザツな表情で、くちびるをかんでいる。
+line2 <shift> # つらそうだけど、現実を教えるのも仕事だよな）
+com09 0 69
+display
+location 52
+com11 0 0
+sound 10021
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ノド……、やっぱり歌ですよね」
+com09 0 59
+display
+location 53
+com11 0 0
+sound 10015
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「鼻？　なんで、そんなところで、判断……。
+line2 <shift> # …………あっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「気づいたみたいだな。そう、鼻こそ、華だ！」
+display
+com11 0 0
+sound 10016
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……プロデューサー、
+line2 <shift> # 私、帰ってもいいでしょうか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う、千早。これぐらいの冗談で、
+line2 <shift> # なにも怒ることは……」
+display
+com11 0 0
+sound 10017
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「頭痛がするんです。しばらく横になって、
+line2 <shift> # いろいろ考えてみようと……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （無表情ながら、こめかみをピクピクさせている。
+line2 <shift> # シャレにならない事態に、なってしまった……）
+com09 0 69
+display
+location 54
+com11 0 4
+sound 536
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「どうして、そんなところで判断されるんです？
+line2 <shift> # ……まじめに答えてますか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなところ？
+line2 <shift> # ……アイドルの華は、心に宿るだろ？」
+display
+com11 0 4
+sound 533
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「えっ、心ですか！？　わ、私……、すみません。
+line2 <shift> # とんでもないカン違いを……！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「カン違い……？
+line2 <shift> # いったい、どことカン違いしたっていうんだ？」
+display
+com11 0 4
+sound 534
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「いえ、忘れて下さい。せっかくプロデューサー
+line2 <shift> # が、有益な助言をくれようとしていたのに……」
+display
+com11 0 4
+sound 535
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「胸の大きさが、などと考えてしまったのは、
+line2 <shift> # 私が歌い手として、まだ未熟だという証拠です」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ずいぶんと落ち込んでしまった。もっと
+line2 <shift> # 別のところを指摘してやればよかったか）
+com09 0 69
+display
+location 55
+com11 0 4
+sound 536
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「どうして、そんなところで判断されるんです？
+line2 <shift> # ……まじめに答えてますか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ち、ちがうかな。まあ、これはあくまで、
+line2 <shift> # 俺の考え方なんだけど……」
+display
+com11 0 0
+sound 10027
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はあ……。結局、判断の基準なんて、
+line2 <shift> # 人それぞれなんですね。なんの参考にも……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「十人十色って、言うしな。
+line2 <shift> # ごめん、役立たずで」
+display
+com11 0 0
+sound 10028
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「いえ、いいです。ただ、すこし不安になって
+line2 <shift> # きました。私の考えが、この世界で通じるのか」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （瞳をくもらせている。俺の、あやふやな指摘が、
+line2 <shift> # 不安を増大させてしまったようだ）
+com09 0 69
+display
+location 56
+com11 0 0
+sound 10029
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサー、どうしたんです？
+line2 <shift> # ここで決まるって、いったい……、どこ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、よく考えると、いろいろだな。
+line2 <shift> # 華なんてそれぞれだし、判断基準だって……」
+display
+com11 0 0
+sound 10030
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「芸能界って、よくわからないところですね。
+line2 <shift> # でも、歌がうまいことが、最優先では？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「重要だけど、最優先かどうかは……。事実、
+line2 <shift> # 歌唱力バツグンでも、消えてしまう人もいるし」
+display
+com11 0 0
+sound 10031
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「なにひとつ、わからずでは、私、どうしよう
+line2 <shift> # も……。手さぐりで歩くのは、つらいです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （表情は、暗くなるばかり……。たとえ
+line2 <shift> # 一例でも、なにかは示してあげたかったな）
+com09 0 69
+display
+location 59
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わかりきってることじゃないか。メディアは
+line2 <shift> # なんであれ、歌で認めさせることが第一だろ？」
+display
+com11 0 4
+sound 537
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そうですね。ふと、疑問に思ってしまって……。
+line2 <shift> # ありがとうございます。ぶれずに、進みます」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （見た目だけが、華じゃない。千早には、
+line2 <shift> # 歌という花を、大きく開花させてほしい）
+com09 0 69
+display
+location 69
+unk02

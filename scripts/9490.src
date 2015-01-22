@@ -1,0 +1,440 @@
+com2c 0 189
+com2d 0 21
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （伊織が、どうしても来たいというので、
+line2 <shift> # お忍びで、とあるレストランにやってきた）
+display
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「このお店はね、前に、パパが教えてくれたの。
+line2 <shift> # 静かに食事を楽しむなら、ここがいいって」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんだか、すごい高級で
+line2 <shift> # 重厚な雰囲気だな……」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「あら、いっつもエラそうにしてるアンタでも、
+line2 <shift> # 緊張することあるのね。かーわいい！」
+com03 0 3
+choice1 <shift> # 伊織の方がかわいいよ
+line2
+com09 0 10
+com08
+choice2 <shift> # 正直、居心地悪いよ
+line2
+com09 0 11
+com08
+choice3 <shift> # きっ、緊張なんてしてないよ！
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや〜、そうは言っても、やっぱり
+line2 <shift> # 伊織の方が、かわいいよ」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そんなの当然じゃない。私よりかわいい人間
+line2 <shift> # なんて、世界中探してもいないわ。にひひっ♪」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「でも、ま、アンタもプロデューサーの中じゃ、
+line2 <shift> # かわいい方よ。さすが私のプロデューサーね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あはは……。ありがとう……」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「正直、居心地悪いよ。他のお客や店の人に笑わ
+line2 <shift> # れないか心配で、食事どころじゃないかも……」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「情けないこと言わないでよ！　ま、こういう
+line2 <shift> # とこ、生まれて初めて来たんでしょうけど」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「他のお客さんも、それぞれ食事を楽しんでるの。
+line2 <shift> # 私達のことなんて、気にしてないから大丈夫よ」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「きっ、緊張なんかしてないよ！」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ちょっと、大声出さないでよ！！　……あっ。
+line2 <shift> # つられて私まで大声出しちゃったじゃない」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「み、みなさん、なんでもありませんから〜。
+line2 <shift> # 失礼しました。オホホホホ……」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「アンタのせいで、恥かいちゃったわ。
+line2 <shift> # もうっ、ほんっとダメダメなんだからっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「す、すまん」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それにしても……、お店もだけど、
+line2 <shift> # お客さん達も、ただ者じゃない感じだな」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「政界財界の大物も、よく使うお店らしいから、
+line2 <shift> # そのせいじゃない？　ま、大したことないわよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「政界財界の大物！？
+line2 <shift> # そ、それは、大したことあるんじゃないか？」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「でも、私達だって、トップアイドルと、その
+line2 <shift> # プロデューサーなんだから、引けはとらないわ」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ドーンと構えてればいいのよ。にひひっ♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わ、わかった。できるだけ落ち着いて
+line2 <shift> # ふるまうようにするよ」
+display
+com11 0 0
+sound 10012
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「あ、それとね、パパに言われたんだけど、
+line2 <shift> # このお店の場所は、秘密なんですって」
+display
+com11 0 0
+sound 10013
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「紹介のない一般客は、断ってるそうよ。だから
+line2 <shift> # アンタも、誰にも言わないでちょうだいね」
+com03 0 3
+choice1 <shift> # 俺も一般客だけど……
+line2
+com09 0 30
+com08
+choice2 <shift> # もったいつけてるな
+line2
+com09 0 31
+com08
+choice3 <shift> # なんかセレブっぽいな
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺も一般客だけど……。
+line2 <shift> # 俺なんかが来て、よかったのか？」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「いいに決まってるじゃない。私の紹介があるん
+line2 <shift> # だし、これから何度も一緒に来るんだから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ、何度も一緒に……？」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「えーと、だから、その……、
+line2 <shift> # 私一人で食事しても、味気ないでしょ！」
+display
+com11 0 0
+sound 10016
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「アンタでも、いないよりはマシなの。
+line2 <shift> # だからこれからも、つきあいなさいよね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （要は、また一緒に来たいってことか。素直じゃ
+line2 <shift> # ない言い方だなあ。でも、うれしいけどな！）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんか、もったいつけてるな。ちょっと
+line2 <shift> # カンジ悪いというか、なんというか……」
+display
+com11 0 0
+sound 10017
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ま、普通、そう思うわよね。私も最初は、
+line2 <shift> # 気取っててカンジ悪いって、思ったわ」
+display
+com11 0 0
+sound 10018
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「けど、お店に来てわかったの。私達お客のため
+line2 <shift> # に、お店側が、そうしてくれてるんだなって」
+display
+com11 0 0
+sound 10019
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「有名な政治家やアイドルでも、このお店なら、
+line2 <shift> # わりと静かに食事を楽しめるもの」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「確かに、誰でも来られる店だと、伊織なんか、
+line2 <shift> # ファンに囲まれて大騒ぎになるよな」
+display
+com11 0 0
+sound 10020
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ええ。このお店も、絶対安全とは言えないけど、
+line2 <shift> # 大騒ぎになったことは、一度もないのよね」
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんか、セレブっぽいな。あはは！」
+display
+com11 0 0
+sound 10021
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「はあーあ……。その発言は、
+line2 <shift> # ぜんっぜんセレブっぽくないわね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「し、仕方ないだろ。俺は庶民なんだから。
+line2 <shift> # カッコつけたセレブっぽいことは言えないよ」
+display
+com11 0 0
+sound 10022
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「カッコつける必要はないけど、くれぐれも、雰
+line2 <shift> # 囲気は壊さないように気をつけてちょうだいよ」
+com09 0 49
+display
+location 49
+com11 0 0
+sound 10023
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「……ん？　なんだか向こうの席が、少し騒がし
+line2 <shift> # いわね。このお店にしては、めずらしいわ」
+display
+com11 0 0
+sound 10024
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「く……。なんか、こっちの席を、チラチラ見て
+line2 <shift> # るみたい。驚いた顔してるわ。失礼な客ねー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「伊織がいることに驚いてるのかな？　でも有名
+line2 <shift> # 人御用達の店なら、お客もいちいち驚かないか」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ま、まさか、『アイドルの水瀬伊織が
+line2 <shift> # 男と密会してる！』って思われたとか！？」
+display
+com11 0 0
+sound 10025
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ええっ、アンタが私の恋人だと思われてるって
+line2 <shift> # こと！？　ず、ずうずうしいのよ、アンタは！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「別に俺が仕向けたんじゃないって！　……しか
+line2 <shift> # し、本当にそうだとしたら、ちょっとマズイぞ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「誤解とはいえ、写真でも隠し撮りされて、
+line2 <shift> # 週刊誌に売られたりしたら……」
+display
+com11 0 0
+sound 10026
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「まさか、そこまではしないでしょ。
+line2 <shift> # きっと、ただのファンよ。気にすることないわ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「けど……」
+display
+com11 0 0
+sound 10027
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「いいから！　せっかく来たんだもの。
+line2 <shift> # ゆっくり、お食事を楽しみましょう。ね？」
+com03 0 3
+choice1 <shift> # それもそうだな
+line2
+com09 0 50
+com08
+choice2 <shift> # 注意してくるよ
+line2
+com09 0 51
+com08
+choice3 <shift> # すぐに店を出よう
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それもそうだな。本当に誤解されたのかどうか、
+line2 <shift> # 確かめる方法なんて、ないんだし」
+display
+com11 0 0
+sound 10028
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「そうそう！　というわけで、プロデューサー、
+line2 <shift> # メインはお肉とお魚、どっちにする？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「伊織に任せるよ」
+display
+com11 0 0
+sound 10029
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「それじゃ、ここはヘルシーに、お魚ね。
+line2 <shift> # デザートは……」
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 10030
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「ふぅ〜、ごちそうさま。おいしかったわね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ！　デザートも、うまかったし、
+line2 <shift> # 大満足だな！　それじゃ、そろそろ出ようか」
+display
+com11 0 0
+sound 10031
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「あ、待って！　さっきの騒いでたお客がカメラ
+line2 <shift> # を持って、こっちにくるわ。どうしよう！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「顔を隠すんだ、伊織！
+line2 <shift> # うう、もう間に合わないかっ！？」
+display
+com11 0 0
+sound 10032
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「こ、この人はプロデューサーで……、え？　知
+line2 <shift> # ってる？　それより一緒に写真を撮ってくれ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ファンの方だったんですか。
+line2 <shift> # じゃあ俺、シャッター押しますよ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （伊織の言った通り、相手は熱狂的な伊織の
+line2 <shift> # ファンだった。心配して損した……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （でも、伊織も俺もおいしいものを満喫できて、
+line2 <shift> # 大満足のお忍びだったな。また行こう！）
+com09 0 99
+display
+location 51
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「注意してくるよ。伊織の言う通り、ただのファ
+line2 <shift> # ンだとしても、店で騒ぐのはマナー違反だし」
+display
+com11 0 0
+sound 10033
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「止めてったら！　騒ぎになったりしたら、
+line2 <shift> # それこそ写真週刊誌に載っちゃうでしょー！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、それもそうか」
+display
+com11 0 0
+sound 10034
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「はぁ……。こういうことには、アンタの方が
+line2 <shift> # 気を使ってほしいわね。それが仕事でしょ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ごもっとも……。その後、俺達は食事したが、
+line2 <shift> # 伊織は微妙に不機嫌だった。失敗したかな……）
+com09 0 99
+display
+location 52
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「すぐに店を出よう。万が一にでもスキャンダル
+line2 <shift> # は困るよ。伊織は今が大切な時期なんだから！」
+display
+com11 0 0
+sound 10035
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「せっかく来たのに、何も食べずに帰る
+line2 <shift> # つもり！？　冗談でしょ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、俺は本気だよ。お腹がすいてるなら、
+line2 <shift> # 事務所の近くのコンビニで何か買ってやるから」
+display
+com11 0 0
+sound 10036
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「こ、コンビニ！？　優雅にお食事したいから、
+line2 <shift> # ここへ来たのに、なんでそうなるのよっ！」
+display
+com11 0 0
+sound 10037
+name 0 0 <names:2>  # Iori
+line1 <shift> # 「みじめな思いするぐらいなら、スキャンダルの
+line2 <shift> # 方がマシだわ。プロデューサーのバカーッ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あっ、伊織！？　どこ行くんだよーっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （怒って店を飛び出した伊織を、俺は必死で
+line2 <shift> # 追いかけ、謝りまくって許してもらった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （結局、食事もできなかったし。
+line2 <shift> # せっかくのお忍びが台無しになってしまったな）
+com09 0 99
+display
+location 99
+unk02

@@ -1,0 +1,279 @@
+com2c 0 40
+com2d 0 41
+com32 0 0
+com11 0 2
+sound 900
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサー、ひどいです。
+line2 <shift> # 今回のミュージック・クリップのプラン」
+display
+com11 0 2
+sound 901
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「実験的な映像を取り入れるのは、いいです。
+line2 <shift> # けど、いくらなんでも、これはやりすぎ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「制作側が、どうしても、やってみたいんだって。
+line2 <shift> # 賭ける価値はあるって」
+display
+com11 0 2
+sound 902
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサーは、それで、よろこんで
+line2 <shift> # 承諾したんですね？」
+com03 0 3
+choice1 <shift> # 今後の事を考えてね
+line2
+com09 0 10
+com08
+choice2 <shift> # 千早の未来のためにね
+line2
+com09 0 11
+com08
+choice3 <shift> # 業界の未来のためにね
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「今後の事を考えてね。
+line2 <shift> # 成功すれば、話題作になる」
+com09 0 91
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「千早の未来のためにね。
+line2 <shift> # 成功すれば、トップがグッと近づく」
+display
+location 91
+location 91
+com11 0 2
+sound 903
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「いろいろ考えてくれているのは、素直に
+line2 <shift> # 感謝します。けど……」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「業界の未来のためにね。
+line2 <shift> # 挑戦しなければ、新しい芽は出てこない」
+display
+com11 0 2
+sound 904
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「私はかまいません。でも、それはファンを
+line2 <shift> # 踏み台にすることには、なりませんか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う……。新しいものを見たいと願うのは、
+line2 <shift> # ファンだって、いっしょだろ？」
+display
+com11 0 2
+sound 905
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「一部には、そういう人もいるかもしれません。
+line2 <shift> # うまくいけば、よろこばれます。けど……」
+com09 0 29
+display
+location 29
+com11 0 2
+sound 906
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「もし、失敗したら、どうなるんです？
+line2 <shift> # きっと、見るに耐えないものに……」
+display
+com11 0 2
+sound 907
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ＤＶＤやビデオ買った人、怒りませんか？
+line2 <shift> # その責任を負うのは、私ですよね？」
+com03 0 3
+choice1 <shift> # いや、俺の責任だ
+line2
+com09 0 30
+com08
+choice2 <shift> # 悪いけど、受け入れてくれ
+line2
+com09 0 31
+com08
+choice3 <shift> # いや、制作側の責任だ
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、俺の責任だ。千早にホコ先を
+line2 <shift> # 向けさせはしないよ」
+display
+com11 0 2
+sound 908
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……心強い言葉です。でも、私だって、プロ
+line2 <shift> # デューサーを非難にさらしたくはありません」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「悪いけど、受け入れてくれ。
+line2 <shift> # 矢面に立つのは、アイドルの宿命だから」
+display
+com11 0 2
+sound 909
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「勝手、なんですね。でも、正しいとも
+line2 <shift> # 思います。結局は、私が……」
+display
+com11 0 2
+sound 910
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あらゆる面で、助けてもらおうなんて、望んで
+line2 <shift> # ません。ただ、立場を理解してほしいんです」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、制作側の責任だ。千早が、責任を
+line2 <shift> # 感じる必要はないよ」
+display
+com11 0 2
+sound 911
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「知らないフリなんて、できません。私の
+line2 <shift> # クリップであることに、変わりはないんです」
+display
+com11 0 2
+sound 912
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「それに、見る人は立場なんて、考えて
+line2 <shift> # くれません。私を恨むに決まってます」
+com09 0 49
+display
+location 49
+com11 0 2
+sound 913
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「変更は……しないんですね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ」
+display
+com11 0 2
+sound 914
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「どうしても、変えてほしいって、言っても
+line2 <shift> # ですか？」
+display
+com11 0 2
+sound 915
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「今の予算組みなら、保険として、もうひとつ
+line2 <shift> # プランを立てることだって、できますよね？」
+display
+com11 0 2
+sound 916
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「私、体力的になら、いくらだってもちます。
+line2 <shift> # 考えてくれる気、ないですか？」
+com03 0 3
+choice1 <shift> # ない
+com09 0 50
+com08
+choice2 <shift> # 他のスタッフは、持たないかも
+line2
+com09 0 51
+com08
+choice3 <shift> # ……わかった、考えてみる
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ない。そんなことをしたら、かえって
+line2 <shift> # 中途半端になる」
+display
+com11 0 2
+sound 917
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ふぅー、本気で、やろうとしてるんですね。
+line2 <shift> # わかりました。なら、死力を尽くします」
+display
+com11 0 2
+sound 918
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「決意は、ムダにしたくありませんから。
+line2 <shift> # 最高の素材に、成りきってみせます！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （千早、俺の覚悟を知りたかったのかな？
+line2 <shift> # 気持ちよく割り切って、前向きになってくれた）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「他のスタッフは、持たないかも」
+display
+com11 0 2
+sound 919
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「もし、私が説得して、がんばるということ
+line2 <shift> # だったら、考えてみてくれますか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う……。まあ、だったら、すこしは……」
+display
+com11 0 2
+sound 920
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はぁ…。結局、その程度の気持ちで、こんな
+line2 <shift> # 実験に踏み切ったんですね……」
+com09 0 92
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……わかった、考えてみる」
+display
+com11 0 2
+sound 921
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はぁ、私になにか言われて、引っ込める
+line2 <shift> # 程度の気持ちだったんですね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え、あ、いや、それは……だな。
+line2 <shift> # でも、保険はあるに越したことはないだろ？」
+display
+com11 0 2
+sound 922
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そうは思いません。本気でガケを越えようと
+line2 <shift> # 思うなら、命綱なんて、ジャマですから」
+com09 0 92
+display
+location 92
+com11 0 2
+sound 923
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「関わっている全員が、やりとげる覚悟じゃない
+line2 <shift> # と……このクリップ、失敗すると思います」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （瞳が、俺を責めている。千早は、決意を試した
+line2 <shift> # のか？　弱気になるんじゃなかったな）
+com09 0 69
+display
+location 69
+unk02

@@ -1,0 +1,278 @@
+com2c 0 24
+com2d 0 71
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「実は今度の歌番組、演出の趣向で律子に
+line2 <shift> # ちょっとした寸劇をしてほしいみたいなんだ」
+display
+com11 0 1
+sound 800
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「えっ？　寸劇？　ってなんです？
+line2 <shift> # 本格的な演技なんてできませんよ、私」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「劇というか……ショートコントかな。
+line2 <shift> # 歌のつなぎで、場を盛り上げたいらしい」
+display
+com11 0 1
+sound 801
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「え〜っ！？　な、なんで、
+line2 <shift> # 私がそんな役を」
+display
+com11 0 1
+sound 802
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「コントなんて……くだらないですよ。
+line2 <shift> # だいいち私がやっても、つまらないし」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ぶーぶー言うな。とりあえずそんな素案が
+line2 <shift> # 来てるってだけだよ。考えてくれないか？」
+display
+com11 0 1
+sound 803
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「イヤですよ私、絶対、ショートコントなんて
+line2 <shift> # しないですからね？」
+display
+com11 0 1
+sound 804
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「いざとなれば、出演ボイコットしますっ」
+com03 0 2
+choice1 <shift> # そんなに自信ないのか
+line2
+com09 0 10
+com08
+choice2 <shift> # そんなにいやなのか
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなに自信がないのか」
+display
+com11 0 1
+sound 805
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「自信とか関係なくて、ジャンル違いというか
+line2 <shift> # お門違いですよっ」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなにいやなのか」
+display
+com11 0 1
+sound 806
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そりゃまぁ、いやなものはいやとしか。
+line2 <shift> # なんでもホイホイできれば、苦労しませんよ」
+display
+com11 0 1
+sound 807
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そもそも、ジャンル違いというか、
+line2 <shift> # お門違いじゃないですかっ」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まぁ待て落ち着け、別にお笑いを要求されて
+line2 <shift> # いるわけじゃないぞ？　司会進行の一環だよ」
+display
+com11 0 1
+sound 808
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「司会進行？　ちょっとコントっぽい
+line2 <shift> # やり取りのあるトーク、って程度のこと？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うん、そうだな。律子もそのくらいなら
+line2 <shift> # やってくれるだろう？」
+display
+com11 0 1
+sound 809
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ま、まぁやれないこともないけど。トークは
+line2 <shift> # 得意じゃないのは承知しておいてほしいかな」
+display
+com11 0 1
+sound 810
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「まぁ仕事なんだし、頼まれれば
+line2 <shift> # やるしかないし、仕方ない。やってみる」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やる気はいまいちないようだね……」
+display
+com11 0 1
+sound 811
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「だ、だって苦手なんだから。それでも、
+line2 <shift> # もちろん、自分なりにベストは尽くしますよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ＯＫわかった、じゃあこの仕事は
+line2 <shift> # 受けるんだな。律子、やるからには……」
+com03 0 3
+choice1 <shift> # とにかく頑張れ
+line2
+com09 0 30
+com08
+choice2 <shift> # まずは特訓だな
+line2
+com09 0 31
+com08
+choice3 <shift> # 文句はやめるんだ
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「とにかく頑張れ、応援してやろう」
+display
+com11 0 1
+sound 812
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「な、なんだか、なげやりな応援だなぁ、
+line2 <shift> # プロデューサー……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「律子はなげやりにやるなよ？」
+display
+com11 0 1
+sound 813
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「言われなくたって！　やるだけ精一杯、
+line2 <shift> # やってみせます！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （少々ムキになってる気もするが……、しかし、
+line2 <shift> # 律子はやる気になってきたようだ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （信頼して、まかせてみよう。苦手分野でも
+line2 <shift> # いい結果を生んでくれると祈って……）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まずは特訓だな」
+display
+com11 0 1
+sound 814
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「やれやれ、また特訓ですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「苦手は多少なりとも克服しなきゃ。
+line2 <shift> # じゃないと律子、恥かくだろう？」
+display
+com11 0 1
+sound 815
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そ、それはそうね……
+line2 <shift> # 仕方ない、ちょっとだけ特訓するか」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ダメダメ！　やるならとことんやるんだ、
+line2 <shift> # 中途半端はよくないぞ？」
+display
+com11 0 1
+sound 816
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ううっ、いやだなぁそういう精神論っ。
+line2 <shift> # でも中途半端がよくないのは同意……」
+display
+com11 0 1
+sound 817
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「少しでも本番のトークがマシになるように、
+line2 <shift> # 努力します。特訓とやらも、やってみますか」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （なんだかなげやりにも見えるが……、しかし、
+line2 <shift> # 律子は多少やる気があるみたいだ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （このやる気を殺がないように、
+line2 <shift> # うまく伸ばしてやるとするか……）
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「文句は、やめるんだ」
+display
+com11 0 1
+sound 818
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「も、文句なんて言いませんよ、
+line2 <shift> # ひとたび現場に入ったら」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ふてくされたりもするなよ？」
+display
+com11 0 1
+sound 819
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「いちいち言われなくたって、しませんよぉ。
+line2 <shift> # あ〜、なんか信用されてないのかな、私」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、もちろん信用はしているよ。でなきゃ、
+line2 <shift> # 俺から律子に仕事は出せないだろう？」
+display
+com11 0 1
+sound 820
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そりゃそうよね……。さて、信用に応えるべく、
+line2 <shift> # さくっとやってみますかぁ」
+display
+com11 0 1
+sound 821
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「仕事内容が信用に値するかどうかは、まだ
+line2 <shift> # いまいち自信ないけどね、我ながら」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そこはなんとか、頑張ってくれよ。
+line2 <shift> # 仕事なんだし、プロなんだし」
+display
+com11 0 1
+sound 822
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「が、頑張りたいけど、苦手は苦手だから、ね？
+line2 <shift> # 甘えるわけじゃないけど、わかってほしいなぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃあ、無理のない範囲で
+line2 <shift> # ばっちり頼むぞ……」
+display
+com11 0 1
+sound 823
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「無理のない範囲で、
+line2 <shift> # ばっちり努力します……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （とは言ったものの、律子、
+line2 <shift> # なんだか気が重そうだなぁ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺がもう少し、仕事へのやる気を、
+line2 <shift> # 促してやらないといけないな……）
+com09 0 49
+display
+location 49
+unk02

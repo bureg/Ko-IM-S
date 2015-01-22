@@ -1,0 +1,112 @@
+com2d 0 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あっという間に１日が終ってしまった……」
+display
+location 0
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ふぅー、今日はいろいろあって、疲れました。
+line2 <shift> # けど、楽しかったです！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだな。俺も、やりがいがあったよ。
+line2 <shift> # えーと、春香……」
+com03 0 2
+choice1 <shift> # じゃ、また今度な！
+line2
+com09 0 10
+com08
+choice2 <shift> # つぎも、ビシバシいくぞ？
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃ、また今度な！」
+display
+com11 0 0
+sound 10001
+com4b 0 0
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はいっ。どうも、ありがとうございました！
+line2 <shift> # またっ！」
+com4a 0 0
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「つぎも、ビシバシいくぞ？」
+display
+com11 0 0
+sound 10002
+com4b 0 2
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ううっ、はい……。覚悟しておきます。
+line2 <shift> # そ、それじゃあ、またっ！」
+com4a 0 0
+com09 0 29
+display
+location 29
+location 100
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あっという間に１日が終ってしまった……」
+display
+location 101
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もっと早く色々片付けていれば
+line2 <shift> # もう１レッスンできたかも……」
+display
+location 102
+com11 0 0
+sound 10003
+name 0 2 <names:3>  # President
+line1 <shift> # 「２日目ご苦労だったね。次はいよいよ……、
+line2 <shift> # オーディションをうけてもらうよ！」
+display
+com4a 0 0
+com11 0 0
+sound 10004
+name 0 2 <names:3>  # President
+line1 <shift> # 「では、キミ達のアイドルランク報告だ！」
+display
+location 200
+com11 0 0
+sound 10005
+name 0 2 <names:3>  # President
+line1 <shift> # 「今後も出会った人達にファンに
+line2 <shift> # なってもらえるよう、活動しなさい」
+display
+com11 0 0
+sound 10006
+name 0 2 <names:3>  # President
+line1 <shift> # 「しかし、レッスンばかりでは、
+line2 <shift> # ファンは、ほとんど増えることはない！」
+display
+com11 0 0
+sound 10007
+name 0 2 <names:3>  # President
+line1 <shift> # 「オーディションに合格することが、ファンを、
+line2 <shift> # 一気に増やす唯一の方法だ」
+display
+com4a 0 0
+com11 0 0
+sound 10008
+name 0 2 <names:3>  # President
+line1 <shift> # 「次回のオーディションが楽しみだな！」
+display
+location 103
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ファンからのプレゼントを、
+line2 <shift> # チェックして帰るか」
+display
+location 201
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （次の活動では、デビュー曲を決めて、
+line2 <shift> # いよいよオーディションだ！）
+display
+unk02

@@ -1,0 +1,286 @@
+com2c 0 24
+com2d 0 83
+com32 0 0
+com11 0 4
+sound 500
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「これから、雑誌の取材ですか？
+line2 <shift> # よっし！　アピールする大チャンスですねっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、マイナー雑誌の、小さなワクだからな。
+line2 <shift> # そこまでの期待は……」
+display
+com11 0 4
+sound 501
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、そうなんですか。早く大きな雑誌社に、
+line2 <shift> # 取材にきてもらえるように、なりたいなー」
+display
+com11 0 4
+sound 502
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ん？　人気があるから、大手が来てくれるのか。
+line2 <shift> # 大手がくるから、人気が上がるのか……」
+display
+com11 0 4
+sound 503
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサー、どっちだと思います？」
+com03 0 3
+choice1 <shift> # 人気が、先行だよ
+line2
+com09 0 10
+com08
+choice2 <shift> # どっちも正解だろうな
+line2
+com09 0 11
+com08
+choice3 <shift> # ニワトリと卵の話、か
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「人気が、先行だよ。話題性のカケラもなければ、
+line2 <shift> # 雑誌社は動いてくれないから」
+display
+com11 0 4
+sound 504
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そうかー。じゃあ、まずは、ライブやＣＤで、
+line2 <shift> # がんばらないといけませんね！」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どっちも正解だろうな。そういうのって、
+line2 <shift> # 比例してあがっていくものじゃないか？」
+display
+com11 0 4
+sound 505
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ややこしいですね……。でも、きっかけは、
+line2 <shift> # 絶対、どっちかが先だと思うんだよなあ」
+display
+com11 0 4
+sound 506
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「まずは、人気の方、がんばりますね。
+line2 <shift> # 大きな雑誌社を待ってちゃ、ダメでしょうから」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ニワトリと卵の話、か」
+display
+com11 0 4
+sound 507
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、それ、知ってます！　どっちが先にあった
+line2 <shift> # のかってやつですよね。で、どっちなんです？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……さあな」
+display
+com11 0 4
+sound 508
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「それじゃ、答えになって……！　まあ、いい
+line2 <shift> # です。こんなの、誰も知らないでしょうから」
+com09 0 29
+display
+location 29
+com11 0 4
+sound 509
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ところで、今日来るのって、
+line2 <shift> # なんていう名前の雑誌なんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「たしか、『月刊・タピオカ』とか、
+line2 <shift> # 言ってたかな？　聞いたこと、ある？」
+display
+com11 0 4
+sound 510
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ないです。ボク、けっこうマイナー誌も読んで
+line2 <shift> # るから、もしかしたらと、思ったんですけど」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「真は、どんな雑誌を読んでるんだ？」
+display
+com11 0 4
+sound 511
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「え？　い、一番好きなのは……、『月刊・
+line2 <shift> # ＲａＲａＲａ』です。少女マンガ雑誌の」
+com03 0 3
+choice1 <shift> # 今度、貸してくれる？
+line2
+com09 0 30 129 118
+com08
+choice2 <shift> # ……おもしろいのか？
+line2
+com09 0 31
+com08
+choice3 <shift> # …………ぷっ！
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「今度、貸してくれる？」
+display
+com11 0 4
+sound 512
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「いいですよ！　最近の、全部、
+line2 <shift> # とってありますから、まとめて持ってきます！」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……おもしろいのか？」
+display
+com11 0 4
+sound 513
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「おもしろいですよ〜。いつも読みながら、
+line2 <shift> # 泣いてます。胸にきゅっとくる話、多くて」
+display
+com11 0 4
+sound 514
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「……似合わねーとか、思ってそうですね。
+line2 <shift> # ボク、そういう話、けっこう好きなんです」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「…………ぷっ！」
+display
+com11 0 4
+sound 515
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「なんで、笑うんです〜？　少女が、少女マンガ
+line2 <shift> # 読むのは、当たり前じゃないですか〜〜〜」
+display
+com11 0 4
+sound 516
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「いいですいいです。似合わねーとか、思ったん
+line2 <shift> # ですよね。もう、慣れっこです、そういうの」
+com09 0 49
+display
+location 49
+com11 0 4
+sound 517
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「……将来、ボクを主人公にしたマンガとかも、
+line2 <shift> # 誰か描いてくれるかもしれませんね」
+display
+com11 0 4
+sound 518
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「もしかして、ボク、目キラキラの『超絶・美
+line2 <shift> # 少女』に、描かれちゃうのかな？　あはは……」
+com03 0 3
+choice1 <shift> # 気が早すぎだって
+line2
+com09 0 50
+com08
+choice2 <shift> # じゅうぶん、ありうるな
+line2
+com09 0 51
+com08
+choice3 <shift> # 超絶・美少年……、だろ？
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「気が早すぎだって。
+line2 <shift> # そんなことより、ほら、取材取材！」
+display
+com11 0 4
+sound 519
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あああ、そうでした。
+line2 <shift> # 浮かれてる場合じゃないですねっ」
+display
+com11 0 4
+sound 520
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「今みたいな、にやけた顔、漫画家の先生に、
+line2 <shift> # 描かれたくありませんしっ。行ってきます！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （キリリとした、いい顔で、部屋を出ていった。
+line2 <shift> # これで、記者の印象も、よくなるだろう）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゅうぶん、ありうるな」
+display
+com11 0 4
+sound 521
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うわー、どうしよう。きっと、マンガのボク、
+line2 <shift> # 背中に、バラとか背負いまくりなんだろーな〜」
+display
+com11 0 4
+sound 522
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「さ、取材、行かないと。
+line2 <shift> # へへ、えへへへへ、へへっ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「真、ちょっと待て！？　そのにやけ顔で、
+line2 <shift> # 取材受ける気か？　お、おいっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ヘラヘラしたまま、行ってしまった。これでは、
+line2 <shift> # 記者に、変態と思われてしまうかも……）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「超絶・美少年……、だろ？」
+display
+com11 0 4
+sound 523
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「どーして、そういうこと、言うんですか〜！？
+line2 <shift> # せっかく、いい気分に……。ううう……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、ツッコまなきゃいけない気がして。
+line2 <shift> # ごめん、悪気はないんだ……」
+display
+com11 0 4
+sound 524
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「いーです。美少年で。そんで、まわりの子は
+line2 <shift> # みんな美少女。そんで、ボクは美少年……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （壊れてしまった……。
+line2 <shift> # なんとか立ち直らせて、取材に行かせないと！）
+com09 0 69
+display
+location 69
+unk02

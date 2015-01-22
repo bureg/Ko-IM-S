@@ -1,0 +1,322 @@
+com2c 0 53
+com2d 0 91
+com2e 0 101
+com32 0 0
+com11 0 3
+sound 1100
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「はい、兄ちゃん！
+line2 <shift> # もう、目、開けていいよ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ここは……、どこだ？　取材の帰りに、
+line2 <shift> # 寄りたかったところって、この場所か？」
+display
+com11 0 3
+sound 1101
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「うんっ！　さて、ここはいったい、なんていう
+line2 <shift> # ところでしょ〜？　ヒントは『なんとか園』！」
+com03 0 3
+choice1 <shift> # 幼稚園？
+com09 0 10
+com08
+choice2 <shift> # 動物園？
+com09 0 11
+com08
+choice3 <shift> # 霊園？
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「幼稚園？」
+display
+com11 0 3
+sound 1102
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「そうっ！　ここは〜、真美達が通ってた、
+line2 <shift> # 『かるがも幼稚園』！」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「動物園？」
+display
+com11 0 3
+sound 1103
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ちがうよ〜。動物なんて、どこにもいないし〜。
+line2 <shift> # そんなの、見れば、わかるでしょ〜？」
+display
+com11 0 3
+sound 1104
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ここはー、幼稚園！　真美達が通ってた、
+line2 <shift> # 『かるがも幼稚園』だよっ」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「霊園？」
+display
+com11 0 3
+sound 1105
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「０円って……、タダ？
+line2 <shift> # 真美、お金の話なんて、してないよ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そっちの０円じゃなくて……。つまり、
+line2 <shift> # 霊園ってのは、お墓がたくさんあるところだよ」
+display
+com11 0 3
+sound 1106
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「そんな、こわいとこじゃないよ〜！　ここは〜、
+line2 <shift> # 真美達が通ってた『かるがも幼稚園』！」
+com09 0 29
+display
+location 29
+com11 0 3
+sound 1107
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「亜美達はね。ここにいるアケミ先生に、
+line2 <shift> # はじめて、歌、教えてもらったのっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「へー。じゃあ、その先生が、
+line2 <shift> # 基本をたたき込んでくれたわけだ」
+display
+com11 0 3
+sound 1108
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「基本かどうかは、わからないけど……。あの
+line2 <shift> # 頃の亜美達は、歌い方、メチャクチャで〜」
+display
+com11 0 3
+sound 1109
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「でも、おもしろいから、そのままでいいって。
+line2 <shift> # だから、お遊戯会とかも、好きにやっちゃった」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか。ふたりは、小さい頃から……」
+com03 0 3
+choice1 <shift> # 困ったチャン、だったんだな
+line2
+com09 0 30
+com08
+choice2 <shift> # ワンパクだったんだな
+line2
+com09 0 31
+com08
+choice3 <shift> # 変わってないんだな
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「困ったチャン、だったんだな」
+display
+com11 0 3
+sound 1110
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「あっ、その言い方、アケミ先生に、
+line2 <shift> # そっくりだ〜！」
+display
+com11 0 3
+sound 1111
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「先生も、よく言ってたよね。『今度は、
+line2 <shift> # なにをしたの、双子の困ったチャン』って！」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ワンパクだったんだな」
+display
+com11 0 3
+sound 1112
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「別に、暴れてたわけじゃないよ？
+line2 <shift> # ただ、やりたいように、やってただけで〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それも、まあ、ワンパクのうちだよ。
+line2 <shift> # 他の子とかは、泣かさなかった？」
+display
+com11 0 3
+sound 1113
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「いじめたりはしなかったけど〜、しつこく
+line2 <shift> # 誘って、うるさがられることは、あったかも〜」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「変わってないんだな」
+display
+com11 0 3
+sound 1114
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「そんなこと、ないよ〜。もう、ここにいた
+line2 <shift> # 時ほど、歌、へたっぴ〜じゃないし〜」
+display
+com11 0 3
+sound 1115
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「兄ちゃんは、昔の真美達のひどさ、知らない
+line2 <shift> # もんね。あ、今、試しに、歌ってみせよっか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「い、いや、いいって！　わざと下手なの、
+line2 <shift> # 聞かされたら、たまらないし……」
+com09 0 49
+display
+location 49
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「さて、それじゃ、せっかくきたんだし、
+line2 <shift> # その先生にアイサツしていくか」
+display
+com11 0 3
+sound 1116
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「そうしよ、そうしよ！　アケミ先生、亜美
+line2 <shift> # 達がアイドルになったの、知ってるかなあ？」
+display
+com11 0 3
+sound 1117
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「多分、どっかで見てるよ！　ねえ、兄ちゃんは、
+line2 <shift> # 先生にあったら、まず、どんなこと、言う？」
+com03 0 3
+choice1 <shift> # ありがとうございます、かな
+line2
+com09 0 50
+com08
+choice2 <shift> # お茶しませんか、かな
+line2
+com09 0 51
+com08
+choice3 <shift> # さぞ、苦労されたでしょう、かな
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ありがとうございます、かな。
+line2 <shift> # 真美達を、ノビノビと育ててくれて……」
+display
+com11 0 3
+sound 1118
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「あ、そしたら先生も、同じような事、言うかも。
+line2 <shift> # 真美達を、可愛がってくれて、ありがとって」
+display
+com11 0 3
+sound 1119
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「兄ちゃんとアケミ先生、話、すっごく合いそ〜。
+line2 <shift> # ほら、いこいこっ〜♪　早く〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ふたりに手を引っ張られて、中へ……。その後、
+line2 <shift> # 先生と顔を合わせ、いろんな話の花を咲かせた）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お茶しませんか、かな」
+display
+com11 0 3
+sound 1120
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ええええ。兄ちゃん、アケミ先生を、
+line2 <shift> # ナンパするの〜？　でも、すっごい年上だよ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなに上なのか？
+line2 <shift> # じゃあ、やめとくか……」
+display
+com11 0 3
+sound 1121
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「あ、ずる〜い。一度、言ったこと、
+line2 <shift> # 引っ込めるのはナシだよ〜。んじゃ、いこっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、強引に、恥ずかしいことを言わされた。
+line2 <shift> # 先生に大笑いされたけど……、ま、しかたない）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「さぞ、苦労されたでしょう、かな。
+line2 <shift> # 真美達のメンドウ見る大変さは、わかるから」
+display
+com11 0 3
+sound 1122
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「兄ちゃんも、苦労されたの？
+line2 <shift> # でも〜、真美達といると、楽しいでしょ〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それはそうだけど……。人に、何かを教えるっ
+line2 <shift> # てのは、それなりの責任と、重圧があるしな」
+display
+com11 0 3
+sound 1123
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「アケミ先生は、大変そうな顔なんて、
+line2 <shift> # してなかったよ。いっつもニコニコしてたし〜」
+display
+com11 0 3
+sound 1124
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「兄ちゃん、いろいろ考えすぎなんじゃ……。
+line2 <shift> # もっと、楽ちんそうな顔、した方がいーよ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （アドバイスされてしまった……。器の大きさで、
+line2 <shift> # その先生に負けたかもしれない……）
+com09 0 69
+display
+location 69
+unk02

@@ -1,0 +1,261 @@
+com2c 0 24
+com2d 0 51
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あずささん、遅いな……。そろそろ、
+line2 <shift> # 雑誌の取材、終わってもいい頃だけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まさか……、なにかトラブルでもっ！？」
+com03 0 2
+choice1 <shift> # ……考えすぎか
+line2
+com09 0 10
+com08
+choice2 <shift> # そうにちがいない！
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……考えすぎか。
+line2 <shift> # きっと、のんびりやってるんだろう」
+display
+com11 0 3
+sound 500
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あ、プロデューサーさん。いま、終わりまし
+line2 <shift> # たー。すみません、時間オーバーしてしまって」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いえ、予想してましたから。
+line2 <shift> # で、どうでしたか？」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうにちがいない！
+line2 <shift> # くっ。急いで、迎えに！」
+display
+com11 0 3
+sound 501
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「きゃっ！　ぷ、プロデューサーさん？
+line2 <shift> # どうしたのですか？　そんなにあわてて」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、すみません！　あまりにも遅いから、
+line2 <shift> # なにかあったんじゃないかって」
+display
+com11 0 3
+sound 502
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「単に時間が、かかってしまっただけで……。び、
+line2 <shift> # びっくりしました。もうすこしで、ぶつかって」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「完全に、早とちりでした……。
+line2 <shift> # で、取材の方、どうでした？」
+com09 0 29
+display
+location 29
+com11 0 3
+sound 503
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「んー、いろいろと聞かれてしまいました。
+line2 <shift> # 『これまで、つきあった人数は？』とか」
+display
+com11 0 3
+sound 504
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「まだ、これくらいの人気ですから、そんなに、
+line2 <shift> # ていねいには、接してもらえませんね」
+com03 0 3
+choice1 <shift> # もうすこしすれば、きっと
+line2
+com09 0 30
+com08
+choice2 <shift> # 失礼な記者ですね
+line2
+com09 0 31
+com08
+choice3 <shift> # で、なんて答えたんです？
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+com34 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もうすこしすれば、きっと」
+display
+com11 0 3
+sound 505
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ふふっ、そうですね。取材してもらえるだけ、
+line2 <shift> # ありがたいですし、今は、ぜいたく禁止です」
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「失礼な記者ですね」
+display
+com11 0 3
+sound 506
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「でもー、しかたがないとも思います。私達、
+line2 <shift> # まだ一握りの中に入ったわけではありませんし」
+display
+com11 0 3
+sound 507
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「どんな人でも取材にきてくれるのは、ありがた
+line2 <shift> # いです。その記事が、明日につながりますから」
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「で、なんて答えたんです？」
+display
+com11 0 3
+sound 508
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「え？　お、おつきあいした人の数ですか？
+line2 <shift> # とりあえず、秘密ですって言ったのですけれど」
+display
+com11 0 3
+sound 509
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「プロデューサーさん、知りたい訳ではないです
+line2 <shift> # よね？　こ、この話は、ここまでということで」
+com09 0 49
+display
+location 49
+com11 0 3
+sound 510
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あ、もう、こんな時間。私のインタビューって、
+line2 <shift> # いつも長時間に、なってしまいますね」
+display
+com11 0 3
+sound 511
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「いつも、いろんな質問に、ちゃんと答えようと
+line2 <shift> # すると、考えるのに、時間がかかってしまって」
+display
+com11 0 3
+sound 512
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「たとえ、すこしいい加減でも……、
+line2 <shift> # すぐ答える方が、親切なのでしょうか？」
+com03 0 3
+choice1 <shift> # それで後悔しませんか？
+line2
+com09 0 50
+com08
+choice2 <shift> # 即答の方が、いいかも
+line2
+com09 0 51
+com08
+choice3 <shift> # じらすのも、有効です
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 2
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それで後悔しませんか？」
+display
+com11 0 3
+sound 513
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「……すると思います。万が一、ファンの人を、
+line2 <shift> # 傷つけるようなことを言ってしまったら、私」
+display
+com11 0 3
+sound 514
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「やはり、ガマンしてもらうのが、いいみたいで
+line2 <shift> # すね。きっとそれが、一番の親切だと思います」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （小さな疑問を、うまく消化してくれたようだ。
+line2 <shift> # 不用意な言葉は、誰のためにも、ならないしな）
+com09 0 69
+display
+location 51
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「即答の方が、いいかもしれません。かえって、
+line2 <shift> # おもしろい返事、できるんじゃないですか？」
+display
+com11 0 3
+sound 515
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「え！？　聞いてすぐに、ですか？
+line2 <shift> # それは、すごく大変そうです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、不可能ではないと思いますけど……。
+line2 <shift> # あずささん、将来の目標は？」
+display
+com11 0 3
+sound 516
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「目標？　あ、あのー、えっと、それはー。
+line2 <shift> # …………と、トップアイドルになれたらって」
+display
+com11 0 3
+sound 517
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「すみません。わ、私、質問を飲み込むまでに、
+line2 <shift> # 時間が、かかってしまって。ううう……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （なんのひねりもない返事だな。
+line2 <shift> # 瞬発力に期待するのは、やっぱりムリか……）
+com09 0 69
+display
+location 52
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じらすのも、有効です」
+display
+com11 0 3
+sound 518
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あのー、有効って、どういうことでしょう？
+line2 <shift> # 待ってもらうことで、期待が増しますか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そういう効果も、あると思いますよ。
+line2 <shift> # だから、そんなにあせらずに……」
+display
+com11 0 3
+sound 519
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「でも、そういうの、真っ直ぐじゃないですよね。
+line2 <shift> # ほんとうは、なにもないのに……」
+display
+com11 0 3
+sound 520
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「そういう風に、誤解されていたら、悲しいです。
+line2 <shift> # 逆に私がそういうことをされたら、やはり……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （表情を、くもらせている。あまり策略っぽい
+line2 <shift> # 言い方をするのは、よくなかったみたいだ）
+com09 0 69
+display
+location 69
+unk02

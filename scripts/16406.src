@@ -1,0 +1,289 @@
+com2c 0 24
+com2d 0 31
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やよい、雑誌記者、
+line2 <shift> # もうロビーに来てるけど？」
+display
+com11 0 3
+sound 500
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はいー、わかってます……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうしたんだ？　元気ないな」
+display
+com11 0 3
+sound 501
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「プロデューサー、最近、記者の人の質問、
+line2 <shift> # 変わってきたって思いませんか？」
+display
+com11 0 3
+sound 502
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「家族とか友達とか、そういうこと、きかれるん
+line2 <shift> # ですけど……、しょうがないんでしょうか？」
+com03 0 3
+choice1 <shift> # アイドルの宿命だよな
+line2
+com09 0 10
+com08
+choice2 <shift> # がまんしような
+line2
+com09 0 11
+com08
+choice3 <shift> # ぜいたくな悩みだな
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「アイドルの宿命だよな。
+line2 <shift> # プライバシーは、どの雑誌社も欲しがるから」
+display
+com11 0 3
+sound 503
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「いいことなんでしょうか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まあ、売れてきたってことだし」
+display
+com11 0 3
+sound 504
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あっ、ならすこし、うれしいかも。えへへ」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「がまんしような」
+display
+com11 0 3
+sound 505
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「『きいてもつまらないから、やめよーっ！』
+line2 <shift> # とか言っても、ダメですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「多分。向こうも仕事だし」
+display
+com11 0 3
+sound 506
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そっかー。それじゃ、しかたないですよね。
+line2 <shift> # うーん、記者さんたちも大変なんだなあ」
+display
+com11 0 3
+sound 507
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「わかりましたっ。じゃあ、あんまり困った
+line2 <shift> # 顔とかしない方がいいですよね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「できればな」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ぜいたくな悩みだな」
+display
+com11 0 3
+sound 508
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「う……。やっぱり、そうですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「取材にきてくれるだけ、
+line2 <shift> # ありがたいって思わなきゃ」
+display
+com11 0 3
+sound 509
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ですよね……。その雑誌見て、
+line2 <shift> # ファンになってくれる人もいるだろうし」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そういうこと」
+display
+com11 0 3
+sound 510
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うう……、なんか私って、子どもですね。
+line2 <shift> # それぐらいで、考えちゃうなんて」
+com09 0 19
+display
+location 19
+com11 0 3
+sound 511
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「プロデューサー。そういう
+line2 <shift> # プライベートな質問された時って……」
+display
+com11 0 3
+sound 512
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「どこまで答えた方がいいんでしょう？
+line2 <shift> # 私……、よくわからなくて……」
+com03 0 3
+choice1 <shift> # 臨機応変かな
+line2
+com09 0 20
+com08
+choice2 <shift> # 気分任せで
+com4f 0 0
+com09 0 21
+com08
+choice3 <shift> # 全部、話そう
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「臨機応変かな」
+display
+com11 0 3
+sound 513
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「どんな感じで、決めていくんです？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「向こうだって、すごくききたいことと、
+line2 <shift> # そうでないことがあるんじゃないか？」
+display
+com11 0 3
+sound 514
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あ、じゃあ、それを見ながら、
+line2 <shift> # お返事していくんですか？」
+display
+com11 0 3
+sound 515
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「アイドルって、けっこうむずかしいかも〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まだまだ勉強することばかりだな。
+line2 <shift> # 俺も含めて」
+display
+com11 0 3
+sound 516
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えへへ、いっしょにがんばりましょうねっ、
+line2 <shift> # プロデューサー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うまく相談に乗ってやれたな。こういう地味な
+line2 <shift> # 部分も、しっかり支えていかないと）
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「気分任せで」
+display
+com11 0 3
+sound 517
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「え？　そんなアバウトでいいんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そう思うよ。どこまでがＯＫで、
+line2 <shift> # どこからがダメなんて、ないだろうし」
+display
+com11 0 3
+sound 518
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うう〜、でもそうすると、記者の人たち、
+line2 <shift> # 困るかも〜……」
+display
+com11 0 3
+sound 519
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「お腹すいてるからって、なにも答えなかったら、
+line2 <shift> # 怒りますよね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それは、まあな」
+display
+com11 0 3
+sound 520
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「なんかこう、うまい区切り方みたいの、
+line2 <shift> # あるといいんですけど〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、やっぱりそんなの、ないよ。
+line2 <shift> # 自分で判断するしかないな」
+display
+com11 0 3
+sound 521
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「むずかしいんですね、アイドルって。学校とか
+line2 <shift> # じゃ、こんなことないのに。う〜ん……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （頭を悩ませている。できればもっとシンプルに、
+line2 <shift> # 助言してあげたかったな……）
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「全部、話そう」
+display
+com11 0 3
+sound 522
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えええ、なにもかも、ですかーっ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。まだまだ売り出し中なんだし、
+line2 <shift> # その方がいいよ」
+display
+com11 0 3
+sound 523
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ううう……、そんな〜。今日の朝ご飯作るのに
+line2 <shift> # かかった値段とか、足のサイズとか……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そのぐらいは、まあ軽くな」
+display
+com11 0 3
+sound 524
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「住所とか電話番号とかも、
+line2 <shift> # 話さなくちゃダメですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それは話さなくてもいいけど……」
+display
+com11 0 3
+sound 525
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「通ってる学校の名前は？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、微妙なラインだな……」
+display
+com11 0 3
+sound 526
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「もし、ストーカーの人とかが来たら、
+line2 <shift> # クラスのみんな、こわがるかも〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ちょっと極端な意見だったか？
+line2 <shift> # もっと細やかに、返事してやるべきだった……）
+com09 0 29
+display
+location 29
+unk02

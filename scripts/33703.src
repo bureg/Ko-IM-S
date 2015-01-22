@@ -1,0 +1,276 @@
+com2c 0 59
+com2d 0 61
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「販促グッズ配布だ、気合い入れていこう！」
+display
+com11 0 4
+sound 900
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「は、はいっ、携帯ストラップ配布ですね。
+line2 <shift> # みなさん、よろしくおねがいしまーすっ」
+display
+com11 0 4
+sound 901
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「グッズをお配りしてまーす、
+line2 <shift> # よろしくですっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おっ、雪歩なかなか快調だなぁ、
+line2 <shift> # いいペースで配れてるね」
+display
+com11 0 4
+sound 902
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「は、はい。まだまだ、がんばりますよっ」
+com03 0 2
+choice1 <shift> # その調子でどんどん頼む
+line2
+com09 0 10
+com08
+choice2 <shift> # 無理はしないように
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、その調子でどんどん頼む」
+display
+com11 0 4
+sound 903
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はいっ、私だって、やればできるんですっ。
+line2 <shift> # ま、まかせてください！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ははは、張り切ってるなぁ」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「頑張ってくれるのは嬉しいけど、
+line2 <shift> # 無理だけはしないようにね」
+display
+com11 0 4
+sound 904
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「だ、大丈夫ですよぅ。たまには、
+line2 <shift> # ばっちり、まかせてください」
+display
+com11 0 4
+sound 905
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「私だって、きっと、やれば……
+line2 <shift> # できるんですっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なかなか張り切ってるみたいだなぁ。
+line2 <shift> # わかった、頼むぞ」
+com09 0 29
+display
+location 29
+com11 0 4
+sound 906
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ああ、それにしても……、
+line2 <shift> # すごい勢いではけていきますね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「賑やかな通りで、人も多いからね」
+display
+com11 0 4
+sound 907
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「油断してると、配るのが追いつかなく
+line2 <shift> # なりそうなくらいで……、ああっ！」
+display <shift> # どんがらがっしゃーん！
+display
+com11 0 4
+sound 908
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「す、すみません……。ストックを崩して、
+line2 <shift> # ばらまいてしまいました。ひ、拾わないと」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ストラップが散らかったな……。いや、
+line2 <shift> # それより平気か雪歩？　ケガ、ないかな」
+display
+com11 0 4
+sound 909
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「けがはないです。ああ、でも、
+line2 <shift> # ちょっと立ちくらみがするかも……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「疲れてるんじゃないか雪歩、
+line2 <shift> # 少し、顔色が……」
+display
+com11 0 4
+sound 910
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あっ、で、でもっ、あとちょっとくらい！
+line2 <shift> # それくらいなら、だ、だいじょうぶですっ」
+display
+com11 0 4
+sound 911
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「もうちょっとで配り終わるからっ、
+line2 <shift> # それまで、がまんできますよ！」
+com03 0 3
+choice1 <shift> # 場所を一旦変えるか
+line2
+com09 0 30
+com08
+choice2 <shift> # 気合いで乗り切ろう
+line2
+com09 0 31
+com08
+choice3 <shift> # やはり無理はよくないね
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「場所を一旦変えるか……とりあえず、
+line2 <shift> # 一度、車に資材しまっちゃおう」
+display
+com11 0 4
+sound 912
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「は、はい……でも、ど、どこへ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「静かなところへ移るよ。ここはもう人が
+line2 <shift> # 集まりすぎだ、道も混んできてる」
+display
+com11 0 4
+sound 913
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そうですか……。で、でもっ、まだ
+line2 <shift> # これからたくさん配れそうですよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もう少し違うお客さんにも配ってみよう。
+line2 <shift> # もののついでだ、移動中に休けいしようか」
+display
+com11 0 4
+sound 914
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「わ、わかりましたっ。車で移動ですか……。
+line2 <shift> # 私、少し横になってもいいですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そうして、さりげなく雪歩の休けいを挟みつつ、
+line2 <shift> # 場所を移してストラップ配布を続けた）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （営業的にも、いい結果になったぞ！）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーむ、辛いかもしれないが……、
+line2 <shift> # ここは気合いで乗り切ろう！」
+display
+com11 0 4
+sound 915
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「は、はいっ！
+line2 <shift> # 了解ですっ、どんどんいきますよ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そして、しばらく経ち、
+line2 <shift> # ストラップのストックが尽きかけた頃……）
+display
+com11 0 4
+sound 916
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ううっ……、けほっ、けほっ、
+line2 <shift> # わ、私、もうだめですぅ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺もさすがにクタクタだ。
+line2 <shift> # そろそろ頃合か、撤退しよう」
+display
+com11 0 4
+sound 917
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「惜しかったですねぇ、もう少しで、
+line2 <shift> # 全部、きれいに配り終われたのに……」
+display <shift> # ……ぱったり
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああっ、雪歩！　倒れるな！
+line2 <shift> # しっかりしろっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （営業的にはなかなかの結果だったものの、
+line2 <shift> # 雪歩に少し無理をさせすぎたようだ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （身体へのダメージが心配だ。あとの仕事にも
+line2 <shift> # 影響が出てしまうかもしれないな……）
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やはり無理はよくないな。
+line2 <shift> # 残念だけど、ここは引き揚げよう」
+display
+com11 0 4
+sound 918
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ううっ、ぐすっ、
+line2 <shift> # 私が至らないばっかりに……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「別に雪歩のせいじゃないさ。
+line2 <shift> # それに街なかでの長い営業は、誰でも疲れるよ」
+display
+com11 0 4
+sound 919
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「でも、でも私、配るペースが落ちました」
+display
+com11 0 4
+sound 920
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「私が一番、手が遅くて、ストックも崩し
+line2 <shift> # ちゃって……、もっと、もっと努力しないと」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、だから、もういいんだ。
+line2 <shift> # 無理するなって」
+display
+com11 0 4
+sound 921
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「迷惑掛けてしまって……。あうぅ、私に、
+line2 <shift> # もっと体力があれば、こんなことには……」
+display
+com11 0 4
+sound 922
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「こんな、だめだめアイドルな私は……、
+line2 <shift> # やっぱり、埋まっちゃうほうがいいんだ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああっ、早まるな！　埋まるな！
+line2 <shift> # 墓穴を掘るんじゃない！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （雪歩は、ひどく落ち込んでしまった。
+line2 <shift> # これでは営業続行は、どのみち無理だな……）
+com09 0 49
+display
+location 49
+unk02

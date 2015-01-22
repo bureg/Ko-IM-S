@@ -1,0 +1,307 @@
+com2c 0 118
+com2d 0 61
+com32 0 0
+location 0
+com11 0 6
+sound 1400
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「うう、ぐすっ……、ぐすん」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なあ、雪歩。そろそろ行かないか？　こんな
+line2 <shift> # ところに、いつまで立ってても、しかたないし」
+display
+com11 0 6
+sound 1401
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ぐすっ、ぐすん……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「聞いてるか？　疲れもピークだろうし、
+line2 <shift> # 早く帰って、眠った方がいい」
+display
+com11 0 6
+sound 1402
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「いやです……。私、帰りたくありません。
+line2 <shift> # だって、帰って寝て、明日になったら……」
+display
+com11 0 6
+sound 1403
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「その時は、もう……、隣にいないですから。
+line2 <shift> # 私を……、助けてくれる人」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「助けてくれる人って俺のことか？　そ、それは、
+line2 <shift> # そうだけど、だからって、ここで粘っても……」
+display
+com11 0 6
+sound 1404
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「明日なんて来ないといいのに今日だってプロデ
+line2 <shift> # ューサーがついててくれてアレだったんですよ」
+display
+com11 0 6
+sound 1405
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「いなくなったら、私なんかがアイドル続けて
+line2 <shift> # いけるわけ、ないじゃないですかぁ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「雪歩……」
+display
+com11 0 6
+sound 1406
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「この先、いろいろ言われてペシャンコになる前
+line2 <shift> # に……、私、引退した方がいいですね、きっと」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おいおい、早まったこと言うなよ。
+line2 <shift> # 雪歩なら、もっと上へ行けるって！」
+display
+com11 0 6
+sound 1407
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「……ムリですよぉ。知ってる通り、私、
+line2 <shift> # 頼るものナシでやれるほど、強くないですから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「頼るものか。なら、そうだ。気休めかもしれな
+line2 <shift> # いけど、俺が持っている物、なんかやろうか？」
+display
+com11 0 6
+sound 1408
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「え？　プロデューサーの、持ち物？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、お守り代わりに。つらい時はそれを見て、
+line2 <shift> # 俺が応援していること、思い出してほしい」
+display
+com11 0 6
+sound 1409
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「あ……、それは、すごく欲しいかも……。
+line2 <shift> # で、なにをもらえるんです？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、そうだな。じゃあ……」
+com03 0 3
+choice1 <shift> # 携帯ストラップをあげよう
+line2
+com09 0 10
+com08
+choice2 <shift> # コーヒーカップをあげよう
+line2
+com09 0 11
+com08
+choice3 <shift> # 高枝切りバサミをあげよう
+line2
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「携帯ストラップをあげよう」
+display
+com11 0 6
+sound 1410
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「え！　それすごくうれしいです！　ストラップ
+line2 <shift> # なら、ずっとポケットに入れておけますよね？」
+display
+com11 0 6
+sound 1411
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ダメになりそうな時、こっそり、ぎゅうって握
+line2 <shift> # ります。そうすれば、いろいろ耐えられそう！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし。なら後で、雪歩の家に送っておくよ。
+line2 <shift> # キレイにラッピングしてね」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「コーヒーカップをあげよう」
+display
+com11 0 6
+sound 1412
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「本当ですか？　それ、ちょっとうれしいです！
+line2 <shift> # これからは寝る前にそれにミルクティー入れて」
+display
+com11 0 6
+sound 1413
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「プロデューサーのこと、思い出しながら飲みま
+line2 <shift> # す。そうすれば、辛い日も耐えられそうな気が」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし。なら後で、雪歩の家に送っておくよ。
+line2 <shift> # おいしい紅茶もつけてね」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「高枝切りバサミをあげよう」
+display
+com11 0 6
+sound 1414
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「えっ、高枝切りバサミ？
+line2 <shift> # なんで、そんなものを……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、別に深い意味はないけど。つらい時は、
+line2 <shift> # それで、植木の手入れでもするといい」
+display
+com11 0 6
+sound 1415
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「はあ。よくわかりませんけど、気持ちはうれし
+line2 <shift> # いです。私たまにそれでシャキシャキしますね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうしてくれ。
+line2 <shift> # じゃあ後で、雪歩の家へ送っておくよ」
+com09 0 19
+display
+location 19
+com11 0 6
+sound 1416
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ありがとうございますー。それがある限り、
+line2 <shift> # 私とプロデューサーは、いっしょですね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだ。俺には、こんなことぐらいしかできな
+line2 <shift> # いけど、なんとかアイドル続けていけそうか？」
+display
+com11 0 6
+sound 1417
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「はい。どこまでできるかわからないですけど、
+line2 <shift> # でも、いけるとこまでがんばります。あのっ！」
+display
+com1c 0 3
+com11 0 6
+sound 1418
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「がんばり次第によっては、いつかまた……、
+line2 <shift> # プロデュースしてもらえるかも、ですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、そうできるよう、努力する。
+line2 <shift> # だから、それまで辛抱するんだよ」
+display
+com11 0 6
+sound 1419
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「わかりました！　私、信じます。
+line2 <shift> # 信じて待ってますから。うううっ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うわっ、泣くなよ！
+line2 <shift> # ほら、泣かずに笑顔でさよならだ。そうしよう」
+display
+com11 0 6
+sound 1420
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「はい。それじゃあ、私行きます。あの、最後に
+line2 <shift> # 頭ぽんって叩いてくれますか。それを合図に」
+display
+com11 0 6
+sound 1421
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「私、絶対泣かない強い子に変身して、
+line2 <shift> # ひとりで歩いていきますから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わかった。じゃあ……」
+com0e 1 253
+com44
+com09 0 20
+com45
+com44
+com09 0 21
+com45
+com44
+com09 0 22
+com45
+display
+location 20
+com11 0 6
+sound 1422
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「う、いたい、です……。ううっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え！？　そんなに強く叩いちゃいないぞ？
+line2 <shift> # ……本当に、痛くて泣いてるのか？」
+display
+com11 0 6
+sound 1423
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「……そ、そうですよ！　痛くて泣いてるんです。
+line2 <shift> # うううっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「雪歩……。約束だろ。
+line2 <shift> # ぽんって叩いたら、もう泣かないって」
+display
+com11 0 6
+sound 1424
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「わかってます。泣いちゃダメ……、
+line2 <shift> # 泣いちゃダメ……」
+com09 0 29
+display
+location 21
+com11 0 6
+sound 1425
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「プロデューサー、それ、叩いてないでなでてま
+line2 <shift> # す。やさしくされると私、余計に……。ううっ」
+com09 0 28
+display
+location 22
+com11 0 6
+sound 1426
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「プロデューサー。どうして、
+line2 <shift> # 頭ぽんってしてくれないんですか？　ううっ」
+com09 0 28
+display
+location 28
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わ、ごめんごめん！　でも、これをテストと
+line2 <shift> # 思え。どんな時も、泣かない子になるんだろ？」
+display
+com11 0 6
+sound 1427
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「そ、そうでした。
+line2 <shift> # 泣いちゃダメ、泣いちゃダメ……」
+com09 0 29
+display
+location 29
+com4a 0 0
+com11 0 6
+sound 1428
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「それじゃプロデューサー、今日までありがとう
+line2 <shift> # ございました。泣いちゃダメ泣いちゃダメ……」
+display
+location 100 129 92 129 92 130 177 130 164 130 181 130 196 144 225 149 224 130 205 129 65 142 244 149 182 130 240 143 165 130 166 130 233 130 230 130 164 130 201 129 65 142 169 149 170
+line2 <shift> # に言い聞かせながら、ゆっくりと去っていった。
+display
+location 101 137 180 130 170 129 65 130 168 142 231 130 232 145 227 130 237 130 232 130 201 145 151 130 193 130 189 139 76 148 79 130 204 149 105 129 66 130 160 130 234 130 190 130 175
+line2 <shift> # では、雪歩を支えるには、不十分かもしれない。
+display
+location 102 130 187 130 204 130 164 130 191 129 65 141 196 147 120 131 118 131 141 131 102 131 133 129 91 131 88 130 181 130 196 130 226 130 235 130 164 129 66 130 187 130 181 130 196 129 65
+line2 <shift> # あの泣き顔が満面の笑顔に変わる時を見てみたい。
+display
+unk02

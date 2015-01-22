@@ -1,0 +1,279 @@
+com2c 0 17
+com2c 0 24
+com2d 0 23
+com2e 0 21
+com32 0 0
+com11 0 4
+sound 300
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「う〜、なんで、なんで、なんでよー！　なんで
+line2 <shift> # 私、あんな大事なとこで、転んだわけ！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ステージでこけたぐらいで、荒れるなよ。
+line2 <shift> # 後半、巻き返せばいいだろ？」
+display
+com11 0 4
+sound 301
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「中には、笑ってたお客も……。く〜っ！
+line2 <shift> # プロデューサー！　なかったことにしてきて！」
+com03 0 3
+choice1 <shift> # できるなら、そうしたいけど
+line2
+com09 0 10
+com08
+choice2 <shift> # どうやってだよ？
+line2
+com09 0 11
+com08
+choice3 <shift> # 忘れてしまおう
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「できるなら、そうしたいけど」
+display
+com11 0 4
+sound 302
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「それぐらい、できなさいよ〜！
+line2 <shift> # あんた、プロデューサーでしょーっ！」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうやってだよ？」
+display
+com11 0 4
+sound 303
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「やり方なんて、任せるわよ。全員に催眠術
+line2 <shift> # かけるとか、口封じするとかっ！」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「忘れてしまおう」
+display
+com11 0 4
+sound 304
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「それが、できれば苦労しないわよ〜。
+line2 <shift> # うううう、も〜、サイテー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「落ち着けって……」
+com09 0 19
+display
+location 19
+com11 0 4
+sound 305
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「だいたい、私、なににつまづいたわけ！？　誰
+line2 <shift> # かが不注意に、機材でも置いたんじゃないの？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ビデオ回してるから、後でそれ見れば、
+line2 <shift> # くわしい原因がわかるかも」
+display
+com11 0 4
+sound 306
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ビデオ！？　いつのまに、そんなの……。
+line2 <shift> # あ、たしか、事務所でネット販売するって……」
+display
+com11 0 4
+sound 307
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そのビデオ、いますぐ持ってきて！
+line2 <shift> # ……燃やしてやるわ！」
+com03 0 2
+choice1 <shift> # 転んだ原因、わからなくなるぞ？
+line2
+com09 0 20
+com08
+choice2 <shift> # 編集は可能だぞ？
+line2
+com09 0 21
+com08
+com07
+com09 0 21
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「転んだ原因、わからなくなるぞ？」
+display
+com11 0 4
+sound 308
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「う……まあ、そうね。じゃあ、燃やすのだけは、
+line2 <shift> # やめといてあげる……」
+display
+com11 0 4
+sound 309
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「でも、販売はナシ！　いいわね？」
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「編集は可能だぞ？」
+display
+com11 0 4
+sound 310
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そんなの、わかってるわよっ」
+display
+com11 0 4
+sound 311
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「でも、そのビデオ買ったファンは、見る度に、
+line2 <shift> # 思い出すでしょ。私がこけたこと……」
+display
+com11 0 4
+sound 312
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「とにかく、販売はナシ！　いいわね？」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺の一存じゃ、なんとも……」
+display
+com11 0 4
+sound 313
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「どうしても売るっていうなら、私、後半は出な
+line2 <shift> # い！　ビデオとライブ、どっちあきらめるの？」
+com03 0 3
+choice1 <shift> # 伊織をあきらめる
+line2
+com09 0 30
+com08
+choice2 <shift> # ビデオをあきらめる
+line2
+com09 0 31
+com08
+choice3 <shift> # ライブをあきらめる
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「伊織をあきらめるよ。そんなムチャ言うなら、
+line2 <shift> # ここでお別れだ……」
+display
+com11 0 4
+sound 314
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ちょ、ちょっと……ホンキ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いま、リタイアすると『こけて、引退した
+line2 <shift> # アイドル』として、ずっと名が残るな」
+display
+com11 0 4
+sound 315
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「イヤよーっ、そんなの！　恥ずかしくて、
+line2 <shift> # どこも歩けないじゃない！」
+display
+com11 0 4
+sound 316
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「いいわよ。後半、見てなさい！　一気に
+line2 <shift> # 名誉挽回してやるんだからーっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （怒りを、うまく転化することができた。
+line2 <shift> # これで後半は、バッチリだな）
+com09 0 39
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ビデオをあきらめるよ。販売しないよう、
+line2 <shift> # 社長に交渉してみる」
+display
+com11 0 4
+sound 317
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「わかった。約束だからね。
+line2 <shift> # ……私、後半はころばないよう、がんばるわ」
+display
+com22 0 30
+com21 0 30
+com11 0 4
+sound 318
+com4c 0 2
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ど、どうだった？　社長、なんて？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「バカ言うなって。もう販売に向けて、
+line2 <shift> # サイトもすべて準備済みだって……」
+display
+com11 0 4
+sound 319
+com4c 0 2
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「話がちがうじゃないのよー！
+line2 <shift> # プロデューサーのうそつき〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （怒らせてしまった……。あの後、ライブを無事
+line2 <shift> # 終えることができたのが、せめてもの救いか）
+com09 0 39
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ライブをあきらめるよ。ビデオは、売らない
+line2 <shift> # わけにはいかないから」
+display
+com11 0 4
+sound 320
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「い、イジワル〜！　どうして素直に、ビデオ
+line2 <shift> # あきらめるって、言ってくれないのよ〜！」
+display
+com11 0 4
+sound 321
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……いいわっ。なら、私、ほんとに後半、
+line2 <shift> # 出ない！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それで、くやしくないのか？」
+display
+com11 0 4
+sound 322
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「しょうがないでしょ！　実力行使よ。そんな
+line2 <shift> # ビデオ、売れるもんなら、売ってみなさいよ！」
+display
+com11 0 4
+sound 323
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……ちょうどいいわ。ノコノコ出てって、また
+line2 <shift> # 笑われるの、イヤだもんっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、伊織……！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、なんとか説き伏せたけど……ライブ
+line2 <shift> # 後半は、最悪のデキだった）
+com09 0 39
+display
+location 39
+unk02

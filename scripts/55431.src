@@ -1,0 +1,346 @@
+com2c 0 90
+com2d 0 131
+location 100
+com2c 0 90 130 170 130 189 130 241 130 193
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だ、誰だっ！？
+line2 <shift> # もう、このフロアには、誰もいないはず……」
+display
+com11 0 0
+sound 10000
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「くぅ……、すぅ……。わぁ〜、おにぎりで
+line2 <shift> # できたお城だ。おにぎり城なの。むにゃ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……誰か、フロアのすみのソファーで、
+line2 <shift> # 眠っているみたいだ）
+display
+com11 0 0
+sound 10001
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「くぅ……、すぅ……。おにぎり城で、ミキ姫は、
+line2 <shift> # 王子様と幸せに暮らしましたとさ、なの……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うわ。すごくカワイイ女の子だ。
+line2 <shift> # アイドル候補生の子かな？）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よく眠ってるようだし、起こしちゃかわいそう
+line2 <shift> # かな。早く用事を済ませて、出て行こう……）
+display <shift> # カツーン！
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あっ！　何か、蹴っとばしてしまった。
+line2 <shift> # これは……、おにぎりの形のマスコット？）
+display
+com11 0 0
+sound 10002
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「……あふぅ。今の、何の音？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ご、ごめん。起こしちゃったか。今のは、
+line2 <shift> # 俺が床に落ちてたマスコットを蹴った音だよ」
+display
+com11 0 0
+sound 10003
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「あっ！　それ、ミキのおまじない用マスコット
+line2 <shift> # なの！　もしかして、拾ってくれたの！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、ああ。そうだけど。
+line2 <shift> # ところで……、君は？」
+display
+com11 0 0
+sound 10004
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ミキ、星井美希なの。１４歳だよ。
+line2 <shift> # 初めまして、ミキの……、王子様☆」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ぶっ！　お、王子様！？
+line2 <shift> # いきなり何を言ってるんだ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それに、おまじない用って、
+line2 <shift> # どういうことだ？」
+display
+com11 0 0
+sound 10005
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「あのね、ミキ、彼氏ほしいなーって思って、
+line2 <shift> # 雑誌に載ってた、おまじないしてたの」
+display
+com11 0 0
+sound 10006
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「お気に入りのマスコットを、道路に置いておく
+line2 <shift> # と、それを１番先に見つけてくれた人が……」
+display
+com11 0 0
+sound 10007
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ミキだけのステキな王子様になってくれるって
+line2 <shift> # いう、おまじないなの。わかった、王子様？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だ、だから、俺は王子様じゃなくて……」
+com03 0 3
+choice1 <shift> # プロデューサーだ
+line2
+com09 0 10
+com08
+choice2 <shift> # やっぱり王子様だよ
+line2
+com09 0 11
+com08
+choice3 <shift> # 通りすがりの者だよ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「プロデューサーだよ」
+display
+com11 0 0
+sound 10008
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「へ？　プロデューサー？」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……と思ったけど、やっぱり王子様だよ、
+line2 <shift> # 美希姫！」
+display
+com11 0 0
+sound 10009
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「やっぱり！　やっと巡り会えたね、
+line2 <shift> # ミキだけの、おにぎり王子☆」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お、おにぎり王子？
+line2 <shift> # あんまりカッコ良くない設定だなあ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「できれば、せめて、『プロデューサー王子』
+line2 <shift> # とかに、してもらえないかな？」
+display
+com11 0 0
+sound 10010
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「えっ。プロデューサー？」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「通りすがりの者だよ」
+display
+com11 0 0
+sound 10011
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ええっ。ミキが真剣におまじないやってる時に、
+line2 <shift> # 気軽に通りすがらないでよ〜」
+display
+com11 0 0
+sound 10012
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ここは空気を読んで、王子様らしく、
+line2 <shift> # カッコイイこと、言ってほしいってカンジ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなこと言われてもなあ。
+line2 <shift> # 俺は、ただのプロデューサーだし」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「プロデュースする以外、何もできないよ」
+display
+com11 0 0
+sound 10013
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「え。プロデューサーなんだ……？」
+com09 0 19
+display
+location 19
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだよ、プロデューサーだ。ちゃんと、
+line2 <shift> # 担当アイドルだって、決まってるしね」
+display
+com11 0 0
+sound 10014
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だいたい、そんなおまじないで、
+line2 <shift> # 彼氏を決めるなんて、良くないよ」
+display
+com11 0 0
+sound 10015
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まあ、俺を選んでくれたことは、光栄ではある
+line2 <shift> # けど、もっと人間性を、ちゃんと見てだな……」
+display
+com11 0 0
+sound 10016
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……あのー。さっきからジーッと俺の顔みてる
+line2 <shift> # だけだけど、俺の話、きいてるか？」
+display
+com11 0 0
+sound 10017
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「うん、きいてるの。すっごくいい声……。
+line2 <shift> # ミキ、好きな声かも……☆」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうじゃなくて、話の内容を……」
+display
+com11 0 0
+sound 10018
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「どうしよう……。こういうの初めてだけど、
+line2 <shift> # ミキ、ほんとに、すっごく好き、なのかも……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うーん、やっぱり、この子、すごくカワイイな。
+line2 <shift> # スタイルもいいし、ドキッとするよ……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ご、ゴホン！　は、話を変えようか？　えーと、
+line2 <shift> # 君は、７６５プロのアイドル候補生かい？」
+display
+com11 0 0
+sound 10019
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「うん。まあ、そんなとこ。社長が色々うるさ
+line2 <shift> # くて、まだデビューさせてもらえないんだけど」
+display
+com11 0 0
+sound 10020
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「おかげで、毎日ヒマだよ。今日も、
+line2 <shift> # することないから、事務所で昼寝してたの」
+display
+com11 0 0
+sound 10021
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「でも、もう夜だし、昼寝もあきたから、
+line2 <shift> # 帰って寝ようかな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「寝てばっかりじゃないか……。
+line2 <shift> # 他にすることないのか？　自主トレとか」
+display
+com11 0 0
+sound 10022
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「んー、トレーニングしなくても、ミキ、
+line2 <shift> # 歌もダンスも、そこそこできちゃうの」
+display
+com11 0 0
+sound 10023
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「だから、ミキのプロデュース、楽だと思うよ？
+line2 <shift> # ねえねえ、やってみない？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ、俺？　だから俺は、もう担当するアイ
+line2 <shift> # ドルが、決まっちゃっているから、ムリだよ」
+display
+com11 0 0
+sound 10024
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「むー、残念なの。ミキ、大好きな人のために
+line2 <shift> # なら、すっごく頑張れるタイプなのに……」
+display
+com11 0 0
+sound 10025
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「今度、社長に頼んでみちゃおっと。プロデュー
+line2 <shift> # サーも、ミキの担当にかわったら嬉しいよね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ。社長に、俺の担当を変えるよう、
+line2 <shift> # 頼むつもりなのか？　それは、困るよ！」
+display
+com11 0 0
+sound 10026
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「大丈夫だってば！　ミキをずっと見てたら、
+line2 <shift> # きっと、ミキを好きになるって思うな」
+display
+com11 0 0
+sound 10027
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「じゃ、これから、よろしくね。
+line2 <shift> # ミキのことは『美希』って呼んでいいよ？」
+display
+com11 0 0
+sound 10028
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「今日は会えて、ホントにうれしかったの。
+line2 <shift> # またねっ！　あはっ☆」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あっ、おい！　今さら担当がえなんて、
+line2 <shift> # 高木社長が認めるわけないと思うぞ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……きこえたかな？　なんか、
+line2 <shift> # うれしそうに走って行っちゃったけど）
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （それにしても、星井美希……。すごい才能を
+line2 <shift> # 秘めている気がするな。将来が楽しみな子だ！）
+com09 0 100
+display
+unk02

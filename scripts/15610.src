@@ -1,0 +1,266 @@
+com2c 0 40
+com2d 0 33
+com32 0 0
+com11 0 1
+sound 500
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ＣＭモデル……これで何本めでしたっけ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もう、いちいち数えてられないよな」
+display
+com11 0 1
+sound 501
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「プロデューサー。私ってー、どんなＣＭに
+line2 <shift> # 出るのが、一番ピッタリって思いますかっ？」
+com03 0 3
+choice1 <shift> # 結婚式場？
+com09 0 10
+com08
+choice2 <shift> # スーパー？
+com09 0 11
+com08
+choice3 <shift> # 納豆？
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「結婚式場？」
+display
+com11 0 1
+sound 502
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「え、ほ、ほんとですかっ？　ど、どうしよ〜」
+display
+com11 0 1
+sound 503
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あああ、ダメダメ！　今はスポーツドリンク
+line2 <shift> # なのに、こんな顔してちゃ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「似合うと思うよ。ウェディングドレス」
+display
+com11 0 1
+sound 504
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「えへへへ……へへ……」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「スーパー？」
+display
+com11 0 1
+sound 505
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「やっぱり、そういうイメージですか？」
+display
+com11 0 1
+sound 506
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「そのうち……、家の近くのスーパーのＣＭとか、
+line2 <shift> # 出る日がくるのかなあ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それはないよ。
+line2 <shift> # 今の、やよいの格と、釣り合わないから」
+display
+com11 0 1
+sound 507
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はあ……。ＣＭ選びも、
+line2 <shift> # けっこうむずかしいんですね」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「納豆？」
+display
+com11 0 1
+sound 508
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「な……、納豆ですか！　ううう……。
+line2 <shift> # ……朝ゴハンに最高？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ」
+display
+com11 0 1
+sound 509
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「粘り気があって、安くて、お手頃？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あくまで、イメージね」
+display
+com11 0 1
+sound 510
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ううう、うるさすぎ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なんで、納豆がうるさいんだ？　あああ、
+line2 <shift> # ごめん。傷ついたなら、あやまるよ」
+display
+com11 0 1
+sound 511
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「いいです。きいたの、私ですし……」
+com09 0 19
+display
+location 19
+com11 0 1
+sound 512
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ、そろそろ休けい、終わりかも」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし。じゃあ、俺はここで見てるよ」
+display
+com11 0 1
+sound 513
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ、プロデューサー、私、これからの撮影の
+line2 <shift> # ために、ひとつ演出のプラン考えたんですけどー」
+display
+com11 0 1
+sound 514
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「それって、ディレクターさんに、
+line2 <shift> # 話しちゃダメ？」
+com03 0 3
+choice1 <shift> # いいんじゃないか
+line2
+com09 0 20
+com08
+choice2 <shift> # 胸にしまっておこう
+line2
+com09 0 21
+com08
+choice3 <shift> # それとなく伝えよう
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いいんじゃないか」
+display
+com11 0 1
+sound 515
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「そうですか？　『生意気だー』とかって……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「思われるわけないよ。地位が地位なんだし」
+display
+com11 0 1
+sound 516
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「……ありがとうございます、プロデューサー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、別にこれくらい……」
+display
+com11 0 1
+sound 517
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「そうじゃなくてっ……。
+line2 <shift> # ここまで連れてきてくれて……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （こういうの、プロデューサー冥利に、
+line2 <shift> # 尽きるっていうのかな）
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「胸にしまっておこう」
+display
+com11 0 1
+sound 518
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「言わない方が、いいですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「人によっては、いやがるかもしれないし」
+display
+com11 0 1
+sound 519
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はーい……。
+line2 <shift> # じゃ、考えるだけにしておこーっと」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いつか、そういうの、
+line2 <shift> # ライブの演出とかに活かせるといいな」
+display
+com11 0 1
+sound 520
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ、そうですね！　アイディアは、
+line2 <shift> # ためといてもムダにならないし！」
+display
+com11 0 1
+sound 521
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「そろそろ、こういうの、
+line2 <shift> # 自分でも考える時期かもっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （自分の発想か……。もしかしたら、
+line2 <shift> # 話ぐらいさせてやっても、よかったかな？）
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それとなく伝えよう」
+display
+com11 0 1
+sound 522
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「……って、……ど、どういう風にですか？
+line2 <shift> # メモ渡す、とか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだな」
+display
+com11 0 1
+sound 523
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ううう……、無理かも〜。私、字ヘタだから、
+line2 <shift> # ディレクターさん読めないに決まってます〜っ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ほ、他にも、手はあるだろ？」
+display
+com11 0 1
+sound 524
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「う〜ん、どうしたら……。
+line2 <shift> # 他のスタッフさんから、提案してもらうとか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それが、妥当な線かな」
+display
+com11 0 1
+sound 525
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「わかりました。じゃ、そうしよーっと！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うーん、回りくどいかな？　やよいはもう一流
+line2 <shift> # なんだし、直接言っても、問題ない気が……）
+com09 0 29
+display
+location 29
+unk02

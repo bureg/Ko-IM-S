@@ -1,0 +1,245 @@
+com2c 0 25
+com2d 0 61
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「雪歩、予習中か？」
+display
+com11 0 5
+sound 1100
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい、また新しい仕事に向けて、
+line2 <shift> # 新譜のおさらいとか、やってるんです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「熱心でいいことだな」
+display
+com11 0 5
+sound 1101
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ、いえその、熱心というか……、とにかく、
+line2 <shift> # きちんとやらなくっちゃですから、ね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そういや、雪歩は何故この仕事を？　事務所
+line2 <shift> # 入りのきっかけとか、聞かせてくれないか」
+display
+com11 0 5
+sound 1102
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「それはその……、実は、友達が勝手に
+line2 <shift> # 書類を書いて、応募しちゃって……」
+display
+com11 0 5
+sound 1103
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ、だけど、オーディションは、
+line2 <shift> # 私ひとりで、受けたんですよ」
+display
+com11 0 5
+sound 1104
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「うーん、でも、なんでだろう？
+line2 <shift> # ちょっと自分でも不思議で」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え、なんでって？」
+display
+com11 0 5
+sound 1105
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「目立ったり人から注目されるの、私、
+line2 <shift> # 正直……、苦手だったから」
+com03 0 3
+choice1 <shift> # たとえ人前が苦手でも
+line2
+com09 0 10
+com08
+choice2 <shift> # 苦手なのは少々困るけど
+line2
+com09 0 11
+com08
+choice3 <shift> # 確かに……
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「たとえ人前が苦手でも、
+line2 <shift> # だんだん仕事こなして、慣れればいいさ」
+display
+com11 0 5
+sound 1107
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あっ、そ、そうですかっ！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「オーディション受けたってことは、やっぱり
+line2 <shift> # やりたかったんじゃないか、この仕事？」
+display
+com11 0 5
+sound 1108
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「えっ、は、はい！
+line2 <shift> # たぶん、きっと……、そうですっ」
+display
+com11 0 5
+sound 1109
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「その、私、結構人見知りとか、
+line2 <shift> # しちゃうほうですけど……」
+display
+com11 0 5
+sound 1110
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「でもこれから、だんだん自信持って
+line2 <shift> # やっていければいいなぁ、なんて、思って」
+display
+com11 0 5
+sound 1111
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ステージで堂々、自分がアピールできる
+line2 <shift> # ように、なれたらなぁ、って……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか。すぐにとは言わないが、
+line2 <shift> # いつかなれるさ。俺は応援するよ」
+display
+com11 0 5
+sound 1112
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ありがとうございます。これからも精一杯
+line2 <shift> # やりますので、よろしくお願いしますね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よし、雪歩は、やる気を、
+line2 <shift> # いっそう高めてくれたようだぞ！）
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、人前が苦手なのは少々困るかも」
+display
+com11 0 5
+sound 1113
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ううっ、そうですよね。お客さんの前で
+line2 <shift> # 何かしてこそ、この仕事ですし……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まぁ、ステージの場数を踏んで、
+line2 <shift> # これからなじんでくれればいいさ」
+display
+com11 0 5
+sound 1114
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そうですね……。私、慣れたいけど、
+line2 <shift> # 少し時間がかかっちゃうかもしれません」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あまり目立つ仕事は、
+line2 <shift> # まわさないようにしようか？」
+display
+com11 0 5
+sound 1115
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あっ、いえ、そんな……！
+line2 <shift> # 私だって、一応、アイドルですから」
+display
+com11 0 5
+sound 1116
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「いきなりは無理かもですけど……、これから
+line2 <shift> # だんだん、ちゃんとできるようにしますから」
+display
+com11 0 5
+sound 1117
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「しっかり、ステージで自分がアピール
+line2 <shift> # できるように、なってみたいんです！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか、わかった。時間は多少かかっても
+line2 <shift> # いい。そうなれるように、頑張っていこう」
+display
+com11 0 5
+sound 1118
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はいっ、ありがとうございます」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （課題はまだまだ多そうだけど、
+line2 <shift> # 雪歩のやる気を大切にしよう）
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「確かに……、妙だねぇ。
+line2 <shift> # 苦手なことを、どうして仕事に選ぶんだ？」
+display
+com11 0 5
+sound 1119
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あぅ、そ、それは……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もしかして、応募してくれた友達に
+line2 <shift> # 気をまわして、無理をした？」
+display
+com11 0 5
+sound 1120
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「い、いえ！　そうじゃないですよ！　そうじゃ
+line2 <shift> # ないですけど、その……、いけませんか？」
+display
+com11 0 5
+sound 1121
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ステージに立つには、もっと目立ちたがりな
+line2 <shift> # 派手な人じゃないと、いけないでしょうか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、いけないということはないけど……。
+line2 <shift> # 大変じゃないかなぁ？　いろいろと」
+display
+com11 0 5
+sound 1122
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ううっ、そう考えるとやっぱり私、
+line2 <shift> # この仕事に向いてないのかな……」
+display
+com11 0 5
+sound 1123
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「いいえ、でも私、やってみたいんです！
+line2 <shift> # 歌を歌ってみたいんですっ」
+display
+com11 0 5
+sound 1124
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「苦手なこともあるし、迷惑かけるかもだけど、
+line2 <shift> # 自分でできるだけ、やってみたいんです……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そっか、だったらもっと自信持とうよ、雪歩。
+line2 <shift> # オーディションだって自力で受かってるんだし」
+display
+com11 0 5
+sound 1125
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そ、そうですね……。だんだん自信持って
+line2 <shift> # やっていけたらなぁ、って思います、私」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「焦る必要ないよ。きっと雪歩にしかできない
+line2 <shift> # こともあるさ。これから少しずつ頑張ろう」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しっかり仕事に挑んで欲しいけど、
+line2 <shift> # 雪歩にはまだまだ課題が多そうだな……）
+com09 0 29
+display
+location 29
+unk02

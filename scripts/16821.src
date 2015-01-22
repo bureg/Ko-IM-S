@@ -1,0 +1,323 @@
+com2c 0 39
+com2d 0 31
+com2e 0 34
+com32 0 0
+com11 0 4
+sound 700
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「写真集の撮影って、水着でやるんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。何枚かは必要だから」
+display
+com11 0 4
+sound 701
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「でも、おかしいですよね。
+line2 <shift> # 泳がないのに水着なんてっ！」
+com03 0 3
+choice1 <shift> # お約束だから
+line2
+com4f 0 2
+com09 0 10
+com08
+choice2 <shift> # たしかにな
+com4f 0 2
+com09 0 11
+com08
+choice3 <shift> # 納得いかない？
+line2
+com4f 0 2
+com09 0 12
+com08
+com07
+com4f 0 2
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お約束だから」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「たしかにな」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「納得いかない？」
+display
+com11 0 4
+sound 702
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「いえ、そんなことないです！
+line2 <shift> # 別に、水着とかキライじゃないしー」
+com09 0 19
+display
+location 19
+com11 0 4
+sound 703
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ファンの人ってー、やっぱりそういうの、
+line2 <shift> # 見たいのかなあ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それはそうだよ」
+display
+com11 0 4
+sound 704
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「じゃ、がんばって、バッチリ決めないとっ！
+line2 <shift> # 着替えてきますね、プロデューサー！」
+display
+com22 0 30
+com21 0 30
+com11 0 4
+sound 705
+com4c 0 2
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「いぇい！　カッコいいですかっ？」
+com03 0 3
+choice1 <shift> # よく似合ってるよ
+line2
+com09 0 20
+com08
+choice2 <shift> # セクシーだな
+line2
+com09 0 21
+com08
+choice3 <shift> # ……がんばれ
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よく似合ってるよ」
+display
+com11 0 4
+sound 706
+com4c 0 2
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「……えへへ、ちょっと恥ずかしいかも」
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「セクシーだな」
+display
+com11 0 4
+sound 707
+com4c 0 2
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「え、そうですかー？　そ、そんなこと
+line2 <shift> # 言われたの、はじめてかも〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だろうなあ」
+display
+com11 0 4
+sound 708
+com4c 0 2
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「え、なにか言いましたか？」
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……がんばれ」
+display
+com11 0 4
+sound 724
+com4c 0 2
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ううう、私の水着姿、カッコ悪いですか？
+line2 <shift> # ごめんなさい。あと３年、待って下さい〜……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あああ、言いすぎた！
+line2 <shift> # わかった。待つから、笑って！」
+display
+com11 0 4
+sound 725
+com4c 0 2
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はい……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ごめんな。さっきのは冗談だから。
+line2 <shift> # 気にしないでくれ」
+com09 0 29
+display
+location 29
+com11 0 4
+sound 711
+com4c 0 2
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「でも、こういう模様の水着、いいですよね！
+line2 <shift> # 私……、スクール水着しか持ってないから」
+com03 0 3
+choice1 <shift> # それ、持って帰る？
+line2
+com09 0 30
+com08
+choice2 <shift> # そいつは不自由だな
+line2
+com09 0 31
+com08
+choice3 <shift> # スクール水着もいいな
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それ、持って帰る？」
+display
+com11 0 4
+sound 712
+com4c 0 2
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「い、いいんですかー！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ただし、また撮影で使うから、
+line2 <shift> # なくさないように」
+display
+com11 0 4
+sound 713
+com4c 0 2
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はいっ！　これで学校のプールに、
+line2 <shift> # 泳ぎにいこーっと！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それはマズいだろ？」
+display
+com11 0 4
+sound 714
+com4c 0 2
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「……えへへ、わかってまーすっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （やよいも気に入ったようだし、
+line2 <shift> # これぐらい、なんとか経費で買いとるか）
+com09 0 39
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そいつは不自由だな」
+display
+com11 0 4
+sound 715
+com4c 0 2
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「え、どうしてですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それしか持ってないんじゃ、困るだろ？」
+display
+com11 0 4
+sound 716
+com4c 0 2
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「そんなに、こまらないですけど〜。学校のプー
+line2 <shift> # ルには、指定のやつしか、持っていけないし」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だって、海とかに行く時……」
+display
+com11 0 4
+sound 717
+com4c 0 2
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「え？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、いや……」
+display
+com11 0 4
+sound 718
+com4c 0 2
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「こんなの着られるの、ここでだけだし！
+line2 <shift> # 思いっきり、着ておこーっと」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （海にすら、遊びにいけないのかな？
+line2 <shift> # ふー、墓穴を掘るところだった……）
+com09 0 39
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「スクール水着もいいな」
+display
+com11 0 4
+sound 719
+com4c 0 2
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ええええっ、どうしてです？　あんなの
+line2 <shift> # 黒いだけですし〜、見栄えも悪いですよね？」
+display
+com11 0 4
+sound 720
+com4c 0 2
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「そんなの見たって、ファンの人、
+line2 <shift> # ガッカリするだけじゃ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「中には、よろこぶ人もいるかもしれない」
+display
+com11 0 4
+sound 726
+com4c 0 2
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「そういう人もいるんですか？　変わってるかも。
+line2 <shift> # 私には、よくわからないです〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだな。やよいには、きっと、
+line2 <shift> # 永遠に、わからない世界だな」
+display
+com11 0 4
+sound 727
+com4c 0 2
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「永遠に……？　あの、そういうのが好きな
+line2 <shift> # 人って、もしかして、ちょっと、こわい人？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、最近は、そういうのも流行ってるし、
+line2 <shift> # 別に、必ずこわい人とも限らないけど……」
+display
+com11 0 4
+sound 728
+com4c 0 2
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「で、でも、そういうファンだけに
+line2 <shift> # なっちゃったら、悲しいですよね〜？」
+display
+com11 0 4
+sound 723
+com4c 0 2
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「私〜、たくさんの人に、
+line2 <shift> # 歌、きいてほしいです〜っ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （つまらないこと、言っちゃったな。
+line2 <shift> # やよいをムダに不安がらせてしまった……）
+com09 0 39
+display
+location 39
+unk02

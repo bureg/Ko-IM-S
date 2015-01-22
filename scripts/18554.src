@@ -1,0 +1,805 @@
+com2c 0 119
+com2c 0 18
+com2c 0 17
+com2d 0 33
+com2e 0 113
+com32 0 0
+com11 0 0
+sound 10000
+com4c 0 1
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「わ、私、ゆ……、優勝、したんですよね？
+line2 <shift> # トップアイドルに、なったんですよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、そうだよ。皆に最高の元気をあげられる
+line2 <shift> # トップアイドルに、やよいは、なったんだ！」
+display
+com11 0 0
+sound 10001
+com4c 0 1
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「プロデューサーとの約束、
+line2 <shift> # 守れたんですよね……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「立派に守れたぞ、やよい！」
+display
+com11 0 0
+sound 10002
+com4c 0 1
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「やった、やったあーっ！
+line2 <shift> # ありがとうございます、プロデューサー！」
+display
+com11 0 0
+sound 10003
+com4c 0 1
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「でも、私には、何も返せる物がないから……。
+line2 <shift> # あ、そうだ！　あとで、あれをもらって下さい」
+display
+com11 0 0
+sound 10004
+com4c 0 1
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ＩＵの優勝トロフィー！　賞状と一緒に、
+line2 <shift> # もらえるってききました。だから、それを……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、さすがに、それはもらえないよ。やよい
+line2 <shift> # が持つべきだ。一生の記念になるものだから」
+display
+com11 0 0
+sound 10005
+com4c 0 1
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「でも、私の精一杯の気持ちなんですっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「その気持ちが、最高の贈りものだよ。ありがと
+line2 <shift> # う。……それより、勝利のアレ、やろう！」
+display
+com11 0 0
+sound 10006
+com4c 0 1
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ、そうですね！　えへへ。ＩＵ優勝記念のー、
+line2 <shift> # ハイ、ターッチ！　いぇい！！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （この『ハイタッチ』が、俺には、一番の
+line2 <shift> # 贈りものだ。本当に良くやったな、やよい！）
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 10007
+com4c 0 0
+name 0 3 <names:3>  # President Kuroi
+line1 <shift> # 「結局、勝つこともできなかったか。失望したよ。
+line2 <shift> # 響、お前は約束通り、クビだ！」
+display
+com11 0 0
+sound 10008
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「くぅ……」
+display
+com11 0 0
+sound 10009
+com4c 0 0
+name 0 3 <names:3>  # President Kuroi
+line1 <shift> # 「勝てないアイドルなど、９６１プロには、
+line2 <shift> # いらないんだよ！」
+display
+com11 0 0
+sound 10010
+com4c 0 0
+name 0 3 <names:3>  # President Kuroi
+line1 <shift> # 「せっかく金をかけてやったのに、何もかも
+line2 <shift> # パーだ！　とっとと故郷にでも帰れっ！」
+display
+com22 0 30
+com21 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「響……」
+display
+com11 0 0
+sound 10011
+com4c 0 1
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あの、あれ、どういうことなんですか……？
+line2 <shift> # 響さん、クビって言ってましたよ！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それが９６１プロの方針らしい。ごめん、黙っ
+line2 <shift> # てて。響に、黙っててくれって、頼まれたんだ」
+display
+com11 0 0
+sound 10012
+com4c 0 1
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「そんな。ひどい！　響さんも、
+line2 <shift> # 精一杯がんばってたのに。うう……」
+com03 0 3
+choice1 <shift> # わかってる
+com09 0 10
+com08
+choice2 <shift> # 仕方ないんだよ
+line2
+com09 0 11
+com08
+choice3 <shift> # すまん……
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わかってる。俺も、黒井社長のやり方には、
+line2 <shift> # ガマンの限界を越えてるんだ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「部外者は黙ってろって言われたけど、
+line2 <shift> # やっぱり、一言、言ってくる！」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「仕方ないんだよ。
+line2 <shift> # あれは、９６１プロの事情だし」
+display
+com11 0 0
+sound 10013
+com4c 0 1
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「でも、ひどいですっ。響さんは、あんなに、
+line2 <shift> # いろんな人を元気にできるアイドルなのに！」
+display
+com11 0 0
+sound 10014
+com4c 0 1
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「響さんだけじゃなくて、響さんのファンの
+line2 <shift> # 皆だって、こんな終わり方、悲しみます！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、そうだな……。俺も本当は、助けたいと
+line2 <shift> # 思ってる。俺にできることは少ないが……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、ちょっと行ってくる。
+line2 <shift> # やよいは、ここで、待っててくれ」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「すまん。響が、なかなか心を開いてくれなくて、
+line2 <shift> # 状況を把握するのが、遅くなったんだ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「黒井社長にも、何度か訴えてみたんだけどな」
+display
+com11 0 0
+sound 10015
+com4c 0 1
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「だからって、プロデューサーは、
+line2 <shift> # 響さんを、このままにして、平気なんですか？」
+display
+com11 0 0
+sound 10016
+com4c 0 1
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「私は、そんなのイヤです！
+line2 <shift> # うう、私が黒井社長に、お願いしてきますっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……待ってくれ。
+line2 <shift> # やよいに言われて、目が覚めた」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだよな。悲しむ響を、見過ごすなんて、
+line2 <shift> # できない。よし、やよいは、ここで待ってろ！」
+com09 0 19
+display
+location 19
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「黒井社長！　ちょっといいですか？　これ以上、
+line2 <shift> # 響を泣かすことは、この俺が許しま……」
+display
+com11 0 0
+sound 10017
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「じゃあ、もう、いいよっ！
+line2 <shift> # 黒井社長の、バカ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ば、バカ！？　おおっ！
+line2 <shift> # 響、言う時は、言う子なんだな）
+display
+com11 0 0
+sound 10018
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「自分、やよいを引き抜こうとした、
+line2 <shift> # ほんとの理由きいて、確信したんだ！」
+display
+com11 0 0
+sound 10019
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「黒井社長のやり方、間違ってるよっ！
+line2 <shift> # こんなの、メチャクチャだぞ！」
+display
+com11 0 0
+sound 10020
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「がんばってる女の子を、何だと思ってるん
+line2 <shift> # だよ！　ふざけるなっ！」
+display
+com11 0 0
+sound 10021
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「９６１プロなんて、自分の方から、
+line2 <shift> # やめてやるさーっ！　バイバイっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （響が黒井社長に逆らってるところ、
+line2 <shift> # 初めて見たぞ……）
+display
+com11 0 0
+sound 10022
+com4c 0 0
+name 0 3 <names:3>  # President Kuroi
+line1 <shift> # 「フン。恩を仇で返すとはな。だが私は、
+line2 <shift> # 私のやり方が間違っているとは、思わない」
+display
+com11 0 0
+sound 10023
+com4c 0 0
+name 0 3 <names:3>  # President Kuroi
+line1 <shift> # 「この世界、見た目は華やかだが、
+line2 <shift> # 弱肉強食の世界だ」
+display
+com11 0 0
+sound 10024
+com4c 0 0
+name 0 3 <names:3>  # President Kuroi
+line1 <shift> # 「響や、７６５プロのように、甘いことを
+line2 <shift> # 言っていては、潰されて終わるだけだ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも……、その甘いことを言っている７６５
+line2 <shift> # プロが、やよいが、ＩＵで勝ちましたよ！」
+display
+com11 0 0
+sound 10025
+com4c 0 0
+name 0 3 <names:3>  # President Kuroi
+line1 <shift> # 「調子に乗るな！　たまたま勝ったぐらいで！
+line2 <shift> # フン、不愉快だ。失礼するよ！」
+display
+com11 0 0
+sound 10026
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うーむ。こういう時、
+line2 <shift> # なんと声をかけるべきなのかな……）
+display
+com11 0 0
+sound 10027
+com4c 0 1
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ、あの、黒井社長、帰っちゃいましたけど、
+line2 <shift> # どうしましょう、プロデューサー？」
+display
+com11 0 0
+sound 10028
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「やよい！」
+display
+com11 0 0
+sound 10029
+com4c 0 1
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「は、はい！？　何ですか！？」
+display
+com11 0 0
+sound 10030
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「自分に勝ったこと、誇っていいぞ！　やよいは、
+line2 <shift> # 世界中の人に元気を与えられるアイドルだ」
+display
+com11 0 0
+sound 10031
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「自分が保証する！　だって……、誰よりも自分
+line2 <shift> # が、やよいからたくさん元気をもらったから！」
+display
+com11 0 0
+sound 10032
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「おめでと、トップアイドル！
+line2 <shift> # 自分は、やよいに負けてすっきりしたよっ！」
+display
+com11 0 0
+sound 10033
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「負けた相手が、やよいで良かった。
+line2 <shift> # 負け惜しみじゃなくて、心から、そう思うぞ！」
+display
+com11 0 0
+sound 10034
+com4c 0 1
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「わ、私もっ！　私も、響さんを目指して
+line2 <shift> # きたから、ここまで来られました！」
+display
+com11 0 0
+sound 10035
+com4c 0 1
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ありがとうございます、響さん！」
+display
+com11 0 0
+sound 10036
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「じゃあね、やよい！　バイバイっ！
+line2 <shift> # ……お弁当、ちゃんと食べるからね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、おい、響！」
+display
+com11 0 0
+sound 10037
+com4c 0 1
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「響さん……、９６１プロをやめちゃって、
+line2 <shift> # どこに行くんでしょうか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （響の帰る場所……、もうないはずだよな。
+line2 <shift> # この後、俺は、どうすべきだろう？）
+com03 0 3
+choice1 <shift> # やよいと帰ろう
+line2
+com09 0 20
+com08
+choice2 <shift> # やよいに相談しよう
+line2
+com09 0 21
+com08
+choice3 <shift> # １人で悩もう
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （……それでも、俺はやよいのプロデューサー
+line2 <shift> # だからな。やよいと帰ろう）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「帰ろうか、やよい。高木社長が、祝勝会の準備、
+line2 <shift> # してるだろうし」
+display
+com11 0 0
+sound 10038
+com4c 0 1
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あーっ！　そうだ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「な、なんだよ。いきなり大声出して……」
+display
+com11 0 0
+sound 10039
+com4c 0 1
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「私、まだ家族に、優勝の報告してませんでした。
+line2 <shift> # だから、これから家族の所に、行ってきます！」
+display
+com11 0 0
+sound 10040
+com4c 0 1
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「プロデューサーは、響さんの所に、
+line2 <shift> # 行って下さい！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え。やよいは、それでいいのか？」
+display
+com11 0 0
+sound 10041
+com4c 0 1
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はいっ！　プロデューサーなら、きっと、
+line2 <shift> # 響さんの力に、なれると思います！」
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ここはやよいに相談して決めるか）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なあ、やよい。これから事務所で祝勝会が、
+line2 <shift> # あるんだけど、俺は、どうしたらいいと思う？」
+display
+com11 0 0
+sound 10042
+com4c 0 1
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「そんなの決まってます！　プロデューサーは、
+line2 <shift> # 響さんの所に、行って下さい！」
+display
+com11 0 0
+sound 10043
+com4c 0 1
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「私は、その間に、家族の所に行って、
+line2 <shift> # 優勝の報告、しておきますから！」
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （１人で悩もう。どうしようかな……。やよいと
+line2 <shift> # 帰るべきか……、響のところに行くべきか……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （難しいな……。どっちを選ぶべきか……）
+display
+com11 0 0
+sound 10044
+com4c 0 1
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「どうしたんですか、プロデューサー？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え？　いや、別に……」
+display
+com11 0 0
+sound 10045
+com4c 0 1
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「別に、じゃありません！　プロデューサーは、
+line2 <shift> # 響さんの所に、行って下さい！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え、いいのか……？」
+display
+com11 0 0
+sound 10046
+com4c 0 1
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「もちろんです！　私は、これから家族に、
+line2 <shift> # 優勝の報告、してこなきゃいけないですから！」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、今日の、この日のために、
+line2 <shift> # やよいと俺、２人で、やってきたのに……」
+display
+com11 0 0
+sound 10047
+com4c 0 1
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「きっと、今の響さんには、
+line2 <shift> # プロデューサーが必要だと思います！」
+display
+com11 0 0
+sound 10048
+com4c 0 1
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「私には、祝福してくれる家族がいます。
+line2 <shift> # でも、今の響さんは１人ぼっちですから……」
+display
+com11 0 0
+sound 10049
+com4c 0 1
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「えへへ……。ホントは、プロデューサーと
+line2 <shift> # 離れるの、ちょっぴり寂しいですけど」
+display
+com11 0 0
+sound 10050
+com4c 0 1
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「でも、私の大好きなプロデューサーは、いつ
+line2 <shift> # でも女の子を応援するのが、お仕事ですから！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……わかった。やよいが、そこまで言ってくれ
+line2 <shift> # るなら、少しだけ、響の所に行ってくるよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ほんの少しだけ、待っていてくれ！
+line2 <shift> # 終わったら、事務所に戻るから」
+display
+com22 0 30
+com21 0 30
+com32 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （帰るために、着替えるだろうから、
+line2 <shift> # たぶん、まだ、楽屋にいるはずだけど……）
+display <shift> # コンコン、コンコン
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……響、いるか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ん？　中から、響の話声が、きこえてくる。
+line2 <shift> # 電話中か？）
+display
+com11 0 0
+sound 10051
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「……うん、見ててくれたんだね、兄貴。
+line2 <shift> # ありがと……」
+display
+com11 0 0
+sound 10052
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「……そう、負けちゃったさー！　あっはは！
+line2 <shift> # でも、自分、後悔してないぞ！」
+display
+com11 0 0
+sound 10053
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「……やよいを見てて、トップアイドルが、
+line2 <shift> # 何なのかって、わかった気がするんだ！」
+display
+com11 0 0
+sound 10054
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「……えっ。今、何て言ったっ！？
+line2 <shift> # 『響はバカ』って、どういう意味だよー！」
+display
+com11 0 0
+sound 10055
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「……兄貴は、いっつもそうやって、自分のこと、
+line2 <shift> # バカにするんだ！　バカって言う方がバカだ！」
+display
+com11 0 0
+sound 10056
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「……バカ。ぐすっ、うん……、うるさいな、
+line2 <shift> # うん……、ぐすっ、ね、ねえ、兄貴……」
+display
+com11 0 0
+sound 10057
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「……ごめんなさい。自分、兄貴の話、
+line2 <shift> # きこうとしなくて、意固地になってて……」
+display
+com11 0 0
+sound 10058
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「ぐすっ、うええ、……今から、沖縄帰るから、
+line2 <shift> # 直接、兄貴に謝りたいよ、それで、いい？」
+display
+com11 0 0
+sound 10059
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「……うん、……ありがと。じゃ、またね。
+line2 <shift> # バイバイっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （どうやら、電話は終わったみたいだ。
+line2 <shift> # 沖縄のお兄さんと、仲直り、できたんだな）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「響、俺だよ。入るぞ？」
+display
+com22 0 30
+com21 0 30
+com32 0 2
+com11 0 0
+sound 10060
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「う、うぎゃーっ！　か、勝手に入ってくる
+line2 <shift> # なー！　顔、涙でぐしょぐしょなのにーっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、ああ、すまない。でも、ノックはしたぞ」
+display
+com11 0 0
+sound 10061
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「ぐすっ、ま、まあ、いいけどっ。
+line2 <shift> # 顔ぐしょぐしょでも、自分、カンペキだし……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ははは。いつもの調子が戻ってきたな。
+line2 <shift> # それで、これから沖縄に帰るのか？」
+display
+com11 0 0
+sound 10062
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「うん……。兄貴さ、何の連絡もくれなかった
+line2 <shift> # けど、ＴＶで、ずーっと見てた、って……」
+display
+com11 0 0
+sound 10063
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「兄貴から、ひっく、ぐすっ、よく……、がん
+line2 <shift> # ばったなって、……ううう、うえええーん！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「仲直りできて、良かったな。
+line2 <shift> # それと、今まで１人で、よくがんばった」
+display
+com11 0 0
+sound 10064
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「……ぐすっ、自分１人だったら、
+line2 <shift> # 途中で、ポキッて、折れちゃってたぞ」
+display
+com11 0 0
+sound 10065
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「やよいと、７６５プロ……、
+line2 <shift> # 君が、応援してくれたから……」
+display
+com11 0 0
+sound 10066
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「うええ、えーん！　うわあーん！　ありがとっ、
+line2 <shift> # 励ましてくれて、応援してくれて……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「大丈夫だよ。やよいも俺も、響の気持ちは、わ
+line2 <shift> # かってるから。とりあえず弁当でも食え、な？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （俺は、響が泣きながら弁当を食べる間、
+line2 <shift> # 隣に、いてやることにした……）
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 10067
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「ふー！　おいしかったー！　あんまりおいしい
+line2 <shift> # から、途中で、泣くの忘れちゃったぞ！」
+display
+com11 0 0
+sound 10068
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「やよいって、料理うまいんだね！　見た目は
+line2 <shift> # 質素だけど、味は最高のお弁当だったぞ！」
+display
+com11 0 0
+sound 10069
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「ちょっと、涙の味がしたけどね。あっはは！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「その感想は、やよいに伝えておくよ」
+display
+com11 0 0
+sound 10070
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「さてと。それじゃ、自分、
+line2 <shift> # これから荷物まとめて、沖縄に戻るよっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （寂しくなるな……）
+display
+com11 0 0
+sound 10071
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「あ、７６５プロ、自分がいなくなると、
+line2 <shift> # 寂しくなるって思った？　ねえ、思った？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。明るく元気にがんばる響が、
+line2 <shift> # いなくなると、やよいも俺も、寂しいよ……」
+display
+com11 0 0
+sound 10072
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「あっははは！　安心していいぞっ！」
+display
+com11 0 0
+sound 10073
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「兄貴に、ちゃんと謝ったら、
+line2 <shift> # すぐ戻ってくるから！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「えっ、そうなのか！？
+line2 <shift> # じゃあ、引退は、しないんだな！」
+display
+com11 0 0
+sound 10074
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「うん、まあねっ！　新しい事務所で、
+line2 <shift> # チャレンジャーになって、やり直すよ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え？　それじゃ、７６５プロに来れば、
+line2 <shift> # いいじゃないか。社長には俺が……」
+display
+com11 0 0
+sound 10075
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「あっははは。ありがとう。でも、自分、
+line2 <shift> # 甘えちゃいそうだから、１人で頑張るよ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか、わかった。またどこかの
+line2 <shift> # オーディション会場で、会うかもしれないな」
+display
+com11 0 0
+sound 10076
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「次は、兄貴の応援もあるから、負けないぞ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あはは、それは、こっちのセリフだ」
+display
+com11 0 0
+sound 10077
+com4c 0 2
+name 0 0 <names:4>  # Echo
+line1 <shift> # 「よーし、なんくるないさー！
+line2 <shift> # じゃ、またいつかっ！　バイバイっ！！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （いつかきっと、また会えるような気がする。
+line2 <shift> # その時は、仲間か敵か……。楽しみだ！）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「さてと、俺も、事務所に戻るか。
+line2 <shift> # やよいも待ってるだろうしな！」
+com09 0 99
+display
+location 99
+unk02

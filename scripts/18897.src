@@ -1,0 +1,402 @@
+com2c 0 119
+com2d 0 33
+com2e 0 111
+com32 0 0
+com11 0 0
+sound 10000
+com4c 0 1
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「……うん、うん。ありがとう、カスミ。
+line2 <shift> # もうすぐ帰るからね。じゃあ、またあとで」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やよい！　……あ、あれ？　電話中かな？」
+display
+com11 0 0
+sound 10001
+com4c 0 1
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「すみません、プロデューサー！
+line2 <shift> # お待たせしましたーっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いえいえ。そんなことより……、３次予選も
+line2 <shift> # 大勝利だっ！　やよい、よくやったぞ！」
+display
+com11 0 0
+sound 10002
+com4c 0 1
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うっうー、やりましたっ！
+line2 <shift> # ありがとうございます！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ、勝利の……」
+display
+com11 0 0
+sound 10003
+com4c 0 1
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ハイ、ターッチ！　いぇい！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ところで、さっき電話していたみたいだけど、
+line2 <shift> # どこにかけてたんだ？」
+display
+com11 0 0
+sound 10004
+com4c 0 1
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「家にいる、家族にです！」
+display
+com11 0 0
+sound 10005
+com4c 0 1
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「皆、すっごく喜んでくれました〜！
+line2 <shift> # 弟なんか、『お姉ちゃん、すごい！』って」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「良かったじゃないか。俺も嬉しいよ」
+display
+com11 0 0
+sound 10006
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「響！　どうしたんだ、
+line2 <shift> # 沖縄名産アタックは、しないのか？」
+display
+com11 0 0
+sound 10007
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「あ、あれは、別にいいんだ。さっきは、
+line2 <shift> # やよいが、かわいいもんだから、つい……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あれって、沖縄から取り寄せてるんだろ？」
+display
+com11 0 0
+sound 10008
+com4c 0 1
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「響さんって沖縄出身なんですか？」
+display
+com11 0 0
+sound 10009
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「うん、まあね……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃ、名産品は……」
+com03 0 3
+choice1 <shift> # 家族が送ってくれるのか？
+line2
+com09 0 10
+com08
+choice2 <shift> # 自分で買い付けてるのか？
+line2
+com09 0 11
+com08
+choice3 <shift> # 通販でもしてるのか？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「家族が送ってくれるのか？」
+display
+com11 0 0
+sound 10010
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「何で家族が！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え……。どうして怒るんだよ？
+line2 <shift> # 普通だろ、家族が娘に、荷物送るのって」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「自分で沖縄に帰って、買い付けてるのか？」
+display
+com11 0 0
+sound 10011
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「レッスンや、オーディションで忙しいのに、
+line2 <shift> # 沖縄に帰れるわけないさー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ、家族の差し入れか？」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「通販でもしてるのか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「深夜の通販番組とか見ていると、
+line2 <shift> # ついつい買いたくなっちゃうもんな」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、買いすぎは良くないぞ」
+display
+com11 0 0
+sound 10012
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「自分、そんなことしてないぞー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ、どうやって手に入れてるんだ？
+line2 <shift> # 家族から送られてきてるのか？」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10013
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「うるさいな！　どうでもいいでしょーっ！」
+display
+com11 0 0
+sound 10014
+com4c 0 1
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「でも、響さんの家も大騒ぎなんじゃないですか？
+line2 <shift> # うちも、ＩＵを勝ち抜いて、お祭り騒ぎです！」
+display
+com11 0 0
+sound 10015
+com4c 0 1
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「特に、弟達が、はしゃぎまくりで、
+line2 <shift> # 『お姉ちゃんすごーい』って……」
+display
+com11 0 0
+sound 10016
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「それは、さっき、きいたぞ……」
+display
+com11 0 0
+sound 10017
+com4c 0 1
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あれれ、話しましたっけ？」
+display
+com11 0 0
+sound 10018
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「あんだけ、大っきな声で話してるんだから、
+line2 <shift> # 皆、きいてたと思うぞ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「響、どうかしたのか？
+line2 <shift> # やけに機嫌が悪いみたいだけど」
+display
+com11 0 0
+sound 10019
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「くぅ！　いちいち、ホントにうるさいな、
+line2 <shift> # ７６５プロは！　質問ばっかりしないでよ！」
+display
+com11 0 0
+sound 10020
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「……自分は、１人で９６１プロでがんばってる
+line2 <shift> # けど、寂しくなんかないんだっ！」
+display
+com11 0 0
+sound 10021
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「やよいみたいに、家族の誰にも祝福されないけ
+line2 <shift> # ど、寂しくないったら寂しくないんだもんね！」
+display
+com11 0 0
+sound 10022
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「自分、帰る！　やよい、合格おめでとっ！
+line2 <shift> # じゃあ、バイバイっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうしたんだ、響のヤツ？
+line2 <shift> # 機嫌の悪い原因は、やっぱり……」
+com03 0 3
+choice1 <shift> # 寂しいのかな？
+line2
+com09 0 20
+com08
+choice2 <shift> # 疲れてるのか？
+line2
+com09 0 21
+com08
+choice3 <shift> # 腹でもこわしたのか？
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「寂しいのかな？　どう考えても、あの言い方は、
+line2 <shift> # 本音というより強がりだぞ」
+display
+com11 0 0
+sound 10023
+com4c 0 1
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「沖縄から通うのはムリですよね？　響さん、
+line2 <shift> # 事務所の寮とかで、暮らしてるのかな……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、１人暮らしだろ。友達も、家族すら、
+line2 <shift> # そばにいないわけか……」
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「疲れてるのかな？　普通のオーディション
+line2 <shift> # 以外に、ＩＵもあるし……」
+display
+com11 0 0
+sound 10024
+com4c 0 1
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「でも……、そんな感じじゃなかったですよね？
+line2 <shift> # オーディション前は、いつもと同じでしたよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ、寂しいのかもしれない」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やよいの家族の話をきいて、沖縄で離れて暮ら
+line2 <shift> # してる家族のこと、思い出したとかさ」
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「腹でもこわしたのかな？」
+display
+com11 0 0
+sound 10025
+com4c 0 1
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ええ！？　響さんって、そんな理由で、
+line2 <shift> # 他の人に怒るような人なんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「これは俺の考えだが、響は、食い意地が
+line2 <shift> # 張ってて、『海ぶどう』の食べ過ぎで……」
+display
+com11 0 0
+sound 10026
+com4c 0 1
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うう〜、さすがにそれはないと思います……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だったら……、寂しいのかな？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やよいの家族の話をきいて、沖縄で離れて暮ら
+line2 <shift> # してる家族のこと、思い出したとかさ」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 10027
+com4c 0 1
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「響さん、うれしいことや悲しいことがあった時、
+line2 <shift> # 誰に話してるのかな……」
+display
+com11 0 0
+sound 10028
+com4c 0 1
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「私は、プロデューサーや家族や友達に、
+line2 <shift> # 走っていって報告しますけど」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「誰も、話し相手がいないとしたら、
+line2 <shift> # 響は可哀相だな」
+display
+com11 0 0
+sound 10029
+com4c 0 1
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「私に、話してくれればいいのにな。響さんとは、
+line2 <shift> # 友達になれたらいいなって思います」
+display
+com11 0 0
+sound 10030
+com4c 0 1
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「そしたら、響さんに、
+line2 <shift> # 私からも元気をあげられるかもって思うし」
+display
+com11 0 0
+sound 10031
+com4c 0 1
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ、でも、黒井社長が、
+line2 <shift> # 許してくれないですよね、そんなこと……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだな。あの人は７６５プロを嫌ってるし、
+line2 <shift> # 孤独でいるように響に教えてるから……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「友達を作るなんて、もってのほかだろう」
+display
+com11 0 0
+sound 10032
+com4c 0 1
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ううう、なんとかして下さい、プロデューサー。
+line2 <shift> # このままじゃ響さん、１人で寂しいまんまです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なんとかするには、黒井社長が考えを変える
+line2 <shift> # ように、俺達が、がんばってみるしかないな」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ＩＵに勝ち抜いて、友達や仲間がいても、
+line2 <shift> # トップアイドルになれることを証明するんだよ」
+display
+com11 0 0
+sound 10033
+com4c 0 1
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はいっ！　そうですね。響さんのためにも……、
+line2 <shift> # 次のＩＵの予選も、がんばります！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、俺もサポートするよ！
+line2 <shift> # じゃ、そろそろ事務所へ戻るぞ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （同じ目標を目指すライバルに、元気をあげたい
+line2 <shift> # と思えるところが、やよいの強さだな……）
+com09 0 99
+display
+location 99
+unk02

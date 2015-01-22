@@ -1,0 +1,303 @@
+com2c 0 24
+com32 0 0
+com2d 0 61
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （仕事の合間のオフ時間、事務所で、
+line2 <shift> # 休けいすることになった……）
+display
+com11 0 0
+sound 400
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「今日はちょっと、事務所、冷えますねぇ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんだか外も寒いな。もしかしたら、
+line2 <shift> # にわか雪でも、降るんじゃないか？」
+display
+com11 0 0
+sound 401
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「わっ、ほんとですか？
+line2 <shift> # そんなに寒いんだ……。あ、そうだ」
+display
+com11 0 0
+sound 402
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「こんな冷えこむ時は、あったかいものを食べて、
+line2 <shift> # あったまりませんか？」
+com03 0 2
+choice1 <shift> # いいね！
+com09 0 10
+com08
+choice2 <shift> # 食べ過ぎると……
+line2
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お、いいね！」
+display
+com11 0 0
+sound 403
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あったかいお茶もいいですけど……、きっと、
+line2 <shift> # 食べれば、身体のシンから、あったまりますよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだな。やっぱり、飲むだけよりも、
+line2 <shift> # 食べたほうが、馬力も出るもんな」
+display
+com11 0 0
+sound 404
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「はい！　それに実は、ちょっと、
+line2 <shift> # 食べたい気分だったり……」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今から食べるのか？　食べ過ぎると……、
+line2 <shift> # あとがこわいぞー？」
+display
+com11 0 0
+sound 405
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「た、食べ過ぎなければいいんです！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あったまるなら、あったかいお茶でも、
+line2 <shift> # いいんじゃないかな」
+display
+com11 0 0
+sound 406
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「も、もちろん、熱いお茶も、
+line2 <shift> # いいんですよ？　ですけど……」
+display
+com11 0 0
+sound 407
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「できれば、お茶請けにも、あったかいものが、
+line2 <shift> # 欲しいかなぁ、なんて、思ったりして……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ……。つまり、雪歩は、
+line2 <shift> # お腹がすいてるのかな、もしかして」
+display
+com11 0 0
+sound 408
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あっ。えっと、その、はい、
+line2 <shift> # そうです……。すみません」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 409
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「家を出る時に、食べてくるの、
+line2 <shift> # 忘れちゃって。お腹が鳴りそうなんです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃ、時間もあるし、今のうちに、
+line2 <shift> # 食事でもしておくか。俺、何かおごるよ」
+display
+com11 0 0
+sound 410
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「わ、ほんとですか！　や、やったぁ。
+line2 <shift> # な、何、おごってくれるんですかっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、あんまり高いものはダメだぞ……」
+display
+com11 0 0
+sound 411
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「わかってますよぅ。あっ、でも、
+line2 <shift> # プロデューサーに、おまかせします」
+display
+com11 0 0
+sound 412
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「何が、食べられるのかな。楽しみです……」
+com03 0 3
+choice1 <shift> # 鍋もの
+com09 0 20
+com08
+choice2 <shift> # カレー
+com09 0 21
+com08
+choice3 <shift> # 大福
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、鍋だ！　鍋ものだ」
+display
+com11 0 0
+sound 413
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あったまる食べ物といえば、
+line2 <shift> # やっぱり鍋ですよね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、キングオブあったまる食べ物だな」
+display
+com11 0 0
+sound 414
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「鍋はフグですか、アンコウですかっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、だから、あんまり高いのは、
+line2 <shift> # カンベンな……」
+display
+com11 0 0
+sound 415
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「タラとか、カモとか……。い、いえ。
+line2 <shift> # 鍋なら、私、なんでも大丈夫です！」
+display
+com11 0 0
+sound 416
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そうだ。私、おとうふすくうの、
+line2 <shift> # 上手なんですよ」
+display
+com11 0 0
+sound 417
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「プロデューサーの分のおとうふも、
+line2 <shift> # 私がきれいに、おわんにとってあげますね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後、一緒に鍋料理を食べに出かけた。
+line2 <shift> # 確かに雪歩は、とうふをとるのが上手だった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺には、なんだか、普段の鍋のとうふよりも、
+line2 <shift> # それが、おいしく感じられた……）
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「カレーだな！　身体がほてるほどの、
+line2 <shift> # 熱いカレーを、食べようじゃないか」
+display
+com11 0 0
+sound 418
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「か、カレーですか。あんまり、
+line2 <shift> # 寒い時の食べ物って感じじゃないですね……」
+display
+com11 0 0
+sound 419
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「でも、からいの、嫌いじゃないですよ。
+line2 <shift> # 身体が、あったまるのも、確実だし」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そういえば、雪歩は、
+line2 <shift> # からい食べ物、平気なのか？」
+display
+com11 0 0
+sound 420
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ、大丈夫ですよ。わさびも和からしも、
+line2 <shift> # 唐辛子も、普通に大丈夫です」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「雪歩って、お茶好きだから、
+line2 <shift> # 甘党なのかと思ってたけど」
+display
+com11 0 0
+sound 421
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そうですか？　事務所でも、たまに、お茶と
+line2 <shift> # 一緒に、こしょうせんべいとか、食べてますよ」
+display
+com11 0 0
+sound 422
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「スパイシーなものも、時々、
+line2 <shift> # 食べたくなるんです。お茶との相性もいいし」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後、インドカレー専門店へ、
+line2 <shift> # 雪歩と一緒に出かけた）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （雪歩は持参したお茶を片手に、店で一番からい
+line2 <shift> # カレーを、涼しい顔して、たいらげていた……）
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃあ、大福」
+display
+com11 0 0
+sound 423
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「だ、大福は、あったまるのとは、
+line2 <shift> # 関係ないような……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いかん、間違えた。じゃ、じゃあ、ギョウザ」
+display
+com11 0 0
+sound 424
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ギョウザも、微妙に関係ないような……？」
+display
+com11 0 0
+sound 425
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「大福もギョウザも、私、
+line2 <shift> # 嫌いじゃないですけど……」
+display
+com11 0 0
+sound 426
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あの、それに、いっぺんに、
+line2 <shift> # 大福とギョウザを食べるんですか？」
+display
+com11 0 0
+sound 427
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あんまりいい組み合わせに、
+line2 <shift> # 思えないです……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「う……。そ、そうだな。雪歩、
+line2 <shift> # 他に食べたいものは、ないのか？」
+display
+com11 0 0
+sound 428
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「プロデューサーに、
+line2 <shift> # 決めてほしいんですけど……、ダメですか」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、せっかくだし、
+line2 <shift> # 雪歩の食べたいものをおごるよ」
+display
+com11 0 0
+sound 429
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そ、そうですか。なんにしようかな。
+line2 <shift> # うーん、うーん……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （さんざん悩みまくったあげく、決まらなかった
+line2 <shift> # ので、結局、コンビニのおでんをおごった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （それでも、雪歩は喜んでいたみたいだけど……。
+line2 <shift> # 俺が、もっとちゃんと決めてやればよかったな）
+com09 0 29
+display
+location 29
+unk02

@@ -1,0 +1,256 @@
+com2c 0 42
+com2d 0 33
+com32 0 0
+com11 0 4
+sound 200
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「プロデューサー、すごいお客さんの数っ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「せまい小屋だから、この人数だと、きついな」
+display
+com11 0 4
+sound 201
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「わ、私……、ちょっとドキドキですっ！」
+com03 0 2
+choice1 <shift> # 興奮してる？
+line2
+com4f 0 2
+com09 0 11
+com08
+choice2 <shift> # 緊張してる？
+line2
+com4f 0 0
+com09 0 10
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「緊張してる？」
+display
+com11 0 4
+sound 202
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「いえ、逆ですっ。なんかこう、グーって！」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「興奮してる？」
+display
+com11 0 4
+sound 203
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はいっ！　なんかもう、どうしようって感じで。
+line2 <shift> # うっうー！」
+com09 0 19
+display
+location 19
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やよいは、ライブ向きなのかもしれないな」
+display
+com11 0 4
+sound 204
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「そ、そうかも！　みんなの顔が、
+line2 <shift> # 近くで見られるのが、とっても……」
+com03 0 2
+choice1 <shift> # ＣＤ収録より楽しい？
+line2
+com09 0 20
+com08
+choice2 <shift> # ＣＤ収録、もうやめる？
+line2
+com09 0 21
+com08
+com07
+com09 0 21
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ＣＤ収録より楽しい？」
+display
+com11 0 4
+sound 205
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「え、あ、えっと……、その……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「怒ったりしないから」
+display
+com11 0 4
+sound 206
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ちょ、ちょっとだけ、ライブの方が……」
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ＣＤ収録、もうやめる？」
+display
+com11 0 4
+sound 207
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「え！　そ、そんな……。そ、そっちも好きっ。
+line2 <shift> # だから……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ごめん、ただ言ってみただけだよ」
+display
+com11 0 4
+sound 208
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ…………、ビックリした〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ＣＤを聞いて、ここに来てくれた人も、
+line2 <shift> # たくさんいるだろうし」
+display
+com11 0 4
+sound 209
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「そうですよね！　どっちもがんばらなきゃ！」
+com09 0 29
+display
+location 29
+com11 0 4
+sound 210
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「よーし。思いっきり、歌ってきまーすっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ペースには、気をつけて。
+line2 <shift> # はじめから飛ばしすぎると……」
+display
+com11 0 4
+sound 211
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「えへへ、大丈夫っ！
+line2 <shift> # みんな、応援してくれてるからっ」
+display
+com11 0 4
+sound 212
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「それじゃ、プロデューサー！
+line2 <shift> # ハイ、ターッチ！」
+com0e 0 200
+com44
+com09 0 30
+com45
+com44
+com09 0 31
+com45
+com44
+com09 0 32
+com45
+com44
+com09 0 33
+com45
+display
+location 30
+com11 0 4
+sound 213
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「いぇい！　行ってきまーす！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ステージから、落ちないように！」
+display
+com11 0 4
+sound 214
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はぁいっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （後ろ姿まで、元気いっぱいって感じだな！）
+com09 0 39
+display
+location 31
+com11 0 4
+sound 215
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ、うう〜。すこし長いかも〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ごめん。つい……」
+display
+com11 0 4
+sound 216
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「い、行かなくちゃ。
+line2 <shift> # それじゃ、プロデューサー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。ステージから、落ちないように！」
+display
+com11 0 4
+sound 217
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はぁい！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （タッチって、けっこうむずかしいよな……）
+com09 0 39
+display
+location 32
+com11 0 4
+sound 218
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ぁぁ……、ぅ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「これなら、平気だな」
+display
+com11 0 4
+sound 219
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「……えっ！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、いい感じでドキドキしてるから」
+display
+com11 0 4
+sound 220
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ、はいっ！　それじゃ行ってきまーす！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （結果的には、励ましになったみたいだ。
+line2 <shift> # やよいの鼓動が、まだ手に残ってるな……）
+com09 0 39
+display
+location 33
+com11 0 4
+sound 221
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「プロデューサ〜、手にタッチ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そうだな。じゃあ……」
+display
+com11 0 4
+sound 222
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あああっ。
+line2 <shift> # もうみんな、ステージに行っちゃった！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「や、やよいっ、急いでっ！」
+display
+com11 0 4
+sound 223
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はいっ！　待ってー、みんな〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （足を引っ張ってしまった……。
+line2 <shift> # プロデューサーとして、情けないな）
+com09 0 39
+display
+location 39
+unk02

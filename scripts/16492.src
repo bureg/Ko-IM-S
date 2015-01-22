@@ -1,0 +1,298 @@
+com2c 0 88
+com2d 0 31
+com32 0 0
+com11 0 3
+sound 800
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「エステっ？　どうして、こんなところに？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「気分転換がしたいって言ってきたのは、
+line2 <shift> # やよいだろ？」
+display
+com11 0 3
+sound 801
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「た、高いんじゃ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「こっちで持つから、心配ないよ」
+display
+com11 0 3
+sound 802
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「それに、肌荒れとかは、そんなに……。
+line2 <shift> # プロデューサー、ちょっと見てもらえますか？」
+com0e 0 209
+com44
+com09 0 10
+com45
+com44
+com09 0 11
+com45
+com44
+com09 0 12
+com45
+com44
+com09 0 13
+com45
+com44
+com09 0 14
+com45
+display
+location 10
+com11 0 3
+sound 803
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ……。えっとー、どうですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「すこし、ハリがなくなってるかな」
+com09 0 19
+display
+location 11
+com11 0 3
+sound 804
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ……、口……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、すこし唇も荒れてるな」
+com09 0 19
+display
+location 12
+com11 0 3
+sound 805
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ど、どうして、髪を見るんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……ツヤがなくなってる。
+line2 <shift> # もしかしたら、疲れからか？」
+display
+com11 0 3
+sound 806
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うーん、どうなんだろ。でも、エステって、
+line2 <shift> # 髪のお手入れも、するんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……まあ、アドバイスぐらいは、
+line2 <shift> # くれるんじゃないか？」
+com09 0 19
+display
+location 13
+com11 0 3
+sound 807
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「え？　目元……、ですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、とろんとして眠そうだな。
+line2 <shift> # やっぱり、疲れが、たまってるのかも……」
+display
+com11 0 3
+sound 808
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「そう言われると、ちょっとだるいような、
+line2 <shift> # そうでもないような……。うう、わかりません」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ま、まあ、せっかく来たんだし、
+line2 <shift> # 見てもらったらいいんじゃないかな」
+com09 0 19
+display
+location 14
+com11 0 3
+sound 809
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「……どうですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、俺が見ても、よくわからないな」
+display
+com11 0 3
+sound 810
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「もし荒れてたって、すこしぐらい平気じゃない
+line2 <shift> # ですか？　私、気にしませんけど……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「とにかく、見てもらった方がいいよ。
+line2 <shift> # せっかく来たんだし」
+com09 0 19
+display
+location 19
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃ、俺は、ここで待ってるから」
+display
+com11 0 3
+sound 811
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「ええええ、ひとりで入るんですかっ？　ちょ、
+line2 <shift> # ちょっと怖いけど……。うう、いってきまーす」
+display
+com22 0 30
+com21 0 30
+com11 0 3
+sound 812
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はあ〜……。
+line2 <shift> # ヘンな感じでした。こうペタペタって……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「また、近いうちに来ような」
+display
+com11 0 3
+sound 813
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「え、また！？」
+com03 0 3
+choice1 <shift> # たまにはいいだろ？
+line2
+com09 0 20
+com08
+choice2 <shift> # 通いつめよう
+line2
+com09 0 21
+com08
+choice3 <shift> # 今度は自腹でね
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「たまにはいいだろ？」
+display
+com11 0 3
+sound 814
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「でも、私には似合わないっていうか〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そろそろ、こういう部分にも、
+line2 <shift> # 気をつかっていこう」
+display
+com11 0 3
+sound 815
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「歌だけ歌うのが、アイドルじゃないんですね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「『みんなの憧れ』だからな」
+display
+com11 0 3
+sound 816
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「そうなるには、まだまだかも。
+line2 <shift> # ……もっと勉強しなくっちゃっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （この真っ直ぐさは失わずに、
+line2 <shift> # どんどん輝いていってほしいな）
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「通いつめよう」
+display
+com11 0 3
+sound 817
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「えっ！？　でも……、ものすごいお金が」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……なんとか工面するよ」
+display
+com11 0 3
+sound 818
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「それに……、私、歌手ですよね？
+line2 <shift> # お肌ばっかりに気をつかっても〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「見た目も中身も、みがいていこう。
+line2 <shift> # やよいには、パーフェクトになってほしいし」
+display
+com11 0 3
+sound 819
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「アイドルって、そういうものですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「きっとな」
+display
+com11 0 3
+sound 820
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「歌で、みんなを元気にしたいってだけじゃ、
+line2 <shift> # ダメなんですね……」
+display
+com11 0 3
+sound 821
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「わかりました……。
+line2 <shift> # もっと、オトナにならなくちゃ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （あまり急がせすぎると、
+line2 <shift> # やよいのよさが薄れる気も……、少しするな）
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「今度は自腹でね」
+display
+com11 0 3
+sound 822
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「え……っ！」
+display
+com11 0 3
+sound 823
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「こ、こういうの、ぜいたくとか、そういう
+line2 <shift> # レベル、越えちゃってないですかーっ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうかな。自分で自分に投資するのは、
+line2 <shift> # 悪いことじゃないと思うけど」
+display
+com11 0 3
+sound 824
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「でも、ＣＤ買って、歌の勉強したりとかっ……。
+line2 <shift> # そっちの方が、よくないですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん。できれば、
+line2 <shift> # 両方やっていってほしいけど……」
+display
+com11 0 3
+sound 825
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「い、今の私のギャラじゃ、ムリです〜」
+display
+com11 0 3
+sound 826
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「私っ、なんでもしますっ！
+line2 <shift> # 事務所のお茶くみでも、お掃除でもっ！」
+display
+com11 0 3
+sound 827
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「だから、自腹エステだけは許して下さい〜。
+line2 <shift> # プロデューサー……！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ショックを与えてしまった。やよいの感覚だと、
+line2 <shift> # 自腹でエステなんて、理解できないんだろうな）
+com09 0 29
+display
+location 29
+unk02

@@ -1,0 +1,257 @@
+com2c 0 24
+com2d 0 41
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「千早、大ニュースだ！　この間、発売した
+line2 <shift> # シングル、ついに１００万枚、突破したって！」
+display
+com11 0 1
+sound 1400
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「え！？　本当ですか！？
+line2 <shift> # あの歌が、ミリオン……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。ランクＢともなると、売り上げも段違い
+line2 <shift> # だな。これで文句ナシのスーパーアイドルだ！」
+display
+com11 0 1
+sound 1401
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そうですか、あの歌が……。ふふっ、じつは、
+line2 <shift> # すこし予感はしていたんです」
+display
+com11 0 1
+sound 1402
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「収録の時、不思議な感じがしたんです。力が
+line2 <shift> # ふっと抜けて、声がこぼれだしてきて……」
+com03 0 3
+choice1 <shift> # 歌が、勝手に走り出す感じ？
+line2
+com09 0 10
+com08
+choice2 <shift> # これまでに、そういうことは？
+line2
+com09 0 11
+com08
+choice3 <shift> # ね、熱でもあったんじゃ？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「歌が、勝手に走り出す感じ？」
+display
+com11 0 1
+sound 1403
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。私は、その手伝いをしたというか。
+line2 <shift> # あんな気分で歌えたの、はじめてです」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「これまでに、そういうことは？」
+display
+com11 0 1
+sound 1404
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「一度も、ありませんでした。あんな自然に
+line2 <shift> # 歌えたのは、生まれて、はじめて……」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ね、熱でもあったんじゃ？」
+display
+com11 0 1
+sound 1405
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「体調は、とてもよかったです。強引にコント
+line2 <shift> # ロールしようと思えば、それもできました」
+display
+com11 0 1
+sound 1406
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「でも、直感で、そうしない方がいいって。
+line2 <shift> # あんな状態で歌えたの、はじめてです」
+com09 0 29
+display
+location 29
+com11 0 1
+sound 1407
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「私のすべてが、よどみなく出た気がします。
+line2 <shift> # それが、聴いてくれる人にも、届いたのかも」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか。両親のこととか、いろいろ乗り越えた
+line2 <shift> # のが、いい方に出たかな？」
+display
+com11 0 1
+sound 1408
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あのことが、歌に影響を？　……そうですね。
+line2 <shift> # あれから、小さなこだわりは消えて……」
+display
+com11 0 1
+sound 1409
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そこに、さらに、いろいろな好条件が重なって、
+line2 <shift> # 大きな一歩、踏み出せたのかもしれません」
+com03 0 2
+choice1 <shift> # 最初の一歩、かな？
+line2
+com09 0 30
+com08
+choice2 <shift> # 最後の一歩、かな？
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+com34 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「最初の一歩、かな？」
+display
+com11 0 1
+sound 1410
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。新しい私の、最初の一歩です」
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「最後の一歩、かな？」
+display
+com11 0 1
+sound 1411
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そういう見方も、できますね。長いトンネル
+line2 <shift> # から抜け出すための、最後の……」
+display
+com11 0 1
+sound 1412
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「けど、これは新しい私にとっての、最初の一歩
+line2 <shift> # なんだと思います」
+com09 0 49
+display
+location 49
+com11 0 1
+sound 1413
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「このヒットで……私にずっと、かかったまま
+line2 <shift> # だったクサリ、はずれそうな気がします」
+display
+com11 0 1
+sound 1414
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「歌を愛しながらも、歌にしばられない。やっと、
+line2 <shift> # そういう自由を感じられる場所まで……」
+com03 0 3
+choice1 <shift> # まだまだ、楽はさせないよ
+line2
+com09 0 50
+com08
+choice2 <shift> # もっと上、めざせるだろ？
+line2
+com09 0 51
+com08
+choice3 <shift> # 旅は終わったって、こと？
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 2
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まだまだ、楽はさせないよ」
+display
+com11 0 1
+sound 1415
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ふふっ、わかってます。けど、プロデューサー
+line2 <shift> # の思うようには、いきません」
+display
+com11 0 1
+sound 1416
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「今の私に、楽させないことは、ムリです。
+line2 <shift> # だって、なにをさせられても、幸せですから！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （最高の笑顔、だな。
+line2 <shift> # 見ている俺まで、幸せになるぐらいの……）
+com09 0 69
+display
+location 51
+com34 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もっと上、めざせるだろ？」
+display
+com11 0 1
+sound 1417
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「当然、そのつもりです。足元が、しっかりして
+line2 <shift> # いれば、さらに高く飛べるはずですから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今度は、こっちがついていくの、大変だな。
+line2 <shift> # いざとなったら、気にせず、行ってくれ」
+display
+com11 0 1
+sound 1418
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「こ、困ります！　私、ひとりでは、到底……。
+line2 <shift> # これからも、アドバイス、お願いします！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （やや、あわてさせてしまったかな？　ま、
+line2 <shift> # いいか。振り落とされないよう、がんばろう）
+com09 0 69
+display
+location 52
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「旅は終わったって、こと？」
+display
+com11 0 1
+sound 1419
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そうは、思っていません。ただ、やっと
+line2 <shift> # 落ち着ける位置にきたというか……」
+display
+com11 0 1
+sound 1420
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「それに、歌にしても、それ以外の仕事にしても、
+line2 <shift> # まだまだ未知の部分、あるはずですよね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それは、そうだな。中には、とんでもなく、
+line2 <shift> # やっかいなのや、手間なのもあるだろう」
+display
+com11 0 1
+sound 1421
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ひとつひとつ、こなさなければ、いけませんね。
+line2 <shift> # 浮かれている場合では……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （話は一転、マジメな方向へ。もうすこしぐらい、
+line2 <shift> # 無邪気に、よろこび合っても、よかったか）
+com09 0 69
+display
+location 69
+unk02

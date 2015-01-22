@@ -1,0 +1,456 @@
+com2c 0 17
+com2d 0 41
+com32 0 0
+com11 0 2
+sound 500
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「家庭教師のＣＭ撮影……。
+line2 <shift> # 私は、怒られる教え子の役、ですね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。歌とは関係ない仕事だけど、イヤか？
+line2 <shift> # ご指名だったんで、断りづらくて……」
+display
+com11 0 2
+sound 501
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そういう話なら、
+line2 <shift> # 一生懸命、演じなければと思います」
+display
+com11 0 2
+sound 502
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「歌以外の仕事の、おもしろさやありがたさも、
+line2 <shift> # 最近、わかってきましたから」
+com03 0 2
+choice1 <shift> # そう言ってくれると、助かるよ
+line2
+com09 0 10
+com08
+choice2 <shift> # ＣＭ女王、めざしてみる？
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そう言ってくれると、助かるよ」
+display
+com11 0 2
+sound 503
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……不思議です。
+line2 <shift> # こういう仕事にも、抵抗を感じなくなるなんて」
+display
+com11 0 2
+sound 504
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「いろいろな経験を積んでいくうち、気持ちの
+line2 <shift> # 方も、合わせて変わるのかもしれませんね」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ＣＭ女王、めざしてみる？」
+display
+com11 0 2
+sound 505
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そ、そこまでしようとは、思いません。
+line2 <shift> # やはり、本業は歌手ですから。でも……」
+display
+com11 0 2
+sound 506
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「こういう仕事をやるのも、悪くないです。
+line2 <shift> # 前は、抵抗を感じていたんですけど……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか。すこしでも乗り気でやってくれるなら、
+line2 <shift> # 俺もクライアントも大助かりだよ」
+com09 0 29
+display
+location 29
+com11 0 2
+sound 507
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「けど、どうして私に、こんな生徒役、
+line2 <shift> # まわってきたんでしょう？」
+display
+com11 0 2
+sound 508
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「クライアントが、どんなイメージで指名した
+line2 <shift> # のか。プロデューサー、想像つきますか？」
+com03 0 3
+choice1 <shift> # 怒りがいが、ありそうだから？
+line2
+com09 0 30
+com08
+choice2 <shift> # 優等生っぽいから？
+line2
+com09 0 31
+com08
+choice3 <shift> # 単に、かわいいから？
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「怒りがいが、ありそうだから？」
+display
+com11 0 2
+sound 509
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あ、かもしれませんね。私、時々、意地になる
+line2 <shift> # から、そこを見込まれた気がします。ふふっ」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「優等生っぽいから？」
+display
+com11 0 2
+sound 510
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……そう、見えますか？
+line2 <shift> # たしかに、成績は悪くないですけど」
+display
+com11 0 2
+sound 511
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「でも、ここのところ、すこし不良です。
+line2 <shift> # 忙しくて、出欠、よくないですから」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「単に、かわいいから？」
+display
+com11 0 2
+sound 512
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……そんな見方している人、誰もいないの
+line2 <shift> # では？　私、ちやほやされるタイプじゃ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうかな。顔だけ見れば、
+line2 <shift> # けっこういけると思うけど……」
+display
+com11 0 2
+sound 513
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサーは、ひいき目で見てるんです。
+line2 <shift> # つきあい、長いですから」
+com09 0 49
+display
+location 49
+com11 0 2
+sound 514
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「えーと、コンテを見ると……、私は先生役の人
+line2 <shift> # にこづかれて、あやまる演技をするんですよね」
+display
+com11 0 2
+sound 515
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサー、かるく練習しておきたいん
+line2 <shift> # ですけど、協力してもらえます？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、いいよ。
+line2 <shift> # 先生っぽく、こづけばいいんだな？」
+display
+com11 0 2
+sound 516
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はい、お願いします。それでは、教え子に
+line2 <shift> # なりきって……、ふぅ。……どうぞ、先生」
+com0e 1 160
+com44
+com09 0 50
+com45
+com44
+com09 0 51
+com45
+com44
+com09 0 52
+com45
+com44
+com09 0 53
+com45
+com44
+com09 0 54
+com45
+com44
+com09 0 55
+com45
+com44
+com09 0 56
+com45
+com44
+com09 0 57
+com45
+display
+location 50
+com34 0 3
+com11 0 2
+sound 517
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あ、ごめんなさい、先生……。次は、
+line2 <shift> # がんばります。……こんな感じですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、バッチリだよ。
+line2 <shift> # 演技のセンスも、けっこうあるな」
+display
+com11 0 2
+sound 518
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ふふっ、相手がプロデューサーだからです。
+line2 <shift> # 先生と教え子って、普段のままですから」
+display
+com11 0 2
+sound 519
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「今の感覚、忘れずに……。では、行ってきます。
+line2 <shift> # ありがとうございました」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （やっぱり先生は、おでことか、つつくんだろう
+line2 <shift> # な。家庭教師役、うまくこなせたようだ）
+com09 0 69
+display
+location 51
+com34 0 1
+com11 0 2
+sound 520
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ううっ、ごめんなさいっ、先生……。次は、
+line2 <shift> # がんばります！　……こんな感じですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ちょっと、真剣に、あやまりすぎじゃないか？
+line2 <shift> # スパルタ教育に見えてしまうかも」
+display
+com11 0 2
+sound 521
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そうですか……。でも、頭をこづかれたら、
+line2 <shift> # これくらい反省しますよね？　自然に声が……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん……。こづく場所が、悪かったかな」
+display
+com11 0 2
+sound 522
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「感触としては、つかめました。
+line2 <shift> # 後は、打ち合わせで、つめます。それでは」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （こづくといえば、頭以外、ない気もするけど。
+line2 <shift> # ……まあ、それでも練習相手にはなったか）
+com09 0 69
+display
+location 52
+com11 0 2
+sound 523
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「う……、プロデューサー、痛いです。
+line2 <shift> # うううっ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うわ、ごめん！
+line2 <shift> # 手、ヘンなところに入って……。大丈夫か？」
+display
+com11 0 2
+sound 524
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「わ、わざとやったんじゃないですよね？
+line2 <shift> # 厳しい先生に、徹したとか……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まさか。目をこづく家庭教師なんて、
+line2 <shift> # いないよ。……ほんと、ごめん」
+display
+com11 0 2
+sound 525
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「平気です。とりあえず、顔を洗って、
+line2 <shift> # 撮影は、それから……。う」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （顔をしかめたまま、歩いていってしまった。
+line2 <shift> # とんだ乱暴教師を、演じてしまったな）
+com09 0 69
+display
+location 53
+com11 0 2
+sound 526
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「え？　あ……、すみません、先生……。次は、
+line2 <shift> # がんば……。こういうの、違わないですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そう？　コイツ〜っ、みたいな感じで、
+line2 <shift> # こづいたんだけど」
+display
+com11 0 2
+sound 527
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「家庭教師って、そういうこと、しないと
+line2 <shift> # 思います。特別な関係なら、ともかく……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……言われてみれば、そうかも。
+line2 <shift> # 千早、くわしいな」
+display
+com11 0 2
+sound 528
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「いえ、ただ、知識で知ってるだけです……。
+line2 <shift> # そんな経験、あ、ありませんから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ドギマギしている……。もっと、普通の
+line2 <shift> # 先生っぽく、演じるべきだったかもな……）
+com09 0 69
+display
+location 54
+com11 0 2
+sound 529
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「う……。せ、先生、ごめんなさい。
+line2 <shift> # 次は、がんばりますから、乱暴は……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ちょっと待った。
+line2 <shift> # 乱暴って言葉は、マズくないか？」
+display
+com11 0 2
+sound 530
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「でも……、今のは、そう返すのが、自然な気が。
+line2 <shift> # こづくというより、どつかれた感じで……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う、そうか。腕とかじゃなくて、
+line2 <shift> # 別のところの方が、家庭教師らしかったかな？」
+display
+com11 0 2
+sound 531
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「かもしれませんね。けど、いいです。
+line2 <shift> # あとは、本番でつかみますから……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うーん。いい練習相手に、なれなかったようだ。
+line2 <shift> # 顔のあたりとかを、軽くつつくべきだったか？）
+com09 0 69
+display
+location 55
+com11 0 2
+sound 532
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「は？　あ……、どこをこづいて……。
+line2 <shift> # ……プロデューサー、正気ですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、ほら、よくいるじゃないか。
+line2 <shift> # こういう家庭教師……」
+display
+com11 0 2
+sound 533
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……いません。
+line2 <shift> # もしいたら、訴えられますから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうかな？　同意の上なら、
+line2 <shift> # そこまで話は、大きくならない気が……」
+display
+com11 0 2
+sound 534
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「私、同意したおぼえなんて、ありません。
+line2 <shift> # どうして、マジメに練習相手を……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （悲しそうな目で、こっちを見ている。立場を
+line2 <shift> # 利用して、最低なことをしてしまった……）
+com09 0 69
+display
+location 56
+com11 0 2
+sound 535
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「え？　プロデューサー、家庭教師って……、
+line2 <shift> # そんなところ、こづいて怒るんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ちがうのか？　まあ、どこをつつくかは、
+line2 <shift> # 人によってだと思うけど」
+display
+com11 0 2
+sound 536
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「さすがにそんなところ、つつく人は、
+line2 <shift> # いないと思います。怒られた気がしませんし」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……考えてみれば、そうだな。もうちょっと、
+line2 <shift> # ノーマルな先生を、演じるべきだったか」
+display
+com11 0 2
+sound 537
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「カメラテストの中で、雰囲気つかむしかない
+line2 <shift> # ですね。相手役の人に、いろいろ聞いてみます」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うーん。まったく練習相手になれなかった。
+line2 <shift> # 俺は、力なく、千早の背を見送った……）
+com09 0 69
+display
+location 57
+com11 0 2
+sound 538
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あのー、プロデューサー？　どうしたんです。
+line2 <shift> # ずっと立ったままで……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ごめん……。いざとなると、
+line2 <shift> # 緊張して身体が……」
+display
+com11 0 2
+sound 539
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「べ、別にカメラはまわってませんし、
+line2 <shift> # そんなにかたくなることも……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「理屈じゃわかってるんだけど、手が震えて……。
+line2 <shift> # くっ、なんとか……」
+display
+com11 0 2
+sound 540
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ムリそうなら、いいです。こういうのは本来、
+line2 <shift> # プロデューサーに、頼むことでもないですから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （結局、なにひとつ手伝ってあげられなかった。
+line2 <shift> # 演技って、けっこう度胸がいるな）
+com09 0 69
+display
+location 69
+unk02

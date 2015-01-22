@@ -1,0 +1,488 @@
+com2c 0 32
+com2d 0 83
+com32 0 0
+com11 0 4
+sound 1000
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサ〜、大変ですー！
+line2 <shift> # ライブ中に、ボク、やっちゃいました！」
+display
+com11 0 4
+sound 1001
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ＣＤショップの特設ステージなんて、
+line2 <shift> # せまいところ、慣れてなかったから……」
+display
+com11 0 4
+sound 1002
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はりきってダンスしてたら、最前列のお客さん
+line2 <shift> # に、思い切り、アッパーカットを！」
+com03 0 3
+choice1 <shift> # 手、ケガしなかったか！？
+line2
+com09 0 10
+com08
+choice2 <shift> # なんてこと、してくれたんだ！
+line2
+com09 0 11
+com08
+choice3 <shift> # ＹＯＵ　ＷＩＮ！
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「手、ケガしなかったか！？」
+display
+com11 0 4
+sound 1003
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「心配してくれて、ありがとうございます。ボク
+line2 <shift> # は大丈夫ですけど……、向こうが、心配です」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なんてこと、してくれたんだ！」
+display
+com11 0 4
+sound 1004
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「すみません！　これでも、気をつけては
+line2 <shift> # いたんです。開演してから、しばらくは……」
+display
+com11 0 4
+sound 1005
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「でも、踊ってるうちに、熱くなっちゃって。
+line2 <shift> # 途中から、意識がスッポリ抜けちゃって……」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ＹＯＵ　ＷＩＮ！」
+display
+com11 0 4
+sound 1006
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ボクの勝ち？　ありがとう、ござ……、って、
+line2 <shift> # そんなこと言ってる場合じゃないですよ〜！」
+display
+com11 0 4
+sound 1007
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「来てくれたファンを、殴っちゃったんですよ？
+line2 <shift> # こんなの、勝ちでも、なんでもないです！」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「で、その殴られた人は、
+line2 <shift> # 今、どうしてるんだ！？」
+display
+com11 0 4
+sound 1043
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「大の字になって、その場に倒れてます。
+line2 <shift> # お願いです。なんとかして下さい！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、お医者さんを呼んで、みてもらおう。
+line2 <shift> # そのお客さんがケガでもしてたら、大変だから」
+display
+com11 0 4
+sound 1044
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「わかりました、お願いしますっ！」
+display
+com22 0 30
+com21 0 30
+com11 0 4
+sound 1045
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「……お医者さん、なんて言ってましたか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「気絶しているだけで、特にケガは、
+line2 <shift> # ないそうだ。目が覚めたら帰っていいってさ」
+display
+com11 0 4
+sound 1046
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ホッ……。よかったあ。じゃあ、目が覚める
+line2 <shift> # まで、ボクの楽屋に、いてもらいましょうか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだな。……でも、ワザとじゃないとはいえ、
+line2 <shift> # こんなことしちゃダメだろ、真」
+display
+com11 0 4
+sound 1047
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はい。本当に、すみませんでした。
+line2 <shift> # 以後、気をつけます……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それにしても、この人……、でかいよな。
+line2 <shift> # ゆうに１００キロは、ありそうだ……」
+display
+com11 0 4
+sound 1048
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「とにかく、楽屋へ運ばないと。
+line2 <shift> # このまま放っておくわけには……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだな。しかし、
+line2 <shift> # こんな大男を打ち倒すなんて……」
+com03 0 3
+choice1 <shift> # 一生懸命、踊ってたんだな
+line2
+com09 0 30
+com08
+choice2 <shift> # 成長したな
+com09 0 31
+com08
+choice3 <shift> # すごい才能だな
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「一生懸命、踊ってたんだな」
+display
+com11 0 4
+sound 1010
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はい……。こう、力強く手をあげないと、
+line2 <shift> # 決まらないパートだったんで」
+display
+com11 0 4
+sound 1011
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「でも、そんなの、言い訳にはなりませんよね。
+line2 <shift> # この人にとっては、ただの殴られ損です」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「成長したな。トレーニング積んでるから、
+line2 <shift> # きっと、パワーアップして……」
+display
+com11 0 4
+sound 1012
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あの〜、ほめられても、困るんですけど。
+line2 <shift> # 今の場合、マイナスにしか……」
+display
+com11 0 4
+sound 1013
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「それに、こんなの成長って言わないと思います。
+line2 <shift> # みがくのは、筋力じゃなくて表現力ですよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、どっちかって言えば、そうか……」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「すごい才能だな」
+display
+com11 0 4
+sound 1014
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ううう〜、なんの才能です？　人をＫＯする
+line2 <shift> # 才能なんて、あっても、いばれませんよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「か、カッコいいじゃないか。チョウのように
+line2 <shift> # 舞い、ハチのように刺すアイドル……」
+display
+com11 0 4
+sound 1015
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「舞うのはいいですけど、刺すのは……。
+line2 <shift> # ハチみたいな女の子には、なりたくありません」
+com09 0 49
+display
+location 49
+com11 0 4
+sound 1016
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサー、そろそろ運ばないと。
+line2 <shift> # 手伝ってもらえますか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、じゃあ協力して。あ、かなりの体重だか
+line2 <shift> # ら、ここに力込めないと、持ち上がらないぞ！」
+com0e 2 193
+com44
+com09 0 50
+com45
+com44
+com09 0 51
+com45
+com44
+com09 0 52
+com45
+com44
+com09 0 53
+com45
+com44
+com09 0 54
+com45
+com44
+com09 0 55
+com45
+com44
+com09 0 56
+com45
+display
+location 50
+com11 0 4
+sound 1017
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「おなか、ですね？　わかりました！　グッと
+line2 <shift> # 力を入れて、落っことさないように……！」
+display
+com22 0 30
+com21 0 30
+com11 0 4
+sound 1049
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はあー！　うまく運べましたね。手当ても
+line2 <shift> # すんだし、後は、めざめるのを待つだけ……」
+display
+com11 0 4
+sound 1019
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「いろいろと、ありがとうございました！　もう、
+line2 <shift> # こんなこと、しないように気をつけます！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （見事なコンビネーションで、大男を楽屋に
+line2 <shift> # 運び入れた。ほっと一安心って、ところかな）
+com09 0 69
+display
+location 51
+com11 0 4
+sound 1020
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「おなか……、というか、腰のあたりですね。
+line2 <shift> # わかりました！　じゃ、すこし反る感じで！」
+display
+com22 0 30
+com21 0 30
+com11 0 4
+sound 1021
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はあー！　なんとか、運び込めましたね。
+line2 <shift> # ん、腰のあたり、ちょっと痛いな……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「大丈夫か？
+line2 <shift> # かなりの負担だったろうから……」
+display
+com11 0 4
+sound 1022
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「たいしたことは、ないです。こんなの、
+line2 <shift> # あの人が受けた痛みに比べれば。へへへ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （すこし心配だけど、本人は平気って言ってる
+line2 <shift> # しな。無事に運べて、まあ、よかった）
+com09 0 69
+display
+location 52
+com11 0 4
+sound 1023
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「肩、ですか？　そうですね。じゃあ、
+line2 <shift> # うまく抱え込むような感じにして……！」
+display
+com22 0 30
+com21 0 30
+com11 0 4
+sound 1024
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はぁ、はぁ、プロデューサー、ダメですね……。
+line2 <shift> # この人、重すぎ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もう１回、やってみよう。
+line2 <shift> # 今度こそ、なんとか……」
+display
+com11 0 4
+sound 1025
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ボクのせいですもんね。あきらめるわけには、
+line2 <shift> # いきません。……よしっ！」
+display
+com11 0 4
+sound 1026
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、でも、ちょっと待ってくださいっ！
+line2 <shift> # なんか肩、アイテテテ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （痛そうに、顔をゆがめている。その後、四苦
+line2 <shift> # 八苦したけど、結局、運ぶことはできなかった）
+com09 0 69
+display
+location 53
+com11 0 4
+sound 1027
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「腕、ですか？　そうですね。じゃあ、
+line2 <shift> # 思い切り力を込めて、引っぱり上げてみます！」
+display
+com22 0 30
+com21 0 30
+com11 0 4
+sound 1028
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はぁ、はぁ、プロデューサー、ダメですね……。
+line2 <shift> # この人、重すぎ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もう１回、やってみよう。
+line2 <shift> # 今度こそ、なんとか……」
+display
+com11 0 4
+sound 1029
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ボクのせいですもんね。
+line2 <shift> # あきらめるわけにはいきません。……よしっ！」
+display
+com11 0 4
+sound 1030
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、でも、ちょっと待って下さいっ！
+line2 <shift> # なんか腕、つって、アイテテテ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （こんなやり方じゃ、ムリか？　その後も、
+line2 <shift> # がんばったけど、結局、運べなかった）
+com09 0 69
+display
+location 54
+com11 0 4
+sound 1031
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「顔、ですかー？　そんなところに力入れても、
+line2 <shift> # あんまり意味ない気が……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「こう、鬼のように、しかめっ面してごらん。
+line2 <shift> # きっと、ガッツがわくはずだから」
+display
+com11 0 4
+sound 1032
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ホントかなあ？　わ、わかりました。
+line2 <shift> # 信じてやってみます！　よーし！」
+display
+com22 0 30
+com21 0 30
+com11 0 4
+sound 1033
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサ〜、やっぱりダメですよ〜。
+line2 <shift> # 表情なんか変えたって、どうにも……」
+display
+com11 0 4
+sound 1050
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「だいたい、この人、重すぎですよね。同じ
+line2 <shift> # 倒すんなら、もっと軽い人にしとくんだった」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （気合いで運ぶには、重量過多だったようだ。
+line2 <shift> # ふたりして、力なく、その場に立ち尽くした）
+com09 0 69
+display
+location 55
+com11 0 4
+sound 1035
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「え？　プロデューサー、そんなところに
+line2 <shift> # 力なんて、込めようがないですよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そうかな？　やろうと思えば、
+line2 <shift> # なんとかできそうな気もするけど……」
+display
+com11 0 4
+sound 1036
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そこに、普段以上の力が出る、ツボでもあるん
+line2 <shift> # ですか？　わかりました、なんとか……」
+display
+com22 0 30
+com21 0 30
+com11 0 4
+sound 1037
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はぁ、はぁ……、プロデューサ〜。やっぱり、
+line2 <shift> # ダメです。とても、持ち上がりません〜」
+display
+com11 0 4
+sound 1038
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「逆に意識しちゃって、集中できません。これ
+line2 <shift> # なら、何も考えずにやった方が、まだ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （余計なことを言って、かえって足を引っ張って
+line2 <shift> # しまった。もっとマシな助言、できた気がする）
+com09 0 69
+display
+location 56
+com11 0 4
+sound 1039
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あのー、プロデューサー？
+line2 <shift> # どこに力を込めるんです？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、言うのはカンタンだけど、
+line2 <shift> # あまり余計なこと考えずに、やる方がいいか」
+display
+com11 0 4
+sound 1040
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「……かもしれないですね。力仕事って、頭で
+line2 <shift> # やるもんじゃないし。よしっ、じゃあ早速！」
+display
+com22 0 30
+com21 0 30
+com11 0 4
+sound 1041
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はぁ、はぁ……、おっかしいな。これだけ、が
+line2 <shift> # んばってるのに、なんで持ち上がらないんだろ」
+display
+com11 0 4
+sound 1042
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「気合いが足りないのかな？　でも、気力だけで
+line2 <shift> # 持ち上げるには、この人、重すぎ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （がむしゃらにやってみたけど、徒労に終わった。
+line2 <shift> # うーん、無策で挑むにしては、壁が高すぎたか）
+com09 0 69
+display
+location 69
+unk02

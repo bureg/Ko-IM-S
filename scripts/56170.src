@@ -1,0 +1,497 @@
+com2c 0 118
+com2d 0 21
+com2e 0 121
+com32 0 0
+location 100
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あれ？　あそこに誰かいるみたいだ。
+line2 <shift> # こんな時間に、一体……？）
+display
+com11 0 0
+sound 10000
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「『見れば、世間心細くあはれにはべる。
+line2 <shift> # なでふものをか嘆きはべるべき』」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （女の子が、月を見上げて、
+line2 <shift> # 何か、つぶやいている）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （何を言っているのかまでは、
+line2 <shift> # きき取れないけど……。何だか、哀しそうだ）
+display
+com11 0 0
+sound 10001
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「……」
+display
+com11 0 0
+sound 10002
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「本当に、私に、できるのでしょうか……？」
+display
+com11 0 0
+sound 10003
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「……いえ、そうではなく」
+display
+com11 0 0
+sound 10004
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「せねばならない……。そう、それが、
+line2 <shift> # 生まれながらの、私の、宿命……」
+display
+com11 0 0
+sound 10005
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「でも……。私は……」
+display
+com11 0 0
+sound 10006
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「誰か……、私を……、うう」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……あれは、涙？
+line2 <shift> # あの娘、泣いているのか？）
+display <shift> # ガサッ
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あっ、しまった！）
+display
+com11 0 0
+sound 10007
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「……！　なにやつ！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ……、ご、ごめん！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あの、何だか、つい、
+line2 <shift> # 見とれちゃって、それで……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （なんて、キレイな娘なんだ。それに、
+line2 <shift> # こんな髪の色の娘は、見たことがない……）
+display
+com11 0 0
+sound 10008
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「……怪しい者では、ないようですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、ああ。一応、そのつもりだけど」
+display
+com11 0 0
+sound 10009
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「しかし、背後より黙って見ているというのは、
+line2 <shift> # 悪趣味であろう？　恥を知りなさい！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、あろう！？　恥を知りなさい！？
+line2 <shift> # ……えーと、その、君こそ、誰なんだい？」
+display
+com11 0 0
+sound 10010
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「私は別に、怪しい者ではありません！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、夜に１人で月を見上げて、
+line2 <shift> # そんな言葉づかいの女の子なんて……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「君は……」
+com03 0 3
+choice1 <shift> # 変わってるよね
+line2
+com09 0 10
+com08
+choice2 <shift> # タイムスリッパー？
+line2
+com09 0 11
+com08
+choice3 <shift> # 忍びの者とか？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「君は、少し変わってるよね」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「君は、もしかして、タイムスリッパーとか？」
+display
+com11 0 0
+sound 10011
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「スリッパ……？　無礼者！
+line2 <shift> # 私は、うわばきなどではありません！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええっ！？　う、うわばき？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「い、いや、君をサンダルとか、スリッパって、
+line2 <shift> # 言いたいんじゃないぞ、俺は」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……君、少し変わってるね」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「君は、忍びの者とか？」
+display
+com11 0 0
+sound 10012
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「私は、忍びではありません！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うわっ！？　ご、ごめん！」
+display
+com11 0 0
+sound 10013
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「しかし……、忍んでいる、という点では、
+line2 <shift> # 同じことかもしれませんね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……何だか事情が色々とありそうだな。
+line2 <shift> # 君は、なかなか変わってるね」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10014
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「変わっている……。よく、言われます」
+display
+com11 0 0
+sound 10015
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「もう少し、俗世に、なじまねばなりませんのに、
+line2 <shift> # いささか困りました……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あの、どういう事情があるのかは、
+line2 <shift> # よくわからないけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなに思いつめない方が、
+line2 <shift> # いいんじゃないかな？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「言葉づかいは少し変わってるけど、なんだか、
+line2 <shift> # 君には、輝くものを、感じるんだ」
+display
+com11 0 0
+sound 10016
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「……輝くもの、ですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。うまく言えないけど、
+line2 <shift> # 目をとらえて離さない何か、っていうか……」
+display
+com11 0 0
+sound 10017
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「……目を」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だから、別に、そんなに思いつめた顔を、
+line2 <shift> # しなくても、自分を信じて楽にしていれば……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「きっと、何とかなるんじゃないかな？
+line2 <shift> # あはは、少し適当だけどね」
+display
+com11 0 0
+sound 10018
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっと、あの……。あ！？
+line2 <shift> # お、俺、ナンパしてるんじゃないぞ！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そこのところは、誤解しないでくれよ？」
+display
+com11 0 0
+sound 10019
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「……ううっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え？」
+display
+com11 0 0
+sound 10020
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「う、うえぇぇぇ〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ちょ、ちょっと！
+line2 <shift> # どうして、泣くんだよ！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うう。俺は、どうすればいいんだろう？
+line2 <shift> # 俺も泣きそうになってきた……）
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 10021
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「ぐすっ……、ひっく……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ようやく、泣き止んでくれたか……）
+display
+com11 0 0
+sound 10022
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「……とんだ、ところを……、ひぐっ、
+line2 <shift> # お見せして、しまい……、ううっ」
+display
+com11 0 0
+sound 10023
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「申し訳、ありません……、本当に……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まあ、少し驚いたけど……。
+line2 <shift> # 突然、どうして……？」
+display
+com11 0 0
+sound 10024
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うっ！　俺、またなにか、
+line2 <shift> # 変なこと言ったかな？」
+display
+com11 0 0
+sound 10025
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「……あなた様の、
+line2 <shift> # 優しき言葉に、触れたからです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あ、あなた様！？）
+display
+com11 0 0
+sound 10026
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「私は、幼き頃より、あまり優しき言葉を、
+line2 <shift> # かけてもらったことが、ありませんので……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え？　それは……」
+com03 0 3
+choice1 <shift> # それは大変だな
+line2
+com09 0 20
+com08
+choice2 <shift> # カン違いじゃないのか？
+line2
+com09 0 21
+com08
+choice3 <shift> # スパルタン教育だな！
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それは……、なんていうか、大変だな」
+display
+com11 0 0
+sound 10027
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「大変……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「誰にだって、優しくしてもらいたい時は、
+line2 <shift> # あるよな。子どもの頃なんて、特にさ……」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「カン違いじゃないのか？
+line2 <shift> # 厳しいだけって、そんな親は、いないぞ」
+display
+com11 0 0
+sound 10028
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あっ！　……ご、ごめん。俺、
+line2 <shift> # きいちゃいけないことを、きいちゃったかな？」
+display
+com11 0 0
+sound 10029
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「いえ。私には、じいやがおりますので。
+line2 <shift> # 寂しく思ったことはありません」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……そうか」
+display
+com11 0 0
+sound 10030
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「じいやは、大変厳しい人ですので……。
+line2 <shift> # 私は、いつも、しかられてばかりです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……でもさ、言葉の裏には必ず、優しさが、
+line2 <shift> # 隠れているって思うよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「君の礼儀正しさを見ていたら、じいやさんが、
+line2 <shift> # すごく立派な人なのは、わかるからさ」
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それは、スパルタン教育だな！」
+display
+com11 0 0
+sound 10031
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「……スパルタン教育とは、何でしょうか？
+line2 <shift> # はじめてきいたのですが」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あれ？　もしかしたら、
+line2 <shift> # スパルタ教育だったかな？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「誰かがどこかで、そんなことを言っていた
+line2 <shift> # ような、いなかったような……」
+display
+com11 0 0
+sound 10032
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、あれ？
+line2 <shift> # もしかしたら……、あきれちゃった、とか？」
+display
+com11 0 0
+sound 10033
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「……教育ですか。そうですね、
+line2 <shift> # 教育だったのかもしれません」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……それって、優しくされなかったことが、
+line2 <shift> # 教育だったって、言っているのか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あの、よけいなお世話かもしれないけど、
+line2 <shift> # そんなことは、ないと思うぞ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「愛がなけりゃ、言葉は通じない。
+line2 <shift> # 厳しく教育されてきたのかもしれないけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「必ず、そこに愛はあったと、思う」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 10034
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「……」
+display
+com11 0 0
+sound 10035
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「あなた様は、真、優しきお方なのですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ？」
+display
+com11 0 0
+sound 10036
+com4c 0 2
+name 0 0 <names:2>  # ???
+line1 <shift> # 「見ず知らずの私に、そのような言葉を……。
+line2 <shift> # ふふっ、今夜は楽しい月夜となりました」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うわ……、こんな風にも、笑えるんだ。
+line2 <shift> # それに、キレイな声に、キレイな顔立ち……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （間違いなく、
+line2 <shift> # トップアイドルの原石じゃないか……！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （これって、スカウトをしなさいっていう、
+line2 <shift> # 芸能の神さまからの、指令なのかも。よしっ！）
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ゴホン！　あの、君さ。
+line2 <shift> # もし、アイドルに興味とかあったら……」
+com09 0 100
+display
+unk02

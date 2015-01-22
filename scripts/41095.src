@@ -1,0 +1,195 @@
+com2c 0 118
+com2d 0 71
+com32 0 0
+location 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おい、律子！
+line2 <shift> # こんな投げやりな別れ方が、あるかよっ？」
+display
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「別に、いいでしょ。
+line2 <shift> # もう、やることは、やり終えたんだから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「せめて、世話になった社長に、
+line2 <shift> # あいさつぐらい……」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「……いったい、どのツラ下げて、
+line2 <shift> # あいさつしろって、いうんです！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「律子……」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ライブ失敗して、ファンの期待、裏切って、
+line2 <shift> # プロデューサーや社長の顔に、ドロぬって……」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「黙って消えるのが、せめてもの、
+line2 <shift> # 責任のとりかたでしょ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おい、消えるって……。まさか、このまま、
+line2 <shift> # アイドルやめるつもり、なのか？」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「当たり前です。そもそも、アイドルとして、
+line2 <shift> # デビューしたこと自体、間違いだった……」
+display
+com1c 0 3
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんだって？　俺達が過ごしてきた時間、
+line2 <shift> # そのものまで、否定する気か？」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そうしたくも、なる！　私だってね、自分の
+line2 <shift> # 力のなさ知りながら、真剣にレッスンしてきた」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「にも、関わらず、こんな結果だったんだから、
+line2 <shift> # 初手が間違ってたと、思うしかないじゃない」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……俺は、そうは思わないよ。
+line2 <shift> # 今は、なにを言ってもムダだろう。でも……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「しばらく休んで、充電したら、また……」
+com03 0 3
+choice1 <shift> # 俺と、がんばろう　
+line2
+com09 0 10
+com08
+choice2 <shift> # 誰かと、がんばれ　
+line2
+com09 0 11
+com08
+choice3 <shift> # ひとりで、がんばれ　
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺と、がんばろう」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「それはできない。それじゃ話が違うし、これ以
+line2 <shift> # 上プロデューサーといると、みじめになるから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうして？」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「わかるでしょ？　いつも偉そうなこと言ってた
+line2 <shift> # のに、こんな失態、見せちゃって……」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「もう、前と同じように接するなんて、できない
+line2 <shift> # から。……自分の思い上がりが、恥ずかしい」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……」
+com09 0 18
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「誰かと、がんばれ」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「多分、ムリ……。
+line2 <shift> # 私と仕事したがる人なんて、見つからないから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうして？」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「私のような、口だけ立派な人間を、プロデュー
+line2 <shift> # スしたいって思う人……、もう現れない」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなことは、ないって！　律子のよさがわか
+line2 <shift> # るヤツは、俺以外にも、きっとどこかに……」
+display
+com11 0 0
+sound 10012
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「だといいけど。じゃ、もう行きますね。私は、
+line2 <shift> # 長期休暇をとって、再起をめざしますけど……」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ひとりで、がんばれ。そもそも、律子は、
+line2 <shift> # 独力の方が、力を発揮するタイプかも！」
+display
+com11 0 0
+sound 10013
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そんなこと、ない。もし、ひとりになったら、
+line2 <shift> # 私、ますますダメになります」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「自分の力過信して、突っ走って、そして、
+line2 <shift> # その先は……」
+com09 0 18
+display
+location 18
+com11 0 0
+sound 10015
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「じゃ、もう行きますね。私は、
+line2 <shift> # 長期休暇をとって、再起をめざしますけど……」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10016
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「プロデューサーは、もっといいパートナーと、
+line2 <shift> # このまま、がんばって！　さよならっ！」
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あっ、律子！　律子ーっ！」
+display
+location 100 129 92 129 92 130 177 130 164 130 181 130 196 129 65 137 180 130 170 136 231 130 196 130 189 143 159 139 67 130 200 143 173 143 151 130 205 129 65 130 187 130 204
+line2 <shift> # 鼻っ柱をコナゴナに砕かれ、去っていった。
+display
+location 101 131 137 131 88 131 103 131 137 131 67 131 117 142 184 148 115 129 66 130 187 130 204 142 150 142 192 130 205 129 65 151 165 142 113 130 204
+line2 <shift> # プライドをひどく傷つけたようだ。けれど――、
+display
+location 102 137 105 137 147 130 201 145 177 130 173 150 233 130 205 129 65 130 200 130 162 129 66 130 162 130 194 130 169 151 167 130 191 146 188 130 193 130 196
+line2 <shift> # くれると信じ……、俺は、律子の背を見送った。
+display
+unk02

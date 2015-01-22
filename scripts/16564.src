@@ -1,0 +1,315 @@
+com2c 0 35
+com2d 0 31
+com32 0 0
+com11 0 3
+sound 1400
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「プロデューサー！　今、そこの駅に、この間、
+line2 <shift> # 撮ったポスター、貼ってありましたっ」
+display
+com11 0 3
+sound 1401
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「うっうー、この間、ランクもＤにあがったし、
+line2 <shift> # やっと、一人前のアイドルって感じですね！」
+display
+com11 0 3
+sound 1425
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「えへへ。ああいうポスターって、時々、ファン
+line2 <shift> # の人が、はがして持ってったりしますよね？」
+com03 0 3
+choice1 <shift> # そうだな
+com09 0 10
+com08
+choice2 <shift> # じゃあ俺も
+com09 0 11
+com08
+choice3 <shift> # それは犯罪だよ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだな。それが人気のバロメーターにも、
+line2 <shift> # なったりするな」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そういうことするのは犯罪だから、
+line2 <shift> # ほめられたことじゃないんだけどな」
+display
+com11 0 3
+sound 1426
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「欲しい人みんなに、
+line2 <shift> # ポスターあげられたらいいのにな……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「プレゼントキャンペーンとか、
+line2 <shift> # できたらいいかもな」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、とりあえずは毎日、駅で見るだけで、
+line2 <shift> # ガマンしてもらうしかないけど……」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ俺もやるかな」
+display
+com11 0 3
+sound 1427
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「え？　やるって……？　だ、ダメですー！
+line2 <shift> # プロデューサーが、そんなことしちゃ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え。でも、やよい、ポスターを、
+line2 <shift> # 持って行ってもらいたそうだったじゃないか」
+display
+com11 0 3
+sound 1428
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「でも、本当は、いけないことだし、悪いこと
+line2 <shift> # してプロデューサーが捕まったら困るしっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あはは。そんなに必死にならなくても、
+line2 <shift> # 本当にはやらないよ。冗談、冗談！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「悪いことはしたくないし、何より、やよいの
+line2 <shift> # ポスターを、みんなに見てほしいからね」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それは犯罪だよ」
+display
+com11 0 3
+sound 1429
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「そうなんですよね。そこまでしてでも欲しいっ
+line2 <shift> # て思ってくれるのは、うれしいんですけど……」
+display
+com11 0 3
+sound 1430
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「持っていってもいいポスターって、
+line2 <shift> # できないですか、プロデューサー？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん。気持ちはわかるけど、それだと、
+line2 <shift> # 他の人がポスター見られなくなるからな」
+com09 0 19
+display
+location 19
+com11 0 3
+sound 1431
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ、そうかー。駅に来れば、
+line2 <shift> # いつでも私のポスター、見られるんですよねー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。毎日、大勢が見るんだぞ。
+line2 <shift> # やよいの知名度も急上昇だな」
+display
+com11 0 3
+sound 1432
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「……これで、妹や弟たちにも『お姉ちゃんは、
+line2 <shift> # アイドルだよーっ』って、言えそうです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、兄弟いるのか」
+display
+com11 0 3
+sound 1408
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はい。たくさん！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「何人くらい？」
+display
+com11 0 3
+sound 1409
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「んー、ここで問題！
+line2 <shift> # うちは全部で、何人兄弟でしょー？」
+com03 0 3
+choice1 <shift> # ５人ぐらい？
+line2
+com09 0 20
+com08
+choice2 <shift> # ３人ぐらい？
+line2
+com09 0 21
+com08
+choice3 <shift> # １０００人ぐらい？
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「５人ぐらい？」
+display
+com11 0 3
+sound 1410
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「すっごーい！　プロデューサー、
+line2 <shift> # どうしてわかったんですか？」
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「３人ぐらい？」
+display
+com11 0 3
+sound 1411
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「それ、少なくもないですけど、
+line2 <shift> # そんなに多くもないですよね？」
+display
+com11 0 3
+sound 1412
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「正解は５人でしたー！」
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「１０００人ぐらい？」
+display
+com11 0 3
+sound 1413
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「そんなにいたら、家、パンクしちゃいますっ」
+display
+com11 0 3
+sound 1414
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「正解は５人でしたー！」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか。それだけいるんじゃ、
+line2 <shift> # 生活、苦しいわけだ」
+display
+com11 0 3
+sound 1415
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はい……。
+line2 <shift> # でもー、いいことだって、たくさんあるし！」
+com03 0 3
+choice1 <shift> # にぎやかで楽しい、とか？
+line2
+com09 0 30
+com08
+choice2 <shift> # 遊び相手に困らない、とか？
+line2
+com09 0 31
+com08
+choice3 <shift> # いろいろ命令できる、とか？
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「にぎやかで楽しい、とか？」
+display
+com11 0 3
+sound 1416
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「やっぱり、それが一番ですね！」
+display
+com11 0 3
+sound 1417
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「もっともっとがんばって、『お姉ちゃん、
+line2 <shift> # すごすぎ』って言われるようにならないとっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （５人兄弟か……。家族の話をするやよいは、
+line2 <shift> # なんか、とても微笑ましかった）
+com09 0 39
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「遊び相手に困らない、とか？」
+display
+com11 0 3
+sound 1433
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「妹や弟たちは、そうです。私がいるから……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やよいは、子守役なんだ？」
+display
+com11 0 3
+sound 1419
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「はい。大変ですけどー、でもまあ、その分、
+line2 <shift> # 楽しいかなあって」
+display
+com11 0 3
+sound 1420
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「あ、いまごろ、泣いてないかな……。
+line2 <shift> # ちょっと心配になってきちゃいました」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （５人兄弟か……。やよいはすこし落ち着かない
+line2 <shift> # ようで、視線をキョロキョロさせている……）
+com09 0 39
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いろいろ命令できる、とか？」
+display
+com11 0 3
+sound 1421
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「そんなこと、私、しないですっ。したって、
+line2 <shift> # なかなか言うこと、きいてくれないしー」
+display
+com11 0 3
+sound 1422
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「昼寝しよーって言っても、寝てくれないし、
+line2 <shift> # この間も、私の教科書……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、いいことだってあるんだろ？」
+display
+com11 0 3
+sound 1423
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「う〜ん、話してるうちに、
+line2 <shift> # そんなでもない気がしてきました……」
+display
+com11 0 3
+sound 1424
+name 0 0 <names:1>  # Yayoi
+line1 <shift> # 「同級生とかで、こんなことに追われてるの、
+line2 <shift> # 私だけだし。はあ〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ゆううつそうな顔になってしまった。命令する
+line2 <shift> # どころか、引っぱり回されてる感じだな）
+com09 0 39
+display
+location 39
+unk02

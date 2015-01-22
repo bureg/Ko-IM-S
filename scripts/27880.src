@@ -1,0 +1,346 @@
+com2c 0 41
+com2d 0 43
+com32 0 0
+com11 0 4
+sound 300
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「おつかれさまです、プロデューサー。
+line2 <shift> # ライブ、前半はなんとか。あとは後半ですね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。なんか、今日は客層が高めだな。
+line2 <shift> # 市民ホールっていう、場所のせいか？」
+display
+com11 0 4
+sound 301
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「だと思います。そのせいで、私、
+line2 <shift> # 弱りはてて……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ん？　なに、真っ赤な顔してるんだ？」
+display
+com11 0 4
+sound 302
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「客席にひとり、ヘンなおじさんがいるんです。
+line2 <shift> # 『千早ちゃん、がんばれー』って、叫ぶ……」
+display
+com11 0 4
+sound 303
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「なにも、反応できませんでした。千早ちゃん
+line2 <shift> # なんて呼ばれるの、慣れてないから」
+com03 0 2
+choice1 <shift> # 災難だったな、千早
+line2
+com09 0 10
+com08
+choice2 <shift> # 熱心なファンがいて、よかったな
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「災難だったな、千早」
+display
+com11 0 4
+sound 304
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「正直、まいりました。なんとかなりませんか？
+line2 <shift> # 歌っている最中にやられると、集中できません」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「熱心なファンがいて、よかったな」
+display
+com11 0 4
+sound 305
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……ちっとも、よくなんて。それが原因で、
+line2 <shift> # ミスしないよう、まとめるの、大変でした」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、好かれてる証じゃないか。
+line2 <shift> # たとえ、相手はおじさんでも」
+display
+com11 0 4
+sound 306
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「デメリットの方が、大きいです。なんとかなり
+line2 <shift> # ませんか。歌の最中に叫ばれると、困ります」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ガマンしろって。歌いながら、声援に応えて
+line2 <shift> # やれば、いいじゃないか。その……ここでさ」
+com0e 1 151
+com44
+com09 0 30
+com45
+com44
+com09 0 31
+com45
+com44
+com09 0 32
+com45
+com44
+com09 0 33
+com45
+com44
+com09 0 34
+com45
+com44
+com09 0 35
+com45
+com44
+com09 0 36
+com45
+display
+location 30
+com34 0 1
+com11 0 4
+sound 307
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「手を振るんですか？　あ、それなら、
+line2 <shift> # 片手間でも。わかりました。試してみます」
+com09 0 49
+display
+location 31
+com11 0 4
+sound 308
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「し、視線なんか合わせたら、きっと歌どころ
+line2 <shift> # じゃなくなって……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうかな？　ちょっと見てあげるだけでも、
+line2 <shift> # よろこぶよ？」
+display
+com11 0 4
+sound 309
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「それでも、危険です。やはり、無視して、
+line2 <shift> # 平静を保つのが、一番ですね」
+com09 0 49
+display
+location 32
+com11 0 4
+sound 310
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「声をかけるんですか？　歌いながら、そんな
+line2 <shift> # こと、できるわけ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「間奏の時とかなら、言えるだろ？
+line2 <shift> # 『ありがとうー、おじさん』とかって」
+display
+com11 0 4
+sound 311
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「間奏中も、私、歌の世界に入り込んでますから。
+line2 <shift> # あの人は、やはり無視するのが、一番ですね」
+com09 0 49
+display
+location 33
+com11 0 4
+sound 312
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「微笑みでも返せって、言うんですか？
+line2 <shift> # ムリです。きっと、顔が引きつって……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「表情はつくらなくても、ちょっと顔を向ける
+line2 <shift> # ぐらい、できるだろ？」
+display
+com11 0 4
+sound 313
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「万が一、目でもあったら、歌詞とか忘れて……。
+line2 <shift> # やっぱり、無視が一番です」
+com09 0 49
+display
+location 34
+com11 0 4
+sound 314
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「胸の中で、アイサツしろとでも？
+line2 <shift> # そんなことをしても、意味がないんじゃ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうかな？　まあ、心の中で感謝されれば、
+line2 <shift> # 向こうも本望だろ」
+display
+com11 0 4
+sound 315
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あんな人に、感謝なんて……。
+line2 <shift> # やっぱり、無視するのが一番ですね」
+com09 0 49
+display
+location 35
+com11 0 4
+sound 316
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そんなところで、どう応えるんです？
+line2 <shift> # 不可能な気が……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうかな？　やってできないことはないだろ」
+display
+com11 0 4
+sound 317
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「できません、どう考えても。やはり、あの人は
+line2 <shift> # 無視するのが、一番ですね」
+com09 0 49
+display
+location 36
+com11 0 4
+sound 318
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサー？　どこで応えるんです？
+line2 <shift> # どうして、黙ったまま……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あああ、ごめん。えーと、歌いながら
+line2 <shift> # 無理なくできる、リアクションは……」
+display
+com11 0 4
+sound 319
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「いいです、必死に考えてくれなくて。
+line2 <shift> # ああいう人は、無視するのが一番ですから」
+com09 0 49
+display
+location 49
+com11 0 4
+sound 320
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あ、そろそろ、後半スタンバイですね。
+line2 <shift> # と、行く前に……」
+display
+com11 0 4
+sound 321
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「前半で気づいたこととかあったら、言って
+line2 <shift> # もらえますか？　後半、修正しますから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、とくにないよ。そのおじさんに
+line2 <shift> # 面食らってるのも、全然、目立たなかったし」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「前半と同じ調子で、いってくれ。
+line2 <shift> # あとは……そうだな。俺から、軽くエールを」
+com03 0 3
+choice1 <shift> # 一期一会だぞ、千早
+line2
+com09 0 50
+com08
+choice2 <shift> # 千早ちゃん、がんばれー
+line2
+com09 0 51
+com08
+choice3 <shift> # 愛想よく、歌うんだぞ
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 2
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「一期一会だぞ、千早。今回のミスを、
+line2 <shift> # 次回、取り戻せるって、思うな」
+display
+com11 0 4
+sound 322
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「一期一会……。本当にそうですね。
+line2 <shift> # やり直しは、ききません」
+display
+com11 0 4
+sound 323
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「おじさんに、乱されてる場合じゃ……。
+line2 <shift> # ありがとうございました。……決めてきます」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （肩で、風を切りながら、歩いていく。
+line2 <shift> # よしっ。ピンと伸びた、いい背中だ）
+com09 0 69
+display
+location 51
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「千早ちゃん、がんばれー」
+display
+com11 0 4
+sound 324
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサー？？？　な、なんです。
+line2 <shift> # その……困らせるつもり？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、そういうわけじゃ。たまには、
+line2 <shift> # こんなのも、いいかなって」
+display
+com11 0 4
+sound 325
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「よくないです。普通に呼んでください。
+line2 <shift> # 落ち着きません……」
+display
+com11 0 4
+sound 326
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「いきなりで、どうしようかと思いました。
+line2 <shift> # ……ふふっ、もう」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （困りつつも、すこし笑いながら、ステージへと
+line2 <shift> # 歩いていく。ユーモアも、まあ、悪くはないか）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「愛想よく、歌うんだぞ。おじさんに
+line2 <shift> # 引っ張られて、ぶすっとするなよ？」
+display
+com11 0 4
+sound 327
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「大丈夫です。元から、愛想いい方じゃないです
+line2 <shift> # から」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「む、胸張られてもなあ」
+display
+com11 0 4
+sound 328
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「それに、歌の内容と態度は、切り離せません。
+line2 <shift> # 別物みたいに、コントロールなんて……」
+display
+com11 0 4
+sound 329
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ベストは尽くします。けど、どこまで意向に
+line2 <shift> # 従えるかは、やってみないと……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （自信なさそうに、ステージへと歩いていく。
+line2 <shift> # 別の言葉で送り出した方が、よかったか）
+com09 0 69
+display
+location 69
+unk02

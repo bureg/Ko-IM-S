@@ -1,0 +1,271 @@
+com2c 0 32
+com2d 0 41
+com32 0 0
+com11 0 4
+sound 400
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサー。サイン会、まだ続くんですか。
+line2 <shift> # 私、もうサインしたくありません……」
+display
+com11 0 4
+sound 401
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「歌手の義務かもしれないけど、手が痛くて。
+line2 <shift> # それに、ファンの注文、うるさすぎます」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「耐えてくれよ。どんなこと、頼まれたんだ？」
+display
+com11 0 4
+sound 402
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「『メッセージも書いてくれ』とかって。
+line2 <shift> # 歌手って、メッセージは歌で伝えるものでは？」
+com03 0 2
+choice1 <shift> # それと、これとは、別だよ
+line2
+com09 0 10
+com08
+choice2 <shift> # 伝えきれないものも、あるだろ？
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それと、これとは、別だよ」
+display
+com11 0 4
+sound 403
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そういうものですか。私に歌以外の期待をする
+line2 <shift> # なんて、ファンの気が知れません」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「伝えきれないものも、あるだろ？」
+display
+com11 0 4
+sound 404
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ないです。もし、伝えきれないとしたら、
+line2 <shift> # それは、私がまだ未熟だから……」
+display
+com11 0 4
+sound 405
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「やるべきことは、トレーニングだと思います。
+line2 <shift> # 色紙に書いてしまうなんて……逃げだと」
+com09 0 29
+display
+location 29
+com11 0 4
+sound 406
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あ、注文だけじゃなく、文句も言われました。
+line2 <shift> # サインが、あまりサインっぽくないとか」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どんな風に、書いてるんだ？」
+display
+com11 0 4
+sound 407
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「普通に、名前を楷書（かいしょ）で書いていま
+line2 <shift> # す。グニャグニャな字なんて、書けませんから」
+com03 0 3
+choice1 <shift> # 千早らしいな
+line2
+com09 0 30
+com08
+choice2 <shift> # この機に、試してみたら？
+line2
+com09 0 31
+com08
+choice3 <shift> # 練習した方が、いいかもな
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「千早らしいな」
+display
+com11 0 4
+sound 408
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あ、ありがとうございますって、言うん
+line2 <shift> # ですか？　こういう場合……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、まあ、自由でいいけど。でも、普通に
+line2 <shift> # 名前を書くだけじゃ、やっぱりさびしいな」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「この機に、試してみたら？」
+display
+com11 0 4
+sound 409
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……やめた方が、いい気が。付け焼き刃で、
+line2 <shift> # なにかすると、ロクなことになりませんから」
+display
+com11 0 4
+sound 410
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ライブとかでも、そうですよね？　リハで
+line2 <shift> # できないことは、たいてい本番でも失敗を……」
+com09 0 91
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「練習した方が、いいかもな」
+display
+com11 0 4
+sound 411
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「サインに時間を費やすなんて、信じられません。
+line2 <shift> # そんな余裕はないはずですよね？」
+display
+com11 0 4
+sound 412
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ファンにとっても、それはきっと損……。
+line2 <shift> # 歌の質、落ちることになりますから」
+com09 0 91
+display
+location 91
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、そうか。けど、普通に名前を
+line2 <shift> # 書くだけってのは、やっぱりさびしいな」
+com09 0 49
+display
+location 49
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだ！　せめて、名前のお尻に、マークでも
+line2 <shift> # つけてみよう。それで、だいぶハデになるから」
+display
+com11 0 4
+sound 413
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「マーク……。いいですけど、どんなのを書き
+line2 <shift> # ます？　どういうのが、私らしいでしょう？」
+com03 0 3
+choice1 <shift> # 『♪』とか、どうだ？
+line2
+com09 0 50
+com08
+choice2 <shift> # 『☆』とか、どうだ？
+line2
+com09 0 51
+com08
+choice3 <shift> # 『〒』とか、どうだ？
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 3
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「『♪』とか、どうだ？」
+display
+com11 0 4
+sound 414
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……………………………………………………
+line2 <shift> # ……………………………………………………」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だ、ダメか、やっぱり……」
+display
+com11 0 4
+sound 415
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「いえ、歌手らしくて、とてもいいと。
+line2 <shift> # これからは全部、それをつけることにします」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （お、気に入ってくれたようだ。その後、千早は
+line2 <shift> # 納得して、音符マークを書き続けた）
+com09 0 69
+display
+location 51
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「『☆』とか、どうだ？　将来の大スター
+line2 <shift> # 候補ってことで」
+display
+com11 0 4
+sound 416
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……………………………………………………
+line2 <shift> # ……………………………………………………」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「い、いいだろ？　ピッタリだって思うけど」
+display
+com11 0 4
+sound 417
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「軽すぎると思います。私のこと知ってる人は、
+line2 <shift> # どうかしたのかって、疑う可能性が……」
+display
+com11 0 4
+sound 418
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「星は、やめておきますね。ハデにするなら、
+line2 <shift> # ビックリマークの方が……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、色紙には『！！』付きの名前が、
+line2 <shift> # 並んだ。ハデにはなったけど、可愛くはないな）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「『〒』とか、どうだ？　千早の『千』と、
+line2 <shift> # ちょっと似てるし」
+display
+com11 0 4
+sound 419
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……………………………………………………
+line2 <shift> # ……………………………………………………」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「な、なにか言ってくれよ。俺、不安に……」
+display
+com11 0 4
+sound 420
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「よく、わかりません。私と郵便は、別に
+line2 <shift> # 関係ないですよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「歌の配達人ってことで、どうだろう？」
+display
+com11 0 4
+sound 421
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そう思ってくれる人、いるでしょうか？
+line2 <shift> # 私、ついていけません……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （頭の上に『？』マークを浮かべている。
+line2 <shift> # この提案は、突飛すぎて『×』だったようだ）
+com09 0 69
+display
+location 69
+unk02

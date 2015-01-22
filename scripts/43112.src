@@ -1,0 +1,148 @@
+com2d 0 81
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あっという間に１日が終ってしまった……」
+display
+location 0
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「今日は、おつかれさまでした〜。ボク、初仕事
+line2 <shift> # で、精神力使い果たして、もうヘトヘトです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ごくろうさま。今度、会う時には……」
+com03 0 3
+choice1 <shift> # また元気な顔、見せてくれよな　
+line2
+com09 0 10
+com08
+choice2 <shift> # もっと、しごいてやろう　
+line2
+com09 0 11
+com08
+choice3 <shift> # トドメを、さしてやろう　
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「また元気な顔、見せてくれよな」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「はい！　たっぷり休んで、充電して
+line2 <shift> # おきます！」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「それじゃ、気をつけて帰って下さいね。
+line2 <shift> # またつぎ、待ってます！」
+com4a 0 0
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もっと、しごいてやろう」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ゲ、マジですか〜っ？　プロデューサー、
+line2 <shift> # 容赦ないですね。けど、負けませんよ！」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ボク、回復は、メチャメチャ早いんですから。
+line2 <shift> # またつぎ、充電して、待ってます。それじゃ！」
+com4a 0 0
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「トドメを、さしてやろう」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「コワイこと、言わないで下さいよ〜。
+line2 <shift> # い、い、いったい、なにさせる気なんです！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、言ってみただけだけどな……。
+line2 <shift> # ま、たっぷり休んで、気力を回復させるといい」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Makoto
+line1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「そうします。コンディション整えとかないと、
+line2 <shift> # やっていけなさそうだから。それじゃ、また！」
+com4a 0 0
+com09 0 19
+display
+location 19
+location 100
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あっという間に１日が終ってしまった……」
+display
+location 101
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もっと早く色々片付けていれば
+line2 <shift> # もう１レッスンできたかも……」
+display
+location 102
+com11 0 0
+sound 10007
+name 0 2 <names:3>  # President
+line1 <shift> # 「２日目ご苦労だったね。次はいよいよ……
+line2 <shift> # オーディションをうけてもらうよ！」
+display
+com4a 0 0
+com11 0 0
+sound 10008
+name 0 2 <names:3>  # President
+line1 <shift> # 「ではキミ達のアイドルランク報告だ！」
+display
+location 200
+com11 0 0
+sound 10009
+name 0 2 <names:3>  # President
+line1 <shift> # 「うむ、今後も出会った人達にファンに
+line2 <shift> # なってもらえるよう、活動しなさい」
+display
+com11 0 0
+sound 10010
+name 0 2 <names:3>  # President
+line1 <shift> # 「しかしレッスンばかりではファンはほとんど
+line2 <shift> # 増えることはない！」
+display
+com11 0 0
+sound 10011
+name 0 2 <names:3>  # President
+line1 <shift> # 「オーディションに合格することが、ファンを
+line2 <shift> # 一気に増やす唯一の方法だ」
+display
+com4a 0 0
+com11 0 0
+sound 10012
+name 0 2 <names:3>  # President
+line1 <shift> # 「次回のオーディションが楽しみだな！」
+display
+location 103
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ファンからのプレゼントをチェックして帰るか」
+display
+location 201
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （次の活動では、デビュー曲を決めて
+line2 <shift> # いよいよオーディションだ！）
+display
+unk02

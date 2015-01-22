@@ -1,0 +1,511 @@
+com2c 0 21
+com2c 0 118
+com2d 0 81
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （はあ……。つ、疲れた……。
+line2 <shift> # 初日ってこともあって、緊張しちゃったな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （これから、真をトップアイドルに育てるのか。
+line2 <shift> # 真は、りりしさが魅力の女の子だけど……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺なんかが本当に、プロデュースしていけるの
+line2 <shift> # かな。今さらだけど、ちょっと自信ないよ……）
+display
+com11 0 0
+sound 0
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あ、プロデューサー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おや？　真じゃないか。
+line2 <shift> # まだ帰ってなかったのか？」
+display
+com11 0 0
+sound 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ボク、たまにジョギングして帰ることにしてる
+line2 <shift> # んです。それで今は、軽くストレッチを」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それは、感心だな。アイドルは、
+line2 <shift> # スタミナもないと、やっていけないからな」
+display
+com11 0 0
+sound 2
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「へへっ、ですよね！　あ、そうだ！　プロ
+line2 <shift> # デューサーも、一緒にどうです、ジョギング」
+com03 0 3
+choice1 <shift> # よし、一緒に走ろう
+line2
+com09 0 10
+com08
+choice2 <shift> # 俺についてこい！
+line2
+com09 0 11
+com08
+choice3 <shift> # 足の古傷が……
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、一緒に走ろう」
+display
+com11 0 0
+sound 3
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ホントですか？　へへっ、やーりぃ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなに喜ぶようなことか？」
+display
+com11 0 0
+sound 4
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「だって、女の子としては、夜道を１人で
+line2 <shift> # 帰るのって、ちょっと怖いじゃないですか」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだな。でも、まあ、遠くから、
+line2 <shift> # パッと見ただけだと……」
+display
+com11 0 0
+sound 5
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「見ただけだと……、何ですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、いや。何でもない、何でも！」
+display
+com11 0 0
+sound 6
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「何だか怪しいなあ。まあ、とにかく今日は、
+line2 <shift> # プロデューサーが、一緒だから、安心です！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ちなみに、ジョギングって、
+line2 <shift> # どれぐらいのスピードで走るんだ？」
+display
+com11 0 0
+sound 7
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ジョギングだから、スピードはゆっくりですよ。
+line2 <shift> # その代わり、距離は、けっこう走るんです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「で、できれば明日、筋肉痛にならない程度で、
+line2 <shift> # お願いしたいんだけど……」
+display
+com11 0 0
+sound 8
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「何を、弱気なこと言ってるんです？
+line2 <shift> # ほら、行きましょう、プロデューサー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （最近、運動不足気味なんだよな。
+line2 <shift> # 真に、ついていけるかな……）
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、俺に、ついてこい！」
+display
+com11 0 0
+sound 9
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「うわ、急に気合いが入りましたね！
+line2 <shift> # もしかして、体育会系の性格なんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、そうでもないと思う」
+display
+com11 0 0
+sound 10
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「でも、何だか頼もしいなぁ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「真をトップアイドルにするために、
+line2 <shift> # ビシバシきたえてやるからな！」
+display
+com11 0 0
+sound 11
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「はい！　お願いします！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それじゃ出発だ！　俺から、遅れるなよ！」
+display
+com11 0 0
+sound 12
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「はい！　どこまでも、ついていきます！」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「実は俺は、足に古傷を抱えていて、
+line2 <shift> # 走れないんだ」
+display
+com11 0 0
+sound 13
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ええっ！？　プロデューサーには、もしかして、
+line2 <shift> # すごい過去が隠されてたりするんですか！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「い、いや、実は持病の深爪で……」
+display
+com11 0 0
+sound 14
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ええ〜？　何ですか、それ。
+line2 <shift> # 驚いて損しちゃいましたよぉ……」
+display
+com11 0 0
+sound 15
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あ、まさか、走りたくないんですか？　だから、
+line2 <shift> # そんなこと言って、ごまかしてるんですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そんなことはないぞ」
+display
+com11 0 0
+sound 16
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「じゃあ、ボクに付き合って下さいよ。
+line2 <shift> # 一緒に汗を流して、親睦を深めましょうよぉ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうだな。よし、わかった。
+line2 <shift> # ただし、お手柔らかに頼むよ」
+display
+com11 0 0
+sound 17
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「頼りないなあ。もっとシャキッとして下さい。
+line2 <shift> # さあ、行きますよ〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （最近、運動不足気味なんだよな。
+line2 <shift> # 真に、ついていけるかな……）
+com09 0 19
+display
+location 19
+com22 0 30
+com21 0 30
+com32 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「はあ、ふう、ひい……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あっという間に、
+line2 <shift> # 真に置いていかれてしまった……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （これ以上は走れない。ムリすると明日、
+line2 <shift> # 筋肉痛になるだろうし、どうしようか……）
+display <shift> # がさっ！
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ん？　何の音だろう？）
+display <shift> # がさっ！　がさっ！
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今、小さくて黒い影が、
+line2 <shift> # 視界のスミを横切ったような……）
+com03 0 3
+choice1 <shift> # もしかして真？
+line2
+com09 0 20
+com08
+choice2 <shift> # 迷子の動物？
+line2
+com09 0 21
+com08
+choice3 <shift> # 気にせず帰ろう
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もしかして、真か？　そうか、俺がバテて
+line2 <shift> # いるのを、隠れてこっそり見ていたんだな！」
+display <shift> # チュー！
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ちゅー？　動物の鳴きマネをしたって、
+line2 <shift> # 俺は、だまされないぞ。真、早く出てこーい」
+display <shift> # がさがさっ！　チューチュー！
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うわっ！　急に飛び出してくるな……！　ん？
+line2 <shift> # この小さな体は、真じゃなくて……」
+display <shift> # チュー！
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ハムスターだ。本物の動物だったのか」
+com09 0 100
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「迷子の動物か？」
+display <shift> # がさがさっ！　チューチュー！
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おおっ！？　こいつは、ハムスター？」
+com09 0 100
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （気にせず帰ろう。かなりの距離を走らされた
+line2 <shift> # せいで、すごく疲れてるしな！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （真も、俺を待ってはいないだろう）
+display <shift> # チュー！
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （チュー？　もしかして、疲れすぎて幻聴が、
+line2 <shift> # きこえているのかも）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （早く帰って、ゆっくり休まないと……）
+display <shift> # がさがさっ！　チューチュー！
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おおっ！？　こいつは、ハムスター？」
+com09 0 100
+display
+location 100
+com11 0 0
+sound 18
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「プロデューサー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ん？　どこからか、真の声がきこえたような？
+line2 <shift> # まさかな。もう、とっくに家についている頃だ）
+display
+com11 0 0
+sound 19
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「プロデューサー！　探しましたよぉ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あれ？　真、先に行ったんじゃ、
+line2 <shift> # なかったのか？」
+display
+com11 0 0
+sound 20
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「すみません。ボクだけ、自分のペースで、
+line2 <shift> # どんどん先に行っちゃって」
+display
+com11 0 0
+sound 21
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「気が付いたら、プロデューサーの姿が、
+line2 <shift> # 見えないから、焦っちゃいましたよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それで、わざわざ戻ってきたのか？」
+display
+com11 0 0
+sound 22
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「だって、心配じゃないですか。あの、
+line2 <shift> # ところで、さっき誰かと話してませんでした？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、それは……」
+com03 0 3
+choice1 <shift> # ハムスターだよ
+line2
+com09 0 40
+com08
+choice2 <shift> # 独り言だよ
+com09 0 41
+com08
+choice3 <shift> # 美少女だよ
+com09 0 42
+com08
+com07
+com09 0 42
+com08
+display
+location 40
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ハムスターだよ。迷子になっていたんだ」
+display
+com11 0 0
+sound 23
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「えっ、プロデューサーって、
+line2 <shift> # 動物と話せるんですか！？　すごいや！」
+display
+com11 0 0
+sound 24
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「やっぱり、る〜るるる〜、って言ったり、
+line2 <shift> # するんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。その結果、ハムスターを無事に、
+line2 <shift> # 飼い主に返すことができたよ」
+display
+com11 0 0
+sound 25
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「プロデューサー、今度ボクにも、
+line2 <shift> # 動物の言葉を教えて下さいねっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええと、そのうちな……」
+com09 0 49
+display
+location 41
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「独り言だよ」
+display
+com11 0 0
+sound 26
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「そうなんですか？　けっこう大きな声で、
+line2 <shift> # しゃべってたように、きこえたんだけど……」
+display
+com11 0 0
+sound 27
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「プロデューサー、そのクセは治した方が、
+line2 <shift> # いいと思いますよ……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、独り言と言っても、ハムスターに、
+line2 <shift> # 話しかけていたんだぞ。迷子になってたんだ」
+display
+com11 0 0
+sound 28
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「えっ、それで飼い主は見つかったんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ！　俺の、独り言のおかげでな！」
+com09 0 49
+display
+location 42
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「美少女だよ」
+display
+com11 0 0
+sound 29
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「……もしかして、ナンパでもしてたんですか？
+line2 <shift> # 心配して戻ってくるんじゃなかったなあ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、ナンパなんて、してないぞ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「迷子のハムスターを捕まえて、飼い主に、
+line2 <shift> # 返したんだ。その子が、美少女だったんだよ」
+display
+com11 0 0
+sound 30
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「へえ、そうだったんですか！
+line2 <shift> # プロデューサー、いいとこありますね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「プロデューサーとしては、当然のことだよ」
+com09 0 49
+display
+location 49
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そう言えば、その飼い主っていうのが、
+line2 <shift> # なかなか才能のありそうな……」
+display
+com11 0 0
+sound 31
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「才能？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……いや。真ほどじゃなかったかな。アイドル
+line2 <shift> # の素質は、やっぱり真が、一番持ってる！）
+display
+com11 0 0
+sound 32
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「どうしたんです、プロデューサー？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「何でもないよ。
+line2 <shift> # 明日から、がんばって活動しような、真！」
+display
+com11 0 0
+sound 33
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「明日から、じゃなくて今日からですよっ。
+line2 <shift> # さあ、ジョギングの続きに行きましょう！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え、まだ走るのか……？」
+display
+com11 0 0
+sound 34
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「もちろん！　ペースが速いなら速いって、
+line2 <shift> # 言って下さいね。ボクが合わせますから」
+display
+com11 0 0
+sound 35
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ボク、今日、プロデューサーに選んでもらえた
+line2 <shift> # ことが、すごく嬉しくて、興奮してるんです！」
+display
+com11 0 0
+sound 36
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ウズウズして、どうしても、
+line2 <shift> # 体を動かしたい気分なんですよ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やる気は、じゅうぶんだな。
+line2 <shift> # よし、じゃあ俺も最後まで付き合うぞ」
+display
+com11 0 0
+sound 37
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「へへっ、やーりぃ！　そう来なくっちゃ！」
+display
+com22 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺と真はその後、１時間以上、
+line2 <shift> # ジョギングで汗を流した）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （自信ないなんて言ってられないぞ。
+line2 <shift> # 俺は、真のやる気に、応えなくちゃな！）
+com09 0 99
+display
+location 99
+unk02

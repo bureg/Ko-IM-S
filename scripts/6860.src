@@ -1,0 +1,306 @@
+com2c 0 119
+com2c 0 90
+com2d 0 11
+com2e 0 111
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ついに、ＩＵ決勝だ！
+line2 <shift> # 長かった戦いに、今日で決着がつく）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （春香なのか、響なのか、それとも他の誰か
+line2 <shift> # なのか。とにかく、ＩＵの優勝者、つまり……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （正真正銘のトップアイドルが、
+line2 <shift> # 今日の戦いで、決まるんだ……！）
+display
+com11 0 0
+sound 0
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「プロデューサーさん。私達、出会ってから
+line2 <shift> # 今日まで、たくさん約束をしましたけど……」
+display
+com11 0 0
+sound 1
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「初めてした約束のこと、覚えてますか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。もちろん、覚えてるとも！」
+display
+com20 0 30
+com1f 0 30
+com32 0 1
+com11 0 0
+sound 2
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「プロデューサーさん！
+line2 <shift> # どんなに厳しくても、私、負けませんっ」
+display
+com11 0 0
+sound 3
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「大好きな歌で、頂点に立ちたいから……、必ず
+line2 <shift> # ＩＵで優勝してトップアイドルになりますっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、よく言った！　俺も同じ気持ちだよ。
+line2 <shift> # 必ず、夢をかなえような、春香！」
+display
+com11 0 0
+sound 4
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はいっ！　一緒に、がんばりましょう、
+line2 <shift> # プロデューサーさん。約束ですよ、約束！」
+display
+com20 0 30
+com1f 0 30
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あの約束をしてから、今日まで、
+line2 <shift> # 色々あったけど……」
+com03 0 3
+choice1 <shift> # 全ては今日のためだ
+line2
+com09 0 10
+com08
+choice2 <shift> # 楽しかったな
+line2
+com09 0 11
+com08
+choice3 <shift> # 最初からやり直したいな
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「全ては今日のために、してきたことだぞ。
+line2 <shift> # 春香の力、今日のステージで出し切ってくれ！」
+display
+com11 0 0
+sound 5
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はいっ！　がんばります！　今日、
+line2 <shift> # ＩＵの舞台に立てて、私、本当にうれしいです」
+display
+com11 0 0
+sound 6
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「プロデューサーさんと私が、ずっと夢みて、
+line2 <shift> # 二人で勝ちとったステージだから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだな。ここまで頑張ってくれて、
+line2 <shift> # 本当にありがとう、春香」
+display
+com11 0 0
+sound 7
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ああっ！　先に、お礼を言われちゃいました！
+line2 <shift> # 感謝しなきゃいけないのは、私のほうなのに」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「楽しかったな！
+line2 <shift> # すごく、あっという間だったよ」
+display
+com11 0 0
+sound 8
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そうですね。悩んだりしたこともあったけど、
+line2 <shift> # 今は、全部が楽しい思い出です！」
+display
+com11 0 0
+sound 9
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「たくさん楽しいこと経験させてもらって、
+line2 <shift> # その上、ＩＵの本選にも勝ち残って……」
+display
+com11 0 0
+sound 10
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「もう言うことないかも！　ここにいられる
+line2 <shift> # だけで、うれしくてたまらない気持ちです！」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「最初からやり直したいな、できることなら」
+display
+com11 0 0
+sound 11
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「えっ！　プロデューサーさん、私のプロデュー
+line2 <shift> # スで、何か納得いかない所があるんですか！？」
+display
+com11 0 0
+sound 12
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「もしかして、私を選んだこと、
+line2 <shift> # 後悔してるとか……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「い、いや！　そういうことではないけど、
+line2 <shift> # 俺にも色々、失敗があったと思うからさ」
+display
+com11 0 0
+sound 13
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「私が苦労かけちゃったからですよね。
+line2 <shift> # すみませんでした。でも……」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 14
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「……今日ここまで、私をプロデュース
+line2 <shift> # してくれて、ありがとうございました」
+display
+com11 0 0
+sound 15
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「私のこと、一生懸命、育ててくれたご恩は、
+line2 <shift> # 一生忘れませんから！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お、おいおい。嫁入り前の娘みたいなこと、
+line2 <shift> # 言うなよ。ちょっと大げさだぞ」
+display
+com11 0 0
+sound 16
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あははっ。そうですね！　でも一度、ちゃん
+line2 <shift> # とお礼、言いたいなって、思ってたんですよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「しんみりするのは、まだ早いぞ。
+line2 <shift> # ＩＵは、まだ終わってないんだからな！」
+display
+com11 0 0
+sound 17
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい。私自身はここまで来られただけで、じゅ
+line2 <shift> # うぶん満足ですけど、でも私、勝ちたいです！」
+display
+com11 0 0
+sound 18
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「勝って、響ちゃんや黒井社長に、７６５プロの
+line2 <shift> # こと、ちゃんとわかって欲しいし……」
+display
+com11 0 0
+sound 19
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「何より、プロデューサーさんに、
+line2 <shift> # ＩＵ優勝をプレゼントしたいから！」
+display
+com11 0 0
+sound 20
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「今まで生きてきて、こんなに何かに勝ちたいっ
+line2 <shift> # て思ったこと、なかったかもしれないです！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それじゃ、本当に絶対、勝たなきゃな。
+line2 <shift> # 頑張ろうな、春香！」
+display
+com11 0 0
+sound 21
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はいっ！」
+display
+com11 0 0
+sound 22
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、待てよ。響っ！」
+display
+com11 0 0
+sound 23
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「……なんか、用？」
+display
+com11 0 0
+sound 24
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「黒井社長は、また、一緒じゃないの？
+line2 <shift> # 響ちゃん、一度、ちゃんと言った方が……」
+display
+com11 0 0
+sound 25
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「用がないなら、行くぞっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「響！　……頑張れよ、お前も」
+display
+com11 0 0
+sound 26
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「……！　……うん、ありがとうっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （他に誰も、響を応援してあげる人はいないんだ。
+line2 <shift> # いいよな、俺が声をかけてやるぐらいは……）
+display
+com11 0 0
+sound 27
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「響ちゃん、黒井社長とケンカしたのかな？
+line2 <shift> # この前から、ちょっと元気ないみたいですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うん。アイツも、
+line2 <shift> # 何かと事情があるみたいだからな……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、ＩＵ本番では、そんなこと関係ない。
+line2 <shift> # 春香、思いっきり戦っておいで」
+display
+com11 0 0
+sound 28
+com4c 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「わかりました！　じゃ、そろそろ、
+line2 <shift> # 着替えて準備、してきちゃいますねっ！」
+com09 0 99
+display
+location 99
+unk02

@@ -1,0 +1,470 @@
+com2c 0 9
+com2c 0 19
+com2d 0 71
+com32 0 0
+com11 0 0
+sound 0
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ほら、プロデューサー！　急いで急いで！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ちょ、ちょっと待ってくれよ！」
+display
+com11 0 0
+sound 1
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「約束の時間まで、あと３０分なんですよ！？
+line2 <shift> # 早く事務所に移動しないと！」
+display
+com11 0 0
+sound 2
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「やっとこさ作曲をＯＫしてくれた先生への
+line2 <shift> # 挨拶、遅刻したらシャレになりません！」
+display
+com11 0 0
+sound 3
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「偏屈な人らしいですから、それだけで
+line2 <shift> # 『やっぱり断る！』とか言いかねないかも……」
+display
+com11 0 0
+sound 4
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「んもう！　リハーサルであんなに時間食う
+line2 <shift> # なんて、聞いてないわよ〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「こ、声がデカイよ、律子！
+line2 <shift> # みんなこっち見てるぞ」
+display
+com11 0 0
+sound 5
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「見られたってかまいません！
+line2 <shift> # 私は事実を述べているだけです！」
+com03 0 3
+choice1 <shift> # 仕事が来なくなる！
+line2
+com09 0 11
+com08
+choice2 <shift> # 恥ずかしいだろ？
+line2
+com09 0 12
+com08
+choice3 <shift> # よし、俺も叫ぼう
+line2
+com09 0 13
+com08
+com07 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64
+com09 0 13
+com08
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「仕事が来なくなる！　ＴＶ局の前で騒ぎを起こ
+line2 <shift> # すアイドルなんか、もう呼んでもらえないぞ？」
+display
+com11 0 0
+sound 6
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「うっ……それはそうかも」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「今大事なのは、次の仕事に
+line2 <shift> # 間に合うかどうかだ。冷静になれ」
+display
+com11 0 0
+sound 7
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ええ。確かに、その通りですね。
+line2 <shift> # すみません、プロデューサー」
+display
+com11 0 0
+sound 8
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「とにかく、急いで次の仕事に向かいましょう。
+line2 <shift> # 一刻も早く、事務所へ！」
+com09 0 14
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「恥ずかしいだろ？」
+display
+com11 0 0
+sound 9
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「自分に恥じるところなんて、
+line2 <shift> # ひとつもありませんっ！」
+display
+com11 0 0
+sound 10
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「もしこれで間に合わなかったりしたら、
+line2 <shift> # あのディレクターを……！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わ、わかったから！
+line2 <shift> # とにかく、事務所に向かうぞ！」
+com09 0 14
+display
+location 13
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、俺も叫ぼう。
+line2 <shift> # 手際が悪すぎるぞ、スタッフー！」
+display
+com11 0 0
+sound 11
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そうそう、言ってやってください！
+line2 <shift> # 使えないディレクターめー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おまえのかーちゃん、でーべーそー！」
+display
+com11 0 0
+sound 12
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「いや、その悪口はどうかと。
+line2 <shift> # 小学生じゃあるまいし」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……急に冷静になるなよ」
+display
+com11 0 0
+sound 13
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ああっ、こんなことしてる場合じゃないです！
+line2 <shift> # とにかく急いで事務所へ！」
+com09 0 14
+display
+location 14
+com11 0 0
+sound 14
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「……ちょっと待って。
+line2 <shift> # どうしてタクシーが１台もいないのよ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ホントだ……珍しいな」
+display
+com11 0 0
+sound 15
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「んもう！　どうしてこんな時に限って！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よ、よし、ここは……」
+com03 0 3
+choice1 <shift> # 電話で呼ぼう！
+line2
+com09 0 21
+com08
+choice2 <shift> # 神様に祈ろう！
+line2
+com09 0 22
+com08
+choice3 <shift> # すっぱりあきらめよう！
+line2
+com09 0 23
+com08
+com07
+com09 0 23
+com08
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「電話で呼ぼう！　行きに使ったタクシーの
+line2 <shift> # 領収書に、電話番号が書いてあったはずだ！」
+display
+com11 0 0
+sound 16
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「それが一番早そうね。
+line2 <shift> # 領収書見せてください、私がかけますから！」
+display <shift> # トゥルルル……トゥルルル……カチャ！
+display
+com11 0 0
+sound 17
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「あー、もしもし？　タクシー１台、大至急ね！
+line2 <shift> # テレビ局前まで！」
+display
+com11 0 0
+sound 18
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「……え？　だから、１台も来てないの！
+line2 <shift> # ウソじゃないわよ！」
+display
+com11 0 0
+sound 19
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「冗談で電話かけるほど、
+line2 <shift> # ヒマじゃありませんっ！」
+display
+com11 0 0
+sound 20
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「少し待ってれば来ますって、
+line2 <shift> # 待てないから電話かけて……ちょっと！」
+display <shift> # プッ！
+display
+com11 0 0
+sound 21
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「……切られた。ふ、ふふ……
+line2 <shift> # お客様に対してずいぶんな態度ね……！」
+display <shift> # ミシミシミシ……
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「り、律子、とりあえず落ち着け。そのまま
+line2 <shift> # 握りしめてたら、ケータイ砕けるから！」
+com09 0 24
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「神様に祈ろう！」
+display
+com11 0 0
+sound 22
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「なるほど！　雨乞いならぬ、
+line2 <shift> # タクシー乞い、いいアイデアですね！」
+display
+com11 0 0
+sound 23
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「……な〜んて、私が言うと思いましたか？
+line2 <shift> # この忙しい時に、下らないことを……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じょ、冗談だよ、冗談。
+line2 <shift> # 場を和まそうかと……」
+com09 0 24
+display
+location 23
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「すっぱりあきらめよう！」
+display
+com11 0 0
+sound 24
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「……はい？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ほら、遅れたのは俺達のせいじゃないし。その
+line2 <shift> # せいで先方が怒っても、俺達のせいじゃないよ」
+display
+com11 0 0
+sound 25
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「なるほど、遅刻は仕方ないことなので、それで
+line2 <shift> # 超売れっ子作曲家の先生が怒ってもいいと？」
+display
+com11 0 0
+sound 26
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「結果、ヒット連発の先生が曲を書いてくれる、
+line2 <shift> # この千載一遇のチャンスを逃してもいいと？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……よくありませんね」
+com09 0 24
+display
+location 24 131 76 131 76 129 91 131 98 129 73
+display
+com11 0 0
+sound 27
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「……あっ！
+line2 <shift> # プロデューサー、タクシーが来ました！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、乗り込め！」
+display
+com11 0 0
+sound 28
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「って、３台もいっぺんに来たんですけど！
+line2 <shift> # どれに乗りましょう？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「えっ？　う、う〜ん……」
+display
+com11 0 0
+sound 29
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「早く決めてください、プロデューサー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ここでヘタなドライバーに当たって、時間を
+line2 <shift> # ロスしたら……遅刻は確定だ。それはマズイ！）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （なんとしても、一番いいドライバーを選ばなく
+line2 <shift> # ては！　今こそ冴えわたれ、俺のカン！）
+com03 0 3
+choice1 <shift> # 赤いタクシーだ！
+line2
+com09 0 31
+com08
+choice2 <shift> # 黄色いタクシーだ！
+line2
+com09 0 32
+com08
+choice3 <shift> # 青いタクシーだ！
+line2
+com09 0 33
+com08
+com07 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64
+com09 0 34
+com08
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「赤いタクシーだ！」
+com37 0 1
+com1e 0 0
+com09 0 35
+com3b
+com37 0 0
+com1e 0 0
+com09 0 36
+com3b
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「黄色いタクシーだ！」
+com37 0 1
+com1e 0 0
+com09 0 35
+com3b
+com37 0 0
+com1e 0 0
+com09 0 36
+com3b
+display
+location 33
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「青いタクシーだ！」
+com37 0 1
+com1e 0 0
+com09 0 35
+com3b
+com37 0 0
+com1e 0 0
+com09 0 36
+com3b
+display
+location 34
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「このタクシーだ！」
+com09 0 36
+display
+location 35
+com11 0 0
+sound 30
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「了解です！　すみませーん、乗りまーす！」
+display
+com22 0 30 131 111 131 94 131 147 129 73 129 64 131 117 131 141 131 141 131 141 131 141 129 99 129 99
+display
+com32 0 1
+com21 0 30 131 117 131 141 131 141 131 141 131 141 129 99 129 99
+display
+com11 0 0
+sound 31
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「……すごかったですね、運転」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ……。景色が流れるようだった。
+line2 <shift> # というより、空を飛んでるみたいだった」
+display
+com11 0 0
+sound 32
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「私、今なら、どんなジェットコースターにも
+line2 <shift> # 最高の笑顔で乗れる気がします……」
+display
+com11 0 0
+sound 33
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「それにしてもプロデューサー、お見事な判断
+line2 <shift> # でした。こんなに早く着いちゃうとはねぇ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まぐれだよ、まぐれ。それより、せっかく時間
+line2 <shift> # が出来たんだ、今のうちに打ち合わせしとこう」
+display
+com11 0 0
+sound 34
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「はいっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （いいドライバーを選んだおかげで、作曲家の
+line2 <shift> # 先生に、余裕を持って挨拶することが出来た）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （先生は、律子にぴったりの曲を書くと
+line2 <shift> # 約束してくれた！　よかった……）
+com4b 0 0
+com09 0 69
+display
+location 36
+com11 0 0
+sound 35
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「了解です！　すみませーん、乗りまーす！」
+display
+com22 0 30 131 111 131 94 131 147 129 73 129 64 131 117 131 141 131 141 131 141 131 141 129 99 129 99
+display
+com32 0 1
+com21 0 30 131 117 131 141 131 141 131 141 131 141 129 99 129 99
+display
+com11 0 0
+sound 36
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「……プロデューサー、今、何時ですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「時計を見たくない気持ちでいっぱいなんだが」
+display
+com11 0 0
+sound 37
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「奇遇ですね、私もです」
+display
+com11 0 0
+sound 38
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「というか、乗ってから確実に、
+line2 <shift> # １時間以上経ってますよね……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ははは……」
+display
+com11 0 0
+sound 39
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「笑い事じゃないですよっ！」
+display
+com11 0 0
+sound 40
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「……はぁ、とにかく行かないと。
+line2 <shift> # きっと先生、カンカンだろうなぁ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （結局、作曲家の先生は怒ってすでに帰って
+line2 <shift> # おり、曲の依頼の件もなかったことに……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （せっかくのチャンスがなくなり、律子は相当
+line2 <shift> # 落ち込んでいた……。ごめんな、律子……）
+com4b 0 2
+com09 0 69
+display
+location 69
+unk02

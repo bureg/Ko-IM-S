@@ -1,0 +1,301 @@
+com2c 0 114
+com2d 0 83
+com32 0 0
+com11 0 4
+sound 300
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「今日は、このホールがライブ会場か〜。
+line2 <shift> # ステージ、けっこう広いですねっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。幅も奥行きも、
+line2 <shift> # 小さなライブハウスとは、ちがうよな」
+display
+com11 0 4
+sound 301
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「いつも以上に、がんばらないと！　それじゃ、
+line2 <shift> # 行ってきます。と、その前に、はいっ！」
+com0e 2 195
+com44
+com09 0 10
+com45
+com44
+com09 0 11
+com45
+com44
+com09 0 12
+com45
+com44
+com09 0 13
+com45
+display
+location 10
+com11 0 4
+sound 302
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ダーン！　へへーっ、気合い入りました！
+line2 <shift> # よーし、行ってきます！」
+com09 0 29
+display
+location 11
+com11 0 4
+sound 303
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサー？　できれば、コブシは、
+line2 <shift> # もっとこう、ダーンと歯切れよく、ですね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あああ、ごめん。やり慣れてないもんで……」
+display
+com11 0 4
+sound 304
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「まあ、いいです。また、今度……。
+line2 <shift> # よーし、行ってきます！」
+com09 0 29
+display
+location 12
+com11 0 4
+sound 305
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うあっ、プロデューサー！？　いきなり
+line2 <shift> # ヘンな不意打ち、しないで下さいよ〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ご、ごめんごめん。つい、な……」
+com09 0 91
+display
+location 13
+com11 0 4
+sound 306
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、あの〜、プロデューサー？
+line2 <shift> # コブシを、こう、ダーンとですね……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あああ、ごめん。コブシか、コブシだよな」
+com09 0 91
+display
+location 91
+com11 0 4
+sound 307
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「景気づけぐらい、つき合ってくれても……。
+line2 <shift> # ま、いいです。よーし、行ってきまーす！」
+com09 0 29
+display
+location 29
+com20 0 30
+com1f 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おつかれさま！　前半は、好調だったな。
+line2 <shift> # 後半も、この調子で……」
+display
+com11 0 4
+sound 308
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「は、はい……。はぁ、ふぅ……。
+line2 <shift> # あれっ、おかしいな。ふぅ、ふぅ〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「大丈夫か？　やけに呼吸が……」
+display
+com11 0 4
+sound 309
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「なんでボク、こんなにバテてるんだろ？
+line2 <shift> # いつもと違うことなんて、何もしてないのに」
+display
+com11 0 4
+sound 310
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「体力には自信ある方なんですけど、
+line2 <shift> # 足がふらついて。……カゼでも、ひいたかな？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……ステージの広さを考えず、
+line2 <shift> # 駆け回ったからじゃないか？」
+display
+com11 0 4
+sound 311
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、それだ！　きっと、それですっ！
+line2 <shift> # ボク、うれしくて、つい、スミからスミまで」
+display
+com11 0 4
+sound 312
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「さっすが、プロデューサー！　頭いー！」
+com03 0 3
+choice1 <shift> # ……感心してる場合か
+line2
+com09 0 30
+com08
+choice2 <shift> # 少しは考えろ！
+line2
+com09 0 31
+com08
+choice3 <shift> # ま、まあな
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……感心してる場合か」
+display
+com11 0 4
+sound 313
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あああ、そうですねっ。こんなこと言ってる
+line2 <shift> # ヒマがあるなら、後半どうするか、考えないと」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「少しは考えろ！」
+display
+com11 0 4
+sound 314
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うう、すみません……。ボク、ステージが広い
+line2 <shift> # ことって、いいことばかりだと思ってたんで」
+display
+com11 0 4
+sound 315
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「これじゃ、もっと広いところへ行ったら、
+line2 <shift> # とんでもないことに。……おぼえておきます」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ま、まあな」
+display
+com11 0 4
+sound 316
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「やっぱり、全体が見えてるから、
+line2 <shift> # そういう細かいことまで……。あっ！」
+display
+com11 0 4
+sound 317
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ならなんで、始まる前に注意してくれなかった
+line2 <shift> # んです〜？　そうすれば、こんな事には。うう」
+com09 0 49
+display
+location 49
+com11 0 4
+sound 318
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ふぅ、ふぅ。残り半分、どう乗り切りましょ
+line2 <shift> # う？　ボク、うまく手抜きとかできない方だし」
+display
+com11 0 4
+sound 319
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「……このまま、勢いで押すしかないですよね。
+line2 <shift> # ハンパになるぐらいなら、いっそ！」
+com03 0 3
+choice1 <shift> # 倒れなければ、なんでもいいよ
+line2
+com09 0 50
+com08
+choice2 <shift> # 限界まで、やってこい！
+line2
+com09 0 51
+com08
+choice3 <shift> # すこしは、頭も使おうな
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「倒れなければ、なんでもいいよ。
+line2 <shift> # 俺の希望は、それだけだ」
+display
+com11 0 4
+sound 320
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、そっか。倒れたら、ライブ続けられない
+line2 <shift> # ですもんね。それは、さすがに……」
+display
+com11 0 4
+sound 321
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「わかりました。倒れない事だけは、約束します。
+line2 <shift> # そういう指示なら、ボクでも……。よし！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、きつい時間を、真は見事、乗り切っ
+line2 <shift> # た！　理解しやすい言葉が、よかったようだ）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「限界まで、やってこい！」
+display
+com11 0 4
+sound 322
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「わかりました！　限界までやらないと、
+line2 <shift> # 力は伸びませんよね。見守っていて下さい！」
+display
+com20 0 30
+com1f 0 30
+com11 0 4
+sound 323
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサ〜、すみません……。できる限り、
+line2 <shift> # がんばったんですけど、最後の曲は。うう……」
+display
+com11 0 4
+sound 324
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「体が、気持ちについてこないなんて、
+line2 <shift> # 情けないです……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ラストソングは、バテてしまって、ダンスなし
+line2 <shift> # だった。ま、でも、努力は認めよう）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「すこしは、頭も使おうな」
+display
+com11 0 4
+sound 325
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「う、気合いだけで通じるほど甘くないですか？
+line2 <shift> # それじゃ、バランスとか考えながら……。よし」
+display
+com20 0 30
+com1f 0 30
+com11 0 4
+sound 326
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ううう……、残りの体力とか、広さとか、
+line2 <shift> # いろいろ考えてたら、全然集中できなくて……」
+display
+com11 0 4
+sound 327
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「どうして、こう不器用なんだろう。
+line2 <shift> # 見に来てくれた人達に、悪いことを……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （後半の真は、ボロボロだった……。うーん、
+line2 <shift> # 俺の指示を、消化しきれなかったようだな）
+com09 0 69
+display
+location 69
+unk02

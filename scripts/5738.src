@@ -1,0 +1,283 @@
+com2c 0 63
+com2d 0 11
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そろそろ、仕事で移動だ。
+line2 <shift> # 出かけている春香を、事務所に連れ戻さないと）
+display
+com11 0 5
+sound 1100
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あっ、プロデューサーさん。
+line2 <shift> # もう、事務所に戻る時間ですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、準備頼む。ところで、
+line2 <shift> # なんで春香は、こんなところに？」
+display
+com11 0 5
+sound 1101
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ああ、えっと……、少し発声練習と、
+line2 <shift> # それから……」
+display
+com11 0 5
+sound 1102
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「私の地元と、なんか雰囲気が似てるんですよ、
+line2 <shift> # ここ。だから、居心地よくって」
+display
+com11 0 5
+sound 1103
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「えっと、プロデューサーさんに話してなかった
+line2 <shift> # でしたっけ？　私、地方出身で……」
+display
+com11 0 5
+sound 1104
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「レッスンや仕事のときだけ、
+line2 <shift> # 通ってきてるんですよ。ちょっと遠いけど……」
+com03 0 2
+choice1 <shift> # 大変だなぁ
+com09 0 10
+com08
+choice2 <shift> # つらそうだな
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それは大変だなぁ。苦労してるんだな」
+display
+com11 0 5
+sound 1105
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そんな、苦労なんて。
+line2 <shift> # 大変なときは、ときどきはあるけど……」
+display
+com11 0 5
+sound 1106
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「好きで始めたことだから、
+line2 <shift> # そんなに、つらいって風には思わないですよ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか。なかなか頑張ってるみたいだね」
+display
+com11 0 5
+sound 1107
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あはは……。
+line2 <shift> # 自分なりにだけど、なんとかやってます」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「つらそうだな、春香。無理してないか？」
+display
+com11 0 5
+sound 1108
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そんな、つらいってことないですよ！
+line2 <shift> # 私、好きでやってるんですから」
+display
+com11 0 5
+sound 1109
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「自分なりにだけど、やるだけやって、精一杯
+line2 <shift> # 歌って……。でも、今は、それが楽しくって」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか、頑張ってるんだな」
+display
+com11 0 5
+sound 1110
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「なんかやたらに頑張ってばっかりで、うまく
+line2 <shift> # いかなくて、ちょっとかっこ悪いかもですけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「頑張ってるのを、恥ずかしがることはないさ」
+com09 0 29
+display
+location 29
+com11 0 5
+sound 1111
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「でも、いざ仕事にしてみると、歌も結構、
+line2 <shift> # 難しいところがあるかなぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「春香は、どうして歌をはじめたの？」
+display
+com11 0 5
+sound 1112
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「うーん、歌は昔から、
+line2 <shift> # 小さい頃から好きで……」
+display
+com11 0 5
+sound 1113
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「公園で１日中歌ってて、そのまま日が暮れて、
+line2 <shift> # ってことも多くて……。あ、今でもそうで……」
+display
+com11 0 5
+sound 1114
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ずっと歌っていけたらいいな、って思ってて、
+line2 <shift> # そしたら、たまたまオーディションがあって」
+display
+com11 0 5
+sound 1115
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「試しに受けてみたら、受かっちゃって、
+line2 <shift> # それで仕事を始めて……、って感じです」
+com03 0 3
+choice1 <shift> # 応援するぞ
+com09 0 30
+com08
+choice2 <shift> # ツイてたんだな
+line2
+com09 0 31
+com08
+choice3 <shift> # テキトーだなぁ
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか、応援するぞ！　大物になれよ！」
+display
+com11 0 5
+sound 1116
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい！　ありがとうございます♪
+line2 <shift> # 大物になれるかどうかは、わからないけど……」
+display
+com11 0 5
+sound 1117
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ちょっとは自信持っても、いいですよね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もちろん！　オーディション合格だって、
+line2 <shift> # ただの偶然じゃないはずだ。これからも頼むよ」
+display
+com11 0 5
+sound 1118
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい！　仕事も、だんだん増えてきてるし……。
+line2 <shift> # 私、これからもいっそう、頑張ります！」
+display
+com11 0 5
+sound 1119
+com4b 0 0
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「好きな歌を歌って、みんなにも、
+line2 <shift> # もっと歌を好きになって欲しいから！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よし！　春香のやる気に、
+line2 <shift> # バッチリ火がついたみたいだぞ）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか、ツイてたんだなぁ」
+display
+com11 0 5
+sound 1120
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あはっ、そうですねぇ。
+line2 <shift> # 運がよかったのかな、私」
+display
+com11 0 5
+sound 1121
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あっ、でも！　『運も実力のうち』って、
+line2 <shift> # 言葉がありますよね？　ね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだな、芸能の世界でやっていくには、
+line2 <shift> # 運は大事だぞ！」
+display
+com11 0 5
+sound 1122
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そう、そうですよ！　そう言ってもらえると、
+line2 <shift> # ちょっと嬉しいですね♪」
+display
+com11 0 5
+sound 1123
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「好きなだけで、やってきた歌だけど、
+line2 <shift> # これからは、ちゃんと勉強するし……」
+display
+com11 0 5
+sound 1124
+com4b 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「せっかくステージに立てるようになったん
+line2 <shift> # だから……、私、できるだけ頑張ってみます！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。無理せず、しっかり頼むぞ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （春香のやる気に、ちょっと火がついたようだ）
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんか、テキトーだなぁ」
+display
+com11 0 5
+sound 1125
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「うーん、テキトーというか、運というか、
+line2 <shift> # 私、まさか受かると思ってなかったから……」
+display
+com11 0 5
+sound 1126
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「本気で歌の仕事、目指してる人達に、
+line2 <shift> # ちょっと申し訳ないかも」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、でも、そんなに申し訳なく思うことも
+line2 <shift> # ないよ。春香なりに頑張ってるなら」
+display
+com11 0 5
+sound 1127
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「もしも、きっかけがテキトーでも、
+line2 <shift> # それから頑張っていれば、大丈夫……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、そうさ。むしろ頑張れ。何倍も頑張れ。
+line2 <shift> # 誰にも負けないところを見せてやれ」
+display
+com11 0 5
+sound 1128
+com4b 0 2
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「は、はい！　できるだけ……、
+line2 <shift> # 私、がんばってやってみます！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （春香も、まあまあ、
+line2 <shift> # やる気になってくれたかな？）
+com09 0 49
+display
+location 49
+unk02

@@ -1,0 +1,287 @@
+com2c 0 24
+com2d 0 64
+com32 0 0
+com11 0 3
+sound 700
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「水着試着してみました、
+line2 <shift> # どうですか、プロデューサー？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いいねぇ……い、いや、しかし今着なくても。
+line2 <shift> # とりあえず撮影場所を検討だ」
+display
+com11 0 3
+sound 701
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「水着の似合うところ、ですよね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだ、リゾートな雰囲気が欲しい」
+display
+com11 0 3
+sound 702
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「リゾートですかぁ……ちょっと豪華な、
+line2 <shift> # ゆったりのんびりって感じでしょうか」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「水着撮影に行くなら……」
+com03 0 3
+choice1 <shift> # ひなびた温泉
+line2
+com09 0 10
+com08
+choice2 <shift> # 南の島
+com09 0 11
+com08
+choice3 <shift> # 雪山
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだな、ひなびた温泉とか」
+display
+com11 0 3
+sound 703
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「いい！　とてもいいですっ。
+line2 <shift> # 是非、行きたいですっ」
+display
+com11 0 3
+sound 704
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「やっぱり、湯上りの牛乳は腰に手を当てて、
+line2 <shift> # イッキですね。そして浴衣でピンポンして……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや待てちょっと待て、
+line2 <shift> # 水着の撮影の話じゃなかったか？」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「南の島とか、定番だな」
+display
+com11 0 3
+sound 705
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「南の島……いかにもリゾートですね！」
+display
+com11 0 3
+sound 706
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ああ、でも、日焼けとかどうしよう……
+line2 <shift> # 私、ちょっと肌、弱いんです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「むむ、そうか。じゃあ
+line2 <shift> # 南の島っぽいところで妥協するか」
+display
+com11 0 3
+sound 707
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ぽいところ？　室内プールつきの
+line2 <shift> # スパとかですか。それもいいかも」
+display
+com11 0 3
+sound 708
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ゆっくり休んでくつろげる、いい時間が
+line2 <shift> # 過ごせそうですねぇ……ああ、うっとり」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや待てちょっと待て、
+line2 <shift> # 水着の撮影の話じゃなかったか？」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「雪山……とか。ああっと、そうじゃないな。
+line2 <shift> # さすがに雪山で水着は着ないよな……」
+display
+com11 0 3
+sound 709
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「雪山で水着……それもなんだか、
+line2 <shift> # 面白いかもしれませんっ」
+display
+com11 0 3
+sound 710
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ああ、だけどやっぱり、雪山なら、
+line2 <shift> # スキーですよ、スキー」
+display
+com11 0 3
+sound 711
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「水着でスキー……は、
+line2 <shift> # ちょっと変かな……」
+display
+com11 0 3
+sound 712
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「かまくら作って暖を取って、
+line2 <shift> # あったかいものを食べるのも、いいですね」
+display
+com11 0 3
+sound 713
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「今なら何がおいしいかなぁ……
+line2 <shift> # いっぱい食べに行きたいなぁ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや待てちょっと待て、
+line2 <shift> # 水着の撮影の話じゃなかったか？」
+com09 0 29
+display
+location 29
+com11 0 3
+sound 714
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「あぅ、そうでした……でも、休暇があったら、
+line2 <shift> # そういうとこ、旅行に行ってみたいんです……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーむ、そっちの話か。確かに最近
+line2 <shift> # 忙しいからね、まとまった休みは欲しい」
+com03 0 3
+choice1 <shift> # よし、撮影のあとで休暇だ
+line2
+com09 0 30
+com08
+choice2 <shift> # そのうちなんとか……
+line2
+com09 0 31
+com08
+choice3 <shift> # 仕事は仕事！その話はあと
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、撮影のあとで休暇だ！
+line2 <shift> # うまいことやりくりして、オフを作るよ」
+display
+com11 0 3
+sound 715
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「わ、ほんとですかっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それに撮影先でも、少しくらいはゆっくりする
+line2 <shift> # 時間があるだろう。せっかくだから遊ぼう！」
+display
+com11 0 3
+sound 716
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「やった、た、楽しみですっ。
+line2 <shift> # いい撮影にしましょう！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ははは……現金なことだ。しかし雪歩が、
+line2 <shift> # こんなにはしゃいで喜ぶなんて、よっぽどだな）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （きっと撮影も明るくハイテンションで
+line2 <shift> # 挑んでくれるだろう。期待しよう）
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そのうちなんとか、スケジュールが
+line2 <shift> # やりくりできればなぁ……」
+display
+com11 0 3
+sound 717
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「はい……ああ、お休み欲しいですね……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「撮影先でも、少しくらいは
+line2 <shift> # ゆっくりする時間があるといいね」
+display
+com11 0 3
+sound 718
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「そうですね。せっかくリゾート地に
+line2 <shift> # 行くからには、やっぱり……」
+display
+com11 0 3
+sound 719
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ううん、行けるだけでも、嬉しい……かな」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「不満かな？　休みは休みで、
+line2 <shift> # どこか取れるようには考えておくよ」
+display
+com11 0 3
+sound 720
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「いえ、大丈夫ですっ。
+line2 <shift> # いい撮影にしましょう」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （雪歩は笑ってくれたけど、もしかしたら、
+line2 <shift> # ちょっと疲れてるのかもしれない）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （撮影でも、あまり無理を
+line2 <shift> # させないようにしなくちゃな……）
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「仕事は仕事！　その話はあとで」
+display
+com11 0 3
+sound 721
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ううっ……す、すみません。でも、
+line2 <shift> # ちょっと言ってみたかったんです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、気持ちはわかるよ。ただ、
+line2 <shift> # けじめの問題ってのがあるから……」
+display
+com11 0 3
+sound 722
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「そうですよね。リゾートにいくとはいえ、
+line2 <shift> # あくまで、仕事で行くから、ですよね」
+display
+com11 0 3
+sound 723
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「私みたいに、遊び気分で考えちゃ、
+line2 <shift> # いけないですよね……ぐすっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあまあ、そうへこむなって。休暇のことは、
+line2 <shift> # 撮影のあとで、ちゃんと改めて考えておくから」
+display
+com11 0 3
+sound 724
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「すみません、どうか、お願いしますぅ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （雪歩、ストレスが溜まってきてるのかも
+line2 <shift> # しれない……無理をさせないようにしないと）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （俺も、もう少し、雪歩がリラックスして
+line2 <shift> # 仕事ができるように考えないとなぁ……）
+com09 0 49
+display
+location 49
+unk02

@@ -1,0 +1,262 @@
+com2c 0 24
+com2d 0 131
+com2e 0 91
+com32 0 0
+location 100
+com11 0 0
+sound 10000
+name 0 0 <names:1>  # ???
+line1 <shift> # 「んっふっふ〜！！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「えっ？　その声は……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「亜美！」
+display
+com11 0 0
+sound 10001
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「兄ちゃん、スキャンダル発見だよ！！」
+display
+com11 0 0
+sound 10002
+com4c 0 2
+name 0 0 <names:4>  # Miki
+line1 <shift> # 「うわあ、どうしよう、プロデューサー。
+line2 <shift> # 亜美に、みつかっちゃったの！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「み、見つかっちゃったの、じゃない！」
+display
+com11 0 0
+sound 10003
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「あっ！　な〜んだ、ミキミキか〜」
+display
+com11 0 0
+sound 10004
+com4c 0 2
+name 0 0 <names:4>  # Miki
+line1 <shift> # 「へ？　『なんだ』って、どういう意味ー？」
+display
+com11 0 0
+sound 10005
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「亜美、兄ちゃんの恋人発見したのかと、
+line2 <shift> # 思ったんだよ〜！」
+display
+com11 0 0
+sound 10006
+com4c 0 2
+name 0 0 <names:4>  # Miki
+line1 <shift> # 「でもでも、亜美。
+line2 <shift> # ミキ、これから恋人になるかもよ？」
+display
+com11 0 0
+sound 10007
+com4c 0 2
+name 0 0 <names:4>  # Miki
+line1 <shift> # 「プロデューサーがミキをプロデュースする
+line2 <shift> # ことになったら、ずーっと一緒でしょ？」
+display
+com11 0 0
+sound 10008
+com4c 0 2
+name 0 0 <names:4>  # Miki
+line1 <shift> # 「そしたら、
+line2 <shift> # 好きになっちゃうかもってカンジ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、おい、何を言い出すんだ！」
+display
+com11 0 0
+sound 10009
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「え〜！　兄ちゃんがミキミキのとこ行ったら、
+line2 <shift> # 亜美達は、どうすんの？」
+display
+com11 0 0
+sound 10010
+com4c 0 2
+name 0 0 <names:4>  # Miki
+line1 <shift> # 「亜美と真美は、別のプロデューサーでいいよ。
+line2 <shift> # ね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （好き放題言ってるな……。
+line2 <shift> # ここは、ズバっと言ってやらないと！）
+com03 0 3
+choice1 <shift> # 俺は亜美達のプロデューサーだ
+line2
+com09 0 10
+com08
+choice2 <shift> # 恋人になってくれる方と……
+line2
+com09 0 11
+com08
+choice3 <shift> # 両方とも捨てがたい
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「悪いな美希、俺は亜美と真美のプロデューサー
+line2 <shift> # なんだ。君のプロデューサーには、なれない」
+display
+com11 0 0
+sound 10011
+com4c 0 2
+name 0 0 <names:4>  # Miki
+line1 <shift> # 「えーっ！？　ミキ、そんなの、や！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「や、って言われても……」
+display
+com11 0 0
+sound 10012
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「兄ちゃんは亜美達とトップアイドル目指して
+line2 <shift> # るから、ミキミキとは、遊んでられないんだよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （美希には気の毒だが、亜美の言う通りだ……）
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「恋人になってくれる方と……」
+display
+com11 0 0
+sound 10013
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「兄ちゃん……。恋人になってくれる方と、
+line2 <shift> # 何なの？」
+display
+com11 0 0
+sound 10014
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「それに、ＩＵはどうなんの〜！？　兄ちゃん、
+line2 <shift> # 亜美達を見捨てないでよ、うあうあ〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おい、こんなところで泣かないでくれ！
+line2 <shift> # 今のは冗談！　冗談だから！！」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「両方とも捨てがたいな。
+line2 <shift> # なんとかして、うまく両立できれば……」
+display
+com11 0 0
+sound 10015
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「兄ちゃん、亜美達とミキミキ、
+line2 <shift> # フタマタかけるつもり？」
+display
+com11 0 0
+sound 10016
+com4c 0 2
+name 0 0 <names:4>  # Miki
+line1 <shift> # 「ミキ的には、そういうの、パスなの。
+line2 <shift> # 一途な男の人の方が、いいって思うな」
+display
+com11 0 0
+sound 10017
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「ママが言ってたよ。フタマタかける男は、
+line2 <shift> # さいて〜だって」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そんなわけないだろ？
+line2 <shift> # 冗談だよ、冗談！　ハハハハ……」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10018
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「んで、結局、何でミキミキと兄ちゃんが、
+line2 <shift> # いっしょにいんの？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「社長に美希を送っていくよう、
+line2 <shift> # 頼まれたんだよ」
+display
+com11 0 0
+sound 10019
+com4c 0 2
+name 0 0 <names:4>  # Miki
+line1 <shift> # 「うん、そうなの」
+display
+com11 0 0
+sound 10020
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「な〜んだ、そういうことだったんだね！
+line2 <shift> # んじゃ、亜美も駅まで送ってって！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うん？　そういえば、
+line2 <shift> # 亜美は帰ったんじゃないのか？」
+display
+com11 0 0
+sound 10021
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「事務所に忘れ物したから、取りに戻ったんだ。
+line2 <shift> # タッチパネルっぽい、これを」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「真美は？」
+display
+com11 0 0
+sound 10022
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「ママに買い物頼まれてたから、先に帰ったよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「今度から忘れ物した時は、事務所に電話するん
+line2 <shift> # だぞ。急ぎなら、すぐに家まで届けてやるから」
+display
+com11 0 0
+sound 10023
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「うん、わかった！　兄ちゃん宅配便だね！
+line2 <shift> # これで安心して、いつでも忘れ物できるよ」
+display
+com11 0 0
+sound 10024
+com4c 0 2
+name 0 0 <names:4>  # Miki
+line1 <shift> # 「うん、ミキも結構忘れ物するから、
+line2 <shift> # そういうサービスがあると、安心なの」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ふたりとも、まず忘れ物しないように、
+line2 <shift> # 心がけような……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、亜美と美希を家まで送り届けた。
+line2 <shift> # 大変な一日だったな……）
+com09 0 99
+display
+location 99
+unk02

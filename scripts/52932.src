@@ -1,0 +1,428 @@
+com2c 0 24
+com32 0 0
+com2d 0 91
+com2e 0 101
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （仕事の合間のオフ時間、自由行動に
+line2 <shift> # したかったが、外はあいにくの悪天候だ……）
+display
+com11 0 0
+sound 241
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「わあ〜、まっくろい雲が、ウズになってる〜。
+line2 <shift> # 外、すごい風だね！　雨も降ってきたよ！」
+display
+com11 0 0
+sound 201
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「さっきまで晴れてたのに……。
+line2 <shift> # 急に、こんな雨と風になって、びっくりだねぇ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「仕方ない。亜美に真美、ふたりとも、
+line2 <shift> # しばらく部屋で、おとなしくしてようか」
+display
+com11 0 0
+sound 202
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「おとなしく？　つまんないの〜……。
+line2 <shift> # あっ、真美！　あれ見て、あれ！」
+display
+com11 0 0
+sound 203
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「どしたの、亜美？　……うわぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ん？　ふたりで窓際に張りついて、
+line2 <shift> # 何を見てるんだ？」
+display
+com11 0 0
+sound 204
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「あそこの女の人、ミニスカートめくれてるー」
+display
+com11 0 0
+sound 205
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「うん。バリバリ、めくれてるー」
+display
+com11 0 0
+sound 206
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「風びゅーびゅーだから、
+line2 <shift> # スカートおさえるのも大変だあ」
+com03 0 2
+choice1 <shift> # こらこら、見ちゃダメだ
+line2
+com09 0 10
+com08
+choice2 <shift> # な、なんだって！？
+line2
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「こらこら、見ちゃダメだ。
+line2 <shift> # じろじろ見たら、失礼だぞ？」
+display
+com11 0 0
+sound 207
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「はぁーい……。
+line2 <shift> # そだね、風のふかこーりょく、だもんね」
+display
+com11 0 0
+sound 208
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「うーん……、そだね。自分で見せたくて、
+line2 <shift> # スカートめくってるのと、違うもんね」
+display
+com11 0 0
+sound 209
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「この風だと、そのうちスカートも、
+line2 <shift> # 飛んじゃいそうだったけどね」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「な、なんだって！？」
+display
+com11 0 0
+sound 242
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「うわっ、兄ちゃん、すごい食いつきだーっ」
+display
+com11 0 0
+sound 243
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「兄ちゃん、そんなに見たいんだーっ。Ｈ〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうじゃないって。
+line2 <shift> # ただ、俺は、その女性が心配でだな……」
+display
+com11 0 0
+sound 244
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ホントかなー。鼻の下、のびてるよ〜？」
+display
+com11 0 0
+sound 245
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「……でも、たしかに心配かも〜。
+line2 <shift> # すっごい風と雨だし」
+display
+com11 0 0
+sound 246
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「うんうん。すっごいよね〜！
+line2 <shift> # なんでもかんでも、飛んでっちゃいそうだよ〜」
+com09 0 19
+display
+location 19
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まあまあ。とりあえず、ふたりとも座って、
+line2 <shift> # 嵐が止むまで、落ち着いたら、どうだ？」
+display
+com11 0 0
+sound 215
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「えーっ、外、楽しそうだよ〜。
+line2 <shift> # 真美、外に出てみたいな〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おいおい。今、外なんかに出たら、
+line2 <shift> # 風に、とばされるぞ！？」
+display
+com11 0 0
+sound 216
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「え、風にとばされるって、空とべるの？
+line2 <shift> # おもしろそう！」
+display
+com11 0 0
+sound 217
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「よーし、外行ってみよう！」
+display
+com11 0 0
+sound 218
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「うんうん、行こう行こう！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （や、やめさせなきゃ！　表は、
+line2 <shift> # 街路樹も折れそうな、風と雨なんだぞ……？）
+com03 0 3
+choice1 <shift> # せめてカサは持って行け！
+line2
+com09 0 20
+com08
+choice2 <shift> # だめだめ！　遊びに行くな
+line2
+com09 0 21
+com08
+choice3 <shift> # 危険だ、俺が様子を見る
+line2
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わかったわかった。だが、ふたりとも、
+line2 <shift> # せめてカサは持って行け！」
+display
+com11 0 0
+sound 219
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「カサ？　そっか！　カサもってた方が、飛べ
+line2 <shift> # そうだもんね！　兄ちゃん、あったまＥ→！」
+display
+com11 0 0
+sound 220
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「これでバッチリだね！
+line2 <shift> # よーし、カサ広げて、うまく風にのろー♪」
+display
+com11 0 0
+sound 221
+com4c 0 3
+name 0 0 <names:4>  # Ami and Mami
+line1 <shift> # 「そいじゃ、れっつごー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「はっ。し、しまった！　ふたりを止める
+line2 <shift> # つもりが、逆に、あおってしまったか！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （けれど、程なくして、
+line2 <shift> # ふたりは戻ってきた……）
+display
+com11 0 0
+sound 222
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「たっだいまー！　カサ、あげてきちゃったけど、
+line2 <shift> # いいよね？　兄ちゃん」
+display
+com11 0 0
+sound 223
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「これでもう、さっきの女の人のスカート、
+line2 <shift> # めくれないね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （亜美と真美は、どうやら、外にいた女性に、
+line2 <shift> # カサをプレゼントしてきたらしい）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （優しいところ、あるんだな……。
+line2 <shift> # ふたりの良い一面を、かいま見た気がする）
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だめだめ！　遊びに行くなんて」
+display
+com11 0 0
+sound 224
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「えーっ、いいじゃん！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「こんな大荒れの天気の中を、
+line2 <shift> # 出かけるなんて、許可できないぞ」
+display
+com11 0 0
+sound 225
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「やだやだ、行く〜。
+line2 <shift> # こんな、すんごい嵐、なかなかないもんね」
+display
+com11 0 0
+sound 226
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「亜美達、嵐ごっこしたいんだもん！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「看板とかが飛んできたら、どうするんだ！
+line2 <shift> # ぶつかったら危ないぞ！」
+display
+com11 0 0
+sound 227
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「だいじょうぶ、ちゃんとよけるよ！」
+display
+com11 0 0
+sound 228
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「よけられなくても、パンチすれば、
+line2 <shift> # だいじょうぶだよ！」
+display
+com11 0 0
+sound 229
+com4c 0 3
+name 0 0 <names:4>  # Ami and Mami
+line1 <shift> # 「ほんじゃ、れっつごー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「くっ……、止められなかった。
+line2 <shift> # 激しく心配だ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （けれど、程なくして、
+line2 <shift> # ふたりは戻ってきた……）
+display
+com11 0 0
+sound 230
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「あ〜、面白かった！　小っちゃなたつまきが、
+line2 <shift> # ビルのすきまに、できてたよ！」
+display
+com11 0 0
+sound 231
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「たつまき、かっこよかったね！
+line2 <shift> # 真美、ちょっと空飛んじゃった」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あーあー、ふたりとも、クツがドロまみれだ。
+line2 <shift> # そのクツで、事務所を歩き回るなよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ドロドロになって帰ってきた亜美達のクツは、
+line2 <shift> # 結局、俺が洗ってやった……）
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「外は危険だ。俺が、まず行って、様子を見て
+line2 <shift> # くるから、亜美も真美も、ここで待つんだぞ」
+display
+com11 0 0
+sound 232
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「兄ちゃん、外行くの？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうだとも。行くフリして隠れたり
+line2 <shift> # しないぞ。ほんとに見てくるぞ。うん」
+display
+com11 0 0
+sound 233
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「じゃあ亜美も！　一緒に行こうよ〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「い、いや。だから、俺が先に、
+line2 <shift> # 偵察してから、な？」
+display
+com11 0 0
+sound 234
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「後から真美達が行っても、今行っても、
+line2 <shift> # 行くのは、おんなじでしょ？」
+display
+com11 0 0
+sound 235
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「だから、行くなら、みんなで行こう〜！
+line2 <shift> # 一緒のほうが、たのしいよ」
+display
+com11 0 0
+sound 236
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「みんなでいけば、こわくな〜い！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「『こわくなーい』って、そういう問題じゃ……。
+line2 <shift> # こ、こら、腕を引っ張るな！」
+display
+com11 0 0
+sound 237
+com4c 0 3
+name 0 0 <names:4>  # Ami and Mami
+line1 <shift> # 「そんじゃ、れっつごー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あああ、無理やり連れて行かれる……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （それから、しばらくして……）
+display
+com11 0 0
+sound 238
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「あ〜、面白かった！　ちっさいたつまきが、
+line2 <shift> # ビルのすきまにできてたね、兄ちゃん！」
+display
+com11 0 0
+sound 239
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「たつまき、すごかったね！
+line2 <shift> # 真美、さわったら、ちょっと空飛んじゃった」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あーあー、ふたりとも、クツがドロまみれだ。
+line2 <shift> # そのクツで、事務所を歩き回るなよ？」
+display
+com11 0 0
+sound 240
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「兄ちゃんだって、全身ドロまみれでしょ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ぐっ……。お前達は、なんで、
+line2 <shift> # クツしか汚れていないんだ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺は、ドロドロな格好で、ドロドロな
+line2 <shift> # 亜美と真美のクツを、洗うハメになった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （洗い終わった頃、外の嵐は、
+line2 <shift> # もうきれいに止んでいた……）
+com09 0 29
+display
+location 29
+unk02

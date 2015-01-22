@@ -1,0 +1,593 @@
+com2c 0 24
+com2c 0 35
+com2c 0 67
+com2c 0 56
+com2d 0 91
+com2e 0 101
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、今日のミーティングは、
+line2 <shift> # これで終わりだな。お疲れさま！」
+display
+com11 0 0
+sound 10000
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「やったー！　真美、せっかく早く終わったから、
+line2 <shift> # 買い物に行こうよっ！」
+display
+com11 0 0
+sound 10001
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「うんうん、行こ行こーっ！
+line2 <shift> # 兄ちゃんも一緒に行こうよ！」
+com03 0 3
+choice1 <shift> # ああ、いいよ
+line2
+com09 0 10
+com08
+choice2 <shift> # 変な店じゃないだろうな
+line2
+com09 0 11
+com08
+choice3 <shift> # 二人で行っておいで
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、いいよ。
+line2 <shift> # 二人はもう、人気アイドルだからな」
+display
+com11 0 0
+sound 10002
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「えっ？　人気アイドルだと、
+line2 <shift> # 一緒に買い物してくれるの？」
+display
+com11 0 0
+sound 10003
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「人気アイドルになって、得したね〜、亜美！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、ファンに見つかると大変だから、
+line2 <shift> # 護衛が必要って意味なんだけど……」
+display
+com11 0 0
+sound 10004
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「じゃ〜、兄ちゃんと一緒にお買い物ツアー、
+line2 <shift> # しゅっぱ〜つ！　わーいっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （全くきいてないな、俺の話……。
+line2 <shift> # 楽しそうだから、まあ、いいけど）
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……変な店じゃないだろうな？」
+display
+com11 0 0
+sound 10005
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「えっ？　変な店ってどんなの、どんなの〜？
+line2 <shift> # ねえ、知ってる、真美？」
+display
+com11 0 0
+sound 10006
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ううん、知らないよ、亜美〜。ねえ、兄ちゃん、
+line2 <shift> # ハッキリ言ってくれないと、わかんないよ〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「つまり……、俺の入りにくい店だったら
+line2 <shift> # 行かないからな。……下着専門店とか」
+display
+com11 0 0
+sound 10007
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ん〜、そんなのゼンゼン変じゃないのに。
+line2 <shift> # 亜美達、しょっちゅう行ってるんだよ」
+display
+com11 0 0
+sound 10008
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「でも、兄ちゃんがイヤなら、あの店はやめ
+line2 <shift> # よっか。も〜、わがままだな、兄ちゃんはー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （きいておいて良かった……。
+line2 <shift> # 油断もスキもないな、全く）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しかし、ファンに囲まれたりすると大変だし、
+line2 <shift> # ついて行かないわけにも、いかないか）
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「二人で行っておいで。
+line2 <shift> # 俺は、まだ仕事が残ってるし」
+display
+com11 0 0
+sound 10009
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「わかったー！　二人で、
+line2 <shift> # 歌いながら行こっ、真美！」
+display
+com11 0 0
+sound 10010
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「そうだね！　新曲の練習、
+line2 <shift> # 大声でしながら行こうね、亜美ー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「待て……。そんなことをしたら、
+line2 <shift> # ファンが大勢集まってきて、パニックになる！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「目立たないように、ファンに見つからないよう
+line2 <shift> # に、双子だとバレないように、行っておいで」
+display
+com11 0 0
+sound 10011
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「うう〜、兄ちゃん、一緒に来てくれないくせに、
+line2 <shift> # 注文つけすぎだよ。ちょっとウルサイかも」
+display
+com11 0 0
+sound 10012
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「真美達、自分では、うまく気をつけられない
+line2 <shift> # から、やっぱり兄ちゃん、一緒に来てよ〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わかったわかった。これもプロデューサーの
+line2 <shift> # 仕事の内だしな。仕方がない。一緒に行くよ」
+com09 0 29
+display
+location 29
+com22 0 30
+com21 0 30
+com32 0 1
+com11 0 0
+sound 10013
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「兄ちゃん、こっちこっち〜！」
+display
+com11 0 0
+sound 10014
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「兄ちゃん、おっそ〜い！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おいおい、そんなに走るなよ。
+line2 <shift> # 人が多いんだから、ぶつかるぞ？」
+display
+com11 0 0
+sound 10015
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「平気だも〜ん。
+line2 <shift> # 亜美、レッスンで、きたえまくってるし！」
+display
+com11 0 0
+sound 10016
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「そーだ、今度、一緒にレッスンやろうよ！
+line2 <shift> # 兄ちゃん用のレオタード買っとくからさ〜！」
+display
+com11 0 0
+sound 10017
+com4c 0 3
+name 0 0 <names:4>  # Ami and Mami
+line1 <shift> # 「んっふっふ〜♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「な、なぜ俺だけレオタードなんだよ！　二人は、
+line2 <shift> # ジャージなのに……。いや、そんなことより！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （二人とも、はしゃぎすぎてないか？　ちょっと、
+line2 <shift> # おとなしくさせた方が、いいかな……？）
+com03 0 3
+choice1 <shift> # 今日はお忍びなんだぞ
+line2
+com09 0 30
+com08
+choice2 <shift> # ……いや、ほっとくか
+line2
+com09 0 31
+com08
+choice3 <shift> # 少しは静かにしろ
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なあ、亜美も真美も、今日はお忍びなんだぞ。
+line2 <shift> # そのことを忘れるなよ？」
+display
+com11 0 0
+sound 10018
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ええっ！　これってお忍びだったんだ！？
+line2 <shift> # 大変だよ、真美ー！」
+display
+com11 0 0
+sound 10019
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「そうだね！　お忍びなら、お忍びモードに
+line2 <shift> # ならないと！　行くよ、亜美っ！」
+display
+com11 0 0
+sound 10020
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「うんっ。
+line2 <shift> # 変身！　お忍びモ〜ド……、でござる」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ご……、ござる？」
+display
+com11 0 0
+sound 10021
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「そうでござる。
+line2 <shift> # 真美達、これからお忍びでござる」
+display
+com11 0 0
+sound 10022
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「お忍びは、ひじょーでござる」
+display
+com11 0 0
+sound 10023
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「カゲに生きるのが、お忍びのオキテでござる。
+line2 <shift> # 『死してシシトウ拾うものなし』でござる」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんか色々カン違いしてるぞ。
+line2 <shift> # それに、すごい目立ってるし！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「誰も声をかけないのは、気づかれてないのか、
+line2 <shift> # みんなあきれてるのか……」
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……いや、ほっとくか。二人にとってはオフの
+line2 <shift> # 時間なんだし、ガミガミ言うのもかわいそうだ）
+display
+com11 0 0
+sound 10024
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「兄ちゃ〜ん、レオタードはピンクと紫、
+line2 <shift> # どっちがいい？」
+display
+com11 0 0
+sound 10025
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「もちろん、暗いとピカピカって光るやつね〜！
+line2 <shift> # ラメラメのやつも、捨てがたいけど！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （騒いでる姿は、ほんとに普通の子どもだしな。
+line2 <shift> # そのままでも、誰にもバレないだろう）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……あれ？　ってことは、
+line2 <shift> # 俺は来なくても問題なかったような気が……）
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「こら、少しは静かにしろよ。そんなに
+line2 <shift> # 騒いでると、アイドルだってバレちゃうぞ？」
+display
+com11 0 0
+sound 10026
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「平気だよ〜。絶対バレっこないもんね〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え？　なんでだよ？」
+display
+com11 0 0
+sound 10027
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「だって、アイドルの『亜美』は、ひとりだ
+line2 <shift> # もーん。でも、ここにいるのは二人だから……」
+display
+com11 0 0
+sound 10028
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「みんな、違うって思うよねっ！
+line2 <shift> # だから亜美達、絶対にバレっこないっしょ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええっ？　そ、そうかぁ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そんなわけないと思うんだが。
+line2 <shift> # でも、実際にバレてないしな……）
+com09 0 49
+display
+location 49
+com11 0 0
+sound 10029
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「んじゃ、そろそろ買い物、行こっかー！」
+display
+com11 0 0
+sound 10030
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「うん、行こ行こ〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そういや、今日は何を買いに来たんだ？
+line2 <shift> # まだ教えてもらってなかったけど」
+display
+com11 0 0
+sound 10031
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「何って……。んー、別に何も……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええっ？
+line2 <shift> # 買い物に来たんじゃなかったのか？」
+display
+com11 0 0
+sound 10032
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「真美達、なんか面白い物がないか、
+line2 <shift> # 見に来ただけだもーん」
+display
+com11 0 0
+sound 10033
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「うんうん！　それで、いい物があったら、
+line2 <shift> # 買っちゃうんだよ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、なるほど。ウィンドウショッピングを、
+line2 <shift> # しに来たってわけか」
+display
+com11 0 0
+sound 10034
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「それそれ！　運動ショッピング！　ねえ、
+line2 <shift> # 兄ちゃんは、どっか面白そうな店、知らない？」
+display
+com11 0 0
+sound 10035
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「楽しそうな物、いーっぱいおいてある店が、
+line2 <shift> # いいなー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ウィンドウショッピングが、
+line2 <shift> # 楽しめそうな店ねえ。えーと……」
+com03 0 3
+choice1 <shift> # フィギュアショップ
+line2
+com09 0 50
+com08
+choice2 <shift> # 行きつけの洋服店
+line2
+com09 0 51
+com08
+choice3 <shift> # 古本屋
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃあ、フィギュアショップとか、どうだ？
+line2 <shift> # 人形が、いっぱい売ってる店だけど」
+display
+com11 0 0
+sound 10036
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ホントっ！？　じゃあ、
+line2 <shift> # ヤキニクマンのフィギュアも、あるかな！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「し、知らないけど、あるかもな」
+display
+com11 0 0
+sound 10037
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「めっちゃ面白そうっ！
+line2 <shift> # 兄ちゃん、早く連れてってよ〜！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後、亜美と真美は、フィギュアショップで、
+line2 <shift> # 大はしゃぎ。３人で楽しく過ごすことができた）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ちょっとマニアックかとも思ったけど、
+line2 <shift> # 満足してもらえたようだ。良かったな！）
+com09 0 69
+display
+location 51
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃあ、俺の行きつけの洋服店にでも行くか。
+line2 <shift> # 服、好きだろ？」
+display
+com11 0 0
+sound 10038
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ええっ！　兄ちゃんの行きつけの店なの！？
+line2 <shift> # 亜美、めっちゃ行きたーいっ！」
+display
+com11 0 0
+sound 10039
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「真美もーっ！」
+display
+com22 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そして俺達３人は、意気揚々と、
+line2 <shift> # 俺の行きつけの洋服店へ行ったのだが……）
+display
+com21 0 30
+com32 0 2
+com11 0 0
+sound 10040
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「うう〜！　兄ちゃん、なんで、すぐ店出ちゃっ
+line2 <shift> # たの？　これからお着替えタイムだったのに〜」
+display
+com11 0 0
+sound 10041
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「そうだよ〜。兄ちゃんのお着替えシーン、
+line2 <shift> # 真美達、超楽しみにしてたのに〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「か、カンベンしてくれよ。二人の目の前で着替
+line2 <shift> # えるなんて……。完全に罰ゲームじゃないか！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺の行きつけの店は、メンズ専門店だったため、
+line2 <shift> # 亜美達は、俺の服を勝手に見たて始め……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （二人の目の前で着替えろ、と言い出したのだ。
+line2 <shift> # 連れて行く店を、間違えた！）
+display
+com11 0 0
+sound 10042
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「だってー、あの店だったら、
+line2 <shift> # 亜美達、他にやることなかったんだもん！」
+display
+com11 0 0
+sound 10043
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「そうだよ〜。真美達の服、全然なかったし。
+line2 <shift> # だから兄ちゃん、戻って、服、着てみてよー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （結局、一日中、着替え続ける羽目になった。
+line2 <shift> # 二人は、けっこう楽しんでたみたいだが……）
+com09 0 69
+display
+location 52
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃあ、古本屋に行くか。
+line2 <shift> # 行ったことないだろ？」
+display
+com11 0 0
+sound 10044
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「んーと、それって、どんな店？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「古い本が、いっぱいあるところだよ。
+line2 <shift> # なかなか面白いぞ？」
+display
+com11 0 0
+sound 10045
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「図書館みたいなの？
+line2 <shift> # ……真美、ちょっと苦手かも」
+display
+com11 0 0
+sound 10046
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「亜美もダメかも〜。他の場所にしようよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「い、いや。食わず嫌いは、良くないぞ。
+line2 <shift> # とりあえず行ってみようよ。な？」
+display
+com11 0 0
+sound 10047
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「うーん。兄ちゃんが、そんなに言うなら……」
+display
+com22 0 30
+com21 0 30
+com32 0 3
+com11 0 0
+sound 10048
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「やっぱり、つまんない〜。
+line2 <shift> # 読めない字の本ばっかりだよ……」
+display
+com11 0 0
+sound 10049
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「それに、変なにおい〜。
+line2 <shift> # 真美、のどがイガイガってなっちゃったよ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （大不評だ……。古本屋の魅力は、
+line2 <shift> # 小学生には、あまりにも早すぎたのか……）
+com09 0 69
+display
+location 69
+unk02

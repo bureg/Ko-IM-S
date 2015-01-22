@@ -1,0 +1,289 @@
+com2c 0 57
+com2d 0 41
+com32 0 0
+com11 0 1
+sound 900
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「えーと、次の仕事は……。ボーリング場で、
+line2 <shift> # ミュージック・クリップの撮影ですね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。楽しく遊んでる絵が、欲しいん
+line2 <shift> # だって。１フロア、丸ごと、借り切ってある」
+display
+com11 0 1
+sound 901
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ボーリングって、どういうルールなんで
+line2 <shift> # しょう？　私、やったことなくて……」
+display
+com11 0 1
+sound 902
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ＴＶで見たことはありますけど、
+line2 <shift> # 球の持ち方とか、全然知りません……」
+com03 0 2
+choice1 <shift> # 撮影の時、手こずりそうだな
+line2
+com09 0 10
+com08
+choice2 <shift> # さびしい青春だな……
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「撮影の時、手こずりそうだな」
+display
+com11 0 1
+sound 903
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「一応、スタッフに教えてもらう気ではいます。
+line2 <shift> # 何度かテストすれば、きっと……」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「さびしい青春だな……」
+display
+com11 0 1
+sound 904
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「とくに、そう感じてはいません。私には、
+line2 <shift> # なによりも大切なものが、ありますし」
+display
+com11 0 1
+sound 905
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ただ、常識知らずと言われると、返す言葉が
+line2 <shift> # ありません……」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「千早は、ほかの遊びも知らないのか？
+line2 <shift> # 最近、オフの日とかは、なにをしてるんだ？」
+display
+com11 0 1
+sound 906
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「起きて、朝から夜までトレーニングをして
+line2 <shift> # ……寝ます」
+com03 0 3
+choice1 <shift> # そんなの、オフとは言わないよ
+line2
+com09 0 30
+com08
+choice2 <shift> # そんな生活、よくないよ？
+line2
+com09 0 31
+com08
+choice3 <shift> # まるで、マシーンだな……
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなの、オフとは言わないよ」
+display
+com11 0 1
+sound 907
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「私も、いろいろ試してみたいとは思うんです。
+line2 <shift> # けど、仕事以外の事、よくわからないから……」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんな生活、よくないよ？　息が詰まる
+line2 <shift> # だろ？」
+display
+com11 0 1
+sound 908
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「変化には……とぼしいですね。けど、別の
+line2 <shift> # ことをしようとしても、思いつかないんです」
+display
+com11 0 1
+sound 909
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ここまで、ずっと走り続けてきましたから。
+line2 <shift> # これはもう、習慣みたいなもので……」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まるで、マシーンだな……」
+display
+com11 0 1
+sound 910
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「機械的に、そうしてるわけではありません。
+line2 <shift> # たまには、別のこともしようって、いつも……」
+display
+com11 0 1
+sound 911
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「けど、思いつかないんです。ここまで、
+line2 <shift> # ずっと、走り続けるだけでしたから」
+com09 0 49
+display
+location 49
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……放っておけないな。よし、次の撮影が
+line2 <shift> # 終わったら、街を引っぱり回してやる」
+display
+com11 0 1
+sound 912
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「え？　でも、この後もスケジュール、詰まって
+line2 <shift> # ますよね？　どうするんですか？」
+com03 0 3
+choice1 <shift> # 一部、キャンセルだ
+line2
+com09 0 50
+com08
+choice2 <shift> # ……仕事が終わった後にするか
+line2
+com09 0 51
+com08
+choice3 <shift> # 全部、キャンセルだ
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 3
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「一部、キャンセルだ」
+display
+com11 0 1
+sound 913
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そこまでして、遊ぶ必要なんて、ないと
+line2 <shift> # 思います！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あるよ。今回みたいに、ボーリングのルールも
+line2 <shift> # 知らないんじゃ、撮影に手間がかかるだろ？」
+display
+com11 0 1
+sound 914
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あ、それは……。
+line2 <shift> # たしかに、そうかもしれません……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「明日以降でも、問題ない仕事を選んで、
+line2 <shift> # 後回しにする。それなら、いいだろ？」
+display
+com11 0 1
+sound 915
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「わかりました。では言う通りに……。お願い
+line2 <shift> # します。私にいろいろ……教えてください」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （素直に、納得してくれた。よし、千早に
+line2 <shift> # いろいろな遊び、たっぷりと教えてやろう）
+com09 0 69
+display
+location 51
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……仕事が終わった後にするか」
+display
+com11 0 1
+sound 916
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「その方が、いいですよね。私の都合で、予定
+line2 <shift> # 狂わせてしまうわけには、いきません」
+display
+com11 0 1
+sound 917
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ただ、ほとんど時間はありませんね。
+line2 <shift> # 今日も、夜遅くまで、仕事が……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだな。明日も朝早いから、そんなにムリは
+line2 <shift> # させられないし」
+display
+com11 0 1
+sound 918
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「閉まってしまうスポットとかも、多いですよね。
+line2 <shift> # そういうところは、あきらめるしか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「残念だけど……。ごめんな、こんな立場で
+line2 <shift> # なければ、もっと、自由に……」
+display
+com11 0 1
+sound 919
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「いえ、いいんです。私の事、考えてくれる
+line2 <shift> # 気持ちは、うれしいですから……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （すこしさびしそうに、微笑んでいる。
+line2 <shift> # まあ、できる範囲のことで、許してもらおう）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「全部、キャンセルだ」
+display
+com11 0 1
+sound 920
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「本気じゃないですよね？　そんなことをしたら、
+line2 <shift> # 大騒ぎに……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、やるなら、徹底的にやらなきゃ。
+line2 <shift> # 今日一日で、あらゆること、経験してもらう」
+display
+com11 0 1
+sound 921
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……仕事に大穴をあけてまで、そんなこと
+line2 <shift> # したいとは、思いません！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、これくらいやらないと、千早は今の
+line2 <shift> # サイクルから、抜け出せないだろ？」
+display
+com11 0 1
+sound 922
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そうかもしれません。でも、信頼を失うくらい
+line2 <shift> # なら、このままの方がマシです」
+display
+com11 0 1
+sound 923
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサーと私が、築いてきたもの、
+line2 <shift> # そんな、軽いものなんですか！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う、それは……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （瞳が、かすかに、うるんでいる……。いくら
+line2 <shift> # なんでも、極端なことを、言ってしまったな）
+com09 0 69
+display
+location 69
+unk02

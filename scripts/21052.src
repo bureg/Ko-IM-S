@@ -1,0 +1,477 @@
+com2c 0 112
+com2c 0 189
+com2c 0 154
+com2d 0 51
+com32 0 0
+com11 0 0
+sound 10000
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ん〜。お買い物をして、のんびり公園をお散歩
+line2 <shift> # なんて、ずいぶん、久しぶりな気がしますね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「このところ、毎日、分刻みのスケジュールです
+line2 <shift> # からね。今は、ゆっくり、羽を伸ばして下さい」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……と言っても、夜から打ち合わせが入って
+line2 <shift> # いるので、あまりノンビリは、できませんが」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ふふっ。では、がんばって、短時間で、
+line2 <shift> # 鋭気を養わないと、いけませんね〜」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「せっかくプロデューサーさんが、スケジュール
+line2 <shift> # の合間をぬって作って下さった休み時間ですし」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「……あ。でも、プロデューサーさんまで、お散
+line2 <shift> # 歩に付き合わせてしまって、すみませんでした」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「気にしないで下さい。あずささんを一人には
+line2 <shift> # できませんよ。だって、あずささんは……」
+com03 0 3
+choice1 <shift> # 魅力的すぎますから
+line2
+com09 0 10
+com08
+choice2 <shift> # 方向オンチでしょう？
+line2
+com09 0 11
+com08
+choice3 <shift> # 放っとくと海に落ちますから
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「魅力的すぎますから。男が大勢寄ってきそうで
+line2 <shift> # 心配です！　俺がガードしないと……」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そんな……。ファンの方が寄ってくることは
+line2 <shift> # あっても、男の人だなんて……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いいえ、寄ってきます！　なぜなら、俺が、た
+line2 <shift> # だの男なら、あずささんに寄っていくからです」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ぷ、プロデューサーさんったら……。
+line2 <shift> # そんなに心配しなくても、大丈夫ですよ？」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「私は、他の男の人に、ついていったりしません。
+line2 <shift> # ついていくと決めたのは一人だけですから……」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「……なーんて。ちょ、ちょっと恥ずかしい
+line2 <shift> # ですね〜。ふふっ！」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「方向オンチでしょう？　一人で外へ出したりし
+line2 <shift> # たら、もう二度と帰ってこないに決まってます」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「う……。それを言われると、本当のことだけに、
+line2 <shift> # お返しする言葉がありません〜」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「で、でも、二度と帰ってこないなんてことは、
+line2 <shift> # 決して……、いえ、たぶん、ありませんよ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （いや……、ある！　絶対、ある！）
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「放っとくと海に落ちますから。ほら、この公園、
+line2 <shift> # 柵が低いから、ボーッとしてると落下しますよ」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「えっ。いくらなんでも、私、そこまでボンヤリ
+line2 <shift> # は、していないと思うのですけれど……」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「でも、プロデューサーさんには、そう見えるん
+line2 <shift> # ですよね。……わかりました。気をつけます」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 10012
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「……それにしても、けっこう歩いてる人、
+line2 <shift> # いるんですね。カップルも、多いですし」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「このあたりは、デートスポットですから。
+line2 <shift> # でも、たしかに多いなあ」
+display
+com11 0 0
+sound 10013
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ふふっ。他の人から見て、
+line2 <shift> # 私達は、どういう風に見えるんでしょうか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうですねえ……」
+com03 0 3
+choice1 <shift> # 恋人同士
+com09 0 30
+com08
+choice2 <shift> # アイドルとプロデューサー
+line2
+com09 0 31
+com08
+choice3 <shift> # 姉弟
+com09 0 32
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「恋人同士、かな」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「や、やっぱり、男性と女性が歩いていれば、
+line2 <shift> # そう見えますよね……」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「す、すみません。プロデューサーさんに、
+line2 <shift> # ご迷惑が、かからないといいのですが」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「迷惑なわけ、ないじゃないですか。そんなこと、
+line2 <shift> # あずささんなら、よくわかっているでしょう？」
+display
+com11 0 0
+sound 10016
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「……」
+display
+com11 0 0
+sound 10017
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「……え、えーっと、ちょっとは、
+line2 <shift> # お仕事の話も、しましょうか？」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「アイドルとプロデューサー、かな」
+display
+com11 0 0
+sound 10018
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そ、そのままですね。
+line2 <shift> # もしかして私、目立ってしまっていますか？」
+display
+com11 0 0
+sound 10019
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「少しくらい変装してくれば良かったです〜。
+line2 <shift> # お散歩、早目に切り上げた方が良いかしら……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いえ、もう少しぐらいなら、大丈夫だと思い
+line2 <shift> # ます。次の打ち合わせまで、あと少しですから」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「姉弟、かな」
+display
+com11 0 0
+sound 10020
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「姉弟、ですか。あまりうれしくないですね……。
+line2 <shift> # それに……！」
+display
+com11 0 0
+sound 10021
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「どちらかというと、プロデューサーさんの方が、
+line2 <shift> # お兄さんに見えるんじゃないでしょうか〜？」
+display
+com11 0 0
+sound 10022
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「落ち着いていらっしゃいますから。
+line2 <shift> # ね、そう思いませんか〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （あずささん、どうしても『姉』には見られたく
+line2 <shift> # ないらしい。微妙な乙女心だな……）
+display
+com11 0 0
+sound 10023
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、それはそうと……」
+com09 0 49
+display
+location 49
+com11 0 0
+sound 10024
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あの、この後の打ち合わせ、
+line2 <shift> # どんな内容なんですか〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「打ち合わせというより、顔合わせに近いです。
+line2 <shift> # 雑談するくらいの感じで、いいですよ」
+display
+com11 0 0
+sound 10025
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はい。……はあ〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あれ。どうかしました？」
+display
+com11 0 0
+sound 10026
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「い、いえ、なんでも……。
+line2 <shift> # 打ち合わせ、頑張らないといけませんね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ん？　何だか、あずささんの様子が変だな。
+line2 <shift> # もしかして……）
+com03 0 3
+choice1 <shift> # 疲れているのでは
+line2
+com09 0 50
+com08
+choice2 <shift> # お腹がすいているのでは
+line2
+com09 0 51
+com08
+choice3 <shift> # 退屈なのでは
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あずささん、もしかして……、
+line2 <shift> # 疲れているのでは？」
+display
+com11 0 0
+sound 10027
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「え？　ど、どうしてです〜？
+line2 <shift> # 私、そういう風に見えましたか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ええ。なんとなくですが」
+display
+com11 0 0
+sound 10028
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「実は、先ほどから、ちょっと……。
+line2 <shift> # たいしたことはないと、思うのですけれど」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やっぱり。それじゃ、大事をとって、
+line2 <shift> # 今日の打ち合わせは、中止にしましょう」
+display
+com11 0 0
+sound 10029
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「え。でも、それでは、打ち合わせ相手の方に、
+line2 <shift> # 迷惑が、かかってしまいます」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「先方さんには、事情を説明して、了解を
+line2 <shift> # とります。あずささんの身体の方が大切ですよ」
+display
+com11 0 0
+sound 10030
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「……すみません。気をつかわせてしまって。
+line2 <shift> # よろしく、お願いします〜」
+display
+com11 0 0
+sound 10031
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「でも、私が調子悪いこと、どうして
+line2 <shift> # わかったんですか？　何も言っていないのに」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なんとなく、ですよ。
+line2 <shift> # まあ、つきあい、長いですからね」
+display
+com11 0 0
+sound 10032
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そう……、ですね。
+line2 <shift> # おつきあい、長いですものね。ふふっ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （そう言って笑うあずささんは、つらそうだった
+line2 <shift> # けど、少しだけ、うれしそうだった）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （これくらいの以心伝心ができなければ、あずさ
+line2 <shift> # さんのプロデューサーなんか務まらないよな）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あずささん、もしかしてお腹が、
+line2 <shift> # すいてますか？」
+display
+com11 0 0
+sound 10033
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「え？　い、いえ、そういうわけでは……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「遠慮しなくてもいいですよ。
+line2 <shift> # 少し早いですが、食事でも、しましょうか」
+display
+com11 0 0
+sound 10034
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はあ……。わ、わかりました」
+display
+com32 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ここは、雑誌とかでも紹介されてる
+line2 <shift> # レストランなんです。美味しいですよ！」
+display
+com11 0 0
+sound 10035
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、はい……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あれ？　どうかしました？
+line2 <shift> # 何だか元気ないですね」
+display
+com11 0 0
+sound 10036
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ごめんなさい。ちょっと食欲、
+line2 <shift> # ないみたいです。ううっ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あっ！　あずささん！
+line2 <shift> # 大変だ。す、すぐ病院へ……！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （結局、食事と打ち合わせはキャンセルし、病院
+line2 <shift> # へ直行。診断結果は、疲れによるめまいだった）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （大したことなくて良かったけど、あずささんの
+line2 <shift> # 異変に気づくのが遅れたことが悔やまれる……）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あずささん、もしかして、
+line2 <shift> # 退屈なんじゃないですか？」
+display
+com11 0 0
+sound 10037
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「え？　い、いえ、別に、そういうことは……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「隠さなくてもいいです。最近、息つくひまも
+line2 <shift> # なかったから、パーッと気分転換しましょう」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「せっかく、少し時間があるんですから、
+line2 <shift> # 面白い場所へ、案内しますよ」
+display
+com11 0 0
+sound 10038
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、でも……」
+display
+com32 0 2
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「手っ取り早く気分転換するなら、
+line2 <shift> # やっぱり遊園地ですよ」
+display
+com11 0 0
+sound 10039
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はあ、そうですね……。うう……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「何から乗ります？　絶叫マシンもありますし、
+line2 <shift> # お化け屋敷とかも楽しいかも」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「さあ、どんどん行きますよー！
+line2 <shift> # ね、あずささん！　……って、いない！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「さっきまで、後ろを歩いていたのに。
+line2 <shift> # どこ行ったんです、あずささーんっ！！」
+display
+com11 0 0
+sound 10040
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「プロデューサーさ……ん、ごめんなさ……。
+line2 <shift> # 私、めまいが……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あずささんっ！　そ、そんな所に倒れてたん
+line2 <shift> # ですか！？　あ、あの、誰か救急車をーっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （あずささんは、疲れによるめまいで、病院へ運
+line2 <shift> # ばれてしまった。幸い、大事なかったけど……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （当然、仕事もキャンセル。体調の変化に気づか
+line2 <shift> # ないなんて、プロデューサー失格だな……）
+com09 0 69
+display
+location 69
+unk02

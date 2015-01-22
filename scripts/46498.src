@@ -1,0 +1,494 @@
+com2c 0 17
+com2d 0 81
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「真。リハーサル、いい出来だったぞ。
+line2 <shift> # 本番のＴＶ放送でも、この調子でいこう！」
+display
+com11 0 0
+sound 0
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「はいっ！　ありがとうございますっ！」
+display
+com11 0 0
+sound 1
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「なんだか最近、こうすれば必ずうまくいく、
+line2 <shift> # っていう自分のスタイルを……」
+display
+com11 0 0
+sound 2
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「つかみかけてきたような気がするんです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「気がする……か。
+line2 <shift> # それは、気のせいじゃないと思うぞ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「これまで色々、試行錯誤しつつ努力してきた
+line2 <shift> # だろ？　それが実を結びつつあるんだよ」
+display
+com11 0 0
+sound 3
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ボクの努力が実を結びつつある……。
+line2 <shift> # それって、メチャメチャ嬉しいです！」
+display
+com11 0 0
+sound 4
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「でも、もっといい結果が欲しいです。
+line2 <shift> # ……ボクって、欲張りですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、その意気だ！
+line2 <shift> # そのためには、これから……」
+com03 0 3
+choice1 <shift> # 誰にも負けないものを大切に
+line2
+com09 0 10
+com08
+choice2 <shift> # 今のまま、頑張れ
+line2
+com09 0 11
+com08
+choice3 <shift> # 色んな才能を磨くんだ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「誰にも負けないものを大切にな！」
+display
+com11 0 0
+sound 5
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「誰にも負けないもの……ですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。真はすでに、それを持ってるから、
+line2 <shift> # これからも、それを大切にするんだ」
+display
+com11 0 0
+sound 6
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「え？　すでに持ってるって……？
+line2 <shift> # それって、何なんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「アイドルの頂点を目指す、熱い魂だ！
+line2 <shift> # 真は、それだけは他の誰にも負けない」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「その魂があってこそ、今の真がある、
+line2 <shift> # と言っても過言ではないな！」
+display
+com11 0 0
+sound 7
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「へへっ。て、照れますよ。プロデューサー、
+line2 <shift> # ちょっと熱血しすぎですよ」
+display
+com11 0 0
+sound 8
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「……でも、嬉しいなあ。感激です！
+line2 <shift> # 頂点を目指す魂、これからも大切にします！」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今のまま、頑張れ！　少し成功したからって、
+line2 <shift> # 気をぬいちゃダメだぞ！」
+display
+com11 0 0
+sound 9
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「もちろん、そのつもりですよ！　トップアイド
+line2 <shift> # ル目指して……まだまだ全力疾走です！」
+display
+com11 0 0
+sound 10
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「誰もボクを止められませんよ！　プロデュー
+line2 <shift> # サー、サポートばっちり、お願いしますね！」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「色んな才能を磨くんだ。今後は演技やトーク
+line2 <shift> # やお笑い方面でも、一流を目指さなきゃな！」
+display
+com11 0 0
+sound 11
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「えっ？　でも、ボクが目指すのは
+line2 <shift> # トップアイドルですよね？」
+display
+com11 0 0
+sound 12
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「やっぱり一番大切なのは、歌とかダンスとか
+line2 <shift> # なんじゃないかなあ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうだな。たしかに、今、お笑いの一流を
+line2 <shift> # 目指すのは、違う気がするな」
+display
+com11 0 0
+sound 13
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「でもボク、出来る限り頑張ります！
+line2 <shift> # えっと、お笑いと、演技と……」
+display
+com11 0 0
+sound 14
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あれ？　後はなんでしたっけ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、いい。俺が悪かった。
+line2 <shift> # 一度にやると、全部失敗しそうだ……」
+display
+com11 0 0
+sound 15
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「じゃあ、ひとつずつ頑張ります！
+line2 <shift> # それなら、成功しますよね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、そうだな。
+line2 <shift> # ひとつずつクリアしていこう」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……さてと、そろそろ本番だな！
+line2 <shift> # 衣装の準備、ちゃんとしてあるか？」
+display
+com11 0 0
+sound 16
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「はいっ！　リハーサルで着た時、ちょっとほこ
+line2 <shift> # ろびてたんで、直してもらいましたけど……」
+display
+com11 0 0
+sound 17
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「衣装さんが、さっき届けてくれました。
+line2 <shift> # 確かこの辺に……あれ？　おかしいな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうした？」
+display
+com11 0 0
+sound 18
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あの、ボクの衣装ケースが見当たりません。
+line2 <shift> # プロデューサー、知りませんか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、俺は知らないぞ。
+line2 <shift> # まいったな、もうあまり時間がないのに」
+display
+com11 0 0
+sound 19
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「そ、そうですよね。まずいですよね。
+line2 <shift> # うああっ、いったいどうすれば……！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （動揺してるみたいだ。
+line2 <shift> # とりあえず落ちつかせないと……！）
+com03 0 3
+choice1 <shift> # 落ち着け、真！
+line2
+com09 0 30
+com08
+choice2 <shift> # 落ち着け、ハニー！
+line2
+com09 0 31
+com08
+choice3 <shift> # 落ち着け、俺！
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「落ち着け、真！　本番まで数分ある。
+line2 <shift> # 気持ちを静めて、衣装ケースを探すんだ」
+display
+com11 0 0
+sound 20
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「そ、そうですよね。
+line2 <shift> # さすがプロデューサー、落ちついてますね」
+display
+com11 0 0
+sound 21
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ボクなんかメチャメチャ慌てちゃって。
+line2 <shift> # やっぱ、プロデューサーは頼りになるなあ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「こらこら、落ちつきすぎだぞ。
+line2 <shift> # 冷静かつ迅速に行動するんだ。探そう！」
+display
+com11 0 0
+sound 22
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「は、はいっ！」
+com09 0 39
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「落ち着け、ハニー！」
+display
+com11 0 0
+sound 23
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ハニー！？　って、ボクのことですか？　どさ
+line2 <shift> # くさにまぎれて、変な呼び方しないで下さい！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「すまん！　俺も少し気が動転しているようだ。
+line2 <shift> # 落ち着いて、衣装ケースを探そう」
+display
+com11 0 0
+sound 24
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「は、はいっ！」
+com09 0 39
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「落ち着け、俺！
+line2 <shift> # こんなときこそ冷静に、戸締まりの確認を……」
+display
+com11 0 0
+sound 25
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「うわあっ、プロデューサーが混乱してる！
+line2 <shift> # しっかりしてくださーい！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「い、いや、もしかして泥棒が衣装ケースを
+line2 <shift> # 持っていったのかなって思って……」
+display
+com11 0 0
+sound 26
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「そんなわけないじゃないですか！
+line2 <shift> # きっと、誰かが間違えて移動したんですよ！」
+display
+com11 0 0
+sound 27
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「とにかく、衣装ケースを探しましょう。
+line2 <shift> # たぶん、近くにあるはずですから！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （真にたしなめられてしまった。
+line2 <shift> # 俺って、ダメなプロデューサー……）
+com09 0 39
+display
+location 39
+com22 0 30
+com21 0 30
+com11 0 0
+sound 28
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あっ、プロデューサー！　衣装ケース、
+line2 <shift> # 見つけましたよ！　よかった！！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええっ！　実はこっちにも
+line2 <shift> # 同じケースがあったんだが……」
+display
+com11 0 0
+sound 29
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「うわっ、見事に同じケースですね。
+line2 <shift> # どっちにボクの衣装が入ってるんでしょう？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わからない。ただ、１つにはステージとは
+line2 <shift> # 全然関係ない衣装が入ってるはずだ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「とにかく、中身を確認するから……」
+display
+com11 0 0
+sound 30
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「そんな時間、ありませんよ！　あと１分で
+line2 <shift> # 本番……。生放送なんですよ！？」
+display
+com11 0 0
+sound 31
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「もう、どっちでもいいから
+line2 <shift> # ケースをください！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そう言われても、ハズレの方を選ぶと
+line2 <shift> # 大変なことになるぞ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （どっちだ？　いったいどっちのケースに、
+line2 <shift> # 正式な衣装が入ってるんだ！？）
+com03 0 2
+choice1 <shift> # 右の衣装ケース
+line2
+com09 0 40
+com08
+choice2 <shift> # 左の衣装ケース
+line2
+com09 0 40
+com08
+com07 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64 129 64
+com09 0 41
+com08
+display
+location 40
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えーい、こっちだ！　きっと！」
+display
+com11 0 0
+sound 32
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「わかりました！
+line2 <shift> # じゃ、着替えてきますね！」
+com37 0 1
+com1e 0 0
+com09 0 48
+com3b
+com37 0 0
+com1e 0 0
+com09 0 49
+com3b
+display
+location 41
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えーい、こっちだ！　たぶん！」
+display
+com11 0 0
+sound 33
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「はいっ！
+line2 <shift> # じゃ、着替えてきますね！」
+com09 0 49
+display
+location 48
+com22 0 30
+com21 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「真ーっ、まだか？　もう放送が始まるぞ」
+display
+com11 0 0
+sound 34
+com4c 0 2
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「プロデューサー、お待たせしました！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おっ、どうやら間にあったみたいだな」
+display
+com11 0 0
+sound 35
+com4c 0 2
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「もう、バッチリですよ！
+line2 <shift> # へへっ、やっぱりこの衣装は落ちつくなあ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、がんばってこいよ！」
+display
+com11 0 0
+sound 36
+com4c 0 2
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「はいっ！　生放送でのボクの活躍、
+line2 <shift> # しっかり見ていてくださいね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （予想外のトラブルがあったけど、真は集中力を
+line2 <shift> # 切らすことなく、立派に生放送を乗りきった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （トップまであと少し……。これからも陰から
+line2 <shift> # しっかり真を支えていこう！）
+com4b 0 0
+com09 0 59
+display
+location 49
+com22 0 30
+com21 0 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「真ーっ、まだか？　もう放送が始まるぞ」
+display
+com11 0 0
+sound 37
+com4c 0 2
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「……プロデューサー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうしたんだ真？　衣装は……！？」
+display
+com11 0 0
+sound 38
+com4c 0 2
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「プロデューサーが選んだ衣装ケースの中、
+line2 <shift> # 怪獣の着ぐるみが入ってました」
+display
+com11 0 0
+sound 39
+com4c 0 2
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「さすがにアレを着て歌うのはムリです……。
+line2 <shift> # ど、どうしましょう？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええっ？　仕方がない、こっちのケースの
+line2 <shift> # 衣装に着替えるんだ」
+display
+com11 0 0
+sound 40
+com4c 0 2
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「でも、もう生放送が始まりますよ。
+line2 <shift> # 今から着替えても……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「私服でステージには出られないだろ。
+line2 <shift> # 司会の人に、なんとかごまかしてもらおう」
+display
+com11 0 0
+sound 41
+com4c 0 2
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「わ、わかりました！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （終始、ドタバタしっぱなしで、何となく
+line2 <shift> # 落ち着かない雰囲気の生放送になってしまった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （他の出演者にも迷惑をかけて、真もすまなさそ
+line2 <shift> # うに縮こまってしまった。うう、失敗したな）
+com4b 0 2
+com09 0 59
+display
+location 59
+unk02

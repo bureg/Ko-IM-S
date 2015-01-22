@@ -1,0 +1,514 @@
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （仕事の合間の空き時間……）
+display
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「プロデューサー、疲れてませんか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、平気だよ。今は、のんびりしてるし」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「でも、最近、忙しいでしょ？
+line2 <shift> # 後の仕事のためにも、疲れは取っておかないと」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ほら、肩こってませんか？　ネクタイ曲がって
+line2 <shift> # ませんか？　お茶いれましょうか？」
+com03 0 3
+choice1 <shift> # じゃあ、肩を……
+line2
+com09 0 10
+com08
+choice2 <shift> # じゃあ、ネクタイを……
+line2
+com09 0 11
+com08
+choice3 <shift> # じゃあ、お茶を……
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃあ、肩をもんでもらおうかな……」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「肩、こってるんですか？
+line2 <shift> # では軽く、私がマッサージをしてあげましょう」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ありゃりゃー。それにしても、
+line2 <shift> # アナタ、肩こってますネー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……それ、誰かの物真似か？」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「うん、うちの伯父さん」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「へえ……。しかし律子、うまいな」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「うまい？　物真似が？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、もむのが。うーん、血行が良くなった
+line2 <shift> # 気がするよ。どうもありがとう！」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃあ、ネクタイを見てもらおうかな……」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「わかりました。
+line2 <shift> # ネクタイの具合、確かめてあげますよ」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「はい、きをつけして。
+line2 <shift> # 背筋伸ばして、こっち向いて下さい」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「はい。こんな感じかな？」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あーあ……。よれよれじゃないですか！
+line2 <shift> # スーツも！　しわくちゃだし！」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「もっとビシッとしてもらわなくちゃ！
+line2 <shift> # 一流のプロデューサーらしく！」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「とりあえず、ネクタイは直したけど……、
+line2 <shift> # これからはちゃんと、自分で鏡を見ること！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「す、すみません……」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃあ、お茶をいれてもらおうかな……」
+display
+com11 0 0
+sound 10012
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「お安い御用。ちょっと待ってて下さい」
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 10013
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「……はい、デスクに置きますね。
+line2 <shift> # いれたてで熱いので、気をつけて下さいよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いつもすまないね。しかし、トップアイドルに
+line2 <shift> # お茶をいれさせる俺も、結構なご身分だな……」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ええ、本当ですよねえ。うちらの間で、
+line2 <shift> # どっちが上とか下とか、そういうのは……」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ないと思ってましたけど。でも、プロデュー
+line2 <shift> # サーは私に平気でお茶をいれさせるんですねえ」
+display
+com11 0 0
+sound 10016
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「でも、いいんですよ。私の言い出したことです
+line2 <shift> # から。さあ、私のいれたお茶を、召し上がれ〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ぐっ……。な、何か引っかかる言い方だな！
+line2 <shift> # 別に俺は、律子を下に見てるわけじゃないぞ！」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 10017
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「はいはい、さて、他には何か？
+line2 <shift> # 今日は、なんでもお申し付け下さいね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それにしても、律子。今日は妙に、
+line2 <shift> # にこやかに俺の世話をやいてくれるんだな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……もしかして、何か企んでない？」
+display
+com11 0 0
+sound 10018
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「何も企んでなんかいません！　失礼な！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか、かんぐって悪かった……。
+line2 <shift> # じゃあ、お詫びをさせてくれ」
+display
+com11 0 0
+sound 10019
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「はい？　いいですよ、そんなの」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お詫びがダメなら、お礼をするよ。
+line2 <shift> # 役目を交代しよう。俺が……」
+com03 0 3
+choice1 <shift> # 律子にお茶をいれる
+line2
+com09 0 30
+com08
+choice2 <shift> # 律子の肩をもむ
+line2
+com09 0 31
+com08
+choice3 <shift> # 律子のネクタイを直す
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺が律子に、お茶をいれるよ」
+display
+com11 0 0
+sound 10020
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「えーと……、できるんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「バカにするな！　そのくらいはできるさ！」
+display
+com11 0 0
+sound 10021
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そうまで言うなら、まあ、お手並み拝見……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お茶っ葉ときゅうす、お湯があればいいんだろ。
+line2 <shift> # ええと……、あれ、どこに何があるんだ？」
+display
+com11 0 0
+sound 10022
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「しょうがないなあ……。お茶は向こうの棚、
+line2 <shift> # きゅうすは流しの横です。お湯はポットで……」
+display
+com11 0 0
+sound 10023
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「でも、最近また、事務所のレイアウト、
+line2 <shift> # ちょっと変えたから。わからなくて当然かも」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだったのか。
+line2 <shift> # 道理で、わかりにくいと思った」
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺が、律子の肩をもむよ」
+display
+com11 0 0
+sound 10024
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ええーっ！？　い、イヤですよ！
+line2 <shift> # そんなの、恥ずかしい……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうして恥ずかしがるんだ？」
+display
+com11 0 0
+sound 10025
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「だ、だって、プロデューサーだし……。
+line2 <shift> # 私、結構、首筋とかも敏感だから……」
+display
+com11 0 0
+sound 10026
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「変な声とかあげちゃったらどうしよう、
+line2 <shift> # ……って、何を言ってるんだ、私はっ！」
+display
+com11 0 0
+sound 10027
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「とにかくっ！
+line2 <shift> # 間に合ってます、結構ですっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「何を、そんなにムキになってるんだ……？」
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺が、律子のネクタイを直すよ」
+display
+com11 0 0
+sound 10028
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「え？　何言ってるんです？
+line2 <shift> # 私、ネクタイしてませんよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああっ！　しまったあ！！
+line2 <shift> # そうだったな……！」
+display
+com11 0 0
+sound 10029
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「まったく、何やってんだか……。
+line2 <shift> # ほんとに疲れてるみたいね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃ、じゃあ、シャツのボタンは、
+line2 <shift> # 掛け違ったりしてないか？」
+display
+com11 0 0
+sound 10030
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「大丈夫ですってば！
+line2 <shift> # そのくらい、自分で確かめられますから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ぬぅ……」
+com09 0 49
+display
+location 49
+com11 0 0
+sound 10031
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「はいはい、いいからいいから。
+line2 <shift> # プロデューサーは休んでて下さいよ」
+display
+com11 0 0
+sound 10032
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「したいことがあれば、私にまかせて。
+line2 <shift> # 今日は私、いつも以上にサービスしますから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「しかしなあ……」
+display
+com11 0 0
+sound 10033
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「たまには、プロデューサーに……、
+line2 <shift> # 日頃の感謝をしちゃ、ダメですか？」
+display
+com11 0 0
+sound 10034
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「その、なんていうか、今日はそういう感謝を、
+line2 <shift> # まとめてやっちゃいたい気分なんですよ……」
+com03 0 3
+choice1 <shift> # ありがとう
+com09 0 50
+com08
+choice2 <shift> # ダメだ！
+com09 0 51
+com08
+choice3 <shift> # うーん……
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ありがとう、律子。素直に礼を言うよ」
+display
+com11 0 0
+sound 10035
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ええっ！？　そ、そんな……。お礼を
+line2 <shift> # 言わなきゃいけないのは、私のほうなのに」
+display
+com11 0 0
+sound 10036
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「プロデューサーの存在なくして、
+line2 <shift> # 今のアイドルとしての私は、ないんだから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それを言ったら俺だって。アイドルあっての、
+line2 <shift> # プロデューサーだ。だから、ありがとう」
+display
+com11 0 0
+sound 10037
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そんな風に言われると、なんか、ちょっと
+line2 <shift> # ジーンときちゃいますよ……。ガラにもなく」
+display
+com11 0 0
+sound 10038
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ああ、もうっ！　黙ってじっとして、
+line2 <shift> # おとなしく感謝されてなさいよ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （なんだか、叱られてしまった。
+line2 <shift> # でも、律子は楽しそうに笑っていた……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （お互いに、感謝しあえる関係を、
+line2 <shift> # ずっと続けられたらいいな……）
+com09 0 69
+display
+location 51
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ダメだ！」
+display
+com11 0 0
+sound 10039
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そんな、ダメだとか言わないで下さいよ！
+line2 <shift> # なんで否定するんですか！？」
+display
+com11 0 0
+sound 10040
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「お世話になってる感謝やお礼をするのは、
+line2 <shift> # 私の権利でしょ！？」
+display
+com11 0 0
+sound 10041
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「私には、プロデューサーにありがとうを
+line2 <shift> # 言うことさえ、許してもらえないんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「違う違う、そうじゃない！　まだ、
+line2 <shift> # こんな程度で感謝されては困る、ってことだ」
+display
+com11 0 0
+sound 10042
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ああ……、なんだ、そういう意味か。
+line2 <shift> # それは、一理ありますね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「アイドルとして、まだまだ上を目指すんだから、
+line2 <shift> # 感謝なんて必要ないよ。今はまだ、な」
+display
+com11 0 0
+sound 10043
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「なるほど、わかりました。それなら、
+line2 <shift> # お礼も感謝も、今は控えめにしておきます」
+display
+com11 0 0
+sound 10044
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「プロデューサー、私のこれから先のことも、
+line2 <shift> # 考えてくれてるんですよね……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （感心されてしまった。でも、律子は
+line2 <shift> # ちょっと困っているようにも見えた）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （律子の素直な感謝の気持ちだけは、
+line2 <shift> # 俺も素直に受け取ってやりたかったな……）
+com09 0 69
+display
+location 52
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん……」
+display
+com11 0 0
+sound 10045
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「何、悩んでるんですか……？
+line2 <shift> # 腕組んで、考えちゃって」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺は、果たして、律子に感謝されるほどの
+line2 <shift> # ことをしただろうか？」
+display
+com11 0 0
+sound 10046
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「今さら、けんそんですか？
+line2 <shift> # それとも急に、自信がなくなっちゃったの？」
+display
+com11 0 0
+sound 10047
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「うちらが、一流のアイドルとプロデューサーと
+line2 <shift> # して世間に認められているのは、事実でしょ？」
+display
+com11 0 0
+sound 10048
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「だから、そんなスーパープロデューサー様に、
+line2 <shift> # ささやかでも、感謝を捧げたかったのに……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「スーパープロデューサー様だなんて、
+line2 <shift> # そんな大層なもんじゃないよ、俺は」
+display
+com11 0 0
+sound 10049
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「うーん。そうですか？
+line2 <shift> # 素直に実力を認めればいいのに……」
+display
+com11 0 0
+sound 10050
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あの……、もしも悩みがあるなら、
+line2 <shift> # 私でよければ、相談に乗りますよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （心配されてしまった。その後も俺は、しばらく、
+line2 <shift> # 悩みを隠していないかと、せんさくされた）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （変に気をつかわせて、律子の好意を、
+line2 <shift> # アダで返したみたいになっちゃったな……）
+com09 0 69
+display
+location 69
+unk02

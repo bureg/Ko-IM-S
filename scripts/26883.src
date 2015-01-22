@@ -1,0 +1,349 @@
+com2c 0 24
+com2d 0 41
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「千早、連載コラムの原稿、
+line2 <shift> # とりにきた記者、もう帰ったのか？」
+display
+com11 0 1
+sound 600
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。いつものように、何度も何度も、
+line2 <shift> # 頭を下げながら。毎回、ああいう調子で……」
+display
+com11 0 1
+sound 601
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「なにを恐れ入ってるんでしょう？　私、
+line2 <shift> # 高圧的な態度なんて、とっていないのに……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まあ、輝いてる人ってのは、存在だけで、
+line2 <shift> # 人を威圧するからな」
+com03 0 3
+choice1 <shift> # 割り切るしかないよ
+line2
+com09 0 10
+com08
+choice2 <shift> # 叩き切るしかないよ
+line2
+com09 0 11
+com08
+choice3 <shift> # 叩き割るしかないよ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「割り切るしかないよ」
+display
+com11 0 1
+sound 602
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そうですね。知名度のあるアイドルにとって、
+line2 <shift> # 避けられないことなのかもしれません」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「叩き切るしかないよ」
+display
+com11 0 1
+sound 603
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「叩き切る、んですか？　そんな素振り、
+line2 <shift> # 見せたら、余計に、こわがられて……」
+com09 0 91
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「叩き割るしかないよ」
+display
+com11 0 1
+sound 604
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「叩き割る、んですか？　額とかを？　そんな
+line2 <shift> # 素振り見せたら、余計に、こわがられて……」
+com09 0 91
+display
+location 91
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あああ、ちがった。割り切るしかないよ」
+display
+com11 0 1
+sound 605
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あ、そうですね。知名度のあるアイドルなら、
+line2 <shift> # 避けられないことなのかもしれません」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それで……、コラムの方の評判は、
+line2 <shift> # どうなんだ？」
+display
+com11 0 1
+sound 606
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「おかげさまで、上々です。わかりやすい上に、
+line2 <shift> # 奥が深いって」
+display
+com11 0 1
+sound 607
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「単行本化してくれっていう声まで、
+line2 <shift> # 寄せられているそうです。うれしいですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか。じゃあ、単行本になる時には……」
+com03 0 3
+choice1 <shift> # 書き下ろしも、入れたいな
+line2
+com09 0 30
+com08
+choice2 <shift> # 写真もたくさん、載せたいな
+line2
+com09 0 31
+com08
+choice3 <shift> # 印税で、おごってくれよな
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「書き下ろしも、入れたいな」
+display
+com11 0 1
+sound 608
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「私も、そう思ってます。短い文では、
+line2 <shift> # 書き切れないこと、たくさんありますから」
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「写真もたくさん、載せたいな」
+display
+com11 0 1
+sound 609
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「必要でしょうか？　そういうのは、
+line2 <shift> # 写真集を見てもらえば、いい気も……」
+display
+com11 0 1
+sound 610
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「けど、コラム＆フォトブックっていう、
+line2 <shift> # 流行りのスタイルも、アイドルらしいですね」
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「印税で、おごってくれよな」
+display
+com11 0 1
+sound 611
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「食事くらいなら、本なんか出さなくても、
+line2 <shift> # いつでも……」
+display
+com11 0 1
+sound 637
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……こんなこというの、生意気ですね。私、
+line2 <shift> # プロデューサーに、仕事を、もらっているのに」
+com09 0 49
+display
+location 49
+com11 0 1
+sound 613
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「コラムの感想、読んでいると……、思います。
+line2 <shift> # みんな、心から私に興味を持ってるんだなって」
+display
+com11 0 1
+sound 614
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「なるべく多くのこと、隠さずに、
+line2 <shift> # 出していきたいです。それが義務だと思うので」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだな。みんなのために、ここの中、
+line2 <shift> # さらけ出していこう」
+com0e 1 162
+com44
+com09 0 50
+com45
+com44
+com09 0 51
+com45
+com44
+com09 0 52
+com45
+com44
+com09 0 53
+com45
+com44
+com09 0 54
+com45
+com44
+com09 0 55
+com45
+display
+location 50
+com11 0 1
+sound 615
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あ、はい。私の考えていること、
+line2 <shift> # しっかり伝えていきたいです」
+display
+com11 0 1
+sound 616
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「さまざまな体験や、苦い記憶も包み隠さずに。
+line2 <shift> # アイドルめざす人の、参考にもなると思います」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （千早なら、体験談をわかりやすく、書ける
+line2 <shift> # だろう。本が出たら、価値ある１冊になるな）
+com09 0 69
+display
+location 51
+com11 0 1
+sound 617
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「腹の中……、ですか？　もちろん、そのつもり
+line2 <shift> # です。たまった感情も、すべてオープンに……」
+display
+com11 0 1
+sound 618
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「生の気持ちが入っていないと、共感は得られま
+line2 <shift> # せんよね。誠実なコラム、書いていきたいです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （表面だけの手記は、迫力がないからな。
+line2 <shift> # 思いのつまった記事、書き続けていってほしい）
+com09 0 69
+display
+location 52
+com11 0 1
+sound 619
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「え……。そ、そんなところ、さらけ出したく
+line2 <shift> # ありません。見せませんっ、誰にも！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え、心のうちをさらけ出すのが、
+line2 <shift> # そんなにイヤか？」
+display
+com11 0 1
+sound 638
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あ……、心……？　そういうこと……。
+line2 <shift> # そ、そうですね。思ったことを、隠さずに……」
+display
+com11 0 1
+sound 621
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「すみません。私……、カン違いして……。
+line2 <shift> # か、体のことかと……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （赤面してしまった……。言いたいことは、
+line2 <shift> # 伝わったと思うけど、あわてさせてしまったな）
+com09 0 69
+display
+location 53
+com11 0 1
+sound 639
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「服の……、中？　そんなのさらけ出しません！
+line2 <shift> # プロデューサー、何を考えてるんですか！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ち、違うって！　なにも着飾ってない、
+line2 <shift> # 素顔の千早を見せようって意味だ！」
+display
+com11 0 1
+sound 640
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「えっ！？　そ、そうだったんですか。
+line2 <shift> # すみません！　私、ヘンな誤解を……」
+display
+com11 0 1
+sound 641
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……でも、ちょっとまぎらわしいと思います」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （微妙な雰囲気になってしまった。
+line2 <shift> # 誤解されるようなことしちゃ、ダメだな）
+com09 0 69
+display
+location 54
+com11 0 1
+sound 625
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「プロデューサー、そんなところの、何を
+line2 <shift> # さらけ出すんです？　言っている意味が……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「い、いや、ほら、こういう細かいところを、
+line2 <shift> # クローズアップというか……」
+display
+com11 0 1
+sound 626
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「今は、コラムの内容の話をしてるんですよね？
+line2 <shift> # そんなの、書き記しようが……」
+display
+com11 0 1
+sound 627
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……真剣に、話をつめるようなことでも、
+line2 <shift> # ありませんね。私、歌の練習にいきます」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （一気に、会話の熱が、さめてしまった……。
+line2 <shift> # 意味不明なこと、言うもんじゃないな）
+com09 0 69
+display
+location 55
+com11 0 1
+sound 628
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「プロデューサー。あの……、何を、さらけ
+line2 <shift> # 出すんです？　どうして、じっとして……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、あまり出しすぎるのも、よくないか。
+line2 <shift> # 千早だって、恥ずかしいだろ？」
+display
+com11 0 1
+sound 629
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「それは、多少は。でも、ファンが
+line2 <shift> # 知りたいと思うことなら、ガマンを……」
+display
+com11 0 1
+sound 642
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「このことは、さっきも言ったような気が……。
+line2 <shift> # 私の話、ちゃんときいて下さってましたか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ちゃんと提案できなかったせいで、疑われてし
+line2 <shift> # まった。変にブレーキ踏むべきじゃなかったな）
+com09 0 69
+display
+location 69
+unk02

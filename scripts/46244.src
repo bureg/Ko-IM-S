@@ -1,0 +1,299 @@
+com2c 0 46
+com2d 0 83
+com32 0 0
+com11 0 5
+sound 800
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサー、歌ってきました！
+line2 <shift> # どうですっ？　最高の前座でしたよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ぜ、前座に最高があるのかどうか、知らない
+line2 <shift> # けど……。ま、失敗しなくてよかったな」
+display
+com11 0 5
+sound 801
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「それじゃ、成功を記念してっ！　はいっ！」
+com0e 2 189
+com44
+com09 0 10
+com45
+com44
+com09 0 11
+com45
+com44
+com09 0 12
+com45
+com44
+com09 0 13
+com45
+display
+location 10
+com11 0 5
+sound 802
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「やーりぃ！　へへっ、プロデューサー、
+line2 <shift> # ノリいいですね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ははは、これぐらいはな」
+com09 0 29
+display
+location 11
+com11 0 5
+sound 803
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ぷ、プロデューサー。
+line2 <shift> # もっと、こう、キレよく、ダーンとですね……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ご、ごめん。いきなりだったから」
+display
+com11 0 5
+sound 804
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「こういうの、あまりやりませんか？
+line2 <shift> # ボクは、けっこう、やるんですけど」
+com09 0 29
+display
+location 12
+com11 0 5
+sound 805
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うわわっ、プロデューサー？
+line2 <shift> # どこ、さわってるんです〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、ごめん。手がすべった……」
+display
+com11 0 5
+sound 806
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「コブシですよ、コブシ〜。まあ、いきなり
+line2 <shift> # だったから、しかたないですけど」
+com09 0 29
+display
+location 13
+com11 0 5
+sound 807
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサー、なにしてるんです？　こう、
+line2 <shift> # コブシを合わせるのって、やりませんか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、そうかそうか……。
+line2 <shift> # ごめん、ボーッとしてたから」
+display
+com11 0 5
+sound 808
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「まあ、いいです。すみません。ボク、歌った
+line2 <shift> # 直後だから、テンション上がっちゃってて」
+com09 0 29
+display
+location 29
+com11 0 5
+sound 809
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「……っと、こんなことしてる場合じゃ！
+line2 <shift> # あの、ちょっとやっかいな報告が……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうした？　なにかあったのか？」
+display
+com11 0 5
+sound 810
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そのー、さっき、今日のメインユニットの
+line2 <shift> # ボーカルの子と、すれちがったんですけど」
+display
+com11 0 5
+sound 811
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ボク、その時にいきなり、
+line2 <shift> # こ、こ、コクられちゃって……、ですね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「は？　コクられたって……」
+com03 0 3
+choice1 <shift> # 告白されたのか？
+line2
+com09 0 30
+com08
+choice2 <shift> # 密告されたのか？
+line2
+com09 0 31
+com08
+choice3 <shift> # うなずかれたのか？
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「告白されたのか？」
+display
+com11 0 5
+sound 812
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はい……。かるくアイサツしたら、
+line2 <shift> # 『メチャメチャ、好み〜。つきあって〜』って」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「密告されたのか？」
+display
+com11 0 5
+sound 813
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「なんで、悪いこともしてないのに、密告なんて。
+line2 <shift> # ちがいますよ、告白です、告白！」
+com09 0 91
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うなずかれたのか？」
+display
+com11 0 5
+sound 814
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「コクンとされたわけじゃ、ないですよー。
+line2 <shift> # されたのは、告白です、告白！」
+com09 0 91
+display
+location 91
+com11 0 5
+sound 815
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「かるくアイサツしたら、突然、目を輝かせて
+line2 <shift> # 『メチャメチャ好み〜。つきあって〜』って」
+display
+location 49
+location 49
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「で、でも、メインユニットのボーカルって、
+line2 <shift> # 女の子だろ？」
+display
+com11 0 5
+sound 826
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「だから、困ってるんです。男の子に言われたん
+line2 <shift> # なら、ボク、もっと、うれしそうな顔を……」
+display
+com11 0 5
+sound 817
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「このまま、ばっくれちゃって、いいですか？
+line2 <shift> # それとも、前座がメインを無視したら、問題？」
+com03 0 3
+choice1 <shift> # ここは、逃げの一手だな
+line2
+com09 0 50
+com08
+choice2 <shift> # 正々堂々、断れば？
+line2
+com09 0 51
+com08
+choice3 <shift> # 利用しない手は、ないな
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ここは、逃げの一手だな。
+line2 <shift> # 立場より、身の安全が大切だ」
+display
+com11 0 5
+sound 818
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そ、そうですよね！　よかった〜。イケニエに
+line2 <shift> # なってこいって言われたら、どうしようかと」
+display
+com11 0 5
+sound 819
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「せっかく、アイドルになったのに、
+line2 <shift> # 禁断の道なんて、ゴメンですから。へへっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （心から、ホッとした表情をしている。
+line2 <shift> # さあ、騒ぎにならないうちに、退散、退散！）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「正々堂々、断れば？
+line2 <shift> # それが、一番の解決方法だと思うけど」
+display
+com11 0 5
+sound 820
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「う、たしかに……。わかりました。じゃあ、
+line2 <shift> # ステージが終わってから、ハッキリと……」
+display
+com22 0 30
+com21 0 30
+com11 0 5
+sound 821
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「プロデューサ〜、まいりました〜。
+line2 <shift> # さんざん泣かれちゃって、ボク、もう……」
+display
+com11 0 5
+sound 822
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「か、帰りましょう、事務所へ。前座より、
+line2 <shift> # こっちの方が、よっぽど疲れました〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （足元がフラフラだ。でも、しっかり筋を通す
+line2 <shift> # ためには、これぐらいの苦労は、しかたないか）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「利用しない手は、ないな。
+line2 <shift> # うまく使えば……、フフフ……」
+display
+com11 0 5
+sound 827
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あの、プロデューサー？
+line2 <shift> # いったい何を考えてるんですか……？」
+display
+com11 0 5
+sound 828
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ま、まさか！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「利用できるものは、なんでも利用しよう。
+line2 <shift> # それが、真のため……」
+display
+com11 0 5
+sound 829
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そ、そんなのダメです！」
+display
+com11 0 5
+sound 830
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「女の子の純粋な気持ちを利用するようなこと、
+line2 <shift> # ボク、絶対しませんからねっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （本気で怒らせてしまった。確かにそんなこと、
+line2 <shift> # 真にやらせるわけにはいかないよな）
+com09 0 69
+display
+location 69
+unk02

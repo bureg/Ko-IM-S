@@ -1,0 +1,253 @@
+com2c 0 26
+com2d 0 41
+com32 0 0
+com11 0 5
+sound 300
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「デパートの屋上ライブ……。私、こんな
+line2 <shift> # ところで、歌ってていいんでしょうか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もしかして、不満？」
+display
+com11 0 5
+sound 301
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「い、いえ、そういうわけじゃ。
+line2 <shift> # ただ、家族連れ、多いから……」
+display
+com11 0 5
+sound 302
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「不安なんです。あたたかい目で、見られて
+line2 <shift> # しまうと、成長しないんじゃないかって」
+com03 0 3
+choice1 <shift> # 千早、あせりすぎ
+line2
+com09 0 10
+com08
+choice2 <shift> # 心がけ次第では？
+line2
+com09 0 11
+com08
+choice3 <shift> # きびしい家族も、いるよ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「千早、あせりすぎ。それは今、考えることじゃ
+line2 <shift> # ないだろ？」
+display
+com11 0 5
+sound 303
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あ……はい。そうですね。目の前のことに、
+line2 <shift> # 集中しないと」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「心がけ次第では？」
+display
+com11 0 5
+sound 304
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「もちろん、自分を甘やかす気はないです。
+line2 <shift> # それでも、どこか、ゆるみが出てしまいそうで」
+com09 0 91
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「きびしい家族も、いるよ」
+display
+com11 0 5
+sound 305
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「こんなところに、来てますか？
+line2 <shift> # 客席を見ていると、とても、そうは……」
+com09 0 91
+display
+location 91
+com11 0 5
+sound 306
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「頼りは、プロデューサーです。終わった後、
+line2 <shift> # 気づいたこと、言ってくれると……」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「さ、じゃ、そろそろ準備を。今日は、子どもが
+line2 <shift> # 多いから、にこやかに歌ってくれる？」
+display
+com11 0 5
+sound 307
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「えっ？　歌いながら、ですか？
+line2 <shift> # それ、むずかしいです……」
+display
+com11 0 5
+sound 308
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「私、歌う時って、自分の世界に入ってしまうか
+line2 <shift> # ら。表情は、そう自由には」
+com03 0 2
+choice1 <shift> # できる範囲で、いいから
+line2
+com09 0 30
+com08
+choice2 <shift> # 歌より、客じゃないか？
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「できる範囲で、いいから」
+display
+com11 0 5
+sound 309
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「わ、わかりました。努力はしないと、
+line2 <shift> # いけません」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「歌より、客じゃないか？」
+display
+com11 0 5
+sound 310
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……そう、でしょうか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おいおいっ。まさか歌の方が大事だって
+line2 <shift> # 言う気？」
+display
+com11 0 5
+sound 311
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そこまでは。でも、歌は、私の……。
+line2 <shift> # とにかく、顔をつくる努力はしてみます」
+com09 0 49
+display
+location 49
+com11 0 5
+sound 312
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「練習してみても？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、もちろん。見ててあげるよ」
+display
+com11 0 5
+sound 313
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ん……こ、こう？」
+com03 0 3
+choice1 <shift> # まあ、それでＯＫかな
+line2
+com09 0 50
+com08
+choice2 <shift> # もう少し、がんばれる？
+line2
+com09 0 51
+com08
+choice3 <shift> # ……それじゃ、赤点だよ
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 2
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、それでＯＫかな」
+display
+com11 0 5
+sound 314
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ありがとうございます……。ぎこちなくても、
+line2 <shift> # これくらいなら、なんとか」
+display
+com11 0 5
+sound 315
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「笑顔が足りない分は、歌でカバーを。
+line2 <shift> # では、ステージへ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、千早は、新人離れした歌と、精一杯の
+line2 <shift> # 笑顔を披露。ま、これが今のベストだな）
+com09 0 69
+display
+location 51
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もう少し、がんばれる？」
+display
+com11 0 5
+sound 316
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「は、はい。こ、今度は……どう？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、さっきの方が、まだ……。あまり
+line2 <shift> # 意識しない方が、いいかな」
+display
+com11 0 5
+sound 317
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「すみません。こういうところだけは、異常に
+line2 <shift> # 不器用で。ベ、ベストは尽くしてきます」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （すこし申し訳なさそうな顔で、歩いていった。
+line2 <shift> # まあ、なんとか無難に、まとめてくれるだろう）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……それじゃ、赤点だよ」
+display
+com11 0 5
+sound 318
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「う……はい。ダメなの、自分でも、
+line2 <shift> # わかります」
+display
+com11 0 5
+sound 319
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「もう一度、お願いしますっ。
+line2 <shift> # こ、こ、これで……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなに力入れたら、かえって、子どもが
+line2 <shift> # こわがるって」
+display
+com11 0 5
+sound 320
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「歌ってなくても、これじゃ……つらいです。
+line2 <shift> # こういうイベントは、私には重荷？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （自分に、問いかけている。厳しい言葉を
+line2 <shift> # 投げたのは、完全に無意味だったみたいだな）
+com09 0 69
+display
+location 69
+unk02

@@ -1,0 +1,204 @@
+com2d 0 93
+com2e 0 103
+location 0
+com11 0 0
+sound 10000
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「あーっ！　兄ちゃんだ兄ちゃんだ！
+line2 <shift> # 兄ちゃんが、きてくれたーっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よ、ふたりとも、元気だったか？　ところで、
+line2 <shift> # ふたりを見分ける、いい方法って、ないかな？」
+display
+com11 0 0
+sound 10001
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「んとね、いいのがあるよー！　亜美と真美は、
+line2 <shift> # 見た目で違うところがあるの！　わかる？」
+com03 0 3
+choice1 <shift> # 髪かざりの位置、か？　
+line2
+com09 0 10
+com08
+choice2 <shift> # 目のたれ具合、か？　
+line2
+com09 0 11
+com08
+choice3 <shift> # マユゲの本数、か？　
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「髪かざりの位置、か？」
+display
+com11 0 0
+sound 10002
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「当ったりー！　髪かざりが、右にある方が、
+line2 <shift> # 亜美で、左にある方が、真美なのっ」
+display
+com11 0 0
+sound 10003
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「これで、もうカンペキだよね！
+line2 <shift> # んじゃ、今日もレッスン、がんばろー！」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「目のたれ具合、か？」
+display
+com11 0 0
+sound 10004
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「そんなの、どっちも同じだよ〜！
+line2 <shift> # 真美達、双子なんだからーっ！」
+com09 0 18
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「マユゲの本数、か？」
+display
+com11 0 0
+sound 10005
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「そんなの、数えたことないから、
+line2 <shift> # わからないよ〜」
+com09 0 18
+display
+location 18
+com11 0 0
+sound 10006
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「違うのは、髪かざりの位置！　右にある方が、
+line2 <shift> # 亜美で、左にある方が、真美なのっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、言われてみれば……。
+line2 <shift> # それは、いい目印になるな」
+display
+com11 0 0
+sound 10007
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「亜美と真美、まちがえちゃ、ダメだよ？
+line2 <shift> # そんじゃ、今日もレッスン、がんばろー！」
+display
+location 19
+com11 0 0
+sound 10008
+com4c 0 0
+name 0 2 <names:4>  # President
+line1 <shift> # 「おはよう！　すっかり打ち解けたようだね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おはようございます、社長！」
+display
+com11 0 0
+sound 10013
+com4c 0 0
+name 0 2 <names:4>  # President
+line1 <shift> # 「今日は、ステージ衣装を決めてほしい。
+line2 <shift> # その後、営業を行なうといいだろう」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「はい、わかりました！」
+display
+com11 0 0
+sound 10015
+com4c 0 0
+name 0 2 <names:4>  # President
+line1 <shift> # 「うむ。ステージ衣装の決定は、大切だよ。
+line2 <shift> # 衣装により、イメージは左右されるのだ」
+display
+com11 0 0
+sound 10016
+com4c 0 0
+name 0 2 <names:4>  # President
+line1 <shift> # 「流行を意識した衣装を選ぶことも重要だが、
+line2 <shift> # まあ、最初は、君の好きなように選びなさい」
+display
+com11 0 0
+sound 10017
+com4c 0 0
+name 0 2 <names:4>  # President
+line1 <shift> # 「では、参考までに、今日の流行情報だ。
+line2 <shift> # 確認した後、スケジュールを確定させたまえ」
+com4a 0 0
+com09 0 200
+display
+location 200
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （衣装を新しくするを選ぼう）
+display
+location 201
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （あー、もう決めないと……）
+display
+location 202
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （いや、今日は衣装を選ばないと……）
+display
+location 203
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ステージ衣装を考えるから
+line2 <shift> # 少しの間待っておいてくれ」
+display
+com4a 0 0
+location 208
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「喜んでくれて俺もうれしいよ！
+line2 <shift> # じゃあ、今日も１日がんばろう！」
+display
+location 209
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （今日のスケジュールは……、と）
+display
+location 210
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「オーディションは次回チャレンジしよう！
+line2 <shift> # 今日も基礎レッスンだ！」
+display
+location 220
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （今日のスケジュールを決めよう）
+display
+location 221
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （今日のオススメは、衣装変更と営業か……）
+display
+location 222
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （社長から指示のあったスケジュールを、
+line2 <shift> # 選ばないと……）
+display
+location 223
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、これで今日のスケジュールは、
+line2 <shift> # 決定だ！」
+display
+location 224
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「今日は作曲家の先生に、
+line2 <shift> # あいさつにいくぞ」
+display
+location 230
+com11 0 0
+sound 10012
+name 0 0 <names:5>  # ??mi
+line1 <shift> # 「はーい」
+display
+unk02

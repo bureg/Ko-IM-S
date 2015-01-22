@@ -1,0 +1,355 @@
+com2c 0 1
+com2d 0 61
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「長時間の挨拶回り、おつかれさま……、あれ？
+line2 <shift> # どうした雪歩、立ち止まっちゃって」
+display
+com11 0 5
+sound 400
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あぅ、すみません、すみません」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんでいきなり謝ってるんだ」
+display
+com11 0 5
+sound 401
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「私がきちんと挨拶できなくて、それで、
+line2 <shift> # なんか場の雰囲気暗くなっちゃって……」
+com03 0 2
+choice1 <shift> # 暗くないよ、真面目なだけ
+line2
+com09 0 10
+com08
+choice2 <shift> # 雪歩のせいじゃないよ
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ははは、暗くなんかなかったよ。ただ、
+line2 <shift> # みんなで真面目な相談してただけさ」
+display
+com11 0 5
+sound 402
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そ、そうなんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「怖い顔して話してたかもしれないけど、仕事は
+line2 <shift> # 前向きに決まりつつあるってこと。喜べ！」
+display
+com11 0 5
+sound 403
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「わっ、ほんとですか！　よ、よかったぁ。
+line2 <shift> # 私、もしみなさんに嫌われてたらと思って……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「むしろ逆だよ、雪歩をひと目見て、
+line2 <shift> # スタッフは神妙な面持ちになってたよ」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「別に雪歩のせいじゃないよ」
+display
+com11 0 5
+sound 404
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「で、でも、私が何か言ってから、
+line2 <shift> # 場がずーんと、重くなって……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「重くなったわけじゃないよ、
+line2 <shift> # 仕事の真面目な相談してたからさ」
+display
+com11 0 5
+sound 405
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「わ、私、お邪魔でしたかっ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうじゃないって！　雪歩を見て、声を
+line2 <shift> # 聞いたからこそ、真面目な話になったんだ」
+display
+com11 0 5
+sound 406
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ど、どういうことでしょう、私、私、
+line2 <shift> # なにかやっぱり失敗を」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「違う違う、一発でスタッフが雪歩を
+line2 <shift> # 気に入って、仕事決めたがってたの」
+display
+com11 0 5
+sound 407
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ほ、ほんとですか？」
+com09 0 29
+display
+location 29
+com11 0 5
+sound 408
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「で、でも、仕事決めてる話のわりには、
+line2 <shift> # ちょっと深刻な雰囲気だったような……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、ＴＶ局にもいろいろ事情があるから。
+line2 <shift> # 使いたくてもすぐには……って感じかも」
+display
+com11 0 5
+sound 409
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「うーん……すんなり仕事獲得、ってわけには、
+line2 <shift> # やっぱり、いかないんですよね」
+display
+com11 0 5
+sound 410
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「私もまだ未熟だし……そう簡単には
+line2 <shift> # 使ってくれそうにないかな、残念だな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そんなに気落ちするなって。ダメになった
+line2 <shift> # わけでもなし、まだきっとチャンスはある」
+display
+com11 0 5
+sound 411
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「せっかくスタッフさんが気に入ってくれても、
+line2 <shift> # 私なんかに次のチャンスなんて……ぐすっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もっと希望持てって！　それに、チャンスは
+line2 <shift> # つまりええと……、ここにあるんだ、ここに！」
+display
+com11 0 5
+sound 412
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「えっ？　えっ！？　ど、どこにっ？」
+com0e 1 244
+com44
+com09 0 30
+com45
+com44
+com09 0 31
+com45
+com44
+com09 0 32
+com45
+com44
+com09 0 33
+com45
+com44
+com09 0 34
+com45
+display
+location 30
+com11 0 5
+sound 413
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ、あたま？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだ、頭を使うんだ。もうほんの
+line2 <shift> # ちょっぴりだけでいい、工夫をすれば」
+display
+com11 0 5
+sound 414
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「つまり、頭突きですか」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうじゃないぞ。考えるってこと」
+display
+com11 0 5
+sound 415
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「よ、よくわからない……。
+line2 <shift> # かしこくなれ、ってことなんでしょうか？」
+display
+com11 0 5
+sound 416
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「それとも、要領よく……？
+line2 <shift> # 私、そういうのって、苦手です」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、もう少しだけ仕事に慣れて
+line2 <shift> # くれればいいんだ……それだけだよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うーん、うまく雪歩に意図が
+line2 <shift> # 伝わらなかったみたいだな……）
+com09 0 49
+display
+location 31
+com11 0 5
+sound 417
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「きゃっ！　か、顔を指で突かないで
+line2 <shift> # くださぁい……。先っぽとか、苦手です」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうか、すまん。でも」
+display
+com11 0 5
+sound 418
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「チャンスは、顔にあるんですか？
+line2 <shift> # 私の顔、なにかついてるのかな……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「雪歩の顔を見て、お客さんは癒されたり
+line2 <shift> # 応援したくなったりするに違いないんだ」
+display
+com11 0 5
+sound 419
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そ、そうなのかな？　そんな顔してますか。
+line2 <shift> # 頼りない私だけど……、応援してくれるなら」
+display
+com11 0 5
+sound 420
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「もうちょっと、仕事が取れるように、
+line2 <shift> # がんばりたいですっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （雪歩はちょっと戸惑ってるけど、笑ってくれた。
+line2 <shift> # これから自信持ってくれるといいな）
+com09 0 49
+display
+location 32
+com11 0 5
+sound 421
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「か、肩、ですか」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、雪歩のその肩に、雪歩自身の、
+line2 <shift> # チャンスと未来が、かかっているっ」
+display
+com11 0 5
+sound 422
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「えっ、ほんとに！？　み、見えません。
+line2 <shift> # 肩にチャンス見えませんよ、私」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、その、つまり、
+line2 <shift> # もののたとえなんだけどな」
+display
+com11 0 5
+sound 423
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ううっ、やっぱりチャンスなんて、
+line2 <shift> # 私の肩には、のってないんだ……」
+display
+com11 0 5
+sound 424
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あるとしても、見えないくらい、
+line2 <shift> # ほんのちょっぴりなんだな……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああっ、そんなに肩を落とすなってば。
+line2 <shift> # せっかくのチャンスが肩から逃げてくぞ」
+display
+com11 0 5
+sound 425
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「は、はい。気をつけますぅ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （やれやれ……、雪歩の肩の荷、プレッシャーの
+line2 <shift> # ほうが重いのかな。軽くしてやりたいところだ）
+com09 0 49
+display
+location 33
+com11 0 5
+sound 426
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ、あっ……、あの、胸ですか」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだ、雪歩の胸のうちにあるよ。
+line2 <shift> # チャンスは今は、しまってある」
+display
+com11 0 5
+sound 427
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「い、いつか胸から、出てきますかっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、雪歩の気持ち次第で、
+line2 <shift> # チャンスは育つと思うよ」
+display
+com11 0 5
+sound 428
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「なるほどぉ。な、なんとか頑張って
+line2 <shift> # 私、育ててみますっ」
+display
+com11 0 5
+sound 429
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「ところで、その……、プロデューサー。
+line2 <shift> # この胸も、もっと育つと思いますか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「えっ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ともかく……、雪歩はプレッシャーから
+line2 <shift> # 開放されて、笑顔が戻った。よかったな）
+com09 0 49
+display
+location 34
+com11 0 5
+sound 430
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あの、えと……、プロデューサー？
+line2 <shift> # チャンスは、いったいどこに？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「い、いや、つまりだ、チャンスは、
+line2 <shift> # やっぱり、空の上にあるってことさ」
+display
+com11 0 5
+sound 431
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「空の上？　星とか……、ああ、スターですね！
+line2 <shift> # スター、目指そうってことですよねっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうそう、ええと、そうだよ！」
+display
+com11 0 5
+sound 432
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「で、でも、いまはお昼なので、
+line2 <shift> # お星さまは見えないんですよね……」
+display
+com11 0 5
+sound 433
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「私のチャンスもきっと、同じように、
+line2 <shift> # どこにも見えないんですね……、ぐすっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しまった、雪歩は、よりいっそう、
+line2 <shift> # 暗く落ち込んでしまった……）
+com09 0 49
+display
+location 49
+unk02

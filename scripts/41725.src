@@ -1,0 +1,437 @@
+com2c 0 119
+com2d 0 71
+com2e 0 131
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （いよいよ、４次予選か……。控え室に張り
+line2 <shift> # つめている緊張感も、かなりのものがあるな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「律子、のどの調子はどうだ？」
+display
+com11 0 0
+sound 10000
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「えっ、のど？　普通ですけど？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ストレッチはしたか？」
+display
+com11 0 0
+sound 10001
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「それは、これからです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お手洗いは大丈夫か？　お腹は空いてないか？
+line2 <shift> # 歯は、みがいたか？　宿題は、やったか！？」
+display
+com11 0 0
+sound 10002
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「もう！　ちょっと、プロデューサー！
+line2 <shift> # 落ち着きなさいっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、ああ……、悪い。ちょっと取り乱してし
+line2 <shift> # まった。ＩＵの独特の緊張感に、のまれたかな」
+display
+com11 0 0
+sound 10003
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「気持ちはわかります。でもこれは、まだ夢の通
+line2 <shift> # 過点なんです。この程度の緊張には耐えなきゃ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「夢の通過点か……。律子の夢って、
+line2 <shift> # やっぱり、ＩＵ優勝なのか？」
+display
+com11 0 0
+sound 10004
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あれ、前に、私の将来の目標、話しません
+line2 <shift> # でしたっけ？　ＩＵ優勝だって通過点ですよ」
+display
+com11 0 0
+sound 10005
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「おっと、ツッコミは禁止。偉そうなこと言って
+line2 <shift> # るって、自分でも、わかってますから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、偉そうだなんて、思わないよ。
+line2 <shift> # でも、律子の夢って……」
+com03 0 3
+choice1 <shift> # 芸能事務所設立？
+line2
+com09 0 10
+com08
+choice2 <shift> # 永遠のトップアイドル？
+line2
+com09 0 11
+com08
+choice3 <shift> # お嫁さん？
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「芸能事務所設立……、だったっけ？」
+display
+com11 0 0
+sound 10006
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ええ、その通りです！
+line2 <shift> # 私がＩＵでの優勝を目指しているのも……」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「永遠のトップアイドル、だったっけ？」
+display
+com11 0 0
+sound 10007
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「いえ、違います。永遠なんて、有り得ないもの
+line2 <shift> # を求める気はありませんし。それに……」
+display
+com11 0 0
+sound 10008
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「私、アイドルとしては、決して、あり余る才能
+line2 <shift> # を持つ……、ってタイプでは、ないですから」
+display
+com11 0 0
+sound 10009
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「でも、永遠のアイドルを夢見る女の子達の
+line2 <shift> # 後押しなら、私にも、できるって思ってます」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃあ、夢は、芸能事務所設立か？」
+display
+com11 0 0
+sound 10010
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ええ、そうです。
+line2 <shift> # 私がＩＵでの優勝を目指しているのも……」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お嫁さんか？」
+display
+com11 0 0
+sound 10011
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ぶっ！　な、何ですか、それ！　そんなかわい
+line2 <shift> # らしい夢に、憧れてそうに見えます、私？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……見えない」
+display
+com11 0 0
+sound 10012
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「でしょう？　……まあ、そんなにハッキリ、
+line2 <shift> # 断言されると、それはそれで空しいんですけど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ご、ごめん。……えーと、改めて考えるよ。
+line2 <shift> # 律子の夢は……、芸能事務所設立とか？」
+display
+com11 0 0
+sound 10013
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ええ、今度は正解です。
+line2 <shift> # 私がＩＵでの優勝を目指しているのも……」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10014
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「いつか、芸能事務所を経営する時に、
+line2 <shift> # 役立つだろうって、考えてのことなんですから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「確かにな。経営者になるにしろプロデューサー
+line2 <shift> # になるにしろ、ＩＵ優勝の肩書きは武器になる」
+display
+com11 0 0
+sound 10015
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ええ。まだ７６５プロで学ぶことは、たくさん
+line2 <shift> # あるから、ずっと先のことでしょうけど……」
+display
+com11 0 0
+sound 10016
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「もし、本当に私が事務所を設立したら、プロ
+line2 <shift> # デューサーも、来てもらってもいいですよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「本当か！？　これって、もしや、
+line2 <shift> # ヘッドハンティングっていうやつか？」
+display
+com11 0 0
+sound 10017
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そうです。プロデューサーは有能だし、何より、
+line2 <shift> # 担当アイドルを大切にしてくれる人ですから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おおおっ！　めずらしく、俺は、
+line2 <shift> # 律子に、ほめられてるんだな！？」
+display
+com11 0 0
+sound 10018
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「……そうやって、すぐに調子に乗るところは、
+line2 <shift> # 欠点ですけどね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うっ、すみません……」
+display
+com11 0 0
+sound 10019
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「でも、そういう欠点も込みで、有能と判断
+line2 <shift> # しました。ぜひ、そばにいて欲しい人材ね！」
+display
+com11 0 0
+sound 10020
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あ、あくまで、プロデューサーとして、です
+line2 <shift> # けど。変なカン違いは、しないで下さいね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「じゃあ、これからもっと律子に評価されるよう、
+line2 <shift> # 全力でプロデュースさせてもらうよ」
+display
+com11 0 0
+sound 10021
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ええ、期待してます！　……あ。
+line2 <shift> # プロデューサー！　美希が来ました！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、前回の予選の時、美希を怒らせたこと、
+line2 <shift> # うまく謝るんだぞ、律子」
+display
+com11 0 0
+sound 10022
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「はい、わかってます。
+line2 <shift> # 優しくですよね？　優しく、優しく……」
+display
+com11 0 0
+sound 10023
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「……」
+display
+com11 0 0
+sound 10024
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「美希、この前のこと、まだ怒ってるのね？
+line2 <shift> # あの時は、ほんとにごめんなさい」
+display
+com11 0 0
+sound 10025
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「私、つい頭に血がのぼって、
+line2 <shift> # ちゃんと美希の話、きかなかった……」
+display
+com11 0 0
+sound 10026
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「美希は美希なりに、思うところがあったのよね。
+line2 <shift> # それを、ちゃんとききたい。ねえ、きかせて？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （おお、よく言ったぞ、律子！　頭ごなしに
+line2 <shift> # しかったりせず、ちゃんと謝れたじゃないか）
+display
+com11 0 0
+sound 10027
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なあ、美希。律子も、こうして謝ってるし、
+line2 <shift> # 許してくれてもいいんじゃないかな？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「元は同じ事務所だったんだし、律子は７６５プ
+line2 <shift> # ロの誰よりも美希のことを心配してるんだぞ？」
+display
+com11 0 0
+sound 10028
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「もう……、いいの」
+display
+com11 0 0
+sound 10029
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ミキは、ＩＵに勝つの！　最初は、プロデュー
+line2 <shift> # サーに会いたくて参加したＩＵだったけど……」
+display
+com11 0 0
+sound 10030
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「プロデューサー、なかなかミキに振り向いて
+line2 <shift> # くれないから、他の夢、かなえることにしたの」
+display
+com11 0 0
+sound 10031
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「他の……、夢？」
+display
+com11 0 0
+sound 10032
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ミキの夢を、かなえるため、
+line2 <shift> # 黒井社長と２人で、ＩＵに、絶対勝ちたい！」
+display
+com11 0 0
+sound 10033
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「だ、だからね、律子、さんは、もう、ミキに
+line2 <shift> # 話しかけないで欲しいの。じゃ、じゃあね！」
+display
+com11 0 0
+sound 10034
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あ、美希……！　なんだか、あの子、
+line2 <shift> # いつもと様子が違ってましたね」
+display
+com11 0 0
+sound 10035
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ただ単に、私に怒ってるだけ、って感じじゃ、
+line2 <shift> # なかった気がする。『他の夢』って言ってたし」
+display
+com11 0 0
+sound 10036
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「美希、プロデューサーの気を引く以外に、
+line2 <shift> # ＩＵに参加する目的、見つけたのかしら」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだとしても、律子に、もう話しかけるなっ
+line2 <shift> # て言ってきた意味が、よくわからないけど……」
+display
+com11 0 0
+sound 10037
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「うーん……。ねえ、プロデューサー。私、
+line2 <shift> # あの子の夢が何なのか、見当もつかない……」
+display
+com11 0 0
+sound 10038
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「美希がプロデューサーへの恋をあきらめたのか、
+line2 <shift> # その恋が、本当に本気の恋だったのか……」
+display
+com11 0 0
+sound 10039
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「何もわからない。前回、プロデューサーに、
+line2 <shift> # アドバイスしてもらって、せっかく……」
+display
+com11 0 0
+sound 10040
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「美希の気持ちを知ることが大事だってわかった
+line2 <shift> # のに、かんじんの美希が、あの様子じゃ……」
+display
+com11 0 0
+sound 10041
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「私が、あの子をしかりすぎたせいで、事態が、
+line2 <shift> # ややこしくなったんですよね。はあーあ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「律子……。美希のことは、黒井社長もからんで
+line2 <shift> # いるし、思いのほか、問題の根は深そうだ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だから、律子が責任を感じる必要はない。こ
+line2 <shift> # じれた関係は、これから修復するしかないしな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺達二人でなら、やれるさ！　美希のこと、
+line2 <shift> # ちゃんと理解してやれるように、必ずなる！」
+display
+com11 0 0
+sound 10042
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「プロデューサー……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だから、律子は、もっと自分のことに目を向け
+line2 <shift> # てくれ。もっと自分本位になって、いいんだよ」
+display
+com11 0 0
+sound 10043
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「はい……。ここでダメなとこ見せたら、
+line2 <shift> # 美希に、笑われちゃいますしね」
+display
+com11 0 0
+sound 10044
+com4c 0 1
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「大丈夫、気持ち切り替えましたから。自分のこ
+line2 <shift> # とに目を向けて、この予選、勝ってみせます！」
+com09 0 99
+display
+location 99
+unk02

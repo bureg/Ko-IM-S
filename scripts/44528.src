@@ -1,0 +1,297 @@
+com2c 0 39
+com2c 0 63
+com2c 0 69
+com2c 0 87
+com2d 0 81
+com32 0 0
+com11 0 1
+sound 600
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「雑誌の表紙撮影ですね。えーと、今回も
+line2 <shift> # また、婦人誌かー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「真がモデルだと、どうしても、こっちが
+line2 <shift> # 多くなるよな」
+display
+com11 0 1
+sound 601
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「やっぱり、女の子や女性に、人気がある
+line2 <shift> # から？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それもあるけど、真が表紙だと、男女両方に
+line2 <shift> # 売れるらしい。美形＆女性アイドルってことで」
+display
+com11 0 1
+sound 602
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「な、なるほど……。でも、男の子に婦人誌
+line2 <shift> # 買わせちゃうなんて、よろこんでいいのかなあ」
+com03 0 2
+choice1 <shift> # ……微妙
+com09 0 10
+com08
+choice2 <shift> # ま、いいんじゃないか
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……微妙」
+display
+com11 0 1
+sound 603
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あはは、ですよね……。それでも、
+line2 <shift> # 買ってくれるのは、うれしいですけど」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ま、いいんじゃないか。ファンは自分の考えで、
+line2 <shift> # 買ってくれてるわけだし」
+display
+com11 0 1
+sound 604
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「たしかに、そうなんですけど、ボクはちょっと
+line2 <shift> # 胸が痛むな……」
+display
+com11 0 1
+sound 605
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「雑誌の中に、ひとこと載せるコーナーがある
+line2 <shift> # から、そこにお礼書きます。ありがとうって！」
+com09 0 29
+display
+location 29
+com11 0 1
+sound 606
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「さーて、今日も、カメラマンにおなじみのコト、
+line2 <shift> # 言われるのかな。クールに立っててくれって」
+display
+com11 0 1
+sound 607
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「たまには、動きのある写真も撮りたいですよね。
+line2 <shift> # ダンスの、躍動する瞬間を捕らえたような……」
+display
+com11 0 1
+sound 608
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「イメージ的には、うーん……なんて言えば
+line2 <shift> # いいんだろ」
+com03 0 3
+choice1 <shift> # シカが、跳ねるような？
+line2
+com09 0 30
+com08
+choice2 <shift> # チョウが、舞うような？
+line2
+com09 0 31
+com08
+choice3 <shift> # イノシシが、転ぶような？
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「シカが、跳ねるような？」
+display
+com11 0 1
+sound 609
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そう！　そんな感じです！　ボクの顔立ち
+line2 <shift> # なら、それでもクールな写真になりますよね」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「チョウが、舞うような？」
+display
+com11 0 1
+sound 610
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「へへへっ、それ、美しいですね。でも、もう
+line2 <shift> # すこし、力強い感じで、こうポーンっと」
+display
+com11 0 1
+sound 611
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「多少元気でも、ボクの顔立ちなら、クールな
+line2 <shift> # 写真に仕上がると思うんだよな……」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「イノシシが、転ぶような？」
+display
+com11 0 1
+sound 612
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そ、そんなのっ、躍動でも、なんでもないじゃ
+line2 <shift> # ないですか〜！　カッコ悪いだけですよ〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ご、ごめん。なんとなく、ひらめいたもんで」
+display
+com11 0 1
+sound 613
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「もっと、こう、スマートで、力強い感じです。
+line2 <shift> # クールさにも、いろいろあると思うんだよな」
+com09 0 49
+display
+location 49
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、じゃあ、ちょっと提案してみよう。そう
+line2 <shift> # いう写真なら、ここより屋外の方がいいよな？」
+display
+com11 0 1
+sound 614
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「交渉してくれますか！？　うわ、よかった〜。
+line2 <shift> # さっすが、プロデューサー！　話せる〜」
+display
+com11 0 1
+sound 615
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、バーンと動いても、それが汗くさく
+line2 <shift> # 見えない場所って、どんなところでしょう？」
+com03 0 3
+choice1 <shift> # 最優先は、広さかな
+line2
+com09 0 50
+com08
+choice2 <shift> # 最優先は、高さかな
+line2
+com09 0 51
+com08
+choice3 <shift> # 最優先は、明るさかな
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「最優先は、広さかな。景色が開けてれば、
+line2 <shift> # あかぬけた感じの写真になるかも」
+display
+com11 0 1
+sound 616
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そうですね！　じゃあ、それを目安に、
+line2 <shift> # いろんな場所、あたってみましょう！」
+display
+com22 0 30
+com32 0 1
+com21 0 30
+com11 0 1
+sound 617
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ！　ここかな！　広いし、見た目も
+line2 <shift> # ゴミゴミしてないし！」
+display
+com11 0 1
+sound 618
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「へへへっ、今回の表紙にはピッタリです！
+line2 <shift> # カメラマンさーん、ここで行きましょう！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ごきげんで、呼びかけている。真のイメージ
+line2 <shift> # 通りの場所、見つかって、なによりだ）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「最優先は、高さかな。空とか、バックに写って
+line2 <shift> # れば、あかぬけた感じの写真になるかも」
+display
+com11 0 1
+sound 619
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、言えてますね。じゃあ、それを目安に、
+line2 <shift> # いろんな場所、あたってみましょう！」
+display
+com22 0 30
+com32 0 2
+com21 0 30
+com11 0 1
+sound 620
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「うーん、結局、ここか〜。建物が入っちゃうと、
+line2 <shift> # イメージ崩れちゃいますね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、高いっていえば、やっぱりここの石段の
+line2 <shift> # 上だろ？」
+display
+com11 0 1
+sound 621
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ま、カメラのアングル、工夫すれば、いける
+line2 <shift> # かな。よしっ、ここで、がんばってみます！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、時間はかかったけど、なかなかの
+line2 <shift> # 写真が撮れた。まずまずの場所だったかな）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「最優先は、明るさかな。日の光が強ければ、
+line2 <shift> # あかぬけた感じの写真になるかも」
+display
+com11 0 1
+sound 622
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そうですね！　じゃあ、それを目安に、
+line2 <shift> # いろんな場所、あたってみましょう！」
+display
+com22 0 30
+com32 0 3
+com21 0 30
+com11 0 1
+sound 623
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「け、結局、ここですか……？　あかぬけすぎの
+line2 <shift> # 気が、しないでもないんですけど……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、明るさって言えば、ここに勝る場所は
+line2 <shift> # ないよな？」
+display
+com11 0 1
+sound 624
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「明るすぎますよ〜。ここで、ホントにクールな
+line2 <shift> # 写真なんて、撮れるのかなあ……」
+display
+com11 0 1
+sound 625
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「けど、もう探してる時間もないし。はあ〜、
+line2 <shift> # やるだけ、やってみます……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、さんざんがんばったけど、ロクな
+line2 <shift> # 写真が撮れなかった。探し方、まちがえたな）
+com09 0 69
+display
+location 69
+unk02

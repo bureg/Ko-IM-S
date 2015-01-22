@@ -1,0 +1,420 @@
+com2c 0 18
+com2d 0 53
+com32 0 0
+com11 0 0
+sound 0
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あの〜、プロデューサーさん。
+line2 <shift> # 今日のお仕事、なんですけれど……」
+display
+com11 0 0
+sound 1
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「これって、どういう番組なのでしょうか〜。
+line2 <shift> # 『ギャンブル☆オンステージ』……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「こ、これはですね、深夜にやってる、
+line2 <shift> # バラエティ番組なんですが……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「アイドルが、司会者とじゃんけんをして、
+line2 <shift> # 勝ったら歌を歌える。もし負けたら……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「歌は歌えずに、罰ゲームをしなければ
+line2 <shift> # ならないという番組なんです」
+display
+com11 0 0
+sound 2
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ば、罰ゲーム？　罰ゲームってどんなもの
+line2 <shift> # なんでしょうか〜……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「モノマネをするだけって聞いてますから、
+line2 <shift> # 安心してください」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「だけど、すみません……。いくらＴＶで
+line2 <shift> # 歌えるチャンスだからって、こんな仕事……」
+com03 0 3
+choice1 <shift> # あずささんに申し訳なくて
+line2
+com09 0 10
+com08
+choice2 <shift> # やっぱり恥ずかしいですか？
+line2
+com09 0 11
+com08
+choice3 <shift> # さっさと済ませましょうか
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あずささんに申し訳なくて」
+display
+com11 0 0
+sound 3
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「いえ、そんな。
+line2 <shift> # せっかくプロデューサーさんが……」
+display
+com11 0 0
+sound 4
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「取ってきてくれたお仕事ですもの。
+line2 <shift> # 精一杯、がんばりますね〜」
+com09 0 13
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やっぱり、恥ずかしいですか？」
+display
+com11 0 0
+sound 5
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はい。もし罰ゲームをすることになったら、
+line2 <shift> # ちょっと恥ずかしいですね〜……」
+display
+com11 0 0
+sound 6
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「モノマネは、
+line2 <shift> # そんなに得意じゃありませんし……」
+com09 0 13
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「さっさと済ませましょう」
+display
+com11 0 0
+sound 7
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そうしたいのは、やまやまですけど、
+line2 <shift> # てきぱきとこなすのは、苦手なので……」
+com09 0 13
+display
+location 13
+com11 0 0
+sound 8
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ですけど、バラエティ番組なんて、私が出ても
+line2 <shift> # 大丈夫なんでしょうか〜？」
+display
+com11 0 0
+sound 9
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「何にも、面白いこととか言えませんけれ
+line2 <shift> # ど……。なにか作戦って、ありますか〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうですね。あずささんは……」
+com03 0 3
+choice1 <shift> # 天然でいけますよ
+line2
+com09 0 20
+com08
+choice2 <shift> # ニコニコしてればＯＫ
+line2
+com09 0 21
+com08
+choice3 <shift> # 歌うことだけ考えて
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「天然でいけますよ」
+display
+com11 0 0
+sound 10
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「天然……？　ん〜、何が天然なのでしょう
+line2 <shift> # か〜？　あ、もしかして……！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そう、わかってくれましたか？」
+display
+com11 0 0
+sound 11
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「司会者の方、天然パーマなのでしょうか〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いいですね……。そのノリで行きましょう」
+com09 0 23
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ニコニコしてればＯＫですよ」
+display
+com11 0 0
+sound 12
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「えっ、そうなんですか〜……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「アイドルは面白いことなんて、言わなくても
+line2 <shift> # いいんですよ。笑顔がかわいければ、それで」
+display
+com11 0 0
+sound 13
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「わかりました〜。
+line2 <shift> # 笑顔……、こんな感じでしょうか〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そう！　その調子、その調子ですよ！」
+com09 0 23
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「歌うことだけ考えて下さい」
+display
+com11 0 0
+sound 14
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ……はい。そうですよね。私のお仕事は
+line2 <shift> # 歌を歌うことがメイン、ですものねー」
+display
+com11 0 0
+sound 15
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「余計なことに気をとられてると、失敗して
+line2 <shift> # しまいそう……。歌うことに集中します〜」
+com09 0 23
+display
+location 23
+com11 0 0
+sound 16
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ん〜。だけど……大丈夫かしら〜……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あずささん。まだ、何か心配そうですね。
+line2 <shift> # 遠慮なく、何でも相談してください」
+display
+com11 0 0
+sound 17
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あの〜、一番心配なのは、私ってとても、
+line2 <shift> # じゃんけんが弱いということなんです〜……」
+display
+com11 0 0
+sound 18
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「何を出そうかって、迷ってしまって
+line2 <shift> # 後出しした上に、負けてしまったり……」
+display
+com11 0 0
+sound 19
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「プロデューサーさん、もしよければ
+line2 <shift> # 前もって、じゃんけんで何を出すか……」
+display
+com11 0 0
+sound 20
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「今のうちに、アドバイスしていただけません
+line2 <shift> # か〜？　そうすれば、迷わなくてすみますから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「えっ、俺が、ですか……！？」
+display
+com11 0 0
+sound 21
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はい。プロデューサーさんのほうが
+line2 <shift> # じゃんけん、強そうですもの」
+display
+com11 0 0
+sound 22
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「お願いします、プロデューサーさん！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わ、わかりました……。じゃあ、
+line2 <shift> # 俺が直感で、アドバイスしておきましょう」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （よし、あずささんに指示を出そう。
+line2 <shift> # このじゃんけん、責任重大だぞ……！）
+com03 0 3
+choice1 <shift> # グー！
+com09 0 30
+com08
+choice2 <shift> # チョキ！
+com09 0 31
+com08
+choice3 <shift> # パー！
+com09 0 32
+com08
+com07
+com09 0 33
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「グー、でいきましょう、あずささん！」
+com37 0 1
+com1e 0 0
+com09 0 34
+com3b
+com37 0 0
+com1e 0 0
+com09 0 35
+com3b
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「チョキ、でいきましょう、あずささん！」
+com37 0 1
+com1e 0 0
+com09 0 34
+com3b
+com37 0 0
+com1e 0 0
+com09 0 35
+com3b
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「パー、でいきましょう、あずささん！」
+com37 0 1
+com1e 0 0
+com09 0 34
+com3b
+com37 0 0
+com1e 0 0
+com09 0 35
+com3b
+display
+location 33
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……と思いましたけど、ここはやっぱり、
+line2 <shift> # あずささんの直感でいきましょうか！」
+com09 0 35
+display
+location 34
+com11 0 0
+sound 23
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はい、ありがとうございます〜。それじゃ、
+line2 <shift> # 行ってきますね。プロデューサーさん！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （そして、本番が始まった……！）
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 24
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「勝ちましたよ〜プロデューサーさん！
+line2 <shift> # うふふっ、ありがとうございます！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうですか、よかったですね！
+line2 <shift> # 俺も、アドバイスしたかいがありました」
+display
+com11 0 0
+sound 25
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はい。この後のコーナーで、
+line2 <shift> # １曲、歌わせてもらえるそうです」
+display
+com11 0 0
+sound 26
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ああ、よかったです〜。本当は罰ゲームをする
+line2 <shift> # の、とーっても恥ずかしかったんです〜」
+display
+com11 0 0
+sound 27
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「だから、じゃんけんに勝てて、
+line2 <shift> # 本当にホッとしましたー」
+display
+com11 0 0
+sound 28
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「やっぱり、頼りになりますね〜。
+line2 <shift> # プロデューサーさんて……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「さぁ、せっかく勝ちとった歌のコーナー、
+line2 <shift> # バッチリいいところ、見せて下さい！」
+display
+com11 0 0
+sound 29
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はい、行ってきます」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （あずささん、本当にホッとしたようだ。
+line2 <shift> # プロデューサーとしての責任を果たせたな）
+com4b 0 0
+com09 0 69
+display
+location 35
+com11 0 0
+sound 30
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はい、ありがとうございます〜。それじゃ、
+line2 <shift> # 行ってきますね。プロデューサーさん！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （そして、本番が始まった……！）
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 31
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「残念ながら、負けてしまいました……。
+line2 <shift> # 今から、罰ゲームだそうです〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ええっ、負けてしまったんですか！？
+line2 <shift> # すみません、俺のせいで……」
+display
+com11 0 0
+sound 32
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「いいえ、いいんです……。仕方ありませんね。
+line2 <shift> # これから、モノマネをさせられるみたいです」
+display
+com11 0 0
+sound 33
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「私ができるモノマネで、一番似ているのは、
+line2 <shift> # うちで飼っている犬のマネなんですけれど……」
+display
+com11 0 0
+sound 34
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「わんっ、わんっ！　きゅ〜ん、く〜ん……。
+line2 <shift> # こ、こんなんで、いいのかしらー？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （すみません、あずささん……。
+line2 <shift> # こんななさけない仕事、させてしまって）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （じゃんけんに、負けてしまったばっかりに。
+line2 <shift> # 悔やんでも、悔やみきれない……）
+com4b 0 2
+com09 0 69
+display
+location 69
+unk02

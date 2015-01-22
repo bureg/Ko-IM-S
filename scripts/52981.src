@@ -1,0 +1,377 @@
+com2c 0 143
+com32 0 0
+com2d 0 91
+com2e 0 101
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （きれいな造木と電飾とで、秋の夕暮れの並木道
+line2 <shift> # をイメージしたアトリウムにやってきた）
+display
+com11 0 0
+sound 300
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「周り、カップルばっかだねー」
+display
+com11 0 0
+sound 301
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「デートすぽっとだもんね〜、当然だよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「何でこんなところに来てしまったんだ俺は……。
+line2 <shift> # 二人とも、おとなしくするんだぞ」
+display
+com11 0 0
+sound 302
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「そういえばさー。兄ちゃんは、
+line2 <shift> # デートとか、しないのー？」
+com03 0 3
+choice1 <shift> # たまにはするぞ
+line2
+com09 0 10
+com08
+choice2 <shift> # しないぞ
+com09 0 11
+com08
+choice3 <shift> # したいぞ
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「たまには、するぞ」
+display
+com11 0 0
+sound 303
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「んっふっふ、やっぱりオトナのデートは、
+line2 <shift> # こういうムードのあるところでするの？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え？　そ、それはだな……、な、内緒だ。それ
+line2 <shift> # に毎回同じ場所ってわけじゃない、と思う……」
+display
+com11 0 0
+sound 304
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「兄ちゃん、ごめんね〜。
+line2 <shift> # やっぱ、それは禁断の質問だったんだね〜」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「しないぞ」
+display
+com11 0 0
+sound 305
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「しないのー？　兄ちゃん、モテないんだね。
+line2 <shift> # デートできないなんて」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ち、違う！　忙しいし、なかなかうまく、
+line2 <shift> # 約束できないんだ。予定が不安定でね」
+display
+com11 0 0
+sound 306
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「なーんだ、そっか。
+line2 <shift> # じゃあ、モテないってわけじゃないんだね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ははは、もちろんさ……。
+line2 <shift> # ただ忙しいだけだよ……」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「したいぞ」
+display
+com11 0 0
+sound 307
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「デート、したいよね！　んっふっふ〜。
+line2 <shift> # デート以外にもいろいろと！」
+display
+com11 0 0
+sound 308
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「そうそう。あんなことや、こんなことも！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あんなことやこんなことって、
+line2 <shift> # どんなことだよ……」
+display
+com11 0 0
+sound 309
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「えーっ、兄ちゃん知らないの？
+line2 <shift> # あんなことっていうのは〜」
+display
+com11 0 0
+sound 310
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ああっ、真美。
+line2 <shift> # それ以上は、ピーッだよ、ピーッ！」
+display
+com11 0 0
+sound 311
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ところで兄ちゃん、デートがしたい、
+line2 <shift> # ってことは、最近、してないんだ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よ、余計なお世話だ」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 312
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「じゃあ今日は、真美達とデートする？
+line2 <shift> # 兄ちゃん」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それは……、ちょっとなぁ。
+line2 <shift> # 問題あるんじゃなかろうか」
+display
+com11 0 0
+sound 313
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「えんりょしなくていいのに……。あ、３人で、
+line2 <shift> # デートっていうのも、へんなのかな？」
+display
+com11 0 0
+sound 314
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ねえねえ、そいじゃ、亜美達が、
+line2 <shift> # 兄ちゃんとパーティー、してあげよっか」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「パーティー？」
+display
+com11 0 0
+sound 315
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「兄ちゃんさみしそうだし、みんなで、
+line2 <shift> # お菓子とかもってきて、パーティーしよー！」
+display
+com11 0 0
+sound 316
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「あ、いいね。やろうやろう、パーティー！
+line2 <shift> # おもしろそう！」
+com03 0 3
+choice1 <shift> # ありがとう
+com09 0 20
+com08
+choice2 <shift> # ええっ、心配だな
+line2
+com09 0 21
+com08
+choice3 <shift> # あんまり興味ないな
+line2
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ありがとう。なんか俺のために、
+line2 <shift> # パーティー開いてくれるみたいで、照れるな」
+display
+com11 0 0
+sound 317
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ん？　そういうわけじゃないよー。
+line2 <shift> # 亜美達、パーティーしたいからするんだもん」
+display
+com11 0 0
+sound 318
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「パーティー楽しそうだから、するんだもん。
+line2 <shift> # 兄ちゃんとパーティーしたいから、するんだよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうなのか……。よし、どうせなら、事務所の
+line2 <shift> # 人、全員集めて、盛大に、ぱーっとやるか！」
+display
+com11 0 0
+sound 319
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「大勢でやるの？　わ、すっごい、
+line2 <shift> # もりあがりそうだね！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もし本当にやるなら、俺も準備するよ。
+line2 <shift> # 一緒にパーティーの内容、考えようか」
+display
+com11 0 0
+sound 320
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「うん、そしたらこんど、一緒に考えよう！」
+display
+com11 0 0
+sound 321
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「よーし、がんばろー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後は、パーティーの話題に花が咲いた）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （亜美と真美とのパーティー、
+line2 <shift> # 実現できたら、きっと楽しいだろうな……）
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええっ、心配だな」
+display
+com11 0 0
+sound 322
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「ん？　兄ちゃん、何が心配なの？」
+display
+com11 0 0
+sound 323
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「パーティーは、心配するものじゃなくて、
+line2 <shift> # わいわいがやがや、たのしいものだよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、それはわかってるんだが……」
+display
+com11 0 0
+sound 324
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「あ、だいじょうぶだよ。亜美達、
+line2 <shift> # 自分で会場の準備とか、できるよー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、亜美達が準備するんじゃ、
+line2 <shift> # 正直、どんなパーティーになるやら……」
+display
+com11 0 0
+sound 325
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「どんなパーティーって……。
+line2 <shift> # 飲んで食べておどって、おおさわぎだよー！」
+display
+com11 0 0
+sound 326
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「楽しいパーティー、ゆかいなパーティー。
+line2 <shift> # あ、お酒とかはナシだからね」
+display
+com11 0 0
+sound 327
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「あぶないこととかしないよ？
+line2 <shift> # へいきへいき。おまかせなさーい」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （う、うーん。おまかせできるのだろうか。
+line2 <shift> # しかし止めても、無理やり押し切られそうだ）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （不安も大きいが……、２人の気持ちは嬉しい。
+line2 <shift> # こういう関係が、いつまでも続くといいな）
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、あんまり興味ないな」
+display
+com11 0 0
+sound 328
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「えーっ、亜美達のパーティー、不満？
+line2 <shift> # きっとたのしいよー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「というか、俺のことはいいから。亜美と、
+line2 <shift> # 真美とで、楽しいパーティー、しときなさい」
+display
+com11 0 0
+sound 329
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「それじゃ、つまんないよー。
+line2 <shift> # 兄ちゃんと、一緒に、したかったのに」
+display
+com11 0 0
+sound 330
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「兄ちゃん、何か予定でもあるの？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それは……。
+line2 <shift> # ま、まあいいじゃないか、細かいことは」
+display
+com11 0 0
+sound 331
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「あー！　真美達に内緒で、
+line2 <shift> # 遊びに行こうとしてるんでしょ！」
+display
+com11 0 0
+sound 332
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「わかった！　亜美達に言えないような遊び、
+line2 <shift> # しちゃうんでしょ」
+display
+com11 0 0
+sound 333
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「それって、オトナの遊びだな！」
+display
+com11 0 0
+sound 334
+com4c 0 1
+name 0 0 <names:2>  # Ami
+line1 <shift> # 「オトナの遊び〜！？　くわしくおしえろー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後しばらく、俺は亜美と真美から、
+line2 <shift> # いわれのない追及を受けた）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （周囲のカップルが何事かと、俺を、
+line2 <shift> # 注視していた……。うう、視線が痛い）
+com09 0 29
+display
+location 29
+unk02

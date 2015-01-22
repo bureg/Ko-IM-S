@@ -1,0 +1,243 @@
+com2c 0 43
+com2d 0 41
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「千早。どうして、誰もいないブースなんかに？
+line2 <shift> # いい知らせ、持ってきてやったぞ！」
+display
+com11 0 2
+sound 1400
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……なんでしょう？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「例のライブのチケット、即日完売だって。ラン
+line2 <shift> # クＣの人気はすごいな。もう完全にメジャーだ」
+display
+com11 0 2
+sound 1401
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そうですか……。あの、私からも
+line2 <shift> # プロデューサーに報告したいことが……」
+display
+com11 0 2
+sound 1402
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「昨日の話し合いで、決まりました。
+line2 <shift> # 両親……離婚するって」
+com03 0 2
+choice1 <shift> # ええッ！？　本当か？
+line2
+com09 0 10
+com08
+choice2 <shift> # ええッ！？　冗談だろ？
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええッ！？　本当か？」
+display
+com11 0 2
+sound 1403
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。私の目の前で、離婚届に印鑑を……。
+line2 <shift> # ふふっ、これで、スッキリしました」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええッ！？　冗談だろ？」
+display
+com11 0 2
+sound 1404
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「こんなこと、冗談では言えません。
+line2 <shift> # 前から、話は出ていたんですけど……」
+display
+com11 0 2
+sound 1405
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ふたりとも、私の見ている前で、離婚届に
+line2 <shift> # 印鑑を……。ふふっ、これでスッキリしました」
+com09 0 29
+display
+location 29
+com11 0 2
+sound 1406
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「つらかった日、終わりました。でも、ほんの
+line2 <shift> # すこしだけ残っていた、期待も消えて……」
+display
+com11 0 2
+sound 1407
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「こうなった方がマシだって、思ってたんです！
+line2 <shift> # なのに私、なんでこんなショック……、ううっ」
+com03 0 2
+choice1 <shift> # 耐えられそうか？
+line2
+com09 0 30
+com08
+choice2 <shift> # 抱きしめて……やろうか？
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「耐えられそうか？」
+display
+com11 0 2
+sound 1408
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「耐えます。耐えなければ、いけないから」
+display
+com11 0 2
+sound 1409
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「いろんなこと、受け入れていく強さ、身に
+line2 <shift> # つけないとって。……ううっ」
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「抱きしめて……やろうか？」
+display
+com11 0 2
+sound 1410
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……やめてください。私、そんなに弱くない
+line2 <shift> # です」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ムリすることは……。俺には、それぐらいしか
+line2 <shift> # できないけど」
+display
+com11 0 2
+sound 1411
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「今、そんなことされたら、崩れてしまいそう
+line2 <shift> # です。だから……ううっ」
+com09 0 49
+display
+location 49
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ほら、泣くなって。メジャーアイドルは、
+line2 <shift> # もっと光り輝いてなくちゃ」
+display
+com11 0 2
+sound 1412
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「わかってます。けど、自分でも、気持ちに
+line2 <shift> # おさまりが。これまで、こんなこと……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……しかたないな、ほら」
+com0e 1 158
+com44
+com09 0 50
+com45
+com44
+com09 0 51
+com45
+com44
+com09 0 52
+com45
+display
+location 50
+com11 0 2
+sound 1413
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ありがとう、ございます……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なくしたものは戻らないけど、千早には、
+line2 <shift> # まだまだ、たくさんのものがあるよな？」
+display
+com11 0 2
+sound 1414
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。私には……、
+line2 <shift> # 私を必要としてくれている人がいます」
+display
+com11 0 2
+sound 1415
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「その人達の期待に、思いに……、応えます。
+line2 <shift> # こんな私でも、望んでくれる人が、いる限り」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しばらく、そばに立っていてやろう。
+line2 <shift> # さらに先へと、笑顔で歩いていけるように）
+com09 0 69
+display
+location 51
+com11 0 2
+sound 1416
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「いいです、これくらいで。これ以上、
+line2 <shift> # プロデューサーに、手間は……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「う、そうか？　ごめん、完全には、ふいて
+line2 <shift> # やれなかったな」
+display
+com11 0 2
+sound 1417
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「苦い記憶は……このまま、涙といっしょに、
+line2 <shift> # 洗い流してしまいます。すべて……」
+com09 0 91
+display
+location 52
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、余計なお世話か。……涙をふいたって、
+line2 <shift> # なにも、帰ってはこないからな」
+display
+com11 0 2
+sound 1418
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「うっ……うううっ……ううッ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「や、やっぱり、ふいてやった方がよかったか？
+line2 <shift> # 千早、顔を……」
+display
+com11 0 2
+sound 1419
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「いいです。これは、私の痛みですから。
+line2 <shift> # 自分で、どうにかしないといけないんです」
+com09 0 91
+display
+location 91
+com11 0 2
+sound 1420
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「泣き明かせば、新しい私になって、
+line2 <shift> # 再出発できますよね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……ああ」
+display
+com11 0 2
+sound 1421
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「こんな私でも、必要としてくれる人がいるなら、
+line2 <shift> # そのためにも、立ち直らないと……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （身を震わせて、悲しみと戦っている。俺に
+line2 <shift> # できることは、そばで、見守ることだけか）
+com09 0 69
+display
+location 69
+unk02

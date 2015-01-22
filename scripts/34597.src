@@ -1,0 +1,294 @@
+com50 0 31
+com2c 0 24
+com32 0 0
+com2d 0 61
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （仕事の合間のオフ時間、自由行動にしたかった
+line2 <shift> # が、外は、あいにくの悪天候だ……）
+display
+com11 0 0
+sound 300
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「外、けっこう激しい雨になってきてますね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、風もあるし、うかつに外に出ると、
+line2 <shift> # 吹き飛ばされそうだね」
+display
+com11 0 0
+sound 301
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「せっかくのオフタイムなのになぁ……」
+com03 0 2
+choice1 <shift> # でも、休めるからいいかな
+line2
+com09 0 10
+com08
+choice2 <shift> # ゆううつになりそうだね
+line2
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも、休めるからいいかな」
+display
+com11 0 0
+sound 302
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そうですね。オフだし、今は、
+line2 <shift> # 部屋の中で、休めますから」
+display
+com11 0 0
+sound 303
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「仕事が重なっていなかったのは、
+line2 <shift> # 運が、よかったのかも……」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ゆううつになりそうだね、この天気だと」
+display
+com11 0 0
+sound 304
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そうですか？　お休みだし、部屋の中だし、
+line2 <shift> # 困ることもないと思うけど……」
+display
+com11 0 0
+sound 305
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「でも、ちょっと、じれったくはありますね。
+line2 <shift> # 雨がやむまで、待ってなくちゃ、いけないから」
+display
+com11 0 0
+sound 306
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「プロデューサーも、オフの間に、
+line2 <shift> # 出かけたり、したかったですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、俺はいいんだ。
+line2 <shift> # この天気で、諦めもついたよ」
+com09 0 19
+display
+location 19
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （雪歩は、窓の外を、じっと見ている）
+display
+com11 0 0
+sound 307
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「まだしばらく、降りそうですね……」
+display
+com11 0 0
+sound 308
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「私、雨、嫌いじゃないです。
+line2 <shift> # 嵐は苦手ですけど」
+display
+com11 0 0
+sound 309
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「だけど、雨は、好きな気がするんです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「雨が好き……、なぜ？」
+com03 0 3
+choice1 <shift> # 木々が生き生きするから？
+line2
+com09 0 20
+com08
+choice2 <shift> # 気分が落ち着くから？
+line2
+com09 0 21
+com08
+choice3 <shift> # 理解できないな
+line2
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「たとえば、木々が生き生きするから？」
+display
+com11 0 0
+sound 310
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「そうそう、そうです。
+line2 <shift> # 雨が降ると、草木が元気になりますね」
+display
+com11 0 0
+sound 311
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「木の家も、適度なしめりけと、
+line2 <shift> # 風があったほうが、息ができるそうです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「家が……、息をするのか？」
+display
+com11 0 0
+sound 312
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「えと……、お父さんが、そんなような話を、
+line2 <shift> # 一度、してくれたことがあるんです」
+display
+com11 0 0
+sound 313
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「家も生き物だから、って。
+line2 <shift> # だから、雨を、うらんじゃいけません、って」
+display
+com11 0 0
+sound 314
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「木を元気にするために、雨を待っている人が、
+line2 <shift> # いるかもしれないから、って……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なるほどなぁ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （語る雪歩の横顔は、ちょっと優しかった。
+line2 <shift> # 昔のお父さんを思い出しているのかもしれない）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （外の雨足も、だんだんと優しいものに、
+line2 <shift> # 変わっていった……）
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「雨を見てると、気分が落ち着くから？」
+display
+com11 0 0
+sound 315
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「静かな雨の日は落ち着くかも。台風や嵐は、
+line2 <shift> # ちょっぴり不安な気分にもなるけど……」
+display
+com11 0 0
+sound 316
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「それと、水が流れる音が好きかも。
+line2 <shift> # 静かに、流れる音が……」
+display
+com11 0 0
+sound 317
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「静かに雨が降るのを見てると、もやもやした
+line2 <shift> # 気分も、一緒に、流れていくみたいな感じで」
+display
+com11 0 0
+sound 318
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「その雨の流れたあとは、気持ちもきれいに、
+line2 <shift> # すっきりするというか、なんていうか」
+display
+com11 0 0
+sound 319
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「その、うまく言えないんですけど……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「雨降って、地固まる？」
+display
+com11 0 0
+sound 320
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あっ、そうそう、それですっ。
+line2 <shift> # そんな感じです」
+display
+com11 0 0
+sound 321
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「オフがあけたら、私もしっかり、
+line2 <shift> # 気持ちを固めていきたいですね……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （雪歩は、風雨が静まるまで、ずっと、
+line2 <shift> # 窓の外の様子を眺めていた）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （気のすむまで、見させてやろう。
+line2 <shift> # 雨上がりの後の、雪歩の活躍のために）
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いまひとつ、理解できないな。
+line2 <shift> # 好きな理由は？」
+display
+com11 0 0
+sound 322
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「うーん、私も……、深くは考えたことなくて。
+line2 <shift> # おかしいですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おかしくはないけど。でも、雨ってじめじめす
+line2 <shift> # るだの、水浸しだの、いいイメージなくて」
+display
+com11 0 0
+sound 323
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「だとすると、プロデューサーは、
+line2 <shift> # 雨、嫌いなんですねぇ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「街での雨は、不便なことが多いし。
+line2 <shift> # あんまり、いい印象が少ないから」
+display
+com11 0 0
+sound 324
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「お父さんも、仕事中の雨は、
+line2 <shift> # 嫌だって言ってました」
+display
+com11 0 0
+sound 325
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「でも、雨が降らないと困ることも、
+line2 <shift> # あるんじゃないですか？」
+display
+com11 0 0
+sound 326
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「えと、たとえば、水が飲めない、とか」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それは確かに、深刻だ……」
+display
+com11 0 0
+sound 327
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あとは……、傘がさせないとか！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あはは、それも傘屋さんが困るな。でも、
+line2 <shift> # 雪歩が雨好きなのは、傘をさせるからなのか？」
+display
+com11 0 0
+sound 328
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あ、いえ、そういうわけじゃ。
+line2 <shift> # えと、その……、なんでだろう？」
+display
+com11 0 0
+sound 329
+name 0 0 <names:2>  # Yukiho
+line1 <shift> # 「あうっ、あんまりいじめないで下さいよ、
+line2 <shift> # プロデューサー……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （雪歩は少し悩んでしまった。
+line2 <shift> # 悩むようなことだったのかな……？）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （雨足は、だんだんと弱くなったけれど、雪歩は、
+line2 <shift> # 困ったように、窓の外の空を見上げていた）
+com09 0 29
+display
+location 29
+unk02

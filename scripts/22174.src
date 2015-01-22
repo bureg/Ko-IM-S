@@ -1,0 +1,274 @@
+com2c 0 43
+com2d 0 51
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あずささん。いま、マイク前で口ずさんでた
+line2 <shift> # 歌、何ですか？　すごくよかったです」
+display
+com11 0 3
+sound 1200
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あっ、聞こえていたんですね。
+line2 <shift> # あれは、子守歌……のようなものです」
+display
+com11 0 3
+sound 1201
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「私が小さかった頃、お母さんが、寝床で歌って
+line2 <shift> # くれた歌なんです。自然におぼえてしまって」
+com03 0 3
+choice1 <shift> # 思い出の曲って、わけですね
+line2
+com09 0 10
+com08
+choice2 <shift> # 自信の一曲って、わけですね
+line2
+com09 0 11
+com08
+choice3 <shift> # 秘伝の一曲って、わけですね
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「思い出の曲って、わけですね」
+display
+com11 0 3
+sound 1202
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「そ、そんなものだと思います。なんか
+line2 <shift> # 恥ずかしいのですけれど」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「自信の一曲って、わけですね」
+display
+com11 0 3
+sound 1203
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「うろおぼえなので、あまり上手では……。
+line2 <shift> # とくに練習したわけでも、ありませんし」
+display
+com11 0 3
+sound 1204
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「ただ、歌った回数だけは、知っている曲の中で、
+line2 <shift> # 一番多いかもしれませんね」
+com09 0 29
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「秘伝の一曲って、わけですね」
+display
+com11 0 3
+sound 1205
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「そんな、大げさなものでは……。秘伝というと、
+line2 <shift> # タレとか、思い出してしまいますね」
+display
+com11 0 3
+sound 1206
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「お母さんも、なにげなく歌っていただけだと
+line2 <shift> # 思います。メロディも、ごく普通ですし」
+com09 0 29
+display
+location 29
+com11 0 3
+sound 1207
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「そういえば、最近、お母さん、ちょっと
+line2 <shift> # 変わってきたんですよね」
+display
+com11 0 3
+sound 1208
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「私と言い合いしても、しかるような口調で
+line2 <shift> # 話さなくなったというか……」
+display
+com11 0 3
+sound 1209
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「だんだん母親っぽくなくなってきている気が
+line2 <shift> # します。これって、なにか原因があるのかしら」
+com03 0 3
+choice1 <shift> # あずささんが、大人になったから？
+line2
+com09 0 30
+com08
+choice2 <shift> # パワーが、おとろえたのかも？
+line2
+com09 0 31
+com08
+choice3 <shift> # 浮気でも、はじめたのかも？
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+com34 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あずささんが、大人になったから？」
+display
+com11 0 3
+sound 1210
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あっ、そうなのかもしれません！　だとしたら、
+line2 <shift> # わざと態度、変えてるんですね」
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「パワーが、おとろえたのかも？」
+display
+com11 0 3
+sound 1211
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「もう年、ということでしょうか？　そんな
+line2 <shift> # 素振りは、全然、見えませんけれど」
+display
+com11 0 3
+sound 1212
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「なにか、別の理由があるのかもしれませんね。
+line2 <shift> # 今度、実家に帰ったら、さりげなく聞いて……」
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「浮気でも、はじめたのかも？」
+display
+com11 0 3
+sound 1213
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「えっ、それで私やお父さんから、気持ちが離れ
+line2 <shift> # たっていうんですか。あ、ありえないですー」
+display
+com11 0 3
+sound 1214
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「お母さん、今でも『ラブラブなの』とか言って、
+line2 <shift> # お父さんに抱きついたりしていますから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……それじゃ、浮気の可能性はないか。
+line2 <shift> # なんとなく、かもしれませんね」
+com09 0 49
+display
+location 49
+com11 0 3
+sound 1215
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「さっきの歌のことなんですけど、私、一度、
+line2 <shift> # 調べてみたんです。けれど、わからずじまいで」
+display
+com11 0 3
+sound 1216
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「もしかしたら、お母さんのオリジナルなのかも。
+line2 <shift> # ふふっ、けっこう歌手の才能あったりして」
+com03 0 3
+choice1 <shift> # 負けては、いられませんね
+line2
+com09 0 50
+com08
+choice2 <shift> # 親子ユニット、めざします？
+line2
+com09 0 51
+com08
+choice3 <shift> # 元アイドルかも、しれません
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 2
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「負けては、いられませんね」
+display
+com11 0 3
+sound 1217
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「はい。じ、じつは歌とは関係のない、
+line2 <shift> # ライバル意識も、こっそり持っていて……」
+display
+com11 0 3
+sound 1218
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「そのー、お母さんに負けない、お母さんになろ
+line2 <shift> # うって。面と向かっては、言えないですけれど」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （微笑みながら、顔を赤らめている。受け継が
+line2 <shift> # れていくのは、歌だけじゃないみたいだな）
+com09 0 69
+display
+location 51
+com34 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「親子ユニット、めざします？」
+display
+com11 0 3
+sound 1219
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「そ、それは実現しないと思います。お母さん、
+line2 <shift> # そんな冒険しなくても、幸せそうですし」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おもしろいかと思ったんですけど……」
+display
+com11 0 3
+sound 1220
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「それに、私は、今の活動に満足しています
+line2 <shift> # から。この気持ちを、大事にしていきたいです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （軽はずみな発言は、よくないか。ま、
+line2 <shift> # ジョークと受け止めてくれてるとは、思うけど）
+com09 0 69
+display
+location 52
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「元アイドルかも、しれません」
+display
+com11 0 3
+sound 1221
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「お母さんが、ですか？　そんなの信じられない
+line2 <shift> # です。けれど……まさかっ！」
+display
+com11 0 3
+sound 1222
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「プロデューサーさん、なにか知っているんで
+line2 <shift> # しょうか？　私、若い頃の話は何も聞いたことが」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「い、いえ、言ってみただけですよ？　だいたい
+line2 <shift> # 俺、会ったことすら、ありませんし……」
+display
+com11 0 3
+sound 1223
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あっ、そうですよね。私、早とちりして。
+line2 <shift> # でも、おどろきました。はあ〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （テキトーな発言で、ビックリさせてしまった。
+line2 <shift> # そんな絵に描いたような話、あるわけないか）
+com09 0 69
+display
+location 69
+unk02

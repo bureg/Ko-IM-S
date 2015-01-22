@@ -1,0 +1,259 @@
+com2c 0 35
+com2d 0 51
+com32 0 0
+com11 0 3
+sound 1400
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「すみません、プロデューサーさん！
+line2 <shift> # 待ち合わせの時間に、遅れてしまって」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「心配しましたよ。電車の中で、なにか
+line2 <shift> # あったんですか？」
+display
+com11 0 3
+sound 1401
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「じつは……ち、チカンにあってしまって。その
+line2 <shift> # いざこざで、時間がかかってしまったんです」
+com03 0 3
+choice1 <shift> # くっ、ひどい奴がいるな！
+line2
+com09 0 10
+com08
+choice2 <shift> # くっ、許せないな！
+line2
+com09 0 11
+com08
+choice3 <shift> # くっ、うらやましい！
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「くっ、ひどい奴がいるな！」
+display
+com11 0 3
+sound 1402
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ……ありがとうございます。けれど、大丈夫
+line2 <shift> # です。たいしたことは、ありませんでしたから」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「くっ、許せないな！」
+display
+com11 0 3
+sound 1403
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「怒るのも、当然ですよね……。芸能界では、
+line2 <shift> # 遅刻は、絶対にしてはいけないことなのに」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ゆ、許せないのは、チカンの方です。
+line2 <shift> # あずささんが、許せないわけでは……」
+display
+com11 0 3
+sound 1404
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、そっち……。よ、よかったですー。
+line2 <shift> # でも、私も、反省しなければいけないですね」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「くっ、うらやましい！」
+display
+com11 0 3
+sound 1405
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「プロデューサーさん、チカンにあいたいの
+line2 <shift> # でしょうか？　そんなに、楽しいものでは……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いえ、うらやましいのは、そのチカンの方……。
+line2 <shift> # ま、まあ、どうでもいいです」
+display
+com11 0 3
+sound 1406
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「男の人で、チカンにあうのは、むずかしいです
+line2 <shift> # よね。そういう話も、たまに聞きますけれど」
+com09 0 29
+display
+location 29
+com11 0 3
+sound 1407
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「さっきのチカンの人、私の顔見て『アンタ、あ
+line2 <shift> # のアイドルの！』って気づいて、謝ってくれて」
+display
+com11 0 3
+sound 1408
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ランクＤになると、ここまで名が知られている
+line2 <shift> # んだと思って、うれしくなってしまいました」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……まあ、人気が、一人前のアイドル並に
+line2 <shift> # なった証かもしれませんね。けど……」
+com03 0 2
+choice1 <shift> # チカン相手に、喜ばないでください
+line2
+com09 0 30
+com08
+choice2 <shift> # まだまだ、これからです
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「チカン相手に、喜ばないでください」
+display
+com11 0 3
+sound 1409
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そうですね。ふふっ、すみません」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まだまだ、これからです」
+display
+com11 0 3
+sound 1410
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あの人は、たまたま、知っていただけ
+line2 <shift> # でしょうか？　そうかもしれませんね」
+display
+com11 0 3
+sound 1411
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「チカンの人には、アイドルマニアが多いの
+line2 <shift> # かしら。もっと普通の人にも、知られないと」
+com09 0 49
+display
+location 49
+com11 0 3
+sound 1412
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「私、昔から、よく目をつけられてしまうんです
+line2 <shift> # よね。短大時代は、親友の友美が守ってくれて」
+display
+com11 0 3
+sound 1413
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「けれど、今は仕事も忙しいらしいし、つき合っ
+line2 <shift> # てもらうわけにも。んー、身を守るには……」
+com03 0 3
+choice1 <shift> # もっと、有名になることです
+line2
+com09 0 50
+com08
+choice2 <shift> # 気持ちを、強く持ちましょう
+line2
+com09 0 51
+com08
+choice3 <shift> # タクシー通いに、しましょう
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 2
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もっと、有名になることです」
+display
+com11 0 3
+sound 1414
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ふふっ、それが一番でしょうか？　そうなれば
+line2 <shift> # 誰もイタズラしてこなくなりますねっ」
+display
+com11 0 3
+sound 1415
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「日本中の人に、顔が知られるよう、がんばり
+line2 <shift> # ます。そうすれば、願いも、きっと……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （あずささん、なにか秘めた目的でもあるのかな。
+line2 <shift> # 瞳には、静かな火が、燃えている……）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「気持ちを、強く持ちましょう」
+display
+com11 0 3
+sound 1416
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「それができれば、いいのですけれど。私、
+line2 <shift> # ああいう時、なにもできなくなってしまって」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「叫び声をあげるくらい、できるんじゃない
+line2 <shift> # ですか？」
+display
+com11 0 3
+sound 1417
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「でも、大きな声を出すと、うるさいです
+line2 <shift> # よね？　そう思うと、なかなか……」
+display
+com11 0 3
+sound 1418
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「昼間も、女性専用車両とか、あればいいのです
+line2 <shift> # けれど。駅員さんに、お願いしてみようかしら」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （駅員に頼んでも、どうにもならない気が……。
+line2 <shift> # 突然、強気になれというのも、無理な話か）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「タクシー通いに、しましょう」
+display
+com11 0 3
+sound 1419
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「それは、さすがにむずかしいです。毎日だと、
+line2 <shift> # お金が、あまりにもかかってしまいますし……」
+display
+com11 0 3
+sound 1420
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「それに私、車酔いしてしまうので、きっと続か
+line2 <shift> # ないと思います。なら、まだ今日みたいに……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ち、チカンにあった方が、マシですか！？」
+display
+com11 0 3
+sound 1421
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はい……。あ、チカンがいいということでは、
+line2 <shift> # ないですよ？　わ、私、そんなんじゃ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うろたえている。震動のない車とか、
+line2 <shift> # 開発される望みは……いまのところ、ないか）
+com09 0 69
+display
+location 69
+unk02

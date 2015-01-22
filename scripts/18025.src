@@ -1,0 +1,230 @@
+com2c 0 118
+com2d 0 31
+com32 0 0
+location 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうだ、やよい？
+line2 <shift> # そろそろ気持ち、落ち着いてきたか？」
+display
+com11 0 6
+sound 13000
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はい！　思い切り、うれし泣きしたら、
+line2 <shift> # スッキリしました！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか。……熱の方は、どうだ？」
+display
+com11 0 6
+sound 13001
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「え？　あっ、もう全然、苦しくないかも〜」
+display
+com11 0 6
+sound 13002
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「きっと、ドームいっぱいのファンが、
+line2 <shift> # 熱を吹き飛ばしてくれたんですね！　えへへ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やよいらしいな。……ところで、明日からの
+line2 <shift> # 身の振り方って、まだ話してなかったよな？」
+display
+com11 0 6
+sound 13003
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「身の振り方？　あ、そうでしたね。アイドル
+line2 <shift> # 続けるかどうか、決めないと！　えーと……」
+display
+com11 0 6
+sound 13004
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「やめるなんて……、どう考えても、もったい
+line2 <shift> # ないです！　だから私、続けることにします！」
+display
+com1c 0 3
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お、そうか。もうじゅうぶんやった、とかは、
+line2 <shift> # 思わない？」
+display
+com11 0 6
+sound 13005
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「思いません！　明日からプロデューサーに
+line2 <shift> # 助けてもらえないのは、不安ですけどー」
+display
+com11 0 6
+sound 13006
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「でも、がんばります！　今日みたいな最高の
+line2 <shift> # ライブ、もっともっとやりたいから！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ハラは、完全に決まったみたいだな。
+line2 <shift> # 俺も、やよいは、まだまだいけると思うよ」
+display
+com11 0 6
+sound 13007
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そう言ってもらえると、うれしいです。それで、
+line2 <shift> # あの〜プロデューサー、話は変わるんですけど」
+display
+com11 0 6
+sound 13008
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「実は、最後のお礼に、プレゼント用意したん
+line2 <shift> # です。受け取ってもらえますか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「プレゼントって、俺にか？」
+display
+com11 0 6
+sound 13009
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はい。私、プロデューサーのおかげで、弟や妹
+line2 <shift> # にいろいろ買ってあげられるようになりました」
+display
+com11 0 6
+sound 13010
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「だから、恩返しのためにって、こっそり、
+line2 <shift> # 用意したんです！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わざわざ、悪いなあ。で、
+line2 <shift> # そのプレゼントっていうのは、なんなんだ？」
+display
+com11 0 6
+sound 13011
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えへへへ〜、なんでしょう？　ヒントはー、
+line2 <shift> # はじめに『く』のつくモノです！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「『く』か。うーん……。あ、わかった！」
+com03 0 3
+choice1 <shift> # 『くるま』だな？　
+line2
+com09 0 10
+com08
+choice2 <shift> # 『くつ』だな？　
+line2
+com09 0 11
+com08
+choice3 <shift> # 『くじら』だな？　
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「『くるま』だな？」
+display
+com11 0 6
+sound 13012
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「当ったりでーす！　すっごーい、
+line2 <shift> # はじめの一文字だけで、わかっちゃうなんて！」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「『くつ』だな？」
+display
+com11 0 6
+sound 13013
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ちがいまーす。それぐらいじゃ、
+line2 <shift> # 私の感謝の気持ち、とても、あらわせません！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ちがったか。クツじゃないとすると、なんだ？
+line2 <shift> # 『首かざり』とか『クシ』とか？」
+com09 0 18
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「『くじら』だな？」
+display
+com11 0 6
+sound 13014
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「え、そんなの、買えませんよ〜。大きいし、
+line2 <shift> # 捕っちゃいけないって、学校で言ってたし」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……まあ、ちがうだろうと思ったけど。じゃあ、
+line2 <shift> # なんだ？　『首かざり』とか『クシ』とか？」
+com09 0 18
+display
+location 18
+com11 0 6
+sound 13015
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「いえ、もっと、すごいものですっ。
+line2 <shift> # 正解はー『くるま』でしたー！」
+com09 0 19
+display
+location 19
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ええっ！　車なんて、本当にそんな高い物、
+line2 <shift> # 買ってくれたのか？」
+display
+com11 0 6
+sound 13016
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はい！　お父さんや、お母さんとも、相談して
+line2 <shift> # 決めたことだから、遠慮しないで下さい！」
+display
+com11 0 6
+sound 13017
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「それに、もしかしたら、その車で、私を遊びに
+line2 <shift> # 連れてってくれるかなあ、とか思ったりして」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それぐらい、お安いご用だ。
+line2 <shift> # 絶対に連れていくよ」
+display
+com11 0 6
+sound 13018
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ええええ、本当ですか？
+line2 <shift> # 言ってみて、よかったー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やよいと、ふたりでドライブした後は、
+line2 <shift> # 弟や妹、ご両親もみんな乗せて、遊びにいこう」
+display
+com11 0 6
+sound 13019
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「わー、それ聞いたら、家族、すごくよろこび
+line2 <shift> # ます。帰ったら早速、話しよーっと！」
+display
+com11 0 6
+sound 13020
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「……私、アイドルになって……、プロ
+line2 <shift> # デューサーに会えて、ホントによかったです！」
+display
+com11 0 6
+sound 13021
+com4a 0 0
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ほしかったもの、全部手に入っちゃいましたか
+line2 <shift> # ら。これって大大大勝利ですよね！　いぇい！」
+display
+location 100 129 92 129 92 130 177 130 164 130 181 130 196 129 65 137 180 130 170 136 231 130 196 130 189 143 151 130 204 142 113 130 205 129 65 140 169 142 150 129 65
+line2 <shift> # トップアイドルとなり、俺との活動期間を終えた。
+display
+location 101 130 187 130 204 130 205 130 182 130 175 130 233 130 230 130 164 130 200 143 206 138 231 130 240 140 169 130 196 129 65 138 109 144 77 130 181 130 189 129 66 137 180 130 205 129 65
+line2 <shift> # やよいをトップアイドルに育てると同時に……、
+display
+location 102 130 187 130 204 138 136 147 174 130 240 146 202 130 182 130 196 129 65 141 197 141 130 130 201 141 75 130 185 130 201 130 181 130 189 130 204 130 190 130 198 129 66
+line2 <shift> # ――こんなに、誇らしいことはない。
+display
+unk02

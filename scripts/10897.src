@@ -1,0 +1,291 @@
+com2c 0 32
+com2c 0 59
+com2d 0 21
+com32 0 0
+com11 0 4
+sound 400
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「みんなー、押さないでー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なんか、ファンが殺気だってるな。
+line2 <shift> # このままじゃ、危険か……」
+display
+com11 0 4
+sound 401
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「押しちゃイヤです〜。かよわい私を
+line2 <shift> # いじめないでー♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……ほら、伊織！」
+com03 0 3
+choice1 <shift> # ファンサービスしてる場合か！
+line2
+com09 0 10
+com08
+choice2 <shift> # 油売ってる場合か！
+line2
+com09 0 11
+com08
+choice3 <shift> # かわいこぶってる場合か！
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ファンサービスしてる場合か！　避難しよう」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「油売ってる場合か！　避難しよう」
+display
+com11 0 4
+sound 402
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「油なんか、売ってないもんっ！　ちゃんと
+line2 <shift> # 仕事してるでしょ！」
+com09 0 18
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「かわいこぶってる場合か！　避難しよう」
+display
+com11 0 4
+sound 403
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ちょっと〜、ファンの前で、ヘンなこと、
+line2 <shift> # 言わないでよ〜」
+com09 0 18
+display
+location 18
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あああ、ごめん。とにかく、逃げよう！」
+com09 0 19
+display
+location 19
+com11 0 4
+sound 404
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「わかったわよ……。
+line2 <shift> # みんなー、また、後でねっ！」
+display
+com22 0 30
+com32 0 1
+com21 0 30
+com11 0 4
+sound 405
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ふ〜、死ぬかと思ったわー。
+line2 <shift> # なんなの、あの騒ぎ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、伊織。リボンずれてる」
+display
+com11 0 4
+sound 406
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「え？　も〜、信じられなーい！
+line2 <shift> # 直してよ、早くー」
+com0e 0 105
+com44
+com09 0 20
+com45
+com44
+com09 0 21
+com45
+com44
+com09 0 22
+com45
+com44
+com09 0 23
+com45
+com44
+com09 0 24
+com45
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、これでＯＫ」
+display
+com11 0 4
+sound 407
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「フフフンっ、ごくろうさま、
+line2 <shift> # プロデューサー♪」
+com09 0 29
+display
+location 21
+com11 0 4
+sound 408
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……直ったの？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、それが……」
+display
+com11 0 4
+sound 409
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「もういいわよっ。後で自分でやるからー。
+line2 <shift> # ……役立たずー」
+com09 0 29
+display
+location 22
+com11 0 4
+sound 410
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「きゃ！　い、痛いわねっ！　なにすんのよっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ごめん、手がすべった……」
+display
+com11 0 4
+sound 411
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「リボンも満足に直せないのっ！？
+line2 <shift> # ほんと、役に立たないんだからー……」
+com09 0 29
+display
+location 23
+com11 0 4
+sound 412
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なに関係ないとこ、さわってんのよ〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ごめん。すぐ直すよ……」
+display
+com11 0 4
+sound 413
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「もういいわよっ！　後で自分でやるからー。
+line2 <shift> # これ以上、イタズラされたくないわ……」
+com09 0 29
+display
+location 24
+com11 0 4
+sound 414
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……なに見てるの？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、リボンずれてるなーって……」
+display
+com11 0 4
+sound 415
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そんなの知ってるわよ！　教えてくれたの
+line2 <shift> # あんたでしょ！　いいわよ、後で直すからっ」
+com09 0 29
+display
+location 29
+com11 0 4
+sound 416
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「それにしても、なんで、あんな強烈な
+line2 <shift> # ファンしか、ついてないわけ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まだマイナーだからなあ。どうしても
+line2 <shift> # ファン層はかたよるよ」
+display
+com11 0 4
+sound 417
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「もっと普通のファンが、たくさん
+line2 <shift> # ほしいわ……」
+com03 0 3
+choice1 <shift> # 伊織は、理想が高いな
+line2
+com09 0 30
+com08
+choice2 <shift> # 伊織は、プライドが高いな
+line2
+com09 0 31
+com08
+choice3 <shift> # 伊織は、せっかちだな
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「伊織は、理想が高いな」
+display
+com11 0 4
+sound 418
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ふふんっ、最近、思いはじめたの。
+line2 <shift> # 超人気者になるのも、いいかなーって！」
+display
+com11 0 4
+sound 419
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あんたも、がんばってついてくるのよ。将来の
+line2 <shift> # 私に、負けないプロデューサーにならないとね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （すこしは歩調も合ってきたかな。ともに
+line2 <shift> # 奮起していきたいところだ）
+com09 0 39
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「伊織は、プライドが高いな」
+display
+com11 0 4
+sound 420
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「どこがよー。たくさんファンが欲しいなんて、
+line2 <shift> # 誰だって思うことでしょ！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、それはそうか……」
+display
+com11 0 4
+sound 421
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ほんとにプライドが高かったら、あんたなんか、
+line2 <shift> # プロデューサーにしときませーん！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （小バカにされてしまった……。くっ）
+com09 0 39
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「伊織は、せっかちだな」
+display
+com11 0 4
+sound 422
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なによー。急ぎすぎだって言うの？」
+display
+com11 0 4
+sound 423
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「はあーあ、凡人はイヤよねー。ダラダラしてた
+line2 <shift> # ら、時間なんて、すぐ過ぎちゃうのに……」
+display
+com11 0 4
+sound 424
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「私がいくらやる気出しても、あんたがそんな
+line2 <shift> # じゃ、うまくいかないわよっ。フン！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （あきれられてしまった……。ほめといた方が
+line2 <shift> # よかったかもしれないな）
+com09 0 39
+display
+location 39
+unk02

@@ -1,0 +1,729 @@
+com2d 0 91
+com2e 0 101
+com2c 0 63
+com2c 0 64
+com32 0 0
+com11 0 0
+sound 0
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ねえねえ、兄ちゃん。
+line2 <shift> # 今日はもうお仕事ないんでしょ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。今日は久しぶりに
+line2 <shift> # ゆったりスケジュールだな！」
+display
+com11 0 0
+sound 1
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「じゃあ、この後、
+line2 <shift> # ちょっと真美たちに付き合ってー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いいよ。このところ、ずっと
+line2 <shift> # 忙しかったからなぁ」
+display
+com11 0 0
+sound 2
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「えへへ〜♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうしたんだ、真美。
+line2 <shift> # やけにうれしそうじゃないか」
+display
+com11 0 0
+sound 3
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「んっふっふ〜。それはねー……」
+display
+com11 0 0
+sound 4
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「今から亜美たちが出す
+line2 <shift> # クイズに答えられたら、教えてあげるよっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「クイズ？」
+display
+com11 0 0
+sound 5
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「問題ー！　今日は何の日だー！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （何の日……？　心当たりはないけど……）
+com03 0 3
+choice1 <shift> # ふたりの引退記念日
+line2
+com09 0 10
+com08
+choice2 <shift> # 結婚記念日
+com09 0 11
+com08
+choice3 <shift> # サナダ記念日
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わかった！　ふたりの引退記念日だ」
+display
+com11 0 0
+sound 6
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「えーっ！　亜美たち引退すんのーっ！？」
+display
+com11 0 0
+sound 7
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ていうか、そんなの記念しないでよー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ごめん、ごめん。冗談だって」
+display
+com11 0 0
+sound 8
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うあうあ！　兄ちゃんのイジワル〜」
+display
+com11 0 0
+sound 9
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「そんなこと言うなら、教えてあげないよー！」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺と奥さんの結婚記念日だ」
+display
+com11 0 0
+sound 10
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「えーっ！　兄ちゃん、結婚してたのー！」
+display
+com11 0 0
+sound 11
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「真美、こっそり兄ちゃんのこと狙ってたのに、
+line2 <shift> # だまされたって感じー！」
+display
+com11 0 0
+sound 12
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「兄ちゃんの結婚サギー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「大声で叫ぶなって！　冗談だろ、冗談」
+display
+com11 0 0
+sound 13
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「なんだ、冗談かー」
+display
+com11 0 0
+sound 14
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「そんな冗談ばっかり言ってたら、
+line2 <shift> # 教えてあげないよー！」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「サナダ記念日だ」
+display
+com11 0 0
+sound 15
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「サナダ記念日？」
+display
+com11 0 0
+sound 16
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「なにそれ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お腹に虫がいるねって、
+line2 <shift> # お医者さんが言ったから……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「めでたい今日は、『サナダ記念日』」
+display
+com11 0 0
+sound 17
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「兄ちゃん、お腹で虫、飼ってんのー！？」
+display
+com11 0 0
+sound 18
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「うあ〜！　キモいぃぃぃーっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ごめん、ごめん。冗談だって」
+display
+com11 0 0
+sound 19
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うあうあ、兄ちゃんのイジワル〜！」
+display
+com11 0 0
+sound 20
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「そんなこと言うなら、教えてあげないよー！」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「謝るから、教えてくれないか？
+line2 <shift> # 本当に何の日かわからないんだ」
+display
+com11 0 0
+sound 21
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「しょうがないねー、真美。
+line2 <shift> # んじゃ、教えてあげよっかー」
+display
+com11 0 0
+sound 22
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「今日はねー。んっふっふ〜、なんと……」
+display
+com11 0 0
+sound 23
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「『兄ちゃんの日』でーっす☆」
+display
+com11 0 0
+sound 24
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「パチパチパチパチ、拍手ーっ！！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「『兄ちゃんの日』？」
+display
+com11 0 0
+sound 25
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うん。『兄ちゃんの日』だよっ！」
+display
+com11 0 0
+sound 72
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「『プロデューサー感謝デー』っていうのも
+line2 <shift> # 作ったけど、今日は『兄ちゃんの日』なんだ！」
+display
+com11 0 0
+sound 26
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「パパの日とママの日があるのに、
+line2 <shift> # 兄ちゃんの日がないのは、おかしいでしょ？」
+display
+com11 0 0
+sound 27
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「だから、ふたりで
+line2 <shift> # 『兄ちゃんの日』を作ったんだよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （亜美……真美……。
+line2 <shift> # くぅ〜っ、泣かせてくれるなぁ……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、どうして今日なんだ？」
+display
+com11 0 0
+sound 28
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ん〜、なんとなくだよね？」
+display
+com11 0 0
+sound 29
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うん、なんとなくだよ。
+line2 <shift> # 思いついたから、今日にしちゃった」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （なんとなくか……。
+line2 <shift> # らしいと言えば、らしいけど……）
+display
+com11 0 0
+sound 30
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「兄ちゃんは、いつがよかったの？」
+com03 0 3
+choice1 <shift> # 今日
+com09 0 13
+com08
+choice2 <shift> # いつでも
+com09 0 14
+com08
+choice3 <shift> # 昨日
+com09 0 15
+com08
+com07
+com09 0 15
+com08
+display
+location 13
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「今日……かな！」
+display
+com11 0 0
+sound 31
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「亜美たちの決めた日と、いっしょだ〜！」
+display
+com11 0 0
+sound 32
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「やっぱ、真美たちが一番、
+line2 <shift> # 兄ちゃんのこと、わかってんだよ〜！」
+display
+com11 0 0
+sound 33
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ていうことで、今日に決定〜！」
+display
+com11 0 0
+sound 34
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「うあ〜いっ！」
+com09 0 16
+display
+location 14
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いつでも、いいかも……」
+display
+com11 0 0
+sound 35
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「だったら、今日でもいいよねっ？」
+display
+com11 0 0
+sound 36
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ううん。今日が、いいんだよ〜！」
+display
+com11 0 0
+sound 37
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「んじゃ、今日に決定〜！」
+display
+com11 0 0
+sound 38
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「パフパフパフ〜！」
+com09 0 16
+display
+location 15
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「昨日……かな」
+display
+com11 0 0
+sound 39
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ええーっ！
+line2 <shift> # そんなことは昨日、言ってよ〜！」
+display
+com11 0 0
+sound 40
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「男は過去をふり返っちゃいけないんだよ〜」
+display
+com11 0 0
+sound 41
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うんうん。だから、今日に決定〜っ！」
+display
+com11 0 0
+sound 42
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「さんせ〜いっ！」
+com09 0 16
+display
+location 16
+com11 0 0
+sound 43
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ジャジャ〜ン！　兄ちゃんの日には、
+line2 <shift> # 大切なギシキがありま〜す！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ぎ、儀式……？」
+display
+com11 0 0
+sound 44
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「うん！
+line2 <shift> # プレゼント、ゾーテイのギシキだよ〜」
+display
+com11 0 0
+sound 45
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「わーい！　おめでとうございまーす！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おぉっ！　そいつはうれしいなぁ。
+line2 <shift> # で、何をくれるんだ？」
+display
+com11 0 0
+sound 46
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「んっふっふ〜！　それはねー……」
+display
+com11 0 0
+sound 47
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ちょい待ち、真美ー！」
+display
+com11 0 0
+sound 48
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「んー、どったの亜美ー？」
+display
+com11 0 0
+sound 49
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ただ渡すだけだと、つまんないからさー。
+line2 <shift> # ごにょごにょ……」
+display
+com11 0 0
+sound 50
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「うん、それいいねーっ！　それに決まりー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうしたんだ？　ふたりとも……」
+display
+com11 0 0
+sound 51
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「今から、この公園に
+line2 <shift> # プレゼントを隠すことになりました〜☆」
+display
+com11 0 0
+sound 52
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「兄ちゃんなら、絶対
+line2 <shift> # 見つけてくれるはずだよねー☆」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おいおい、ちょっと待ってくれよ……！」
+display
+com11 0 0
+sound 53
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「んじゃ、行くよー！」
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 54
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「はい、隠したよー♪」
+display
+com11 0 0
+sound 55
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「どこに隠したか、当ててみてー♪」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （当ててみてと言われても……。でも、当てない
+line2 <shift> # と、亜美も真美もガッカリするだろうな）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （しょうがない。
+line2 <shift> # カンでなんとか探し当てるぞっ！）
+com03 0 3
+choice1 <shift> # この辺だ！
+com09 0 20
+com08
+choice2 <shift> # この辺だっ！
+line2
+com09 0 21
+com08
+choice3 <shift> # この辺か？
+com09 0 22
+com08
+com07
+com09 0 23
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わかったぞ！　この辺だ！」
+com37 0 1
+com1e 0 0
+com09 0 25
+com3b
+com37 0 0
+com1e 0 0
+com09 0 26
+com3b
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わかったぞ！　この辺だっ！」
+com37 0 1
+com1e 0 0
+com09 0 25
+com3b
+com37 0 0
+com1e 0 0
+com09 0 26
+com3b
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わかったぞ！　この辺か？」
+com37 0 1
+com1e 0 0
+com09 0 25
+com3b
+com37 0 0
+com1e 0 0
+com09 0 26
+com3b
+display
+location 23
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わかったぞ！　この辺か？」
+com09 0 26
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わかったぞ！　この辺だ！」
+com09 0 26
+display
+location 25
+com22 0 30
+com21 0 30
+com32 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やった！　見つけたぞ！」
+display
+com11 0 0
+sound 56
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「すごいよ、兄ちゃん！」
+display
+com11 0 0
+sound 57
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「やっぱ、兄ちゃんと真美たちは、
+line2 <shift> # テレパシーとかで、つながってんだね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「開けてもいいのか？」
+display
+com11 0 0
+sound 58
+name 0 0 <names:4>  # Ami and Mami
+line1 <shift> # 「うんうん♪　開けてみてー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「これは……えっと……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （中には、手編みの
+line2 <shift> # ベストのような物が入ってた……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （いろんなところが、ほつれていて、
+line2 <shift> # 同じ場所にボタンがふたつ付いている……）
+display
+com11 0 0
+sound 59
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ママに教わって作ったんだけど、
+line2 <shift> # 亜美たちヘタッピぃだから……」
+display
+com11 0 0
+sound 60
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ごめんね、兄ちゃん……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、ふたりが一生懸命編んでくれたんだ。
+line2 <shift> # 最高のプレゼントだよ」
+display
+com11 0 0
+sound 61
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うあうあ、兄ちゃーん！」
+display
+com11 0 0
+sound 62
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「兄ちゃん、大好きー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その日は、手あかだらけの
+line2 <shift> # 不格好なベストを着て帰った）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （好奇の目で見られたけど、かまうもんか。
+line2 <shift> # 俺にとっては最高のプレゼントなんだ）
+com4b 0 0
+com09 0 69
+display
+location 26
+com22 0 30
+com21 0 30
+com32 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ダメだ……。
+line2 <shift> # どこにあるのか、ぜんぜんわかんないよ」
+display
+com11 0 0
+sound 63
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「えーっ！
+line2 <shift> # 兄ちゃん、見つけらんないのー？」
+display
+com11 0 0
+sound 64
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「しょうがない兄ちゃんだねー。
+line2 <shift> # ほいじゃあ、真美が見つけたげる」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ごめんな……」
+display
+com11 0 0
+sound 65
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「あれ？　ないよー！
+line2 <shift> # 亜美、どこに隠したのー？」
+display
+com11 0 0
+sound 66
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「真美もダメダメだねー。
+line2 <shift> # んじゃ、亜美が……あれ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうした、亜美？」
+display
+com11 0 0
+sound 67
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「暗くなってきたから、
+line2 <shift> # わかんなくなっちゃったよー！」
+display
+com11 0 0
+sound 68
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「ええええええーっ！！
+line2 <shift> # どうすんの亜美ー！？」
+display
+com11 0 0
+sound 69
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「そんなの、亜美に聞かれても、
+line2 <shift> # わかんないよー！」
+display
+com11 0 0
+sound 70
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「うっぐ、えっぐ……
+line2 <shift> # ふたりで、いっしょけんめー作ったのにー！」
+display
+com11 0 0
+sound 71
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うっぐ、えっぐ……
+line2 <shift> # 兄ちゃんのプレゼント、どこ〜！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、真っ暗になるまで探したが、
+line2 <shift> # 結局プレゼントは見つからなかった……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ふたりは泣きながら家に帰っていった……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （俺がちゃんと見つけてやれたら、よかったの
+line2 <shift> # だけど……。すまない。亜美、真美……）
+com4b 0 2
+com09 0 69
+display
+location 69
+unk02

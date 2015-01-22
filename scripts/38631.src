@@ -1,0 +1,271 @@
+com2c 0 40
+com2d 0 73
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今回のＣＭ撮影、最新の
+line2 <shift> # ＳＦＸ特撮技術を使うそうだぞ」
+display
+com11 0 2
+sound 500
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ええっ、ほんとにＣＧとかエフェクト使うん
+line2 <shift> # ですか？　ちょっと信じられないなぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ん？　どういうことだ？」
+display
+com11 0 2
+sound 501
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「だって、なんだか現場に準備してある
+line2 <shift> # 機材もセットも古いし」
+display
+com11 0 2
+sound 502
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「昔ながらの合成手法っぽい撮り方
+line2 <shift> # するみたいだけど？」
+com03 0 2
+choice1 <shift> # そうかもしれないが
+line2
+com09 0 10
+com08
+choice2 <shift> # そんなことを言うな
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、そうかもしれないが、油断は禁物だ。
+line2 <shift> # 見た目にないすごいテクを使うのかもよ」
+display
+com11 0 2
+sound 503
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「はいはい、大丈夫ですって。何が来たって、
+line2 <shift> # 私、驚かずにやってみせますから、ね？」
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなことを言っちゃいかんぞ、
+line2 <shift> # スタッフに聞こえたらどうする？」
+display
+com11 0 2
+sound 504
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「別に、聞こえるように言ってまわりますよ？
+line2 <shift> # こんなの、時代遅れだ〜って」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「や、やめんかっ」
+display
+com11 0 2
+sound 505
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「まぁ冗談ですけど……でもほんとに古くさい
+line2 <shift> # 撮影スタイルだから、なにか拍子抜けして」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ぶつぶつ言わずに、ほら、
+line2 <shift> # 撮影スタンバイだ」
+display
+com11 0 2
+sound 506
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「はいはい、わかってますって」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しかし実際にＣＭ撮りがはじまると、
+line2 <shift> # 律子に少々戸惑いがあるように感じた……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「動きがぎこちないぞ、リテイクも多いし……、
+line2 <shift> # 緊張してるのか？」
+display
+com11 0 2
+sound 507
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「わ、私だってうまくやりたいけど、
+line2 <shift> # こういう撮影は不慣れだから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さっきまで撮影バカにしてたくせに、
+line2 <shift> # 言い訳は見苦しいなぁ」
+display
+com11 0 2
+sound 508
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「う、うるさいなぁ。だいたい、目の前に
+line2 <shift> # 現物がないから、どう動いていいのか……」
+display
+com11 0 2
+sound 509
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あとからモノを合成で置くのなら、
+line2 <shift> # ダミーぐらい用意してくれればいいのに」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「仕方ないなぁ……」
+com03 0 3
+choice1 <shift> # スタッフと相談するか
+line2
+com09 0 30
+com08
+choice2 <shift> # まぁひとまず慌てるな
+line2
+com09 0 31
+com08
+choice3 <shift> # 文句を言うなよ
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「撮影スタッフと相談するか。もう少し律子が
+line2 <shift> # やりやすくなるように、俺が掛け合ってみるよ」
+display
+com11 0 2
+sound 510
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あ、おねがいします！　私も、少しでもいい
+line2 <shift> # ＣＭにしたいですから、ぜひ楽に撮れるように」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「でも撮影をナメてかかってた律子の言うこと、
+line2 <shift> # 果たしてスタッフが聞いてくれるかなぁ？」
+display
+com11 0 2
+sound 511
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ううっ、そ、そんな！　そこをなんとか！
+line2 <shift> # プロデューサー、頼りにしてますよぉ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （やれやれ、世話の焼けることだ……。
+line2 <shift> # しかし、スムーズに撮影を進めたいからな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （このくらいのわがままは聞いてやろう。
+line2 <shift> # そのぶん、ＣＭの出来には期待だな）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まぁひとまず慌てず、
+line2 <shift> # リラックスしていこうじゃないか」
+display
+com11 0 2
+sound 512
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「むぅ、わかってますよぉ……。
+line2 <shift> # それにしても、なんかシャクだなぁ」
+display
+com11 0 2
+sound 513
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「私、こんな程度の撮影も、
+line2 <shift> # さらっとこなせないなんて」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「仕方ないさ、不慣れなんだろ？
+line2 <shift> # 演技も律子は得意ではないだろうし」
+display
+com11 0 2
+sound 514
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そうだけど……。ああ、もう、くやしいっ！
+line2 <shift> # 撮影ナメてかかってた自分がかっこ悪いっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「落ちつけ、律子。言ってても、
+line2 <shift> # しょうがないだろう。撮影を進めよう」
+display
+com11 0 2
+sound 515
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ああ、しまいにゃいじけますよ、
+line2 <shift> # ひとりで、もう」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しかし律子の律子自身への不満感が拭えず、
+line2 <shift> # その後の撮影はテンションの低いものになった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺がもう少し、律子にやる気を持たせて
+line2 <shift> # やれればよかったのかなぁ……）
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「文句を言うなよ、律子。現場では、
+line2 <shift> # 現場のやり方に合わせてくれなきゃな」
+display
+com11 0 2
+sound 516
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「だけどこのままだとやりづらくって。撮影方法
+line2 <shift> # 変えてくれないと、余計なリテイク増えそうで」
+display
+com11 0 2
+sound 517
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「あ〜でもっ、私のせいで無駄にスタッフに
+line2 <shift> # 手間や時間を取らせても、いけないかな……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんとか辛抱して、続けてやってみるんだ。
+line2 <shift> # コツを掴むんだ、そうすればできるから。な？」
+display
+com11 0 2
+sound 518
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「そ、そう言われても」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だいたい、最初に撮影ナメてかかってたのは
+line2 <shift> # 律子のほうじゃないか？」
+display
+com11 0 2
+sound 519
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「む、むぅっ……。そうかもしれないけど、
+line2 <shift> # ちょっとは助けてくださいよぉ」
+display
+com11 0 2
+sound 520
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「スムーズに撮影進めたいじゃないですか。
+line2 <shift> # いいＣＭにしたいじゃないですかぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「不満があっても仕事をするのがプロだ、って、
+line2 <shift> # 律子もよくそういう風に言うじゃないか」
+display
+com11 0 2
+sound 521
+name 0 0 <names:2>  # Ritsuko
+line1 <shift> # 「ぐっ……。も、もういいです。
+line2 <shift> # わかりました、ガマンしますよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そう、不満を押し殺してこそのプロの仕事だ。
+line2 <shift> # 甘えた要求を聞くわけにはいかないよな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （でも律子らしくなく弱気な主張が多かったかも。
+line2 <shift> # もしかして俺、無理させすぎてるんだろうか……）
+com09 0 49
+display
+location 49
+unk02

@@ -1,0 +1,317 @@
+com2c 0 101
+com2d 0 91
+com2e 0 101
+com32 0 0
+com11 0 2
+sound 1200
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ここがね〜、家族で、よく来る服屋さん！
+line2 <shift> # 超秘密の店だけど、兄ちゃんには教えてあげる」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「来たかったところって、ここか？
+line2 <shift> # うわー、すごい棚の数だな……」
+display
+com11 0 2
+sound 1201
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「あれれ？　久しぶりにきたら、トップスの種類
+line2 <shift> # とか、全然、変わっちゃってる〜。なんでだろ」
+com03 0 2
+choice1 <shift> # 商品の入れ替え、早いのかな？
+line2
+com09 0 10
+com08
+choice2 <shift> # 店、まちがえたのか？
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「商品の入れ替え、早いのかな？」
+display
+com11 0 2
+sound 1202
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「あ、きっと、そーだねっ！　おんなじの
+line2 <shift> # ばっかだと、真美達、すぐ飽きちゃうから」
+display
+com11 0 2
+sound 1203
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「よーし、今日は、これまでこられなかった分も、
+line2 <shift> # たくさん買っちゃお〜！」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「店、まちがえたのか？」
+display
+com11 0 2
+sound 1204
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「そんなわけ、ないよ〜！　真美達、
+line2 <shift> # ここ、数えきれないほど、きてるし……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そうか……。じゃあ、新製品とか、
+line2 <shift> # 多く仕入れたのかもしれないな」
+display
+com11 0 2
+sound 1205
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「あ、きっと、そーだよっ。ヘンな心配して
+line2 <shift> # ないで、たくさん買っちゃお〜！」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「亜美達は、買い物するの、好きか？」
+display
+com11 0 2
+sound 1206
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うんっ、好きー！　パパとママと真美と、
+line2 <shift> # ワイワイ言いながら選ぶの、楽しいもん♪」
+display
+com11 0 2
+sound 1207
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「パパはねー。買い物しながら『そうやって
+line2 <shift> # 笑ってれば、病気にならないね』って、いうの」
+display
+com11 0 2
+sound 1208
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「病院でも、いっつも笑ってる患者さんは、
+line2 <shift> # 退院するのが、メッチャ早いんだって！」
+com03 0 3
+choice1 <shift> # わかる気が、するな
+line2
+com09 0 30
+com08
+choice2 <shift> # 偶然じゃないのか？
+line2
+com09 0 31
+com08
+choice3 <shift> # 病は気から、って言うしな
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わかる気が、するな。暗い顔してると、
+line2 <shift> # 治るのも、遅れるだろうし……」
+display
+com11 0 2
+sound 1209
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「だよね〜。だから、亜美達は、いっぱい
+line2 <shift> # 楽しんで、病気にならないようにするの！」
+display
+com11 0 2
+sound 1210
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「真美達が笑ってれば、
+line2 <shift> # それを見てる人だって、元気になるもんね！」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「偶然じゃないのか？　笑顔ぐらいで、
+line2 <shift> # 病状が変わるとも、思えないけど……」
+display
+com11 0 2
+sound 1211
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「変わるんだよ〜。パパ、ウソついたこと、
+line2 <shift> # ないもん！　２割増だって、言ってたもん！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「に、２割……？　ずいぶん具体的だな。
+line2 <shift> # そこまで言われると、本当な気がしてきた……」
+display
+com11 0 2
+sound 1212
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「だから、真美達は笑って笑って、笑いまくる
+line2 <shift> # の！　見てる人まで、元気にしちゃうぐらいに」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「病は気から、っていうしな」
+display
+com11 0 2
+sound 1213
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「なに、それ？
+line2 <shift> # ビョーキが、木から生えてくるの？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ち、ちがうよ。つまり、気持ちが沈んだら、
+line2 <shift> # それが原因で病気になる、ってこと」
+display
+com11 0 2
+sound 1214
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「あ、なら、真美達、まちがってないよね。
+line2 <shift> # もっと笑って、まわりの人まで、元気にしよ〜」
+com09 0 49
+display
+location 49
+com11 0 2
+sound 1215
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「ねえ、兄ちゃん！　買い物終わっても、
+line2 <shift> # まだ時間、ちょっとあるよね？　だったら〜」
+display
+com11 0 2
+sound 1216
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「どこか、亜美達の知らないような、
+line2 <shift> # 楽しいとこ、連れてってほしいな〜」
+com03 0 3
+choice1 <shift> # よし、釣り堀にいこう
+line2
+com09 0 50
+com08
+choice2 <shift> # よし、カラオケにいこう
+line2
+com09 0 51
+com08
+choice3 <shift> # よし、寄席にいこう
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、釣り堀にいこう。さすがに、
+line2 <shift> # そんなところには、行ったことないだろ？」
+display
+com11 0 2
+sound 1217
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「え、なに、そこ〜？　真美、知らな〜い！
+line2 <shift> # 見てみたい、見てみた〜い！」
+display
+com11 0 2
+sound 1218
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「たまには、お仕事忘れて、はじけないとねっ。
+line2 <shift> # んじゃ、みんなで、ご〜！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （いろいろ案内して、息抜きさせてやろう。
+line2 <shift> # なんか、亜美達の親になった気分だな）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、カラオケにいこう。友達とかと、
+line2 <shift> # あんまり入ったこと、ないだろ？」
+display
+com11 0 2
+sound 1219
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「カラオケって、歌、歌うの〜？
+line2 <shift> # 真美達、今は、お仕事したくないかも〜」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う……。別に、構えることはないよ。
+line2 <shift> # 失敗したって、いいんだから……」
+display
+com11 0 2
+sound 1220
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「あ、じゃあ、こうしようよっ！
+line2 <shift> # 兄ちゃんが歌って、亜美達は、きくだけ〜！」
+display
+com11 0 2
+sound 1221
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「それ、いいね！　んっふっふ〜、覚悟してね、
+line2 <shift> # 兄ちゃん。亜美真美チェックは、厳しいよ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （なんか、イヤな流れに……。ま、俺が恥をかく
+line2 <shift> # ことで、ふたりが楽しめるなら、それもいいか）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、そういうことなら、
+line2 <shift> # 寄席（よせ）が、いいな！」
+display
+com11 0 2
+sound 1224
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「え〜っ！　『よせ』って言われたよ、亜美〜。
+line2 <shift> # 兄ちゃん、連れてってくれないんだ……」
+display
+com11 0 2
+sound 1225
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「うう、兄ちゃんのケチー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え？　ち、違うよ、
+line2 <shift> # 寄席という場所があるんだよ」
+display
+com11 0 2
+sound 1226
+com4c 0 1
+name 0 0 <names:1>  # Ami
+line1 <shift> # 「亜美、兄ちゃんが『よせ』なんていう場所、
+line2 <shift> # 行きたくないよ〜」
+display
+com11 0 2
+sound 1227
+com4c 0 2
+name 0 0 <names:3>  # Mami
+line1 <shift> # 「そーだ、そーだ！　……あーあ、
+line2 <shift> # どっか楽しい場所、行きたかったな」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （誤解されてしまった……。亜美達は、
+line2 <shift> # 『寄席』という言葉自体、知らなかったらしい）
+com09 0 69
+display
+location 69
+unk02

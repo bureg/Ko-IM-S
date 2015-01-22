@@ -1,0 +1,202 @@
+com2c 0 69
+com2d 0 31
+com32 0 0
+com43 0 4
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうして急に神社なんかに？
+line2 <shift> # ミーティングの予定だったよな？」
+display
+com11 0 5
+sound 100
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「私っ、早く、たくさんの人に、歌、
+line2 <shift> # きいてほしいんです！　だから……」
+com03 0 2
+choice1 <shift> # アイドル共通の願いだよな
+line2
+com09 0 10
+com08
+choice2 <shift> # 祈りにきたってわけか
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「アイドル共通の願いだよな」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「祈りにきたってわけか」
+com09 0 19
+display
+location 19
+com11 0 5
+sound 101
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はい。おさい銭も入れたし、
+line2 <shift> # これで、バッチリですよねっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。でも、運だけに任せないで、
+line2 <shift> # がんばっていこう」
+display
+com11 0 5
+sound 102
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はいっ、プロデューサー！」
+display
+com11 0 5
+sound 103
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あ……。わ、私……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうした？」
+display
+com11 0 5
+sound 104
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「おさい銭、１０円しか入れなかったんですけど、
+line2 <shift> # 大丈夫かなあ？」
+com03 0 3
+choice1 <shift> # こういうのは、気持ちだから
+line2
+com09 0 20
+com08
+choice2 <shift> # それは少なすぎる
+line2
+com09 0 21
+com08
+choice3 <shift> # それは多すぎだ！
+line2
+com09 0 22
+com08
+com07
+com09 0 21
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「こういうのは、気持ちだから」
+display
+com11 0 5
+sound 105
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「で、でも……、『なんだ、これっぽち』とか、
+line2 <shift> # 言われないかなあ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……そんなこと、言うヤツはいないよ」
+display
+com11 0 5
+sound 106
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そ、そうですよね！　ああ、よかったー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （どうやら、安心したようだ。
+line2 <shift> # にしても、おさい銭１０円とは……）
+com4b 0 0
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それは少なすぎる」
+display
+com11 0 5
+sound 107
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あ……、や、やっぱりーっ。
+line2 <shift> # お願い、きいてもらえないかも……」
+display
+com11 0 5
+sound 108
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「に、２０円のが、よかったですか！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……たいして変わらない気もするけど」
+display
+com11 0 5
+sound 109
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「でも、５０円とかは、ちょっと……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （かなり動揺している。
+line2 <shift> # にしても、おさい銭１０円とは……）
+com4b 0 1
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それは多すぎだ！」
+display
+com11 0 5
+sound 110
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そ、そうですか？　こういうのって、
+line2 <shift> # 普通は、どれくらい……？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「５円でじゅうぶんだろう」
+display
+com11 0 5
+sound 111
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「し、知らなかったです。
+line2 <shift> # これまで私、すごいソンを……」
+display
+com11 0 5
+sound 112
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あ〜あ、今から言っても、
+line2 <shift> # もう、返してくれないですよね？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それは、さすがに無理だな」
+display
+com11 0 5
+sound 113
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うう、ちょっとショック〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （落ち込んでいる。けど、少なすぎて、
+line2 <shift> # 願いがかなわないよりは、いいだろう）
+com4b 0 2
+com09 0 29
+display
+location 29
+com11 0 5
+sound 114
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「実は私……、子どもの頃、一度、
+line2 <shift> # おさい銭５００円入れたことがあるんです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、それはすごいな。で、願いはかなった？」
+display
+com11 0 5
+sound 115
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「それが……。さ、最悪の結果に……」
+display
+com11 0 5
+sound 116
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「……自分のしたことがショックで、３日間、
+line2 <shift> # 寝込んじゃったんですー」
+display
+com11 0 5
+sound 117
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「夢でも、うなされてたそうです。５００円〜、
+line2 <shift> # ５００円〜って……。えへへ……」
+display
+unk02

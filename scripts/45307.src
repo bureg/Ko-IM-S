@@ -1,0 +1,331 @@
+com2c 0 33
+com2d 0 81
+com32 0 0
+com11 0 3
+sound 400
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ラジオのトーク番組に、ゲスト出演かー。
+line2 <shift> # へへっ、なーに、しゃべろっかなー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ちゃんと、メイン・パーソナリティの言うこと、
+line2 <shift> # きくんだぞ。真の番組じゃないんだから」
+display
+com11 0 3
+sound 401
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ、そっか。ゲストですもんね。
+line2 <shift> # ああ、いつかは自分の番組、持てたらなあ」
+display
+com11 0 3
+sound 402
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「好き勝手なコトしゃべって、それで
+line2 <shift> # 仕事になるなら、ラクで、楽しいですよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そういうのを……」
+com03 0 3
+choice1 <shift> # 絵に描いたモチ、って言うんだ
+line2
+com09 0 10
+com08
+choice2 <shift> # 絵に描いたミチ、って言うんだ
+line2
+com09 0 11
+com08
+choice3 <shift> # 絵に描いたポチ、って言うんだ
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「絵に描いたモチ、って言うんだ。
+line2 <shift> # 自由にできる番組、持つまでは、大変だぞ？」
+display
+com11 0 3
+sound 403
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あはは、そうですね。よほど人気がないと、
+line2 <shift> # とても声なんて、かからないだろうし」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「絵に描いたミチ、って言うんだ」
+display
+com11 0 3
+sound 404
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「今は、たしかに幻の道かも。けど、
+line2 <shift> # トップアイドルになれば、きっと現実に……」
+display
+com11 0 3
+sound 405
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あれ？　ミチ……、でしたっけ？　まあ、
+line2 <shift> # いいですけど。似たようなもんでしょうから」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「絵に描いたポチ、って言うんだ」
+display
+com11 0 3
+sound 406
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「それ、どういう意味です？　犬の絵と
+line2 <shift> # ラジオ番組に、なんのつながりが……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あああ、ポチじゃない！　モチだ、モチ！」
+display
+com11 0 3
+sound 407
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「絵に描いたモチ……？　そういうことわざが、
+line2 <shift> # あるんですね。よく、知りませんけど」
+com09 0 29
+display
+location 29
+com11 0 3
+sound 408
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「えーと、パーソナリティの人は、っと。
+line2 <shift> # あっ、あそこで雑談してる人かな！」
+display
+com11 0 3
+sound 432
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「わあ、大人っぽくて、オシャレで、素敵な女の
+line2 <shift> # 人ですね！　へへっ、本番が楽しみだなーっ！」
+com03 0 3
+choice1 <shift> # ああ、楽しんでこい
+line2
+com09 0 30
+com08
+choice2 <shift> # 仕事なんだぞ
+line2
+com09 0 31
+com08
+choice3 <shift> # ……俺が代わりに行こう
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、楽しんでこい。まず、真が楽しめば、き
+line2 <shift> # いてくれてるファンにも、それが伝わるからな」
+display
+com11 0 3
+sound 433
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はいっ！　難しいですけど、ボクも、ファンも、
+line2 <shift> # 両方楽しめるようなトークを目指します！」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「仕事なんだぞ」
+display
+com11 0 3
+sound 434
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「はい、それは、もちろんわかってます！　本番
+line2 <shift> # が始まれば、バッチリ、仕事に集中しますから」
+display
+com11 0 3
+sound 435
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「……それにしても、彼女が着てるワンピース、
+line2 <shift> # かわいいなあ。どこで買ったんだろう？」
+display
+com11 0 3
+sound 436
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「雑誌に載ってた新作かも。お姉さんっぽい
+line2 <shift> # デザインで、バリバリにかわいいよなーっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （……この調子で、本当に集中できるのかな？
+line2 <shift> # まあ、真なら問題ないとは思うが）
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……俺が代わりに行こう」
+display
+com11 0 3
+sound 437
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「え、どうしてプロデューサーが？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「真は、仕事を忘れて『素敵な女性になる方法』
+line2 <shift> # を、パーソナリティに質問しそうだからな」
+display
+com11 0 3
+sound 438
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ひ、ヒドイです！　そりゃあ、確かに、
+line2 <shift> # きいてみたいとは思いますけど……」
+display
+com11 0 3
+sound 439
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「だからって、本番中に個人的な話はしません！
+line2 <shift> # ボク、そんなに信用ないですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わ、悪かったよ。そんなに怒るなってば……」
+com09 0 49
+display
+location 49
+com11 0 3
+sound 440
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ。でも、心配だな。あんな大人な感じの女の
+line2 <shift> # 人と、ボク、うまく話、合わせられるかなあ」
+display
+com11 0 3
+sound 416
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「なんとか、共通の話題、探さなきゃ……。
+line2 <shift> # どんな話なら、番組、盛り上がると思います？」
+com03 0 3
+choice1 <shift> # 料理とか、かな
+line2
+com09 0 50
+com08
+choice2 <shift> # ファッションとか、かな
+line2
+com09 0 51
+com08
+choice3 <shift> # 恋愛とか、かな
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「料理とか、かな」
+display
+com11 0 3
+sound 441
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「あ！　それ、いけそうですね！
+line2 <shift> # 話題も広がる気がしますし」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、真はできるのか？　料理の話なんて」
+display
+com11 0 3
+sound 442
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「当たり前じゃないですか。ボク、作るのは、
+line2 <shift> # 結構、得意ですし、食べるのは大得意です！」
+display
+com11 0 3
+sound 443
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「よーし、じゃあ、料理ネタで！
+line2 <shift> # がんばってきます！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ねらいは的中！　パーソナリティの人も、料理
+line2 <shift> # 好きだったため、番組はとても盛り上がった！）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ファッションとか、かな」
+display
+com11 0 3
+sound 444
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ファッション！？　ボクの大好きな、
+line2 <shift> # かわいい服の話、しちゃってもいいんですか？」
+display
+com11 0 3
+sound 445
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ボク、私服では、かわいい服、あんまり着ない
+line2 <shift> # んですけど、本当は、あこがれてるんですよね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ、いい機会じゃないか。今日、
+line2 <shift> # かわいい服への真のあこがれを、語りまくれ！」
+display
+com11 0 3
+sound 446
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ホントですかっ！？　やーりぃ！　それじゃ、
+line2 <shift> # 普段、隠している思いを、今日は思いっきり！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後、真は、かわいい服への、つのる思いを、
+line2 <shift> # 熱く長く語りあげたが……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （熱く語りすぎたのか、パーソナリティは苦笑い。
+line2 <shift> # 番組は、イマイチ盛り上がらなかった……）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「恋愛とか、かな」
+display
+com11 0 3
+sound 447
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「ええっ！？　ボク、ラジオで話せるような、
+line2 <shift> # 恋愛経験は、ほとんどないですよ！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「でも、相手は大人の女性だし、
+line2 <shift> # 恋愛の話が、１番盛り上がると思うぞ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「真自身に恋愛話がないなら、学校の友達から
+line2 <shift> # きいた話とか、なんでもいいんだからさ」
+display
+com11 0 3
+sound 448
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「そりゃあ、友達の恋愛の話なら、知ってます
+line2 <shift> # けど。悩みを相談されたことがありますから」
+display
+com11 0 3
+sound 449
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「でも、それをラジオで話すなんて、
+line2 <shift> # ありえませんよ！　友達への裏切り行為です！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う、裏切りって……。そこはうまく、
+line2 <shift> # ちょっと変えるとかして話せば、いいだろ？」
+display
+com11 0 3
+sound 450
+name 0 0 <names:1>  # Makoto
+line1 <shift> # 「それでも裏切りは裏切りです。ボク、卑怯なこ
+line2 <shift> # としてまで、番組を盛り上げる気、ありません」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （真は、暗い顔で、黙り込んでしまった。
+line2 <shift> # もっと、慎重に答えを選ぶべきだったな……）
+com09 0 69
+display
+location 69
+unk02

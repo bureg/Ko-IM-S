@@ -1,0 +1,342 @@
+com2c 0 193
+com32 0 0
+com2d 0 81
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ロケの合間に、ウィンターリゾートに、
+line2 <shift> # やってきた。辺りは白い雪に満ちている）
+display
+com11 0 0
+sound 400
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ここって、一年中、ウィンタースポーツが、
+line2 <shift> # 楽しめる、って触れ込みらしいですよ」
+display
+com11 0 0
+sound 401
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「すごいな、よく手入れがされたゲレンデだ。
+line2 <shift> # 向こうにはスケートリンクもありますね」
+display
+com11 0 0
+sound 402
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「オフ時間だけじゃ、遊びきれないかも？
+line2 <shift> # 楽しみですね！」
+com03 0 2
+choice1 <shift> # ああ、楽しみだな
+line2
+com09 0 10
+com08
+choice2 <shift> # 楽しそうだなぁ……
+line2
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、楽しみだな。隅々まで遊びまわって、
+line2 <shift> # たんのうしたいね」
+display
+com11 0 0
+sound 403
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「はい！　よーし、今日は滑りまくるぞっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ははは……。ちゃんと着替えて、
+line2 <shift> # 準備してからな」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「楽しそうだなぁ……、真」
+display
+com11 0 0
+sound 404
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あれ、プロデューサー、あんまり乗り気じゃ
+line2 <shift> # ないみたいですね。遊ばないんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、とりあえず、大量の雪を前に、
+line2 <shift> # 圧倒されたよ……」
+display
+com11 0 0
+sound 405
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「日帰りで来られるようなところに、
+line2 <shift> # こんなまとまった雪、意外ですもんね」
+display
+com11 0 0
+sound 406
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「さ、貴重なオフだし、遊びまくりましょうっ」
+display
+com11 0 0
+sound 407
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あ、もちろん、ちゃんと着替えて、
+line2 <shift> # 準備してから、ですけどね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ははは、そりゃそうだ」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 408
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「そうだ。プロデューサーは、
+line2 <shift> # スキーやスケートに自信、ありますか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「特別、上手ってわけじゃないよ」
+display
+com11 0 0
+sound 409
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「上手でなくたっていいんです。ボクも
+line2 <shift> # 得意ってほどじゃないし、久々ですから」
+display
+com11 0 0
+sound 410
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「よければ、一緒に滑りましょう。
+line2 <shift> # どうです、プロデューサー」
+com03 0 2
+choice1 <shift> # ぜひ頼むよ
+com09 0 20
+com08
+choice2 <shift> # お手柔らかに
+line2
+com09 0 21
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、ぜひ頼むよ。そうだ、もし、
+line2 <shift> # 滑り方のコツなんか知ってたら、教えてくれ」
+display
+com11 0 0
+sound 411
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あっ、はい。かまいませんよ。滑り方の、
+line2 <shift> # コツかあ。何からやったらいいかな……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺も雪は久しぶりだから、基本的なことから、
+line2 <shift> # 思い出したほうがいいかも」
+display
+com11 0 0
+sound 412
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「そうですか。それじゃお互い、
+line2 <shift> # うまい転び方から、復習しておきます？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「転び方？　そうか、ちゃんとした体勢で、
+line2 <shift> # 転ばないと、大ケガするもんな……」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「お手柔らかに。俺も身体がなまっていそう
+line2 <shift> # だし、真のペースについていけるかどうか……」
+display
+com11 0 0
+sound 413
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「大丈夫ですよ。ボク、無茶はしません。
+line2 <shift> # それともプロデューサー、怖いんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「怖くはないさ。ただ、久々のスキーだから、
+line2 <shift> # 危ないかもしれないと思ったんだ」
+display
+com11 0 0
+sound 414
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あはは、平気ですって。
+line2 <shift> # きちんと準備運動すれば、大丈夫ですよ」
+display
+com11 0 0
+sound 415
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「それに、もしもの時も、きちんと正しい
+line2 <shift> # 転び方をすれば、ケガしないですむし」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ん、正しい転び方？　そうか、
+line2 <shift> # うまく転ばないと、大ケガするもんな……」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 416
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「転ぶといっても、適当に倒れちゃったら、
+line2 <shift> # 危険ですからね」
+display
+com11 0 0
+sound 417
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「痛くなくて、受身もとれる
+line2 <shift> # 転び方と言ったら……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだな……。ここから、転ばないとな」
+com0e 2 215
+com44
+com09 0 30
+com45
+com44
+com09 0 31
+com45
+com44
+com09 0 32
+com45
+display
+location 30
+com11 0 0
+sound 418
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「そうそう、体重を身体の裏側にかけて、
+line2 <shift> # 思いっきりバーンと……」
+display
+com11 0 0
+sound 419
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「……って、格闘技で体当たりするわけじゃ
+line2 <shift> # ないんですから」
+display
+com11 0 0
+sound 420
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「肩から落ちたら、危ないですよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おっと、そうだな……。じゃあやっぱり、
+line2 <shift> # 先に地面に手をつかないと、かな？」
+display
+com11 0 0
+sound 421
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「それだと、手首を、ひねっちゃうかも
+line2 <shift> # しれないじゃないですか」
+display
+com11 0 0
+sound 422
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「うーん……。プロデューサー、
+line2 <shift> # ほんとにブランク長そうですね」
+display
+com11 0 0
+sound 423
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「仕方ない、転び方からボクが教えますよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後は真のコーチングを受け、なんとか
+line2 <shift> # 俺は、スキーやスケートができるようになった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （雪山は楽しかったが、無用な心配を、
+line2 <shift> # 真にかけてしまったかな……）
+com09 0 39
+display
+location 31
+com11 0 0
+sound 424
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ひゃっ！　いきなりほんとに、
+line2 <shift> # 触らないで下さいよ……。びっくりした」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「すまん、つい手が。
+line2 <shift> # でも、間違いじゃないだろう？」
+display
+com11 0 0
+sound 425
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「そうですね。重心をさげて、
+line2 <shift> # お尻から転べば、危なくないですね」
+display
+com11 0 0
+sound 426
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「思いっきり滑るには、
+line2 <shift> # まずは上手な尻もちから、ってことで！」
+display
+com11 0 0
+sound 427
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あ、でも、転ぶ練習、一人だと、
+line2 <shift> # うまくできないかもしれないな……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それなら、真が転ぶの、俺が手伝おう」
+display
+com11 0 0
+sound 428
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「頼みます。ボクもプロデューサーの、
+line2 <shift> # 受身の練習、手伝いますよ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後、入念に準備運動をしてから、真と俺は、
+line2 <shift> # 存分にスキーにスケートと、滑りまくった）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （思い切り身体を動かすのも、楽しいもんだな。
+line2 <shift> # 真と一緒なら、なおのことだ……）
+com09 0 39
+display
+location 32
+com11 0 0
+sound 429
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「あれ、プロデューサー、どうしたんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ごめん、つい雪景色に、
+line2 <shift> # 見とれてしまっていた」
+display
+com11 0 0
+sound 430
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「雪山で、よそ見は厳禁ですよ？
+line2 <shift> # そういうのが、一番、危ないんだから……」
+display
+com11 0 0
+sound 431
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「まいったなあ。プロデューサー、
+line2 <shift> # ほんとにブランク長そうですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「どうもカンが鈍った。俺、ケガしないように、
+line2 <shift> # 横で見てるほうがいいかもな……」
+display
+com11 0 0
+sound 432
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「ええっ、そうですか、残念だな。
+line2 <shift> # 一緒に滑りたかったのに」
+display
+com11 0 0
+sound 433
+name 0 0 <names:2>  # Makoto
+line1 <shift> # 「しょうがない。ボク、
+line2 <shift> # 一人で着替えてきますね……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （その後、俺は真の滑りぶりを眺めていた。
+line2 <shift> # それはそれは、見事なものだったが……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （真は、少しつまらなそうにしていた。
+line2 <shift> # ああ、俺も、付き合ってやれればなあ……）
+com09 0 39
+display
+location 39
+unk02

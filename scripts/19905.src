@@ -1,0 +1,364 @@
+com2c 0 59
+com2c 0 25
+com32 0 0
+com2d 0 51
+location 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「繁華街って、この辺だよな。
+line2 <shift> # あっ、あそこで、立ちつくしているのは……！」
+display
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「んー、ここを、たしか右だったような、
+line2 <shift> # 左だったようなー」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「どうして、私、いつまでたっても、道を
+line2 <shift> # おぼえられないのでしょう。困りましたー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「すみません。三浦あずささん、ですよね？
+line2 <shift> # 迎えにきました」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「え？　それは、それは、ご親切に……。
+line2 <shift> # ところで、あのー、あなたは、どなた？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あずささんの……、担当プロデューサーです」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「担当、プロデューサー？？？
+line2 <shift> # ということは、つまり……」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「…………あ、わかりましたー。私を担当してく
+line2 <shift> # ださるプロデューサーさん、ということですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……って、そのまんまじゃないですかっ！」
+com03 0 3
+choice1 <shift> # 本当に、理解してます？　
+line2
+com09 0 10
+com08
+choice2 <shift> # なんなんです、今の間は？　
+line2
+com09 0 11
+com08
+choice3 <shift> # おもしろい人ですね　
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「本当に、理解してます？」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「はい、多分……。えーと、私を担当して
+line2 <shift> # 下さる人が決まった、ということは」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「え！？　わ、私、アイドルとしてデビュー
+line2 <shift> # できるんですか？　おどろきましたー！！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……やっぱり、理解してなかったようだ。
+line2 <shift> # 念を押してみて、よかったな）
+com37 0 0
+com1e 0 0
+com09 0 25
+com3b
+com38 0 1
+com1e 0 0
+com09 0 26
+com3b
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんなんです、今の間は？」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「いえ、いきなり言われたもので、
+line2 <shift> # よく理解できなくて。すみません……」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あ、でも、担当が決まったということは、私、
+line2 <shift> # とうとうデビューできる、ということですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「決まってるじゃないですか。うーん、会話が
+line2 <shift> # かみあってない気がするけど、ま、いいか」
+com37 0 0
+com1e 0 0
+com09 0 25
+com3b
+com38 0 1
+com1e 0 0
+com09 0 26
+com3b
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「おもしろい人ですね。いきなりジョークを
+line2 <shift> # かますなんて」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「は？　私、なにか、かましました
+line2 <shift> # でしょうか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「え？　今の、ツッコミを期待した、ボケじゃ
+line2 <shift> # なかったんですか？」
+display
+com11 0 0
+sound 10010
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「私、普通に考えて、普通に理解しただけですけ
+line2 <shift> # ど。でも、おもしろかったなら、よかったです」
+com37 0 0
+com1e 0 0
+com09 0 25
+com3b
+com38 0 1
+com1e 0 0
+com09 0 26
+com3b
+display
+location 25
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さ、それじゃ、まずは全国デビューするための、
+line2 <shift> # あなたの芸名を決めましょう。えーと」
+display
+location 26
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「さ、それじゃ、まずは全国デビューするための、
+line2 <shift> # ユニット名を決めましょう。えーと」
+display
+location 30
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「私、その名前で、がんばるんですね。ステキ
+line2 <shift> # なのを考えてくれて、ありがとうございますー」
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よろしく頼みます！
+line2 <shift> # さあ、いよいよ活動開始です！」
+display
+location 40
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今日のスケジュールは……、と）
+display
+location 50
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やはり最初はレッスンです！
+line2 <shift> # 事務所に戻って、活動開始です！」
+display
+com11 0 0
+sound 10012
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「はい！　でもー、事務所は、どっちの方向
+line2 <shift> # でしょう。私、まだ、わかっていなくて……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わ、わかりましたよ。俺が案内しますから、
+line2 <shift> # ついてきて下さい」
+display
+com4a 0 0
+com11 0 0
+sound 10013
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「助かりますー。いきなり、お手数かけます
+line2 <shift> # けれど、よろしくお願いしますね」
+display
+location 60
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （トップアイドルになるため、今後は流行を
+line2 <shift> # 意識していこう！　まずは育成方針として）
+display
+location 61
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （流行１位イメージであるボーカルの
+line2 <shift> # イメージをＵＰさせていこう！）
+display
+location 62
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （流行１位イメージであるダンスの
+line2 <shift> # イメージをＵＰさせていこう！）
+display
+location 63
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （流行１位イメージであるビジュアルの
+line2 <shift> # イメージをＵＰさせていこう！）
+display
+location 64
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （流行１位のイメージはオーディションでの
+line2 <shift> # ウケが良く、合格しやすい！　絶対に有利だ！）
+display
+location 65
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しかし流行は変化しやすい。常に先の先を
+line2 <shift> # 考えながらイメージ作りをしていくぞ！！）
+display
+location 66
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （明日の流行１位ではない！
+line2 <shift> # 最終的には、人数の増加傾向を考慮して……）
+display
+location 67
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （無駄のないレッスンができるように
+line2 <shift> # なろう！！）
+display
+display
+location 100
+com32 0 1
+com11 0 0
+sound 10014
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「あのー、社長さん？　用があるとききました
+line2 <shift> # けど……。あの、この方は？」
+display
+com11 0 0
+sound 10020
+name 0 2 <names:3>  # President
+line1 <shift> # 「おお来たか。彼女が、三浦あずさ君だ。
+line2 <shift> # うちでは一番の年上になるな」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「初めまして。今日から俺があずささんの
+line2 <shift> # 担当プロデューサーになります」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「担当、プロデューサー？？？
+line2 <shift> # ということは、つまり……」
+display
+com11 0 0
+sound 10016
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「…………あ、わかりましたー。私を担当してく
+line2 <shift> # ださるプロデューサーさん、ということですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……って、そのまんまじゃないですかっ！
+line2 <shift> # あの……本当に、理解してます？」
+display
+com11 0 0
+sound 10017
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「はい、多分……。えーと、私を担当して
+line2 <shift> # 下さる人が決まった、ということは」
+display
+com11 0 0
+sound 10018
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「え！？　わ、私、アイドルとしてデビュー
+line2 <shift> # できるんですか？　おどろきましたー！！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……やっぱり、理解してなかったようだ。
+line2 <shift> # 念を押してみて、よかったな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それでは、あずささん。これからよろしく
+line2 <shift> # お願いします」
+display
+com4a 0 0
+com11 0 0
+sound 10019
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「はい。こちらこそよろしくお願いしますね」
+display
+location 200
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （大事なスケジュールには、オススメマークを、
+line2 <shift> # 事務員の音無さんが、つけてくれている）
+display
+location 201
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今は、レッスンと営業が重要らしい。ステップ
+line2 <shift> # アップのため必要なスケジュールってことだな）
+display
+location 202
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （いきなり、オススメを無視するのは、怖いな。
+line2 <shift> # ここは素直に、したがったほうがいい気がする）
+display
+location 210
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やはり最初は営業です！
+line2 <shift> # 事務所に戻って、活動開始です！」
+display
+com11 0 0
+sound 10012
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「はい！　でもー、事務所は、どっちの方向
+line2 <shift> # でしょう。私、まだ、わかっていなくて……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わ、わかりましたよ。俺が案内しますから、
+line2 <shift> # ついてきて下さい」
+display
+com4a 0 0
+com11 0 0
+sound 10013
+name 0 0 <names:2>  # Azusa
+line1 <shift> # 「助かりますー。いきなり、お手数かけます
+line2 <shift> # けれど、よろしくお願いしますね」
+display
+location 300
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「続いて、衣装を決めましょう」
+display
+location 301
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「続いてデビュー曲を決めましょう」
+display
+location 302
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「喜んでもらえて俺もうれしいです！」
+display
+unk02

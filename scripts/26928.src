@@ -1,0 +1,270 @@
+com2c 0 91
+com2d 0 41
+com32 0 0
+com11 0 1
+sound 700
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「私が、ナンバー１・ジーニストに選ばれる
+line2 <shift> # なんて、おかしくないですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、いいじゃないか。もう、表彰会場まで
+line2 <shift> # 来たんだし。もらえるモノは、もらっとこう」
+display
+com11 0 1
+sound 701
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「でも、ジーンズなんて、仕事中、はいたことも
+line2 <shift> # ないのに。やはり、ヘンだと……」
+com03 0 2
+choice1 <shift> # ……言われてみると、そうだな
+line2
+com09 0 10
+com08
+choice2 <shift> # 似合うと、思われてるんだよ
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……言われてみると、そうだな」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「似合うと、思われてるんだよ」
+display
+com11 0 1
+sound 702
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「だとしたら、うれしいです。けど、私より
+line2 <shift> # 似合いそうな人なんて、他にたくさん……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……たしかに、そうだな。
+line2 <shift> # だんだん、不安になってきた」
+com09 0 29
+display
+location 29
+com11 0 1
+sound 703
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「それに、この会場の重々しい雰囲気……。
+line2 <shift> # 誰ひとり、ジーンズなんて……」
+display
+com11 0 1
+sound 704
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あっ、プロデューサー！　あの看板、見てくだ
+line2 <shift> # さい！　やっぱりジーニストじゃありません！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どれどれ……、あっ！！」
+com03 0 3
+choice1 <shift> # ジーニアス！？
+line2
+com09 0 30
+com08
+choice2 <shift> # ジーニスト！？
+line2
+com09 0 31
+com08
+choice3 <shift> # シーボルト！？
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ジーニアス！？　意味は……天才だったっけ？
+line2 <shift> # しまった。俺、受賞の文面、読み間違えてた！」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ジーニスト！？　あ、あれ？
+line2 <shift> # ……合ってる気がするけど」
+display
+com11 0 1
+sound 705
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ちがいます！　よく見てください。
+line2 <shift> # ジーニアスって……」
+com09 0 91
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「シーボルト！？　って、誰だっけ？
+line2 <shift> # たしか、昔の医者の名前か、なんか……」
+display
+com11 0 1
+sound 706
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そんなこと、書いてありません！
+line2 <shift> # よく見てください。ジーニアスって……」
+com09 0 91
+display
+location 91
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、本当だ！　意味は……天才だったっけ？
+line2 <shift> # しまった。俺、受賞の通知、読み間違えたんだ」
+com09 0 49
+display
+location 49
+com11 0 1
+sound 707
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「どうしましょう？　これでは、用意してきた
+line2 <shift> # アイサツ、使えません」
+display
+com11 0 1
+sound 708
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「まわり、見てください。どうりで、社会的な
+line2 <shift> # 地位のありそうな人ばかり……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「う……。こんなところで、妙なアイサツ
+line2 <shift> # したら、とんだ笑い者だな」
+display
+com11 0 1
+sound 709
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「才能についてなんて、なにを語れば……」
+display
+com11 0 1
+sound 710
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「心理学とか遺伝とかの話に、しますか？
+line2 <shift> # 多少なら、アドリブでも、いけると思います！」
+com03 0 3
+choice1 <shift> # いや、普通に、音楽の話を！
+line2
+com09 0 50
+com08
+choice2 <shift> # よし、それでいこう！
+line2
+com09 0 51
+com08
+choice3 <shift> # いや、用意したやつでいこう！
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 3
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、普通に、音楽の話を！
+line2 <shift> # それでも、知性は出ると思うから」
+display
+com11 0 1
+sound 711
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「わかりました。では、言葉をむずかしめにして、
+line2 <shift> # 場の空気に合わせて……。行ってきます！」
+display
+com20 0 30
+com11 0 1
+sound 712
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「感性と知性が、ひとつに重なる瞬間があるん
+line2 <shift> # です。それを、どう声に乗せていくか……」
+display
+com11 0 1
+sound 713
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「これからも、理論だけでなく、体現していき
+line2 <shift> # たいと。ご静聴、ありがとうございました」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （会場からは、嵐のような拍手が……！
+line2 <shift> # さすがは千早。見事なスピーチだったな）
+com09 0 69
+display
+location 51
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、それでいこう！　でも、ほんとに
+line2 <shift> # 大丈夫か？　ボロ、出さないだろうな？」
+display
+com11 0 1
+sound 714
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「突っ込みすぎない程度に、まとめてきます。
+line2 <shift> # それでは……！」
+display
+com20 0 30
+com11 0 1
+sound 715
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ユングとフロイトが説く、共感については、
+line2 <shift> # 私も違いがあると感じています」
+display
+com11 0 1
+sound 716
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「自分自身については、遺伝的に恵まれていた
+line2 <shift> # 半面、後天的な環境の力も……」
+display
+com11 0 1
+sound 717
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「え？　もっと普通の、歌の話もしてほしい？
+line2 <shift> # はあ……わかりました……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （あれ？　意外な注文が……。意識しすぎたかな。
+line2 <shift> # その後、千早は無難にスピーチをまとめた）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、用意したやつでいこう！　下手に
+line2 <shift> # 方向転換するより、その方がいい」
+display
+com11 0 1
+sound 718
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ジーンズの話を？　正気ですか？
+line2 <shift> # いくらなんでも、場に不似合いでは……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「話の内容さえ、おもしろければ、押し切れると
+line2 <shift> # 思う」
+display
+com11 0 1
+sound 719
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「わかりました。では、持ってきた原稿通りの
+line2 <shift> # スピーチを……。行ってきます」
+display
+com20 0 30
+com11 0 1
+sound 720
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ブラックジーンズよりは、ブルーの方が好き
+line2 <shift> # です。シルエットは、細身の方が……」
+display
+com11 0 1
+sound 721
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「え？　どうして、こんな話をって？
+line2 <shift> # それは、その……すみません。話題、変えます」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （会場が、ざわついている。なんで、こんな
+line2 <shift> # 勝算のない指示を……。後で、千早に謝ろう）
+com09 0 69
+display
+location 69
+unk02

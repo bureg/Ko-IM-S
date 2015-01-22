@@ -1,0 +1,313 @@
+com2c 0 75
+com2d 0 41
+com32 0 0
+com11 0 1
+sound 100
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサー。学校での話し合い、
+line2 <shift> # 済みました。事務所へ帰りましょう」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おつかれさま。いったい、誰との話し合い
+line2 <shift> # だったんだ？　担任の先生？」
+display
+com11 0 1
+sound 101
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「いえ、部長です。退部届けを出してきました。
+line2 <shift> # 最近、忙しくて、顔すら出せなかったから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「千早、クラブなんか、入ってたのか。
+line2 <shift> # えーと……」
+com03 0 3
+choice1 <shift> # 合唱部、とか？
+line2
+com09 0 10
+com08
+choice2 <shift> # 茶道部、とか？
+line2
+com09 0 11
+com08
+choice3 <shift> # 帰宅部、とか？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「合唱部、とか？」
+display
+com11 0 1
+sound 102
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はい。簡単にわかってしまいましたね。入部は
+line2 <shift> # したんですけど、得るものはありませんでした」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「茶道部、とか？」
+display
+com11 0 1
+sound 103
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「私、お茶なんか、やるように見えますか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ちがうか。じゃあ、なに部だったんだ？」
+com09 0 91
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「帰宅部、とか？」
+display
+com11 0 1
+sound 104
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「それ、クラブに入ってることに、なりません
+line2 <shift> # よね？　部長なんて、いるわけもないですし」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、ま、違うとわかってて、言ったんだけど。
+line2 <shift> # じゃあ、なに部だったんだ？」
+com09 0 91
+display
+location 91
+com11 0 1
+sound 105
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「合唱部です。けど、入部してからこれまで、
+line2 <shift> # 得るものは、ほとんどありませんでした」
+com09 0 29
+display
+location 29
+com11 0 1
+sound 106
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「思えば、仲違いばかりしていた気がします。
+line2 <shift> # 私は、いつも孤立していて……」
+display
+com11 0 1
+sound 107
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「なぜ、そんな日が続いたのか。
+line2 <shift> # 今なら、その理由もハッキリとわかります」
+com03 0 3
+choice1 <shift> # 千早の性格に、問題があった？
+line2
+com09 0 30
+com08
+choice2 <shift> # 歌のレベルが、ちがいすぎた？
+line2
+com09 0 31
+com08
+choice3 <shift> # 強い人は、憎まれるから？
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「千早の性格に、問題があった？」
+display
+com11 0 1
+sound 108
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「その通りです。正論を言うばかりで、相手の
+line2 <shift> # 立場を考える余裕が、ありませんでした」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「歌のレベルが、ちがいすぎた？」
+display
+com11 0 1
+sound 109
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「たしかに、それはあります。けど、レベルは
+line2 <shift> # ちがっても、会話はできたはずなんです」
+display
+com11 0 1
+sound 110
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「相手の目線まで、下りていって、話すこと。
+line2 <shift> # そうする余裕が、私にはありませんでした」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「強い人は、憎まれるから？」
+display
+com11 0 1
+sound 111
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「たしかに、私、歌に関しては、優秀と思われて
+line2 <shift> # ました。でも、孤立したのは、多分、別の……」
+display
+com11 0 1
+sound 112
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「相手の理解力に合わせて、話す余裕がなかった
+line2 <shift> # んです。本当に強ければ、それができたはず」
+com09 0 49
+display
+location 49
+com11 0 1
+sound 113
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「なにも見えてなかったんだなって思います。
+line2 <shift> # もっとも、もう遅いですけど……」
+display
+com11 0 1
+sound 114
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「学校で打ち解けるための力。学校から出ないと
+line2 <shift> # 得られなかったなんて、おもしろいですよね」
+display
+com11 0 1
+sound 115
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「今の私なら、アイドルじゃない、ただの高校生
+line2 <shift> # としても……楽しく暮らしていけると思います」
+com03 0 3
+choice1 <shift> # さびしいこと、言うなよ
+line2
+com09 0 50
+com08
+choice2 <shift> # それは、どうかなあ？
+line2
+com09 0 51
+com08
+choice3 <shift> # じゃあ、ここでお別れかな
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 2
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「さびしいこと、言うなよ」
+display
+com11 0 1
+sound 116
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「え？　アイドル、辞める気はないですよ？
+line2 <shift> # わかって……ますよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もちろん。けど、もしそうなったらと、
+line2 <shift> # 思うと……」
+display
+com11 0 1
+sound 117
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「さびしい……と、思ってくれますか？
+line2 <shift> # だったら、光栄です、とても……」
+display
+com11 0 1
+sound 118
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ふふっ。プロデューサー、そろそろ戻りま
+line2 <shift> # せんか？　私達の世界へ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （帰り道、千早は、学校でのいろんな話を聞か
+line2 <shift> # せてくれた。とても、楽しそうに……）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それは、どうかなあ？　仲間や俺と別れて、
+line2 <shift> # 笑って暮らせる？」
+display
+com11 0 1
+sound 119
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「え？　あ……、そうですね。別れることの方は、
+line2 <shift> # 全然、考えていませんでした」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ、想像してごらん。毎日のように顔を、
+line2 <shift> # 会わせてた人間が、いなくなるんだぞ？」
+display
+com11 0 1
+sound 120
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……物足りなくは、なると思います。
+line2 <shift> # というか、どんな顔で、暮らせば……」
+display
+com11 0 1
+sound 121
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……私、思ったほど、成長はしていないのかも
+line2 <shift> # しれませんね。急に不安に……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「い、いや……。
+line2 <shift> # でも、強くなってはいると思うよ」
+display
+com11 0 1
+sound 122
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「それは、まわりに信頼できる人がいるから。
+line2 <shift> # 一歩離れたら、たちどころに、元通りかも」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （マユを、くもらせている。軽くからかったら、
+line2 <shift> # なんか、重い雰囲気になってしまったな……）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じゃあ、ここでお別れかな」
+display
+com11 0 1
+sound 123
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「え？　プロデューサー、突然、なにを？
+line2 <shift> # 本気じゃないですよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「本気だ。もうアイドルなんか卒業して、
+line2 <shift> # 元の真っ当な世界に、帰るべきなんだよ」
+display
+com11 0 1
+sound 124
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「え、え、ええっ！？　いやです！　そんなの！
+line2 <shift> # 私、そんな気、ありません！」
+display
+com11 0 1
+sound 125
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「もっと歌って、もっと話して、もっと楽しい
+line2 <shift> # 時間、増やしていくつもりです。それなのに！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なーんてな。ウソだよ。これからも、
+line2 <shift> # いっしょに、がんばっていこう」
+display
+com11 0 1
+sound 126
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ウソ……？
+line2 <shift> # ……プロデューサー、大きらい」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うわっ、怒ってひとりで、スタスタ行って
+line2 <shift> # しまった。冗談にしては、度が過ぎたか！）
+com09 0 69
+display
+location 69
+unk02

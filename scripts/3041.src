@@ -1,0 +1,1130 @@
+com2d 0 12
+display
+location 1015
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （春香、ここは、こう言っておくんだ！）
+com03 0 3
+com48 143 137 130 223 130 196 130 197 130 183 130 175
+line2 <shift> # ど、頑張りますっ！
+com09 3 248
+com08
+com48 143 137 143 111 143 234 129 65 143 137 141 135
+line2 <shift> # 格が目標です！
+com09 3 249
+com08
+com48 145 242 142 82 151 251 143 75 130 181 130 220
+line2 <shift> # した！
+com09 3 250
+com08
+com48 142 132 130 204 138 231 129 65 138 111 130 166
+line2 <shift> # て下さい！
+com09 3 251
+com08
+com48 143 137 130 223 130 196 130 197 139 217 146 163
+line2 <shift> # してます
+com09 3 252
+com08
+display
+location 1016
+com4a 0 1
+com11 0 0
+sound 10000
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「初めてですけど、頑張りますっ！」
+display
+location 1017
+com4a 0 1
+com11 0 0
+sound 10001
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「初出場、初合格が目標です！」
+display
+location 1018
+com4a 0 1
+com11 0 0
+sound 10002
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「沢山練習しました！」
+display
+location 1019
+com4a 0 1
+com11 0 0
+sound 10003
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「私の顔、覚えて下さい！」
+display
+location 1020
+com4a 0 1
+com11 0 0
+sound 10004
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「初めてで緊張してます」
+display
+location 1200
+com11 0 0
+sound 10005
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい！　ありがとうございます！」
+display
+location 1201
+com11 0 0
+sound 10006
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「は、はい、すみません……、ううっ」
+display
+location 1202
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よし、テンションもあがったようだ！）
+display
+location 1203
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あぁ……、テンションが下がってしまった）
+display
+location 1400
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺ができることは応援することだけだ！）
+com03 0 2
+choice1 <shift> # 初めてだから気楽に
+line2
+com09 5 121
+com08
+choice2 <shift> # 最初から飛ばして行け！
+line2
+com09 5 122
+com08
+com07
+com09 5 122
+com08
+display
+location 1401
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「初めてだから気楽にな」
+display
+location 1402
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「最初から飛ばして行け！」
+display
+location 1500
+com11 0 0
+sound 10007
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「え？　あ、そうですよね。　緊張しすぎちゃ、
+line2 <shift> # 普段の力も出せませんよね！」
+display
+com4a 0 1
+com11 0 0
+sound 10008
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「それじゃ行ってきます、プロデューサーさん」
+display
+location 1501
+com11 0 0
+sound 10009
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、頭では分ってるんですけど〜。うう〜」
+display
+com4a 0 1
+com11 0 0
+sound 10010
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ああっ、もう時間！
+line2 <shift> # それじゃあ、行ってきます……」
+display
+location 1502
+com11 0 0
+sound 10011
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい！　パワー全開、１２０％で
+line2 <shift> # 頑張っちゃいますね！」
+display
+com4a 0 1
+com11 0 0
+sound 10012
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「それじゃ行ってきます、プロデューサーさん」
+display
+location 1503
+com11 0 0
+sound 10013
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「私もそうしたいんですけど、足に力が……」
+display
+com4a 0 1
+com11 0 0
+sound 10014
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ああっ、もう時間！
+line2 <shift> # それじゃあ、行ってきますっ」
+display
+location 2015
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （春香、ここは、こう言っておくんだ！）
+com03 0 3
+com48 136 234 144 182 140 156 150 189 129 65 138 230
+line2 <shift> # 張ります
+com09 7 224
+com08
+com48 142 169 144 77 130 170 130 160 130 232 130 220
+line2 <shift> # す
+com09 7 225
+com08
+com48 130 181 130 193 130 169 130 232 140 169 130 196
+line2 <shift> # 下さい
+com09 7 226
+com08
+com48 130 189 130 173 130 179 130 241 151 251 143 75
+line2 <shift> # しました
+com09 7 227
+com08
+com48 141 135 138 105 130 181 130 196 130 221 130 185
+line2 <shift> # ます
+com09 7 228
+com08
+display
+location 2016
+com4a 0 1
+com11 0 0
+sound 10015
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「一生懸命、頑張りますっ！」
+display
+location 2017
+com4a 0 1
+com11 0 0
+sound 10016
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ダンスには自信がありますっ！」
+display
+location 2018
+com4a 0 1
+com11 0 0
+sound 10017
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「私をしっかり見て下さい！」
+display
+location 2019
+com4a 0 1
+com11 0 0
+sound 10018
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「たくさん練習しましたっ！」
+display
+location 2020
+com4a 0 1
+com11 0 0
+sound 10019
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「きっと合格してみせますっ！」
+display
+location 2021
+com4a 0 1
+com11 0 0
+sound 10020
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ボーカルには自信がありますっ！」
+display
+location 2022
+com4a 0 1
+com11 0 0
+sound 10021
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ビジュアルには自信がありますっ！」
+display
+location 2200
+com11 0 0
+sound 10022
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい！　ありがとうございますっ！」
+display
+location 2201
+com11 0 0
+sound 10023
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「は、はい……、ううっ」
+display
+location 2202
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よし、テンションもあがったようだ！）
+display
+location 2203
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あぁ……、テンションが下がってしまった）
+display
+location 2400
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺ができることは応援することだけだ！）
+com03 0 3
+choice1 <shift> # 絶対勝てるぞ！
+line2
+com09 9 97
+com08
+choice2 <shift> # 気を引き締めて行け
+line2
+com09 9 98
+com08
+choice3 <shift> # とにかく頑張れ
+line2
+com09 9 99
+com08
+com07
+com09 9 97
+com08
+display
+location 2401
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「絶対勝てるぞ！」
+display
+location 2402
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「気を引き締めて行け」
+display
+location 2403
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「とにかく頑張れ」
+display
+location 2500
+com11 0 0
+sound 10024
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい。プロデューサーさんの期待に
+line2 <shift> # 応えたいです、私」
+display
+com4a 0 1
+com11 0 0
+sound 10025
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「それじゃ行ってきます、プロデューサーさん」
+display
+location 2501
+com11 0 0
+sound 10026
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そ、そんな〜。私、自信無いですよ〜」
+display
+com4a 0 1
+com11 0 0
+sound 10027
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ああっ、もう時間！
+line2 <shift> # それじゃあ、行ってきますっ」
+display
+location 2502
+com11 0 0
+sound 10028
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そうですね、緊張しすぎて失敗しないように
+line2 <shift> # 注意しないと」
+display
+com4a 0 1
+com11 0 0
+sound 10029
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「それじゃ行ってきます、プロデューサーさん」
+display
+location 2503
+com11 0 0
+sound 10030
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「わ、わかりましたっ！　気を引き締めて、
+line2 <shift> # 引き締めて……、ってどうやったら？」
+display
+com4a 0 1
+com11 0 0
+sound 10031
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ああっ、もう時間！
+line2 <shift> # それじゃあ、行ってきますっ」
+display
+location 2504
+com11 0 0
+sound 10032
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい。ここまで来たら、後は頑張るだけ！
+line2 <shift> # ですよね？」
+display
+com4a 0 1
+com11 0 0
+sound 10033
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「それじゃ行ってきます、プロデューサーさん」
+display
+location 2505
+com11 0 0
+sound 10034
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「と、とにかくって、言われても……」
+display
+com4a 0 1
+com11 0 0
+sound 10035
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ああっ、もう時間！
+line2 <shift> # それじゃあ、行ってきますっ」
+display
+location 1050
+com11 0 0
+sound 10036
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「残念です……。あと少しで合格できたのに」
+display
+com11 0 0
+sound 10037
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「次回こそは、絶対に合格しましょうね！
+line2 <shift> # プロデューサーさんも応援して下さい！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （春香は次回への闘志を燃やしている。
+line2 <shift> # オーディション落選も無駄では無かったな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだな。よし、事務所に帰ろうか」
+display
+com4a 0 1
+com11 0 0
+sound 10038
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい！」
+display
+location 1055
+com11 0 0
+sound 10039
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「うう、合格した人とはまだまだ実力に
+line2 <shift> # 差があったみたいです……」
+display
+com11 0 0
+sound 10040
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「でもっ、もっとレッスンして、次回こそ
+line2 <shift> # 合格しましょう、プロデューサーさん」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （落選は痛いが、実力を知る事が出来た。
+line2 <shift> # この教訓を活かしたいな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、その気持ちを忘れない様にな。
+line2 <shift> # じゃあ、事務所に帰ろうか」
+display
+com4a 0 1
+com11 0 0
+sound 10041
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい！」
+display
+location 1060
+com11 0 0
+sound 10042
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「また不合格〜。せっかく応援してもらったのに
+line2 <shift> # ごめんなさい、プロデューサーさん」
+display
+com11 0 0
+sound 10043
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「このままじゃ事務所の皆さんにも
+line2 <shift> # 合わす顔が無いです……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （春香は落ち込んでしまった。これは
+line2 <shift> # オーディション対策を考えないといけないな）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「と、ともかく事務所に帰ろう」
+display
+com4a 0 1
+com11 0 0
+sound 10044
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はいぃ……」
+display
+location 1046
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「やったー！」
+display
+location 1047
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よし！　これでファン数大幅ＵＰだ！）
+display
+location 1048
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ＴＶ出演の前に、今日のパート担当を
+line2 <shift> # 決めよう！　少し待っておいてくれ！」
+display
+location 1049
+com4a 0 1
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい！」
+display
+location 1600
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （そういえば、今日は事務所の娘が
+line2 <shift> # オーディションに参加しているみたいだ）
+display
+com11 0 0
+sound 10075
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「プロデューサーさん！　あの、
+line2 <shift> # さっき向こうで……！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「αのことか？
+line2 <shift> # 事務所の仲間も会場ではライバルだ」
+com03 0 3
+choice1 <shift> # 気合いを入れるんだ！
+line2
+com09 6 65
+com08
+choice2 <shift> # 気にするな
+com09 6 66
+com08
+choice3 <shift> # 勝ちに行くぞ！
+line2
+com09 6 67
+com08
+com07
+com09 6 65
+com08
+display
+location 1601
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「気合いを入れるんだ！」
+display
+location 1602
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「気にするな。こういうことは、
+line2 <shift> # 良くあることだからな」
+display
+location 1603
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「勝ちに行くぞ！」
+display
+location 1610
+com11 0 0
+sound 10076
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい！　胸を借りるつもりで、
+line2 <shift> # 頑張ります！」
+display
+com4a 0 0
+com11 0 0
+sound 10077
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「それじゃ、プロデューサーさん、
+line2 <shift> # 行ってきま〜す！」
+display
+location 1611
+com11 0 0
+sound 10078
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「頭では理解できますけど、
+line2 <shift> # 突然だったんで心が……」
+display
+com4a 0 0
+com11 0 0
+sound 10079
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ああ！　もうこんな時間！？
+line2 <shift> # と、とにかく、行ってきます！」
+display
+location 1612
+com11 0 0
+sound 10080
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そうですね……。いちいち、
+line2 <shift> # 驚いてたらきりがありませんしね！」
+display
+com4a 0 0
+com11 0 0
+sound 10081
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「それじゃ、プロデューサーさん、
+line2 <shift> # 行ってきま〜す！」
+display
+location 1613
+com11 0 0
+sound 10082
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「うう……、でもやっぱり少しは
+line2 <shift> # 気になっちゃいますよ」
+display
+com4a 0 0
+com11 0 0
+sound 10083
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ああ！　もうこんな時間！？
+line2 <shift> # と、とにかく、行ってきます！」
+display
+location 1614
+com11 0 0
+sound 10084
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はいっ！　オロオロしてたら、
+line2 <shift> # 後で笑われちゃいますから！」
+display
+com4a 0 0
+com11 0 0
+sound 10085
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「それじゃ、プロデューサーさん、
+line2 <shift> # 行ってきま〜す！」
+display
+location 1615
+com11 0 0
+sound 10086
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「でも……。事務所で顔を合わせづらく
+line2 <shift> # なるかもしれないし……」
+display
+com4a 0 0
+com11 0 0
+sound 10087
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ああ！　もうこんな時間！？
+line2 <shift> # と、とにかく、行ってきます！」
+display
+location 5001
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし！　今日は春香を信じて、
+line2 <shift> # オーディションをまかせるよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺はその間、少し用事をすませて
+line2 <shift> # くるけどいいかな？」
+display
+com11 0 0
+sound 10038
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あまり早く帰ってきても、
+line2 <shift> # 信用してないみたいで、逆効果だろうな）
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （なるべくゆっくりして、かつ、
+line2 <shift> # 時間ピッタリに帰ることができれば……！）
+display
+location 5002
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「春香、この時間に戻ってくるからな」
+display
+location 5005
+com11 0 0
+sound 10045
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「それじゃ、待ってますね！
+line2 <shift> # いってらっしゃ〜い！」
+display
+location 5006
+com11 0 0
+sound 10046
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「少し長いですね……。
+line2 <shift> # でも待ってますね！」
+display
+location 5007
+com11 0 0
+sound 10047
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「結構長いですね……。でも、
+line2 <shift> # 大丈夫です！　いってらっしゃい！」
+display
+location 5008
+com11 0 0
+sound 10048
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「それじゃあ、いってらっしゃい、
+line2 <shift> # プロデューサーさん」
+display
+location 5009
+com11 0 0
+sound 10049
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「まだ結構ありますね……。
+line2 <shift> # でも頑張ってますから！」
+display
+location 5010
+com11 0 0
+sound 10050
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「何だか途中で寝ちゃいそう……。
+line2 <shift> # でも待ってますね、プロデューサーさん♪」
+display
+location 5011
+com11 0 0
+sound 10051
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「頑張ってますから、時間通りに
+line2 <shift> # 迎えに来て下さいね」
+display
+location 5012
+com11 0 0
+sound 10052
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「……プロデューサーさん、
+line2 <shift> # 忘れないで下さいね」
+display
+location 5013
+com11 0 0
+sound 10053
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「プロデューサーさん……。
+line2 <shift> # お達者で……」
+display
+location 5014
+com4a 0 0
+com11 0 0
+sound 10054
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「時間通りですね、
+line2 <shift> # プロデューサーさん♪」
+display
+location 5015
+com4a 0 0
+com11 0 0
+sound 10055
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「おかえりなさい、
+line2 <shift> # プロデューサーさん」
+display
+location 5016
+com4a 0 0
+com11 0 0
+sound 10056
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、ただいま……じゃなかった、お帰り
+line2 <shift> # なさい、プロデューサーさん」
+display
+location 5017
+com4a 0 0
+com11 0 0
+sound 10057
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「おかえりなさい！　早かったですね！
+line2 <shift> # プロデューサーさん♪」
+display
+location 5018
+com4a 0 0
+com11 0 0
+sound 10058
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「プロデューサーさん、
+line2 <shift> # 早かったんですね」
+display
+location 5019
+com4a 0 0
+com11 0 0
+sound 10059
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、もう戻られたんですね」
+display
+location 5020
+com11 0 0
+sound 10060
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「もう〜、プロデューサーさん！
+line2 <shift> # 待ちくたびれちゃいましたよ〜」
+display
+location 5021
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ご、ごめん……。それより」
+display
+location 5022
+com11 0 0
+sound 10061
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「もう、遅刻ですよ、プロデューサーさん」
+display
+location 5023
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ご、ごめん……。それより」
+display
+location 5024
+com11 0 0
+sound 10062
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「うう、もう戻ってこないかと思っちゃい
+line2 <shift> # ましたよ、プロデューサーさん……」
+display
+location 5025
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ご、ごめん……。それより」
+display
+location 5026
+com11 0 0
+sound 10063
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「うう……。時間守って下さいよ、
+line2 <shift> # プロデューサーさん……」
+display
+location 5027
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ご、ごめん……。それより」
+display
+location 5028
+com4a 0 0
+com11 0 0
+sound 10064
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「プロデューサーさん、ナイスタイミング！
+line2 <shift> # 丁度終わったところです！」
+display
+location 5029
+com4a 0 0
+com11 0 0
+sound 10065
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ぐ〜ぐ〜…………。ああ！
+line2 <shift> # おはようございます、プニョデューサー！」
+display
+location 5100
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ただいま、春香。
+line2 <shift> # ところで、オーディションの結果は……？」
+display
+location 5106
+com4a 0 0
+com11 0 0
+sound 10066
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、丁度始まりますよ！　早く早く！」
+display
+location 5101
+com11 0 0
+sound 10067
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「やりました！　１位通過ですよ、１位通過！
+line2 <shift> # 私、頑張りました！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「すごいぞ、春香！　１人で良く頑張ったな。
+line2 <shift> # ＴＶ出演、胸を張って行ってこい！」
+display
+com4a 0 0
+com11 0 0
+sound 10068
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい！」
+display
+location 5102
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ただいま、春香。
+line2 <shift> # ところで、オーディションの結果は……？」
+display
+location 5107
+com4a 0 0
+com11 0 0
+sound 10069
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、丁度始まりますよ！　早く早く！」
+display
+location 5103
+com11 0 0
+sound 10070
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「やった〜、合格できました！
+line2 <shift> # １人は寂しかったですけど……嬉しいです！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺は春香を信じていたぞ！　さあ、
+line2 <shift> # ＴＶ出演、胸を張って行ってこい！」
+display
+com4a 0 0
+com11 0 0
+sound 10071
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい！」
+display
+location 5104
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ただいま、春香。
+line2 <shift> # ところで、オーディションの結果は……？」
+display
+location 5108
+com4a 0 0
+com11 0 0
+sound 10072
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あ、丁度始まりますよ！　早く早く！」
+display
+location 5105
+com11 0 0
+sound 10073
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「うう……。世間はそんなに甘くないですね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まあ、また次の機会に頑張ればいいさ。
+line2 <shift> # さあ、事務所に戻ろう」
+display
+com4a 0 0
+com11 0 0
+sound 10074
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「……うう、はい……」
+display
+location 1700
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今回は９６１プロのアイドルがいるから、
+line2 <shift> # いつもより気合いを入れて応援しないと）
+com03 0 3
+choice1 <shift> # フレーフレー！　春香！
+line2
+com09 6 165
+com08
+choice2 <shift> # 遠くから見守っているぞ！
+line2
+com09 6 166
+com08
+choice3 <shift> # 俺達は一心同体だ！
+line2
+com09 6 167
+com08
+com07
+com09 6 165
+com08
+display
+location 1701
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「フレーフレー！　春香！」
+display
+location 1710
+com11 0 0
+sound 10088
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あはは、大きな声ですね。
+line2 <shift> # 何だか元気が出てきました！」
+display
+com4a 0 0
+com11 0 0
+sound 10089
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「負けないように頑張りましょうね、
+line2 <shift> # プロデューサーさん！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「フレーフレー！　春香！」
+display
+location 1711
+com11 0 0
+sound 10090
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「うわあ、急に大きな声を、
+line2 <shift> # 出さないで下さいよ〜」
+display
+com4a 0 0
+com11 0 0
+sound 10091
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ただでさえ緊張してるのに……。
+line2 <shift> # あの、とにかく行って来ます」
+display
+location 1702
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「春香、俺は遠くから見守っているぞ！」
+display
+location 1712
+com11 0 0
+sound 10092
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい！　オーディション中も、
+line2 <shift> # いつも通り指示、お願いします！」
+display
+com4a 0 0
+com11 0 0
+sound 10093
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「事務所のためにも頑張りましょうね、
+line2 <shift> # プロデューサーさん！」
+display
+com4a 0 0
+location 1702
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「春香、俺は遠くから見守っているぞ！」
+display
+location 1713
+com11 0 0
+sound 10094
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ええ！？　近くにいてくれないんですか？」
+display
+com4a 0 0
+com11 0 0
+sound 10095
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「何だか心も遠くなった気が……。
+line2 <shift> # うう、とにかく行って来ます」
+display
+location 1703
+com4a 0 1
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺達は一心同体だ！」
+display
+location 1714
+com11 0 0
+sound 10096
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい！　２人で力あわせて、
+line2 <shift> # 目指すはトップ合格ですね！」
+display
+com4a 0 0
+com11 0 0
+sound 10097
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「９６１プロの人に負けないように、
+line2 <shift> # 私、頑張ります！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺達は一心同体だ！」
+display
+location 1715
+com11 0 0
+sound 10098
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「急に何言い出すんですか！？
+line2 <shift> # 変ですよ、プロデューサーさん」
+display
+com4a 0 0
+com11 0 0
+sound 10099
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「もう、何だか動揺しちゃいましたよ〜。
+line2 <shift> # と、とにかく行って来ます〜」
+display
+location 1000
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （くっ……。残念だが、負けてしまった……。
+line2 <shift> # やはり、ＩＵは甘くはなかった、ということか）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （こんな中途半端な状態で、負けてしまう
+line2 <shift> # なんて……。悔やんでも、悔やみきれない！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （だけど、俺が悪いんだよな……）
+display
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （あの曲は、オーバマスター……。
+line2 <shift> # くっ、やっぱりこのまま終わる訳には……！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （だが、今日で約束の活動週だから、
+line2 <shift> # このまま活動を、続けることはできない）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……俺が選ぶことは再戦するか、
+line2 <shift> # しないかだ！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「春香、今後のことは、また考えるから……。
+line2 <shift> # 先に着替えをしてきてくれ」
+display
+com11 0 0
+sound 10038
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい……」
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺のやってきたことを整理してみよう。
+line2 <shift> # 俺の、このランクでの活動は……）
+display
+location 1001
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺が、このランクでやってきたことは、
+line2 <shift> # この程度だ……。でも、もし……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （俺がＩＵにリトライするなら、
+line2 <shift> # 俺はこれだけのものを、引き継いで……）
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ランクαの最初から、
+line2 <shift> # やり直すことができる！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （リトライするか、しないか……。
+line2 <shift> # 今、ここで決めないと！）
+com03 0 2
+choice1 <shift> # リトライする
+line2
+com09 3 242
+com08
+choice2 <shift> # リトライしない
+line2
+com09 3 243
+com08
+com07
+com09 3 244
+com08
+display
+location 1010
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （よし！　もう一度、あの時に戻って、
+line2 <shift> # なんとしても今度は合格するんだ！）
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （このまま、目を閉じれば、俺は
+line2 <shift> # あの時の朝に……！）
+display
+location 1011
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しかし、リトライしないと、
+line2 <shift> # また１番最初から、やり直しになる）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （衣装はなくならないが、またランクＦ
+line2 <shift> # からの挑戦か。……本当にいいのか？）
+com03 0 2
+choice1 <shift> # リトライする
+line2
+com09 3 242
+com08
+choice2 <shift> # リトライしない
+line2
+com09 3 244
+com08
+com07
+com09 3 244
+com08
+display
+location 1012
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （……仕方ない。イチからの
+line2 <shift> # スタートになるが……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今度は、経験という武器がある。
+line2 <shift> # ……次こそは、上手くやってみせるぞ！）
+display
+com4a 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （とりあえず、春香に連絡しないと。
+line2 <shift> # 俺達の夢は、まだ終わっていないって……！）
+display
+unk02

@@ -1,0 +1,373 @@
+com2c 0 24
+com2d 0 72
+com32 0 0
+com11 0 5
+sound 100
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「『ダンスが未熟だ、
+line2 <shift> # 強化を希望するっ！』」
+display
+com11 0 5
+sound 101
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「……と、社長から通達がきてます」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、ではダンスの特訓をするか」
+display
+com11 0 5
+sound 102
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「え、と、特訓〜？
+line2 <shift> # どんな特訓なんです？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、とりあえず頑張ろうじゃないか。
+line2 <shift> # 気合いだ、気合い」
+display
+com11 0 5
+sound 103
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「とりあえず気合い、って言われても。それで
+line2 <shift> # どうにかなるとは思えないんですけど……」
+display
+com11 0 5
+sound 104
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「もし、レッスンの効果が充分じゃないのなら、
+line2 <shift> # 特訓より先に、基礎をやらなきゃだし……」
+display
+com11 0 5
+sound 105
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ステージでいまいちだ、ってことなら、
+line2 <shift> # 舞台慣れするのが一番だし」
+com03 0 2
+choice1 <shift> # それはそうだが
+line2
+com09 0 10
+com08
+choice2 <shift> # 言い訳無用だ
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それはそうだが」
+display
+com11 0 5
+sound 106
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「でしょ？　闇雲に気合気合じゃあ、
+line2 <shift> # 解決できないですよ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーむ……そうだな、今のやり方のままじゃ、
+line2 <shift> # ダンスが劇的によくならないのは確かだ」
+display
+com11 0 5
+sound 107
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「だったら、改善のため、
+line2 <shift> # 何か対策がいりますよね」
+display
+com11 0 5
+sound 108
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「具体的に何かするしか……ところで、
+line2 <shift> # 特訓とやらは、何をするつもりなんです？」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「言い訳無用だ、特訓するぞ、特訓」
+display
+com11 0 5
+sound 109
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「あのねえ……別に私は特訓が
+line2 <shift> # 嫌なわけじゃないんです」
+display
+com11 0 5
+sound 110
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「でも、気合と根性だけじゃきちんとした
+line2 <shift> # 解決にならないと思うから、言ってるわけで」
+display
+com11 0 5
+sound 111
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「なにが問題なのか突き止めて、
+line2 <shift> # そして、対策を考えなきゃ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ま、まあ……それはもっともだな。ただ
+line2 <shift> # がむしゃらな気合じゃ、空回りするもんな」
+display
+com11 0 5
+sound 112
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ああ、ほんとに大丈夫なのかな……さて、
+line2 <shift> # 特訓とやらは、何をするつもりなんです？」
+com09 0 29
+display
+location 29
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やっぱりコツがあると思うんだよ、ダンスも。
+line2 <shift> # それさえ掴めれば早く解決できそうな気がする」
+display
+com11 0 5
+sound 113
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「コツかぁ……身体の使い方かなぁ。あ、でも
+line2 <shift> # 私は正直、ダンスは得意分野じゃないから……」
+display
+com11 0 5
+sound 114
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「詳しいことはわからないし、その……だから、
+line2 <shift> # 下手でも、ちょっと大目に見てくれません？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それは却下だ。得意じゃないから、特訓するん
+line2 <shift> # じゃないか。問題解決したいだろう？」
+display
+com11 0 5
+sound 115
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ええっ！？　む、むぅ……それならっ！
+line2 <shift> # 教えてくださいよ、コツをっ」
+display
+com11 0 5
+sound 116
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「特訓しようと言うからには、プロデューサーは
+line2 <shift> # もちろん知ってますよね？　ダンスのコツ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、つまり身体の、ここを使うんだ」
+com0e 2 89
+com44
+com09 0 30
+com45
+com44
+com09 0 31
+com45
+com44
+com09 0 32
+com45
+com44
+com09 0 33
+com45
+com44
+com09 0 34
+com45
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ダンスに豊かな表情をつけるには、
+line2 <shift> # まず顔の表情からだ！」
+display
+com11 0 5
+sound 117
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「顔面百面相をしろと？　そんなんで、
+line2 <shift> # ダンスがよくなるのかなぁ……」
+display
+com11 0 5
+sound 118
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「全然関係ないとは言わないけど……。
+line2 <shift> # なんだか怪しいなぁ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「い、いいから実践するんだっ」
+display
+com11 0 5
+sound 119
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「はいはい、にこにこぷん、っと」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （律子はその後、レッスン場で百面相をしながら
+line2 <shift> # ダンスの基礎トレーニングを続けた）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （多少動きのかたさはとれたみたいだけど……。
+line2 <shift> # 見違えるほどとはいかなかったみたいだな）
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「手振りひとつでダンスは大きく派手になり、
+line2 <shift> # また、ゆるやかにもなる」
+display
+com11 0 5
+sound 120
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「なるほど、言えてますね。手と腕を使っての、
+line2 <shift> # 遠くからでもはっきり表情のわかるダンス……」
+display
+com11 0 5
+sound 121
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「身体の動きのバランスをとるにも、
+line2 <shift> # 手の振り方は大事ですよ！」
+display
+com11 0 5
+sound 122
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「あはは……なんだぁ、プロデューサー、
+line2 <shift> # けっこうわかってるじゃあないですかぁ」
+display
+com11 0 5
+sound 123
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「さてさて、それじゃちょっと練習してみよう
+line2 <shift> # かな……。レッスン場に行ってみますね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （律子はその後、腕と手の振りに重点を置いて、
+line2 <shift> # ダンスの基礎トレーニングを続けた）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （どうやらコツをつかんでくれたみたいだ。
+line2 <shift> # 今後に期待が持てそうだぞ！）
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「リズム感なら足腰からだな。確実な足運び、
+line2 <shift> # ステップが、ダンスに緩急とメリハリをつける」
+display
+com11 0 5
+sound 124
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「なるほどぉ……。
+line2 <shift> # それは確かに、納得ですね」
+display
+com11 0 5
+sound 125
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ダンスのメリハリはリズムが大事、
+line2 <shift> # 足運びのコントロールが大事です！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「身体全体を安定させるためにも、
+line2 <shift> # 下半身の強化が大切だな」
+display
+com11 0 5
+sound 126
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そうそう、そうですよ！　激しいダンスも、
+line2 <shift> # ゆったりしたダンスも、足腰が支えるんです」
+display
+com11 0 5
+sound 127
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「あはは……。なんだぁ、プロデューサー、
+line2 <shift> # けっこうわかってるじゃあないですかぁ」
+display
+com11 0 5
+sound 128
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「さてさて、それじゃちょっと練習してみよう
+line2 <shift> # かな……。レッスン場に行ってみますね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （律子はその後、下半身のバランスとリズム感に
+line2 <shift> # 重点を置いて、ダンスのトレーニングを続けた）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （どうやらコツをつかんでくれたみたいだ。
+line2 <shift> # 今後に期待が持てそうだぞ！）
+com09 0 49
+display
+location 33
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ダンスの基本はまず呼吸だろう。
+line2 <shift> # 身体をうまく使うには、いい呼吸が必要だ」
+display
+com11 0 5
+sound 129
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「う〜ん、うなずけるような、そうでも
+line2 <shift> # ないような……。すべての基本ではあるかな？」
+display
+com11 0 5
+sound 130
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「でも、具体的なダンスの動きの
+line2 <shift> # 問題をどうにかするには、もっと……」
+display
+com11 0 5
+sound 131
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「呼吸の基礎の基礎じゃなくて、違うところに
+line2 <shift> # 注目したほうがいいんじゃないですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そうかな？　い、いいから実践せよ！
+line2 <shift> # 呼吸を整えれば、歌とダンス、両方に得がある」
+display
+com11 0 5
+sound 132
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「はいはい、すーはーすーはー、深呼吸っと」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （律子はその後レッスン場に移り、呼吸法や
+line2 <shift> # 腹筋背筋のトレーニングをしたみたいだ）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （多少ダンスはこなれたみたいだけど……。
+line2 <shift> # 見違えるほどとは行かなかったみたいだな）
+com09 0 49
+display
+location 34
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「むむむ……」
+display
+com11 0 5
+sound 133
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「どうしちゃったんですかぁ。
+line2 <shift> # 決まらないんですか？　特訓の内容」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、迷ってしまった。
+line2 <shift> # うまく決まらないな、すまない」
+display
+com11 0 5
+sound 134
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ちょっと期待してみたんだけどなぁ……。
+line2 <shift> # やっぱり、アテにならないのかな」
+display
+com11 0 5
+sound 135
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ま、いいか。あとはいいです。
+line2 <shift> # 自分でなんとかします。大丈夫ですよ」
+display
+com11 0 5
+sound 136
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「それじゃ私、レッスン場で自主トレ、
+line2 <shift> # してきますから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （律子は苦笑しながら、
+line2 <shift> # そそくさと行ってしまった）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （呆れられてしまったかもな。俺がもっと
+line2 <shift> # いいアドバイスをしてやれれば……）
+com09 0 49
+display
+location 49
+unk02

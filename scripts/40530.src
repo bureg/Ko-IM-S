@@ -1,0 +1,514 @@
+com2c 0 24
+com2d 0 71
+com32 0 0
+com11 0 0
+sound 0
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「『律子君の事務作業を肩代わりするように』
+line2 <shift> # と社長から指示が来てますよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか。がんばれ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……って、俺にかよ！」
+display
+com11 0 0
+sound 1
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「仕方ないでしょ？　今までは私が
+line2 <shift> # 事務所の帳簿をつけてたけど……」
+display
+com11 0 0
+sound 2
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「さすがにアイドルと二足のわらじを履くのは
+line2 <shift> # ムリがあるだろうからって、社長が」
+com03 0 3
+choice1 <shift> # がんばろう、律子
+line2
+com09 0 11
+com08
+choice2 <shift> # 会計士を雇おう
+line2
+com09 0 12
+com08
+choice3 <shift> # やってられっかー！
+line2
+com09 0 13
+com08
+com07
+com09 0 13
+com08
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わかった。がんばろう、律子！」
+display
+com11 0 0
+sound 3
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「がんばるのはプロデューサーです。
+line2 <shift> # 私じゃありません」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うぅっ……つれないなぁ」
+display
+com11 0 0
+sound 4
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「でも、悪いことばかりじゃないですよ」
+display
+com11 0 0
+sound 5
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「毎回のライブとか、ＣＤの制作でも、
+line2 <shift> # 経費と収入があるわけでしょ？」
+display
+com11 0 0
+sound 6
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そういうお金の流れを把握するには、
+line2 <shift> # 帳簿は、もってこいよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「つまり、事務所だけでなく、
+line2 <shift> # プロデューサー業にも役に立つ……と？」
+display
+com11 0 0
+sound 7
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そういうこと。
+line2 <shift> # だから、がんばって覚えてくださいね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あぁ、わかった」
+com09 0 20
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「会計士を雇おう。
+line2 <shift> # こういうのは専門家に任せるべきだ」
+display
+com11 0 0
+sound 8
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「うーん。プロデューサーが
+line2 <shift> # 賛同してくれるなら、可能は可能ですけど」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え、いいの？
+line2 <shift> # じゃあ早く雇えばいいのに」
+display
+com11 0 0
+sound 9
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「プロデューサーのお給料から、
+line2 <shift> # 会計士の方への支払いを天引きして……」
+display
+com11 0 0
+sound 10
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「お給料が大幅にマイナスになりますが、
+line2 <shift> # それでかまいませんか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……ごめんなさい、真面目に勉強します」
+com09 0 20
+display
+location 13
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「やってられっかー！
+line2 <shift> # 俺には帳簿なんてムリだーーーーっ！！」
+display
+com11 0 0
+sound 11
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ふ〜ん……。それではプロデューサーは、
+line2 <shift> # 私に帳簿をつけ続けろと？」
+display
+com11 0 0
+sound 12
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「それによってアイドル業が
+line2 <shift> # おろそかになってもいいと？」
+display
+com11 0 0
+sound 13
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「レッスンもままならず、
+line2 <shift> # オーディションにも勝てず……」
+display
+com11 0 0
+sound 14
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「アイドルとして、いつまでも鳴かず飛ばず
+line2 <shift> # でもいいと、そうおっしゃるわけですね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ウソです。やります」
+display
+com11 0 0
+sound 15
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「よろしい」
+com09 0 20
+display
+location 20
+com11 0 0
+sound 16
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「それじゃ早速はじめましょうか。
+line2 <shift> # ちゃんと私が教えますから、大丈夫ですよ」
+display
+com11 0 0
+sound 17
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「まずは、なぜ帳簿をつけるのか
+line2 <shift> # っていうと……」
+display
+com22 0 30
+com21 0 30
+com11 0 0
+sound 18
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「次はバランスシート。いわゆる貸借対照表ね。
+line2 <shift> # 特定の会計期間の期末における財務状態を……」
+display
+com11 0 0
+sound 19
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ほら、プロデューサー殿！
+line2 <shift> # ぼーっとしないで下さい！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いやぁ、すごいなぁと思ってさ……」
+display
+com11 0 0
+sound 20
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「なにがです？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よくそこまで、よどみなく説明が
+line2 <shift> # 出来るもんだな……」
+display
+com11 0 0
+sound 21
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そんなに難しくないところですし」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、それにしてもすごいよ！
+line2 <shift> # このスキルを活かして……」
+com03 0 3
+choice1 <shift> # ハウツー本を執筆する
+line2
+com09 0 21
+com08
+choice2 <shift> # 天才キャラとして売り出す
+line2
+com09 0 22
+com08
+choice3 <shift> # 会計士に転職
+line2
+com09 0 23
+com08
+com07
+com09 0 23
+com08
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ハウツー本を執筆するってのは、どうかな？
+line2 <shift> # アイドルが教える帳簿入門！　とかさ」
+display
+com11 0 0
+sound 22
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「うーん……。それは、もう少し有名に
+line2 <shift> # なってからでないと、売れませんね」
+display
+com11 0 0
+sound 23
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「何の実績もない小娘が書いたハウツー本なんて、
+line2 <shift> # 誰も手にとらないでしょ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうか……そうだな。
+line2 <shift> # 冷静なご指摘、ありがとう」
+display
+com11 0 0
+sound 24
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「いえいえ、どういたしまして。まあ、将来的な
+line2 <shift> # 展開としてはアリだと思いますよ」
+com09 0 24
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「天才キャラとして売り出すっていうのは
+line2 <shift> # どうかな！？」
+display
+com11 0 0
+sound 25
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「いやですよ、そんな頭でっかちみたいな
+line2 <shift> # レッテルを貼られるのは」
+display
+com11 0 0
+sound 26
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「アイドルとして成功するには、もっとカワイイ
+line2 <shift> # イメージでいった方が、いい気がしますし」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「むぅ、そう言われるとそうかも。賢いだけの
+line2 <shift> # アイドルって、売れなさそうだよな……」
+com09 0 24
+display
+location 23
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「会計士に転職して、７６５プロを
+line2 <shift> # 裏方から支えるっていうのはどうだ！？」
+display
+com11 0 0
+sound 27
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「どうだって言われても……。今までは、それを
+line2 <shift> # やってきたんですけど、また裏方に戻れと？」
+display
+com11 0 0
+sound 28
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「私はかまいませんけど、アイドルに転向させた
+line2 <shift> # 社長の考えを無視することになりますよ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、そ、そうか……。
+line2 <shift> # それはよろしくないな……うん」
+com09 0 24
+display
+location 24
+com11 0 0
+sound 29
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「さ。ムダなおしゃべりは
+line2 <shift> # これぐらいにして、続きをやりますよ」
+display
+com11 0 0
+sound 30
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「えーっと、バランスシートの説明よね。
+line2 <shift> # バランスシートの左側、借方には資産……」
+display
+com11 0 0
+sound 31
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「右側、貸方に負債および資本を記載します。
+line2 <shift> # これはつまり……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うぅ、いかん。
+line2 <shift> # だんだん眠くなってきた……）
+display
+com11 0 0
+sound 32
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「バランスシートは、残高試算表から誘導的に
+line2 <shift> # 作成されて……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （なにも……頭に……入らない……。
+line2 <shift> # 難しいし……）
+display
+com11 0 0
+sound 33
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「会計帳簿と貸借対照表の２つを合わせて……」
+display
+com20 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （……Ｚｚｚ……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （あぁ、律子が数字とワルツを踊ってる……。
+line2 <shift> # ……はは、コケた…………）
+display
+com11 0 0
+sound 34
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「プロデューサー！！」
+display
+com21 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……え？」
+display
+com11 0 0
+sound 35
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「え？　じゃないですよ。問題、出したんです
+line2 <shift> # けど。○か×か、どっちです？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「…………」
+display
+com11 0 0
+sound 36
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「まさか……寝てたんじゃないでしょうね！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ね、寝てないよ！？
+line2 <shift> # なに言ってるんだよ律子、あははは……」
+display
+com11 0 0
+sound 37
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「それじゃ、さっきの問題、答えてくださいよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それは……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （いかん。問題なんか、きいてなかったぞ！？
+line2 <shift> # ここは一か八か、ヤマ勘で……）
+com03 0 2
+choice1 <shift> # ○！
+com09 0 31
+com08
+choice2 <shift> # ×！
+com09 0 32
+com08
+com07 129 64 129 64
+com09 0 33
+com08
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「○だ！」
+com37 0 1
+com1e 0 0
+com09 0 34
+com3b
+com37 0 0
+com1e 0 0
+com09 0 35
+com3b
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「×だ！」
+com37 0 1
+com1e 0 0
+com09 0 34
+com3b
+com37 0 0
+com1e 0 0
+com09 0 35
+com3b
+display
+location 33
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「×だ！」
+com09 0 35
+display
+location 34
+com11 0 0
+sound 38
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「はい、正解！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ホッ……）
+display
+com11 0 0
+sound 39
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「意外と飲み込みが早いですね。
+line2 <shift> # これなら今日中に、なんとか全部いけるかな」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いやぁ、律子の教え方がうまいからだよ。
+line2 <shift> # はははは……」
+display
+com11 0 0
+sound 40
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ふーん……。
+line2 <shift> # 私、教えるの、向いてるんですかね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、もうバッチリだ。
+line2 <shift> # 律子先生！　って感じで」
+display
+com11 0 0
+sound 41
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「ふふっ！　それじゃ律子先生の授業、
+line2 <shift> # ２時間目を始めますか」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （その後も律子は終始、上機嫌で教えてくれた。
+line2 <shift> # ヤマ勘が当たって、ホント助かった……）
+com4b 0 0
+com09 0 69
+display
+location 35
+com11 0 0
+sound 42
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「……ハズレ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ウソ！？」
+display
+com11 0 0
+sound 43
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「こんな簡単な問題も答えられないなんて、
+line2 <shift> # いくらなんでもヘンです！」
+display
+com11 0 0
+sound 44
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「プロデューサー、正直に答えてください。
+line2 <shift> # 寝てましたね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……はい」
+display
+com11 0 0
+sound 45
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「そんなことじゃないかと思いましたよ！」
+display
+com11 0 0
+sound 46
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「……あ〜あ、なんだか一生懸命教えるのが
+line2 <shift> # バカらしくなっちゃった」
+display
+com11 0 0
+sound 47
+name 0 0 <names:1>  # Ritsuko
+line1 <shift> # 「今度、私が使ってたハウツー本、持ってきます
+line2 <shift> # から、独学でやってください。それじゃ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、おい律子、帰っちゃうのか！？
+line2 <shift> # 待ってくれよ！　見捨てないでくれー！！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （結局、律子は帰ってしまい、俺は帳簿を前に
+line2 <shift> # ひとり途方にくれてしまった……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （……なんでヤマ勘、外れるかなぁ。
+line2 <shift> # はぁ……）
+com4b 0 2
+com09 0 69
+display
+location 69
+unk02

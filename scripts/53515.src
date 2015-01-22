@@ -1,0 +1,390 @@
+com2c 0 118
+com2d 0 91
+com2e 0 101
+com32 0 0
+location 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なあ、亜美、真美。もうすぐ、二人の家に
+line2 <shift> # 着くぞ。そろそろ仲直りを……」
+display
+com11 0 6
+sound 1500
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「やっだもーん。亜美のへたっぴ、へたっぴ〜」
+display
+com11 0 6
+sound 1501
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「ふーんだ、真美のイジワル〜。文句なんて聞か
+line2 <shift> # ないよー。だって、亜美の方がエラいんだから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ん？　どうして亜美の方がエラいんだ？」
+display
+com11 0 6
+sound 1502
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「だって『アミノ酸』はあるけど、『マミノ酸』
+line2 <shift> # は、ないでしょ〜。だから！」
+display
+com11 0 6
+sound 1503
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「そんなの、えらい理由にならないーっ。それに
+line2 <shift> # 偉い人は、ライブでダメダメな歌、歌わないもん」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「こらこら、それぐらいにしておけ。終わった
+line2 <shift> # コンサートのことは、もういいじゃないか」
+display
+com11 0 6
+sound 1504
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「よくないよー……。だって、亜美のせいで、
+line2 <shift> # 真美まで、ファンにきらわれちゃったんだよ？」
+display
+com11 0 6
+sound 1505
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「もしかしてっ、兄ちゃん、亜美の味方なの〜？
+line2 <shift> # ひどいひど〜い、イジメはんたーい！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、別に亜美の味方ってわけじゃ……」
+display
+com11 0 6
+sound 1506
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「じゃあ、もしかして真美の味方〜？　兄ちゃん、
+line2 <shift> # あんまりだよ〜。うわ〜ん」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「こ、困ったな。いったいどう言えば……」
+display
+com11 0 6
+sound 1507
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「もういいよ。兄ちゃんが味方してくんないなら、
+line2 <shift> # 真美ひとりで、自分用さよならライブやるー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そんなの、準備もナシでできるわけない
+line2 <shift> # だろ。なあ真美、ここは聞き分けてくれって」
+display
+com11 0 6
+sound 1508
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ん〜、それがダメなら、兄ちゃん、このまんま、
+line2 <shift> # 真美のプロデュース続けてよー」
+display
+com11 0 6
+sound 1509
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「あ、亜美もまだやりた〜い。超売れ売れアイドル
+line2 <shift> # にまだなれてないし。ねえ兄ちゃん、いいでしょ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうしたいのは山々だけど、ごめんな。ここで
+line2 <shift> # いったん活動終了ってのは、ルールだから」
+display
+com11 0 6
+sound 1510
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ウソだウソだ〜。本当は真美達と
+line2 <shift> # 別れたいだけなんだ〜」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなことはないよ。ただ、俺自身も、ここで
+line2 <shift> # 一呼吸置くことは必要かなって思ってる」
+display
+com11 0 6
+sound 1511
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「んじゃ、その理由って、なーに？　どうして
+line2 <shift> # 兄ちゃんは１回おやすみしたいの〜？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それは……」
+com03 0 3
+choice1 <shift> # 遊ぶ時間がほしい
+line2
+com09 0 10
+com08
+choice2 <shift> # 考える時間がほしい
+line2
+com09 0 11
+com08
+choice3 <shift> # 新しい相手がほしい
+line2
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「遊ぶ時間がほしいんだ。ほら俺も亜美も真美も、
+line2 <shift> # レッスンばかりで遊ぶ時間つくれなかっただろ」
+display
+com11 0 6
+sound 1512
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「あ、そっかー。そういえば亜美も、ガッコの
+line2 <shift> # 友達と遊ぶ時間とか、減っちゃったー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「だから、たくさん遊ぶリフレッシュ期間をつく
+line2 <shift> # りたいんだ。この後、よりがんばるためにね」
+display
+com11 0 6
+sound 1513
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「真美も、それ賛成ー！　いっぱい遊んで、元気
+line2 <shift> # ジャコジャコためてから、またアイドルやろー」
+display
+com11 0 6
+sound 1514
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「その時は、また兄ちゃん、亜美といっしょに
+line2 <shift> # いてくれる？」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「考える時間がほしいんだ。プロデュース方法や、
+line2 <shift> # 仕事の進め方が、本当に今のままでいいのか」
+display
+com11 0 6
+sound 1515
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「うん。そのまんまでいーよだからこのまま
+line2 <shift> # 続けよー決まりードンドン！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ひ、ひと息で、結論付けるなー！　これは俺に
+line2 <shift> # とって、すごく大事な問題なんだぞ？」
+display
+com11 0 6
+sound 1516
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「考えない方が、楽しくていいのに〜。でも兄ち
+line2 <shift> # ゃんがそこまで言うなら、しばらくお休みだね」
+display
+com11 0 6
+sound 1517
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「ねーねー。でも、その考えるのが終わったら、
+line2 <shift> # また亜美と一緒にいてくれる？」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「新しい相手がほしいんだ。別の女の子をプロ
+line2 <shift> # デュースして、刺激を得たいっていうか」
+display
+com11 0 6
+sound 1518
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「あああっ、兄ちゃん、亜美をポイする気
+line2 <shift> # なんだ〜？　浮輪者、浮輪者〜！」
+display
+com11 0 6
+sound 1519
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「アレでしょ？　兄ちゃんも『プリンは文化だ』
+line2 <shift> # とか言って、逆ふんぞりしちゃうんでしょ〜？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そんなことはしないよ！　俺はただ視野を
+line2 <shift> # 広げて、自分をステップアップさせたいだけ！」
+display
+com11 0 6
+sound 1520
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「んじゃ、そのステプップしたら、また亜美と
+line2 <shift> # 一緒にいてくれる？」
+com09 0 19
+display
+location 19
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うん、事情が許せばね。あ、でも再プロデュース
+line2 <shift> # するには、ひとつ、とても大きな条件がある」
+display
+com11 0 6
+sound 1521
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「なになにっ？　真美、なんでも聞くよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「その条件は……今、この場で二人が仲直り
+line2 <shift> # すること。……できるか？」
+display
+com11 0 6
+sound 1522
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「んんん〜、そっかー。だったら、仲直りする
+line2 <shift> # しかないかも〜。どうする、亜美？」
+display
+com11 0 6
+sound 1523
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「そうだね。んじゃ、もうケンカはやめよ。これ
+line2 <shift> # からも、二人で一人アイドル、続けてくんだし」
+display
+com1c 0 3
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ほっ、わかってくれたか。よかったよ。笑顔の
+line2 <shift> # 二人と、別れることができそうで……」
+display
+com11 0 6
+sound 1524
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「そっかー。もうここでサヨナラなんだね。ねえ、
+line2 <shift> # 兄ちゃん、最後に亜美の頭、いい子いい子して？」
+display
+com11 0 6
+sound 1525
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「あー、真美もしてほしいー。これからメッチャ
+line2 <shift> # さびしくなるけどなでてくれたらガマンするー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わかったわかった。順番にな。まずは
+line2 <shift> # 真美からだ」
+com0e 3 62
+com44
+com09 0 20
+com45
+com44
+com09 0 21
+com45
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「これでよしと」
+display
+com11 0 6
+sound 1526
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「ありがと、兄ちゃん……」
+com09 0 29
+display
+location 21
+com11 0 6
+sound 1527
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「兄ちゃーん、ちゃんとなでてないよー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「う、ごめん。許してくれ」
+com09 0 29
+display
+location 29
+com11 0 6
+sound 1528
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「そんじゃ、次は亜美の番だね。早く、早くー」
+com0e 3 63
+com44
+com09 0 30
+com45
+com44
+com09 0 31
+com45
+display
+location 30
+com11 0 6
+sound 1529
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「ありがと〜。今日はライブ失敗して、ごめんね。
+line2 <shift> # 亜美、今度兄ちゃんとやる時はもっとがんばる！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、その機会がつくれるといいな。
+line2 <shift> # それじゃ、二人とも、また！」
+com09 0 39
+display
+location 31
+com11 0 6
+sound 1530
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「もー、兄ちゃん。どうしてちゃんと、いい子
+line2 <shift> # してくれないの〜？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ご、ごめん……」
+display
+com11 0 6
+sound 1531
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「あ、アレだよ、亜美。最後のライブうまくでき
+line2 <shift> # なかったからかも。次はもっとがんばらないと」
+display
+com11 0 6
+sound 1532
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「あ、そっかー。ごほうびは、活躍にヒエー！
+line2 <shift> # してるんだね。でしょでしょ、兄ちゃん？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まあな。ほめるのは、先にとっておこう。
+line2 <shift> # じゃあな、二人とも！　また！」
+com09 0 39
+display
+location 39
+com11 0 6
+sound 1533
+com4c 0 2
+name 0 0 <names:2>  # Mami
+line1 <shift> # 「うんっ。兄ちゃん、ぜーったい、また遊ぼうね。
+line2 <shift> # これで終わりなんてホントはいやなんだから〜」
+display
+com4a 0 0
+com11 0 6
+sound 1534
+com4c 0 1
+name 0 0 <names:3>  # Ami
+line1 <shift> # 「亜美達、また兄ちゃんにメールするからね。
+line2 <shift> # んじゃ、ばいばーい……」
+display
+location 100 129 92 129 92 130 177 130 164 130 181 130 196 136 159 148 252 130 198 144 94 148 252 130 205 129 65 145 189 130 173 130 204 150 178 130 240 130 169 130 200 130 166 130 231
+line2 <shift> # れぬまま、いったん俺の元から、去っていった。
+display
+location 101 137 104 140 245 130 204 141 192 130 205 130 194 130 169 130 223 130 184 129 65 131 137 131 88 131 103 131 137 131 67 131 117 130 205 142 184 148 115 129 66 130 175 130 199 129 65
+line2 <shift> # 俺も亜美も真美も、まだパワーはあり余っている。
+display
+location 102 141 196 131 96 131 131 131 140 131 147 131 87 130 204 131 96 131 131 131 147 131 88 130 205 129 65 130 171 130 193 130 198 130 173 130 233 129 66 130 187 130 204 142 158
+line2 <shift> # こそ、あの二人の存在を、全国へと知らしめたい。
+display
+unk02

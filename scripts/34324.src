@@ -1,0 +1,449 @@
+com2c 0 17
+com2d 0 61
+com32 0 0
+com11 0 0
+sound 0
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「売れっ子占い師さんとの対談……。
+line2 <shift> # うう、緊張しちゃいますぅ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「かなり人気がある人らしいぞ。たしか、
+line2 <shift> # 出してる本が、今、ベストセラーだとか……」
+display
+com11 0 0
+sound 1
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「わわ。その本なら、知ってます。
+line2 <shift> # とっても有名な、占い師さんですよー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうなのか？　どんな風に有名なんだ？」
+display
+com11 0 0
+sound 2
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「えっと、おこりんぼうで、ツーンとしてて、
+line2 <shift> # でも、占いはすごくよく当たる人だって……」
+display
+com11 0 0
+sound 3
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ああ、なんだかドキドキしてきました。
+line2 <shift> # もし失礼なことでも言っちゃったら……」
+display
+com11 0 0
+sound 4
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「ど、どうしましょう、プロデューサー？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （かなり緊張してるみたいだな。
+line2 <shift> # よし、ここは……）
+com03 0 3
+choice1 <shift> # 気をつかう必要はないよ
+line2
+com09 0 10
+com08
+choice2 <shift> # にこにこしてればいいよ
+line2
+com09 0 11
+com08
+choice3 <shift> # とにかく下手に
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ヘンに気をつかう必要はないよ。
+line2 <shift> # 雪歩は、雪歩らしくしてればいい」
+display
+com11 0 0
+sound 5
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「そ、そうですかぁ……？
+line2 <shift> # でも、もし怒らせちゃったら……？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「その時は、俺が何とかする。
+line2 <shift> # 雪歩は、自分のことにだけ集中しててくれ」
+display
+com11 0 0
+sound 6
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「はい、わかりましたぁ……。ふふっ、
+line2 <shift> # プロデューサーがいてくれたら、安心ですぅ」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「とりあえず、にこにこしてればいいよ。愛想
+line2 <shift> # よく、失礼のないようにしてれば問題ないから」
+display
+com11 0 0
+sound 7
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「にこにこ……ですか？　あうう……。うまく
+line2 <shift> # 笑えるかなあ。顔、引きつっちゃうかもですぅ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ははは、普通にしてさえいれば大丈夫だって。
+line2 <shift> # 落ち着いて、な」
+display
+com11 0 0
+sound 8
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「落ち着いて……普通に……あうう。
+line2 <shift> # 難しいけど、やってみます……」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「とにかく下手に出るんだ。機嫌を
+line2 <shift> # 損ねたりしたら、そこでおしまいだからな」
+display
+com11 0 0
+sound 9
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「お、おどかさないでくださいよぉ……。
+line2 <shift> # ますますドキドキしてきちゃいました……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ま、大丈夫さ。誉めておだてて、
+line2 <shift> # とにかく下手に出続ければ、たぶん……」
+display
+com11 0 0
+sound 10
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「あ、はい。わかりました。
+line2 <shift> # とにかく下手に……。やってみます……」
+com09 0 29
+display
+location 29
+com22 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （そして、対談はどこかギクシャクしながらも
+line2 <shift> # なんとか無事に終わることができた──）
+display
+com21 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お疲れ、雪歩。緊張してたなー」
+display
+com11 0 0
+sound 11
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「はい、とっても……。気になること
+line2 <shift> # 言われちゃってからは、特に……うう……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。俺たちの相性が最悪だってやつか。
+line2 <shift> # この先、組んでてもロクなことがないって」
+display
+com11 0 0
+sound 12
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「はい。あれ、本当なんでしょうか……？
+line2 <shift> # もしそうなら私……ぐすっ……ひっく」
+com03 0 3
+choice1 <shift> # 占いなんて気にするな
+line2
+com09 0 30
+com08
+choice2 <shift> # 意地悪な占い師だな
+line2
+com09 0 31
+com08
+choice3 <shift> # たしかにそうかも……
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「占いなんて気にするな。
+line2 <shift> # いちいち気にしてたら、何も出来なくなるぞ」
+display
+com11 0 0
+sound 13
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「でも……気になって……。
+line2 <shift> # もし本当だとしたら……ううう……」
+com09 0 39
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「意地悪な占い師だよな。わざと悪い結果を
+line2 <shift> # 言って、雪歩を怖がらせたんだよ、たぶん」
+display
+com11 0 0
+sound 14
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「わざと……？　で、でも、よく当たるって評判
+line2 <shift> # の人だし……。うう……気になりますぅ……」
+com09 0 39
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「たしかにそうかも……。
+line2 <shift> # 言われてみれば、思い当たるフシが……」
+display
+com11 0 0
+sound 15
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「あう、やっぱりそうなんですね。私がダメだか
+line2 <shift> # ら、相性もダメダメなんですね……」
+display
+com11 0 0
+sound 16
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「私たち、もうこれまでなんでしょうか？
+line2 <shift> # ううっ……ぐすっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「じ、冗談だよ。泣くなーっ」
+com09 0 39
+display
+location 39
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「俺は雪歩との相性、バッチリだと思うぞ。
+line2 <shift> # 現に今まで、うまくやってきたと思うし」
+display
+com11 0 0
+sound 17
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「……ホントにそうでしょうか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、ホントだって。相性が悪かったら、
+line2 <shift> # ここまでいい仕事はできなかったと思う」
+display
+com11 0 0
+sound 18
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「それじゃ……あみだ占いを
+line2 <shift> # やってみませんか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、あみだ占い？」
+display
+com11 0 0
+sound 19
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「はい。プロデューサーの選んだ線の先に
+line2 <shift> # 私の名前があったら、相性バッチリ！」
+display
+com11 0 0
+sound 20
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「この相性診断、結構当たるって、
+line2 <shift> # 友達の間でも評判なんですよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わかった。チャレンジしてみよう」
+display
+com11 0 0
+sound 21
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「これでいい結果が出れば、さっきの占い師さん
+line2 <shift> # の占いは、信じないことにしようかな……」
+display
+com11 0 0
+sound 22
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「はい、できました。選んでください。
+line2 <shift> # 私の名前は、どこでしょう〜？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （あみだ占いでの相性診断……
+line2 <shift> # いい結果を出せるかどうかは完全に運だが……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （雪歩のためにも、ここは絶対に外せないぞ！）
+com03 0 3
+choice1 <shift> # 左の線
+com09 0 40
+com08
+choice2 <shift> # 真ん中の線
+com09 0 41
+com08
+choice3 <shift> # 右の線
+com09 0 42
+com08
+com07
+com09 0 43
+com08
+display
+location 40
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、左の線を選ぶぞ」
+com37 0 1
+com1e 0 0
+com09 0 48
+com3b
+com37 0 0
+com1e 0 0
+com09 0 49
+com3b
+display
+location 41
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、真ん中の線を選ぶぞ」
+com37 0 1
+com1e 0 0
+com09 0 48
+com3b
+com37 0 0
+com1e 0 0
+com09 0 49
+com3b
+display
+location 42
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よし、右の線を選ぶぞ」
+com37 0 1
+com1e 0 0
+com09 0 48
+com3b
+com37 0 0
+com1e 0 0
+com09 0 49
+com3b
+display
+location 43
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「よーし、じゃあ……この線を選ぶぞ」
+com09 0 49
+display
+location 48
+com11 0 0
+sound 23
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「それじゃ、行きますよ。
+line2 <shift> # プロデューサー、集中してくださいね」
+display
+com11 0 0
+sound 24
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「右はよいよい、左はこわい。
+line2 <shift> # ホントにそうなの？　あみだの神様……」
+display
+com11 0 0
+sound 25
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「……出ました！」
+display
+com11 0 0
+sound 26
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「プロデューサーが選んだ線には……
+line2 <shift> # ああっ！　私の名前がありました！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おおっ！　ということは、
+line2 <shift> # 相性はバッチリということだな？」
+display
+com11 0 0
+sound 27
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「そうですぅ！　いい結果が出て、幸せです！
+line2 <shift> # やっぱり相性最悪なんて、嘘だったんですね」
+display
+com11 0 0
+sound 28
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「私、ず〜っとプロデューサーに
+line2 <shift> # ついていきますっ！」
+display
+com11 0 0
+sound 29
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「あ、もしかしてイヤですか……？
+line2 <shift> # ダメな私が、ずっとついていったりしたら？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「イヤなもんか。俺を信じて、
+line2 <shift> # ずっとついてきてくれればいい」
+display
+com11 0 0
+sound 30
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「よかったぁ……ふふっ。これからも
+line2 <shift> # よろしくお願いしますね、プロデューサー！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （占い師に言われたことなど気にせず、これから
+line2 <shift> # も力を合わせて頑張ろうな、雪歩！）
+com4b 0 0
+com09 0 59
+display
+location 49
+com11 0 0
+sound 31
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「それじゃ、行きますよ。
+line2 <shift> # プロデューサー、集中してくださいね」
+display
+com11 0 0
+sound 32
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「右はよいよい、左はこわい。
+line2 <shift> # ホントにそうなの？　あみだの神様……」
+display
+com11 0 0
+sound 33
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「……出ました！」
+display
+com11 0 0
+sound 34
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「プロデューサーが選んだ線には……
+line2 <shift> # ああっ！　なんと、高木社長の名前が……」
+display
+com11 0 0
+sound 35
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「やっぱり、プロデューサーと私は
+line2 <shift> # 相性ダメダメなんですね……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「待てって。こんな占いで、
+line2 <shift> # なにがわかるって言うんだ」
+display
+com11 0 0
+sound 36
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「でも、プロの占い師さんも
+line2 <shift> # 同じことを言ってますし……」
+display
+com11 0 0
+sound 37
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「プロデューサーは、
+line2 <shift> # 社長と組んだ方がいいのかも……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「待て待て待て！　高木社長と組んで、
+line2 <shift> # 俺はどこを目指せばいいんだ！？」
+display
+com11 0 0
+sound 38
+name 0 0 <names:1>  # Yukiho
+line1 <shift> # 「そんなの、私にはわかりませんよぅ。
+line2 <shift> # 社長と相談して、決めてください……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （雪歩をなだめるのに、何時間かかっただろ
+line2 <shift> # う。落ちついた頃には、日が暮れていた……）
+com4b 0 2
+com09 0 59
+display
+location 59
+unk02

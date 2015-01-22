@@ -1,0 +1,246 @@
+com2c 0 88
+com2d 0 51
+com32 0 0
+com11 0 3
+sound 800
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「エステ？？？　ミーティングで言っていた、
+line2 <shift> # いい場所って、ここなのでしょうか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「はい。心身ともにリラックスするには、
+line2 <shift> # 最適かなって。プライベートで、来たことは？」
+display
+com11 0 3
+sound 801
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ないですー。私、こういう場所に通っている
+line2 <shift> # ように見えますか？」
+com03 0 3
+choice1 <shift> # 聞いてみただけです
+line2
+com09 0 10
+com08
+choice2 <shift> # 色白ですからね
+line2
+com09 0 11
+com08
+choice3 <shift> # 美人ですからね
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「聞いてみただけです」
+display
+com11 0 3
+sound 802
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「し、調べたことはありますけど、その時は
+line2 <shift> # それっきりで。……では、いってきますね」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「色白ですからね」
+display
+com11 0 3
+sound 803
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「う、うそです。だって、もっと肌のキレイな
+line2 <shift> # 人は、たくさん……」
+com09 0 91
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「美人ですからね」
+display
+com11 0 3
+sound 804
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、ありがとう、ございます。……でも、
+line2 <shift> # そう無理にほめてくれなくても、私」
+com09 0 91
+display
+location 91
+com11 0 3
+sound 805
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「とにかく、いってきますね。せっかく来たの
+line2 <shift> # ですから、いろいろと見てきます」
+com09 0 29
+display
+location 29
+com22 0 30
+com21 0 30
+com11 0 3
+sound 806
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ふぅ〜、慣れていないので、緊張しました。
+line2 <shift> # どうでしょう？　見た目、変わりましたか？」
+com03 0 2
+choice1 <shift> # すぐには、ムリですよ
+line2
+com09 0 30
+com08
+choice2 <shift> # 見ちがえたようです
+line2
+com09 0 31
+com08
+com07
+com09 0 31
+com08
+display
+location 30
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「すぐには、ムリですよ」
+display
+com11 0 3
+sound 807
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「ふふっ、それもそうですね。そんなにすぐ
+line2 <shift> # 変われるなら、大流行しているはずですし」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「見ちがえたようです」
+display
+com11 0 3
+sound 808
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「それは、大げさでは？　中で鏡を見ましたけど、
+line2 <shift> # 見ちがえたとまではー」
+display
+com11 0 3
+sound 809
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「でも、気分は、とてもいいです。
+line2 <shift> # それで、よく見えるのかもしれませんね」
+com09 0 49
+display
+location 49
+com11 0 3
+sound 810
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「んー、こういうところに来すぎると、ちがった
+line2 <shift> # 意味で、変わってしまいそうな気が……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「えっ。それって、どういう？」
+display
+com11 0 3
+sound 811
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「う、うまく言えないのですけれど、芸能人に
+line2 <shift> # なりすぎてしまう、というか」
+display
+com11 0 3
+sound 812
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「……プロデューサーさんは、私について、
+line2 <shift> # そういう心配、していないでしょうか？」
+com03 0 3
+choice1 <shift> # これっぽっちも、してません！
+line2
+com09 0 50
+com08
+choice2 <shift> # 大丈夫だとは、思いますけど
+line2
+com09 0 51
+com08
+choice3 <shift> # それは、しかたないことです
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 2
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「これっぽっちも、してません！
+line2 <shift> # あずささんは、きっと、ずっとあずささんです」
+display
+com11 0 3
+sound 813
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ……。ふふ、ふふふっ。そんなに力強く
+line2 <shift> # 言われると、なんだか、とても！」
+display
+com11 0 3
+sound 814
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「当たっているかもしれないです。
+line2 <shift> # 私は、私のままっ。ふふ、ふふふふっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （やけにうれしそうに、笑っている。あずささん
+line2 <shift> # に限って、すれる心配なんて皆無だしな）
+com09 0 69
+display
+location 51
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「大丈夫だとは、思いますけど」
+display
+com11 0 3
+sound 815
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「でも、絶対にないとは言い切れないですよね？
+line2 <shift> # デビューした頃からも、きっとすこしは……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「まあ、今のところは、気にすることないですよ。
+line2 <shift> # 悪い風には変わってないですし」
+display
+com11 0 3
+sound 816
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「んー、むずかしいですよね。かといって、
+line2 <shift> # ずっと同じままというのも、どうなのでしょう」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （微妙な表情で、考え込んでいる。根のキレイな
+line2 <shift> # 部分だけは、変わらないとは思うけど）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それは、しかたのないことです。芸能界に
+line2 <shift> # 長くいれば、誰だって……」
+display
+com11 0 3
+sound 817
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「こ、こわいですね。もしかしたら、性格が
+line2 <shift> # 全然、変わってしまうことも……」
+display
+com11 0 3
+sound 818
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「危ないと思ったら、注意してくださいね。
+line2 <shift> # 私、いやな人にだけはなりたくないので」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わかりました。約束します」
+display
+com11 0 3
+sound 819
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はあー、こう、魅力だけを高めていける
+line2 <shift> # 方法とか、あればいいのですけれど……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （あずささんも、やがてはタカビーな芸能人に。
+line2 <shift> # ん？　本当にあり得るのか、そんなことが？）
+com09 0 69
+display
+location 69
+unk02

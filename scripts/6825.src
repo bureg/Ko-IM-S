@@ -1,0 +1,369 @@
+com2c 0 119
+com2d 0 13
+com2e 0 113
+com2f 0 11
+com32 0 0
+com11 0 0
+sound 0
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「プロデューサーさんっ！　やりましたっ！
+line2 <shift> # 今日の歌は、大成功でしたよねっ！？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ！　とても良かったぞ！」
+display
+com11 0 0
+sound 1
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「応援してくれてるプロデューサーさんの声とか、
+line2 <shift> # ファンの皆の声援とか、全部よくきこえて……」
+display
+com11 0 0
+sound 2
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「歌に、すごく気持ちをこめられたんです！　今
+line2 <shift> # までで一番いいステージ、できたと思います！」
+display
+com11 0 0
+sound 3
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「えへへっ。興奮して、しゃべりまくっちゃいま
+line2 <shift> # した。続きは事務所へ帰りながらきいて下さい」
+display
+com11 0 0
+sound 4
+com4c 0 1
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「じゃ、着替えてきますから、
+line2 <shift> # ちょっと待ってて下さいねっ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （春香のやつ、いいステージができて、
+line2 <shift> # よっぽど嬉しかったみたいだな）
+display
+com11 0 0
+sound 5
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あれ、響？」
+com03 0 3
+choice1 <shift> # おめでとう
+com09 0 10
+com08
+choice2 <shift> # お疲れ様
+com09 0 11
+com08
+choice3 <shift> # どうかしたのか？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おめでとう。響のステージも、
+line2 <shift> # 大成功だったんだよな？」
+display
+com11 0 0
+sound 6
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「……ステージの成功なんて、関係ないよ！
+line2 <shift> # 自分は、とにかく勝たなきゃっ！！」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お疲れ様。今、帰りか？」
+display
+com11 0 0
+sound 7
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「あ……。くぅっ！　今、話しかけるなっ！」
+com09 0 19
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「どうかしたのか？」
+display
+com11 0 0
+sound 8
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「……」
+com09 0 19
+display
+location 19
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、響っ！？　……なんだ？
+line2 <shift> # ちょっと様子が、おかしかったな」
+display
+com11 0 0
+sound 9
+com4c 0 0
+name 0 3 <names:4>  # President Kuroi
+line1 <shift> # 「……思っていたより、もろい娘だな。
+line2 <shift> # 今回も、失敗か？　フン、つまらんことだ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「黒井社長……！」
+display
+com11 0 0
+sound 10
+com4c 0 0
+name 0 3 <names:4>  # President Kuroi
+line1 <shift> # 「おやおや。また会ってしまったか。
+line2 <shift> # お互い、最も会いたくない相手だというのにね」
+display
+com11 0 0
+sound 11
+com4c 0 0
+name 0 3 <names:4>  # President Kuroi
+line1 <shift> # 「ま、今日のところは早々に退散させてもらうよ。
+line2 <shift> # では、失礼……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「待って下さいっ！
+line2 <shift> # ……あなたに、ききたいことがある」
+com03 0 3
+choice1 <shift> # 響に何を言ったんですか？
+line2
+com09 0 20
+com08
+choice2 <shift> # 失敗って、何がですか？
+line2
+com09 0 21
+com08
+choice3 <shift> # 高木社長とどういう関係ですか？
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「響に、何を言ったんですか？」
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「失敗って、何がですか？
+line2 <shift> # 『今回も』と、おっしゃってましたよね？」
+display
+com11 0 0
+sound 12
+com4c 0 0
+name 0 3 <names:4>  # President Kuroi
+line1 <shift> # 「聞いていたのか……。君は、よくよく、
+line2 <shift> # 人の事情に口を出すのが、好きなタチらしいな」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「何にでも口を出す、というわけではありません。
+line2 <shift> # 響に関係がありそうなので気になっただけです」
+display
+com11 0 0
+sound 13
+com4c 0 0
+name 0 3 <names:4>  # President Kuroi
+line1 <shift> # 「響は、我が９６１プロの所属アイドルだ。
+line2 <shift> # 君には何の関係もないはずだが？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「関係なくても、さっきみたいな悲しい表情をし
+line2 <shift> # た女の子を見れば、人として、気になります！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「響に……、何を言ったんですか？」
+display
+com11 0 0
+sound 14
+com4c 0 0
+name 0 3 <names:4>  # President Kuroi
+line1 <shift> # 「フン……」
+com09 0 29
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うちの、高木社長と、どういう関係ですか？
+line2 <shift> # 詳しく教えて下さい！」
+display
+com11 0 0
+sound 15
+com4c 0 0
+name 0 3 <names:4>  # President Kuroi
+line1 <shift> # 「はっははは！　君は上司である高木に、それを、
+line2 <shift> # きけないわけだ。それで私に、きくんだね？」
+display
+com11 0 0
+sound 16
+com4c 0 0
+name 0 3 <names:4>  # President Kuroi
+line1 <shift> # 「たいした社長と、プロデューサーだ！
+line2 <shift> # 二人の間に信頼関係など、みじんもないわけか」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、そういうわけでは……」
+display
+com11 0 0
+sound 17
+com4c 0 0
+name 0 3 <names:4>  # President Kuroi
+line1 <shift> # 「我が９６１プロは、プロデューサー制をとって
+line2 <shift> # いないが、やはり私の判断は正しかったようだ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「くっ……。質問を変えます。
+line2 <shift> # さっき、響の様子が変でしたが……」
+display
+com11 0 0
+sound 18
+com4c 0 0
+name 0 3 <names:4>  # President Kuroi
+line1 <shift> # 「ああ、あれか……」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 19
+com4c 0 0
+name 0 3 <names:4>  # President Kuroi
+line1 <shift> # 「別に、たいしたことではないよ。
+line2 <shift> # 事務所の現状の方針を、伝えただけだ」
+display
+com11 0 0
+sound 20
+com4c 0 0
+name 0 3 <names:4>  # President Kuroi
+line1 <shift> # 「もし今回のＩＵに負けたら、『Ｐｒｏｊｅｃｔ
+line2 <shift> # Ｆａｉｒｙ』を外れてもらう、とね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それは、つまり……？」
+display
+com11 0 0
+sound 21
+com4c 0 0
+name 0 3 <names:4>  # President Kuroi
+line1 <shift> # 「響にはアイドルを引退してもらい、
+line2 <shift> # ９６１プロをクビにする、ということだ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「なっ……、クビ！？
+line2 <shift> # そ、そこまでしなくたって！」
+display
+com11 0 0
+sound 22
+com4c 0 0
+name 0 3 <names:4>  # President Kuroi
+line1 <shift> # 「おやおや。いくらなんでも、部外者である君に、
+line2 <shift> # そこまで口出しされる筋合いは、ないよ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そ、それはそうですが……。でも響には、才能
+line2 <shift> # があります！　もし今回ダメでも、次回……」
+display
+com11 0 0
+sound 23
+com4c 0 0
+name 0 3 <names:4>  # President Kuroi
+line1 <shift> # 「次回？　そこまで彼女に手間ヒマかけてやる
+line2 <shift> # 余裕も金も、私は持ち合わせていないのでね」
+display
+com11 0 0
+sound 24
+com4c 0 0
+name 0 3 <names:4>  # President Kuroi
+line1 <shift> # 「以前も言ったかもしれないが、
+line2 <shift> # ９６１プロは、王者を育てるための場所だ」
+display
+com11 0 0
+sound 25
+com4c 0 0
+name 0 3 <names:4>  # President Kuroi
+line1 <shift> # 「『いつか王者になれるかもしれない』者はいら
+line2 <shift> # ない。必要なのは『今、王者になれる者』だ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「１回でもミスをした者は、
+line2 <shift> # 切り捨てるんですか……？」
+display
+com11 0 0
+sound 26
+com4c 0 0
+name 0 3 <names:4>  # President Kuroi
+line1 <shift> # 「そうだ。それが私のやり方だ。
+line2 <shift> # 私は、トップアイドル……」
+display
+com11 0 0
+sound 27
+com4c 0 0
+name 0 3 <names:4>  # President Kuroi
+line1 <shift> # 「つまり、アイドル界の王者を育てるために、
+line2 <shift> # この世界に身を置いているのでね」
+display
+com11 0 0
+sound 28
+com4c 0 0
+name 0 3 <names:4>  # President Kuroi
+line1 <shift> # 「フッ……。少し興がのって、話しすぎたようだ。
+line2 <shift> # ま、ＩＵ終了前に、響に真実を告げたのは……」
+display
+com11 0 0
+sound 29
+com4c 0 0
+name 0 3 <names:4>  # President Kuroi
+line1 <shift> # 「私なりのエールであり、優しさなのだがね。
+line2 <shift> # 君には理解できまい。……では、失礼するよ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （……勝たなければクビだなんて、まるで脅迫
+line2 <shift> # じゃないか！　頑張ってる響が、可哀相だ！）
+display
+com11 0 0
+sound 30
+com4c 0 4
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「お待たせしました、プロデューサーさんっ！
+line2 <shift> # ……あれ？　どうかしましたか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （春香には、さっきのこと、言わない方がいいな。
+line2 <shift> # ショックを受けるだろうし……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （そのせいで、響と思いっきり戦えなくなったり
+line2 <shift> # したら、春香だって可哀相だ）
+display
+com11 0 0
+sound 31
+com4c 0 4
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「プロデューサーさーん？　顔が、怖いですよー。
+line2 <shift> # 何かあったんですか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……いや、なんでもないよ！　さあ、今日の
+line2 <shift> # ステージのこと、社長に報告しに帰ろう！」
+display
+com11 0 0
+sound 32
+com4c 0 4
+name 0 0 <names:1>  # Haruka
+line1 <shift> # 「はいっ！　社長、ほめてくれるかなー。
+line2 <shift> # 楽しみですねっ！」
+com09 0 99
+display
+location 99
+unk02

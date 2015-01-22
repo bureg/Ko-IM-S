@@ -1,0 +1,503 @@
+com2c 0 49
+com2d 0 21
+com32 0 0
+com11 0 3
+sound 100
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「警察のトップね！　にひひっ♪　私、
+line2 <shift> # こういうの、やってみたかったのー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……だと思った」
+display
+com11 0 3
+sound 101
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あいさつの内容、家で考えてきたわっ。
+line2 <shift> # 『撃たれる前に、撃っちゃえーっ』　どう？」
+com03 0 2
+choice1 <shift> # 過激すぎないか？
+line2
+com09 0 10
+com08
+choice2 <shift> # そんなの、ダメだ
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「過激すぎないか？」
+display
+com11 0 3
+sound 102
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そーお？　じゃあ、次のやつ！」
+com09 0 19
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなの、ダメだ」
+display
+com11 0 3
+sound 103
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ええええっ、なんでよ〜。
+line2 <shift> # 勢いあっていいでしょー」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「アイドルなんだから、
+line2 <shift> # もうすこしかわいいのにしよう」
+display
+com11 0 3
+sound 104
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「わかったわよ……。じゃあ、次のやつね！」
+com09 0 19
+display
+location 19
+com11 0 3
+sound 105
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「『犯罪者なんて、海に沈めちゃえー！』
+line2 <shift> # ……どう？」
+com09 0 19
+com03 0 3
+choice1 <shift> # 海が汚れるだろ？
+line2
+com09 0 20
+com08
+choice2 <shift> # それもちょっと……
+line2
+com09 0 21
+com08
+choice3 <shift> # 絶対、ダメだ！
+line2
+com09 0 22
+com08
+com07
+com09 0 22
+com08
+display
+location 20
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「海が汚れるだろ？」
+display
+com11 0 3
+sound 106
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あっ！　そこまで考えてなかったわ……。
+line2 <shift> # あいさつひとつも、けっこうむずかしいのね」
+com09 0 29
+display
+location 21
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「それも、ちょっと……」
+display
+com11 0 3
+sound 107
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「これもダメなの〜。あんた、細かすぎない？」
+com09 0 28
+display
+location 22
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「絶対、ダメだ！」
+display
+com11 0 3
+sound 108
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「どうしてよ〜！？　悪は許さないって感じで、
+line2 <shift> # カッコいいでしょー」
+display
+com11 0 3
+sound 109
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あんた、犯罪者をナメてるわね。
+line2 <shift> # そんなんじゃ、署長はつとまらないんだから……」
+com09 0 28
+display
+location 28
+com11 0 3
+sound 110
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「はあーあ。あいさつひとつとっても、
+line2 <shift> # けっこうむずかしいのね」
+com09 0 29
+display
+location 29
+com11 0 3
+sound 111
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「でも私、実践には自信があるわっ！　プロ
+line2 <shift> # デューサー、犯人の見分け方って知ってる？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなの、あるのか？」
+display
+com11 0 3
+sound 112
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「昨日、ＴＶでやってたの。ここさえ見れば、
+line2 <shift> # 犯人がわかるって！　ねえ、どこだと思う？」
+com0e 0 109
+com44
+com09 0 30
+com45
+com44
+com09 0 31
+com45
+com44
+com09 0 32
+com45
+com44
+com09 0 33
+com45
+com44
+com09 0 34
+com45
+com44
+com09 0 35
+com45
+com44
+com09 0 36
+com45
+com44
+com09 0 37
+com45
+com44
+com09 0 38
+com45
+com44
+com09 0 40
+com45
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ここじゃないか？」
+display
+com11 0 3
+sound 113
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「目……？　フフン、よくわかったわね。
+line2 <shift> # まあ、カンタンすぎる問題だったかしら」
+display
+com11 0 3
+sound 114
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「とりあえず、合格！
+line2 <shift> # あんたを、１日ヒラ警官に任命するわっ」
+display
+com11 0 3
+sound 115
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「しばらく私の部下として、
+line2 <shift> # みっちり働いてちょーだいね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （すっかり、署長さん気分にひたっている。これ
+line2 <shift> # なら最後まで、楽しんでやってくれそうかな）
+com09 0 39
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ここじゃないか？」
+display
+com11 0 3
+sound 116
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「鼻？　なんでそんなとこ見て、
+line2 <shift> # 犯人だってわかるのよ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、悪いことしたヤツは、
+line2 <shift> # こうピクピクしてるんじゃないかって……」
+display
+com11 0 3
+sound 117
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そんなワケないじゃない……。
+line2 <shift> # 鼻がピクピクするのは、犬だけっ」
+display
+com11 0 3
+sound 118
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「はあーあ、とんだ見込みちがいね。
+line2 <shift> # あんたじゃ、私の助手は、つとまりそうもないわ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ちがったか。ウソつくと鼻の穴がふくらむって、
+line2 <shift> # どこかで、きいた気がしたんだけど……）
+com09 0 39
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ここじゃないか？」
+display
+com11 0 3
+sound 119
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「口？　どうしてそこ見れば、
+line2 <shift> # 犯人だってわかるの？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、悪いヤツは……、むくれて、
+line2 <shift> # 口を、とがらせてるんじゃないか」
+display
+com11 0 3
+sound 120
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……マジメに答えてる？
+line2 <shift> # 鳥じゃあるまいし、そんなわけないでしょ！」
+display
+com11 0 3
+sound 121
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「アッタマわる〜い。あんた、もしかして、
+line2 <shift> # 鳥頭なんじゃないの？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ブジョクされてしまった……。
+line2 <shift> # くっ。口をとがらせて、抗議したい気分だ）
+com09 0 39
+display
+location 33
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ここじゃないか？」
+display
+com11 0 3
+sound 122
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「顔？　悪人ヅラしてるってわけ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、たいてい悪いヤツは、
+line2 <shift> # 極悪な顔してそうだけど……」
+display
+com11 0 3
+sound 123
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「う〜ん、おしいけど、ちょっとちがうわね。
+line2 <shift> # もっとハッキリわかるところがあるわ」
+display
+com11 0 3
+sound 124
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ま、あんたにしては、上出来の推理かしら。
+line2 <shift> # それじゃ、署長さんにはなれないけどね！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （当たらずしも、遠からずってところか。もう
+line2 <shift> # すこし、細かく指摘した方がよかったかな）
+com09 0 39
+display
+location 34
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ここじゃないか？」
+display
+com11 0 3
+sound 125
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「髪？　ヘアスタイルで、犯人がわかるわけ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ。悪いヤツは、たいてい五分刈りとか、
+line2 <shift> # スポーツ刈りとかしてるもんだよ」
+display
+com11 0 3
+sound 126
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……それ、思い込みなんじゃない？　他の
+line2 <shift> # 髪型だって、悪い人なんて、たくさんいるわ」
+display
+com11 0 3
+sound 127
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「フフン、そんなイメージに、
+line2 <shift> # まどわされてるようじゃ、まだまだねっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （偏見だったか……。髪型で、犯人が、
+line2 <shift> # 見分けられれば、警察は苦労しないよな）
+com09 0 39
+display
+location 35
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ここじゃないか？」
+display
+com11 0 3
+sound 128
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「リボン？　犯人がリボンつけてるかどうか
+line2 <shift> # なんて、わからないじゃない？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「髪飾りつけてる人には、悪いヤツが多いって、
+line2 <shift> # どこかで……」
+display
+com11 0 3
+sound 129
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「どういう意味よーっ！
+line2 <shift> # じゃあ、私も悪いやつだって言うわけ？」
+display
+com11 0 3
+sound 130
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ムカついたー……。あんた、罰金１億円ね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなムチャな……。罪状はなんだよ？」
+display
+com11 0 3
+sound 131
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「署長さんをバカにした罪よ！
+line2 <shift> # ほーら、さっさと１億円、払いなさーい！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （怒らせてしまった……。リボンなんかで、
+line2 <shift> # 犯人がわかるはず、ないよな）
+com09 0 39
+display
+location 36
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ここじゃないか？」
+display
+com11 0 3
+sound 132
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「う……、な、なんでそんなところで、
+line2 <shift> # 犯人が、わかるのよ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、こうサイズとかで……」
+display
+com11 0 3
+sound 133
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……って、なに見てるのー！？
+line2 <shift> # も〜、ばかばか〜」
+display
+com11 0 3
+sound 134
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「あんたなんか、牢屋に入れて、
+line2 <shift> # 一生出してやらないんだからーっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、おい、許してくれよー！」
+display
+com11 0 3
+sound 135
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ぜーったい、許さないー！
+line2 <shift> # この変態っ！　ド変態っ！　ｄｅｒ変態っ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ドイツ語で、ののしられてしまった。
+line2 <shift> # いい加減な指摘、するもんじゃないな……）
+com09 0 39
+display
+location 37
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「こいつじゃないか？」
+display
+com11 0 3
+sound 136
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「え？　どうしてこの子を見れば、わかるの？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、こういうヌイグルミが、
+line2 <shift> # 実は黒幕だったりするんだ」
+display
+com11 0 3
+sound 137
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「そんなわけないでしょーっ！　この子を、
+line2 <shift> # バカにすると、許さないんだからーっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あああ、悪かったよ」
+display
+com11 0 3
+sound 138
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「フンだっ。あんたなんかに、
+line2 <shift> # きいた私が、バカだったわ」
+display
+com11 0 3
+sound 139
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ごめんねー、気にしちゃダメだからね。
+line2 <shift> # こいつは後で、牢屋に放り込んでおくから……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ＳＦやファンタジーじゃあるまいし、
+line2 <shift> # ヌイグルミが、犯人のわけはないよな……）
+com09 0 39
+display
+location 38
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ここ、かなあ？」
+display
+com11 0 3
+sound 140
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なんでそんなとこで、犯人がわかるわけ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、なんでかって言われると、
+line2 <shift> # 困るんだけど……」
+display
+com11 0 3
+sound 141
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「フフン、わからないなら、わからないーって、
+line2 <shift> # 素直に言いなさいよね」
+display
+com11 0 3
+sound 142
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「ま、あんたに、犯人探しはムリかしら？
+line2 <shift> # ここは、署長の私ががんばるしかないわね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （うーん、あそこじゃないのか。
+line2 <shift> # だとすると、どこで見分けるんだろう……？）
+com09 0 39
+display
+location 40
+com11 0 3
+sound 143
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「なに、黙って見てるのよー？
+line2 <shift> # わからないわけ？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「……いや。こうして、じっと見てれば、
+line2 <shift> # わかるかと思ったんだけど」
+display
+com11 0 3
+sound 144
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……って、まるで、
+line2 <shift> # 私が犯人みたいじゃないの〜」
+display
+com11 0 3
+sound 145
+name 0 0 <names:1>  # Iori
+line1 <shift> # 「……署長にケンカ売るなんて、いい度胸だわ。
+line2 <shift> # あんたなんか、百叩きの刑なんだからーっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （鬼の署長モードに入ってしまった！
+line2 <shift> # ボンヤリ、見てるんじゃなかったな）
+com09 0 39
+display
+location 39
+unk02

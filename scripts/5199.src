@@ -1,0 +1,303 @@
+com2c 0 17
+com2d 0 13
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ライブのため、地方の市民ホールにやってきた。
+line2 <shift> # リハーサルを終え、あとは本番を待つばかりだ）
+display
+com11 0 4
+sound 300
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「プロデューサーさん、きいて下さい！
+line2 <shift> # 今日、実は……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ。どうしたんだ、春香？」
+display
+com11 0 4
+sound 301
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「実は、私の地元の友達が、
+line2 <shift> # 見に来てくれてるみたいなんです！」
+display
+com11 0 4
+sound 302
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ちょっと遠いところなのに、
+line2 <shift> # わざわざ来てくれるなんて、私、嬉しくて」
+display
+com11 0 4
+sound 303
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「それで、あの……、ステージが始まるまで、
+line2 <shift> # まだ時間あると思うし……」
+display
+com11 0 4
+sound 304
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「少しだけ、楽屋を抜けて、
+line2 <shift> # 友達に会ってきてもいいですか？」
+com03 0 2
+choice1 <shift> # 仕方ないな、５分だけだぞ
+line2
+com09 0 10
+com08
+choice2 <shift> # 許可したくないなぁ……
+line2
+com09 0 11
+com08
+com07
+com09 0 11
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「仕方ないな、許可するよ。
+line2 <shift> # でも、５分だけだぞ？」
+display
+com11 0 4
+sound 305
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「わっ、やった！　ありがとうございます！
+line2 <shift> # プロデューサーさん大好き♪」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ははは。やれやれ……。
+line2 <shift> # 時間には、戻ってきてくれよ」
+display
+com11 0 4
+sound 306
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はーい♪」
+com22 0 30
+com09 0 29
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うーん、友達に会いたい気持ちは、
+line2 <shift> # わかるけど……。許可したくないなぁ」
+display
+com11 0 4
+sound 307
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ええっ、どうしてですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「もうすぐ本番なんだし、話が弾みすぎて、
+line2 <shift> # 春香が調子崩したりしたら、困るよ」
+display
+com11 0 4
+sound 308
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「だ、大丈夫ですってばぁ。
+line2 <shift> # 私だって、プロですから！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わかったわかった。行ってよし。
+line2 <shift> # ただし、５分だけ。な？」
+display
+com11 0 4
+sound 309
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「えっ……。いいんですか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今、会いたいんだろう？　いいよ。
+line2 <shift> # でも、時間までには戻ってきてくれ」
+display
+com11 0 4
+sound 310
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あっ、はーい。了解です。行ってきます！」
+com22 0 30
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しかし……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （遅いな……。もう１０分過ぎたぞ。そろそろ、
+line2 <shift> # 楽屋でスタンバイしてないといけないんだけど）
+display
+com21 0 30
+com11 0 4
+sound 311
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「お、遅くなりました！　はぁ、はぁ……」
+display
+com11 0 4
+sound 312
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「すみません……。
+line2 <shift> # その、つい、話が盛り上がっちゃって」
+com03 0 3
+choice1 <shift> # やれやれ、遅刻だぞ
+line2
+com09 0 30
+com08
+choice2 <shift> # いいから早く着替えて
+line2
+com09 0 31
+com08
+choice3 <shift> # 調子に乗るな！
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やれやれ、遅刻だぞ。ぎりぎり間に合ったから
+line2 <shift> # いいけど……。ところで、友達はどうだった？」
+display
+com11 0 4
+sound 313
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「す、すみません。はい……、結構、久しぶりに
+line2 <shift> # 会った子が、ひとり、いたんですけど……」
+display
+com11 0 4
+sound 314
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「それがその……、こないだまで、
+line2 <shift> # カゼをこじらせてて、入院してたらしくって」
+display
+com11 0 4
+sound 315
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ムリして来てもらったみたいで、なんだか、
+line2 <shift> # 悪い気がするし、それに私、ちょっと心配で」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうか。それで遅れたのか……。春香は優しい
+line2 <shift> # な。でも、友達のことなら多分、心配無用だ！」
+display
+com11 0 4
+sound 316
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「ええっ、どうしてですかっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「元気一杯の春香のステージを見れば、その友達
+line2 <shift> # も、きっと元気になってくれるから……。な！」
+display
+com11 0 4
+sound 317
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「あっ、はい！　そうですよね！
+line2 <shift> # よーし、いつも以上に頑張っちゃいます！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （春香のやる気に、火がついたようだ。
+line2 <shift> # 今日のステージは、熱いものになりそうだな）
+com09 0 49
+display
+location 31
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「間に合ってよかった。
+line2 <shift> # もうすぐ本番だ。準備を頼むよ」
+display
+com11 0 4
+sound 318
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「はい。あの……、
+line2 <shift> # 聞かないんですか、友達のこと」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「詮索は、しないよ。それよりほら、
+line2 <shift> # 早く着替えて。時間がないんだ」
+display
+com11 0 4
+sound 319
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「は、はい」
+display
+com11 0 4
+sound 320
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「久しぶりに会えて、よかったな。
+line2 <shift> # もうちょっと、時間があったらなぁ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだなぁ……。い、いや、今は、とにかく、
+line2 <shift> # 着替えだ。口は動かさずに手を動かそう。な？」
+display
+com11 0 4
+sound 321
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「むうぅ。わかりましたっ。では着替えるので、
+line2 <shift> # プロデューサーさんは楽屋の外にいて下さいね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （少し、口うるさかったかな。もうちょっとちゃ
+line2 <shift> # んと、春香の話をきいてやればよかったか……）
+com09 0 49
+display
+location 32
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「こらこら、あまり調子に乗るな！」
+display
+com11 0 4
+sound 322
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「は、はい！？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「これから友達に、いいとこ見せられると思って、
+line2 <shift> # 少し、うかれてるんじゃないか？」
+display
+com11 0 4
+sound 323
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「そんなことないですよぉ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「それでも……、まぁ、遅刻は、よくないぞ。
+line2 <shift> # すぐに本番なんだ。気を引き締めて欲しいな」
+display
+com11 0 4
+sound 324
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「わかってますってば！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「本番前だってのに、
+line2 <shift> # いまいち、緊張感が足りない感じだよ」
+display
+com11 0 4
+sound 325
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「大丈夫ですってばぁ！
+line2 <shift> # プロデューサーさん、心配のしすぎですよ？」
+display
+com11 0 4
+sound 326
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「せっかく、友達のおかげで、
+line2 <shift> # 緊張も、ほぐれたと思ってたのになぁ」
+display
+com11 0 4
+sound 327
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「私、そんなに、
+line2 <shift> # 信用してもらえてないのかなぁ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「い、いや、そんなことは、ないぞ？」
+display
+com11 0 4
+sound 328
+name 0 0 <names:2>  # Haruka
+line1 <shift> # 「もうっ、いいです！　もう本番前ですから！
+line2 <shift> # 着替えますからっ。緊張しますからっ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （しまった、春香が、へそを曲げてしまった。
+line2 <shift> # ライブへの影響が、激しく心配だ……）
+com09 0 49
+display
+location 49
+unk02

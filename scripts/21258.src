@@ -1,0 +1,270 @@
+com2c 0 43
+com2d 0 51
+com32 0 0
+com11 0 1
+sound 400
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「プロデューサーさん、いま収録した曲って、
+line2 <shift> # ＴＶドラマの主題歌になるんですよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうです。詞も曲も、全部イメージに合わせて、
+line2 <shift> # つくりこんでもらいました」
+display
+com11 0 1
+sound 401
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「しっとりしていて、とてもいい歌ですよね。番
+line2 <shift> # 組で流れたら、きっと女性は泣いてしまいます」
+com03 0 3
+choice1 <shift> # あずささん自身も、ですか？
+line2
+com09 0 10
+com08
+choice2 <shift> # ああいう歌、得意ですもんね
+line2
+com09 0 11
+com08
+choice3 <shift> # 女泣かせって、わけですね
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あずささん自身も、ですか？」
+display
+com11 0 1
+sound 402
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「た、多分……。私、曲がいいと、歌ってるのが
+line2 <shift> # 自分だって忘れて、聞き入ってしまうので」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああいう歌、得意ですもんね」
+display
+com11 0 1
+sound 403
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「たしかに、私向きかもしれませんね。でも
+line2 <shift> # 今回は、曲に負けてしまった気がします」
+display
+com11 0 1
+sound 404
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「こういう歌にめぐり合うこと、あるんですね。
+line2 <shift> # まだまだ、勉強が必要です」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「女泣かせって、わけですね」
+display
+com11 0 1
+sound 405
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「そう言われると、こう、悪いことをしている
+line2 <shift> # ような気に、なってしまいますね」
+display
+com11 0 1
+sound 406
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「私から見れば、プロデューサーさんの方が。
+line2 <shift> # い、いえ、なんでもないです……」
+com09 0 29
+display
+location 29
+com11 0 1
+sound 407
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「んー。でも、このドラマ、オンエアされても
+line2 <shift> # ……私、見ている時間、あるのかしら？」
+display
+com11 0 1
+sound 408
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「最近、さすがに連続物を見ている余裕がなくて。
+line2 <shift> # 見るのは、１話完結のものばかりです」
+com03 0 3
+choice1 <shift> # 歌番組は、ちゃんと見てます？
+line2
+com09 0 30
+com08
+choice2 <shift> # ニュースとかは、どうです？
+line2
+com09 0 31
+com08
+choice3 <shift> # ビデオ録画すれば、いいのでは？
+line2
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「歌番組は、ちゃんと見てます？」
+display
+com11 0 1
+sound 409
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、はい。そっちは、なんとかがんばって。
+line2 <shift> # 目を通すのは、半分仕事みたいなものですし」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ニュースとかは、どうです？」
+display
+com11 0 1
+sound 410
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「できる限りは、目を通しています。けれど、
+line2 <shift> # むずかしいニュースは、全然頭に残らなくて」
+display
+com11 0 1
+sound 411
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「まじめに見ているのは、天気予報と占いコー
+line2 <shift> # ナーと……。じ、自慢になりませんね、これ」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ビデオ録画すれば、いいのでは？」
+display
+com11 0 1
+sound 412
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「はじめは、そうしていたんですけれど、結局
+line2 <shift> # 見る時間がなくて、そのままに……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あ、そうか。それじゃ、意味がないですね」
+display
+com11 0 1
+sound 413
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「すみません。文句を言ったみたいになってし
+line2 <shift> # まって。仕事が忙しいのは、いいことですよね」
+com09 0 49
+display
+location 49
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ところで、１話完結のドラマって、どんなの
+line2 <shift> # 見るんです？　２時間物のサスペンスですか？」
+display
+com11 0 1
+sound 414
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「じ、じつは……すこし恥ずかしいのですけれど、
+line2 <shift> # 悪者をやっつける時代劇とかを」
+display
+com11 0 1
+sound 415
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「頭を使わずに見られるので、つい。もしファン
+line2 <shift> # にバレたら、大笑いされてしまいそう……」
+com03 0 3
+choice1 <shift> # お、俺も笑ってしまいそうです
+line2
+com09 0 50
+com08
+choice2 <shift> # 微笑ましくて、いいのでは？
+line2
+com09 0 51
+com08
+choice3 <shift> # 逆に、泣くかもしれません
+line2
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+com34 0 3
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お、俺も笑ってしまいそうです」
+display
+com11 0 1
+sound 416
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あっ、ひどいですー。もし笑ったら、えーと、
+line2 <shift> # 暴れん坊アイドルが、成敗してしまいますっ」
+display
+com11 0 1
+sound 417
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「……きゅ、急にこらえないでください。つまら
+line2 <shift> # ないから、くすぐってしまおうかしら。ふふっ」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （しばらく、じゃれて遊んでしまった……。楽し
+line2 <shift> # かったけど、これこそ、ファンには秘密だな）
+com09 0 69
+display
+location 51
+com34 0 1
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「微笑ましくて、いいのでは？」
+display
+com11 0 1
+sound 418
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「……そんな風に、思ってくれますか？
+line2 <shift> # 失望させてしまいそうな気も」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ためしに、どこかで公表してみます？」
+display
+com11 0 1
+sound 419
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「だ、ダメです。これ、まだ誰にも話して
+line2 <shift> # いないので。絶対に秘密ですからね……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （ちょっと、あわてさせてしまった。隠すほどの
+line2 <shift> # ことでもないと思うけど……。ま、いいか）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「逆に、泣くかもしれません」
+display
+com11 0 1
+sound 420
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「えっ？　どうしてですか？　いくらなんでも、
+line2 <shift> # そこまでは……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「一流アイドルが、時代劇に夢中なんて。
+line2 <shift> # 理想像がこなごなって、感じかも」
+display
+com11 0 1
+sound 421
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「あ、あ……では、私、見るのやめますっ。
+line2 <shift> # それでは、ファンの人がかわいそう……」
+display
+com11 0 1
+sound 422
+name 0 0 <names:1>  # Azusa
+line1 <shift> # 「自覚が足りませんでしたね。いくら好き
+line2 <shift> # だからって、そういうのはよくないです」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （かるく冷やかすつもりが、やけに堅苦しい話に。
+line2 <shift> # 会話の花は、すっかりしぼんでしまった……）
+com09 0 69
+display
+location 69
+unk02

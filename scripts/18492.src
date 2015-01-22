@@ -1,0 +1,535 @@
+com2c 0 119
+com2c 0 90
+com2d 0 31
+com2e 0 111
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （ＩＵ決勝！　ついに、この日を迎えたか！
+line2 <shift> # これまでのアイドル活動の集大成が、今日だ！）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （今日のオーディションで勝った者、それが、
+line2 <shift> # ただ一人のトップアイドル……）
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （やよいと俺が追ってきた夢に、
+line2 <shift> # 今日、結論が出る……！）
+display
+com11 0 0
+sound 10000
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ここまで、来ちゃいましたね、
+line2 <shift> # プロデューサー！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「泣いても笑っても、これがファイナルだな」
+display
+com11 0 0
+sound 10001
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「私とプロデューサーが出会ってから、
+line2 <shift> # もう１年ぐらい、たつんですよねっ！」
+display
+com11 0 0
+sound 10002
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あの、１年前、私とプロデューサーで、
+line2 <shift> # 初めてした約束、覚えてたりしますか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「覚えてるよ。忘れるわけないだろ」
+display
+com20 0 30
+com1f 0 30
+com32 0 1
+com11 0 0
+sound 10003
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「私、厳しくっても、がんばりますっ！」
+display
+com11 0 0
+sound 10004
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「みんなに元気を、いっぱいあげたいから……、
+line2 <shift> # ＩＵで優勝して、トップアイドルになります！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「よし、よく言った！　俺も同じ気持ちだよ。
+line2 <shift> # 必ず、夢をかなえような、やよい！」
+display
+com11 0 0
+sound 10005
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はいっ！　一緒に、がんばりましょう、
+line2 <shift> # プロデューサー。約束ですよ、いぇい！」
+display
+com20 0 30
+com1f 0 30
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「昨日のことのように、思い出せるよ」
+display
+com11 0 0
+sound 10006
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「私もです！　あの日から、色んなことがあった
+line2 <shift> # から、すごく昔みたいに思えたりもするけど」
+display
+com11 0 0
+sound 10007
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「でも、約束のことは、ハッキリ覚えてます」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「うん。本当に、色々あったよな。
+line2 <shift> # けど、それは……」
+com03 0 3
+choice1 <shift> # 今日につながっている
+line2
+com09 0 10
+com08
+choice2 <shift> # 明日につながっている
+line2
+com09 0 11
+com08
+choice3 <shift> # なんだったんだろう？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今日につながっている。色々あったからこそ、
+line2 <shift> # 今日という日を、迎えられたんだ」
+display
+com11 0 0
+sound 10008
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はい。レッスンは厳しかったですけど、
+line2 <shift> # とってもわかりやすかったです！」
+display
+com11 0 0
+sound 10009
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「オーディションは緊張しっぱなしでしたけど、
+line2 <shift> # 励ましてもらった言葉、たくさん覚えてます」
+display
+com11 0 0
+sound 10010
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「つらいことも、楽しいことも、泣きそうになっ
+line2 <shift> # たことも、全部プロデューサーがいたから……」
+display
+com11 0 0
+sound 10011
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「プロデューサーが、いつも応援してくれたから、
+line2 <shift> # 私、ここまで来られました！」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「明日につながっている。色々あったからこそ、
+line2 <shift> # 明日という日を、迎えられるんだ」
+display
+com11 0 0
+sound 10012
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「え……。明日は、何か特別な日ですか？
+line2 <shift> # 今日の方が、特別っぽい気がします」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだなあ。でも、明日だって、特別な日だぞ。
+line2 <shift> # 『やよいが優勝した次の日』だからな！」
+display
+com11 0 0
+sound 10013
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「そっかー。じゃあ、今日、優勝しないと、
+line2 <shift> # 明日が特別な日に、ならないですね！」
+display
+com11 0 0
+sound 10014
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あれ？　てことは、やっぱり特別な日は、今日
+line2 <shift> # ですか？　……うう。頭、ぐちゃぐちゃですー」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あああ。ごめん、混乱させて。別に、
+line2 <shift> # 今日でも明日でも、どっちでもいいんだ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「今までの苦労は、やよいがトップアイドルにな
+line2 <shift> # るためにしてきたって、言いたかったんだよ」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「なんだったんだろう？
+line2 <shift> # ああ、昔に戻りたいな……」
+display
+com11 0 0
+sound 10015
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ええっ！？　どうして戻りたいんですか？
+line2 <shift> # せっかく決勝に残ったのに！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いや、だって俺、色々とミスが多かったから
+line2 <shift> # さ……。ノーミスで、ここまで来たかったよ」
+display
+com11 0 0
+sound 10016
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「うう、プロデューサー、自分に厳しすぎかも。
+line2 <shift> # ノーミスじゃなくても、いいじゃないですかー」
+display
+com11 0 0
+sound 10017
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「スーパーでも、『ワケあり処分品』で売ってる
+line2 <shift> # 野菜、どれもお得で、おいしいんですよー」
+display
+com11 0 0
+sound 10018
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ちょっと、傷がついてる野菜だって、栄養と味
+line2 <shift> # は、他のに負けないし、とにかく安いんです！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そ、そうか。何の話だったか、
+line2 <shift> # よくわからなくなってきたけど、とにかく……」
+com09 0 19
+display
+location 19
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ありがとうな、やよい。
+line2 <shift> # 俺を、ここまで連れてきてくれて……」
+display
+com11 0 0
+sound 10019
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「えっ！　それは、逆ですよー！」
+display
+com11 0 0
+sound 10020
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「私を、ここまで連れてきてくれたのが、
+line2 <shift> # プロデューサーです！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あはは、じゃあ、お互いありがとう、だな！」
+display
+com11 0 0
+sound 10021
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はいっ！」
+display
+com11 0 0
+sound 10022
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「あ、響……。また、すごくピリピリしてるな」
+display
+com11 0 0
+sound 10023
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ん？　どうした、やよい？」
+display
+com11 0 0
+sound 10024
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「よしっ、行ってきます！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ちょ……、やよい！
+line2 <shift> # 行くって、響のところへか！？」
+display
+com11 0 0
+sound 10025
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「響さんっ！」
+display
+com11 0 0
+sound 10026
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「……」
+display
+com11 0 0
+sound 10027
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あの、響さん、ＩＵ予選の時、いつも沖縄の食
+line2 <shift> # べ物、私に持ってきてくれましたよね」
+display
+com11 0 0
+sound 10028
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「私、それが、とっても嬉しかったんです！」
+display
+com11 0 0
+sound 10029
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「優しそうな顔で、明るく私に、沖縄の食べ物が、
+line2 <shift> # どんなにおいしいか、教えてくれて」
+display
+com11 0 0
+sound 10030
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あと、実は、響さんって、お姉さんみたい
+line2 <shift> # だなあとか、思ってました！　えへへ……」
+display
+com11 0 0
+sound 10031
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「私、長女だから、お兄さんやお姉さんに、
+line2 <shift> # ちょっとあこがれてて」
+display
+com11 0 0
+sound 10032
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「だから、響さんに明るく話しかけられて、
+line2 <shift> # いっぱい元気、もらってたんですよ！」
+display
+com11 0 0
+sound 10033
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「……そっか」
+display
+com11 0 0
+sound 10034
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「だから、今日は私から響さんへ、お返しです。
+line2 <shift> # これ、どうぞ！」
+display
+com11 0 0
+sound 10035
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「……何、これ？」
+display
+com11 0 0
+sound 10036
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「私の、手作りお弁当です！
+line2 <shift> # 食べると、元気が出ますよ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やよい……」
+display
+com11 0 0
+sound 10037
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「何で……？　だって、自分はやよいの敵で……、
+line2 <shift> # 潰すって、言っちゃって……。うう……」
+display
+com11 0 0
+sound 10038
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あの、気にいらなかったですか？　ちゃんと卵
+line2 <shift> # 焼きも入ってますよ。豪華にウインナーも……」
+display
+com11 0 0
+sound 10039
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「ぐすっ、うええ……。だ、ダメだ。
+line2 <shift> # 泣いちゃダメだ、これから本番なのに……」
+display
+com11 0 0
+sound 10040
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ひ、響さん？」
+display
+com11 0 0
+sound 10041
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「くぅ、うえ、ええええんっ！
+line2 <shift> # やよい、ありがとっ！　ありがとうっ！」
+display
+com11 0 0
+sound 10042
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「あ、あの、響さん、私のせいで、泣いちゃった
+line2 <shift> # んですか？　なんか、ごめんなさい……」
+display
+com11 0 0
+sound 10043
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「謝らなくて、いいよっ！」
+display
+com11 0 0
+sound 10044
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「このお弁当で、やよいから、元気、
+line2 <shift> # 満タンになるくらい、いっぱいもらったから！」
+display
+com11 0 0
+sound 10045
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「ほんとですか！？　良かったー。
+line2 <shift> # 朝早く起きて、作ったかいがありました！」
+display
+com11 0 0
+sound 10046
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「『お節介するな』って、また怒られる
+line2 <shift> # かなーって思ってたんですけど。えへへ……」
+display
+com11 0 0
+sound 10047
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「いろいろ、キツいこと言って、ごめんね」
+display
+com11 0 0
+sound 10048
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「今日で最後の、ほんとに最後の勝負だ。
+line2 <shift> # 泣いても、笑っても、恨みっこなしの決勝戦だ」
+display
+com11 0 0
+sound 10049
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はい！　私、負けませんよ！」
+display
+com11 0 0
+sound 10050
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「自分も、負けないから！」
+display
+com11 0 0
+sound 10051
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「私、響さんと決勝戦で戦えて、嬉しいです！」
+display
+com11 0 0
+sound 10052
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「そうだね。そう言われてみると、自分も、
+line2 <shift> # そうかも！　これっきりの一本勝負だから……」
+display
+com11 0 0
+sound 10053
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「元気いっぱい、最高の勝負にしよう！
+line2 <shift> # じゃ、ステージで！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「……響！　ちょっと待った！」
+display
+com11 0 0
+sound 10054
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「ん？　７６５プロ、何だよ？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺からも、言わせてくれ。
+line2 <shift> # ……オーディション前には、物を食べないこと」
+display
+com11 0 0
+sound 10055
+com4c 0 2
+name 0 0 <names:3>  # Echo
+line1 <shift> # 「あっはは！　７６５プロは、やっぱケチだね！
+line2 <shift> # でも、わかった！　ＩＵが終わったら食べる！」
+display
+com11 0 0
+sound 10056
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はいっ！　そうして下さい！」
+display
+com11 0 0
+sound 10057
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「良かったです。響さん、元気が出て！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「やよいの優しい気持ちが、響に届いたんだよ」
+display
+com11 0 0
+sound 10058
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「響さん、あんなに元気になっちゃったら、
+line2 <shift> # このあとの決勝、強敵になりますねっ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ！　でも、やよいは、それを望んでたんだ
+line2 <shift> # ろ？　全力の響と、全力で戦ってこい！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そして、ファンの皆にも、響にも、ＩＵをみて
+line2 <shift> # る全ての人に、やよいの元気を、わけてやれ！」
+display
+com11 0 0
+sound 10059
+com4c 0 1
+name 0 0 <names:2>  # Yayoi
+line1 <shift> # 「はいっ！　全力全開マックスの中のマックスで、
+line2 <shift> # 行ってきまーっす！」
+com09 0 99
+display
+location 99
+unk02

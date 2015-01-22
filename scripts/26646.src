@@ -1,0 +1,419 @@
+com2c 0 90
+com2d 0 41
+com32 0 0
+com11 0 0
+sound 10000
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「取材、思ったより早く終わりました。プロ
+line2 <shift> # デューサー、次の仕事まで時間ありますよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うん。俺は書類整理でもしてるから、
+line2 <shift> # 千早は休けいを……」
+display
+com11 0 0
+sound 10001
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「いえ。疲れていませんから、大丈夫です。それ
+line2 <shift> # より何か、私にできること、ありませんか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「できること？」
+display
+com11 0 0
+sound 10002
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「私に、してほしいこと、でもいいんですが。
+line2 <shift> # 何でもいいですから、何か言って下さい」
+com03 0 3
+choice1 <shift> # 話が見えないんだが
+line2
+com09 0 10
+com08
+choice2 <shift> # 変なものを食べたんじゃ？
+line2
+com09 0 11
+com08
+choice3 <shift> # 何か失敗したのか？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「すまん、千早。話が見えないんだが……」
+display
+com11 0 0
+sound 10003
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ですから、して欲しいことは何かないかと」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、だから、どうしてそういう話に、
+line2 <shift> # なるのかって、きいているんだけど」
+display
+com11 0 0
+sound 10004
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「それは、その……。プロデューサーへの日ごろ
+line2 <shift> # の感謝の気持ちを、何かして伝えたくて……」
+com09 0 29
+display
+location 11
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「変なものを食べたんじゃ？
+line2 <shift> # 千早、どこか具合でも悪いのか？」
+display
+com11 0 0
+sound 10005
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「具合が悪くないと、私が、こんなことを
+line2 <shift> # 言い出すことに、納得いかないですか？」
+display
+com11 0 0
+sound 10006
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「少しショックです……。私は、ただ、日ごろの
+line2 <shift> # 感謝を、何かして伝えたかっただけなんですが」
+com09 0 29
+display
+location 12
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「何か失敗したのか？　で、それをごまかす
+line2 <shift> # ために、俺に気をつかってるんじゃ……？」
+display
+com11 0 0
+sound 10007
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「私、やましいことなんかありません。あったと
+line2 <shift> # しても、ごまかすようなことはしません！」
+display
+com11 0 0
+sound 10008
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「私のこと、そんな人間だと思ってたんですか？
+line2 <shift> # 残念です。くっ……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ご、ごめんっ！　そんなこと思ってないんだけ
+line2 <shift> # ど、つい……。理由が、わからなかったからさ」
+display
+com11 0 0
+sound 10009
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「理由は……、日ごろの感謝を、何かして、
+line2 <shift> # プロデューサーに伝えたいと……」
+com09 0 29
+display
+location 29
+com11 0 0
+sound 10010
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ファン感謝デーがあるなら、プロデューサー
+line2 <shift> # 感謝デーがあってもいいですよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「おいおい、プロデューサーが、アイドルの
+line2 <shift> # 世話をするのは当然だよ。ファンとは違う」
+display
+com11 0 0
+sound 10011
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「だとしても、私が、何かしたいんです。
+line2 <shift> # ……迷惑ですか？」
+com03 0 3
+choice1 <shift> # わがまま言っても、いいのか？
+line2
+com09 0 30
+com08
+choice2 <shift> # 気持ちだけでいいよ
+line2
+com09 0 31
+com08
+choice3 <shift> # 迷惑だ
+com09 0 32
+com08
+com07
+com09 0 32
+com08
+display
+location 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「わがまま言っても、いいのか？　とんでもない
+line2 <shift> # お願い、しちゃうかもしれないぞ？」
+display
+com11 0 0
+sound 10012
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「て、程度によりますが……、いえ！　プロ
+line2 <shift> # デューサーが望むなら、今日はどんなことでも」
+display
+com11 0 0
+sound 10013
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「わがまま言って、自由にふるまって下さい。
+line2 <shift> # 何を要求されても……、耐えてみせますから」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「いや、冗談だって。
+line2 <shift> # そんな悲壮な覚悟、しなくていいから」
+display
+com11 0 0
+sound 10014
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あ、良かった……。『これからフルマラソンを
+line2 <shift> # 走って来い』とかだったら、どうしようかと」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そんなこと願わないよ。俺の言う『とんでもな
+line2 <shift> # い』っていうのは……、いや、いいや。ははは」
+com09 0 49
+display
+location 31
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「気持ちだけでいいよ。なんか、悪いし」
+display
+com11 0 0
+sound 10015
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「気持ちを伝えたいから、何かしたいんです。
+line2 <shift> # ……迷惑なら、ハッキリそう言って下さい」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うーん、迷惑じゃないけど……。わかった。
+line2 <shift> # そこまで言うなら、何か、やってもらうか」
+display
+com11 0 0
+sound 10016
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はいっ。何でも言いつけて下さい！
+line2 <shift> # がんばって務めますので！」
+com09 0 49
+display
+location 32
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「迷惑だ。千早はアイドルとしての仕事に、
+line2 <shift> # 専念してくれるのが、一番だよ」
+display
+com11 0 0
+sound 10017
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「えっ！？　……そうですか、すみません」
+display
+com11 0 0
+sound 10018
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサーに私の感謝の気持ち、伝えたか
+line2 <shift> # ったんですが……、思い上がった行為でしたね」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああっ、いや、そういうわけじゃなくて！　今、
+line2 <shift> # 千早は、仕事だけで、じゅうぶん大変だし……」
+display
+com11 0 0
+sound 10019
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「大丈夫です、仕事には影響を出しません。
+line2 <shift> # ですから……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「むうう、くいさがるな……。
+line2 <shift> # わかった。そこまで言うなら、お願いするよ」
+display
+com11 0 0
+sound 10020
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……はい！　ありがとうございます！」
+com09 0 49
+display
+location 49
+com11 0 0
+sound 10021
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「それでプロデューサー、何をすれば？
+line2 <shift> # 雑用でも、なんでもいいので、言って下さい」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「雑用かー。そういえば、家の洗濯物が、
+line2 <shift> # たまってるんだよな。特に下着が」
+display
+com11 0 0
+sound 10022
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「し、下着……！？　プロデューサーの……。
+line2 <shift> # そ、それを私が……」
+display
+com11 0 0
+sound 10023
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「だ、大丈夫です。男性の下着について知識がな
+line2 <shift> # いので、取り扱い方を調べる必要がありますが」
+display
+com11 0 0
+sound 10024
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「おそらく、洗浄、殺菌ののち、乾かして、
+line2 <shift> # のりづけ。仕上がりを詳細に検品して完了かと」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ええっ！　下着を殺菌して、のりづけ！？
+line2 <shift> # その上、詳細に検品だって？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「あわわ。さっきのは、たんなる独り言だから！
+line2 <shift> # 洗濯は、無し。千早に、やってもらうなら……」
+com03 0 3
+choice1 <shift> # 歌を
+com09 0 50
+com08
+choice2 <shift> # 料理を
+com09 0 51
+com08
+choice3 <shift> # 片付けを
+com09 0 52
+com08
+com07
+com09 0 52
+com08
+display
+location 50
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「歌を歌ってもらおうかな。ただし、
+line2 <shift> # 今じゃなくて、次にステージに立った時に」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「せっかくだから、
+line2 <shift> # 最高の条件で歌ってもらいたいしな」
+display
+com11 0 0
+sound 10025
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「歌ですか？　それなら、私の得意分野ですが、
+line2 <shift> # プロデューサーは、いつもきいていますよね？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「そうだけど、きき飽きるような歌は、
+line2 <shift> # 歌ってないだろ？」
+display
+com11 0 0
+sound 10026
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「あ……。もちろんです。ありえません」
+display
+com11 0 0
+sound 10027
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「わかりました。次のステージでは、感謝の
+line2 <shift> # 気持ちをこめて、最高の歌を歌ってみせます！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （千早は、うれしそうに笑った。
+line2 <shift> # 最高の歌か。楽しみだな！）
+com09 0 69
+display
+location 51
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「料理をしてもらおうかな。カレーとか……」
+display
+com11 0 0
+sound 10028
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「カレー、ですか？
+line2 <shift> # あの、それは、今すぐでしょうか？」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「もしかして、料理は苦手か？」
+display
+com11 0 0
+sound 10029
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「いえ、不可能ではありません。でも今、
+line2 <shift> # 事務所には、カレーの材料がないですから……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「ああ、そうだった。なら、
+line2 <shift> # カレー味のカップラーメンでもいいけど」
+display
+com11 0 0
+sound 10030
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「プロデューサー、それは簡単すぎますし、
+line2 <shift> # インスタント食品は、食べてほしくありません」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「え……。でも、時間もないことだし、
+line2 <shift> # 手間のかかるものは……」
+display
+com11 0 0
+sound 10031
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「そんな栄養バランスのかけらもない
+line2 <shift> # 食生活では、身体をこわします」
+display
+com11 0 0
+sound 10032
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「……わかりました。道具から全てそろえて、
+line2 <shift> # 私の作れる、最高のカレーを作ってみせます！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （張り切って作り始めた千早だったが、次の仕事
+line2 <shift> # があったため、途中で切り上げることに……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （千早は、不満そうだった。
+line2 <shift> # もっと簡単なこと、頼めばよかったな）
+com09 0 69
+display
+location 52
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「片付けをやってもらうか。ダンボールに入って
+line2 <shift> # いる書類、ファイリングしてくれ。出来るか？」
+display
+com11 0 0
+sound 10033
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はい、任せて下さい。
+line2 <shift> # カンペキに、こなしてみせます！」
+display
+com22 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （３０分後……）
+display
+com21 0 30
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「千早ー、どうだ？　そろそろ終わりそうか？」
+display
+com11 0 0
+sound 10034
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「はい。あと少しです……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「お疲れさま。……って、どうしたんだ千早、
+line2 <shift> # 声が変だぞ！？」
+display
+com11 0 0
+sound 10035
+name 0 0 <names:1>  # Chihaya
+line1 <shift> # 「ダンボールに、
+line2 <shift> # ほこりがつもっていたので……」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # 「うわあ、大変だ！　もう話すな！　書類も放っ
+line2 <shift> # といていいから、すぐにうがいしてきてくれ！」
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （大事をとって、その後の仕事はキャンセルした。
+line2 <shift> # 幸い、ノドは、すぐに良くなったが……）
+display
+name 0 1 <names:2>  # Protagonist
+line1 <shift> # （仕事に影響が出てしまったことで、千早は、
+line2 <shift> # とても落ち込んでいた。頼む仕事、間違えたな）
+com09 0 69
+display
+location 69
+unk02

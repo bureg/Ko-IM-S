@@ -1,0 +1,639 @@
+com2c 0 119
+com2d 0 43
+com2e 0 131
+com32 0 0
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「千早、合格おめでとう！
+line2 <shift> # 初予選、無事に突破だな！」
+display
+com11 0 0
+sound 10000
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ありがとうございます。でも、まだ、
+line2 <shift> # 一勝しただけですから、喜ぶのは早いかと」
+display
+com11 0 0
+sound 10001
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「やっぱ勝ったんだね。千早さんなら、
+line2 <shift> # きっと楽勝だろうなって思ってたの！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「美希！　仕事は、もう終わったのか？」
+display
+com11 0 0
+sound 10002
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「ううん。ちょっと抜けて来たの。
+line2 <shift> # 千早さんに、おめでとうって言いたくて」
+display
+com11 0 0
+sound 10003
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「美希。気持ちはうれしいけど、あなたも、
+line2 <shift> # 自分の仕事に集中した方が、いいと思う」
+display
+com11 0 0
+sound 10004
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「ひんぱんに、私達の元を訪れていては、
+line2 <shift> # ９６１プロに移った意味が、ないでしょう？」
+display
+com11 0 0
+sound 10005
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「せっかく、時間の自由がきくようになったん
+line2 <shift> # だから、それを自分のために使いなさい」
+display
+com11 0 0
+sound 10006
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「え……。ミキ、今だって、
+line2 <shift> # ちゃんとミキのために、時間、使ってるの」
+display
+com11 0 0
+sound 10007
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「それに、自由な時間が欲しくて、
+line2 <shift> # ９６１プロに移ったわけじゃないし」
+display
+com11 0 0
+sound 10008
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「じゃあ、どうして移ったの？」
+display
+com11 0 0
+sound 10009
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「それは、高木社長が……、むー！
+line2 <shift> # 思い出しただけで、腹が立つってカンジ！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「高木社長との間に、何があったんだよ？」
+display
+com11 0 0
+sound 10010
+com4c 0 0
+name 0 3 <names:4>  # ???
+line1 <shift> # 「おっと、未来の歌姫、美希ちゃん！　汚い古巣
+line2 <shift> # の仲間と、まだサヨナラしてなかったのかい？」
+display
+com11 0 0
+sound 10011
+com4c 0 0
+name 0 3 <names:4>  # ???
+line1 <shift> # 「そんな掃きだめプロダクションとは、縁を切れ
+line2 <shift> # と言っただろう？　君に相応しくないのだから」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （誰だ？　この、やたら派手で、
+line2 <shift> # ムダにキザなおじさんは……）
+com03 0 3
+choice1 <shift> # 黒井社長ですか？
+line2
+com09 0 10
+com08
+choice2 <shift> # 美希のお父さんですか？
+line2
+com09 0 11
+com08
+choice3 <shift> # 高木社長ですか？
+line2
+com09 0 12
+com08
+com07
+com09 0 12
+com08
+display
+location 10
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まさか、あなたが黒井社長ですか？」
+display
+com11 0 0
+sound 10012
+com4c 0 0
+name 0 3 <names:5>  # President Kuroi
+line1 <shift> # 「ウィ。いかにも、私が９６１プロ社長の、
+line2 <shift> # 黒井だ。ご機嫌いかがかな、負け犬諸君」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「負け犬？　失礼ですね、俺達は、何にも負けて
+line2 <shift> # いませんよ。今日のＩＵ予選だって勝ちました」
+display
+com11 0 0
+sound 10013
+com4c 0 0
+name 0 3 <names:5>  # President Kuroi
+line1 <shift> # 「フンッ。生意気な。弱小で品性下劣な７６５
+line2 <shift> # プロに所属している時点で、負け犬だろうが」
+com09 0 19
+display
+location 11
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まさか、あなたは、美希のお父さんですか？」
+display
+com11 0 0
+sound 10014
+com4c 0 0
+name 0 3 <names:4>  # ???
+line1 <shift> # 「ま、いずれ美希ちゃんがトップアイドルになっ
+line2 <shift> # たら、育ての父、とは呼ばれるかもしれないね」
+display
+com11 0 0
+sound 10015
+com4c 0 0
+name 0 3 <names:5>  # President Kuroi
+line1 <shift> # 「そして９６１プロと、社長である私、黒井の名
+line2 <shift> # は、芸能史に永遠に刻まれることになるだろう」
+display
+com11 0 0
+sound 10016
+com4c 0 0
+name 0 3 <names:5>  # President Kuroi
+line1 <shift> # 「そんな私に会えて、今日はラッキーだな。
+line2 <shift> # 品性下劣な７６５プロの諸君！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「品性下劣！？　何を根拠に、
+line2 <shift> # そんなヒドイことを言うんですか？」
+display
+com11 0 0
+sound 10017
+com4c 0 0
+name 0 3 <names:5>  # President Kuroi
+line1 <shift> # 「根拠？　それはもちろん、７６５プロ社長の
+line2 <shift> # 高木だよ。彼ほど低俗な男はいないからな」
+com09 0 19
+display
+location 12
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「まさか、あなたは高木社長ですか？」
+display
+com11 0 0
+sound 10018
+com4c 0 0
+name 0 3 <names:4>  # ???
+line1 <shift> # 「ノンッ！　この美しく高潔な私を、こともあろ
+line2 <shift> # うに、あの品性下劣な高木と間違えるとは！」
+display
+com11 0 0
+sound 10019
+com4c 0 0
+name 0 3 <names:5>  # President Kuroi
+line1 <shift> # 「私は黒井！　９６１プロ社長の黒井だ！
+line2 <shift> # よく覚えておきたまえっ！」
+display
+com11 0 0
+sound 10020
+com4c 0 0
+name 0 3 <names:5>  # President Kuroi
+line1 <shift> # 「……ん？　君達は７６５プロ所属だろう？
+line2 <shift> # それなのに、社長の顔も、覚えていないのか？」
+display
+com11 0 0
+sound 10021
+com4c 0 0
+name 0 3 <names:5>  # President Kuroi
+line1 <shift> # 「はっははは！　社長がバカなら、部下もバカと
+line2 <shift> # いうわけか。こいつは、お笑いだな」
+display
+com11 0 0
+sound 10022
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……プロデューサー。あまり、おかしなことを
+line2 <shift> # 言って、恥をかかせないで下さい」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「す、すまん、千早」
+display
+com11 0 0
+sound 10023
+com4c 0 0
+name 0 3 <names:5>  # President Kuroi
+line1 <shift> # 「それにしても……」
+com09 0 19
+display
+location 19
+com11 0 0
+sound 10024
+com4c 0 0
+name 0 3 <names:5>  # President Kuroi
+line1 <shift> # 「美希ちゃん程の素晴らしいアイドルが、高木
+line2 <shift> # なんかの元にいたとは。なげかわしい限りだ」
+display
+com11 0 0
+sound 10025
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「そうそう！　その、なげ……、
+line2 <shift> # なげっぱなしな限りなの！」
+display
+com11 0 0
+sound 10026
+com4c 0 0
+name 0 3 <names:5>  # President Kuroi
+line1 <shift> # 「何しろ、７６５プロというところは、社長も
+line2 <shift> # ダメなら、所属アイドルもダメときている」
+display
+com11 0 0
+sound 10027
+com4c 0 0
+name 0 3 <names:5>  # President Kuroi
+line1 <shift> # 「アイドル育成のやり方も、古くさいし、
+line2 <shift> # プロデューサーも、ロクなのはいないだろうね」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「な……。７６５プロのやり方の、
+line2 <shift> # どこが古くさいっていうんですか！？」
+display
+com11 0 0
+sound 10028
+com4c 0 0
+name 0 3 <names:5>  # President Kuroi
+line1 <shift> # 「ききたいかね？　きいても、君達には、
+line2 <shift> # 理解できまいが……、まあいい。話してやろう」
+display
+com11 0 0
+sound 10029
+com4c 0 0
+name 0 3 <names:5>  # President Kuroi
+line1 <shift> # 「高木は昔から、アイドルの個性や意思を尊重
+line2 <shift> # するプロデュースを目指していたが……」
+display
+com11 0 0
+sound 10030
+com4c 0 0
+name 0 3 <names:5>  # President Kuroi
+line1 <shift> # 「そんなもの、誰も求めていない。今の人々が欲
+line2 <shift> # するのは、カンペキに作りこまれたアイドルだ」
+display
+com11 0 0
+sound 10031
+com4c 0 0
+name 0 3 <names:5>  # President Kuroi
+line1 <shift> # 「己を殺して、与えられた役柄を演じきった者
+line2 <shift> # だけが、アイドル界の王者となれるのだよ」
+display
+com11 0 0
+sound 10032
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「美希なら、そうなれる、とお考えなんですか？
+line2 <shift> # あなたの思い通りに動く、と」
+display
+com11 0 0
+sound 10033
+com4c 0 0
+name 0 3 <names:5>  # President Kuroi
+line1 <shift> # 「もちろんだ。美希ちゃんは、生まれつき、
+line2 <shift> # とても器用な子だ。そんなことは造作もない」
+display
+com11 0 0
+sound 10034
+com4c 0 0
+name 0 3 <names:5>  # President Kuroi
+line1 <shift> # 「私の言いつけを守り、他の人間との交流を絶つ
+line2 <shift> # よう心がけさえすれば、トップに立てるだろう」
+display
+com11 0 0
+sound 10035
+com4c 0 0
+name 0 3 <names:5>  # President Kuroi
+line1 <shift> # 「特に、敵である７６５プロとの交流は、
+line2 <shift> # 時間のムダだから、避けたまえよ、美希ちゃん」
+display
+com11 0 0
+sound 10036
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「……あふぅ。うん、わかってるってば。ミキだ
+line2 <shift> # って、どうせならトップアイドルになりたいし」
+display
+com11 0 0
+sound 10037
+com4c 0 0
+name 0 3 <names:5>  # President Kuroi
+line1 <shift> # 「９６１プロは、王者を育てるための場所。
+line2 <shift> # それ以外の者は存在を許されない場所だ」
+display
+com11 0 0
+sound 10038
+com4c 0 0
+name 0 3 <names:5>  # President Kuroi
+line1 <shift> # 「美希ちゃんにとって、７６５プロより数段、
+line2 <shift> # 居心地の良い場所になると思うよ。フフフ……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「９６１プロのやり方は、７６５プロとは全然違
+line2 <shift> # うようだ。それでもやっていけるのか、美希？」
+display
+com11 0 0
+sound 10039
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「うん、大丈夫なの！　だって黒井社長は、高木
+line2 <shift> # 社長と違って、ミキのこと大事にしてくれるし」
+display
+com11 0 0
+sound 10040
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「大事に……？　黙って言うことをきけ、他の人
+line2 <shift> # の意見はきくな、そう言われているのよ？」
+display
+com11 0 0
+sound 10041
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「それのどこが、大事にしているの？　それに、
+line2 <shift> # さっきの黒井社長の暴言、あれを許すつもり？」
+display
+com11 0 0
+sound 10042
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「まさか美希も、７６５プロのアイドルやプロ
+line2 <shift> # デューサーはダメで古くさいと思っているの？」
+display
+com11 0 0
+sound 10043
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「えっと……。プロデューサーは、くさくないし、
+line2 <shift> # 千早さん達アイドルもダメじゃないと思う……」
+display
+com11 0 0
+sound 10044
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「けど、高木社長はムカつくから、
+line2 <shift> # 黒井社長の言う通りなの！　……たぶん」
+display
+com11 0 0
+sound 10045
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「……。そう、わかったわ。それが、
+line2 <shift> # あなたの考えなら、もう何も言うことはない」
+display
+com11 0 0
+sound 10046
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「お互い、自分の信じる道のために、
+line2 <shift> # 頑張りましょう。さようなら、美希」
+display
+com11 0 0
+sound 10047
+com4c 0 2
+name 0 0 <names:3>  # Miki
+line1 <shift> # 「さ、さよなら、千早さん。……なんか話し方、
+line2 <shift> # 冷たいね。怒ってるんだ、ミキのこと」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ちょっと待った。なんだか険悪な雰囲気だけど、
+line2 <shift> # もう少し、二人で話し合った方がいいと思うぞ」
+display
+com11 0 0
+sound 10048
+com4c 0 0
+name 0 3 <names:5>  # President Kuroi
+line1 <shift> # 「悪いがそんな時間はない。お別れがすんで良か
+line2 <shift> # ったな。では行こう美希ちゃん。はっははは！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「千早！　あんな冷たく、
+line2 <shift> # 美希を突き放したりして、良かったのか？」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「美希が、黒井社長にダマされているのは、
+line2 <shift> # 明らかじゃないか」
+display
+com11 0 0
+sound 10049
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そうかもしれませんが、美希が、それで納得
+line2 <shift> # しているのなら、私の出る幕ではありません」
+display
+com11 0 0
+sound 10050
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「冷たい言い方に聞こえるでしょうが、私にとっ
+line2 <shift> # て、今、一番大切なのは、美希ではないんです」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「わかってるさ。
+line2 <shift> # 千早にとって大切なもの、それは……」
+com03 0 3
+choice1 <shift> # 歌だろ？
+com09 0 20
+com08
+choice2 <shift> # 友達だろ？
+com09 0 21
+com08
+choice3 <shift> # 俺だろ？
+com09 0 22
+com08
+com07
+com09 0 52
+com08
+display
+location 20
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「歌だろ？」
+display
+com11 0 0
+sound 10051
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そうです。私にとって美希は、
+line2 <shift> # かつての事務所仲間ではありますが……」
+display
+com11 0 0
+sound 10052
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「それでも、歌の頂点の座を、譲る気は、
+line2 <shift> # ありません。譲られたいとも、思いませんし」
+display
+com11 0 0
+sound 10053
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「どんなに親しい仲であっても、いえ、親しい仲
+line2 <shift> # であればこそ、戦う時は、真剣に取り組みたい」
+display
+com11 0 0
+sound 10054
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「そういう私の考えは、
+line2 <shift> # 間違っているでしょうか？」
+com09 0 29
+display
+location 21
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「友達だろ？　美希が大切だからこそ、
+line2 <shift> # 厳しい言い方をしたんだ。違うか？」
+display
+com11 0 0
+sound 10055
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「いえ、違います。たとえ、相手が友達であって
+line2 <shift> # も、譲れないものが、私にはある」
+display
+com11 0 0
+sound 10056
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「それが、歌です」
+display
+com11 0 0
+sound 10057
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「歌の頂点の座だけは、絶対に誰にも譲りたくな
+line2 <shift> # い。……こんな考え方は、間違っていますか？」
+com09 0 29
+display
+location 22
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺だろ？」
+display
+com11 0 0
+sound 10058
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「全然違います。私にとって、
+line2 <shift> # 今、一番大切なのは、歌です」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # （うう。キッパリ言い切られてしまった……）
+display
+com11 0 0
+sound 10059
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「美希は、かつての事務所仲間ですが、
+line2 <shift> # その美希にも、歌の頂点の座だけは……」
+display
+com11 0 0
+sound 10060
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「譲ることはできないと思っています。絶対に」
+display
+com11 0 0
+sound 10061
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「誰かに譲れるような場所なら、最初から目指し
+line2 <shift> # はしません。私の考え、間違っていますか？」
+com09 0 29
+display
+location 29
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「いいや。千早の言ってることは、
+line2 <shift> # 正論だと思うよ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「歌の頂点、つまりＩＵ優勝は、友達同士で、な
+line2 <shift> # れあいながら目指せるほど簡単じゃないはずだ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺が悪かったよ。千早は、これまで通り、
+line2 <shift> # わき見せずに、上だけを目指してくれ」
+display
+com11 0 0
+sound 10062
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。わかっていただけて、良かったです。
+line2 <shift> # でも……」
+display
+com11 0 0
+sound 10063
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「あの黒井社長という人、言うことが１から１０
+line2 <shift> # まで間違っていましたね。最悪の指導者です」
+display
+com11 0 0
+sound 10064
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「美希も、冷静になれば、
+line2 <shift> # そのことに気づくと思うのですが……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだと、いいけどな。美希は、千早ほど、
+line2 <shift> # 現実が見えていないから、難しいかもしれない」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「俺は、できるなら、黒井社長にダマされている
+line2 <shift> # 美希の目を、覚まさせてやりたいと思うんだ」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「千早には、迷惑かけないように、するからさ」
+display
+com11 0 0
+sound 10065
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「わかりました。では、そのためにも、
+line2 <shift> # ＩＵで、勝ち続けなければいけませんね」
+display
+com11 0 0
+sound 10066
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「美希もＩＵに参加していますから、
+line2 <shift> # 私が勝ち残っている限りは……」
+display
+com11 0 0
+sound 10067
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「美希と会って話す機会には、
+line2 <shift> # 困らないと思います」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「そうだな。今の美希は、９６１プロの強力な
+line2 <shift> # 後押しで、常に、俺達より少し先にいる」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「この力関係を逆転させないと、美希も、
+line2 <shift> # 素直に話を、きいてくれないだろうから……」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「千早、頑張って勝ってくれ！
+line2 <shift> # もちろん、俺も全力でサポートするから」
+display
+com11 0 0
+sound 10068
+com4c 0 1
+name 0 0 <names:2>  # Chihaya
+line1 <shift> # 「はい。次の予選も、必ず勝ちます。
+line2 <shift> # プロデューサー、厳しく指導して下さい！」
+display
+name 0 1 <names:1>  # Protagonist
+line1 <shift> # 「ああ、わかった！　ま、でも今日は、
+line2 <shift> # 一勝したことだし、いったん事務所へ帰ろう」
+com09 0 99
+display
+location 99
+unk02
